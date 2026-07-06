@@ -125,7 +125,8 @@ def fetch_googlenews(feed_cfg):
             it["title"], it["source"] = m.group(1).strip(), m.group(2).strip()
         if it["source"].lower().endswith(".com"):
             it["source"] = it["source"][:-4]
-    return items
+    # descartar entradas sin título real (portadas, páginas de registro)
+    return [it for it in items if len(it["title"]) >= 15]
 
 
 def fetch_pubmed(feed_cfg, max_age_days):

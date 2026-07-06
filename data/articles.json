@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-06T21:52:38.963533+00:00",
+ "generated_at": "2026-07-06T23:34:05.973705+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -89,6 +89,14 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Boca vs. Athletico Paranaense, por un amistoso: hora, cómo ver y probables formaciones",
+     "link": "https://www.ole.com.ar/futbol-primera/boca-vs-athletico-paranaense-amistoso-hora-ver-horario-tv-formaciones_0_zVQmWa2lGk.html",
+     "source": "Olé — Primera",
+     "published": "2026-07-06T21:57:44+00:00",
+     "copete": "El Xeneize disputa su primer encuentro televisado desde la llegada de Arruabarrena: enfrentará al equipo brasileño en Salta. Acá, todos los detalles del partido.",
+     "id": "c14aadaa7044"
+    },
+    {
      "title": "Los Pumas ya están en San Juan: cómo será la semana para buscar la recuperación ante Gales",
      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObmE3LUcxSU1ibVNEQkdNZlJGLVFHU0dCdWNoSWhzdmtraGpUQXJpbE5MbGZxeU5mVmN4UXI3TThuTjNpaElEN2ZhcVY5dDh1RTk5el9Lek9sbzc0dVcySWNwTTlzNkc4VkQ5dVpZXzVwcl9id1Bvek1uTEllai1ZbFRua09mdkJrbFVTRU8wQTZva0tXNnN3YlZaWXM3T3F2bmpKNVZVdHFxaHBPN2dFNHFTOGlVemE0aUs4N0tiM0dYNF9i?oc=5",
      "source": "ESPN Argentina",
@@ -158,14 +166,6 @@
      "id": "88f44bc9a536"
     },
     {
-     "title": "Kranevitter dio el primer paso: cuándo se suma al plantel de  Racing y su primer mensaje",
-     "link": "https://www.ole.com.ar/racing/racing-kranevitter-refuerzo_0_1yA71QSTJ1.html",
-     "source": "Olé — Primera",
-     "published": "2026-07-06T15:53:43+00:00",
-     "copete": "El volante central ex River aprobó la revisión médica este lunes, firmó contrato por un año con la Academia y espera para incorporarse a las prácticas del equipo.",
-     "id": "4f797e11d360"
-    },
-    {
      "title": "Otamendi también piensa en River: la historia con guiño que subió",
      "link": "https://www.ole.com.ar/river-plate/river-nicolas-otamendi-historia-instagram-hincha-posteo-seleccion-mundial-refuerzo_0_HrjxVtcNw3.html",
      "source": "Olé — River",
@@ -196,6 +196,13 @@
    "title": "Ciencia de datos e IA",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Python 3.14 compiled to metal – no interpreter",
+     "link": "https://github.com/can1357/pon",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-06T19:40:22+00:00",
+     "id": "1d520b46d00e"
+    },
     {
      "title": "CoMaps – FOSS Offline Maps",
      "link": "https://www.comaps.app/",
@@ -240,13 +247,6 @@
      "id": "148f2cc4c65b"
     },
     {
-     "title": "Kani: A Model Checker for Rust",
-     "link": "https://arxiv.org/abs/2607.01504",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-06T15:53:24+00:00",
-     "id": "3719e89d61dc"
-    },
-    {
      "title": "How to Run End-to-End Tests with Claude Code",
      "link": "https://towardsdatascience.com/how-to-run-end-to-end-tests-with-claude-code/",
      "source": "Towards Data Science",
@@ -278,100 +278,100 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "La figura de Estados Unidos que decidió ser jugador tras ver un partido del fútbol argentino: “Fue realmente emocionante”",
+     "link": "https://www.lanacion.com.ar/deportes/la-figura-de-estados-unidos-que-decidio-ser-jugador-tras-ver-un-partido-del-futbol-argentino-fue-nid06072026/",
+     "source": "La Nación",
+     "published": "2026-07-06T23:30:00+00:00",
+     "copete": "Chris Richards, el pilar defensivo de la selección estadounidense, reveló que un violento pero apasionante duelo en Buenos Aires fue el disparador para abandonar el básquet y dedicarse profesionalmente al fútbol",
+     "id": "09f8b26c5162"
+    },
+    {
+     "title": "El podcast de Ricardo Lorenzetti: ¿quién responde por los daños de la inteligencia artificial?",
+     "link": "https://www.infobae.com/noticias/2026/07/06/el-podcast-de-ricardo-lorenzetti-quien-responde-por-los-danos-de-la-inteligencia-artificial/",
+     "source": "Infobae",
+     "published": "2026-07-06T23:27:55+00:00",
+     "copete": "Cuando un algoritmo discrimina, un sistema automatizado falla o una plataforma utiliza nuestros datos para manipular decisiones: ¿quién es el responsable? El episodio explora las nuevas formas de responsabilidad civil, la protección de los…",
+     "id": "dfadeed88219"
+    },
+    {
+     "title": "Estados Unidos vs. Bélgica, EN VIVO por el Mundial 2026: hora, TV y las formaciones",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/estados-unidos-vs-belgica-en-vivo-por-el-mundial-2026-nid06072026/",
+     "source": "La Nación",
+     "published": "2026-07-06T23:27:27+00:00",
+     "copete": "El partido se juega en el Seattle Stadium, y el ganador se enfrentará en los cuartos con España, que eliminó a Portugal",
+     "id": "e066422f648f"
+    },
+    {
+     "title": "España tiene más que un equipo para sostener su chapa de candidato en el Mundial",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/espana-tiene-mas-que-un-equipo-para-sostener-su-chapa-de-candidato-en-el-mundial-nid06072026/",
+     "source": "La Nación",
+     "published": "2026-07-06T23:25:13+00:00",
+     "copete": "Fue superior y venció 1-0 a Portugal con un gol a los 45 minutos de Mikel Merino, que había ingresado desde el banco",
+     "id": "b09871f80e01"
+    },
+    {
+     "title": "Puerto Madryn: imputaron por homicidio culposo a un instructor de buceo en la causa por la muerte de Sofía Devries",
+     "link": "https://www.lanacion.com.ar/sociedad/puerto-madryn-imputaron-por-homicidio-culposo-a-un-instructor-de-buceo-por-la-muerte-de-sofia-nid06072026/",
+     "source": "La Nación",
+     "published": "2026-07-06T23:24:06+00:00",
+     "copete": "La Fiscalía sostiene que la conducta atribuida al guía habría sido contraria a los protocolos de seguridad y a las normas que regulan la actividad",
+     "id": "bcb6f21e42eb"
+    },
+    {
+     "title": "Juicio por el crimen de “Lechuga” Pérez Algaba, el empresario descuartizado: declararon culpables a Pilepich, Vargas y Gil",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/07/06/juicio-por-el-crimen-del-lechuga-perez-algaba-declararon-culpables-a-pilepich-vargas-y-gil/",
+     "source": "Infobae",
+     "published": "2026-07-06T23:23:42+00:00",
+     "copete": "Lo decidió un jurado popular. Los 12 miembros fallaron por unanimidad contra los tres implicados en el crimen perpetrado hace casi tres años en Ingeniero Budge",
+     "id": "c787b73808dd"
+    },
+    {
+     "title": "Tití Fernández elogió el trabajo de la Selección y explicó por qué decidió no viajar al Mundial",
+     "link": "https://www.infobae.com/deportes/2026/07/06/titi-fernandez-elogio-el-trabajo-de-la-seleccion-y-explico-por-que-decidio-no-viajar-al-mundial/",
+     "source": "Infobae",
+     "published": "2026-07-06T23:23:14+00:00",
+     "copete": "En una entrevista con Infobae al Regreso, el histórico periodista también cuestionó el formato del torneo local, analizó el presente del equipo de Lionel Scaloni y repasó más de cuatro décadas de carrera",
+     "id": "08a77c55a5da"
+    },
+    {
+     "title": "Yanina Latorre contó cuál es el nuevo trabajo de Mauro Icardi fuera del fútbol: “Entiendo tus nervios”",
+     "link": "https://www.infobae.com/teleshow/2026/07/06/yanina-latorre-conto-cual-es-el-nuevo-trabajo-de-mauro-icardi-fuera-del-futbol-entiendo-tus-nervios/",
+     "source": "Infobae",
+     "published": "2026-07-06T23:22:26+00:00",
+     "copete": "La conductora de SQP dio detalles del contrato laboral que el futbolista consiguió para poder salir del país, en medio de su conflicto judicial con Wanda Nara. Cuánto ganaría por su contrato",
+     "id": "0f21a6a28fcf"
+    },
+    {
+     "title": "El gobernador de Tucumán decretó asueto para ver el partido de Argentina frente a Egipto este martes",
+     "link": "https://www.infobae.com/politica/2026/07/06/el-gobernador-de-tucuman-decreto-asueto-para-ver-el-partido-de-argentina-frente-a-egipto-este-martes/",
+     "source": "Infobae",
+     "published": "2026-07-06T23:18:47+00:00",
+     "copete": "Por un decreto de Osvaldo Jaldo, desde las 12 los empleados de la administración pública podrán retirarse de sus trabajos para seguir el cruce por los octavos de final del Mundial. La medida incluye a las escuelas",
+     "id": "a4f746da6f6b"
+    },
+    {
      "title": "Javier Milei y sus medidas, en vivo: el plan para pagar la deuda hasta 2027 y la reforma electoral",
      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-plan-para-pagar-la-deuda-hasta-2027-y-la-reforma-electoral-nid06072026/",
      "source": "La Nación",
-     "published": "2026-07-06T21:51:18+00:00",
+     "published": "2026-07-06T23:18:13+00:00",
      "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
      "id": "cef2d5cca06d"
     },
     {
-     "title": "Los Pumitas, frente a Inglaterra, en busca del pase a las semifinales del Mundial Sub 20",
-     "link": "https://www.lanacion.com.ar/deportes/rugby/los-pumitas-frente-a-inglaterra-en-busca-del-pase-a-las-semifinales-del-mundial-sub-20-nid06072026/",
-     "source": "La Nación",
-     "published": "2026-07-06T21:50:52+00:00",
-     "copete": "Juegan desde las 8.30 en Georgia; Argentina apuntará a",
-     "id": "e607dc8504fc"
-    },
-    {
-     "title": "Muerte del instructor de vuelo: la principal hipótesis que analiza la Justicia de Córdoba",
-     "link": "https://www.lanacion.com.ar/sociedad/muerte-del-instructor-de-vuelo-la-principal-hipotesis-que-analiza-la-justicia-de-cordoba-nid06072026/",
-     "source": "La Nación",
-     "published": "2026-07-06T21:50:34+00:00",
-     "copete": "La causa está en manos de la fiscal provincial Patricia Baulies; la familia de Leandro Andrés Bertazzo comentó que atravesaba “un mal momento”",
-     "id": "f9f1d0c9ddc6"
-    },
-    {
-     "title": "Las consultoras que releva el BCRA proyectaron una inflación de 2% para junio: qué prevén para este mes",
-     "link": "https://www.infobae.com/economia/2026/07/06/las-consultoras-que-releva-el-bcra-proyectaron-una-inflacion-de-2-para-junio-que-preven-para-este-mes/",
-     "source": "Infobae",
-     "published": "2026-07-06T21:50:04+00:00",
-     "copete": "El último Relevamiento de Expectativas de Mercado (REM) pronosticó una desaceleración de la dinámica de precios en los próximos meses. Qué anticipan para el dólar, la actividad y el empleo",
-     "id": "46a826894323"
-    },
-    {
-     "title": "Lionel Scaloni habla en conferencia de prensa, EN VIVO: el análisis antes del duelo entre Argentina y Egipto por el Mundial 2026",
-     "link": "https://www.infobae.com/deportes/2026/07/06/lionel-scaloni-habla-en-conferencia-de-prensa-en-vivo-el-analisis-antes-del-duelo-entre-argentina-y-egipto-por-el-mundial-2026/",
-     "source": "Infobae",
-     "published": "2026-07-06T21:49:51+00:00",
-     "copete": "El entrenador dialoga con los medios antes del partido por los octavos de final en Atlanta",
-     "id": "7c338306f78d"
-    },
-    {
-     "title": "Egipto se apoya en el antecedente de Cabo Verde para complicar a la selección argentina: “No le tenemos miedo a nadie”",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/egipto-se-apoya-en-el-antecedente-de-cabo-verde-para-complicar-a-la-seleccion-argentina-no-le-nid06072026/",
-     "source": "La Nación",
-     "published": "2026-07-06T21:48:59+00:00",
-     "copete": "La selección africana llega confiada al cruce de octavos tras su histórica campaña y cree que el sufrido triunfo albiceleste frente a los “Tiburones Azules” demuestra que el campeón del mundo también puede ser vulnerado",
-     "id": "e326f19a69c2"
-    },
-    {
-     "title": "Dieta mediterránea: cómo impacta en el bienestar psicológico de los mayores de 50 años",
-     "link": "https://www.infobae.com/salud/ciencia/2026/07/06/dieta-mediterranea-como-impacta-en-el-bienestar-psicologico-de-los-mayores-de-50-anos/",
-     "source": "Infobae",
-     "published": "2026-07-06T21:47:54+00:00",
-     "copete": "Una investigación realizada en Inglaterra analizó los hábitos alimentarios de más de 3.200 personas y reveló nuevos datos",
-     "id": "29295ffc19be"
-    },
-    {
-     "title": "La Justicia relevó los vestidores de Insaurralde y Cirio para comprobar en qué propiedad estaban los dólares",
-     "link": "https://www.lanacion.com.ar/politica/la-justicia-relevo-vestidores-de-insaurralde-y-cirio-para-comprobar-en-que-propiedad-estaban-los-nid06072026/",
-     "source": "La Nación",
-     "published": "2026-07-06T21:47:38+00:00",
-     "copete": "Se realizaron inspecciones oculares en un departamento de Palermo y una casa en un country de San Vicente; los abogados de la modelo pusieron en duda que ella haya grabado los videos en los que se muestra el dinero acumulado",
-     "id": "85f9a8125dcc"
-    },
-    {
-     "title": "Detestaba las agujas, su hermano lo convenció de donar sangre y 46 años después es récord Guinness",
-     "link": "https://www.infobae.com/virales/2026/07/06/detestaba-las-agujas-su-hermano-lo-convencio-de-donar-sangre-y-46-anos-despues-es-record-guinness/",
-     "source": "Infobae",
-     "published": "2026-07-06T21:46:09+00:00",
-     "copete": "Dan Ryan, de 69 años, superó los 113 litros entregados a la Cruz Roja Estadounidense desde 1980, un hábito que empezó con una broma familiar y que su nieta de 20 años ya quiere heredar",
-     "id": "1def9428a436"
-    },
-    {
-     "title": "El gesto de Lamine Yamal con Cristiano Ronaldo, quien rompió en llanto tras la eliminación de Portugal del Mundial 2026",
-     "link": "https://www.infobae.com/deportes/2026/07/06/el-gesto-de-lamine-yamal-con-cristiano-ronaldo-quien-rompio-en-llanto-tras-la-eliminacion-de-portugal-del-mundial-2026/",
-     "source": "Infobae",
-     "published": "2026-07-06T21:46:07+00:00",
-     "copete": "El emblema lusitano se despidió de la Copa del Mundo luego de la derrota ante España",
-     "id": "06e632bd0517"
-    },
-    {
-     "title": "El llanto de Cristiano Ronaldo tras la eliminación de Portugal: cómo fueron los últimos minutos de CR7 en Mundiales",
-     "link": "https://www.clarin.com/deportes/llanto-cristiano-ronaldo-eliminacion-portugal-ultimos-minutos-cr7-mundial_0_0cFD7o6td7.html",
+     "title": "Los productores musicales coinciden: un clásico del rock de 1986 se volvió el \"video más reproducido en la historia de MTV\" y es considerado un himno atemporal del pop",
+     "link": "https://www.clarin.com/estados-unidos/productores-musicales-coinciden-clasico-rock-1986-volvio-video-reproducido-historia-mtv-considerado-himno-atemporal-pop_0_8wgLwmmkQ6.html",
      "source": "Clarín",
-     "published": "2026-07-06T21:23:34+00:00",
-     "copete": "Portugal quedó eliminada a manos de España en octavos de final. A sus 41 años, Cristiano Ronaldo jugó todo el partido y se despidió entre lágrimas.",
-     "id": "8959e3e14289"
+     "published": "2026-07-06T22:50:12+00:00",
+     "copete": "El tema invita a romper barreras emocionales y el video fue premiado por utilizar distintas técnicas y un estilo novedoso.",
+     "id": "81953852f598"
     },
     {
-     "title": "Indagan a José Luis Espert en la causa por lavado de dinero de “Fred Machado”",
-     "link": "https://www.clarin.com/politica/indagan-jose-luis-espert-causa-lavado-dinero-fred-machado_0_y3x4yXbFIg.html",
+     "title": "Giannis Antetokounmpo reconoce el temor de cambiar de equipo por 1ra vez en la NBA",
+     "link": "https://www.clarin.com/estados-unidos/giannis-antetokounmpo-reconoce-el-temor-de-cambiar-de-equipo-por-1ra-vez-en-la-nba_0_jVKnzWQGjg.html",
      "source": "Clarín",
-     "published": "2026-07-06T21:22:53+00:00",
-     "copete": "El ex diputado nacional tiene que presentarse este martes a las 10:30 horas en la justicia federal de San Isidro. La imputación sostiene que recibió 200 mil dólares de un contrato simulado con los que compró autos de alta gama y creó un…",
-     "id": "05e72be60739"
+     "published": "2026-07-06T22:40:05+00:00",
+     "copete": "El cambio de equipo de un destacado jugador de baloncesto genera emociones encontradas tras su larga y exitosa carrera en Wisconsin. Su salida deja una huella imborrable en la ciudad, mientras reflexiona sobre el crecimiento personal y…",
+     "id": "898c1e3bf399"
     }
    ]
   },
@@ -380,6 +380,30 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Why a Diljit Dosanjh film vanished from streaming after two days",
+     "link": "https://www.bbc.co.uk/news/articles/cly99z1w4gdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-06T22:06:29+00:00",
+     "copete": "The film's troubled journey spans years of censorship disputes, court battles and an unexpected release on a streaming platform.",
+     "id": "91213a69ab4d"
+    },
+    {
+     "title": "Can China repeat its EV success with robotaxis?",
+     "link": "https://www.bbc.co.uk/news/articles/cvgl8dlxjd3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-06T22:01:07+00:00",
+     "copete": "China's self-driving car firms have been given a headstart by the country's EV supply chain as they expand globally.",
+     "id": "ee8f93ecd6ea"
+    },
+    {
+     "title": "\"Una mujer despreciable e indigna\": Mbappé condena los mensajes racistas de una senadora paraguaya",
+     "link": "https://www.bbc.com/mundo/articles/cgrkk8dj4kvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-06T21:54:27+00:00",
+     "copete": "El delantero francés criticó a la legisladora Celeste Amarilla, después de que ella se burlara del origen y la educación del futbolista.",
+     "id": "e5457b86ed9f"
+    },
     {
      "title": "5 cosas que quizás no sabías de Erling Haaland, el líder del remo vikingo que llevó a Noruega a hacer historia en el Mundial",
      "link": "https://www.bbc.com/mundo/articles/cx2335e6e38o?at_medium=RSS&at_campaign=rss",
@@ -403,22 +427,6 @@
      "published": "2026-07-06T19:06:34+00:00",
      "copete": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
      "id": "7ddb61f26ab4"
-    },
-    {
-     "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
-     "link": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-06T19:06:26+00:00",
-     "copete": "Tyler Robinson, 23, is accused of murdering Kirk, a key Trump ally and founder of youth organisation Turning Point USA.",
-     "id": "00cd25644be0"
-    },
-    {
-     "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
-     "link": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-06T18:50:44+00:00",
-     "copete": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
-     "id": "8e1f06b81468"
     },
     {
      "title": "Un policía de fronteras de Israel lanza una granada aturdidora dentro de un coche con palestinos",
@@ -451,14 +459,6 @@
      "published": "2026-07-06T15:39:00+00:00",
      "copete": "Stale Solbakken sufrió un infarto en 2001 que lo tuvo \"clínicamente muerto\". Pero se recuperó y llevó a su país al \"mejor momento de su historia futbolística\".",
      "id": "eee7e40ff5b2"
-    },
-    {
-     "title": "\"Nunca había visto a mi país sufrir así\": cómo me impactó regresar a La Guaira, el lugar en el que nací que ahora está devastado",
-     "link": "https://www.bbc.com/mundo/articles/ceqdvrejn1vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-06T14:21:06+00:00",
-     "copete": "Desde La Guaira, el reportero de BBC Mundo Norberto Paredes describe la magnitud de la destrucción tras dos terremotos que transformaron su ciudad natal en cuestión de segundos.",
-     "id": "aa8defa890f7"
     }
    ]
   }

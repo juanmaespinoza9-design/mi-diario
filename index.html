@@ -122,6 +122,27 @@
   .resumen { font-size: 0.95rem; color: var(--ink-soft); margin-top: 0.35rem; font-style: normal; }
   .resumen::before { content: "— "; color: var(--accent); }
 
+  /* Análisis tipo trial-digest (desplegable) */
+  details.analisis { margin-top: 0.5rem; }
+  details.analisis summary {
+    cursor: pointer; list-style: none; display: inline-block;
+    font-family: Inter, sans-serif; font-size: 0.7rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.12em; color: var(--navy);
+    border: 1px solid var(--rule); border-radius: 99px; padding: 0.25rem 0.75rem;
+  }
+  details.analisis summary::-webkit-details-marker { display: none; }
+  details.analisis summary::before { content: "▸ "; color: var(--accent); }
+  details.analisis[open] summary::before { content: "▾ "; }
+  details.analisis[open] summary { background: var(--card); }
+  .analisis-body {
+    margin-top: 0.6rem; padding: 0.8rem 1rem;
+    background: var(--card); border-left: 3px solid var(--navy); border-radius: 3px;
+    font-size: 0.92rem; color: var(--ink-soft);
+  }
+  .analisis-body p { margin: 0 0 0.5rem; }
+  .analisis-body p:last-child { margin-bottom: 0; }
+  .analisis-body b { color: var(--ink); font-family: Inter, sans-serif; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.08em; }
+
   /* Destacado del curador */
   article.destacado {
     background: var(--card); border: 1px solid var(--rule);
@@ -243,7 +264,16 @@
           '<div class="meta"><span class="src">' + esc(it.source) + "</span><span>" + haceCuanto(it.published) + "</span>" +
           (esNuevo && !readSet.has(it.id) ? '<span class="badge-new">Nuevo</span>' : "") + "</div>" +
           '<h3><a href="' + esc(it.link) + '" target="_blank" rel="noopener">' + esc(it.title) + "</a></h3>" +
-          (cur && cur.resumen ? '<p class="resumen">' + esc(cur.resumen) + "</p>" : "");
+          (cur && cur.resumen ? '<p class="resumen">' + esc(cur.resumen) + "</p>" : "") +
+          (cur && cur.analisis
+            ? '<details class="analisis"><summary>Leer el análisis del estudio</summary><div class="analisis-body">' +
+              cur.analisis.split("\n").filter(Boolean).map(lin => {
+                const i2 = lin.indexOf(":");
+                return i2 > 0 && i2 < 30
+                  ? "<p><b>" + esc(lin.slice(0, i2)) + ":</b> " + esc(lin.slice(i2 + 1).trim()) + "</p>"
+                  : "<p>" + esc(lin) + "</p>";
+              }).join("") + "</div></details>"
+            : "");
         art.querySelector("a").addEventListener("click", () => {
           readSet.add(it.id); saveRead(); art.classList.add("leido");
         });

@@ -1,17 +1,30 @@
 {
-  "generated_at": "2026-07-06T19:36:19Z",
+  "generated_at": "2026-07-06T19:43:09Z",
   "summaries": {
-    "a4b21d851687": {
-      "resumen": "Nota breve de TCTMD, portal especializado en cardiología intervencionista, cuyo título llegó incompleto en la fuente original ('- TCTMD.com'), por lo que no se puede precisar el tema tratado sin inventar contenido. Conviene revisarla directamente en TCTMD.com para conocer de qué se trata.",
+    "110542886dd7": {
+      "resumen": "Ensayo clínico que evaluó si una estrategia de restricción de oxígeno (apuntar a saturaciones más conservadoras que las habituales) en pacientes reanimados tras un paro cardíaco mejora los resultados neurológicos o la supervivencia, comparada con el manejo convencional. Interesa porque el manejo del oxígeno post paro cardíaco —evitar tanto la hipoxia como la hiperoxia— sigue siendo un punto debatido en las guías de reanimación.",
+      "destacado": true,
+      "analisis": "Diseño: Por el título se infiere un ensayo clínico aleatorizado que comparó una estrategia de restricción de oxígeno (oxigenoterapia conservadora) frente al manejo estándar en pacientes post paro cardíaco; no se cuenta con el abstract para precisar número de centros, tamaño muestral ni si fue ciego.\nPoblación: Pacientes adultos reanimados de un paro cardiorrespiratorio, presumiblemente con retorno de circulación espontánea y en estado comatoso, población típica de los ensayos de manejo post paro.\nIntervención: Estrategia de restricción de oxígeno (target de saturación más bajo o normoxia estricta) frente a la estrategia de oxigenación estándar o liberal.\nResultados: El título indica que no se observó beneficio neuroprotector ni de supervivencia con la restricción de oxígeno frente al manejo estándar; no hay razones de riesgo, intervalos de confianza ni valores de p disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño muestral, la potencia estadística, el cegamiento ni la generalización a distintos escenarios de paro (intrahospitalario vs. extrahospitalario).\nMensaje: Resultado negativo que, de confirmarse en el trabajo completo, no respaldaría cambiar la práctica actual de targets de oxigenación tras el paro cardíaco.\nNota: análisis sin acceso al abstract."
+    },
+    "e38bb53289c2": {
+      "resumen": "Nota liviana de TCTMD donde becarios (fellows) de cardiología intervencionista cuentan qué música eligen para el laboratorio de hemodinamia (cath lab), de Bad Bunny a Phil Collins. Es una nota de color sobre la cultura del equipo de cateterismo, sin contenido clínico.",
       "destacado": false
     },
     "2b4474a5c863": {
       "resumen": "STUN-AF es un estudio que evalúa si realizar una ablación por catéter de la fibrilación auricular antes de un cierre percutáneo de la orejuela auricular izquierda (LAAO, Left Atrial Appendage Occlusion) reduce las fugas peridispositivo (peridevice leaks), una complicación frecuente que puede aumentar el riesgo trombótico. Interesa porque el cierre de orejuela se usa cada vez más en pacientes con fibrilación auricular que no toleran anticoagulación crónica.",
-      "destacado": true,
+      "destacado": false,
       "analisis": "Diseño: No se dispone del abstract; por el título se infiere un estudio (probablemente un registro o serie comparativa, no queda claro si aleatorizado) que compara pacientes con y sin ablación de fibrilación auricular previa al implante de un dispositivo de oclusión de la orejuela auricular izquierda (LAAO).\nPoblación: Pacientes con fibrilación auricular candidatos a cierre percutáneo de la orejuela izquierda, típicamente con contraindicación para anticoagulación crónica.\nIntervención: Ablación por catéter de la fibrilación auricular antes del implante del dispositivo de LAAO, comparada con el implante sin ablación previa.\nResultados: No disponibles sin el abstract; el título sugiere una posible reducción de fugas peridispositivo con la estrategia de ablación previa, pero no hay cifras verificables.\nLimitaciones: Sin abstract no se puede evaluar el tamaño muestral, si hubo aleatorización o cegamiento, ni la significancia estadística de los hallazgos.\nMensaje: Podría sumar evidencia a favor de secuenciar la ablación antes del LAAO para minimizar fugas peridispositivo, pero se necesita el trabajo completo antes de considerar un cambio de práctica.\nNota: análisis sin acceso al abstract."
     },
     "03deff6606bc": {
       "resumen": "Entrevista/podcast de la serie 'On Record' de TCTMD sobre el momento óptimo (timing) para realizar una intervención coronaria percutánea (PCI, Percutaneous Coronary Intervention) en pacientes que también requieren un implante valvular aórtico transcatéter (TAVI, Transcatheter Aortic Valve Implantation). Es un tema frecuente en cardiología intervencionista, dado que muchos pacientes con estenosis aórtica severa tienen enfermedad coronaria concomitante.",
+      "destacado": false
+    },
+    "4ac6247c3e0a": {
+      "resumen": "Artículo de The New England Journal of Medicine sobre la evaluación fisiológica de la enfermedad coronaria: repasa las herramientas invasivas y no invasivas —como la reserva de flujo fraccional (FFR, Fractional Flow Reserve) y el índice diastólico instantáneo sin ondas (iFR, instantaneous wave-free ratio)— que ayudan a decidir si una lesión coronaria amerita revascularización más allá de lo que muestra la angiografía. Es una puesta al día de referencia para la práctica diaria en el laboratorio de hemodinamia.",
+      "destacado": false
+    },
+    "16156f7d0d44": {
+      "resumen": "Cobertura de TCTMD sobre el segundo documento de definición universal de insuficiencia cardíaca (el mismo consenso de AHA, ACC, ESC y WHF resumido en JACC), que pone el foco en clasificar la insuficiencia cardíaca según fenotipos y etiología en lugar de basarse solo en la fracción de eyección. Sirve como resumen rápido de un cambio conceptual importante en cómo se nombra y clasifica la enfermedad.",
       "destacado": false
     },
     "de27575ef365": {
@@ -21,6 +34,11 @@
     "b24e7048d17e": {
       "resumen": "Ensayo publicado en JACC (Journal of the American College of Cardiology) sobre lecciones de liderazgo a partir de la trayectoria de Eugene Braunwald, uno de los cardiólogos más influyentes del siglo XX. No aporta datos clínicos sino una reflexión sobre mentoría y conducción de equipos académicos, de interés para quien lidera una residencia.",
       "destacado": false
+    },
+    "40c3102528a0": {
+      "resumen": "El sitio Cardiology Trials repasa el ensayo SAFIRE-D, un estudio clásico que evaluó distintas dosis de dofetilide para la cardioversión farmacológica y el mantenimiento del ritmo sinusal en pacientes con fibrilación auricular o aleteo auricular. Interesa porque el dofetilide sigue siendo una opción antiarrítmica de uso hospitalario por su riesgo de prolongar el intervalo QT.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado, doble ciego y controlado con placebo, con diseño de búsqueda de dosis (dose-ranging), multicéntrico según lo reportado históricamente para el estudio SAFIRE-D.\nPoblación: Pacientes con fibrilación auricular o aleteo auricular sintomáticos, candidatos a cardioversión farmacológica y a mantenimiento posterior del ritmo sinusal.\nIntervención: Dofetilide oral en distintas dosis, comparado con placebo, evaluando tanto la conversión a ritmo sinusal como su mantenimiento durante el seguimiento.\nResultados: No se dispone del abstract original en esta corrida para citar las cifras de conversión o las tasas de mantenimiento por dosis; la reseña de Cardiology Trials remarca una relación dosis-dependiente del efecto.\nLimitaciones: Sin abstract no se puede precisar el tamaño muestral, la duración del seguimiento ni la incidencia de proarritmia (torsade de pointes) asociada a las dosis más altas, un riesgo conocido del fármaco.\nMensaje: Refuerza que el dofetilide es eficaz para la cardioversión y el mantenimiento del ritmo sinusal de forma dosis-dependiente, pero exige monitoreo estrecho del intervalo QT por el riesgo de arritmia ventricular.\nNota: análisis sin acceso al abstract."
     },
     "d450ad886565": {
       "resumen": "Documento de consenso 2026 del Colegio Americano de Cardiología (ACC, American College of Cardiology) que actualiza las recomendaciones sobre terapia antiplaquetaria (antiagregantes) en la enfermedad cardiovascular aterosclerótica. Condensa la evidencia sobre duración y combinación de antiagregantes (aspirina, inhibidores P2Y12) en distintos escenarios clínicos, útil como referencia rápida de práctica.",
@@ -34,6 +52,38 @@
       "resumen": "Segundo documento de consenso internacional de las sociedades AHA, ACC, ESC y WHF (American Heart Association, American College of Cardiology, European Society of Cardiology y World Heart Federation) que actualiza la definición universal de insuficiencia cardíaca, unificando criterios diagnósticos y de clasificación usados a nivel mundial.",
       "destacado": false
     },
+    "d8fcc4a1be8a": {
+      "resumen": "Ficha técnica del OpenWrt One, un router de hardware abierto (open hardware) pensado para correr firmware personalizado. Le puede servir a un médico que arma sus propios proyectos de análisis de datos como base para montar un servidor casero (home lab) donde alojar herramientas de procesamiento de datos o modelos propios.",
+      "destacado": false
+    },
+    "5c74d7acd797": {
+      "resumen": "Anuncio en el foro r/datascience de un nuevo libro que enseña a construir un modelo de razonamiento (reasoning model) desde cero. Es útil para quien quiere entender, paso a paso, cómo funcionan por dentro los modelos de lenguaje que hoy se usan como asistentes, en lugar de solo consumirlos como caja negra.",
+      "destacado": false
+    },
+    "3bba4c1d9df4": {
+      "resumen": "Hilo de discusión en r/datascience sobre si hay que sentirse en desventaja frente a quienes trabajan en ciencia de datos en empresas como FAANG (Facebook, Amazon, Apple, Netflix, Google) u OpenAI. Sirve como contrapeso realista para alguien en transición de carrera: la experiencia clínica y de investigación también cuenta, no solo el prestigio de la empresa.",
+      "destacado": false
+    },
+    "148f2cc4c65b": {
+      "resumen": "Artículo de KDnuggets que describe cómo el rol del científico de datos está virando de construir modelos a gestionar y supervisar sistemas de inteligencia artificial ya entrenados. Le sirve a un médico que se está formando en la disciplina para entender hacia dónde conviene orientar el aprendizaje: no solo programar modelos, sino saber evaluarlos y supervisarlos.",
+      "destacado": false
+    },
+    "ba4e8c0d92b5": {
+      "resumen": "Columna de opinión sobre si el descongestivo DayQuil debería dejar de requerir regulación especial en Estados Unidos. No tiene relación directa con ciencia de datos ni cardiología; aparece en el radar por venir de Hacker News, un agregador de tecnología con secciones misceláneas.",
+      "destacado": false
+    },
+    "b719c88aa7f5": {
+      "resumen": "Reseña de hardware del AMD Ryzen AI Halo, un equipo de desarrollo de unos 4.000 dólares pensado para correr modelos de inteligencia artificial en forma local. Interesa a quien quiere probar modelos de lenguaje o de aprendizaje automático sin depender de la nube, algo relevante si se maneja información sensible de pacientes.",
+      "destacado": false
+    },
+    "78ad7e3f1d1c": {
+      "resumen": "Guía de Towards Data Science sobre cómo correr pruebas de extremo a extremo (end-to-end tests) para verificar que un agente de inteligencia artificial como Claude Code funcione como se espera. Útil para quien empieza a automatizar tareas de análisis de datos con agentes y necesita confiar en que el código que generan sea correcto.",
+      "destacado": false
+    },
+    "57dc69a29952": {
+      "resumen": "Artículo de IEEE Spectrum que explica qué quiso decir originalmente la lingüista Emily Bender con la expresión 'loros estocásticos' (stochastic parrots) para describir a los grandes modelos de lenguaje. Ayuda a entender los límites reales de estas herramientas de inteligencia artificial, algo clave para usarlas con criterio en medicina.",
+      "destacado": false
+    },
     "811f7e9baa1e": {
       "resumen": "Guía introductoria sobre 'ML Intern', una herramienta de Hugging Face que actúa como agente de aprendizaje automático (machine learning) capaz de automatizar tareas de entrenamiento y evaluación de modelos. Le sirve a un médico que se inicia en ciencia de datos porque muestra cómo delegar tareas repetitivas de ML a un agente sin necesitar dominar todo el stack técnico desde el principio.",
       "destacado": false
@@ -41,38 +91,6 @@
     "555b9deda1d3": {
       "resumen": "Artículo técnico sobre cómo validar automáticamente las respuestas de sistemas de generación aumentada por recuperación (RAG, Retrieval-Augmented Generation) antes de mostrarlas al usuario, verificando que cada afirmación esté respaldada por citas textuales (spans y quotes) de las fuentes originales. Es clave para quien trabaja en datos de salud, porque estas técnicas ayudan a construir herramientas de consulta de literatura médica o farmacovigilancia que no inventen información.",
       "destacado": true
-    },
-    "a5708bde73df": {
-      "resumen": "Repasa cinco formas en que los modelos de lenguaje pequeños (Small Language Models, SLM) —más económicos y rápidos que los modelos grandes— se usan para construir agentes de inteligencia artificial. Útil para evaluar costos y viabilidad de implementar IA en entornos con recursos limitados, algo habitual en salud.",
-      "destacado": false
-    },
-    "1ae87180fdaf": {
-      "resumen": "Argumenta que comparar configuraciones de agentes de inteligencia artificial solo por el puntaje promedio esconde variabilidad importante y puede llevar a conclusiones erróneas, y propone métodos estadísticos más robustos para evaluarlos. Refuerza un principio central de la estadística —el promedio solo no alcanza, hay que mirar la distribución y la variabilidad— la misma lógica que aplica al leer resultados de ensayos clínicos.",
-      "destacado": false
-    },
-    "343390c8c5e6": {
-      "resumen": "Noticia sobre el avance del lenguaje de programación Elm hacia su versión 1.0, con foco en tiempos de compilación (builds) más rápidos. Es de interés general para quien programa, aunque menos aplicable de forma directa al análisis de datos médico.",
-      "destacado": false
-    },
-    "e845ca72d18d": {
-      "resumen": "Proyecto que muestra un mapa en tiempo real de la red ferroviaria de Gran Bretaña usando datos abiertos de transporte. Sirve como ejemplo práctico de visualización de datos en tiempo real, útil como inspiración para armar paneles (dashboards) dinámicos.",
-      "destacado": false
-    },
-    "ced949b78ef3": {
-      "resumen": "Nueva versión candidata (4.0rc3) de sqlite-utils, una herramienta de línea de comandos y biblioteca de Python para crear y manipular bases de datos SQLite. Simplifica tareas comunes como importar planillas CSV, crear tablas y hacer consultas, sin necesidad de administrar un motor de base de datos complejo.",
-      "destacado": false
-    },
-    "293927b13f16": {
-      "resumen": "Hilo semanal del foro r/datascience donde quienes están entrando o haciendo la transición hacia carreras en ciencia de datos comparten dudas, recursos y consejos. Es un buen lugar para orientarse, en especial para alguien que —como un médico en transición hacia farmacovigilancia y análisis de datos— busca la experiencia de otros que atravesaron ese mismo cambio de carrera.",
-      "destacado": false
-    },
-    "5f9953f6e7c0": {
-      "resumen": "Relato de un desarrollador (creador de la app de podcasts Castro) sobre por qué su estrategia de generar vínculo con los usuarios a través del soporte técnico no dio los resultados esperados. Es una lección de gestión de producto y expectativas más que una herramienta técnica, útil para pensar cómo comunicar hallazgos o herramientas de datos a usuarios finales.",
-      "destacado": false
-    },
-    "df10d95f0b77": {
-      "resumen": "Anuncio breve, difundido por X/Twitter, de que un nuevo modelo de lenguaje llamado GPT-5.6 Sol Ultra estará disponible dentro de Codex, el asistente de programación de OpenAI. Sirve para seguir de cerca la carrera de modelos de lenguaje grandes (LLM, Large Language Models) que también compiten con las herramientas de inteligencia artificial que un médico-analista podría usar a diario.",
-      "destacado": false
     }
   }
 }

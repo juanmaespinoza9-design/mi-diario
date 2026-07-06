@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T20:30:00Z",
+  "generated_at": "2026-07-06T22:02:14Z",
   "summaries": {
     "110542886dd7": {
       "resumen": "Ensayo clínico que evaluó si una estrategia de restricción de oxígeno (apuntar a saturaciones más conservadoras que las habituales) en pacientes reanimados tras un paro cardíaco mejora los resultados neurológicos o la supervivencia, comparada con el manejo convencional. Interesa porque el manejo del oxígeno post paro cardíaco —evitar tanto la hipoxia como la hiperoxia— sigue siendo un punto debatido en las guías de reanimación.",
@@ -55,14 +55,6 @@
       "resumen": "Artículo de KDnuggets que describe cómo el rol del científico de datos está virando de construir modelos a gestionar y supervisar sistemas de inteligencia artificial ya entrenados. Le sirve a un médico que se está formando en la disciplina para entender hacia dónde conviene orientar el aprendizaje: no solo programar modelos, sino saber evaluarlos y supervisarlos.",
       "destacado": false
     },
-    "ba4e8c0d92b5": {
-      "resumen": "Columna de opinión sobre si el descongestivo DayQuil debería dejar de requerir regulación especial en Estados Unidos. No tiene relación directa con ciencia de datos ni cardiología; aparece en el radar por venir de Hacker News, un agregador de tecnología con secciones misceláneas.",
-      "destacado": false
-    },
-    "b719c88aa7f5": {
-      "resumen": "Reseña de hardware del AMD Ryzen AI Halo, un equipo de desarrollo de unos 4.000 dólares pensado para correr modelos de inteligencia artificial en forma local. Interesa a quien quiere probar modelos de lenguaje o de aprendizaje automático sin depender de la nube, algo relevante si se maneja información sensible de pacientes.",
-      "destacado": false
-    },
     "78ad7e3f1d1c": {
       "resumen": "Guía de Towards Data Science sobre cómo correr pruebas de extremo a extremo (end-to-end tests) para verificar que un agente de inteligencia artificial como Claude Code funcione como se espera. Útil para quien empieza a automatizar tareas de análisis de datos con agentes y necesita confiar en que el código que generan sea correcto.",
       "destacado": false
@@ -80,18 +72,23 @@
       "destacado": false,
       "analisis": "Diseño: Por el título se infiere un estudio (aparentemente un registro o ensayo comparativo, no queda claro si aleatorizado) identificado como SAFER-TAVI; no se cuenta con el abstract para precisar número de centros, tamaño muestral ni cegamiento.\nPoblación: Pacientes sometidos a implante valvular aórtico transcatéter (TAVI) que requieren un acceso vascular secundario para catéter pigtail o monitoreo angiográfico durante el procedimiento.\nIntervención: Uso de la arteria radial como acceso secundario, comparado con el acceso femoral contralateral tradicional.\nResultados: El título sugiere menos problemas en el sitio de acceso secundario con la estrategia radial frente a la femoral; no hay razones de riesgo, intervalos de confianza ni valores de p disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño muestral, la potencia estadística, el diseño exacto (aleatorizado vs. observacional) ni la curva de aprendizaje operador-dependiente del acceso radial.\nMensaje: De confirmarse, respaldaría preferir el acceso radial como abordaje secundario en TAVI para reducir complicaciones vasculares, pero se necesita el trabajo completo antes de cambiar la práctica.\nNota: análisis sin acceso al abstract."
     },
-    "6ff376cd3e8b": {
-      "resumen": "Nota de Xbox (Microsoft) sobre el reinicio o relanzamiento de la marca de consolas, sin relación con ciencia de datos ni inteligencia artificial. Aparece en el radar por venir de Hacker News, un agregador de tecnología con secciones misceláneas, pero no aporta contenido útil para el aprendizaje de análisis de datos.",
-      "destacado": false
-    },
     "6a3352f680a6": {
       "resumen": "Una figura del rugby de Gales anticipó un ambiente hostil y ruidoso de cara al partido ante Los Pumas en San Juan."
     },
-    "9e8dc81b85a9": {
-      "resumen": "Gales llega en gran nivel a su cruce con Los Pumas en San Juan, una señal de alerta para el equipo argentino."
+    "71c9d77bcb80": {
+      "resumen": "CoMaps es una aplicación de mapas offline de código abierto (FOSS, Free and Open Source Software), continuadora de proyectos como Maps.me, que permite navegar sin conexión a internet. Le sirve a un médico que aprende ciencia de datos como ejemplo de alternativa abierta a servicios cerrados de mapas, útil si necesita trabajar con datos geoespaciales o georreferenciar información sin depender de APIs pagas."
     },
-    "62d33f49216a": {
-      "resumen": "Los Pumas volvieron a llenar un estadio en Córdoba, con 34.600 espectadores disfrutando de una nueva fiesta del rugby."
+    "22b32121ee2a": {
+      "resumen": "Publicación de investigación de Anthropic que explora si los modelos de lenguaje (language models) organizan la información de forma parecida a un 'espacio de trabajo global' (global workspace), una teoría tomada de las ciencias cognitivas sobre cómo el cerebro integra y difunde información entre distintos procesos. Le aporta a un médico en formación de datos una mirada de interpretabilidad: entender mejor qué pasa 'adentro' de estos modelos ayuda a usarlos con más criterio y menos como caja negra."
+    },
+    "3719e89d61dc": {
+      "resumen": "Kani es una herramienta de verificación formal (model checker) para el lenguaje de programación Rust, que permite demostrar matemáticamente que un programa no tiene ciertos tipos de errores en lugar de solo testearlo. Le sirve a quien se inicia en análisis de datos y programación para entender que existen técnicas más rigurosas que el testing tradicional para garantizar la corrección de código crítico, algo relevante en pipelines de datos sensibles."
+    },
+    "73c610727184": {
+      "resumen": "Tras la derrota ante Escocia, Los Pumas ya se instalaron en San Juan y arrancan la semana de preparación de cara al partido frente a Gales."
+    },
+    "ecb546144d9d": {
+      "resumen": "A siete años de la histórica final de los Jaguares en el Super Rugby, un repaso por dónde está hoy cada uno de aquellos jugadores."
     }
   }
 }

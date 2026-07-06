@@ -36,7 +36,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "Sin cambios en esta corrida"
           else
-            git pull --rebase origin main
             git commit -m "Titulares $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase origin main
             git push
           fi

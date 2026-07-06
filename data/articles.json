@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-06T18:23:21.131449+00:00",
+ "generated_at": "2026-07-06T19:27:20.464290+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -14,6 +14,13 @@
      "id": "110542886dd7"
     },
     {
+     "title": "From Bad Bunny to Phil Collins: Fellows Share Their Cath Lab Music Choices",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZXhXeUU5MVQwMk1HekJkNVFjdHA2RDhTNFdLSHJ1NFdxRkZCN3JSVklDVHBRal9fRndKdmtzd1ZsUmFmRXg0a1ZxUXFUUjlnTnJ6NHcwcWtlaWx1RGQzYm9OcXQ1N2hIYUVqeG16U3JNeHdoQUZKVFB4SUcxNXJFckJsR1pQN1hQeU1jMkdPTTluWDFtX2J2OTNMN1hEYXVlNUlhUVpUQ0F1SFZTZ0tFMkFDU1hfWkE?oc=5",
+     "source": "TCTMD",
+     "published": "2026-07-06T14:40:12+00:00",
+     "id": "e38bb53289c2"
+    },
+    {
      "title": "- TCTMD.com",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZDU2REVoNV9RRlpfcjdxUFlnQ3E1c3dRWDRjRS1uQTFOTzR3STJnU3ExVlA5eFFwMGhDdThSaUlub1ZkNnNVekRUSFZVT2cwMlE5eDUtS2ZPbTVnYmUtSW45WklhMlZDQTNGRE51Sk5ZT1N0VzA4SEc4dGxFQW5vUkxLYTQteUNQSWpWeFJ2UXVvaUlaZ1Mtdzl0eW5xZEVCQk5mTzJWRHp5a0gxRnc?oc=5",
      "source": "TCTMD",
@@ -21,17 +28,19 @@
      "id": "a4b21d851687"
     },
     {
-     "title": "STUN-AF: Ablation Before LAAO May Reduce Peridevice Leaks",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNW5LeFEtUEpzZ183a0t5ME53czZhVHF3SEI5SzVOSnRtU0ZxbU5xOU5OLV9kNjBQMGhOTFk5Zm1YajZOYlJ0TTJvT0xDUHJpQS1ndjQ2alRiR2VfOFdSYzRzMXRFQ3FTYjloWXZ2a2ZpNXF5dnpRQW1NZ1hKekhVQ2lR?oc=5",
-     "source": "TCTMD",
-     "published": "2026-07-02T17:25:46+00:00",
-     "id": "2b4474a5c863"
+     "title": "Physiological Assessment of Coronary Artery Disease",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42384874/",
+     "source": "NEJM Cardiología",
+     "published": "2026-07-02T00:00:00+00:00",
+     "copete": "Randles A et al. · The New England journal of medicine",
+     "id": "4ac6247c3e0a"
     },
     {
      "title": "Impactful trials on dyslipidaemias, fractional flow reserve, beta-blockers, and peripheral artery disease",
      "link": "https://academic.oup.com/eurheartj/article/47/25/3227/8722107?rss=1",
      "source": "European Heart Journal",
      "published": "2026-07-01T00:00:00+00:00",
+     "copete": "For image description, please refer to the figure legend and surrounding text.",
      "id": "de27575ef365"
     },
     {
@@ -39,13 +48,23 @@
      "link": "https://pubmed.ncbi.nlm.nih.gov/42383940/",
      "source": "JACC",
      "published": "2026-07-01T00:00:00+00:00",
+     "copete": "Mehran R et al. · Journal of the American College of Cardiology",
      "id": "b24e7048d17e"
+    },
+    {
+     "title": "Review of the SAFIRE-D Trial",
+     "link": "https://cardiologytrials.substack.com/p/review-of-the-safire-d-trial",
+     "source": "Cardiology Trials",
+     "published": "2026-06-30T10:02:27+00:00",
+     "copete": "Dose-Dependent Cardioversion and Maintenance of Sinus Rhythm with Dofetilide",
+     "id": "40c3102528a0"
     },
     {
      "title": "Antiplatelet Therapy in the Management of Atherosclerotic Cardiovascular Disease: 2026 ACC Scientific Statement: A Report of the American College of Cardiology",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42377293/",
      "source": "JACC",
      "published": "2026-06-30T00:00:00+00:00",
+     "copete": "Kumbhani DJ et al. · Journal of the American College of Cardiology",
      "id": "d450ad886565"
     },
     {
@@ -53,6 +72,7 @@
      "link": "https://pubmed.ncbi.nlm.nih.gov/42377292/",
      "source": "JACC",
      "published": "2026-06-30T00:00:00+00:00",
+     "copete": "Kumbhani DJ et al. · Journal of the American College of Cardiology",
      "id": "607ee4222e42"
     },
     {
@@ -60,6 +80,7 @@
      "link": "https://pubmed.ncbi.nlm.nih.gov/42370864/",
      "source": "JACC",
      "published": "2026-06-29T00:00:00+00:00",
+     "copete": "Walsh MN et al. · Journal of the American College of Cardiology",
      "id": "4268821e5b6e"
     },
     {
@@ -67,21 +88,16 @@
      "link": "https://pubmed.ncbi.nlm.nih.gov/42360276/",
      "source": "Circulation",
      "published": "2026-06-26T00:00:00+00:00",
+     "copete": "Lindman BR et al. · Circulation",
      "id": "711995395c7c"
     },
     {
-     "title": "Heart Failure Occurring in the Perinatal Period: A Scientific Statement From the American Heart Association",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42339539/",
-     "source": "Circulation",
-     "published": "2026-06-24T00:00:00+00:00",
-     "id": "5441261bdce8"
-    },
-    {
-     "title": "Correction to: 2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Dyslipidemia: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42330109/",
-     "source": "Circulation",
-     "published": "2026-06-23T00:00:00+00:00",
-     "id": "8c38ddc82819"
+     "title": "Review of the DIAMOND-CHF Trial",
+     "link": "https://cardiologytrials.substack.com/p/review-of-the-diamond-chf-trial",
+     "source": "Cardiology Trials",
+     "published": "2026-06-25T10:02:17+00:00",
+     "copete": "Dofetilide in Patients with Systolic Heart Failure",
+     "id": "0b8f354a6d02"
     }
    ]
   },
@@ -90,6 +106,46 @@
    "title": "Deportes",
    "mode": "titulares",
    "items": [
+    {
+     "title": "¿Puede Pochettino convertir a Estados Unidos en la...",
+     "link": "https://www.espn.com.ar/futbol/mundial/nota/_/id/16852119/puede-pochettino-convertir-a-estados-unidos-en-la-gran-revelacion-del-mundial-2026",
+     "source": "ESPN Argentina",
+     "published": "2026-07-06T21:21:12+00:00",
+     "copete": "La goleada histórica ante Paraguay y el triunfo ante Australia alimentaron la ilusión de una generación que sueña con cambiar para siempre el lugar del fútbol estadounidense.",
+     "id": "bcfa583957ec"
+    },
+    {
+     "title": "Bélgica, frente a otra oportunidad para frustrarse...",
+     "link": "https://www.espn.com.ar/futbol/mundial/nota/_/id/16533964/belgica-generacion-dorada-ultima-chance-frustrarse-o-ganar-mundial-2026",
+     "source": "ESPN Argentina",
+     "published": "2026-07-06T21:21:12+00:00",
+     "copete": "Con su \"Generación Dorada\" lejos de su mejor momento, los Diablos Rojos esta vez no llegaron como candidatos a la cita mundialista.",
+     "id": "c1c5c622f0b4"
+    },
+    {
+     "title": "Estados Unidos y Bélgica promete ser un partido de...",
+     "link": "https://www.espn.com.ar/futbol/mundial/nota/_/id/16945933/estados-unidos-vs-belgica-octavos-8vos-mundial-2026-equipo-fecha-hora-y-tv-en-vivo",
+     "source": "ESPN Argentina",
+     "published": "2026-07-06T21:21:12+00:00",
+     "copete": "El equipo de Pochettino, que es una de las sensaciones del torneo, tiene que medirse ante los belgas en 8vos de final de la Copa del Mundo",
+     "id": "a59f45ff9129"
+    },
+    {
+     "title": "Las imágenes del emotivo recibimiento de Cabo Verd...",
+     "link": "https://www.espn.com.ar/futbol/mundial/nota/_/id/16960387/las-imagenes-del-emotivo-recibimiento-de-cabo-verde-tras-la-derrota-ante-argentina-en-su-debut-en-el-mundial-2026",
+     "source": "ESPN Argentina",
+     "published": "2026-07-06T21:19:54+00:00",
+     "copete": "El seleccionado caboverdiano terminó su participación en la Copa del Mundo invicto en los 16avos.",
+     "id": "5a889d2dc133"
+    },
+    {
+     "title": "Primera práctica de Gorosito y un jugador ausente",
+     "link": "https://www.ole.com.ar/san-lorenzo/san-lorenzo-gorosito-primer-dia-falto-ausente-montenegro-romana_0_OuD8xgkJKB.html",
+     "source": "Olé — Primera",
+     "published": "2026-07-06T18:50:03+00:00",
+     "copete": "Pipo se hizo cargo del plantel de San Lorenzo y en el primer día ya tuvo malas noticias: uno de los futbolistas que venía siendo titular con Álvarez, faltó.",
+     "id": "82e3275e3f65"
+    },
     {
      "title": "Atención, Los Pumas: el buen momento de Gales en la previa al partido en San Juan",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcWszSHA2RURDZGsxWGVqTEpxYmJHNjhfR19uZzNLZmJQSWJwcGc5WDRmdm1NNWRudUgzUzh5WVdicEMtbmdDQWY2UDhSRjlRMkY0UlpxVmdsSVpFbVRxcVZzWEx2WUs5T1hCWmVYMUxILVl3WTByNi1MWURxM0ZERllncXlFczdRZ2YzUm9pQ0Rwa0tCMUY0RThYUEdSYk1hdlJKOW4yMHhncndfckJIbE92WHlWU3BzaDF4WkZXd2p4ekMwSVE?oc=5",
@@ -102,13 +158,15 @@
      "link": "https://www.ole.com.ar/futbol-primera/pases-mercado-2026-clausura-refuerzos-mundial_0_rbetJ4oPYE.html",
      "source": "Olé — River",
      "published": "2026-07-06T17:31:00+00:00",
+     "copete": "De Otamendi y Lozano a Ortegoza y Unsain, todos los movimientos de cara al Clausura. Acá, el club por club mientras se juega la Copa del Mundo.",
      "id": "88f44bc9a536"
     },
     {
-     "title": "Kranevitter dio el primer paso: cuándo se suma a Racing el nuevo refuerzo",
+     "title": "Kranevitter dio el primer paso: cuándo se suma al plantel de  Racing y su primer mensaje",
      "link": "https://www.ole.com.ar/racing/racing-kranevitter-refuerzo_0_1yA71QSTJ1.html",
      "source": "Olé — Primera",
      "published": "2026-07-06T15:53:43+00:00",
+     "copete": "El volante central ex River aprobó la revisión médica este lunes, firmó contrato por un año con la Academia y espera para incorporarse a las prácticas del equipo.",
      "id": "4f797e11d360"
     },
     {
@@ -116,6 +174,7 @@
      "link": "https://www.ole.com.ar/river-plate/river-nicolas-otamendi-historia-instagram-hincha-posteo-seleccion-mundial-refuerzo_0_HrjxVtcNw3.html",
      "source": "Olé — River",
      "published": "2026-07-06T15:33:58+00:00",
+     "copete": "El marcador central se enfoca en el Mundial con la Selección, pero también se ilusiona con lo que vendrá después, cuando cumplirá el sueño familiar.",
      "id": "4d5651eb5918"
     },
     {
@@ -137,35 +196,24 @@
      "link": "https://www.ole.com.ar/river-plate/river-angel-correa-mercado-pases-refuerzo-negociacion-tigres-fria_0_UFw9OaaCzt.html",
      "source": "Olé — River",
      "published": "2026-07-06T14:09:13+00:00",
+     "copete": "Tigres no baja sus pretensiones y desde Núñez, por ahora, no suben para intentar acercar más las partes. Igual, en el club no la dan por caída.",
      "id": "81d561d7c302"
+    },
+    {
+     "title": "What is The Nations Championship? Explaining rugby's new competition, fixtures, format, how to watch in UK",
+     "link": "https://www.espn.co.uk/rugby/story/_/id/49076874/what-nations-championship-rugby-newest-competition-explained-fixtures-format-how-watch",
+     "source": "ESPN Rugby",
+     "published": "2026-07-06T13:28:57+00:00",
+     "copete": "ESPN has everything you need to know about the new Nations Championship tournament.",
+     "id": "dabe0a72c4be"
     },
     {
      "title": "Con una cara nueva que se sumará, por qué se vienen días clave para River y Coudet",
      "link": "https://www.ole.com.ar/river-plate/river-coudet-pretemporada-debut-oficial-aldosivi-amistoso_0_HhU1iJlrMV.html",
      "source": "Olé — River",
      "published": "2026-07-06T12:49:40+00:00",
+     "copete": "Ya de regreso en Buenos Aires, el plantel dirigido por el Chacho encarará la recta final antes del estreno oficial del semestre.",
      "id": "c9ad057396b1"
-    },
-    {
-     "title": "Quién es colombiano que fue la figura de River en el Súper de Reserva",
-     "link": "https://www.ole.com.ar/river-plate/river-reserva-semifinal-superclasico-robinho-quinto_0_gLL33jU9L7.html",
-     "source": "Olé — River",
-     "published": "2026-07-05T21:58:48+00:00",
-     "id": "7448c16964a3"
-    },
-    {
-     "title": "Los Pumitas e Inglaterra en busca de las semifinales",
-     "link": "https://uar.com.ar/los-pumitas-e-inglaterra-en-busca-de-las-semifinales/",
-     "source": "UAR",
-     "published": "2026-07-05T19:40:19+00:00",
-     "id": "4e5e77fde79d"
-    },
-    {
-     "title": "LOS PUMAS CAYERON ANTE ESCOCIA EN EL KEMPES",
-     "link": "https://uar.com.ar/los-pumas-cayeron-ante-escocia-en-el-kempes/",
-     "source": "UAR",
-     "published": "2026-07-04T21:29:35+00:00",
-     "id": "2321a16e2e4d"
     }
    ]
   },
@@ -193,6 +241,7 @@
      "link": "https://www.kdnuggets.com/data-scientists-are-becoming-ai-managers-not-model-builders",
      "source": "KDnuggets",
      "published": "2026-07-06T16:00:09+00:00",
+     "copete": "The role is shifting from building models to managing them.",
      "id": "148f2cc4c65b"
     },
     {
@@ -207,6 +256,7 @@
      "link": "https://towardsdatascience.com/how-to-run-end-to-end-tests-with-claude-code/",
      "source": "Towards Data Science",
      "published": "2026-07-06T15:00:00+00:00",
+     "copete": "Increase the effectiveness of your coding agents through end-to-end testing. The post How to Run End-to-End Tests with Claude Code appeared first on Towards Data Science .",
      "id": "78ad7e3f1d1c"
     },
     {
@@ -228,6 +278,7 @@
      "link": "https://www.kdnuggets.com/getting-started-with-hugging-face-ml-intern-your-first-ml-agent",
      "source": "KDnuggets",
      "published": "2026-07-06T14:00:31+00:00",
+     "copete": "You describe the model. It writes the code, runs the training, and ships the checkpoint. Welcome to ML Intern.",
      "id": "811f7e9baa1e"
     },
     {
@@ -235,6 +286,7 @@
      "link": "https://towardsdatascience.com/validating-the-rag-answer-before-the-user-sees-it-spans-quotes-and-the-feedback-loop/",
      "source": "Towards Data Science",
      "published": "2026-07-06T13:30:00+00:00",
+     "copete": "Enterprise Document Intelligence [Vol.1 #8C] - Structured output is the start of validation, not the end: check the evidence, accept not-found, loop the feedback The post Validating the RAG Answer Before the User Sees It: Spans, Quotes…",
      "id": "555b9deda1d3"
     },
     {
@@ -252,88 +304,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Automedicación: por qué los medicamentos de venta libre también requieren supervisión médica",
-     "link": "https://www.infobae.com/salud/2026/07/06/automedicacion-por-que-los-medicamentos-de-venta-libre-tambien-requieren-supervision-medica/",
-     "source": "Infobae",
-     "published": "2026-07-06T18:18:56+00:00",
-     "id": "c8a2e0ce86c1"
+     "title": "Terremotos en Venezuela hoy, EN VIVO: actualización del número de víctimas y desaparecidos, y últimas noticias de este lunes 6 de julio",
+     "link": "https://www.lanacion.com.ar/el-mundo/terremotos-en-venezuela-hoy-en-vivo-actualizacion-del-numero-de-victimas-y-desaparecidos-y-ultimas-nid06072026/",
+     "source": "La Nación",
+     "published": "2026-07-06T19:25:45+00:00",
+     "copete": "Once días después de los mortales sismos, familias despiden a las víctimas de los terremotos con rituales improvisados; inconsistencias sobre las cifras de fallecidos y desaparecidos",
+     "id": "24c39409b6bc"
     },
     {
-     "title": "España vs. Portugal, EN VIVO por el Mundial 2026: hora, TV y las formaciones",
+     "title": "Cómo va Portugal vs. España por el Mundial 2026 y el rival de cuartos de final",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/espana-vs-portugal-a-que-hora-juegan-y-por-donde-se-puede-ver-online-nid06072026/",
+     "source": "La Nación",
+     "published": "2026-07-06T19:25:18+00:00",
+     "copete": "Ambos equipos europeos ya se enfrentan en uno de los partidos más atractivos de lo que va del Mundial 2026; el ganador jugará en cuartos con Estados Unidos o Bélgica",
+     "id": "5716781ec6fd"
+    },
+    {
+     "title": "La FIFA rechazó el recurso de Bélgica y Folarin Balogun podrá jugar hoy para Estados Unidos",
+     "link": "https://www.lanacion.com.ar/deportes/la-fifa-rechazo-el-recurso-de-belgica-por-el-caso-balogun-es-inadmisible-nid06072026/",
+     "source": "La Nación",
+     "published": "2026-07-06T19:25:04+00:00",
+     "copete": "La comisión de apelación de la entidad desestimó la solicitud presentada por la Federación Belga sobre la suspensión de la expulsión del delantero estadounidense",
+     "id": "3cebba987a3a"
+    },
+    {
+     "title": "Continúan los cruces por octavos de final con Portugal vs. España y Estados Unidos vs. Bélgica",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/continuan-los-cruces-por-octavos-de-final-con-portugal-vs-espana-y-estados-unidos-vs-belgica-nid06072026/",
+     "source": "La Nación",
+     "published": "2026-07-06T19:23:32+00:00",
+     "copete": "El minuto a minuto de las últimas noticias de la selección argentina, declaraciones de los jugadores y entrenadores, y repercusiones sobre los partidos",
+     "id": "fb9b9d84eec0"
+    },
+    {
+     "title": "España vs. Portugal, en vivo por el Mundial 2026: el minuto a minuto del partido",
      "link": "https://www.lanacion.com.ar/deportes/futbol/espana-vs-portugal-en-vivo-por-el-mundial-2026-nid06072026/",
      "source": "La Nación",
-     "published": "2026-07-06T18:18:41+00:00",
+     "published": "2026-07-06T19:23:30+00:00",
+     "copete": "El partido se disputa en el Dallas Stadium; todos los detalles del encuentro",
      "id": "9ec808413c0f"
     },
     {
-     "title": "“Las cuentas no cerraban”: la fórmula de una empresa que cambió a tiempo y empezó otra vida con un dulce de leche",
-     "link": "https://www.lanacion.com.ar/economia/campo/las-cuentas-no-cerraban-la-formula-de-una-empresa-que-cambio-a-tiempo-y-empezo-otra-vida-con-un-nid06072026/",
-     "source": "La Nación",
-     "published": "2026-07-06T18:18:04+00:00",
-     "id": "c621b2d5c7ea"
-    },
-    {
-     "title": "Video inédito: el saludo de Cristina Kirchner a Maradona cuando cumplió 60 años",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/07/06/video-inedito-el-saludo-de-cristina-kirchner-a-maradona-cuando-cumplio-60-anos/",
+     "title": "El desafío sanitario de Venezuela tras los terremotos: piden reforzar la vacunación ante riesgo de epidemias",
+     "link": "https://www.infobae.com/salud/2026/07/06/el-desafio-sanitario-de-venezuela-tras-los-terremotos-piden-reforzar-la-vacunacion-ante-riesgo-de-epidemias/",
      "source": "Infobae",
-     "published": "2026-07-06T18:17:38+00:00",
-     "id": "45ee1a07ef94"
+     "published": "2026-07-06T19:23:07+00:00",
+     "copete": "La Sociedad Latinoamericana de Vacunología solicitó integrar la inmunización desde las primeras horas para reducir brotes, con énfasis en tétanos, esquemas interrumpidos y personal de rescate",
+     "id": "6954e4597744"
     },
     {
-     "title": "Dólar hoy en Brasil: cotización de apertura del 6 de julio",
-     "link": "https://www.infobae.com/noticias/2026/07/06/dolar-hoy-en-brasil-cotizacion-de-apertura-del-6-de-julio/",
+     "title": "Por qué hay tantos alfajores nuevos en los kioscos: luces y sombras de un boom de consumo que esconde carencias alimentarias",
+     "link": "https://www.infobae.com/economia/2026/07/06/por-que-hay-tantos-alfajores-nuevos-en-los-kioscos-luces-y-sombras-de-un-boom-de-consumo-que-esconde-carencias-alimentarias/",
      "source": "Infobae",
-     "published": "2026-07-06T18:16:44+00:00",
-     "id": "4d1cebc76f97"
+     "published": "2026-07-06T19:22:43+00:00",
+     "copete": "Con más de 10 millones de unidades vendidas por día y dos años consecutivos de expansión, la categoría resiste la retracción del consumo y multiplica sus lanzamientos a un ritmo que no tiene antecedentes",
+     "id": "dd4324fd91eb"
     },
     {
-     "title": "Precio del dólar hoy en Brasil: cotización de cierre del 6 de julio",
-     "link": "https://www.infobae.com/noticias/2026/07/06/precio-del-dolar-hoy-en-brasil-cotizacion-de-cierre-del-6-de-julio/",
+     "title": "Organizaciones de personas con discapacidad protestan en Honduras por suspensión de fondos",
+     "link": "https://www.infobae.com/honduras/2026/07/06/organizaciones-de-personas-con-discapacidad-protestan-en-honduras-por-suspension-de-fondos/",
      "source": "Infobae",
-     "published": "2026-07-06T18:16:28+00:00",
-     "id": "d1076b882ac1"
+     "published": "2026-07-06T19:22:18+00:00",
+     "copete": "La organización alertó que el acuerdo para habilitar los recursos con la Secretaría de Salud sigue sin firmarse, pese a estar contemplados en el Presupuesto, lo que pone en riesgo terapias para pacientes vulnerables.",
+     "id": "68cf0bff305b"
     },
     {
-     "title": "Dólar hoy en Chile: cotización de cierre del 6 de julio",
-     "link": "https://www.infobae.com/noticias/2026/07/06/dolar-hoy-en-chile-cotizacion-de-cierre-del-6-de-julio/",
+     "title": "Expertos salvadoreños impulsan ambicioso plan para instalar sismógrafos en la costa de Acajutla",
+     "link": "https://www.infobae.com/el-salvador/2026/07/06/expertos-salvadorenos-impulsan-ambicioso-plan-para-instalar-sismografos-en-la-costa-de-acajutla/",
      "source": "Infobae",
-     "published": "2026-07-06T18:16:11+00:00",
-     "id": "a3d390ab270b"
+     "published": "2026-07-06T19:20:32+00:00",
+     "copete": "El geólogo Miguel Hernández de la Universidad de El Salvador (UES), indicó que la iniciativa usa un área piloto en la costa salvadoreña y busca reforzar la detección temprana de movimientos telúricos con una tecnología inédita en…",
+     "id": "3e01a631eb59"
     },
     {
-     "title": "A qué hora de EE.UU. juega España vs. Portugal hoy en Dallas: en vivo el partido de octavos del Mundial 2026",
-     "link": "https://www.lanacion.com.ar/estados-unidos/texas/a-que-hora-de-eeuu-juega-espana-vs-portugal-hoy-en-dallas-en-vivo-el-partido-de-octavos-del-mundial-nid06072026/",
-     "source": "La Nación",
-     "published": "2026-07-06T18:15:55+00:00",
-     "id": "e340291eb116"
+     "title": "La escena de ciencia ficción en la Copa Mundial 2026: robots árbitros y vigilantes de estadios",
+     "link": "https://www.infobae.com/tecno/2026/07/06/la-escena-de-ciencia-ficcion-en-la-copa-mundial-2026-robots-arbitros-y-vigilantes-de-estadios/",
+     "source": "Infobae",
+     "published": "2026-07-06T19:20:00+00:00",
+     "copete": "El humanoide apareció en el descanso, imitó la celebración de Erling Haaland y entregó el balón ceremonial al árbitro durante el partido por octavos de final entre Brasil y Noruega",
+     "id": "f2eda15caa56"
     },
     {
-     "title": "Noticias de Texas, hoy: confirman operativos oficiales con el ICE por el partido de Portugal vs. España en Dallas",
-     "link": "https://www.lanacion.com.ar/estados-unidos/texas/noticias-de-texas-hoy-confirman-operativos-oficiales-con-el-ice-por-el-partido-de-portugal-vs-espana-nid06072026/",
-     "source": "La Nación",
-     "published": "2026-07-06T18:15:20+00:00",
-     "id": "ae744ac1d7e1"
-    },
-    {
-     "title": "Negocio de US$600 millones: cinco empresas se quedaron con el 41% de la codiciada cuota Hilton de carne premium a Europa",
-     "link": "https://www.lanacion.com.ar/economia/campo/cuota-hilton-el-gobierno-oficializo-el-reparto-para-el-nuevo-ciclo-comercial-y-definio-las-empresas-nid06072026/",
-     "source": "La Nación",
-     "published": "2026-07-06T18:14:39+00:00",
-     "id": "ea446c4815ae"
-    },
-    {
-     "title": "La letra chica del plan financiero: Caputo se llevará casi US$ 5.000 millones de la compra de reservas del BCRA",
-     "link": "https://www.clarin.com/economia/letra-chica-plan-financiero-caputo-llevara-us-5000-millones-compra-reservas-bcra_0_sPDIkU6eul.html",
+     "title": "Quiniela Nacional: resultado del sorteo de la Matutina de hoy, lunes 06 de julio",
+     "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-nacional-resultado-sorteo-matutina-hoy-lunes-06-julio_0_LyIfUDK9n3.html",
      "source": "Clarín",
-     "published": "2026-07-06T17:42:21+00:00",
-     "id": "872bda093475"
+     "published": "2026-07-06T19:03:30+00:00",
+     "copete": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+     "id": "cb8fc264e253"
     },
     {
-     "title": "Confirman que el capitán de la selección de vóley de Venezuela murió sepultado con su mujer y su hijo",
-     "link": "https://www.clarin.com/deportes/terremotos-venezuela-confirman-capitan-seleccion-voley-murio-sepultado-mujer-hijo_0_UDqwzsbebv.html",
+     "title": "Quiniela de Córdoba: resultado del sorteo de la Matutina de hoy, lunes 06 de julio",
+     "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-matutina-hoy-lunes-06-julio_0_dyqQaaYIek.html",
      "source": "Clarín",
-     "published": "2026-07-06T17:41:17+00:00",
-     "id": "d1affeb31922"
+     "published": "2026-07-06T19:03:30+00:00",
+     "copete": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+     "id": "09e85edb6ade"
     }
    ]
   },
@@ -343,31 +407,51 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Trump confirms he asked Fifa to review Balogun ban",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-06T19:06:34+00:00",
+     "copete": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
+     "id": "7ddb61f26ab4"
+    },
+    {
      "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
      "link": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-07-06T17:33:43+00:00",
+     "published": "2026-07-06T19:06:26+00:00",
+     "copete": "Tyler Robinson, 23, is accused of murdering Kirk, a key Trump ally and founder of youth organisation Turning Point USA.",
      "id": "00cd25644be0"
+    },
+    {
+     "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
+     "link": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-06T18:50:44+00:00",
+     "copete": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
+     "id": "8e1f06b81468"
+    },
+    {
+     "title": "Un policía de fronteras de Israel lanza una granada aturdidora dentro de un coche con palestinos",
+     "link": "https://elpais.com/videos/2026-07-06/un-policia-de-fronteras-de-israel-lanza-una-granada-aturdidora-en-el-interior-de-un-coche-con-gente-dentro.html",
+     "source": "El País Internacional",
+     "published": "2026-07-06T18:32:06+00:00",
+     "copete": "Un vídeo que circula en las redes sociales muestra al militar gritando al conductor del vehículo: “Cállate, ¿a quién le hablas así?”.",
+     "id": "7741a3abc253"
     },
     {
      "title": "More than 1,000 arrested as part of global human trafficking crackdown",
      "link": "https://www.bbc.co.uk/news/articles/c5yzzzdwqjko?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-07-06T17:24:31+00:00",
+     "copete": "Interpol says the vast majority of the 2,070 victims or potential victims identified were women being trafficked for sex.",
      "id": "3b5ba394277c"
-    },
-    {
-     "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
-     "link": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-06T17:22:38+00:00",
-     "id": "e4ad780642c7"
     },
     {
      "title": "\"Cruza una línea roja\": por qué es tan escandalosa la decisión de la FIFA de suspender la sanción al goleador de EE.UU., Folarin Balogun, tras una llamada de Trump",
      "link": "https://www.bbc.com/mundo/articles/c9d2209yy01o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "published": "2026-07-06T16:51:44+00:00",
+     "copete": "La decisión de anular la tarjeta roja mostrada al delantero estadounidense Folarin Balogun deja muchas preguntas sin respuesta.",
      "id": "dbcb3b1b9c46"
     },
     {
@@ -375,20 +459,15 @@
      "link": "https://elpais.com/internacional/2026-07-06/rutte-reclama-a-los-aliados-europeos-de-la-otan-planes-creibles-para-consolidar-el-rearme.html",
      "source": "El País Internacional",
      "published": "2026-07-06T16:46:32+00:00",
+     "copete": "El secretario general de la Alianza, que busca evitar la crítica de Trump a Europa, asegura que los socios del Viejo Continente y Canadá han aumentado un 20% su gasto en defensa",
      "id": "0f0b1e678d41"
-    },
-    {
-     "title": "Super Typhoon Bavi strikes US Pacific islands with pummeling winds",
-     "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-06T16:44:54+00:00",
-     "id": "14d996589110"
     },
     {
      "title": "El exfutbolista que estuvo muerto durante 7 minutos y ahora como entrenador llevó a Noruega a eliminar a Brasil en el Mundial",
      "link": "https://www.bbc.com/mundo/articles/c0eyyynjp8ro?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "published": "2026-07-06T15:39:00+00:00",
+     "copete": "Stale Solbakken sufrió un infarto en 2001 que lo tuvo \"clínicamente muerto\". Pero se recuperó y llevó a su país al \"mejor momento de su historia futbolística\".",
      "id": "eee7e40ff5b2"
     },
     {
@@ -396,6 +475,7 @@
      "link": "https://www.bbc.com/mundo/articles/ceqdvrejn1vo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "published": "2026-07-06T14:21:06+00:00",
+     "copete": "Desde La Guaira, el reportero de BBC Mundo Norberto Paredes describe la magnitud de la destrucción tras dos terremotos que transformaron su ciudad natal en cuestión de segundos.",
      "id": "aa8defa890f7"
     },
     {
@@ -403,28 +483,11 @@
      "link": "https://elpais.com/internacional/2026-07-06/varios-muertos-y-heridos-en-un-ataque-de-rusia-contra-kiev-esta-madrugada.html",
      "source": "El País Internacional",
      "published": "2026-07-06T14:14:11+00:00",
+     "copete": "Los servicios de emergencias siguen buscando víctimas entre los escombros de los edificios alcanzados por el bombardeo, el segundo contra la capital en cuatro días",
      "id": "9dcc711f6631"
-    },
-    {
-     "title": "\"Jugamos como nunca y perdimos como siempre\": el sueño mundialista de México se acaba tras la derrota con Inglaterra",
-     "link": "https://www.bbc.com/mundo/articles/c9q22nx721vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-06T13:26:40+00:00",
-     "id": "959b13cb0953"
     }
    ]
   }
  ],
- "_errors": [
-  {
-   "section": "cardiologia",
-   "feed": "Cardiology Trials",
-   "error": "HTTP Error 403: Forbidden"
-  },
-  {
-   "section": "cardiologia",
-   "feed": "NEJM Cardiología (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  }
- ]
+ "_errors": []
 }

@@ -90,10 +90,12 @@ sections:
         type: rss
         url: https://hnrss.org/frontpage?points=100
         max: 4
+        copete: false  # el summary trae solo links de puntos/comentarios
       - name: r/datascience
         type: rss
         url: https://www.reddit.com/r/datascience/.rss
         max: 2
+        copete: false  # el summary es HTML de "submitted by"
       - name: Simon Willison (IA)
         type: rss
         url: https://simonwillison.net/atom/everything/

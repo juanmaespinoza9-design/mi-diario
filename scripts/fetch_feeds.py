@@ -8,6 +8,7 @@ Un feed caído nunca rompe la corrida: queda anotado en _errors.
 
 import base64
 import hashlib
+import html as htmllib
 import json
 import re
 import sys
@@ -73,6 +74,18 @@ def decode_google_news_link(link):
     return link
 
 
+def extract_copete(entry, title, max_len=240):
+    """Bajada de la nota a partir del summary/description del feed, limpia de HTML."""
+    raw = entry.get("summary") or entry.get("description") or ""
+    txt = re.sub(r"<[^>]+>", " ", raw)
+    txt = re.sub(r"\s+", " ", htmllib.unescape(txt)).strip()
+    if len(txt) < 30 or normalize_title(txt) == normalize_title(title):
+        return None
+    if len(txt) > max_len:
+        txt = txt[:max_len].rsplit(" ", 1)[0].rstrip(".,;:") + "…"
+    return txt
+
+
 def fetch_rss(feed_cfg):
     data = http_get(feed_cfg["url"])
     parsed = feedparser.parse(data)
@@ -84,12 +97,17 @@ def fetch_rss(feed_cfg):
         title = (entry.get("title") or "").strip()
         if not link or not title:
             continue
-        items.append({
+        item = {
             "title": title,
             "link": link,
             "source": feed_cfg["name"],
             "published": (parse_datetime(entry) or datetime.now(timezone.utc)).isoformat(),
-        })
+        }
+        if feed_cfg.get("copete", True):
+            copete = extract_copete(entry, title)
+            if copete:
+                item["copete"] = copete
+        items.append(item)
     return items
 
 
@@ -98,7 +116,7 @@ def fetch_googlenews(feed_cfg):
     locale = feed_cfg.get("locale", "ar")
     params = {"ar": "hl=es-419&gl=AR&ceid=AR:es-419", "us": "hl=en-US&gl=US&ceid=US:en"}[locale]
     url = f"https://news.google.com/rss/search?q={query}&{params}"
-    items = fetch_rss({"name": feed_cfg["name"], "url": url})
+    items = fetch_rss({"name": feed_cfg["name"], "url": url, "copete": False})  # el summary de Google News es basura de links
     for it in items:
         it["link"] = decode_google_news_link(it["link"])
         # Google News pone "Titular - Medio"; separamos el medio como fuente
@@ -129,12 +147,19 @@ def fetch_pubmed(feed_cfg, max_age_days):
         except ValueError:
             pub = datetime.now(timezone.utc)
         title = re.sub(r"</?[^>]+>", "", doc["title"]).rstrip(".")
-        items.append({
+        authors = doc.get("authors") or []
+        first_author = authors[0].get("name", "") if authors else ""
+        journal = doc.get("fulljournalname") or doc.get("source") or ""
+        copete = " · ".join(p for p in (f"{first_author} et al." if first_author else "", journal) if p)
+        item = {
             "title": title,
             "link": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
             "source": feed_cfg["name"].replace(" (PubMed)", ""),
             "published": pub.isoformat(),
-        })
+        }
+        if copete:
+            item["copete"] = copete
+        items.append(item)
     return items
 
 

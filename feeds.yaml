@@ -1,0 +1,146 @@
+# Fuentes del diario personal. Editable a mano: agregar/sacar feeds acá,
+# el fetcher lo toma en la próxima corrida sin tocar código.
+#
+# type: rss        → feed RSS/Atom estándar
+# type: pubmed     → búsqueda en PubMed vía E-utilities (term = query PubMed)
+# type: googlenews → búsqueda en Google News Argentina (query = términos)
+#
+# mode: resumen    → el agente curador le escribe resumen en español
+# mode: titulares  → solo titular + link
+
+sections:
+  - id: cardiologia
+    title: Cardiología
+    mode: resumen
+    max_items: 12
+    max_age_days: 21
+    feeds:
+      - name: TCTMD
+        type: googlenews
+        query: 'site:tctmd.com when:21d'
+        locale: us  # Google News AR no indexa TCTMD
+        max: 5
+      - name: European Heart Journal
+        type: rss
+        url: https://academic.oup.com/rss/site_5375/3236.xml
+        max: 4
+      - name: Cardiology Trials
+        type: rss
+        url: https://cardiologytrials.substack.com/feed
+        max: 3
+      - name: JACC (PubMed)
+        type: pubmed
+        term: '"J Am Coll Cardiol"[jour]'
+        max: 4
+      - name: Circulation (PubMed)
+        type: pubmed
+        term: '"Circulation"[jour]'
+        max: 4
+      - name: NEJM Cardiología (PubMed)
+        type: pubmed
+        term: '"N Engl J Med"[jour] AND (heart[ti] OR cardiac[ti] OR cardiovascular[ti] OR myocardial[ti] OR atrial[ti] OR coronary[ti] OR valve[ti] OR aortic[ti])'
+        max: 3
+
+  - id: deportes
+    title: Deportes
+    mode: titulares
+    max_items: 14
+    max_age_days: 3
+    feeds:
+      - name: Olé — River
+        type: rss
+        url: https://www.ole.com.ar/rss/river-plate/
+        max: 5
+      - name: Olé — Primera
+        type: rss
+        url: https://www.ole.com.ar/rss/futbol-primera/
+        max: 4
+      - name: ESPN Argentina
+        type: rss
+        url: https://www.espn.com.ar/espn/rss/news
+        max: 4
+      - name: UAR
+        type: rss
+        url: https://www.uar.com.ar/feed/
+        max: 3
+      - name: ESPN Rugby
+        type: rss
+        url: https://www.espn.co.uk/espn/rss/rugby/news
+        max: 3
+      - name: Los Pumas (Google News)
+        type: googlenews
+        query: '"Los Pumas" rugby'
+        max: 3
+
+  - id: ciencia_datos
+    title: Ciencia de datos e IA
+    mode: resumen
+    max_items: 10
+    max_age_days: 7
+    feeds:
+      - name: Towards Data Science
+        type: rss
+        url: https://towardsdatascience.com/feed
+        max: 3
+      - name: KDnuggets
+        type: rss
+        url: https://www.kdnuggets.com/feed
+        max: 3
+      - name: Hacker News (100+ puntos)
+        type: rss
+        url: https://hnrss.org/frontpage?points=100
+        max: 4
+      - name: r/datascience
+        type: rss
+        url: https://www.reddit.com/r/datascience/.rss
+        max: 2
+      - name: Simon Willison (IA)
+        type: rss
+        url: https://simonwillison.net/atom/everything/
+        max: 3
+
+  - id: argentina
+    title: Argentina
+    mode: titulares
+    max_items: 12
+    max_age_days: 2
+    feeds:
+      - name: La Nación
+        type: rss
+        url: https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml
+        max: 5
+      - name: Infobae
+        type: rss
+        url: https://www.infobae.com/arc/outboundfeeds/rss/?outputType=xml
+        max: 5
+        exclude:  # el feed general de Infobae mezcla sus ediciones regionales
+          - /espana/
+          - /colombia/
+          - /mexico/
+          - /peru/
+          - /venezuela/
+          - /america/
+          - /estados-unidos/
+      - name: Clarín
+        type: rss
+        url: https://www.clarin.com/rss/lo-ultimo/
+        max: 5
+
+  - id: internacional
+    title: Internacional
+    mode: titulares
+    max_items: 10
+    max_age_days: 2
+    feeds:
+      - name: BBC Mundo
+        type: rss
+        url: https://feeds.bbci.co.uk/mundo/rss.xml
+        max: 5
+      - name: El País Internacional
+        type: rss
+        url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada
+        max: 4
+      - name: BBC World
+        type: rss
+        url: https://feeds.bbci.co.uk/news/world/rss.xml
+        max: 4

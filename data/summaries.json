@@ -1,0 +1,78 @@
+{
+  "generated_at": "2026-07-06T16:34:51Z",
+  "summaries": {
+    "a4b21d851687": {
+      "resumen": "Nota breve de TCTMD, portal especializado en cardiología intervencionista, cuyo título llegó incompleto en la fuente original ('- TCTMD.com'), por lo que no se puede precisar el tema tratado sin inventar contenido. Conviene revisarla directamente en TCTMD.com para conocer de qué se trata.",
+      "destacado": false
+    },
+    "2b4474a5c863": {
+      "resumen": "STUN-AF es un estudio que evalúa si realizar una ablación por catéter de la fibrilación auricular antes de un cierre percutáneo de la orejuela auricular izquierda (LAAO, Left Atrial Appendage Occlusion) reduce las fugas peridispositivo (peridevice leaks), una complicación frecuente que puede aumentar el riesgo trombótico. Interesa porque el cierre de orejuela se usa cada vez más en pacientes con fibrilación auricular que no toleran anticoagulación crónica.",
+      "destacado": true,
+      "analisis": "Diseño: No se dispone del abstract; por el título se infiere un estudio (probablemente un registro o serie comparativa, no queda claro si aleatorizado) que compara pacientes con y sin ablación de fibrilación auricular previa al implante de un dispositivo de oclusión de la orejuela auricular izquierda (LAAO).\nPoblación: Pacientes con fibrilación auricular candidatos a cierre percutáneo de la orejuela izquierda, típicamente con contraindicación para anticoagulación crónica.\nIntervención: Ablación por catéter de la fibrilación auricular antes del implante del dispositivo de LAAO, comparada con el implante sin ablación previa.\nResultados: No disponibles sin el abstract; el título sugiere una posible reducción de fugas peridispositivo con la estrategia de ablación previa, pero no hay cifras verificables.\nLimitaciones: Sin abstract no se puede evaluar el tamaño muestral, si hubo aleatorización o cegamiento, ni la significancia estadística de los hallazgos.\nMensaje: Podría sumar evidencia a favor de secuenciar la ablación antes del LAAO para minimizar fugas peridispositivo, pero se necesita el trabajo completo antes de considerar un cambio de práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "03deff6606bc": {
+      "resumen": "Entrevista/podcast de la serie 'On Record' de TCTMD sobre el momento óptimo (timing) para realizar una intervención coronaria percutánea (PCI, Percutaneous Coronary Intervention) en pacientes que también requieren un implante valvular aórtico transcatéter (TAVI, Transcatheter Aortic Valve Implantation). Es un tema frecuente en cardiología intervencionista, dado que muchos pacientes con estenosis aórtica severa tienen enfermedad coronaria concomitante.",
+      "destacado": false
+    },
+    "de27575ef365": {
+      "resumen": "Artículo de European Heart Journal que repasa ensayos clínicos de impacto reciente en cuatro áreas: dislipidemias, reserva de flujo fraccional (fractional flow reserve, FFR, una medida invasiva de la severidad funcional de una lesión coronaria), betabloqueantes y enfermedad arterial periférica. Funciona como resumen ejecutivo de la evidencia más relevante del año en esos temas.",
+      "destacado": false
+    },
+    "b24e7048d17e": {
+      "resumen": "Ensayo publicado en JACC (Journal of the American College of Cardiology) sobre lecciones de liderazgo a partir de la trayectoria de Eugene Braunwald, uno de los cardiólogos más influyentes del siglo XX. No aporta datos clínicos sino una reflexión sobre mentoría y conducción de equipos académicos, de interés para quien lidera una residencia.",
+      "destacado": false
+    },
+    "d450ad886565": {
+      "resumen": "Documento de consenso 2026 del Colegio Americano de Cardiología (ACC, American College of Cardiology) que actualiza las recomendaciones sobre terapia antiplaquetaria (antiagregantes) en la enfermedad cardiovascular aterosclerótica. Condensa la evidencia sobre duración y combinación de antiagregantes (aspirina, inhibidores P2Y12) en distintos escenarios clínicos, útil como referencia rápida de práctica.",
+      "destacado": false
+    },
+    "607ee4222e42": {
+      "resumen": "Consenso 2026 del ACC (American College of Cardiology) sobre el uso de anticoagulantes orales directos (DOAC, Direct Oral Anticoagulants) en la prevención primaria y secundaria de eventos trombóticos, actualizando indicaciones en fibrilación auricular, tromboembolismo venoso y otros escenarios clínicos.",
+      "destacado": false
+    },
+    "4268821e5b6e": {
+      "resumen": "Segundo documento de consenso internacional de las sociedades AHA, ACC, ESC y WHF (American Heart Association, American College of Cardiology, European Society of Cardiology y World Heart Federation) que actualiza la definición universal de insuficiencia cardíaca, unificando criterios diagnósticos y de clasificación usados a nivel mundial.",
+      "destacado": false
+    },
+    "811f7e9baa1e": {
+      "resumen": "Guía introductoria sobre 'ML Intern', una herramienta de Hugging Face que actúa como agente de aprendizaje automático (machine learning) capaz de automatizar tareas de entrenamiento y evaluación de modelos. Le sirve a un médico que se inicia en ciencia de datos porque muestra cómo delegar tareas repetitivas de ML a un agente sin necesitar dominar todo el stack técnico desde el principio.",
+      "destacado": false
+    },
+    "555b9deda1d3": {
+      "resumen": "Artículo técnico sobre cómo validar automáticamente las respuestas de sistemas de generación aumentada por recuperación (RAG, Retrieval-Augmented Generation) antes de mostrarlas al usuario, verificando que cada afirmación esté respaldada por citas textuales (spans y quotes) de las fuentes originales. Es clave para quien trabaja en datos de salud, porque estas técnicas ayudan a construir herramientas de consulta de literatura médica o farmacovigilancia que no inventen información.",
+      "destacado": true
+    },
+    "a5708bde73df": {
+      "resumen": "Repasa cinco formas en que los modelos de lenguaje pequeños (Small Language Models, SLM) —más económicos y rápidos que los modelos grandes— se usan para construir agentes de inteligencia artificial. Útil para evaluar costos y viabilidad de implementar IA en entornos con recursos limitados, algo habitual en salud.",
+      "destacado": false
+    },
+    "1ae87180fdaf": {
+      "resumen": "Argumenta que comparar configuraciones de agentes de inteligencia artificial solo por el puntaje promedio esconde variabilidad importante y puede llevar a conclusiones erróneas, y propone métodos estadísticos más robustos para evaluarlos. Refuerza un principio central de la estadística —el promedio solo no alcanza, hay que mirar la distribución y la variabilidad— la misma lógica que aplica al leer resultados de ensayos clínicos.",
+      "destacado": false
+    },
+    "343390c8c5e6": {
+      "resumen": "Noticia sobre el avance del lenguaje de programación Elm hacia su versión 1.0, con foco en tiempos de compilación (builds) más rápidos. Es de interés general para quien programa, aunque menos aplicable de forma directa al análisis de datos médico.",
+      "destacado": false
+    },
+    "e845ca72d18d": {
+      "resumen": "Proyecto que muestra un mapa en tiempo real de la red ferroviaria de Gran Bretaña usando datos abiertos de transporte. Sirve como ejemplo práctico de visualización de datos en tiempo real, útil como inspiración para armar paneles (dashboards) dinámicos.",
+      "destacado": false
+    },
+    "ced949b78ef3": {
+      "resumen": "Nueva versión candidata (4.0rc3) de sqlite-utils, una herramienta de línea de comandos y biblioteca de Python para crear y manipular bases de datos SQLite. Simplifica tareas comunes como importar planillas CSV, crear tablas y hacer consultas, sin necesidad de administrar un motor de base de datos complejo.",
+      "destacado": false
+    },
+    "293927b13f16": {
+      "resumen": "Hilo semanal del foro r/datascience donde quienes están entrando o haciendo la transición hacia carreras en ciencia de datos comparten dudas, recursos y consejos. Es un buen lugar para orientarse, en especial para alguien que —como un médico en transición hacia farmacovigilancia y análisis de datos— busca la experiencia de otros que atravesaron ese mismo cambio de carrera.",
+      "destacado": false
+    },
+    "5f9953f6e7c0": {
+      "resumen": "Relato de un desarrollador (creador de la app de podcasts Castro) sobre por qué su estrategia de generar vínculo con los usuarios a través del soporte técnico no dio los resultados esperados. Es una lección de gestión de producto y expectativas más que una herramienta técnica, útil para pensar cómo comunicar hallazgos o herramientas de datos a usuarios finales.",
+      "destacado": false
+    },
+    "df10d95f0b77": {
+      "resumen": "Anuncio breve, difundido por X/Twitter, de que un nuevo modelo de lenguaje llamado GPT-5.6 Sol Ultra estará disponible dentro de Codex, el asistente de programación de OpenAI. Sirve para seguir de cerca la carrera de modelos de lenguaje grandes (LLM, Large Language Models) que también compiten con las herramientas de inteligencia artificial que un médico-analista podría usar a diario.",
+      "destacado": false
+    }
+  }
+}

@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-07-07T12:40:24.273577+00:00",
+ "generated_at": "2026-07-07T16:43:20.046676+00:00",
  "sections": [
   {
    "id": "cardiologia",
    "title": "Cardiología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "On Record: AI in Academic Cardiology - Innovation or Misconduct?",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOTdHOFlpZHk2V29UTGlnSmEtb28tNExsRXQzMjNnU1k5WXowdFN4bkQ5MVllc2ZidEdEZW5pTGxDLTAwR0pKR2Rma3NTbk4xY1loT01nRFlYQ0JBU283U0VWc0tFZm1UaV84VGltdVpyQ2xzRGluYTR6ZDhuX2xhclVJaV9tVVY0aGc1bVFpZzdHQVktQzBabmF0Ny1JRW1vQ0R0cXlB?oc=5",
+     "source": "TCTMD",
+     "published": "2026-07-07T13:42:06+00:00",
+     "id": "6eee90a93642"
+    },
     {
      "title": "Update on lipoprotein(a): the rising star in residual lipid risk",
      "link": "https://academic.oup.com/eurheartj/article/47/26/3313/8724957?rss=1",
@@ -41,13 +48,6 @@
      "source": "TCTMD",
      "published": "2026-07-02T17:25:46+00:00",
      "id": "2b4474a5c863"
-    },
-    {
-     "title": "On Record: PCI and TAVI Timing",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NSzBGb2xtMUpaWEZOTG9wR3ZScERVVGVkM1AtQjFUNElzZWdTOXVKTnE5OXQyajRWTkN5OWpEYS0xQmlOQXVLczJvVHY5N1FLN1FaaEZtVUxQbGVLOC1aM2JjZzdXUmFaTHhXWWN1T3hQZzV3VWVxMlNCWTU?oc=5",
-     "source": "TCTMD",
-     "published": "2026-07-02T14:41:23+00:00",
-     "id": "03deff6606bc"
     },
     {
      "title": "The Measure of a Leader: Lessons in Leadership From Eugene Braunwald",
@@ -89,25 +89,49 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Entrenamientos, clínicas y charlas: así será la semana de Los Pumas en San Juan",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeDJrQ3RLazhsWHV5dXZVOFVsTjVJVWVtNERfcjhhamdlZEs1bEMzczhpYW1pcl93eHIxZ3owSElyaXhvSHFEZ1dSM25lb3ljOUllb05NZnAyZnFacndfdThqX3JjeGtYTjFhTEJuSE1NbjBMTi1tWVJ0ZDZxRWNQeHFNbHhnNS1zSjhUclNKbkhPZ0I2WWxISE5MZmFYaEhtaFF4YlZsUTh4ZE9iXzgzakxXblA?oc=5",
-     "source": "Telesol Diario",
-     "published": "2026-07-07T12:38:13+00:00",
-     "id": "c5a163f367d1"
+     "title": "El emotivo regreso de Borré al Monumental: cuándo fue su último gol en Núñez, con una coincidencia especial",
+     "link": "https://www.ole.com.ar/river-plate/river-rafa-santos-borre-monumental-regreso-ultimo-gol_0_5oDxZMnQ8h.html",
+     "source": "Olé — River",
+     "published": "2026-07-07T15:27:44+00:00",
+     "copete": "El flamante refuerzo de River volvió a pisar el césped del Liberti acompañado de su mujer, que compartió unas sentidas palabras.",
+     "id": "ed2858015e73"
     },
     {
-     "title": "\"Los hinchas argentinos son muy apasionados\": el recuerdo de Aaron Wainwright antes del duelo entre Los Pumas y Gales en San Juan",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcE1KbFpoR2F5R3VROEZnbUdReDNENGo4andiQlpock0yUkZyUzdpMVBib2Y5U3oyTVBIR01fVUYxdVR3QkpfLVBxNXZiZW1za093MHVlWGg5RGxUVF9VMzdJVHRFOXhkN19uNEJqUUJDQkhGZVZabkI5RWFWZ2ZuQkdaVWxvSDMwcWVKMm9WZkVDRHl0cG5PaTRUZVJ0cTR2dWdGbm1TVC1xTVpfLWZ4QjZWbXNrTUxkOVl1TlM5cFFSLTBnNG9sSDJzS2QwXzRrZmVaOUF5T3Q5M181WFFDcXBMOFg1S0U?oc=5",
-     "source": "Cordoba XV",
-     "published": "2026-07-07T12:03:06+00:00",
-     "id": "34d6dadc1523"
+     "title": "Este miércoles, Los Pumas tendrán un entrenamiento a puertas abiertas en el Bicentenario",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZGNPRXFFVUlONEd1cEpQdW14cTcxbHRLcXZtVTEzRTBlb2ZsdTZfcnJiSmtILVVVdGpJZVVDMFM2bW1vWWY3YmtGNDhWbkVGQ0VPUjl1bENkOTJRekFNYUE1aGJtakVxZjF3NE9YLVRRekxuUlVna1lyWUhHcEpta3dlTVZ1WlE1R21pZ1pVSFFzN2ZfRTIxQ1QtWDd1enZZQS1VVVctd0RoR1lMQ3JaaFEyV1dLeUQ3OV9XeE02dy0wOElzbE51b2NvVUxrVWNERGlKQVN2d016LU51eE96MENLRkNKWWt1aVHSAfgBQVVfeXFMTXJiTDRUcXh2d3dQMHhTcnh4OEdXdGx1Q3VpdnNrdmlIR0lsekNaRGpPQWoxM2V0bVZ6UjRRcGR0WXlLT3d0SVR1a25VR3lIYVlYaUIyaGRqclIzNUxPS0M5V25GeGd5UTluc1ZuN0FienVKNDlCMDlKNmlnMmR3LXF3QjNGYUpsQXFyQ2NfcGRTbVUtNm9odzl4R3IxbTdsaEY3RTR2bE9FZmh4SS1pQ1NTVVpjakVaTDMyQTlOSl85ZU9CT0VTT0NNN3RNOHVMck56dzZsZ0ZtSVZTLV8yelphbWhUTmlGMjVCenRhcFN6V29velZFQUY?oc=5",
+     "source": "Diario 13 San Juan",
+     "published": "2026-07-07T14:59:02+00:00",
+     "id": "a7220724c6c7"
     },
     {
-     "title": "Cambios en el plantel de Los Pumas para ir a San Juan",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYkNGYVVuUzZFTi1xTGpRUDZTX3NUTmhEemVSNDBNbUlCSUkwOTNEXzJEdkItZXNXb19YZ2pQdGtkWERxYmFLYWxFSUNkdW9CS1lHU0RlMnhITk5UZGkzc2FkRXdsOEp2TnF3Mkttc1p3VE50czhGX2RxWmpFWVdib1JjWnRqU1d2WDc5cjBfR0Q?oc=5",
-     "source": "El Eco",
-     "published": "2026-07-07T09:31:07+00:00",
-     "id": "95ce25b7fd3a"
+     "title": "Con una importante novedad, River volvió al trabajo en el Camp",
+     "link": "https://www.ole.com.ar/river-plate/river-novedad-predio-ezeiza-camp-refuerzo-rafael-santos-borre-coudet_0_gD09Ol3Pb1.html",
+     "source": "Olé — River",
+     "published": "2026-07-07T14:43:39+00:00",
+     "copete": "El plantel de Eduardo Coudet comenzó la recta final de la pretemporada en Ezeiza.",
+     "id": "859827f34e08"
+    },
+    {
+     "title": "Ajustada derrota de Los Pumitas ante Inglaterra",
+     "link": "https://uar.com.ar/ajustada-derrota-de-los-pumitas-ante-inglaterra/",
+     "source": "UAR",
+     "published": "2026-07-07T14:31:05+00:00",
+     "copete": "En el cierre de la fase de grupos del Mundial M20, Los Pumitas cayeron por 40-38 ante Inglaterra en el Avchala Stadium de Tbilisi, Georgia. Con este resultado, el seleccionado argentino finalizó en la segunda posición del Grupo C, con 12…",
+     "id": "6dc2c6c463e8"
+    },
+    {
+     "title": "San Juan vive la Semana Puma con actividades en toda la provincia",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcks5Smtyd2VhTFhNR1BOOXRnWkJ5N0s3c2szYmQwTnNuRFplMW12Y2lnNjhvUjZnNl9qNXVTM216VFJjVTM5cXI5QXR1MHlJakJfZFM3MHlIdlhIZXZrQ0hzckt2QnRhTmtwZFZCM3A4MlN0bGhTR1B6d0wtZk1jYS1SMmhUZm9hS0NPblNKUGh5NnFEWHBTeUhhVUpWN2RkUWV3SVNoYW9xcWJlR2gyRXpEQW10d3c?oc=5",
+     "source": "Diario de Cuyo",
+     "published": "2026-07-07T14:19:00+00:00",
+     "id": "0edf8e7b97dd"
+    },
+    {
+     "title": "San Juan vive una semana junto a los Pumas con actividades en toda la provincia",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMkJmLXhhLUdFbzZ6eDRJWktBZHBpVzZEVmhFX19Da1cwM3R2dnFFLWdZLUxsUVptT0dKc1NrTHY0cDhUeE03VThnREpBdno0QjhnaDZxeDFBZHh1aDdmaFFJVU51eVNJUHVUd3NNV0R0UGtsQ0I4S0xPRFVaUXgycENWcFVOeVl6VGFCT05MWWswOFJTVEVPODhZUWk2ZkNndUNCd1FSUlV6T3hhTXVHaU85emlCMW1fUFNN?oc=5",
+     "source": "elpaisdiario.com.ar",
+     "published": "2026-07-07T14:10:29+00:00",
+     "id": "63801f4ac8e7"
     },
     {
      "title": "Boca vs. Athletico Paranaense, por un amistoso: hora, cómo ver y probables formaciones",
@@ -150,30 +174,6 @@
      "id": "7c30d6b81b38"
     },
     {
-     "title": "Primera práctica de Gorosito y un jugador ausente",
-     "link": "https://www.ole.com.ar/san-lorenzo/san-lorenzo-gorosito-primer-dia-falto-ausente-montenegro-romana_0_OuD8xgkJKB.html",
-     "source": "Olé — Primera",
-     "published": "2026-07-06T18:50:03+00:00",
-     "copete": "Pipo se hizo cargo del plantel de San Lorenzo y en el primer día ya tuvo malas noticias: uno de los futbolistas que venía siendo titular con Álvarez, faltó.",
-     "id": "82e3275e3f65"
-    },
-    {
-     "title": "Mercado de pases: uno por uno, todos los refuerzos y las bajas en medio del Mundial",
-     "link": "https://www.ole.com.ar/futbol-primera/pases-mercado-2026-clausura-refuerzos-mundial_0_rbetJ4oPYE.html",
-     "source": "Olé — River",
-     "published": "2026-07-06T17:31:00+00:00",
-     "copete": "De Otamendi y Lozano a Ortegoza y Unsain, todos los movimientos de cara al Clausura. Acá, el club por club mientras se juega la Copa del Mundo.",
-     "id": "88f44bc9a536"
-    },
-    {
-     "title": "Otamendi también piensa en River: la historia con guiño que subió",
-     "link": "https://www.ole.com.ar/river-plate/river-nicolas-otamendi-historia-instagram-hincha-posteo-seleccion-mundial-refuerzo_0_HrjxVtcNw3.html",
-     "source": "Olé — River",
-     "published": "2026-07-06T15:33:58+00:00",
-     "copete": "El marcador central se enfoca en el Mundial con la Selección, pero también se ilusiona con lo que vendrá después, cuando cumplirá el sueño familiar.",
-     "id": "4d5651eb5918"
-    },
-    {
      "title": "Los Pumitas e Inglaterra en busca de las semifinales",
      "link": "https://uar.com.ar/los-pumitas-e-inglaterra-en-busca-de-las-semifinales/",
      "source": "UAR",
@@ -197,78 +197,80 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "A Production RAG Pipeline for PDFs: Relational Parsing, TOC Retrieval, Typed Answers",
+     "link": "https://towardsdatascience.com/a-production-rag-pipeline-for-pdfs-relational-parsing-toc-retrieval-typed-answers/",
+     "source": "Towards Data Science",
+     "published": "2026-07-07T16:30:00+00:00",
+     "copete": "Enterprise Document Intelligence [Vol.1 #9A] - Same paper, same question as Article 1. One upgraded contract per brick: document parsing, question parsing, retrieval, generation The post A Production RAG Pipeline for PDFs: Relational…",
+     "id": "8cec0a3d654a"
+    },
+    {
+     "title": "SQL vs Pandas vs AI Agents: Which Solves Analytics Problems Best?",
+     "link": "https://www.kdnuggets.com/sql-vs-pandas-vs-ai-agents-which-solves-analytics-problems-best",
+     "source": "KDnuggets",
+     "published": "2026-07-07T16:00:29+00:00",
+     "copete": "Same three analytics problems, three tools, eight dimensions, measured with real execution times and real agent prompts.",
+     "id": "76544ddbcb06"
+    },
+    {
+     "title": "Microsoft Fire IdTech Team at Id Software",
+     "link": "https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-07T15:33:20+00:00",
+     "id": "34402cea62d5"
+    },
+    {
+     "title": "Chat Control passed first round in EU Parliament",
+     "link": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-07T15:16:15+00:00",
+     "id": "d9feb923244e"
+    },
+    {
+     "title": "Proxy-Pointer RAG: Temporal Reasoning Without Semantic Precompilation",
+     "link": "https://towardsdatascience.com/proxy-pointer-rag-temporal-reasoning-without-semantic-precompilation/",
+     "source": "Towards Data Science",
+     "published": "2026-07-07T15:00:00+00:00",
+     "copete": "A technical comparison of Proxy-Pointer and LLM-Wiki The post Proxy-Pointer RAG: Temporal Reasoning Without Semantic Precompilation appeared first on Towards Data Science .",
+     "id": "6d05735eb774"
+    },
+    {
+     "title": "Zero-Shot Local Document Parsing with Gemma 4: Treating PDFs as Images",
+     "link": "https://www.kdnuggets.com/zero-shot-local-document-parsing-with-gemma-4-treating-pdfs-as-images",
+     "source": "KDnuggets",
+     "published": "2026-07-07T14:00:04+00:00",
+     "copete": "Treating PDFs as images and feeding those images to Gemma 4 dissolves the scanned-versus-digital distinction that makes every text-extraction pipeline fragile. Fix that.",
+     "id": "034185d5a4c9"
+    },
+    {
+     "title": "Identifying Microbes in Space",
+     "link": "https://towardsdatascience.com/space-mould/",
+     "source": "Towards Data Science",
+     "published": "2026-07-07T13:30:00+00:00",
+     "copete": "What's living on the International Space Station? The post Identifying Microbes in Space appeared first on Towards Data Science .",
+     "id": "2c5d861c8088"
+    },
+    {
+     "title": "Dua Lipa opens library for banned and censored books in Portugal",
+     "link": "https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-07T12:50:40+00:00",
+     "id": "7666e86de807"
+    },
+    {
+     "title": "98% Isn't Much",
+     "link": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-07T12:45:14+00:00",
+     "id": "3fc0f3f60ff8"
+    },
+    {
      "title": "10 Probability Concepts for Machine Learning Explained Simply",
      "link": "https://www.kdnuggets.com/10-probability-concepts-for-machine-learning-explained-simply",
      "source": "KDnuggets",
      "published": "2026-07-07T12:00:36+00:00",
      "copete": "A model is almost never 100% sure of anything. These 10 probability concepts explain how it makes decisions anyway.",
      "id": "4e772ebfdf93"
-    },
-    {
-     "title": "Survival Analysis for Data Drift and ML Reliability",
-     "link": "https://towardsdatascience.com/survival-analysis-for-data-drift-and-ml-reliability/",
-     "source": "Towards Data Science",
-     "published": "2026-07-07T12:00:00+00:00",
-     "copete": "Treating model degradation as a time-to-failure problem The post Survival Analysis for Data Drift and ML Reliability appeared first on Towards Data Science .",
-     "id": "c3363958ccf3"
-    },
-    {
-     "title": "Microsoft Can Track Users via a Windows Device ID",
-     "link": "https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-07T08:54:03+00:00",
-     "id": "258907bfd476"
-    },
-    {
-     "title": "Managing/ Dealing with Junior Data Scientists?",
-     "link": "https://www.reddit.com/r/datascience/comments/1upl6er/managing_dealing_with_junior_data_scientists/",
-     "source": "r/datascience",
-     "published": "2026-07-07T04:59:45+00:00",
-     "id": "c40240414f43"
-    },
-    {
-     "title": "How to sequence your own DNA at home",
-     "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-07T00:14:21+00:00",
-     "id": "d248fccd46d8"
-    },
-    {
-     "title": "Small AI Models Gain Traction In places with unreliable networks",
-     "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-06T23:59:54+00:00",
-     "id": "224f5f92f80b"
-    },
-    {
-     "title": "tencent/Hy3",
-     "link": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything",
-     "source": "Simon Willison (IA)",
-     "published": "2026-07-06T23:57:35+00:00",
-     "copete": "tencent/Hy3 New Apache 2.0 licensed model from Tencent in China: Hy3 is a 295B-parameter Mixture-of-Experts (MoE) model with 21B active parameters and 3.8B MTP layer parameters, developed by the Tencent Hy Team. Following the Hy3 Preview…",
-     "id": "081c2c7849e9"
-    },
-    {
-     "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
-     "link": "https://ternlight-demo.vercel.app/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-06T23:06:31+00:00",
-     "id": "3fc5c87d9d3f"
-    },
-    {
-     "title": "Build a reasoning model from scratch, the new book is out",
-     "link": "https://www.reddit.com/r/datascience/comments/1up3p4m/build_a_reasoning_model_from_scratch_the_new_book/",
-     "source": "r/datascience",
-     "published": "2026-07-06T17:15:34+00:00",
-     "id": "5c74d7acd797"
-    },
-    {
-     "title": "Data Scientists Are Becoming AI Managers, Not Model Builders",
-     "link": "https://www.kdnuggets.com/data-scientists-are-becoming-ai-managers-not-model-builders",
-     "source": "KDnuggets",
-     "published": "2026-07-06T16:00:09+00:00",
-     "copete": "The role is shifting from building models to managing them.",
-     "id": "148f2cc4c65b"
     }
    ]
   },
@@ -278,100 +280,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Mundial 2026, en vivo: la previa del partido contra Egipto y el cruce entre Colombia y Suiza",
-     "link": "https://www.lanacion.com.ar/deportes/mundial-2026-en-vivo-la-formacion-de-la-scaloneta-y-toda-la-previa-del-partido-contra-egipto-por-los-nid07072026/",
-     "source": "La Nación",
-     "published": "2026-07-07T12:35:44+00:00",
-     "copete": "El minuto a minuto de las últimas noticias de la selección argentina, declaraciones de los jugadores y entrenadores, y repercusiones sobre los partidos",
-     "id": "3bdf87bd966b"
-    },
-    {
-     "title": "Mauricio Pochettino analizó la goleada de Bélgica ante Estados Unidos: “No estuvimos a la altura”",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/mauricio-pochettino-analizo-la-goleada-de-belgica-ante-estados-unidos-no-estuvimos-a-la-altura-nid07072026/",
-     "source": "La Nación",
-     "published": "2026-07-07T12:34:47+00:00",
-     "copete": "El entrenador argentino se refirió a la eliminación del seleccionado norteamericano del Mundial 2026 y sostuvo: “No hay que buscar excusas”",
-     "id": "54b6e581206f"
-    },
-    {
-     "title": "Fiebre oceánica: el Pacífico alcanza temperaturas récord y pone en alerta a científicos",
-     "link": "https://www.infobae.com/wapo/2026/07/07/fiebre-oceanica-el-pacifico-alcanza-temperaturas-record-y-pone-en-alerta-a-cientificos/",
+     "title": "Ciberataque a conductores en Bogotá: cómo evitar exponer tus datos personales y los del vehículo",
+     "link": "https://www.infobae.com/tecno/2026/07/07/ciberataque-a-conductores-en-bogota-como-evitar-exponer-tus-datos-personales-y-los-del-vehiculo/",
      "source": "Infobae",
-     "published": "2026-07-07T12:34:15+00:00",
-     "copete": "Una ola de calor marina sin precedentes cubre más del 13 por ciento de la superficie de la Tierra en el Océano Pacífico, con posibles consecuencias severas en el clima global durante los próximos meses",
-     "id": "e3d81397e77b"
+     "published": "2026-07-07T16:38:13+00:00",
+     "copete": "La Secretaría de Movilidad confirmó la exfiltración, que podría tratarse de más de 4 millones de registros afectados",
+     "id": "7cef22b3c948"
     },
     {
-     "title": "Juicio por la causa Cuadernos, en vivo: con una insólita situación por un testigo equivocado se reanudó la audiencia",
-     "link": "https://www.infobae.com/judiciales/2026/07/07/juicio-por-la-causa-cuadernos-en-vivo-el-tribunal-reanudo-las-audiencias-con-mas-testigos-de-la-ex-afip/",
+     "title": "La lupa sobre el penal a Tagliafico que luego falló Messi en Argentina-Egipto: por qué estuvo bien sancionado",
+     "link": "https://www.infobae.com/deportes/2026/07/07/la-lupa-sobre-el-penal-a-tagliafico-que-luego-fallo-messi-en-argentina-egipto-por-que-estuvo-bien-sancionado/",
      "source": "Infobae",
-     "published": "2026-07-07T12:33:54+00:00",
-     "copete": "En una nueva jornada del juicio a CFK y otros 85 acusados los jueces siguen reconstruyendo el camino de la investigación por dinero negro e inconsistencias",
-     "id": "59215aa8bbef"
+     "published": "2026-07-07T16:37:55+00:00",
+     "copete": "Haissem Hassan derribó al lateral izquierdo en el área y el árbitro Francois Letexier sancionó la pena máxima",
+     "id": "0b3804488739"
     },
     {
-     "title": "Infantino sacó el reglamento de Chiqui Tapia",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/infantino-saco-el-reglamento-de-chiqui-tapia-nid06072026/",
+     "title": "La estrella de la NBA que ingresó la pelota al partido Argentina-Egipto: su particular look",
+     "link": "https://www.infobae.com/deportes/2026/07/07/la-estrella-de-la-nba-que-ingreso-la-pelota-al-partido-argentina-egipto-su-particular-look/",
+     "source": "Infobae",
+     "published": "2026-07-07T16:37:40+00:00",
+     "copete": "Anthony Edwards, figura de los Minnesota Timberwolves, sorprendió con su vestimenta en la antesala al cruce por los octavos de final",
+     "id": "22c9bae5d7e7"
+    },
+    {
+     "title": "Argentina vs Egipto, EN VIVO por los octavos de final del Mundial 2026: Messi falló un penal y pierde la Scaloneta",
+     "link": "https://www.infobae.com/deportes/2026/07/07/argentina-egipto-en-vivo-por-los-octavos-de-final-del-mundial-hora-tv-formaciones-y-todo-lo-que-hay-que-saber/",
+     "source": "Infobae",
+     "published": "2026-07-07T16:36:34+00:00",
+     "copete": "La selección de Lionel Scaloni busca meterse entre los mejores ocho equipos de la competencia ante los Faraones",
+     "id": "494c3f2d8db4"
+    },
+    {
+     "title": "Argentina vs. Egipto EN VIVO por el Mundial 2026: el minuto a minuto del partido",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-egipto-en-vivo-por-el-mundial-2026-nid07072026/",
      "source": "La Nación",
-     "published": "2026-07-07T12:33:35+00:00",
-     "copete": "La resolución de la FIFA que habilitó al goleador de Estados Unidos a jugar pese a estar expulsado generó el gran escándalo del Mundial",
-     "id": "b308b8b2cab6"
+     "published": "2026-07-07T16:36:02+00:00",
+     "copete": "El partido se disputa en el Atlanta Stadium; Suiza o Colombia, el rival en cuartos de final",
+     "id": "0bf718054189"
     },
     {
-     "title": "Sofi Martínez habló sobre el ida y vuelta con Messi en zona mixta: “Me rescató de esa ola de giladas”",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/sofi-martinez-hablo-sobre-el-ida-y-vuelta-con-messi-en-zona-mixta-me-rescato-de-esa-ola-de-giladas-nid07072026/",
+     "title": "El penal que falló Lionel Messi ante Egipto en los octavos de final del Mundial",
+     "link": "https://www.infobae.com/deportes/2026/07/07/el-penal-que-fallo-lionel-messi-ante-egipto-en-los-octavos-de-final-del-mundial/",
+     "source": "Infobae",
+     "published": "2026-07-07T16:35:38+00:00",
+     "copete": "El capitán de la selección argentina tuvo la chance de igualar el marcador a los 20 minutos de la primera etapa, pero el arquero Mostafa Shobeir Oufa adivinó sus intenciones",
+     "id": "0629b438f294"
+    },
+    {
+     "title": "El gol de Egipto que abrió el marcador ante Argentina por los octavos de final del Mundial",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/el-gol-de-egipto-que-abrio-el-marcador-ante-argentina-por-los-octavos-de-final-del-mundial-nid07072026/",
      "source": "La Nación",
-     "published": "2026-07-07T12:33:30+00:00",
-     "copete": "La periodista agradeció que el capitán del seleccionado pusiera fin a versiones sobre un presunto distanciamiento con el plantel; “Siento que me saludó para que me dejen de torturar”, dijo",
-     "id": "2cc962c92809"
+     "published": "2026-07-07T16:35:11+00:00",
+     "copete": "Yasser Ibrahim, de cabeza, a los quince minutos, puso el 1-0 para el equipo africano, tras un tiro de esquina que el equipo africano decidió jugar corto",
+     "id": "a7f52eda7329"
     },
     {
-     "title": "Juico por Loan Peña, en vivo: declaran tres familiares del niño desaparecido en Corrientes",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/07/07/juicio-por-loan-pena-en-vivo-todas-las-declaraciones-y-la-ultimas-noticias-hoy-7-de-julio/",
-     "source": "Infobae",
-     "published": "2026-07-07T12:32:05+00:00",
-     "copete": "Hoy declaran frente al Tribunal en Corrientes, Miguel Ángel Noguera, tío materno del niño y Diego Arnaldo “Huevo” Peña, primo del menor desaparecido. También lo hará Roque Valeriano Noguera, que participó del operativo y encontró huellas…",
-     "id": "ea8761490c2e"
-    },
-    {
-     "title": "Banderazo argentino en Atlanta: miles de hinchas palpitan el decisivo partido contra Egipto",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/banderazo-argentino-en-atlanta-miles-de-hinchas-palpitan-el-decisivo-partido-de-manana-contra-egipto-nid06072026/",
+     "title": "Javier Milei y sus medidas, en vivo: en cuánto se proyecta la inflación de junio y los avances de la reforma electoral",
+     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-en-cuanto-se-proyecta-la-inflacion-de-junio-y-los-avances-de-la-nid07072026/",
      "source": "La Nación",
-     "published": "2026-07-07T12:31:39+00:00",
-     "copete": "Los hinchas llegan movilizados especialmente desde la Argentina y Miami; la selección buscará el pase a los cuartos de final del Mundial en un estadio que costó US$1500 millones",
-     "id": "9bd9c681b3c1"
+     "published": "2026-07-07T16:35:00+00:00",
+     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+     "id": "cc708ef2f687"
     },
     {
-     "title": "Mundial 2026, en VIVO: últimas noticias de hoy, 7 de julio, resultados, fixture y el minuto a minuto de la previa del partido de Argentina",
-     "link": "https://www.infobae.com/deportes/2026/07/07/mundial-2026-en-vivo-ultimas-noticias-de-hoy-7-de-julio-resultados-fixture-y-el-minuto-a-minuto-de-la-previa-del-partido-de-argentina/",
-     "source": "Infobae",
-     "published": "2026-07-07T12:30:27+00:00",
-     "copete": "Los campeones del mundo se miden ante Egipto en busca de los cuartos de final. Miles de hinchas albicelestes coparon las calles de Atlanta",
-     "id": "c9646ea92e93"
+     "title": "Noticias del ICE en Atlanta, hoy: confirman operativos oficiales por el partido de Argentina en el Mundial 2026",
+     "link": "https://www.lanacion.com.ar/estados-unidos/georgia/noticias-de-atlanta-hoy-avanzan-operativos-oficiales-con-el-ice-por-el-partido-de-argentina-en-el-nid06072026/",
+     "source": "La Nación",
+     "published": "2026-07-07T16:34:43+00:00",
+     "copete": "Conoce cómo será el operativo del ICE para Argentina vs. Egipto en Atlanta y qué controles aplicarán durante el partido del Mundial 2026.",
+     "id": "a3ae48b1cdfa"
     },
     {
-     "title": "Mundial y trabajo: casi la mitad de los argentinos asegura que mejora el clima laboral durante los partidos",
-     "link": "https://www.infobae.com/sociedad/2026/07/07/mundial-y-trabajo-casi-la-mitad-de-los-argentinos-asegura-que-mejora-el-clima-laboral-durante-los-partidos/",
-     "source": "Infobae",
-     "published": "2026-07-07T12:26:48+00:00",
-     "copete": "Una encuesta reveló cómo impacta la Copa del Mundo en las oficinas argentinas: casi la mitad de los trabajadores asegura que mejora el clima laboral",
-     "id": "091126b05c90"
+     "title": "A qué hora de EE.UU. juega Colombia vs. Suiza hoy: en vivo el partido de octavos del Mundial 2026",
+     "link": "https://www.lanacion.com.ar/estados-unidos/a-que-hora-de-eeuu-juega-colombia-vs-suiza-hoy-en-vivo-el-partido-de-octavos-del-mundial-2026-nid07072026/",
+     "source": "La Nación",
+     "published": "2026-07-07T16:34:30+00:00",
+     "copete": "Cómo ver en vivo Colombia vs. Suiza por los octavos del Mundial 2026: hora en Estados Unidos, canales en inglés y español, y streaming disponible",
+     "id": "2f709a01ef48"
     },
     {
-     "title": "Terremotos en Venezuela hoy, EN VIVO: daños, víctimas y últimas noticias de este martes 7 de julio",
-     "link": "https://www.clarin.com/mundo/terremotos-venezuela-hoy-vivo-danos-victimas-ultimas-noticias-martes-7-julio_0_JNOgNLzkQb.html",
+     "title": "Argentina copó Atlanta: la caravana de hinchas del centro al estadio que hizo vibrar las calles de la ciudad de la fórmula de la Coca Cola",
+     "link": "https://www.clarin.com/deportes/argentina-copo-atlanta-caravana-hinchas-centro-estadio-hizo-vibrar-calles-ciudad-formula-coca-cola_0_rIM9OXOHzy.html",
      "source": "Clarín",
-     "published": "2026-07-07T11:20:06+00:00",
-     "copete": "La cifra de muertos se elevó a 3.535, además de más de 16.000 heridos y 50.000 desaparecidos. Todas las novedades sobre los terremotos en Venezuela, minuto a minuto.",
-     "id": "cd1ba9aaab61"
+     "published": "2026-07-07T15:53:38+00:00",
+     "copete": "Unos 2.000 hinchas caminaron quince cuadras para llegar al imponente estadio de los octavos de final del Mundial 2026. Clarín los acompañó en cada paso con mucho ruido, al compás de los bombos. Mirá el video.",
+     "id": "37ac1e93d040"
     },
     {
-     "title": "\"Cuatro tiros en la nuca\": apareció enterrada en Kiev la ucraniana sospechosa de atentar en Mónaco",
-     "link": "https://www.clarin.com/mundo/tiros-nuca-aparecio-enterrada-kiev-ucraniana-sospechosa-atentar-monaco_0_laC7ZleftV.html",
+     "title": "Finalizó el rodaje de \"Un funeral y medio\", el protagónico compartido de Francella y Suar",
+     "link": "https://www.clarin.com/espectaculos/finalizo-rodaje-funeral-medio-protagonico-compartido-francella-suar_0_vKnu1NZuE3.html",
      "source": "Clarín",
-     "published": "2026-07-07T11:18:29+00:00",
-     "copete": "La mujer estaba prófuga desde la semana pasada cuando fue captada en Montecarlo tras el ataque con bomba contra un oligarca ucraniano. Según la investigación, la mujer era una colaboradora partidaria de Vladimir Putin, con vínculos con el…",
-     "id": "8c18049da666"
+     "published": "2026-07-07T15:53:17+00:00",
+     "copete": "Es la primera película en la que ambos están juntos como protagonistas. La comedia, producida por argentina Sono Film y distribuida por Disney, estrenará el año que viene.",
+     "id": "6d7f77edb2b1"
     }
    ]
   },
@@ -381,84 +383,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "El tribunal rebaja la pena a Le Pen y abre la puerta a que sea candidata con un brazalete electrónico",
-     "link": "https://elpais.com/internacional/2026-07-07/el-tribunal-rebaja-la-pena-a-le-pen-y-abre-la-puerta-a-que-sea-candidata-con-un-brazalete-electronico.html",
-     "source": "El País Internacional",
-     "published": "2026-07-07T12:07:37+00:00",
-     "copete": "La Justicia francesa permite a la líder ultraderechista concurrir a los comicios por cuarta vez consecutiva, pero si cumple su palabra respecto a las medidas de control impuestas deberá ceder el paso a Bardella",
-     "id": "654c5223bbd2"
+     "title": "¡Messi falla un penal! Argentina intenta pero sigue perdiendo 0-1 contra Egipto en el Mundial 2026",
+     "link": "https://www.bbc.co.uk/mundo/live/cj6gg4g8y1et?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-07T16:43:19.854617+00:00",
+     "copete": "Tras el partido de Argentina contra Egipto, Colombia juega contra Suiza por los octavos de final del Mundial 2026. Los ganadores de ambos partidos se enfrentarán este sábado, por lo que los sudamericanos podrían enfrentarse en cuartos.",
+     "id": "0a8b2cd88cf1"
+    },
+    {
+     "title": "El funcionario chino condenado a muerte por aceptar US$325 millones en sobornos",
+     "link": "https://www.bbc.com/mundo/articles/cg4wdvneqgdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-07T16:36:54+00:00",
+     "copete": "El tribunal concluyó que el funcionario de 69 años ayudaba a las empresas a conseguir contratos valiosos a cambio de dinero.",
+     "id": "6860d866ad29"
     },
     {
      "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
      "link": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-07-07T11:42:40+00:00",
+     "published": "2026-07-07T16:31:04+00:00",
      "copete": "Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.",
      "id": "84bd5b5ee549"
-    },
-    {
-     "title": "Explosions injure 18 in Damascus during Macron's visit",
-     "link": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-07T11:16:30+00:00",
-     "copete": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
-     "id": "c81834d60b16"
-    },
-    {
-     "title": "Zimbabwean football star survives gun attack in South Africa",
-     "link": "https://www.bbc.co.uk/news/articles/c1my1rvy28do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-07T11:12:00+00:00",
-     "copete": "South African police say they are investigating a case of attempted murder but that no arrests have been made so far.",
-     "id": "61ed0000f1ea"
-    },
-    {
-     "title": "Los adolescentes que ensayaban su baile de fin de curso cuando ocurrieron los terremotos de Venezuela y a los que sus padres aún buscan entre los escombros casi \"sin ayuda\"",
-     "link": "https://www.bbc.com/mundo/articles/c78yyj0jpd0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-07T11:07:06+00:00",
-     "copete": "María Lourdes Pérez, quien se encuentra en una de las zonas de Venezuela más devastadas por los terremotos del 24 de junio, cuenta que lo perdió “todo” y que no dejará de buscar entre los escombros a su hijo y a sus amigas.",
-     "id": "ca82ab666843"
     },
     {
      "title": "\"Una mujer despreciable e indigna\": Mbappé condena los mensajes racistas de una senadora paraguaya que ahora lo amenaza con acciones legales",
      "link": "https://www.bbc.com/mundo/articles/cgrkk8dj4kvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-07T10:57:57+00:00",
+     "published": "2026-07-07T16:23:48+00:00",
      "copete": "El delantero francés criticó a la legisladora Celeste Amarilla, después de que ella se burlara del origen y la educación del futbolista.",
      "id": "e5457b86ed9f"
     },
     {
-     "title": "\"Mi abuela me ayudó a traducir mi primer cover al quechua y ahora canto en ese idioma por el mundo\"",
-     "link": "https://www.bbc.com/mundo/articles/cn5p5wrkg0go?at_medium=RSS&at_campaign=rss",
+     "title": "\"Deambula por la cancha como un abuelo\": las críticas a Cristiano Ronaldo tras la eliminación de Portugal del Mundial",
+     "link": "https://www.bbc.com/mundo/articles/cr5j9886ggqo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-07T10:30:14+00:00",
-     "copete": "En 2015 se hizo viral por una versión en quechua de Michael Jackson que una de sus abuelas le ayudó a traducir.",
-     "id": "5947acfc69b7"
+     "published": "2026-07-07T16:08:06+00:00",
+     "copete": "BBC Sport analiza el final de la trayectoria de Cristiano Ronaldo en los Mundiales, tras no lograr conquistar el mayor trofeo del fútbol.",
+     "id": "599e5fccbaf2"
     },
     {
-     "title": "La principal sospechosa del atentado de Mónaco es asesinada de un disparo en Ucrania",
-     "link": "https://elpais.com/internacional/2026-07-07/la-principal-sospechosa-del-atentado-de-monaco-es-asesinada-de-un-disparo-en-ucrania.html",
+     "title": "Qatar acusa a Irán de atacar a uno de sus petroleros en el estrecho de Ormuz",
+     "link": "https://elpais.com/internacional/2026-07-07/qatar-acusa-a-iran-de-atacar-a-uno-de-sus-petroleros-en-el-estrecho-de-ormuz.html",
      "source": "El País Internacional",
-     "published": "2026-07-07T10:30:01+00:00",
-     "copete": "El cadáver de la mujer, que había huido a través de Italia y Alemania, fue encontrado a última hora de la noche cerca de Kiev",
-     "id": "b337b6a6ebea"
+     "published": "2026-07-07T15:52:29+00:00",
+     "copete": "Un segundo buque con bandera saudí también ha sufrido daños cerca de la costa de Omán aunque se desconocen las causas de este incidente",
+     "id": "e84cdc0a81d3"
     },
     {
-     "title": "Al menos 18 heridos en Damasco tras estallar dos artefactos explosivos cerca del hotel donde se aloja Emmanuel Macron",
-     "link": "https://elpais.com/internacional/2026-07-07/varios-artefactos-explosivos-estallan-en-damasco-cerca-del-hotel-donde-se-aloja-emmanuel-macron.html",
+     "title": "El ultra británico Farage dimite como diputado por un caso de corrupción pero buscará ser reelegido",
+     "link": "https://elpais.com/internacional/2026-07-07/el-ultraderechista-britanico-farage-dimite-como-diputado-y-fuerza-una-eleccion-parcial-para-intentar-ser-reelegido.html",
      "source": "El País Internacional",
-     "published": "2026-07-07T10:23:24+00:00",
-     "copete": "El presidente francés inició el lunes una visita oficial a Siria, la primera de un jefe de Estado europeo a las nuevas autoridades del país",
-     "id": "2e25ba1308cd"
+     "published": "2026-07-07T15:51:06+00:00",
+     "copete": "El político que impulsó el Brexit y la xenofobia está acorralado por lujosos regalos y donativos de varios amigos multimillonarios",
+     "id": "b85f89da766e"
     },
     {
-     "title": "Austria condena a ocho años de cárcel al mayor jerarca de Bachar el Asad, juzgado en Europa bajo el principio de jurisdicción universal",
-     "link": "https://elpais.com/internacional/2026-07-07/austria-condena-a-ocho-anos-de-carcel-al-mayor-jerarca-de-bachar-el-asad-juzgado-en-europa-bajo-el-principio-de-jurisdiccion-universal.html",
+     "title": "Marine Le Pen found guilty, but court clears way for presidential run if she wears tag",
+     "link": "https://www.bbc.co.uk/news/articles/cly85qjg45no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-07T15:46:05+00:00",
+     "copete": "The National Rally leader now has to decide whether she will run with an electronic tag and will speak on TV later.",
+     "id": "ad6fae6b6cc7"
+    },
+    {
+     "title": "Hallan muerta con disparos en la cabeza a la sospechosa del atentado con bomba contra un millonario ucraniano en Mónaco",
+     "link": "https://www.bbc.com/mundo/articles/cvglzxxxewzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-07T15:37:46+00:00",
+     "copete": "La mujer sospechosa de perpetrar hace unos días un atentado con un paquete bomba en Mónaco en el que resultaron heridos un multimillonario ucraniano sancionado y su familia, fue hallada muerta, según informó el Servicio de Seguridad de…",
+     "id": "42693ad6882c"
+    },
+    {
+     "title": "Zelenski ondea la experiencia de Ucrania en la guerra moderna y reclama entrar en la OTAN",
+     "link": "https://elpais.com/internacional/2026-07-07/zelenski-ondea-la-experiencia-de-ucrania-en-la-guerra-moderna-y-reclama-entrar-en-la-otan.html",
      "source": "El País Internacional",
-     "published": "2026-07-07T09:59:45+00:00",
-     "copete": "El exgeneral sirio Jaled al Halabi llegó a Viena de la mano del Mosad y con la complicidad de los servicios secretos internos. El fallo también sentencia a ocho años de cárcel a Musab Abu Rukba, antiguo jefe de la policía criminal de Raqa",
-     "id": "ab90ca5bb9ab"
+     "published": "2026-07-07T15:32:18+00:00",
+     "copete": "El presidente ucranio pide misiles balísticos para enfrentarse a los bombardeos rusos",
+     "id": "defbbd569988"
     }
    ]
   }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T22:02:14Z",
+  "generated_at": "2026-07-07T10:04:21Z",
   "summaries": {
     "110542886dd7": {
       "resumen": "Ensayo clínico que evaluó si una estrategia de restricción de oxígeno (apuntar a saturaciones más conservadoras que las habituales) en pacientes reanimados tras un paro cardíaco mejora los resultados neurológicos o la supervivencia, comparada con el manejo convencional. Interesa porque el manejo del oxígeno post paro cardíaco —evitar tanto la hipoxia como la hiperoxia— sigue siendo un punto debatido en las guías de reanimación.",
@@ -19,10 +19,6 @@
       "resumen": "Entrevista/podcast de la serie 'On Record' de TCTMD sobre el momento óptimo (timing) para realizar una intervención coronaria percutánea (PCI, Percutaneous Coronary Intervention) en pacientes que también requieren un implante valvular aórtico transcatéter (TAVI, Transcatheter Aortic Valve Implantation). Es un tema frecuente en cardiología intervencionista, dado que muchos pacientes con estenosis aórtica severa tienen enfermedad coronaria concomitante.",
       "destacado": false
     },
-    "de27575ef365": {
-      "resumen": "Artículo de European Heart Journal que repasa ensayos clínicos de impacto reciente en cuatro áreas: dislipidemias, reserva de flujo fraccional (fractional flow reserve, FFR, una medida invasiva de la severidad funcional de una lesión coronaria), betabloqueantes y enfermedad arterial periférica. Funciona como resumen ejecutivo de la evidencia más relevante del año en esos temas.",
-      "destacado": false
-    },
     "b24e7048d17e": {
       "resumen": "Ensayo publicado en JACC (Journal of the American College of Cardiology) sobre lecciones de liderazgo a partir de la trayectoria de Eugene Braunwald, uno de los cardiólogos más influyentes del siglo XX. No aporta datos clínicos sino una reflexión sobre mentoría y conducción de equipos académicos, de interés para quien lidera una residencia.",
       "destacado": false
@@ -37,10 +33,6 @@
     },
     "4268821e5b6e": {
       "resumen": "Segundo documento de consenso internacional de las sociedades AHA, ACC, ESC y WHF (American Heart Association, American College of Cardiology, European Society of Cardiology y World Heart Federation) que actualiza la definición universal de insuficiencia cardíaca, unificando criterios diagnósticos y de clasificación usados a nivel mundial.",
-      "destacado": false
-    },
-    "d8fcc4a1be8a": {
-      "resumen": "Ficha técnica del OpenWrt One, un router de hardware abierto (open hardware) pensado para correr firmware personalizado. Le puede servir a un médico que arma sus propios proyectos de análisis de datos como base para montar un servidor casero (home lab) donde alojar herramientas de procesamiento de datos o modelos propios.",
       "destacado": false
     },
     "5c74d7acd797": {
@@ -63,32 +55,43 @@
       "resumen": "Guía introductoria sobre 'ML Intern', una herramienta de Hugging Face que actúa como agente de aprendizaje automático (machine learning) capaz de automatizar tareas de entrenamiento y evaluación de modelos. Le sirve a un médico que se inicia en ciencia de datos porque muestra cómo delegar tareas repetitivas de ML a un agente sin necesitar dominar todo el stack técnico desde el principio.",
       "destacado": false
     },
-    "555b9deda1d3": {
-      "resumen": "Artículo técnico sobre cómo validar automáticamente las respuestas de sistemas de generación aumentada por recuperación (RAG, Retrieval-Augmented Generation) antes de mostrarlas al usuario, verificando que cada afirmación esté respaldada por citas textuales (spans y quotes) de las fuentes originales. Es clave para quien trabaja en datos de salud, porque estas técnicas ayudan a construir herramientas de consulta de literatura médica o farmacovigilancia que no inventen información.",
-      "destacado": true
-    },
     "e283c2dfacc8": {
       "resumen": "SAFER-TAVI es un estudio que evalúa si usar la arteria radial como acceso vascular secundario (en lugar del acceso femoral contralateral habitual) durante el implante valvular aórtico transcatéter (TAVI, Transcatheter Aortic Valve Implantation) reduce las complicaciones en ese sitio de acceso. Interesa porque las complicaciones vasculares siguen siendo un punto débil del TAVI, y optimizar el acceso secundario podría bajar sangrados y complicaciones locales.",
       "destacado": false,
       "analisis": "Diseño: Por el título se infiere un estudio (aparentemente un registro o ensayo comparativo, no queda claro si aleatorizado) identificado como SAFER-TAVI; no se cuenta con el abstract para precisar número de centros, tamaño muestral ni cegamiento.\nPoblación: Pacientes sometidos a implante valvular aórtico transcatéter (TAVI) que requieren un acceso vascular secundario para catéter pigtail o monitoreo angiográfico durante el procedimiento.\nIntervención: Uso de la arteria radial como acceso secundario, comparado con el acceso femoral contralateral tradicional.\nResultados: El título sugiere menos problemas en el sitio de acceso secundario con la estrategia radial frente a la femoral; no hay razones de riesgo, intervalos de confianza ni valores de p disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño muestral, la potencia estadística, el diseño exacto (aleatorizado vs. observacional) ni la curva de aprendizaje operador-dependiente del acceso radial.\nMensaje: De confirmarse, respaldaría preferir el acceso radial como abordaje secundario en TAVI para reducir complicaciones vasculares, pero se necesita el trabajo completo antes de cambiar la práctica.\nNota: análisis sin acceso al abstract."
     },
-    "6a3352f680a6": {
-      "resumen": "Una figura del rugby de Gales anticipó un ambiente hostil y ruidoso de cara al partido ante Los Pumas en San Juan."
-    },
-    "71c9d77bcb80": {
-      "resumen": "CoMaps es una aplicación de mapas offline de código abierto (FOSS, Free and Open Source Software), continuadora de proyectos como Maps.me, que permite navegar sin conexión a internet. Le sirve a un médico que aprende ciencia de datos como ejemplo de alternativa abierta a servicios cerrados de mapas, útil si necesita trabajar con datos geoespaciales o georreferenciar información sin depender de APIs pagas."
-    },
-    "22b32121ee2a": {
-      "resumen": "Publicación de investigación de Anthropic que explora si los modelos de lenguaje (language models) organizan la información de forma parecida a un 'espacio de trabajo global' (global workspace), una teoría tomada de las ciencias cognitivas sobre cómo el cerebro integra y difunde información entre distintos procesos. Le aporta a un médico en formación de datos una mirada de interpretabilidad: entender mejor qué pasa 'adentro' de estos modelos ayuda a usarlos con más criterio y menos como caja negra."
-    },
-    "3719e89d61dc": {
-      "resumen": "Kani es una herramienta de verificación formal (model checker) para el lenguaje de programación Rust, que permite demostrar matemáticamente que un programa no tiene ciertos tipos de errores en lugar de solo testearlo. Le sirve a quien se inicia en análisis de datos y programación para entender que existen técnicas más rigurosas que el testing tradicional para garantizar la corrección de código crítico, algo relevante en pipelines de datos sensibles."
-    },
     "73c610727184": {
       "resumen": "Tras la derrota ante Escocia, Los Pumas ya se instalaron en San Juan y arrancan la semana de preparación de cara al partido frente a Gales."
     },
-    "ecb546144d9d": {
-      "resumen": "A siete años de la histórica final de los Jaguares en el Super Rugby, un repaso por dónde está hoy cada uno de aquellos jugadores."
+    "4d8b816a7dc7": {
+      "resumen": "Artículo de revisión de European Heart Journal sobre la lipoproteína(a) [Lp(a)], una partícula lipídica de origen genético que eleva el riesgo cardiovascular independientemente del colesterol LDL (lipoproteína de baja densidad) convencional. Repasa por qué se la considera cada vez más protagonista del riesgo lipídico residual —el que persiste pese a tratar el colesterol LDL— y el estado de las terapias dirigidas específicamente contra ella. Interesa porque la medición de Lp(a) y las nuevas drogas en desarrollo están empezando a incorporarse a la práctica clínica.",
+      "destacado": false
+    },
+    "0d587151ccf8": {
+      "resumen": "CCU lanza en Córdoba una campaña de consumo responsable de alcohol con su cerveza sin alcohol Imperial 0.0, en articulación con Los Pumas."
+    },
+    "9e8dc81b85a9": {
+      "resumen": "Gales llega en gran nivel a su choque con Los Pumas en San Juan, una señal de alarma para el equipo de Contepomi tras la derrota ante Escocia."
+    },
+    "081c2c7849e9": {
+      "resumen": "Tencent lanzó Hy3, un modelo de lenguaje de gran escala (LLM) con licencia abierta Apache 2.0, que usa una arquitectura de mezcla de expertos (Mixture-of-Experts, MoE) de 295.000 millones de parámetros totales pero solo 21.000 millones activos por consulta, lo que lo hace más eficiente de correr. Le sirve a un médico que aprende ciencia de datos porque suma una alternativa abierta y gratuita a los modelos cerrados, útil para experimentar con inteligencia artificial sin depender de servicios pagos.",
+      "destacado": true
+    },
+    "3fc5c87d9d3f": {
+      "resumen": "Ternlight es un modelo de embeddings (representaciones vectoriales de texto usadas para búsqueda semántica) de apenas 7 megabytes que corre directamente en el navegador mediante WebAssembly (WASM), sin necesitar servidor. Le sirve a un médico que aprende ciencia de datos como ejemplo de que hoy se pueden correr herramientas de procesamiento de lenguaje natural livianas incluso en el navegador, sin infraestructura cara.",
+      "destacado": false
+    },
+    "95070db5e920": {
+      "resumen": "Proyecto que convirtió una tablet reMarkable (de tinta electrónica) en una réplica del diario de Tom Ryddle de Harry Potter, usando un modelo de inteligencia artificial (Fable) que responde por escrito como si el objeto tuviera vida propia. Le aporta a un médico en formación de datos un ejemplo lúdico de cómo integrar modelos de lenguaje con hardware físico para crear experiencias interactivas.",
+      "destacado": false
+    },
+    "7caf8d4da7da": {
+      "resumen": "Ensayo que argumenta que aprender a programar sigue valiendo la pena incluso en la era de los asistentes de inteligencia artificial que escriben código automáticamente. Le sirve a un médico que se está formando en análisis de datos como respaldo para seguir invirtiendo tiempo en entender los fundamentos de programación, en lugar de depender solo de herramientas de generación automática de código.",
+      "destacado": false
+    },
+    "381006001abd": {
+      "resumen": "Análisis sobre el modelo chino GLM 5.2 y cómo la competencia de modelos de inteligencia artificial cada vez más baratos y potentes podría erosionar los márgenes de ganancia de las empresas que venden acceso a estos modelos. Le sirve a un médico que aprende ciencia de datos para entender el contexto económico detrás de la carrera de precios entre proveedores de inteligencia artificial, que impacta directamente en el costo de usar estas herramientas.",
+      "destacado": false
     }
   }
 }

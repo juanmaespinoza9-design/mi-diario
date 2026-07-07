@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-07T04:29:22.383440+00:00",
+ "generated_at": "2026-07-07T10:03:46.929959+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -89,6 +89,13 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Cambios en el plantel de Los Pumas para ir a San Juan",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYkNGYVVuUzZFTi1xTGpRUDZTX3NUTmhEemVSNDBNbUlCSUkwOTNEXzJEdkItZXNXb19YZ2pQdGtkWERxYmFLYWxFSUNkdW9CS1lHU0RlMnhITk5UZGkzc2FkRXdsOEp2TnF3Mkttc1p3VE50czhGX2RxWmpFWVdib1JjWnRqU1d2WDc5cjBfR0Q?oc=5",
+     "source": "El Eco",
+     "published": "2026-07-07T09:31:07+00:00",
+     "id": "95ce25b7fd3a"
+    },
+    {
      "title": "CCU Argentina pone en agenda el disfrute consciente con Imperial 0.0 junto a Los Pumas",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbkFfb1Q2U1RLYVRlVTRHX0JFX195M2tyMF9nWXZJeHk0YXFlQ3ZsYWd6T1N3Z0xSMFJxRDdNdFJscXlsc2RLZThweWI1MEkxQmJPdTlNM2pWUXpucDlWV2hIeGRZUlV6LXg2OEVQRE5rYTl0YkJSLXVkTmZteG80dDBzVHE5N3RkcGtTZk50REVDdFlpa2JVc2FrUXgwRE94enVwR2lRVHhvVko4dy1hUm1n?oc=5",
      "source": "Cordoba XV",
@@ -151,13 +158,6 @@
      "id": "82e3275e3f65"
     },
     {
-     "title": "Atención, Los Pumas: el buen momento de Gales en la previa al partido en San Juan",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcWszSHA2RURDZGsxWGVqTEpxYmJHNjhfR19uZzNLZmJQSWJwcGc5WDRmdm1NNWRudUgzUzh5WVdicEMtbmdDQWY2UDhSRjlRMkY0UlpxVmdsSVpFbVRxcVZzWEx2WUs5T1hCWmVYMUxILVl3WTByNi1MWURxM0ZERllncXlFczdRZ2YzUm9pQ0Rwa0tCMUY0RThYUEdSYk1hdlJKOW4yMHhncndfckJIbE92WHlWU3BzaDF4WkZXd2p4ekMwSVE?oc=5",
-     "source": "ESPN Argentina",
-     "published": "2026-07-06T17:43:00+00:00",
-     "id": "9e8dc81b85a9"
-    },
-    {
      "title": "Mercado de pases: uno por uno, todos los refuerzos y las bajas en medio del Mundial",
      "link": "https://www.ole.com.ar/futbol-primera/pases-mercado-2026-clausura-refuerzos-mundial_0_rbetJ4oPYE.html",
      "source": "Olé — River",
@@ -197,12 +197,40 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Managing/ Dealing with Junior Data Scientists?",
+     "link": "https://www.reddit.com/r/datascience/comments/1upl6er/managing_dealing_with_junior_data_scientists/",
+     "source": "r/datascience",
+     "published": "2026-07-07T04:59:45+00:00",
+     "id": "c40240414f43"
+    },
+    {
+     "title": "How to sequence your own DNA at home",
+     "link": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-07T00:14:21+00:00",
+     "id": "d248fccd46d8"
+    },
+    {
+     "title": "Small AI Models Gain Traction In places with unreliable networks",
+     "link": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-06T23:59:54+00:00",
+     "id": "224f5f92f80b"
+    },
+    {
      "title": "tencent/Hy3",
      "link": "https://simonwillison.net/2026/Jul/6/hy3/#atom-everything",
      "source": "Simon Willison (IA)",
      "published": "2026-07-06T23:57:35+00:00",
      "copete": "tencent/Hy3 New Apache 2.0 licensed model from Tencent in China: Hy3 is a 295B-parameter Mixture-of-Experts (MoE) model with 21B active parameters and 3.8B MTP layer parameters, developed by the Tencent Hy Team. Following the Hy3 Preview…",
      "id": "081c2c7849e9"
+    },
+    {
+     "title": "NSA and IETF: Fairness",
+     "link": "https://blog.cr.yp.to/20260706-fairness.html",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-06T23:33:54+00:00",
+     "id": "0c1fe16ac362"
     },
     {
      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
@@ -212,39 +240,11 @@
      "id": "3fc5c87d9d3f"
     },
     {
-     "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-     "link": "https://github.com/MaximeRivest/Riddle",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-06T23:00:24+00:00",
-     "id": "95070db5e920"
-    },
-    {
-     "title": "Learning to code is still worthwhile",
-     "link": "https://stevekrouse.com/learn-to-code",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-06T20:59:54+00:00",
-     "id": "7caf8d4da7da"
-    },
-    {
-     "title": "GLM 5.2 and the coming AI margin collapse",
-     "link": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-06T20:14:55+00:00",
-     "id": "381006001abd"
-    },
-    {
      "title": "Build a reasoning model from scratch, the new book is out",
      "link": "https://www.reddit.com/r/datascience/comments/1up3p4m/build_a_reasoning_model_from_scratch_the_new_book/",
      "source": "r/datascience",
      "published": "2026-07-06T17:15:34+00:00",
      "id": "5c74d7acd797"
-    },
-    {
-     "title": "Should you feel inferior to DS folks working at FAANG or OpenAI-type companies?",
-     "link": "https://www.reddit.com/r/datascience/comments/1up1p2d/should_you_feel_inferior_to_ds_folks_working_at/",
-     "source": "r/datascience",
-     "published": "2026-07-06T16:05:48+00:00",
-     "id": "3bba4c1d9df4"
     },
     {
      "title": "Data Scientists Are Becoming AI Managers, Not Model Builders",
@@ -278,100 +278,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "República Dominicana aplasta a Nicaragua en el clasificatorio del Mundial 2027",
-     "link": "https://www.infobae.com/republica-dominicana/2026/07/07/republica-dominicana-aplasta-a-nicaragua-en-el-clasificatorio-del-mundial-2027/",
-     "source": "Infobae",
-     "published": "2026-07-07T04:20:48+00:00",
-     "copete": "El equipo caribeño dominó en Santo Domingo y rompió el juego con un 34-19 en el tercer cuarto, impulsado por 22 puntos de Reggie Luis, para afianzarse en la cima del Grupo A",
-     "id": "d3ddd21a5a63"
-    },
-    {
-     "title": "Se percibe sismo de magnitud 5.5 en la ciudad de Quintero este lunes 6 de julio",
-     "link": "https://www.infobae.com/noticias/2026/07/07/se-percibe-sismo-de-magnitud-55-en-la-ciudad-de-quintero-este-lunes-6-de-julio/",
-     "source": "Infobae",
-     "published": "2026-07-07T04:16:36+00:00",
-     "copete": "Chile es uno de los países con más actividad sísmica del mundo, por lo que es importante permanecer preparado ante cualquier movimiento telúrico",
-     "id": "e2d3932935e1"
-    },
-    {
-     "title": "Se percibe sismo de magnitud 4.6 en la ciudad de Quintero este lunes 6 de julio",
-     "link": "https://www.infobae.com/noticias/2026/07/07/se-percibe-sismo-de-magnitud-46-en-la-ciudad-de-quintero-este-lunes-6-de-julio/",
-     "source": "Infobae",
-     "published": "2026-07-07T04:16:19+00:00",
-     "copete": "Chile es uno de los países con más actividad sísmica del mundo, por lo que es importante estar preparado ante cualquier movimiento telúrico",
-     "id": "29e00d5e47f9"
-    },
-    {
-     "title": "Temblor en Chile: se registra sismo de magnitud 4.1 con epicentro en Quintero",
-     "link": "https://www.infobae.com/noticias/2026/07/07/temblor-en-chile-se-registra-sismo-de-magnitud-41-con-epicentro-en-quintero/",
-     "source": "Infobae",
-     "published": "2026-07-07T04:16:01+00:00",
-     "copete": "En Chile los sismos fuertes son una constante, incluso en el país ocurrió el mayor terremoto del que se tenga registro en el mundo",
-     "id": "d470d080a0eb"
-    },
-    {
-     "title": "Capturan a pastor evangélico acusado presuntamente de delitos sexuales contra una menor Honduras",
-     "link": "https://www.infobae.com/honduras/2026/07/07/capturan-a-pastor-evangelico-acusado-presuntamente-de-delitos-sexuales-contra-una-menor-honduras/",
-     "source": "Infobae",
-     "published": "2026-07-07T04:15:17+00:00",
-     "copete": "Un pastor evangélico es detenido por la DPI por un caso de supueslito delito sexual contra una menor.",
-     "id": "f6f211665b65"
-    },
-    {
-     "title": "Manifestantes se tapan el rostro en Washington y se abre el debate sobre la ley de uso de máscaras",
-     "link": "https://www.lanacion.com.ar/estados-unidos/manifestantes-se-tapan-el-rostro-en-washington-y-se-abre-el-debate-sobre-la-ley-de-uso-de-mascaras-nid07072026/",
+     "title": "Alquileres: un departamento de dos ambientes en Núñez ya cuesta casi $1.000.000 por mes y es más caro que Palermo",
+     "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/alquileres-un-departamento-de-dos-ambientes-en-nunez-ya-cuesta-casi-1000000-por-mes-y-es-mas-caro-nid06072026/",
      "source": "La Nación",
-     "published": "2026-07-07T04:01:00+00:00",
-     "copete": "Conoce qué dice la ley de Washington sobre máscaras en protestas tras la marcha de supremacistas de Patriot Front del 4 de julio en D.C.",
-     "id": "bdcb2a0ea23a"
+     "published": "2026-07-07T10:01:34+00:00",
+     "copete": "Los valores de los alquileres publicados en los últimos 12 meses aumentaron 31,3% en CABA, el menor incremento interanual desde noviembre de 2019",
+     "id": "5185ac8c107a"
     },
     {
-     "title": "Argentina busca volver a ser Argentina: las claves del plan de Scaloni para enfrentar a Egipto",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/argentina-busca-volver-a-ser-argentina-las-claves-del-plan-de-scaloni-para-enfrentar-a-egipto-nid07072026/",
+     "title": "Partidos de hoy del Mundial 2026, martes 7 de julio: horario y por dónde ver en vivo online",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/partidos-de-hoy-del-mundial-2026-martes-7-de-julio-horario-y-por-donde-ver-en-vivo-online-nid07072026/",
      "source": "La Nación",
-     "published": "2026-07-07T03:55:56+00:00",
-     "copete": "Tras la pobre actuación ante Cabo Verde, la selección enfrenta este martes a Egipto: es hora de ver si los ajustes dan resultado",
-     "id": "bc7112b5ec6e"
+     "published": "2026-07-07T10:00:00+00:00",
+     "copete": "En la jornada 27 de la Copa del Mundo se cierran los octavos de final con dos encuentros, entre ellos el de la selección argentina, que definen los últimos clasificados a cuartos",
+     "id": "01b646097b44"
     },
     {
-     "title": "Roberto Martínez renunció en Portugal tras la eliminación ante España y ya son 12 los técnicos que se fueron",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/roberto-martinez-renuncio-en-portugal-tras-la-eliminacion-ante-espana-y-ya-son-12-los-tecnicos-que-nid06072026/",
+     "title": "A qué hora es el partido de Argentina vs. Egipto hoy",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/a-que-hora-es-el-partido-de-argentina-vs-egipto-hoy-nid07072026/",
      "source": "La Nación",
-     "published": "2026-07-07T03:47:19+00:00",
-     "copete": "El entrenador catalán dejó su cargo tras la despedida lusa en octavos de final, elogió al capitán de su equipo y se sumó a la lista de estrategas fuera del cargo",
-     "id": "511691e2e340"
+     "published": "2026-07-07T10:00:00+00:00",
+     "copete": "La selección argentina protagoniza el primer partido de los dos que tiene la jornada que cierra los octavos de final del Mundial de Estados Unidos-México-Canadá 2026",
+     "id": "5f6fdf18ae33"
     },
     {
-     "title": "Bélgica fue demasiado para Estados Unidos: lo goleó 4-1 y enfrentará a España en los cuartos de final del Mundial",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/estados-unidos-vs-belgica-en-vivo-por-el-mundial-2026-nid06072026/",
+     "title": "¿Cuál es el precio por metro cuadrado de una construcción en seco en julio 2026?",
+     "link": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/cual-es-el-precio-por-metro-cuadrado-de-una-construccion-en-seco-en-julio-2026-nid06072026/",
      "source": "La Nación",
-     "published": "2026-07-07T03:43:07+00:00",
-     "copete": "El equipo de Rudi García neutralizó las principales virtudes del conjunto de Pochettino, golpeó en los momentos justos y aprovechó un error decisivo de Matt Freese",
-     "id": "e066422f648f"
+     "published": "2026-07-07T09:58:13+00:00",
+     "copete": "Frente a los valores de la construcción tradicional, surgen alternativas para construir una casa que deben explorarse y considerarse",
+     "id": "0e26c5acc7da"
     },
     {
-     "title": "Bélgica jugó a lo grande, aplastó a Estados Unidos y limpió la pelota tras la mancha de la FIFA",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/belgica-jugo-a-lo-grande-aplasto-a-estados-unidos-y-limpio-la-pelota-tras-la-mancha-de-la-fifa-nid07072026/",
+     "title": "Se vendió el famoso terreno ubicado en la esquina de Santa Fe y Pueyrredón, en pleno Barrio Norte",
+     "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/se-vendio-el-famoso-terreno-ubicado-en-la-esquina-de-santa-fe-y-pueyrredon-en-pleno-barrio-norte-nid06072026/",
      "source": "La Nación",
-     "published": "2026-07-07T03:36:47+00:00",
-     "copete": "Se impuso por 4-1 en Seattle y le puso fin al “sueño americano”",
-     "id": "b1c2e79db52b"
+     "published": "2026-07-07T09:57:00+00:00",
+     "copete": "Sobre el predio está construido el acceso a la estación Santa Fe–Carlos Jáuregui de la Línea H de subte",
+     "id": "7f24c9a421fd"
     },
     {
-     "title": "La roja anulada a Balogun, las referencias a Trump y el blooper del arquero: los mejores memes de Estados Unidos vs. Bélgica",
-     "link": "https://www.clarin.com/deportes/roja-anulada-balogun-referencias-trump-blooper-arquero-mejores-memes-estados-unidos-vs-belgica_0_yK5ojSvvPu.html",
+     "title": "Mundial 2026, en VIVO: últimas noticias de hoy, 7 de julio, resultados, fixture y el minuto a minuto de la previa del partido de Argentina",
+     "link": "https://www.infobae.com/deportes/2026/07/07/mundial-2026-en-vivo-ultimas-noticias-de-hoy-7-de-julio-resultados-fixture-y-el-minuto-a-minuto-de-la-previa-del-partido-de-argentina/",
+     "source": "Infobae",
+     "published": "2026-07-07T09:54:37+00:00",
+     "copete": "Los campeones del mundo se miden ante Egipto en busca de los cuartos de final. Miles de hinchas albicelestes coparon las calles de Atlanta",
+     "id": "c9646ea92e93"
+    },
+    {
+     "title": "Sigue el frío extremo en gran parte del país: cuándo comenzaría a llegar el alivio",
+     "link": "https://www.infobae.com/sociedad/2026/07/07/sigue-el-frio-extremo-en-gran-parte-del-pais-cuando-comenzaria-a-llegar-el-alivio/",
+     "source": "Infobae",
+     "published": "2026-07-07T09:53:52+00:00",
+     "copete": "Si bien el frío no cederá del todo, la máxima de hoy llegará a 17°C. En el interior de la provincia de Buenos Aires el frío se sentirá con más fuerza que en el AMBA. El sur del país tendrá un panorama más agitado, con fuertes ráfagas de…",
+     "id": "9fc5a4c2b584"
+    },
+    {
+     "title": "Argentina-Egipto, EN VIVO, por los octavos de final del Mundial: hora, TV, formaciones y todo lo que hay que saber",
+     "link": "https://www.infobae.com/deportes/2026/07/07/argentina-egipto-en-vivo-por-los-octavos-de-final-del-mundial-hora-tv-formaciones-y-todo-lo-que-hay-que-saber/",
+     "source": "Infobae",
+     "published": "2026-07-07T09:40:30+00:00",
+     "copete": "La Albiceleste se enfrentará ante los Faraones y buscará meterse entre los ocho mejores equipos del torneo",
+     "id": "494c3f2d8db4"
+    },
+    {
+     "title": "ANSES: cuándo cobro en julio 2026 si mi DNI termina en 4",
+     "link": "https://www.infobae.com/economia/2026/07/07/anses-cuando-cobro-en-julio-2026-si-mi-dni-termina-en-4/",
+     "source": "Infobae",
+     "published": "2026-07-07T09:35:33+00:00",
+     "copete": "Las jornadas de acreditación en julio de 2026 dependen del haber o la ayuda que recibas, desde jubilaciones y AUH hasta desempleo, con depósitos automáticos en la cuenta habitual",
+     "id": "541c3318ce51"
+    },
+    {
+     "title": "De cuánto son las Pensiones No Contributivas de ANSES en julio 2026",
+     "link": "https://www.infobae.com/economia/2026/07/07/de-cuanto-son-las-pensiones-no-contributivas-de-anses-en-julio-2026/",
+     "source": "Infobae",
+     "published": "2026-07-07T09:31:36+00:00",
+     "copete": "El organismo previsional mantiene el cronograma de cobro según la terminación del DNI y ajusta los haberes por la movilidad vinculada a la inflación, en un esquema que contempla feriados y días no laborables para ordenar la acreditación de…",
+     "id": "e82e7fd8cc2b"
+    },
+    {
+     "title": "Medida oficial firmada por DeSantis: en julio entró en vigor la ley HB-1343 de Florida que cambia el currículo de las escuelas y universidades estatales",
+     "link": "https://www.clarin.com/estados-unidos/medida-oficial-firmada-desantis-julio-entro-vigor-ley-hb-1343-florida-cambia-curriculo-escuelas-universidades-estatales_0_QSUh8TglC8.html",
      "source": "Clarín",
-     "published": "2026-07-07T02:14:27+00:00",
-     "copete": "Donald Trump, Balogun y la FIFA fueron los protagonistas indiscutidos de los memes. Sin embargo, con el paso del partido, otras joyas fueron publicadas.",
-     "id": "b953deda4c02"
+     "published": "2026-07-07T09:02:19+00:00",
+     "copete": "Se incorporan nuevas asignaturas para el ciclo académico 2027-2028.",
+     "id": "cfd5833f6d69"
     },
     {
-     "title": "El blooper del arquero de los Estados Unidos, Matt Freese, que dejó al equipo de Pochettino al borde de la eliminación",
-     "link": "https://www.clarin.com/deportes/blooper-arquero-estados-unidos-matt-freese-dejo-equipo-pochettino-borde-eliminacion_0_XtSAOEG0dw.html",
+     "title": "Un rincón poco conocido de Taiwán: se llega en tren de alta velocidad y propone un viaje en el tiempo entre templos y té de alta montaña",
+     "link": "https://www.clarin.com/viajes/rincon-conocido-taiwan-llega-tren-alta-velocidad-propone-viaje-tiempo-templos-alta-montana_0_ej0WBCbaBi.html",
      "source": "Clarín",
-     "published": "2026-07-07T01:51:09+00:00",
-     "copete": "El arquero salió lejos del área para cortar un pelotazo, pero demoró el rechazo y se la entregó a Hans Vanaken, que marcó el 3-1 para Bélgica. Un fallo decisivo en un partido que ya era cuesta arriba para el equipo de Mauricio Pochettino.",
-     "id": "f32f3fe6cc9b"
+     "published": "2026-07-07T09:00:22+00:00",
+     "copete": "A menos de dos horas en tren de Taipei, Chiayi tienta con una propuesta de viaje lenta e inmersiva. Montañas nubosas, plantaciones de té y templos conviven con talleres artesanales y etnias originarias.",
+     "id": "6f77c980ee76"
     }
    ]
   },
@@ -381,84 +381,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
-     "link": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-07T04:18:19+00:00",
-     "copete": "The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.",
-     "id": "53644386dad4"
-    },
-    {
-     "title": "Cuántos miles de millones de dólares de Irán están congelados por EE.UU. y por qué son clave para negociar la paz y reactivar la economía iraní",
-     "link": "https://www.bbc.com/mundo/articles/cn7587p1re0o?at_medium=RSS&at_campaign=rss",
+     "title": "6 formas respaldadas por la ciencia para hacer que los niños coman verduras",
+     "link": "https://www.bbc.com/mundo/articles/c8029rgd3rzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-07T03:31:38+00:00",
-     "copete": "El acceso a estos recursos, cuyo valor se estima en hasta US$100.000 millones, ha sido una demanda clave de Teherán, pero siguen fuera de alcance debido a las sanciones y a las restricciones bancarias.",
-     "id": "7e989286c7ec"
+     "published": "2026-07-07T09:35:28+00:00",
+     "copete": "Pequeños cambios en la forma en que los niños experimentan la comida en el día a día pueden tener un impacto duradero en qué tantas verduras comen.",
+     "id": "2d4d14d2fde3"
     },
     {
-     "title": "El gobierno de Netanyahu se anexiona Cisjordania “a un ritmo sin precedentes”, denuncian ONG israelíes",
-     "link": "https://elpais.com/internacional/2026-07-07/el-gobierno-de-netanyahu-se-anexiona-cisjordania-a-un-ritmo-sin-precedentes-denuncian-ong-israelies.html",
+     "title": "Explosions injure 18 in Damascus during Macron's visit",
+     "link": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-07T09:17:23+00:00",
+     "copete": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
+     "id": "c81834d60b16"
+    },
+    {
+     "title": "Al menos 18 heridos en Damasco tras estallar dos artefactos explosivos cerca del hotel donde se aloja Emmanuel Macron",
+     "link": "https://elpais.com/internacional/2026-07-07/varios-artefactos-explosivos-estallan-en-damasco-cerca-del-hotel-donde-se-aloja-emmanuel-macron.html",
      "source": "El País Internacional",
-     "published": "2026-07-07T03:30:01+00:00",
-     "copete": "Los grupos Paz Ahora y Kerem Navot señalan “el desmantelamiento sistemático del espacio palestino” y piden una intervención internacional para impedirlo",
-     "id": "84f9ed3e11b4"
+     "published": "2026-07-07T08:51:08+00:00",
+     "copete": "El presidente francés inició el lunes una visita oficial a Siria, la primera de un jefe de Estado europeo a las nuevas autoridades del país",
+     "id": "2e25ba1308cd"
+    },
+    {
+     "title": "Las autoridades de la región rusa más castigada por la guerra admiten que sus ciudadanos solo anhelan el fin de la invasión",
+     "link": "https://elpais.com/internacional/2026-07-07/las-autoridades-de-la-region-rusa-mas-castigada-por-la-guerra-admiten-que-sus-ciudadanos-solo-anhelan-el-fin-de-la-invasion.html",
+     "source": "El País Internacional",
+     "published": "2026-07-07T08:47:28+00:00",
+     "copete": "Un nuevo ataque ucranio a la provincia de Bélgorod deja un civil muerto y cortes de agua, luz y gas",
+     "id": "028665f20ab7"
+    },
+    {
+     "title": "Erika Kirk comes face-to-face in court with husband's alleged killer",
+     "link": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-07T08:25:54+00:00",
+     "copete": "Charlie Kirk's widow was joined by the late US activist's family - all of whom attended court for the first time in the case.",
+     "id": "00cd25644be0"
+    },
+    {
+     "title": "\"Cruza una línea roja\": por qué fue tan escandalosa la decisión de la FIFA de suspender la sanción al goleador de EE.UU., Folarin Balogun, tras una llamada de Trump",
+     "link": "https://www.bbc.com/mundo/articles/c9d2209yy01o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-07T08:02:42+00:00",
+     "copete": "La decisión de anular la tarjeta roja mostrada al delantero estadounidense Folarin Balogun deja muchas preguntas sin respuesta.",
+     "id": "dbcb3b1b9c46"
+    },
+    {
+     "title": "Watch: Moment rare tornado lashes central Chinese cities",
+     "link": "https://www.bbc.co.uk/news/videos/cq61d22ved2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-07T07:27:05+00:00",
+     "copete": "Videos shared with the BBC show debris flying through the air as the storm swept through Ezhou and Huanggang in Hubei province.",
+     "id": "d663c1686b8b"
     },
     {
      "title": "La OTAN ensaya en la cumbre de Ankara su coreografía para aplacar a Trump",
      "link": "https://elpais.com/internacional/2026-07-07/la-otan-ensaya-en-la-cumbre-de-ankara-su-coreografia-para-aplacar-a-trump.html",
      "source": "El País Internacional",
-     "published": "2026-07-07T03:30:01+00:00",
+     "published": "2026-07-07T07:17:20+00:00",
      "copete": "Los aliados de Europa y Canadá llegan a Turquía decididos a exhibir más gasto militar, programas de rearme y una unidad cuidadosamente escenificada para evitar un nuevo choque con Estados Unidos",
      "id": "9836755cc7f8"
     },
     {
-     "title": "Las víctimas del estallido de violencia xenófoba en Sudáfrica: “Antes gritaban, ahora te echan de tu casa”",
-     "link": "https://elpais.com/internacional/2026-07-07/las-victimas-del-estallido-de-violencia-xenofoba-en-sudafrica-antes-gritaban-ahora-te-echan-de-tu-casa.html",
+     "title": "Alemania, entre el pesimismo y la falta de confianza en el Gobierno",
+     "link": "https://elpais.com/internacional/2026-07-07/alemania-entre-el-pesimismo-y-la-falta-de-confianza-en-el-gobierno.html",
      "source": "El País Internacional",
-     "published": "2026-07-07T03:30:01+00:00",
-     "copete": "Cientos de migrantes y refugiados acampan en las calles de Durban, indefensos ante el acoso desatado contra ellos. Miles han empezado a regresar a sus países de origen",
-     "id": "3a9a8b054e9c"
+     "published": "2026-07-07T06:32:33+00:00",
+     "copete": "La población alemana cuestiona que el canciller Merz esté a la altura para liderar el país ante los problemas que suma Berlín tras poco más de un año del conservador en el poder",
+     "id": "fd65f7e0d139"
     },
     {
-     "title": "De sueño libertario a arma política: así se apropió la ultraderecha de la ola de las criptomonedas",
-     "link": "https://elpais.com/internacional/2026-07-07/de-sueno-libertario-a-arma-politica-asi-se-apropio-la-ultraderecha-de-la-ola-de-las-criptomonedas.html",
-     "source": "El País Internacional",
-     "published": "2026-07-07T03:30:01+00:00",
-     "copete": "Mandatarios como Trump, Milei o Bukele enarbolan estos activos como bandera para atraer a ciudadanos desencantados a la vez que sacan rédito de su popularidad.",
-     "id": "d76863752768"
-    },
-    {
-     "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
-     "link": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
+     "title": "Marine Le Pen's moment of truth: Why Tuesday court verdict matters for France",
+     "link": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-07-07T02:33:18+00:00",
-     "copete": "The hearing will decide whether Tyler Robinson will stand trial in the shooting death of Kirk, a key Trump ally.",
-     "id": "00cd25644be0"
-    },
-    {
-     "title": "Fatal Typhoon Maysak floods burst dam wall in China",
-     "link": "https://www.bbc.co.uk/news/videos/c1eyyevn5j7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-07T00:58:22+00:00",
-     "copete": "At least two have been killed by flooding due to Maysak, while another 480,000 have been evacuated across the southern Guangxi province.",
-     "id": "eac5190b84db"
-    },
-    {
-     "title": "Why some African nations are turning down Trump aid money",
-     "link": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-07T00:49:08+00:00",
-     "copete": "The Trump administration sees the aid as more transactional - but some say it is not a fair trade.",
-     "id": "dffd67a357a3"
-    },
-    {
-     "title": "\"Una mujer despreciable e indigna\": Mbappé condena los mensajes racistas de una senadora paraguaya",
-     "link": "https://www.bbc.com/mundo/articles/cgrkk8dj4kvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-06T21:54:27+00:00",
-     "copete": "El delantero francés criticó a la legisladora Celeste Amarilla, después de que ella se burlara del origen y la educación del futbolista.",
-     "id": "e5457b86ed9f"
+     "published": "2026-07-07T06:28:56+00:00",
+     "copete": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
+     "id": "9cd08cb9a96d"
     }
    ]
   }

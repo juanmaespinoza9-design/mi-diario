@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T10:04:21Z",
+  "generated_at": "2026-07-07T10:11:00Z",
   "summaries": {
     "110542886dd7": {
       "resumen": "Ensayo clínico que evaluó si una estrategia de restricción de oxígeno (apuntar a saturaciones más conservadoras que las habituales) en pacientes reanimados tras un paro cardíaco mejora los resultados neurológicos o la supervivencia, comparada con el manejo convencional. Interesa porque el manejo del oxígeno post paro cardíaco —evitar tanto la hipoxia como la hiperoxia— sigue siendo un punto debatido en las guías de reanimación.",
@@ -39,10 +39,6 @@
       "resumen": "Anuncio en el foro r/datascience de un nuevo libro que enseña a construir un modelo de razonamiento (reasoning model) desde cero. Es útil para quien quiere entender, paso a paso, cómo funcionan por dentro los modelos de lenguaje que hoy se usan como asistentes, en lugar de solo consumirlos como caja negra.",
       "destacado": false
     },
-    "3bba4c1d9df4": {
-      "resumen": "Hilo de discusión en r/datascience sobre si hay que sentirse en desventaja frente a quienes trabajan en ciencia de datos en empresas como FAANG (Facebook, Amazon, Apple, Netflix, Google) u OpenAI. Sirve como contrapeso realista para alguien en transición de carrera: la experiencia clínica y de investigación también cuenta, no solo el prestigio de la empresa.",
-      "destacado": false
-    },
     "148f2cc4c65b": {
       "resumen": "Artículo de KDnuggets que describe cómo el rol del científico de datos está virando de construir modelos a gestionar y supervisar sistemas de inteligencia artificial ya entrenados. Le sirve a un médico que se está formando en la disciplina para entender hacia dónde conviene orientar el aprendizaje: no solo programar modelos, sino saber evaluarlos y supervisarlos.",
       "destacado": false
@@ -70,9 +66,6 @@
     "0d587151ccf8": {
       "resumen": "CCU lanza en Córdoba una campaña de consumo responsable de alcohol con su cerveza sin alcohol Imperial 0.0, en articulación con Los Pumas."
     },
-    "9e8dc81b85a9": {
-      "resumen": "Gales llega en gran nivel a su choque con Los Pumas en San Juan, una señal de alarma para el equipo de Contepomi tras la derrota ante Escocia."
-    },
     "081c2c7849e9": {
       "resumen": "Tencent lanzó Hy3, un modelo de lenguaje de gran escala (LLM) con licencia abierta Apache 2.0, que usa una arquitectura de mezcla de expertos (Mixture-of-Experts, MoE) de 295.000 millones de parámetros totales pero solo 21.000 millones activos por consulta, lo que lo hace más eficiente de correr. Le sirve a un médico que aprende ciencia de datos porque suma una alternativa abierta y gratuita a los modelos cerrados, útil para experimentar con inteligencia artificial sin depender de servicios pagos.",
       "destacado": true
@@ -81,16 +74,23 @@
       "resumen": "Ternlight es un modelo de embeddings (representaciones vectoriales de texto usadas para búsqueda semántica) de apenas 7 megabytes que corre directamente en el navegador mediante WebAssembly (WASM), sin necesitar servidor. Le sirve a un médico que aprende ciencia de datos como ejemplo de que hoy se pueden correr herramientas de procesamiento de lenguaje natural livianas incluso en el navegador, sin infraestructura cara.",
       "destacado": false
     },
-    "95070db5e920": {
-      "resumen": "Proyecto que convirtió una tablet reMarkable (de tinta electrónica) en una réplica del diario de Tom Ryddle de Harry Potter, usando un modelo de inteligencia artificial (Fable) que responde por escrito como si el objeto tuviera vida propia. Le aporta a un médico en formación de datos un ejemplo lúdico de cómo integrar modelos de lenguaje con hardware físico para crear experiencias interactivas.",
+    "95ce25b7fd3a": {
+      "resumen": "Los Pumas hacen ajustes en el plantel de cara a su viaje a San Juan para el partido ante Gales."
+    },
+    "0c1fe16ac362": {
+      "resumen": "Análisis técnico sobre una disputa entre la NSA (Agencia de Seguridad Nacional de Estados Unidos) y la IETF (organismo que define los estándares técnicos de internet) en torno a criterios de equidad (fairness) en protocolos de red. Le sirve a un médico que aprende ciencia de datos como ejemplo de cómo los organismos que fijan los estándares de internet —que sostienen buena parte de la infraestructura de datos— también son escenario de disputas técnicas y geopolíticas.",
       "destacado": false
     },
-    "7caf8d4da7da": {
-      "resumen": "Ensayo que argumenta que aprender a programar sigue valiendo la pena incluso en la era de los asistentes de inteligencia artificial que escriben código automáticamente. Le sirve a un médico que se está formando en análisis de datos como respaldo para seguir invirtiendo tiempo en entender los fundamentos de programación, en lugar de depender solo de herramientas de generación automática de código.",
+    "d248fccd46d8": {
+      "resumen": "Relato de cómo secuenciar el propio ácido desoxirribonucleico (ADN) en casa usando equipamiento de bajo costo, sin depender de un laboratorio comercial. Le aporta a un médico en formación de datos un ejemplo concreto de cómo la genómica personal se está volviendo accesible fuera del ámbito hospitalario, un área donde el análisis de datos es central.",
       "destacado": false
     },
-    "381006001abd": {
-      "resumen": "Análisis sobre el modelo chino GLM 5.2 y cómo la competencia de modelos de inteligencia artificial cada vez más baratos y potentes podría erosionar los márgenes de ganancia de las empresas que venden acceso a estos modelos. Le sirve a un médico que aprende ciencia de datos para entender el contexto económico detrás de la carrera de precios entre proveedores de inteligencia artificial, que impacta directamente en el costo de usar estas herramientas.",
+    "224f5f92f80b": {
+      "resumen": "Nota de IEEE Spectrum sobre cómo los modelos de inteligencia artificial pequeños (small language models) están ganando terreno en lugares con conexión a internet poco confiable, incluyendo aplicaciones en el sector farmacéutico. Le sirve a un médico que aprende ciencia de datos porque muestra que no siempre hace falta un modelo gigante en la nube: modelos livianos que corren localmente pueden ser más prácticos en contextos de recursos limitados, como muchos centros de salud.",
+      "destacado": false
+    },
+    "c40240414f43": {
+      "resumen": "Hilo de discusión en r/datascience sobre cómo manejar y liderar a científicos de datos junior dentro de un equipo. Le sirve a un médico en transición hacia el análisis de datos que además ocupa un rol de jefatura (jefe de residentes) porque traslada a este nuevo campo una pregunta que ya conoce bien: cómo formar y supervisar a gente con menos experiencia.",
       "destacado": false
     }
   }

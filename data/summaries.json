@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-07-07T10:11:00Z",
+  "generated_at": "2026-07-07T22:04:13Z",
   "summaries": {
+    "5c27b90c0aa0": {
+      "resumen": "LAMPOON es una técnica que consiste en lacerar con catéter la valva anterior mitral nativa para evitar la obstrucción del tracto de salida del ventrículo izquierdo (LVOT, Left Ventricular Outflow Tract), una complicación grave del reemplazo valvular mitral transcatéter (TMVR, Transcatheter Mitral Valve Replacement). Esta nota de TCTMD repasa cómo le fue a la técnica en la práctica real (real-world outcomes), fuera del contexto controlado de los estudios iniciales. Interesa porque el TMVR está en expansión y la obstrucción del tracto de salida sigue siendo uno de sus mayores riesgos.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título se infiere un registro observacional de la vida real (no queda claro si es un ensayo aleatorizado) que reporta los resultados de la técnica LAMPOON (laceración de la valva mitral anterior para prevenir la obstrucción del tracto de salida del ventrículo izquierdo) aplicada durante el reemplazo valvular mitral transcatéter; sin abstract no hay datos de número de centros ni de pacientes.\nPoblación: Pacientes sometidos a reemplazo valvular mitral transcatéter con riesgo anatómico de obstrucción del tracto de salida del ventrículo izquierdo, en quienes se optó por lacerar la valva mitral anterior nativa antes del implante.\nIntervención: Técnica LAMPOON (laceración percutánea de la valva mitral anterior) previa al TMVR; el título no deja en claro el comparador, probablemente series históricas sin la técnica.\nResultados: No disponibles sin el abstract.\nLimitaciones: Al tratarse presumiblemente de un registro observacional, tiene las limitaciones propias de la falta de aleatorización y de un grupo control contemporáneo; el título sugiere además una serie acotada, típica de técnicas complejas de pocos centros con experiencia, con posible sesgo de selección de operadores.\nMensaje: Aporta experiencia de vida real sobre la seguridad y viabilidad del LAMPOON para prevenir la obstrucción del tracto de salida en el TMVR, aunque sin el trabajo completo no se puede cuantificar el beneficio real.\nNota: análisis sin acceso al abstract."
+    },
+    "4d8b816a7dc7": {
+      "resumen": "Artículo de revisión de European Heart Journal sobre la lipoproteína(a) [Lp(a)], una partícula lipídica de origen genético que eleva el riesgo cardiovascular independientemente del colesterol LDL (lipoproteína de baja densidad) convencional. Repasa por qué se la considera cada vez más protagonista del riesgo lipídico residual —el que persiste pese a tratar el colesterol LDL— y el estado de las terapias dirigidas específicamente contra ella. Interesa porque la medición de Lp(a) y las nuevas drogas en desarrollo están empezando a incorporarse a la práctica clínica.",
+      "destacado": false
+    },
+    "e283c2dfacc8": {
+      "resumen": "SAFER-TAVI es un estudio que evalúa si usar la arteria radial como acceso vascular secundario (en lugar del acceso femoral contralateral habitual) durante el implante valvular aórtico transcatéter (TAVI, Transcatheter Aortic Valve Implantation) reduce las complicaciones en ese sitio de acceso. Interesa porque las complicaciones vasculares siguen siendo un punto débil del TAVI, y optimizar el acceso secundario podría bajar sangrados y complicaciones locales.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título se infiere un estudio (aparentemente un registro o ensayo comparativo, no queda claro si aleatorizado) identificado como SAFER-TAVI; no se cuenta con el abstract para precisar número de centros, tamaño muestral ni cegamiento.\nPoblación: Pacientes sometidos a implante valvular aórtico transcatéter (TAVI) que requieren un acceso vascular secundario para catéter pigtail o monitoreo angiográfico durante el procedimiento.\nIntervención: Uso de la arteria radial como acceso secundario, comparado con el acceso femoral contralateral tradicional.\nResultados: El título sugiere menos problemas en el sitio de acceso secundario con la estrategia radial frente a la femoral; no hay razones de riesgo, intervalos de confianza ni valores de p disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño muestral, la potencia estadística, el diseño exacto (aleatorizado vs. observacional) ni la curva de aprendizaje operador-dependiente del acceso radial.\nMensaje: De confirmarse, respaldaría preferir el acceso radial como abordaje secundario en TAVI para reducir complicaciones vasculares, pero se necesita el trabajo completo antes de cambiar la práctica.\nNota: análisis sin acceso al abstract."
+    },
     "110542886dd7": {
       "resumen": "Ensayo clínico que evaluó si una estrategia de restricción de oxígeno (apuntar a saturaciones más conservadoras que las habituales) en pacientes reanimados tras un paro cardíaco mejora los resultados neurológicos o la supervivencia, comparada con el manejo convencional. Interesa porque el manejo del oxígeno post paro cardíaco —evitar tanto la hipoxia como la hiperoxia— sigue siendo un punto debatido en las guías de reanimación.",
       "destacado": true,
@@ -14,10 +28,6 @@
       "resumen": "STUN-AF es un estudio que evalúa si realizar una ablación por catéter de la fibrilación auricular antes de un cierre percutáneo de la orejuela auricular izquierda (LAAO, Left Atrial Appendage Occlusion) reduce las fugas peridispositivo (peridevice leaks), una complicación frecuente que puede aumentar el riesgo trombótico. Interesa porque el cierre de orejuela se usa cada vez más en pacientes con fibrilación auricular que no toleran anticoagulación crónica.",
       "destacado": false,
       "analisis": "Diseño: No se dispone del abstract; por el título se infiere un estudio (probablemente un registro o serie comparativa, no queda claro si aleatorizado) que compara pacientes con y sin ablación de fibrilación auricular previa al implante de un dispositivo de oclusión de la orejuela auricular izquierda (LAAO).\nPoblación: Pacientes con fibrilación auricular candidatos a cierre percutáneo de la orejuela izquierda, típicamente con contraindicación para anticoagulación crónica.\nIntervención: Ablación por catéter de la fibrilación auricular antes del implante del dispositivo de LAAO, comparada con el implante sin ablación previa.\nResultados: No disponibles sin el abstract; el título sugiere una posible reducción de fugas peridispositivo con la estrategia de ablación previa, pero no hay cifras verificables.\nLimitaciones: Sin abstract no se puede evaluar el tamaño muestral, si hubo aleatorización o cegamiento, ni la significancia estadística de los hallazgos.\nMensaje: Podría sumar evidencia a favor de secuenciar la ablación antes del LAAO para minimizar fugas peridispositivo, pero se necesita el trabajo completo antes de considerar un cambio de práctica.\nNota: análisis sin acceso al abstract."
-    },
-    "03deff6606bc": {
-      "resumen": "Entrevista/podcast de la serie 'On Record' de TCTMD sobre el momento óptimo (timing) para realizar una intervención coronaria percutánea (PCI, Percutaneous Coronary Intervention) en pacientes que también requieren un implante valvular aórtico transcatéter (TAVI, Transcatheter Aortic Valve Implantation). Es un tema frecuente en cardiología intervencionista, dado que muchos pacientes con estenosis aórtica severa tienen enfermedad coronaria concomitante.",
-      "destacado": false
     },
     "b24e7048d17e": {
       "resumen": "Ensayo publicado en JACC (Journal of the American College of Cardiology) sobre lecciones de liderazgo a partir de la trayectoria de Eugene Braunwald, uno de los cardiólogos más influyentes del siglo XX. No aporta datos clínicos sino una reflexión sobre mentoría y conducción de equipos académicos, de interés para quien lidera una residencia.",
@@ -35,63 +45,51 @@
       "resumen": "Segundo documento de consenso internacional de las sociedades AHA, ACC, ESC y WHF (American Heart Association, American College of Cardiology, European Society of Cardiology y World Heart Federation) que actualiza la definición universal de insuficiencia cardíaca, unificando criterios diagnósticos y de clasificación usados a nivel mundial.",
       "destacado": false
     },
-    "5c74d7acd797": {
-      "resumen": "Anuncio en el foro r/datascience de un nuevo libro que enseña a construir un modelo de razonamiento (reasoning model) desde cero. Es útil para quien quiere entender, paso a paso, cómo funcionan por dentro los modelos de lenguaje que hoy se usan como asistentes, en lugar de solo consumirlos como caja negra.",
+    "3aa44b60fc0e": {
+      "resumen": "Desde 2026, todo auto nuevo vendido en la Unión Europea debe incluir un sistema de detección de distracción del conductor basado en una cámara que monitorea el rostro, usando visión artificial (computer vision) para detectar somnolencia o distracción. Le sirve a un médico que aprende ciencia de datos como caso concreto de cómo la inteligencia artificial aplicada a datos biométricos ya es exigida por regulación, con las tensiones de privacidad y gobernanza de datos que eso implica.",
       "destacado": false
     },
-    "148f2cc4c65b": {
-      "resumen": "Artículo de KDnuggets que describe cómo el rol del científico de datos está virando de construir modelos a gestionar y supervisar sistemas de inteligencia artificial ya entrenados. Le sirve a un médico que se está formando en la disciplina para entender hacia dónde conviene orientar el aprendizaje: no solo programar modelos, sino saber evaluarlos y supervisarlos.",
+    "5432189dc8af": {
+      "resumen": "Simon Willison anunció la versión 4.0 de sqlite-utils, una herramienta de línea de comandos y biblioteca de Python para manipular bases de datos SQLite, que ahora suma migraciones de esquema (schema migrations) para modificar tablas ya creadas sin perder datos. Le sirve a un médico que aprende análisis de datos porque SQLite es una de las formas más simples de guardar y consultar datos tabulares sin montar un servidor de base de datos.",
       "destacado": false
     },
-    "78ad7e3f1d1c": {
-      "resumen": "Guía de Towards Data Science sobre cómo correr pruebas de extremo a extremo (end-to-end tests) para verificar que un agente de inteligencia artificial como Claude Code funcione como se espera. Útil para quien empieza a automatizar tareas de análisis de datos con agentes y necesita confiar en que el código que generan sea correcto.",
+    "2b10473a3735": {
+      "resumen": "Se lanzó la versión 7.0 de Astro, un framework para construir sitios web rápidos combinando distintas tecnologías de frontend. Le aporta a un médico que aprende ciencia de datos un ejemplo de cómo evoluciona el ecosistema de herramientas para publicar en la web resultados, reportes o tableros de datos, aunque no es una herramienta específica de análisis de datos.",
       "destacado": false
     },
-    "811f7e9baa1e": {
-      "resumen": "Guía introductoria sobre 'ML Intern', una herramienta de Hugging Face que actúa como agente de aprendizaje automático (machine learning) capaz de automatizar tareas de entrenamiento y evaluación de modelos. Le sirve a un médico que se inicia en ciencia de datos porque muestra cómo delegar tareas repetitivas de ML a un agente sin necesitar dominar todo el stack técnico desde el principio.",
+    "966f7b5ec438": {
+      "resumen": "Kokoro es un modelo de conversión de texto a voz (TTS, Text-to-Speech) que corre en el procesador (CPU, sin necesitar tarjeta gráfica) con buena calidad y de forma completamente local. Le sirve a un médico que aprende inteligencia artificial como ejemplo de que hoy se pueden correr modelos especializados en la propia computadora, con privacidad de los datos y sin costos recurrentes en la nube.",
       "destacado": false
     },
-    "e283c2dfacc8": {
-      "resumen": "SAFER-TAVI es un estudio que evalúa si usar la arteria radial como acceso vascular secundario (en lugar del acceso femoral contralateral habitual) durante el implante valvular aórtico transcatéter (TAVI, Transcatheter Aortic Valve Implantation) reduce las complicaciones en ese sitio de acceso. Interesa porque las complicaciones vasculares siguen siendo un punto débil del TAVI, y optimizar el acceso secundario podría bajar sangrados y complicaciones locales.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título se infiere un estudio (aparentemente un registro o ensayo comparativo, no queda claro si aleatorizado) identificado como SAFER-TAVI; no se cuenta con el abstract para precisar número de centros, tamaño muestral ni cegamiento.\nPoblación: Pacientes sometidos a implante valvular aórtico transcatéter (TAVI) que requieren un acceso vascular secundario para catéter pigtail o monitoreo angiográfico durante el procedimiento.\nIntervención: Uso de la arteria radial como acceso secundario, comparado con el acceso femoral contralateral tradicional.\nResultados: El título sugiere menos problemas en el sitio de acceso secundario con la estrategia radial frente a la femoral; no hay razones de riesgo, intervalos de confianza ni valores de p disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño muestral, la potencia estadística, el diseño exacto (aleatorizado vs. observacional) ni la curva de aprendizaje operador-dependiente del acceso radial.\nMensaje: De confirmarse, respaldaría preferir el acceso radial como abordaje secundario en TAVI para reducir complicaciones vasculares, pero se necesita el trabajo completo antes de cambiar la práctica.\nNota: análisis sin acceso al abstract."
-    },
-    "73c610727184": {
-      "resumen": "Tras la derrota ante Escocia, Los Pumas ya se instalaron en San Juan y arrancan la semana de preparación de cara al partido frente a Gales."
-    },
-    "4d8b816a7dc7": {
-      "resumen": "Artículo de revisión de European Heart Journal sobre la lipoproteína(a) [Lp(a)], una partícula lipídica de origen genético que eleva el riesgo cardiovascular independientemente del colesterol LDL (lipoproteína de baja densidad) convencional. Repasa por qué se la considera cada vez más protagonista del riesgo lipídico residual —el que persiste pese a tratar el colesterol LDL— y el estado de las terapias dirigidas específicamente contra ella. Interesa porque la medición de Lp(a) y las nuevas drogas en desarrollo están empezando a incorporarse a la práctica clínica.",
+    "803b8a176174": {
+      "resumen": "Noticia de Hacker News, sin relación directa con ciencia de datos, sobre la condena a muerte impuesta en China a un funcionario por aceptar sobornos por 325 millones de dólares. Se incluye por su alta repercusión en esa comunidad, pero no aporta contenido de análisis de datos ni de inteligencia artificial.",
       "destacado": false
     },
-    "0d587151ccf8": {
-      "resumen": "CCU lanza en Córdoba una campaña de consumo responsable de alcohol con su cerveza sin alcohol Imperial 0.0, en articulación con Los Pumas."
-    },
-    "081c2c7849e9": {
-      "resumen": "Tencent lanzó Hy3, un modelo de lenguaje de gran escala (LLM) con licencia abierta Apache 2.0, que usa una arquitectura de mezcla de expertos (Mixture-of-Experts, MoE) de 295.000 millones de parámetros totales pero solo 21.000 millones activos por consulta, lo que lo hace más eficiente de correr. Le sirve a un médico que aprende ciencia de datos porque suma una alternativa abierta y gratuita a los modelos cerrados, útil para experimentar con inteligencia artificial sin depender de servicios pagos.",
+    "8cec0a3d654a": {
+      "resumen": "Artículo de Towards Data Science que describe cómo construir un sistema de generación aumentada por recuperación (RAG, Retrieval-Augmented Generation) de nivel productivo para extraer información de documentos PDF, con parsing relacional, recuperación por tabla de contenidos y respuestas tipadas. Le sirve a un médico que aprende ciencia de datos porque muestra, paso a paso, cómo estructurar un sistema real para que un modelo de lenguaje conteste preguntas sobre documentos largos, algo aplicable a historias clínicas o literatura médica en PDF.",
       "destacado": true
     },
-    "3fc5c87d9d3f": {
-      "resumen": "Ternlight es un modelo de embeddings (representaciones vectoriales de texto usadas para búsqueda semántica) de apenas 7 megabytes que corre directamente en el navegador mediante WebAssembly (WASM), sin necesitar servidor. Le sirve a un médico que aprende ciencia de datos como ejemplo de que hoy se pueden correr herramientas de procesamiento de lenguaje natural livianas incluso en el navegador, sin infraestructura cara.",
+    "76544ddbcb06": {
+      "resumen": "Comparación práctica de KDnuggets entre tres formas de resolver problemas de análisis de datos —consultas SQL, la biblioteca Pandas de Python y agentes de inteligencia artificial— evaluadas en ocho dimensiones con tiempos de ejecución reales. Le sirve a un médico que está aprendiendo análisis de datos para decidir qué herramienta conviene según el problema, en vez de asumir que un agente de inteligencia artificial siempre es la mejor opción.",
       "destacado": false
     },
-    "95ce25b7fd3a": {
-      "resumen": "Los Pumas hacen ajustes en el plantel de cara a su viaje a San Juan para el partido ante Gales."
-    },
-    "0c1fe16ac362": {
-      "resumen": "Análisis técnico sobre una disputa entre la NSA (Agencia de Seguridad Nacional de Estados Unidos) y la IETF (organismo que define los estándares técnicos de internet) en torno a criterios de equidad (fairness) en protocolos de red. Le sirve a un médico que aprende ciencia de datos como ejemplo de cómo los organismos que fijan los estándares de internet —que sostienen buena parte de la infraestructura de datos— también son escenario de disputas técnicas y geopolíticas.",
+    "6d05735eb774": {
+      "resumen": "Artículo técnico de Towards Data Science que compara dos enfoques de generación aumentada por recuperación (RAG) para el razonamiento temporal en textos: Proxy-Pointer, que evita precompilar significados semánticos, frente a un enfoque de tipo LLM-Wiki. Le sirve a un médico que aprende ciencia de datos como ejemplo de los desafíos técnicos detrás de que un sistema de inteligencia artificial entienda correctamente fechas y secuencias de eventos, algo relevante para analizar historias clínicas longitudinales.",
       "destacado": false
     },
-    "d248fccd46d8": {
-      "resumen": "Relato de cómo secuenciar el propio ácido desoxirribonucleico (ADN) en casa usando equipamiento de bajo costo, sin depender de un laboratorio comercial. Le aporta a un médico en formación de datos un ejemplo concreto de cómo la genómica personal se está volviendo accesible fuera del ámbito hospitalario, un área donde el análisis de datos es central.",
+    "034185d5a4c9": {
+      "resumen": "KDnuggets muestra cómo usar Gemma 4, un modelo de inteligencia artificial de Google, para extraer texto de documentos PDF tratándolos directamente como imágenes, sin necesitar reglas distintas para PDFs escaneados o digitales. Le sirve a un médico que aprende ciencia de datos porque simplifica un problema típico: digitalizar y estructurar historias clínicas o artículos en papel sin armar un proceso complejo de extracción de texto.",
       "destacado": false
     },
-    "224f5f92f80b": {
-      "resumen": "Nota de IEEE Spectrum sobre cómo los modelos de inteligencia artificial pequeños (small language models) están ganando terreno en lugares con conexión a internet poco confiable, incluyendo aplicaciones en el sector farmacéutico. Le sirve a un médico que aprende ciencia de datos porque muestra que no siempre hace falta un modelo gigante en la nube: modelos livianos que corren localmente pueden ser más prácticos en contextos de recursos limitados, como muchos centros de salud.",
+    "2c5d861c8088": {
+      "resumen": "Artículo de Towards Data Science sobre el uso de técnicas de análisis de datos para identificar qué microorganismos viven en la Estación Espacial Internacional. Le sirve a un médico que aprende ciencia de datos como ejemplo aplicado de análisis de datos biológicos con herramientas computacionales, un enfoque trasladable a la microbiología clínica.",
       "destacado": false
     },
-    "c40240414f43": {
-      "resumen": "Hilo de discusión en r/datascience sobre cómo manejar y liderar a científicos de datos junior dentro de un equipo. Le sirve a un médico en transición hacia el análisis de datos que además ocupa un rol de jefatura (jefe de residentes) porque traslada a este nuevo campo una pregunta que ya conoce bien: cómo formar y supervisar a gente con menos experiencia.",
-      "destacado": false
+    "95aebcc3f774": {
+      "resumen": "Un repaso por la historia de Los Pumas en el Estadio Bicentenario de San Juan, escenario del próximo partido ante Gales por el Nations Championship."
+    },
+    "c9a93342f6cc": {
+      "resumen": "Los Pumas ya entrenan en San Juan de cara al partido ante Gales por el Nations Championship y así será la semana previa al encuentro."
     }
   }
 }

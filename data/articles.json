@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-07-08T14:44:39.465709+00:00",
+ "generated_at": "2026-07-08T17:55:32.687906+00:00",
  "sections": [
   {
    "id": "cardiologia",
    "title": "Cardiología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Natural History of Asymptomatic Phenotypically Mild HCM: Insights From the SHaRe Registry",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42417692/",
+     "source": "JACC",
+     "published": "2026-07-08T00:00:00+00:00",
+     "copete": "Topriceanu CC et al. · Journal of the American College of Cardiology",
+     "id": "b5bc9270a0fd"
+    },
     {
      "title": "LAMPOON in TMVR: Glimpse Into Real-world Outcomes",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXVU5SY2xXSF95ZmhpUk9jd1VGVnJPXzZxR013SEdweTg2cTlzT2g5SkgtTmlWSlkxbDVJWUZsQmwzaW1kYnUyRkVjNTVrbmpVVVgyWEpsU3dTM3JmQlN2VWMyano1dS1sMWhLYWRiUG9EamVNRmc?oc=5",
@@ -66,20 +74,12 @@
      "id": "e38bb53289c2"
     },
     {
-     "title": "The Measure of a Leader: Lessons in Leadership From Eugene Braunwald",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42383940/",
+     "title": "Environment and the Heart: Measuring the Health Impact of Environmental Risks and Making It Matter",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42417690/",
      "source": "JACC",
      "published": "2026-07-01T00:00:00+00:00",
-     "copete": "Mehran R et al. · Journal of the American College of Cardiology",
-     "id": "b24e7048d17e"
-    },
-    {
-     "title": "Antiplatelet Therapy in the Management of Atherosclerotic Cardiovascular Disease: 2026 ACC Scientific Statement: A Report of the American College of Cardiology",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42377293/",
-     "source": "JACC",
-     "published": "2026-06-30T00:00:00+00:00",
-     "copete": "Kumbhani DJ et al. · Journal of the American College of Cardiology",
-     "id": "d450ad886565"
+     "copete": "Burkart K et al. · Journal of the American College of Cardiology",
+     "id": "281e4e0f5ef9"
     }
    ]
   },
@@ -89,9 +89,55 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Lo comparan con Valverde y tiene cómo espejo a Pedri: quién es el joven que despertó el interés de River",
-     "link": "https://www.ole.com.ar/river-plate/river-tobias-andrada-velez-mercado-pases-coudet-valverde-pedri_0_eDd1OoJfZL.html",
+     "title": "ENTRADAS A LA VENTA PARA LOS TEST MATCHES ANTE SUDÁFRICA Y AUSTRALIA",
+     "link": "https://uar.com.ar/entradas-a-la-venta-para-los-test-matches-ante-sudafrica-y-australia/",
+     "source": "UAR",
+     "published": "2026-07-08T17:41:00+00:00",
+     "copete": "Los Pumas cierran su temporada en nuestro país con tres desafiantes presentaciones: recibirán a Sudáfrica, vigente bicampeón del mundo, y disputarán una serie de dos test-matches ante Australia. La Copa VISA Galicia estará en disputa en…",
+     "id": "bb2e650646f7"
+    },
+    {
+     "title": "Ya están a la venta las entradas para los partidos Los Pumas ante Sudáfrica y Australia: fechas y precios",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTXFMVjhLc3VFZ0FTZl9EbG50RGJoYWFtSUk3M0VoS2J5TFZ0LXE3a0NUaUpPQ2pudGliSXRYYmR1UmFCMk1iTVhfa0g0bk5GQTk3Q0hTdXVFVXAzTFlWNU1WV3JRZlpfYTJlVnduazVKVS1IbFI0Qy1UQl9ycy10dDJLTUVOUnJseC1LLUpuQ0ZidzhlbjhJM0s3R19fcGYyYzFPMFVtdWRmQkxtNE1hN1U5R1hDbVI0M05Cakx5RQ?oc=5",
+     "source": "La Voz del Interior",
+     "published": "2026-07-08T17:11:01+00:00",
+     "id": "0e2c9d68aefb"
+    },
+    {
+     "title": "El deseo de Atlético Nacional que pone en jaque a Armani: ¿se va de River en este mercado?",
+     "link": "https://www.ole.com.ar/river-plate/river-armani-salida-atletico-nacional_0_Ng1YhVliKH.html",
+     "source": "Olé — River",
+     "published": "2026-07-08T16:27:17+00:00",
+     "copete": "La leyenda del arco Millonario podría finalizar su ciclo en Núñez en este mercado de pases.",
+     "id": "cb601ea4f540"
+    },
+    {
+     "title": "Los Pumas: venta de entradas y precios para los partidos en Buenos Aires, Jujuy y Mendoza",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOFRlQk00aVVxTWFRd1UwQm1mTGdvMjdITmdkeThBek9nSnVPWXZxejRIcnJvak9YVFdDeHV6RGVrREIyb2NSMVFmMHFMWHVaQXZwSUp5czlBd3NfMENZTjU2cVp5cVVGNUs0MEVobkZLYWpZQ2xGMFphSnhQSG1lRmhDRTB0ei1xLWJlNlBnYTVtd3FzU3NJeUxVbEtyRThGLWR3eDgxSnkweG4zMWZ6Umd5UHFicEl3OHdxRkVvQW5ZOXNLVk1XTkJEZGlzQQ?oc=5",
+     "source": "ESPN Ecuador",
+     "published": "2026-07-08T16:09:27+00:00",
+     "id": "dd4791c0e0b7"
+    },
+    {
+     "title": "Racing: empate y debut de dos refuerzos ante Cerro Porteño",
+     "link": "https://www.ole.com.ar/futbol-primera/racing-amistoso-cerro-porteno-cilindro_0_t6uEeXDkp4.html",
      "source": "Olé — Primera",
+     "published": "2026-07-08T15:58:03+00:00",
+     "copete": "La Academia jugó un amistoso en el Cilindro contra el equipo paraguayo. Los titulares empataron 0-0 y sumaron minutos Espino, el reemplazante de Gabriel Rojas, y Matías Kranevitter.",
+     "id": "807aaca94f80"
+    },
+    {
+     "title": "La especial movida solidaria de River para la final de la Reserva",
+     "link": "https://www.ole.com.ar/river-plate/river-reserva-final-racing-movida-solidaria-entradas-alimento-perecedero_0_f0UYvioN9q.html",
+     "source": "Olé — River",
+     "published": "2026-07-08T15:12:54+00:00",
+     "copete": "Desde el club tuvieron una gran idea con el tema de las entradas para el partido definitorio del viernes ante Racing en la cancha de Banfield.",
+     "id": "cfdf74ad280d"
+    },
+    {
+     "title": "Lo comparan con Valverde y tiene como espejo a Pedri: quién es el joven que despertó el interés de River",
+     "link": "https://www.ole.com.ar/river-plate/river-tobias-andrada-velez-mercado-pases-coudet-valverde-pedri_0_eDd1OoJfZL.html",
+     "source": "Olé — River",
      "published": "2026-07-08T14:25:00+00:00",
      "copete": "Tobías Andrada es una de las últimas joyas de Vélez y desde Núñez llamaron a Liniers para activar una fase inicial de negociación.",
      "id": "25e9aa24f2df"
@@ -112,66 +158,12 @@
      "id": "e8cc4369dd81"
     },
     {
-     "title": "Los Pumas en San Juan: todos sus antecedentes en el Estadio Bicentenario",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTXZsOEowWk81MUE1bjZFWDRGdnNXTEQ1elVxRlM2Z05TMWdJenRldXltenVnRjVmbUotSXN1SWZaMjFTUUlsOEV2YUdGZDIydDlmMkhRYXNiZDZJWEtUZkFVbGxpcVJnYXFsVzVNSWlnSWV5a0JfNlFUT1ZwSGNRVGI2TTZ3SFotbzkzT2ZOczhZWGJrclNaOEtXMHN0M3RNeExLbmt1NHlXR3lzZm9nOHFZLTVZWENRdUU3TjQ0RFZMd2tJd1JCRnJVamwxS0Q4QnRGQ1dUN1pvS0NKM3FXN0JJbEFfM2JGZHlxM2EwcFRKZUk?oc=5",
-     "source": "ESPN Colombia",
-     "published": "2026-07-08T06:29:30+00:00",
-     "id": "19d83dc53c2a"
-    },
-    {
-     "title": "ESCOCIA CON SU EQUIPO LISTO PARA ENFRENTAR A LOS PUMAS",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZVVLUC1DajVUUWVBdWx6bGdOQ1pSMHpBaUxEemQ3bzdDUTFuRDNvNUZJNThVS3U0QjlPMFFoMEtyTXdzeHZpRUN6bTBXMThEaGV6aGFzZ3lIeWdWaXljWDhXZ2lJblgydklfaFplV1Q5VDFBd1VvLVh3dVZCSVdCclZ2Z3JpM2V3aUlQQU5BbHdaWDU4R25uMXlUakV5VVBJbmdpUTByU1FOejk0cUg1MGVEWEZobmpLOVliQkJYRF93Tm5CSDZiZUtn?oc=5",
-     "source": "Rugby Champagne",
-     "published": "2026-07-08T02:26:43+00:00",
-     "id": "1433fcca0f37"
-    },
-    {
      "title": "Thiago Almada, de la bomba de su posible llegada a River a no jugar ni un minuto en la Selección ante Egipto",
      "link": "https://www.ole.com.ar/river-plate/river-almada-seleccion-mundial-egipto-atletico-madrid_0_4GH09bWSVL.html",
      "source": "Olé — River",
      "published": "2026-07-07T23:29:02+00:00",
      "copete": "El volante ofensivo por el que River avanza a fondo en el mercado estuvo en el banco del equipo de Scaloni cuando venía siendo el titular.",
      "id": "346af3ced6ec"
-    },
-    {
-     "title": "En México esperan a Romaña antes del fin de semana",
-     "link": "https://www.ole.com.ar/san-lorenzo/san-lorenzo-romana-va-mexico_0_zADolXnevF.html",
-     "source": "Olé — Primera",
-     "published": "2026-07-07T23:03:04+00:00",
-     "copete": "Si bien el colombiano se sigue entrenando junto al plantel de Gorosito, en las próximas horas se despedirá para sumarse al León de México. ¿Cuánto le queda a San Lorenzo por su salida?",
-     "id": "b03cdc0a90f4"
-    },
-    {
-     "title": "Malcorra se irá de Independiente: su flojo y la jugada que lo marcó",
-     "link": "https://www.ole.com.ar/independiente/malcorra-independiente-quinteros-central_0_CkBJO1VNuC.html",
-     "source": "Olé — Primera",
-     "published": "2026-07-07T22:16:56+00:00",
-     "copete": "Nacho rescindirá su contrato en los próximo días y se marchará del Rojo después de apenas seis meses. Los detalles.",
-     "id": "e7b16da72ccf"
-    },
-    {
-     "title": "Orgullo total: River sacó pecho por el gol agónico de Enzo Fernández",
-     "link": "https://www.ole.com.ar/river-plate/river-enzo-fernandez-posteos-seleccion-argentina-copa-mundo_0_laU7sseoY1.html",
-     "source": "Olé — River",
-     "published": "2026-07-07T21:59:06+00:00",
-     "copete": "La Selección Argentina avanzó a cuartos de final del Mundial tras eliminar a Egipto y el Millonario publicó algunos posteos por el goleador surgido en las Inferiores.",
-     "id": "b453f591cf6d"
-    },
-    {
-     "title": "Lo comparan con Valverde y tiene cómo ídolo a Pedri: quién es el joven que está en el radar de River",
-     "link": "https://www.ole.com.ar/river-plate/river-tobias-andrada-velez-mercado-pases_0_eDd1OoJfZL.html",
-     "source": "Olé — River",
-     "published": "2026-07-07T21:06:23+00:00",
-     "copete": "Tobías Andrada es una de las joyas de Vélez y desde Núñez llamaron a Liniers para activar la fase inicial de negociación.",
-     "id": "e4adcc562d6d"
-    },
-    {
-     "title": "El emotivo regreso de Borré al Monumental: \"Qué locura\"",
-     "link": "https://www.ole.com.ar/river-plate/river-rafa-santos-borre-monumental-regreso-ultimo-gol_0_5oDxZMnQ8h.html",
-     "source": "Olé — River",
-     "published": "2026-07-07T15:27:44+00:00",
-     "copete": "El flamante refuerzo de River volvió a pisar el césped del Liberti acompañado de su mujer, que compartió unas sentidas palabras.",
-     "id": "ed2858015e73"
     },
     {
      "title": "Ajustada derrota de Los Pumitas ante Inglaterra",
@@ -197,6 +189,51 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Skill engineering and the case against one-shot AI design",
+     "link": "https://www.reddit.com/r/datascience/comments/1uqxvyx/skill_engineering_and_the_case_against_oneshot_ai/",
+     "source": "r/datascience",
+     "published": "2026-07-08T16:34:41+00:00",
+     "id": "0340ef2b2200"
+    },
+    {
+     "title": "The Real Challenge Limiting AI Models Today",
+     "link": "https://towardsdatascience.com/the-real-challenge-limiting-ai-models-today/",
+     "source": "Towards Data Science",
+     "published": "2026-07-08T16:30:00+00:00",
+     "copete": "Hint: it is not GPU speed! The post The Real Challenge Limiting AI Models Today appeared first on Towards Data Science .",
+     "id": "3dcc47e17df5"
+    },
+    {
+     "title": "Chatto is now Open Source",
+     "link": "https://www.hmans.dev/blog/chatto-is-open-source",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-08T15:19:50+00:00",
+     "id": "e476f428003a"
+    },
+    {
+     "title": "How to Clean Messy CSV Files with Python: A Beginner’s Guide",
+     "link": "https://www.kdnuggets.com/how-to-clean-messy-csv-files-with-python-a-beginners-guide",
+     "source": "KDnuggets",
+     "published": "2026-07-08T15:10:39+00:00",
+     "copete": "Learn how to clean CSV files with pandas by handling missing values, duplicate rows, messy text, wrong data types, mixed date formats, invalid emails, and currency values.",
+     "id": "abdf0b4898ee"
+    },
+    {
+     "title": "Redesign Work Before You Add More AI Agents",
+     "link": "https://towardsdatascience.com/redesign-work-before-you-add-more-ai-agents/",
+     "source": "Towards Data Science",
+     "published": "2026-07-08T15:00:00+00:00",
+     "copete": "Map AI value, design workflows, redefine talent, upgrade the executive team, and measure the business impact. The post Redesign Work Before You Add More AI Agents appeared first on Towards Data Science .",
+     "id": "5f708fe1def4"
+    },
+    {
+     "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+     "link": "https://mistral.ai/news/robostral-navigate/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-08T14:09:17+00:00",
+     "id": "818d44efa3d0"
+    },
+    {
      "title": "Inside the Subspace Where Spurious Correlations Are Born",
      "link": "https://towardsdatascience.com/inside-the-subspace-where-spurious-correlations-are-born/",
      "source": "Towards Data Science",
@@ -205,48 +242,18 @@
      "id": "faf05e88d203"
     },
     {
-     "title": "The Threshold Is a Price, Not a Percentage",
-     "link": "https://towardsdatascience.com/the-threshold-is-a-price-not-a-percentage/",
-     "source": "Towards Data Science",
-     "published": "2026-07-08T12:00:00+00:00",
-     "copete": "How to decide when an AI agent should act on its own by using cost asymmetry instead of a fixed confidence cutoff The post The Threshold Is a Price, Not a Percentage appeared first on Towards Data Science .",
-     "id": "e4fde5e66d04"
-    },
-    {
-     "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-     "link": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+     "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
+     "link": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
      "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-08T11:30:56+00:00",
-     "id": "3a869d223c5a"
+     "published": "2026-07-08T13:24:52+00:00",
+     "id": "7f4c5f9ef711"
     },
     {
-     "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-     "link": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+     "title": "Cloudflare Meerkat - Globally distributed consensus",
+     "link": "https://blog.cloudflare.com/meerkat-introduction/",
      "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-08T08:46:06+00:00",
-     "id": "6eaec4ecd48d"
-    },
-    {
-     "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-     "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-08T05:25:35+00:00",
-     "id": "85edce73b442"
-    },
-    {
-     "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
-     "link": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-08T03:59:35+00:00",
-     "id": "c1c51bb9b2d3"
-    },
-    {
-     "title": "Information Theory and Ensemble Models",
-     "link": "https://towardsdatascience.com/information-theory-and-ensemble-models-ded31db10d8/",
-     "source": "Towards Data Science",
-     "published": "2026-07-08T01:57:39+00:00",
-     "copete": "How should we ensemble time-series forecasts better? The post Information Theory and Ensemble Models appeared first on Towards Data Science .",
-     "id": "7bc9f5a0d054"
+     "published": "2026-07-08T13:18:03+00:00",
+     "id": "ddbc047908ba"
     },
     {
      "title": "sqlite-utils 4.0, now with database schema migrations",
@@ -255,22 +262,6 @@
      "published": "2026-07-07T19:32:57+00:00",
      "copete": "This morning I released sqlite-utils 4.0 , the 124th release of that project and the first major version bump since 3.0 in November 2020. In addition to some small but significant breaking changes (described in this upgrade guide ), this…",
      "id": "5432189dc8af"
-    },
-    {
-     "title": "sqlite-migrate 0.2",
-     "link": "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything",
-     "source": "Simon Willison (IA)",
-     "published": "2026-07-07T16:33:55+00:00",
-     "copete": "Release: sqlite-migrate 0.2 The version that retires the library, instead implementing a compatibility shim against the new sqlite-utils 4.0 dependency. Tags: sqlite-utils",
-     "id": "abd89a34a184"
-    },
-    {
-     "title": "github-code Web Component",
-     "link": "https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything",
-     "source": "Simon Willison (IA)",
-     "published": "2026-07-07T16:18:16+00:00",
-     "copete": "Tool: github-code Web Component An experimental Web Component built using GPT-5.5 and the following prompt : let's build a Web Component for embedding code from GitHub <github-code…",
-     "id": "f9e33da1b5c6"
     }
    ]
   },
@@ -280,100 +271,99 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Chefs reconocidos harán el Gran Banquete Argentino en Caminos y Sabores: “Tenemos productos de altísima calidad”",
-     "link": "https://www.lanacion.com.ar/que-sale/chefs-reconocidos-haran-el-gran-banquete-argentino-en-caminos-y-sabores-tenemos-productos-de-nid06072026/",
-     "source": "La Nación",
-     "published": "2026-07-08T14:40:53+00:00",
-     "copete": "La feria celebra sus 20 ediciones con clases, recetas regionales y productos locales; Germán Martitegui, Felicitas Pizarro, Dante Liporace, Martín Molteni, Juan Gaffuri y otros cocineros serán parte de la programación",
-     "id": "dcd6892cd2dc"
-    },
-    {
-     "title": "La inesperada confesión de Scaloni horas después del triunfo de Argentina sobre Egipto",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/la-inesperada-confesion-de-scaloni-horas-despues-del-triunfo-de-argentina-sobre-egipto-nid08072026/",
-     "source": "La Nación",
-     "published": "2026-07-08T14:40:43+00:00",
-     "copete": "En diálogo con la prensa, el director técnico analizó el último partido que clasificó a la selección a cuartos de final; visiblemente emocionado, halagó a los jugadores",
-     "id": "eb1ace0bf66a"
-    },
-    {
-     "title": "Ordenan nuevas medidas de prueba en la causa contra Francisco Adorni por falsificar declaraciones juradas",
-     "link": "https://www.infobae.com/judiciales/2026/07/08/ordenan-nuevas-medidas-de-prueba-en-la-causa-contra-francisco-adorni-por-falsificar-declaraciones-juradas/",
+     "title": "Descuentos en PlayStation de hasta el 80% por tiempo limitado: EA FC 26, Call of Duty y más",
+     "link": "https://www.infobae.com/tecno/2026/07/08/descuentos-en-playstation-de-hasta-el-80-por-tiempo-limitado-ea-fc-26-call-of-duty-y-mas/",
      "source": "Infobae",
-     "published": "2026-07-08T14:40:15+00:00",
-     "copete": "El juez federal Daniel Rafecas requirió datos sobre un crédito hipotecario, inmuebles y DDJJ del diputado bonaerense y hermano de Manuel Adorni",
-     "id": "b2b0eeed1e38"
+     "published": "2026-07-08T17:53:25+00:00",
+     "copete": "Los jugadores pueden encontrar descuentos en títulos como The Last of Us, The Forest, Ghost of Tsushima, Gears of War, entre otros",
+     "id": "552199a34299"
     },
     {
-     "title": "Operativo reelección: la situación política y financiera de los 13 mandatarios que negocian una alianza con Milei",
-     "link": "https://www.lanacion.com.ar/politica/operativo-reeleccion-la-situacion-politica-y-financiera-de-los-13-mandatarios-que-negocian-una-nid08072026/",
+     "title": "Buscan a una joven de 18 años que salió de su casa en Belgrano para ir a clases y no regresó",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/07/08/buscan-a-una-joven-de-18-anos-que-salio-de-su-casa-en-belgrano-para-ir-a-clases-y-no-regreso/",
+     "source": "Infobae",
+     "published": "2026-07-08T17:52:47+00:00",
+     "copete": "Jessica Benitez Barbudes fue vista por última vez este martes cuando dejó su domicilio con destino a un establecimiento educativo. Su madre denunció la desaparición y la Policía de la Ciudad trabaja para localizarla",
+     "id": "c40dabcc65a3"
+    },
+    {
+     "title": "Este tatuaje electrónico promete cambiar la forma de monitorear tu salud y controlar tu temperatura",
+     "link": "https://www.infobae.com/tecno/2026/07/08/este-tatuaje-electronico-promete-cambiar-la-forma-de-monitorear-tu-salud-y-controlar-tu-temperatura/",
+     "source": "Infobae",
+     "published": "2026-07-08T17:52:00+00:00",
+     "id": "11e60598aa6f"
+    },
+    {
+     "title": "Anjelica Huston: de su papel consagratorio a su turbulenta relación con Jack Nicholson y los accidentes que la marcaron a fuego",
+     "link": "https://www.lanacion.com.ar/espectaculos/anjelica-huston-de-su-papel-consagratorio-a-su-turbulenta-relacion-con-jack-nicholson-y-los-nid08072026/",
      "source": "La Nación",
-     "published": "2026-07-08T14:39:14+00:00",
-     "copete": "Karina Milei y el jefe de gabinete Santilli prometen a los mandatarios provinciales apoyo a nivel local, con la posibilidad de marginar a sus propios candidatos",
-     "id": "6c219e0ca077"
+     "published": "2026-07-08T17:51:10+00:00",
+     "copete": "Este 8 de julio, la intérprete que se ganó el reconocimiento del público por sus papeles en El honor de la familia Prizzi y Los locos Addams cumple 75 años",
+     "id": "0c64290cfcc7"
     },
     {
-     "title": "Capturaron a seis acusados de contrabandear celulares y consolas desde Estados Unidos en El Salvador",
-     "link": "https://www.infobae.com/el-salvador/2026/07/08/capturaron-a-seis-acusados-de-contrabandear-celulares-y-consolas-desde-estados-unidos-en-el-salvador/",
-     "source": "Infobae",
-     "published": "2026-07-08T14:39:07+00:00",
-     "copete": "El operativo, ejecutado de madrugada junto con la Fiscalía, apunta a un grupo que ingresaba celulares premium y consolas desde Estados Unidos, evadía controles al no declarar la carga y usaba papeles alterados",
-     "id": "087e143bb3be"
-    },
-    {
-     "title": "Solo Leveling expande su universo con la película Beyond the System, continuando la saga con alto presupuesto",
-     "link": "https://www.infobae.com/malditos-nerds/2026/07/08/solo-leveling-expande-su-universo-con-la-pelicula-beyond-the-system-continuando-la-saga-con-alto-presupuesto/",
-     "source": "Infobae",
-     "published": "2026-07-08T14:38:53+00:00",
-     "copete": "Solo Leveling: Beyond the System busca redefinir el estándar del cine anime con tecnología innovadora",
-     "id": "52a67f2e0df1"
-    },
-    {
-     "title": "Agricultura de Guatemala inspeccionó 247,741 animales y revisó 10,169 transportes en 2026 para contener el gusano barrenador",
-     "link": "https://www.infobae.com/guatemala/2026/07/08/agricultura-de-guatemala-inspecciono-247741-animales-y-reviso-10169-transportes-en-2026-para-contener-el-gusano-barrenador/",
-     "source": "Infobae",
-     "published": "2026-07-08T14:37:51+00:00",
-     "copete": "El ministerio sostuvo que el traslado de ganado es un factor de dispersión entre regiones, por lo que reforzó protocolos para minimizar nuevos focos y anticipar detecciones, con controles continuos en todo el territorio",
-     "id": "d504247af0ca"
-    },
-    {
-     "title": "Cuatro definiciones económicas de Milei: inflación, Carta Orgánica del BCRA, reformas en seguros y el mercado de capitales",
-     "link": "https://www.infobae.com/economia/2026/07/08/cuatro-definiciones-economicas-de-milei-inflacion-carta-organica-del-bcra-reformas-en-seguros-y-el-mercado-de-capitales/",
-     "source": "Infobae",
-     "published": "2026-07-08T14:37:46+00:00",
-     "copete": "El presidente habló de la actualidad económica, adelantó medidas y puso foco en los logros de su gestión",
-     "id": "1f19e290dc0b"
-    },
-    {
-     "title": "¿Hoy no hay fútbol? No, y por eso es buen momento para hacer un balance que da súper positivo, salvo por la gran mancha",
-     "link": "https://www.lanacion.com.ar/deportes/hoy-no-hay-futbol-no-y-por-eso-es-buen-momento-para-hacer-un-balance-que-da-super-positivo-salvo-la-nid08072026/",
+     "title": "Por una orden judicial, CFK cobrará $15,68 millones mensuales de la Anses, pese a estar condenada",
+     "link": "https://www.lanacion.com.ar/economia/por-una-orden-judicial-cfk-cobrara-1568-millones-mensuales-de-la-anses-pese-a-estar-condenada-nid08072026/",
      "source": "La Nación",
-     "published": "2026-07-08T14:37:27+00:00",
-     "copete": "Estadios llenos, partidazos, estrellas en su mejor momento... y Trump",
-     "id": "95f56d784f5f"
+     "published": "2026-07-08T17:50:58+00:00",
+     "copete": "La cifra es en bruto y fue notificada a la Justicia por el organismo previsional, que informó que cumplirá desde agosto la medida cautelar que establece la restitución provisoria de la prestación, a la vez que la seguirá cuestionando",
+     "id": "0848d72aa039"
     },
     {
-     "title": "Los bares elegidos de bartenders y chefs: “Se bebe increíble y se puede comer en un muy alto nivel”",
-     "link": "https://www.lanacion.com.ar/que-sale/los-bares-elegidos-de-bartenders-y-chefs-se-bebe-increible-y-se-puede-comer-en-un-muy-alto-nivel-nid06072026/",
+     "title": "Qué diferencia hay entre el USB violeta y el común",
+     "link": "https://www.lanacion.com.ar/tecnologia/que-diferencia-hay-entre-el-usb-violeta-y-el-comun-nid08072026/",
      "source": "La Nación",
-     "published": "2026-07-08T14:37:06+00:00",
-     "copete": "Desde Gastón Acurio a Diego Cabrera, referentes de la gastronomía y de la coctelería señalan una recorrida donde la coctelería se combina con cocina de autor, platos para compartir y mesas hasta tarde",
-     "id": "bb0fd8959a15"
+     "published": "2026-07-08T17:50:41+00:00",
+     "copete": "Enterate por qué existe esta distinción y qué caracteriza a cada uno de los puertos que permiten la conexión por cable de dispositivos tecnológicos",
+     "id": "c36b10cafe53"
     },
     {
-     "title": "Cumbre de la OTAN: otra vez Groenlandia, Trump \"muy\" enojado y prohibido hablar del Mundial",
-     "link": "https://www.clarin.com/mundo/cumbre-otan-vez-groenlandia-trump-enojado-prohibido-hablar-mundial_0_9k5U5oMd4Y.html",
+     "title": "La Justicia rechazó el pedido de la CGT para frenar la aplicación de la reforma laboral impulsada por el Gobierno",
+     "link": "https://www.infobae.com/politica/2026/07/08/la-justicia-rechazo-el-pedido-de-la-cgt-para-frenar-la-aplicacion-de-la-reforma-laboral-impulsada-por-el-gobierno/",
+     "source": "Infobae",
+     "published": "2026-07-08T17:50:00+00:00",
+     "copete": "En otro revés para la central obrera, la Cámara Contencioso Administrativo Federal confirmó el rechazo al reclamo sindical de suspender la aplicación de 81 artículos de la Ley de Modernización Laboral. Qué dice el fallo",
+     "id": "98b7b39f1a2f"
+    },
+    {
+     "title": "Por qué van a caer los precios de bonos soberanos con el pago de vencimientos de esta semana",
+     "link": "https://www.infobae.com/economia/2026/07/08/por-que-van-a-caer-los-precios-de-bonos-soberanos-con-el-pago-de-vencimientos-de-esta-semana/",
+     "source": "Infobae",
+     "published": "2026-07-08T17:49:43+00:00",
+     "copete": "El Gobierno desembolsará este jueves cerca de USD 4.400 millones por intereses y capital de Bonares y Globales, flujo que va a impactar hasta 15% en las cotizaciones",
+     "id": "6a8a8d82ccff"
+    },
+    {
+     "title": "Agentes del FBI y fiscales federales toman testimonios para investigar operaciones financieras de la AFA en Estados Unidos",
+     "link": "https://www.lanacion.com.ar/politica/agentes-del-fbi-y-fiscales-federales-toman-testimonios-para-investigar-operaciones-financieras-de-la-nid06072026/",
+     "source": "La Nación",
+     "published": "2026-07-08T17:48:43+00:00",
+     "copete": "El Departamento de Justicia norteamericano busca datos sobre los negocios de la entidad que preside Chiqui Tapia con la empresa TourProdEnter LLC; los investigadores también analizan convocar a exfuncionarios del gobierno de Milei",
+     "id": "f2c93130b122"
+    },
+    {
+     "title": "¿Hay partidos del Mundial hoy miércoles 8 de julio?",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/hay-partidos-del-mundial-hoy-miercoles-8-de-julio-nid08072026/",
+     "source": "La Nación",
+     "published": "2026-07-08T17:48:11+00:00",
+     "copete": "La Copa del Mundo ya afronta sus últimas rondas; la selección argentina avanzó a cuartos de final y se consolidó como una de las ocho mejores",
+     "id": "d039577e8529"
+    },
+    {
+     "title": "Miguel Indurain (61 años), leyenda del ciclismo: \"Antes no nos tomábamos barritas ni geles, sino bocadillos de jamón y queso o pasteles que nos compraban los masajistas del equipo\"",
+     "link": "https://www.clarin.com/estados-unidos/miguel-indurain-61-anos-leyenda-ciclismo-tomabamos-barritas-geles-bocadillos-jamon-queso-pasteles-compraban-masajistas-equipo_0_DtBsrzsuOP.html",
      "source": "Clarín",
-     "published": "2026-07-08T14:20:04+00:00",
-     "copete": "El encuentro en Ankara se movió al ritmo del presidente estadounidense y concluyó sin una fecha para la próxima cita anual. \"¡Queremos permanecer con ustedes!\", dijo Trump sobre el futuro de EE.UU. en la Alianza Atlántica.",
-     "id": "01d12c0a099f"
+     "published": "2026-07-08T17:24:39+00:00",
+     "copete": "La leyenda del ciclismo español marca un punto de quiebre entre su época de deportista y la actual.",
+     "id": "d2a988867399"
     },
     {
-     "title": "El Gobierno anunció un acuerdo con tres bancos que le prestarán US$ 3.200 millones para pagar los bonos",
-     "link": "https://www.clarin.com/economia/gobierno-anuncio-acuerdo-bancos-prestaran-us-3200-millones-pagar-bonos_0_wCDeRirzmp.html",
+     "title": "¿Qué coche debería comprar si gano 14 dólares la hora? Los 9 mejores autos usados por menos de $10.000",
+     "link": "https://www.clarin.com/estados-unidos/coche-deberia-comprar-gano-14-dolares-hora-9-mejores-autos-usados-10000_0_pyAQBvoQoE.html",
      "source": "Clarín",
-     "published": "2026-07-08T14:16:50+00:00",
-     "copete": "Son el BBVA, Santander y Deutsche Bank, con garantía de organismos internacionales. Comenzará a devolver intereses a fin de año pero los pagos de capital inician en diciembre de 2029. Un organismo del Banco Mundial cobrará US$ 100 millones…",
-     "id": "a01b5335fa6e"
+     "published": "2026-07-08T17:24:39+00:00",
+     "copete": "Conseguir un auto confiable con un presupuesto ajustado es posible. Te mostramos los mejores modelos de segunda mano por menos de $10,000 dólares y las peligrosas \"trampas\" sobre ruedas de las que debes huir.",
+     "id": "c56fffee35c9"
     }
    ]
   },
@@ -386,81 +376,81 @@
      "title": "Argentina avanza tras una remontada épica contra Egipto y enfrenta en cuartos de final a Suiza, que eliminó a Colombia del Mundial 2026",
      "link": "https://www.bbc.co.uk/mundo/live/cj6gg4g8y1et?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-08T14:44:39.132737+00:00",
+     "published": "2026-07-08T17:55:31.738941+00:00",
      "copete": "Argentina de la mano de Messi venció 3-2 a Egipto y es ahora la única selección de América Latina en el Mundial 2026. Colombia empató 0-0 con Suiza y, aunque fue más en la cancha, perdió en la tanda de penales.",
      "id": "0a8b2cd88cf1"
-    },
-    {
-     "title": "Teenager arrested after two girls, 13, seriously injured in German school attack",
-     "link": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-08T14:41:38+00:00",
-     "copete": "Police said a major operation was under way in the area of Welfen-Gymnasium secondary school in Schongau, Bavaria.",
-     "id": "ae16d6db48c4"
-    },
-    {
-     "title": "German doctor jailed for murder of 15 patients and suspected of more",
-     "link": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-08T14:25:25+00:00",
-     "copete": "The German palliative care doctor has been sentenced to life imprisonment for killing 15 of his patients.",
-     "id": "f98dc2fd07d8"
-    },
-    {
-     "title": "Francia aprueba una ley de uso de armas de fuego por parte de la policía que la oposición califica de “licencia para matar”",
-     "link": "https://elpais.com/internacional/2026-07-08/francia-aprueba-una-ley-de-uso-de-armas-de-fuego-por-parte-de-la-policia-que-la-oposicion-califica-de-licencia-para-matar.html",
-     "source": "El País Internacional",
-     "published": "2026-07-08T14:20:25+00:00",
-     "copete": "La medida, que aún debe pasar por el Senado, sale adelante con votos de los partidos aliados del Gobierno y de la extrema derecha, y pese a los intentos de bloqueo de la izquierda",
-     "id": "329983763613"
-    },
-    {
-     "title": "Trump da por rota la tregua con Irán: “Para mí, el acuerdo se ha terminado”",
-     "link": "https://elpais.com/internacional/2026-07-08/iran-responde-a-los-ultimos-bombardeos-de-estados-unidos-atacando-barein-y-kuwait.html",
-     "source": "El País Internacional",
-     "published": "2026-07-08T14:08:14+00:00",
-     "copete": "Tras dos días de ataques cruzados entre ambos países, el presidente de Estados Unidos llama “basura” a los líderes iraníes y aboga por romper las conversaciones. Además, amenaza con nuevos bombardeos este mismo miércoles",
-     "id": "c0c8a44438e1"
-    },
-    {
-     "title": "Eight killed after landslide hits girls' school in Bangladesh",
-     "link": "https://www.bbc.co.uk/news/articles/cx2wkzww20ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-08T14:02:54+00:00",
-     "copete": "Rescuers pull bodies from the mud after heavy monsoon rains batter the south-eastern coast.",
-     "id": "546a2c03d157"
     },
     {
      "title": "Nigeria's president demands to know how fake agency was allegedly set up in his office",
      "link": "https://www.bbc.co.uk/news/articles/c621xrrp6jeo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-07-08T13:05:14+00:00",
+     "published": "2026-07-08T17:31:47+00:00",
      "copete": "Adeniyi Adeyemi allegedly forged a letter of appointment and secured funding for an agency the presidency knew nothing about.",
      "id": "8a19e0588989"
     },
     {
-     "title": "Trump da por terminada la tregua con Irán en medio de fuertes ataques mutuos y dice que no quiere negociar con \"escoria\"",
+     "title": "El médico alemán condenado a cadena perpetua por el asesinato de 15 pacientes y sospechoso de más casos",
+     "link": "https://www.bbc.com/mundo/articles/c9928zje4pro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-08T17:27:02+00:00",
+     "copete": "El médico alemán especialista en cuidados paliativos ha sido condenado a cadena perpetua por matar a 15 de sus pacientes.",
+     "id": "5666bfce0950"
+    },
+    {
+     "title": "Trump lleva el caos a la cumbre de la OTAN de Ankara con insultos y piropos a sus aliados",
+     "link": "https://elpais.com/internacional/2026-07-08/trump-lleva-el-caos-a-la-cumbre-de-la-otan-de-ankara-con-insultos-y-piropos-a-sus-aliados.html",
+     "source": "El País Internacional",
+     "published": "2026-07-08T17:18:27+00:00",
+     "copete": "El presidente de Estados Unidos arremete contra los aliados europeos y despliega de nuevo su ambición sobre Groenlandia: “La necesitamos”",
+     "id": "7c3df0532804"
+    },
+    {
+     "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
+     "link": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-08T17:18:14+00:00",
+     "copete": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
+     "id": "6aa11bccf986"
+    },
+    {
+     "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
+     "link": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-08T17:01:49+00:00",
+     "copete": "Speaking ahead of a Nato summit, the president says US negotiators can keep talking with the Iranians \"if they want\".",
+     "id": "b323ebc1f6b3"
+    },
+    {
+     "title": "Quién era Lorenzo Salgado Araújo, el mexicano que murió por disparos de un agente de ICE en Houston",
+     "link": "https://www.bbc.com/mundo/articles/cwy0491r5glo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-08T16:49:14+00:00",
+     "copete": "Lorenzo Salgado Araújo, de origen mexicano, fue tiroteado por un agente del ICE en uno de los barrios de migrantes de Houston.",
+     "id": "6d06e1209125"
+    },
+    {
+     "title": "Trump da por terminada la tregua con Irán en medio de fuertes ataques mutuos",
      "link": "https://www.bbc.com/mundo/articles/cr5j998ll3jo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-08T11:30:24+00:00",
+     "published": "2026-07-08T16:30:00+00:00",
      "copete": "En declaraciones previas a la cumbre de la OTAN que se celebrara en Ankara, el presidente añadió que si los negociadores estadounidenses querían seguir hablando con los iraníes, él se lo permitiría.",
      "id": "10bb095b7723"
     },
     {
-     "title": "\"Agarré mis ollas y me vine a ayudar\": el cocinero venezolano que viajó a Caracas para ofrecer comidas a las víctimas de los terremotos de La Guaira",
-     "link": "https://www.bbc.com/mundo/articles/cx2vjew4q52o?at_medium=RSS&at_campaign=rss",
+     "title": "Cómo llegan y qué posibilidades tienen Argentina, España y los otros 6 equipos que alcanzaron los cuartos de final del Mundial",
+     "link": "https://www.bbc.com/mundo/articles/c2lyq4qnqkvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-08T11:01:51+00:00",
-     "copete": "Víctor D’Orsi no sabía de rescates, pero sí de cocina. Tras ver la destrucción causada por los terremotos en Venezuela, viajó desde Maturín hasta La Guaira con sus ollas y hoy prepara cientos de comidas para damnificados, rescatistas y…",
-     "id": "291130a1ae20"
+     "published": "2026-07-08T16:15:11+00:00",
+     "copete": "Argentina, Francia y España parten como favoritos para llegar a semifinales e incluso coronarse campeones de la Copa del Mundo. ¿Y el resto?",
+     "id": "cd9872d89c69"
     },
     {
-     "title": "\"Calor, calor y más calor\": 7 gráficos que muestran cómo ha cambiado el clima en Europa",
-     "link": "https://www.bbc.com/mundo/articles/cvgmmz8geelo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-08T10:41:47+00:00",
-     "copete": "En junio se batieron récords de temperatura en el Viejo Continente, y los científicos advierten de que se trata de un anticipo de lo que está por venir.",
-     "id": "bcd620537fa8"
+     "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
+     "link": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-08T16:12:50+00:00",
+     "copete": "After he was discovered to still be alive, the 18-month-old was flown to another hospital and survived.",
+     "id": "c2af9e805c8a"
     }
    ]
   }

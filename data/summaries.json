@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T22:04:13Z",
+  "generated_at": "2026-07-08T10:05:00Z",
   "summaries": {
     "5c27b90c0aa0": {
       "resumen": "LAMPOON es una técnica que consiste en lacerar con catéter la valva anterior mitral nativa para evitar la obstrucción del tracto de salida del ventrículo izquierdo (LVOT, Left Ventricular Outflow Tract), una complicación grave del reemplazo valvular mitral transcatéter (TMVR, Transcatheter Mitral Valve Replacement). Esta nota de TCTMD repasa cómo le fue a la técnica en la práctica real (real-world outcomes), fuera del contexto controlado de los estudios iniciales. Interesa porque el TMVR está en expansión y la obstrucción del tracto de salida sigue siendo uno de sus mayores riesgos.",
@@ -24,11 +24,6 @@
       "resumen": "Nota liviana de TCTMD donde becarios (fellows) de cardiología intervencionista cuentan qué música eligen para el laboratorio de hemodinamia (cath lab), de Bad Bunny a Phil Collins. Es una nota de color sobre la cultura del equipo de cateterismo, sin contenido clínico.",
       "destacado": false
     },
-    "2b4474a5c863": {
-      "resumen": "STUN-AF es un estudio que evalúa si realizar una ablación por catéter de la fibrilación auricular antes de un cierre percutáneo de la orejuela auricular izquierda (LAAO, Left Atrial Appendage Occlusion) reduce las fugas peridispositivo (peridevice leaks), una complicación frecuente que puede aumentar el riesgo trombótico. Interesa porque el cierre de orejuela se usa cada vez más en pacientes con fibrilación auricular que no toleran anticoagulación crónica.",
-      "destacado": false,
-      "analisis": "Diseño: No se dispone del abstract; por el título se infiere un estudio (probablemente un registro o serie comparativa, no queda claro si aleatorizado) que compara pacientes con y sin ablación de fibrilación auricular previa al implante de un dispositivo de oclusión de la orejuela auricular izquierda (LAAO).\nPoblación: Pacientes con fibrilación auricular candidatos a cierre percutáneo de la orejuela izquierda, típicamente con contraindicación para anticoagulación crónica.\nIntervención: Ablación por catéter de la fibrilación auricular antes del implante del dispositivo de LAAO, comparada con el implante sin ablación previa.\nResultados: No disponibles sin el abstract; el título sugiere una posible reducción de fugas peridispositivo con la estrategia de ablación previa, pero no hay cifras verificables.\nLimitaciones: Sin abstract no se puede evaluar el tamaño muestral, si hubo aleatorización o cegamiento, ni la significancia estadística de los hallazgos.\nMensaje: Podría sumar evidencia a favor de secuenciar la ablación antes del LAAO para minimizar fugas peridispositivo, pero se necesita el trabajo completo antes de considerar un cambio de práctica.\nNota: análisis sin acceso al abstract."
-    },
     "b24e7048d17e": {
       "resumen": "Ensayo publicado en JACC (Journal of the American College of Cardiology) sobre lecciones de liderazgo a partir de la trayectoria de Eugene Braunwald, uno de los cardiólogos más influyentes del siglo XX. No aporta datos clínicos sino una reflexión sobre mentoría y conducción de equipos académicos, de interés para quien lidera una residencia.",
       "destacado": false
@@ -37,59 +32,82 @@
       "resumen": "Documento de consenso 2026 del Colegio Americano de Cardiología (ACC, American College of Cardiology) que actualiza las recomendaciones sobre terapia antiplaquetaria (antiagregantes) en la enfermedad cardiovascular aterosclerótica. Condensa la evidencia sobre duración y combinación de antiagregantes (aspirina, inhibidores P2Y12) en distintos escenarios clínicos, útil como referencia rápida de práctica.",
       "destacado": false
     },
-    "607ee4222e42": {
-      "resumen": "Consenso 2026 del ACC (American College of Cardiology) sobre el uso de anticoagulantes orales directos (DOAC, Direct Oral Anticoagulants) en la prevención primaria y secundaria de eventos trombóticos, actualizando indicaciones en fibrilación auricular, tromboembolismo venoso y otros escenarios clínicos.",
-      "destacado": false
-    },
-    "4268821e5b6e": {
-      "resumen": "Segundo documento de consenso internacional de las sociedades AHA, ACC, ESC y WHF (American Heart Association, American College of Cardiology, European Society of Cardiology y World Heart Federation) que actualiza la definición universal de insuficiencia cardíaca, unificando criterios diagnósticos y de clasificación usados a nivel mundial.",
-      "destacado": false
-    },
-    "3aa44b60fc0e": {
-      "resumen": "Desde 2026, todo auto nuevo vendido en la Unión Europea debe incluir un sistema de detección de distracción del conductor basado en una cámara que monitorea el rostro, usando visión artificial (computer vision) para detectar somnolencia o distracción. Le sirve a un médico que aprende ciencia de datos como caso concreto de cómo la inteligencia artificial aplicada a datos biométricos ya es exigida por regulación, con las tensiones de privacidad y gobernanza de datos que eso implica.",
-      "destacado": false
-    },
     "5432189dc8af": {
       "resumen": "Simon Willison anunció la versión 4.0 de sqlite-utils, una herramienta de línea de comandos y biblioteca de Python para manipular bases de datos SQLite, que ahora suma migraciones de esquema (schema migrations) para modificar tablas ya creadas sin perder datos. Le sirve a un médico que aprende análisis de datos porque SQLite es una de las formas más simples de guardar y consultar datos tabulares sin montar un servidor de base de datos.",
-      "destacado": false
-    },
-    "2b10473a3735": {
-      "resumen": "Se lanzó la versión 7.0 de Astro, un framework para construir sitios web rápidos combinando distintas tecnologías de frontend. Le aporta a un médico que aprende ciencia de datos un ejemplo de cómo evoluciona el ecosistema de herramientas para publicar en la web resultados, reportes o tableros de datos, aunque no es una herramienta específica de análisis de datos.",
-      "destacado": false
-    },
-    "966f7b5ec438": {
-      "resumen": "Kokoro es un modelo de conversión de texto a voz (TTS, Text-to-Speech) que corre en el procesador (CPU, sin necesitar tarjeta gráfica) con buena calidad y de forma completamente local. Le sirve a un médico que aprende inteligencia artificial como ejemplo de que hoy se pueden correr modelos especializados en la propia computadora, con privacidad de los datos y sin costos recurrentes en la nube.",
-      "destacado": false
-    },
-    "803b8a176174": {
-      "resumen": "Noticia de Hacker News, sin relación directa con ciencia de datos, sobre la condena a muerte impuesta en China a un funcionario por aceptar sobornos por 325 millones de dólares. Se incluye por su alta repercusión en esa comunidad, pero no aporta contenido de análisis de datos ni de inteligencia artificial.",
-      "destacado": false
-    },
-    "8cec0a3d654a": {
-      "resumen": "Artículo de Towards Data Science que describe cómo construir un sistema de generación aumentada por recuperación (RAG, Retrieval-Augmented Generation) de nivel productivo para extraer información de documentos PDF, con parsing relacional, recuperación por tabla de contenidos y respuestas tipadas. Le sirve a un médico que aprende ciencia de datos porque muestra, paso a paso, cómo estructurar un sistema real para que un modelo de lenguaje conteste preguntas sobre documentos largos, algo aplicable a historias clínicas o literatura médica en PDF.",
       "destacado": true
     },
-    "76544ddbcb06": {
-      "resumen": "Comparación práctica de KDnuggets entre tres formas de resolver problemas de análisis de datos —consultas SQL, la biblioteca Pandas de Python y agentes de inteligencia artificial— evaluadas en ocho dimensiones con tiempos de ejecución reales. Le sirve a un médico que está aprendiendo análisis de datos para decidir qué herramienta conviene según el problema, en vez de asumir que un agente de inteligencia artificial siempre es la mejor opción.",
+    "6eee90a93642": {
+      "resumen": "Nota de TCTMD que plantea el debate sobre el uso de inteligencia artificial en la producción académica de cardiología: dónde termina la innovación legítima (por ejemplo, asistencia para redactar o analizar datos) y dónde empieza la mala conducta científica (fabricación, plagio asistido por inteligencia artificial). Interesa porque las revistas y sociedades científicas todavía están definiendo reglas claras sobre el uso de estas herramientas en publicaciones médicas.",
       "destacado": false
     },
-    "6d05735eb774": {
-      "resumen": "Artículo técnico de Towards Data Science que compara dos enfoques de generación aumentada por recuperación (RAG) para el razonamiento temporal en textos: Proxy-Pointer, que evita precompilar significados semánticos, frente a un enfoque de tipo LLM-Wiki. Le sirve a un médico que aprende ciencia de datos como ejemplo de los desafíos técnicos detrás de que un sistema de inteligencia artificial entienda correctamente fechas y secuencias de eventos, algo relevante para analizar historias clínicas longitudinales.",
+    "d0a3314f6237": {
+      "resumen": "Artículo de JACC (Journal of the American College of Cardiology) que revisa la evidencia ciega (con procedimiento simulado o control placebo) y no ciega sobre el beneficio sintomático de la angioplastia coronaria percutánea (PCI, Percutaneous Coronary Intervention) en oclusiones coronarias crónicas totales (CTO, Chronic Total Occlusion). Interesa porque distingue qué parte de la mejoría sintomática reportada podría deberse al efecto placebo del procedimiento, un debate central para decidir a quién ofrecer esta intervención técnicamente compleja.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título se infiere una revisión que contrasta la evidencia ciega (estudios con procedimiento simulado o control placebo) y no ciega (series y registros abiertos) sobre el beneficio sintomático de la angioplastia percutánea de oclusiones coronarias crónicas totales; no queda claro si aporta datos originales o es una síntesis de estudios previos, y sin abstract no hay precisión sobre cuántos estudios incluye.\nPoblación: Pacientes con oclusión coronaria crónica total y angina persistente, candidatos a angioplastia percutánea con el objetivo de mejorar síntomas, no necesariamente la supervivencia.\nIntervención: Angioplastia percutánea de la oclusión crónica total, analizada según el tipo de evidencia disponible: ensayos con procedimiento simulado (ciegos) frente a series o registros abiertos (no ciegos).\nResultados: No disponibles sin el abstract; el título sugiere que la magnitud del beneficio sintomático varía según el diseño (ciego vs. no ciego), lo que apunta a un componente placebo relevante, pero no hay razones de riesgo, intervalos de confianza ni valores de p verificables.\nLimitaciones: Al ser aparentemente una revisión de estudios heterogéneos, arrastra las limitaciones de cada uno (tamaños muestrales dispares, definiciones distintas de mejoría sintomática) y la dificultad de comparar directamente diseños ciegos y abiertos.\nMensaje: Refuerza la importancia de interpretar con cautela la mejoría sintomática reportada tras la apertura de oclusiones crónicas totales cuando no hubo control simulado, sin cambiar por sí solo la indicación del procedimiento.\nNota: análisis sin acceso al abstract."
+    },
+    "bedc224bc9e2": {
+      "resumen": "Artículo de JACC sobre la enseñanza de habilidades clínicas 'no técnicas' —como el examen físico, la comunicación y el trato con las familias— que los pacientes y sus allegados recuerdan más que los procedimientos invasivos. Interesa como reflexión sobre formación médica en un campo, la cardiología intervencionista, cada vez más centrado en la tecnología.",
       "destacado": false
     },
-    "034185d5a4c9": {
-      "resumen": "KDnuggets muestra cómo usar Gemma 4, un modelo de inteligencia artificial de Google, para extraer texto de documentos PDF tratándolos directamente como imágenes, sin necesitar reglas distintas para PDFs escaneados o digitales. Le sirve a un médico que aprende ciencia de datos porque simplifica un problema típico: digitalizar y estructurar historias clínicas o artículos en papel sin armar un proceso complejo de extracción de texto.",
+    "ab9402df2b87": {
+      "resumen": "Anuncio de OpenAI en su cuenta de Twitter/X sobre el lanzamiento público, este jueves, de una nueva familia de modelos de lenguaje llamada GPT-5.6 Sol, junto a las variantes Terra y Luna. Le sirve a un médico que sigue la inteligencia artificial para estar al tanto de la cadencia acelerada de lanzamientos de modelos, aunque el anuncio en sí no detalla capacidades técnicas nuevas.",
       "destacado": false
     },
-    "2c5d861c8088": {
-      "resumen": "Artículo de Towards Data Science sobre el uso de técnicas de análisis de datos para identificar qué microorganismos viven en la Estación Espacial Internacional. Le sirve a un médico que aprende ciencia de datos como ejemplo aplicado de análisis de datos biológicos con herramientas computacionales, un enfoque trasladable a la microbiología clínica.",
+    "c1c51bb9b2d3": {
+      "resumen": "Guía técnica de Hacker News sobre cómo armar un servidor de almacenamiento en red (NAS) casero usando el sistema de archivos ZFS, sin depender de soluciones comerciales como Synology o QNAP ni de la plataforma TrueNAS. No es una herramienta de análisis de datos en sí, pero le puede servir a un médico que aprende ciencia de datos para entender cómo guardar de forma robusta y económica grandes volúmenes de datos propios, por ejemplo imágenes o bases de investigación.",
       "destacado": false
     },
-    "95aebcc3f774": {
-      "resumen": "Un repaso por la historia de Los Pumas en el Estadio Bicentenario de San Juan, escenario del próximo partido ante Gales por el Nations Championship."
+    "1696a6d4015a": {
+      "resumen": "Pieza interactiva de The Economist que audita sus propias predicciones económicas pasadas para medir qué tan acertadas resultaron. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo validar un pronóstico contrastándolo después con la realidad, un ejercicio aplicable a cualquier modelo predictivo, incluidos los clínicos.",
+      "destacado": false
     },
-    "c9a93342f6cc": {
-      "resumen": "Los Pumas ya entrenan en San Juan de cara al partido ante Gales por el Nations Championship y así será la semana previa al encuentro."
+    "7bc9f5a0d054": {
+      "resumen": "Artículo técnico de Towards Data Science que usa conceptos de teoría de la información para mejorar cómo se combinan (ensamblan) distintos pronósticos de series temporales. Le sirve a un médico que aprende ciencia de datos porque los métodos de ensamble son una forma habitual de mejorar la precisión de un modelo predictivo combinando varios modelos más simples.",
+      "destacado": false
+    },
+    "298841ba165f": {
+      "resumen": "Artículo de Towards Data Science sobre redes de causalidad de Granger, una técnica estadística para inferir relaciones de influencia temporal entre variables, aplicada aquí a un método no paramétrico de selección de variables en modelos estructurales de vectores autorregresivos. Le sirve a un médico que aprende ciencia de datos como introducción a cómo detectar, con datos, qué variables preceden e influyen sobre otras en el tiempo, algo útil para pensar factores de riesgo longitudinales.",
+      "destacado": false
+    },
+    "95364cf302bf": {
+      "resumen": "Artículo de Towards Data Science sobre cómo medir si la estructura de un modelo econométrico se mantiene estable en el tiempo o cambia, algo clave para confiar en un modelo de pronóstico de series temporales. Le sirve a un médico que aprende ciencia de datos porque el mismo problema —un modelo que deja de ser válido cuando cambian las condiciones— aparece en modelos clínicos predictivos entrenados con datos históricos.",
+      "destacado": false
+    },
+    "90207c1939f7": {
+      "resumen": "Alerta de seguridad (CERT/CC) sobre routers Tenda cuyo firmware, en múltiples versiones, contiene una puerta trasera (backdoor) de autenticación oculta que permitiría acceso no autorizado. No es una noticia de ciencia de datos ni de inteligencia artificial, pero se incluye por su repercusión en Hacker News; sirve como recordatorio de la importancia de la seguridad en cualquier infraestructura que procese datos, incluidos los entornos de análisis.",
+      "destacado": false
+    },
+    "abd89a34a184": {
+      "resumen": "Simon Willison anunció la versión 0.2 de sqlite-migrate, una biblioteca de Python para migraciones de esquema en bases SQLite, que en esta versión pasa a funcionar como una capa de compatibilidad sobre el nuevo sqlite-utils 4.0 en lugar de mantener su propia lógica. Le sirve a un médico que aprende análisis de datos como parte del mismo ecosistema de herramientas simples para versionar y modificar bases de datos SQLite sin perder información.",
+      "destacado": false
+    },
+    "f9e33da1b5c6": {
+      "resumen": "Simon Willison presenta github-code, un componente web experimental —construido con ayuda de GPT-5.5— para insertar fragmentos de código de GitHub directamente en una página HTML. Le sirve a un médico que aprende ciencia de datos como ejemplo concreto de usar un modelo de lenguaje para programar una herramienta chica y específica, en vez de una librería de análisis de datos en sí.",
+      "destacado": false
+    },
+    "19d83dc53c2a": {
+      "resumen": "Un repaso por los antecedentes de Los Pumas en el Estadio Bicentenario de San Juan, escenario de su próximo partido."
+    },
+    "1433fcca0f37": {
+      "resumen": "Escocia ya definió el equipo titular con el que va a enfrentar a Los Pumas."
+    },
+    "3ffc11bf075e": {
+      "resumen": "Los Pumas cumplirán una semana con agenda intensa en San Juan de cara al partido ante Gales."
+    },
+    "262b8dfcf516": {
+      "resumen": "Según una investigación, hacer ejercicio físico ayudaría a reducir los episodios de fuerte necesidad de nicotina y facilitaría que los fumadores dejen de fumar."
+    },
+    "e0fcda3d507b": {
+      "resumen": "Un estudio asoció al hígado graso con un mayor riesgo de desarrollar la variante más letal de cáncer de colon."
+    },
+    "3b1685ebc584": {
+      "resumen": "Un estudio sugiere que administrar vitamina C por vía intravenosa podría favorecer la recuperación de pacientes que sufrieron traumatismos."
+    },
+    "143e4ab21932": {
+      "resumen": "Un estudio encontró que someterse a una cirugía bariátrica para bajar de peso se asocia a un mayor riesgo de desarrollar alcoholismo."
+    },
+    "90e87526bee9": {
+      "resumen": "Un estudio con la metodología de 'comprador secreto' detectó fallas y vacíos en cómo se prescriben online los medicamentos con GLP-1, los usados para diabetes y control de peso."
     }
   }
 }

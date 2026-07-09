@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T22:10:00Z",
+  "generated_at": "2026-07-09T10:15:00Z",
   "summaries": {
     "2e5ddbfeb592": {
       "resumen": "Nota de TCTMD sobre modelos de inteligencia artificial aplicados al electrocardiograma (ECG) que permiten detectar cardiopatía estructural silenciosa e identificar pacientes en riesgo antes de que aparezcan síntomas. Interesa porque el ECG es un estudio barato y masivo, y sumarle inteligencia artificial podría transformarlo en una herramienta de tamizaje poblacional para enfermedades como la miocardiopatía hipertrófica o la disfunción ventricular.",
@@ -68,15 +68,7 @@
     },
     "faf05e88d203": {
       "resumen": "Artículo de Towards Data Science sobre por qué las muestras chicas pueden producir correlaciones grandes por puro azar, y por qué una correlación grande no siempre es clínicamente relevante. Le sirve muchísimo a un médico que aprende análisis de datos porque es un error frecuente en investigación clínica: confundir una asociación estadísticamente llamativa, hallada en pocos pacientes, con un hallazgo verdadero y reproducible.",
-      "destacado": false
-    },
-    "5432189dc8af": {
-      "resumen": "Simon Willison anunció la versión 4.0 de sqlite-utils, una herramienta de línea de comandos y biblioteca de Python para manipular bases de datos SQLite, que ahora suma migraciones de esquema (schema migrations) para modificar tablas ya creadas sin perder datos. Le sirve a un médico que aprende análisis de datos porque SQLite es una de las formas más simples de guardar y consultar datos tabulares sin montar un servidor de base de datos.",
       "destacado": true
-    },
-    "abd89a34a184": {
-      "resumen": "Simon Willison anunció la versión 0.2 de sqlite-migrate, una biblioteca de Python para migraciones de esquema en bases SQLite, que en esta versión pasa a funcionar como una capa de compatibilidad sobre el nuevo sqlite-utils 4.0 en lugar de mantener su propia lógica. Le sirve a un médico que aprende análisis de datos como parte del mismo ecosistema de herramientas simples para versionar y modificar bases de datos SQLite sin perder información.",
-      "destacado": false
     },
     "76544ddbcb06": {
       "resumen": "Comparación práctica de KDnuggets entre tres herramientas para resolver problemas de análisis de datos —el lenguaje de consulta SQL (Structured Query Language), la biblioteca de Python pandas y agentes de inteligencia artificial— evaluadas en ocho dimensiones con tiempos de ejecución reales. Le sirve a un médico que aprende análisis de datos para elegir con criterio qué herramienta conviene según el problema, en lugar de asumir que la inteligencia artificial siempre es la opción más rápida o más precisa.",
@@ -86,14 +78,37 @@
       "resumen": "Artículo de KDnuggets sobre cómo usar el modelo de inteligencia artificial Gemma 4 en forma local, tratando los documentos PDF como si fueran imágenes, para extraer texto sin necesidad de entrenamiento previo (zero-shot) y sin distinguir entre PDFs escaneados y digitales. Le sirve a un médico que aprende análisis de datos porque digitalizar historias clínicas o papers en PDF es una tarea habitual, y este enfoque simplifica un proceso que suele ser frágil.",
       "destacado": false
     },
-    "40b2187928cf": {
-      "resumen": "Ya se puede comprar entradas para los partidos de Los Pumas en Buenos Aires, Jujuy y Mendoza, con los precios ya confirmados."
+    "4ac6247c3e0a": {
+      "resumen": "Artículo de The New England Journal of Medicine sobre la evaluación fisiológica de la enfermedad coronaria: herramientas como la reserva de flujo fraccional (FFR, Fractional Flow Reserve) o el índice instantáneo sin ondas (iFR, Instantaneous Wave-Free Ratio), que miden si una lesión coronaria intermedia realmente limita el flujo de sangre antes de decidir revascularizarla. Interesa porque es una revisión de una herramienta que se usa a diario en la sala de hemodinamia para no tratar (ni dejar de tratar) lesiones según su impacto funcional real.",
+      "destacado": false
     },
-    "0e2c9d68aefb": {
-      "resumen": "Arrancó la venta de entradas para los partidos de Los Pumas ante Sudáfrica y Australia, con fechas y precios ya definidos."
+    "6951eb65cb93": {
+      "resumen": "Ensayo publicado en The New England Journal of Medicine que compara revascularizar de inmediato, en el mismo procedimiento índice, o en forma diferida las lesiones no responsables (nonculprit lesions) en pacientes con infarto agudo de miocardio y enfermedad de varios vasos. Interesa porque, ya establecido el beneficio de la revascularización completa por el ensayo COMPLETE, todavía se discute cuál es el momento óptimo para tratar esas lesiones adicionales.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título se infiere un ensayo clínico que compara dos estrategias de momento de revascularización (inmediata frente a diferida) de lesiones no responsables tras un infarto de miocardio; sin acceso al abstract no hay precisión sobre si fue aleatorizado, el cegamiento, el número de centros ni el tamaño muestral.\nPoblación: Pacientes con infarto agudo de miocardio y enfermedad coronaria de varios vasos, con la lesión responsable ya tratada y al menos una lesión no responsable adicional candidata a revascularización.\nIntervención: Angioplastia percutánea inmediata de las lesiones no responsables durante el mismo procedimiento índice, comparada con angioplastia diferida en una intervención posterior separada.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar el criterio de valoración principal elegido, la duración del seguimiento, ni el riesgo de eventos isquémicos en el intervalo entre la angiografía índice y la intervención diferida en ese grupo.\nMensaje: Aporta evidencia sobre el momento óptimo para completar la revascularización en el infarto multivaso, un aspecto muy práctico del manejo diario que las guías actuales todavía dejan parcialmente abierto.\nNota: análisis sin acceso al abstract."
     },
-    "91ff86aaaf59": {
-      "resumen": "El wing Rodrigo Isgró pidió que Los Pumas recuperen intensidad de cara al partido ante Gales."
+    "d9be8582f02b": {
+      "resumen": "Simon Willison comenta una reescritura de partes de Bun —una herramienta del ecosistema JavaScript— utilizando el lenguaje de programación Rust, conocido por su performance y su seguridad de memoria. Le sirve a un médico que aprende análisis de datos como ejemplo de una tendencia más amplia: cada vez más herramientas de datos e inteligencia artificial adoptan Rust en sus componentes críticos para ganar velocidad, como ya ocurre con bibliotecas de uso frecuente en ciencia de datos (por ejemplo, polars).",
+      "destacado": false
+    },
+    "ea0729cfed39": {
+      "resumen": "Simon Willison recoge el anuncio de 'GPT-Live', a juzgar por el título una nueva función o producto de interacción en tiempo real con un modelo de la familia GPT; sin acceder a la nota original no se pueden precisar sus capacidades exactas. Le sirve a un médico que aprende análisis de datos para seguir de cerca cómo evolucionan las interfaces conversacionales de inteligencia artificial, cada vez más integradas a flujos de trabajo de análisis y documentación.",
+      "destacado": false
+    },
+    "4e6f0f7f911b": {
+      "resumen": "Los Pumas ya sienten el clima previo al partido ante Gales en San Juan, con el objetivo puesto en ganar y seguir creciendo como equipo."
+    },
+    "64095394542d": {
+      "resumen": "Los Cardenales de San Luis cortaron una racha negativa ante Milwaukee con una victoria por 5 a 1."
+    },
+    "d7a24be0b8ea": {
+      "resumen": "El testimonio de Juan Manuel, que consumía sustancias por miedo a quedarse solo hasta que una convulsión terminó en una internación en terapia intensiva."
+    },
+    "6ef0e7b8e221": {
+      "resumen": "Los Pumas ultiman los últimos detalles en San Juan mientras crece la expectativa en el estadio Bicentenario por el partido ante Gales."
+    },
+    "e69bd5a6e7f7": {
+      "resumen": "Los Pumas completaron los ajustes finales en el Bicentenario de cara al partido ante Gales."
     }
   }
 }

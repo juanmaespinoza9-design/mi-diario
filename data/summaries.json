@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T10:04:14Z",
+  "generated_at": "2026-07-10T22:07:03Z",
   "summaries": {
     "bedc224bc9e2": {
       "resumen": "Artículo de JACC sobre la enseñanza de habilidades clínicas 'no técnicas' —como el examen físico, la comunicación y el trato con las familias— que los pacientes y sus allegados recuerdan más que los procedimientos invasivos. Interesa como reflexión sobre formación médica en un campo, la cardiología intervencionista, cada vez más centrado en la tecnología.",
@@ -14,24 +14,10 @@
       "destacado": true,
       "analisis": "Diseño: Por el título se infiere un análisis del registro internacional multicéntrico SHaRe (Sarcomeric Human Cardiomyopathy Registry), de tipo observacional, sin acceso al abstract para precisar el número exacto de centros ni de pacientes incluidos.\nPoblación: Pacientes con miocardiopatía hipertrófica (HCM) de fenotipo leve (hipertrofia ventricular izquierda leve) y sin síntomas al momento de la inclusión, identificados dentro del registro SHaRe.\nIntervención: No aplica una intervención activa: se trata de seguimiento observacional de la historia natural de la enfermedad, sin comparador terapéutico.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Al ser un registro observacional, está sujeto a sesgo de selección (pacientes derivados a centros especializados en miocardiopatías), pérdida de seguimiento variable entre centros, y a la dificultad de definir de manera uniforme qué constituye un fenotipo \"leve\" y \"asintomático\" a lo largo del tiempo.\nMensaje: Ayuda a caracterizar el pronóstico de un subgrupo de pacientes con miocardiopatía hipertrófica que hoy genera dudas de manejo —hipertrofia leve sin síntomas—, información relevante para decidir la frecuencia de controles y el momento de indicar tratamiento.\nNota: análisis sin acceso al abstract."
     },
-    "bd2526aa2af7": {
-      "resumen": "Episodio de podcast de TCTMD con la cardióloga intervencionista Dee Dee Wang, centrado en su trayectoria profesional y en una mirada humana sobre la reinvención dentro de la medicina. No aporta datos clínicos: es una nota de perfil y reflexión profesional, de interés para quien piensa su propia carrera dentro de la cardiología.",
-      "destacado": false
-    },
-    "2e5ddbfeb592": {
-      "resumen": "Nota de TCTMD sobre modelos de inteligencia artificial aplicados al electrocardiograma (ECG) que permiten detectar cardiopatía estructural silenciosa e identificar pacientes en riesgo antes de que aparezcan síntomas. Interesa porque el ECG es un estudio barato y masivo, y sumarle inteligencia artificial podría transformarlo en una herramienta de tamizaje poblacional para enfermedades como la miocardiopatía hipertrófica o la disfunción ventricular.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título se infiere una nota periodística de TCTMD que resume resultados de investigación (posiblemente presentados en un congreso) sobre modelos de inteligencia artificial aplicados al electrocardiograma (ECG) para detectar cardiopatía estructural; no se cuenta con el abstract original para precisar si se trata de un estudio de validación retrospectiva, un ensayo prospectivo o un metaanálisis, ni el número de pacientes o centros involucrados.\nPoblación: Pacientes sometidos a electrocardiograma de rutina en quienes se buscó identificar, mediante el análisis del trazado por inteligencia artificial, signos de cardiopatía estructural no diagnosticada y riesgo cardiovascular aumentado.\nIntervención: Aplicación de un modelo de inteligencia artificial (aprendizaje profundo) sobre el trazado electrocardiográfico convencional, comparado presumiblemente contra la lectura o el criterio clínico habitual.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar la población de entrenamiento y validación del modelo, el riesgo de sobreajuste (overfitting), ni si los hallazgos se validaron en cohortes externas o distintas poblaciones étnicas.\nMensaje: Si se confirma en estudios prospectivos, el cribado con inteligencia artificial sobre el electrocardiograma podría ampliar la detección temprana de cardiopatía estructural con una herramienta ya disponible y de bajo costo, aunque todavía en etapa de investigación.\nNota: análisis sin acceso al abstract."
-    },
     "d0a3314f6237": {
       "resumen": "Artículo de JACC (Journal of the American College of Cardiology) que revisa la evidencia ciega (con procedimiento simulado o control placebo) y no ciega sobre el beneficio sintomático de la angioplastia coronaria percutánea (PCI, Percutaneous Coronary Intervention) en oclusiones coronarias crónicas totales (CTO, Chronic Total Occlusion). Interesa porque distingue qué parte de la mejoría sintomática reportada podría deberse al efecto placebo del procedimiento, un debate central para decidir a quién ofrecer esta intervención técnicamente compleja.",
       "destacado": false,
       "analisis": "Diseño: Por el título se infiere una revisión que contrasta la evidencia ciega (estudios con procedimiento simulado o control placebo) y no ciega (series y registros abiertos) sobre el beneficio sintomático de la angioplastia percutánea de oclusiones coronarias crónicas totales; no queda claro si aporta datos originales o es una síntesis de estudios previos, y sin abstract no hay precisión sobre cuántos estudios incluye.\nPoblación: Pacientes con oclusión coronaria crónica total y angina persistente, candidatos a angioplastia percutánea con el objetivo de mejorar síntomas, no necesariamente la supervivencia.\nIntervención: Angioplastia percutánea de la oclusión crónica total, analizada según el tipo de evidencia disponible: ensayos con procedimiento simulado (ciegos) frente a series o registros abiertos (no ciegos).\nResultados: No disponibles sin el abstract; el título sugiere que la magnitud del beneficio sintomático varía según el diseño (ciego vs. no ciego), lo que apunta a un componente placebo relevante, pero no hay razones de riesgo, intervalos de confianza ni valores de p verificables.\nLimitaciones: Al ser aparentemente una revisión de estudios heterogéneos, arrastra las limitaciones de cada uno (tamaños muestrales dispares, definiciones distintas de mejoría sintomática) y la dificultad de comparar directamente diseños ciegos y abiertos.\nMensaje: Refuerza la importancia de interpretar con cautela la mejoría sintomática reportada tras la apertura de oclusiones crónicas totales cuando no hubo control simulado, sin cambiar por sí solo la indicación del procedimiento.\nNota: análisis sin acceso al abstract."
-    },
-    "5c27b90c0aa0": {
-      "resumen": "LAMPOON es una técnica que consiste en lacerar con catéter la valva anterior mitral nativa para evitar la obstrucción del tracto de salida del ventrículo izquierdo (LVOT, Left Ventricular Outflow Tract), una complicación grave del reemplazo valvular mitral transcatéter (TMVR, Transcatheter Mitral Valve Replacement). Esta nota de TCTMD repasa cómo le fue a la técnica en la práctica real (real-world outcomes), fuera del contexto controlado de los estudios iniciales. Interesa porque el TMVR está en expansión y la obstrucción del tracto de salida sigue siendo uno de sus mayores riesgos.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título se infiere un registro observacional de la vida real (no queda claro si es un ensayo aleatorizado) que reporta los resultados de la técnica LAMPOON (laceración de la valva mitral anterior para prevenir la obstrucción del tracto de salida del ventrículo izquierdo) aplicada durante el reemplazo valvular mitral transcatéter; sin abstract no hay datos de número de centros ni de pacientes.\nPoblación: Pacientes sometidos a reemplazo valvular mitral transcatéter con riesgo anatómico de obstrucción del tracto de salida del ventrículo izquierdo, en quienes se optó por lacerar la valva mitral anterior nativa antes del implante.\nIntervención: Técnica LAMPOON (laceración percutánea de la valva mitral anterior) previa al TMVR; el título no deja en claro el comparador, probablemente series históricas sin la técnica.\nResultados: No disponibles sin el abstract.\nLimitaciones: Al tratarse presumiblemente de un registro observacional, tiene las limitaciones propias de la falta de aleatorización y de un grupo control contemporáneo; el título sugiere además una serie acotada, típica de técnicas complejas de pocos centros con experiencia, con posible sesgo de selección de operadores.\nMensaje: Aporta experiencia de vida real sobre la seguridad y viabilidad del LAMPOON para prevenir la obstrucción del tracto de salida en el TMVR, aunque sin el trabajo completo no se puede cuantificar el beneficio real.\nNota: análisis sin acceso al abstract."
     },
     "189f02d35a7a": {
       "resumen": "Nota de TCTMD que anticipa los temas centrales del congreso anual de la Sociedad de Tomografía Computada Cardiovascular (SCCT, Society of Cardiovascular Computed Tomography) 2026, en Chula Vista, California. Sirve para tener un panorama de hacia dónde va la imagen cardíaca por tomografía computada, una herramienta cada vez más protagonista en la evaluación no invasiva de la enfermedad coronaria.",
@@ -49,50 +35,65 @@
       "resumen": "Simon Willison repasa el lanzamiento de la familia GPT-5.6 de OpenAI, disponible en tres tamaños —Luna, Terra y Sol— con precios diferenciados por millón de tokens de entrada y salida. Le sirve a un médico que aprende análisis de datos para seguir el ritmo de lanzamientos de modelos de lenguaje de gran escala (LLM, Large Language Model) y comparar costo-beneficio según el tamaño del modelo a la hora de elegir uno para un proyecto propio.",
       "destacado": false
     },
-    "b930913fb0d8": {
-      "resumen": "Página oficial de OpenAI que presenta GPT-5.6, la nueva versión de su modelo insignia. Le sirve a un médico que aprende análisis de datos para ir a la fuente primaria del lanzamiento y comparar las capacidades declaradas por el fabricante frente a las coberturas periodísticas del mismo modelo.",
-      "destacado": false
-    },
-    "630e0567f5f6": {
-      "resumen": "Artículo técnico de Towards Data Science que explica el entrenamiento distribuido de modelos de inteligencia artificial —estrategias como DDP (Distributed Data Parallel), FSDP (Fully Sharded Data Parallel) y las etapas de ZeRO— y por qué el cableado físico entre las unidades de procesamiento gráfico (GPU, Graphics Processing Unit) puede ser tan determinante como la estrategia de paralelización elegida. Le sirve a un médico que aprende análisis de datos para entender, aunque sea conceptualmente, que entrenar modelos grandes no es solo cuestión de sumar GPU sino también de cómo están conectadas entre sí.",
-      "destacado": true
-    },
-    "917d665e9329": {
-      "resumen": "Simon Willison comenta el lanzamiento de Muse Spark 1.1, la primera versión de la familia Muse Spark de Meta en ofrecer acceso por interfaz de programación de aplicaciones (API, Application Programming Interface), con mejoras declaradas en el uso autónomo de herramientas (agentic tool calling) y en el control de computadoras (computer use). Le sirve a un médico que aprende análisis de datos para seguir cómo los modelos de acceso más abierto ganan terreno frente a los cerrados en capacidades de automatización.",
-      "destacado": false
-    },
-    "3030e7a49dd4": {
-      "resumen": "Artículo de Towards Data Science que compara distintas interfaces para trabajar con agentes de inteligencia artificial dedicados a programar (coding agents) y propone criterios para elegir la más adecuada según el flujo de trabajo. Le sirve a un médico que aprende análisis de datos para decidir con criterio cómo interactuar con estos asistentes al escribir o revisar código propio, más allá de la herramienta de moda.",
-      "destacado": false
-    },
-    "e34e2187f13b": {
-      "resumen": "Guía de KDnuggets para armar un asistente de investigación privado sobre Telegram usando OpenClaw y Ollama —para correr modelos de lenguaje en forma local—, con la configuración del largo de contexto, la conexión del canal, la búsqueda web y el despliegue en contenedores Docker. Le sirve a un médico que aprende análisis de datos como tutorial concreto para montar herramientas de inteligencia artificial propias sin depender de servicios en la nube ni exponer datos sensibles a terceros.",
-      "destacado": false
-    },
     "e11b299a3353": {
       "resumen": "Simon Willison cita el anuncio de OpenAI sobre 'Work', una funcionalidad para sostener proyectos extensos que corre en la nube desde la web y el celular, o en la aplicación de escritorio con acceso a archivos y aplicaciones locales; al lanzamiento, las conversaciones de un lado no se sincronizan con el otro. Le sirve a un médico que aprende análisis de datos para entender cómo estas plataformas empiezan a separar el trabajo en la nube del trabajo con datos locales, algo relevante al decidir dónde procesar información sensible.",
       "destacado": false
     },
-    "145197e94fe2": {
-      "resumen": "Estudio publicado en Frontiers in Psychology, difundido en Hacker News, sobre cómo el uso de dispositivos electrónicos por parte de los padres (cuidadores) afecta el vínculo de apego con sus hijos adolescentes. Le sirve a un médico que aprende análisis de datos como ejemplo de investigación conductual cuantitativa fuera de la cardiología, útil para pensar el diseño de estudios observacionales aplicados a otras áreas de la salud.",
+    "5e4ea1c840cb": {
+      "resumen": "Nota de TCTMD sobre una propuesta de repensar la definición y el nombre de MINOCA (infarto de miocardio con arterias coronarias no obstructivas), a partir de investigadores que cuestionan si la categoría agrupa entidades demasiado heterogéneas. Interesa porque el diagnóstico de MINOCA es cada vez más frecuente y su manejo depende de identificar la causa real detrás del infarto.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título se infiere una nota periodística de TCTMD que resume el planteo de un grupo de investigadores sobre la clasificación diagnóstica de MINOCA, probablemente a partir de un artículo de opinión o un análisis de una cohorte de pacientes ya diagnosticados; sin el abstract original no se puede precisar el diseño exacto ni el número de pacientes o centros.\nPoblación: Pacientes con diagnóstico de infarto de miocardio con arterias coronarias no obstructivas (MINOCA) en la angiografía, un grupo heterogéneo que incluye espasmo coronario, disección espontánea, miocarditis y takotsubo, entre otras causas.\nIntervención: No aplica una intervención terapéutica: se trata de una discusión conceptual sobre la clasificación diagnóstica y la nomenclatura de la entidad, no de un ensayo comparativo.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Al ser una discusión sobre nomenclatura y no un estudio con datos duros, cualquier conclusión depende de consensos de expertos más que de evidencia comparativa directa; sin el trabajo completo no se puede evaluar la metodología ni el tamaño de la población de referencia.\nMensaje: Refleja una tendencia a cuestionar si \"MINOCA\" sigue siendo una categoría diagnóstica útil o si conviene subdividirla según la causa subyacente, algo que podría cambiar cómo se estudia y trata a estos pacientes en el futuro.\nNota: análisis sin acceso al abstract."
+    },
+    "93d69fefe126": {
+      "resumen": "Un análisis de la encuesta NHANES (National Health and Nutrition Examination Survey, la principal encuesta de salud y nutrición de Estados Unidos) muestra un control subóptimo de los factores de riesgo en pacientes con síndrome cardiovascular-renal-metabólico (CKM, cardiovascular-kidney-metabolic). Interesa porque el síndrome CKM es un concepto relativamente nuevo que integra obesidad, diabetes, enfermedad renal crónica y enfermedad cardiovascular, y este dato expone una brecha entre las guías y la práctica real.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título se infiere un análisis transversal (cross-sectional) de la encuesta poblacional NHANES (National Health and Nutrition Examination Survey), un relevamiento representativo de la población de Estados Unidos; sin el abstract no se puede precisar el número exacto de participantes ni los ciclos de encuesta incluidos.\nPoblación: Adultos participantes de NHANES clasificados dentro del espectro del síndrome cardiovascular-renal-metabólico (CKM), es decir con combinaciones de obesidad, diabetes, enfermedad renal crónica y/o enfermedad cardiovascular establecida.\nIntervención: No hay una intervención activa: se evaluó el grado de control de factores de riesgo (presumiblemente presión arterial, colesterol LDL —lipoproteína de baja densidad— y glucemia) frente a las metas recomendadas por las guías vigentes.\nResultados: No disponibles sin el abstract original; el título indica que el tratamiento de los factores de riesgo resultó \"subóptimo\" en esta población.\nLimitaciones: Al ser un estudio transversal con datos de encuesta, no permite establecer causalidad, depende de la calidad del registro de medicación y de laboratorio, y puede subestimar el tratamiento real si hubo cambios recientes no capturados en el corte.\nMensaje: Documenta una brecha entre las recomendaciones de las guías y el control real de los factores de riesgo en el síndrome CKM, lo que refuerza la necesidad de estrategias más activas de detección y tratamiento en atención primaria y cardiología.\nNota: análisis sin acceso al abstract."
+    },
+    "005e3185892b": {
+      "resumen": "Nota de TCTMD sobre un estudio que sugiere que la asociación entre el índice de masa corporal (BMI, body mass index) y el pronóstico cardiovascular se atena a medida que mejora el tratamiento médico basado en la evidencia (GDMT, guideline-directed medical therapy). Interesa porque discute la vigencia de la llamada \"paradoja de la obesidad\" en la era de los tratamientos actuales.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título se infiere un estudio observacional (probablemente de cohorte o de un registro) que compara el peso pronóstico del índice de masa corporal (BMI) según el grado de implementación del tratamiento médico basado en la evidencia (GDMT); sin abstract no hay precisión sobre el número de pacientes, centros o el período analizado.\nPoblación: Pacientes cardiológicos (probablemente con insuficiencia cardíaca o enfermedad coronaria) estratificados según su índice de masa corporal y según si recibieron o no un esquema completo de tratamiento médico basado en la evidencia.\nIntervención: No hay una intervención asignada: se comparó el valor pronóstico del BMI en subgrupos definidos por la intensidad del tratamiento médico recibido, no un fármaco o dispositivo específico.\nResultados: No disponibles sin el abstract original; el título sugiere que el BMI pierde peso como factor pronóstico cuando el tratamiento médico es más completo.\nLimitaciones: Al ser observacional, no puede descartar factores de confusión (los pacientes con mejor tratamiento suelen tener también mejor acceso a salud y menos comorbilidades); además la clasificación por BMI no distingue masa grasa de masa muscular, una limitación clásica de este índice.\nMensaje: Sugiere que buena parte de la \"paradoja de la obesidad\" podría explicarse por diferencias en la calidad del tratamiento recibido más que por un efecto protector real del exceso de peso, lo que reforzaría la importancia de optimizar el tratamiento médico por sobre el foco exclusivo en el peso corporal.\nNota: análisis sin acceso al abstract."
+    },
+    "26ad10d54d12": {
+      "resumen": "Hilo de Reddit en r/datascience que cuestiona la complejidad de GPT-5.6, con 72 configuraciones posibles entre tamaños y modos de razonamiento, y discute cuál conviene usar por defecto. Le sirve a un médico que aprende análisis de datos porque anticipa la fricción práctica de elegir configuración de modelo antes de integrar un modelo de lenguaje de gran escala (LLM, Large Language Model) a un flujo de trabajo propio.",
       "destacado": false
     },
-    "d9feb657cfdc": {
-      "resumen": "Artículo de análisis de datos y opinión sobre por qué los traslados en ambulancia resultan tan caros en Estados Unidos, difundido en Hacker News. Le sirve a un médico que aprende análisis de datos porque muestra cómo el análisis cuantitativo de costos puede exponer las causas estructurales detrás de un problema del sistema de salud.",
+    "f0f9aa6235e6": {
+      "resumen": "Tutorial de KDnuggets sobre cómo armar un pipeline local de resumen de video usando SmolVLM2-2.2B, un modelo de lenguaje visual (vision-language model) chico que corre en una sola placa de video (GPU, Graphics Processing Unit) de uso hogareño. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de procesamiento de video con inteligencia artificial local, sin depender de servicios en la nube ni exponer datos sensibles.",
       "destacado": false
     },
-    "769a1f955968": {
-      "resumen": "Entrevista con Mitchell Hashimoto, creador de la terminal Ghostty y usuario destacado del lenguaje de programación Zig, difundida en Hacker News. Le sirve a un médico que aprende análisis de datos como una mirada al proceso de diseño de herramientas de programación, útil para entender mejor el entorno técnico en el que corren sus propios scripts de análisis.",
+    "4b2e137a1911": {
+      "resumen": "Artículo de Towards Data Science que avanza sobre PySpark (la interfaz de Python para Apache Spark, un motor de procesamiento de datos distribuido) explicando particiones, shuffles, joins, caché y planes de ejecución. Le sirve a un médico que aprende análisis de datos como paso siguiente para manejar volúmenes de datos que ya no entran cómodos en una sola computadora.",
       "destacado": false
     },
-    "b935372b36a1": {
-      "resumen": "Guido Petti se prepara para alcanzar su partido número 100 con Los Pumas, un hito que lo convertirá en el sexto jugador centenario de la historia del seleccionado."
+    "b95245e32a5d": {
+      "resumen": "Artículo de KDnuggets que explica en términos simples qué es el ajuste fino (fine-tuning), el proceso de re-entrenar un modelo de inteligencia artificial ya entrenado (pretrained) para que aprenda una tarea nueva o específica. Le sirve a un médico que aprende análisis de datos para entender, sin formación previa en aprendizaje profundo (deep learning), una de las técnicas centrales para adaptar modelos de lenguaje de gran escala a un dominio propio, como el médico.",
+      "destacado": false
     },
-    "5de0b825117d": {
-      "resumen": "Los Pumas buscan la victoria ante Gales y necesitan que Fiyi le gane a Inglaterra para escalar del séptimo puesto que ocupan en el ranking mundial de rugby."
+    "56b1150354de": {
+      "resumen": "Artículo de opinión de Towards Data Science que sostiene que la generación aumentada por recuperación (RAG, Retrieval-Augmented Generation) —la técnica de buscar información externa para dársela a un modelo de lenguaje antes de que responda— fue siempre una solución transitoria, y especula con arquitecturas futuras basadas en estado neuronal persistente en lugar de bases de datos vectoriales. Le sirve a un médico que aprende análisis de datos para entender los límites de RAG, la técnica más usada hoy para que un modelo de lenguaje responda con información propia o actualizada.",
+      "destacado": false
     },
-    "2c174090543b": {
-      "resumen": "Un repaso por la tabla de goleadores del Nations Championship, el torneo de rugby que están disputando Los Pumas."
+    "40bfde6b219d": {
+      "resumen": "Hilo de Reddit en r/datascience donde un usuario cuenta cómo la ola de despidos en tecnología lo hizo replantear su búsqueda laboral. Le sirve a un médico que aprende análisis de datos como termómetro informal del mercado laboral en ciencia de datos, un dato de contexto útil para quien piensa en una eventual transición de carrera.",
+      "destacado": false
+    },
+    "bc84c97b905e": {
+      "resumen": "Simon Willison cita al editor Nilay Patel sobre por qué los anteojos de realidad aumentada (augmented reality) requieren, casi por definición, una cámara pegada al ojo que graba y procesa todo lo que la persona ve. Le sirve a un médico que aprende análisis de datos para dimensionar las implicancias de privacidad y de procesamiento masivo de datos de video que traen los nuevos dispositivos con inteligencia artificial embebida.",
+      "destacado": false
+    },
+    "95bd5b7aee97": {
+      "resumen": "Relato de Towards Data Science sobre la construcción de un segundo pipeline de extracción, transformación y carga (ETL, Extract-Transform-Load) de noticias, esta vez con Python, Docker, PostgreSQL y Kestra, con foco en pensar como ingeniero de datos y no solo escribir código que funcione. Le sirve a un médico que aprende análisis de datos como guía práctica y progresiva para pasar de un script casero a un pipeline de datos más robusto y reproducible.",
+      "destacado": true
+    },
+    "1489855a92b8": {
+      "resumen": "Los Pumas ultimaron los últimos detalles de cara al partido ante Gales en San Juan, con la victoria como objetivo."
+    },
+    "35b970b21fe0": {
+      "resumen": "Todos los datos del partido de Los Pumas ante Gales en San Juan por el Nations Championship: horario y por dónde seguirlo en vivo."
+    },
+    "8fe51783a0fd": {
+      "resumen": "Agenda deportiva del día: la selección argentina se mide ante Suiza y Los Pumas buscan reponerse ante Gales en San Juan."
     }
   }
 }

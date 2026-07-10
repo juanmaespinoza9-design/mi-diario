@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T22:05:00Z",
+  "generated_at": "2026-07-10T10:04:14Z",
   "summaries": {
     "bedc224bc9e2": {
       "resumen": "Artículo de JACC sobre la enseñanza de habilidades clínicas 'no técnicas' —como el examen físico, la comunicación y el trato con las familias— que los pacientes y sus allegados recuerdan más que los procedimientos invasivos. Interesa como reflexión sobre formación médica en un campo, la cardiología intervencionista, cada vez más centrado en la tecnología.",
@@ -49,16 +49,8 @@
       "resumen": "Simon Willison repasa el lanzamiento de la familia GPT-5.6 de OpenAI, disponible en tres tamaños —Luna, Terra y Sol— con precios diferenciados por millón de tokens de entrada y salida. Le sirve a un médico que aprende análisis de datos para seguir el ritmo de lanzamientos de modelos de lenguaje de gran escala (LLM, Large Language Model) y comparar costo-beneficio según el tamaño del modelo a la hora de elegir uno para un proyecto propio.",
       "destacado": false
     },
-    "956a1bce7edf": {
-      "resumen": "Comparación que muestra que el modelo de lenguaje GLM 5.2 alcanza una precisión cercana a la de un contador humano en tareas de teneduría de libros y cálculo de impuestos (IVA, Impuesto al Valor Agregado). Le sirve a un médico que aprende análisis de datos como ejemplo concreto de cuánto se acortó la brecha entre la inteligencia artificial y el trabajo experto en tareas administrativas estructuradas, un patrón que también empieza a verse en tareas clínicas y de codificación diagnóstica.",
-      "destacado": false
-    },
     "b930913fb0d8": {
       "resumen": "Página oficial de OpenAI que presenta GPT-5.6, la nueva versión de su modelo insignia. Le sirve a un médico que aprende análisis de datos para ir a la fuente primaria del lanzamiento y comparar las capacidades declaradas por el fabricante frente a las coberturas periodísticas del mismo modelo.",
-      "destacado": false
-    },
-    "41173eb729ab": {
-      "resumen": "OpenAI presenta una propuesta de ChatGPT orientada a sostener proyectos de trabajo ambiciosos, con foco en tareas complejas y de mayor alcance que las consultas puntuales habituales. Le sirve a un médico que aprende análisis de datos para evaluar si estas herramientas ya están pensadas para acompañar un proyecto largo —por ejemplo, el análisis completo de una base de datos clínica— y no solo preguntas sueltas.",
       "destacado": false
     },
     "630e0567f5f6": {
@@ -69,14 +61,6 @@
       "resumen": "Simon Willison comenta el lanzamiento de Muse Spark 1.1, la primera versión de la familia Muse Spark de Meta en ofrecer acceso por interfaz de programación de aplicaciones (API, Application Programming Interface), con mejoras declaradas en el uso autónomo de herramientas (agentic tool calling) y en el control de computadoras (computer use). Le sirve a un médico que aprende análisis de datos para seguir cómo los modelos de acceso más abierto ganan terreno frente a los cerrados en capacidades de automatización.",
       "destacado": false
     },
-    "8dc7084411b4": {
-      "resumen": "Simon Willison anuncia llm-meta-ai 0.1, un complemento (plugin) para su herramienta de línea de comandos 'llm' que permite correr consultas contra el nuevo modelo muse-spark-1.1 de Meta. Le sirve a un médico que aprende análisis de datos como ejemplo práctico de cómo se integran nuevos modelos a herramientas ya existentes, sin tener que aprender una interfaz distinta por cada proveedor.",
-      "destacado": false
-    },
-    "85dcb3893dbd": {
-      "resumen": "Análisis de Pangram, empresa dedicada a detectar contenido generado por inteligencia artificial, que muestra que ese tipo de contenido ya domina buena parte de las redes sociales, en particular LinkedIn. Le sirve a un médico que aprende análisis de datos para dimensionar cuánto del texto que circula hoy en plataformas profesionales ya no tiene autoría humana directa, algo relevante a la hora de evaluar fuentes.",
-      "destacado": false
-    },
     "3030e7a49dd4": {
       "resumen": "Artículo de Towards Data Science que compara distintas interfaces para trabajar con agentes de inteligencia artificial dedicados a programar (coding agents) y propone criterios para elegir la más adecuada según el flujo de trabajo. Le sirve a un médico que aprende análisis de datos para decidir con criterio cómo interactuar con estos asistentes al escribir o revisar código propio, más allá de la herramienta de moda.",
       "destacado": false
@@ -85,14 +69,30 @@
       "resumen": "Guía de KDnuggets para armar un asistente de investigación privado sobre Telegram usando OpenClaw y Ollama —para correr modelos de lenguaje en forma local—, con la configuración del largo de contexto, la conexión del canal, la búsqueda web y el despliegue en contenedores Docker. Le sirve a un médico que aprende análisis de datos como tutorial concreto para montar herramientas de inteligencia artificial propias sin depender de servicios en la nube ni exponer datos sensibles a terceros.",
       "destacado": false
     },
-    "0c729f3da130": {
-      "resumen": "Gales confirmó su formación para enfrentar a Los Pumas con tres cambios respecto al partido anterior y el debut de un jugador."
+    "e11b299a3353": {
+      "resumen": "Simon Willison cita el anuncio de OpenAI sobre 'Work', una funcionalidad para sostener proyectos extensos que corre en la nube desde la web y el celular, o en la aplicación de escritorio con acceso a archivos y aplicaciones locales; al lanzamiento, las conversaciones de un lado no se sincronizan con el otro. Le sirve a un médico que aprende análisis de datos para entender cómo estas plataformas empiezan a separar el trabajo en la nube del trabajo con datos locales, algo relevante al decidir dónde procesar información sensible.",
+      "destacado": false
     },
-    "cf21db32e737": {
-      "resumen": "Felipe Contepomi dio a conocer el equipo titular de Los Pumas que jugará ante Gales."
+    "145197e94fe2": {
+      "resumen": "Estudio publicado en Frontiers in Psychology, difundido en Hacker News, sobre cómo el uso de dispositivos electrónicos por parte de los padres (cuidadores) afecta el vínculo de apego con sus hijos adolescentes. Le sirve a un médico que aprende análisis de datos como ejemplo de investigación conductual cuantitativa fuera de la cardiología, útil para pensar el diseño de estudios observacionales aplicados a otras áreas de la salud.",
+      "destacado": false
     },
-    "6efcb9bab658": {
-      "resumen": "Los Pumas presentaron su formación con cinco cambios respecto al partido anterior, en busca de reponerse ante Gales."
+    "d9feb657cfdc": {
+      "resumen": "Artículo de análisis de datos y opinión sobre por qué los traslados en ambulancia resultan tan caros en Estados Unidos, difundido en Hacker News. Le sirve a un médico que aprende análisis de datos porque muestra cómo el análisis cuantitativo de costos puede exponer las causas estructurales detrás de un problema del sistema de salud.",
+      "destacado": false
+    },
+    "769a1f955968": {
+      "resumen": "Entrevista con Mitchell Hashimoto, creador de la terminal Ghostty y usuario destacado del lenguaje de programación Zig, difundida en Hacker News. Le sirve a un médico que aprende análisis de datos como una mirada al proceso de diseño de herramientas de programación, útil para entender mejor el entorno técnico en el que corren sus propios scripts de análisis.",
+      "destacado": false
+    },
+    "b935372b36a1": {
+      "resumen": "Guido Petti se prepara para alcanzar su partido número 100 con Los Pumas, un hito que lo convertirá en el sexto jugador centenario de la historia del seleccionado."
+    },
+    "5de0b825117d": {
+      "resumen": "Los Pumas buscan la victoria ante Gales y necesitan que Fiyi le gane a Inglaterra para escalar del séptimo puesto que ocupan en el ranking mundial de rugby."
+    },
+    "2c174090543b": {
+      "resumen": "Un repaso por la tabla de goleadores del Nations Championship, el torneo de rugby que están disputando Los Pumas."
     }
   }
 }

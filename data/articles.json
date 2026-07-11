@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-11T19:36:44.806701+00:00",
+ "generated_at": "2026-07-11T21:10:31.191598+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -42,14 +42,6 @@
      "id": "e4df92354122"
     },
     {
-     "title": "Exercise Training in High-Risk Populations: A Scientific Statement From the American Heart Association",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42422933/",
-     "source": "Circulation",
-     "published": "2026-07-09T00:00:00+00:00",
-     "copete": "Fleg JL et al. · Circulation",
-     "id": "3c3a3ef1bedc"
-    },
-    {
      "title": "Cardiovascular Health Equity: Time for a New Era of Science, Sociology, and Interventions: Joint Editorial on Behalf of the American College of Cardiology, the American Heart Association, the European Society of Cardiology, and the World Heart Federation",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42421278/",
      "source": "JACC",
@@ -66,22 +58,6 @@
      "id": "b5bc9270a0fd"
     },
     {
-     "title": "Cardiovascular Health Equity: Time for a New Era of Science, Sociology, and Interventions",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42418562/",
-     "source": "Circulation",
-     "published": "2026-07-08T00:00:00+00:00",
-     "copete": "Itchhaporia D et al. · Circulation",
-     "id": "3a65b5f51e99"
-    },
-    {
-     "title": "Deprescribing in Patients With Cardiovascular Disease Experiencing Polypharmacy: A Scientific Statement From the American Heart Association",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42417036/",
-     "source": "Circulation",
-     "published": "2026-07-08T00:00:00+00:00",
-     "copete": "DiDomenico RJ et al. · Circulation",
-     "id": "4ca06d445cc4"
-    },
-    {
      "title": "Update on lipoprotein(a): the rising star in residual lipid risk",
      "link": "https://academic.oup.com/eurheartj/article/47/26/3313/8724957?rss=1",
      "source": "European Heart Journal",
@@ -96,6 +72,14 @@
      "published": "2026-07-07T00:00:00+00:00",
      "copete": "Reddy RK et al. · Journal of the American College of Cardiology",
      "id": "d0a3314f6237"
+    },
+    {
+     "title": "The Other Procedures We Perform: Teaching the Clinical Skills Families Remember",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42412712/",
+     "source": "JACC",
+     "published": "2026-07-07T00:00:00+00:00",
+     "copete": "Krumholz HM et al. · Journal of the American College of Cardiology",
+     "id": "bedc224bc9e2"
     }
    ]
   },
@@ -108,7 +92,7 @@
      "title": "Scotland fall short as South Africa hold on for wi...",
      "link": "https://www.espn.co.uk/rugby/story/_/id/49335376/battling-scotland-fall-short-south-africa-hold-victory-pretoria",
      "source": "ESPN Rugby",
-     "published": "2026-07-12T00:02:44+00:00",
+     "published": "2026-07-12T03:05:06+00:00",
      "copete": "Scotland produced another big performance against top-tier opposition but their wait for a first-ever win in South Africa continues after they went down 42-28 to the double world champions in a thrilling Nations Championship showdown in…",
      "id": "c34dd7ed8d93"
     },
@@ -121,6 +105,38 @@
      "id": "40283d2e62c6"
     },
     {
+     "title": "¡EN VIVO! Noruega e Inglaterra buscan el pase a semifinales del Mundial",
+     "link": "https://www.espn.com.ar/futbol/mundial/nota/_/id/16966549/noruega-vs-inglaterra-cuartos-4tos-mundial-2026-equipo-fecha-hora-y-tv-en-vivo",
+     "source": "ESPN Argentina",
+     "published": "2026-07-11T23:02:37+00:00",
+     "copete": "Los nórdicos ya hicieron historia eliminando a Brasil y metiéndose en cuartos de final. Los británicos buscan el pasaje a semis para soñar con alzar la Copa del Mundo como en 1966.",
+     "id": "828b01d07551"
+    },
+    {
+     "title": "Murió Antonio Rattín, histórico capitán de Boca",
+     "link": "https://www.espn.com.ar/futbol/argentina/nota/_/id/16989047/murio-antonio-rattin-historico-capitan-de-boca-y-de-la-seleccion-argentina",
+     "source": "ESPN Argentina",
+     "published": "2026-07-11T22:52:52+00:00",
+     "copete": "El histórico mediocampista xeneize conquistó seis títulos con el Xeneize, fue capitán de la selección argentina en el Mundial de Inglaterra 1966 y dejó una huella imborrable en la historia del fútbol argentino.",
+     "id": "f98108177b21"
+    },
+    {
+     "title": "Manchester City incorporó a Jeremy Monga",
+     "link": "https://www.espn.com.ar/futbol/inglaterra/nota/_/id/16988812/manchester-city-ficho-jeremy-monga-2031",
+     "source": "ESPN Argentina",
+     "published": "2026-07-11T22:52:52+00:00",
+     "copete": "El prometedor delantero de 17 años, procedente de Leicester, se seguirá desarrollando en la academia de fútbol del City.",
+     "id": "1084d1445957"
+    },
+    {
+     "title": "El Mundial 2026, por Disney+ Plan Premium",
+     "link": "https://www.espn.com.ar/futbol/mundial/nota/_/id/16586606/el-mundial-2026-llega-a-disney+-plan-premium-en-sudamerica-a-traves-de-espn",
+     "source": "ESPN Argentina",
+     "published": "2026-07-11T22:52:51+00:00",
+     "copete": "Los locales ya ganaron la zona D y ante los eliminados turcos buscan puntaje ideal para llegar con todo a los 16vos de final.",
+     "id": "d86e54d118cf"
+    },
+    {
      "title": "England snap losing streak, thrash Fiji",
      "link": "https://www.espn.co.uk/rugby/story/_/id/49334500/nations-championships-england-fiji-rugby",
      "source": "ESPN Rugby",
@@ -129,57 +145,41 @@
      "id": "000e27e9fa46"
     },
     {
-     "title": "¡EN VIVO! Los Pumas reciben a Gales en San Juan, p...",
-     "link": "https://www.espn.com.ar/rugby/nota/_/id/16980830/rugby-nations-championship-los-pumas-gales-san-juan-vivo-resultado-horario-cuando-juegan-cronica",
+     "title": "LOS PUMAS VOLVIERON AL TRIUNFO FRENTE A GALES EN SAN JUAN",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHd1TUR0empCSVBlX29ZcW1Ga045MVlzQUdvbVZ3dlNZZ3dUQUI1dzM3NENlUGN0aVllb3pxRnBGN29VTmpaa1ZPV1MzaUdGMVRjQm14dzA0R1RLX3NKMkV2cnY5YnBBREpCZTVkYkoteGZ0YkJnYk9sd2g1eHBjWVlUYThpU2dtT293VVpxZ3BnN2xKT3RNeFBPQ0hDaWgzbGhHQTZyRHA?oc=5",
+     "source": "Rugby Champagne",
+     "published": "2026-07-11T21:04:35+00:00",
+     "id": "b3beefe18afc"
+    },
+    {
+     "title": "Los Pumas vencen a Gales en el Estadio del Bicentenario",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeDhweTVkTHFqa0ZnalA5MTdSM0lzSzBUZXdDemNsRy02Nml2YXpIMEIyZXJ1dXJ5ZTJtZGRUSTRLOTktNnJxTnJZQUNvM1J2SEJ4UWVfajY1QklaOXQ4UlFrVzVYT2wwMmktRkJOY3I3Y0t0Q1QzZThyZFZBOHNLOXBUUkwwZkJKZEthalA2LUNLZnUwVFlfQWVTdUtvbjRlU0dvY3NmczVaaVNZMS04d3BLdURvNnhnMmNRdGZR0gHMAUFVX3lxTE1hZ0thSlgwbHduSnV6TTA1SUFnUldkd2FSZVVnRUFmbFAyQUg1WTFMa19ueFVyb2w5U255U3hCVUFmRzBFb2dPSHRidVl6UlJKWUJOTmNNRkZqc2FDZ2RPWS1Ka0hLaWE2aU83bEwxbHZIVUp2N01oTmlTVHRvMTd3ZDhUMWFpejJEQkdkTGdHWjI4VjhDZ0FmQTJaX1NMbFRQRjBBMFFWNWxvMktOZ0J3SU1Ib1ZqdlpWRTRXVWJBeEJNTlZNMmtOS3Z6NA?oc=5",
+     "source": "Diario 13 San Juan",
+     "published": "2026-07-11T20:37:17+00:00",
+     "id": "ed86b5a65ceb"
+    },
+    {
+     "title": "¡Los pasaron por encima! Los Pumas, a pura potencia ante Gales con un doble topete de Mateo Carreras y Tomás Rapetti",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbFFmTzUtNS1BSnRva0VDdzl1SWdBWVczQmNuMzd6VHlBZjFWMEw4SXlrYW1ZSE5qdGxwOXQ1dFhBOEpwdXZQQmN0YTgyWFJmZFNORkVBR081MGNaUlZXNkJEM1REelhoMmdObnBsNkdVVjA2eW5fTWpQMDZESEhseVdKTzhqZTRIWVNmN1FxR0lKeHY2YURnb2NmVGZEem5ZUm1sYVNlTjlEZUEzWl9PQW1ldHExdTd0dldVX1JxWnBMTkd0bEl5d0FqRFZMVTkzS3E4?oc=5",
      "source": "ESPN Argentina",
-     "published": "2026-07-11T20:53:06+00:00",
-     "copete": "El equipo argentino buscará ante el Dragón y en San Juan su primera victoria en la temporada.",
-     "id": "7082bab27929"
+     "published": "2026-07-11T20:34:00+00:00",
+     "id": "d5c3537bc069"
     },
     {
-     "title": "Así quedó el ranking mundial WTA luego del históri...",
-     "link": "https://www.espn.com.ar/tenis/nota/_/id/16989366/asi-quedo-el-ranking-mundial-wta-luego-del-historico-triunfo-de-linda-noskova-en-wimbledon-2026-karolina-muchova",
-     "source": "ESPN Argentina",
-     "published": "2026-07-11T20:40:07+00:00",
-     "copete": "La tenista checa derrotó a su compatriota por 6-2, 5-7 y 6-3 y levantó su primer título de Grand Slam.",
-     "id": "c6932f8d8d80"
+     "title": "En medio del Mundial, Talleres compró a uno de los mejores volantes del fútbol argentino",
+     "link": "https://www.ole.com.ar/talleres/medio-mundial-talleres-compro-mejores-volantes-futbol-argentino_0_Xvsc7kc95O.html",
+     "source": "Olé — Primera",
+     "published": "2026-07-11T20:33:10+00:00",
+     "copete": "La T se quedó con Federico Fattori, elegido en el 11 ideal del Torneo Apertura y que había sido buscado por River, y con Román Riquelme, ambos de Argentinos Juniors.",
+     "id": "0a8b4ba8f6c9"
     },
     {
-     "title": "Con el triunfo de Linda Noskova en Wimbledon, así ...",
-     "link": "https://www.espn.com.ar/tenis/nota/_/id/15642441/como-quedo-la-lista-de-las-jugadoras-con-mas-torneos-de-grand-slam-era-abierta-serena-williams-steffi-graf-iga-swiatek",
-     "source": "ESPN Argentina",
-     "published": "2026-07-11T20:40:07+00:00",
-     "copete": "Un repaso por el listado de las jugadoras que más torneos majors ganaron en la Era Abierta.",
-     "id": "5e788a8ee386"
-    },
-    {
-     "title": "Con un par de dudas: la posible formación de Argen...",
-     "link": "https://www.espn.com.ar/futbol/mundial/nota/_/id/16976859/formacion-argentina-vs-suiza-4tos-cuartos-de-final-mundial-2026",
-     "source": "ESPN Argentina",
-     "published": "2026-07-11T20:38:28+00:00",
-     "copete": "Scaloni no confirmó el equipo y persisten dos incógnitas a la hora de pensar el once inicial.",
-     "id": "4b6f9ed0375c"
-    },
-    {
-     "title": "[¡ＤｉｒｅｃＴＶ En Ｖｉｖｏ!] Los Pumas Rugby ＥＮ ＤＩＲＥＣＴＯ ＧＲＡＴＩＳ 11 de julio de 2026 - Business and Investment Development Agency",
-     "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxNbk5yTHk5djN0bGVBZ1VrVy1jM2lQMjh4QUs2ZEFLU19abTFyZzNxd3lJQ3l3WGE0cjNkVVRoNXlmQ1BTZUNlSEhWbk9JS3Y0ajAtZGthZDdrel95ZVdWdGlsUmUtTjhkanoxdVpXbDZBcXNPZzNsSnJFZnhjSTAyNlc5aUJxMndpTVUteG1mMDVGajZDTGxOOTVXcmxwVzRhR01fd3NJcW1TR3lzaWRMbnlleG03T0E3QnUycDY5WEFjRS1MRFZ0c2FYQzJlV2JVMDZfdmhXcWI1c0prY0REcy1XNnFxaTdScnV5SHZpLU9qdXZ0d0swSURYNHJ1SWdBT0dMVmd2YlE5WVRaZU5NZVJxNkt5OXFMdjNtR0tOMk5ZR2V4MUExMUVyTTYzclNwdTJWd045VEdXOFlpWEZEX0RQeDFWTTRjajlxdUs2ZjVkSG9hNF84VGRCRDNsLWJRSUlYMXlxT3RWbDBCMU8tV1BNemo1ZjRpV01BY0lKOS1pRDRCUHFWVklCaWJOMlAyWHE4Qw?oc=5",
-     "source": "CzechInvest",
-     "published": "2026-07-11T19:12:55+00:00",
-     "id": "06c821b0b555"
-    },
-    {
-     "title": "[!ＤｉｒｅｃＴＶ＠ＶＥＲ!] Los Pumas - Gales Rugby ＥＮ ＶＩＶＯ ＧＲＡＴＩＳ 11 de julio de 2026 - Business and Investment Development Agency",
-     "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQRjJhb29vNjNrZUpNZEctcndyTDg0dEN6cERNX3ROS3pjMlp2SW1rUzRtZzdIWUVPTGYtWWJLc2RPQU9aWk5IQkU4LTJOa3ZNXzFYNHdobEZzeU0teHN3TWp2eldCZDFrd3RRZzgteng5RzhLRE1qQUoxVzRraEppZGVjYjdSN0MtajdVOTY4VWtWVk84cnF2eVBxMC0tSm02aks5V1piemFmUThaQUY0NkpCeVZSVkhERnBHZlNiTHI1RkdPeFI4VXF3Y25pZE82b2p5VTh6b3FYMWJYNnZLN1UxS203by0xNUdDd3FPZ1lhcWVMcFYwT1FmSjJvVUFGQjVEQnN6UUR0Q1VqQVhlUWJRc0NFcWVERHpIZjFkREdhbVNxZjhpSllhOElKT09XQ3JTOTJhQ2xDNWEwWDduQXNTcWdEWjhvako1OGI2anduZ25QRmxqZzl6THFoMWZhR3pZbnlzcmItSHczYjN6Sjdjb0lDRFRKdUdZZWx0cUJlMkI1M3VtYjVsMUVvYkZGS2dlYw?oc=5",
-     "source": "CzechInvest",
-     "published": "2026-07-11T19:12:45+00:00",
-     "id": "e45da3e5a6e2"
-    },
-    {
-     "title": "~!!$$☠️▷[DIRECTO/TV] Los Pumas - Gales Rugby ＥＮ ＶＩＶＯ ＨＯＹ ＧＲＡＴＩＳ 11 de julio de 2026 - Business and Investment Development Agency",
-     "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQeXJrZlFmZHBwMTFMaUdhMlVzd3pPdHFlaVg4SklIaEN2YjdRYUtpRnM1MURUVDBFLVA1bUxmcndkN0Ytc29uQnFoWmJkSVR5MmxwUjhEb1FOQ1JLblRzN2k2WHZuak9JbUFaekR3TU5NMnEtNVRsNDdqX2hkVzRqSi1GRUFNaEpTSm00ZUVsQ1BDdUk2N2pUQkMwbkkxVWNBbFhwYlRqVlZxREtEcjF5V3c2WFVRSUpHTjV0NUdxXzE0T2Vxd1k4QUlVdXNBaEdEcDQ2NmVWNmhzcTkycG9VMHRLQzlzMGNwX0VUTFYzU0U4U3ktaWR0VUVuTFhpamt2V1hXalFRTTJUU3ZrS3pQZGF4VzlkTEdweHM0aEplSElWckZIaWllYmdwSERsT3J5SWRudDdjVzROaXY5QzFpdE5GeWlhNjk1T3pPcndJZ3JjeXNqYndNREVIbGRyYXkzeVFVUVFsLVNCaTlJXzIzdGxMOE51eWEtYUgxOVZ2a280UmV3bGxWNTBFNTJJb0pYNWR3NA?oc=5",
-     "source": "CzechInvest",
-     "published": "2026-07-11T19:12:41+00:00",
-     "id": "6afe418a19d0"
+     "title": "Racing goleó en su último amistoso antes del debut de Vojvoda",
+     "link": "https://www.ole.com.ar/racing/racing-amistoso-gimnasia_0_2degtjpA8W.html",
+     "source": "Olé — Primera",
+     "published": "2026-07-11T20:15:07+00:00",
+     "copete": "Con dos goles de Santiago Solari y uno de Maravilla Martínez, la Academia le ganó a Gimnasia de Mendoza. El jueves va ante Defensa y Justicia por los 16avos de Copa Argentina.",
+     "id": "c6bb42fc7f5d"
     },
     {
      "title": "Independiente venció a Newell's con un Meza encendido y goleador",
@@ -196,22 +196,6 @@
      "published": "2026-07-11T15:53:45+00:00",
      "copete": "Luego de disputar el Mundial con Paraguay, el volante deberá definir su futuro fuera de Núñez, donde no será tenido en cuenta.",
      "id": "e46c96ea6580"
-    },
-    {
-     "title": "La reacción de los pibes de River que fueron expulsados en la final de la Reserva",
-     "link": "https://www.ole.com.ar/river-plate/river-reaccion-jugadores-river-expulsados-roja-reserva-esquivel-acosta_0_tbB8xOiBqA.html",
-     "source": "Olé — River",
-     "published": "2026-07-11T14:23:55+00:00",
-     "copete": "Thiago Acosta y Felipe Esquivel dejaron al equipo de Marcelo Escudero con dos jugadores menos en el primer tiempo y Racing fue campeón.",
-     "id": "2cc255867b31"
-    },
-    {
-     "title": "River oficializó la salida de Armani: cuándo se despedirá del club y el video emotivo que le dedicaron",
-     "link": "https://www.ole.com.ar/river-plate/armani-river-arquero-conferencia-despedida_0_T6BO0NnrFH.html",
-     "source": "Olé — River",
-     "published": "2026-07-10T21:16:04+00:00",
-     "copete": "Desde Núñez confirmaron el adiós del \"arquero con más títulos\" en la historia del club. Sin tiempo para organizar un partido despedida, brindará una conferencia de prensa.",
-     "id": "0c6cefd18147"
     }
    ]
   },
@@ -221,25 +205,39 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Snowflake Python question about StandardScaler function",
+     "link": "https://www.reddit.com/r/datascience/comments/1utuz6o/snowflake_python_question_about_standardscaler/",
+     "source": "r/datascience",
+     "published": "2026-07-11T20:36:24+00:00",
+     "id": "438dc646c229"
+    },
+    {
+     "title": "AI 2040 and the cult of intelligence",
+     "link": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-11T18:04:01+00:00",
+     "id": "b5d19d55b601"
+    },
+    {
+     "title": "Prefer strict tables in SQLite",
+     "link": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-11T17:33:55+00:00",
+     "id": "51aeadc2f785"
+    },
+    {
+     "title": "Leaded gas was a known poison the day it was invented (2016)",
+     "link": "https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-11T17:27:55+00:00",
+     "id": "caeb849cc996"
+    },
+    {
      "title": "Female US rower completes historic solo journey from California to Hawaii",
      "link": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
      "source": "Hacker News (100+ puntos)",
      "published": "2026-07-11T17:03:23+00:00",
      "id": "ce9a2604ed79"
-    },
-    {
-     "title": "Modern decor may be straining people's brains",
-     "link": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-11T16:28:48+00:00",
-     "id": "09a260254d61"
-    },
-    {
-     "title": "We scaled PgBouncer to 4x throughput",
-     "link": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-11T15:28:02+00:00",
-     "id": "554e8c99cf38"
     },
     {
      "title": "Long Context Isn’t Free — I Built a Safe Prompt-Pruning Layer That Makes LLM Systems Work",
@@ -265,13 +263,6 @@
      "id": "37484a05c27a"
     },
     {
-     "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-     "link": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-10T22:30:44+00:00",
-     "id": "5186a40c9b2c"
-    },
-    {
      "title": "Quoting Nilay Patel",
      "link": "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything",
      "source": "Simon Willison (IA)",
@@ -286,13 +277,6 @@
      "published": "2026-07-10T17:00:00+00:00",
      "copete": "Building a production-ready RSS pipeline with Python, Docker, PostgreSQL, and Kestra The post I Built My Second ETL Pipeline. This Time, I Started Thinking Like a Data Engineer appeared first on Towards Data Science .",
      "id": "95bd5b7aee97"
-    },
-    {
-     "title": "GPT 5.6 has 72 possible configurations. What's a good default?",
-     "link": "https://www.reddit.com/r/datascience/comments/1ussmh1/gpt_56_has_72_possible_configurations_whats_a/",
-     "source": "r/datascience",
-     "published": "2026-07-10T16:30:18+00:00",
-     "id": "26ad10d54d12"
     }
    ]
   },
@@ -302,100 +286,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "China evacuó a casi 2 millones de personas ante la llegada del tifón Bavi",
-     "link": "https://www.lanacion.com.ar/el-mundo/china-evacua-a-mas-de-un-millon-de-personas-ante-la-llegada-del-tifon-bavi-nid11072026/",
+     "title": "Inglaterra vs. Noruega: minuto a minuto del partido",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/inglaterra-vs-noruega-en-vivo-por-el-mundial-2026-nid11072026/",
      "source": "La Nación",
-     "published": "2026-07-11T19:34:27+00:00",
-     "copete": "El ciclón tocó tierra antes de lo previsto a última hora del sábado, en una ciudad al este del país; ya causó al menos 87 heridos en Taiwán, así como cinco lesionados leves en Japón",
-     "id": "8e24fdfa1819"
+     "published": "2026-07-11T21:08:23+00:00",
+     "copete": "Se enfrentan en el estadio de Miami por un lugar en las semifinales",
+     "id": "a0075f4d3223"
+    },
+    {
+     "title": "La picante apuesta entre las aerolíneas de Noruega e Inglaterra por el partido del Mundial: “¿Están nerviosos?”",
+     "link": "https://www.lanacion.com.ar/deportes/la-picante-apuesta-entre-las-aerolineas-de-noruega-e-inglaterra-por-el-partido-del-mundial-estan-nid11072026/",
+     "source": "La Nación",
+     "published": "2026-07-11T21:07:44+00:00",
+     "copete": "Las selecciones europeas se cruzan en el penúltimo duelo de cuartos de final y horas antes apareció una impensada propuesta que fue viral en redes sociales; “El trato está cerrado”, expresaron",
+     "id": "8f230a83c63f"
+    },
+    {
+     "title": "Hora de EE.UU. de los partidos de hoy en el Mundial 2026 y quién juega este sábado 11 de julio cuartos de final",
+     "link": "https://www.lanacion.com.ar/estados-unidos/hora-de-eeuu-de-los-partidos-de-hoy-en-el-mundial-2026-y-quien-juega-cuartos-de-final-este-sabado-11-nid11072026/",
+     "source": "La Nación",
+     "published": "2026-07-11T21:07:10+00:00",
+     "copete": "Consulta horarios en EE.UU. del Mundial 2026, con Argentina ante Suiza y Noruega frente a Inglaterra por los cuartos del sábado 11 de julio.",
+     "id": "49ea531c90a2"
     },
     {
      "title": "Los Pumas - Gales, en vivo, por el Nations Championship",
      "link": "https://www.lanacion.com.ar/deportes/rugby/los-pumas-gales-en-vivo-por-el-nations-championship-nid11072026/",
      "source": "La Nación",
-     "published": "2026-07-11T19:33:53+00:00",
+     "published": "2026-07-11T21:06:56+00:00",
      "copete": "La selección argentina afronta su segundo compromiso en el nuevo certamen de World Rugby, con cinco cambios en el equipo titular",
      "id": "55eba1d38c3c"
     },
     {
-     "title": "La Policía Nacional Civil de El Salvador capturó a dos personas vinculadas al narcomenudeo",
-     "link": "https://www.infobae.com/el-salvador/2026/07/11/la-policia-nacional-civil-de-el-salvador-capturo-a-dos-personas-vinculadas-al-narcomenudeo/",
-     "source": "Infobae",
-     "published": "2026-07-11T19:31:15+00:00",
-     "copete": "La PNC interceptó el 9 de julio de 2026 a José Fernando Barillas Chinchilla y Katherine Yohana Ramos en un auto con nueve porciones de marihuana valorada en 19,768 dólares.",
-     "id": "f7a2ae5cb5ed"
-    },
-    {
-     "title": "Sebastián Villa vuelve a Boca: acuerdo con Independiente Rivadavia para el regreso del delantero",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/sebastian-villa-vuelve-a-boca-acuerdo-con-independiente-rivadavia-para-el-regreso-del-delantero-nid11072026/",
+     "title": "A qué hora de EE.UU. juega Noruega vs. Inglaterra hoy: en vivo el partido de cuartos de final del Mundial 2026",
+     "link": "https://www.lanacion.com.ar/estados-unidos/a-que-hora-de-eeuu-juega-noruega-vs-inglaterra-hoy-en-vivo-el-partido-de-octavos-del-mundial-2026-nid11072026/",
      "source": "La Nación",
-     "published": "2026-07-11T19:31:11+00:00",
-     "copete": "El club xeneize pagará 6.500.000 dólares por la totalidad del pase y firmará un contrato por cuatro años",
-     "id": "d142142a5290"
+     "published": "2026-07-11T21:05:37+00:00",
+     "copete": "Horarios en ET, CT y PT, canales en inglés y español, y todo el contexto de Inglaterra vs. Noruega, cuartos de final del Mundial 2026 en Miami",
+     "id": "393b3bc8d22e"
     },
     {
-     "title": "El Salvador envejece: El sociólogo Ángel Ramos explica el cambio demográfico en el país",
-     "link": "https://www.infobae.com/el-salvador/2026/07/11/el-salvador-envejece-el-sociologo-angel-ramos-explica-el-cambio-demografico-en-el-pais/",
+     "title": "Adiós a Akiko Hayashi, la ilustradora que dio vida a Kiki, la aprendiz de bruja",
+     "link": "https://www.infobae.com/cultura/2026/07/11/adios-a-akiko-hayashi-la-ilustradora-que-dio-vida-a-kiki-la-aprendiz-de-bruja/",
      "source": "Infobae",
-     "published": "2026-07-11T19:30:30+00:00",
-     "copete": "La proyección demográfica apunta a un aumento del peso de las personas mayores y a una caída de nacimientos, un giro que ya reconfigura la pirámide poblacional y la estructura familiar del país",
-     "id": "61edd3286a92"
+     "published": "2026-07-11T21:05:00+00:00",
+     "copete": "La artista japonesa falleció a los 81 años por una neumonía en Nagano, dejando un legado enorme en la literatura infantil y una huella clave en el origen visual de la historia que después llevó Studio Ghibli al cine",
+     "id": "328691e1991b"
     },
     {
-     "title": "Inglaterra vs. Noruega, en vivo por el Mundial 2026",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/inglaterra-vs-noruega-en-vivo-por-el-mundial-2026-nid11072026/",
-     "source": "La Nación",
-     "published": "2026-07-11T19:29:55+00:00",
-     "copete": "Se enfrentan en el estadio de Miami por un lugar en las semifinales",
-     "id": "a0075f4d3223"
+     "title": "Argentina-Suiza, en vivo por los cuartos de final del Mundial 2026: hora, TV, formaciones y todo lo que hay que saber",
+     "link": "https://www.infobae.com/deportes/2026/07/11/argentina-suiza-en-vivo-por-los-cuartos-de-final-del-mundial-2026-hora-tv-formaciones-y-todo-lo-que-hay-que-saber/",
+     "source": "Infobae",
+     "published": "2026-07-11T21:03:25+00:00",
+     "copete": "La Albiceleste y el conjunto europeo pujarán por el último boleto a las semifinales de la Copa del Mundo",
+     "id": "5e722e79e804"
     },
     {
-     "title": "Los Pumas se enfrentan a Gales en busca de la recuperación en el Nations Championship: ganan 14-7",
+     "title": "El Salvador: cuando el rechazo a la edad y la búsqueda de juventud empiezan a afectar la salud mental",
+     "link": "https://www.infobae.com/el-salvador/2026/07/11/el-salvador-cuando-el-rechazo-a-la-edad-y-la-busqueda-de-juventud-empiezan-a-afectar-la-salud-mental/",
+     "source": "Infobae",
+     "published": "2026-07-11T21:03:12+00:00",
+     "copete": "La psicóloga clínica, con experiencia en ansiedad y duelo, explica cómo el paso del tiempo empieza a inquietar desde edades tempranas. También describe el peso de expectativas colectivas, la autoimagen y el bienestar emocional",
+     "id": "0707bb89792e"
+    },
+    {
+     "title": "Noruega-Inglaterra, en vivo por los cuartos de final del Mundial 2026: los nórdicos y británicos empatan sin goles en Miami",
+     "link": "https://www.infobae.com/deportes/2026/07/11/noruega-inglaterra-en-vivo-por-los-cuartos-de-final-del-mundial-2026-hora-tv-formaciones-y-todo-lo-que-hay-que-saber/",
+     "source": "Infobae",
+     "published": "2026-07-11T21:02:58+00:00",
+     "copete": "Los Vikingos y los ingleses pujan por un boleto a las semifinales de la Copa del Mundo. El ganador se medirá con Argentina o Suiza",
+     "id": "54dbe7090b57"
+    },
+    {
+     "title": "Nations Championship: Los Pumas vencieron 35-21 a Gales tras la caída en el debut",
      "link": "https://www.infobae.com/deportes/2026/07/11/los-pumas-se-enfrentaran-a-gales-en-busca-de-la-recuperacion-en-el-nations-championship/",
      "source": "Infobae",
-     "published": "2026-07-11T19:28:51+00:00",
-     "copete": "Felipe Contepomi realizó cinco cambios para intentar lograr la primera victoria en el torneo. Con transmisión de Disney+ y ESPN 2",
+     "published": "2026-07-11T21:02:07+00:00",
+     "copete": "El seleccionado de Felipe Contepomi redondeó una buena presentación en el Estadio del Bicentenario de San Juan",
      "id": "7fac80095bba"
     },
     {
-     "title": "Más de 100 millones de pagos QR por mes: la infraestructura que sostiene la economía digital",
-     "link": "https://www.infobae.com/economia/2026/07/11/mas-de-100-millones-de-pagos-qr-por-mes-la-infraestructura-que-sostiene-la-economia-digital/",
-     "source": "Infobae",
-     "published": "2026-07-11T19:28:47+00:00",
-     "copete": "Transferencias inmediatas, billeteras virtuales y comercios interoperables dependen de una red tecnológica capaz de procesar operaciones en tiempo real con altos estándares de disponibilidad y seguridad",
-     "id": "d6fc90235e23"
-    },
-    {
-     "title": "El mundo del fútbol despidió Antonio Ubaldo Rattín: “Te vamos a extrañar”",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/el-mundo-del-futbol-despidio-antonio-ubaldo-rattin-te-vamos-a-extranar-nid11072026/",
-     "source": "La Nación",
-     "published": "2026-07-11T19:28:39+00:00",
-     "copete": "La AFA, su presidente Claudio “Chiqui” Tapia y Boca se expresaron en redes ante el fallecimiento del histórico defensor",
-     "id": "f66c95989d76"
-    },
-    {
-     "title": "Últimos segundos de angustia: El impactante video que vaticinó la tragedia de cuatro fallecidos en El Salvador",
-     "link": "https://www.infobae.com/el-salvador/2026/07/11/ultimos-segundos-de-angustia-el-impactante-video-que-vaticino-la-tragedia-de-cuatro-fallecidos-en-el-salvador/",
-     "source": "Infobae",
-     "published": "2026-07-11T19:25:37+00:00",
-     "copete": "Este siniestro se suma a los alarmantes datos de accidentabilidad en el país, que ya registran más de 12,000 siniestros viales en lo que va del año, encendiendo las alarmas sobre la urgencia de revisiones técnicas estrictas en las…",
-     "id": "db9a5600edd1"
-    },
-    {
-     "title": "El gobierno venezolano actualizó la cifra de muertos por los terremotos y dijo por qué no da el número de desaparecidos",
-     "link": "https://www.clarin.com/mundo/gobierno-venezolano-actualizo-cifra-muertos-terremotos-dijo-da-numero-desaparecidos_0_yWVr7uHRii.html",
+     "title": "Una foca volvió al océano tras haber sido rescatada y rehabilitada a raíz de las severas lesiones causadas por una red de pesca: \"Su fortaleza a lo largo de su recuperación fue increíble\"",
+     "link": "https://www.clarin.com/internacional/foca-volvio-oceano-rescatada-rehabilitada-raiz-severas-lesiones-causadas-red-pesca-fortaleza-largo-recuperacion-increible_0_DPyl4FOS8B.html",
      "source": "Clarín",
-     "published": "2026-07-11T18:56:05+00:00",
-     "copete": "Los fallecidos por el doble terremoto del 24 de junio ya superan los 4.300, mientras 315 no están identificados. Jorge Rodríguez dijo que todavía hay uno o dos sitios activos de búsqueda de vida.",
-     "id": "f41c380dd789"
+     "published": "2026-07-11T20:36:32+00:00",
+     "copete": "Un mamífero marino, que sufría de una severa lesión en su cuello debido a una red, fue reinsertado en su hábitat natural. La historia conmovió a los usuarios.",
+     "id": "f75df687ee8e"
     },
     {
-     "title": "Naufragio en Vietnam: murieron 15 turistas al darse vuelta una lancha rápida cerca de la costa",
-     "link": "https://www.clarin.com/internacional/naufragio-vietnam-mueren-15-turistas-darse-vuelta-lancha-rapida-cerca-costa_0_ree1qvkwRc.html",
+     "title": "Argentina, ¿potencia tecnológica?",
+     "link": "https://www.clarin.com/opinion/argentina-potencia-tecnologica_0_SoJmoKCKH9.html",
      "source": "Clarín",
-     "published": "2026-07-11T18:48:13+00:00",
-     "copete": "En la embarcación turística iban 32 personas, en su mayoría de nacionalidad india. Varios de los pasajeros habían quedado atrapados bajo el agua en el interior de la nave.",
-     "id": "6e2895e1c260"
+     "published": "2026-07-11T20:35:33+00:00",
+     "copete": "La experiencia con los reactores nucleares y satélites debería servir de modelo para la creación de otras nuevas industrias, de cuya creatividad y precisión hoy dependen el desarrollo económico y social.",
+     "id": "759a0f94a01d"
     }
    ]
   },
@@ -408,7 +392,7 @@
      "title": "España alcanza las segundas semifinales del Mundial de su historia y habrá choque estelar con Francia",
      "link": "https://www.bbc.co.uk/mundo/live/ce37x1ynx92t?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-11T19:36:43.819312+00:00",
+     "published": "2026-07-11T21:10:30.934454+00:00",
      "copete": "Fabián Ruiz abrió el tanteador, Charles De Ketelaere lo empató y Mikel Merino sentenció el partido para España. \"No me lo creo, otra vez lo he hecho\", dijo luego Merino, quien también había marcado el gol de la victoria contra Portugal.",
      "id": "17d2815d422f"
     },
@@ -421,7 +405,7 @@
      "id": "983923e110d2"
     },
     {
-     "title": "Iran supreme leader calls for revenge after father's burial",
+     "title": "Iran supreme leader calls for revenge for father's killing",
      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-07-11T19:30:36+00:00",
@@ -492,6 +476,11 @@
    "section": "cardiologia",
    "feed": "Cardiology Trials",
    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+   "section": "cardiologia",
+   "feed": "Circulation (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "section": "cardiologia",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T10:03:52Z",
+  "generated_at": "2026-07-11T22:04:06Z",
   "summaries": {
     "bedc224bc9e2": {
       "resumen": "Artículo de JACC sobre la enseñanza de habilidades clínicas 'no técnicas' —como el examen físico, la comunicación y el trato con las familias— que los pacientes y sus allegados recuerdan más que los procedimientos invasivos. Interesa como reflexión sobre formación médica en un campo, la cardiología intervencionista, cada vez más centrado en la tecnología.",
@@ -46,22 +46,6 @@
       "destacado": false,
       "analisis": "Diseño: Por el título se infiere un estudio observacional (probablemente de cohorte o de un registro) que compara el peso pronóstico del índice de masa corporal (BMI) según el grado de implementación del tratamiento médico basado en la evidencia (GDMT); sin abstract no hay precisión sobre el número de pacientes, centros o el período analizado.\nPoblación: Pacientes cardiológicos (probablemente con insuficiencia cardíaca o enfermedad coronaria) estratificados según su índice de masa corporal y según si recibieron o no un esquema completo de tratamiento médico basado en la evidencia.\nIntervención: No hay una intervención asignada: se comparó el valor pronóstico del BMI en subgrupos definidos por la intensidad del tratamiento médico recibido, no un fármaco o dispositivo específico.\nResultados: No disponibles sin el abstract original; el título sugiere que el BMI pierde peso como factor pronóstico cuando el tratamiento médico es más completo.\nLimitaciones: Al ser observacional, no puede descartar factores de confusión (los pacientes con mejor tratamiento suelen tener también mejor acceso a salud y menos comorbilidades); además la clasificación por BMI no distingue masa grasa de masa muscular, una limitación clásica de este índice.\nMensaje: Sugiere que buena parte de la \"paradoja de la obesidad\" podría explicarse por diferencias en la calidad del tratamiento recibido más que por un efecto protector real del exceso de peso, lo que reforzaría la importancia de optimizar el tratamiento médico por sobre el foco exclusivo en el peso corporal.\nNota: análisis sin acceso al abstract."
     },
-    "26ad10d54d12": {
-      "resumen": "Hilo de Reddit en r/datascience que cuestiona la complejidad de GPT-5.6, con 72 configuraciones posibles entre tamaños y modos de razonamiento, y discute cuál conviene usar por defecto. Le sirve a un médico que aprende análisis de datos porque anticipa la fricción práctica de elegir configuración de modelo antes de integrar un modelo de lenguaje de gran escala (LLM, Large Language Model) a un flujo de trabajo propio.",
-      "destacado": false
-    },
-    "4b2e137a1911": {
-      "resumen": "Artículo de Towards Data Science que avanza sobre PySpark (la interfaz de Python para Apache Spark, un motor de procesamiento de datos distribuido) explicando particiones, shuffles, joins, caché y planes de ejecución. Le sirve a un médico que aprende análisis de datos como paso siguiente para manejar volúmenes de datos que ya no entran cómodos en una sola computadora.",
-      "destacado": false
-    },
-    "b95245e32a5d": {
-      "resumen": "Artículo de KDnuggets que explica en términos simples qué es el ajuste fino (fine-tuning), el proceso de re-entrenar un modelo de inteligencia artificial ya entrenado (pretrained) para que aprenda una tarea nueva o específica. Le sirve a un médico que aprende análisis de datos para entender, sin formación previa en aprendizaje profundo (deep learning), una de las técnicas centrales para adaptar modelos de lenguaje de gran escala a un dominio propio, como el médico.",
-      "destacado": false
-    },
-    "56b1150354de": {
-      "resumen": "Artículo de opinión de Towards Data Science que sostiene que la generación aumentada por recuperación (RAG, Retrieval-Augmented Generation) —la técnica de buscar información externa para dársela a un modelo de lenguaje antes de que responda— fue siempre una solución transitoria, y especula con arquitecturas futuras basadas en estado neuronal persistente en lugar de bases de datos vectoriales. Le sirve a un médico que aprende análisis de datos para entender los límites de RAG, la técnica más usada hoy para que un modelo de lenguaje responda con información propia o actualizada.",
-      "destacado": false
-    },
     "bc84c97b905e": {
       "resumen": "Simon Willison cita al editor Nilay Patel sobre por qué los anteojos de realidad aumentada (augmented reality) requieren, casi por definición, una cámara pegada al ojo que graba y procesa todo lo que la persona ve. Le sirve a un médico que aprende análisis de datos para dimensionar las implicancias de privacidad y de procesamiento masivo de datos de video que traen los nuevos dispositivos con inteligencia artificial embebida.",
       "destacado": false
@@ -70,30 +54,46 @@
       "resumen": "Relato de Towards Data Science sobre la construcción de un segundo pipeline de extracción, transformación y carga (ETL, Extract-Transform-Load) de noticias, esta vez con Python, Docker, PostgreSQL y Kestra, con foco en pensar como ingeniero de datos y no solo escribir código que funcione. Le sirve a un médico que aprende análisis de datos como guía práctica y progresiva para pasar de un script casero a un pipeline de datos más robusto y reproducible.",
       "destacado": true
     },
-    "5186a40c9b2c": {
-      "resumen": "Investigadores de Brown University muestran que los efectos relativistas de Einstein son necesarios para explicar correctamente los enlaces químicos en elementos pesados, algo que los modelos clásicos de química cuántica venían subestimando. Le sirve a un médico que aprende análisis de datos como ejemplo de que la precisión de un modelo computacional depende de no simplificar de más las variables físicas subyacentes, una lección trasladable a cualquier modelo predictivo.",
+    "438dc646c229": {
+      "resumen": "Consulta en el foro r/datascience sobre cómo aplicar StandardScaler (la función de scikit-learn que estandariza variables numéricas restando la media y dividiendo por el desvío estándar) dentro del entorno Python de Snowflake, la plataforma de datos en la nube. Sirve para ver la fricción práctica de correr pasos de preprocesamiento estándar cuando los datos viven en un data warehouse en vez de en la computadora local.",
       "destacado": false
     },
-    "859102bdbec8": {
-      "resumen": "Apple demandó a OpenAI (la empresa detrás de ChatGPT), acusando a ex empleados de haberse llevado secretos comerciales al pasarse a la competencia. Le sirve a un médico que aprende análisis de datos para entender las tensiones legales y de talento que atraviesa hoy la industria de la inteligencia artificial, un contexto que puede afectar la estabilidad y el rumbo de las herramientas que usa a diario.",
+    "b5d19d55b601": {
+      "resumen": "Ensayo de George Hotz (geohot), programador conocido por hackear el iPhone y fundar la empresa de manejo autónomo comma.ai, con una mirada escéptica sobre hacia dónde va la inteligencia artificial hacia 2040 y sobre lo que llama 'el culto a la inteligencia'. Sirve como contrapeso crítico al entusiasmo dominante sobre la inteligencia artificial, útil para calibrar expectativas antes de incorporarla de lleno al trabajo médico.",
       "destacado": false
     },
-    "3df28d7c011d": {
-      "resumen": "Nota de LWN (Linux Weekly News) que actualiza el panorama de los proxies residenciales, redes que hacen pasar el tráfico automatizado de scraping (recolección masiva de datos web) por conexiones domésticas para esquivar los bloqueos anti-bots. Le sirve a un médico que aprende análisis de datos para entender de dónde salen muchos de los datos con los que se entrenan los modelos de lenguaje de gran escala (LLM, Large Language Model), y las tensiones éticas y técnicas detrás de esa recolección.",
+    "51aeadc2f785": {
+      "resumen": "Nota técnica que recomienda usar las tablas STRICT de SQLite (el motor de base de datos liviano que no requiere servidor), que obligan a que cada columna respete el tipo de dato declarado en vez del tipado flexible por defecto. Le sirve a un médico que aprende análisis de datos porque ilustra una buena práctica simple para evitar errores silenciosos al guardar datos clínicos o de investigación en bases chicas.",
       "destacado": false
     },
-    "a02db43ccd2c": {
-      "resumen": "Según un documento publicado por OpenAI, su modelo GPT-5.6 Sol Ultra habría producido una demostración de la Conjetura de la Cobertura Doble de Ciclos (Cycle Double Cover Conjecture), un problema abierto de teoría de grafos. Le sirve a un médico que aprende análisis de datos como termómetro de hasta dónde llegan hoy los modelos de lenguaje de gran escala (LLM) en razonamiento matemático formal, más allá del entusiasmo inicial que este tipo de anuncios suele generar.",
+    "caeb849cc996": {
+      "resumen": "Artículo de Smithsonian Magazine que repasa cómo la toxicidad de la nafta con plomo (tetraetilo de plomo) era conocida desde el mismo momento de su invención en los años 1920, y sin embargo la industria la ocultó durante décadas. Le sirve a un médico en transición hacia farmacovigilancia como caso testigo de cómo la evidencia de daño puede ser minimizada por intereses comerciales, un patrón que se repite en la historia de la seguridad de fármacos y productos.",
       "destacado": false
     },
-    "520c0258147b": {
-      "resumen": "TyC Sports precisa el horario de Los Pumas ante Gales por el Nations Championship 2026."
+    "ce9a2604ed79": {
+      "resumen": "Nota de The Guardian sobre una remera estadounidense que completó en solitario el cruce desde California hasta Hawái, una travesía histórica de resistencia física y mental. No tiene relación directa con ciencia de datos, pero vale como historia de constancia y planificación de largo aliento, algo trasladable a cualquier proyecto de análisis que exige sostenerse en el tiempo.",
+      "destacado": false
     },
-    "8a3fb0b76147": {
-      "resumen": "Los Pumas se preparan para enfrentar a Gales en San Juan, según repasa Diario Época Corrientes."
+    "8922d74314cd": {
+      "resumen": "Artículo de Towards Data Science que explica por qué los modelos de lenguaje de gran escala (LLM, Large Language Model) empeoran a medida que la conversación se alarga: no es que 'olviden', sino que el prompt acumula tokens redundantes y de bajo valor que encarecen, atrasan y degradan las respuestas. El autor propone una capa de poda (pruning) de contexto para recortar ese exceso sin perder información relevante. Le sirve a un médico que aprende análisis de datos porque anticipa un problema práctico al construir flujos de trabajo propios con modelos de lenguaje.",
+      "destacado": false
     },
-    "41f4c28efd47": {
-      "resumen": "Los Pumas buscarán recuperarse esta tarde en el partido ante Gales, según El Tribuno."
+    "506428a293f7": {
+      "resumen": "Artículo de Towards Data Science sobre por qué los modelos de inteligencia artificial más avanzados (frontier AI) siguen 'alucinando' —inventando información con total seguridad— y qué estrategias existen para mitigarlo. Le sirve a un médico en transición hacia farmacovigilancia porque entender los límites de confiabilidad de estas herramientas es central antes de usarlas para analizar datos clínicos o de seguridad de fármacos.",
+      "destacado": false
+    },
+    "37484a05c27a": {
+      "resumen": "Publicación en r/datascience que reivindica ARIMA (Autoregressive Integrated Moving Average), el clásico modelo estadístico de series de tiempo, frente a alternativas más vistosas basadas en aprendizaje profundo (deep learning). Le sirve a un médico que aprende análisis de datos porque ARIMA sigue siendo una herramienta simple y robusta para modelar tendencias temporales como reportes de eventos adversos o indicadores epidemiológicos.",
+      "destacado": false
+    },
+    "b3beefe18afc": {
+      "resumen": "Los Pumas volvieron al triunfo ante Gales en San Juan, en el marco del Nations Championship."
+    },
+    "ed86b5a65ceb": {
+      "resumen": "Los Pumas vencieron a Gales en el Estadio del Bicentenario de San Juan."
+    },
+    "d5c3537bc069": {
+      "resumen": "Los Pumas arrollaron a Gales con una gran actuación, con dobletes de Mateo Carreras y Tomás Rapetti."
     }
   }
 }

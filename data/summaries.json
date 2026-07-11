@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T22:07:03Z",
+  "generated_at": "2026-07-11T10:03:52Z",
   "summaries": {
     "bedc224bc9e2": {
       "resumen": "Artículo de JACC sobre la enseñanza de habilidades clínicas 'no técnicas' —como el examen físico, la comunicación y el trato con las familias— que los pacientes y sus allegados recuerdan más que los procedimientos invasivos. Interesa como reflexión sobre formación médica en un campo, la cardiología intervencionista, cada vez más centrado en la tecnología.",
@@ -31,14 +31,6 @@
       "resumen": "Editorial conjunto del Colegio Americano de Cardiología (ACC, American College of Cardiology), la Asociación Americana del Corazón (AHA, American Heart Association), la Sociedad Europea de Cardiología (ESC, European Society of Cardiology) y la Federación Mundial del Corazón (World Heart Federation) que llama a una nueva etapa de investigación, abordaje sociológico e intervenciones concretas para reducir las inequidades en salud cardiovascular. Interesa como toma de posición institucional sobre un problema estructural que condiciona el acceso al diagnóstico y al tratamiento.",
       "destacado": false
     },
-    "c223296e0641": {
-      "resumen": "Simon Willison repasa el lanzamiento de la familia GPT-5.6 de OpenAI, disponible en tres tamaños —Luna, Terra y Sol— con precios diferenciados por millón de tokens de entrada y salida. Le sirve a un médico que aprende análisis de datos para seguir el ritmo de lanzamientos de modelos de lenguaje de gran escala (LLM, Large Language Model) y comparar costo-beneficio según el tamaño del modelo a la hora de elegir uno para un proyecto propio.",
-      "destacado": false
-    },
-    "e11b299a3353": {
-      "resumen": "Simon Willison cita el anuncio de OpenAI sobre 'Work', una funcionalidad para sostener proyectos extensos que corre en la nube desde la web y el celular, o en la aplicación de escritorio con acceso a archivos y aplicaciones locales; al lanzamiento, las conversaciones de un lado no se sincronizan con el otro. Le sirve a un médico que aprende análisis de datos para entender cómo estas plataformas empiezan a separar el trabajo en la nube del trabajo con datos locales, algo relevante al decidir dónde procesar información sensible.",
-      "destacado": false
-    },
     "5e4ea1c840cb": {
       "resumen": "Nota de TCTMD sobre una propuesta de repensar la definición y el nombre de MINOCA (infarto de miocardio con arterias coronarias no obstructivas), a partir de investigadores que cuestionan si la categoría agrupa entidades demasiado heterogéneas. Interesa porque el diagnóstico de MINOCA es cada vez más frecuente y su manejo depende de identificar la causa real detrás del infarto.",
       "destacado": false,
@@ -58,10 +50,6 @@
       "resumen": "Hilo de Reddit en r/datascience que cuestiona la complejidad de GPT-5.6, con 72 configuraciones posibles entre tamaños y modos de razonamiento, y discute cuál conviene usar por defecto. Le sirve a un médico que aprende análisis de datos porque anticipa la fricción práctica de elegir configuración de modelo antes de integrar un modelo de lenguaje de gran escala (LLM, Large Language Model) a un flujo de trabajo propio.",
       "destacado": false
     },
-    "f0f9aa6235e6": {
-      "resumen": "Tutorial de KDnuggets sobre cómo armar un pipeline local de resumen de video usando SmolVLM2-2.2B, un modelo de lenguaje visual (vision-language model) chico que corre en una sola placa de video (GPU, Graphics Processing Unit) de uso hogareño. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de procesamiento de video con inteligencia artificial local, sin depender de servicios en la nube ni exponer datos sensibles.",
-      "destacado": false
-    },
     "4b2e137a1911": {
       "resumen": "Artículo de Towards Data Science que avanza sobre PySpark (la interfaz de Python para Apache Spark, un motor de procesamiento de datos distribuido) explicando particiones, shuffles, joins, caché y planes de ejecución. Le sirve a un médico que aprende análisis de datos como paso siguiente para manejar volúmenes de datos que ya no entran cómodos en una sola computadora.",
       "destacado": false
@@ -74,10 +62,6 @@
       "resumen": "Artículo de opinión de Towards Data Science que sostiene que la generación aumentada por recuperación (RAG, Retrieval-Augmented Generation) —la técnica de buscar información externa para dársela a un modelo de lenguaje antes de que responda— fue siempre una solución transitoria, y especula con arquitecturas futuras basadas en estado neuronal persistente en lugar de bases de datos vectoriales. Le sirve a un médico que aprende análisis de datos para entender los límites de RAG, la técnica más usada hoy para que un modelo de lenguaje responda con información propia o actualizada.",
       "destacado": false
     },
-    "40bfde6b219d": {
-      "resumen": "Hilo de Reddit en r/datascience donde un usuario cuenta cómo la ola de despidos en tecnología lo hizo replantear su búsqueda laboral. Le sirve a un médico que aprende análisis de datos como termómetro informal del mercado laboral en ciencia de datos, un dato de contexto útil para quien piensa en una eventual transición de carrera.",
-      "destacado": false
-    },
     "bc84c97b905e": {
       "resumen": "Simon Willison cita al editor Nilay Patel sobre por qué los anteojos de realidad aumentada (augmented reality) requieren, casi por definición, una cámara pegada al ojo que graba y procesa todo lo que la persona ve. Le sirve a un médico que aprende análisis de datos para dimensionar las implicancias de privacidad y de procesamiento masivo de datos de video que traen los nuevos dispositivos con inteligencia artificial embebida.",
       "destacado": false
@@ -86,14 +70,30 @@
       "resumen": "Relato de Towards Data Science sobre la construcción de un segundo pipeline de extracción, transformación y carga (ETL, Extract-Transform-Load) de noticias, esta vez con Python, Docker, PostgreSQL y Kestra, con foco en pensar como ingeniero de datos y no solo escribir código que funcione. Le sirve a un médico que aprende análisis de datos como guía práctica y progresiva para pasar de un script casero a un pipeline de datos más robusto y reproducible.",
       "destacado": true
     },
-    "1489855a92b8": {
-      "resumen": "Los Pumas ultimaron los últimos detalles de cara al partido ante Gales en San Juan, con la victoria como objetivo."
+    "5186a40c9b2c": {
+      "resumen": "Investigadores de Brown University muestran que los efectos relativistas de Einstein son necesarios para explicar correctamente los enlaces químicos en elementos pesados, algo que los modelos clásicos de química cuántica venían subestimando. Le sirve a un médico que aprende análisis de datos como ejemplo de que la precisión de un modelo computacional depende de no simplificar de más las variables físicas subyacentes, una lección trasladable a cualquier modelo predictivo.",
+      "destacado": false
     },
-    "35b970b21fe0": {
-      "resumen": "Todos los datos del partido de Los Pumas ante Gales en San Juan por el Nations Championship: horario y por dónde seguirlo en vivo."
+    "859102bdbec8": {
+      "resumen": "Apple demandó a OpenAI (la empresa detrás de ChatGPT), acusando a ex empleados de haberse llevado secretos comerciales al pasarse a la competencia. Le sirve a un médico que aprende análisis de datos para entender las tensiones legales y de talento que atraviesa hoy la industria de la inteligencia artificial, un contexto que puede afectar la estabilidad y el rumbo de las herramientas que usa a diario.",
+      "destacado": false
     },
-    "8fe51783a0fd": {
-      "resumen": "Agenda deportiva del día: la selección argentina se mide ante Suiza y Los Pumas buscan reponerse ante Gales en San Juan."
+    "3df28d7c011d": {
+      "resumen": "Nota de LWN (Linux Weekly News) que actualiza el panorama de los proxies residenciales, redes que hacen pasar el tráfico automatizado de scraping (recolección masiva de datos web) por conexiones domésticas para esquivar los bloqueos anti-bots. Le sirve a un médico que aprende análisis de datos para entender de dónde salen muchos de los datos con los que se entrenan los modelos de lenguaje de gran escala (LLM, Large Language Model), y las tensiones éticas y técnicas detrás de esa recolección.",
+      "destacado": false
+    },
+    "a02db43ccd2c": {
+      "resumen": "Según un documento publicado por OpenAI, su modelo GPT-5.6 Sol Ultra habría producido una demostración de la Conjetura de la Cobertura Doble de Ciclos (Cycle Double Cover Conjecture), un problema abierto de teoría de grafos. Le sirve a un médico que aprende análisis de datos como termómetro de hasta dónde llegan hoy los modelos de lenguaje de gran escala (LLM) en razonamiento matemático formal, más allá del entusiasmo inicial que este tipo de anuncios suele generar.",
+      "destacado": false
+    },
+    "520c0258147b": {
+      "resumen": "TyC Sports precisa el horario de Los Pumas ante Gales por el Nations Championship 2026."
+    },
+    "8a3fb0b76147": {
+      "resumen": "Los Pumas se preparan para enfrentar a Gales en San Juan, según repasa Diario Época Corrientes."
+    },
+    "41f4c28efd47": {
+      "resumen": "Los Pumas buscarán recuperarse esta tarde en el partido ante Gales, según El Tribuno."
     }
   }
 }

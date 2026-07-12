@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T22:04:06Z",
+  "generated_at": "2026-07-12T11:17:22Z",
   "summaries": {
     "bedc224bc9e2": {
       "resumen": "Artículo de JACC sobre la enseñanza de habilidades clínicas 'no técnicas' —como el examen físico, la comunicación y el trato con las familias— que los pacientes y sus allegados recuerdan más que los procedimientos invasivos. Interesa como reflexión sobre formación médica en un campo, la cardiología intervencionista, cada vez más centrado en la tecnología.",
@@ -23,10 +23,6 @@
       "resumen": "Nota de TCTMD que anticipa los temas centrales del congreso anual de la Sociedad de Tomografía Computada Cardiovascular (SCCT, Society of Cardiovascular Computed Tomography) 2026, en Chula Vista, California. Sirve para tener un panorama de hacia dónde va la imagen cardíaca por tomografía computada, una herramienta cada vez más protagonista en la evaluación no invasiva de la enfermedad coronaria.",
       "destacado": false
     },
-    "e4df92354122": {
-      "resumen": "Crónica en primera persona de TCTMD de un becario (fellow) de cardiología intervencionista que relata el inicio de las guardias como una nueva etapa de su formación. Es una nota de color sobre la vida cotidiana en la subespecialidad, sin datos clínicos duros, pero útil para dimensionar el día a día de quien se está formando.",
-      "destacado": false
-    },
     "595b8460409a": {
       "resumen": "Editorial conjunto del Colegio Americano de Cardiología (ACC, American College of Cardiology), la Asociación Americana del Corazón (AHA, American Heart Association), la Sociedad Europea de Cardiología (ESC, European Society of Cardiology) y la Federación Mundial del Corazón (World Heart Federation) que llama a una nueva etapa de investigación, abordaje sociológico e intervenciones concretas para reducir las inequidades en salud cardiovascular. Interesa como toma de posición institucional sobre un problema estructural que condiciona el acceso al diagnóstico y al tratamiento.",
       "destacado": false
@@ -46,37 +42,21 @@
       "destacado": false,
       "analisis": "Diseño: Por el título se infiere un estudio observacional (probablemente de cohorte o de un registro) que compara el peso pronóstico del índice de masa corporal (BMI) según el grado de implementación del tratamiento médico basado en la evidencia (GDMT); sin abstract no hay precisión sobre el número de pacientes, centros o el período analizado.\nPoblación: Pacientes cardiológicos (probablemente con insuficiencia cardíaca o enfermedad coronaria) estratificados según su índice de masa corporal y según si recibieron o no un esquema completo de tratamiento médico basado en la evidencia.\nIntervención: No hay una intervención asignada: se comparó el valor pronóstico del BMI en subgrupos definidos por la intensidad del tratamiento médico recibido, no un fármaco o dispositivo específico.\nResultados: No disponibles sin el abstract original; el título sugiere que el BMI pierde peso como factor pronóstico cuando el tratamiento médico es más completo.\nLimitaciones: Al ser observacional, no puede descartar factores de confusión (los pacientes con mejor tratamiento suelen tener también mejor acceso a salud y menos comorbilidades); además la clasificación por BMI no distingue masa grasa de masa muscular, una limitación clásica de este índice.\nMensaje: Sugiere que buena parte de la \"paradoja de la obesidad\" podría explicarse por diferencias en la calidad del tratamiento recibido más que por un efecto protector real del exceso de peso, lo que reforzaría la importancia de optimizar el tratamiento médico por sobre el foco exclusivo en el peso corporal.\nNota: análisis sin acceso al abstract."
     },
+    "55c45db1cb59": {
+      "resumen": "Ítem de TCTMD indexado por Google News cuyo título capturado ('Log in - TCTMD.com') corresponde a una pantalla de acceso del sitio, no al contenido real de la nota. No fue posible determinar el tema de fondo sin abrir el enlace original, así que este ítem queda sin resumen sustantivo hasta que la fuente lo indexe correctamente.",
+      "destacado": false
+    },
     "bc84c97b905e": {
       "resumen": "Simon Willison cita al editor Nilay Patel sobre por qué los anteojos de realidad aumentada (augmented reality) requieren, casi por definición, una cámara pegada al ojo que graba y procesa todo lo que la persona ve. Le sirve a un médico que aprende análisis de datos para dimensionar las implicancias de privacidad y de procesamiento masivo de datos de video que traen los nuevos dispositivos con inteligencia artificial embebida.",
       "destacado": false
-    },
-    "95bd5b7aee97": {
-      "resumen": "Relato de Towards Data Science sobre la construcción de un segundo pipeline de extracción, transformación y carga (ETL, Extract-Transform-Load) de noticias, esta vez con Python, Docker, PostgreSQL y Kestra, con foco en pensar como ingeniero de datos y no solo escribir código que funcione. Le sirve a un médico que aprende análisis de datos como guía práctica y progresiva para pasar de un script casero a un pipeline de datos más robusto y reproducible.",
-      "destacado": true
     },
     "438dc646c229": {
       "resumen": "Consulta en el foro r/datascience sobre cómo aplicar StandardScaler (la función de scikit-learn que estandariza variables numéricas restando la media y dividiendo por el desvío estándar) dentro del entorno Python de Snowflake, la plataforma de datos en la nube. Sirve para ver la fricción práctica de correr pasos de preprocesamiento estándar cuando los datos viven en un data warehouse en vez de en la computadora local.",
       "destacado": false
     },
-    "b5d19d55b601": {
-      "resumen": "Ensayo de George Hotz (geohot), programador conocido por hackear el iPhone y fundar la empresa de manejo autónomo comma.ai, con una mirada escéptica sobre hacia dónde va la inteligencia artificial hacia 2040 y sobre lo que llama 'el culto a la inteligencia'. Sirve como contrapeso crítico al entusiasmo dominante sobre la inteligencia artificial, útil para calibrar expectativas antes de incorporarla de lleno al trabajo médico.",
-      "destacado": false
-    },
-    "51aeadc2f785": {
-      "resumen": "Nota técnica que recomienda usar las tablas STRICT de SQLite (el motor de base de datos liviano que no requiere servidor), que obligan a que cada columna respete el tipo de dato declarado en vez del tipado flexible por defecto. Le sirve a un médico que aprende análisis de datos porque ilustra una buena práctica simple para evitar errores silenciosos al guardar datos clínicos o de investigación en bases chicas.",
-      "destacado": false
-    },
-    "caeb849cc996": {
-      "resumen": "Artículo de Smithsonian Magazine que repasa cómo la toxicidad de la nafta con plomo (tetraetilo de plomo) era conocida desde el mismo momento de su invención en los años 1920, y sin embargo la industria la ocultó durante décadas. Le sirve a un médico en transición hacia farmacovigilancia como caso testigo de cómo la evidencia de daño puede ser minimizada por intereses comerciales, un patrón que se repite en la historia de la seguridad de fármacos y productos.",
-      "destacado": false
-    },
-    "ce9a2604ed79": {
-      "resumen": "Nota de The Guardian sobre una remera estadounidense que completó en solitario el cruce desde California hasta Hawái, una travesía histórica de resistencia física y mental. No tiene relación directa con ciencia de datos, pero vale como historia de constancia y planificación de largo aliento, algo trasladable a cualquier proyecto de análisis que exige sostenerse en el tiempo.",
-      "destacado": false
-    },
     "8922d74314cd": {
       "resumen": "Artículo de Towards Data Science que explica por qué los modelos de lenguaje de gran escala (LLM, Large Language Model) empeoran a medida que la conversación se alarga: no es que 'olviden', sino que el prompt acumula tokens redundantes y de bajo valor que encarecen, atrasan y degradan las respuestas. El autor propone una capa de poda (pruning) de contexto para recortar ese exceso sin perder información relevante. Le sirve a un médico que aprende análisis de datos porque anticipa un problema práctico al construir flujos de trabajo propios con modelos de lenguaje.",
-      "destacado": false
+      "destacado": true
     },
     "506428a293f7": {
       "resumen": "Artículo de Towards Data Science sobre por qué los modelos de inteligencia artificial más avanzados (frontier AI) siguen 'alucinando' —inventando información con total seguridad— y qué estrategias existen para mitigarlo. Le sirve a un médico en transición hacia farmacovigilancia porque entender los límites de confiabilidad de estas herramientas es central antes de usarlas para analizar datos clínicos o de seguridad de fármacos.",
@@ -86,14 +66,34 @@
       "resumen": "Publicación en r/datascience que reivindica ARIMA (Autoregressive Integrated Moving Average), el clásico modelo estadístico de series de tiempo, frente a alternativas más vistosas basadas en aprendizaje profundo (deep learning). Le sirve a un médico que aprende análisis de datos porque ARIMA sigue siendo una herramienta simple y robusta para modelar tendencias temporales como reportes de eventos adversos o indicadores epidemiológicos.",
       "destacado": false
     },
-    "b3beefe18afc": {
-      "resumen": "Los Pumas volvieron al triunfo ante Gales en San Juan, en el marco del Nations Championship."
+    "03499c68059e": {
+      "resumen": "Nueva versión menor de sqlite-utils, la librería y línea de comandos de Simon Willison para manipular bases SQLite (el motor de base de datos liviano que no requiere servidor) desde Python o la terminal. Suma la opción --code para pasar bloques de código Python al insertar o actualizar filas, entre otras mejoras menores. Le sirve a un médico que aprende análisis de datos porque es una herramienta simple para explorar y transformar datasets chicos sin montar un servidor de base de datos.",
+      "destacado": false
     },
-    "ed86b5a65ceb": {
-      "resumen": "Los Pumas vencieron a Gales en el Estadio del Bicentenario de San Juan."
+    "5ffbdb7118c1": {
+      "resumen": "Reedición de un ensayo de 2016, muy comentado en Hacker News, sobre cómo los médicos suelen elegir menos intervenciones agresivas al final de su propia vida que las que indican a sus pacientes. No es un artículo de ciencia de datos, pero le interesa a un cardiólogo por la reflexión sobre cuidados paliativos, toma de decisiones y comunicación de pronóstico al final de la vida.",
+      "destacado": false
     },
-    "d5c3537bc069": {
-      "resumen": "Los Pumas arrollaron a Gales con una gran actuación, con dobletes de Mateo Carreras y Tomás Rapetti."
+    "3822e0e0e383": {
+      "resumen": "Presentación de 'Mesh LLM', un proyecto que usa iroh (una librería de conectividad entre pares, peer-to-peer) para distribuir el cómputo de modelos de lenguaje de gran escala (LLM, Large Language Model) entre varios dispositivos en red, sin depender de un servidor central. Le sirve a un médico que aprende análisis de datos como ejemplo de arquitecturas alternativas para correr inteligencia artificial fuera de la nube de un único proveedor, algo relevante si en el futuro se procesan datos clínicos sensibles.",
+      "destacado": false
+    },
+    "d5abfc00032c": {
+      "resumen": "RISCBoy es una consola de videojuegos portátil de hardware y software totalmente abiertos, diseñada desde cero por un desarrollador independiente. No tiene relación directa con ciencia de datos, pero como proyecto de ingeniería abierta y bien documentada puede interesar a quien disfruta entender sistemas de bajo nivel de punta a punta.",
+      "destacado": false
+    },
+    "4bba99136d27": {
+      "resumen": "Presentación en Hacker News de 'Ant', un nuevo entorno de ejecución (runtime) de JavaScript y su ecosistema asociado, alternativa a Node.js o Deno. Le sirve a un médico que aprende análisis de datos como referencia del ritmo de innovación en herramientas de programación, aunque el análisis de datos en salud rara vez depende de JavaScript en el backend.",
+      "destacado": false
+    },
+    "5baa6b32f5f8": {
+      "resumen": "Los Pumas golearon 35 a 21 a Gales en el estadio del Bicentenario de San Juan, por la segunda fecha del Nations Championship."
+    },
+    "32572a1ea8f2": {
+      "resumen": "Una multitud se acercó al estadio del Bicentenario de San Juan para acompañar a Los Pumas antes del partido ante Gales."
+    },
+    "ac87304552ab": {
+      "resumen": "Pese al triunfo ante Gales, el entrenador Felipe Contepomi hizo autocrítica y señaló que al equipo todavía le cuesta darle ritmo a la pelota."
     }
   }
 }

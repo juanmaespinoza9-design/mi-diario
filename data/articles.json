@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-12T23:13:04.024477+00:00",
+ "generated_at": "2026-07-13T04:06:13.813585+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -12,6 +12,14 @@
      "source": "TCTMD",
      "published": "2026-07-12T17:04:56+00:00",
      "id": "60e696df5693"
+    },
+    {
+     "title": "Scaled Multidimensional Assays of Variant Effect Identify Sequence-Function Relationships in Hypertrophic Cardiomyopathy",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42437345/",
+     "source": "Circulation",
+     "published": "2026-07-12T00:00:00+00:00",
+     "copete": "Yamamoto Y et al. · Circulation",
+     "id": "4491352b0659"
     },
     {
      "title": "What’s in a Name? Researchers Push for MINOCA Rethink",
@@ -35,6 +43,14 @@
      "id": "005e3185892b"
     },
     {
+     "title": "Exercise Training in High-Risk Populations: A Scientific Statement From the American Heart Association",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42422933/",
+     "source": "Circulation",
+     "published": "2026-07-09T00:00:00+00:00",
+     "copete": "Fleg JL et al. · Circulation",
+     "id": "3c3a3ef1bedc"
+    },
+    {
      "title": "Cardiovascular Health Equity: Time for a New Era of Science, Sociology, and Interventions: Joint Editorial on Behalf of the American College of Cardiology, the American Heart Association, the European Society of Cardiology, and the World Heart Federation",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42421278/",
      "source": "JACC",
@@ -51,6 +67,22 @@
      "id": "b5bc9270a0fd"
     },
     {
+     "title": "Cardiovascular Health Equity: Time for a New Era of Science, Sociology, and Interventions",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42418562/",
+     "source": "Circulation",
+     "published": "2026-07-08T00:00:00+00:00",
+     "copete": "Itchhaporia D et al. · Circulation",
+     "id": "3a65b5f51e99"
+    },
+    {
+     "title": "Deprescribing in Patients With Cardiovascular Disease Experiencing Polypharmacy: A Scientific Statement From the American Heart Association",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42417036/",
+     "source": "Circulation",
+     "published": "2026-07-08T00:00:00+00:00",
+     "copete": "DiDomenico RJ et al. · Circulation",
+     "id": "4ca06d445cc4"
+    },
+    {
      "title": "Update on lipoprotein(a): the rising star in residual lipid risk",
      "link": "https://academic.oup.com/eurheartj/article/47/26/3313/8724957?rss=1",
      "source": "European Heart Journal",
@@ -65,14 +97,6 @@
      "published": "2026-07-07T00:00:00+00:00",
      "copete": "Reddy RK et al. · Journal of the American College of Cardiology",
      "id": "d0a3314f6237"
-    },
-    {
-     "title": "The Other Procedures We Perform: Teaching the Clinical Skills Families Remember",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42412712/",
-     "source": "JACC",
-     "published": "2026-07-07T00:00:00+00:00",
-     "copete": "Krumholz HM et al. · Journal of the American College of Cardiology",
-     "id": "bedc224bc9e2"
     }
    ]
   },
@@ -82,18 +106,25 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Los Pumas ya están en Santiago del Estero: cómo será la semana para seguir en la senda del triunfo ante Inglaterra",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeEp6MW80VXh0VFYzNFUzR0l6S2RXMzJ2TXFQQVE2dEFLLUNGRjM1ZnI1Y0ZQcW1Rd2c0c0ZremMxREZIRXY4cG95bzhJSGVJZ2J2cERVTE1Db2ZFbjRKQ19ZNDZlTVZVYk9Rd3hJUGlaMmJmeDRYWnppb0NyOUlXTHFkeGJ4d3ZTWlFfRTZESWJ0bWtTR2hYc3NsRFY2TE9oQnB4RHFTMXJJRmpQU3ZrZVRCYXhpTnU1d3hPeXlMeF96cUpGdFZzZjFxSEhNVEZReTNMQVVmSm1OZw?oc=5",
-     "source": "ESPN Argentina",
-     "published": "2026-07-12T22:20:00+00:00",
-     "id": "9bf9536bcc6d"
+     "title": "Los Pumas ya piensan en Inglaterra tras vencer a Gales",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZHlsbW9fNV9TMGtsajNmVEc4LU82ZFVOQjFScmdyQ21JQ2hJQ3NIQVZjTTNhcFNsSmtJRW1zX011YUNQbnBpV2NPbURxRjR1SEZ1eGs3VURTNi0zVV9FTmtNOHN0aWt1QzZudGRxZTRzaEo0N1owRU1MRDZTOUVWRi1kWmpzbXlSRjI1VE9aZndfNDczODU3MUo4Qjg2ckdMQV82RzVfV0JoWFZySXpn?oc=5",
+     "source": "El Esquiu",
+     "published": "2026-07-13T03:00:00+00:00",
+     "id": "bf907a1c9e58"
     },
     {
-     "title": "La histórica racha que Los Pumas lograron con su triunfo ante Gales en San Juan",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0w2b3pHaW5ocmhacEE5RUl4dzZpVGgzUllIb3VFSU41bnZ5N0VxdEdVcWxSUjBSTnZGa2ROUVRYWnNLOURrTE1ta3haWS1MZVNtY0lwX0VzMW80U08tT1psU3BqN2FkTHpua3Nia1laR2twaFhSZDRwU2VhVU5fTUYtOFF3aG5VdGZRVzlUWGhwNTFUWEhYMTZrd3k3cEpUTWo2LTNHZGMtcjM3c1ZKeUVieUdVWlJBOUlwT0E0MGhhVVU?oc=5",
-     "source": "ESPN Chile",
-     "published": "2026-07-12T22:07:30+00:00",
-     "id": "dd3124130d1d"
+     "title": "Los Pumas ya están en Santiago del Estero y se preparan para su duelo en el estadio Único \"Madre de Ciudades\"",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWmFoRWVwOWZYVWFBeHU2NEl2SzhPTjhKdm5xeGZkUUFUYU14VjNlZmR0SXBSN21HelJ2clNXY3N6MENyc01QOUlubUpMRDB5dGk5VGFNM1J2ODU3M1NfWG93WUc0TDJWdlNpVi14MzdjU09qMnBGYmdlMDV3MzVlazZyS2FVNHgxeGtpMG1xbFhIMzEySTRCeURuSUlwWm1MSXQxRWN2ejJ0anc0cEdlbHZDQ0RkU1RVRUVpMHVSTlg2RDFCY21fV1Z1UGpzVEZhVXAwQ3k5ckJzZ1dEVzZhYzlwYkp3ZlRMa09Z0gH0AUFVX3lxTE0yTWtJWWJ2ZDg5NWxieVRqWUlJaVdxX19SX1I5V0FUbzlhUnJqWUR1MTdkZmpteGJ4Ymp4UGNra2JfWFpaM3JiNmFUU212N25ScHRqWmwzTWlLSEtJRW1pSkpLTWNSTk1uUWlQcFRmaE1YamwwOXR4bWRWNll1eVpMcUZMT2xzTWY4cGk0ODNSN01zVzhpeGJ2YVd6WTFFZXpidjJtNFJMUmYwNVVjblRpZHo4MWpyWUdHV0V2Y2lrbDhQT1NTRUV3X1JmZUQ0UEk3d1JURWpIMjh6OXJmZFg4dktEYWVjLWJycUlMX2syWFZSTzk?oc=5",
+     "source": "El Liberal",
+     "published": "2026-07-13T02:54:00+00:00",
+     "id": "ed14ed2e2469"
+    },
+    {
+     "title": "Los Pumas llegaron a Santiago para el duelo frente a Inglaterra",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcEFUY1NVN2tyMVVYcWRRdkNEUG5WRmtXSzFWei1uckVBZy1mNUNuWkFQZkIzRmhyWldJbHFZVWVDX1U4N1l3TzJmZFZnaDZKZlBaR2xMdEV6aGU0eU5FOFl5cWVWT1RNczRTTklhLWszSk5sVENxSnJrbVotdC05U3h5WEhpTm92S2w3ZjBXQURNdEpyODM5THloQ0VETk0yX2VNVGNYZ3JUSGs1SjJmeFNQQQ?oc=5",
+     "source": "Nuevo Diario Web",
+     "published": "2026-07-13T00:29:01+00:00",
+     "id": "25b738c9e6ef"
     },
     {
      "title": "San Lorenzo y Gorosito frente a una semana clave",
@@ -120,13 +151,6 @@
      "id": "a1ff633215e2"
     },
     {
-     "title": "¿San Juan es la casa de Los Pumas? El posteo de la Selección Argentina sobre el partido frente a Gales",
-     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVlRjS1Y0LWpmQ2hkLS03ckpTLTE5UERkZHVtbWpzTkFJdWVzb2t2Y2w3R0VDa0cwdzhEdEF1UDVyWHczVlEyVGxZVG94aXBRNVB2dTZoazdhcTR1aGFJTEVJQk1mSTNFVUNtMHh2dEYyU1F0MlBXUVVvTkRnaHhVNW05YVdJQUhyRm0wejZQWGpvdTh2b3RaaUV4dnFuMkJFbTdVaFVHYXEzcVhuVmJNYmppbGk0bHotZHNfaFZGYV9sb1JxWU5TNDZ4bkJpRzN2elR4dWpCWWZ2Z0pNOWkzb1l6SlFvY1dMdGxIYXkzTUJDWXR5VkM1M05GR0fSAYsCQVVfeXFMTzFnMTRyeHRFREYtbHI4aDNLd1dNNEJDZ185Uk1fWWN3cTJNTkpLVHIyQ21nZ2NFOUp3YUgtRndEWWNiYXJsMHlCbHVGZklhNEdYVDlzM2g3Zko0d1Rra19ZUW1jTHdvYjdHTXdNVXFkZ3ZnRUpJRXdyeGhTWWRZSUlqcXMxdjdqNEdadDFMUmVDZXRNOXNoRGY0U1V0anNrOXoyMTR0alJPdkJ0Zm1Sa0dXX25xOVl4NHNjcWFBbVE0dVhrUDhSU2paYkRkczBSbWlka2o1ME9VS1B3Y1RiSGdmX1I4ZjllN1BQRDZtZ2I2VmFYQ1dZenJNS2wtSVY4ZEI5UldoODBzUHhB?oc=5",
-     "source": "Diario 13 San Juan",
-     "published": "2026-07-12T20:49:43+00:00",
-     "id": "d9d446b8ac52"
-    },
-    {
      "title": "La otra cara del pase a semifinales de la Selección en el Mundial: River pierde a Montiel y Otamendi ante Aldovisi por Copa Argentina",
      "link": "https://www.ole.com.ar/river-plate/river-seleccion-mundial-otamendi-montiel-copa-argentina-aldosivi_0_9njptOkGv5.html",
      "source": "Olé — River",
@@ -136,11 +160,11 @@
     },
     {
      "title": "El Racing que piensa Vojvoda: las diferencias tácticas y de nombres con el de Costas",
-     "link": "https://www.ole.com.ar/racing/racing-vojvoda-defensa_0_fwKq2GIwiQ.html",
+     "link": "https://www.ole.com.ar/racing/racing-vojvoda-defensa-costas-academia-tacticas_0_fwKq2GIwiQ.html",
      "source": "Olé — Primera",
      "published": "2026-07-12T18:37:32+00:00",
      "copete": "El técnico ya tiene a la formación en su cabeza para el partido del jueves ante Defensa y Justicia, por la Copa Argentina. Habrá cambios de dibujo y de intérpretes de inicio.",
-     "id": "921be56bcbb3"
+     "id": "a255461a6372"
     },
     {
      "title": "Tato Montes sobre Armani: \"Es el arquero más grande de la historia de River\"",
@@ -198,6 +222,43 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Weekly Entering & Transitioning - Thread 13 Jul, 2026 - 20 Jul, 2026",
+     "link": "https://www.reddit.com/r/datascience/comments/1uv0spu/weekly_entering_transitioning_thread_13_jul_2026/",
+     "source": "r/datascience",
+     "published": "2026-07-13T04:01:11+00:00",
+     "id": "5905847fd922"
+    },
+    {
+     "title": "Ask HN: Add flag for AI-generated articles",
+     "link": "https://news.ycombinator.com/item?id=48886741",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-13T01:24:20+00:00",
+     "id": "7b684d5de28d"
+    },
+    {
+     "title": "Directly Responsible Individuals (DRI)",
+     "link": "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything",
+     "source": "Simon Willison (IA)",
+     "published": "2026-07-12T23:57:14+00:00",
+     "copete": "Directly Responsible Individuals (DRI) I went looking for a definition of \"Directly Responsible Individuals\" and the best I found was in the GitLab handbook. Apparently the term originated at Apple, where it's used to describe the person…",
+     "id": "06045cdb41d1"
+    },
+    {
+     "title": "shot-scraper 1.11",
+     "link": "https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything",
+     "source": "Simon Willison (IA)",
+     "published": "2026-07-12T23:46:52+00:00",
+     "copete": "Release: shot-scraper 1.11 Some minor improvements, mainly around command option consistency and making the server: mechanism used by both shot-scraper video and shot-scraper multi work if the server takes longer than a second to start…",
+     "id": "4efac0ca1a09"
+    },
+    {
+     "title": "Cyberpunk Comics, Manga and Graphic Novels",
+     "link": "https://shellzine.net/cyberpunk-comics/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-12T22:45:31+00:00",
+     "id": "e3bea4011af6"
+    },
+    {
      "title": "Fable gets another bump",
      "link": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
      "source": "Simon Willison (IA)",
@@ -213,33 +274,11 @@
      "id": "456fab87114b"
     },
     {
-     "title": "sqlite-utils 4.1.1",
-     "link": "https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything",
-     "source": "Simon Willison (IA)",
-     "published": "2026-07-12T20:55:30+00:00",
-     "copete": "Release: sqlite-utils 4.1.1 table.transform() now raises a TransactionError if called while a transaction is open with PRAGMAforeign_keys enabled and the table is referenced by foreign keys with destructive ON DELETE actions - CASCADE …",
-     "id": "a88663736fbe"
-    },
-    {
      "title": "Tiny Emulators",
      "link": "https://floooh.github.io/tiny8bit-preview/index.html",
      "source": "Hacker News (100+ puntos)",
      "published": "2026-07-12T20:23:05+00:00",
      "id": "a06dbfcb029f"
-    },
-    {
-     "title": "Irish datacenters now guzzle 23% of the country's electricity",
-     "link": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-12T20:16:12+00:00",
-     "id": "719bb3f251db"
-    },
-    {
-     "title": "I love LLMs, I hate hype",
-     "link": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-12T18:31:56+00:00",
-     "id": "dd2c6d143ed1"
     },
     {
      "title": "RAG vs Fine-Tuning Explained: What They Actually Do and When to Use Each",
@@ -256,21 +295,6 @@
      "published": "2026-07-12T13:00:00+00:00",
      "copete": "Run 100+ agents in parallel The post How to Orchestrate 100+ Agents With Claude Code appeared first on Towards Data Science .",
      "id": "6ba0f9b2e08e"
-    },
-    {
-     "title": "sqlite-utils 4.1",
-     "link": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything",
-     "source": "Simon Willison (IA)",
-     "published": "2026-07-11T23:50:20+00:00",
-     "copete": "Release: sqlite-utils 4.1 The first dot-release since 4.0 a few days ago , introducing a number of minor new features. sqlite-utils insert and sqlite-utils upsert now accept a --code option for providing a block of Python code (or a path…",
-     "id": "03499c68059e"
-    },
-    {
-     "title": "Snowflake Python question about StandardScaler function",
-     "link": "https://www.reddit.com/r/datascience/comments/1utuz6o/snowflake_python_question_about_standardscaler/",
-     "source": "r/datascience",
-     "published": "2026-07-11T20:36:24+00:00",
-     "id": "438dc646c229"
     }
    ]
   },
@@ -280,100 +304,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "El petróleo sube más de 3% tras la reanudación de los ataques de EEUU contra Irán y la amenaza de cierre del estrecho de Ormuz",
-     "link": "https://www.infobae.com/economia/2026/07/12/el-petroleo-sube-mas-de-3-tras-la-reanudacion-de-los-ataques-de-eeuu-contra-iran-y-la-amenaza-de-cierre-del-estrecho-de-ormuz/",
+     "title": "Hombre que violó y prendió fuego a una mujer en El Salvador recibe 25 años de cárcel",
+     "link": "https://www.infobae.com/el-salvador/2026/07/13/hombre-que-violo-y-prendio-fuego-a-una-mujer-en-el-salvador-recibe-25-anos-de-carcel/",
      "source": "Infobae",
-     "published": "2026-07-12T23:09:01+00:00",
-     "copete": "La quinta ronda de bombardeos estadounidenses sobre posiciones iraníes derrumbó el frágil cese del fuego y sacudió los mercados energéticos globales antes de la apertura en Asia",
-     "id": "43592336b4be"
+     "published": "2026-07-13T04:02:08+00:00",
+     "copete": "La sentencia detalla que una sobreviviente pasó más de un mes hospitalizada tras sufrir quemaduras graves y lesiones compatibles con abuso sexual, en un caso donde una acompañante logró intervenir a tiempo",
+     "id": "ac46a9ab71bf"
     },
     {
-     "title": "Patrullaje en la zona especial marina del parque panameño de Coiba detecta embarcaciones que faenaban sin autorización",
-     "link": "https://www.infobae.com/panama/2026/07/12/patrullaje-en-la-zona-especial-marina-del-parque-panameno-de-coiba-detecta-embarcaciones-que-faenaban-sin-autorizacion/",
+     "title": "Cambiar cinco hábitos podría mejorar la salud cerebral: el mayor estudio en América Latina aporta una prueba clave",
+     "link": "https://www.lanacion.com.ar/sociedad/cambiar-cinco-habitos-podria-mejorar-la-salud-cerebral-el-mayor-estudio-en-latinoamerica-aporta-una-nid13072026/",
+     "source": "La Nación",
+     "published": "2026-07-13T04:01:00+00:00",
+     "copete": "Liderado por la argentina Lucía Crivelli, siguió a 1065 personas de 11 países y mostró que una intervención multidominio mejoró la función cognitiva un 55% más que las recomendaciones generales",
+     "id": "d947c6d62b53"
+    },
+    {
+     "title": "Un estudio científico latinoamericano revela nuevas claves para proteger la salud cerebral",
+     "link": "https://www.infobae.com/salud/ciencia/2026/07/13/un-estudio-latinoamericano-revela-nuevas-claves-para-proteger-la-salud-cerebral/",
      "source": "Infobae",
-     "published": "2026-07-12T23:08:12+00:00",
-     "copete": "Se inspeccionaron tres embarcaciones pesqueras y a quienes estaban a bordo de un yate se les ordenó abandonar el área",
-     "id": "d4c4c0af595c"
+     "published": "2026-07-13T04:01:00+00:00",
+     "copete": "LatAm-FINGERS presenta hoy sus resultados en Londres: una intervención multidominio, estructurada y culturalmente adaptada, logró mejoras cognitivas un 55% superiores a las observadas con recomendaciones generales en adultos mayores en…",
+     "id": "dc37452a80b8"
     },
     {
-     "title": "Ciudadanía por nacimiento: qué pasará con el hospital de Texas que Abbott investiga por “turismo de maternidad”",
-     "link": "https://www.lanacion.com.ar/estados-unidos/texas/ciudadania-por-nacimiento-que-pasara-con-el-hospital-de-texas-que-abbott-investiga-por-turismo-de-nid12072026/",
-     "source": "La Nación",
-     "published": "2026-07-12T23:08:00+00:00",
-     "copete": "Conoce por qué Greg Abbott ordenó investigar a un hospital de Texas acusado de promover turismo de maternidad y qué sanciones podría enfrentar.",
-     "id": "cf3ba6e47cae"
-    },
-    {
-     "title": "El precio del gas presiona a la industria argentina, mientras recrudece el conflicto en el Golfo Pérsico",
-     "link": "https://www.infobae.com/economia/2026/07/12/el-precio-del-gnl-presiona-a-la-industria-argentina-mientras-recrudece-el-conflicto-en-el-golfo-persico/",
+     "title": "Lucía Crivelli: “Ahora tenemos evidencia generada en América Latina de que se puede prevenir el deterioro cognitivo”",
+     "link": "https://www.infobae.com/salud/ciencia/2026/07/13/lucia-crivelli-ahora-tenemos-evidencia-generada-en-america-latina-de-que-se-puede-prevenir-el-deterioro-cognitivo/",
      "source": "Infobae",
-     "published": "2026-07-12T23:06:17+00:00",
-     "copete": "La situación le pone piso al valor del GNL que se importa en invierno. El clima agudiza el problema. El cese del fuego colapsó. Según observaciones satelitales y otras fuentes del Banco Mundial, en 2025 el país por primera vez menguó la…",
-     "id": "cc0e2197a2a2"
+     "published": "2026-07-13T04:01:00+00:00",
+     "copete": "La neuropsicóloga argentina, investigadora y líder regional del proyecto LatAm-FINGERS explica por qué el estudio publicado en The Lancet marca un hito científico para la región. Además, cómo demuestra que una intervención accesible, no…",
+     "id": "e1167d0a0c34"
     },
     {
-     "title": "Panamá: interceptan embarcación con 571 paquetes de presunta droga en el Pacífico",
-     "link": "https://www.infobae.com/panama/2026/07/12/panama-interceptan-embarcacion-con-571-paquetes-de-presunta-droga-en-el-pacifico/",
+     "title": "Detrás de la épica aventura de Christopher Nolan en seis países para llevar “La Odisea” a la gran pantalla",
+     "link": "https://www.infobae.com/cultura/2026/07/13/detras-de-la-epica-aventura-de-christopher-nolan-en-seis-paises-para-llevar-la-odisea-a-la-gran-pantalla/",
      "source": "Infobae",
-     "published": "2026-07-12T23:03:10+00:00",
-     "copete": "El operativo se realizó al sur de Punta Coco, donde la fiscalía y el Senan localizaron 20 bultos ocultos en la nave y detuvieron a tres tripulantes durante la inspección marítima",
-     "id": "7cc0e4cd45ff"
+     "published": "2026-07-13T04:00:00+00:00",
+     "copete": "La adaptación del icónico libro llega a salas con una producción de 91 días, barcos reales en mar abierto y un enfoque de realismo para un relato de 3.000 años",
+     "id": "80410be65874"
     },
     {
-     "title": "Capturaron a un hombre con 18 paquetes grandes de marihuana durante un operativo en San Salvador",
-     "link": "https://www.infobae.com/el-salvador/2026/07/12/capturaron-a-un-hombre-con-18-paquetes-grandes-de-marihuana-durante-un-operativo-en-san-salvador/",
+     "title": "Tras una persecución a pie, captura a un presunto integrante de la MS-13 en Guatemala",
+     "link": "https://www.infobae.com/guatemala/2026/07/13/tras-una-persecucion-a-pie-captura-a-un-presunto-integrante-de-la-ms-13-en-guatemala/",
      "source": "Infobae",
-     "published": "2026-07-12T23:01:13+00:00",
-     "copete": "La Policía y la Fuerza Armada identificaron al detenido como Kevin Josué Galeas Franco, de 24 años, con varios paquetes de droga en la capital por lo que será acusado de tráfico ilícito",
-     "id": "696b0db6ffe0"
+     "published": "2026-07-13T03:59:30+00:00",
+     "copete": "Fuerzas Especiales de Policía lo ubicaron durante un patrullaje y lo interceptaron a los pocos minutos, en medio de la alarma de residentes, mientras se abre una pesquisa por actividades ilícitas en el municipio",
+     "id": "e49f430cc79f"
     },
     {
-     "title": "Se vendió el famoso terreno ubicado en la esquina de Santa Fe y Pueyrredón, en pleno Barrio Norte",
-     "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/se-vendio-el-famoso-terreno-ubicado-en-la-esquina-de-santa-fe-y-pueyrredon-en-pleno-barrio-norte-nid06072026/",
+     "title": "Javier Milei y sus medidas, en vivo: se reactiva la agenda parlamentaria y empiezan a delimitarse las elecciones 2027",
+     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-se-reactiva-la-agenda-parlamentaria-y-empiezan-a-delimitarse-las-nid13072026/",
      "source": "La Nación",
-     "published": "2026-07-12T23:01:05+00:00",
-     "copete": "Sobre el predio está construido el acceso a la estación Santa Fe–Carlos Jáuregui de la Línea H de subte",
-     "id": "7f24c9a421fd"
+     "published": "2026-07-13T03:54:00+00:00",
+     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+     "id": "a6ec413fc86b"
     },
     {
-     "title": "Atención, choferes de Uber en California: la nueva ley firmada por Newsom que cambia lo que pasa al sufrir un choque",
-     "link": "https://www.lanacion.com.ar/estados-unidos/california/atencion-choferes-de-uber-en-california-la-nueva-ley-firmada-por-newsom-que-cambia-lo-que-pasa-al-nid12072026/",
+     "title": "Mundial 2026, en vivo: Francia y España se preparan para abrir los cruces de semifinales",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-en-vivo-francia-y-espana-se-preparan-para-abrir-los-cruces-de-semifinales-nid13072026/",
      "source": "La Nación",
-     "published": "2026-07-12T23:01:00+00:00",
-     "copete": "¿Qué cambia para los choferes de Uber en California? Descubre el impacto de la ley SB 623 que firmó Newsom y los cambios tras un choque.",
-     "id": "1a0bbed676b6"
+     "published": "2026-07-13T03:34:20+00:00",
+     "copete": "Las últimas noticias de la selección argentina, declaraciones de los jugadores y entrenadores y reacciones sobre los partidos",
+     "id": "8691f4239023"
     },
     {
-     "title": "Así está la tabla de precios de la construcción en julio 2026",
-     "link": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/asi-esta-la-tabla-de-precios-de-la-construccion-en-julio-2026-nid08072026/",
+     "title": "La embajada de Francia en Argentina declaró “persona no grata” a la vicegobernadora de Mendoza",
+     "link": "https://www.lanacion.com.ar/el-mundo/la-embajada-de-francia-en-argentina-declaro-persona-no-grata-a-la-vicegobernadora-de-mendoza-nid12072026/",
      "source": "La Nación",
-     "published": "2026-07-12T23:00:14+00:00",
-     "copete": "Cuáles son y cuánto cuestan los valores de los materiales imprescindibles para una obra de construcción tradicional",
-     "id": "34fdba9088e4"
+     "published": "2026-07-13T03:31:35+00:00",
+     "copete": "Hebe Casado no podrá participar en ninguna reunión de cooperación con esa provincia en la que ella esté presente, salvo que se retracte de sus polémicas declaraciones",
+     "id": "4208fbb22c4b"
     },
     {
-     "title": "Dengue: tras un inesperado aumento de casos y ante la amenaza de El Niño, buscan intensificar la prevención",
-     "link": "https://www.lanacion.com.ar/sociedad/dengue-tras-un-inesperado-aumento-de-casos-buscan-intensificar-la-prevencion-ante-la-amenaza-de-el-nid12072026/",
+     "title": "Argentina-Inglaterra: alerta máxima para el partido de semifinal del Mundial en Atlanta",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/argentina-inglaterra-alerta-maxima-para-el-partido-de-semifinal-del-mundial-en-atlanta-nid12072026/",
      "source": "La Nación",
-     "published": "2026-07-12T23:00:01+00:00",
-     "copete": "Nuevas notificaciones del norte y el centro del país junto con la previsión climática configuran un escenario de riesgo, que puso en alerta de las autoridades",
-     "id": "5e953cb1ee18"
+     "published": "2026-07-13T03:31:30+00:00",
+     "copete": "La selección se enfrentará al equipo que dirige el alemán Thomas Tuchel por el pase a la final de la Copa del Mundial; anticipan un amplio operativo de seguridad",
+     "id": "212bb03be516"
     },
     {
-     "title": "Marcelo Bielsa ya tiene reemplazante en Uruguay: Diego Forlán agarra la dirección técnica de la Celeste",
-     "link": "https://www.clarin.com/deportes/marcelo-bielsa-reemplazante-uruguay-diego-forlan-agarra-direccion-tecnica-celeste_0_kM9UuPy4JT.html",
+     "title": "Clima hoy en Tartagal, Salta: el pronóstico del tiempo para este lunes 13 julio de 2026",
+     "link": "https://www.clarin.com/informacion-general/clima-hoy-tartagal-salta-pronostico-tiempo-lunes-13-julio-2026_0_JUZtpK7eXA.html",
      "source": "Clarín",
-     "published": "2026-07-12T22:22:19+00:00",
-     "copete": "Después de la durísima eliminación de la Celeste en la fase de grupos de la Copa del Mundo, Cachavacha agarrará el fierro caliente hasta marzo. Lo confirmó Ignacio Alonso, presidente de la AUF: \"Lo elige el comité ejecutivo. Hace bastante…",
-     "id": "aa0512728715"
+     "published": "2026-07-13T03:23:50+00:00",
+     "copete": "El SMN anticipa para este lunes temperaturas entre 13°C y 22°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+     "id": "90a62db61a8a"
     },
     {
-     "title": "Causa Cuadernos: el arrepentido que hace temblar a Cristina Kirchner",
-     "link": "https://www.clarin.com/politica/causa-cuadernos-arrepentido-hace-temblar-cristina-kirchner_0_c00NyJZ3hL.html",
+     "title": "Clima hoy en Talampaya, La Rioja: el pronóstico del tiempo para este lunes 13 julio de 2026",
+     "link": "https://www.clarin.com/informacion-general/clima-hoy-talampaya-rioja-pronostico-tiempo-lunes-13-julio-2026_0_WjpI3s8ovB.html",
      "source": "Clarín",
-     "published": "2026-07-12T22:21:01+00:00",
-     "copete": "Casación le otorgó la prisión domiciliaria a Claudio Uberti, que habia pedido salir de la cárcel porque estaba amenazado. Tras la feria de julio, va a declarar y anticipó que contará más detalles que pueden complicar a la ex presidenta.",
-     "id": "7d068530a930"
+     "published": "2026-07-13T03:23:49+00:00",
+     "copete": "El SMN anticipa para este lunes temperaturas entre 4°C y 24°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+     "id": "15430b14f84c"
     }
    ]
   },
@@ -386,81 +410,81 @@
      "title": "Así te lo contamos: Argentina vence a Suiza y peleará con Inglaterra por un puesto en la final del Mundial",
      "link": "https://www.bbc.co.uk/mundo/live/ce8mr7erz6qt?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-12T23:13:03.708687+00:00",
+     "published": "2026-07-13T04:06:13.512294+00:00",
      "copete": "La Albiceleste de Messi se impuso 3-1 frente a Suiza en los últimos minutos de la prórroga. El miércoles jugará contra Inglaterra por un puesto en la final del Mundial 2026.",
      "id": "7f3371b2a8ec"
     },
     {
-     "title": "At least 27 killed in Bangkok bar fire",
+     "title": "Europa vuelve a arrastrar los pies en las sanciones a Israel por la masacre en Gaza y Cisjordania",
+     "link": "https://elpais.com/internacional/2026-07-13/europa-vuelve-a-arrastrar-los-pies-en-las-sanciones-a-israel-por-la-masacre-en-gaza-y-cisjordania.html",
+     "source": "El País Internacional",
+     "published": "2026-07-13T03:40:00+00:00",
+     "copete": "Los ministros de Exteriores analizan este lunes “opciones” para prohibir el comercio con los asentamientos ilegales de colonos, pero una decisión concreta se ve lejana",
+     "id": "5a74977530d6"
+    },
+    {
+     "title": "Nueve meses de falsa tregua en Gaza: 1.100 palestinos muertos y una crisis humanitaria sin fin",
+     "link": "https://elpais.com/internacional/2026-07-13/nueve-meses-de-falsa-tregua-en-gaza-1100-palestinos-muertos-y-una-crisis-humanitaria-sin-fin.html",
+     "source": "El País Internacional",
+     "published": "2026-07-13T03:40:00+00:00",
+     "copete": "Israel extiende la ocupación y boicotea el acuerdo de alto el fuego, mientras la población malvive en condiciones insalubres",
+     "id": "8aadd242a62e"
+    },
+    {
+     "title": "Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su huella en la historia",
+     "link": "https://elpais.com/internacional/2026-07-13/dentro-de-la-casa-blanca-asi-ejerce-trump-un-poder-desenfrenado-para-dejar-su-huella-en-la-historia.html",
+     "source": "El País Internacional",
+     "published": "2026-07-13T03:40:00+00:00",
+     "copete": "‘Cambio de régimen’, un libro escrito por dos periodistas de ‘The New York Times’, desvela interioridades de la Administración estadounidense en el segundo mandato del magnate neoyorquino",
+     "id": "2a1a3a7b98e5"
+    },
+    {
+     "title": "La debilidad de Farage pone en cuestión el auge de la ultraderecha en el Reino Unido",
+     "link": "https://elpais.com/internacional/2026-07-13/la-debilidad-de-farage-pone-en-cuestion-el-auge-de-la-ultraderecha-en-el-reino-unido.html",
+     "source": "El País Internacional",
+     "published": "2026-07-13T03:40:00+00:00",
+     "copete": "El popular político, señalado por sus escándalos financieros, ha sido clave para dar un manto de respetabilidad democrática a Reform UK",
+     "id": "06f721fe7b4a"
+    },
+    {
+     "title": "Las personas que se mudan de Occidente a Rusia en busca de valores tradicionales (y la realidad que encuentran)",
+     "link": "https://www.bbc.com/mundo/articles/cwykjylv1xdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-13T03:37:44+00:00",
+     "copete": "La BBC preguntó a los occidentales que se mudaron a Rusia si la vida allí cumple con sus expectativas.",
+     "id": "9eb42990fafd"
+    },
+    {
+     "title": "At least 27 killed, eight critically injured in Bangkok bar fire",
      "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-07-12T22:57:20+00:00",
+     "published": "2026-07-13T02:28:35+00:00",
      "copete": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
      "id": "87ad06d2b73e"
     },
     {
-     "title": "Estados Unidos afirma que sus fuerzas están “preparadas y posicionadas” para defender el estrecho de Ormuz",
-     "link": "https://elpais.com/internacional/2026-07-12/estados-unidos-afirma-que-sus-fuerzas-estan-preparadas-y-posicionadas-para-defender-el-estrecho-de-ormuz.html",
-     "source": "El País Internacional",
-     "published": "2026-07-12T22:55:33+00:00",
-     "copete": "Trump asegura que el paso marítimo está abierto y Teherán insiste en que lo ha bloqueado, mientras ambas partes reanudan los intercambios de fuego por cuarto día en una semana",
-     "id": "e1b29f943523"
-    },
-    {
-     "title": "Muere el senador republicano Lindsey Graham, fiel aliado de Trump",
-     "link": "https://elpais.com/internacional/2026-07-12/muere-el-senador-republicano-lindsey-graham-fiel-aliado-de-trump.html",
-     "source": "El País Internacional",
-     "published": "2026-07-12T22:41:59+00:00",
-     "copete": "El legislador estadounidense, que pasó de ser un crítico acérrimo del mandatario a colaborar con él, era un defensor declarado de la ayuda a Ucrania y acababa de regresar de Kiev",
-     "id": "3687b5528f49"
-    },
-    {
-     "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-     "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+     "title": "How Indian scientists are mapping the brain's last frontier",
+     "link": "https://www.bbc.co.uk/news/articles/cg53l737v1qo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-07-12T22:17:40+00:00",
-     "copete": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
-     "id": "f1a444987dbd"
+     "published": "2026-07-13T00:08:11+00:00",
+     "copete": "India's new brainstem atlas offers scientists an unprecedented map of one of the brain's least known regions.",
+     "id": "5de38881af7b"
     },
     {
-     "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-     "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+     "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
+     "link": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-07-12T22:08:07+00:00",
-     "copete": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
-     "id": "8ae6e20b0fee"
+     "published": "2026-07-13T00:07:00+00:00",
+     "copete": "Michael Steranka, vice president at the mobile game's owner Scopely, says it has always been about bringing people together.",
+     "id": "d32ac9552b7c"
     },
     {
-     "title": "EE. UU. asegura que el estrecho de Ormuz está abierto mientras intercambia ataques con Irán",
-     "link": "https://www.bbc.com/mundo/articles/cz9ldgp9471o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-12T21:46:02+00:00",
-     "copete": "Las acciones se producen tras el ataque contra un buque de bandera chipriota que navegaba por esa importante ruta comercial.",
-     "id": "a3e64fd71092"
-    },
-    {
-     "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
-     "link": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+     "title": "The Chinese graduate accused of being Mexico's 'fentanyl king'",
+     "link": "https://www.bbc.co.uk/news/articles/c39ymggglxeo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-07-12T19:42:26+00:00",
-     "copete": "The senator's career was marked by a willingness to adapt to America's dramatically changing political climate, writes the BBC's North America correspondent.",
-     "id": "e1f2c6e00fa4"
-    },
-    {
-     "title": "La policía británica detiene a un nuevo sospechoso del asesinato de la política conservadora Ann Widdecombe",
-     "link": "https://elpais.com/internacional/2026-07-12/la-policia-britanica-detiene-a-un-nuevo-sospechoso-del-asesinato-de-la-politica-conservadora-ann-widdecombe.html",
-     "source": "El País Internacional",
-     "published": "2026-07-12T16:38:22+00:00",
-     "copete": "El arrestado es un hombre de 28 años, localizado a más de 400 kilómetros del lugar del crimen",
-     "id": "ab42ad977a8a"
-    },
-    {
-     "title": "Muere el senador estadounidense Lindsey Graham, estrecho aliado de Trump, tras una \"breve y repentina enfermedad\"",
-     "link": "https://www.bbc.com/mundo/articles/ckg8rz3eee8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-12T15:56:33+00:00",
-     "copete": "El presidente republicano rindió homenaje al senador de Carolina del Sur, de 71 años, calificándolo de \"verdadero patriota\" al que \"se echará mucho de menos\".",
-     "id": "8c7b984dac40"
+     "published": "2026-07-13T00:05:46+00:00",
+     "copete": "Cartel members and ex-colleagues describe how Zhang Zhidong allegedly linked Chinese chemicals to Mexican drug labs.",
+     "id": "355c5c54b9fc"
     }
    ]
   }
@@ -470,11 +494,6 @@
    "section": "cardiologia",
    "feed": "Cardiology Trials",
    "error": "HTTP Error 403: Forbidden"
-  },
-  {
-   "section": "cardiologia",
-   "feed": "Circulation (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "section": "cardiologia",

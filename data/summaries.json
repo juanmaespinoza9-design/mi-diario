@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-13T22:05:11Z",
+  "generated_at": "2026-07-14T10:06:00Z",
   "summaries": {
-    "60e696df5693": {
-      "resumen": "Ítem de TCTMD indexado por Google News cuyo título capturado ('Log in - TCTMD.com') corresponde a una pantalla de acceso del sitio, no al contenido real de la nota. Como ya pasó con notas anteriores de esta fuente, no se pudo determinar el tema de fondo sin sortear el muro de acceso, así que queda sin resumen sustantivo por ahora.",
+    "5a39088cfdfe": {
+      "resumen": "Ítem del European Heart Journal cuyo contenido capturado remite a la leyenda de una figura ('For image description, please refer to the figure legend and surrounding text'), lo que sugiere que se trata de un elemento gráfico o de tabla de contenidos —no un artículo completo— sobre estudios epidemiológicos con impacto en la práctica clínica. Sin poder abrir el link ni acceder al texto real, queda sin resumen sustantivo por ahora.",
       "destacado": false
     },
     "595b8460409a": {
@@ -13,10 +13,6 @@
       "resumen": "Estudio del registro SHaRe (Sarcomeric Human Cardiomyopathy Registry), publicado en JACC (Journal of the American College of Cardiology), sobre la evolución natural de pacientes con miocardiopatía hipertrófica (HCM, Hypertrophic Cardiomyopathy) asintomática y de fenotipo leve. Interesa porque ayuda a entender qué pacientes con hipertrofia leve y sin síntomas realmente necesitan seguimiento estrecho, evitando el sobrediagnóstico de una enfermedad genética que muchas veces cursa en forma benigna.",
       "destacado": true,
       "analisis": "Diseño: Por el título se infiere un análisis del registro internacional multicéntrico SHaRe (Sarcomeric Human Cardiomyopathy Registry), de tipo observacional, sin acceso al abstract para precisar el número exacto de centros ni de pacientes incluidos.\nPoblación: Pacientes con miocardiopatía hipertrófica (HCM) de fenotipo leve (hipertrofia ventricular izquierda leve) y sin síntomas al momento de la inclusión, identificados dentro del registro SHaRe.\nIntervención: No aplica una intervención activa: se trata de seguimiento observacional de la historia natural de la enfermedad, sin comparador terapéutico.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Al ser un registro observacional, está sujeto a sesgo de selección (pacientes derivados a centros especializados en miocardiopatías), pérdida de seguimiento variable entre centros, y a la dificultad de definir de manera uniforme qué constituye un fenotipo \"leve\" y \"asintomático\" a lo largo del tiempo.\nMensaje: Ayuda a caracterizar el pronóstico de un subgrupo de pacientes con miocardiopatía hipertrófica que hoy genera dudas de manejo —hipertrofia leve sin síntomas—, información relevante para decidir la frecuencia de controles y el momento de indicar tratamiento.\nNota: análisis sin acceso al abstract."
-    },
-    "4d8b816a7dc7": {
-      "resumen": "Artículo de revisión de European Heart Journal sobre la lipoproteína(a) [Lp(a)], una partícula lipídica de origen genético que eleva el riesgo cardiovascular independientemente del colesterol LDL (lipoproteína de baja densidad) convencional. Repasa por qué se la considera cada vez más protagonista del riesgo lipídico residual —el que persiste pese a tratar el colesterol LDL— y el estado de las terapias dirigidas específicamente contra ella. Interesa porque la medición de Lp(a) y las nuevas drogas en desarrollo están empezando a incorporarse a la práctica clínica.",
-      "destacado": false
     },
     "d0a3314f6237": {
       "resumen": "Artículo de JACC (Journal of the American College of Cardiology) que revisa la evidencia ciega (con procedimiento simulado o control placebo) y no ciega sobre el beneficio sintomático de la angioplastia coronaria percutánea (PCI, Percutaneous Coronary Intervention) en oclusiones coronarias crónicas totales (CTO, Chronic Total Occlusion). Interesa porque distingue qué parte de la mejoría sintomática reportada podría deberse al efecto placebo del procedimiento, un debate central para decidir a quién ofrecer esta intervención técnicamente compleja.",
@@ -42,29 +38,21 @@
       "destacado": false,
       "analisis": "Diseño: Por el título se infiere un estudio (probablemente observacional o un ensayo pequeño) que evalúa la seguridad y utilidad de administrar nitroglicerina sublingual antes de la angiotomografía coronaria (CCTA) de planificación previa al reemplazo valvular aórtico transcatéter (TAVI); sin abstract no se puede precisar el diseño exacto, el número de centros ni de pacientes.\nPoblación: Pacientes con estenosis aórtica severa candidatos a reemplazo valvular aórtico transcatéter (TAVI) que requieren angiotomografía coronaria y de la raíz aórtica para la planificación del procedimiento.\nIntervención: Administración de nitroglicerina sublingual (vasodilatador coronario) previa a la adquisición de la angiotomografía, comparada presumiblemente contra la ausencia de premedicación.\nResultados: No disponibles sin el abstract original; el título sugiere que la intervención resultó segura y \"útil\" (helpful), probablemente en términos de calidad de imagen coronaria.\nLimitaciones: Sin el trabajo completo no se puede evaluar el tamaño muestral, la magnitud del efecto en la calidad de imagen ni los eventos adversos hemodinámicos (como la hipotensión, un riesgo conocido de los nitratos en pacientes con estenosis aórtica severa).\nMensaje: Sugiere que la nitroglicerina sublingual podría incorporarse como premedicación de rutina antes de la angiotomografía en la evaluación pre-TAVI para mejorar la calidad diagnóstica, aunque la cautela hemodinámica sigue siendo relevante en pacientes con estenosis aórtica severa.\nNota: análisis sin acceso al abstract."
     },
+    "55c45db1cb59": {
+      "resumen": "Ítem de TCTMD indexado por Google News cuyo título capturado ('Log in - TCTMD.com') corresponde a una pantalla de acceso del sitio, no al contenido real de la nota. Como ya pasó con notas anteriores de esta fuente, no se pudo determinar el tema de fondo sin sortear el muro de acceso, así que queda sin resumen sustantivo por ahora.",
+      "destacado": false
+    },
+    "5e4ea1c840cb": {
+      "resumen": "Nota de TCTMD sobre el debate para repensar el nombre y la definición de MINOCA (infarto de miocardio con arterias coronarias no obstructivas), una entidad que agrupa cuadros de origen heterogéneo bajo una etiqueta que algunos investigadores consideran confusa para el diagnóstico y el manejo clínico. Interesa porque una clasificación más precisa podría cambiar cómo se estudia y trata a estos pacientes.",
+      "destacado": false
+    },
     "5905847fd922": {
       "resumen": "Hilo semanal fijo del foro r/datascience donde quienes están entrando o haciendo la transición hacia la ciencia de datos hacen preguntas sobre carrera, formación y primeros pasos. Le sirve a un médico que se está formando en análisis de datos como termómetro de las dudas más frecuentes de quienes recién arrancan en el campo, aunque el contenido puntual varía cada semana.",
-      "destacado": false
-    },
-    "5d8808873f51": {
-      "resumen": "Nota de Hacker News (foro de tecnología con sistema de puntaje comunitario) sobre cómo la comunidad de datos abiertos logró preservar la información de Climate.gov después de que el sitio oficial fuera desmantelado. Le sirve a un médico que aprende análisis de datos porque muestra, en la práctica, por qué conviene versionar y espejar los conjuntos de datos públicos que se usan para investigación, ya que el acceso oficial no siempre está garantizado.",
-      "destacado": false
-    },
-    "ac02e42a26cd": {
-      "resumen": "Publicación de Hacker News sobre cómo compilar y publicar aplicaciones para Mac y iOS sin abrir nunca el entorno de desarrollo Xcode, usando herramientas de línea de comandos alternativas. No es contenido de ciencia de datos ni de inteligencia artificial: se incluye porque superó el umbral de popularidad del agregador, más como curiosidad técnica que como material del campo.",
       "destacado": false
     },
     "a8556c282a87": {
       "resumen": "Artículo de Towards Data Science que describe una implementación mínima de RAG agéntico (Agentic RAG, generación aumentada por recuperación donde el propio agente decide cuándo y qué buscar) usando el kit de agentes de OpenAI (OpenAI Agents SDK), convirtiendo la recuperación de información en un ciclo de buscar-leer-decidir. Le sirve a un médico que aprende análisis de datos porque ilustra un patrón cada vez más usado para que un asistente de inteligencia artificial consulte fuentes propias (como historias clínicas o bibliografía) de forma más autónoma que un RAG tradicional.",
       "destacado": true
-    },
-    "ab40e50be5ec": {
-      "resumen": "Nota de Hacker News que compara el desempeño de la nueva interfaz SpeechAnalyzer de Apple contra Whisper (el modelo de reconocimiento de voz de OpenAI) y su predecesor. Le sirve a un médico que aprende análisis de datos porque este tipo de comparaciones de precisión entre modelos de transcripción automática de voz es relevante para evaluar herramientas de documentación clínica asistida.",
-      "destacado": false
-    },
-    "8502906fe216": {
-      "resumen": "Nota de Hacker News sobre la decisión de la policía de Los Ángeles (LAPD) de no renovar su contrato con Flock, una empresa de cámaras con reconocimiento automático de patentes, por preocupaciones de vigilancia y privacidad civil. Le sirve a un médico que aprende análisis de datos como ejemplo de los límites éticos y regulatorios que empiezan a ponerse a los sistemas de inteligencia artificial aplicados a la vigilancia masiva.",
-      "destacado": false
     },
     "0aa4d5d7d4cb": {
       "resumen": "Artículo de Towards Data Science sobre el 'context rot' o deterioro del contexto en sesiones largas de Claude Code, la herramienta de programación asistida por inteligencia artificial, y cómo gestionarlo antes de llegar al límite de tokens. Le sirve a un médico que aprende análisis de datos y usa este tipo de asistentes a diario para entender por qué conviene cortar o resumir sesiones largas de trabajo con IA para mantener la calidad de las respuestas.",
@@ -82,14 +70,33 @@
       "resumen": "Artículo de KDnuggets con cinco proyectos concretos de SQL (lenguaje de consulta estructurado) para armar un portfolio de datos, que incluyen abandono de clientes, almacenamiento de datos, análisis de ventas, segmentación bancaria y analítica en salud. Le sirve a un médico que aprende análisis de datos porque el proyecto de analítica en salud es directamente aplicable a su especialidad y el resto son buenos ejercicios prácticos para afianzar SQL.",
       "destacado": false
     },
-    "823138c6003b": {
-      "resumen": "La info sobre día y horario del próximo cruce de Los Pumas frente a Inglaterra por el Nations Championship 2026."
+    "ce449ffedfd5": {
+      "resumen": "Nota breve de Simon Willison (referente en inteligencia artificial aplicada y herramientas de desarrollo) con una receta para usar uvx —el ejecutor de herramientas de Python del proyecto uv— dentro de GitHub Actions sin romper el cache, fijando una variable de entorno que evita bajar versiones más nuevas que una fecha determinada. Le sirve a un médico que aprende análisis de datos porque es un truco concreto para automatizar tareas con Python en flujos de integración continua sin perder tiempo ni reproducibilidad.",
+      "destacado": false
     },
-    "efa801919fbd": {
-      "resumen": "Santiago del Estero vive una semana a pura ilusión por la llegada de Los Pumas a la provincia."
+    "0c061fa391a6": {
+      "resumen": "Nota de Simon Willison sobre DOOMQL, un proyecto experimental de Peter Gostev construido con el modelo GPT-5.6 que usa SQLite (una base de datos liviana) como motor de un videojuego, en lugar de usarla solo para guardar datos. Le sirve a un médico que aprende análisis de datos como ejemplo llamativo de hasta dónde se puede estirar una herramienta de bases de datos cotidiana cuando se combina con un modelo de lenguaje generador de código.",
+      "destacado": false
     },
-    "84a7fde351a5": {
-      "resumen": "Los Pumas no se movieron de su posición en el ranking mundial de rugby que elabora World Rugby."
+    "7a715de2fcdd": {
+      "resumen": "Nota de Simon Willison que usa el gráfico de 'code frequency' (frecuencia de cambios de código) de GitHub para ilustrar, con datos propios, el impacto que tuvieron los agentes de programación asistidos por inteligencia artificial y modelos como Opus 4.5 en su producción personal de código. Le sirve a un médico que aprende análisis de datos como ejemplo simple de usar métricas ya disponibles de una plataforma para medir un cambio de productividad, sin armar un sistema de medición desde cero.",
+      "destacado": false
+    },
+    "438dc646c229": {
+      "resumen": "Pregunta técnica publicada en el foro r/datascience sobre cómo aplicar la función StandardScaler (que normaliza variables numéricas restando la media y dividiendo por el desvío estándar) dentro de Snowflake usando Python. Le sirve a un médico que aprende análisis de datos porque StandardScaler es un paso habitual de preprocesamiento antes de entrenar modelos, y ver cómo se resuelve en un entorno de datos en la nube como Snowflake es útil para quien recién arranca.",
+      "destacado": false
+    },
+    "d902d44ed639": {
+      "resumen": "Con la previa del cruce entre Los Pumas e Inglaterra, se calienta la previa con apuestas cruzadas entre jugadores argentinos y sus excompañeros ingleses de clubes."
+    },
+    "911aadcee5d6": {
+      "resumen": "Antes de enfrentar a Inglaterra en Santiago del Estero, la delegación de Los Pumas visitó a Quimsa, el club de básquet emblema de la provincia."
+    },
+    "aa977038a2a6": {
+      "resumen": "Los Pumas completan su preparación en Santiago del Estero de cara al partido por el Nations Championship ante Inglaterra."
+    },
+    "358de9e8e944": {
+      "resumen": "Carta de un lector publicada en Clarín que reclama reglas parejas y sin excepciones para la organización del Mundial."
     }
   }
 }

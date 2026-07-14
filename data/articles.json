@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-14T06:30:51.917981+00:00",
+ "generated_at": "2026-07-14T10:13:25.857494+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -89,6 +89,13 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Los Pumas iniciaron la puesta a punto en Santiago pensando en Inglaterra",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd3NHQUVKUmR6ZFY5akk2a0Q3bjI5LWxxT0JxTFdYTFVoRFowUmNZYk4wNFAtZFk1cXlSN3FCU3FBd1NTbS1mampSelRhM1R5TXZQREJMUVRVRXZRN01QdUo4X3hVbWxxZ3JWc0hoLWhoRU5TYm9FQWlNT2dlVngydHZwZTRua1RkdzNsRVpRRnVUUVpqY2VlaDBFZTU4c1c1UkZKQnFPVDJBa2JvYUJFS2JxZm1Hdw?oc=5",
+     "source": "Nuevo Diario Web",
+     "published": "2026-07-14T05:15:00+00:00",
+     "id": "b921609629a0"
+    },
+    {
      "title": "San Lorenzo puede perder a otro titular: Alexis Cuello cerca de México",
      "link": "https://www.ole.com.ar/san-lorenzo/sanlorenzo-cuello-mexico-monterrey_0_O5EgPKS0lE.html",
      "source": "Olé — Primera",
@@ -133,13 +140,6 @@
      "published": "2026-07-13T23:04:10+00:00",
      "copete": "El delantero no viajará con el plantel de Tigres a Tijuana para el debut en el Apertura 2026 ante Xolos, señal clara de su posible salida hacia el equipo de Núñez.",
      "id": "0a42635ed99c"
-    },
-    {
-     "title": "Los Pumas entrenan en Santiago del Estero para el Nations Championship",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWnp0YlhlR18weTJBQ2tNWXlPbWZCTzdCbzM3bkxxSEhQRzN5c2lCVnhiVl91ankwdVRQcllwZ0ZsOWltYXNta1dlSi1oVUxBVV90Y0luNHJ0c0Q5VW9TWnVTbERLOU5MMVFtaEtMWF9jSXFEN0RHUWNEUVVNUnE3WUFleGhpNU5lSU5RMlE4cmwzU1hZUTZiNVRNZFRUbU92UVBqVQ?oc=5",
-     "source": "MejorInformado",
-     "published": "2026-07-13T22:46:18+00:00",
-     "id": "aa977038a2a6"
     },
     {
      "title": "El elogio de Armani a Beltrán en su despedida y la reacción del juvenil en las redes",
@@ -197,6 +197,34 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+     "link": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-14T08:34:57+00:00",
+     "id": "125bfcce5cdb"
+    },
+    {
+     "title": "YouTrackDB is a general-use object-oriented graph database",
+     "link": "https://github.com/JetBrains/youtrackdb",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-14T03:39:55+00:00",
+     "id": "1737b8f3486a"
+    },
+    {
+     "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+     "link": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-14T02:27:20+00:00",
+     "id": "b5aa6b124406"
+    },
+    {
+     "title": "Fundamentals of Wireless Communication (2005)",
+     "link": "https://web.stanford.edu/~dntse/wireless_book.html",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-14T02:10:19+00:00",
+     "id": "c8b46ce139a2"
+    },
+    {
      "title": "Using uvx in GitHub Actions in a cache-friendly way",
      "link": "https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything",
      "source": "Simon Willison (IA)",
@@ -243,36 +271,6 @@
      "published": "2026-07-13T14:00:03+00:00",
      "copete": "Outlines is an open-source library that introduces deterministic certainty into LLMs' output generation process for better, more reliable generation of structured outputs.",
      "id": "4d5516552699"
-    },
-    {
-     "title": "Building Models in Two Worlds: From Latent Constructs to Behavioral Signals",
-     "link": "https://towardsdatascience.com/building-models-in-two-worlds-from-latent-constructs-to-behavioral-signals/",
-     "source": "Towards Data Science",
-     "published": "2026-07-13T13:30:00+00:00",
-     "copete": "My PhD models tried to explain why people engage. My industry models predict who will. The statistics barely changed. Everything around them did. The post Building Models in Two Worlds: From Latent Constructs to Behavioral Signals appeared…",
-     "id": "f14f2478d85b"
-    },
-    {
-     "title": "5 Real-World SQL Projects to Build Your Data Portfolio",
-     "link": "https://www.kdnuggets.com/5-real-world-sql-projects-to-build-your-data-portfolio",
-     "source": "KDnuggets",
-     "published": "2026-07-13T12:00:38+00:00",
-     "copete": "Build a stronger data portfolio with these practical SQL projects covering customer churn, data warehousing, sales analysis, banking segmentation, and healthcare analytics.",
-     "id": "20a2cae66a9f"
-    },
-    {
-     "title": "Weekly Entering & Transitioning - Thread 13 Jul, 2026 - 20 Jul, 2026",
-     "link": "https://www.reddit.com/r/datascience/comments/1uv0spu/weekly_entering_transitioning_thread_13_jul_2026/",
-     "source": "r/datascience",
-     "published": "2026-07-13T04:01:11+00:00",
-     "id": "5905847fd922"
-    },
-    {
-     "title": "Snowflake Python question about StandardScaler function",
-     "link": "https://www.reddit.com/r/datascience/comments/1utuz6o/snowflake_python_question_about_standardscaler/",
-     "source": "r/datascience",
-     "published": "2026-07-11T20:36:24+00:00",
-     "id": "438dc646c229"
     }
    ]
   },
@@ -282,99 +280,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Javier Milei y sus medidas, en vivo: semana clave en el Senado y movimientos en causas judiciales",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-semana-clave-en-el-senado-y-movimientos-en-causas-judiciales-nid14072026/",
+     "title": "El nombre francés de niña que se volvió viral en la Argentina y cada vez más papás eligen",
+     "link": "https://www.lanacion.com.ar/lifestyle/el-nombre-frances-de-nina-que-se-volvio-viral-en-la-argentina-y-cada-vez-mas-papas-eligen-nid09072026/",
      "source": "La Nación",
-     "published": "2026-07-14T06:21:04+00:00",
-     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "4bce3c7cc597"
+     "published": "2026-07-14T10:09:13+00:00",
+     "copete": "En los últimos años, las tendencias a la hora de elegir cómo llamar a un hijo comenzaron a cambiar y cada vez son más los padres que buscan nombres cortos, elegantes y fáciles de pronunciar",
+     "id": "44db525d3576"
     },
     {
-     "title": "Golpeaba y maltrataba a su mejor amigo y a su pareja y terminó siendo víctima de una venganza: Bobby Kent, la muerte de un abusador",
-     "link": "https://www.infobae.com/historias/2026/07/14/golpeaba-y-maltrataba-a-su-mejor-amigo-y-a-su-pareja-y-termino-siendo-victima-de-una-venganza-bobby-kent-la-muerte-de-un-abusador/",
-     "source": "Infobae",
-     "published": "2026-07-14T06:12:46+00:00",
-     "copete": "La investigación del homicidio avanzó entre silencios, una madre que habló y un detective que no olvidó la escena. Hubo sentencias dispares y responsables que quedaron pronto en libertad. Años después, solo una persona aceptó contar en…",
-     "id": "5726c8b041cf"
-    },
-    {
-     "title": "Una traición silenciosa e inesperada: la enfermera que venció a su sicario, lo mató y desnudó el plan siniestro de su exesposo",
-     "link": "https://www.infobae.com/historias/2026/07/14/una-traicion-silenciosa-e-inesperada-la-enfermera-que-vencio-a-su-sicario-lo-mato-y-desnudo-el-plan-siniestro-de-su-exesposo/",
-     "source": "Infobae",
-     "published": "2026-07-14T06:10:49+00:00",
-     "copete": "Susan Kuhnhausen sobrevivió a un ataque de catorce minutos en su casa. Redujo al asesino a sueldo que la atacó y murió en el forcejeo. La investigación reveló que su exesposo ofreció pagar 50.000 dólares por matarla",
-     "id": "70fefc466bba"
-    },
-    {
-     "title": "La sentencia que convirtió a dos inmigrantes italianos condenados a la silla eléctrica en un símbolo mundial de la injusticia",
-     "link": "https://www.infobae.com/historias/2026/07/14/la-sentencia-que-convirtio-a-dos-inmigrantes-italianos-condenados-a-la-silla-electrica-en-un-simbolo-mundial-de-la-injusticia/",
-     "source": "Infobae",
-     "published": "2026-07-14T06:09:15+00:00",
-     "copete": "El 14 de julio de 1921 fueron declarados culpables de un doble asesinato durante un asalto en Massachusetts. Eran obreros y anarquistas. En una Estados Unidos atravesada por el miedo al comunismo y el rechazo a los extranjeros, fueron…",
-     "id": "de00538dc263"
-    },
-    {
-     "title": "Crece el público que asiste a la vigilia en honor a los Romanov",
-     "link": "https://www.lanacion.com.ar/revista-lugares/crece-el-publico-que-asiste-a-la-vigilia-en-honor-a-los-romanov-nid14072026/",
+     "title": "El árbol milenario de la Patagonia argentina: es el segundo ejemplar más antiguo de su especie en el mundo",
+     "link": "https://www.lanacion.com.ar/lifestyle/el-arbol-milenario-de-la-patagonia-argentina-es-el-segundo-ejemplar-mas-antiguo-de-su-especie-en-el-nid10072026/",
      "source": "La Nación",
-     "published": "2026-07-14T06:01:00+00:00",
-     "copete": "Desde hace 35 años, en la madrugada del 16 al 17 de julio se celebra el aniversario de la ejecución de la familia imperial rusa a manos de los bolcheviques tras la Revolución de 1917",
-     "id": "c99f3c2bdbb4"
+     "published": "2026-07-14T10:09:03+00:00",
+     "copete": "Conocido como el Alerce Abuelo, este ejemplar crece en un parque nacional de la Patagonia y es uno de los organismos vivos más antiguos del planeta",
+     "id": "a197ecfc07b6"
     },
     {
-     "title": "Sin título universitario ni empleo vio lo que sí tenía: un bachillerato, un montón de pallets y una necesidad que resolver",
-     "link": "https://www.lanacion.com.ar/lifestyle/sin-titulo-universitario-ni-empleo-vio-lo-que-si-tenia-un-bachillerato-un-monton-de-pallets-y-una-nid14072026/",
+     "title": "Anses: cuándo cobro la jubilación de julio si mi DNI termina en 0",
+     "link": "https://www.lanacion.com.ar/economia/anses-cuando-cobro-la-jubilacion-de-julio-si-mi-dni-termina-en-0-nid14072026/",
      "source": "La Nación",
-     "published": "2026-07-14T06:00:00+00:00",
-     "copete": "Se quedó sin trabajo y con el cuerpo lastimado, hoy dirige la fábrica de muebles que armó con materiales que otros tiraban",
-     "id": "a7e481d7a6fe"
+     "published": "2026-07-14T10:08:59+00:00",
+     "copete": "El organismo previsional paga las jubilaciones a los DNI terminados en 0 en fechas diferentes, según cobren el haber mínimo, superior o una pensión",
+     "id": "d147bd514ea3"
     },
     {
-     "title": "Una argentina en Londres revela las costumbres inglesas y cómo palpitan el partido: “Nos hace sentir fuertes y valientes”",
-     "link": "https://www.lanacion.com.ar/lifestyle/una-argentina-en-londres-revela-las-costumbres-inglesas-y-como-palpitan-el-partido-nos-hace-sentir-nid14072026/",
+     "title": "Lao Tzu, filósofo chino: “Ten paciencia. Espera a que el lodo se asiente y el agua corra clara. Permanece quieto hasta que la acción correcta surja”",
+     "link": "https://www.lanacion.com.ar/lifestyle/lao-tzu-filosofo-chino-ten-paciencia-espera-a-que-el-lodo-se-asiente-y-el-agua-corra-clara-permanece-nid11072026/",
      "source": "La Nación",
-     "published": "2026-07-14T06:00:00+00:00",
-     "copete": "Las reglas de convivencia se transformaron en hábitos plácidos para la protagonista de esta historia, pero durante el Mundial algo falta; Inglaterra vs. Argentina, mientras tanto, se vive muy diferente en tierra inglesa...",
-     "id": "2bbf117f8b8f"
+     "published": "2026-07-14T10:08:30+00:00",
+     "copete": "Frente al ritmo frenético del mundo moderno, la sabiduría antigua nos invita a pausar los impulsos y cultivar la serenidad mental como la estrategia más efectiva para resolver conflictos con lucidez",
+     "id": "7b9c0eec68c5"
     },
     {
-     "title": "“Nunca miento”: asesinó a 6 personas, fue el último guillotinado público en Francia y una celebridad británica lo presenció",
-     "link": "https://www.lanacion.com.ar/lifestyle/asesino-a-6-personas-fue-el-ultimo-guillotinado-publico-en-francia-y-una-celebridad-britanica-lo-nid14072026/",
-     "source": "La Nación",
-     "published": "2026-07-14T06:00:00+00:00",
-     "copete": "Weidmann, “el alemán encantador”, junto a dos cómplices, secuestró y mató de un tiro en la nuca a sus víctimas; robó en total 22.000 francos, hasta que lo capturaron en 1937; el actor Christopher Lee fue testigo del castigo público en 1939",
-     "id": "097889018a96"
-    },
-    {
-     "title": "A 75 años de la hazaña de José Froilán González, el argentino que le dio el primer triunfo a Ferrari en la Fórmula 1",
-     "link": "https://www.infobae.com/deportes/2026/07/14/a-75-anos-de-la-hazana-de-jose-froilan-gonzalez-el-argentino-que-le-dio-el-primer-triunfo-a-ferrari-en-la-formula-1/",
+     "title": "Hasta cuándo sigue el frío y qué zonas registrarán temperaturas primaverales hacia el fin de semana",
+     "link": "https://www.infobae.com/sociedad/2026/07/14/hasta-cuando-sigue-el-frio-y-que-zonas-registraran-temperaturas-primaverales-hacia-el-fin-de-semana/",
      "source": "Infobae",
-     "published": "2026-07-14T05:56:06+00:00",
-     "copete": "El 14 de julio de 1951, Pepe hizo historia en Silverstone. También venció en Le Mans. Fue el máximo responsable de cambiar la historia del TC. Un personaje entrañable que nunca perdió su aire de paisano arrecifeño",
-     "id": "e688849ef6eb"
+     "published": "2026-07-14T10:05:26+00:00",
+     "copete": "La térmica en lo que resta de los días de esta semana irá en aumento hasta alcanzar un valor inusual, principalmente al norte del país. Hay al menos cinco provincias se preparan para los efectos del viento Zonda y nevadas. En CABA el día…",
+     "id": "e5863f81b3b6"
     },
     {
-     "title": "El calvario del “niño burbuja”: doce años sin besos de su mamá, un trasplante fallido y los intentos de ayuda de la NASA",
-     "link": "https://www.infobae.com/historias/2026/07/14/el-calvario-del-nino-burbuja-doce-anos-sin-besos-de-su-mama-un-trasplante-fallido-y-los-intentos-de-ayuda-de-la-nasa/",
+     "title": "Henry Thoreau, filósofo: “En mi casa había tres sillas: una para la soledad, una para la amistad y una para la compañía”",
+     "link": "https://www.lanacion.com.ar/lifestyle/henry-thoreau-filosofo-en-mi-casa-habia-tres-sillas-una-para-la-soledad-una-para-la-amistad-y-una-nid09072026/",
+     "source": "La Nación",
+     "published": "2026-07-14T10:03:17+00:00",
+     "copete": "El estadounidense transformó su vida en la cabaña del lago Walden al reducir sus pertenencias a lo esencial; sus tres sillas siguen como una metáfora vigente sobre cómo organizar nuestras prioridades sociales y personales",
+     "id": "243a8644a39d"
+    },
+    {
+     "title": "Mundial 2026, en VIVO: últimas noticias de hoy, 14 de julio, listas de convocados, partidos amistosos y más",
+     "link": "https://www.infobae.com/deportes/2026/07/14/mundial-2026-en-vivo-ultimas-noticias-de-hoy-14-de-julio-listas-de-convocados-partidos-amistosos-y-mas/",
      "source": "Infobae",
-     "published": "2026-07-14T05:49:31+00:00",
-     "copete": "David Vetter había nacido en 1971 con su sistema inmunológico destruido. Cualquier germen o bacteria podía matarlo. Su familia decidió que viviera aislado hasta encontrar una posible cura. Cómo fue su triste final",
-     "id": "f0bb4e947aa8"
+     "published": "2026-07-14T09:59:47+00:00",
+     "copete": "Este martes comienzan las semifinales y se definirá al primer protagonista que dirá presente el próximo domingo en la gran final. Argentina ya se encuentra instalada en Atlanta",
+     "id": "b4f003ac8a4e"
     },
     {
-     "title": "\"El Mundial necesita reglas claras, no excepciones\"",
-     "link": "https://www.clarin.com/cartas-al-pais/mundial-necesita-reglas-claras-excepciones_0_u8WnjnmqKA.html",
+     "title": "Francia-España, EN VIVO, por las semifinales del Mundial 2026: hora, TV, formaciones y todo lo que hay que saber",
+     "link": "https://www.infobae.com/deportes/2026/07/14/francia-espana-en-vivo-por-las-semifinales-del-mundial-2026-hora-tv-formaciones-y-todo-lo-que-hay-que-saber/",
+     "source": "Infobae",
+     "published": "2026-07-14T09:55:36+00:00",
+     "copete": "Les Bleus y la Roja se medirán en Dallas por un lugar en la ansiada final del torneo",
+     "id": "1322116c1152"
+    },
+    {
+     "title": "“No conviene cosechar”: la drástica decisión de los productores de una de las frutas más consumidas por los bajos precios",
+     "link": "https://www.clarin.com/rural/conviene-cosechar-drastica-decision-productores-frutas-consumidas-bajos-precios_0_ngliBAGx1l.html",
      "source": "Clarín",
-     "published": "2026-07-14T05:16:08+00:00",
-     "id": "358de9e8e944"
+     "published": "2026-07-14T09:44:13+00:00",
+     "copete": "Los citricultores de Entre Ríos responsables del 90% de la producción nacional de mandarinas, aseguran que los valores que perciben no llegan a cubrir los costos. La baja demanda para el consumo fresco y un mercado sobreofertado, las clave…",
+     "id": "129b8a2b14c7"
     },
     {
-     "title": "Descontrol en Ensenada: un partido de la \"Liga Amistad\" terminó en una batalla campal que dejó heridos",
-     "link": "https://www.clarin.com/policiales/descontrol-ensenada-partido-liga-amistad-termino-batalla-campal-dejo-heridos_0_ldcyLHIO2s.html",
+     "title": "11 hábitos saludables para tener uñas fuertes y sanas",
+     "link": "https://www.infobae.com/salud/2026/07/14/11-habitos-saludables-para-tener-unas-fuertes-y-sanas/",
+     "source": "Infobae",
+     "published": "2026-07-14T09:37:03+00:00",
+     "copete": "Expertos sugieren rutinas diarias para protegerlas, reducir el riesgo de lesiones y detectar señales que pueden alertar sobre cuestiones médicas no evidentes",
+     "id": "78297536a99a"
+    },
+    {
+     "title": "Medida oficial: Estados Unidos extiende una nueva barrera vehicular entre Texas y México con el aval de la Patrulla Fronteriza en estos lugares",
+     "link": "https://www.clarin.com/estados-unidos/medida-oficial-estados-unidos-extiende-nueva-barrera-vehicular-texas-mexico-aval-patrulla-fronteriza-lugares_0_uN8MWxbyGK.html",
      "source": "Clarín",
-     "published": "2026-07-14T04:26:52+00:00",
-     "copete": "El partido se calentó por un cruce entre un jugador y el banco de suplentes. Al terminar los 90 minutos, se desató una pelea que dejó a dos futbolistas hospitalizados, uno de ellos muy grave. Las versiones cruzadas entre ambos equipos.",
-     "id": "febc92faa6b0"
+     "published": "2026-07-14T09:36:13+00:00",
+     "copete": "La Oficina de Aduanas y Protección Fronteriza abrió comentarios sobre obras en el condado de Brewster. El proyecto incluye barreras vehiculares, caminos, sensores y nuevos sistemas de detección en Big Bend.",
+     "id": "6f8e053f4903"
+    },
+    {
+     "title": "Charlas de oficina: que Harry Kane no recuerde los consejos de Diego",
+     "link": "https://www.clarin.com/deportes/charlas-oficina-harry-kane-recuerde-consejos-diego_0_MadE0dBaim.html",
+     "source": "Clarín",
+     "published": "2026-07-14T09:30:13+00:00",
+     "copete": "En 2017, Maradona le explicó al inglés cómo tenía que definir...",
+     "id": "dc336c713c62"
     }
    ]
   },
@@ -384,84 +383,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
-     "link": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-14T05:00:03+00:00",
-     "copete": "Simon Andriesz made the discovery about Howard Lutnick in publicly released Epstein files.",
-     "id": "b0fef73a821c"
-    },
-    {
-     "title": "El inicio de una nueva era en Gibraltar con la eliminación de los controles fronterizos entre España y Reino Unido",
-     "link": "https://www.bbc.com/mundo/articles/c5yz14y8e7do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-14T03:58:38+00:00",
-     "copete": "Se espera que la libre circulación entre el territorio británico y España impulse la economía local.",
-     "id": "0a806350059d"
-    },
-    {
-     "title": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
-     "link": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-14T03:47:41+00:00",
-     "copete": "Survivors and first reporters reported doors being locked and the lack of signage marking emergency exits.",
-     "id": "6cb524e3c896"
-    },
-    {
-     "title": "Muere por eutanasia Catalina Giraldo, la mujer de 30 años que emprendió una  batalla legal en Colombia para acceder al suicidio médicamente asistido",
-     "link": "https://www.bbc.com/mundo/articles/clyzygk7vd4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-14T03:30:15+00:00",
-     "copete": "Tras años sufriendo de un cuadro de depresión severa, entre otros diagnósticos, Catalina le pidió al sistema de salud colombiano que la ayudara y acompañara a terminar su vida.",
-     "id": "9b9315be831f"
-    },
-    {
-     "title": "Japón emprende la mayor reorganización de los servicios secretos desde la II Guerra Mundial",
-     "link": "https://elpais.com/internacional/2026-07-14/japon-emprende-la-mayor-reorganizacion-de-los-servicios-secretos-desde-la-ii-guerra-mundial.html",
-     "source": "El País Internacional",
-     "published": "2026-07-14T03:30:01+00:00",
-     "copete": "El nuevo modelo prevé la creación de un Consejo Nacional de Inteligencia que centraliza la gestión bajo el mando directo de la primera ministra",
-     "id": "4c0afd24d010"
-    },
-    {
      "title": "La detención del periodista disidente Lmrabet cuestiona la libertad de prensa en Marruecos",
      "link": "https://elpais.com/internacional/2026-07-14/la-detencion-del-periodista-disidente-lmrabet-cuestiona-la-libertad-de-prensa-en-marruecos.html",
      "source": "El País Internacional",
-     "published": "2026-07-14T03:30:01+00:00",
+     "published": "2026-07-14T10:05:15+00:00",
      "copete": "Organizaciones marroquíes e internacionales denuncian el arresto del informador afincado desde hace dos décadas en España tras ser encarcelado e inhabilitado",
      "id": "f40f8fe1d0be"
     },
     {
-     "title": "El círculo marroquí de Alí Lmrabet",
-     "link": "https://elpais.com/internacional/2026-07-14/el-circulo-marroqui-de-ali-lmrabet.html",
-     "source": "El País Internacional",
-     "published": "2026-07-14T03:30:01+00:00",
-     "copete": "Marruecos, a pesar de su imagen brillante de país abierto por su desarrollo económico y en infraestructuras sigue teniendo un déficit en lo que a derechos humanos se refiere",
-     "id": "4c0faf64b1a9"
-    },
-    {
-     "title": "US burrito giant Chipotle opening first outlet in Mexico",
-     "link": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss",
+     "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
+     "link": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-07-14T02:42:51+00:00",
-     "copete": "Other US fast food brands have struggled to succeed in the countries their dishes originated.",
-     "id": "8e1b42be5e09"
+     "published": "2026-07-14T10:02:43+00:00",
+     "copete": "The Iran-backed Houthis blame Saudi Arabia for the attack in Yemen's capital and say they targeted Abha airport in response.",
+     "id": "536414e45864"
     },
     {
-     "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
-     "link": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss",
+     "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
+     "link": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-07-14T02:26:45+00:00",
-     "copete": "Police hope the images could jog memories that will help them find the body of Peter Falconio.",
-     "id": "6142dc1be987"
+     "published": "2026-07-14T09:40:23+00:00",
+     "copete": "Svetlana Grković told Serbian media that her husband is \"seriously injured and in shock\".",
+     "id": "357c3899aaf9"
     },
     {
-     "title": "El británico que sobrevivió al incendio en España en el interior de un auto en llamas mientras su esposa y sus amigos morían",
-     "link": "https://www.bbc.com/mundo/articles/c9q28qnrjqqo?at_medium=RSS&at_campaign=rss",
+     "title": "Por qué la infertilidad masculina sigue sin recibir la atención necesaria: \"Se presupone que el problema es de la mujer\"",
+     "link": "https://www.bbc.com/mundo/articles/cn944xrq0j7o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-13T23:32:18+00:00",
-     "copete": "Se cree que la esposa de Malcolm Timbrell y sus amigos murieron cuando un devastador incendio forestal arrasó su pueblo en el sur de España.",
-     "id": "d55149becf27"
+     "published": "2026-07-14T09:32:44+00:00",
+     "copete": "¿Cómo podría el sistema apoyar mejor a los hombres a quienes se les ha informado que podrían tener un problema de fertilidad?",
+     "id": "eda952a8f159"
+    },
+    {
+     "title": "EU bans gold imports from Sudan to curb money financing the war",
+     "link": "https://www.bbc.co.uk/news/articles/ce3e3nqwr5do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-14T08:32:49+00:00",
+     "copete": "The ban also restricts exports of mercury and cyanide to Sudan, chemicals widely used in gold mining.",
+     "id": "eb72bcdc4eab"
+    },
+    {
+     "title": "El fuego en el bosque de Fontainebleau continúa avanzando a las puertas de París",
+     "link": "https://elpais.com/internacional/2026-07-14/el-fuego-en-el-bosque-de-fontainebleau-arrasa-mas-de-1900-hectareas.html",
+     "source": "El País Internacional",
+     "published": "2026-07-14T08:19:50+00:00",
+     "copete": "Dos personas han sido detenidas en la noche del lunes, según ha confirmado el ministro del Interior francés. La superficie arrasada se ha duplicado",
+     "id": "4bab7adcc890"
+    },
+    {
+     "title": "How India's Lord's win echoes the legacy of its pioneering women cricketers",
+     "link": "https://www.bbc.co.uk/news/articles/cd0m1rjyxmmo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-14T08:12:32+00:00",
+     "copete": "India won the first women's Test at Lord's, 142 years after its first men's Test.",
+     "id": "19ac8ce38a29"
+    },
+    {
+     "title": "Estados Unidos e Irán vuelven a la guerra abierta tras una semana de enfrentamientos en Ormuz",
+     "link": "https://elpais.com/internacional/2026-07-14/estados-unidos-e-iran-vuelven-a-la-guerra-abierta-tras-una-semana-de-enfrentamientos-en-ormuz.html",
+     "source": "El País Internacional",
+     "published": "2026-07-14T07:24:05+00:00",
+     "copete": "Los ataques a petroleros matan a un marinero y provocan ocho heridos. El conflicto amenaza con extenderse de nuevo al mar Rojo y a Irak",
+     "id": "cda0ab352c49"
+    },
+    {
+     "title": "Matan a tiros a ciudadano colombiano durante una operación de ICE en Maine",
+     "link": "https://www.bbc.com/mundo/articles/czx5x8prjj1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-14T06:55:57+00:00",
+     "copete": "Esto ocurre menos de una semana después de que un inmigrante indocumentado fuera abatido a tiros en Houston por un agente de inmigración.",
+     "id": "aa8b676e168f"
+    },
+    {
+     "title": "Tailandia investiga una cadena de negligencias en el incendio de un bar que ha provocado 30 muertos",
+     "link": "https://elpais.com/internacional/2026-07-14/tailandia-investiga-una-cadena-de-negligencias-en-el-incendio-de-un-bar-que-ha-provocado-30-muertos.html",
+     "source": "El País Internacional",
+     "published": "2026-07-14T06:43:45+00:00",
+     "copete": "La policía examina si las salidas bloqueadas, la falta de señalización y la presencia de materiales inflamables dificultaron la evacuación",
+     "id": "8d6f1ffb9c21"
     }
    ]
   }
@@ -481,11 +480,6 @@
    "section": "cardiologia",
    "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "ciencia_datos",
-   "feed": "Hacker News (100+ puntos)",
-   "error": "<urlopen error timed out>"
   }
  ]
 }

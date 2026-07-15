@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-07-15T15:56:09.479608+00:00",
+ "generated_at": "2026-07-15T17:42:22.528740+00:00",
  "sections": [
   {
    "id": "cardiologia",
    "title": "Cardiología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "CMS Weighs a New NCD for TAVR",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80SjBmc2F6TWU1bG5FbzBtWEVOeDduZTRoOVBkSUhXemZXMWl0S0hFdG92S2NLQU5zN19yWlA4N0tPNHQzVkxCS2Z5ZmRIamFqazg1YlhwZkgzS29SZ2R6dA?oc=5",
+     "source": "TCTMD",
+     "published": "2026-07-15T16:06:56+00:00",
+     "id": "91b6304043d8"
+    },
     {
      "title": "New PROMISE Data Spark Conversation Over QPA’s Value Over CAC",
      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQjAzQUtIWXlBc2N3c0IxM1ZmbkJRa21SVXJtR0pUbk1xTVRTMjJXbWUwd0ZDRVZ3RVB5M2V3akc4SnpoRDktTmxSZUdTenlicGg2b2s1cGxGZ1VUTXI2UjRSYVdQVG9tWC1Pd2JBb0RMRmY2bVJCem5sRFdvaTVpamNpOThfZmJSaXBZaWM2LWU?oc=5",
@@ -35,13 +42,6 @@
      "id": "edc458d22e93"
     },
     {
-     "title": "DOAC Prescribing for Primary and Secondary Prevention: ACC Offers Advice",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdDNtdDdkUzdhcGNFdkVFcnBhaHZ6VUR4aGFUa25BUDJoOEZtUy1aclZFdGMzMUNkdzJSajVIUXp4ZzgydGdRYnNWVVliMk1xTzZPMHFTSTI2Z3lxV0lEaXVlX24yQ0Q1RlRmRHVUQS1vOU0wOW5oVGNYbjhJalVnSDRnUWJSWEluVTFyQzlSYWNILVc5bjMtZHpn?oc=5",
-     "source": "TCTMD",
-     "published": "2026-07-14T17:37:15+00:00",
-     "id": "bde1a23d14ec"
-    },
-    {
      "title": "Epidemiological studies impacting clinical practice",
      "link": "https://academic.oup.com/eurheartj/article/47/27/3441/8733422?rss=1",
      "source": "European Heart Journal",
@@ -50,36 +50,52 @@
      "id": "5a39088cfdfe"
     },
     {
-     "title": "Cardiovascular Health Equity: Time for a New Era of Science, Sociology, and Interventions: Joint Editorial on Behalf of the American College of Cardiology, the American Heart Association, the European Society of Cardiology, and the World Heart Federation",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42421278/",
+     "title": "Invisible in Full View: Understanding Quantitative Autonomic Study Outcomes in Long-COVID",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42454778/",
      "source": "JACC",
-     "published": "2026-07-08T00:00:00+00:00",
-     "copete": "Itchhaporia D et al. · Journal of the American College of Cardiology",
-     "id": "595b8460409a"
+     "published": "2026-07-14T00:00:00+00:00",
+     "copete": "Benditt DG et al. · Journal of the American College of Cardiology",
+     "id": "f04c544b7e32"
     },
     {
-     "title": "Natural History of Asymptomatic Phenotypically Mild HCM: Insights From the SHaRe Registry",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42417692/",
+     "title": "Autonomic Dysfunction in Long COVID Is Distinct From Pure Autonomic Failure",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42454777/",
      "source": "JACC",
-     "published": "2026-07-08T00:00:00+00:00",
-     "copete": "Topriceanu CC et al. · Journal of the American College of Cardiology",
-     "id": "b5bc9270a0fd"
+     "published": "2026-07-14T00:00:00+00:00",
+     "copete": "Vernino S et al. · Journal of the American College of Cardiology",
+     "id": "800d4cf9716b"
     },
     {
-     "title": "Seeing Clearly: Blinded and Unblinded Evidence for Symptom Benefit After Chronic Total Occlusion Percutaneous Coronary Intervention",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42412713/",
+     "title": "Who Dies Suddenly, and Why We Miss Them",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42454776/",
      "source": "JACC",
-     "published": "2026-07-07T00:00:00+00:00",
-     "copete": "Reddy RK et al. · Journal of the American College of Cardiology",
-     "id": "d0a3314f6237"
-    },
-    {
-     "title": "The Other Procedures We Perform: Teaching the Clinical Skills Families Remember",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42412712/",
-     "source": "JACC",
-     "published": "2026-07-07T00:00:00+00:00",
+     "published": "2026-07-14T00:00:00+00:00",
      "copete": "Krumholz HM et al. · Journal of the American College of Cardiology",
-     "id": "bedc224bc9e2"
+     "id": "85c1534c7c9a"
+    },
+    {
+     "title": "Correction to: 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/ SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42441758/",
+     "source": "Circulation",
+     "published": "2026-07-14T00:00:00+00:00",
+     "copete": "Creager MA et al. · Circulation",
+     "id": "5bcf09696801"
+    },
+    {
+     "title": "Transforming Pulmonary Arterial Hypertension: Key Milestones and Future Perspectives",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42441757/",
+     "source": "Circulation",
+     "published": "2026-07-14T00:00:00+00:00",
+     "copete": "Humbert M et al. · Circulation",
+     "id": "d24c8648c543"
+    },
+    {
+     "title": "Reversible ECG Changes in a Rare Case of Shock",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42441756/",
+     "source": "Circulation",
+     "published": "2026-07-14T00:00:00+00:00",
+     "copete": "Fragkoulis Y et al. · Circulation",
+     "id": "3de6d0c3d914"
     }
    ]
   },
@@ -89,18 +105,50 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Los Pumitas buscarán el séptimo puesto en la Copa del Mundo",
+     "link": "https://uar.com.ar/los-pumitas-buscaran-el-septimo-puesto-en-la-copa-del-mundo/",
+     "source": "UAR",
+     "published": "2026-07-15T17:07:52+00:00",
+     "copete": "El seleccionado nacional juvenil finalizará su participación en el Mundial de la categoría el viernes 17 de julio desde las 11:00 h (hora argentina) cuando enfrente a Australia por el séptimo puesto en el Avchala Stadium de Tbilisi…",
+     "id": "6122d0a860b2"
+    },
+    {
+     "title": "Independiente empató con Lanús y sigue invicto en la pretemporada: el 11 que perfila Quinteros",
+     "link": "https://www.ole.com.ar/independiente/independiente-lanus-pretemporada-amistoso-quinteros-estudiantes_0_SVJfFJQRst.html",
+     "source": "Olé — Primera",
+     "published": "2026-07-15T17:06:34+00:00",
+     "copete": "El Rojo igualó sin goles frente al Granate en su tercer amistoso y el entrenador volvió a probar de cara al Torneo Clausura. Los detalles.",
+     "id": "0534d7ad62e0"
+    },
+    {
+     "title": "Baja en River: nueva lesión de Driussi y cuántos partidos se perderá",
+     "link": "https://www.ole.com.ar/river-plate/river-lesion-sebastian-driussi-copa-argentina_0_i76h1ryHvb.html",
+     "source": "Olé — River",
+     "published": "2026-07-15T16:55:17+00:00",
+     "copete": "El delantero no podrá estar presente ante Aldosivi por Copa Argentina y también se perderá el debut en el Clausura.",
+     "id": "9db774be2748"
+    },
+    {
+     "title": "Las repercusiones del pedido a ex dirigentes de Gorosito: las respuestas de Tinelli y Culotta",
+     "link": "https://www.ole.com.ar/san-lorenzo/gorosito-sanlorenzo-tinelli-unidad-culotta_0_OR9u0eIEqt.html",
+     "source": "Olé — Primera",
+     "published": "2026-07-15T16:37:21+00:00",
+     "copete": "El llamado de Pipo a la unidad de todos los sectores de San Lorenzo tuvo mucho impacto en Boedo. Mirá todo lo que generó.",
+     "id": "2a2d6f3d04b1"
+    },
+    {
+     "title": "¿Cómo le fue a Los Pumas con Angus Gardner, árbitro vs Inglaterra?",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjVtdjhvOEYtZ201Q3FtUXFXU09CNmg4Q19NbVl1dW9YS3pDU0o0NFFhOTE3ajFiU1pHUHpzRWlmS2FKY2ktSUk3MExVOXNPYnBXU3Q5YWVyVGlyU1dlQ0dYMkdTR25SQjZLRS1QUVhGTllHTDV0bkRDZ3AwTmcwTWNPUnhZalhIaUJMNEJmLThka1VwUnVLMVVTR3hrb29lMVAtTGZBTThNdWxRTjVEdlZNVUNGay1udEhvQTFQVHlCVHhYSTQwb29UMmJwbjQ?oc=5",
+     "source": "ESPN Argentina",
+     "published": "2026-07-15T16:18:00+00:00",
+     "id": "34d0d007d4fc"
+    },
+    {
      "title": "El calor de los hinchas acompañó a Los Pumas en la previa del partido con Inglaterra",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVGlrc3lOYWFwTHcxSG83b1NoY0c5TXRXUkV4OGpSRXctd1VQal9vbTRZR2Jobm11YXROT25pdjlsR3BjVmFoM3k1Z2JQZlZMdjAyTkJva2RicjY0R0Q1akRaQmNMVTRqbEZlMTNLNTlOX3Q2UWFXeFZtZjR6LXJFczE1TUxSUUFld091YWlUN2Z4UmF6M0tzcUxuWXNZYnZyOWsyQk1NWTYwWG1oNUYtOGlnenNsREtSbkJkNFFpN1U2WWdJMTZWaWhxVW_SAdYBQVVfeXFMTmRXc0loU3V6bE1scGVFcEZ2RS1mbW9fdDF4S3lQTTQwRDBIWktJTERuZHlKaF9aa2dVeGtQUzhhVnB1c3NPaWRxNVdNZHZYNHkxaEFITWt6VDI1Y2haSnVIU24xVGRvUzNtSWNuSk5LU25vTEdSbmRXZ3h0S0tTSHNYTldlSWFOck5LcjRjQVVPaEhsUWVFbFlxQzJ2WEJ4Y0FNTzgtM2lGdUxYVGtxMTQzS1NPcjZQUWd0ZTR1ZG1DOXN5MDlUdmc4dThHX2hZNlg3WEdKZw?oc=5",
      "source": "El Liberal",
      "published": "2026-07-15T15:37:00+00:00",
      "id": "821321d60b4c"
-    },
-    {
-     "title": "Cómo está el historial de Los Pumas ante Inglaterra, en la previa al cruce por el Nations Championship",
-     "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNWEYzdlQ5eGFGNmlzNE9KTGtxNkNRd1M3MVpLVmJWWlU2bmVfS1ZTbEFtNER0eDhNS1k5WUlxdHNKZ2RybGlVeE9xUTAzeDVPamhKNjZpSE91Y3JZS1Jiay1qOFFUVkxiQzd1SzJjdGoyQ3JyWVcydG14Yk1EWTB0R0lvcFBMajVScHduNkkzU0dPY0U0U3dOeTBfVV84RXJQcWxCU0xpSjB5RUpKZnJUeDlPem9rNUtkLUQ1dl95NEZjNzI4YlhXeXFSSXNRcGNaYVJlSVBnV0hZOGFrWncyR1ZkTS13aGczYlY1ZkEwa1h6d0xkYlBzX1IzWUdaZjc5MTlaMEFLMVRHQkliM0pzUzVJZVdoNk04SzFtSg?oc=5",
-     "source": "ESPN Chile",
-     "published": "2026-07-15T14:34:55+00:00",
-     "id": "12fc59962b94"
     },
     {
      "title": "Racing tiene todo listo para el debut de Vojvoda",
@@ -134,22 +182,6 @@
      "id": "2faacbae9d63"
     },
     {
-     "title": "Así está el mercado de Unión con la llegada de Malcorra",
-     "link": "https://www.ole.com.ar/union/malcorra-union-independiente-regreso-rescindio-mercado-venta_0_JmBTCQfxJh.html",
-     "source": "Olé — Primera",
-     "published": "2026-07-14T22:06:49+00:00",
-     "copete": "El mediocampista se prepara para volver a Santa Fe 14 años después, luego de llegar a un acuerdo para abandonar el club de Avellaneda.",
-     "id": "f265cab2f5f8"
-    },
-    {
-     "title": "Inexplicable: siete jugadores fueron apartados otra vez pero horas más tarde volvieron a indultarlos",
-     "link": "https://www.ole.com.ar/san-lorenzo/jugadores-gorosito-dirigencial-decision-apartados-san-lorenzo_0_4cNg9JoX8e.html",
-     "source": "Olé — Primera",
-     "published": "2026-07-14T21:22:28+00:00",
-     "copete": "Un grupo de jugadores de San Lorenzo se entrenó el lunes en un segundo turno, pero al rato fueron avisado que este martes vuelven a trabajar con el plantel. ¿Qué pasó?",
-     "id": "226bdcf7e91e"
-    },
-    {
      "title": "Video: las emotivas palabras de despedida de los jugadores de River y Barovero para Armani",
      "link": "https://www.ole.com.ar/river-plate/river-armani-despedida-jugadores-barovero_0_7iAB7mJgOa.html",
      "source": "Olé — River",
@@ -164,22 +196,6 @@
      "published": "2026-07-14T19:30:21+00:00",
      "copete": "En la previa de la semifinal entre Argentina e Inglaterra, el lateral del Millonario contó sus sensaciones tras el adiós del Pulpo.",
      "id": "f066135412b5"
-    },
-    {
-     "title": "La visita especial que recibieron los borrados de River",
-     "link": "https://www.ole.com.ar/river-plate/river-jugadores-borrados-visita-acuna-santiago-beltran_0_23ACQ2vtVS.html",
-     "source": "Olé — River",
-     "published": "2026-07-14T18:07:19+00:00",
-     "copete": "Dos jugadores del actual plantel de Eduardo Coudet se acercaron al predio Cantilo para estar con sus compañeros, que por estas horas buscan salir del club.",
-     "id": "95e35889261b"
-    },
-    {
-     "title": "Los Pumitas cayeron ante Escocia",
-     "link": "https://uar.com.ar/los-pumitas-cayeron-ante-escocia/",
-     "source": "UAR",
-     "published": "2026-07-12T16:30:22+00:00",
-     "copete": "El equipo argentino no logró encontrar su mejor versión y fue derrotado por Escocia, 44 a 26, en el marco de las semifinales por el quinto puesto de la Copa del Mundo M20, en Tbilisi, Georgia. A raíz del resultado, Los Pumitas jugarán la…",
-     "id": "688b84ba62ee"
     }
    ]
   },
@@ -188,6 +204,21 @@
    "title": "Ciencia de datos e IA",
    "mode": "resumen",
    "items": [
+    {
+     "title": "5 trends that defined AI engineering at World's Fair 2026",
+     "link": "https://www.reddit.com/r/datascience/comments/1uxc9xd/5_trends_that_defined_ai_engineering_at_worlds/",
+     "source": "r/datascience",
+     "published": "2026-07-15T17:16:51+00:00",
+     "id": "a48f512571f6"
+    },
+    {
+     "title": "Don’t Let Claude Grade Its Own Homework",
+     "link": "https://towardsdatascience.com/dont-let-claude-gaslight-you/",
+     "source": "Towards Data Science",
+     "published": "2026-07-15T16:30:00+00:00",
+     "copete": "Cross-provider PR review with Codex in GitHub Actions, and why a second opinion from a different lab beats any self-review The post Don’t Let Claude Grade Its Own Homework appeared first on Towards Data Science .",
+     "id": "0c8cb3bd6428"
+    },
     {
      "title": "Building Trustworthy Production RAG Systems Through Continuous Evaluation",
      "link": "https://towardsdatascience.com/building-trustworthy-production-rag-systems-through-continuous-evaluation/",
@@ -235,34 +266,18 @@
      "id": "2a5cff4c5fde"
     },
     {
+     "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+     "link": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-15T13:18:15+00:00",
+     "id": "7669484c209f"
+    },
+    {
      "title": "SpaceX bond worth 10% less than issue price – heading for junk bond status",
      "link": "https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541",
      "source": "Hacker News (100+ puntos)",
      "published": "2026-07-15T12:59:09+00:00",
      "id": "876f2101cf96"
-    },
-    {
-     "title": "7 Python Frameworks for Orchestrating Local AI Agents",
-     "link": "https://www.kdnuggets.com/7-python-frameworks-for-orchestrating-local-ai-agents",
-     "source": "KDnuggets",
-     "published": "2026-07-15T12:00:56+00:00",
-     "copete": "This article contains seven Python tools that engineers are actually using in 2026 to build, coordinate, and run agents on local infrastructure.",
-     "id": "3cbb7c6704af"
-    },
-    {
-     "title": "Most RAG Hallucinations Are Retrieval Failures: How the Retrieval Brick Decides What the Model Can Invent",
-     "link": "https://towardsdatascience.com/most-rag-hallucinations-are-retrieval-failures-how-the-retrieval-brick-decides-what-the-model-can-invent/",
-     "source": "Towards Data Science",
-     "published": "2026-07-15T12:00:00+00:00",
-     "copete": "Enterprise Document Intelligence [Vol.1 #7quinquies] - Hallucination is usually garbage-in. Fix retrieval, and the model has nothing left to make up The post Most RAG Hallucinations Are Retrieval Failures: How the Retrieval Brick Decides…",
-     "id": "f74e55001ff6"
-    },
-    {
-     "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
-     "link": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-15T11:46:06+00:00",
-     "id": "d6b4190ef53e"
     }
    ]
   },
@@ -272,100 +287,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Aluvión de dólares: la soja aportará US$21.192 millones en exportaciones",
-     "link": "https://www.lanacion.com.ar/deportes/canchallena/aluvion-de-dolares-la-soja-aportara-us21192-millones-en-exportaciones-nid15072026/",
-     "source": "La Nación",
-     "published": "2026-07-15T15:53:21+00:00",
-     "copete": "La Bolsa de Cereales de Buenos Aires estimó una mejora del 2% para las ventas al exterior y una recaudación fiscal de US$7534 millones; la recuperación de los precios internacionales compensó la estabilidad de la producción y la menor…",
-     "id": "158a207eaeac"
-    },
-    {
-     "title": "Gildo Insfrán es el único gobernador que decretó asueto por el partido contra Inglaterra",
-     "link": "https://www.lanacion.com.ar/politica/gildo-insfran-es-el-unico-gobernador-que-decreto-asueto-por-el-partido-contra-inglaterra-nid15072026/",
-     "source": "La Nación",
-     "published": "2026-07-15T15:53:16+00:00",
-     "copete": "El mandatario de Formosa eximió de tareas a los empleados provinciales a partir de las 15, una hora antes del inicio del encuentro por la semifinal del Mundial de fútbol",
-     "id": "a7ba9ad8dbf1"
-    },
-    {
      "title": "Argentina vs. Inglaterra, EN VIVO por el Mundial 2026: hora, TV y las formaciones",
      "link": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-inglaterra-en-vivo-por-el-mundial-2026-nid15072026/",
      "source": "La Nación",
-     "published": "2026-07-15T15:52:37+00:00",
+     "published": "2026-07-15T17:40:52+00:00",
      "copete": "El partido se disputará a las 16 horas en el Atlanta Stadium; todos los detalles del encuentro",
      "id": "c8217a704b73"
     },
     {
-     "title": "Tomás Cataldi contó más detalles de la denuncia contra su madre: “Me arruinaron toda la vida emocionalmente”",
-     "link": "https://www.infobae.com/tendencias/2026/07/15/tomas-cataldi-conto-mas-detalles-de-la-denuncia-contra-su-madre-me-arruinaron-toda-la-vida-emocionalmente/",
-     "source": "Infobae",
-     "published": "2026-07-15T15:52:01+00:00",
-     "copete": "En una entrevista televisiva, el hijo de Geraldine Mayer afirmó haber sufrido violencia física y psicológica durante su infancia y adolescencia",
-     "id": "29a587aa56bd"
+     "title": "En la Iglesia piden vivir el partido “con respeto, juego limpio y sin trasladar al fútbol conflictos históricos”",
+     "link": "https://www.lanacion.com.ar/politica/en-la-iglesia-piden-vivir-el-partido-con-respeto-juego-limpio-y-sin-trasladar-al-futbol-conflictos-nid15072026/",
+     "source": "La Nación",
+     "published": "2026-07-15T17:40:05+00:00",
+     "copete": "La Comisión Nacional de Justicia y Paz declaró en un pronunciamiento que el deporte tiene que ser “un instrumento de paz y fraternidad”; llama a “respetar las reglas” y recuerda enseñanzas de Francisco",
+     "id": "05b072000545"
     },
     {
-     "title": "Atacan a balazos a excandidato de MC a presidencia municipal de Teotihuacán - Clone",
-     "link": "https://www.infobae.com/arc-support/2026/07/15/atacan-a-balazos-a-excandidato-de-mc-a-presidencia-municipal-de-teotihuacan-clone/",
-     "source": "Infobae",
-     "published": "2026-07-15T15:51:50+00:00",
-     "copete": "José Marcial Arpide sufre su segundo ataque, el primero fue en 2021 donde falleció su hijo Sixto Arpide",
-     "id": "cffc8574a051"
+     "title": "Javier Milei y sus medidas, en vivo: tensiones en el Gobierno y repercusiones por el partido de Argentina vs. Inglaterra",
+     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-tensiones-en-el-gobierno-y-repercusiones-por-el-partido-de-nid15072026/",
+     "source": "La Nación",
+     "published": "2026-07-15T17:39:23+00:00",
+     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+     "id": "becc90b52dec"
     },
     {
-     "title": "La papelera de WhatsApp que pocos conocen: cómo hallarla para recuperar espacio en el celular",
-     "link": "https://www.infobae.com/tecno/2026/07/15/la-papelera-de-whatsapp-que-pocos-conocen-como-hallarla-para-recuperar-espacio-en-el-celular/",
-     "source": "Infobae",
-     "published": "2026-07-15T15:51:48+00:00",
-     "copete": "La aplicación incluye una herramienta para encontrar los archivos más pesados y liberar memoria rápidamente",
-     "id": "dba5fe28848d"
+     "title": "Final del Mundial 2026: día, horario y todo lo que hay que saber",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/final-del-mundial-2026-dia-horario-y-todo-lo-que-hay-que-saber-nid15072026/",
+     "source": "La Nación",
+     "published": "2026-07-15T17:39:08+00:00",
+     "copete": "El encuentro decisivo se disputará en el MetLife Stadium de Nueva Jersey; España espera por el ganador de Inglaterra vs. Argentina",
+     "id": "90708a577fa3"
     },
     {
-     "title": "Las Guerreras K-pop en español latino: dónde ver la película de forma segura y sin descargar apps",
-     "link": "https://www.infobae.com/tecno/2026/07/15/las-guerreras-k-pop-en-espanol-latino-donde-ver-la-pelicula-de-forma-segura-y-sin-descargar-apps/",
-     "source": "Infobae",
-     "published": "2026-07-15T15:51:14+00:00",
-     "copete": "Acceder desde la web o la app oficial de Netflix, descargable en tiendas como Google Play Store y App Store, protege a los usuarios de riesgos como malware",
-     "id": "3f9bfd3f0c4a"
+     "title": "Argentina vs. Inglaterra, en vivo: así se define el partido de semifinales",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-inglaterra-en-vivo-asi-se-define-el-partido-de-semifinales-nid15072026/",
+     "source": "La Nación",
+     "published": "2026-07-15T17:38:47+00:00",
+     "copete": "El encuentro se disputa este miércoles a las 16 (hora argentina) en el estadio de Atlanta con arbitraje de Ismail Elfath; España espera en la final",
+     "id": "858751b212d4"
     },
     {
-     "title": "Inglaterra-Argentina, EN VIVO, por las semifinales del Mundial 2026: hora, TV, formaciones y todo lo que hay que saber",
+     "title": "Así formará Argentina ante Inglaterra en la semifinal del Mundial: Scaloni anunció un cambio en el equipo titular",
+     "link": "https://www.infobae.com/deportes/2026/07/15/asi-formara-argentina-ante-inglaterra-en-la-semifinal-del-mundial-scaloni-anuncio-un-cambio-en-el-equipo-titular/",
+     "source": "Infobae",
+     "published": "2026-07-15T17:36:04+00:00",
+     "copete": "El combinado albiceleste dio a conocer su equipo titular para jugar desde las 16 en Atlanta",
+     "id": "f330c304a440"
+    },
+    {
+     "title": "Argentina-Inglaterra, EN VIVO, por las semifinales del Mundial 2026: Giuliano Simeone reemplazará a De Paul",
      "link": "https://www.infobae.com/deportes/2026/07/15/inglaterra-argentina-en-vivo-por-las-semifinales-del-mundial-2026-hora-tv-formaciones-y-todo-lo-que-hay-que-saber/",
      "source": "Infobae",
-     "published": "2026-07-15T15:50:59+00:00",
+     "published": "2026-07-15T17:35:56+00:00",
      "copete": "La Albiceleste y los Tres Leones se medirán en Atlanta por un lugar en la ansiada final del torneo",
      "id": "c53510ebcd7c"
     },
     {
-     "title": "Dónde escuchar el partido de Argentina vs. Inglaterra en vivo hoy: radios que transmiten el Mundial 2026 en EE.UU.",
-     "link": "https://www.lanacion.com.ar/estados-unidos/donde-escuchar-el-partido-de-argentina-vs-inglaterra-en-vivo-hoy-radios-que-transmiten-el-mundial-nid15072026/",
-     "source": "La Nación",
-     "published": "2026-07-15T15:50:00+00:00",
-     "copete": "Transmiten Argentina vs. Inglaterra en vivo hoy por radio: conoce las emisoras en EE.UU. para seguir la semifinal del Mundial 2026",
-     "id": "0e5d143b9f24"
+     "title": "Dólar hoy en vivo: a cuánto se negocian todas las cotizaciones minuto a minuto este miércoles 15 de julio",
+     "link": "https://www.infobae.com/economia/2026/07/15/dolar-hoy-en-vivo-a-cuanto-se-negocian-todas-las-cotizaciones-minuto-a-minuto-este-miercoles-15-de-julio/",
+     "source": "Infobae",
+     "published": "2026-07-15T17:32:56+00:00",
+     "copete": "El billete al público es negociado a $1.495 para la venta en el Banco Nación. El blue opera a $1.530. El BCRA compró ayer más de USD 500 millones",
+     "id": "323741166a28"
     },
     {
-     "title": "En qué canal pasan Argentina vs. Inglaterra por el Mundial 2026 hoy",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-argentina-vs-inglaterra-por-el-mundial-2026-hoy-nid15072026/",
-     "source": "La Nación",
-     "published": "2026-07-15T15:49:28+00:00",
-     "copete": "El encuentro se disputa este miércoles a las 16 (horario argentino) en el Mercedes Benz Stadium de Atlanta, Estados Unidos, con arbitraje del estadounidense Ismail Elfath",
-     "id": "ba3f62751d61"
+     "title": "El impacto del Mundial en la gestión y los desafíos del Gobierno para retomar la agenda la próxima semana",
+     "link": "https://www.infobae.com/politica/2026/07/15/el-impacto-del-mundial-en-la-gestion-y-los-desafios-del-gobierno-para-retomar-la-agenda-la-proxima-semana/",
+     "source": "Infobae",
+     "published": "2026-07-15T17:32:18+00:00",
+     "copete": "Convergen las posturas respecto del impacto de la Copa del Mundo en la dinámica de la Casa Rosada. El día después y la agenda legislativa pendiente",
+     "id": "04fe8110f17c"
     },
     {
-     "title": "Oleada de calor en Italia: 45 grados en Sicilia y Cerdeña, alerta roja en 15 ciudades y riesgo de muertes por deshidratación",
-     "link": "https://www.clarin.com/mundo/oleada-calor-italia-45-grados-sicilia-cerdena-alerta-roja-15-ciudades-riesgo-muertes-deshidratacion_0_MvjTep7FzU.html",
+     "title": "Guía para conducir un vehículo automático en subidas y bajadas sin accidentes o daños en la transmisión",
+     "link": "https://www.infobae.com/tecno/2026/07/15/guia-para-conducir-un-vehiculo-automatico-en-subidas-y-bajadas-sin-accidentes-o-danos-en-la-transmision/",
+     "source": "Infobae",
+     "published": "2026-07-15T17:31:08+00:00",
+     "copete": "Acelerar a fondo en pendientes y descender en punto muerto consumen más combustible y ponen en riesgo la seguridad",
+     "id": "aaf3546dc6ae"
+    },
+    {
+     "title": "Mauricio Macri habló en la previa del partido de Argentina y destacó el modelo de liderazgo de Scaloni: \"Tiene los pies sobre la tierra y la palabra justa\"",
+     "link": "https://www.clarin.com/deportes/mauricio-macri-hablo-previa-partido-argentina-destaco-modelo-liderazgo-scaloni-pies-tierra-palabra-justa_0_FecpKZsJKB.html",
      "source": "Clarín",
-     "published": "2026-07-15T14:40:57+00:00",
-     "copete": "La tercera oleada de calor insoportable entra en su fase más intensa. La arena sahariana en suspensión obstaculiza la dispersión del calor, favoreciendo aún más la sensación de sofocamiento. El riesgo para los ancianos.",
-     "id": "be70d4b2a61c"
+     "published": "2026-07-15T15:54:01+00:00",
+     "copete": "El exmandatario y Presidente de la Fundación FIFA dijo que se identifica \"con la Scaloneta desde lo humano, lo que han logrado\". \"Tenemos una rivalidad especial\", reconoció el dirigente del PRO, aunque recordó que \"es solo un partido de…",
+     "id": "b731b12a9f04"
     },
     {
-     "title": "De Qatar a Castelar: la historia de la pelota del tercer gol argentino en la final del mundo",
-     "link": "https://www.clarin.com/zonales/qatar-castelar-historia-pelota-tercer-gol-argentino-final-mundo_0_ehRSByhlT6.html",
+     "title": "Cristina Chiabotto, Miss Italia: \"Me estoy preparando para mis 40 con deporte, hago ejercicio todos los días, camino a paso ligero 50 minutos, alterno con pesas para mantener la masa muscular, la postura correcta y despejar la mente de toxinas\"",
+     "link": "https://www.clarin.com/internacional/cristina-chiabotto-miss-italia-preparando-40-deporte-hago-ejercicio-dias-camino-paso-ligero-50-minutos-alterno-pesas-mantener-masa-muscular-postura-correcta-despejar-mente-toxinas_0_jqkUMIXHrp.html",
      "source": "Clarín",
-     "published": "2026-07-15T14:39:21+00:00",
-     "copete": "Lo hermanos Soto fueron al Mundial de Fútbol 2022 y se llevaron una de las siete pelotas del partido. Está guardada y todavía reciben ofertas millonarias por ella.",
-     "id": "968abe01f90c"
+     "published": "2026-07-15T15:47:13+00:00",
+     "copete": "La modelo fue coronada reina de belleza a los 18 años y saltó a la fama mundial. A punto de cumplir sus cuatro décadas, su rutina fitness, la alimentación y la maternidad como \"vitamina de vida\".",
+     "id": "54505e81c6ed"
     }
    ]
   },
@@ -378,9 +393,73 @@
      "title": "¡España finalista! 16 años después regresa a la final de la Copa del Mundo tras aplastar 2-0 a Francia",
      "link": "https://www.bbc.co.uk/mundo/live/cg747jeeg00t?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-15T15:56:09.303122+00:00",
+     "published": "2026-07-15T17:42:22.296576+00:00",
      "copete": "Con goles de Oyarzabal y Porro, España clasifica a la final del Mundial que se disputa el domingo. Su rival se define este miércoles en el partido entre Argentina e Inglaterra.",
      "id": "424549611978"
+    },
+    {
+     "title": "¡Cuenta regresiva! Argentina e Inglaterra se enfrentan por el pase a la final del Mundial",
+     "link": "https://www.bbc.co.uk/mundo/live/cdejeeez4y2t?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-15T17:42:22.296272+00:00",
+     "copete": "Argentinos e ingleses juegan las semifinales del Mundial 2026 con sus estrellas Lionel Messi, Julián Álvarez, Harry Kane y Jude Bellingham en su mejor nivel. El ganador jugará la final contra España el domingo.",
+     "id": "3ccfbcb14bcb"
+    },
+    {
+     "title": "Estados Unidos lanza una nueva oleada de bombardeos contra Irán",
+     "link": "https://elpais.com/internacional/2026-07-15/estados-unidos-lanza-una-nueva-oleada-de-bombardeos-contra-iran.html",
+     "source": "El País Internacional",
+     "published": "2026-07-15T17:33:51+00:00",
+     "copete": "El Mando Central estadounidense afirma que su ofensiva busca “debilitar” al régimen para que renuncie a su control sobre el estrecho de Ormuz",
+     "id": "d3de18b810f5"
+    },
+    {
+     "title": "French MPs approve assisted dying law with strict rules after years of argument",
+     "link": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-15T17:29:26+00:00",
+     "copete": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
+     "id": "7c4d5f861fd7"
+    },
+    {
+     "title": "More people around the world now favour China over the US, Pew study suggests",
+     "link": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-15T17:02:41+00:00",
+     "copete": "There is more confidence in Xi Jinping than Donald Trump, the US think tank's survey indicates.",
+     "id": "002936233a51"
+    },
+    {
+     "title": "Five arrested after Hong Kong police raid independent bookshops",
+     "link": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-15T16:51:07+00:00",
+     "copete": "Officials say they are suspected of selling \"seditious\" books which incited \"hatred\" against authorities.",
+     "id": "cc8c72323e7c"
+    },
+    {
+     "title": "Me drogaron en una discoteca en España y ahora me cuesta caminar y sufro pesadillas",
+     "link": "https://www.bbc.com/mundo/articles/cq61ngjm57no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-15T16:37:34+00:00",
+     "copete": "La joven futbolista Taylor Coulter necesitó atención hospitalaria tras ser inyectada por un desconocido en la localidad turística española de Magaluf.",
+     "id": "9fb4c6079358"
+    },
+    {
+     "title": "Quién es Dinorah Figuera, la opositora que encabezará las negociaciones con el chavismo en Venezuela (y por qué no lo hace María Corina Machado)",
+     "link": "https://www.bbc.com/mundo/articles/cx2v3e5n3zeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-15T16:23:14+00:00",
+     "copete": "La dirigente opositora regresó a Venezuela luego de ocho años de exilio para hacerse cargo de las negociaciones con el chavismo para crear un marco electoral creíble.",
+     "id": "990af0abcb8c"
+    },
+    {
+     "title": "\"El fútbol es un deporte de equipo construido por buenas personas\": el secreto de España para convertirse en una máquina de ganar y llegar a la final del Mundial",
+     "link": "https://www.bbc.com/mundo/articles/cwyky4x7gl2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-15T16:11:15+00:00",
+     "copete": "El técnico español ha basado su filosofía en que el fútbol es un deporte colectivo, solidario y efectivo.",
+     "id": "25a34e5d9612"
     },
     {
      "title": "Merz advierte contra posibles injerencias de EE UU en las elecciones alemanas",
@@ -389,70 +468,6 @@
      "published": "2026-07-15T15:42:20+00:00",
      "copete": "El canciller rechaza un programa de subvenciones de Washington a grupos de la sociedad civil europeos que podría beneficiar a la ultraderechista Alternativa para Alemania (AfD)",
      "id": "72944610dec6"
-    },
-    {
-     "title": "Special police team to investigate killing of an anti-migrant leader in South Africa",
-     "link": "https://www.bbc.co.uk/news/articles/cm2d2qlgj71o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-15T15:33:30+00:00",
-     "copete": "The March and March provincial leader died of his injuries in hospital several days after being shot.",
-     "id": "533d66f19682"
-    },
-    {
-     "title": "Dramatic video shows wildfire surround freight train in Canada",
-     "link": "https://www.bbc.co.uk/news/videos/cwy0yyzdqxvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-15T15:11:00+00:00",
-     "copete": "CN Rail told the BBC that operations were temporarily suspended in the affected area in the province of Ontario.",
-     "id": "b1e77c796161"
-    },
-    {
-     "title": "Las incógnitas sobre el asesinato de Ann Widdecombe, la exministra conservadora y personalidad de la TV británica",
-     "link": "https://www.bbc.com/mundo/articles/c1jyj69rxj3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-15T14:41:37+00:00",
-     "copete": "Widdecombe es la tercera política asesinada en Reino Unido en la última década.",
-     "id": "e4d5a7396e52"
-    },
-    {
-     "title": "Los cambios de rumbo de Trump que revelan sus dificultades para poner fin a la guerra con Irán",
-     "link": "https://www.bbc.com/mundo/articles/cvgdg1gyqqeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-15T14:20:52+00:00",
-     "copete": "El repentino cambio de postura del presidente estadounidense sobre el tránsito en el estrecho de Ormuz es el último giro en un conflicto que ya dura más de cuatro meses.",
-     "id": "05225541796b"
-    },
-    {
-     "title": "Cae la verja de Gibraltar después de más de un siglo: 8 cosas que quizás no sabías de este enclave británico al sur de España",
-     "link": "https://www.bbc.com/mundo/articles/c9vgz0e4xg8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-15T13:56:44+00:00",
-     "copete": "BBC Mundo te presenta algunos aspectos curiosos e interesantes de este pequeño territorio británico situado en el sur de la península ibérica.",
-     "id": "eefc27ae465d"
-    },
-    {
-     "title": "Russian attacks kill eight as Ukraine hits Black Sea oil tankers",
-     "link": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-15T13:32:05+00:00",
-     "copete": "Civilian casualties are reported in four Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea.",
-     "id": "a9fa473c092f"
-    },
-    {
-     "title": "El secreto de la España de Luis De la Fuente: cómo la Roja se convirtió en una máquina de ganar y llegó a la final del Mundial",
-     "link": "https://www.bbc.com/mundo/articles/cwyky4x7gl2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-15T13:25:54+00:00",
-     "copete": "El técnico español ha basado su filosofía en que el fútbol es un deporte colectivo, solidario y efectivo.",
-     "id": "25a34e5d9612"
-    },
-    {
-     "title": "Iran threatens to block more trade routes as US launches fresh strikes",
-     "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-15T12:26:38+00:00",
-     "copete": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.",
-     "id": "45559dddd50c"
     }
    ]
   }
@@ -462,11 +477,6 @@
    "section": "cardiologia",
    "feed": "Cardiology Trials",
    "error": "HTTP Error 403: Forbidden"
-  },
-  {
-   "section": "cardiologia",
-   "feed": "Circulation (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "section": "cardiologia",

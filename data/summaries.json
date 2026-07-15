@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T22:05:03Z",
+  "generated_at": "2026-07-15T10:04:26Z",
   "summaries": {
     "edc458d22e93": {
       "resumen": "Nota de TCTMD que recoge la posición de cardiólogos europeos sobre el cribado cardíaco (cardiac screening) en personal militar, al que consideran una 'excelente oportunidad' para detectar enfermedad cardiovascular oculta en una población joven y de alta exigencia física. Interesa porque reabre el debate sobre a qué poblaciones asintomáticas conviene destinar recursos de tamizaje cardiovascular.",
@@ -50,32 +50,8 @@
       "resumen": "Simon Willison cuenta la migración del sitio comunitario Lobsters, que venía de MariaDB, hacia SQLite (una base de datos liviana basada en archivos) tras años de planificación. Le sirve a un médico que aprende análisis de datos como caso real de cuándo una base de datos 'chica' puede reemplazar a un motor cliente-servidor tradicional sin perder funcionalidad.",
       "destacado": false
     },
-    "7d60c1dd10bb": {
-      "resumen": "Cita de Armin Ronacher (desarrollador reconocido en Python y herramientas de código) sobre que el verdadero 'idioma' de un proyecto de software no es el lenguaje de programación sino el entendimiento compartido de sus conceptos, límites e invariantes. Le sirve a un médico que aprende análisis de datos porque resalta que documentar el 'por qué' de las decisiones importa tanto como el código mismo al trabajar en equipo.",
-      "destacado": false
-    },
-    "9bca5dae0eb3": {
-      "resumen": "Nota sobre una vulnerabilidad de día cero (0-day) descubierta en Cursor, un editor de código con inteligencia artificial integrada, y el debate sobre revelar el fallo públicamente ante la falta de respuesta del fabricante. Le sirve a un médico que aprende análisis de datos como recordatorio de que las herramientas de IA para programar también tienen riesgos de seguridad que conviene conocer antes de usarlas con datos sensibles.",
-      "destacado": false
-    },
-    "449874491314": {
-      "resumen": "Presentación de Bonsai 27B, un modelo de lenguaje de 27.000 millones de parámetros diseñado para correr directamente en un teléfono celular. Le sirve a un médico que aprende análisis de datos porque ilustra la tendencia a modelos de inteligencia artificial cada vez más chicos y eficientes, que podrían usarse sin depender de la nube ni de conexión a internet.",
-      "destacado": false
-    },
     "b13c273b414e": {
       "resumen": "Tercera entrega de una guía sobre cómo perfilar (medir el rendimiento de) las capas de atención en PyTorch, la biblioteca de referencia para construir redes neuronales en Python. Le sirve a un médico que aprende análisis de datos como referencia técnica para entender por qué los modelos de inteligencia artificial actuales consumen tanto cómputo y cómo se optimiza ese consumo.",
-      "destacado": false
-    },
-    "faeb5936a414": {
-      "resumen": "Reflexión, publicada en el blog de Armin Ronacher, que usa la imagen de una torre que sigue creciendo como metáfora del ritmo sostenido de avances en inteligencia artificial. Le sirve a un médico que aprende análisis de datos como mirada de alguien con trayectoria en el campo sobre hacia dónde va la disciplina, más allá del detalle puntual del posteo.",
-      "destacado": false
-    },
-    "497658ea902e": {
-      "resumen": "Análisis técnico que mide la latencia de entrada (el retraso entre una acción del usuario y su reflejo en pantalla) en Linux, comparando los servidores gráficos X11 y Wayland, la tasa de refresco variable (VRR, Variable Refresh Rate) y la capa de compatibilidad DXVK. Le sirve a un médico que aprende análisis de datos como ejemplo de metodología de benchmarking (mediciones repetidas y comparación de condiciones), aunque el tema de fondo sea de sistemas y no de datos en salud.",
-      "destacado": false
-    },
-    "12868e4abe71": {
-      "resumen": "Nueva versión de prueba (alfa) de Datasette, la herramienta de código abierto de Simon Willison para explorar y publicar datos tabulares como bases SQLite, con mejoras de rendimiento y documentación en el sistema de permisos. Le sirve a un médico que aprende análisis de datos porque Datasette es una forma sencilla de publicar y consultar datasets propios sin montar un servidor de base de datos completo.",
       "destacado": false
     },
     "b26772ffd6b8": {
@@ -86,14 +62,35 @@
       "resumen": "Introducción accesible a los autoencoders (redes neuronales que aprenden a comprimir y reconstruir datos) y al concepto de espacio latente, la representación comprimida donde se capturan los patrones esenciales de la información. Le sirve a un médico que aprende análisis de datos como puerta de entrada a una técnica de aprendizaje no supervisado usada, por ejemplo, para reducir dimensionalidad o detectar anomalías en datos clínicos.",
       "destacado": false
     },
-    "4a171136f388": {
-      "resumen": "ESPN Argentina indaga qué pesa más para los hinchas ingleses: ganarle a Los Pumas en la semifinal del Mundial de rugby o asegurarse un lugar en la final."
+    "9cd6d9e5bdd4": {
+      "resumen": "Un análisis técnico minucioso de las computadoras reales que aparecen en la película Jurassic Park (1993), identificando los modelos de estaciones de trabajo Silicon Graphics y el sistema Unix que usaban. Le sirve a un médico que aprende análisis de datos como una mirada histórica a cómo era el hardware y el software antes de la computación en la nube, útil para entender de dónde vienen las herramientas actuales.",
+      "destacado": false
     },
-    "f089076ea633": {
-      "resumen": "Un jugador de la selección inglesa lanzó un mensaje desafiante hacia Los Pumas en la previa del cruce por el Mundial de rugby."
+    "c5a12dbe2e33": {
+      "resumen": "Boletín de seguridad de Tailscale (una red privada virtual, VPN, para conectar dispositivos entre sí) que describe una falla en el manejo de argumentos de su función de acceso remoto por SSH, la cual permitía escalar privilegios hasta obtener acceso de administrador (root). Le sirve a un médico que maneja datos sensibles como recordatorio de mantener actualizadas las herramientas de acceso remoto para no exponer información de pacientes.",
+      "destacado": false
     },
-    "7136d3352264": {
-      "resumen": "Nota que recoge la mirada del entrenador sudafricano Rassie Erasmus sobre Los Pumas, en la previa de un partido que se disputará en Argentina."
+    "2af6d909ddca": {
+      "resumen": "Fortune reporta que la expansión de centros de datos (data centers), impulsada en gran parte por la demanda de cómputo para inteligencia artificial, elevó en 23.000 millones de dólares las tarifas eléctricas que paga el público en Estados Unidos. Le sirve a un médico que se forma en análisis de datos para dimensionar el costo energético y social que hay detrás de entrenar y correr modelos de inteligencia artificial a gran escala.",
+      "destacado": false
+    },
+    "1ebeef198243": {
+      "resumen": "Un experimento en el que se hicieron correr 20 cuentas de Codex (un asistente de inteligencia artificial para programar, de OpenAI) en paralelo para intentar resolver 20 problemas matemáticos abiertos planteados por el matemático Paul Erdős. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de cómo escalar el uso de agentes de inteligencia artificial en paralelo para atacar problemas difíciles.",
+      "destacado": false
+    },
+    "7b744818ee2a": {
+      "resumen": "Simon Willison, referente en el uso práctico de inteligencia artificial para programar, cita una novedad del registro de cambios (changelog) oficial de GitHub, la plataforma más usada para alojar y versionar código. Le sirve a un médico que aprende análisis de datos para mantenerse al tanto de mejoras en herramientas que probablemente ya usa o vaya a necesitar en su trabajo con código y datos.",
+      "destacado": false
+    },
+    "7304da59b75c": {
+      "resumen": "Simon Willison publica 'pedalican', un proyecto propio en GitHub cuyo nombre evoca su conocido experimento de pedirles a distintos modelos de inteligencia artificial que dibujen un pelícano andando en bicicleta para comparar sus capacidades de forma informal. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo un desarrollador de referencia documenta y comparte sus propias herramientas y experimentos con inteligencia artificial.",
+      "destacado": false
+    },
+    "54e07f250a59": {
+      "resumen": "Una mirada a cómo los hinchas ingleses viven en paralelo la previa del partido mundialista contra Argentina y su pasión por el rugby."
+    },
+    "c9fac910f3b9": {
+      "resumen": "Los Pumas ganaron su último partido, pero eso no alcanzó para escalar posiciones: siguen séptimos en el ranking mundial de rugby."
     }
   }
 }

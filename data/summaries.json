@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-07-15T22:05:38Z",
+  "generated_at": "2026-07-16T10:04:34Z",
   "summaries": {
+    "95ce2aaadd5f": {
+      "resumen": "Nota de TCTMD sobre datos que muestran que el uso de tenecteplase (TNK, un fármaco fibrinolítico que se administra en bolo único) en lugar de alteplase (que requiere infusión) para el accidente cerebrovascular (ACV) isquémico agudo se asocia a tiempos de tratamiento intrahospitalario más rápidos. Interesa porque el TNK viene ganando terreno como reemplazo del alteplase por su mayor practicidad, y esto podría traducirse en mejor cumplimiento de los tiempos puerta-aguja.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título se infiere un análisis observacional o de registro sobre tiempos de proceso (workflow) hospitalario que compara tenecteplase versus alteplase en accidente cerebrovascular (ACV) isquémico agudo; sin abstract no se puede precisar el diseño exacto, el número de centros ni de pacientes.\nPoblación: Pacientes con ACV isquémico agudo candidatos a trombólisis intravenosa.\nIntervención: Uso de tenecteplase (TNK) en bolo único, comparado con alteplase en infusión, como fibrinolítico de primera línea.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar el diseño exacto, el ajuste por factores de confusión (por ejemplo, centros que ya adoptaron TNK de forma sistemática) ni el desenlace funcional clínico a largo plazo.\nMensaje: Sugiere que adoptar tenecteplase podría agilizar los tiempos de tratamiento intrahospitalario del ACV isquémico agudo, aunque el beneficio clínico neto (y no solo de proceso) requiere confirmación con los datos completos.\nNota: análisis sin acceso al abstract."
+    },
+    "91b6304043d8": {
+      "resumen": "Nota de TCTMD sobre la posibilidad de que los Centros de Servicios de Medicare y Medicaid (CMS, la agencia estadounidense que regula la cobertura de salud pública) revisen la determinación nacional de cobertura (NCD, National Coverage Determination) para el reemplazo valvular aórtico transcatéter (TAVR). Interesa porque cualquier cambio en los criterios de cobertura de CMS suele repercutir después en guías y práctica de TAVR a nivel global.",
+      "destacado": false
+    },
+    "c0588fa22cb8": {
+      "resumen": "Nota breve de TCTMD centrada en el cardiólogo Raj Khandwalla, sin más precisiones disponibles a partir del título. Se incluye por pertenecer al newsfeed de cardiología, aunque sin el cuerpo del texto no es posible precisar de qué trata su aporte específico.",
+      "destacado": false
+    },
+    "e21cfa2949f2": {
+      "resumen": "Nota de TCTMD sobre nuevos datos del estudio PROMISE (Prospective Multicenter Imaging Study for Evaluation of Chest Pain) que reabren el debate sobre el valor del análisis cuantitativo de placa (QPA, quantitative plaque analysis) por tomografía computada de coronarias frente al puntaje de calcio coronario (CAC, coronary artery calcium score) tradicional. Interesa porque el QPA podría aportar información pronóstica sobre carga y composición de placa que el CAC no captura.",
+      "destacado": false,
+      "analisis": "Diseño: Se trata de un nuevo análisis secundario del estudio PROMISE (ensayo clínico multicéntrico original que comparó estrategias diagnósticas en dolor torácico); por el título no se puede precisar el número de pacientes de este subanálisis ni si hubo aleatorización o cegamiento específicos.\nPoblación: Pacientes del estudio PROMISE original, con dolor torácico estable evaluados mediante angiotomografía coronaria, en quienes se comparó la información aportada por el análisis cuantitativo de placa (QPA) frente al puntaje de calcio coronario (CAC).\nIntervención: Comparación de dos estrategias de caracterización de riesgo coronario por imágenes: QPA (evalúa cantidad y composición de la placa) versus CAC (solo cuantifica el calcio).\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar el tamaño muestral de este subanálisis, el tiempo de seguimiento ni el ajuste por otros factores de riesgo cardiovascular.\nMensaje: Reabre la discusión sobre si el análisis cuantitativo de placa debería complementar —o eventualmente reemplazar— al puntaje de calcio coronario en la estratificación de riesgo de pacientes con dolor torácico, aunque la adopción práctica todavía requiere más evidencia.\nNota: análisis sin acceso al abstract."
+    },
+    "9c4f9f3aaf4f": {
+      "resumen": "Nota de TCTMD sobre cómo cerrar la brecha entre el conocimiento generado por la inteligencia artificial (IA) y su aplicación real en el manejo de la insuficiencia cardíaca (IC). Interesa porque plantea el problema práctico de implementar herramientas de IA en cardiología, un tema relevante para quien combina la clínica con el análisis de datos.",
+      "destacado": false
+    },
     "5a39088cfdfe": {
       "resumen": "Ítem del European Heart Journal cuyo contenido capturado remite a la leyenda de una figura ('For image description, please refer to the figure legend and surrounding text'), lo que sugiere que se trata de un elemento gráfico o de tabla de contenidos —no un artículo completo— sobre estudios epidemiológicos con impacto en la práctica clínica. Sin poder abrir el link ni acceder al texto real, queda sin resumen sustantivo por ahora.",
       "destacado": false
@@ -23,6 +45,26 @@
       "destacado": true,
       "analisis": "Diseño: Por el título se infiere un estudio o revisión (posiblemente una cohorte, un registro o un metaanálisis) sobre las consecuencias clínicas de suspender la aspirina en enfermedad coronaria; sin abstract no se puede precisar el diseño exacto, aleatorización, cegamiento, ni número de centros o pacientes.\nPoblación: Pacientes con enfermedad coronaria establecida que discontinúan la aspirina, ya sea por decisión médica (por ejemplo, previo a una cirugía), por sangrado o por falta de adherencia.\nIntervención: Suspensión (withdrawal) de la aspirina, presumiblemente comparada contra la continuidad del tratamiento antiagregante.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar si se distingue entre suspensión programada y no programada, el tiempo de seguimiento, ni si se ajustó por el motivo de la discontinuación, un factor de confusión relevante en este tipo de análisis.\nMensaje: Refuerza la importancia de evaluar cuidadosamente el riesgo trombótico antes de suspender la aspirina en pacientes con enfermedad coronaria, y de buscar alternativas o una ventana de suspensión más segura cuando la discontinuación es inevitable.\nNota: análisis sin acceso al abstract."
     },
+    "9904e67143d8": {
+      "resumen": "Simon Willison (referente en el uso práctico de inteligencia artificial) comenta un renderizador que convierte diagramas Mermaid (un lenguaje para describir diagramas como código) en arte de caracteres Unicode, hallado en el código abierto del agente de programación grok CLI de xAI. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo visualizar diagramas de flujo o procesos directamente en la terminal, sin depender de una interfaz gráfica.",
+      "destacado": false
+    },
+    "b83655916b3b": {
+      "resumen": "Simon Willison repasa la polémica en torno a la herramienta grok CLI de xAI, que llegó a subir directorios completos a servidores en la nube sin aviso claro, y su reciente apertura como código abierto (open source) tras las críticas de la comunidad. Le sirve a un médico que aprende análisis de datos como recordatorio de revisar bien qué datos comparte una herramienta de inteligencia artificial antes de correrla sobre carpetas con información sensible.",
+      "destacado": false
+    },
+    "a6b1361b275a": {
+      "resumen": "Publicación destacada en Hacker News que propone que SQLite (motor de base de datos liviano muy usado en aplicaciones y análisis de datos) adopte un sistema de 'ediciones' al estilo Rust, que permita introducir cambios que rompan compatibilidad de forma controlada y opcional. Le sirve a un médico que aprende análisis de datos porque SQLite suele ser la base de datos más simple para guardar y consultar sus propios conjuntos de datos sin necesidad de un servidor.",
+      "destacado": false
+    },
+    "3f67eb884b57": {
+      "resumen": "Documento en PDF difundido en Hacker News donde David Siegel argumenta que gobiernos, empresas y organizaciones sin fines de lucro deberían invertir en inteligencia artificial de código abierto (open source), en lugar de depender solo de modelos cerrados de pocas empresas. Le sirve a un médico que aprende análisis de datos para entender el debate de fondo sobre quién controla y financia las herramientas de inteligencia artificial que cada vez más se usan en investigación y salud.",
+      "destacado": false
+    },
+    "f42bd958467e": {
+      "resumen": "Repositorio de GitHub que anuncia la apertura como código abierto (open source) de Grok Build, la herramienta de construcción de software de xAI, en el mismo contexto de la polémica por el manejo de datos de su CLI hermana. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo un proyecto de código abierto permite auditar exactamente qué hace una herramienta antes de confiarle datos propios.",
+      "destacado": false
+    },
     "4e4537485d14": {
       "resumen": "Publicación en el foro de Reddit r/datascience (comunidad de discusión sobre ciencia de datos) donde alguien expresa inseguridad ante un próximo desafío profesional, sin que el título precise si se trata de una entrevista, un nuevo puesto o un proyecto. Le sirve a un médico en transición hacia el análisis de datos como testimonio de que la sensación de no estar preparado es común incluso entre quienes ya trabajan en el rubro.",
       "destacado": false
@@ -35,33 +77,22 @@
       "resumen": "Thinking Machines Lab presenta 'Inkling', un modelo de inteligencia artificial de pesos abiertos (open-weights), es decir, cuyos parámetros entrenados se publican para que cualquiera pueda usarlos o modificarlos. Le sirve a un médico que aprende análisis de datos para seguir la tendencia hacia modelos que se pueden ejecutar y auditar de forma local, sin depender exclusivamente de servicios cerrados.",
       "destacado": false
     },
-    "037d9f725581": {
-      "resumen": "Colección de diseños de relojes digitales reunida en el sitio clocks.dev, destacada en Hacker News por su valor estético y de programación creativa más que por contenido técnico de ciencia de datos. Le aporta poco de forma directa a un médico que aprende análisis de datos, aunque puede servir como referencia de diseño de interfaces y de visualización de información numérica.",
-      "destacado": false
-    },
     "0c8cb3bd6428": {
       "resumen": "Artículo de Towards Data Science que advierte sobre el riesgo de usar el mismo modelo de inteligencia artificial (en este caso, Claude, de Anthropic) tanto para generar una respuesta como para evaluarla, lo que puede sesgar la calificación a favor de sus propios errores. Le sirve a un médico que aprende análisis de datos porque plantea un principio clave de buenas prácticas al evaluar sistemas de inteligencia artificial: separar quién produce el resultado de quién lo audita.",
       "destacado": true
-    },
-    "40ea179f863a": {
-      "resumen": "OpenAI presenta 'Codex Micro', aparentemente una versión más liviana de su asistente de inteligencia artificial para programar (Codex), orientada a tareas de código más simples o rápidas. Le sirve a un médico que aprende análisis de datos para conocer alternativas livianas de asistentes de programación con inteligencia artificial, útiles para tareas cotidianas de análisis sin necesitar los modelos más grandes.",
-      "destacado": false
-    },
-    "ce23777257c7": {
-      "resumen": "Proyecto de código abierto publicado en Hacker News que presenta 'misa77', un códec de compresión de datos que decodifica el doble de rápido que LZ4 (un algoritmo de compresión muy usado) y con mejores tasas de compresión. Le sirve a un médico que aprende análisis de datos como referencia sobre herramientas para manejar de forma más eficiente grandes volúmenes de datos, por ejemplo historias clínicas o bases de investigación.",
-      "destacado": false
     },
     "394ed09a855d": {
       "resumen": "Artículo de Towards Data Science sobre cómo construir sistemas de generación aumentada por recuperación (RAG, Retrieval-Augmented Generation) confiables en producción mediante evaluación continua, es decir, chequeos automáticos permanentes de la calidad de las respuestas. Le sirve a un médico que aprende análisis de datos porque el RAG es la técnica detrás de muchos asistentes de inteligencia artificial que buscan información en documentos (como guías clínicas) antes de responder, y entender su evaluación ayuda a confiar —o desconfiar— de esas respuestas.",
       "destacado": false
     },
-    "38e6035f3ab6": {
-      "resumen": "Simon Willison, referente en el uso práctico de inteligencia artificial, describe una técnica de inyección de instrucciones (prompt injection) que logró que Claude, al usar su función de búsqueda web, filtrara información privada del usuario. Le sirve a un médico que maneja datos sensibles de pacientes para entender un riesgo de seguridad real de los asistentes de inteligencia artificial con acceso a internet, y por qué conviene ser cauteloso al conectarlos con información confidencial.",
-      "destacado": false
+    "6c9839435a7d": {
+      "resumen": "Cómo vivió el plantel de rugby de Inglaterra, de gira en Buenos Aires, la semifinal del Mundial de fútbol entre Argentina e Inglaterra."
     },
-    "5edc81b41560": {
-      "resumen": "Artículo de KDnuggets que propone reemplazar las largas cadenas de condicionales if-else en Python por el patrón de diseño 'registry' (registro), que asocia cada caso con una función mediante un diccionario, mejorando la legibilidad y el mantenimiento del código. Le sirve a un médico que aprende análisis de datos como una buena práctica concreta para escribir código Python más claro y fácil de extender a medida que sus scripts de análisis crecen.",
-      "destacado": false
+    "2015f6c6968f": {
+      "resumen": "Video: el plantel de Los Pumas celebró en Santiago del Estero la clasificación de la selección argentina de fútbol a la final del Mundial."
+    },
+    "8173c02e1abc": {
+      "resumen": "Así reaccionó el plantel de Los Pumas a cada gol de la selección argentina en la semifinal del Mundial ante Inglaterra."
     }
   }
 }

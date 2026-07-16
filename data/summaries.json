@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-07-16T10:04:34Z",
+  "generated_at": "2026-07-16T22:04:55Z",
   "summaries": {
+    "fb835bd596fb": {
+      "resumen": "Nota de TCTMD sobre datos de mortalidad en Estados Unidos que muestran que las muertes por enfermedad isquémica cardíaca (la causada por obstrucción de las arterias coronarias) reflejan un control deficiente de los factores de riesgo cardiovascular clásicos, como la hipertensión arterial, la dislipemia, la diabetes y el tabaquismo. Interesa porque, pese a los avances terapéuticos y de intervencionismo, la prevención primaria sigue siendo el eslabón más débil.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título se infiere un análisis de datos de mortalidad (posiblemente de estadísticas vitales o un registro poblacional) sobre enfermedad isquémica cardíaca en Estados Unidos; sin abstract no se puede precisar la fuente de datos, el período analizado ni la metodología estadística.\nPoblación: Población general de Estados Unidos, con foco en las muertes atribuidas a enfermedad isquémica cardíaca.\nIntervención: No aplica una intervención puntual; se trata de un análisis descriptivo de tendencias de mortalidad en relación con el control poblacional de los factores de riesgo cardiovascular.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar la fuente y calidad de los datos, el ajuste por variables demográficas (edad, sexo, región) ni la comparación con series históricas previas.\nMensaje: Sugiere que persisten fallas relevantes en el control de los factores de riesgo cardiovascular clásicos a nivel poblacional, lo que se traduciría en mortalidad evitable por enfermedad isquémica cardíaca y refuerza la necesidad de fortalecer la prevención primaria y secundaria.\nNota: análisis sin acceso al abstract."
+    },
+    "15a776cc4883": {
+      "resumen": "Nota de TCTMD sobre un asistente basado en inteligencia artificial (IA) diseñado para preparar a los pacientes antes de un cateterismo cardíaco, brindándoles información y resolviendo dudas previas al procedimiento. Interesa porque explora un uso concreto de la IA para mejorar la educación y la adherencia del paciente antes de un procedimiento invasivo.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título se infiere un estudio piloto o de factibilidad sobre el uso de un asistente de inteligencia artificial para preparar pacientes antes de un cateterismo cardíaco; sin abstract no se puede precisar si hubo grupo control, aleatorización, número de centros ni de pacientes.\nPoblación: Pacientes programados para cateterismo cardíaco diagnóstico o intervencionista.\nIntervención: Uso de un asistente de inteligencia artificial para educar al paciente antes del procedimiento, presumiblemente comparado con la preparación estándar habitual.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar el tamaño muestral, las medidas de resultado utilizadas (por ejemplo, ansiedad, comprensión o satisfacción del paciente) ni el riesgo de sesgo del diseño.\nMensaje: Sugiere que las herramientas de inteligencia artificial podrían tener un rol complementario en la educación del paciente previa a procedimientos cardiovasculares invasivos, aunque su impacto sobre desenlaces clínicos duros todavía no está establecido.\nNota: análisis sin acceso al abstract."
+    },
+    "e50c7a1cf0b3": {
+      "resumen": "La agencia FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó enlicitide, el primer inhibidor oral de PCSK9 (proproteína convertasa subtilisina/kexina tipo 9, una proteína clave en el metabolismo del colesterol LDL) para reducir el colesterol LDL (lipoproteína de baja densidad). Interesa porque una presentación oral simplificaría el tratamiento frente a los inhibidores de PCSK9 inyectables hoy disponibles.",
+      "destacado": false
+    },
     "95ce2aaadd5f": {
       "resumen": "Nota de TCTMD sobre datos que muestran que el uso de tenecteplase (TNK, un fármaco fibrinolítico que se administra en bolo único) en lugar de alteplase (que requiere infusión) para el accidente cerebrovascular (ACV) isquémico agudo se asocia a tiempos de tratamiento intrahospitalario más rápidos. Interesa porque el TNK viene ganando terreno como reemplazo del alteplase por su mayor practicidad, y esto podría traducirse en mejor cumplimiento de los tiempos puerta-aguja.",
       "destacado": false,
@@ -8,19 +22,6 @@
     },
     "91b6304043d8": {
       "resumen": "Nota de TCTMD sobre la posibilidad de que los Centros de Servicios de Medicare y Medicaid (CMS, la agencia estadounidense que regula la cobertura de salud pública) revisen la determinación nacional de cobertura (NCD, National Coverage Determination) para el reemplazo valvular aórtico transcatéter (TAVR). Interesa porque cualquier cambio en los criterios de cobertura de CMS suele repercutir después en guías y práctica de TAVR a nivel global.",
-      "destacado": false
-    },
-    "c0588fa22cb8": {
-      "resumen": "Nota breve de TCTMD centrada en el cardiólogo Raj Khandwalla, sin más precisiones disponibles a partir del título. Se incluye por pertenecer al newsfeed de cardiología, aunque sin el cuerpo del texto no es posible precisar de qué trata su aporte específico.",
-      "destacado": false
-    },
-    "e21cfa2949f2": {
-      "resumen": "Nota de TCTMD sobre nuevos datos del estudio PROMISE (Prospective Multicenter Imaging Study for Evaluation of Chest Pain) que reabren el debate sobre el valor del análisis cuantitativo de placa (QPA, quantitative plaque analysis) por tomografía computada de coronarias frente al puntaje de calcio coronario (CAC, coronary artery calcium score) tradicional. Interesa porque el QPA podría aportar información pronóstica sobre carga y composición de placa que el CAC no captura.",
-      "destacado": false,
-      "analisis": "Diseño: Se trata de un nuevo análisis secundario del estudio PROMISE (ensayo clínico multicéntrico original que comparó estrategias diagnósticas en dolor torácico); por el título no se puede precisar el número de pacientes de este subanálisis ni si hubo aleatorización o cegamiento específicos.\nPoblación: Pacientes del estudio PROMISE original, con dolor torácico estable evaluados mediante angiotomografía coronaria, en quienes se comparó la información aportada por el análisis cuantitativo de placa (QPA) frente al puntaje de calcio coronario (CAC).\nIntervención: Comparación de dos estrategias de caracterización de riesgo coronario por imágenes: QPA (evalúa cantidad y composición de la placa) versus CAC (solo cuantifica el calcio).\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar el tamaño muestral de este subanálisis, el tiempo de seguimiento ni el ajuste por otros factores de riesgo cardiovascular.\nMensaje: Reabre la discusión sobre si el análisis cuantitativo de placa debería complementar —o eventualmente reemplazar— al puntaje de calcio coronario en la estratificación de riesgo de pacientes con dolor torácico, aunque la adopción práctica todavía requiere más evidencia.\nNota: análisis sin acceso al abstract."
-    },
-    "9c4f9f3aaf4f": {
-      "resumen": "Nota de TCTMD sobre cómo cerrar la brecha entre el conocimiento generado por la inteligencia artificial (IA) y su aplicación real en el manejo de la insuficiencia cardíaca (IC). Interesa porque plantea el problema práctico de implementar herramientas de IA en cardiología, un tema relevante para quien combina la clínica con el análisis de datos.",
       "destacado": false
     },
     "5a39088cfdfe": {
@@ -45,54 +46,54 @@
       "destacado": true,
       "analisis": "Diseño: Por el título se infiere un estudio o revisión (posiblemente una cohorte, un registro o un metaanálisis) sobre las consecuencias clínicas de suspender la aspirina en enfermedad coronaria; sin abstract no se puede precisar el diseño exacto, aleatorización, cegamiento, ni número de centros o pacientes.\nPoblación: Pacientes con enfermedad coronaria establecida que discontinúan la aspirina, ya sea por decisión médica (por ejemplo, previo a una cirugía), por sangrado o por falta de adherencia.\nIntervención: Suspensión (withdrawal) de la aspirina, presumiblemente comparada contra la continuidad del tratamiento antiagregante.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar si se distingue entre suspensión programada y no programada, el tiempo de seguimiento, ni si se ajustó por el motivo de la discontinuación, un factor de confusión relevante en este tipo de análisis.\nMensaje: Refuerza la importancia de evaluar cuidadosamente el riesgo trombótico antes de suspender la aspirina en pacientes con enfermedad coronaria, y de buscar alternativas o una ventana de suspensión más segura cuando la discontinuación es inevitable.\nNota: análisis sin acceso al abstract."
     },
-    "9904e67143d8": {
-      "resumen": "Simon Willison (referente en el uso práctico de inteligencia artificial) comenta un renderizador que convierte diagramas Mermaid (un lenguaje para describir diagramas como código) en arte de caracteres Unicode, hallado en el código abierto del agente de programación grok CLI de xAI. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo visualizar diagramas de flujo o procesos directamente en la terminal, sin depender de una interfaz gráfica.",
+    "e924525b8f90": {
+      "resumen": "Hilo de Reddit del foro r/datascience donde un profesional que trabaja como científico de datos (data scientist) en la industria farmacéutica busca consejo sobre cómo orientar su carrera. Le sirve a un médico en transición hacia el análisis de datos porque aporta la perspectiva de alguien ya inserto en el cruce entre salud/farma y ciencia de datos, un camino similar al que está explorando.",
       "destacado": false
     },
-    "b83655916b3b": {
-      "resumen": "Simon Willison repasa la polémica en torno a la herramienta grok CLI de xAI, que llegó a subir directorios completos a servidores en la nube sin aviso claro, y su reciente apertura como código abierto (open source) tras las críticas de la comunidad. Le sirve a un médico que aprende análisis de datos como recordatorio de revisar bien qué datos comparte una herramienta de inteligencia artificial antes de correrla sobre carpetas con información sensible.",
-      "destacado": false
-    },
-    "a6b1361b275a": {
-      "resumen": "Publicación destacada en Hacker News que propone que SQLite (motor de base de datos liviano muy usado en aplicaciones y análisis de datos) adopte un sistema de 'ediciones' al estilo Rust, que permita introducir cambios que rompan compatibilidad de forma controlada y opcional. Le sirve a un médico que aprende análisis de datos porque SQLite suele ser la base de datos más simple para guardar y consultar sus propios conjuntos de datos sin necesidad de un servidor.",
-      "destacado": false
-    },
-    "3f67eb884b57": {
-      "resumen": "Documento en PDF difundido en Hacker News donde David Siegel argumenta que gobiernos, empresas y organizaciones sin fines de lucro deberían invertir en inteligencia artificial de código abierto (open source), en lugar de depender solo de modelos cerrados de pocas empresas. Le sirve a un médico que aprende análisis de datos para entender el debate de fondo sobre quién controla y financia las herramientas de inteligencia artificial que cada vez más se usan en investigación y salud.",
-      "destacado": false
-    },
-    "f42bd958467e": {
-      "resumen": "Repositorio de GitHub que anuncia la apertura como código abierto (open source) de Grok Build, la herramienta de construcción de software de xAI, en el mismo contexto de la polémica por el manejo de datos de su CLI hermana. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo un proyecto de código abierto permite auditar exactamente qué hace una herramienta antes de confiarle datos propios.",
-      "destacado": false
-    },
-    "4e4537485d14": {
-      "resumen": "Publicación en el foro de Reddit r/datascience (comunidad de discusión sobre ciencia de datos) donde alguien expresa inseguridad ante un próximo desafío profesional, sin que el título precise si se trata de una entrevista, un nuevo puesto o un proyecto. Le sirve a un médico en transición hacia el análisis de datos como testimonio de que la sensación de no estar preparado es común incluso entre quienes ya trabajan en el rubro.",
-      "destacado": false
-    },
-    "b71aeb894941": {
-      "resumen": "Hilo de r/datascience (foro de Reddit sobre ciencia de datos) donde se debate qué valor real reciben quienes son mentoreados en este campo, un tema recurrente en una disciplina con alta demanda de formación práctica. Le sirve a un médico que se está formando en análisis de datos para pensar qué esperar —y qué exigir— de un programa de mentoría.",
-      "destacado": false
-    },
-    "4a75b17c5fee": {
-      "resumen": "Thinking Machines Lab presenta 'Inkling', un modelo de inteligencia artificial de pesos abiertos (open-weights), es decir, cuyos parámetros entrenados se publican para que cualquiera pueda usarlos o modificarlos. Le sirve a un médico que aprende análisis de datos para seguir la tendencia hacia modelos que se pueden ejecutar y auditar de forma local, sin depender exclusivamente de servicios cerrados.",
-      "destacado": false
-    },
-    "0c8cb3bd6428": {
-      "resumen": "Artículo de Towards Data Science que advierte sobre el riesgo de usar el mismo modelo de inteligencia artificial (en este caso, Claude, de Anthropic) tanto para generar una respuesta como para evaluarla, lo que puede sesgar la calificación a favor de sus propios errores. Le sirve a un médico que aprende análisis de datos porque plantea un principio clave de buenas prácticas al evaluar sistemas de inteligencia artificial: separar quién produce el resultado de quién lo audita.",
+    "546beebc5838": {
+      "resumen": "Simon Willison (referente en el uso práctico de inteligencia artificial) analiza el lanzamiento de Kimi K3, un modelo de lenguaje del laboratorio chino Moonshot AI con 2,8 billones de parámetros, y retoma su particular 'benchmark del pelícano' (evaluar modelos pidiéndoles que dibujen un pelícano en formato SVG) como forma sencilla de comparar capacidades entre modelos. Le sirve a un médico que aprende análisis de datos para tener una herramienta informal y rápida de evaluar la calidad de un modelo de lenguaje antes de adoptarlo en un flujo de trabajo.",
       "destacado": true
     },
-    "394ed09a855d": {
-      "resumen": "Artículo de Towards Data Science sobre cómo construir sistemas de generación aumentada por recuperación (RAG, Retrieval-Augmented Generation) confiables en producción mediante evaluación continua, es decir, chequeos automáticos permanentes de la calidad de las respuestas. Le sirve a un médico que aprende análisis de datos porque el RAG es la técnica detrás de muchos asistentes de inteligencia artificial que buscan información en documentos (como guías clínicas) antes de responder, y entender su evaluación ayuda a confiar —o desconfiar— de esas respuestas.",
+    "b62b68c93c9c": {
+      "resumen": "Simon Willison cita a un ejecutivo de OpenAI que explica por qué el asistente de programación Codex (basado en GPT-5.6) llegó a borrar archivos inesperadamente, un problema que ocurre sobre todo cuando se lo ejecuta en modo de acceso completo sin las protecciones de aislamiento (sandbox). Le sirve a un médico que aprende análisis de datos como advertencia concreta sobre los riesgos de dar permisos amplios a agentes de inteligencia artificial que ejecutan código sobre archivos propios.",
       "destacado": false
     },
-    "6c9839435a7d": {
-      "resumen": "Cómo vivió el plantel de rugby de Inglaterra, de gira en Buenos Aires, la semifinal del Mundial de fútbol entre Argentina e Inglaterra."
+    "63a275056c51": {
+      "resumen": "Un consorcio alemán de inteligencia artificial presentó Soofi S, un modelo de pesos abiertos (open weights) de 30.000 millones de parámetros que lidera pruebas de referencia (benchmarks) tanto en inglés como en alemán. Le sirve a un médico que aprende análisis de datos para seguir la tendencia hacia modelos abiertos de tamaño manejable, que pueden ejecutarse con recursos de cómputo más modestos que los grandes modelos cerrados.",
+      "destacado": false
     },
-    "2015f6c6968f": {
-      "resumen": "Video: el plantel de Los Pumas celebró en Santiago del Estero la clasificación de la selección argentina de fútbol a la final del Mundial."
+    "3b778a230b47": {
+      "resumen": "Un desarrollador muestra cómo detectar textos generados por modelos de lenguaje grandes (LLM, Large Language Model) usando técnicas de aprendizaje automático (machine learning) clásicas, sin recurrir a otro modelo de inteligencia artificial de gran tamaño. Le sirve a un médico que aprende análisis de datos como ejemplo de que no todo problema de clasificación de texto necesita un modelo enorme: a veces los métodos estadísticos simples son suficientes y más interpretables.",
+      "destacado": false
     },
-    "8173c02e1abc": {
-      "resumen": "Así reaccionó el plantel de Los Pumas a cada gol de la selección argentina en la semifinal del Mundial ante Inglaterra."
+    "4cc0da1fe01e": {
+      "resumen": "Artículo de Towards Data Science que propone cinco elementos a preparar antes de delegar más tareas a agentes de inteligencia artificial: definir bien el trabajo recurrente, darles el contexto adecuado, explicar qué es un resultado de calidad y decidir dónde sigue haciendo falta el juicio humano. Le sirve a un médico que aprende análisis de datos porque plantea un marco práctico para incorporar agentes de IA de forma responsable sin perder el control de calidad.",
+      "destacado": false
+    },
+    "c1512500f0b0": {
+      "resumen": "Hilo de Reddit en r/datascience donde se discute la tendencia de empresas que exigen completar una evaluación técnica completa (OA, Online Assessment) antes de siquiera tener una entrevista con una persona real. Le sirve a un médico en transición hacia el análisis de datos para conocer de antemano cómo son hoy los procesos de selección en el rubro y prepararse mejor para ellos.",
+      "destacado": false
+    },
+    "054bb53f758e": {
+      "resumen": "Experimento tipográfico ('Decoy Font') que muestra una fuente diseñada para verse distinta según quién —o qué sistema— la lea, publicado en Hacker News. Le sirve a un médico que aprende análisis de datos como curiosidad sobre el uso creativo de patrones visuales, aunque no aporta herramientas directas de análisis de datos.",
+      "destacado": false
+    },
+    "f8da2c94a99e": {
+      "resumen": "Google renombró su herramienta NotebookLM como Gemini Notebook, un asistente de inteligencia artificial pensado para organizar y consultar documentos propios. Le sirve a un médico que aprende análisis de datos como opción concreta para volcar bibliografía o apuntes propios y poder consultarlos con lenguaje natural.",
+      "destacado": false
+    },
+    "586447921181": {
+      "resumen": "El laboratorio Thinking Machines Lab (liderado por Mira Murati) presentó Inkling, un modelo de inteligencia artificial de pesos abiertos (open weights) del tipo mezcla de expertos (Mixture-of-Experts), con 975.000 millones de parámetros totales de los cuales 41.000 millones se activan por consulta. Le sirve a un médico que aprende análisis de datos para seguir la tendencia hacia modelos grandes pero eficientes en cómputo, que además pueden auditarse al ser de pesos abiertos.",
+      "destacado": false
+    },
+    "da911c13902b": {
+      "resumen": "Los Pumas terminan de ultimar los detalles para enfrentar a Inglaterra por el Nations Championship."
+    },
+    "b4db5b589a7b": {
+      "resumen": "Crece la ilusión de que Argentina, y puntualmente Córdoba, sea sede del Mundial de Rugby 2035."
+    },
+    "3afb8a9e89ce": {
+      "resumen": "Hinchas ingleses protagonizaron una provocación en el Obelisco porteño previa al partido de Los Pumas ante Inglaterra."
     }
   }
 }

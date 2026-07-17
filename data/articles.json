@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-17T10:13:47.705777+00:00",
+ "generated_at": "2026-07-17T11:45:54.463153+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -89,6 +89,14 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "River arranca la competencia oficial del semestre con una final en los 16avos de la Copa Argentina",
+     "link": "https://www.ole.com.ar/river-plate/river-copa-argentina-aldosivi-coudet-salta_0_7zAs9p0Nwi.html",
+     "source": "Olé — River",
+     "published": "2026-07-17T10:01:05+00:00",
+     "copete": "El Millonario enfrenta a Aldosivi en un partido que promete ser una prueba crucial para sus aspiraciones en la Sudamericana y el camino a la Libertadores 2027.",
+     "id": "0a9da25ac688"
+    },
+    {
      "title": "Los Pumas palpitan el choque ante Inglaterra en el Madre de Ciudades por el Nations Championship",
      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPampGbkNlMjkxdFJoeTJNOHRyUGJCMEVBcFNzT1R1elRaTDByRFlSM0hLb0VOS2FxT3QxX2o5Z1UwMzI2cGxfaGJ4Tkxhcm4tV1k3TS1kamtFV3d0QzlBQXY2X3dFdWlkVUpNckgzVkpOTDRqZmdsbjZCVDk1Y0YtT3doSml4SWZLMVNNcENmTDlWbjAwUEk1R3VEUkJDeWp0NUo1NEVLM1JnV3NUNk1FYV9HNUJIUVk1SUozRUVhTlk5elJS?oc=5",
      "source": "diariolapluma.com.ar",
@@ -166,14 +174,6 @@
      "id": "832cea883340"
     },
     {
-     "title": "Furor por River en Salta: largas filas por una entrada para ver al equipo de Coudet",
-     "link": "https://www.ole.com.ar/river-plate/river-venta-entradas-salta-copa-argentina_0_ZJJwaEA2tx.html",
-     "source": "Olé — River",
-     "published": "2026-07-16T19:34:01+00:00",
-     "copete": "El Millonario enfrentará este viernes por la noche a Aldosivi en el Padre Martearena, donde se vive un clima de gran expectativa.",
-     "id": "fb8e46e6fe77"
-    },
-    {
      "title": "Formación confirmada para recibir a Inglaterra en Santiago del Estero",
      "link": "https://uar.com.ar/formacion-confirmada-para-recibir-a-inglaterra-en-santiago-del-estero/",
      "source": "UAR",
@@ -205,11 +205,26 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "One RAG Pipeline, Four Very Different PDFs: Same Four Bricks, Every Answer Typed and Cited",
+     "link": "https://towardsdatascience.com/one-rag-pipeline-four-very-different-pdfs-same-four-bricks-every-answer-typed-and-cited/",
+     "source": "Towards Data Science",
+     "published": "2026-07-17T10:30:00+00:00",
+     "copete": "Enterprise Document Intelligence [Vol.1 #9B] - One call wires the four upgraded bricks together, run on a paper, a NIST standard, and a report with a broken TOC The post One RAG Pipeline, Four Very Different PDFs: Same Four Bricks, Every…",
+     "id": "c201436c7a1f"
+    },
+    {
      "title": "Context degradation in LLMs: what the papers actually show, and the habits I built for long analysis sessions",
      "link": "https://www.reddit.com/r/datascience/comments/1uyt3b7/context_degradation_in_llms_what_the_papers/",
      "source": "r/datascience",
      "published": "2026-07-17T07:49:02+00:00",
      "id": "fa1dbdd739c9"
+    },
+    {
+     "title": "EEG shows brain can simultaneous encode two speech streams",
+     "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-17T05:51:10+00:00",
+     "id": "6e0e732e58b8"
     },
     {
      "title": "Pebble Mega Update – July 2026",
@@ -232,13 +247,6 @@
      "published": "2026-07-17T02:58:07+00:00",
      "copete": "Suggestion for hyperscalers feeling pressure over data center water use: Buy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into birdwatching - help…",
      "id": "8840673948d8"
-    },
-    {
-     "title": "GrapheneOS recommended for domestic abuse victims",
-     "link": "https://privacypros.com.au/privacy-hub/articles/dv-safe-phone-australia/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-17T01:36:52+00:00",
-     "id": "f5df04cb12f2"
     },
     {
      "title": "The human-in-the-loop is tired",
@@ -269,14 +277,6 @@
      "published": "2026-07-16T20:19:30+00:00",
      "copete": "Chinese AI lab Moonshot AI announced Kimi K3 this morning, describing it as their \"most capable model to date, with 2.8 trillion parameters\". It's currently available via their website and API, but an open weight release is promised \"by…",
      "id": "546beebc5838"
-    },
-    {
-     "title": "Prepare These 5 Assets Before Your AI Agents Take On More Work",
-     "link": "https://towardsdatascience.com/prepare-these-5-assets-before-your-ai-agents-take-on-more-work/",
-     "source": "Towards Data Science",
-     "published": "2026-07-16T16:30:00+00:00",
-     "copete": "How to define recurring work, give AI the right context, explain what high-quality work looks like, and decide where human judgment is still needed. The post Prepare These 5 Assets Before Your AI Agents Take On More Work appeared first on…",
-     "id": "4cc0da1fe01e"
     }
    ]
   },
@@ -286,100 +286,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Entre teorías conspirativas y la verdad: a 27 años del día que John F. Kennedy Jr. estrelló su avión en el océano Atlántico",
-     "link": "https://www.lanacion.com.ar/lifestyle/entre-teorias-conspirativas-y-la-verdad-a-27-anos-del-dia-que-john-f-kennedy-jr-estrello-su-avion-en-nid16072026/",
+     "title": "Ya llueve en varios puntos de Buenos Aires y se espera que la tormenta llegue a la Ciudad",
+     "link": "https://www.lanacion.com.ar/sociedad/ya-llueve-en-varios-puntos-de-buenos-aires-y-se-espera-que-la-tormenta-llegue-a-la-ciudad-nid17072026/",
      "source": "La Nación",
-     "published": "2026-07-17T10:08:39+00:00",
-     "copete": "En un nuevo aniversario de la tragedia que terminó con la vida del hijo de John F. Kennedy, su mujer, Carolyn Bessette, y su cuñada, las causas del accidente aéreo y la versión que aún alimenta el mito de la familia",
-     "id": "014a93738e90"
+     "published": "2026-07-17T11:43:42+00:00",
+     "copete": "El Servicio Meteorológico anticipa un 100% de probabilidades de actividad eléctrica en la Ciudad para el mediodía",
+     "id": "7319f6786abd"
     },
     {
-     "title": "Mundial 2026, en vivo: el primer día de la selección en Nueva Jersey y los preparativos para la final",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-en-vivo-el-primer-dia-de-la-seleccion-en-nueva-jersey-y-los-preparativos-para-la-final-nid17072026/",
+     "title": "Qué significa el emoji del 100 en WhatsApp y cuándo se usa",
+     "link": "https://www.lanacion.com.ar/tecnologia/que-significa-el-emoji-del-100-en-whatsapp-y-cuando-se-usa-nid17072026/",
      "source": "La Nación",
-     "published": "2026-07-17T10:08:35+00:00",
-     "copete": "Las últimas noticias de la selección argentina, declaraciones de los jugadores y entrenadores, y reacciones sobre los partidos",
-     "id": "553c7f0781c8"
+     "published": "2026-07-17T11:42:35+00:00",
+     "copete": "Este emoji esconde un significado que va más allá del número y se convirtió en una de las formas más comunes de mostrar aprobación; los detalles",
+     "id": "c8457a620cfb"
     },
     {
-     "title": "Mundial 2026, en VIVO: últimas noticias de hoy, 17 de julio, el minuto a minuto de la jornada y cómo sigue la preparación de los finalistas",
-     "link": "https://www.infobae.com/deportes/2026/07/17/mundial-2026-en-vivo-ultimas-noticias-de-hoy-17-de-julio-el-minuto-a-minuto-de-la-jornada-y-como-sigue-la-preparacion-de-los-finalistas/",
+     "title": "Franco Colapinto en el Gran Premio de Bélgica, en vivo",
+     "link": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-el-gran-premio-de-belgica-en-vivo-nid17072026/",
+     "source": "La Nación",
+     "published": "2026-07-17T11:42:22+00:00",
+     "copete": "El argentino participa en las dos primeras prácticas del viernes en Spa Francorchamps; televisa Disney+",
+     "id": "882192fd5b29"
+    },
+    {
+     "title": "Un micro cayó desde un puente de seis metros en Carmen de Areco: hay varios heridos",
+     "link": "https://www.lanacion.com.ar/sociedad/un-micro-cayo-desde-un-puente-de-seis-metros-en-carmen-de-areco-hay-personas-atrapadas-nid17072026/",
+     "source": "La Nación",
+     "published": "2026-07-17T11:41:39+00:00",
+     "copete": "Ocurrió en la ruta nacional 7, cerca del cruce con la ruta 31; viajaban alrededor de 20 pasajeros",
+     "id": "b9a071d33f7d"
+    },
+    {
+     "title": "Alerta por tormentas y fuertes vientos: comenzó a caer granizo en algunas zonas del AMBA",
+     "link": "https://www.infobae.com/sociedad/2026/07/17/alerta-por-tormentas-con-posible-granizo-en-el-amba-que-dice-el-pronostico-para-el-dia-de-la-final-del-mundial/",
      "source": "Infobae",
-     "published": "2026-07-17T10:04:42+00:00",
-     "copete": "Las selecciones de Argentina y España ya se encuentran instaladas en Nueva Jersey mientras la expectativa crece de cara a la definición del próximo domingo",
-     "id": "88d05a2d11fd"
+     "published": "2026-07-17T11:41:11+00:00",
+     "copete": "El Servicio Meteorológico Nacional advierte sobre ráfagas de viento en varios puntos del país. Cómo estará el clima para la final del Mundial, este domingo. En qué provincias hay alertas amarillas y naranjas",
+     "id": "4514a39bcbe2"
     },
     {
-     "title": "Franco Colapinto inicia su actividad en el GP de Bélgica con las primeras prácticas: hora, TV y lo que hay que saber",
+     "title": "Se avecina El Niño con “riesgo extremo” por tormentas intensas, actividad eléctrica, granizo y ráfagas en medio del frío polar: las zonas afectadas",
+     "link": "https://www.lanacion.com.ar/sociedad/se-avecina-el-nino-con-riesgo-extremo-por-tormentas-intensas-actividad-electrica-granizo-y-rafagas-nid14072026/",
+     "source": "La Nación",
+     "published": "2026-07-17T11:41:09+00:00",
+     "copete": "Después de un comienzo de semana marcado por las bajas temperaturas y la estabilidad, la circulación atmosférica comenzará a modificarse; el calor y la humedad del norte alimentarán un escenario favorable para fenómenos severos",
+     "id": "5c3c8d7ae9a1"
+    },
+    {
+     "title": "Franco Colapinto afronta la primera práctica libre del GP de Bélgica",
      "link": "https://www.infobae.com/deportes/2026/07/17/franco-colapinto-inicia-su-actividad-en-el-gp-de-belgica-con-las-primeras-practicas-hora-tv-y-lo-que-hay-que-saber/",
      "source": "Infobae",
-     "published": "2026-07-17T10:04:01+00:00",
-     "copete": "El argentino correrá en el mítico trazado de Spa-Francorchamps de la mano de Alpine y afrontará los dos ensayos iniciales en la Fórmula 1",
+     "published": "2026-07-17T11:40:51+00:00",
+     "copete": "El argentino corre en el mítico trazado de Spa-Francorchamps de la mano de Alpine",
      "id": "6821a7972891"
     },
     {
-     "title": "Javier Milei y sus medidas, en vivo: el debate por la ley de tierras y el operativo para recibir a la selección argentina",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-debate-por-la-ley-de-tierras-y-el-operativo-para-recibir-a-la-nid17072026/",
-     "source": "La Nación",
-     "published": "2026-07-17T10:03:50+00:00",
-     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "e791c8a65ed1"
-    },
-    {
-     "title": "Mostraba departamentos que no le pertenecían: así estafó a hispanos en Nueva York por 100 mil dólares",
-     "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/mostraba-departamentos-que-no-le-pertenecian-asi-estafo-a-hispanos-en-nueva-york-por-100-mil-dolares-nid17072026/",
-     "source": "La Nación",
-     "published": "2026-07-17T10:00:00+00:00",
-     "copete": "Conoce cómo Juan Valoy estafó a hispanos en Nueva York con falsos alquileres y obtuvo más de US$100.000 en el Bronx y Manhattan antes de ser detenido",
-     "id": "f00ff113329b"
-    },
-    {
-     "title": "El nombre francés de niña que se volvió viral en la Argentina y cada vez más papás eligen",
-     "link": "https://www.lanacion.com.ar/lifestyle/el-nombre-frances-de-nina-que-se-volvio-viral-en-la-argentina-y-cada-vez-mas-papas-eligen-nid09072026/",
-     "source": "La Nación",
-     "published": "2026-07-17T09:48:23+00:00",
-     "copete": "En los últimos años, las tendencias a la hora de elegir cómo llamar a un hijo comenzaron a cambiar y cada vez son más los padres que buscan nombres cortos, elegantes y fáciles de pronunciar",
-     "id": "44db525d3576"
-    },
-    {
-     "title": "De cuánto serán las AUH de ANSES en agosto 2026",
-     "link": "https://www.infobae.com/economia/2026/07/17/de-cuanto-seran-las-auh-de-anses-en-agosto-2026/",
+     "title": "Carmen de Areco: un micro cayó de un puente en la ruta 7 y hay varios heridos",
+     "link": "https://www.infobae.com/sociedad/2026/07/17/carmen-de-areco-un-micro-cayo-de-un-puente-en-la-ruta-7-y-hay-varios-heridos/",
      "source": "Infobae",
-     "published": "2026-07-17T09:40:52+00:00",
-     "copete": "El organismo previsional actualizará las asignaciones mediante la movilidad mensual basada en el IPC de junio, con montos renovados y la continuidad del sistema de cobro con retención parcial y validación anual de la Libreta AUH…",
-     "id": "21398630c0ad"
+     "published": "2026-07-17T11:37:56+00:00",
+     "copete": "Ocurrió esta madrugada, en dirección a Buenos Aires. Un pasajero dijo que el viento hizo que el vehículo cayera y que uno de los choferes saltó cuando el ómnibus estaba en movimiento",
+     "id": "b95e49402940"
     },
     {
-     "title": "River se enfrentará a Aldosivi por la Copa Argentina con la expectativa por los flamantes refuerzos: hora, TV y formaciones",
-     "link": "https://www.infobae.com/deportes/2026/07/17/river-se-enfrentara-a-aldosivi-por-la-copa-argentina-con-la-expectativa-por-los-flamantes-refuerzos-hora-tv-y-formaciones/",
+     "title": "Causa Sur Finanzas: el ex presidente de Banfield pidió su sobreseimiento",
+     "link": "https://www.infobae.com/politica/2026/07/17/causa-sur-finanzas-el-ex-presidente-de-banfield-pidio-su-sobreseimiento/",
      "source": "Infobae",
-     "published": "2026-07-17T09:40:38+00:00",
-     "copete": "El Millonario se medirá ante el Tiburón mientras busca consolidar el proyecto de Coudet y cortar una sequía de títulos",
-     "id": "8c413ab415c8"
+     "published": "2026-07-17T11:36:18+00:00",
+     "copete": "Por segunda vez, Eduardo Juan Spinosa declaró ante el juez federal Luis Armella; lo hizo como representante del Fideicomiso de Reconstrucción Banfileña. La vinculación de la AFA con la financiera de Maximiliano Ariel Vallejo",
+     "id": "d366f068b21f"
     },
     {
-     "title": "ANSES: quiénes cobran hoy, viernes 17 de julio de 2026",
-     "link": "https://www.infobae.com/economia/2026/07/17/anses-quienes-cobran-hoy-viernes-17-de-julio-de-2026/",
+     "title": "Darío Barassi reveló en Ahora Caigo: “Mi mujer está enamorada de Otamendi”",
+     "link": "https://www.infobae.com/teleshow/2026/07/17/dario-barassi-revelo-en-ahora-caigo-mi-mujer-esta-enamorada-de-otamendi/",
      "source": "Infobae",
-     "published": "2026-07-17T09:40:17+00:00",
-     "copete": "El organismo previsional difundió el calendario de julio y detalló que hoy se acreditan haberes y beneficios para varias prestaciones, con turnos que dependen del último número del documento en cada caso",
-     "id": "ba491c71a09d"
+     "published": "2026-07-17T11:35:06+00:00",
+     "copete": "El conductor contó en vivo una intimidad familiar que desató carcajadas junto a un concursante de Talar de Pacheco y volvió viral el fanatismo de Lucía Gómez Centurión por el defensor campeón mundial",
+     "id": "f54ee49bb001"
     },
     {
-     "title": "En California: crece la disputa por el agua y los condados exigen garantías para el suministro futuro",
-     "link": "https://www.clarin.com/estados-unidos/california-crece-disputa-agua-condados-exigen-garantias-suministro-futuro_0_hfdmYsEJTf.html",
+     "title": "Dólar hoy en México: precio y cotización de la divisa este viernes 17 de julio de 2026",
+     "link": "https://www.clarin.com/economia/dolar-hoy-en-mexico-precio-y-cotizacion-de-la-divisa-este-viernes-17-de-julio-de-2026_0_d1FcQH1SSZ.html",
      "source": "Clarín",
-     "published": "2026-07-17T08:13:01+00:00",
-     "copete": "La disputa involucra a distritos de agua del área de Sacramento y el uso de recursos superficiales clave. El centro del conflicto es cómo asegurar suministros confiables sin afectar el ambiente ni la planificación regional.",
-     "id": "caf0cf96b28e"
+     "published": "2026-07-17T10:40:21+00:00",
+     "copete": "Mirá la cotización del dólar en México, su variación y los valores de referencia. Cómo es la tendencia de la moneda estadounidense en lo que va del año.",
+     "id": "1a939983736e"
     },
     {
-     "title": "Gabriela González, nefróloga: “No todo el mundo debe tomar 3 litros de agua por día ni comer sin sodio”",
-     "link": "https://www.clarin.com/buena-vida/gabriela-gonzalez-nefrologa-mundo-debe-tomar-3-litros-agua-dia-comer-sodio_0_jn2YzKocjS.html",
+     "title": "Dólar hoy en Paraguay: precio y cotización de la divisa este viernes 17 de julio de 2026",
+     "link": "https://www.clarin.com/economia/dolar-hoy-en-paraguay-precio-y-cotizacion-de-la-divisa-este-viernes-17-de-julio-de-2026_0_c02NA2WpTW.html",
      "source": "Clarín",
-     "published": "2026-07-17T08:01:01+00:00",
-     "copete": "Especialmente en los adultos mayores es fundamental revisar y personalizar las reocomendaciones. Uno de cada cinco pueden tener hiponatremia: qué es, cuidados y tratamiento.",
-     "id": "692692732331"
+     "published": "2026-07-17T10:40:21+00:00",
+     "copete": "Mirá la cotización del dólar en Paraguay, su variación y los valores de referencia. Cómo es la tendencia de la moneda estadounidense en lo que va del año.",
+     "id": "d2dd800c2cdc"
     }
    ]
   },
@@ -392,81 +392,81 @@
      "title": "¡Crece la épica de Argentina! Remonta 2-1 a Inglaterra y enfrentará a España en la final del Mundial 2026",
      "link": "https://www.bbc.co.uk/mundo/live/cdejeeez4y2t?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-17T10:13:46.716090+00:00",
+     "published": "2026-07-17T11:45:53.502838+00:00",
      "copete": "Inglaterra comenzó ganando con gol de Gordon, pero Argentina logró remontarlo con goles de Enzo Fernández y Lautaro Martínez. La selección de Lionel Messi disputará la final contra España el domingo.",
      "id": "3ccfbcb14bcb"
+    },
+    {
+     "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+     "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-17T11:37:00+00:00",
+     "copete": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
+     "id": "0a60831426e0"
+    },
+    {
+     "title": "El Partido Laborista proclama oficialmente nuevo líder a Andy Burnham",
+     "link": "https://elpais.com/internacional/2026-07-17/el-partido-laborista-proclama-oficialmente-nuevo-lider-a-andy-burnham.html",
+     "source": "El País Internacional",
+     "published": "2026-07-17T11:36:46+00:00",
+     "copete": "El nuevo dirigente de la formación se convertirá en primer ministro el lunes, cuando reciba el encargo del rey de formar Gobierno",
+     "id": "9249d98e99ee"
+    },
+    {
+     "title": "Vuelo 901: las incógnitas que rodean el caso del avión derribado por un atacante suicida en Panamá un día después del atentado a la AMIA en Argentina",
+     "link": "https://www.bbc.com/mundo/articles/cly09e1eddwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-17T11:11:16+00:00",
+     "copete": "Tras más de tres décadas de incógnitas e impunidad, el esclarecimiento del caso parece hoy más probable que nunca. Con un imputado extraditado desde Venezuela y que Israel vincula a Hezbolá, la Fiscalía panameña lo investiga como \"un acto…",
+     "id": "ac48fb2bdcfd"
+    },
+    {
+     "title": "China hits out at British Steel nationalisation",
+     "link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-17T11:07:45+00:00",
+     "copete": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
+     "id": "4f642199e20a"
+    },
+    {
+     "title": "US launches new strikes as Iran says civilian infrastructure hit",
+     "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-17T10:57:50+00:00",
+     "copete": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.",
+     "id": "d9c7ae522ab9"
+    },
+    {
+     "title": "Bodycam footage shows airlift of girl stranded by Texas floods",
+     "link": "https://www.bbc.co.uk/news/videos/c36d1n6g3x9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-17T10:51:40+00:00",
+     "copete": "Footage shows a rescuer reaching a family of three stranded by floods that destroyed their house in Uvalde county.",
+     "id": "6a2150643b0b"
+    },
+    {
+     "title": "Consulta toda la información aquí",
+     "link": "https://www.bbc.com/mundo/articles/c3v25v922k4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-17T10:41:46+00:00",
+     "copete": "Este interactivo te muestra las fechas, horarios, resultados, tablas de posiciones de los grupos y las subsiguientes fases eliminatorias y finalistas de los 104 partidos del torneo.",
+     "id": "ff186137fe1b"
+    },
+    {
+     "title": "\"Parece un cuento perfecto\": la historia detrás de la famosa foto de Messi bañando a Lamine Yamal contada por el fotógrafo que la tomó",
+     "link": "https://www.bbc.com/mundo/articles/c8xnlyzgzlvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-17T10:40:11+00:00",
+     "copete": "Lionel Messi y Lamine Yamal se enfrentarán este domingo en la final del Mundial, pero no es la primera vez que se encuentran.",
+     "id": "792e804a5c59"
     },
     {
      "title": "Alemania propone que una fuerza de paz de la UE sustituya a la misión de la ONU en Líbano",
      "link": "https://elpais.com/internacional/2026-07-17/alemania-propone-que-una-fuerza-de-paz-de-la-ue-sustituya-a-la-mision-de-la-onu-en-libano.html",
      "source": "El País Internacional",
      "published": "2026-07-17T10:04:34+00:00",
-     "copete": "El Gobierno de Merz teme que el fin del mandato de Finul produzca un “vacío de seguridad” en plenas negociaciones para frenar el avance del ejército israelí",
+     "copete": "El Gobierno de Merz teme que el fin del mandato de Finul produzca un “vacío de seguridad” en plenas negociaciones para lograr la retirada del Ejército israelí",
      "id": "223b4e5de9cc"
-    },
-    {
-     "title": "School bus crash kills at least 20 pupils in Uganda",
-     "link": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-17T10:04:27+00:00",
-     "copete": "Dozens others, including school staff, were injured in the crash, suspected to have been caused by a mechanical fault.",
-     "id": "4c300e4125ce"
-    },
-    {
-     "title": "China tacha de “invenciones” las acusaciones de Trump sobre su supuesta injerencia en las elecciones de 2020",
-     "link": "https://elpais.com/internacional/2026-07-17/china-tacha-de-invenciones-las-acusaciones-de-trump-sobre-su-supuesta-injerencia-en-las-elecciones-de-2020.html",
-     "source": "El País Internacional",
-     "published": "2026-07-17T09:59:23+00:00",
-     "copete": "Las declaraciones del líder estadounidense, cargando directamente contra Pekín, amenazan con enturbiar la relación bilateral antes del próximo encuentro entre el republicano y Xi",
-     "id": "f37508a9d993"
-    },
-    {
-     "title": "¿Es Messi mejor que Maradona y Pelé? Los argumentos que sitúan al jugador en la cima del fútbol",
-     "link": "https://www.bbc.com/mundo/articles/c3v0x1x6ynko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-17T09:45:31+00:00",
-     "copete": "La gesta de Messi de liderar a su selección a una tercera final de una Copa del Mundo lo encumbra en una parte muy alta de la lista del mejor futbolista de la historia.",
-     "id": "526ac60851a7"
-    },
-    {
-     "title": "Vídeo | ¿Por qué la UE no puede romper con Turquía?",
-     "link": "https://elpais.com/internacional/2026-07-17/video-por-que-la-ue-no-puede-romper-con-turquia.html",
-     "source": "El País Internacional",
-     "published": "2026-07-17T09:31:39+00:00",
-     "copete": "OTAN, migración, comercio y defensa: las claves de la compleja relación con Ankara",
-     "id": "cb38d16942e6"
-    },
-    {
-     "title": "US launches new strikes as Iran says civilian infrastructure hit",
-     "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-17T09:27:39+00:00",
-     "copete": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.",
-     "id": "d9c7ae522ab9"
-    },
-    {
-     "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
-     "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-17T09:12:06+00:00",
-     "copete": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
-     "id": "0a60831426e0"
-    },
-    {
-     "title": "Estados Unidos bombardea puentes y otras infraestructuras en Irán",
-     "link": "https://elpais.com/internacional/2026-07-17/estados-unidos-bombardea-puentes-y-otras-infraestructuras-en-iran.html",
-     "source": "El País Internacional",
-     "published": "2026-07-17T08:33:50+00:00",
-     "copete": "La República Islámica golpea Siria por primera vez y lanza nuevos ataques contra instalaciones estadounidenses en Oriente Próximo",
-     "id": "1ead585b224f"
-    },
-    {
-     "title": "China hits out at British Steel nationalisation",
-     "link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-17T08:25:55+00:00",
-     "copete": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-     "id": "4f642199e20a"
     }
    ]
   }

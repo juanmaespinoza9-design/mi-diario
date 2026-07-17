@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T22:04:55Z",
+  "generated_at": "2026-07-17T10:04:55Z",
   "summaries": {
     "fb835bd596fb": {
       "resumen": "Nota de TCTMD sobre datos de mortalidad en Estados Unidos que muestran que las muertes por enfermedad isquémica cardíaca (la causada por obstrucción de las arterias coronarias) reflejan un control deficiente de los factores de riesgo cardiovascular clásicos, como la hipertensión arterial, la dislipemia, la diabetes y el tabaquismo. Interesa porque, pese a los avances terapéuticos y de intervencionismo, la prevención primaria sigue siendo el eslabón más débil.",
@@ -30,7 +30,8 @@
     },
     "f04c544b7e32": {
       "resumen": "Editorial de JACC (Journal of the American College of Cardiology) que analiza cómo interpretar los resultados de estudios cuantitativos de función autonómica (evaluación del control involuntario de la frecuencia cardíaca, la presión arterial y otras funciones) en pacientes con COVID prolongado (long COVID). Interesa porque ayuda a poner en contexto clínico hallazgos de pruebas autonómicas que muchas veces son difíciles de interpretar de forma aislada.",
-      "destacado": false
+      "destacado": false,
+      "analisis": "Diseño: Por el título (\"Invisible in Full View\") se trataría de un artículo de perspectiva o editorial en JACC (Journal of the American College of Cardiology) que discute cómo interpretar los resultados de estudios cuantitativos de función autonómica en COVID prolongado (long COVID); no queda claro si presenta datos originales propios o si comenta hallazgos de otro trabajo del mismo número, como el de Vernino S et al.\nPoblación: Pacientes con COVID prolongado (long COVID) evaluados mediante pruebas cuantitativas de función autonómica (control involuntario de la frecuencia cardíaca, la presión arterial y otras variables).\nIntervención: No aplica una intervención terapéutica; se centra en la interpretación metodológica de las pruebas autonómicas cuantitativas.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede determinar si aporta datos propios o es un comentario sobre estudios previos, ni la solidez metodológica de las pruebas autonómicas discutidas.\nMensaje: Aporta contexto para interpretar con cautela los resultados de las pruebas autonómicas cuantitativas en long COVID, un área donde la heterogeneidad de hallazgos genera confusión diagnóstica.\nNota: análisis sin acceso al abstract."
     },
     "800d4cf9716b": {
       "resumen": "Estudio de JACC (Journal of the American College of Cardiology) que compara los patrones de disfunción autonómica (alteración del control involuntario de funciones como la frecuencia cardíaca y la presión arterial) en pacientes con COVID prolongado (long COVID) frente a los de la falla autonómica pura (pure autonomic failure), una enfermedad neurodegenerativa distinta. Interesa porque sugiere que el mecanismo de disautonomía post-COVID no sería igual al de las enfermedades neurodegenerativas clásicas, lo que podría cambiar el enfoque diagnóstico.",
@@ -39,61 +40,59 @@
     },
     "85c1534c7c9a": {
       "resumen": "Artículo de opinión de JACC (Journal of the American College of Cardiology) sobre las brechas en la identificación de pacientes en riesgo de muerte súbita cardíaca, reflexionando sobre por qué muchos casos no se anticipan pese a los controles médicos previos. Interesa porque cuestiona las estrategias actuales de estratificación de riesgo y podría orientar cambios en cómo se prioriza el tamizaje cardiovascular.",
-      "destacado": false
+      "destacado": false,
+      "analisis": "Diseño: Por el título (\"Who Dies Suddenly, and Why We Miss Them\") se trataría de un artículo de perspectiva o editorial en JACC (Journal of the American College of Cardiology) que reflexiona sobre la muerte súbita cardíaca y las limitaciones de las estrategias actuales para anticiparla; no se advierte, por el título, que presente una cohorte o un análisis de datos original propio.\nPoblación: Pacientes en riesgo de muerte súbita cardíaca, con foco en aquellos que fallecen sin haber sido identificados previamente como de alto riesgo por las estrategias de estratificación vigentes.\nIntervención: No aplica una intervención puntual; se trata de una reflexión sobre las herramientas de estratificación de riesgo de muerte súbita actualmente disponibles.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede saber si incluye datos poblacionales propios, revisión de series de casos, o si es puramente un ensayo de opinión.\nMensaje: Cuestiona la eficacia de los métodos actuales de estratificación de riesgo de muerte súbita cardíaca y llama a repensar cómo se identifica a los pacientes que hoy \"se nos escapan\", con implicancia directa en la prevención primaria.\nNota: análisis sin acceso al abstract."
     },
     "bc209a9482da": {
       "resumen": "Artículo de JACC (Journal of the American College of Cardiology) sobre las consecuencias clínicas de suspender la aspirina (ácido acetilsalicílico) en pacientes con enfermedad coronaria (coronary artery disease), un escenario frecuente por mala adherencia, indicación quirúrgica o sangrado. Interesa porque la suspensión de la antiagregación es una decisión habitual en la práctica diaria, con un riesgo trombótico que no siempre se dimensiona bien.",
       "destacado": true,
       "analisis": "Diseño: Por el título se infiere un estudio o revisión (posiblemente una cohorte, un registro o un metaanálisis) sobre las consecuencias clínicas de suspender la aspirina en enfermedad coronaria; sin abstract no se puede precisar el diseño exacto, aleatorización, cegamiento, ni número de centros o pacientes.\nPoblación: Pacientes con enfermedad coronaria establecida que discontinúan la aspirina, ya sea por decisión médica (por ejemplo, previo a una cirugía), por sangrado o por falta de adherencia.\nIntervención: Suspensión (withdrawal) de la aspirina, presumiblemente comparada contra la continuidad del tratamiento antiagregante.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar si se distingue entre suspensión programada y no programada, el tiempo de seguimiento, ni si se ajustó por el motivo de la discontinuación, un factor de confusión relevante en este tipo de análisis.\nMensaje: Refuerza la importancia de evaluar cuidadosamente el riesgo trombótico antes de suspender la aspirina en pacientes con enfermedad coronaria, y de buscar alternativas o una ventana de suspensión más segura cuando la discontinuación es inevitable.\nNota: análisis sin acceso al abstract."
     },
+    "8840673948d8": {
+      "resumen": "Simon Willison comenta, con humor, una propuesta para que las grandes empresas tecnológicas (hyperscalers) compren clubes de golf exclusivos y los conviertan en parques públicos como forma de compensar las críticas por el uso de agua de los centros de datos (data centers) que alimentan la inteligencia artificial. Le sirve a un médico que aprende análisis de datos como recordatorio de que el costo ambiental de la infraestructura de IA es un tema creciente de debate público.",
+      "destacado": false
+    },
+    "9a0643a99317": {
+      "resumen": "Artículo que plantea que el modelo de \"humano en el bucle\" (human-in-the-loop, la revisión humana de cada resultado de un agente de inteligencia artificial) se está volviendo insostenible a medida que los agentes producen más trabajo del que una persona puede supervisar en detalle. Le sirve a un médico que aprende análisis de datos porque advierte sobre los límites reales de confiar en la supervisión humana como única garantía de calidad al usar IA.",
+      "destacado": false
+    },
+    "d54546b30bf8": {
+      "resumen": "Simon Willison comenta un proyecto que logró compilar el navegador Firefox a WebAssembly (un formato que permite ejecutar código nativo dentro del navegador) para hacerlo correr completo dentro de otro navegador. Le sirve a un médico que aprende análisis de datos como muestra extrema de hasta dónde llega hoy la portabilidad de software mediante WebAssembly, una tecnología cada vez más usada también para acelerar herramientas de análisis de datos en el navegador.",
+      "destacado": false
+    },
+    "c576c3c02fc7": {
+      "resumen": "Hilo de Reddit en r/datascience donde se debate cómo y dónde vender datos de entrenamiento (training data) para modelos de inteligencia artificial. Le sirve a un médico que aprende análisis de datos para conocer una vía de monetización de datos que empieza a ganar relevancia en la industria.",
+      "destacado": false
+    },
     "e924525b8f90": {
       "resumen": "Hilo de Reddit del foro r/datascience donde un profesional que trabaja como científico de datos (data scientist) en la industria farmacéutica busca consejo sobre cómo orientar su carrera. Le sirve a un médico en transición hacia el análisis de datos porque aporta la perspectiva de alguien ya inserto en el cruce entre salud/farma y ciencia de datos, un camino similar al que está explorando.",
+      "destacado": false
+    },
+    "01bb588cdd24": {
+      "resumen": "Paper publicado en arXiv (repositorio de preprints científicos) que sistematiza los fundamentos matemáticos —álgebra lineal, probabilidad, optimización— detrás de las técnicas modernas de ciencia de datos. Le sirve a un médico que aprende análisis de datos como posible material de referencia para reforzar las bases matemáticas necesarias para entender los métodos que usa a diario.",
       "destacado": false
     },
     "546beebc5838": {
       "resumen": "Simon Willison (referente en el uso práctico de inteligencia artificial) analiza el lanzamiento de Kimi K3, un modelo de lenguaje del laboratorio chino Moonshot AI con 2,8 billones de parámetros, y retoma su particular 'benchmark del pelícano' (evaluar modelos pidiéndoles que dibujen un pelícano en formato SVG) como forma sencilla de comparar capacidades entre modelos. Le sirve a un médico que aprende análisis de datos para tener una herramienta informal y rápida de evaluar la calidad de un modelo de lenguaje antes de adoptarlo en un flujo de trabajo.",
       "destacado": true
     },
-    "b62b68c93c9c": {
-      "resumen": "Simon Willison cita a un ejecutivo de OpenAI que explica por qué el asistente de programación Codex (basado en GPT-5.6) llegó a borrar archivos inesperadamente, un problema que ocurre sobre todo cuando se lo ejecuta en modo de acceso completo sin las protecciones de aislamiento (sandbox). Le sirve a un médico que aprende análisis de datos como advertencia concreta sobre los riesgos de dar permisos amplios a agentes de inteligencia artificial que ejecutan código sobre archivos propios.",
+    "9be1570d4014": {
+      "resumen": "LM Studio presentó Bionic, un agente de inteligencia artificial integrado a su aplicación para ejecutar modelos de lenguaje abiertos (open models) de forma local en la computadora del usuario. Le sirve a un médico que aprende análisis de datos como alternativa para experimentar con modelos de IA sin depender de servicios en la nube ni compartir datos sensibles con terceros.",
       "destacado": false
     },
-    "63a275056c51": {
-      "resumen": "Un consorcio alemán de inteligencia artificial presentó Soofi S, un modelo de pesos abiertos (open weights) de 30.000 millones de parámetros que lidera pruebas de referencia (benchmarks) tanto en inglés como en alemán. Le sirve a un médico que aprende análisis de datos para seguir la tendencia hacia modelos abiertos de tamaño manejable, que pueden ejecutarse con recursos de cómputo más modestos que los grandes modelos cerrados.",
-      "destacado": false
-    },
-    "3b778a230b47": {
-      "resumen": "Un desarrollador muestra cómo detectar textos generados por modelos de lenguaje grandes (LLM, Large Language Model) usando técnicas de aprendizaje automático (machine learning) clásicas, sin recurrir a otro modelo de inteligencia artificial de gran tamaño. Le sirve a un médico que aprende análisis de datos como ejemplo de que no todo problema de clasificación de texto necesita un modelo enorme: a veces los métodos estadísticos simples son suficientes y más interpretables.",
+    "43ec292aa7b0": {
+      "resumen": "Comparación práctica (con un presupuesto de 100 dólares) entre Claude Fable 5 y GPT-5.6 Sol para generar un video musical con inteligencia artificial. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de benchmark informal entre modelos de IA generativa, útil para calibrar expectativas de costo y calidad antes de usarlos en un proyecto propio.",
       "destacado": false
     },
     "4cc0da1fe01e": {
       "resumen": "Artículo de Towards Data Science que propone cinco elementos a preparar antes de delegar más tareas a agentes de inteligencia artificial: definir bien el trabajo recurrente, darles el contexto adecuado, explicar qué es un resultado de calidad y decidir dónde sigue haciendo falta el juicio humano. Le sirve a un médico que aprende análisis de datos porque plantea un marco práctico para incorporar agentes de IA de forma responsable sin perder el control de calidad.",
       "destacado": false
     },
-    "c1512500f0b0": {
-      "resumen": "Hilo de Reddit en r/datascience donde se discute la tendencia de empresas que exigen completar una evaluación técnica completa (OA, Online Assessment) antes de siquiera tener una entrevista con una persona real. Le sirve a un médico en transición hacia el análisis de datos para conocer de antemano cómo son hoy los procesos de selección en el rubro y prepararse mejor para ellos.",
-      "destacado": false
+    "dd511e59260c": {
+      "resumen": "El head coach de Los Pumas, Felipe Contepomi, destacó el aporte de energía que suma Matías Moroni al equipo tras su ingreso al plantel."
     },
-    "054bb53f758e": {
-      "resumen": "Experimento tipográfico ('Decoy Font') que muestra una fuente diseñada para verse distinta según quién —o qué sistema— la lea, publicado en Hacker News. Le sirve a un médico que aprende análisis de datos como curiosidad sobre el uso creativo de patrones visuales, aunque no aporta herramientas directas de análisis de datos.",
-      "destacado": false
-    },
-    "f8da2c94a99e": {
-      "resumen": "Google renombró su herramienta NotebookLM como Gemini Notebook, un asistente de inteligencia artificial pensado para organizar y consultar documentos propios. Le sirve a un médico que aprende análisis de datos como opción concreta para volcar bibliografía o apuntes propios y poder consultarlos con lenguaje natural.",
-      "destacado": false
-    },
-    "586447921181": {
-      "resumen": "El laboratorio Thinking Machines Lab (liderado por Mira Murati) presentó Inkling, un modelo de inteligencia artificial de pesos abiertos (open weights) del tipo mezcla de expertos (Mixture-of-Experts), con 975.000 millones de parámetros totales de los cuales 41.000 millones se activan por consulta. Le sirve a un médico que aprende análisis de datos para seguir la tendencia hacia modelos grandes pero eficientes en cómputo, que además pueden auditarse al ser de pesos abiertos.",
-      "destacado": false
-    },
-    "da911c13902b": {
-      "resumen": "Los Pumas terminan de ultimar los detalles para enfrentar a Inglaterra por el Nations Championship."
-    },
-    "b4db5b589a7b": {
-      "resumen": "Crece la ilusión de que Argentina, y puntualmente Córdoba, sea sede del Mundial de Rugby 2035."
-    },
-    "3afb8a9e89ce": {
-      "resumen": "Hinchas ingleses protagonizaron una provocación en el Obelisco porteño previa al partido de Los Pumas ante Inglaterra."
+    "bb01c8db14b7": {
+      "resumen": "El seleccionado de rugby de Inglaterra llegó a Santiago del Estero para enfrentar a Los Pumas por el Nations Championship."
     }
   }
 }

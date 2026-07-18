@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T22:05:50Z",
+  "generated_at": "2026-07-18T10:05:34Z",
   "summaries": {
     "fb835bd596fb": {
       "resumen": "Nota de TCTMD sobre datos de mortalidad en Estados Unidos que muestran que las muertes por enfermedad isquémica cardíaca (la causada por obstrucción de las arterias coronarias) reflejan un control deficiente de los factores de riesgo cardiovascular clásicos, como la hipertensión arterial, la dislipemia, la diabetes y el tabaquismo. Interesa porque, pese a los avances terapéuticos y de intervencionismo, la prevención primaria sigue siendo el eslabón más débil.",
@@ -44,15 +44,6 @@
       "destacado": true,
       "analisis": "Diseño: Por el título se infiere un análisis (probablemente un subanálisis de un ensayo clínico o de un registro) que compara duraciones de doble antiagregación plaquetaria (DAPT) en pacientes con enfermedad coronaria multivaso (MVD) sometidos a intervención coronaria percutánea (PCI); sin abstract no se puede precisar aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con enfermedad coronaria multivaso sometidos a PCI, presumiblemente estratificados según extensión de la enfermedad o carga isquémica.\nIntervención: DAPT prolongada (más allá del esquema estándar, habitualmente 12 meses) comparada contra DAPT de duración convencional.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar el balance entre reducción de eventos isquémicos y aumento de sangrado, el tipo de stent utilizado, ni si el subgrupo beneficiado se definió a priori o post hoc.\nMensaje: Sugiere que, en un subgrupo seleccionado de pacientes con enfermedad multivaso, prolongar la DAPT podría ofrecer beneficio neto, pero la decisión debe individualizarse balanceando riesgo isquémico y hemorrágico.\nNota: análisis sin acceso al abstract."
     },
-    "5bcf09696801": {
-      "resumen": "Fe de erratas de Circulation a la guía 2026 de la AHA/ACC (American Heart Association/American College of Cardiology) y otras sociedades para la evaluación y el manejo del tromboembolismo pulmonar agudo en adultos. Es un ajuste administrativo al documento original, sin cambios de fondo relevantes para la práctica clínica."
-    },
-    "d24c8648c543": {
-      "resumen": "Artículo de revisión en Circulation sobre los hitos históricos y las perspectivas futuras en el tratamiento de la hipertensión arterial pulmonar (HAP), una enfermedad progresiva de las arterias pulmonares que sobrecarga al ventrículo derecho. Interesa como puesta al día del estado del arte en una entidad de manejo complejo y en evolución terapéutica constante."
-    },
-    "3de6d0c3d914": {
-      "resumen": "Caso clínico publicado en Circulation sobre cambios electrocardiográficos (ECG) reversibles en un cuadro infrecuente de shock. Interesa porque los reportes de caso ayudan a reconocer patrones electrocardiográficos atípicos que pueden confundirse con isquemia aguda y llevar a decisiones erróneas si no se identifican a tiempo."
-    },
     "cb3ed15e1de2": {
       "resumen": "Hilo de r/datascience que presenta cosmos.gl, una librería que usa WebGL (una tecnología que acelera gráficos por hardware dentro del navegador) para visualizar grafos de redes con muchísimos nodos sin que se trabe la interfaz. Le sirve a un médico que aprende análisis de datos porque ofrece una opción concreta para graficar redes grandes (por ejemplo, interacciones entre fármacos o redes de citas bibliográficas) de forma interactiva.",
       "destacado": false
@@ -61,46 +52,54 @@
       "resumen": "Artículo de Towards Data Science con recomendaciones prácticas para sacarle el máximo provecho al modelo de lenguaje GPT-5.6 de OpenAI. Le sirve a un médico que aprende análisis de datos porque ofrece técnicas concretas de uso cotidiano de la inteligencia artificial (IA) para tareas como redactar código, resumir literatura o depurar análisis.",
       "destacado": false
     },
-    "41b0c4b10a2d": {
-      "resumen": "Publicación en Hacker News sobre Frame, un servidor gráfico X (el sistema que gestiona ventanas e interfaces en Linux) escrito enteramente en lenguaje ensamblador (Assembly), un ejercicio extremo de programación de bajo nivel. Le sirve a un médico que aprende análisis de datos más como curiosidad técnica sobre los límites de la optimización de software que como herramienta aplicable al trabajo diario.",
-      "destacado": false
-    },
-    "7321523829ed": {
-      "resumen": "Nota de Reuters, replicada en Hacker News, sobre inversores en corto (short sellers, que ganan cuando un activo baja de precio) que embolsaron 8.700 millones de dólares al caer las acciones de SpaceX hasta su precio de salida a bolsa (IPO). Le sirve a un médico que aprende análisis de datos como ejemplo de cómo se cuantifica y comunica el resultado de una estrategia basada en datos de mercado.",
-      "destacado": false
-    },
     "c396869959c0": {
       "resumen": "Artículo de Towards Data Science que propone combinar técnicas clásicas de aprendizaje automático (machine learning, como regresiones o árboles de decisión) con agentes de inteligencia artificial basados en modelos de lenguaje, en vez de reemplazarlas. Le sirve a un médico que aprende análisis de datos porque reivindica herramientas estadísticas simples e interpretables como base sólida antes de sumar componentes de IA generativa.",
-      "destacado": false
-    },
-    "623b1a8a3525": {
-      "resumen": "Recurso difundido en Hacker News que releva el panorama actual de la inteligencia artificial de código abierto (open source AI): modelos, licencias y actores relevantes del ecosistema. Le sirve a un médico que aprende análisis de datos para orientarse entre alternativas gratuitas o auditables frente a los modelos comerciales cerrados, algo relevante si va a trabajar con datos clínicos sensibles.",
-      "destacado": false
-    },
-    "619c537f41a7": {
-      "resumen": "Simon Willison (referente en el uso práctico de inteligencia artificial) analiza Kimi K3, el nuevo modelo de lenguaje del laboratorio chino Moonshot AI, y retoma su 'benchmark del pelícano' (pedirle a un modelo que dibuje un pelícano en formato SVG) como forma simple y visual de comparar capacidades entre modelos. Le sirve a un médico que aprende análisis de datos para tener un método informal y rápido de evaluar un modelo nuevo antes de incorporarlo a su flujo de trabajo.",
       "destacado": true
     },
     "c35f124c5e9e": {
       "resumen": "Artículo de KDnuggets que explica qué son los Git worktrees (directorios adicionales que permiten tener varias ramas de un mismo repositorio activas al mismo tiempo) y cómo simplifican el desarrollo asistido por inteligencia artificial. Le sirve a un médico que aprende análisis de datos como técnica concreta de control de versiones para probar distintos análisis en paralelo sin perder el historial de cambios.",
       "destacado": false
     },
-    "103bc7df9c87": {
-      "resumen": "Simon Willison cita una respuesta del modelo de lenguaje Kimi K3 luego de negarse, con ingenio, a revelar su system prompt (las instrucciones internas que definen su comportamiento). Le sirve a un médico que aprende análisis de datos como muestra de cómo los modelos actuales manejan intentos de extraer sus instrucciones internas, algo a considerar al diseñar herramientas propias con inteligencia artificial.",
+    "bc209a9482da": {
+      "resumen": "Estudio de JACC (Journal of the American College of Cardiology) sobre la suspensión de la aspirina (ácido acetilsalicílico) en pacientes con enfermedad coronaria que reciben tratamiento antiplaquetario, evaluando si continuar solo con un inhibidor del receptor P2Y12 mantiene la protección isquémica y reduce el riesgo de sangrado. Interesa porque la tendencia hacia estrategias de \"des-escalamiento\" antiagregante viene ganando terreno tras varios ensayos recientes y podría modificar el manejo post-angioplastia.",
+      "destacado": false,
+      "analisis": "Diseño: no se puede precisar el tipo de estudio (ensayo aleatorizado, registro o revisión) a partir del título; JACC publica ambos formatos sobre este tema.\nPoblación: pacientes con enfermedad coronaria (aterosclerosis de arterias coronarias) bajo doble terapia antiplaquetaria, probablemente post-angioplastia con stent.\nIntervención: suspensión de la aspirina manteniendo monoterapia con un inhibidor de P2Y12, frente a continuar la doble terapia antiplaquetaria.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: no determinables sin el texto completo.\nMensaje: refuerza la línea de investigación que busca reducir el riesgo hemorrágico del tratamiento antiplaquetario prolongado sin resignar protección isquémica; conviene revisar el estudio completo antes de modificar la práctica habitual.\nNota: análisis sin acceso al abstract."
+    },
+    "3c690c812db8": {
+      "resumen": "Simon Willison comenta que Anthropic (la empresa detrás de Claude) decidió convertir a Fable 5, una de las variantes de sus modelos de lenguaje, en una opción permanente de su catálogo en lugar de mantenerla como experimento temporal. Le interesa a quien sigue la evolución de los modelos de lenguaje porque marca qué variantes terminan consolidándose en la oferta comercial de una de las empresas líderes del sector.",
       "destacado": false
     },
-    "bdd98a82057a": {
-      "resumen": "Artículo de Towards Data Science que describe un experimento con un benchmark determinístico en Python, sin ningún modelo de lenguaje (LLM, large language model) dentro del bucle, para aislar y estudiar la arquitectura de los sistemas de automatización con agentes en sí misma. Le sirve a un médico que aprende análisis de datos para entender que buena parte de la robustez de un sistema con inteligencia artificial depende del diseño del proceso que la rodea, no solo del modelo elegido.",
+    "0bc93da60f4a": {
+      "resumen": "Enlace de Simon Willison a un repositorio de GitHub del desarrollador Neil Schemenauer (usuario nascheme) llamado \"quixote\"; sin poder abrir el link no es posible precisar el contenido exacto del proyecto. Se registra como referencia para quien programa en Python y quiera explorar por su cuenta qué comparte la comunidad técnica que sigue Willison.",
       "destacado": false
     },
-    "1dd247d82c62": {
-      "resumen": "El capitán del seleccionado inglés de rugby relató cómo vivió, desde adentro, los festejos del lado argentino en un partido reciente entre ambos equipos."
+    "3ba8e5950852": {
+      "resumen": "Artículo técnico, destacado en Hacker News, sobre una variante de compresión de imágenes JPEG que invierte la lógica habitual de la codificación progresiva (que carga primero una versión de baja resolución). Le aporta a alguien que trabaja con datos una mirada práctica sobre formatos de compresión y manejo eficiente de archivos binarios, algo relevante al procesar grandes volúmenes de imágenes.",
+      "destacado": false
     },
-    "9b57fe30a861": {
-      "resumen": "Un jugador de la selección inglesa de rugby lanzó una provocación que subió la tensión antes del cruce con Los Pumas."
+    "e2ba394be362": {
+      "resumen": "Enfermeras de la red hospitalaria Kaiser Permanente, en Estados Unidos, denuncian que las herramientas de inteligencia artificial y de vigilancia laboral implementadas por la empresa están empeorando sus condiciones de trabajo y la calidad de la atención a los pacientes. Le sirve a un médico que se está formando en análisis de datos porque muestra el costado crítico de la adopción apresurada de inteligencia artificial en el sistema de salud, más allá de sus promesas.",
+      "destacado": false
     },
-    "c7af08d298f3": {
-      "resumen": "Guía de horarios y transmisión para seguir en vivo el partido entre Los Pumas e Inglaterra por el Nations Championship."
+    "6d8a107b806c": {
+      "resumen": "Investigadores de seguridad informática documentaron que las cámaras domésticas TP-Link Kasa expusieron durante seis años la ubicación GPS del hogar a través de un protocolo UDP (protocolo de datagramas de usuario) sin autenticación. Le sirve a quien maneja datos sensibles como recordatorio de los riesgos de privacidad de los dispositivos conectados (Internet de las Cosas) y la importancia de validar su seguridad antes de confiar en ellos.",
+      "destacado": false
+    },
+    "3b8a70c80fcd": {
+      "resumen": "Proyecto de hardware de código abierto que ofrece un lector de libros electrónicos (e-reader) con pantalla táctil, publicado en la plataforma de financiamiento colectivo Crowd Supply. Es más un producto de electrónica abierta que de ciencia de datos, pero puede interesarle a quien valora el software y el hardware libres como alternativa a los dispositivos cerrados de las grandes marcas.",
+      "destacado": false
+    },
+    "31bac3d57660": {
+      "resumen": "Previa y clima de la ciudad antes del partido de Los Pumas ante Inglaterra en Santiago del Estero."
+    },
+    "9d7b5fbee121": {
+      "resumen": "Los Pumas se miden hoy con Inglaterra en un partido que tiene en vilo a todo el rugby argentino."
+    },
+    "a9104f4340f9": {
+      "resumen": "Todos los datos del cierre de la ventana de julio de Los Pumas ante Inglaterra: horario, televisación y formaciones confirmadas."
+    },
+    "84383ebd6368": {
+      "resumen": "Franco Colapinto corre la última práctica libre del Gran Premio de Bélgica antes de la clasificación: horario y televisación."
     }
   }
 }

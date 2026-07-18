@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T10:05:34Z",
+  "generated_at": "2026-07-18T22:05:00Z",
   "summaries": {
     "fb835bd596fb": {
       "resumen": "Nota de TCTMD sobre datos de mortalidad en Estados Unidos que muestran que las muertes por enfermedad isquémica cardíaca (la causada por obstrucción de las arterias coronarias) reflejan un control deficiente de los factores de riesgo cardiovascular clásicos, como la hipertensión arterial, la dislipemia, la diabetes y el tabaquismo. Interesa porque, pese a los avances terapéuticos y de intervencionismo, la prevención primaria sigue siendo el eslabón más débil.",
@@ -44,62 +44,59 @@
       "destacado": true,
       "analisis": "Diseño: Por el título se infiere un análisis (probablemente un subanálisis de un ensayo clínico o de un registro) que compara duraciones de doble antiagregación plaquetaria (DAPT) en pacientes con enfermedad coronaria multivaso (MVD) sometidos a intervención coronaria percutánea (PCI); sin abstract no se puede precisar aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con enfermedad coronaria multivaso sometidos a PCI, presumiblemente estratificados según extensión de la enfermedad o carga isquémica.\nIntervención: DAPT prolongada (más allá del esquema estándar, habitualmente 12 meses) comparada contra DAPT de duración convencional.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar el balance entre reducción de eventos isquémicos y aumento de sangrado, el tipo de stent utilizado, ni si el subgrupo beneficiado se definió a priori o post hoc.\nMensaje: Sugiere que, en un subgrupo seleccionado de pacientes con enfermedad multivaso, prolongar la DAPT podría ofrecer beneficio neto, pero la decisión debe individualizarse balanceando riesgo isquémico y hemorrágico.\nNota: análisis sin acceso al abstract."
     },
-    "cb3ed15e1de2": {
-      "resumen": "Hilo de r/datascience que presenta cosmos.gl, una librería que usa WebGL (una tecnología que acelera gráficos por hardware dentro del navegador) para visualizar grafos de redes con muchísimos nodos sin que se trabe la interfaz. Le sirve a un médico que aprende análisis de datos porque ofrece una opción concreta para graficar redes grandes (por ejemplo, interacciones entre fármacos o redes de citas bibliográficas) de forma interactiva.",
-      "destacado": false
-    },
-    "fc3bf2f4a2ae": {
-      "resumen": "Artículo de Towards Data Science con recomendaciones prácticas para sacarle el máximo provecho al modelo de lenguaje GPT-5.6 de OpenAI. Le sirve a un médico que aprende análisis de datos porque ofrece técnicas concretas de uso cotidiano de la inteligencia artificial (IA) para tareas como redactar código, resumir literatura o depurar análisis.",
-      "destacado": false
-    },
-    "c396869959c0": {
-      "resumen": "Artículo de Towards Data Science que propone combinar técnicas clásicas de aprendizaje automático (machine learning, como regresiones o árboles de decisión) con agentes de inteligencia artificial basados en modelos de lenguaje, en vez de reemplazarlas. Le sirve a un médico que aprende análisis de datos porque reivindica herramientas estadísticas simples e interpretables como base sólida antes de sumar componentes de IA generativa.",
-      "destacado": true
-    },
-    "c35f124c5e9e": {
-      "resumen": "Artículo de KDnuggets que explica qué son los Git worktrees (directorios adicionales que permiten tener varias ramas de un mismo repositorio activas al mismo tiempo) y cómo simplifican el desarrollo asistido por inteligencia artificial. Le sirve a un médico que aprende análisis de datos como técnica concreta de control de versiones para probar distintos análisis en paralelo sin perder el historial de cambios.",
-      "destacado": false
-    },
     "bc209a9482da": {
       "resumen": "Estudio de JACC (Journal of the American College of Cardiology) sobre la suspensión de la aspirina (ácido acetilsalicílico) en pacientes con enfermedad coronaria que reciben tratamiento antiplaquetario, evaluando si continuar solo con un inhibidor del receptor P2Y12 mantiene la protección isquémica y reduce el riesgo de sangrado. Interesa porque la tendencia hacia estrategias de \"des-escalamiento\" antiagregante viene ganando terreno tras varios ensayos recientes y podría modificar el manejo post-angioplastia.",
       "destacado": false,
       "analisis": "Diseño: no se puede precisar el tipo de estudio (ensayo aleatorizado, registro o revisión) a partir del título; JACC publica ambos formatos sobre este tema.\nPoblación: pacientes con enfermedad coronaria (aterosclerosis de arterias coronarias) bajo doble terapia antiplaquetaria, probablemente post-angioplastia con stent.\nIntervención: suspensión de la aspirina manteniendo monoterapia con un inhibidor de P2Y12, frente a continuar la doble terapia antiplaquetaria.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: no determinables sin el texto completo.\nMensaje: refuerza la línea de investigación que busca reducir el riesgo hemorrágico del tratamiento antiplaquetario prolongado sin resignar protección isquémica; conviene revisar el estudio completo antes de modificar la práctica habitual.\nNota: análisis sin acceso al abstract."
     },
-    "3c690c812db8": {
-      "resumen": "Simon Willison comenta que Anthropic (la empresa detrás de Claude) decidió convertir a Fable 5, una de las variantes de sus modelos de lenguaje, en una opción permanente de su catálogo en lugar de mantenerla como experimento temporal. Le interesa a quien sigue la evolución de los modelos de lenguaje porque marca qué variantes terminan consolidándose en la oferta comercial de una de las empresas líderes del sector.",
+    "24cd97b35407": {
+      "resumen": "Publicación en Hacker News que reflexiona sobre el impacto del lanzamiento de Kimi K3, un modelo de lenguaje grande (LLM, large language model) de código abierto de la familia Kimi, y lo que implica para el equilibrio entre los laboratorios de inteligencia artificial (IA) que abren sus modelos y los que los mantienen cerrados. Le sirve a un médico que aprende análisis de datos porque muestra cómo se va achicando la brecha entre modelos abiertos y propietarios, ampliando las opciones para correr IA sin depender de una sola empresa.",
       "destacado": false
     },
-    "0bc93da60f4a": {
-      "resumen": "Enlace de Simon Willison a un repositorio de GitHub del desarrollador Neil Schemenauer (usuario nascheme) llamado \"quixote\"; sin poder abrir el link no es posible precisar el contenido exacto del proyecto. Se registra como referencia para quien programa en Python y quiera explorar por su cuenta qué comparte la comunidad técnica que sigue Willison.",
+    "f46843f2f4d9": {
+      "resumen": "Columna de despedida publicada en ACM Queue, la revista técnica de la asociación ACM (Association for Computing Machinery), con un guiño en el título a los \"bikesheds\": discusiones triviales y desproporcionadas sobre detalles menores que suelen trabar decisiones técnicas en los equipos (la llamada Ley de la trivialidad de Parkinson). Le sirve a quien participa en proyectos de datos como recordatorio de no perder tiempo en debates de bajo impacto en detrimento de las decisiones que realmente importan.",
       "destacado": false
     },
-    "3ba8e5950852": {
-      "resumen": "Artículo técnico, destacado en Hacker News, sobre una variante de compresión de imágenes JPEG que invierte la lógica habitual de la codificación progresiva (que carga primero una versión de baja resolución). Le aporta a alguien que trabaja con datos una mirada práctica sobre formatos de compresión y manejo eficiente de archivos binarios, algo relevante al procesar grandes volúmenes de imágenes.",
+    "ccfb0a129469": {
+      "resumen": "Simon Willison presenta una herramienta interactiva, construida con ayuda de un modelo de IA, que explica en lenguaje simple el plan de ejecución (query plan) de una consulta en SQLite, inspirada en lo difícil que resulta habitualmente leer esos planes. Le sirve a un médico que aprende análisis de datos porque ayuda a entender por qué una consulta a una base de datos tarda más de lo esperado y cómo optimizarla, algo aplicable a cualquier motor de bases de datos tipo SQL.",
       "destacado": false
     },
-    "e2ba394be362": {
-      "resumen": "Enfermeras de la red hospitalaria Kaiser Permanente, en Estados Unidos, denuncian que las herramientas de inteligencia artificial y de vigilancia laboral implementadas por la empresa están empeorando sus condiciones de trabajo y la calidad de la atención a los pacientes. Le sirve a un médico que se está formando en análisis de datos porque muestra el costado crítico de la adopción apresurada de inteligencia artificial en el sistema de salud, más allá de sus promesas.",
+    "7e802322c5a2": {
+      "resumen": "Hilo de r/datascience sobre Inkling, un nuevo modelo de lenguaje de pesos abiertos (open-weight, es decir con sus parámetros entrenados disponibles para descargar y modificar) con arquitectura de mezcla de expertos (mixture-of-experts, MoE: en cada consulta solo se activa una parte de la red) de 975.000 millones de parámetros, que según los usuarios trae algunas sorpresas de comportamiento. Le sirve a quien aprende análisis de datos porque ilustra hacia dónde evoluciona la oferta de modelos abiertos que se pueden correr o ajustar sin depender de una API paga.",
       "destacado": false
     },
-    "6d8a107b806c": {
-      "resumen": "Investigadores de seguridad informática documentaron que las cámaras domésticas TP-Link Kasa expusieron durante seis años la ubicación GPS del hogar a través de un protocolo UDP (protocolo de datagramas de usuario) sin autenticación. Le sirve a quien maneja datos sensibles como recordatorio de los riesgos de privacidad de los dispositivos conectados (Internet de las Cosas) y la importancia de validar su seguridad antes de confiar en ellos.",
+    "e2c0bac21de6": {
+      "resumen": "Nota de Towards Data Science sobre cómo construir una plataforma de datos empresarial \"nativa en IA\" (AI-native), combinando agentes de datos, controles de calidad automatizados mediante inteligencia artificial (IA) y mecanismos de gobierno de datos. Le sirve a un médico que aprende análisis de datos porque va más allá del uso puntual de un modelo de lenguaje y plantea cómo organizar la infraestructura de datos de una institución para que la IA funcione de forma confiable y auditable.",
       "destacado": false
     },
-    "3b8a70c80fcd": {
-      "resumen": "Proyecto de hardware de código abierto que ofrece un lector de libros electrónicos (e-reader) con pantalla táctil, publicado en la plataforma de financiamiento colectivo Crowd Supply. Es más un producto de electrónica abierta que de ciencia de datos, pero puede interesarle a quien valora el software y el hardware libres como alternativa a los dispositivos cerrados de las grandes marcas.",
+    "14d5813fcb25": {
+      "resumen": "Guía técnica publicada en Hacker News que explica paso a paso cómo configurar una computadora Mac de repuesto para que la controle de forma remota Claude Code, el asistente de programación de Anthropic. Le sirve a un médico que está incorporando IA a su flujo de trabajo de datos porque describe un caso concreto de automatización remota con agentes de inteligencia artificial.",
       "destacado": false
     },
-    "31bac3d57660": {
-      "resumen": "Previa y clima de la ciudad antes del partido de Los Pumas ante Inglaterra en Santiago del Estero."
+    "4005f1d1b142": {
+      "resumen": "Nota de Hacker News sobre la llegada de Gleam, un lenguaje de programación funcional y tipado, a Tangled, una plataforma de alojamiento de código basada en un protocolo descentralizado (el mismo que usa la red social Bluesky). Aporta poco de forma directa al análisis de datos, pero sirve como panorama de las alternativas descentralizadas que están surgiendo frente a GitHub para alojar proyectos de código.",
+      "destacado": false
     },
-    "9d7b5fbee121": {
-      "resumen": "Los Pumas se miden hoy con Inglaterra en un partido que tiene en vilo a todo el rugby argentino."
+    "7d45b7438e14": {
+      "resumen": "Artículo de Towards Data Science que propone una \"cascada de escalamiento\" para extraer datos de archivos PDF: aplicar primero un método de lectura barato y determinístico, con chequeos automáticos que detectan cuándo falló, y recién ahí escalar a un parser más pesado (y caro) solo en las páginas que lo necesitan. Le sirve mucho a un médico que aprende análisis de datos porque los PDF —historias clínicas, reportes de eventos adversos, artículos científicos— son una fuente constante de datos desordenados, y esta lógica de \"gastar solo cuando hace falta\" es aplicable a cualquier proceso de extracción de datos.",
+      "destacado": true
     },
-    "a9104f4340f9": {
-      "resumen": "Todos los datos del cierre de la ventana de julio de Los Pumas ante Inglaterra: horario, televisación y formaciones confirmadas."
+    "a70196a350fc": {
+      "resumen": "Resumen semanal de KDnuggets con varios artículos cortos: por qué conviene reemplazar las cadenas de if-else por el patrón \"registro\" (registry pattern) en Python, cinco proyectos de SQL para armar un portfolio de datos, diez canales de YouTube para mantenerse al día en inteligencia artificial (IA), y una introducción a Outlines, una biblioteca que fuerza a los modelos de lenguaje a generar salidas con formato estructurado. Le sirve a un médico que aprende análisis de datos como punto de partida variado para practicar SQL y Python.",
+      "destacado": false
     },
-    "84383ebd6368": {
-      "resumen": "Franco Colapinto corre la última práctica libre del Gran Premio de Bélgica antes de la clasificación: horario y televisación."
+    "3212de0b4624": {
+      "resumen": "Artículo de Towards Data Science que combina el \"pre-churn scoring\" (puntuar de antemano qué clientes tienen más probabilidad de irse) con el \"uplift modelling\" (modelos que estiman el efecto real de una intervención sobre cada cliente, no solo su riesgo) para mejorar la retención en empresas de tecnología financiera (fintech). Le sirve a quien aprende análisis de datos porque ese mismo enfoque —priorizar a quién conviene intervenir, no solo a quién identificar como riesgo— es trasladable a la adherencia de pacientes o al seguimiento de eventos adversos en farmacovigilancia.",
+      "destacado": false
+    },
+    "7536c52abdad": {
+      "resumen": "Minuto a minuto del partido entre Los Pumas e Inglaterra por la última fecha de la fase inicial del Nations Championship, disputado en Santiago del Estero."
+    },
+    "0612d9bd6959": {
+      "resumen": "Los Pumas salieron a la cancha ante Inglaterra con una camiseta especial inspirada en la selección argentina de México 86."
+    },
+    "b3059140c7cc": {
+      "resumen": "El wing Mateo Carreras fue amonestado con tarjeta amarilla durante el partido de Los Pumas ante Inglaterra por el Nations Championship."
     }
   }
 }

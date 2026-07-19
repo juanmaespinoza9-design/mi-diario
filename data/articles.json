@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T04:02:09.118562+00:00",
+ "generated_at": "2026-07-19T06:47:44.753677+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -33,6 +33,22 @@
      "source": "TCTMD",
      "published": "2026-07-16T19:01:32+00:00",
      "id": "e50c7a1cf0b3"
+    },
+    {
+     "title": "Fish-Oil Supplementation and Cardiovascular Events in Patients Receiving Hemodialysis. Reply",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42456148/",
+     "source": "NEJM Cardiología",
+     "published": "2026-07-16T00:00:00+00:00",
+     "copete": "Lok CE et al. · The New England journal of medicine",
+     "id": "7cb982d542d6"
+    },
+    {
+     "title": "Fish-Oil Supplementation and Cardiovascular Events in Patients Receiving Hemodialysis",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42456147/",
+     "source": "NEJM Cardiología",
+     "published": "2026-07-16T00:00:00+00:00",
+     "copete": "Marchini M et al. · The New England journal of medicine",
+     "id": "03e95ff68bdd"
     },
     {
      "title": "Using Tenecteplase Instead of Alteplase Tied to Speedier Acute Stroke Workflows",
@@ -205,6 +221,29 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "AI Mania Is Eviscerating Global Decision-Making",
+     "link": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
+     "source": "Simon Willison (IA)",
+     "published": "2026-07-19T05:06:21+00:00",
+     "copete": "AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources. In…",
+     "id": "c54ae55d46e9"
+    },
+    {
+     "title": "Claude Code uses Bun written in Rust now",
+     "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
+     "source": "Simon Willison (IA)",
+     "published": "2026-07-19T03:54:09+00:00",
+     "copete": "In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. I decided…",
+     "id": "165d33e669f4"
+    },
+    {
+     "title": "Better and Cheaper Than IPTV",
+     "link": "https://github.com/stupside/castor",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-19T00:59:55+00:00",
+     "id": "e15937ca8290"
+    },
+    {
      "title": "Transcribe.cpp",
      "link": "https://workshop.cjpais.com/projects/transcribe-cpp",
      "source": "Hacker News (100+ puntos)",
@@ -217,20 +256,6 @@
      "source": "Hacker News (100+ puntos)",
      "published": "2026-07-18T23:24:26+00:00",
      "id": "d6dc55b43892"
-    },
-    {
-     "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-     "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-18T22:13:39+00:00",
-     "id": "a20309c6ae08"
-    },
-    {
-     "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
-     "link": "https://www.neatnik.net/hardcore-indieweb",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-18T21:45:12+00:00",
-     "id": "603bdbc95384"
     },
     {
      "title": "SQLite Query Explainer",
@@ -270,14 +295,6 @@
      "published": "2026-07-18T13:00:05+00:00",
      "copete": "Stop Using If-Else Chains: Use the Registry Pattern in Python Instead • 5 Real-World SQL Projects to Build Your Data Portfolio • 10 YouTube Channels Keeping You Ahead in AI • Structured Language Model Generation with Outlines",
      "id": "a70196a350fc"
-    },
-    {
-     "title": "How to Improve Customer Retention in FinTech",
-     "link": "https://towardsdatascience.com/how-to-improve-customer-retention-in-digital-banking/",
-     "source": "Towards Data Science",
-     "published": "2026-07-18T13:00:00+00:00",
-     "copete": "A practical guide to combining pre-churn scoring with uplift modelling for smarter retention. The post How to Improve Customer Retention in FinTech appeared first on Towards Data Science .",
-     "id": "3212de0b4624"
     }
    ]
   },
@@ -287,100 +304,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Guillermo Martínez: “Yo veo que hay una marcha sostenida al Medioevo, estoy esperando que cambien los vientos”",
-     "link": "https://www.infobae.com/cultura/2026/07/19/guillermo-martinez-yo-veo-que-hay-una-marcha-sostenida-al-medioevo-estoy-esperando-que-cambien-los-vientos/",
-     "source": "Infobae",
-     "published": "2026-07-19T04:00:00+00:00",
-     "copete": "En su novela “Un crimen dialéctico”, el escritor argentino construye un policial filosófico cuyo protagonista es un científico y ex militante revolucionario que regresa al país, al final de una dictadura, con una “misión de sangre”",
-     "id": "f66835ab180e"
-    },
-    {
-     "title": "“Este grupo escribió historia”: el emotivo mensaje de Messi a horas de jugar la final del Mundial contra España",
-     "link": "https://www.infobae.com/deportes/2026/07/19/este-grupo-escribio-historia-el-emotivo-mensaje-de-messi-a-horas-de-jugar-la-final-del-mundial-contra-espana/",
-     "source": "Infobae",
-     "published": "2026-07-19T03:59:51+00:00",
-     "copete": "Ante la posibilidad de coronarse con su segunda Copa del Mundo, el capitán de la albiceleste dedicó unas palabras a todo el plantel nacional. Junto a una foto grupal, el diez aseguró que ya son una “familia”",
-     "id": "7c369b6d9671"
-    },
-    {
-     "title": "Guatemala reduce en casi 80% los casos semanales de sarampión, según el ministro de Salud",
-     "link": "https://www.infobae.com/guatemala/2026/07/19/guatemala-reduce-en-casi-80-los-casos-semanales-de-sarampion-segun-el-ministro-de-salud/",
-     "source": "Infobae",
-     "published": "2026-07-19T03:58:55+00:00",
-     "copete": "La autoridad sanitaria informó que desde el inicio del evento se aplicaron más de 1,4 millones de dosis y que hay más de un millón disponibles, aunque el virus sigue circulando y suma 28.543 infectados",
-     "id": "8fa708ca66e0"
-    },
-    {
-     "title": "Honduras: Copeco analiza elevar alerta por sequía y prevé medida especial la capital por bajos niveles de las represas",
-     "link": "https://www.infobae.com/honduras/2026/07/19/honduras-copeco-analiza-elevar-alerta-por-sequia-y-preve-medida-especial-la-capital-por-bajos-niveles-de-las-represas/",
-     "source": "Infobae",
-     "published": "2026-07-19T03:57:46+00:00",
-     "copete": "Aunque las recientes lluvias han dejado acumulados en varias regiones del país, las autoridades consideran que no han sido suficientes para revertir el déficit hídrico en el Corredor Seco.",
-     "id": "b8e1373472bc"
-    },
-    {
-     "title": "República Dominicana: Policía localiza el cadáver de mujer desaparecida y arrestan a presunta autora",
-     "link": "https://www.infobae.com/republica-dominicana/2026/07/19/republica-dominicana-policia-localiza-el-cadaver-de-mujer-desaparecida-y-arrestan-a-presunta-autora/",
-     "source": "Infobae",
-     "published": "2026-07-19T03:55:15+00:00",
-     "copete": "La mujer, desaparecida desde el 9 de julio, fue localizada el sábado en una zona boscosa de Las Guanábanas, con descomposición avanzada, tras varios días de operativos y rastreos",
-     "id": "8999d6cd0d88"
-    },
-    {
-     "title": "El emotivo posteo de Messi en la previa de la final contra España: “Pase lo que pase, este equipo ya hizo historia”",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/el-emotivo-posteo-de-messi-en-la-previa-de-la-final-contra-espana-pase-lo-que-pase-este-equipo-ya-nid19072026/",
+     "title": "Argentina vs. España, EN VIVO por el Mundial 2026: hora, TV y las formaciones",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-espana-en-vivo-por-el-mundial-2026-nid19072026/",
      "source": "La Nación",
-     "published": "2026-07-19T03:54:33+00:00",
-     "copete": "El capitán de la selección argentina utilizó su cuenta de Instagram para compartir un mensaje a horas del encuentro decisivo por la Copa del Mundo",
-     "id": "ac4a7df0f022"
+     "published": "2026-07-19T06:46:34+00:00",
+     "copete": "El partido se disputará a las 16 horas en el New York New Jersey Stadium; todos los detalles del encuentro",
+     "id": "f1ce07a6ab69"
     },
     {
-     "title": "La selección practicó en Nueva Jersey y miles de hinchas desbordan Times Square en el último banderazo",
-     "link": "https://www.lanacion.com.ar/deportes/mundial-2026-en-vivo-toda-la-previa-de-la-final-contra-espana-y-las-declaraciones-de-trump-y-scaloni-nid18072026/",
+     "title": "Cuenta regresiva para el año electoral: el Gobierno tropezó en el final del Mundial",
+     "link": "https://www.infobae.com/politica/2026/07/19/cuenta-regresiva-para-el-ano-electoral-el-gobierno-tropezo-en-el-final-del-mundial/",
+     "source": "Infobae",
+     "published": "2026-07-19T06:31:01+00:00",
+     "copete": "Después de la Copa del Mundo, la política activará la campaña y Milei enfrenta el desafío de mantenerse competitivo. La malvinización del partido contra Inglaterra y las palabras de Lionel Messi incomodaron al oficialismo. El viaje del…",
+     "id": "c95cff84d2ea"
+    },
+    {
+     "title": "A medio siglo de la caída de Santucho: el enigma de cómo lo encontraron y el pacto de silencio de los dictadores sobre sus restos",
+     "link": "https://www.infobae.com/sociedad/2026/07/19/a-medio-siglo-de-la-caida-de-santucho-el-enigma-de-como-lo-encontraron-y-el-pacto-de-silencio-de-los-dictadores-sobre-sus-restos/",
+     "source": "Infobae",
+     "published": "2026-07-19T06:30:04+00:00",
+     "copete": "Poco después del mediodía del 19 de julio de 1976 un grupo del Ejército irrumpió en un departamento de Villa Martelli donde mató al jefe máximo del PRT-ERP y a su segundo. También secuestró a dos mujeres y a un niño de dos años. Cincuenta…",
+     "id": "a54c7fc2af4b"
+    },
+    {
+     "title": "El pasaporte paralelo estadounidense que pocos conocen: quién puede obtenerlo y por qué dura cuatro años o menos",
+     "link": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/el-pasaporte-paralelo-estadounidense-que-pocos-conocen-quien-puede-obtenerlo-y-por-que-dura-cuatro-nid19072026/",
      "source": "La Nación",
-     "published": "2026-07-19T03:42:39+00:00",
+     "published": "2026-07-19T06:30:00+00:00",
+     "copete": "Descubre quién puede solicitar un segundo pasaporte de Estados Unidos, cuánto cuesta, cuánto dura y en qué casos autoriza su emisión el Departamento de Estado.",
+     "id": "5ba8d8cab80a"
+    },
+    {
+     "title": "La tabla de títulos de los campeones de la Copa del Mundo y el listado de las selecciones más ganadoras de la historia",
+     "link": "https://www.infobae.com/deportes/2026/07/19/la-tabla-de-titulos-de-los-campeones-de-la-copa-del-mundo-y-el-listado-de-las-selecciones-mas-ganadoras-de-la-historia/",
+     "source": "Infobae",
+     "published": "2026-07-19T06:28:23+00:00",
+     "copete": "En la séptima final de su historia, Argentina buscará bordar la cuarta estrella en su escudo. España intentará alzar su segunda Copa del Mundo",
+     "id": "b386d03c918d"
+    },
+    {
+     "title": "El día que Messi lideró la categórica goleada de Argentina ante la selección de España campeona del mundo",
+     "link": "https://www.infobae.com/deportes/2026/07/19/el-dia-que-messi-lidero-la-categorica-goleada-de-argentina-ante-la-seleccion-de-espana-campeona-del-mundo/",
+     "source": "Infobae",
+     "published": "2026-07-19T06:28:07+00:00",
+     "copete": "En septiembre de 2010, la Albiceleste recibió en el Monumental a la Roja, que venía de consagrarse en Sudáfrica. El rosarino encendió la fiesta con la primera conquista del encuentro",
+     "id": "1d0b1d1d9cd5"
+    },
+    {
+     "title": "Los impresionantes registros de Lionel Messi en el Mundial más influyente de su carrera",
+     "link": "https://www.infobae.com/deportes/2026/07/19/los-impresionantes-registros-de-lionel-messi-en-el-mundial-mas-influyente-de-su-carrera/",
+     "source": "Infobae",
+     "published": "2026-07-19T06:27:30+00:00",
+     "copete": "Con 8 goles y 4 asistencias, el rosarino es la figura indiscutida del equipo que este domingo buscará alzar la cuarta Copa del Mundo de su historia",
+     "id": "050c553b72c9"
+    },
+    {
+     "title": "Mundial 2026, en vivo: Argentina y España se enfrentan en la final de la Copa del Mundo",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-en-vivo-argentina-y-espana-se-enfrentan-en-la-final-de-la-copa-del-mundo-nid19072026/",
+     "source": "La Nación",
+     "published": "2026-07-19T06:09:32+00:00",
      "copete": "Scaloni se debate entre mantener a Simeone o devolverle la titularidad a De Paul; en una histórica convocatoria en el centro de Nueva York, las calles están colapsadas de argentinos y fanáticos de la albiceleste",
-     "id": "6cbc13e6d7f8"
+     "id": "1b6c04959419"
     },
     {
-     "title": "Clima hoy en Valle de la Luna, San Juan: el pronóstico del tiempo para este domingo 19 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-valle-luna-san-juan-pronostico-tiempo-domingo-19-julio-2026_0_vGktN2I883.html",
-     "source": "Clarín",
-     "published": "2026-07-19T03:29:44+00:00",
-     "copete": "El SMN anticipa para este domingo temperaturas entre 6°C y 8°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "bbf0ab508cfc"
+     "title": "Estanislao Bachrach: “El bienestar o la toma de decisiones no depende de lo que tengo, sino de lo que soy y lo que quiero ser”",
+     "link": "https://www.lanacion.com.ar/sociedad/estanislao-bachrach-el-bienestar-o-la-toma-de-decisiones-no-depende-de-lo-que-tengo-sino-de-lo-que-nid19072026/",
+     "source": "La Nación",
+     "published": "2026-07-19T06:00:00+00:00",
+     "copete": "El biólogo molecular analiza la importancia de la intuición y el cuerpo para alcanzar la plenitud personal; describe técnicas para transformar la estructura cerebral y reducir el malestar mental",
+     "id": "4bd07407f41a"
     },
     {
-     "title": "Clima hoy en Uspallata, Mendoza: el pronóstico del tiempo para este domingo 19 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-uspallata-mendoza-pronostico-tiempo-domingo-19-julio-2026_0_XLNe6XsG2A.html",
-     "source": "Clarín",
-     "published": "2026-07-19T03:29:43+00:00",
-     "copete": "El SMN anticipa para este domingo temperaturas entre -6°C y 2°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "6cf94f5325aa"
+     "title": "Camaleónica. La actriz de sangre argentina, Anya Taylor-Joy, brilla con sus impactantes looks durante la promoción de su última serie",
+     "link": "https://www.lanacion.com.ar/revista-hola/camaleonica-la-actriz-de-sangre-argentina-anya-taylor-joy-brilla-con-sus-impactantes-looks-durante-nid19072026/",
+     "source": "La Nación",
+     "published": "2026-07-19T06:00:00+00:00",
+     "copete": "Del viejo Hollywood a las siluetas lenceras, la actriz reafirma su lugar como referente de moda durante la promoción de Lucky",
+     "id": "4c05296c769c"
     },
     {
-     "title": "Clima hoy en Tres de Febrero, Buenos Aires: el pronóstico del tiempo para este domingo 19 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-febrero-buenos-aires-pronostico-tiempo-domingo-19-julio-2026_0_r3nFT4sYmI.html",
+     "title": "María Becerra tomó un avión privado hacia Nueva York y se encamina para ser la artista que entonará el himno argentino en la final",
+     "link": "https://www.clarin.com/espectaculos/maria-becerra-tomo-avion-privado-nueva-york-encamina-artista-entonara-himno-argentino-final_0_GHUT4QcvbP.html",
      "source": "Clarín",
-     "published": "2026-07-19T03:29:20+00:00",
-     "copete": "El SMN anticipa para este domingo temperaturas entre 9°C y 13°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "47d044ac7305"
+     "published": "2026-07-19T05:20:58+00:00",
+     "copete": "La cantante adelantó su actuación en España y hace horas abordó un avión privado rumbo a Estados Unidos. \"Yendo\", aseguró en sus redes y la ilustró con una foto dentro del avión, la pelota del Mundial y la camiseta de la Selección. La FIFA…",
+     "id": "fbfef2ee09bb"
     },
     {
-     "title": "Clima hoy en Tres Arroyos, Buenos Aires: el pronóstico del tiempo para este domingo 19 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-arroyos-buenos-aires-pronostico-tiempo-domingo-19-julio-2026_0_ur2hn0fJDG.html",
+     "title": "El ojo de Troglio: por qué la experiencia puede definir la final del Mundial",
+     "link": "https://www.clarin.com/deportes/ojo-troglio-experiencia-puede-definir-final-mundial_0_KujIwxkP5T.html",
      "source": "Clarín",
-     "published": "2026-07-19T03:29:19+00:00",
-     "copete": "El SMN anticipa para este domingo temperaturas entre 5°C y 13°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "0b9f4d0a69cc"
-    },
-    {
-     "title": "Clima hoy en Trelew, Chubut: el pronóstico del tiempo para este domingo 19 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-trelew-chubut-pronostico-tiempo-domingo-19-julio-2026_0_UMphu8D7fS.html",
-     "source": "Clarín",
-     "published": "2026-07-19T03:29:19+00:00",
-     "copete": "El SMN anticipa para este domingo temperaturas entre -2°C y 6°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "0382e57403b5"
+     "published": "2026-07-19T04:15:33+00:00",
+     "copete": "Argentina afronta otra definición con un plantel que ya conoce la presión y las emociones de un partido tan trascendental. La experiencia puede inclinar un duelo en el que los detalles marcarán la diferencia ante España.",
+     "id": "f97913813111"
     }
    ]
   },
@@ -393,9 +410,25 @@
      "title": "¡Crece la épica de Argentina! Remonta 2-1 a Inglaterra y enfrentará a España en la final del Mundial 2026",
      "link": "https://www.bbc.co.uk/mundo/live/cdejeeez4y2t?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-19T04:02:08.735306+00:00",
+     "published": "2026-07-19T06:47:44.587329+00:00",
      "copete": "Inglaterra comenzó ganando con gol de Gordon, pero Argentina logró remontarlo con goles de Enzo Fernández y Lautaro Martínez. La selección de Lionel Messi disputará la final contra España el domingo.",
      "id": "3ccfbcb14bcb"
+    },
+    {
+     "title": "El presidente de Hungría firma la reforma Constitucional de Magyar que le destituye",
+     "link": "https://elpais.com/internacional/2026-07-19/el-presidente-de-hungria-firma-la-reforma-constitucional-de-magyar-que-le-destituye.html",
+     "source": "El País Internacional",
+     "published": "2026-07-19T06:33:17+00:00",
+     "copete": "Tamás Sulyok, nombrado por Orbán, denuncia “un grave y vergonzoso ejemplo histórico de abuso del poder político”",
+     "id": "a36b5586b3a3"
+    },
+    {
+     "title": "US and Iran exchange strikes after two US deaths in Jordan attack",
+     "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-19T05:10:57+00:00",
+     "copete": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
+     "id": "fdf722c98f4c"
     },
     {
      "title": "Argentina y España, dos \"enemigos íntimos\" que disputan una final de Mundial inédita",
@@ -430,19 +463,11 @@
      "id": "fafaa3a6c2c0"
     },
     {
-     "title": "La testosterona, al mando en la Casa Blanca",
-     "link": "https://elpais.com/internacional/2026-07-19/la-testosterona-al-mando-en-la-casa-blanca.html",
-     "source": "El País Internacional",
-     "published": "2026-07-19T03:30:01+00:00",
-     "copete": "Al presidente de EE UU se le da muy bien amedrentar con bombardeos, pero no es capaz de alcanzar su objetivo: la derrota de Irán",
-     "id": "ac593169caaf"
-    },
-    {
      "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
      "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-07-19T02:17:07+00:00",
-     "copete": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are \"innocent\".",
+     "copete": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
      "id": "8b7fdb3f783a"
     },
     {
@@ -460,14 +485,6 @@
      "published": "2026-07-19T01:11:23+00:00",
      "copete": "The 2026 World Cup's spectacle is creating debate about the place of music in sport - and how it could infiltrate other tournaments.",
      "id": "c4fef43d2b4d"
-    },
-    {
-     "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-     "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-19T00:18:47+00:00",
-     "copete": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
-     "id": "239300016ef2"
     }
    ]
   }
@@ -481,11 +498,6 @@
   {
    "section": "cardiologia",
    "feed": "Circulation (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "cardiologia",
-   "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T10:35:00Z",
+  "generated_at": "2026-07-19T22:04:43Z",
   "summaries": {
     "fb835bd596fb": {
       "resumen": "Nota de TCTMD sobre datos de mortalidad en Estados Unidos que muestran que las muertes por enfermedad isquémica cardíaca (la causada por obstrucción de las arterias coronarias) reflejan un control deficiente de los factores de riesgo cardiovascular clásicos, como la hipertensión arterial, la dislipemia, la diabetes y el tabaquismo. Interesa porque, pese a los avances terapéuticos y de intervencionismo, la prevención primaria sigue siendo el eslabón más débil.",
@@ -53,10 +53,6 @@
       "resumen": "Nota de KDnuggets, con un webinar asociado, sobre cómo identificar si un sistema de inteligencia artificial (IA) ya calificaría como \"de alto riesgo\" bajo el Reglamento de Inteligencia Artificial de la Unión Europea (EU AI Act) y qué implica eso para el gobierno de datos de una organización. Le sirve a un médico que aprende análisis de datos porque anticipa las exigencias regulatorias que probablemente lleguen también a la actividad clínica y de investigación que usa IA.",
       "destacado": false
     },
-    "ddebaf62488a": {
-      "resumen": "Publicación en Hacker News sobre el anuncio de Alibaba de Qwen3.8, la próxima versión de su modelo de lenguaje grande (LLM, large language model), que pronto estará disponible como pesos abiertos (open-weight, es decir con sus parámetros descargables). Le sirve a quien aprende análisis de datos porque suma una alternativa más a los modelos que se pueden correr o ajustar sin depender de una API paga.",
-      "destacado": false
-    },
     "c54ae55d46e9": {
       "resumen": "Nota de Simon Willison que difunde la mirada de Nik Suresh, consultor que describe cómo la fiebre por la inteligencia artificial (IA) está distorsionando la toma de decisiones en grandes empresas, con anécdotas de fuentes anónimas. Le sirve a quien se inicia en el análisis de datos porque expone el lado menos técnico de la adopción de IA: la presión organizacional y el ruido que rodean su implementación real.",
       "destacado": false
@@ -65,38 +61,42 @@
       "resumen": "Nota de Simon Willison sobre cómo Claude Code, el asistente de programación de Anthropic, empezó a usar una versión de Bun (un entorno de ejecución de JavaScript) reescrita en Rust, lo que mejoró un 10% la velocidad de inicio en Linux sin cambios visibles para el usuario. Le sirve a quien incorpora herramientas de IA a su flujo de trabajo porque ilustra cómo las mejoras de infraestructura por debajo del capó pueden tener impacto real aunque pasen inadvertidas.",
       "destacado": false
     },
-    "e15937ca8290": {
-      "resumen": "Proyecto de código abierto en GitHub (Castor), comentado en Hacker News, que se presenta como una alternativa más económica al IPTV tradicional para ver televisión por internet. Aporta poco de forma directa al análisis de datos, pero sirve como ejemplo de la comunidad técnica armando infraestructura de streaming autogestionada.",
+    "f39ec5384df0": {
+      "resumen": "Artículo de Towards Data Science que explica paso a paso cómo aprenden las redes neuronales, construyendo la intuición detrás de la retropropagación (backpropagation), el algoritmo central que ajusta los parámetros de un modelo según su error. Le sirve a un médico que aprende análisis de datos porque abre la \"caja negra\" del aprendizaje automático (machine learning) antes de usarlo como herramienta.",
       "destacado": false
     },
-    "45da52ae09b4": {
-      "resumen": "Proyecto personal (Transcribe.cpp), difundido en Hacker News, que implementa una herramienta liviana de transcripción de audio a texto para correr en la propia computadora, en la línea de whisper.cpp. Le sirve a un médico que aprende análisis de datos porque muestra cómo procesar audio (por ejemplo grabaciones de consultas o de congresos) de forma privada y sin depender de servicios en la nube.",
+    "cca06f216a08": {
+      "resumen": "Noticia técnica: venció la última patente del formato de video MPEG-4 Visual, que queda así completamente libre de regalías. Su relevancia para ciencia de datos es indirecta (menos barreras legales para códecs usados en almacenamiento y streaming de video), pero no involucra inteligencia artificial.",
       "destacado": false
     },
-    "ccfb0a129469": {
-      "resumen": "Simon Willison presenta una herramienta interactiva, construida con ayuda de un modelo de IA, que explica en lenguaje simple el plan de ejecución (query plan) de una consulta en SQLite, inspirada en lo difícil que resulta habitualmente leer esos planes. Le sirve a un médico que aprende análisis de datos porque ayuda a entender por qué una consulta a una base de datos tarda más de lo esperado y cómo optimizarla, algo aplicable a cualquier motor de bases de datos tipo SQL.",
+    "3aec985379c8": {
+      "resumen": "La empresa china Moonshot AI tuvo que suspender nuevas suscripciones a su modelo de lenguaje grande (LLM, large language model) Kimi K3 por exceso de demanda. Sirve como termómetro de la competencia global de modelos de lenguaje fuera del eje habitual de OpenAI y Anthropic, con alternativas cada vez más usadas.",
       "destacado": false
     },
-    "7e802322c5a2": {
-      "resumen": "Hilo de r/datascience sobre Inkling, un nuevo modelo de lenguaje de pesos abiertos (open-weight, es decir con sus parámetros entrenados disponibles para descargar y modificar) con arquitectura de mezcla de expertos (mixture-of-experts, MoE: en cada consulta solo se activa una parte de la red) de 975.000 millones de parámetros, que según los usuarios trae algunas sorpresas de comportamiento. Le sirve a quien aprende análisis de datos porque ilustra hacia dónde evoluciona la oferta de modelos abiertos que se pueden correr o ajustar sin depender de una API paga.",
+    "bd88580fd57b": {
+      "resumen": "Artículo de Towards Data Science que propone un bucle (loop) pequeño que corre antes de la recuperación de información en sistemas RAG (retrieval-augmented generation, generación aumentada por recuperación): el modelo lee el documento, identifica qué falta y vuelve a formular la consulta. Le sirve a un médico que aprende análisis de datos porque muestra una técnica concreta para mejorar sistemas que buscan respuestas en documentos como historias clínicas o guías, antes de contestar.",
       "destacado": false
     },
-    "e2c0bac21de6": {
-      "resumen": "Nota de Towards Data Science sobre cómo construir una plataforma de datos empresarial \"nativa en IA\" (AI-native), combinando agentes de datos, controles de calidad automatizados mediante inteligencia artificial (IA) y mecanismos de gobierno de datos. Le sirve a un médico que aprende análisis de datos porque va más allá del uso puntual de un modelo de lenguaje y plantea cómo organizar la infraestructura de datos de una institución para que la IA funcione de forma confiable y auditable.",
+    "70389c25f144": {
+      "resumen": "Publicación en Hacker News sobre un proyecto que reemplazó un sistema comercial de gestión de una bolera, de 120.000 dólares, por microcontroladores ESP32 de bajo costo (1.600 dólares en total). Aporta poco de forma directa al análisis de datos, pero ilustra cómo el hardware económico y el código a medida pueden reemplazar sistemas propietarios caros con recursos limitados.",
       "destacado": false
     },
-    "7d45b7438e14": {
-      "resumen": "Artículo de Towards Data Science que propone una \"cascada de escalamiento\" para extraer datos de archivos PDF: aplicar primero un método de lectura barato y determinístico, con chequeos automáticos que detectan cuándo falló, y recién ahí escalar a un parser más pesado (y caro) solo en las páginas que lo necesitan. Le sirve mucho a un médico que aprende análisis de datos porque los PDF —historias clínicas, reportes de eventos adversos, artículos científicos— son una fuente constante de datos desordenados, y esta lógica de \"gastar solo cuando hace falta\" es aplicable a cualquier proceso de extracción de datos.",
+    "56bc733aae29": {
+      "resumen": "Artículo de Towards Data Science sobre un agente de inteligencia artificial (IA) que aprobó todas las métricas técnicas de evaluación pero terminó dado de baja porque sus resoluciones exitosas costaban más que reemplazar a los empleados humanos. Le sirve mucho a un médico que aprende análisis de datos porque advierte que medir bien el desempeño técnico de un modelo no alcanza: hay que sumar el costo real antes de llevarlo a producción.",
       "destacado": true
     },
-    "e40c3b2e46b8": {
-      "resumen": "Columna de opinión sobre Los Pumas: hubo entrega y actitud, pero faltaron ideas de juego en su reciente presentación por el Nations Championship."
+    "cc3ee61a2a71": {
+      "resumen": "Noticia de que el videojuego Minecraft: Java Edition migró su capa multimedia a SDL3 (Simple DirectMedia Layer, versión 3), una librería de bajo nivel para gráficos y audio. No tiene relación directa con ciencia de datos ni inteligencia artificial; es una nota de ingeniería de software general sobre cambio de dependencias.",
+      "destacado": false
     },
-    "381793bbbde6": {
-      "resumen": "Los Pumas perdieron ante Inglaterra y cerraron con una derrota la ventana de julio del Nations Championship."
+    "471e63d62753": {
+      "resumen": "Un balance de la ventana de julio remarca la frustración del entrenador Felipe Contepomi por el retroceso en el juego de Los Pumas, que ahora encara una rotación del plantel."
     },
-    "b2753e821f52": {
-      "resumen": "Los Pumas eligieron la camiseta alternativa azul para enfrentar a Inglaterra, un cruce cargado de significado simbólico entre ambos países."
+    "b517c59758af": {
+      "resumen": "Los Pumas salieron a la cancha ante Inglaterra con una camiseta especial que rindió homenaje a un capítulo histórico del deporte argentino."
+    },
+    "c70409399357": {
+      "resumen": "El seleccionado argentino de rugby lució ante Inglaterra una casaca alusiva a la gesta de la Selección de fútbol en el Mundial de México 1986."
     }
   }
 }

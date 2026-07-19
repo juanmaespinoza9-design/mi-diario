@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T22:05:00Z",
+  "generated_at": "2026-07-19T10:35:00Z",
   "summaries": {
     "fb835bd596fb": {
       "resumen": "Nota de TCTMD sobre datos de mortalidad en Estados Unidos que muestran que las muertes por enfermedad isquémica cardíaca (la causada por obstrucción de las arterias coronarias) reflejan un control deficiente de los factores de riesgo cardiovascular clásicos, como la hipertensión arterial, la dislipemia, la diabetes y el tabaquismo. Interesa porque, pese a los avances terapéuticos y de intervencionismo, la prevención primaria sigue siendo el eslabón más débil.",
@@ -49,12 +49,28 @@
       "destacado": false,
       "analisis": "Diseño: no se puede precisar el tipo de estudio (ensayo aleatorizado, registro o revisión) a partir del título; JACC publica ambos formatos sobre este tema.\nPoblación: pacientes con enfermedad coronaria (aterosclerosis de arterias coronarias) bajo doble terapia antiplaquetaria, probablemente post-angioplastia con stent.\nIntervención: suspensión de la aspirina manteniendo monoterapia con un inhibidor de P2Y12, frente a continuar la doble terapia antiplaquetaria.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: no determinables sin el texto completo.\nMensaje: refuerza la línea de investigación que busca reducir el riesgo hemorrágico del tratamiento antiplaquetario prolongado sin resignar protección isquémica; conviene revisar el estudio completo antes de modificar la práctica habitual.\nNota: análisis sin acceso al abstract."
     },
-    "24cd97b35407": {
-      "resumen": "Publicación en Hacker News que reflexiona sobre el impacto del lanzamiento de Kimi K3, un modelo de lenguaje grande (LLM, large language model) de código abierto de la familia Kimi, y lo que implica para el equilibrio entre los laboratorios de inteligencia artificial (IA) que abren sus modelos y los que los mantienen cerrados. Le sirve a un médico que aprende análisis de datos porque muestra cómo se va achicando la brecha entre modelos abiertos y propietarios, ampliando las opciones para correr IA sin depender de una sola empresa.",
+    "56022009125c": {
+      "resumen": "Nota de KDnuggets, con un webinar asociado, sobre cómo identificar si un sistema de inteligencia artificial (IA) ya calificaría como \"de alto riesgo\" bajo el Reglamento de Inteligencia Artificial de la Unión Europea (EU AI Act) y qué implica eso para el gobierno de datos de una organización. Le sirve a un médico que aprende análisis de datos porque anticipa las exigencias regulatorias que probablemente lleguen también a la actividad clínica y de investigación que usa IA.",
       "destacado": false
     },
-    "f46843f2f4d9": {
-      "resumen": "Columna de despedida publicada en ACM Queue, la revista técnica de la asociación ACM (Association for Computing Machinery), con un guiño en el título a los \"bikesheds\": discusiones triviales y desproporcionadas sobre detalles menores que suelen trabar decisiones técnicas en los equipos (la llamada Ley de la trivialidad de Parkinson). Le sirve a quien participa en proyectos de datos como recordatorio de no perder tiempo en debates de bajo impacto en detrimento de las decisiones que realmente importan.",
+    "ddebaf62488a": {
+      "resumen": "Publicación en Hacker News sobre el anuncio de Alibaba de Qwen3.8, la próxima versión de su modelo de lenguaje grande (LLM, large language model), que pronto estará disponible como pesos abiertos (open-weight, es decir con sus parámetros descargables). Le sirve a quien aprende análisis de datos porque suma una alternativa más a los modelos que se pueden correr o ajustar sin depender de una API paga.",
+      "destacado": false
+    },
+    "c54ae55d46e9": {
+      "resumen": "Nota de Simon Willison que difunde la mirada de Nik Suresh, consultor que describe cómo la fiebre por la inteligencia artificial (IA) está distorsionando la toma de decisiones en grandes empresas, con anécdotas de fuentes anónimas. Le sirve a quien se inicia en el análisis de datos porque expone el lado menos técnico de la adopción de IA: la presión organizacional y el ruido que rodean su implementación real.",
+      "destacado": false
+    },
+    "165d33e669f4": {
+      "resumen": "Nota de Simon Willison sobre cómo Claude Code, el asistente de programación de Anthropic, empezó a usar una versión de Bun (un entorno de ejecución de JavaScript) reescrita en Rust, lo que mejoró un 10% la velocidad de inicio en Linux sin cambios visibles para el usuario. Le sirve a quien incorpora herramientas de IA a su flujo de trabajo porque ilustra cómo las mejoras de infraestructura por debajo del capó pueden tener impacto real aunque pasen inadvertidas.",
+      "destacado": false
+    },
+    "e15937ca8290": {
+      "resumen": "Proyecto de código abierto en GitHub (Castor), comentado en Hacker News, que se presenta como una alternativa más económica al IPTV tradicional para ver televisión por internet. Aporta poco de forma directa al análisis de datos, pero sirve como ejemplo de la comunidad técnica armando infraestructura de streaming autogestionada.",
+      "destacado": false
+    },
+    "45da52ae09b4": {
+      "resumen": "Proyecto personal (Transcribe.cpp), difundido en Hacker News, que implementa una herramienta liviana de transcripción de audio a texto para correr en la propia computadora, en la línea de whisper.cpp. Le sirve a un médico que aprende análisis de datos porque muestra cómo procesar audio (por ejemplo grabaciones de consultas o de congresos) de forma privada y sin depender de servicios en la nube.",
       "destacado": false
     },
     "ccfb0a129469": {
@@ -69,34 +85,18 @@
       "resumen": "Nota de Towards Data Science sobre cómo construir una plataforma de datos empresarial \"nativa en IA\" (AI-native), combinando agentes de datos, controles de calidad automatizados mediante inteligencia artificial (IA) y mecanismos de gobierno de datos. Le sirve a un médico que aprende análisis de datos porque va más allá del uso puntual de un modelo de lenguaje y plantea cómo organizar la infraestructura de datos de una institución para que la IA funcione de forma confiable y auditable.",
       "destacado": false
     },
-    "14d5813fcb25": {
-      "resumen": "Guía técnica publicada en Hacker News que explica paso a paso cómo configurar una computadora Mac de repuesto para que la controle de forma remota Claude Code, el asistente de programación de Anthropic. Le sirve a un médico que está incorporando IA a su flujo de trabajo de datos porque describe un caso concreto de automatización remota con agentes de inteligencia artificial.",
-      "destacado": false
-    },
-    "4005f1d1b142": {
-      "resumen": "Nota de Hacker News sobre la llegada de Gleam, un lenguaje de programación funcional y tipado, a Tangled, una plataforma de alojamiento de código basada en un protocolo descentralizado (el mismo que usa la red social Bluesky). Aporta poco de forma directa al análisis de datos, pero sirve como panorama de las alternativas descentralizadas que están surgiendo frente a GitHub para alojar proyectos de código.",
-      "destacado": false
-    },
     "7d45b7438e14": {
       "resumen": "Artículo de Towards Data Science que propone una \"cascada de escalamiento\" para extraer datos de archivos PDF: aplicar primero un método de lectura barato y determinístico, con chequeos automáticos que detectan cuándo falló, y recién ahí escalar a un parser más pesado (y caro) solo en las páginas que lo necesitan. Le sirve mucho a un médico que aprende análisis de datos porque los PDF —historias clínicas, reportes de eventos adversos, artículos científicos— son una fuente constante de datos desordenados, y esta lógica de \"gastar solo cuando hace falta\" es aplicable a cualquier proceso de extracción de datos.",
       "destacado": true
     },
-    "a70196a350fc": {
-      "resumen": "Resumen semanal de KDnuggets con varios artículos cortos: por qué conviene reemplazar las cadenas de if-else por el patrón \"registro\" (registry pattern) en Python, cinco proyectos de SQL para armar un portfolio de datos, diez canales de YouTube para mantenerse al día en inteligencia artificial (IA), y una introducción a Outlines, una biblioteca que fuerza a los modelos de lenguaje a generar salidas con formato estructurado. Le sirve a un médico que aprende análisis de datos como punto de partida variado para practicar SQL y Python.",
-      "destacado": false
+    "e40c3b2e46b8": {
+      "resumen": "Columna de opinión sobre Los Pumas: hubo entrega y actitud, pero faltaron ideas de juego en su reciente presentación por el Nations Championship."
     },
-    "3212de0b4624": {
-      "resumen": "Artículo de Towards Data Science que combina el \"pre-churn scoring\" (puntuar de antemano qué clientes tienen más probabilidad de irse) con el \"uplift modelling\" (modelos que estiman el efecto real de una intervención sobre cada cliente, no solo su riesgo) para mejorar la retención en empresas de tecnología financiera (fintech). Le sirve a quien aprende análisis de datos porque ese mismo enfoque —priorizar a quién conviene intervenir, no solo a quién identificar como riesgo— es trasladable a la adherencia de pacientes o al seguimiento de eventos adversos en farmacovigilancia.",
-      "destacado": false
+    "381793bbbde6": {
+      "resumen": "Los Pumas perdieron ante Inglaterra y cerraron con una derrota la ventana de julio del Nations Championship."
     },
-    "7536c52abdad": {
-      "resumen": "Minuto a minuto del partido entre Los Pumas e Inglaterra por la última fecha de la fase inicial del Nations Championship, disputado en Santiago del Estero."
-    },
-    "0612d9bd6959": {
-      "resumen": "Los Pumas salieron a la cancha ante Inglaterra con una camiseta especial inspirada en la selección argentina de México 86."
-    },
-    "b3059140c7cc": {
-      "resumen": "El wing Mateo Carreras fue amonestado con tarjeta amarilla durante el partido de Los Pumas ante Inglaterra por el Nations Championship."
+    "b2753e821f52": {
+      "resumen": "Los Pumas eligieron la camiseta alternativa azul para enfrentar a Inglaterra, un cruce cargado de significado simbólico entre ambos países."
     }
   }
 }

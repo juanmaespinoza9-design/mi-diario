@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T06:47:44.753677+00:00",
+ "generated_at": "2026-07-19T10:02:20.194860+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -33,22 +33,6 @@
      "source": "TCTMD",
      "published": "2026-07-16T19:01:32+00:00",
      "id": "e50c7a1cf0b3"
-    },
-    {
-     "title": "Fish-Oil Supplementation and Cardiovascular Events in Patients Receiving Hemodialysis. Reply",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42456148/",
-     "source": "NEJM Cardiología",
-     "published": "2026-07-16T00:00:00+00:00",
-     "copete": "Lok CE et al. · The New England journal of medicine",
-     "id": "7cb982d542d6"
-    },
-    {
-     "title": "Fish-Oil Supplementation and Cardiovascular Events in Patients Receiving Hemodialysis",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42456147/",
-     "source": "NEJM Cardiología",
-     "published": "2026-07-16T00:00:00+00:00",
-     "copete": "Marchini M et al. · The New England journal of medicine",
-     "id": "03e95ff68bdd"
     },
     {
      "title": "Using Tenecteplase Instead of Alteplase Tied to Speedier Acute Stroke Workflows",
@@ -105,6 +89,13 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Los Pumas usan camiseta azul ante Inglaterra en un cruce con fuerte carga simbólica",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDAxQVkxUENhX1RwTHZQVl9zdFcwNlVaT0x6NnpFRGtMb2IwX2hJUWNMM0MzTzk0cXVsVkNlSXFIQWgzVXJMY3QxUG1EYmN4VHR4VDBWVFFHWHl3a0g1QnNzZWh4S21Hci0wMTd6ZlBReEo3ZUZtVWl4SjhOTGVESkYyZkVsRzJQTUQzM2NySjJGQXdTTUZNVml4QTl0Rkx2WWtOQk9NWDlBajRIcVJfb2hrX0pGU21fc0puTVFUMjFzdjQ?oc=5",
+     "source": "El Zonda",
+     "published": "2026-07-19T05:51:34+00:00",
+     "id": "b2753e821f52"
+    },
+    {
      "title": "Garra sin ideas",
      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ld1NhYmw1MXNHaXJFR1h6RVJNSzlhenhWaHpySENZazcya2pCU0ZEbWgwQzVBbDVQUmpNVE40a240MHpLU1pabFB1bEJSWEsxME5mbDByNnF4a3pyaGt2Ry1icGtYQVBMd0FfVmF3VWc?oc=5",
      "source": "Periodismo Rugby",
@@ -112,18 +103,11 @@
      "id": "e40c3b2e46b8"
     },
     {
-     "title": "Con Los Pumas, el fixture completo para el Nations Championship 2026",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRDBWLVNjTTJ3cEExeENzdHEyTi1zeUF5NTM3MzF3d0k4a3RXcUNjRWRidl9xaWhGRHJIYzhSM3BSZXoyWUpRcDVlS25UUmVFbWRZSk81bEtDRVFOSk5nQkFrSXcwUmVucFpoZnpfYWJkaGV0a3VvWGNUdW54UGRUaV92aUx2X3pma0RUV3VMdU56bnM0SHRaQkN3SDhFWXJEQVRGOUtGWFFUbUpnNlJyeEpnd3FjSnFnUS1zSzdNa2QyclBFdENR?oc=5",
-     "source": "ESPN Argentina",
-     "published": "2026-07-19T02:23:13+00:00",
-     "id": "848881a26f58"
-    },
-    {
-     "title": "Los Pumas usan camiseta azul ante Inglaterra en un cruce con fuerte carga simbólica",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDAxQVkxUENhX1RwTHZQVl9zdFcwNlVaT0x6NnpFRGtMb2IwX2hJUWNMM0MzTzk0cXVsVkNlSXFIQWgzVXJMY3QxUG1EYmN4VHR4VDBWVFFHWHl3a0g1QnNzZWh4S21Hci0wMTd6ZlBReEo3ZUZtVWl4SjhOTGVESkYyZkVsRzJQTUQzM2NySjJGQXdTTUZNVml4QTl0Rkx2WWtOQk9NWDlBajRIcVJfb2hrX0pGU21fc0puTVFUMjFzdjQ?oc=5",
-     "source": "El Zonda",
-     "published": "2026-07-19T01:09:44+00:00",
-     "id": "b2753e821f52"
+     "title": "Rugby: Los Pumas cayeron ante Inglaterra y cerraron con derrota la ventana de julio del Nations Championship",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ1Y2YzBGYWNqN3VvcUVGXzNwc0lZRDY1ZHpJMkxIamVHNWVVZDBxRG14LURaRWhGZG5yZWVQSDBNZ3g0TDVWRTFWZk5FZ1BKeU1rbjl4T3U0Z05aeUVqNm9Ld1g3VEgzWEI5NGJfYWVhbXN2dGJvR1JHQnYzaUF0MFZZcm5ZcUNLQXdBczhBWURMMk5fVDhwMEZrTHNMR2xSeFU0WjVYMERESHRNUk1kbC1rUWdmYTRUb3BZUVQ2b3JqaS1reVRKOUtXZU9qZG41RWp5czVmZ1J0c19kdzh1Z9IB5gFBVV95cUxPV3ZuXzZVMVc0VTBrQ0dhR0hqTm1ScDRxSUFnQXdmaE1uWm40YUdNRjRoUDVCVFowWEJhMHdoencwdmF2RV9mVWJjMTdaUW9idVpPZ3h4NmJVdkRQUU8tazhadlQ4V3htSmp3bnFTV0FZOGJ1dGQ2cnVlSmhqekszY01GT2JLdVBvYzRmV3h2Z3ROVlF6cTY2eDVYVGJlVUg3MHNPVU9keHJBeWFYTDRtb2o2YlJGS0thMmJvcUtIc0F3UENsTHV1b0pSd2N4dGM4YVdheVJSMzNRMENLQXFNVWJIc1FrUQ?oc=5",
+     "source": "Diario Hoy En la noticia",
+     "published": "2026-07-19T03:21:31+00:00",
+     "id": "381793bbbde6"
     },
     {
      "title": "Todos los amistosos de Primera: un clásico, un empate y una imagen que preocupa",
@@ -221,6 +205,21 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Could Your AI Systems Already Be High-Risk Under the EU AI Act?",
+     "link": "https://www.kdnuggets.com/2026/07/airia/could-your-ai-systems-already-be-high-risk-under-the-eu-ai-act",
+     "source": "KDnuggets",
+     "published": "2026-07-19T09:50:14+00:00",
+     "copete": "Access the on-demand webinar to understand what the latest guidance means for your AI governance program and what your organization should do next.",
+     "id": "56022009125c"
+    },
+    {
+     "title": "Qwen3.8 is launching and going open-weight soon",
+     "link": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-19T08:44:57+00:00",
+     "id": "ddebaf62488a"
+    },
+    {
      "title": "AI Mania Is Eviscerating Global Decision-Making",
      "link": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
      "source": "Simon Willison (IA)",
@@ -249,13 +248,6 @@
      "source": "Hacker News (100+ puntos)",
      "published": "2026-07-19T00:38:26+00:00",
      "id": "45da52ae09b4"
-    },
-    {
-     "title": "Codex Resets",
-     "link": "https://codex-resets.com/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-18T23:24:26+00:00",
-     "id": "d6dc55b43892"
     },
     {
      "title": "SQLite Query Explainer",
@@ -287,14 +279,6 @@
      "published": "2026-07-18T15:00:00+00:00",
      "copete": "Enterprise Document Intelligence [Vol.1 #10A] - The escalation cascade and the free, deterministic checks that flag a failed parse before you pay for a deeper one The post Loop Engineering with Adaptive PDF Parsing: Start Cheap, Pay for a…",
      "id": "7d45b7438e14"
-    },
-    {
-     "title": "KDnuggets Weekly Roundup: Week of July 13, 2026",
-     "link": "https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-13",
-     "source": "KDnuggets",
-     "published": "2026-07-18T13:00:05+00:00",
-     "copete": "Stop Using If-Else Chains: Use the Registry Pattern in Python Instead • 5 Real-World SQL Projects to Build Your Data Portfolio • 10 YouTube Channels Keeping You Ahead in AI • Structured Language Model Generation with Outlines",
-     "id": "a70196a350fc"
     }
    ]
   },
@@ -304,100 +288,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Argentina vs. España, EN VIVO por el Mundial 2026: hora, TV y las formaciones",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-espana-en-vivo-por-el-mundial-2026-nid19072026/",
+     "title": "Las cinco señales de que un gato eligió a su persona favorita",
+     "link": "https://www.lanacion.com.ar/lifestyle/mascotas/las-cinco-senales-de-que-un-gato-eligio-a-su-persona-favorita-nid19072026/",
      "source": "La Nación",
-     "published": "2026-07-19T06:46:34+00:00",
-     "copete": "El partido se disputará a las 16 horas en el New York New Jersey Stadium; todos los detalles del encuentro",
-     "id": "f1ce07a6ab69"
+     "published": "2026-07-19T10:00:00+00:00",
+     "copete": "Los especialistas en comportamiento felino revelan los patrones clave para identificar al humano predilecto; la constancia, el respeto por el espacio personal y los gestos de afecto marcan el vínculo",
+     "id": "f2a94475a1a7"
     },
     {
-     "title": "Cuenta regresiva para el año electoral: el Gobierno tropezó en el final del Mundial",
-     "link": "https://www.infobae.com/politica/2026/07/19/cuenta-regresiva-para-el-ano-electoral-el-gobierno-tropezo-en-el-final-del-mundial/",
-     "source": "Infobae",
-     "published": "2026-07-19T06:31:01+00:00",
-     "copete": "Después de la Copa del Mundo, la política activará la campaña y Milei enfrenta el desafío de mantenerse competitivo. La malvinización del partido contra Inglaterra y las palabras de Lionel Messi incomodaron al oficialismo. El viaje del…",
-     "id": "c95cff84d2ea"
-    },
-    {
-     "title": "A medio siglo de la caída de Santucho: el enigma de cómo lo encontraron y el pacto de silencio de los dictadores sobre sus restos",
-     "link": "https://www.infobae.com/sociedad/2026/07/19/a-medio-siglo-de-la-caida-de-santucho-el-enigma-de-como-lo-encontraron-y-el-pacto-de-silencio-de-los-dictadores-sobre-sus-restos/",
-     "source": "Infobae",
-     "published": "2026-07-19T06:30:04+00:00",
-     "copete": "Poco después del mediodía del 19 de julio de 1976 un grupo del Ejército irrumpió en un departamento de Villa Martelli donde mató al jefe máximo del PRT-ERP y a su segundo. También secuestró a dos mujeres y a un niño de dos años. Cincuenta…",
-     "id": "a54c7fc2af4b"
-    },
-    {
-     "title": "El pasaporte paralelo estadounidense que pocos conocen: quién puede obtenerlo y por qué dura cuatro años o menos",
-     "link": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/el-pasaporte-paralelo-estadounidense-que-pocos-conocen-quien-puede-obtenerlo-y-por-que-dura-cuatro-nid19072026/",
+     "title": "Horario de Argentina vs. España de este domingo 19 de julio, por el Mundial 2026",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/horario-de-argentina-vs-espana-de-este-domingo-19-de-julio-por-el-mundial-2026-nid19072026/",
      "source": "La Nación",
-     "published": "2026-07-19T06:30:00+00:00",
-     "copete": "Descubre quién puede solicitar un segundo pasaporte de Estados Unidos, cuánto cuesta, cuánto dura y en qué casos autoriza su emisión el Departamento de Estado.",
-     "id": "5ba8d8cab80a"
+     "published": "2026-07-19T10:00:00+00:00",
+     "copete": "La final de la Copa del Mundo se llevará a cabo este domingo en el MetLife Stadium de Nueva Jersey, con arbitraje del esloveno Slavko Vincic",
+     "id": "f71dfec9831b"
     },
     {
-     "title": "La tabla de títulos de los campeones de la Copa del Mundo y el listado de las selecciones más ganadoras de la historia",
-     "link": "https://www.infobae.com/deportes/2026/07/19/la-tabla-de-titulos-de-los-campeones-de-la-copa-del-mundo-y-el-listado-de-las-selecciones-mas-ganadoras-de-la-historia/",
-     "source": "Infobae",
-     "published": "2026-07-19T06:28:23+00:00",
-     "copete": "En la séptima final de su historia, Argentina buscará bordar la cuarta estrella en su escudo. España intentará alzar su segunda Copa del Mundo",
-     "id": "b386d03c918d"
-    },
-    {
-     "title": "El día que Messi lideró la categórica goleada de Argentina ante la selección de España campeona del mundo",
-     "link": "https://www.infobae.com/deportes/2026/07/19/el-dia-que-messi-lidero-la-categorica-goleada-de-argentina-ante-la-seleccion-de-espana-campeona-del-mundo/",
-     "source": "Infobae",
-     "published": "2026-07-19T06:28:07+00:00",
-     "copete": "En septiembre de 2010, la Albiceleste recibió en el Monumental a la Roja, que venía de consagrarse en Sudáfrica. El rosarino encendió la fiesta con la primera conquista del encuentro",
-     "id": "1d0b1d1d9cd5"
-    },
-    {
-     "title": "Los impresionantes registros de Lionel Messi en el Mundial más influyente de su carrera",
-     "link": "https://www.infobae.com/deportes/2026/07/19/los-impresionantes-registros-de-lionel-messi-en-el-mundial-mas-influyente-de-su-carrera/",
-     "source": "Infobae",
-     "published": "2026-07-19T06:27:30+00:00",
-     "copete": "Con 8 goles y 4 asistencias, el rosarino es la figura indiscutida del equipo que este domingo buscará alzar la cuarta Copa del Mundo de su historia",
-     "id": "050c553b72c9"
-    },
-    {
-     "title": "Mundial 2026, en vivo: Argentina y España se enfrentan en la final de la Copa del Mundo",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-en-vivo-argentina-y-espana-se-enfrentan-en-la-final-de-la-copa-del-mundo-nid19072026/",
+     "title": "Por dónde pasan el GP de Bélgica de la Fórmula 1 2026 y qué canal lo transmite en vivo",
+     "link": "https://www.lanacion.com.ar/deportes/automovilismo/por-donde-pasan-el-gp-de-belgica-de-la-formula-1-2026-y-que-canal-lo-transmite-en-vivo-nid19072026/",
      "source": "La Nación",
-     "published": "2026-07-19T06:09:32+00:00",
-     "copete": "Scaloni se debate entre mantener a Simeone o devolverle la titularidad a De Paul; en una histórica convocatoria en el centro de Nueva York, las calles están colapsadas de argentinos y fanáticos de la albiceleste",
-     "id": "1b6c04959419"
+     "published": "2026-07-19T10:00:00+00:00",
+     "copete": "La duodécima carrera de Franco Colapinto en este año se disputa en la mañana argentina de este domingo; Andrea Kimi Antonelli, de Mercedes, largará en el primer lugar",
+     "id": "9e42d7fb5992"
     },
     {
-     "title": "Estanislao Bachrach: “El bienestar o la toma de decisiones no depende de lo que tengo, sino de lo que soy y lo que quiero ser”",
-     "link": "https://www.lanacion.com.ar/sociedad/estanislao-bachrach-el-bienestar-o-la-toma-de-decisiones-no-depende-de-lo-que-tengo-sino-de-lo-que-nid19072026/",
+     "title": "El original ritual de Cuti Romero y Licha Martínez que podría repetirse en la final contra España",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/el-original-ritual-de-cuti-romero-y-licha-martinez-que-podria-repetirse-en-la-final-contra-espana-nid19072026/",
      "source": "La Nación",
-     "published": "2026-07-19T06:00:00+00:00",
-     "copete": "El biólogo molecular analiza la importancia de la intuición y el cuerpo para alcanzar la plenitud personal; describe técnicas para transformar la estructura cerebral y reducir el malestar mental",
-     "id": "4bd07407f41a"
+     "published": "2026-07-19T10:00:00+00:00",
+     "copete": "Los dos defensores protagonizaron una escena que quedó registrada en la cancha; el gesto volvió a captar la atención en la previa del próximo encuentro ante Inglaterra",
+     "id": "40fc08f5899b"
     },
     {
-     "title": "Camaleónica. La actriz de sangre argentina, Anya Taylor-Joy, brilla con sus impactantes looks durante la promoción de su última serie",
-     "link": "https://www.lanacion.com.ar/revista-hola/camaleonica-la-actriz-de-sangre-argentina-anya-taylor-joy-brilla-con-sus-impactantes-looks-durante-nid19072026/",
+     "title": "Cuál es el nombre de niña que cada vez más papás eligen en la Argentina",
+     "link": "https://www.lanacion.com.ar/lifestyle/cual-es-el-nombre-de-nina-que-cada-vez-mas-papas-eligen-en-la-argentina-nid19072026/",
      "source": "La Nación",
-     "published": "2026-07-19T06:00:00+00:00",
-     "copete": "Del viejo Hollywood a las siluetas lenceras, la actriz reafirma su lugar como referente de moda durante la promoción de Lucky",
-     "id": "4c05296c769c"
+     "published": "2026-07-19T10:00:00+00:00",
+     "copete": "Las preferencias actuales se orientan hacia opciones cortas, elegantes y con sonoridad internacional",
+     "id": "b9b5691883e2"
     },
     {
-     "title": "María Becerra tomó un avión privado hacia Nueva York y se encamina para ser la artista que entonará el himno argentino en la final",
-     "link": "https://www.clarin.com/espectaculos/maria-becerra-tomo-avion-privado-nueva-york-encamina-artista-entonara-himno-argentino-final_0_GHUT4QcvbP.html",
+     "title": "Franco Colapinto largará 11° en el Gran Premio de Bélgica de la Fórmula 1: hora, TV y todo lo que hay que saber",
+     "link": "https://www.infobae.com/deportes/2026/07/19/franco-colapinto-largara-11-en-el-gran-premio-de-belgica-de-la-formula-1-hora-tv-y-todo-lo-que-hay-que-saber/",
+     "source": "Infobae",
+     "published": "2026-07-19T09:37:21+00:00",
+     "copete": "El piloto argentino, que se benefició con las penalizaciones de Lando Norris e Isack Hadjar, buscará sumar en el mítico trazado de Spa-Francorchamps",
+     "id": "0a57b9ae7161"
+    },
+    {
+     "title": "En la búsqueda del animal perfecto: el arte de criar aves, una actividad central de la ganadería argentina y ligada a los comienzos de la Exposición Rural",
+     "link": "https://www.clarin.com/rural/busqueda-animal-perfecto-arte-criar-aves-actividad-central-ganaderia-argentina-ligada-comienzos-exposicion-rural_0_NUZugjRlbz.html",
      "source": "Clarín",
-     "published": "2026-07-19T05:20:58+00:00",
-     "copete": "La cantante adelantó su actuación en España y hace horas abordó un avión privado rumbo a Estados Unidos. \"Yendo\", aseguró en sus redes y la ilustró con una foto dentro del avión, la pelota del Mundial y la camiseta de la Selección. La FIFA…",
-     "id": "fbfef2ee09bb"
+     "published": "2026-07-19T09:33:37+00:00",
+     "copete": "Tras cuatro años de ausencia por cuestiones sanitarias, las gallinas, gallos y patos volvieron a la muestra palermitana. Su participación data de la primera muestra que realizó la entidad. Secretos de una actividad histórica y apasionante…",
+     "id": "ad4de499a12c"
     },
     {
-     "title": "El ojo de Troglio: por qué la experiencia puede definir la final del Mundial",
-     "link": "https://www.clarin.com/deportes/ojo-troglio-experiencia-puede-definir-final-mundial_0_KujIwxkP5T.html",
+     "title": "Argentina-España, EN VIVO, por la final del Mundial 2026: hora, TV, formaciones y todo lo que hay que saber",
+     "link": "https://www.infobae.com/deportes/2026/07/19/argentina-espana-en-vivo-por-la-final-del-mundial-2026-hora-tv-formaciones-y-todo-lo-que-hay-que-saber/",
+     "source": "Infobae",
+     "published": "2026-07-19T09:26:18+00:00",
+     "copete": "El campeón del mundo y la Roja se enfrentan este domingo en el MetLife Stadium en un choque atrapante entre el ganador de la última Copa América y el vencedor de la Eurocopa",
+     "id": "02e69136bfbc"
+    },
+    {
+     "title": "Adiós a la incertidumbre, conoce las condiciones climáticas en Panamá",
+     "link": "https://www.infobae.com/noticias/2026/07/19/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-panama/",
+     "source": "Infobae",
+     "published": "2026-07-19T09:16:26+00:00",
+     "copete": "Para evitar cualquier imprevisto es importante conocer el pronóstico del tiempo",
+     "id": "a02febe8256c"
+    },
+    {
+     "title": "Clima en Houston: pronóstico de lluvias y ráfagas de viento",
+     "link": "https://www.infobae.com/noticias/2026/07/19/clima-en-houston-pronostico-de-lluvias-y-rafagas-de-viento/",
+     "source": "Infobae",
+     "published": "2026-07-19T09:16:08+00:00",
+     "copete": "Para evitar cualquier imprevisto es importante conocer el pronóstico del tiempo",
+     "id": "e5c0f47fd8a4"
+    },
+    {
+     "title": "Prepárase antes de salir: Este es el pronóstico del clima en Dallas este 19 de julio",
+     "link": "https://www.infobae.com/noticias/2026/07/19/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-dallas-este-19-de-julio/",
+     "source": "Infobae",
+     "published": "2026-07-19T09:15:49+00:00",
+     "copete": "Para evitar cualquier imprevisto es importante conocer el pronóstico del tiempo",
+     "id": "ff00c24b428c"
+    },
+    {
+     "title": "Por qué Los Redondos son el archivo más bello y más riguroso de la Argentina",
+     "link": "https://www.clarin.com/viva/redondos-archivo-bello-riguroso-argentina_0_4YA2hvSkLp.html",
      "source": "Clarín",
-     "published": "2026-07-19T04:15:33+00:00",
-     "copete": "Argentina afronta otra definición con un plantel que ya conoce la presión y las emociones de un partido tan trascendental. La experiencia puede inclinar un duelo en el que los detalles marcarán la diferencia ante España.",
-     "id": "f97913813111"
+     "published": "2026-07-19T09:05:37+00:00",
+     "copete": "A poco más de un mes de su muerte, la poética del Indio Solari es una gran crónica de las últimas cuatro décadas del siglo XX argentino, del golpe militar al colapso del 2001. El legado de Patricio Rey y sus Redonditos de Ricota no es solo…",
+     "id": "d162b3db5d8c"
     }
    ]
   },
@@ -410,9 +394,49 @@
      "title": "¡Crece la épica de Argentina! Remonta 2-1 a Inglaterra y enfrentará a España en la final del Mundial 2026",
      "link": "https://www.bbc.co.uk/mundo/live/cdejeeez4y2t?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-19T06:47:44.587329+00:00",
+     "published": "2026-07-19T10:02:19.480537+00:00",
      "copete": "Inglaterra comenzó ganando con gol de Gordon, pero Argentina logró remontarlo con goles de Enzo Fernández y Lautaro Martínez. La selección de Lionel Messi disputará la final contra España el domingo.",
      "id": "3ccfbcb14bcb"
+    },
+    {
+     "title": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
+     "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-19T09:59:41+00:00",
+     "copete": "The vessel capsized between Georgetown and Port Kaituma, with 53 people so far rescued.",
+     "id": "fbd02ff0c1ee"
+    },
+    {
+     "title": "Russia launches major ballistic missile attack on Kyiv",
+     "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-19T09:54:50+00:00",
+     "copete": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
+     "id": "f4bd263aa059"
+    },
+    {
+     "title": "Tate brothers arrested in US as further UK charges take total to 59",
+     "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-19T09:37:32+00:00",
+     "copete": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+     "id": "8b7fdb3f783a"
+    },
+    {
+     "title": "Quién es Gianni Infantino y cómo llegó a ser el hombre más poderoso (y polémico) del fútbol mundial",
+     "link": "https://www.bbc.com/mundo/articles/cwy0yvdzzyvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-19T09:30:17+00:00",
+     "copete": "Gianni Infantino ha tenido roces con los sindicatos y el fútbol europeo, pero tras 10 años como presidente de la FIFA, sigue estando en una posición inexpugnable. Te contamos por qué.",
+     "id": "8c7c00736a3b"
+    },
+    {
+     "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
+     "link": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-19T07:47:02+00:00",
+     "copete": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
+     "id": "01637d9d0c11"
     },
     {
      "title": "El presidente de Hungría firma la reforma Constitucional de Magyar que le destituye",
@@ -421,14 +445,6 @@
      "published": "2026-07-19T06:33:17+00:00",
      "copete": "Tamás Sulyok, nombrado por Orbán, denuncia “un grave y vergonzoso ejemplo histórico de abuso del poder político”",
      "id": "a36b5586b3a3"
-    },
-    {
-     "title": "US and Iran exchange strikes after two US deaths in Jordan attack",
-     "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-19T05:10:57+00:00",
-     "copete": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
-     "id": "fdf722c98f4c"
     },
     {
      "title": "Argentina y España, dos \"enemigos íntimos\" que disputan una final de Mundial inédita",
@@ -453,38 +469,6 @@
      "published": "2026-07-19T03:30:01+00:00",
      "copete": "El exalcalde de Mánchester, nuevo líder del laborismo británico e inminente primer ministro, ha construido su reputación desde el contacto directo con la población y lejos del poder de Londres",
      "id": "38af16601b63"
-    },
-    {
-     "title": "Los muertos de nadie, los cadáveres del ICE: “Que se revele la verdad. A mi hijo lo mató el guardia”",
-     "link": "https://elpais.com/us/migracion/2026-07-19/los-muertos-de-nadie-los-cadaveres-del-ice-que-se-revele-la-verdad-a-mi-hijo-lo-mato-el-guardia.html",
-     "source": "El País Internacional",
-     "published": "2026-07-19T03:30:01+00:00",
-     "copete": "El cubano Denny Adán González murió en abril en el centro de detención de Stewart, después de dos días de haber discutido con un oficial de la instalación. La familia pide justicia para él, uno más de los 54 migrantes que han fallecido en…",
-     "id": "fafaa3a6c2c0"
-    },
-    {
-     "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
-     "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-19T02:17:07+00:00",
-     "copete": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
-     "id": "8b7fdb3f783a"
-    },
-    {
-     "title": "New EU border system tripling time at passport control, airport boss says",
-     "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-19T01:47:59+00:00",
-     "copete": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
-     "id": "4910473a0c82"
-    },
-    {
-     "title": "Why the World Cup half-time show may be a taste of things to come",
-     "link": "https://www.bbc.co.uk/news/articles/cwyr498vqqpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-19T01:11:23+00:00",
-     "copete": "The 2026 World Cup's spectacle is creating debate about the place of music in sport - and how it could infiltrate other tournaments.",
-     "id": "c4fef43d2b4d"
     }
    ]
   }
@@ -498,6 +482,11 @@
   {
    "section": "cardiologia",
    "feed": "Circulation (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "cardiologia",
+   "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T19:36:51.292186+00:00",
+ "generated_at": "2026-07-19T21:10:47.383093+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -103,11 +103,11 @@
      "id": "b517c59758af"
     },
     {
-     "title": "Vuelve Sacha Feinberg-Mngomezulu: los Springboks recuperan a su gran figura para enfrentar a Los Pumas",
-     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZWZ0RVlHR1Zfb1hqb3dJM28wMkFZYW5EckdFOV94ZDc3VVJYWklKdkhyencxWVliYkJtQlBsNkJaVTdjWVQwcHZkWldlWHdiSnUwdzVlRU1JaEhwLTVXblJSYnFYQjd4THR5Q3A1TlJpNDdKWVdJSkJ3dlI2ajFGUmpfNjBTNUludDhIX0JNUWRyaWlsSXY3VDYtUXNzN0tuZ09JMnhwcUkySlc1SldpMlExNVVxRjRHLWJianJrOGx6NjAxOW5EZ0FMcnQ4ajlhMWpmUlUzbS1SdlUzVGVuTk1Nc0xSa1R3elVmcENud2Y5cTc3?oc=5",
-     "source": "ESPN Argentina",
-     "published": "2026-07-19T15:50:00+00:00",
-     "id": "6eb04ea593b6"
+     "title": "Los Pumas jugaron frente a Inglaterra con una camiseta que recordó la hazaña de México 86",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYWRPeGtMTkFrUDNBLU1tNlhLZVh5ekJIUHF3VXpySF95Ym1RRGpsMnJmT2w1dGJkNEpwTXhpVWFPbHVaMTBXVUF1SzYyQlRCa2I5YXZyeC00SnFsVXMtNmZoUThuRjk4V3B5WURoR1JhNFNhMlprd202ZC1LNjRpTzhUc3lPblNDR1hsR3ZMZnhrMWt2QkZkb1hweTV2cTBsUVNTZWdUbXNMa2lZNm01ek5uOVY?oc=5",
+     "source": "LA17",
+     "published": "2026-07-19T14:00:00+00:00",
+     "id": "c70409399357"
     },
     {
      "title": "Los ex jugadores de la Selección que recibieron el permiso de sus clubes para viajar de urgencia a la final del Mundial",
@@ -213,6 +213,20 @@
      "id": "f39ec5384df0"
     },
     {
+     "title": "The Last MPEG-4 Visual Patent Has Expired",
+     "link": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-19T16:45:17+00:00",
+     "id": "cca06f216a08"
+    },
+    {
+     "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+     "link": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-19T16:02:25+00:00",
+     "id": "3aec985379c8"
+    },
+    {
      "title": "Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval",
      "link": "https://towardsdatascience.com/loop-engineering-for-rag-question-parsing-the-small-loop-that-runs-before-retrieval/",
      "source": "Towards Data Science",
@@ -243,20 +257,6 @@
      "id": "cc3ee61a2a71"
     },
     {
-     "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-     "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-19T10:34:58+00:00",
-     "id": "4eb6456b2e10"
-    },
-    {
-     "title": "Claude Code uses Bun written in Rust now",
-     "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-19T10:03:23+00:00",
-     "id": "375000db8198"
-    },
-    {
      "title": "Could Your AI Systems Already Be High-Risk Under the EU AI Act?",
      "link": "https://www.kdnuggets.com/2026/07/airia/could-your-ai-systems-already-be-high-risk-under-the-eu-ai-act",
      "source": "KDnuggets",
@@ -273,12 +273,12 @@
      "id": "c54ae55d46e9"
     },
     {
-     "title": "SQLite Query Explainer",
-     "link": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
+     "title": "Claude Code uses Bun written in Rust now",
+     "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
      "source": "Simon Willison (IA)",
-     "published": "2026-07-18T17:19:10+00:00",
-     "copete": "Tool: SQLite Query Explainer Julia Evan's, in Learning a few things about running SQLite : Maybe one day I’ll learn to read a query plan. Big same.... which inspired me to have Fable build this interactive explain tool, which runs SQLite…",
-     "id": "ccfb0a129469"
+     "published": "2026-07-19T03:54:09+00:00",
+     "copete": "In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. I decided…",
+     "id": "165d33e669f4"
     }
    ]
   },
@@ -288,100 +288,100 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Argentina-España, EN VIVO, por la final del Mundial 2026: los europeos recuperan el dominio y obligan al repliegue del campeón",
+     "link": "https://www.infobae.com/deportes/2026/07/19/argentina-espana-en-vivo-por-la-final-del-mundial-2026-hora-tv-formaciones-y-todo-lo-que-hay-que-saber/",
+     "source": "Infobae",
+     "published": "2026-07-19T21:07:54+00:00",
+     "copete": "El campeón del mundo y la Roja se enfrentan en un choque atrapante entre el ganador de la última Copa América y el vencedor de la Eurocopa",
+     "id": "02e69136bfbc"
+    },
+    {
+     "title": "Video: la lesión de Cuti Romero que lo dejó afuera de la final del Mundial entre Argentina y España",
+     "link": "https://www.infobae.com/deportes/2026/07/19/video-la-lesion-de-cuti-romero-que-lo-dejo-afuera-de-la-final-del-mundial-entre-argentina-y-espana/",
+     "source": "Infobae",
+     "published": "2026-07-19T21:04:39+00:00",
+     "copete": "El defensor de la selección argentina fue reemplazado por Facundo Medina en la etapa complementaria",
+     "id": "e96d7b76ce37"
+    },
+    {
+     "title": "Cómo va Argentina vs. España por el Mundial 2026",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-espana-en-vivo-asi-se-define-el-mundial-2026-nid19072026/",
+     "source": "La Nación",
+     "published": "2026-07-19T21:02:39+00:00",
+     "copete": "La final se disputa en el MetLife Stadium de Nueva Jersey con arbitraje del esloveno Slavko Vinčić",
+     "id": "1c730e3fcda1"
+    },
+    {
      "title": "Argentina vs. España, EN VIVO por el Mundial 2026: el minuto a minuto del partido",
      "link": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-espana-en-vivo-por-el-mundial-2026-nid19072026/",
      "source": "La Nación",
-     "published": "2026-07-19T19:33:52+00:00",
+     "published": "2026-07-19T21:02:37+00:00",
      "copete": "Los reyes de América y Europa se cruzan en el partido decisivo del mejor Mundial de la historia; hay mayoría de hinchas argentinos en el estadio",
      "id": "f1ce07a6ab69"
     },
     {
-     "title": "El momento en que Mario Alberto Kempes y Andrés Iniesta muestran la Copa del Mundo",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/el-momento-en-que-mario-alberto-kempes-y-andres-iniesta-mostraron-la-copa-del-mundo-nid19072026/",
+     "title": "Los mejores memes de Argentina vs. España: la selección sufre por las lesiones y en las redes hay puro rezo",
+     "link": "https://www.lanacion.com.ar/deportes/mundial-2026-los-mejores-memes-de-la-final-argentina-vs-espana-nid19072026/",
      "source": "La Nación",
-     "published": "2026-07-19T19:33:36+00:00",
-     "copete": "Las figuras de Argentina 1978 y España 2010 protagonizaron un emotivo encuentro donde exhibieron el máximo trofeo del fútbol mundial",
-     "id": "4a240ea707a4"
+     "published": "2026-07-19T21:02:29+00:00",
+     "copete": "Las dos selecciones se miden este domingo en New Jersey, Estados Unidos por la Copa del Mundo; la reacción en redes sociales",
+     "id": "344b99abffb9"
     },
     {
-     "title": "Por qué Caro Calvagni casi se pierde la final de la Argentina vs. España",
-     "link": "https://www.lanacion.com.ar/deportes/por-que-caro-calvagni-casi-se-pierde-la-final-de-la-argentina-vs-espana-nid19072026/",
-     "source": "La Nación",
-     "published": "2026-07-19T19:33:12+00:00",
-     "copete": "La esposa de Nicolás Tagliafico relató su experiencia en las redes sociales por la cancelación de vuelos en Nueva York",
-     "id": "510a268fa661"
-    },
-    {
-     "title": "Ryan Fox se consagró en el British Open con un birdie en el hoyo final",
-     "link": "https://www.lanacion.com.ar/deportes/golf/ryan-fox-se-consagro-en-el-british-open-con-un-birdie-en-el-hoyo-final-nid19072026/",
-     "source": "La Nación",
-     "published": "2026-07-19T19:33:01+00:00",
-     "copete": "El neocelandés se sobrepuso en Royal Birkdale, en una lucha con Cameron Young y Sam Burns, que quedaron a uno y dos golpes, respectivamente",
-     "id": "0673ead44973"
-    },
-    {
-     "title": "María Becerra cantó el himno nacional argentino en la final del Mundial 2026",
-     "link": "https://www.lanacion.com.ar/espectaculos/musica/maria-becerra-canto-el-himno-nacional-argentino-en-la-final-del-mundial-2026-nid19072026/",
-     "source": "La Nación",
-     "published": "2026-07-19T19:32:34+00:00",
-     "copete": "Luego de varias versiones cruzadas, la cantante quilmeña fue la que interpretó una emocionante versión de la canción patria",
-     "id": "64bab71bdd1b"
-    },
-    {
-     "title": "Argentina-España, EN VIVO, por la final del Mundial 2026: Dibu Martínez le atajó un remate a Lamine Yamal",
-     "link": "https://www.infobae.com/deportes/2026/07/19/argentina-espana-en-vivo-por-la-final-del-mundial-2026-hora-tv-formaciones-y-todo-lo-que-hay-que-saber/",
+     "title": "Ex viceministro guatemalteco es asesinado en su residencia e investigan un parricidio",
+     "link": "https://www.infobae.com/guatemala/2026/07/19/ex-viceministro-guatemalteco-es-asesinado-en-su-residencia-e-investigan-un-parricidio/",
      "source": "Infobae",
-     "published": "2026-07-19T19:31:36+00:00",
-     "copete": "El campeón del mundo y la Roja se enfrentan este domingo en un choque atrapante entre el ganador de la última Copa América y el vencedor de la Eurocopa",
-     "id": "02e69136bfbc"
+     "published": "2026-07-19T21:00:18+00:00",
+     "copete": "El sospechoso, Camilo Roberto Calvo Leiva, de 26 años, fue llevado a la Torre de Tribunales bajo vigilancia, mientras el Ministerio Público indaga el origen de la pelea y posibles antecedentes de violencia familiar",
+     "id": "c55a2b53fe11"
     },
     {
-     "title": "El conmovedor momento del himno antes de Argentina-España: de la interpretación de María Becerra a la pasión de los jugadores",
-     "link": "https://www.infobae.com/deportes/2026/07/19/el-conmovedor-momento-del-himno-antes-de-argentina-espana-de-la-interpretacion-de-maria-becerra-a-la-pasion-de-los-jugadores/",
+     "title": "Quién está ganando el partido de Argentina vs. España: en vivo la final del Mundial 2026",
+     "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/a-que-hora-de-eeuu-juega-argentina-vs-espana-hoy-en-vivo-la-final-del-mundial-2026-nid19072026/",
+     "source": "La Nación",
+     "published": "2026-07-19T20:58:56+00:00",
+     "copete": "Consulta a qué hora de EE.UU. juega España vs. Argentina hoy en Nueva York en vivo y accede a la guía de TV de la gran final del Mundial 2026.",
+     "id": "ac76b0f5d22d"
+    },
+    {
+     "title": "Panamá propone armonizar el etiquetado de alimentos y suma el respaldo del sector latinoamericano",
+     "link": "https://www.infobae.com/panama/2026/07/19/panama-propone-armonizar-el-etiquetado-de-alimentos-y-suma-el-respaldo-del-sector-latinoamericano/",
      "source": "Infobae",
-     "published": "2026-07-19T19:25:38+00:00",
-     "copete": "La artista tomó el centro del campo en Nueva Jersey, interpretó las estrofas patrias ante una tribuna colmada y selló un inicio cargado de orgullo en la previa de la final del Mundial",
-     "id": "1c5d5f9b7c70"
+     "published": "2026-07-19T20:57:55+00:00",
+     "copete": "Iniciativa busca que la etiqueta original en inglés pueda poner a disposición de los consumidores la información complementaria en español",
+     "id": "48aa3c7a2c88"
     },
     {
-     "title": "La alfombra roja de la final del Mundial: celebridades, mandatarios y el discurso de Tom Cruise",
-     "link": "https://www.clarin.com/deportes/alfombra-roja-final-mundial-celebridades-mandatarios-discurso-tom-cruise_0_3vPS4f6Vo9.html",
-     "source": "Clarín",
-     "published": "2026-07-19T19:13:49+00:00",
-     "copete": "Gianni Infantino se mostró junto a Donald Trump, Claudia Sheinbaum y Mark Carney. Además, estuvieron Javier Bardem y Penélope Cruz, la pareja de actores españoles. También jugadores de la NBA y de fútbol americano.",
-     "id": "d7865cb00770"
+     "title": "El examigo de Will Smith pide que el actor testifique en la demanda millonaria que interpuso contra Jada Pinkett",
+     "link": "https://www.infobae.com/entretenimiento/2026/07/19/el-examigo-de-will-smith-pide-que-el-actor-testifique-en-la-demanda-millonaria-que-interpuso-contra-jada-pinkett/",
+     "source": "Infobae",
+     "published": "2026-07-19T20:57:39+00:00",
+     "copete": "Bilaal Salaam Presentó una demanda por 3 millones de dólares contra la actriz por supuestas amenazas durante una reunión en 2021",
+     "id": "651cb57124bf"
     },
     {
-     "title": "De Pampita a Wanda Nara, todos los famosos que alentaron a la Selección Argentina en la final del Mundial",
-     "link": "https://www.clarin.com/fama/pampita-wanda-nara-famosos-alentaron-seleccion-argentina-final-mundial_0_KQAZCXDX88.html",
-     "source": "Clarín",
-     "published": "2026-07-19T19:08:28+00:00",
-     "copete": "La Scaloneta recibió el apoyo de numerosas celebridades en el estadio MetLife de Nueva York. El conjunto albiceleste va en busca de su bicampeonato Mundial ante España. Los looks que eligieron para ir a la cancha.",
-     "id": "3aa2544e8096"
+     "title": "El premio récord en dólares que se llevará el campeón de la final entre la Argentina y España",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/el-premio-record-en-dolares-que-se-llevara-el-campeon-de-la-final-entre-la-argentina-y-espana-nid19072026/",
+     "source": "La Nación",
+     "published": "2026-07-19T20:55:53+00:00",
+     "copete": "La FIFA entregará el premio económico más alto en la historia de la Copa del Mundo",
+     "id": "36f47466d06a"
     },
     {
-     "title": "María Becerra cantó el himno argentino en la final del Mundial: el emotivo momento",
-     "link": "https://www.clarin.com/deportes/maria-becerra-canto-himno-argentino-final-mundial-emotivo-momento_0_zZqAgKAtdP.html",
+     "title": "Madonna brilló en el entretiempo de la final del Mundial 2026 y convirtió el túnel de ingreso de los jugadores en una pista de baile, con Ronaldo y Ronaldinho",
+     "link": "https://www.clarin.com/espectaculos/madonna-brillo-entretiempo-final-mundial-2026-convirtio-tunel-ingreso-jugadores-pista-baile-ronaldo-ronaldinho_0_BASmDER1VJ.html",
      "source": "Clarín",
-     "published": "2026-07-19T19:03:49+00:00",
-     "copete": "\"Es lo más importante que me pasó\", dijo la cantante tras probar sonido. Lali había entonado sus estrofas en Qatar 2022.",
-     "id": "035d3ee5a5d6"
+     "published": "2026-07-19T20:46:14+00:00",
+     "copete": "A los 67 años, la reina del pop dio cátedra en el MetLife Stadium de Nueva York y se robó todas las miradas en un show plagado de figuras. Además, el \"mediotiempo\" contó con la aparición sorpresa de los protagonistas de la serie \"Ted…",
+     "id": "a168e67e3563"
     },
     {
-     "title": "Argentina en la final del Mundial: suspenden los colectivos en varias ciudades, hay estaciones de subte cerradas y cronograma de domingo en trenes",
-     "link": "https://www.clarin.com/sociedad/argentina-final-mundial-suspenden-colectivos-varias-ciudades-estaciones-subte-cerradas-cronograma-domingo-trenes_0_e8WAUEjIVU.html",
+     "title": "El botín republicano, Pichetto quiere a Cristina libre y el alambre que frena a Kicillof",
+     "link": "https://www.clarin.com/politica/botin-republicano-pichetto-quiere-cristina-libre-alambre-frena-kicillof_0_laFIErP0vm.html",
      "source": "Clarín",
-     "published": "2026-07-19T18:59:17+00:00",
-     "copete": "Los servicios fueron interrumpidos en Mar del Plata, Bahía Blanca, Mendoza y San Juan para evitar daños e incidentes como los ocurridos en los últimos festejos. Las reprogramaciones en los transportes públicos se daban alrededor de las 16…",
-     "id": "ccf0b78e1290"
-    },
-    {
-     "title": "La marca histórica que logró la Selección de Scaloni en la final del Mundial y que solo había alcanzado el Brasil bicampeón",
-     "link": "https://www.clarin.com/deportes/marca-historica-logro-seleccion-scaloni-final-mundial-solo-alcanzado-brasil-bicampeon_0_TKDnF0yeZT.html",
-     "source": "Clarín",
-     "published": "2026-07-19T18:57:57+00:00",
-     "copete": "Argentina repitió ocho titulares de la final de Qatar 2022 e igualó un récord que permanecía vigente desde las Copas del Mundo de 1958 y 1962. La continuidad del equipo campeón refleja la estabilidad de un ciclo que sigue haciendo historia…",
-     "id": "60aacc5b891a"
+     "published": "2026-07-19T20:09:02+00:00",
+     "copete": "La cercanía del PRO con el Gobierno deja a un electorado de centro sin una opción atractiva. Mientras, Pichetto, que fue candidato con Cambiemos, rechaza ahora la condena a la expresidenta.",
+     "id": "0f04091b0b3b"
     }
    ]
   },
@@ -394,17 +394,33 @@
      "title": "¡Crece la épica de Argentina! Remonta 2-1 a Inglaterra y enfrentará a España en la final del Mundial 2026",
      "link": "https://www.bbc.co.uk/mundo/live/cdejeeez4y2t?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-19T19:36:51.133791+00:00",
+     "published": "2026-07-19T21:10:47.249944+00:00",
      "copete": "Inglaterra comenzó ganando con gol de Gordon, pero Argentina logró remontarlo con goles de Enzo Fernández y Lautaro Martínez. La selección de Lionel Messi disputará la final contra España el domingo.",
      "id": "3ccfbcb14bcb"
     },
     {
-     "title": "Argentina y España empatan 0-0 en la final del Mundial 2026",
+     "title": "¡Dibu Martínez salva a Argentina! España domina, pero sigue 0-0 la final de la Copa del Mundo 2026",
      "link": "https://www.bbc.co.uk/mundo/live/cn8n7zzzjpjt?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-19T19:36:51.132597+00:00",
+     "published": "2026-07-19T21:10:47.249043+00:00",
      "copete": "La Roja y La Albiceleste buscan levantar la Copa del Mundo. Los argentinos pueden lograr la hazaña de ser bicampeones consecutivos, mientras que los españoles quieren su segundo título.",
      "id": "a88f0c747a44"
+    },
+    {
+     "title": "US soldier killed and one injured after Iranian attack in Iraq",
+     "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-19T19:45:12+00:00",
+     "copete": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
+     "id": "fdf722c98f4c"
+    },
+    {
+     "title": "EE UU redobla los ataques contra Irán tras la muerte de tres soldados",
+     "link": "https://elpais.com/internacional/2026-07-19/ee-uu-redobla-los-ataques-contra-iran-en-represalia-por-la-muerte-de-dos-soldados.html",
+     "source": "El País Internacional",
+     "published": "2026-07-19T19:41:28+00:00",
+     "copete": "Jordania convoca al encargado de negocios iraní en Ammán por lo que califica de “ataques iraníes injustificados y flagrantes”, después de interceptar tres misiles",
+     "id": "864f8de32bc2"
     },
     {
      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
@@ -421,22 +437,6 @@
      "published": "2026-07-19T18:18:05+00:00",
      "copete": "Fifteen children are among 67 people rescued, officials say, with dozens still missing.",
      "id": "fbd02ff0c1ee"
-    },
-    {
-     "title": "EE UU redobla los ataques contra Irán en represalia por la muerte de dos soldados",
-     "link": "https://elpais.com/internacional/2026-07-19/ee-uu-redobla-los-ataques-contra-iran-en-represalia-por-la-muerte-de-dos-soldados.html",
-     "source": "El País Internacional",
-     "published": "2026-07-19T18:13:13+00:00",
-     "copete": "Jordania convoca al encargado de negocios iraní en Ammán por lo que califica de “ataques iraníes injustificados y flagrantes”, después de interceptar tres misiles",
-     "id": "864f8de32bc2"
-    },
-    {
-     "title": "US and Iran trade fire after two US soldiers killed in Jordan",
-     "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-19T17:22:23+00:00",
-     "copete": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
-     "id": "fdf722c98f4c"
     },
     {
      "title": "Grupos de colonos israelíes marchan hacia Gaza para reclamar el restablecimiento de asentamientos en la Franja",

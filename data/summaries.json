@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-07-19T22:04:43Z",
+  "generated_at": "2026-07-20T10:04:47Z",
   "summaries": {
+    "06de3af10e6c": {
+      "resumen": "Entrevista de TCTMD a la doctora Suzanne Baron, cardióloga intervencionista, sobre la importancia de tener conciencia de costos en las decisiones clínicas y sobre el valor de escuchar a los mentores durante la formación profesional. Interesa como reflexión sobre liderazgo y toma de decisiones económicas en cardiología intervencionista, más allá de lo estrictamente clínico.",
+      "destacado": false
+    },
+    "d18022a7a29e": {
+      "resumen": "Nota de TCTMD sobre datos que sugieren que, en un subgrupo de pacientes con enfermedad coronaria multivaso (MVD, multivessel disease) sometidos a intervención coronaria percutánea (PCI, percutaneous coronary intervention), prolongar la doble antiagregación plaquetaria (DAPT, dual antiplatelet therapy) más allá del esquema estándar traería un beneficio neto. Interesa porque la duración óptima de la DAPT post-PCI sigue siendo un dilema frecuente en la práctica, sobre todo en pacientes con enfermedad extensa.",
+      "destacado": true,
+      "analisis": "Diseño: Por el título se infiere un análisis (probablemente un subanálisis de un ensayo clínico o de un registro) que compara duraciones de doble antiagregación plaquetaria (DAPT) en pacientes con enfermedad coronaria multivaso (MVD) sometidos a intervención coronaria percutánea (PCI); sin abstract no se puede precisar aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con enfermedad coronaria multivaso sometidos a PCI, presumiblemente estratificados según extensión de la enfermedad o carga isquémica.\nIntervención: DAPT prolongada (más allá del esquema estándar, habitualmente 12 meses) comparada contra DAPT de duración convencional.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar el balance entre reducción de eventos isquémicos y aumento de sangrado, el tipo de stent utilizado, ni si el subgrupo beneficiado se definió a priori o post hoc.\nMensaje: Sugiere que, en un subgrupo seleccionado de pacientes con enfermedad multivaso, prolongar la DAPT podría ofrecer beneficio neto, pero la decisión debe individualizarse balanceando riesgo isquémico y hemorrágico.\nNota: análisis sin acceso al abstract."
+    },
     "fb835bd596fb": {
       "resumen": "Nota de TCTMD sobre datos de mortalidad en Estados Unidos que muestran que las muertes por enfermedad isquémica cardíaca (la causada por obstrucción de las arterias coronarias) reflejan un control deficiente de los factores de riesgo cardiovascular clásicos, como la hipertensión arterial, la dislipemia, la diabetes y el tabaquismo. Interesa porque, pese a los avances terapéuticos y de intervencionismo, la prevención primaria sigue siendo el eslabón más débil.",
       "destacado": false,
@@ -14,11 +23,6 @@
     "e50c7a1cf0b3": {
       "resumen": "La agencia FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó enlicitide, el primer inhibidor oral de PCSK9 (proproteína convertasa subtilisina/kexina tipo 9, una proteína clave en el metabolismo del colesterol LDL) para reducir el colesterol LDL (lipoproteína de baja densidad). Interesa porque una presentación oral simplificaría el tratamiento frente a los inhibidores de PCSK9 inyectables hoy disponibles.",
       "destacado": false
-    },
-    "95ce2aaadd5f": {
-      "resumen": "Nota de TCTMD sobre datos que muestran que el uso de tenecteplase (TNK, un fármaco fibrinolítico que se administra en bolo único) en lugar de alteplase (que requiere infusión) para el accidente cerebrovascular (ACV) isquémico agudo se asocia a tiempos de tratamiento intrahospitalario más rápidos. Interesa porque el TNK viene ganando terreno como reemplazo del alteplase por su mayor practicidad, y esto podría traducirse en mejor cumplimiento de los tiempos puerta-aguja.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título se infiere un análisis observacional o de registro sobre tiempos de proceso (workflow) hospitalario que compara tenecteplase versus alteplase en accidente cerebrovascular (ACV) isquémico agudo; sin abstract no se puede precisar el diseño exacto, el número de centros ni de pacientes.\nPoblación: Pacientes con ACV isquémico agudo candidatos a trombólisis intravenosa.\nIntervención: Uso de tenecteplase (TNK) en bolo único, comparado con alteplase en infusión, como fibrinolítico de primera línea.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar el diseño exacto, el ajuste por factores de confusión (por ejemplo, centros que ya adoptaron TNK de forma sistemática) ni el desenlace funcional clínico a largo plazo.\nMensaje: Sugiere que adoptar tenecteplase podría agilizar los tiempos de tratamiento intrahospitalario del ACV isquémico agudo, aunque el beneficio clínico neto (y no solo de proceso) requiere confirmación con los datos completos.\nNota: análisis sin acceso al abstract."
     },
     "5a39088cfdfe": {
       "resumen": "Ítem del European Heart Journal cuyo contenido capturado remite a la leyenda de una figura ('For image description, please refer to the figure legend and surrounding text'), lo que sugiere que se trata de un elemento gráfico o de tabla de contenidos —no un artículo completo— sobre estudios epidemiológicos con impacto en la práctica clínica. Sin poder abrir el link ni acceder al texto real, queda sin resumen sustantivo por ahora.",
@@ -39,64 +43,59 @@
       "destacado": false,
       "analisis": "Diseño: Por el título (\"Who Dies Suddenly, and Why We Miss Them\") se trataría de un artículo de perspectiva o editorial en JACC (Journal of the American College of Cardiology) que reflexiona sobre la muerte súbita cardíaca y las limitaciones de las estrategias actuales para anticiparla; no se advierte, por el título, que presente una cohorte o un análisis de datos original propio.\nPoblación: Pacientes en riesgo de muerte súbita cardíaca, con foco en aquellos que fallecen sin haber sido identificados previamente como de alto riesgo por las estrategias de estratificación vigentes.\nIntervención: No aplica una intervención puntual; se trata de una reflexión sobre las herramientas de estratificación de riesgo de muerte súbita actualmente disponibles.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede saber si incluye datos poblacionales propios, revisión de series de casos, o si es puramente un ensayo de opinión.\nMensaje: Cuestiona la eficacia de los métodos actuales de estratificación de riesgo de muerte súbita cardíaca y llama a repensar cómo se identifica a los pacientes que hoy \"se nos escapan\", con implicancia directa en la prevención primaria.\nNota: análisis sin acceso al abstract."
     },
-    "d18022a7a29e": {
-      "resumen": "Nota de TCTMD sobre datos que sugieren que, en un subgrupo de pacientes con enfermedad coronaria multivaso (MVD, multivessel disease) sometidos a intervención coronaria percutánea (PCI, percutaneous coronary intervention), prolongar la doble antiagregación plaquetaria (DAPT, dual antiplatelet therapy) más allá del esquema estándar traería un beneficio neto. Interesa porque la duración óptima de la DAPT post-PCI sigue siendo un dilema frecuente en la práctica, sobre todo en pacientes con enfermedad extensa.",
-      "destacado": true,
-      "analisis": "Diseño: Por el título se infiere un análisis (probablemente un subanálisis de un ensayo clínico o de un registro) que compara duraciones de doble antiagregación plaquetaria (DAPT) en pacientes con enfermedad coronaria multivaso (MVD) sometidos a intervención coronaria percutánea (PCI); sin abstract no se puede precisar aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con enfermedad coronaria multivaso sometidos a PCI, presumiblemente estratificados según extensión de la enfermedad o carga isquémica.\nIntervención: DAPT prolongada (más allá del esquema estándar, habitualmente 12 meses) comparada contra DAPT de duración convencional.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar el balance entre reducción de eventos isquémicos y aumento de sangrado, el tipo de stent utilizado, ni si el subgrupo beneficiado se definió a priori o post hoc.\nMensaje: Sugiere que, en un subgrupo seleccionado de pacientes con enfermedad multivaso, prolongar la DAPT podría ofrecer beneficio neto, pero la decisión debe individualizarse balanceando riesgo isquémico y hemorrágico.\nNota: análisis sin acceso al abstract."
-    },
     "bc209a9482da": {
       "resumen": "Estudio de JACC (Journal of the American College of Cardiology) sobre la suspensión de la aspirina (ácido acetilsalicílico) en pacientes con enfermedad coronaria que reciben tratamiento antiplaquetario, evaluando si continuar solo con un inhibidor del receptor P2Y12 mantiene la protección isquémica y reduce el riesgo de sangrado. Interesa porque la tendencia hacia estrategias de \"des-escalamiento\" antiagregante viene ganando terreno tras varios ensayos recientes y podría modificar el manejo post-angioplastia.",
       "destacado": false,
       "analisis": "Diseño: no se puede precisar el tipo de estudio (ensayo aleatorizado, registro o revisión) a partir del título; JACC publica ambos formatos sobre este tema.\nPoblación: pacientes con enfermedad coronaria (aterosclerosis de arterias coronarias) bajo doble terapia antiplaquetaria, probablemente post-angioplastia con stent.\nIntervención: suspensión de la aspirina manteniendo monoterapia con un inhibidor de P2Y12, frente a continuar la doble terapia antiplaquetaria.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: no determinables sin el texto completo.\nMensaje: refuerza la línea de investigación que busca reducir el riesgo hemorrágico del tratamiento antiplaquetario prolongado sin resignar protección isquémica; conviene revisar el estudio completo antes de modificar la práctica habitual.\nNota: análisis sin acceso al abstract."
     },
+    "6a24948d1698": {
+      "resumen": "Hilo semanal fijo del foro r/datascience (Reddit) para preguntas de quienes están entrando o haciendo la transición hacia la ciencia de datos: dudas sobre formación, portfolio y primer empleo en el rubro. Le sirve a un médico en transición hacia el análisis de datos como espacio de consulta entre pares que ya atravesaron ese mismo cambio de carrera.",
+      "destacado": false
+    },
+    "b5d7973c852a": {
+      "resumen": "Simon Willison cita unas declaraciones de Sam Altman, director ejecutivo de OpenAI (la empresa detrás de ChatGPT), sobre la estrategia de código abierto de la compañía y la posibilidad de liberar un modelo de lenguaje con capacidades similares a las de GPT-3, uno de sus modelos ya superados. Le sirve a quien se inicia en inteligencia artificial porque ilustra el debate entre modelos propietarios y modelos de código abierto que define buena parte del ecosistema actual.",
+      "destacado": false
+    },
+    "f3a7c0081493": {
+      "resumen": "Publicación en Hacker News que reporta que Claude Fable, un modelo de lenguaje de Anthropic, habría generado un contraejemplo a la Conjetura del Jacobiano, un problema abierto de matemáticas. Le interesa a un médico que se forma en ciencia de datos porque, de confirmarse, sería un caso concreto de un modelo de lenguaje aplicado a producir un resultado original de investigación matemática, y no solo a tareas de asistencia o resumen.",
+      "destacado": true
+    },
+    "c0002c6bb9c0": {
+      "resumen": "Proyecto de código abierto en GitHub que permite transmitir juegos desde una PC a cualquier dispositivo compatible con Moonlight, un cliente de streaming remoto. Su aporte a la ciencia de datos es indirecto —no es una herramienta de análisis—, pero como muchas notas de infraestructura de Hacker News ilustra soluciones abiertas para la transmisión de datos en tiempo real.",
+      "destacado": false
+    },
+    "ad496fe89060": {
+      "resumen": "Presentación de Orion, el navegador web desarrollado por Kagi, la empresa conocida por su buscador pago sin publicidad. Su relevancia para la ciencia de datos es indirecta —no es una herramienta de análisis—, pero refleja el interés creciente en alternativas independientes a los navegadores dominantes del mercado.",
+      "destacado": false
+    },
+    "738312e13873": {
+      "resumen": "Primera entrega de una serie sobre cómo armar un 'homelab' casero usando un router MikroTik como pieza central de la red doméstica. Aporta poco de forma directa a la ciencia de datos, pero es una referencia práctica de infraestructura de red para quien monta su propio entorno de trabajo con servidores locales.",
+      "destacado": false
+    },
     "56022009125c": {
       "resumen": "Nota de KDnuggets, con un webinar asociado, sobre cómo identificar si un sistema de inteligencia artificial (IA) ya calificaría como \"de alto riesgo\" bajo el Reglamento de Inteligencia Artificial de la Unión Europea (EU AI Act) y qué implica eso para el gobierno de datos de una organización. Le sirve a un médico que aprende análisis de datos porque anticipa las exigencias regulatorias que probablemente lleguen también a la actividad clínica y de investigación que usa IA.",
-      "destacado": false
-    },
-    "c54ae55d46e9": {
-      "resumen": "Nota de Simon Willison que difunde la mirada de Nik Suresh, consultor que describe cómo la fiebre por la inteligencia artificial (IA) está distorsionando la toma de decisiones en grandes empresas, con anécdotas de fuentes anónimas. Le sirve a quien se inicia en el análisis de datos porque expone el lado menos técnico de la adopción de IA: la presión organizacional y el ruido que rodean su implementación real.",
-      "destacado": false
-    },
-    "165d33e669f4": {
-      "resumen": "Nota de Simon Willison sobre cómo Claude Code, el asistente de programación de Anthropic, empezó a usar una versión de Bun (un entorno de ejecución de JavaScript) reescrita en Rust, lo que mejoró un 10% la velocidad de inicio en Linux sin cambios visibles para el usuario. Le sirve a quien incorpora herramientas de IA a su flujo de trabajo porque ilustra cómo las mejoras de infraestructura por debajo del capó pueden tener impacto real aunque pasen inadvertidas.",
       "destacado": false
     },
     "f39ec5384df0": {
       "resumen": "Artículo de Towards Data Science que explica paso a paso cómo aprenden las redes neuronales, construyendo la intuición detrás de la retropropagación (backpropagation), el algoritmo central que ajusta los parámetros de un modelo según su error. Le sirve a un médico que aprende análisis de datos porque abre la \"caja negra\" del aprendizaje automático (machine learning) antes de usarlo como herramienta.",
       "destacado": false
     },
-    "cca06f216a08": {
-      "resumen": "Noticia técnica: venció la última patente del formato de video MPEG-4 Visual, que queda así completamente libre de regalías. Su relevancia para ciencia de datos es indirecta (menos barreras legales para códecs usados en almacenamiento y streaming de video), pero no involucra inteligencia artificial.",
-      "destacado": false
-    },
-    "3aec985379c8": {
-      "resumen": "La empresa china Moonshot AI tuvo que suspender nuevas suscripciones a su modelo de lenguaje grande (LLM, large language model) Kimi K3 por exceso de demanda. Sirve como termómetro de la competencia global de modelos de lenguaje fuera del eje habitual de OpenAI y Anthropic, con alternativas cada vez más usadas.",
-      "destacado": false
-    },
     "bd88580fd57b": {
       "resumen": "Artículo de Towards Data Science que propone un bucle (loop) pequeño que corre antes de la recuperación de información en sistemas RAG (retrieval-augmented generation, generación aumentada por recuperación): el modelo lee el documento, identifica qué falta y vuelve a formular la consulta. Le sirve a un médico que aprende análisis de datos porque muestra una técnica concreta para mejorar sistemas que buscan respuestas en documentos como historias clínicas o guías, antes de contestar.",
       "destacado": false
     },
-    "70389c25f144": {
-      "resumen": "Publicación en Hacker News sobre un proyecto que reemplazó un sistema comercial de gestión de una bolera, de 120.000 dólares, por microcontroladores ESP32 de bajo costo (1.600 dólares en total). Aporta poco de forma directa al análisis de datos, pero ilustra cómo el hardware económico y el código a medida pueden reemplazar sistemas propietarios caros con recursos limitados.",
-      "destacado": false
-    },
     "56bc733aae29": {
       "resumen": "Artículo de Towards Data Science sobre un agente de inteligencia artificial (IA) que aprobó todas las métricas técnicas de evaluación pero terminó dado de baja porque sus resoluciones exitosas costaban más que reemplazar a los empleados humanos. Le sirve mucho a un médico que aprende análisis de datos porque advierte que medir bien el desempeño técnico de un modelo no alcanza: hay que sumar el costo real antes de llevarlo a producción.",
-      "destacado": true
-    },
-    "cc3ee61a2a71": {
-      "resumen": "Noticia de que el videojuego Minecraft: Java Edition migró su capa multimedia a SDL3 (Simple DirectMedia Layer, versión 3), una librería de bajo nivel para gráficos y audio. No tiene relación directa con ciencia de datos ni inteligencia artificial; es una nota de ingeniería de software general sobre cambio de dependencias.",
       "destacado": false
+    },
+    "263b6af1372a": {
+      "resumen": "Un repaso de cómo sigue el camino de Los Pumas en el certamen internacional tras la derrota ante Inglaterra."
     },
     "471e63d62753": {
       "resumen": "Un balance de la ventana de julio remarca la frustración del entrenador Felipe Contepomi por el retroceso en el juego de Los Pumas, que ahora encara una rotación del plantel."
     },
     "b517c59758af": {
       "resumen": "Los Pumas salieron a la cancha ante Inglaterra con una camiseta especial que rindió homenaje a un capítulo histórico del deporte argentino."
-    },
-    "c70409399357": {
-      "resumen": "El seleccionado argentino de rugby lució ante Inglaterra una casaca alusiva a la gesta de la Selección de fútbol en el Mundial de México 1986."
     }
   }
 }

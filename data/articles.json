@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T23:15:40.213178+00:00",
+ "generated_at": "2026-07-20T04:11:13.060814+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -89,6 +89,13 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "¿Cómo sigue el camino de Los Pumas?",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wcWJsQXpsRWQzeGVDQ2Q4QWVwQ0xQQ0pFcS1jcWZidkc3em5TNm1VUENOcnlrYnFVMUJKVGJnUlhvSG1qbXJLSmhXY1EyZ19NT29WdW9WTXQtZTFSb0hhU1FCZXc2cUM1aTBB?oc=5",
+     "source": "Cordoba XV",
+     "published": "2026-07-20T00:05:06+00:00",
+     "id": "263b6af1372a"
+    },
+    {
      "title": "Independiente deberá seguir buscando arquero: Mele eligió ir a Colo Colo",
      "link": "https://www.ole.com.ar/independiente/independiente-arquero-mele-colocolo-quinteros-monterrey-prestamo-avellaneda_0_BeUP0GiI13.html",
      "source": "Olé — Primera",
@@ -109,13 +116,6 @@
      "source": "Tendencia de Noticias",
      "published": "2026-07-19T15:53:00+00:00",
      "id": "b517c59758af"
-    },
-    {
-     "title": "Los Pumas jugaron frente a Inglaterra con una camiseta que recordó la hazaña de México 86",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYWRPeGtMTkFrUDNBLU1tNlhLZVh5ekJIUHF3VXpySF95Ym1RRGpsMnJmT2w1dGJkNEpwTXhpVWFPbHVaMTBXVUF1SzYyQlRCa2I5YXZyeC00SnFsVXMtNmZoUThuRjk4V3B5WURoR1JhNFNhMlprd202ZC1LNjRpTzhUc3lPblNDR1hsR3ZMZnhrMWt2QkZkb1hweTV2cTBsUVNTZWdUbXNMa2lZNm01ek5uOVY?oc=5",
-     "source": "LA17",
-     "published": "2026-07-19T14:00:00+00:00",
-     "id": "c70409399357"
     },
     {
      "title": "Los ex jugadores de la Selección que recibieron el permiso de sus clubes para viajar de urgencia a la final del Mundial",
@@ -205,7 +205,22 @@
    "mode": "resumen",
    "items": [
     {
-     "title": "AI advice made people 3x less accurate but 2x confident, researchers found",
+     "title": "Weekly Entering & Transitioning - Thread 20 Jul, 2026 - 27 Jul, 2026",
+     "link": "https://www.reddit.com/r/datascience/comments/1v1au5z/weekly_entering_transitioning_thread_20_jul_2026/",
+     "source": "r/datascience",
+     "published": "2026-07-20T04:01:16+00:00",
+     "id": "6a24948d1698"
+    },
+    {
+     "title": "Quoting Sam Altman",
+     "link": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything",
+     "source": "Simon Willison (IA)",
+     "published": "2026-07-20T03:47:59+00:00",
+     "copete": "We have been having extensive discussions around open source strategy. We will discuss it more at our next board meeting, but one thing we’d like to do soon is to create a language model with the approximate capability of GPT-3 that can…",
+     "id": "b5d7973c852a"
+    },
+    {
+     "title": "AI advice made people less accurate but more confident – sudy",
      "link": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
      "source": "Hacker News (100+ puntos)",
      "published": "2026-07-19T21:18:10+00:00",
@@ -218,20 +233,6 @@
      "published": "2026-07-19T17:00:00+00:00",
      "copete": "Let's discover how neural networks learn, step by step The post Backpropagation Explained for Beginners (Part 1): Building the Intuition appeared first on Towards Data Science .",
      "id": "f39ec5384df0"
-    },
-    {
-     "title": "The Last MPEG-4 Visual Patent Has Expired",
-     "link": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-19T16:45:17+00:00",
-     "id": "cca06f216a08"
-    },
-    {
-     "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-     "link": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-19T16:02:25+00:00",
-     "id": "3aec985379c8"
     },
     {
      "title": "Loop Engineering for RAG Question Parsing: The Small Loop That Runs Before Retrieval",
@@ -249,6 +250,13 @@
      "id": "70389c25f144"
     },
     {
+     "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+     "link": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-19T13:29:29+00:00",
+     "id": "bb3e54afda91"
+    },
+    {
      "title": "Your AI Agent Passed Every Eval. Finance Still Killed It.",
      "link": "https://towardsdatascience.com/your-ai-agent-passed-every-eval-finance-still-killed-it/",
      "source": "Towards Data Science",
@@ -257,28 +265,19 @@
      "id": "56bc733aae29"
     },
     {
+     "title": "I burned all my tokens researching how to save tokens",
+     "link": "https://quesma.com/blog/custom-deep-research-pipeline/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-19T12:01:53+00:00",
+     "id": "d6b9f47c7cd9"
+    },
+    {
      "title": "Could Your AI Systems Already Be High-Risk Under the EU AI Act?",
      "link": "https://www.kdnuggets.com/2026/07/airia/could-your-ai-systems-already-be-high-risk-under-the-eu-ai-act",
      "source": "KDnuggets",
      "published": "2026-07-19T09:50:14+00:00",
      "copete": "Access the on-demand webinar to understand what the latest guidance means for your AI governance program and what your organization should do next.",
      "id": "56022009125c"
-    },
-    {
-     "title": "AI Mania Is Eviscerating Global Decision-Making",
-     "link": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
-     "source": "Simon Willison (IA)",
-     "published": "2026-07-19T05:06:21+00:00",
-     "copete": "AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources. In…",
-     "id": "c54ae55d46e9"
-    },
-    {
-     "title": "Claude Code uses Bun written in Rust now",
-     "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
-     "source": "Simon Willison (IA)",
-     "published": "2026-07-19T03:54:09+00:00",
-     "copete": "In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. I decided…",
-     "id": "165d33e669f4"
     }
    ]
   },
@@ -288,100 +287,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Honduras mantiene vigente la emergencia sanitaria por influenza aviar",
-     "link": "https://www.infobae.com/honduras/2026/07/19/honduras-mantiene-vigente-la-emergencia-sanitaria-por-influenza-aviar/",
-     "source": "Infobae",
-     "published": "2026-07-19T23:11:10+00:00",
-     "copete": "Senasa informó que la enfermedad permanece contenida en granjas y criaderos, pero la vigilancia se mantiene por la circulación del virus en fauna migratoria y residente, con inspecciones y monitoreo en todo el país.",
-     "id": "4b2bff8f8549"
-    },
-    {
-     "title": "Pese a la derrota, el Gobierno puso la Casa Rosada a disposición de la Selección argentina",
-     "link": "https://www.infobae.com/judiciales/2026/07/19/pese-a-la-derrota-el-gobierno-puso-la-casa-rosada-a-disposicion-de-la-seleccion-argentina/",
-     "source": "Infobae",
-     "published": "2026-07-19T23:11:08+00:00",
-     "copete": "Se lo confirmaron a Infobae desde el Ejecutivo. El plantel volverá al país este lunes pasado el mediodía y se espera un masivo recibimiento en Ezeiza y en la Ciudad de Buenos Aires",
-     "id": "020922587d14"
-    },
-    {
-     "title": "El llanto de Lionel Messi tras perder la final del Mundial y la ovación que recibió de los hinchas argentinos",
-     "link": "https://www.infobae.com/deportes/2026/07/19/el-llanto-de-messi-despues-de-perder-la-final-del-mundo-ante-espana-y-recibir-la-medalla-de-subcampeon/",
-     "source": "Infobae",
-     "published": "2026-07-19T23:11:04+00:00",
-     "copete": "El capitán albiceleste se quebró al bajar del podio, mientras los simpatizantes lo despedían con cánticos en el estadio de Nueva Jersey",
-     "id": "1aa591c4c6e8"
-    },
-    {
-     "title": "Así reflejaron los medios del mundo la derrota de Argentina en la final del Mundial contra España: “La despedida de Messi”",
-     "link": "https://www.infobae.com/deportes/2026/07/19/asi-reflejaron-los-medios-del-mundo-la-derrota-de-argentina-en-la-final-del-mundial-contra-espana-la-despedida-de-messi/",
-     "source": "Infobae",
-     "published": "2026-07-19T23:10:42+00:00",
-     "copete": "La Roja venció por 1 a 0 a la Albiceleste en el tiempo extra de la Copa del Mundo gracias al gol de Ferrán Torres y los portales se hicieron eco del encuentro",
-     "id": "2c8c729d896b"
-    },
-    {
-     "title": "De las más de 15 horas que atajó el Dibu Martínez al ranking que encabezó Lionel Messi: datos de cancha del Mundial más medido de la historia",
-     "link": "https://www.infobae.com/economia/2026/07/19/de-las-mas-de-15-horas-que-atajo-el-dibu-martinez-al-ranking-que-encabezo-lionel-messi-datos-de-cancha-del-mundial-mas-medido-de-la-historia/",
-     "source": "Infobae",
-     "published": "2026-07-19T23:10:14+00:00",
-     "copete": "Estadísticas de la plataforma oficial de la FIFA revelan que el arquero argentino acumuló más minutos que cualquier otro jugador del torneo, mientras Messi lideró el ranking de distancia caminada por partido. Otros números por jugador y…",
-     "id": "64fd6f7849d2"
-    },
-    {
-     "title": "El gol de Ferran Torres que le dio a España el triunfo ante la Argentina en la final del Mundial",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/el-gol-de-ferran-torres-que-puso-en-ventaja-a-espana-ante-la-argentina-en-la-final-del-mundial-nid19072026/",
+     "title": "Nicolás Paz: “Prometo dar absolutamente todo de mí para traer esta copa de vuelta a la Argentina”",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/nicolas-paz-prometo-dar-absolutamente-todo-de-mi-para-traer-esta-copa-de-vuelta-a-argentina-nid19072026/",
      "source": "La Nación",
-     "published": "2026-07-19T23:08:08+00:00",
-     "copete": "El futbolista de Barcelona anotó en el primer minuto del segundo tiempo del alargue",
-     "id": "fd7dcb04300c"
+     "published": "2026-07-20T04:02:48+00:00",
+     "copete": "El delantero argentino publicó un emotivo mensaje en su cuenta de Instagram en donde felicitó al equipo español por la victoria pero prometió buscar revancha en 2030",
+     "id": "47c6177a922e"
     },
     {
-     "title": "Cuando una diva se enamoró de un arquero: el romance de Graciela Borges y Marcos “Anguila” Gutiérrez",
-     "link": "https://www.lanacion.com.ar/espectaculos/cuando-una-diva-se-enamoro-de-un-arquero-el-romance-de-graciela-borges-y-marcos-anguila-gutierrez-nid19072026/",
+     "title": "La AFA confirmó el horario de llegada de los jugadores a la Argentina, pero aclaró que no regresará todo el plantel",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/la-afa-confirmo-el-horario-de-llegada-de-los-jugadores-a-la-argentina-pero-aclaro-que-no-regresara-nid20072026/",
      "source": "La Nación",
-     "published": "2026-07-19T23:07:22+00:00",
-     "copete": "Se conocieron por casualidad, desafiaron los prejuicios y construyeron una relación que durante tres años ocupó las portadas de las revistas; esta es la historia completa de un romance inolvidable",
-     "id": "f8a2f18090d5"
+     "published": "2026-07-20T04:02:47+00:00",
+     "copete": "La asociación indicó que los futbolistas se distribuirán en vuelos que partirán hacia distintos países; se estima que la mayoría retorne al país este lunes a las 17",
+     "id": "b52f32a1fe8a"
     },
     {
-     "title": "Rodri se quedó con el Balón de Oro del Mundial 2026 y dejó atrás a Messi y Mbappé",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/rodri-se-quedo-con-el-balon-de-oro-del-mundial-2026-y-dejo-atras-a-messi-y-mbappe-nid19072026/",
+     "title": "Como en el Renacimiento, un joven pintor recupera el temple para sus obras góticas y surrealistas",
+     "link": "https://www.infobae.com/cultura/2026/07/20/como-en-el-renacimiento-un-joven-pintor-recupera-el-temple-para-sus-obras-goticas-y-surrealistas/",
+     "source": "Infobae",
+     "published": "2026-07-20T04:00:00+00:00",
+     "copete": "En la galería ALMACÉN 47, Ramiro Pasch presenta piezas de formato reducido que combinan arquetipos simbólicos Jungianos a partir del uso de la técnica milenaria",
+     "id": "d573535d7d82"
+    },
+    {
+     "title": "A 13 sube la cifra de los restos identificados de los panameños que murieron durante la invasión de Estados Unidos en 1989",
+     "link": "https://www.infobae.com/panama/2026/07/20/a-13-sube-la-cifra-de-los-restos-identificados-de-los-panamenos-que-murieron-durante-la-invasion-de-estados-unidos-en-1989/",
+     "source": "Infobae",
+     "published": "2026-07-20T03:59:40+00:00",
+     "copete": "A 36 años de la incursión militar estadounidense a la nación canalera aún se desconoce con certeza el número exacto de fallecidos",
+     "id": "510f58f71096"
+    },
+    {
+     "title": "The Telegraph celebró la victoria de España y calificó como “delincuentes” a los jugadores de la selección argentina",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/the-telegraph-celebro-la-victoria-de-espana-y-califico-como-delincuentes-a-los-jugadores-de-la-nid19072026/",
      "source": "La Nación",
-     "published": "2026-07-19T23:07:20+00:00",
-     "copete": "El volante de España fue elegido como el futbolista de mejor rendimiento en la Copa del Mundo",
-     "id": "0ffb8cecd5f1"
+     "published": "2026-07-20T03:58:05+00:00",
+     "copete": "El diario británico apuntó contra la albiceleste y criticó a algunos futbolistas de la Scaloneta; “Cualquier otro resultado habría sido un auténtico crimen”, escribió",
+     "id": "8329261146ce"
     },
     {
-     "title": "Scaloni: “Es muy difícil reprochar algo, es muy difícil llegar hasta acá”",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/scaloni-es-muy-dificil-reprochar-algo-es-muy-dificil-llegar-hasta-aca-nid19072026/",
+     "title": "Se registraron disturbios en el Obelisco tras la derrota de la Selección: hay al menos detenidos",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/07/20/se-registraron-disturbios-en-el-obelisco-tras-la-derrota-de-la-seleccion-hay-doce-detenidos/",
+     "source": "Infobae",
+     "published": "2026-07-20T03:54:25+00:00",
+     "copete": "La Policía redujo a un grupo de personas que comenzó a arrojar botellas y otros elementos, dejando al menos siete efectivos con politraumatismos. Los hechos se registraron cerca de la medianoche y debió intervenir un camión hidrante",
+     "id": "c3c37170a7cb"
+    },
+    {
+     "title": "Nicaragua lidera el IVA más alto de Centroamérica mientras la población enfrenta menor bienestar",
+     "link": "https://www.infobae.com/nicaragua/2026/07/20/nicaragua-lidera-el-iva-mas-alto-de-centroamerica-mientras-la-poblacion-enfrenta-menor-bienestar/",
+     "source": "Infobae",
+     "published": "2026-07-20T03:53:48+00:00",
+     "copete": "El impuesto al consumo en el país iguala solo a Honduras y supera el 13% de El Salvador y Costa Rica, en un entorno de bajos salarios y alta pobreza, según Nicaragua Investiga",
+     "id": "f0e65c913245"
+    },
+    {
+     "title": "Guatemala proyecta la llegada de 79,000 salvadoreños por el asueto de agosto",
+     "link": "https://www.infobae.com/guatemala/2026/07/20/guatemala-proyecta-la-llegada-de-79000-salvadorenos-por-el-asueto-de-agosto/",
+     "source": "Infobae",
+     "published": "2026-07-20T03:50:44+00:00",
+     "copete": "La estimación divulgada por República supera el registro de la misma semana del año pasado, cuando se reportaron 78.576 ingresos desde El Salvador, y refuerza el peso de ese mercado en el sector",
+     "id": "10a15d8e0c71"
+    },
+    {
+     "title": "Luis Caputo cruzó al periodista británico Piers Morgan por criticar a la selección argentina: “Mocoso malcriado”",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/luis-caputo-cruzo-al-periodista-britanico-piers-morgan-por-criticar-a-la-seleccion-argentina-mocoso-nid20072026/",
      "source": "La Nación",
-     "published": "2026-07-19T23:06:20+00:00",
-     "copete": "El DT argentino expresó un “agradecimiento eterno” a los jugadores de la selección argentina",
-     "id": "faab0ff5ac7d"
+     "published": "2026-07-20T03:47:29+00:00",
+     "copete": "El columnista apuntó contra la reacción de algunos jugadores de la Scaloneta que se enfrentaron a golpes con futbolistas de España en el final del partido; habló de “comportamiento repugnante”",
+     "id": "56e3b6f7f56f"
     },
     {
-     "title": "Messi rompió en llanto tras la entrega de medallas y mientras la tribuna le dedicaba canciones de aliento",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/messi-rompio-en-llanto-tras-la-entrega-de-medallas-y-mientras-la-tribuna-le-dedicaba-canciones-de-nid19072026/",
+     "title": "Mundial 2026, en vivo: Argentina y España se enfrentan en la final de la Copa del Mundo",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-en-vivo-argentina-y-espana-se-enfrentan-en-la-final-de-la-copa-del-mundo-nid19072026/",
      "source": "La Nación",
-     "published": "2026-07-19T23:05:19+00:00",
-     "copete": "El capitán de la selección argentina no pudo contener la emoción luego de la derrota frente a España en la final del Mundial 2026",
-     "id": "da5eb1d50e4a"
+     "published": "2026-07-20T03:32:50+00:00",
+     "copete": "Ferran Torres fue el autor del gol para los europeos; la selección jugó con uno menos desde los minutos finales del segundo tiempo por la expulsión de Enzo Fernández",
+     "id": "1b6c04959419"
     },
     {
-     "title": "El caliente cruce entre Otamendi y Rodri después de la final: \"Estuviste llorando toda la semana\"",
-     "link": "https://www.clarin.com/deportes/caliente-cruce-otamendi-rodri-despues-final-llorando-toda-semana_0_tkEsd05hJP.html",
+     "title": "La AFA agradeció el apoyo de los hinchas tras la derrota en la final del Mundial 2026 y avisó que no todos los jugadores de la Selección volverán a la Argentina",
+     "link": "https://www.clarin.com/deportes/afa-agradecio-apoyo-hinchas-derrota-final-mundial-2026-aviso-jugadores-seleccion-volveran-argentina_0_RGC7ZpwLsx.html",
      "source": "Clarín",
-     "published": "2026-07-19T22:38:30+00:00",
-     "copete": "Fue luego del triunfo 1-0 de España sobre Argentina en la final del Mundial 2026 El defensor de la Selección se enfrentó con el capitán español en medio de un cierre cargado de tensión. Ota le recriminó por las declaraciones que realizaron…",
-     "id": "678cebbcf88b"
+     "published": "2026-07-20T02:56:15+00:00",
+     "copete": "La AFA difundió un mensaje de agradecimiento tras la caída ante España en la final del Mundial 2026. Además, confirmó que parte de la delegación regresará este lunes al país.",
+     "id": "9e748479f4c8"
     },
     {
-     "title": "Cúneo Libarona, un penalista mediático que llegó al ministerio de Justicia de Milei",
-     "link": "https://www.clarin.com/politica/cuneo-libarona-penalista-mediatico-llego-ministerio-justicia-milei_0_NdYLQT1OI5.html",
+     "title": "Lamine Yamal, el niño de oro hizo historia en el Mundial: posó con su novia, comió empanadas y abrazó a Messi",
+     "link": "https://www.clarin.com/deportes/lamine-yamal-nino-oro-hizo-historia-mundial-poso-novia-comio-empanadas-abrazo-messi_0_hdSIgjuZ8l.html",
      "source": "Clarín",
-     "published": "2026-07-19T22:35:47+00:00",
-     "copete": "Conoció al Presidente en la Corporación América, donde representaba a la familia de Eduardo Eurnekian. Fue abogado de Carlos Menem y hasta se presentó como candidato a presidente de Racing.",
-     "id": "bb96a1db461a"
+     "published": "2026-07-20T01:47:33+00:00",
+     "copete": "La estrella de España no tuvo un gran partido pero se consagró campeón. A los 18 años de edad, marcó un récord con el 10 de Argentina.",
+     "id": "f4935a4160c1"
     }
    ]
   },
@@ -391,84 +390,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "¡Crece la épica de Argentina! Remonta 2-1 a Inglaterra y enfrentará a España en la final del Mundial 2026",
-     "link": "https://www.bbc.co.uk/mundo/live/cdejeeez4y2t?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-19T23:15:40.002570+00:00",
-     "copete": "Inglaterra comenzó ganando con gol de Gordon, pero Argentina logró remontarlo con goles de Enzo Fernández y Lautaro Martínez. La selección de Lionel Messi disputará la final contra España el domingo.",
-     "id": "3ccfbcb14bcb"
-    },
-    {
-     "title": "¡ESPAÑA CAMPEONA! La Roja gana 1-0 a Argentina en el tiempo adicional y consigue su segundo Mundial",
+     "title": "¡ESPAÑA CAMPEONA! Así te contamos cómo La Roja se impuso 1-0 contra Argentina y logró su segundo Mundial",
      "link": "https://www.bbc.co.uk/mundo/live/cn8n7zzzjpjt?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-19T23:15:40.001425+00:00",
-     "copete": "España dominó el partido pero recién pudo convertir en el 106' de la mano de Ferran Torres. Se corona campeona 16 años después de su primer Copa del Mundo.",
+     "published": "2026-07-20T04:11:12.726261+00:00",
+     "copete": "España dominó el partido pero recién pudo convertir en el 106' de la mano de Ferran Torres. Se corona campeona 16 años después de su primer Copa del Mundo. Argentina hizo poco durante el partido y Messi perdió con Mbappé tanto la Bota de…",
      "id": "a88f0c747a44"
     },
     {
-     "title": "\"A veces no sé cómo ayudarle\": Marc Cucurella, el campeón de la selección española al que el diagnóstico de autismo de su hijo le cambió la vida",
-     "link": "https://www.bbc.com/mundo/articles/c9v4ppy92dvo?at_medium=RSS&at_campaign=rss",
+     "title": "7 en 10 años: por qué Reino Unido ha tenido tantos primeros ministros en la última década",
+     "link": "https://www.bbc.com/mundo/articles/cy04vrk2d5no?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-19T23:05:47+00:00",
-     "copete": "El defensa de la selección española da voz a una realidad que viven muchas familias y ayuda con su experiencia a darle visibilidad.",
-     "id": "0698fc9fa2b4"
+     "published": "2026-07-20T03:58:07+00:00",
+     "copete": "Andy Burnham reemplaza como primer ministro a Keir Starmer, quien pasó a engrosar la lista de gobernantes que no han logrado completar su mandato. Rob Watson, de la BBC, analiza las razones de esta aparente inestabilidad.",
+     "id": "bb95d01c32cd"
     },
     {
-     "title": "Watch: Torrential rain hits New York and New Jersey triggering flash floods",
-     "link": "https://www.bbc.co.uk/news/videos/cq89veggnvqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-19T21:43:54+00:00",
-     "copete": "Water cascaded into subway stations and flooded streets, with people seen wading through water.",
-     "id": "8b790c104e41"
-    },
-    {
-     "title": "US soldier killed and one injured after Iranian attack in Iraq",
-     "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-19T19:45:12+00:00",
-     "copete": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
-     "id": "fdf722c98f4c"
-    },
-    {
-     "title": "EE UU redobla los ataques contra Irán tras la muerte de tres soldados",
-     "link": "https://elpais.com/internacional/2026-07-19/ee-uu-redobla-los-ataques-contra-iran-en-represalia-por-la-muerte-de-dos-soldados.html",
-     "source": "El País Internacional",
-     "published": "2026-07-19T19:41:28+00:00",
-     "copete": "Jordania convoca al encargado de negocios iraní en Ammán por lo que califica de “ataques iraníes injustificados y flagrantes”, después de interceptar tres misiles",
-     "id": "864f8de32bc2"
-    },
-    {
-     "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-     "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-19T18:25:40+00:00",
-     "copete": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
-     "id": "f4bd263aa059"
-    },
-    {
-     "title": "Ferry carrying 133 passengers and crew sinks off Guyana coast",
-     "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-19T18:18:05+00:00",
-     "copete": "Fifteen children are among 67 people rescued, officials say, with dozens still missing.",
-     "id": "fbd02ff0c1ee"
-    },
-    {
-     "title": "Grupos de colonos israelíes marchan hacia Gaza para reclamar el restablecimiento de asentamientos en la Franja",
-     "link": "https://elpais.com/internacional/2026-07-19/grupos-de-colonos-israelies-marchan-hacia-gaza-para-reclamar-el-restablecimiento-de-asentamientos-en-la-franja.html",
-     "source": "El País Internacional",
-     "published": "2026-07-19T17:14:51+00:00",
-     "copete": "Ministros del Gobierno de Netanyahu participarán en la manifestación, convocada por una organización bajo sanciones europeas por sus “graves abusos” en Cisjordania",
-     "id": "d30700e3d38e"
-    },
-    {
-     "title": "El polémico influencer Andrew Tate y su hermano son arrestados en Miami",
-     "link": "https://www.bbc.com/mundo/articles/c9q9l4rlpn4o?at_medium=RSS&at_campaign=rss",
+     "title": "Las imágenes que deja la final del Mundial más grande de la historia en la que España se coronó campeona y hubo un show de medio tiempo",
+     "link": "https://www.bbc.com/mundo/articles/cp871zl55lzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-19T14:46:04+00:00",
-     "copete": "La Fiscalía de Reino Unido solicitó su extradición desde Estados Unidos, mientras que su abogado afirma que son inocentes.",
-     "id": "a5480675fdb8"
+     "published": "2026-07-20T03:56:16+00:00",
+     "copete": "La victoria de España sobre Argentina 1-0 deja icónicas imágenes que pasarán a la historia de los Mundiales de fútbol.",
+     "id": "a1d988ccca93"
+    },
+    {
+     "title": "Burnham será este lunes el séptimo primer ministro del Reino Unido en la década del Brexit",
+     "link": "https://elpais.com/internacional/2026-07-20/burnham-sera-este-lunes-el-septimo-primer-ministro-del-reino-unido-en-la-decada-del-brexit.html",
+     "source": "El País Internacional",
+     "published": "2026-07-20T03:30:01+00:00",
+     "copete": "El exalcalde de Mánchester promete “el mayor cambio político en 40 años”",
+     "id": "79ebee9d0884"
+    },
+    {
+     "title": "La Hungría pos-Orbán emprende una transición democrática exprés",
+     "link": "https://elpais.com/internacional/2026-07-20/la-transicion-democratica-expres-de-la-hungria-pos-orban.html",
+     "source": "El País Internacional",
+     "published": "2026-07-20T03:30:01+00:00",
+     "copete": "Las reformas legislativas de Péter Magyar generan las primeras críticas, mientras el régimen de Fidesz de desintegra a gran velocidad y pierde la jefatura de Estado",
+     "id": "23eb0316b1b8"
+    },
+    {
+     "title": "De torturadores en las cárceles de El Asad en Siria a las prisiones europeas: “No encontrarán un lugar seguro. La justicia los perseguirá”",
+     "link": "https://elpais.com/internacional/2026-07-20/de-torturadores-en-las-carceles-de-el-asad-en-siria-a-las-prisiones-europeas-no-encontraran-un-lugar-seguro-la-justicia-los-perseguira.html",
+     "source": "El País Internacional",
+     "published": "2026-07-20T03:30:01+00:00",
+     "copete": "La comunidad internacional fue incapaz de crear un tribunal para enjuiciar la maquinaria represiva del régimen, pero fiscales europeos, supervivientes y ONG construyeron una vía alternativa",
+     "id": "d7739d036120"
+    },
+    {
+     "title": "Trump avanza en su plan de minar la confianza en unas elecciones justas: “Nunca antes la principal amenaza al sistema vino de la Casa Blanca”",
+     "link": "https://elpais.com/internacional/2026-07-20/trump-avanza-en-su-plan-de-minar-la-confianza-en-unas-elecciones-justas-nunca-antes-la-principal-amenaza-al-sistema-vino-de-la-casa-blanca.html",
+     "source": "El País Internacional",
+     "published": "2026-07-20T03:30:01+00:00",
+     "copete": "El discurso con el que el presidente resucitó la semana pasada teorías conspirativas sobre su derrota en 2020 se suma a su campaña de decretos, presiones del Gobierno e intentos de supresión del voto",
+     "id": "8c0746f8ab14"
+    },
+    {
+     "title": "La nueva generación dorada que dio otro Mundial a España (y cómo se compara con la campeona de Sudáfrica 2010)",
+     "link": "https://www.bbc.com/mundo/articles/cpw9rn5y0eno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-20T03:03:20+00:00",
+     "copete": "Como hace 16 años, España vuelve a ganar otro Mundial en la prórroga, por 1-0 y con un estilo de juego muy similar.",
+     "id": "e60ad4170fcc"
+    },
+    {
+     "title": "¿Una victoria para el fútbol?: España derrota a Argentina con un juego limpio frente a la agresividad de sus rivales",
+     "link": "https://www.bbc.com/mundo/articles/cgr70d5lnj1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-20T02:45:52+00:00",
+     "copete": "Describir un resultado como una \"victoria para el fútbol\" puede parecer un cliché manido, pero la final del Mundial de 2026 se acerca más que ningún otro partido a hacer realidad ese aforismo.",
+     "id": "3ca74020db87"
+    },
+    {
+     "title": "Test that found source of US explosive diarrhoea outbreak was false positive, health officials say",
+     "link": "https://www.bbc.co.uk/news/articles/c4gw9n1kx9do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-20T02:35:04+00:00",
+     "copete": "The latest update from the US Food and Drug Administration means the exact source of the parasite is still not known.",
+     "id": "49ff843df2f0"
     }
    ]
   }

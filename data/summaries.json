@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-07-21T10:05:00Z",
+  "generated_at": "2026-07-21T22:10:00Z",
   "summaries": {
+    "f04393653580": {
+      "resumen": "La Sociedad de Angiografía e Intervenciones Cardiovasculares (SCAI, Society for Cardiovascular Angiography and Interventions) pide que la seguridad radiológica mejorada sea exigida por regulación y no quede librada a la voluntad de cada centro, en el contexto de la radiación ionizante que reciben los operadores en los laboratorios de hemodinamia. Interesa porque toca la protección del propio equipo de cardiología intervencionista, un tema de salud ocupacional con impacto directo en quienes trabajan guiados por fluoroscopía.",
+      "destacado": false
+    },
+    "652542b5dd22": {
+      "resumen": "Cobertura de una sesión de casos en vivo del Montreal Heart Institute sobre reparación transcatéter borde a borde de la válvula mitral (M-TEER, mitral transcatheter edge-to-edge repair) en un caso complejo. Interesa porque estas sesiones muestran el manejo técnico paso a paso de una intervención cada vez más usada para la insuficiencia mitral en pacientes de alto riesgo quirúrgico.",
+      "destacado": false
+    },
+    "a3561a963b98": {
+      "resumen": "Boletín mensual de TCTMD con novedades relevantes para el equipo de cardiología intervencionista (CV team, cardiovascular team) correspondiente a julio de 2026. Sirve como resumen rápido de la actualidad del área antes de profundizar en las notas puntuales de la semana.",
+      "destacado": false
+    },
+    "b3ccc906cd74": {
+      "resumen": "Artículo de opinión de Harlan Krumholz en JACC (Journal of the American College of Cardiology) sobre cómo escribir la sección de discusión de un artículo científico, donde cada párrafo debe cumplir una función clara. Interesa como guía práctica de escritura científica para quien está en transición hacia la producción de investigación en farmacovigilancia y análisis de datos.",
+      "destacado": false
+    },
     "4d6a868d4d44": {
       "resumen": "Nota de TCTMD sobre datos que muestran que el burnout (agotamiento profesional) sería particularmente frecuente entre los especialistas en imágenes cardíacas, más que en otras subespecialidades de cardiología. Interesa porque visibiliza un problema de salud ocupacional poco discutido en un área con carga creciente de estudios por informar.",
       "destacado": false,
@@ -11,20 +27,6 @@
       "destacado": false,
       "analisis": "Diseño: Por el título se infiere un análisis o estudio de modelado que estima el impacto poblacional de aplicar los criterios de las próximas guías de dislipidemia 2026 frente a las guías vigentes; sin abstract no se puede precisar la fuente de datos ni la metodología.\nPoblación: Probablemente una cohorte poblacional o de registro utilizada para simular cuántos pacientes pasarían a ser candidatos a tratamiento hipolipemiante bajo los nuevos criterios.\nIntervención: No aplica una intervención puntual; se trata de comparar los umbrales de indicación de tratamiento entre las guías actuales y las futuras de 2026.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar la representatividad de la población usada para la simulación ni los supuestos del modelo.\nMensaje: Anticipa que las nuevas guías de dislipidemia podrían ampliar significativamente la población tratada, con implicancias sobre la práctica clínica y el sistema de salud una vez publicadas oficialmente.\nNota: análisis sin acceso al abstract."
     },
-    "06de3af10e6c": {
-      "resumen": "Entrevista de TCTMD a la doctora Suzanne Baron, cardióloga intervencionista, sobre la importancia de tener conciencia de costos en las decisiones clínicas y sobre el valor de escuchar a los mentores durante la formación profesional. Interesa como reflexión sobre liderazgo y toma de decisiones económicas en cardiología intervencionista, más allá de lo estrictamente clínico.",
-      "destacado": false
-    },
-    "d18022a7a29e": {
-      "resumen": "Nota de TCTMD sobre datos que sugieren que, en un subgrupo de pacientes con enfermedad coronaria multivaso (MVD, multivessel disease) sometidos a intervención coronaria percutánea (PCI, percutaneous coronary intervention), prolongar la doble antiagregación plaquetaria (DAPT, dual antiplatelet therapy) más allá del esquema estándar traería un beneficio neto. Interesa porque la duración óptima de la DAPT post-PCI sigue siendo un dilema frecuente en la práctica, sobre todo en pacientes con enfermedad extensa.",
-      "destacado": true,
-      "analisis": "Diseño: Por el título se infiere un análisis (probablemente un subanálisis de un ensayo clínico o de un registro) que compara duraciones de doble antiagregación plaquetaria (DAPT) en pacientes con enfermedad coronaria multivaso (MVD) sometidos a intervención coronaria percutánea (PCI); sin abstract no se puede precisar aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con enfermedad coronaria multivaso sometidos a PCI, presumiblemente estratificados según extensión de la enfermedad o carga isquémica.\nIntervención: DAPT prolongada (más allá del esquema estándar, habitualmente 12 meses) comparada contra DAPT de duración convencional.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar el balance entre reducción de eventos isquémicos y aumento de sangrado, el tipo de stent utilizado, ni si el subgrupo beneficiado se definió a priori o post hoc.\nMensaje: Sugiere que, en un subgrupo seleccionado de pacientes con enfermedad multivaso, prolongar la DAPT podría ofrecer beneficio neto, pero la decisión debe individualizarse balanceando riesgo isquémico y hemorrágico.\nNota: análisis sin acceso al abstract."
-    },
-    "fb835bd596fb": {
-      "resumen": "Nota de TCTMD sobre datos de mortalidad en Estados Unidos que muestran que las muertes por enfermedad isquémica cardíaca (la causada por obstrucción de las arterias coronarias) reflejan un control deficiente de los factores de riesgo cardiovascular clásicos, como la hipertensión arterial, la dislipemia, la diabetes y el tabaquismo. Interesa porque, pese a los avances terapéuticos y de intervencionismo, la prevención primaria sigue siendo el eslabón más débil.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título se infiere un análisis de datos de mortalidad (posiblemente de estadísticas vitales o un registro poblacional) sobre enfermedad isquémica cardíaca en Estados Unidos; sin abstract no se puede precisar la fuente de datos, el período analizado ni la metodología estadística.\nPoblación: Población general de Estados Unidos, con foco en las muertes atribuidas a enfermedad isquémica cardíaca.\nIntervención: No aplica una intervención puntual; se trata de un análisis descriptivo de tendencias de mortalidad en relación con el control poblacional de los factores de riesgo cardiovascular.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar la fuente y calidad de los datos, el ajuste por variables demográficas (edad, sexo, región) ni la comparación con series históricas previas.\nMensaje: Sugiere que persisten fallas relevantes en el control de los factores de riesgo cardiovascular clásicos a nivel poblacional, lo que se traduciría en mortalidad evitable por enfermedad isquémica cardíaca y refuerza la necesidad de fortalecer la prevención primaria y secundaria.\nNota: análisis sin acceso al abstract."
-    },
     "f04c544b7e32": {
       "resumen": "Editorial de JACC (Journal of the American College of Cardiology) que analiza cómo interpretar los resultados de estudios cuantitativos de función autonómica (evaluación del control involuntario de la frecuencia cardíaca, la presión arterial y otras funciones) en pacientes con COVID prolongado (long COVID). Interesa porque ayuda a poner en contexto clínico hallazgos de pruebas autonómicas que muchas veces son difíciles de interpretar de forma aislada.",
       "destacado": false,
@@ -32,7 +34,7 @@
     },
     "800d4cf9716b": {
       "resumen": "Estudio de JACC (Journal of the American College of Cardiology) que compara los patrones de disfunción autonómica (alteración del control involuntario de funciones como la frecuencia cardíaca y la presión arterial) en pacientes con COVID prolongado (long COVID) frente a los de la falla autonómica pura (pure autonomic failure), una enfermedad neurodegenerativa distinta. Interesa porque sugiere que el mecanismo de disautonomía post-COVID no sería igual al de las enfermedades neurodegenerativas clásicas, lo que podría cambiar el enfoque diagnóstico.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: Por el título se infiere un estudio comparativo (probablemente de cohortes), sin poder precisar aleatorización, cegamiento, número de centros ni de pacientes sin acceso al abstract.\nPoblación: Pacientes con disfunción autonómica en el contexto de COVID prolongado (long COVID), comparados con pacientes con diagnóstico de falla autonómica pura (pure autonomic failure), presumiblemente evaluados con pruebas autonómicas cuantitativas.\nIntervención: No aplica una intervención terapéutica; se trata de una comparación diagnóstica y fisiopatológica entre dos entidades mediante pruebas de función autonómica.\nResultados: No disponibles sin el abstract original; el título indica que ambos cuadros son fisiopatológicamente distintos, sin razones de riesgo, intervalos de confianza ni valores de p verificables.\nLimitaciones: Sin el trabajo completo no se puede evaluar el tamaño muestral, los criterios diagnósticos exactos usados para cada grupo, ni si hubo cegamiento en la interpretación de las pruebas autonómicas.\nMensaje: Sugiere que la disautonomía asociada a COVID prolongado tendría un patrón fisiopatológico distinto al de las enfermedades neurodegenerativas autonómicas clásicas, lo que podría orientar un abordaje diagnóstico diferenciado en la práctica clínica.\nNota: análisis sin acceso al abstract."
     },
     "85c1534c7c9a": {
@@ -40,63 +42,58 @@
       "destacado": false,
       "analisis": "Diseño: Por el título (\"Who Dies Suddenly, and Why We Miss Them\") se trataría de un artículo de perspectiva o editorial en JACC (Journal of the American College of Cardiology) que reflexiona sobre la muerte súbita cardíaca y las limitaciones de las estrategias actuales para anticiparla; no se advierte, por el título, que presente una cohorte o un análisis de datos original propio.\nPoblación: Pacientes en riesgo de muerte súbita cardíaca, con foco en aquellos que fallecen sin haber sido identificados previamente como de alto riesgo por las estrategias de estratificación vigentes.\nIntervención: No aplica una intervención puntual; se trata de una reflexión sobre las herramientas de estratificación de riesgo de muerte súbita actualmente disponibles.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede saber si incluye datos poblacionales propios, revisión de series de casos, o si es puramente un ensayo de opinión.\nMensaje: Cuestiona la eficacia de los métodos actuales de estratificación de riesgo de muerte súbita cardíaca y llama a repensar cómo se identifica a los pacientes que hoy \"se nos escapan\", con implicancia directa en la prevención primaria.\nNota: análisis sin acceso al abstract."
     },
-    "bc209a9482da": {
-      "resumen": "Estudio de JACC (Journal of the American College of Cardiology) sobre la suspensión de la aspirina (ácido acetilsalicílico) en pacientes con enfermedad coronaria que reciben tratamiento antiplaquetario, evaluando si continuar solo con un inhibidor del receptor P2Y12 mantiene la protección isquémica y reduce el riesgo de sangrado. Interesa porque la tendencia hacia estrategias de \"des-escalamiento\" antiagregante viene ganando terreno tras varios ensayos recientes y podría modificar el manejo post-angioplastia.",
-      "destacado": false,
-      "analisis": "Diseño: no se puede precisar el tipo de estudio (ensayo aleatorizado, registro o revisión) a partir del título; JACC publica ambos formatos sobre este tema.\nPoblación: pacientes con enfermedad coronaria (aterosclerosis de arterias coronarias) bajo doble terapia antiplaquetaria, probablemente post-angioplastia con stent.\nIntervención: suspensión de la aspirina manteniendo monoterapia con un inhibidor de P2Y12, frente a continuar la doble terapia antiplaquetaria.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: no determinables sin el texto completo.\nMensaje: refuerza la línea de investigación que busca reducir el riesgo hemorrágico del tratamiento antiplaquetario prolongado sin resignar protección isquémica; conviene revisar el estudio completo antes de modificar la práctica habitual.\nNota: análisis sin acceso al abstract."
-    },
-    "578e1115394f": {
-      "resumen": "Simon Willison comenta cómo los agentes de código basados en inteligencia artificial (IA) bajaron drásticamente el costo de hacer ingeniería inversa: ahora cualquiera puede automatizar dispositivos caseros sin ser experto en el tema. Le sirve a un médico en ciencia de datos porque muestra cómo la IA generativa amplía lo que una sola persona puede automatizar por su cuenta, sin depender de un equipo de desarrollo.",
-      "destacado": false
-    },
-    "c215d5dae401": {
-      "resumen": "Hilo de r/datascience (foro de Reddit sobre ciencia de datos) donde discuten por qué Prophet, una librería popular para pronóstico de series temporales, suele dar peores resultados que métodos estadísticos más simples o clásicos. Le sirve mucho a un médico que aprende análisis de datos porque advierte que la herramienta más conocida no siempre es la más adecuada para pronosticar series temporales, como las de internaciones o consultas.",
-      "destacado": true
-    },
-    "1ee0543e2b9b": {
-      "resumen": "Simon Willison comenta una propuesta de Ben Thompson sobre la hipocresía de los laboratorios de inteligencia artificial (IA) que prohíben la destilación (entrenar un modelo nuevo copiando las respuestas de otro) de sus propios modelos pese a haber entrenado con datos no autorizados, y cómo eso podría ayudar a que los modelos abiertos de Estados Unidos compitan mejor con los chinos. Le sirve a un médico en ciencia de datos para entender el debate ético y geopolítico detrás del desarrollo de modelos de lenguaje abiertos.",
-      "destacado": false
-    },
-    "ce900f3fcda2": {
-      "resumen": "Hilo de r/datascience que explica cómo ajustar el esfuerzo de razonamiento y el presupuesto de tokens de pensamiento (thinking tokens) en los modelos de lenguaje grandes (LLM, large language model), para equilibrar calidad de respuesta contra costo y tiempo. Le sirve mucho a un médico que aprende análisis de datos porque es un parámetro práctico a la hora de usar IA para tareas de análisis sin gastar de más.",
-      "destacado": false
-    },
-    "39c113285770": {
-      "resumen": "Guía de Towards Data Science sobre cómo mantener agentes de codificación de Claude Code trabajando de forma autónoma durante más de 24 horas seguidas, para volverse más productivo como desarrollador. Le sirve a un médico en ciencia de datos como introducción práctica al uso de agentes de IA de largo aliento para tareas de análisis o desarrollo que antes requerían supervisión constante.",
-      "destacado": false
-    },
-    "1dc8fd6d255f": {
-      "resumen": "Segunda entrega de una serie de Towards Data Science sobre extracción inteligente de documentos, donde se usa un modelo de lenguaje con visión (vision LLM) como última línea de defensa: reprocesa con Azure una tabla plana y con un modelo de visión una figura cuando el parseo automático falla. Le sirve a un médico que aprende análisis de datos porque muestra un patrón concreto para digitalizar documentos complejos, como historias clínicas escaneadas, combinando herramientas específicas con IA de respaldo.",
-      "destacado": false
-    },
     "23b0db17ac4a": {
       "resumen": "Revisión del European Heart Journal (EHJ) sobre la evolución del conocimiento en biología vascular y los mecanismos moleculares recientemente descubiertos que abrirían la puerta a nuevos blancos terapéuticos. El contenido capturado remite solo a la leyenda de una figura, por lo que parece tratarse de un elemento gráfico o de portada más que del texto completo; de todos modos, sirve como disparador para seguir la actualización en fisiopatología vascular en la fuente original.",
       "destacado": false
     },
-    "1db9c8ac2637": {
-      "resumen": "Investigación de Nikkei Asia que estima que la deuda oculta de cinco gigantes tecnológicos de Estados Unidos —contraída para financiar la construcción de infraestructura de inteligencia artificial (IA), como centros de datos— trepó a 1,65 billones de dólares, buena parte de ella fuera del balance contable declarado. Le sirve a un médico que se forma en ciencia de datos para entender que el boom de la IA generativa se sostiene en parte con apalancamiento financiero poco transparente, algo a tener en cuenta al evaluar la sostenibilidad de la oferta de herramientas de IA.",
+    "f29a04d123ca": {
+      "resumen": "OpenAI y Hugging Face (una plataforma para alojar y compartir modelos de inteligencia artificial) reportaron y resolvieron un incidente de seguridad ocurrido durante un proceso de evaluación de modelos. Le sirve a un médico en ciencia de datos porque recuerda que evaluar modelos de IA en plataformas compartidas también implica riesgos de seguridad que hay que gestionar activamente.",
       "destacado": false
     },
-    "ace9504c93ad": {
-      "resumen": "Investigación de la ACLU (American Civil Liberties Union) que documenta que Flock Safety, la empresa de cámaras lectoras de patentes (ALPR, automatic license plate reader) usadas para vigilancia, habría mentido reiteradamente a concejos municipales, policías y al público sobre el alcance real de su tecnología. Le sirve a un médico que aprende ciencia de datos como caso testigo de los riesgos de opacidad y falta de rendición de cuentas en sistemas de inteligencia artificial (IA) aplicados a vigilancia masiva.",
+    "901039d34200": {
+      "resumen": "El Tribunal de Justicia de la Unión Europea dictaminó, en un fallo por derechos de autor vinculado al caso Ana Frank, que las redes privadas virtuales (VPN, virtual private network) son herramientas técnicas lícitas. Le sirve a quien se forma en ciencia de datos porque sienta un precedente legal sobre el uso de herramientas de privacidad y anonimización, relevante al manejar datos y acceder a recursos desde distintas jurisdicciones.",
       "destacado": false
     },
-    "4ea52742c6f9": {
-      "resumen": "El fundador de Jellyfin, el servidor multimedia de código abierto, anunció que deja el equipo del proyecto, lo que abre interrogantes sobre su futuro liderazgo. Aporta poco de forma directa a la ciencia de datos, pero sirve como ejemplo de los desafíos de gobernanza y continuidad que enfrentan los proyectos de software libre de los que también depende buena parte del ecosistema de herramientas de análisis de datos.",
+    "f5d9d355a5b7": {
+      "resumen": "OpenAI habilitó una página para que empresas puedan anunciar publicidad dentro de ChatGPT. Le sirve a un médico en ciencia de datos porque marca un cambio de modelo de negocio de los asistentes de inteligencia artificial (IA) más usados, con posibles implicancias sobre sesgos en las respuestas y la calidad percibida de las recomendaciones.",
       "destacado": false
     },
-    "b7a4deba9f24": {
-      "resumen": "El autor comparte una herramienta propia de enumeración en bash, pensada como alternativa más cómoda a xargs para automatizar tareas repetitivas en la terminal. Le sirve a un médico que aprende análisis de datos porque este tipo de utilidades de línea de comandos ayudan a automatizar el procesamiento por lotes de archivos, un paso frecuente antes de analizar datos.",
+    "14576512adad": {
+      "resumen": "FreeInk es un proyecto que busca crear un ecosistema abierto de software para lectores de tinta electrónica (e-readers), en lugar de depender de los sistemas cerrados de cada fabricante. Le sirve a un médico que aprende análisis de datos como ejemplo del movimiento de software libre aplicado a hardware de consumo, un espíritu similar al de las herramientas abiertas usadas en ciencia de datos.",
       "destacado": false
     },
-    "b0b08eab1a21": {
-      "resumen": "Los Pumas podrían quedarse sin una de sus figuras para la ventana de partidos de agosto y septiembre, según trascendió."
+    "387867f19833": {
+      "resumen": "Artículo de Towards Data Science que propone cuatro \"ladrillos\" de ingeniería de contexto (context engineering) —más allá de la ingeniería de prompts— para evitar que los sistemas de generación aumentada por recuperación (RAG, retrieval-augmented generation) alucinen al responder sobre documentos reales. Le sirve mucho a un médico que aprende análisis de datos porque da un marco concreto para construir sistemas de consulta de documentos (por ejemplo, guías clínicas) que sean confiables y no inventen información.",
+      "destacado": true
     },
-    "1ad5d68d640d": {
-      "resumen": "Un repaso destaca a los jugadores de Los Pumas que más se lucieron en lo que va del Nations Championship."
+    "009ce609a7d3": {
+      "resumen": "Hilo de r/datascience (foro de Reddit sobre ciencia de datos) sobre cómo armar canalizaciones (pipelines) estructuradas de evaluación para mejorar y controlar la calidad de flujos de trabajo de inteligencia artificial (IA). Le sirve mucho a un médico que aprende análisis de datos porque ofrece un enfoque metódico para validar resultados de modelos antes de confiar en ellos, algo clave si se aplican a decisiones clínicas o epidemiológicas.",
+      "destacado": false
     },
-    "944909875985": {
-      "resumen": "El ambiente del rugby argentino salió a respaldar a Lionel Messi tras la derrota de la Selección en la final del Mundial ante España."
+    "aa24cbb89ade": {
+      "resumen": "Relato práctico de Towards Data Science sobre cómo ajustar finamente (fine-tuning) un modelo de inteligencia artificial para robótica usando la técnica LoRA (low-rank adaptation) en Google Colab, con verificación de datos y métricas de entrenamiento. Le sirve a un médico que aprende análisis de datos como ejemplo reproducible de entrenar y ajustar modelos propios con recursos limitados, aplicable más allá de la robótica.",
+      "destacado": false
+    },
+    "99e42382ba86": {
+      "resumen": "Simon Willison presenta Nativ, una aplicación que envuelve la librería MLX (el motor de aprendizaje automático de Apple) para correr modelos de inteligencia artificial de forma local en una Mac, con una interfaz nativa de macOS. Le sirve a un médico que aprende análisis de datos porque muestra una alternativa para usar IA sin depender de servicios en la nube, algo relevante al trabajar con datos sensibles de pacientes.",
+      "destacado": false
+    },
+    "25d671f9dc93": {
+      "resumen": "Hilo de r/datascience donde profesionales comparten cómo diagnosticar un modelo de pronóstico (forecasting) cuando el error de predicción es inesperadamente alto. Le sirve mucho a un médico que aprende análisis de datos porque ofrece estrategias prácticas de depuración aplicables a pronósticos propios, como proyecciones de demanda de camas o consultas.",
+      "destacado": false
+    },
+    "5bceb0c73153": {
+      "resumen": "Guía de KDnuggets para correr de forma local, con llama.cpp, un modelo de lenguaje orientado a programación (Qwythos-9B) conectado al agente de código Pi, usando decodificación especulativa y una interfaz compatible con la de OpenAI. Le sirve a un médico que aprende análisis de datos como tutorial concreto para montar un asistente de programación local y gratuito para tareas de análisis y automatización.",
+      "destacado": false
+    },
+    "144a5e2b22ee": {
+      "resumen": "Los clubes de rugby mendocinos pondrán a la venta las entradas para el partido de Los Pumas ante Australia."
+    },
+    "181c842e6488": {
+      "resumen": "Un medio internacional incluyó a un jugador de Los Pumas en su XV ideal del Nations Championship."
+    },
+    "b59987327a19": {
+      "resumen": "La prensa internacional distinguió a un back de Los Pumas como \"el rayo de esperanza de Argentina\" tras su buen desempeño en el torneo."
     }
   }
 }

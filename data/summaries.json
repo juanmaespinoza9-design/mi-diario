@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T22:04:04Z",
+  "generated_at": "2026-07-21T10:05:00Z",
   "summaries": {
     "4d6a868d4d44": {
       "resumen": "Nota de TCTMD sobre datos que muestran que el burnout (agotamiento profesional) sería particularmente frecuente entre los especialistas en imágenes cardíacas, más que en otras subespecialidades de cardiología. Interesa porque visibiliza un problema de salud ocupacional poco discutido en un área con carga creciente de estudios por informar.",
@@ -25,10 +25,6 @@
       "destacado": false,
       "analisis": "Diseño: Por el título se infiere un análisis de datos de mortalidad (posiblemente de estadísticas vitales o un registro poblacional) sobre enfermedad isquémica cardíaca en Estados Unidos; sin abstract no se puede precisar la fuente de datos, el período analizado ni la metodología estadística.\nPoblación: Población general de Estados Unidos, con foco en las muertes atribuidas a enfermedad isquémica cardíaca.\nIntervención: No aplica una intervención puntual; se trata de un análisis descriptivo de tendencias de mortalidad en relación con el control poblacional de los factores de riesgo cardiovascular.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar la fuente y calidad de los datos, el ajuste por variables demográficas (edad, sexo, región) ni la comparación con series históricas previas.\nMensaje: Sugiere que persisten fallas relevantes en el control de los factores de riesgo cardiovascular clásicos a nivel poblacional, lo que se traduciría en mortalidad evitable por enfermedad isquémica cardíaca y refuerza la necesidad de fortalecer la prevención primaria y secundaria.\nNota: análisis sin acceso al abstract."
     },
-    "5a39088cfdfe": {
-      "resumen": "Ítem del European Heart Journal cuyo contenido capturado remite a la leyenda de una figura ('For image description, please refer to the figure legend and surrounding text'), lo que sugiere que se trata de un elemento gráfico o de tabla de contenidos —no un artículo completo— sobre estudios epidemiológicos con impacto en la práctica clínica. Sin poder abrir el link ni acceder al texto real, queda sin resumen sustantivo por ahora.",
-      "destacado": false
-    },
     "f04c544b7e32": {
       "resumen": "Editorial de JACC (Journal of the American College of Cardiology) que analiza cómo interpretar los resultados de estudios cuantitativos de función autonómica (evaluación del control involuntario de la frecuencia cardíaca, la presión arterial y otras funciones) en pacientes con COVID prolongado (long COVID). Interesa porque ayuda a poner en contexto clínico hallazgos de pruebas autonómicas que muchas veces son difíciles de interpretar de forma aislada.",
       "destacado": false,
@@ -49,15 +45,6 @@
       "destacado": false,
       "analisis": "Diseño: no se puede precisar el tipo de estudio (ensayo aleatorizado, registro o revisión) a partir del título; JACC publica ambos formatos sobre este tema.\nPoblación: pacientes con enfermedad coronaria (aterosclerosis de arterias coronarias) bajo doble terapia antiplaquetaria, probablemente post-angioplastia con stent.\nIntervención: suspensión de la aspirina manteniendo monoterapia con un inhibidor de P2Y12, frente a continuar la doble terapia antiplaquetaria.\nResultados: no disponibles sin el abstract completo.\nLimitaciones: no determinables sin el texto completo.\nMensaje: refuerza la línea de investigación que busca reducir el riesgo hemorrágico del tratamiento antiplaquetario prolongado sin resignar protección isquémica; conviene revisar el estudio completo antes de modificar la práctica habitual.\nNota: análisis sin acceso al abstract."
     },
-    "245e784a61d7": {
-      "resumen": "Los Pumas arrancaron el Nations Championship por debajo de su nivel habitual."
-    },
-    "fa1fb3f9babb": {
-      "resumen": "Repaso del calendario de Los Pumas con la fecha y el rival de su próximo partido tras esta ventana internacional."
-    },
-    "76e45a2b8934": {
-      "resumen": "Los Pumas podrían perder a un jugador clave de cara a la próxima ventana internacional."
-    },
     "578e1115394f": {
       "resumen": "Simon Willison comenta cómo los agentes de código basados en inteligencia artificial (IA) bajaron drásticamente el costo de hacer ingeniería inversa: ahora cualquiera puede automatizar dispositivos caseros sin ser experto en el tema. Le sirve a un médico en ciencia de datos porque muestra cómo la IA generativa amplía lo que una sola persona puede automatizar por su cuenta, sin depender de un equipo de desarrollo.",
       "destacado": false
@@ -66,37 +53,50 @@
       "resumen": "Hilo de r/datascience (foro de Reddit sobre ciencia de datos) donde discuten por qué Prophet, una librería popular para pronóstico de series temporales, suele dar peores resultados que métodos estadísticos más simples o clásicos. Le sirve mucho a un médico que aprende análisis de datos porque advierte que la herramienta más conocida no siempre es la más adecuada para pronosticar series temporales, como las de internaciones o consultas.",
       "destacado": true
     },
-    "c29f5e1d6e90": {
-      "resumen": "Presentación de Kimi Work, un producto de la empresa china Kimi orientado a tareas de trabajo asistidas por inteligencia artificial (IA). Le sirve a un médico en ciencia de datos como ejemplo de la creciente oferta de asistentes de IA para productividad, más allá de los proveedores estadounidenses habituales.",
-      "destacado": false
-    },
     "1ee0543e2b9b": {
       "resumen": "Simon Willison comenta una propuesta de Ben Thompson sobre la hipocresía de los laboratorios de inteligencia artificial (IA) que prohíben la destilación (entrenar un modelo nuevo copiando las respuestas de otro) de sus propios modelos pese a haber entrenado con datos no autorizados, y cómo eso podría ayudar a que los modelos abiertos de Estados Unidos compitan mejor con los chinos. Le sirve a un médico en ciencia de datos para entender el debate ético y geopolítico detrás del desarrollo de modelos de lenguaje abiertos.",
-      "destacado": false
-    },
-    "bb631db1d502": {
-      "resumen": "Proyecto que aplica física de cuerpos blandos (soft-body physics) a los controles de formulario nativos de HTML, dándoles una animación elástica al interactuar. Aporta poco de forma directa a la ciencia de datos —es una curiosidad de interfaz—, pero sirve como ejemplo de cómo pequeños detalles de interacción pueden mejorar la experiencia de uso de un tablero (dashboard) de datos.",
       "destacado": false
     },
     "ce900f3fcda2": {
       "resumen": "Hilo de r/datascience que explica cómo ajustar el esfuerzo de razonamiento y el presupuesto de tokens de pensamiento (thinking tokens) en los modelos de lenguaje grandes (LLM, large language model), para equilibrar calidad de respuesta contra costo y tiempo. Le sirve mucho a un médico que aprende análisis de datos porque es un parámetro práctico a la hora de usar IA para tareas de análisis sin gastar de más.",
       "destacado": false
     },
-    "2b4b6588b1d6": {
-      "resumen": "Describe cómo un grupo midió qué proporción de los textos subidos a arXiv (repositorio de preprints científicos) estaría escrita con ayuda de inteligencia artificial, y en qué casos ese tipo de medición deja de ser confiable. Le sirve a un médico que aprende análisis de datos porque expone las limitaciones de los detectores de texto generado por IA, algo relevante también para evaluar producción científica.",
-      "destacado": false
-    },
     "39c113285770": {
       "resumen": "Guía de Towards Data Science sobre cómo mantener agentes de codificación de Claude Code trabajando de forma autónoma durante más de 24 horas seguidas, para volverse más productivo como desarrollador. Le sirve a un médico en ciencia de datos como introducción práctica al uso de agentes de IA de largo aliento para tareas de análisis o desarrollo que antes requerían supervisión constante.",
-      "destacado": false
-    },
-    "abb58691040d": {
-      "resumen": "Reflexión personal de un autor que dejó de producir contenido de forma sistemática (blogs, videos) para enfocarse en otra cosa, probablemente por el desgaste que genera la lógica de las redes sociales. Aporta poco de forma directa a la ciencia de datos, pero sirve como contrapunto sobre el costo personal de la producción de contenido en la era de la IA generativa.",
       "destacado": false
     },
     "1dc8fd6d255f": {
       "resumen": "Segunda entrega de una serie de Towards Data Science sobre extracción inteligente de documentos, donde se usa un modelo de lenguaje con visión (vision LLM) como última línea de defensa: reprocesa con Azure una tabla plana y con un modelo de visión una figura cuando el parseo automático falla. Le sirve a un médico que aprende análisis de datos porque muestra un patrón concreto para digitalizar documentos complejos, como historias clínicas escaneadas, combinando herramientas específicas con IA de respaldo.",
       "destacado": false
+    },
+    "23b0db17ac4a": {
+      "resumen": "Revisión del European Heart Journal (EHJ) sobre la evolución del conocimiento en biología vascular y los mecanismos moleculares recientemente descubiertos que abrirían la puerta a nuevos blancos terapéuticos. El contenido capturado remite solo a la leyenda de una figura, por lo que parece tratarse de un elemento gráfico o de portada más que del texto completo; de todos modos, sirve como disparador para seguir la actualización en fisiopatología vascular en la fuente original.",
+      "destacado": false
+    },
+    "1db9c8ac2637": {
+      "resumen": "Investigación de Nikkei Asia que estima que la deuda oculta de cinco gigantes tecnológicos de Estados Unidos —contraída para financiar la construcción de infraestructura de inteligencia artificial (IA), como centros de datos— trepó a 1,65 billones de dólares, buena parte de ella fuera del balance contable declarado. Le sirve a un médico que se forma en ciencia de datos para entender que el boom de la IA generativa se sostiene en parte con apalancamiento financiero poco transparente, algo a tener en cuenta al evaluar la sostenibilidad de la oferta de herramientas de IA.",
+      "destacado": false
+    },
+    "ace9504c93ad": {
+      "resumen": "Investigación de la ACLU (American Civil Liberties Union) que documenta que Flock Safety, la empresa de cámaras lectoras de patentes (ALPR, automatic license plate reader) usadas para vigilancia, habría mentido reiteradamente a concejos municipales, policías y al público sobre el alcance real de su tecnología. Le sirve a un médico que aprende ciencia de datos como caso testigo de los riesgos de opacidad y falta de rendición de cuentas en sistemas de inteligencia artificial (IA) aplicados a vigilancia masiva.",
+      "destacado": false
+    },
+    "4ea52742c6f9": {
+      "resumen": "El fundador de Jellyfin, el servidor multimedia de código abierto, anunció que deja el equipo del proyecto, lo que abre interrogantes sobre su futuro liderazgo. Aporta poco de forma directa a la ciencia de datos, pero sirve como ejemplo de los desafíos de gobernanza y continuidad que enfrentan los proyectos de software libre de los que también depende buena parte del ecosistema de herramientas de análisis de datos.",
+      "destacado": false
+    },
+    "b7a4deba9f24": {
+      "resumen": "El autor comparte una herramienta propia de enumeración en bash, pensada como alternativa más cómoda a xargs para automatizar tareas repetitivas en la terminal. Le sirve a un médico que aprende análisis de datos porque este tipo de utilidades de línea de comandos ayudan a automatizar el procesamiento por lotes de archivos, un paso frecuente antes de analizar datos.",
+      "destacado": false
+    },
+    "b0b08eab1a21": {
+      "resumen": "Los Pumas podrían quedarse sin una de sus figuras para la ventana de partidos de agosto y septiembre, según trascendió."
+    },
+    "1ad5d68d640d": {
+      "resumen": "Un repaso destaca a los jugadores de Los Pumas que más se lucieron en lo que va del Nations Championship."
+    },
+    "944909875985": {
+      "resumen": "El ambiente del rugby argentino salió a respaldar a Lionel Messi tras la derrota de la Selección en la final del Mundial ante España."
     }
   }
 }

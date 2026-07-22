@@ -1,99 +1,117 @@
 {
-  "generated_at": "2026-07-22T10:05:38Z",
+  "generated_at": "2026-07-22T22:10:00Z",
   "summaries": {
+    "e23c37eed3bf": {
+      "resumen": "Nota de TCTMD sobre un estudio que muestra que cuantificar la inflamación perivascular en tomografías computadas sin contraste (no-contrast scans) mejoraría la predicción del riesgo cardiovascular, incluso cuando no se dispone de angiotomografía coronaria con contraste. Interesa porque abre la puerta a extraer información pronóstica adicional de estudios de imagen ya solicitados por otros motivos (por ejemplo, score de calcio coronario), sin exponer al paciente a contraste yodado.",
+      "destacado": true,
+      "analisis": "Diseño: Por el título se infiere un estudio observacional (probablemente de cohorte) que evalúa un método de cuantificación de inflamación por imágenes en tomografías sin contraste; sin abstract no se puede precisar la aleatorización, el cegamiento ni el número de centros o pacientes.\nPoblación: Pacientes sometidos a tomografía computada cardíaca sin contraste (por ejemplo, para score de calcio coronario), en quienes se buscó predecir eventos cardiovasculares.\nIntervención: No aplica una intervención terapéutica; se evalúa un biomarcador de imagen (cuantificación de inflamación perivascular) como herramienta de predicción de riesgo, presumiblemente comparado contra la evaluación habitual sin este parámetro.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar la validación externa del método de cuantificación, el tiempo de seguimiento ni los eventos cardiovasculares específicos considerados.\nMensaje: Sugiere que la cuantificación de inflamación por imagen podría sumar valor pronóstico a estudios de tomografía sin contraste ya realizados en la práctica habitual, ampliando su utilidad sin exponer al paciente a contraste adicional.\nNota: análisis sin acceso al abstract."
+    },
+    "7fac913c2bdf": {
+      "resumen": "Segunda parte de la cobertura de TCTMD sobre la Determinación Nacional de Cobertura (NCD, National Coverage Determination) propuesta para 2026 para el reemplazo valvular aórtico transcatéter (TAVR, transcatheter aortic valve replacement), discutida en el congreso NY Valves. Interesa porque estas reglas de cobertura definen qué centros y pacientes pueden acceder al procedimiento, con impacto directo en la organización de los programas de TAVR.",
+      "destacado": false
+    },
+    "4b069d1fe30f": {
+      "resumen": "Artículo de opinión en JACC (Journal of the American College of Cardiology) que, con un título que juega con la diferencia entre teoría y práctica, reflexiona sobre las brechas entre cómo se evalúa la seguridad y efectividad de los dispositivos médicos en el papel y cómo funciona realmente eso en la práctica clínica. Interesa porque cuestiona el proceso regulatorio y de generación de evidencia de los dispositivos cardiovasculares, un tema central para quien evalúa tecnología médica en su práctica diaria.",
+      "destacado": false
+    },
+    "e5c8fddddcaf": {
+      "resumen": "Estudio de JACC (Journal of the American College of Cardiology) que analiza si la fuente de financiamiento de los ensayos clínicos cardiovasculares (industria, fondos públicos o mixto) se asocia con su repercusión académica (citas) y su repercusión en redes y medios (altmetrics). Interesa porque toca un sesgo poco visibilizado: cómo el financiamiento podría influir en la difusión y visibilidad de la evidencia que después guía la práctica clínica.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título se infiere un estudio bibliométrico/observacional (probablemente transversal) sobre una muestra de ensayos clínicos cardiovasculares publicados; sin abstract no se puede precisar aleatorización, cegamiento, número de centros ni cantidad de estudios incluidos.\nPoblación: Ensayos clínicos cardiovasculares publicados, clasificados según su fuente de financiamiento (industria, fondos públicos u otra).\nIntervención: No aplica una intervención terapéutica; se compara la repercusión académica y en medios/redes (impacto online) entre ensayos según su tipo de financiamiento.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar el período y las bases de datos usadas para medir citas e impacto online, ni si se ajustó por factores de confusión como el tamaño del estudio o la revista de publicación.\nMensaje: Alerta sobre una posible asociación entre la fuente de financiamiento y la visibilidad académica y pública de los ensayos cardiovasculares, lo que podría amplificar la difusión de cierta evidencia por sobre otra independientemente de su calidad.\nNota: análisis sin acceso al abstract."
+    },
     "f04393653580": {
       "resumen": "La Sociedad de Angiografía e Intervenciones Cardiovasculares (SCAI, Society for Cardiovascular Angiography and Interventions) pide que la seguridad radiológica mejorada sea exigida por regulación y no quede librada a la voluntad de cada centro, en el contexto de la radiación ionizante que reciben los operadores en los laboratorios de hemodinamia. Interesa porque toca la protección del propio equipo de cardiología intervencionista, un tema de salud ocupacional con impacto directo en quienes trabajan guiados por fluoroscopía.",
+      "destacado": false
+    },
+    "f8e9e699a08f": {
+      "resumen": "Sesión de caso en vivo de TCTMD centrada en el manejo de un anillo aórtico pequeño en una válvula aórtica bicúspide, un desafío técnico habitual al planificar un reemplazo valvular aórtico transcatéter (TAVR, transcatheter aortic valve replacement). Sirve para ver en la práctica cómo un operador experimentado resuelve, paso a paso, una anatomía compleja que suele complicar la elección y el implante de la prótesis.",
       "destacado": false
     },
     "a3561a963b98": {
       "resumen": "Boletín mensual de TCTMD con novedades relevantes para el equipo de cardiología intervencionista (CV team, cardiovascular team) correspondiente a julio de 2026. Sirve como resumen rápido de la actualidad del área antes de profundizar en las notas puntuales de la semana.",
       "destacado": false
     },
-    "b3ccc906cd74": {
-      "resumen": "Artículo de opinión de Harlan Krumholz en JACC (Journal of the American College of Cardiology) sobre cómo escribir la sección de discusión de un artículo científico, donde cada párrafo debe cumplir una función clara. Interesa como guía práctica de escritura científica para quien está en transición hacia la producción de investigación en farmacovigilancia y análisis de datos.",
-      "destacado": false
-    },
-    "4d6a868d4d44": {
-      "resumen": "Nota de TCTMD sobre datos que muestran que el burnout (agotamiento profesional) sería particularmente frecuente entre los especialistas en imágenes cardíacas, más que en otras subespecialidades de cardiología. Interesa porque visibiliza un problema de salud ocupacional poco discutido en un área con carga creciente de estudios por informar.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título se infiere una encuesta o estudio transversal sobre burnout en especialistas de imágenes cardíacas comparado con otras subespecialidades; sin abstract no se puede precisar el diseño exacto, el número de centros ni de participantes.\nPoblación: Médicos especializados en imágenes cardíacas (ecocardiografía, resonancia magnética, tomografía cardíaca), presumiblemente comparados con otros cardiólogos.\nIntervención: No aplica una intervención; se trata de un estudio observacional sobre la prevalencia de burnout.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar la tasa de respuesta de la encuesta, el instrumento usado para medir burnout ni el ajuste por variables de carga laboral.\nMensaje: Alerta sobre un problema de salud ocupacional que podría requerir intervenciones específicas de bienestar dirigidas a los especialistas en imágenes cardíacas.\nNota: análisis sin acceso al abstract."
-    },
-    "4232cb8a39c8": {
-      "resumen": "Nota de TCTMD que adelanta cómo impactarían en la práctica las nuevas guías de dislipidemia (alteración de los lípidos en sangre, como el colesterol) previstas para 2026, antes de su publicación oficial. Interesa porque anticipa cambios en los umbrales de tratamiento hipolipemiante que podrían ampliar la población candidata a terapia.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título se infiere un análisis o estudio de modelado que estima el impacto poblacional de aplicar los criterios de las próximas guías de dislipidemia 2026 frente a las guías vigentes; sin abstract no se puede precisar la fuente de datos ni la metodología.\nPoblación: Probablemente una cohorte poblacional o de registro utilizada para simular cuántos pacientes pasarían a ser candidatos a tratamiento hipolipemiante bajo los nuevos criterios.\nIntervención: No aplica una intervención puntual; se trata de comparar los umbrales de indicación de tratamiento entre las guías actuales y las futuras de 2026.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar la representatividad de la población usada para la simulación ni los supuestos del modelo.\nMensaje: Anticipa que las nuevas guías de dislipidemia podrían ampliar significativamente la población tratada, con implicancias sobre la práctica clínica y el sistema de salud una vez publicadas oficialmente.\nNota: análisis sin acceso al abstract."
-    },
-    "f04c544b7e32": {
-      "resumen": "Editorial de JACC (Journal of the American College of Cardiology) que analiza cómo interpretar los resultados de estudios cuantitativos de función autonómica (evaluación del control involuntario de la frecuencia cardíaca, la presión arterial y otras funciones) en pacientes con COVID prolongado (long COVID). Interesa porque ayuda a poner en contexto clínico hallazgos de pruebas autonómicas que muchas veces son difíciles de interpretar de forma aislada.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título (\"Invisible in Full View\") se trataría de un artículo de perspectiva o editorial en JACC (Journal of the American College of Cardiology) que discute cómo interpretar los resultados de estudios cuantitativos de función autonómica en COVID prolongado (long COVID); no queda claro si presenta datos originales propios o si comenta hallazgos de otro trabajo del mismo número, como el de Vernino S et al.\nPoblación: Pacientes con COVID prolongado (long COVID) evaluados mediante pruebas cuantitativas de función autonómica (control involuntario de la frecuencia cardíaca, la presión arterial y otras variables).\nIntervención: No aplica una intervención terapéutica; se centra en la interpretación metodológica de las pruebas autonómicas cuantitativas.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede determinar si aporta datos propios o es un comentario sobre estudios previos, ni la solidez metodológica de las pruebas autonómicas discutidas.\nMensaje: Aporta contexto para interpretar con cautela los resultados de las pruebas autonómicas cuantitativas en long COVID, un área donde la heterogeneidad de hallazgos genera confusión diagnóstica.\nNota: análisis sin acceso al abstract."
-    },
-    "800d4cf9716b": {
-      "resumen": "Estudio de JACC (Journal of the American College of Cardiology) que compara los patrones de disfunción autonómica (alteración del control involuntario de funciones como la frecuencia cardíaca y la presión arterial) en pacientes con COVID prolongado (long COVID) frente a los de la falla autonómica pura (pure autonomic failure), una enfermedad neurodegenerativa distinta. Interesa porque sugiere que el mecanismo de disautonomía post-COVID no sería igual al de las enfermedades neurodegenerativas clásicas, lo que podría cambiar el enfoque diagnóstico.",
-      "destacado": true,
-      "analisis": "Diseño: Por el título se infiere un estudio comparativo (probablemente de cohortes), sin poder precisar aleatorización, cegamiento, número de centros ni de pacientes sin acceso al abstract.\nPoblación: Pacientes con disfunción autonómica en el contexto de COVID prolongado (long COVID), comparados con pacientes con diagnóstico de falla autonómica pura (pure autonomic failure), presumiblemente evaluados con pruebas autonómicas cuantitativas.\nIntervención: No aplica una intervención terapéutica; se trata de una comparación diagnóstica y fisiopatológica entre dos entidades mediante pruebas de función autonómica.\nResultados: No disponibles sin el abstract original; el título indica que ambos cuadros son fisiopatológicamente distintos, sin razones de riesgo, intervalos de confianza ni valores de p verificables.\nLimitaciones: Sin el trabajo completo no se puede evaluar el tamaño muestral, los criterios diagnósticos exactos usados para cada grupo, ni si hubo cegamiento en la interpretación de las pruebas autonómicas.\nMensaje: Sugiere que la disautonomía asociada a COVID prolongado tendría un patrón fisiopatológico distinto al de las enfermedades neurodegenerativas autonómicas clásicas, lo que podría orientar un abordaje diagnóstico diferenciado en la práctica clínica.\nNota: análisis sin acceso al abstract."
-    },
-    "85c1534c7c9a": {
-      "resumen": "Artículo de opinión de JACC (Journal of the American College of Cardiology) sobre las brechas en la identificación de pacientes en riesgo de muerte súbita cardíaca, reflexionando sobre por qué muchos casos no se anticipan pese a los controles médicos previos. Interesa porque cuestiona las estrategias actuales de estratificación de riesgo y podría orientar cambios en cómo se prioriza el tamizaje cardiovascular.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título (\"Who Dies Suddenly, and Why We Miss Them\") se trataría de un artículo de perspectiva o editorial en JACC (Journal of the American College of Cardiology) que reflexiona sobre la muerte súbita cardíaca y las limitaciones de las estrategias actuales para anticiparla; no se advierte, por el título, que presente una cohorte o un análisis de datos original propio.\nPoblación: Pacientes en riesgo de muerte súbita cardíaca, con foco en aquellos que fallecen sin haber sido identificados previamente como de alto riesgo por las estrategias de estratificación vigentes.\nIntervención: No aplica una intervención puntual; se trata de una reflexión sobre las herramientas de estratificación de riesgo de muerte súbita actualmente disponibles.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede saber si incluye datos poblacionales propios, revisión de series de casos, o si es puramente un ensayo de opinión.\nMensaje: Cuestiona la eficacia de los métodos actuales de estratificación de riesgo de muerte súbita cardíaca y llama a repensar cómo se identifica a los pacientes que hoy \"se nos escapan\", con implicancia directa en la prevención primaria.\nNota: análisis sin acceso al abstract."
-    },
     "23b0db17ac4a": {
       "resumen": "Revisión del European Heart Journal (EHJ) sobre la evolución del conocimiento en biología vascular y los mecanismos moleculares recientemente descubiertos que abrirían la puerta a nuevos blancos terapéuticos. El contenido capturado remite solo a la leyenda de una figura, por lo que parece tratarse de un elemento gráfico o de portada más que del texto completo; de todos modos, sirve como disparador para seguir la actualización en fisiopatología vascular en la fuente original.",
       "destacado": false
     },
-    "387867f19833": {
-      "resumen": "Artículo de Towards Data Science que propone cuatro \"ladrillos\" de ingeniería de contexto (context engineering) —más allá de la ingeniería de prompts— para evitar que los sistemas de generación aumentada por recuperación (RAG, retrieval-augmented generation) alucinen al responder sobre documentos reales. Le sirve mucho a un médico que aprende análisis de datos porque da un marco concreto para construir sistemas de consulta de documentos (por ejemplo, guías clínicas) que sean confiables y no inventen información.",
+    "b3ccc906cd74": {
+      "resumen": "Artículo de opinión de Harlan Krumholz en JACC (Journal of the American College of Cardiology) sobre cómo escribir la sección de discusión de un artículo científico, donde cada párrafo debe cumplir una función clara. Interesa como guía práctica de escritura científica para quien está en transición hacia la producción de investigación en farmacovigilancia y análisis de datos.",
+      "destacado": false
+    },
+    "4d5de2dffbfb": {
+      "resumen": "Artículo de revisión en JACC (Journal of the American College of Cardiology) que repasa y actualiza el papel de los betabloqueantes (beta-blockers) en el tratamiento cardiovascular, en un contexto donde varios ensayos recientes cuestionaron su uso rutinario después de un infarto en pacientes con función ventricular conservada. Interesa porque estos fármacos son de uso masivo en cardiología y su indicación está siendo revisada con evidencia nueva.",
+      "destacado": false
+    },
+    "1f0affe72ecb": {
+      "resumen": "Uno de los 30 equipos de la máxima categoría larga la competición con el banco de suplentes acéfalo."
+    },
+    "78204242b1f5": {
+      "resumen": "Con la llegada del General, Coudet espera potenciar a la defensa y también elevar el nivel del Chino. Dos zagueros con un importante pasado de Selección."
+    },
+    "8156890d67c2": {
+      "resumen": "Un repaso por el reglamento de World Rugby para entender qué castigo podría enfrentar Tomás Albornoz tras lo ocurrido en la cancha."
+    },
+    "2bff4870e28e": {
+      "resumen": "La Academia debuta el viernes y Vojvoda relegaría a Marcos al banco de suplentes. El defensor llegó tarde de Estados Unidos y perdió terreno: entra Gonzalo Escudero."
+    },
+    "90ffdbebc800": {
+      "resumen": "Sudáfrica define la lista de convocados, con el regreso de figuras clave, de cara a un posible viaje a la Argentina para medirse con Los Pumas."
+    },
+    "51980f9eecf7": {
+      "resumen": "A la espera del partido de este sábado frente a Barracas Central, todo Núñez espera por los actuales subcampeones del mundo."
+    },
+    "ed893053f47f": {
+      "resumen": "Ya se pueden tramitar las acreditaciones de prensa para cubrir el partido de Los Pumas que se jugará en Jujuy."
+    },
+    "927168ccb5f1": {
+      "resumen": "El delantero campeón del mundo saludó a sus compañeros para volar a Buenos Aires. Sin embargo, en Núñez aseguran que la negociación continúa."
+    },
+    "2163535f2136": {
+      "resumen": "Hubo representantes de 11 clubes en la gran cita de selecciones. Algunos ya están para volver a jugar y otros están con el futuro indefinido. Mirá todos los casos."
+    },
+    "3f177fb2c121": {
+      "resumen": "El técnico del Fortín habló en conferencia de prensa y se refirió a la situación del volante."
+    },
+    "f202de911c0f": {
+      "resumen": "Publicación de Hacker News (foro de tecnología) que anuncia la muerte de John C. Dvorak, periodista tecnológico estadounidense conocido por décadas de columnas y podcasts sobre computación e industria informática. No es contenido de ciencia de datos ni de inteligencia artificial en sí mismo, pero refleja qué está discutiendo la comunidad tech de la que suelen salir las tendencias de IA que después impactan en el trabajo con datos.",
+      "destacado": false
+    },
+    "2a21281a6027": {
+      "resumen": "Artículo técnico que explica SIMD (Single Instruction, Multiple Data), una técnica de los procesadores modernos para aplicar la misma operación a varios datos en simultáneo y así acelerar cálculos. Le sirve a un médico que aprende análisis de datos porque entender este concepto ayuda a comprender por qué ciertas librerías numéricas (como NumPy o Pandas) son mucho más rápidas que escribir bucles propios en Python.",
+      "destacado": false
+    },
+    "8fcc591b02eb": {
+      "resumen": "Se viralizó una conversación del matemático Terence Tao con ChatGPT explorando un contraejemplo de la Conjetura del Jacobiano (Jacobian Conjecture), un problema abierto de matemática pura. Le sirve a un médico que aprende análisis de datos porque muestra, con un caso de altísimo nivel, cómo un experto usa la inteligencia artificial (IA) como herramienta de exploración y razonamiento, no solo como buscador de respuestas.",
+      "destacado": false
+    },
+    "e08b4c6de43c": {
+      "resumen": "GigaToken es una herramienta de código abierto que promete acelerar hasta mil veces la tokenización (el paso de dividir texto en unidades que procesa un modelo de lenguaje de gran escala, LLM) respecto de las implementaciones habituales. Le sirve a un médico que aprende análisis de datos porque la tokenización suele ser un cuello de botella al procesar grandes volúmenes de texto, por ejemplo historias clínicas, para entrenar o usar modelos de IA.",
+      "destacado": false
+    },
+    "19e3fd1807c6": {
+      "resumen": "Artículo de Towards Data Science sobre generación aumentada por recuperación (RAG, retrieval-augmented generation) que propone dos estrategias para decidir cuántos documentos recuperados enviarle al modelo generador, con una señal de suficiencia que elige automáticamente entre traer solo el mejor resultado o iterar varios. Le sirve a un médico que aprende análisis de datos porque ofrece un método concreto para hacer más precisos y baratos los sistemas de consulta de documentos, por ejemplo guías clínicas o historias clínicas.",
+      "destacado": false
+    },
+    "a58ad190dc03": {
+      "resumen": "Artículo de Towards Data Science que muestra, paso a paso, cómo construir desde cero un motor de inferencia (runtime) para modelos de lenguaje de gran escala (LLM, large language model) sobre una placa gráfica H100, manejando manualmente los pesos del modelo y las operaciones de cálculo. Le sirve a un médico que aprende análisis de datos como material avanzado para entender qué pasa \"bajo el capó\" cuando corre un modelo de IA, más allá de usarlo como caja negra.",
+      "destacado": false
+    },
+    "34ebe61455b4": {
+      "resumen": "Kaggle y Google lanzaron de forma gratuita y abierta a todo público su curso de cinco días sobre IA agéntica (agentic AI), es decir, sistemas de inteligencia artificial que planifican y ejecutan tareas de forma autónoma. Le sirve a un médico que aprende análisis de datos como punto de partida estructurado y sin costo para entender cómo diseñar agentes de IA aplicables a tareas de análisis o automatización.",
+      "destacado": false
+    },
+    "d795586aeea7": {
+      "resumen": "Tutorial práctico de Towards Data Science que enseña a construir un agente de inteligencia artificial (IA) capaz de escribir y ejecutar código de forma autónoma, usando el kit de agentes de OpenAI (OpenAI Agents SDK) y contenedores Docker para aislar la ejecución. Le sirve mucho a un médico que aprende análisis de datos porque es una guía reproducible para armar un asistente propio que corra análisis de datos de punta a punta.",
       "destacado": true
+    },
+    "03ea50f74cc8": {
+      "resumen": "KDnuggets recomienda diez boletines (newsletters) para mantenerse al día con la inteligencia artificial (IA), cubriendo noticias diarias, investigación técnica, políticas públicas y herramientas para desarrolladores. Le sirve a un médico que aprende análisis de datos como curaduría lista para armar una rutina de actualización continua sin tener que rastrear cada fuente por separado.",
+      "destacado": false
     },
     "009ce609a7d3": {
       "resumen": "Hilo de r/datascience (foro de Reddit sobre ciencia de datos) sobre cómo armar canalizaciones (pipelines) estructuradas de evaluación para mejorar y controlar la calidad de flujos de trabajo de inteligencia artificial (IA). Le sirve mucho a un médico que aprende análisis de datos porque ofrece un enfoque metódico para validar resultados de modelos antes de confiar en ellos, algo clave si se aplican a decisiones clínicas o epidemiológicas.",
       "destacado": false
-    },
-    "aa24cbb89ade": {
-      "resumen": "Relato práctico de Towards Data Science sobre cómo ajustar finamente (fine-tuning) un modelo de inteligencia artificial para robótica usando la técnica LoRA (low-rank adaptation) en Google Colab, con verificación de datos y métricas de entrenamiento. Le sirve a un médico que aprende análisis de datos como ejemplo reproducible de entrenar y ajustar modelos propios con recursos limitados, aplicable más allá de la robótica.",
-      "destacado": false
-    },
-    "99e42382ba86": {
-      "resumen": "Simon Willison presenta Nativ, una aplicación que envuelve la librería MLX (el motor de aprendizaje automático de Apple) para correr modelos de inteligencia artificial de forma local en una Mac, con una interfaz nativa de macOS. Le sirve a un médico que aprende análisis de datos porque muestra una alternativa para usar IA sin depender de servicios en la nube, algo relevante al trabajar con datos sensibles de pacientes.",
-      "destacado": false
-    },
-    "25d671f9dc93": {
-      "resumen": "Hilo de r/datascience donde profesionales comparten cómo diagnosticar un modelo de pronóstico (forecasting) cuando el error de predicción es inesperadamente alto. Le sirve mucho a un médico que aprende análisis de datos porque ofrece estrategias prácticas de depuración aplicables a pronósticos propios, como proyecciones de demanda de camas o consultas.",
-      "destacado": false
-    },
-    "5bceb0c73153": {
-      "resumen": "Guía de KDnuggets para correr de forma local, con llama.cpp, un modelo de lenguaje orientado a programación (Qwythos-9B) conectado al agente de código Pi, usando decodificación especulativa y una interfaz compatible con la de OpenAI. Le sirve a un médico que aprende análisis de datos como tutorial concreto para montar un asistente de programación local y gratuito para tareas de análisis y automatización.",
-      "destacado": false
-    },
-    "144a5e2b22ee": {
-      "resumen": "Los clubes de rugby mendocinos pondrán a la venta las entradas para el partido de Los Pumas ante Australia."
-    },
-    "f8e9e699a08f": {
-      "resumen": "Sesión de caso en vivo de TCTMD centrada en el manejo de un anillo aórtico pequeño en una válvula aórtica bicúspide, un desafío técnico habitual al planificar un reemplazo valvular aórtico transcatéter (TAVR, transcatheter aortic valve replacement). Sirve para ver en la práctica cómo un operador experimentado resuelve, paso a paso, una anatomía compleja que suele complicar la elección y el implante de la prótesis.",
-      "destacado": false
-    },
-    "ca014ecbeadb": {
-      "resumen": "Nota de Towards Data Science que evalúa cuánto de un flujo de trabajo de ciencia de datos ya puede correr sobre unidad de procesamiento gráfico (GPU, graphics processing unit), enfocada en acelerar la etapa de preparación de datos con herramientas como cuDF, cudf.pandas y el motor GPU de Polars. Le sirve a un médico que aprende análisis de datos porque muestra alternativas concretas para achicar los tiempos de limpieza y transformación de bases grandes, sin reescribir todo el código en otro lenguaje.",
-      "destacado": false
-    },
-    "009d8ac6eee7": {
-      "resumen": "Simon Willison comparte su charla con Cat Wu y Thariq Shihipar, del equipo de Claude Code de Anthropic, sobre agentes de programación, seguridad de estos agentes, evaluaciones (evals) y uso de herramientas (tool use). Le sirve a un médico que aprende análisis de datos porque da contexto de primera mano sobre cómo se diseñan y evalúan los asistentes de inteligencia artificial que hoy se usan para programar y analizar datos.",
-      "destacado": false
-    },
-    "068d0058e656": {
-      "resumen": "KDnuggets propone una hoja de ruta de cinco cursos gratuitos para pasar de principiante a practicante de inteligencia artificial (IA), desde algoritmos clásicos hasta el entrenamiento de modelos de lenguaje de gran escala (LLM, large language model) desde cero. Le sirve a un médico que aprende análisis de datos como guía ordenada de estudio autodidacta y sin costo para construir bases sólidas antes de meterse con modelos más avanzados.",
-      "destacado": false
-    },
-    "578e1115394f": {
-      "resumen": "Simon Willison reflexiona sobre cómo la ingeniería inversa (reverse-engineering) se volvió mucho más barata gracias a los agentes de programación, que hoy permiten a usuarios sin formación técnica automatizar y desarmar el funcionamiento de dispositivos domésticos. Le sirve a un médico que aprende análisis de datos porque ilustra, con ejemplos concretos, cómo bajó el costo de escribir código y qué tareas antes reservadas a especialistas hoy son accesibles con estas herramientas.",
-      "destacado": false
-    },
-    "fa571c4d4e5a": {
-      "resumen": "Una voz autorizada del rugby inglés lanzó una crítica muy dura contra el entrenador Felipe Contepomi y Los Pumas, calificándola de \"vergüenza absoluta\"."
-    },
-    "b24cfb07d3ad": {
-      "resumen": "El neozelandés Steve Hansen cuestionó una decisión del árbitro asistente de video (TMO, television match official) en el partido entre Los Pumas e Inglaterra, y la polémica trascendió fronteras."
     }
   }
 }

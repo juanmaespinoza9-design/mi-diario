@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T03:52:57.318279+00:00",
+ "generated_at": "2026-07-22T06:46:16.584590+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -14,11 +14,11 @@
      "id": "f04393653580"
     },
     {
-     "title": "Live Case Session 18. New TTVR (LUX Valve)",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYUVBWFM4YWZ5Szl4S20tWUx1cjBmVEwyLUJOUTNyVXJta0swdGhVSUJfakVJRGxLZnBWNmIwU1RmLUlzRGNjVDA5bE9hVmhudnZRUkpvTVNTcENPVFJBN21kdHN6Q1Mtd0VOX3ZVRmJ2RVA1eXoyaGxaYmRlM1duYXlJek1IYXY3bFE?oc=5",
+     "title": "Live Case Session 16. Small Annulus in Bicuspid Valve Disease",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVnJUWTJaVGgzRFZwVE1td3hmY3VIS0x2MnNiOUZGY1J1NF9NSDhKSVphdUpiM1YxdTRzUWdXX3dNeFFwVUt2dFU5RHRWYzZzOFZiU1Z4QmFmWnBLSi1WbVplQjJ1V3BDX2RkWVNsMTVkSmhfbVhLQmpNc1h2QTZWY3NfdjYwMG9oYjlrYktYUk13OUhsWHRCRzJMSFNrenZGZTYwakZR?oc=5",
      "source": "TCTMD",
      "published": "2026-07-21T20:10:21+00:00",
-     "id": "2acb87214c76"
+     "id": "f8e9e699a08f"
     },
     {
      "title": "July 2026 Dispatch for the CV Team",
@@ -181,34 +181,6 @@
    "mode": "resumen",
    "items": [
     {
-     "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-     "link": "https://fireworks.ai/blog/kimik3-fable",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-21T22:35:24+00:00",
-     "id": "162a22c492bc"
-    },
-    {
-     "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-     "link": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-21T21:13:20+00:00",
-     "id": "744516432839"
-    },
-    {
-     "title": "A digestion of the Jacobian conjecture counterexample",
-     "link": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-21T21:09:25+00:00",
-     "id": "3911d69dd953"
-    },
-    {
-     "title": "OpenAI and Hugging Face address security incident during model evaluation",
-     "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-21T20:09:52+00:00",
-     "id": "f29a04d123ca"
-    },
-    {
      "title": "Prompt Engineering Isn’t Enough: How Four Bricks of Context Engineering Stop RAG Hallucinations",
      "link": "https://towardsdatascience.com/prompt-engineering-isnt-enough-how-four-bricks-of-context-engineering-stop-rag-hallucinations/",
      "source": "Towards Data Science",
@@ -253,6 +225,38 @@
      "published": "2026-07-21T14:00:42+00:00",
      "copete": "Run Qwythos-9B-Claude-Mythos-5-1M locally with llama.cpp, connect it to Pi coding agent, and build fast local coding workflows using MTP speculative decoding and an OpenAI-compatible API.",
      "id": "5bceb0c73153"
+    },
+    {
+     "title": "How Much of a Data Science Workflow Can Run on a GPU Today? Part 1: Accelerating Data Preparation",
+     "link": "https://towardsdatascience.com/how-much-of-a-data-science-workflow-can-run-on-a-gpu-today-part-1-accelerating-data-preparation/",
+     "source": "Towards Data Science",
+     "published": "2026-07-21T13:30:00+00:00",
+     "copete": "Exploring GPU acceleration with cuDF, cudf.pandas, and the Polars GPU Engine The post How Much of a Data Science Workflow Can Run on a GPU Today? Part 1: Accelerating Data Preparation appeared first on Towards Data Science .",
+     "id": "ca014ecbeadb"
+    },
+    {
+     "title": "A Fireside Chat with Cat and Thariq from the Claude Code team",
+     "link": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
+     "source": "Simon Willison (IA)",
+     "published": "2026-07-21T12:54:02+00:00",
+     "copete": "Earlier this month I hosted a fireside chat session at the AI Engineer World's Fair with Cat Wu and Thariq Shihipar from Anthropic's Claude Code team. We talked about Claude Code, Claude Tag, Fable, coding agent security, evals, tool…",
+     "id": "009d8ac6eee7"
+    },
+    {
+     "title": "5 Free Courses to Go From AI Beginner to Practitioner",
+     "link": "https://www.kdnuggets.com/5-free-courses-to-go-from-ai-beginner-to-practitioner",
+     "source": "KDnuggets",
+     "published": "2026-07-21T12:00:10+00:00",
+     "copete": "Follow this free five-course roadmap to build real AI skills, from classical algorithms to training LLMs from scratch.",
+     "id": "068d0058e656"
+    },
+    {
+     "title": "Reverse-engineering is cheap now",
+     "link": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything",
+     "source": "Simon Willison (IA)",
+     "published": "2026-07-20T19:24:05+00:00",
+     "copete": "I keep hearing anecdotes from people who used coding agents to reverse-engineer and automate devices in their homes. I think this is an interesting illustration of the impact of the reduced cost of writing code. Prior to agents, it was…",
+     "id": "578e1115394f"
     }
    ]
   },
@@ -262,100 +266,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "El Salvador probará un modelo de formación para entregar sillas de ruedas con seguridad",
-     "link": "https://www.infobae.com/el-salvador/2026/07/22/el-salvador-probara-un-modelo-de-formacion-para-entregar-sillas-de-ruedas-con-seguridad/",
-     "source": "Infobae",
-     "published": "2026-07-22T03:49:13+00:00",
-     "copete": "Free Wheelchair Mission y FUSAL harán en junio de 2026 un entrenamiento piloto para organizaciones distribuidoras, con evaluación, toma de medidas, ajustes y seguimiento, para mejorar la provisión adecuada de dispositivos de movilidad",
-     "id": "c03ef13b4e7a"
-    },
-    {
-     "title": "La reacción de Natalie Pérez ante la sensual performance de un participante de Es mi Sueño: “Famoso colágeno”",
-     "link": "https://www.infobae.com/teleshow/2026/07/22/la-reaccion-de-natalie-perez-ante-la-sensual-performance-de-un-participante-de-es-mi-sueno-famoso-colageno/",
-     "source": "Infobae",
-     "published": "2026-07-22T03:46:19+00:00",
-     "copete": "La presentación del joven combinó canto, actitud y un giro inesperado en el escenario, y generó una escena divertida entre las jurados, que comentaron el despliegue físico con humor y picardía",
-     "id": "4648a7395f31"
-    },
-    {
-     "title": "Para Kevin O’Reilly, el caso Casimirri revela la impunidad que Nicaragua otorga a condenados por terrorismo",
-     "link": "https://www.infobae.com/nicaragua/2026/07/22/para-kevin-oreilly-el-caso-casimirri-revela-la-impunidad-que-nicaragua-otorga-a-condenados-por-terrorismo/",
-     "source": "Infobae",
-     "published": "2026-07-22T03:46:10+00:00",
-     "copete": "El análisis de Kevin O’Reilly sostiene que el quiebre diplomático vuelve a poner en primer plano décadas sin justicia y el dolor de familias marcadas por los crímenes de las Brigadas Rojas",
-     "id": "6027538b8991"
-    },
-    {
-     "title": "Guatemala lanza un programa de educación ambiental como reparación tras el impacto de la hidroeléctrica Chixoy",
-     "link": "https://www.infobae.com/guatemala/2026/07/22/guatemala-lanza-un-programa-de-educacion-ambiental-como-reparacion-tras-el-impacto-de-la-hidroelectrica-chixoy/",
-     "source": "Infobae",
-     "published": "2026-07-22T03:44:54+00:00",
-     "copete": "La iniciativa funcionará como una medida de reparación para los territorios impactados por la hidroeléctrica Chixoy y arrancará en 33 localidades antes de extenderse al resto del país",
-     "id": "ed2cc1ed0320"
-    },
-    {
-     "title": "La pérdida de sueño por el calor nocturno en Centroamérica incrementa el riesgo de deterioro en la salud mental",
-     "link": "https://www.infobae.com/el-salvador/2026/07/22/la-perdida-de-sueno-por-el-calor-nocturno-en-centroamerica-incrementa-el-riesgo-de-deterioro-en-la-salud-mental/",
-     "source": "Infobae",
-     "published": "2026-07-22T03:43:39+00:00",
-     "copete": "Un especialista salvadoreño recalcó los problemas que las personas pueden experimentar por la falta de sueño asociada al calor nocturno, como alteraciones en el estado de ánimo, dificultades cognitivas y una mayor vulnerabilidad a…",
-     "id": "837bb298cc29"
-    },
-    {
-     "title": "Inocencia fiscal: las claves del proyecto que presentará Caputo para incentivar el uso de los “dólares del colchón”",
-     "link": "https://www.lanacion.com.ar/economia/inocencia-fiscal-las-claves-del-proyecto-que-presentara-caputo-manana-para-incentivar-el-uso-de-los-nid21072026/",
+     "title": "Julián Álvarez: “Vamos a levantarnos, aprender y seguir porque pase lo que pase, somos así”",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/julian-alvarez-vamos-a-levantarnos-aprender-y-seguir-porque-pase-lo-que-pase-somos-asi-nid20072026/",
      "source": "La Nación",
-     "published": "2026-07-22T03:34:21+00:00",
-     "copete": "Se busca flexibilizar el concepto de discrepancia significativa y la adhesión al régimen tendrá efectos favorables ante bancos, escribanos y la UIF",
-     "id": "4f51c71fc205"
+     "published": "2026-07-22T06:39:54+00:00",
+     "copete": "El delantero argentino agradeció el apoyo de los hinchas y dejó una promesa de cara al próximo Mundial",
+     "id": "1110673cc81c"
     },
     {
-     "title": "Un micro con hinchas de Tigre fue agredido y una persona resultó herida de bala",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/un-micro-con-hinchas-de-tigre-fue-agredido-y-una-persona-resulto-herida-de-bala-nid21072026/",
-     "source": "La Nación",
-     "published": "2026-07-22T03:32:55+00:00",
-     "copete": "Ocurrió mientras el vehículo se trasladaba por la ruta 1 rumbo a Colonia; el ataque se produjo con armas de fuego",
-     "id": "a3eed2350dc0"
+     "title": "El Gobierno designó a Guillermo Toranzos Torino como nuevo subsecretario de la Jefatura de Gabinete",
+     "link": "https://www.infobae.com/politica/2026/07/22/el-gobierno-designo-a-guillermo-toranzos-torino-como-nuevo-subsecretario-de-la-jefatura-de-gabinete/",
+     "source": "Infobae",
+     "published": "2026-07-22T06:33:03+00:00",
+     "copete": "Con una amplia trayectoria en el sector público y privado, Toranzos Torino asumirá la responsabilidad de coordinar los asuntos que sean primordiales para el Poder Ejecutivo. Estará bajo la órbita liderada por Diego Santilli e Ignacio Devitt",
+     "id": "2d870b519198"
     },
     {
-     "title": "Inhabilitaron a la conductora que manejaba con una licencia falsa y atropelló a un hombre y su hijo",
-     "link": "https://www.lanacion.com.ar/sociedad/inhabilitaron-a-la-conductora-que-atropello-a-un-padre-y-a-su-hijo-con-una-licencia-falsa-nid22072026/",
+     "title": "El DOJ demanda a seis mexicanos naturalizados para quitarles la ciudadanía de EE.UU.",
+     "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/el-doj-demanda-a-seis-mexicanos-naturalizados-para-quitarles-la-ciudadania-de-eeuu-nid22072026/",
      "source": "La Nación",
-     "published": "2026-07-22T03:21:16+00:00",
-     "copete": "La Subsecretaría de Política y Seguridad Vial bonaerense dictó la medida preventiva tras confirmar que la mujer circulaba con un registro apócrifo",
-     "id": "96a10f1b1732"
+     "published": "2026-07-22T06:33:00+00:00",
+     "copete": "El DOJ busca revocar la ciudadanía de seis mexicanos naturalizados en EE.UU. por ocultar delitos graves al naturalizarse",
+     "id": "0bb53022f0f1"
     },
     {
-     "title": "Messi ya está en la Argentina: llegó a Rosario para pasar unos días con su familia",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/messi-ya-esta-en-la-argentina-llego-a-rosario-para-pasar-unos-dias-con-su-familia-nid21072026/",
+     "title": "Moody’s también mejoró la nota de la deuda Argentina",
+     "link": "https://www.lanacion.com.ar/economia/moodys-se-sumo-al-resto-de-las-calificadoras-y-mejoro-la-nota-asignada-a-argentina-nid21072026/",
      "source": "La Nación",
-     "published": "2026-07-22T03:15:06+00:00",
-     "copete": "El avión que trasladó al 10 de la selección desde Miami aterrizó cerca de las 6.30; se quedará en un barrio privado de Funes y luego se reincorporará al Inter Miami",
-     "id": "4e9d02d281bd"
+     "published": "2026-07-22T06:32:06+00:00",
+     "copete": "Elevó este martes la calificación crediticia de Caa1 a B3 y la dejó al mismo nivel que Fitch y S&P Global; además, pasó la perspectiva de “estable” a “positiva”",
+     "id": "ebfe9c59c1b5"
+    },
+    {
+     "title": "“Te mato al nene, no me importa nada”: motochorros intentaron robar un auto y amenazaron al hijo del dueño",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/07/22/te-mato-al-nene-no-me-importa-nada-motochorros-intentaron-robar-un-auto-y-amenazaron-al-hijo-del-dueno/",
+     "source": "Infobae",
+     "published": "2026-07-22T06:29:16+00:00",
+     "copete": "Ocurrió en la esquina de San José de Calazans y Concepción Arenal del barrio Los Pinares. Los dos delincuentes huyeron en una moto",
+     "id": "41cc5cd0c43e"
     },
     {
      "title": "Rodrigo De Paul, tras la final: “Me dolerá mucho tiempo pero hoy más que nunca estoy orgulloso de ser argentino”",
      "link": "https://www.lanacion.com.ar/deportes/futbol/rodrigo-de-paul-tras-la-final-me-dolera-mucho-tiempo-pero-hoy-mas-que-nunca-estoy-orgulloso-de-ser-nid20072026/",
      "source": "La Nación",
-     "published": "2026-07-22T03:15:03+00:00",
+     "published": "2026-07-22T06:24:45+00:00",
      "copete": "El jugador de la selección compartió un duro mensaje en redes sociales donde, además de agradecer el apoyo al equipo, apuntó contra quienes “esperaban esta caída”",
      "id": "dd0871f1a810"
     },
     {
-     "title": "Quiniela Nacional: resultado del sorteo de la Nocturna de hoy, martes 21 de julio",
-     "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-nacional-resultado-sorteo-nocturna-hoy-martes-21-julio_0_yLnRym2ggn.html",
-     "source": "Clarín",
-     "published": "2026-07-22T01:21:22+00:00",
-     "copete": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
-     "id": "9a1847e949a2"
+     "title": "Messi ya está en la Argentina: llegó a Rosario para pasar unos días con su familia",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/messi-ya-esta-en-la-argentina-llego-a-rosario-para-pasar-unos-dias-con-su-familia-nid21072026/",
+     "source": "La Nación",
+     "published": "2026-07-22T06:24:38+00:00",
+     "copete": "El avión que trasladó al 10 de la selección desde Miami aterrizó cerca de las 6.30; se quedará en un barrio privado de Funes y luego se reincorporará al Inter Miami",
+     "id": "4e9d02d281bd"
     },
     {
-     "title": "Quiniela de la Provincia: resultado del sorteo de la Nocturna de hoy, martes 21 de julio",
-     "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-nocturna-hoy-martes-21-julio_0_Iq2v4Av44g.html",
+     "title": "Vargas batea sencillo en la 10ma y Diamondbacks superan 6-5 a A's tras ceder ventaja en 9na",
+     "link": "https://www.clarin.com/estados-unidos/vargas-batea-sencillo-en-la-10ma-y-diamondbacks-superan-6-5-a-a-s-tras-ceder-ventaja-en-9na_0_b4fRPEVdfw.html",
      "source": "Clarín",
-     "published": "2026-07-22T01:21:22+00:00",
-     "copete": "Conocé qué números salieron hoy a la cabeza y todo lo que necesitás saber. A cruzar los dedos.",
-     "id": "ca5deff309bd"
+     "published": "2026-07-22T06:00:09+00:00",
+     "copete": "Arizona remontó en la décima entrada con un hit decisivo de Vargas, tras desperdiciar una ventaja de dos carreras en la novena. Los visitantes igualaron con un jonrón de Wilson, pero los locales recuperaron el control con un sencillo de…",
+     "id": "ff4b3203d2eb"
+    },
+    {
+     "title": "Designaron a un nuevo subsecretario que responderá a Diego Santilli: quién es Guillermo Toranzos Torino",
+     "link": "https://www.clarin.com/politica/designaron-nuevo-subsecretario-respondera-diego-santilli-guillermo-toranzos-torino_0_N9izOry9YQ.html",
+     "source": "Clarín",
+     "published": "2026-07-22T05:49:13+00:00",
+     "copete": "El nombramiento fue oficializado por decreto y se suma a la nueva estructura de la Jefatura de Gabinete impulsada tras la llegada del exministro del Interior. El flamante funcionario estará al frente de la Subsecretaría de Proyectos…",
+     "id": "86a995a27446"
+    },
+    {
+     "title": "Le secuestraron la moto tras un accidente, pero cuando fue a buscarla había sido compactada: el Estado deberá indemnizarla",
+     "link": "https://www.infobae.com/judiciales/2026/07/22/le-secuestraron-la-moto-tras-un-accidente-pero-cuando-fue-a-buscarla-habia-sido-compactada-el-estado-debera-indemnizarla/",
+     "source": "Infobae",
+     "published": "2026-07-22T05:47:19+00:00",
+     "copete": "Una mujer sufrió un choque y su moto Yamaha quedó bajo custodia legal. A pesar de que una fiscalía ordenó la devolución, el rodado fue destruido durante un proceso de compactación. El tribunal concluyó que existió una falta de servicio y…",
+     "id": "95278b566921"
+    },
+    {
+     "title": "Una profesora intentó separar una pelea de alumnos, recibió una trompada en la cara y la Justicia fijó una indemnización de $24 millones",
+     "link": "https://www.infobae.com/judiciales/2026/07/22/una-profesora-intento-separar-una-pelea-de-alumnos-recibio-una-trompada-en-la-cara-y-la-justicia-fijo-una-indemnizacion-de-24-millones/",
+     "source": "Infobae",
+     "published": "2026-07-22T05:47:00+00:00",
+     "copete": "Durante un torneo intercolegial de handball, una profesora de educación física quedó inconsciente y debió ser operada de la órbita ocular tras recibir un golpe desde atrás. La Cámara Civil condenó en forma solidaria al agresor, al…",
+     "id": "234dc140c660"
+    },
+    {
+     "title": "Vio una publicidad en TikTok, resultó falsa y cayó en una estafa: un banco deberá indemnizar a una jubilada",
+     "link": "https://www.infobae.com/judiciales/2026/07/22/vio-una-publicidad-en-tiktok-resulto-falsa-y-cayo-en-una-estafa-un-banco-debera-indemnizar-a-una-jubilada/",
+     "source": "Infobae",
+     "published": "2026-07-22T05:46:38+00:00",
+     "copete": "Una mujer de 76 años fue engañada por una promoción falsa y sufrió el robo de sus ahorros. La entidad se negó a reintegrarle los fondos al atribuirle responsabilidad por haber proporcionado sus claves de seguridad. Sin embargo, la Justicia…",
+     "id": "ab1c3cb5629e"
     }
    ]
   },
@@ -365,20 +369,68 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+     "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-22T05:37:43+00:00",
+     "copete": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
+     "id": "4ce2c9e1e406"
+    },
+    {
+     "title": "Rebel Wilson cleared in defamation case brought by actress in her own film",
+     "link": "https://www.bbc.co.uk/news/articles/c80nv4eevero?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-22T05:33:04+00:00",
+     "copete": "Wilson was accused of defaming young Australian actress Charlotte MacInnes, but cleared by a Sydney court.",
+     "id": "c2a32cb73bb0"
+    },
+    {
+     "title": "Meet the women breaking world records in lumberjack sports",
+     "link": "https://www.bbc.co.uk/news/articles/c6293zk14njo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-22T05:06:35+00:00",
+     "copete": "The BBC finds out what is driving the sports' increasing popularity with women and what it takes to be the best.",
+     "id": "0e7091949cea"
+    },
+    {
+     "title": "¿Por qué Irán está arriesgando tanto por el estrecho de Ormuz?",
+     "link": "https://www.bbc.com/mundo/articles/c70gekd822wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-22T04:01:55+00:00",
+     "copete": "Ninguna de las opciones a las que se enfrentan los líderes iraníes ofrece un camino claro hacia la victoria, mientras continúa el conflicto con Estados Unidos.",
+     "id": "4d0c7d9e81a0"
+    },
+    {
+     "title": "France passes law banning under-15s from social media",
+     "link": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-22T03:50:55+00:00",
+     "copete": "The law will require social media platforms in France to verify all users age from January.",
+     "id": "85229a18fb73"
+    },
+    {
+     "title": "El Tribunal Penal Internacional resiste ante el asedio de Estados Unidos, que se propone desmantelarlo “ladrillo a ladrillo”",
+     "link": "https://elpais.com/internacional/2026-07-22/el-tribunal-penal-internacional-resiste-ante-el-asedio-de-estados-unidos-que-se-propone-desmantelarlo-ladrillo-a-ladrillo.html",
+     "source": "El País Internacional",
+     "published": "2026-07-22T03:45:01+00:00",
+     "copete": "Marco Rubio aumenta la presión sobre la institución y su personal, y reclama a los aliados de Washington que le den también la espalda",
+     "id": "61f0d6a35558"
+    },
+    {
+     "title": "Quince años de Utoya: la masacre que anticipó la nueva era del odio racista en Europa",
+     "link": "https://elpais.com/internacional/2026-07-22/quince-anos-de-utoya-la-masacre-que-anticipo-la-nueva-era-del-odio-racista-en-europa.html",
+     "source": "El País Internacional",
+     "published": "2026-07-22T03:45:01+00:00",
+     "copete": "“Para muchos de nosotros, la lucha contra el extremismo se transformó en una cuestión de supervivencia”, sostiene Astrid Hoem, quien se escondió en una cueva durante la matanza que conmocionó a Noruega",
+     "id": "1da039ba17f3"
+    },
+    {
      "title": "Tokio insta a los hombres a usar pantalones cortos en el trabajo, pero algunas mujeres dicen que es \"acoso por el vello de las piernas\"",
      "link": "https://www.bbc.com/mundo/articles/c0kmv273ed8o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "published": "2026-07-22T00:23:50+00:00",
      "copete": "El gobierno metropolitano de Tokio quiere que los trabajadores dejen de usar traje y corbata y opten por camisetas, zapatillas deportivas y pantalones cortos.",
      "id": "1571f7794fcc"
-    },
-    {
-     "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-     "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-21T23:59:34+00:00",
-     "copete": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
-     "id": "4ce2c9e1e406"
     },
     {
      "title": "Zelensky destituye al comandante en jefe de Ucrania después de días de protestas en las calles por el relevo del ministro de Defensa",
@@ -389,60 +441,12 @@
      "id": "fe627694f0f0"
     },
     {
-     "title": "Zelenski releva al jefe del ejército en Ucrania tras seis días de protestas",
-     "link": "https://elpais.com/internacional/2026-07-21/zelenski-releva-al-jefe-del-ejercito-en-ucrania-tras-seis-dias-de-protestas.html",
+     "title": "El Gobierno de Trump pide inmunidad para Delcy Rodríguez en el caso de tres estadounidenses torturados en Caracas",
+     "link": "https://elpais.com/america/2026-07-21/estados-unidos-pide-inmunidad-para-delcy-rodriguez-en-caso-de-estadounidenses-torturados.html",
      "source": "El País Internacional",
-     "published": "2026-07-21T20:31:17+00:00",
-     "copete": "La destitución del ministro de Defensa, enfrentado al comandante de las Fuerzas Armadas, abrió una crisis política y militar acompañada de una ola de descontento que se ha extendido a Kiev y otras ciudades",
-     "id": "8fa9c6a8af39"
-    },
-    {
-     "title": "Hegseth reclama decenas de miles de millones para la guerra de Irán mientras aumentan los soldados muertos de EE UU",
-     "link": "https://elpais.com/internacional/2026-07-21/hegseth-reclama-decenas-de-miles-de-millones-para-la-guerra-de-iran-mientras-aumentan-los-soldados-muertos-de-ee-uu.html",
-     "source": "El País Internacional",
-     "published": "2026-07-21T20:01:48+00:00",
-     "copete": "Son ya 18 los soldados estadounidenses caídos desde el inicio del conflicto, que según el secretario de Defensa ha costado 37.500 millones de dólares",
-     "id": "a33ce3aadcc7"
-    },
-    {
-     "title": "EE.UU. advierte a Daniel Ortega que no se quedará \"de brazos cruzados\" ante el anuncio de que no volverá a haber elecciones en Nicaragua",
-     "link": "https://www.bbc.com/mundo/articles/c980ljw9e3ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-21T19:47:49+00:00",
-     "copete": "El jefe de la diplomacia estadounidense dice que el anuncio \"deja al descubierto la verdadera naturaleza autoritaria\" del matrimonio presidencial Ortega-Murillo y llama a comunidad internacional a unirse frente a los ataques contra los…",
-     "id": "a8d475e2cdcf"
-    },
-    {
-     "title": "Kaylee Hottle: muere la actriz de \"Godzilla vs. Kong\" a los 18 años",
-     "link": "https://www.bbc.com/mundo/articles/c8enw5668l6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-21T19:06:49+00:00",
-     "copete": "Kaylee Hottle interpretó a una joven huérfana sorda llamada Jia en la exitosa película de 2021 y su secuela de 2024.",
-     "id": "d696e98b2512"
-    },
-    {
-     "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-     "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-21T18:07:34+00:00",
-     "copete": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
-     "id": "31d16025de84"
-    },
-    {
-     "title": "VIDEO | Estado de catástrofe en Chile: las imágenes de las inundaciones y la destrucción por las lluvias en el norte del país",
-     "link": "https://www.bbc.com/mundo/articles/c36de402e2no?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-21T18:05:41+00:00",
-     "copete": "La intensidad del sistema frontal dejó en una hora el volumen de lluvia habitual de un mes, según informó el subsecretario del Interior, Máximo Pavez.",
-     "id": "12c1e223cf53"
-    },
-    {
-     "title": "Rubio advierte a Ortega que EE UU “no se quedará de brazos cruzados” ante el anuncio de que no habrá más elecciones en Nicaragua",
-     "link": "https://elpais.com/america/2026-07-21/rubio-advierte-a-ortega-que-ee-uu-no-se-quedara-de-brazos-cruzados-ante-el-anuncio-de-que-no-habra-mas-elecciones-en-nicaragua.html",
-     "source": "El País Internacional",
-     "published": "2026-07-21T17:59:26+00:00",
-     "copete": "El Departamento de Estado pide que la comunidad internacional se una frente a los ataques del régimen a los “valores democráticos” del continente americano",
-     "id": "eb4a171f7c15"
+     "published": "2026-07-21T22:18:57+00:00",
+     "copete": "El Departamento de Justicia advierte que la Casa Blanca la considera “jefa en activo de un Estado extranjero”",
+     "id": "aef372de6355"
     }
    ]
   }
@@ -462,6 +466,11 @@
    "section": "cardiologia",
    "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "ciencia_datos",
+   "feed": "Hacker News (100+ puntos)",
+   "error": "HTTP Error 502: Bad Gateway"
   }
  ]
 }

@@ -1,12 +1,8 @@
 {
-  "generated_at": "2026-07-21T22:10:00Z",
+  "generated_at": "2026-07-22T10:05:38Z",
   "summaries": {
     "f04393653580": {
       "resumen": "La Sociedad de Angiografía e Intervenciones Cardiovasculares (SCAI, Society for Cardiovascular Angiography and Interventions) pide que la seguridad radiológica mejorada sea exigida por regulación y no quede librada a la voluntad de cada centro, en el contexto de la radiación ionizante que reciben los operadores en los laboratorios de hemodinamia. Interesa porque toca la protección del propio equipo de cardiología intervencionista, un tema de salud ocupacional con impacto directo en quienes trabajan guiados por fluoroscopía.",
-      "destacado": false
-    },
-    "652542b5dd22": {
-      "resumen": "Cobertura de una sesión de casos en vivo del Montreal Heart Institute sobre reparación transcatéter borde a borde de la válvula mitral (M-TEER, mitral transcatheter edge-to-edge repair) en un caso complejo. Interesa porque estas sesiones muestran el manejo técnico paso a paso de una intervención cada vez más usada para la insuficiencia mitral en pacientes de alto riesgo quirúrgico.",
       "destacado": false
     },
     "a3561a963b98": {
@@ -46,22 +42,6 @@
       "resumen": "Revisión del European Heart Journal (EHJ) sobre la evolución del conocimiento en biología vascular y los mecanismos moleculares recientemente descubiertos que abrirían la puerta a nuevos blancos terapéuticos. El contenido capturado remite solo a la leyenda de una figura, por lo que parece tratarse de un elemento gráfico o de portada más que del texto completo; de todos modos, sirve como disparador para seguir la actualización en fisiopatología vascular en la fuente original.",
       "destacado": false
     },
-    "f29a04d123ca": {
-      "resumen": "OpenAI y Hugging Face (una plataforma para alojar y compartir modelos de inteligencia artificial) reportaron y resolvieron un incidente de seguridad ocurrido durante un proceso de evaluación de modelos. Le sirve a un médico en ciencia de datos porque recuerda que evaluar modelos de IA en plataformas compartidas también implica riesgos de seguridad que hay que gestionar activamente.",
-      "destacado": false
-    },
-    "901039d34200": {
-      "resumen": "El Tribunal de Justicia de la Unión Europea dictaminó, en un fallo por derechos de autor vinculado al caso Ana Frank, que las redes privadas virtuales (VPN, virtual private network) son herramientas técnicas lícitas. Le sirve a quien se forma en ciencia de datos porque sienta un precedente legal sobre el uso de herramientas de privacidad y anonimización, relevante al manejar datos y acceder a recursos desde distintas jurisdicciones.",
-      "destacado": false
-    },
-    "f5d9d355a5b7": {
-      "resumen": "OpenAI habilitó una página para que empresas puedan anunciar publicidad dentro de ChatGPT. Le sirve a un médico en ciencia de datos porque marca un cambio de modelo de negocio de los asistentes de inteligencia artificial (IA) más usados, con posibles implicancias sobre sesgos en las respuestas y la calidad percibida de las recomendaciones.",
-      "destacado": false
-    },
-    "14576512adad": {
-      "resumen": "FreeInk es un proyecto que busca crear un ecosistema abierto de software para lectores de tinta electrónica (e-readers), en lugar de depender de los sistemas cerrados de cada fabricante. Le sirve a un médico que aprende análisis de datos como ejemplo del movimiento de software libre aplicado a hardware de consumo, un espíritu similar al de las herramientas abiertas usadas en ciencia de datos.",
-      "destacado": false
-    },
     "387867f19833": {
       "resumen": "Artículo de Towards Data Science que propone cuatro \"ladrillos\" de ingeniería de contexto (context engineering) —más allá de la ingeniería de prompts— para evitar que los sistemas de generación aumentada por recuperación (RAG, retrieval-augmented generation) alucinen al responder sobre documentos reales. Le sirve mucho a un médico que aprende análisis de datos porque da un marco concreto para construir sistemas de consulta de documentos (por ejemplo, guías clínicas) que sean confiables y no inventen información.",
       "destacado": true
@@ -89,11 +69,31 @@
     "144a5e2b22ee": {
       "resumen": "Los clubes de rugby mendocinos pondrán a la venta las entradas para el partido de Los Pumas ante Australia."
     },
-    "181c842e6488": {
-      "resumen": "Un medio internacional incluyó a un jugador de Los Pumas en su XV ideal del Nations Championship."
+    "f8e9e699a08f": {
+      "resumen": "Sesión de caso en vivo de TCTMD centrada en el manejo de un anillo aórtico pequeño en una válvula aórtica bicúspide, un desafío técnico habitual al planificar un reemplazo valvular aórtico transcatéter (TAVR, transcatheter aortic valve replacement). Sirve para ver en la práctica cómo un operador experimentado resuelve, paso a paso, una anatomía compleja que suele complicar la elección y el implante de la prótesis.",
+      "destacado": false
     },
-    "b59987327a19": {
-      "resumen": "La prensa internacional distinguió a un back de Los Pumas como \"el rayo de esperanza de Argentina\" tras su buen desempeño en el torneo."
+    "ca014ecbeadb": {
+      "resumen": "Nota de Towards Data Science que evalúa cuánto de un flujo de trabajo de ciencia de datos ya puede correr sobre unidad de procesamiento gráfico (GPU, graphics processing unit), enfocada en acelerar la etapa de preparación de datos con herramientas como cuDF, cudf.pandas y el motor GPU de Polars. Le sirve a un médico que aprende análisis de datos porque muestra alternativas concretas para achicar los tiempos de limpieza y transformación de bases grandes, sin reescribir todo el código en otro lenguaje.",
+      "destacado": false
+    },
+    "009d8ac6eee7": {
+      "resumen": "Simon Willison comparte su charla con Cat Wu y Thariq Shihipar, del equipo de Claude Code de Anthropic, sobre agentes de programación, seguridad de estos agentes, evaluaciones (evals) y uso de herramientas (tool use). Le sirve a un médico que aprende análisis de datos porque da contexto de primera mano sobre cómo se diseñan y evalúan los asistentes de inteligencia artificial que hoy se usan para programar y analizar datos.",
+      "destacado": false
+    },
+    "068d0058e656": {
+      "resumen": "KDnuggets propone una hoja de ruta de cinco cursos gratuitos para pasar de principiante a practicante de inteligencia artificial (IA), desde algoritmos clásicos hasta el entrenamiento de modelos de lenguaje de gran escala (LLM, large language model) desde cero. Le sirve a un médico que aprende análisis de datos como guía ordenada de estudio autodidacta y sin costo para construir bases sólidas antes de meterse con modelos más avanzados.",
+      "destacado": false
+    },
+    "578e1115394f": {
+      "resumen": "Simon Willison reflexiona sobre cómo la ingeniería inversa (reverse-engineering) se volvió mucho más barata gracias a los agentes de programación, que hoy permiten a usuarios sin formación técnica automatizar y desarmar el funcionamiento de dispositivos domésticos. Le sirve a un médico que aprende análisis de datos porque ilustra, con ejemplos concretos, cómo bajó el costo de escribir código y qué tareas antes reservadas a especialistas hoy son accesibles con estas herramientas.",
+      "destacado": false
+    },
+    "fa571c4d4e5a": {
+      "resumen": "Una voz autorizada del rugby inglés lanzó una crítica muy dura contra el entrenador Felipe Contepomi y Los Pumas, calificándola de \"vergüenza absoluta\"."
+    },
+    "b24cfb07d3ad": {
+      "resumen": "El neozelandés Steve Hansen cuestionó una decisión del árbitro asistente de video (TMO, television match official) en el partido entre Los Pumas e Inglaterra, y la polémica trascendió fronteras."
     }
   }
 }

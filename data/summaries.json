@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T22:10:00Z",
+  "generated_at": "2026-07-24T10:10:00Z",
   "summaries": {
     "1115a995481c": {
       "resumen": "Nota de TCTMD sobre un análisis que muestra un aumento sostenido de las amputaciones vinculadas a la enfermedad arterial periférica (EAP, arteriopatía obstructiva de los miembros inferiores), con una carga que ya no se concentra solo en los centros de referencia sino que se distribuye entre un número creciente de hospitales. Interesa porque refleja cómo la isquemia crónica de miembros inferiores se está volviendo un problema de salud pública más amplio, con implicancias para la organización de los servicios vasculares y la prevención cardiovascular.",
@@ -45,12 +45,6 @@
       "destacado": false,
       "analisis": "Diseño: Por el título se trata de un artículo de revisión/perspectiva en JACC; sin abstract no se puede confirmar si incluye un metaanálisis o datos originales, ni precisar aleatorización, cegamiento, número de centros o pacientes.\nPoblación: Pacientes cardiovasculares en los que se indican habitualmente betabloqueantes, por ejemplo tras un infarto agudo de miocardio o con insuficiencia cardíaca.\nIntervención: Uso de betabloqueantes comparado con su no indicación o con otras estrategias de tratamiento, según el contexto clínico revisado.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar si es una revisión narrativa o si incorpora una síntesis cuantitativa de ensayos, ni la solidez de la evidencia citada.\nMensaje: Aporta una actualización sobre en qué escenarios cardiovasculares los betabloqueantes mantienen, pierden o ganan indicación, en un momento en que varios ensayos recientes cuestionaron su uso rutinario post-infarto con función ventricular conservada.\nNota: análisis sin acceso al abstract."
     },
-    "896dde46aaa6": {
-      "resumen": "Desde Australia compararon a Los Pumas con la selección argentina de fútbol tras la dura caída frente a Inglaterra."
-    },
-    "f94dfefa8e9d": {
-      "resumen": "Ignacio Mendy ya resolvió dónde jugará en Europa después de disputar el Nations Championship con Los Pumas."
-    },
     "8eec2cc6fcc7": {
       "resumen": "Publicación en Hacker News (foro de tecnología) que presenta Echo, un proyecto que asegura alcanzar una calidad de resultados comparable a modelos de última generación (\"Fable-level\") usando modelos de peso abierto (open-weight) a un tercio del costo. Le sirve a un médico que aprende análisis de datos porque ilustra la tendencia a lograr resultados similares a los de modelos comerciales más caros con alternativas más económicas y auditables, relevante para presupuestar herramientas de inteligencia artificial (IA) en investigación clínica.",
       "destacado": false
@@ -59,20 +53,8 @@
       "resumen": "Hilo de r/datascience (foro de Reddit sobre ciencia de datos) donde profesionales del área debaten qué habilidades suelen faltarles a los graduados recientes de ciencia de datos, más allá del conocimiento técnico de programación y estadística. Le sirve a un médico en transición hacia el análisis de datos porque ayuda a identificar qué competencias prácticas conviene reforzar para insertarse en el campo.",
       "destacado": false
     },
-    "2ffe80c9e615": {
-      "resumen": "Artículo en Hacker News sobre qué pasó con TheNumbers.com, un sitio de referencia con datos históricos de la industria del cine (taquilla, presupuestos), tras un cambio que preocupa a quienes dependen de sus bases de datos abiertas. Le sirve a un médico que aprende análisis de datos porque plantea un caso concreto sobre la fragilidad y el valor de las fuentes de datos abiertas (open data) de las que dependen muchos proyectos de análisis.",
-      "destacado": false
-    },
-    "fc6c32a13bee": {
-      "resumen": "Ensayo difundido en Hacker News que cuestiona los argumentos más comunes en contra de la inteligencia artificial (IA) de código abierto (open source), defendiendo su rol en la transparencia y el acceso a estas herramientas. Le sirve a un médico que aprende análisis de datos porque resume el debate vigente sobre modelos abiertos versus cerrados, relevante a la hora de elegir qué herramientas de IA usar en investigación.",
-      "destacado": false
-    },
     "694017d801a0": {
       "resumen": "Artículo de Towards Data Science que relata, a través de un caso real de sobreventa de vuelos (overbooking), cómo las decisiones basadas en datos y modelos de optimización pueden generar resultados percibidos como injustos para las personas afectadas, contrastando una compensación millonaria para la aerolínea con un pago mínimo al pasajero. Le sirve a un médico que aprende análisis de datos porque muestra los dilemas éticos y de comunicación que aparecen cuando un modelo cuantitativo se aplica a personas, algo trasladable a la toma de decisiones clínicas basadas en datos.",
-      "destacado": false
-    },
-    "2d78a28f9f25": {
-      "resumen": "Nota de Politico, difundida en Hacker News, sobre fundadores de startups estadounidenses que piden al gobierno de Estados Unidos no restringir el acceso a modelos de inteligencia artificial (IA) chinos de peso abierto (open weight). Le sirve a un médico que aprende análisis de datos porque anticipa posibles cambios regulatorios que podrían limitar qué modelos de IA estarán disponibles para usar o adaptar en el futuro.",
       "destacado": false
     },
     "7f6688276214": {
@@ -87,9 +69,30 @@
       "resumen": "Reflexión personal en Towards Data Science sobre las lecciones aprendidas tras 8 años y medio de trabajar en aprendizaje automático (ML, machine learning), organizadas en torno a la paciencia, el optimismo, la disciplina, los proyectos y los equipos. Le sirve a un médico en transición hacia el análisis de datos como una guía de expectativas realistas sobre el desarrollo de una carrera en el área.",
       "destacado": false
     },
-    "3e5389c0e614": {
-      "resumen": "Nota de KDnuggets que repasa siete alternativas a Claude Code para programar con agentes de inteligencia artificial (IA) desde la línea de comandos (CLI, command-line interface), incluyendo opciones de código abierto, modelos locales y herramientas con soporte para el protocolo de contexto de modelo (MCP, model context protocol). Le sirve a un médico que aprende análisis de datos porque mapea el ecosistema de herramientas disponibles para automatizar tareas de programación y análisis con asistencia de IA.",
+    "dc52ca5a9a93": {
+      "resumen": "Nota de Simon Willison, bloguero de referencia en inteligencia artificial (IA), sobre un caso que circuló como el primer \"agente de IA fuera de control\" (runaway AI agent), es decir, un sistema que habría actuado por su cuenta más allá de lo previsto, aunque el propio autor duda si se trató de algo real o de una campaña de marketing. Le sirve a un médico que aprende análisis de datos porque invita a leer con cautela las noticias sensacionalistas sobre autonomía de la IA antes de confiar en estos sistemas para tareas críticas.",
       "destacado": false
+    },
+    "0eb0c13310f8": {
+      "resumen": "Publicación en Hacker News (foro de tecnología) sobre 98.css, una librería de hojas de estilo (CSS) de código abierto que le da a una página web la estética clásica de Windows 98. Le sirve a un médico que aprende análisis de datos porque es un ejemplo simple de cómo prototipar rápido la interfaz de un panel o tablero interno, sin invertir tiempo en diseño visual desde cero.",
+      "destacado": false
+    },
+    "b67cd7f2e9df": {
+      "resumen": "Investigación de la revista Science, difundida en Hacker News, sobre una pareja que pagó más de 800.000 dólares por una terapia de edición génica (gene editing) personalizada para su hija, quien finalmente falleció. Le sirve a un médico que aprende análisis de datos porque expone las tensiones éticas, regulatorias y de evidencia detrás de las terapias génicas de altísimo costo y desarrollo acelerado, un tema cada vez más cercano a la práctica clínica.",
+      "destacado": false
+    },
+    "23f0b49fe5ef": {
+      "resumen": "Publicación en Hacker News sobre las particularidades técnicas de desarrollar aplicaciones sobre el protocolo AT (ATProto), la infraestructura descentralizada detrás de redes sociales como Bluesky. Le sirve a un médico que aprende análisis de datos como introducción a arquitecturas de datos abiertas y descentralizadas, una alternativa a las plataformas cerradas tradicionales para pensar el manejo y la portabilidad de la información.",
+      "destacado": false
+    },
+    "75df9b1b484b": {
+      "resumen": "Un repaso a los números que muestran el buen rendimiento de dos jugadores de Los Pumas en el Nations Championship."
+    },
+    "766e00082d2b": {
+      "resumen": "Los traspasos ya confirmados, las renovaciones y las negociaciones que siguen abiertas en el mercado de pases de Los Pumas."
+    },
+    "89d3b1423d5c": {
+      "resumen": "Pablo Molouny remarcó los valores y los hábitos para toda la vida que deja la práctica del rugby."
     }
   }
 }

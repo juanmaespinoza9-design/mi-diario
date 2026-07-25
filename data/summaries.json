@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T10:06:14Z",
+  "generated_at": "2026-07-25T22:05:57Z",
   "summaries": {
     "1115a995481c": {
       "resumen": "Nota de TCTMD sobre un análisis que muestra un aumento sostenido de las amputaciones vinculadas a la enfermedad arterial periférica (EAP, arteriopatía obstructiva de los miembros inferiores), con una carga que ya no se concentra solo en los centros de referencia sino que se distribuye entre un número creciente de hospitales. Interesa porque refleja cómo la isquemia crónica de miembros inferiores se está volviendo un problema de salud pública más amplio, con implicancias para la organización de los servicios vasculares y la prevención cardiovascular.",
@@ -42,56 +42,63 @@
     },
     "1727716cfea3": {
       "resumen": "Documento oficial del Colegio Americano de Cardiología (ACC) publicado en JACC (Journal of the American College of Cardiology) que actualiza el algoritmo de manejo de la insuficiencia cardíaca con fracción de eyección preservada (ICFEp), con foco en la finerenona y los agonistas del receptor de GLP-1. Interesa como referencia directa de consulta en la práctica diaria, más allá del resumen periodístico de TCTMD sobre el mismo consenso.",
+      "destacado": false,
+      "analisis": "Diseño: Documento de consenso de expertos (Expert Consensus Decision Pathway) del Colegio Americano de Cardiología (ACC); no es un ensayo clínico original sino una guía de práctica que sintetiza evidencia previa sobre insuficiencia cardíaca con fracción de eyección preservada (ICFEp).\nPoblación: Pacientes adultos con diagnóstico de ICFEp, en distintos escenarios de manejo ambulatorio y hospitalario.\nIntervención: No aplica una intervención experimental; el documento propone un algoritmo escalonado que refuerza el lugar de la finerenona (antagonista no esteroideo del receptor de mineralocorticoides) y los agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1), sumados a los pilares ya establecidos como los inhibidores de SGLT2 (cotransportador sodio-glucosa tipo 2).\nResultados: No aplica; el documento no reporta datos originales de eficacia, se apoya en la evidencia de los ensayos que sustentan cada fármaco recomendado.\nLimitaciones: Al ser un consenso de expertos y no una revisión sistemática formal ni un ensayo clínico, las recomendaciones combinan evidencia de distinto peso con juicio clínico; no aborda en detalle la aplicabilidad ni el costo en sistemas de salud con recursos limitados.\nMensaje: Actualiza el algoritmo de manejo de la ICFEp, consolidando a la finerenona y los agonistas de GLP-1 como piezas centrales del tratamiento junto a los inhibidores de SGLT2.\nNota: análisis sin acceso al abstract."
+    },
+    "2e425db2fe44": {
+      "resumen": "Réplica en The New England Journal of Medicine (NEJM) de los autores originales a una carta que cuestiona los resultados de un estudio sobre el cierre percutáneo de la orejuela izquierda (LAAC, left atrial appendage closure) para la prevención de eventos tromboembólicos en la fibrilación auricular (FA). Interesa porque este tipo de intercambio editorial suele aclarar matices metodológicos o de interpretación de un ensayo que puede influir en cuándo indicar esta alternativa a la anticoagulación oral."
+    },
+    "86af87019f7b": {
+      "resumen": "Carta al editor en The New England Journal of Medicine (NEJM) que discute un estudio reciente sobre el cierre percutáneo de la orejuela izquierda (LAAC) en pacientes con fibrilación auricular (FA), probablemente cuestionando algún aspecto metodológico o la interpretación de sus resultados. Interesa porque este tipo de discusión ayuda a matizar la evidencia sobre una técnica cada vez más usada como alternativa a la anticoagulación crónica."
+    },
+    "03cbe2e6bb9b": {
+      "resumen": "Ensayo personal, publicado en Substack y viralizado en Hacker News, sobre la experiencia subjetiva de adentrarse en las matemáticas avanzadas: la confusión y la duda que atraviesa quien estudia conceptos abstractos antes de terminar de comprenderlos. Le sirve a un médico que aprende análisis de datos porque normaliza esa sensación de estar perdido al estudiar estadística o aprendizaje automático (machine learning) antes de que los conceptos terminen de encajar.",
       "destacado": false
     },
-    "347ee7735565": {
-      "resumen": "Artículo de Towards Data Science que introduce los modelos fundacionales tabulares (tabular LLMs), sistemas de inteligencia artificial (IA) capaces de predecir la columna faltante de cualquier planilla de cálculo sin entrenamiento específico previo (zero-shot), que en el banco de pruebas TabArena ya superan a los tradicionales árboles de decisión potenciados por gradiente (gradient-boosted trees) bien ajustados. Le sirve a un médico que aprende análisis de datos porque muestra una alternativa emergente a las herramientas estadísticas clásicas para trabajar con datos tabulares, como una base de historias clínicas.",
+    "339dea094304": {
+      "resumen": "Artículo de Towards Data Science que compara los índices de búsqueda vectorial aproximada (ANN, approximate nearest neighbor) que viven en memoria (in-memory) contra los que residen en disco (on-disk), como HNSW, SPANN y DiskANN, para reducir el costo de infraestructura sin resignar demasiada velocidad de búsqueda. Le sirve a un médico que aprende análisis de datos porque estos índices son la base de los sistemas de recuperación aumentada por generación (RAG, retrieval-augmented generation) que se usan para buscar en bibliografía médica o historias clínicas con inteligencia artificial (IA).",
       "destacado": true
     },
-    "83d119fa8937": {
-      "resumen": "Artículo de Towards Data Science que explica cómo armar un sistema de procesamiento inteligente de documentos (IDP, intelligent document processing) en la nube, usando Amazon Web Services (AWS) para clasificar correos y extraer automáticamente información personal identificable (PII, personally identifiable information). Le sirve a un médico que aprende análisis de datos como ejemplo práctico de automatizar la extracción de datos desde documentos no estructurados, algo trasladable a historias clínicas o informes médicos.",
+    "5d1487ccbccb": {
+      "resumen": "Nota de un blog personal, difundida en Hacker News, que compara el auge actual de los modelos de inteligencia artificial (IA) de pesos abiertos (open-weight) con el momento en que Kubernetes se consolidó como estándar para orquestar infraestructura, sugiriendo que el ecosistema de IA abierta está madurando de forma parecida. Le sirve a un médico que aprende análisis de datos porque ayuda a entender hacia dónde va la infraestructura de IA que eventualmente podría correr de forma local en un hospital o centro de investigación.",
       "destacado": false
     },
-    "c05482ab3a04": {
-      "resumen": "Hilo de r/datascience (foro de Reddit sobre ciencia de datos) donde se debaten criterios prácticos para decidir cuándo un problema realmente necesita aprendizaje automático (machine learning) y cuándo alcanza con reglas simples o estadística clásica. Le sirve a un médico que aprende análisis de datos porque ayuda a evitar la tentación de usar modelos complejos cuando un enfoque más simple resuelve el problema igual de bien.",
+    "01266390edec": {
+      "resumen": "Nota en Hacker News sobre la disponibilidad de Bitchat, una aplicación de mensajería descentralizada, en Radicle, una red de alojamiento de código sin servidores centrales (peer-to-peer). Le sirve a un médico que aprende análisis de datos como ejemplo de arquitecturas descentralizadas que no dependen de un único servidor, un concepto relevante al pensar en la privacidad y la soberanía de los datos clínicos.",
+      "destacado": false
+    },
+    "6efed5ac22ba": {
+      "resumen": "Resumen semanal de KDnuggets con una selección de recursos sobre inteligencia artificial (IA) y ciencia de datos: los servidores más usados del protocolo de contexto de modelo (MCP, model context protocol), un curso gratuito de IA agéntica de Kaggle y Google, y un método para evaluar las alucinaciones de los modelos de lenguaje (GraphEval). Le sirve a un médico que aprende análisis de datos como curaduría semanal para descubrir cursos y herramientas nuevas sin tener que rastrear cada fuente por separado.",
+      "destacado": false
+    },
+    "5299e9822629": {
+      "resumen": "Artículo de Towards Data Science que explica cómo generar una simulación realista de dinámica de fluidos (como la calle de vórtices de Kármán) sin resolver directamente las ecuaciones de fluidos, usando el método de Lattice Boltzmann, implementado en C++ y corrido en una supercomputadora. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo un modelo computacional alternativo puede simplificar drásticamente un problema físico complejo, una lógica trasladable a otros modelos de simulación en salud.",
+      "destacado": false
+    },
+    "e4b996acdef1": {
+      "resumen": "Relato en un blog personal, difundido en Hacker News, sobre el proceso interno —a veces caótico— de construir y lanzar la distribución Linux Fedora 45. Le sirve a un médico que aprende análisis de datos porque expone cómo funciona por dentro el software de código abierto (open source) que probablemente use a diario para programar o analizar datos.",
       "destacado": false
     },
     "b9a9425a3815": {
       "resumen": "Hilo de r/datascience donde se debate qué herramientas y lenguajes conviene dominar de cara a 2026/2027 para trabajar en ciencia de datos. Le sirve a un médico que aprende análisis de datos como guía para priorizar qué aprender primero (por ejemplo Python, SQL o herramientas de inteligencia artificial) sin dispersar el esfuerzo.",
       "destacado": false
     },
-    "61542007ed46": {
-      "resumen": "Nota de Hacker News sobre una posible restricción de Google al uso del Android Debug Bridge (ADB) directamente desde el dispositivo, una herramienta que permite depurar y automatizar tareas en Android. Le sirve a un médico que aprende análisis de datos porque roza un tema más amplio: cómo los sistemas operativos van cerrando el acceso técnico en nombre de la seguridad, algo a considerar si usa el celular para recolectar o automatizar datos.",
-      "destacado": false
-    },
-    "31931af2271a": {
-      "resumen": "Nota del Wall Street Journal, compartida en Hacker News, sobre cómo la empresa Taylor Farms habría llamado a la Casa Blanca para intentar demorar un retiro de mercado (recall) por un brote de Cyclospora, un parásito que causa diarrea. Le sirve a un médico que aprende análisis de datos y se orienta a la farmacovigilancia porque ilustra las presiones comerciales y políticas que pueden interferir con decisiones de seguridad sanitaria que deberían basarse en datos.",
-      "destacado": false
-    },
-    "84e2664bd5f9": {
-      "resumen": "Nota de Hacker News sobre el Premio Leelavati 2026, otorgado a la matemática y divulgadora Hannah Fry por su trabajo de difusión de las matemáticas al público general. Le sirve a un médico que aprende análisis de datos como referencia de divulgación matemática accesible, útil para reforzar las bases estadísticas detrás del análisis de datos.",
+    "c05482ab3a04": {
+      "resumen": "Hilo de r/datascience (foro de Reddit sobre ciencia de datos) donde se debaten criterios prácticos para decidir cuándo un problema realmente necesita aprendizaje automático (machine learning) y cuándo alcanza con reglas simples o estadística clásica. Le sirve a un médico que aprende análisis de datos porque ayuda a evitar la tentación de usar modelos complejos cuando un enfoque más simple resuelve el problema igual de bien.",
       "destacado": false
     },
     "9e10b8bb9cb2": {
       "resumen": "Cita de Simon Willison (bitácora especializada en inteligencia artificial) a Boris Cherny, que señala a Claude Opus 5 como el modelo de Anthropic más resistente hasta ahora a la inyección de instrucciones maliciosas (prompt injection), según las evaluaciones de seguridad y pruebas de penetración (red teaming) de su reporte técnico. Le sirve a un médico que aprende análisis de datos porque esta resistencia es clave si va a conectar asistentes de inteligencia artificial (IA) a datos clínicos o de investigación.",
       "destacado": false
     },
-    "3a60f07223b3": {
-      "resumen": "Comentario de Simon Willison sobre el lanzamiento de Claude Opus 5, el nuevo modelo de inteligencia artificial (IA) de Anthropic, con sus primeras impresiones y la buena repercusión inicial que tuvo. Le sirve a un médico que aprende análisis de datos porque estos modelos son cada vez más una herramienta cotidiana para programar, resumir literatura y analizar datos.",
-      "destacado": false
+    "4b0ba8d6ce5c": {
+      "resumen": "La venta de entradas para los partidos de Los Pumas representa un ingreso económico inédito para los clubes mendocinos que oficiarán de sede."
     },
-    "e616440e259b": {
-      "resumen": "Nota de Hacker News sobre cómo Claude Opus 5 quedó primero en el ranking independiente Artificial Analysis Intelligence Leaderboard, que compara el desempeño de distintos modelos de inteligencia artificial (IA) en múltiples pruebas. Le sirve a un médico que aprende análisis de datos como referencia objetiva a la hora de elegir qué modelo usar para analizar datos o programar.",
-      "destacado": false
+    "ed629f5abfb3": {
+      "resumen": "Un repaso por el calendario que le queda a Los Pumas hasta fin de año, con los próximos rivales y las fechas ya confirmadas."
     },
-    "894687428f07": {
-      "resumen": "Un análisis de la ventaja competitiva que tiene Inglaterra en el Nations Championship frente a Los Pumas y el resto de las selecciones."
-    },
-    "7af4b024f31f": {
-      "resumen": "Un análisis sobre la irregularidad de Los Pumas y si tienen nivel para pelear un título mundial pese a sus altibajos de rendimiento."
-    },
-    "a056cbb20b35": {
-      "resumen": "El exjugador Mauricio Reggiardo criticó cómo Los Pumas manejaron la frustración en el cierre picante del partido ante Inglaterra."
+    "8678d3ea267b": {
+      "resumen": "La prensa internacional destacó el gran presente futbolístico de un referente del seleccionado argentino de rugby."
     }
   }
 }

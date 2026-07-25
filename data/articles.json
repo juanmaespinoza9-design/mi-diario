@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-25T03:44:18.966651+00:00",
+ "generated_at": "2026-07-25T06:33:13.874311+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -160,13 +160,6 @@
      "id": "2f44098289d8"
     },
     {
-     "title": "Tras la polémica con Inglaterra en el Nations Championship: cuándo vuelven a jugar Los Pumas",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWmZBUmpGNE1YUmdHWWFKSUdZTnRaWTFWazREeDZwUndzbUhSRUJ2dU9IZFNwbUNwMVRhcXRGQVBkc1FjNGU0Z1Vnc0M4eGFzNDhJYlA4c3VOamdvMkRqOV9PMzRTQ0VPMzMzcktZclUzOGJTUWpERkF2YzlUVTIwUU9KSzUwVUpjbng3a0dzTlVYbDd1T2VUOG13WXpLTWMwOXNSZlhn?oc=5",
-     "source": "ESPN Argentina",
-     "published": "2026-07-25T00:41:55+00:00",
-     "id": "0526264207ec"
-    },
-    {
      "title": "Video: la asistencia top del pibe de Vélez que River sigue de cerca para comprarlo",
      "link": "https://www.ole.com.ar/futbol-primera/video-asistencia-top-pibe-velez-river-sigue-cerca-comprarlo_0_jXsPzREJIv.html",
      "source": "Olé — River",
@@ -180,6 +173,13 @@
      "source": "DeporTV",
      "published": "2026-07-24T21:08:00+00:00",
      "id": "a056cbb20b35"
+    },
+    {
+     "title": "El calendario de Los Pumas: ¿cuándo vuelven a jugar?",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHBrMW8tOWJYdWFTLVdOd1JrbWhoWGs4UkROTmJWeUVEWVE5dDljMmVpXzBTa0g3QzJIeDJIT2wzbEJYRGJadDBXRlhTOFBqVzM4NHY1RzRZblRJbGl2MDBFd2JMX1dzcTg1Mm82NWpCaFJSUWpCanBGX19qY2RjZ2hOQmlkSHBMdkpLZXo0NVNUUDZKQWVV0gGcAUFVX3lxTE5ueHdhUjgyRzFMRzlfelhvQlNwR3dBalFwQnBBbGFfOS02azNmVHZQMHN1QWg3SVFZVnRWTFgxaTJDaHhFMm9INnhCYUZWZDRsUVdyT2tRc2JFelgxVnB3T1N6SGVSWXJ1My1mT1RNelNuWVFMZFk4WlZCQnZtZDRIWXFCT0ZUeFJVZHZTMnZNVUREd1FOUFZNTlZnZw?oc=5",
+     "source": "La Gaceta",
+     "published": "2026-07-24T20:56:05+00:00",
+     "id": "0392f5e5c411"
     },
     {
      "title": "El Torneo del Interior Copa Zurich vive un sábado de alto voltaje",
@@ -197,6 +197,13 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "How do you decide whether a data science problem really needs machine learning?",
+     "link": "https://www.reddit.com/r/datascience/comments/1v5z7ue/how_do_you_decide_whether_a_data_science_problem/",
+     "source": "r/datascience",
+     "published": "2026-07-25T05:25:05+00:00",
+     "id": "c05482ab3a04"
+    },
+    {
      "title": "A short project analysing the radio",
      "link": "https://www.reddit.com/r/datascience/comments/1v5wn15/a_short_project_analysing_the_radio/",
      "source": "r/datascience",
@@ -204,11 +211,11 @@
      "id": "f7ec8e42c89c"
     },
     {
-     "title": "Is everybody around you getting laid off right now?",
-     "link": "https://www.reddit.com/r/datascience/comments/1v5uhb2/is_everybody_around_you_getting_laid_off_right_now/",
-     "source": "r/datascience",
-     "published": "2026-07-25T01:34:33+00:00",
-     "id": "7525fcf26e31"
+     "title": "Taylor Farms Called White House to Try to Delay Cyclospora Recall",
+     "link": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-25T02:54:36+00:00",
+     "id": "31931af2271a"
     },
     {
      "title": "Quoting Boris Cherny",
@@ -248,13 +255,6 @@
      "id": "e75df1016aa1"
     },
     {
-     "title": "Don't Take the Black Pill [video]",
-     "link": "https://www.youtube.com/watch?v=zLZwpH5lCD4",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-24T16:48:57+00:00",
-     "id": "33960937266f"
-    },
-    {
      "title": "Tabular LLMs: An Introduction to the Foundation Models That Predict Your Spreadsheet",
      "link": "https://towardsdatascience.com/tabular-llms-an-introduction-to-the-foundation-models-that-predict-your-spreadsheet/",
      "source": "Towards Data Science",
@@ -278,98 +278,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Semana financiera: la volatilidad externa condicionó el desempeño de las acciones y los bonos argentinos",
-     "link": "https://www.infobae.com/economia/2026/07/25/semana-financiera-la-volatilidad-externa-condiciono-el-desempeno-de-las-acciones-y-los-bonos-argentinos/",
+     "title": "El día que Borges pensó en dar vuelta el argumento de Bioy Casares imaginando una “Guerra del Cerdo” al revés",
+     "link": "https://www.infobae.com/generacion-silver/2026/07/25/el-dia-que-borges-penso-en-dar-vuelta-el-argumento-de-bioy-casares-imaginando-una-guerra-del-cerdo-al-reves/",
      "source": "Infobae",
-     "published": "2026-07-25T03:41:50+00:00",
-     "copete": "El salto de 18% en el precio del petróleo sostuvo a las acciones del sector. El S&P Merval ganó 2,6%, pese a las pérdidas de Wall Street, pero el riesgo país subió a 437 puntos básicos. El dólar subió a un récord de $1.520 en el Banco…",
-     "id": "5824d7199b54"
+     "published": "2026-07-25T06:26:57+00:00",
+     "copete": "El escritor cortó así una tradición narrativa gerontofóbica que llevaba décadas. Publicó su idea como divertimento pero como se sabe no escribió la novela. Hasta hoy, nadie ha aceptado el desafío borgesiano",
+     "id": "255566c71ca2"
     },
     {
-     "title": "Impuesto a las Ganancias: cómo pagar el saldo antes de la declaración jurada y rectificar después",
-     "link": "https://www.infobae.com/opinion/2026/07/25/impuesto-a-las-ganancias-como-pagar-el-saldo-antes-de-la-declaracion-jurada-y-rectificar-despues/",
+     "title": "Por qué elegir solo dos o tres recorridos en Sintra puede mejorar mucho la experiencia del viajero silver",
+     "link": "https://www.infobae.com/generacion-silver/2026/07/25/por-que-elegir-solo-dos-o-tres-recorridos-en-sintra-puede-mejorar-mucho-la-experiencia-del-viajero-silver/",
      "source": "Infobae",
-     "published": "2026-07-25T03:41:27+00:00",
-     "copete": "La prórroga de ARCA para presentar la declaración jurada hasta el 27 de agosto no cambió el vencimiento del pago, fijado para el 27 de julio. Abonar un estimado y luego presentar una rectificativa espontánea",
-     "id": "aaf89d896b03"
+     "published": "2026-07-25T06:26:12+00:00",
+     "copete": "La clave no pasa por sumar monumentos ni encadenar trayectos, sino por dosificar energías y dejar espacio para pausas más amables",
+     "id": "c565f637634a"
     },
     {
-     "title": "Cómo el militar liberal español Del Riego y el Oro Argentino aseguraron la independencia",
-     "link": "https://www.infobae.com/opinion/2026/07/25/como-el-militar-liberal-espanol-del-riego-y-el-oro-argentino-aseguraron-la-independencia/",
+     "title": "Los nuevos escáneres de la TSA que podrían obligar a algunos viajeros a despachar su equipaje de mano",
+     "link": "https://www.lanacion.com.ar/estados-unidos/los-nuevos-escaneres-de-la-tsa-que-podrian-obligar-a-algunos-viajeros-a-despachar-su-equipaje-de-nid24072026/",
+     "source": "La Nación",
+     "published": "2026-07-25T06:23:00+00:00",
+     "copete": "Descubre cómo los nuevos escáneres de la TSA pueden impedir que algunas maletas de mano pasen el control y obligar a los viajeros a facturarlas.",
+     "id": "bb0562655ea7"
+    },
+    {
+     "title": "Elecciones en EE.UU.: el voto de migrantes y el caso de Nueva Jersey que revela falencias en el sistema",
+     "link": "https://www.lanacion.com.ar/estados-unidos/elecciones-en-eeuu-el-voto-de-migrantes-y-el-caso-de-nueva-jersey-que-revela-falencias-en-el-sistema-nid25072026/",
+     "source": "La Nación",
+     "published": "2026-07-25T06:17:00+00:00",
+     "copete": "Conoce cómo un error en el padrón de Nueva Jersey registró a 6600 no ciudadanos y reabrió el debate electoral federal en Estados Unidos.",
+     "id": "346c89204aae"
+    },
+    {
+     "title": "Todas las peleas de La Velada del Año 6, organizada por Ibai Llanos: hora y cómo verlas en vivo",
+     "link": "https://www.infobae.com/deportes/2026/07/25/todas-las-peleas-de-la-velada-del-ano-6-organizada-por-ibai-llanos-hora-y-como-verlas-en-vivo/",
      "source": "Infobae",
-     "published": "2026-07-25T03:40:54+00:00",
-     "copete": "Ofrecemos a Vuestra Excelencia, una paz sólida o una guerra de exterminio”. Respuesta del Gobierno de Buenos Aires ante la amenaza de invasión del rey Fernando VII. 8 de agosto de 1820. Gaceta de Buenos Aires",
-     "id": "7c232fed9a23"
+     "published": "2026-07-25T06:16:25+00:00",
+     "copete": "El show en Sevilla cuenta con diez combates que alternan la presencia de creadores de contenido, músicos y streamers. En el tercer turno, se enfrentan los periodistas Gastón Edul y Edu Aguirre",
+     "id": "34a8c468af2e"
     },
     {
-     "title": "Argentina aprovecha un buen año y se concentra en el desarrollo de oportunidades",
-     "link": "https://www.infobae.com/opinion/2026/07/25/argentina-aprovecha-un-buen-ano-y-se-concentra-en-el-desarrollo-de-oportunidades/",
+     "title": "Hambruna, éxodo migrante, epidemia de tifus y miedo: cuando el sacrificio de cuarenta monjas grises salvó el verano negro de 1847",
+     "link": "https://www.infobae.com/sociedad/2026/07/25/hambruna-exodo-migrante-epidemia-de-tifus-y-miedo-cuando-el-sacrificio-de-cuarenta-monjas-grises-salvo-el-verano-negro-de-1847/",
      "source": "Infobae",
-     "published": "2026-07-25T03:40:37+00:00",
-     "copete": "Con superávit de mercancías y un salto de envíos al exterior en los primeros meses de 2025, el frente externo aportó aire a la normalización macroeconómica. El foco pasa ahora a sostener ese impulso",
-     "id": "0a0d51a81a4d"
+     "published": "2026-07-25T06:15:59+00:00",
+     "copete": "La gran hambruna irlandesa obligó al traslado masivo de miles de almas en busca de prosperidad. Muchos barcos arribaron al puerto de Montreal bajo la falsa promesa de refugio de parte del imperio británico. Los migrantes llegaron enfermos…",
+     "id": "4c70003847db"
     },
     {
-     "title": "El mensaje de Daniela Celis tras su breve estadía en la casa de Gran Hermano: qué sintió al estar dentro",
-     "link": "https://www.infobae.com/teleshow/2026/07/25/el-mensaje-de-daniela-celis-tras-su-breve-estadia-en-la-casa-de-gran-hermano-que-sintio-al-estar-dentro/",
+     "title": "La vida de “Pugliese, Pugliese, Pugliese”: el “Santo Patrono” contra la mufa y el legado que hoy continúa su nieta",
+     "link": "https://www.infobae.com/sociedad/personajes/2026/07/25/la-vida-de-pugliese-pugliese-pugliese-el-santo-patrono-contra-la-mufa-y-el-legado-que-hoy-continua-su-nieta/",
      "source": "Infobae",
-     "published": "2026-07-25T03:40:36+00:00",
-     "copete": "La ex participante reingresó al reality junto a otros siete exjugadores con capacidad de nominar, pero dos días después decidió abandonar por voluntad propia",
-     "id": "198b9b1ede06"
+     "published": "2026-07-25T06:15:37+00:00",
+     "copete": "El célebre compositor, creador de “La Yumba”, la obra que revolucionó el tango, murió el 25 de julio de 1995 a los 89 años. Perseguido por su militancia comunista en vida, décadas después se transformó en un inesperado amuleto popular que…",
+     "id": "955c48d262de"
     },
     {
-     "title": "El fútbol como metáfora",
-     "link": "https://www.lanacion.com.ar/opinion/el-futbol-como-metafora-nid25072026/",
+     "title": "Los Cambiaso en la Rural. Fueron protagonistas con la presentación de sus caballos de polo en la pista central",
+     "link": "https://www.lanacion.com.ar/revista-hola/los-cambiaso-en-la-rural-fueron-protagonistas-con-la-presentacion-de-sus-caballos-de-polo-en-la-nid25072026/",
      "source": "La Nación",
-     "published": "2026-07-25T03:15:00+00:00",
-     "copete": "Como rioplatense me sentí muy representado en este seleccionado argentino y todos estamos orgullosos de lo que hizo, de lo que mostró como actitud",
-     "id": "c23970d40555"
+     "published": "2026-07-25T06:00:00+00:00",
+     "copete": "Tras girar por Estados Unidos e Inglaterra, Adolfo Cambiaso, María Vázquez y sus hijos hicieron escala en Palermo",
+     "id": "b3fa398431f6"
     },
     {
-     "title": "La nueva pareja de oro de la ópera",
-     "link": "https://www.lanacion.com.ar/ideas/la-nueva-pareja-de-oro-de-la-opera-nid25072026/",
+     "title": "La reflexión de Platón sobre el propósito de la existencia: “Vamos en busca de un saber que no vamos a alcanzar”",
+     "link": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-platon-sobre-el-proposito-de-la-existencia-vamos-en-busca-de-un-saber-que-no-vamos-a-nid25072026/",
      "source": "La Nación",
-     "published": "2026-07-25T03:15:00+00:00",
-     "copete": "La cantante de origen puertorriqueño Nadine Sierra y el mexicano Javier Camarena recogen los elogios de la prensa especializada",
-     "id": "2f270bc18cc6"
+     "published": "2026-07-25T06:00:00+00:00",
+     "copete": "En una entrevista exlusiva para LA NACION, el filósofo argentino Darío Sztajnszrajber profundizó en la definición de la filosofía y en el concepto de “sentirse realizado”",
+     "id": "6b52fcaebc49"
     },
     {
-     "title": "7 restaurantes cordobeses que apuestan a la innovación y no defraudan",
-     "link": "https://www.lanacion.com.ar/revista-lugares/7-restaurantes-cordobeses-que-apuestan-a-la-innovacion-y-no-defraudan-nid25072026/",
+     "title": "Un pueblo harto: conspiraron para deshacerse del matón que los atormentaba y guardaron silencio por 45 años",
+     "link": "https://www.lanacion.com.ar/lifestyle/un-pueblo-harto-conspiraron-para-deshacerse-del-maton-que-los-atormentaba-y-guardaron-silencio-por-nid25072026/",
      "source": "La Nación",
-     "published": "2026-07-25T03:15:00+00:00",
-     "copete": "Algunos novedosos y otros ya consagrados comparten la apuesta a materia prima de calidad",
-     "id": "bf5ebf65b49a"
+     "published": "2026-07-25T06:00:00+00:00",
+     "copete": "Skidmore, en Missouri, estaba aterrorizado de Ken McElroy, un vecino que era conocido por sus delitos; después de dispararle a dos vecinos y quedar libre, la gente decidió hacer justicia por mano propia",
+     "id": "c6ddf2da2d64"
     },
     {
-     "title": "El hecho maldito en esta reedición del viejo clásico",
-     "link": "https://www.lanacion.com.ar/ideas/el-hecho-maldito-en-esta-reedicion-del-viejo-clasico-nid25072026/",
-     "source": "La Nación",
-     "published": "2026-07-25T03:14:00+00:00",
-     "id": "2723705bcfb6"
-    },
-    {
-     "title": "Los espejos rotos del kirchnerismo",
-     "link": "https://www.lanacion.com.ar/ideas/los-espejos-rotos-del-kirchnerismo-nid25072026/",
-     "source": "La Nación",
-     "published": "2026-07-25T03:13:00+00:00",
-     "id": "75ac8e597d50"
-    },
-    {
-     "title": "Clima hoy en Apóstoles, Misiones: el pronóstico del tiempo para este sábado 25 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-apostoles-misiones-pronostico-tiempo-sabado-25-julio-2026_0_NwjaKe8d09.html",
+     "title": "Abusó de sus dos hijas, quedó en libertad por un error judicial y ahora lo vuelven a detener por violar la perimetral",
+     "link": "https://www.clarin.com/policiales/abuso-hijas-quedo-libertad-error-judicial-ahora-vuelven-detener-violar-perimetral_0_iIj2a9xKP0.html",
      "source": "Clarín",
-     "published": "2026-07-25T03:09:31+00:00",
-     "copete": "El SMN anticipa para este sábado temperaturas entre 13°C y 22°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "0fa72f380daf"
+     "published": "2026-07-25T05:02:13+00:00",
+     "copete": "Esteban Delgado está acusado de abusar de su hija, Sofía quien fue brutalmente asesinada en octubre de 2024 y de su hermana menor, L... Fue imputado en diciembre de ese año y afronta un pedido de 18 años de cárcel. Un error de la Fiscalía…",
+     "id": "f8e7dd9d5004"
     },
     {
-     "title": "Clima hoy en Avellaneda, Buenos Aires: el pronóstico del tiempo para este sábado 25 julio de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-avellaneda-buenos-aires-pronostico-tiempo-sabado-25-julio-2026_0_ojMzFj1u9F.html",
+     "title": "Eugenio Suárez y Rhett Lowder guían a Rojos a victoria 4-2 sobre Cardenales",
+     "link": "https://www.clarin.com/estados-unidos/eugenio-suarez-y-rhett-lowder-guian-a-rojos-a-victoria-4-2-sobre-cardenales_0_gnMFnQvSTx.html",
      "source": "Clarín",
-     "published": "2026-07-25T03:09:30+00:00",
-     "copete": "El SMN anticipa para este sábado temperaturas entre 10°C y 15°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "165e5baadf2f"
+     "published": "2026-07-25T05:00:08+00:00",
+     "copete": "El conjunto de Cincinnati triunfó 4-2 sobre San Luis, con un decisivo jonrón de dos carreras del venezolano en la séptima entrada. El lanzador de los Rojos mantuvo a raya al rival en cinco entradas, mientras Pagán aseguró el triunfo con su…",
+     "id": "a6450e009274"
     }
    ]
   },
@@ -378,6 +380,22 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+     "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-25T05:12:57+00:00",
+     "copete": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+     "id": "8a47e59434cb"
+    },
+    {
+     "title": "Saudi Arabia and Houthis exchange fire as US attacks tanker in Hormuz Strait",
+     "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-25T04:48:40+00:00",
+     "copete": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+     "id": "4cd3f310472b"
+    },
     {
      "title": "El mapa del Holocausto en Viena",
      "link": "https://elpais.com/internacional/2026-07-25/el-mapa-del-holocausto-en-viena.html",
@@ -425,22 +443,6 @@
      "published": "2026-07-25T02:23:09+00:00",
      "copete": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
      "id": "1206ed626977"
-    },
-    {
-     "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
-     "link": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-25T02:14:50+00:00",
-     "copete": "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him.",
-     "id": "f76de72188e4"
-    },
-    {
-     "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-     "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-25T00:06:53+00:00",
-     "copete": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
-     "id": "8518093b4140"
     },
     {
      "title": "Destituyen al fiscal jefe de la Corte Penal Internacional por supuesta conducta sexual inapropiada",

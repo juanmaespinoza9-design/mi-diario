@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T22:05:55Z",
+  "generated_at": "2026-07-25T10:04:04Z",
   "summaries": {
     "1115a995481c": {
       "resumen": "Nota de TCTMD sobre un análisis que muestra un aumento sostenido de las amputaciones vinculadas a la enfermedad arterial periférica (EAP, arteriopatía obstructiva de los miembros inferiores), con una carga que ya no se concentra solo en los centros de referencia sino que se distribuye entre un número creciente de hospitales. Interesa porque refleja cómo la isquemia crónica de miembros inferiores se está volviendo un problema de salud pública más amplio, con implicancias para la organización de los servicios vasculares y la prevención cardiovascular.",
@@ -44,24 +44,12 @@
       "resumen": "Documento oficial del Colegio Americano de Cardiología (ACC) publicado en JACC (Journal of the American College of Cardiology) que actualiza el algoritmo de manejo de la insuficiencia cardíaca con fracción de eyección preservada (ICFEp), con foco en la finerenona y los agonistas del receptor de GLP-1. Interesa como referencia directa de consulta en la práctica diaria, más allá del resumen periodístico de TCTMD sobre el mismo consenso.",
       "destacado": false
     },
-    "17259d18c60f": {
-      "resumen": "Hilo de r/datascience (foro de Reddit sobre ciencia de datos) donde se debate cómo pensar una situación laboral satisfactoria pero mal paga, sopesando bienestar y remuneración. Le sirve a un médico en transición hacia el análisis de datos porque plantea un dilema frecuente al cambiar de carrera: priorizar la satisfacción o el salario en las primeras etapas del nuevo campo.",
-      "destacado": false
-    },
     "70b0fd3555ed": {
       "resumen": "Artículo técnico que muestra que el mecanismo LISTEN/NOTIFY de PostgreSQL (base de datos relacional muy usada) puede escalar mejor de lo que se suele asumir para notificar eventos en tiempo real. Le sirve a un médico que aprende análisis de datos porque es una herramienta simple para construir alertas o tableros que se actualizan solos, sin sumar infraestructura adicional como colas de mensajes.",
       "destacado": false
     },
-    "37c73099a5c3": {
-      "resumen": "Entrevista compartida en r/datascience con Eiso Kant, cofundador de Poolside AI, sobre cómo se entrenan y afinan de forma industrial los grandes modelos de lenguaje (LLM, large language model). Le sirve a un médico que aprende análisis de datos para entender mejor qué hay detrás de las herramientas de inteligencia artificial (IA) que usa a diario.",
-      "destacado": false
-    },
     "e75df1016aa1": {
       "resumen": "Anuncio oficial de Anthropic sobre el lanzamiento de Claude Opus 5, su modelo de inteligencia artificial (IA) más avanzado. Le sirve a un médico que aprende análisis de datos porque estos modelos son cada vez más una herramienta de trabajo cotidiana para programar, resumir literatura y analizar datos.",
-      "destacado": false
-    },
-    "3ecc7db58a46": {
-      "resumen": "Nota de The Guardian que invita a mirar con escepticismo la historia difundida sobre un supuesto \"agente de IA pirata\" (rogue hacker agent) de OpenAI que habría actuado por su cuenta. Le sirve a un médico que aprende análisis de datos porque es un recordatorio de leer con cautela las noticias sensacionalistas sobre autonomía de la inteligencia artificial (IA) antes de sacar conclusiones.",
       "destacado": false
     },
     "347ee7735565": {
@@ -72,26 +60,38 @@
       "resumen": "Artículo de Towards Data Science que explica cómo armar un sistema de procesamiento inteligente de documentos (IDP, intelligent document processing) en la nube, usando Amazon Web Services (AWS) para clasificar correos y extraer automáticamente información personal identificable (PII, personally identifiable information). Le sirve a un médico que aprende análisis de datos como ejemplo práctico de automatizar la extracción de datos desde documentos no estructurados, algo trasladable a historias clínicas o informes médicos.",
       "destacado": false
     },
-    "9db743989db7": {
-      "resumen": "Nota sobre la orden del gobierno de India a GitHub de dar de baja Bitchat, una aplicación de chat que funciona por Bluetooth sin necesidad de internet ni servidores centrales, impulsada por Jack Dorsey. Le sirve a un médico que aprende análisis de datos porque toca el equilibrio entre privacidad, tecnologías descentralizadas y regulación estatal, un tema cada vez más relevante para el manejo de datos sensibles.",
-      "destacado": false
-    },
-    "d41adbdfb72c": {
-      "resumen": "Artículo de Towards Data Science que propone una \"cascada\" de modelos de lenguaje (LLM) para sistemas de generación aumentada por recuperación (RAG, retrieval-augmented generation): arrancar con un modelo local barato y escalar a un modelo comercial más potente solo cuando hace falta, con un bucle de validación intermedio, probado sobre veinte modelos locales frente a un modelo de referencia pago. Le sirve a un médico que aprende análisis de datos porque plantea una forma concreta de bajar costos al construir sistemas de consulta sobre guías clínicas o literatura médica sin resignar calidad.",
-      "destacado": false
-    },
-    "9355c4046608": {
-      "resumen": "Guía de KDnuggets sobre GraphEval, un método para evaluar y detectar alucinaciones (afirmaciones falsas generadas con apariencia de certeza) en modelos de lenguaje (LLM) mediante un enfoque basado en grafos de conocimiento. Le sirve a un médico que aprende análisis de datos porque ofrece una forma sistemática de medir cuán confiables son las respuestas de una inteligencia artificial (IA) antes de usarlas en un contexto clínico.",
-      "destacado": false
-    },
     "0392f5e5c411": {
       "resumen": "Un repaso al próximo calendario de Los Pumas y cuándo volverán a jugar tras el cruce ante Inglaterra."
     },
-    "86f60caf01e9": {
-      "resumen": "Un análisis de la ventaja competitiva que tiene Inglaterra en el Nations Championship frente a Los Pumas y el resto de las selecciones."
+    "c05482ab3a04": {
+      "resumen": "Hilo de r/datascience (foro de Reddit sobre ciencia de datos) donde se debaten criterios prácticos para decidir cuándo un problema realmente necesita aprendizaje automático (machine learning) y cuándo alcanza con reglas simples o estadística clásica. Le sirve a un médico que aprende análisis de datos porque ayuda a evitar la tentación de usar modelos complejos cuando un enfoque más simple resuelve el problema igual de bien.",
+      "destacado": false
     },
-    "9bd3d82cad40": {
-      "resumen": "Mauricio Reggiardo analizó los incidentes del final picante entre Los Pumas e Inglaterra y consideró que ambos equipos manejaron mal la frustración."
+    "f7ec8e42c89c": {
+      "resumen": "Hilo de r/datascience donde un usuario comparte un proyecto breve de análisis de datos aplicado a la radio (radiodifusión), mostrando el proceso de principio a fin. Le sirve a un médico que aprende análisis de datos como ejemplo concreto y de alcance acotado de cómo estructurar un proyecto propio, desde la pregunta inicial hasta los resultados.",
+      "destacado": false
+    },
+    "31931af2271a": {
+      "resumen": "Nota del Wall Street Journal, compartida en Hacker News, sobre cómo la empresa Taylor Farms habría llamado a la Casa Blanca para intentar demorar un retiro de mercado (recall) por un brote de Cyclospora, un parásito que causa diarrea. Le sirve a un médico que aprende análisis de datos y se orienta a la farmacovigilancia porque ilustra las presiones comerciales y políticas que pueden interferir con decisiones de seguridad sanitaria que deberían basarse en datos.",
+      "destacado": false
+    },
+    "9e10b8bb9cb2": {
+      "resumen": "Cita de Simon Willison (bitácora especializada en inteligencia artificial) a Boris Cherny, que señala a Claude Opus 5 como el modelo de Anthropic más resistente hasta ahora a la inyección de instrucciones maliciosas (prompt injection), según las evaluaciones de seguridad y pruebas de penetración (red teaming) de su reporte técnico. Le sirve a un médico que aprende análisis de datos porque esta resistencia es clave si va a conectar asistentes de inteligencia artificial (IA) a datos clínicos o de investigación.",
+      "destacado": false
+    },
+    "3a60f07223b3": {
+      "resumen": "Comentario de Simon Willison sobre el lanzamiento de Claude Opus 5, el nuevo modelo de inteligencia artificial (IA) de Anthropic, con sus primeras impresiones y la buena repercusión inicial que tuvo. Le sirve a un médico que aprende análisis de datos porque estos modelos son cada vez más una herramienta cotidiana para programar, resumir literatura y analizar datos.",
+      "destacado": false
+    },
+    "e616440e259b": {
+      "resumen": "Nota de Hacker News sobre cómo Claude Opus 5 quedó primero en el ranking independiente Artificial Analysis Intelligence Leaderboard, que compara el desempeño de distintos modelos de inteligencia artificial (IA) en múltiples pruebas. Le sirve a un médico que aprende análisis de datos como referencia objetiva a la hora de elegir qué modelo usar para analizar datos o programar.",
+      "destacado": false
+    },
+    "7af4b024f31f": {
+      "resumen": "Un análisis sobre la irregularidad de Los Pumas y si tienen nivel para pelear un título mundial pese a sus altibajos de rendimiento."
+    },
+    "a056cbb20b35": {
+      "resumen": "El exjugador Mauricio Reggiardo criticó cómo Los Pumas manejaron la frustración en el cierre picante del partido ante Inglaterra."
     }
   }
 }

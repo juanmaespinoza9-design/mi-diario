@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-26T17:29:27.640567+00:00",
+ "generated_at": "2026-07-26T19:41:15.586111+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -104,11 +104,11 @@
      "id": "0ff24480bb6d"
     },
     {
-     "title": "Ya sin Villa, Independiente Rivadavia visita a Atlético Tucumán",
+     "title": "Atlético Tucumán e Independiente Rivadavia siguen en cero",
      "link": "https://www.ole.com.ar/atletico-tucuman/atletico-tucuman-independiente-rivadavia-clausura_0_jIrUW5YraX.html",
      "source": "Olé — Primera",
      "published": "2026-07-26T17:02:02+00:00",
-     "copete": "La Lepra mendocina inicia el desafío de reemplazar a quien era su figura, hoy en Boca. El Decano necesita sumar para escapar de puestos del descenso. Seguilo en Olé.",
+     "copete": "Ya juegan el segundo tiempo en Tucumán, sin llegadas claras a los arcos. Igualan 0-0, seguilo en Olé.",
      "id": "9c2abd9fb4ac"
     },
     {
@@ -181,6 +181,21 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
+     "link": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything",
+     "source": "Simon Willison (IA)",
+     "published": "2026-07-26T19:30:54+00:00",
+     "copete": "An Inside Look at the Relay Market Powering Token Resellers and Fraud Fascinating investigation by Matt Lenhard into the market that has grown up around reselling LLM tokens at a discount by pooling API keys from various sources. This…",
+     "id": "e7bd166c2dcc"
+    },
+    {
+     "title": "Design is compromise",
+     "link": "https://stephango.com/design-is-compromise",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-26T15:51:12+00:00",
+     "id": "635287ac5457"
+    },
+    {
      "title": "How to Efficiently Prompt Claude Code",
      "link": "https://towardsdatascience.com/how-to-efficiently-prompt-claude-code/",
      "source": "Towards Data Science",
@@ -189,7 +204,7 @@
      "id": "43c2499d43c9"
     },
     {
-     "title": "Park by Robot at London Gatwick Airport",
+     "title": "London Gatwick has launched a robotic airport parking service",
      "link": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
      "source": "Hacker News (100+ puntos)",
      "published": "2026-07-26T14:40:27+00:00",
@@ -218,13 +233,6 @@
      "id": "69c7a10a23df"
     },
     {
-     "title": "Third Drone Shot Down in Three Days in Romanian Territory",
-     "link": "https://english.mapn.ro/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-26T12:00:42+00:00",
-     "id": "db14a4b9be9b"
-    },
-    {
      "title": "Ruff v0.16.0",
      "link": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
      "source": "Simon Willison (IA)",
@@ -247,13 +255,6 @@
      "published": "2026-07-25T13:00:37+00:00",
      "copete": "Top 5 MCP Servers for High Performance Agentic Development • 10 Newsletters Keeping You Ahead in AI • Kaggle + Google’s Free 5-Day Agentic AI Course • Language Model Hallucination Evaluation with GraphEval",
      "id": "6efed5ac22ba"
-    },
-    {
-     "title": "Relevant tech stack for 2026/2027",
-     "link": "https://www.reddit.com/r/datascience/comments/1v62yj8/relevant_tech_stack_for_20262027/",
-     "source": "r/datascience",
-     "published": "2026-07-25T08:50:30+00:00",
-     "id": "b9a9425a3815"
     }
    ]
   },
@@ -263,99 +264,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Franco Colapinto le reclamó a Alpine revisar el auto tras el 15° puesto en el Gran Premio de Hungría: “pasó algo”",
-     "link": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-le-reclamo-a-alpine-revisar-el-auto-tras-el-15-puesto-en-el-gran-premio-de-hungria-nid26072026/",
-     "source": "La Nación",
-     "published": "2026-07-26T17:27:45+00:00",
-     "copete": "Antes del receso, el piloto argentino lamentó no haber tenido ritmo en el circuito de Hungaroring y acusó algún daño en su monoplaza",
-     "id": "fd1c698faa31"
-    },
-    {
      "title": "Antes de Estudiantes-Independiente, Atlético Tucumán e Independiente Rivadavia inician su camino en el Torneo Clausura",
      "link": "https://www.infobae.com/deportes/2026/07/26/atletico-tucuman-independiente-rivadavia-y-estudiantes-independiente-inician-su-camino-en-el-clausura-hora-tv-y-formaciones/",
      "source": "Infobae",
-     "published": "2026-07-26T17:26:07+00:00",
-     "copete": "El Decano y la Lepra mendocina abren la jornada del domingo a las 15. Más tarde, desde las 17:15, el Pincha recibirá en La Plata al Rojo de Avellaneda",
+     "published": "2026-07-26T19:39:07+00:00",
+     "copete": "El Decano y la Lepra mendocina abren la jornada del domingo. Más tarde, desde las 17:15, el Pincha recibirá en La Plata al Rojo de Avellaneda",
      "id": "184dcdd829ac"
     },
     {
-     "title": "Reservas, meta fiscal y el desafío de 2027: las claves de la visita de la titular del FMI a la Argentina",
-     "link": "https://www.infobae.com/economia/2026/07/26/reservas-meta-fiscal-y-el-desafio-de-2027-las-claves-de-la-visita-de-la-titular-del-fmi-a-la-argentina/",
+     "title": "Javier Milei acusó a Brasil de financiar la “campaña antiargentina”",
+     "link": "https://www.infobae.com/politica/2026/07/26/javier-milei-acuso-a-brasil-de-financiar-la-campana-antiargentina/",
      "source": "Infobae",
-     "published": "2026-07-26T17:24:49+00:00",
-     "copete": "Kristalina Georgieva llega el lunes y mantedrá reuniones con Javier Milei y Luis Caputo. Cuánto tiempo estará y puntos centrales del vínculo con el organismo",
-     "id": "caf9a58bc88d"
+     "published": "2026-07-26T19:34:19+00:00",
+     "copete": "El presidente volvió a apuntar contra el gobierno de Lula en medio de la escalada diplomática tras sus dichos en el acto de lanzamiento de campaña de Flávio Bolsonaro. El país vecinos llamó a consulta a su embajador en Buenos Aires",
+     "id": "0f4a5470777b"
     },
     {
-     "title": "La derrota que llevó a Matt Damon a escribir ‘Good Will Hunting’ en los años 90: “Fue el verdadero impulso”",
-     "link": "https://www.infobae.com/entretenimiento/2026/07/26/la-derrota-que-llevo-a-matt-damon-a-escribir-good-will-hunting-en-los-anos-90-fue-el-verdadero-impulso/",
+     "title": "El hijo de la mujer investigada por la muerte de su beba en Villa Gesell pidió que “esté presa o en un psiquiátrico”",
+     "link": "https://www.lanacion.com.ar/seguridad/el-hijo-de-la-mujer-investigada-por-la-muerte-de-su-beba-en-villa-gesell-pidio-que-este-presa-o-en-nid26072026/",
+     "source": "La Nación",
+     "published": "2026-07-26T19:33:57+00:00",
+     "copete": "El adolescente aseguró que su madre ya había mostrado conductas violentas; la responsabilizó por la muerte de Isabella y sostuvo que “sabíamos que iba a volver a pasar”",
+     "id": "60b2b27c273f"
+    },
+    {
+     "title": "Aplausos, gestos y guiños: así se vivió el apoyo a Milei en las tribunas de la Rural",
+     "link": "https://www.lanacion.com.ar/economia/campo/aplausos-gestos-y-guinos-asi-se-vivio-el-apoyo-a-milei-en-las-tribunas-de-la-rural-nid26072026/",
+     "source": "La Nación",
+     "published": "2026-07-26T19:33:00+00:00",
+     "copete": "El Presidente recibió reiteradas ovaciones por las medidas que ya tomó el Gobierno para el campo; hubo abrazos con Nicolás Pino, señales políticas desde el palco y un momento de tensión al costado de la pista central",
+     "id": "38bd0ae330ee"
+    },
+    {
+     "title": "Boca Juniors visitará a Deportivo Riestra por el Torneo Clausura: hora, TV y formaciones",
+     "link": "https://www.infobae.com/deportes/2026/07/26/boca-juniors-visitara-a-deportivo-riestra-por-el-torneo-clausura-hora-tv-y-formaciones/",
      "source": "Infobae",
-     "published": "2026-07-26T17:21:22+00:00",
-     "copete": "La frustración de no conseguir un papel fue el motor detrás de la decisión de él y Ben Affleck de escribir el guion que les daría el Oscar",
-     "id": "5766429c1304"
+     "published": "2026-07-26T19:30:13+00:00",
+     "copete": "Luego del triunfo por Copa Sudamericana, el equipo del Vasco Arruabarrena debutará en el certamen local ante el Malevo",
+     "id": "b6fdaeca9410"
     },
     {
-     "title": "El massismo salió al cruce de Milei y Quirno, con fuertes críticas al ataque presidencial contra Lula",
-     "link": "https://www.lanacion.com.ar/politica/el-massismo-salio-al-cruce-de-milei-y-quirno-con-fuertes-criticas-al-ataque-presidencial-contra-lula-nid26072026/",
+     "title": "“Nadie es dueño de nadie”: divorcios después de los 60, una tendencia que crece a espaldas del qué dirán",
+     "link": "https://www.lanacion.com.ar/sociedad/nadie-es-dueno-de-nadie-divorcios-despues-de-los-60-una-tendencia-que-crece-a-espaldas-del-que-diran-nid26072026/",
      "source": "La Nación",
-     "published": "2026-07-26T17:20:44+00:00",
-     "copete": "Referentes del Frente Renovador coordinaron una defensa pública al mandatario brasileño; lo hicieron luego de que el canciller recordara que el PT asesoró al tigrense en la campaña de 2023",
-     "id": "bd14569d90fd"
+     "published": "2026-07-26T19:29:51+00:00",
+     "copete": "En la ciudad de Buenos Aires, entre los varones a partir de esa edad pasaron de representar el 11,8% en 2009 al 18,4% en 2025; entre las mujeres, subieron del 7,7% al 12,1%",
+     "id": "835c405a2848"
     },
     {
-     "title": "Por dónde pasan Boca vs. Deportivo Riestra por el Torneo Clausura 2026 hoy",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-boca-vs-deportivo-riestra-por-el-torneo-clausura-2026-hoy-nid26072026/",
+     "title": "Huracán Fausto, en vivo: trayectoria y potencia de la tormenta rumbo a territorio estadounidense",
+     "link": "https://www.lanacion.com.ar/estados-unidos/huracan-fausto-en-vivo-trayectoria-de-la-tormenta-que-se-intensifica-rumbo-a-territorio-nid25072026/",
      "source": "La Nación",
-     "published": "2026-07-26T17:20:20+00:00",
-     "copete": "El partido de la primera fecha del Grupo A se desarrolla este domingo desde las 19.30 en el estadio Guillermo Laza, donde el xeneize nunca jugó",
-     "id": "fe0059f0ea41"
+     "published": "2026-07-26T19:26:52+00:00",
+     "copete": "El huracán Fausto disminuyó a categoría 1 en la escala Saffir-Simpson y se desplaza hacia el oeste a unas 14 mph (22 km/h) según informó el Centro Nacional de Huracanes (NHC, por sus siglas en inglés) este domingo. Por el momento no hay…",
+     "id": "bc9e2627b2dc"
     },
     {
-     "title": "El tierno mensaje que la familia de Lionel Scaloni pegó en la puerta de su casa en Pujato",
-     "link": "https://www.infobae.com/deportes/2026/07/26/el-tierno-mensaje-que-la-familia-de-lionel-scaloni-pego-en-la-puerta-de-su-casa-en-pujato/",
+     "title": "La semana perfecta de la argentina Julia Riera: fue campeona en Brasil sin ceder sets y recuperó un lugar en el Top 150",
+     "link": "https://www.infobae.com/deportes/2026/07/26/la-semana-perfecta-de-la-argentina-julia-riera-fue-campeona-en-brasil-sin-ceder-sets-y-recupero-un-lugar-en-el-top-150/",
      "source": "Infobae",
-     "published": "2026-07-26T17:18:13+00:00",
-     "copete": "Tras unos convulsionados días en el pueblo santafesino por su presencia, el técnico se retiró de la casa de sus padres, pero no se olvidó de los fanáticos",
-     "id": "21fa9a655086"
+     "published": "2026-07-26T19:23:44+00:00",
+     "copete": "La tenista de Pergamino conquistó el W75 de Vacaria tras vencer en la final a la peruana Lucciana Pérez Alarcón por 7-5 y 6-0. Obtuvo su primer título de 2026 y se aseguró un salto de casi 20 puestos en el ranking WTA",
+     "id": "5f0ff4fa0953"
     },
     {
-     "title": "Newsom firmó la SB 766: cómo funciona la ley que entra en vigor el 1° de octubre para los compradores de autos",
-     "link": "https://www.lanacion.com.ar/estados-unidos/california/newsom-firmo-la-sb-766-como-funciona-la-ley-que-entra-en-vigor-el-1-de-octubre-para-los-compradores-nid26072026/",
-     "source": "La Nación",
-     "published": "2026-07-26T17:17:55+00:00",
-     "copete": "Una nueva ley en California modifica desde el 1° de octubre los requisitos obligatorios para la compra de vehículos inferiores o iguales a 50.000 dólares.",
-     "id": "6aa18ac575cd"
-    },
-    {
-     "title": "La enorme importancia económica y comercial que tiene Brasil para la Argentina",
-     "link": "https://www.infobae.com/economia/2026/07/26/la-enorme-importancia-economica-y-comercial-que-tiene-brasil-para-la-argentina/",
+     "title": "Panamá podría enfrentar uno de los mayores desafíos climáticos de su historia durante las próximas décadas",
+     "link": "https://www.infobae.com/panama/2026/07/26/panama-podria-enfrentar-uno-de-los-mayores-desafios-climaticos-de-su-historia-durante-las-proximas-decadas/",
      "source": "Infobae",
-     "published": "2026-07-26T17:17:12+00:00",
-     "copete": "En el primer semestre del año el socio mayor del Mercosur fue el principal destino de las exportaciones argentinas y el segundo mayor proveedor del país, muy cerca del primero",
-     "id": "44b2abcae587"
+     "published": "2026-07-26T19:22:57+00:00",
+     "copete": "Investigadores concluyen que el calor extremo será uno de los principales retos para la salud pública y el desarrollo del país durante las décadas venideras",
+     "id": "3f2c1903108b"
     },
     {
-     "title": "Dani Olmo desmintió a Roberto Ayala y no aceptó las disculpas tras la agresión del asistente de Lionel Scaloni",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/dani-olmo-desmintio-a-roberto-ayala-y-no-acepto-las-disculpas-tras-la-agresion-del-asistente-de-nid26072026/",
+     "title": "Helena Moreno, alcaldesa mexicana de Nueva Orleans: “Estos son tiempos realmente difíciles, lo veo y lo siento constantemente”",
+     "link": "https://www.lanacion.com.ar/estados-unidos/helena-moreno-alcaldesa-mexicana-de-nueva-orleans-estos-son-tiempos-realmente-dificiles-lo-veo-y-lo-nid26072026/",
      "source": "La Nación",
-     "published": "2026-07-26T17:01:49+00:00",
-     "copete": "El español habló sobre el incidente con el Ratón tras la consagración del seleccionado ibérico en el Mundial 2026",
-     "id": "e11b3db9eb15"
+     "published": "2026-07-26T19:22:08+00:00",
+     "copete": "La alcaldesa de Nueva Orleans habló sobre los desafíos que enfrenta la comunidad latina bajo la política migratoria de Trump",
+     "id": "6e7c21b26f27"
     },
     {
-     "title": "Habló Daniel Scioli tras el robo a su casa en Villa La Ñata, agradeció a los ministros de Seguridad de Nación y Provincia",
-     "link": "https://www.clarin.com/policiales/hablo-daniel-scioli-robo-casa-agradecio-alejandra-monteoliva-javier-alonso_0_5F94I1MQAX.html",
+     "title": "Mhoni Vidente: horóscopo semanal del 26 al 31 de julio 2026 con predicciones para todos los signos",
+     "link": "https://www.clarin.com/internacional/mhoni-vidente-horoscopo-semanal-26-31-julio-2026-predicciones-signos_0_seYqBbS0B6.html",
      "source": "Clarín",
-     "published": "2026-07-26T16:25:01+00:00",
-     "copete": "El secretario de Turismo, Ambiente y Deporte de la Nación se refirió al intento de asalto en su casona de Villa La Ñata, en Tigre. Los ladrones, que no lograron ingresar al inmueble y escaparon al ser descubiertos por el personal de…",
-     "id": "f516d206c388"
+     "published": "2026-07-26T18:57:46+00:00",
+     "copete": "Qué le espera a cada signo en esta última semana de julio 2026. Y además, el planeta que nos rige en los próximos días.",
+     "id": "e1000a5d6b60"
     },
     {
-     "title": "Un descontrolado incendio forestal en Francia obliga a evacuar a 250.000 personas y avanzan hacia Burdeos",
-     "link": "https://www.clarin.com/mundo/descontrolado-incendio-forestal-francia-obliga-evacuar-250000-personas-avanzan-burdeos_0_jF0gMRQyIy.html",
+     "title": "Joan Calderón, jardinero: \"Hay tres plantas que nunca mueren, da igual que te olvides de regarlas; son la sanseviera, la zamioculca y el poto\"",
+     "link": "https://www.clarin.com/estados-unidos/joan-calderon-jardinero-plantas-mueren-da-igual-olvides-regarlas-sanseviera-zamioculca-poto_0_NbDJ426gZg.html",
      "source": "Clarín",
-     "published": "2026-07-26T16:07:54+00:00",
-     "id": "ce1496a0759d"
+     "published": "2026-07-26T18:41:28+00:00",
+     "copete": "El especialista explicó cuáles son las especies más resistentes para quienes suelen olvidarse del riego. Y reveló por qué pueden sobrevivir durante largos períodos con muy poco mantenimiento.",
+     "id": "77570d4a52bf"
     }
    ]
   },
@@ -365,20 +367,60 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "La Policía abate a tiros al sospechoso del atentado contra el Orgullo en Berlín, según medios alemanes",
+     "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+     "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-26T18:40:08+00:00",
+     "copete": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
+     "id": "2bec49ca650f"
+    },
+    {
+     "title": "Colonos de Israel incendian dos mezquitas, coches y campos  en Cisjordania",
+     "link": "https://elpais.com/internacional/2026-07-26/colonos-de-israel-incendian-dos-mezquitas-coches-y-campos-en-cisjordania.html",
+     "source": "El País Internacional",
+     "published": "2026-07-26T18:24:40+00:00",
+     "copete": "El Gobierno de Netanyahu asegura que ampliará “las actuaciones contra el terrorismo” en la zona ocupada tras el choque mortal del viernes entre israelíes y palestinos",
+     "id": "181f8b0a70c0"
+    },
+    {
+     "title": "Policía alemana mata al sospechoso del ataque contra la Marcha del Orgullo en Berlín que dejó una mujer muerta y 29 heridos",
+     "link": "https://www.bbc.com/mundo/articles/c5yv63e67wko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-26T18:20:43+00:00",
+     "copete": "Las autoridades alemanas calificaron el suceso como un \"atentado terrorista islamista\" y desplegaron un amplio operativo policial para localizar al presunto perpetrador a quien dieron muerte horas después.",
+     "id": "dd02965d7afa"
+    },
+    {
+     "title": "Isaac del Toro, el ciclista que cuatro años después de un terrible accidente se convirtió en el primer mexicano en llegar al podio del Tour de Francia",
+     "link": "https://www.bbc.com/mundo/articles/cj63769rr79o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-26T18:13:46+00:00",
+     "copete": "El bajacaliforniano de 22 años rompió otro récord para el ciclismo mexicano llegando al podio de la competencia más prestigiosa del ciclismo al lado de su compañero y amigo Tadej Pogačar.",
+     "id": "c800ef697b5d"
+    },
+    {
+     "title": "La Policía mata a tiros al sospechoso del atentado contra el Orgullo en Berlín",
      "link": "https://elpais.com/internacional/2026-07-26/alemania-busca-al-autor-del-atropello-masivo-en-berlin-que-causo-al-menos-un-muerto-y-16-heridos.html",
      "source": "El País Internacional",
-     "published": "2026-07-26T17:18:55+00:00",
+     "published": "2026-07-26T17:58:11+00:00",
      "copete": "Una furgoneta embistió a los asistentes a la marcha del Día del Orgullo LGTBI+ y causó un muerto y 29 heridos",
      "id": "31db37b1e484"
     },
     {
-     "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-     "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+     "title": "What we know so far about the Berlin Pride ramming attack",
+     "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-07-26T16:48:16+00:00",
-     "copete": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
-     "id": "2bec49ca650f"
+     "published": "2026-07-26T17:45:30+00:00",
+     "copete": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+     "id": "9289efc8a1b9"
+    },
+    {
+     "title": "Adbul Ballout, el presunto autor del ataque de Berlín, ya fue detenido en 2025 por sospechas de terrorismo",
+     "link": "https://elpais.com/internacional/2026-07-26/quien-es-adbul-b-el-presunto-autor-del-ataque-contra-la-marcha-del-orgullo-en-berlin.html",
+     "source": "El País Internacional",
+     "published": "2026-07-26T17:35:00+00:00",
+     "copete": "El joven había llamado la atención de las autoridades “debido a un número elevado de delitos, a su radicalización y vinculación con el entorno islamista”",
+     "id": "9a205238dcc7"
     },
     {
      "title": "El fuego del suroeste de Francia gana terreno y obliga a nuevas evacuaciones masivas",
@@ -389,14 +431,6 @@
      "id": "699205a1f676"
     },
     {
-     "title": "Una mujer muerta y al menos 29 heridos en la Marcha del Orgullo en Berlín después de que un vehículo arrollara a la multitud",
-     "link": "https://www.bbc.com/mundo/articles/c5yv63e67wko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-26T14:33:22+00:00",
-     "copete": "Las autoridades alemanas han calificado el hecho como un \"atentado terrorista islamista\" y han iniciado una cacería para capturar al sospechoso, un hombre de 21 años.",
-     "id": "dd02965d7afa"
-    },
-    {
      "title": "\"Si me hubiera demorado cinco minutos más, nos habría arrasado\": los testimonios de los afectados por los devastadores incendios en España y Francia",
      "link": "https://www.bbc.com/mundo/articles/cp9eyv3g9kmo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
@@ -405,44 +439,12 @@
      "id": "48b783cab892"
     },
     {
-     "title": "What we know so far about the Berlin Pride ramming attack",
-     "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-26T13:40:29+00:00",
-     "copete": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
-     "id": "9289efc8a1b9"
-    },
-    {
      "title": "Detienen en Chile a condenado por el asesinato del cantautor Víctor Jara que estuvo prófugo por años",
      "link": "https://www.bbc.com/mundo/articles/ckgd1779vpdo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "published": "2026-07-26T12:45:38+00:00",
      "copete": "Según medios locales, el militar retirado fue encontrado por agentes policiales en una parcela en Puyehue, en la región de Los Lagos, en el sur del país.",
      "id": "75245e66dfab"
-    },
-    {
-     "title": "Colonos israelíes incendian mezquitas, vehículos y tierras de cultivo durante una serie de ataques en Cisjordania, denuncian autoridades palestinas",
-     "link": "https://www.bbc.com/mundo/articles/c80n7kp10ypo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-26T12:06:48+00:00",
-     "copete": "Los últimos incidentes violentos se producen dos días después de un enfrentamiento entre colonos y palestinos cerca de la aldea de Tal, que dejó cuatro palestinos y dos israelíes muertos.",
-     "id": "b349f5bb4cac"
-    },
-    {
-     "title": "\"Es el peor incendio de la historia de Madrid\": los fuegos sin control que han obligado a evacuar a decenas de miles de personas en el centro de España",
-     "link": "https://www.bbc.com/mundo/articles/crrvdq8d9x9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-26T11:09:42+00:00",
-     "copete": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, calificó el siniestro que afecta a su región como \"el peor de la historia\", pero el domingo las autoridades aseguraron que parte de las llamas habían sido contenidas.",
-     "id": "acc9a714f24d"
-    },
-    {
-     "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-     "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-26T10:26:05+00:00",
-     "copete": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
-     "id": "bb7e9947d7bf"
     }
    ]
   }

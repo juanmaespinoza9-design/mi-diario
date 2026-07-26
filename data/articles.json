@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-26T07:07:29.202713+00:00",
+ "generated_at": "2026-07-26T10:15:08.593453+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -89,6 +89,13 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "\"Está entrando en la mejor etapa de su carrera\": elogios en el exterior para una figura de Los Pumas",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV2JKV1lEZjFzYk4zS1Bfb1hWYWVXUHRKdGFGVWVsSmtmV29TNVB5RW8wVGx5NmVQSUoxcXFDQ1FMZEFjOG5HRnJxR3FDSVVJY01aT2dDVHQ0Z0t2UHliRXRJM1pmS19HTy1fR1U5OS1RTDZYblpRZVpPdlM1SXV3eUM2OGtkc0cyNjM3b29NcXpMUi1vSlkwTGhMMVlzLVc1THNtcDZlWlBzTmhVODNoamg3TWtuaXRwbjlRTWlnUHp0SmVQbTVOSjFmTFZxaW81TmNnT2lwR015aW5aR0Yw?oc=5",
+     "source": "ESPN Colombia",
+     "published": "2026-07-26T09:11:15+00:00",
+     "id": "e62e527e674f"
+    },
+    {
      "title": "River no sale de una peligrosa dinámica",
      "link": "https://www.ole.com.ar/opinion/river-peligrosa-dinamica-perdedora-otamendi-correa-debuts_0_85kVyoRcp0.html",
      "source": "Olé — River",
@@ -175,13 +182,6 @@
      "id": "ed629f5abfb3"
     },
     {
-     "title": "\"Está entrando en la mejor etapa de su carrera\": elogios en el exterior para una figura de Los Pumas",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc3B1bHBhWjlaRFZva2hYRjB2aWtBREN4c1VTXzc4bzUyRlRFUXZPNlJSclI1UDZKaXZNM1Y4RUp3TG9rNHphUWlnNXRXN2NWMFVRb0VwTnhWdkdmeWpJVGlHZ2ExMDYtYThDeDF6OWp5cGFPRjA3V2dEakZ4OFNxY3ZyTDJpYmQ5TW12eUp6MjB4M2RaS1hMbjlqNzFiRV9acHdWR1B6V2FIbW9TX1ZlV3M0bTF2dkFIcDNLTzdVVTBHZWU5eHJZZU40cmJoalNsR3ZhbE9saUk5QQ?oc=5",
-     "source": "ESPN Chile",
-     "published": "2026-07-25T16:44:02+00:00",
-     "id": "ed2c2e5c3f07"
-    },
-    {
      "title": "El Torneo del Interior Copa Zurich vive un sábado de alto voltaje",
      "link": "https://uar.com.ar/el-torneo-del-interior-copa-zurich-vive-un-sabado-de-alto-voltaje/",
      "source": "UAR",
@@ -204,11 +204,25 @@
      "id": "05af30794be9"
     },
     {
+     "title": "An ESP32 based plane radar for my desk",
+     "link": "https://blog.ktz.me/esp32-plane-radar/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-26T02:35:43+00:00",
+     "id": "ca51381b09ad"
+    },
+    {
      "title": "Show HN: I mapped every US golf course",
      "link": "https://golfcoursebrowser.com/",
      "source": "Hacker News (100+ puntos)",
      "published": "2026-07-26T02:22:26+00:00",
      "id": "8b9e40a968d5"
+    },
+    {
+     "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+     "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-26T00:36:30+00:00",
+     "id": "16b138d9f3a3"
     },
     {
      "title": "Ruff v0.16.0",
@@ -217,20 +231,6 @@
      "published": "2026-07-25T22:44:05+00:00",
      "copete": "Ruff v0.16.0 Astral shipped a significant new version of their Ruff Python linting tool a few days ago on July 23rd. I noticed today because my various CI jobs all started failing thanks to new default Ruff checks and my unpinned \"ruff\"…",
      "id": "56eddc9d00c8"
-    },
-    {
-     "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-     "link": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-25T21:48:22+00:00",
-     "id": "8622cff3d13f"
-    },
-    {
-     "title": "Turn And Face The Strange",
-     "link": "https://fly.io/blog/kurt-scott-money-sprites/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-25T20:43:11+00:00",
-     "id": "439112ecdf42"
     },
     {
      "title": "How to Optimize Vector Search When RAM Gets Too Expensive: On-Disk vs. In-Memory ANN Indexes",
@@ -278,100 +278,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "La reflexión de Aristóteles sobre la verdad: “Decir de lo que es, que no es, y de lo que no es, que es, es falso”",
-     "link": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-aristoteles-sobre-la-verdad-decir-de-lo-que-es-que-no-es-y-de-lo-que-no-es-que-es-es-nid26072026/",
-     "source": "La Nación",
-     "published": "2026-07-26T07:00:00+00:00",
-     "copete": "En una entrevista exclusiva para LA NACION, el filósofo Darío Sztajnszrajber profundizó en las nociones de la antigüedad frente a los desafíos de la posverdad",
-     "id": "23b6280bfd53"
-    },
-    {
-     "title": "Newsom amplía un corredor de internet a 1250 millas: por dónde pasa la nueva red de California",
-     "link": "https://www.lanacion.com.ar/estados-unidos/california/newsom-amplia-un-corredor-de-internet-a-1250-millas-por-donde-pasa-la-nueva-red-de-california-nid26072026/",
-     "source": "La Nación",
-     "published": "2026-07-26T07:00:00+00:00",
-     "copete": "Conoce la nueva red pública de internet de California: suma 1250 millas operativas y conecta la costa central, Los Ángeles, Barstow y Modoc.",
-     "id": "ec9aa069cfcc"
-    },
-    {
-     "title": "La salud cutánea en invierno: qué alimentos recomiendan los expertos para cuidar la piel ante climas fríos",
-     "link": "https://www.infobae.com/salud/2026/07/26/la-salud-cutanea-en-invierno-que-alimentos-recomiendan-los-expertos-para-cuidar-la-piel-ante-climas-frios/",
-     "source": "Infobae",
-     "published": "2026-07-26T07:00:00+00:00",
-     "copete": "Las bajas temperaturas y el aire seco favorecen la pérdida de agua y de aceites naturales, por lo que una dieta rica en nutrientes particulares reducen el riesgo de infecciones",
-     "id": "451738d86d80"
-    },
-    {
-     "title": "8 alimentos probióticos que pueden transformar la salud intestinal, según los especialistas",
-     "link": "https://www.infobae.com/salud/2026/07/26/8-alimentos-probioticos-que-pueden-transformar-la-salud-intestinal-segun-los-especialistas/",
-     "source": "Infobae",
-     "published": "2026-07-26T07:00:00+00:00",
-     "copete": "Desde yogur y kéfir hasta kimchi y kombucha, la ciencia respalda el rol de estos productos en la digestión, las defensas y el bienestar mental. Cuáles son y qué beneficios aportan según investigaciones recientes",
-     "id": "c9f7f7bb2be7"
-    },
-    {
-     "title": "Sensación de agobio: cuándo la fatiga emocional se vuelve abrumadora y como enfrentarla",
-     "link": "https://www.infobae.com/salud/2026/07/26/sensacion-de-agobio-cuando-la-fatiga-emocional-se-vuelve-abrumadora-y-como-enfrentarla/",
-     "source": "Infobae",
-     "published": "2026-07-26T07:00:00+00:00",
-     "copete": "Situaciones estresantes y el desgaste sostenido pueden afectar el bienestar general y tanto la salud física como mental",
-     "id": "5d588183aab6"
-    },
-    {
-     "title": "El verdadero origen de Star Wars: George Lucas quería algo muy distinto a la ciencia ficción",
-     "link": "https://www.infobae.com/entretenimiento/2026/07/26/el-verdadero-origen-de-star-wars-george-lucas-queria-algo-muy-distinto-a-la-ciencia-ficcion/",
-     "source": "Infobae",
-     "published": "2026-07-26T07:00:00+00:00",
-     "copete": "En diversas entrevistas, el director explicó cuáles fueron las influencias que guiaron la creación de la saga y por qué eligió un camino diferente al de otras películas de la época",
-     "id": "0e062501c037"
-    },
-    {
-     "title": "Múnich 1958: la tragedia aérea que marcó para siempre la historia del Manchester United",
-     "link": "https://www.infobae.com/historias/2026/07/26/munich-1958-la-tragedia-aerea-que-marco-para-siempre-la-historia-del-manchester-united/",
-     "source": "Infobae",
-     "published": "2026-07-26T07:00:00+00:00",
-     "copete": "Un repaso por las causas, el impacto y las historias personales detrás del accidente que cambió el destino del club inglés y dejó una huella imborrable en el fútbol mundial",
-     "id": "57799db128a5"
-    },
-    {
-     "title": "Huracán Fausto en vivo: trayectoria de la tormenta que se intensifica rumbo a territorio estadounidense",
-     "link": "https://www.lanacion.com.ar/estados-unidos/huracan-fausto-en-vivo-trayectoria-de-la-tormenta-que-se-intensifica-rumbo-a-territorio-nid25072026/",
-     "source": "La Nación",
-     "published": "2026-07-26T06:33:00+00:00",
-     "copete": "El huracán Fausto, categoría 2, avanza por el Pacífico central hacia Hawái, con oleaje peligroso y lluvias previstas para la próxima semana, según el NHC.",
-     "id": "bc9e2627b2dc"
-    },
-    {
-     "title": "Quedó aislado durante seis noches en la montaña con dos maestras de su hijo y ahora podrían cobrarle el rescate",
+     "title": "Quedó aislado durante seis noches en la montaña con dos maestras de su hijo y ahora podrían cobrarles el rescate",
      "link": "https://www.lanacion.com.ar/el-mundo/quedo-aislado-durante-seis-noches-en-la-montana-con-dos-maestras-de-su-hijo-y-ahora-podrian-cobrarle-nid26072026/",
      "source": "La Nación",
-     "published": "2026-07-26T06:24:29+00:00",
-     "copete": "El hombre y las dos mujeres viajaron más de 100 kilómetros de madrugada pese a haber una alerta por temporal; sobrevivieron debido a que encontraron un refugio con alimentos, ropa de abrigo y leña",
+     "published": "2026-07-26T10:03:47+00:00",
+     "copete": "Un hombre y dos mujeres viajaron más de 100 kilómetros de madrugada pese a haber una alerta por temporal; sobrevivieron debido a que encontraron un refugio con alimentos, ropa de abrigo y leña",
      "id": "8aed043c2e41"
     },
     {
-     "title": "Oficial y confirmado: los estados que ofrecen dinero y ayuda para la vivienda a quienes se muden en 2026",
-     "link": "https://www.lanacion.com.ar/estados-unidos/oficial-y-confirmado-los-estados-que-ofrecen-dinero-y-ayuda-para-la-vivienda-a-quienes-se-muden-en-nid26072026/",
+     "title": "Boca Juniors visitará a Deportivo Riestra por el Torneo Clausura: hora, TV y formaciones",
+     "link": "https://www.infobae.com/deportes/2026/07/26/boca-juniors-visitara-a-deportivo-riestra-por-el-torneo-clausura-hora-tv-y-formaciones/",
+     "source": "Infobae",
+     "published": "2026-07-26T10:02:03+00:00",
+     "copete": "Luego del triunfo por Copa Sudamericana, el equipo del Vasco Arruabarrena debutará en el certamen local ante el Malevo",
+     "id": "b6fdaeca9410"
+    },
+    {
+     "title": "Franco Colapinto largará 13° en el Gran Premio de Hungría: hora, tv y todo lo que hay que saber",
+     "link": "https://www.infobae.com/deportes/2026/07/26/franco-colapinto-largara-13-en-el-gran-premio-de-hungria-hora-tv-y-todo-lo-que-hay-que-saber/",
+     "source": "Infobae",
+     "published": "2026-07-26T10:01:36+00:00",
+     "copete": "El piloto argentino buscará avanzar a la zona de puntos en el desafiante circuito de Hungaroring a partir de las 10:00 (hora de Argentina)",
+     "id": "79a88213bbd3"
+    },
+    {
+     "title": "Es oficial: qué significa para los migrantes la entrada en vigor de la nueva regla de Obamacare para 2027",
+     "link": "https://www.lanacion.com.ar/estados-unidos/es-oficial-que-significa-para-los-migrantes-la-entrada-en-vigor-de-la-nueva-regla-de-obamacare-para-nid26072026/",
      "source": "La Nación",
-     "published": "2026-07-26T06:01:00+00:00",
-     "copete": "Descubre qué estados y ciudades de EE.UU. ofrecen dinero y ayuda para la vivienda en 2026, cuáles son los requisitos y cómo acceder a estos incentivos.",
-     "id": "61d5f22372ab"
+     "published": "2026-07-26T10:00:00+00:00",
+     "copete": "Conoce qué \"no ciudadanos\" podrán recibir créditos fiscales de Obamacare desde 2027 y cómo cambian los controles de ingresos y las exenciones en EE.UU.",
+     "id": "bf4490c52ecf"
     },
     {
-     "title": "Hit de Beavers en la 9na da a Orioles victoria 3-2 sobre Bravos",
-     "link": "https://www.clarin.com/estados-unidos/hit-de-beavers-en-la-9na-da-a-orioles-victoria-3-2-sobre-bravos_0_nFxTkHjFrA.html",
-     "source": "Clarín",
-     "published": "2026-07-26T06:00:09+00:00",
-     "copete": "Beavers selló el triunfo de Baltimore sobre Atlanta con un sencillo en la novena, colocando a los Orioles más cerca de los playoffs de la Americana. Cano logró cerrar sin fallos, y Henderson y Albies destacaron con vuelacercas. Los Bravos…",
-     "id": "14912cec7e9f"
+     "title": "Daniel Tangona, entrenador físico y coach profesional: “La nueva longevidad no significa vivir más años, sino llegar con más ganas de seguir viviendo”",
+     "link": "https://www.lanacion.com.ar/sociedad/daniel-tangona-entrenador-fisico-y-coach-profesional-la-nueva-longevidad-no-significa-vivir-mas-anos-nid26072026/",
+     "source": "La Nación",
+     "published": "2026-07-26T10:00:00+00:00",
+     "copete": "El especialista reflexionó sobre el cambio en la manera de transitar el envejecimiento y destacó la importancia del entrenamiento, el descanso, la alimentación, los vínculos y el propósito; “Los 70 de hoy no son los 70 de antes”, aseguró",
+     "id": "a99792a71c73"
     },
     {
-     "title": "Brutal femicidio causa estupor en Salta: una mujer recibió más de 40 heridas con un machete y su pareja fue detenida",
-     "link": "https://www.clarin.com/policiales/brutal-femicidio-causa-estupor-salta-mujer-recibio-40-heridas-machete-pareja-detenida_0_gkUS2EPxVL.html",
+     "title": "Partidos de hoy del Torneo Clausura 2026, domingo 26 de julio: horario y por dónde ver en vivo online",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/partidos-de-hoy-del-torneo-clausura-2026-domingo-26-de-julio-horario-y-por-donde-ver-en-vivo-online-nid26072026/",
+     "source": "La Nación",
+     "published": "2026-07-26T10:00:00+00:00",
+     "copete": "La fecha 1 del segundo certamen de la temporada en la Primera División del fútbol argentino culmina con dos encuentros del Grupo A y uno del B",
+     "id": "c2b394e09cae"
+    },
+    {
+     "title": "Criptomonedas: cuál es la cotización de ethereum este 26 de julio",
+     "link": "https://www.infobae.com/noticias/2026/07/26/criptomonedas-cual-es-la-cotizacion-de-ethereum-este-26-de-julio/",
+     "source": "Infobae",
+     "published": "2026-07-26T09:45:40+00:00",
+     "copete": "Ethereum fue lanzada en 2015 por el programador Vitalik Buterin, con la intención de impulsar un instrumento para aplicaciones descentralizadas y colaborativas",
+     "id": "56a9c835a552"
+    },
+    {
+     "title": "Sube la temperatura en el AMBA y crece la preocupación en la Patagonia por las alertas de frío extremo y nevadas",
+     "link": "https://www.infobae.com/sociedad/2026/07/26/sigue-la-ola-polar-en-el-sur-del-pais-mientras-que-buenos-aires-atraviesa-temperaturas-primaverales/",
+     "source": "Infobae",
+     "published": "2026-07-26T09:32:56+00:00",
+     "copete": "El Servicio Meteorológico Nacional anticipa máximas cercanas a los 20 grados en Buenos Aires. En paralelo, hay alertas por nieve y bajas extremas que afectan a la Patagonia",
+     "id": "15a13d8f09d5"
+    },
+    {
+     "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este domingo 26 de julio",
+     "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-domingo-26-de-julio-nid26072026/",
+     "source": "La Nación",
+     "published": "2026-07-26T09:30:00+00:00",
+     "copete": "La cotización de la moneda estadounidense se mantiene igual que el último día hábil; cómo fue el comportamiento de la divisa informal y los dólares financieros",
+     "id": "2003a85db8d7"
+    },
+    {
+     "title": "Firmada por DeSantis, ya entró en vigor: la ley HB 961 de Florida cambia las reglas de la compra y venta de autos",
+     "link": "https://www.clarin.com/estados-unidos/firmada-desantis-entro-vigor-ley-hb-961-florida-cambia-reglas-compra-venta-autos_0_UVxtNUFNoF.html",
      "source": "Clarín",
-     "published": "2026-07-26T05:57:38+00:00",
-     "copete": "El informe preliminar de la autopsia determinó que Viviana Vilte (55) fue violentamente asesinada en su casa. \"Había música muy alta\", confirmaron vecinos de la pareja. Ocurrió en la localidad de La Silleta, un lugar con poco más de 2.000…",
-     "id": "2b56abd10463"
+     "published": "2026-07-26T09:25:24+00:00",
+     "copete": "La ley HB 961 establece nuevos requisitos para las compañías de seguro.",
+     "id": "a400adf1d1a1"
+    },
+    {
+     "title": "Atlético Tucumán-Independiente Rivadavia y Estudiantes-Independiente inician su camino en el Clausura: hora, TV y formaciones",
+     "link": "https://www.infobae.com/deportes/2026/07/26/atletico-tucuman-independiente-rivadavia-y-estudiantes-independiente-inician-su-camino-en-el-clausura-hora-tv-y-formaciones/",
+     "source": "Infobae",
+     "published": "2026-07-26T09:21:06+00:00",
+     "copete": "La jornada se abrirá con el duelo entre el Decano y la Lepra a las 15. Más tarde, desde las 17:15, el Pincha recibirá en La Plata al Rojo de Avellaneda",
+     "id": "184dcdd829ac"
+    },
+    {
+     "title": "Dalia Gutmann y el Mundial que no miramos: las ocho cosas que nos dio esta Copa y quedarán para siempre",
+     "link": "https://www.clarin.com/deportes/dalia-gutmann-mundial-miramos-cosas-dio-copa-quedaran-siempre_0_2RNexNdjPj.html",
+     "source": "Clarín",
+     "published": "2026-07-26T09:05:24+00:00",
+     "copete": "La Copa terminó, Argentina quedó subcampeona y festejó España. El torneo nos dejó una lista de recuerdos inesperados y simpáticos. Desde Scaloni hasta las cábalas, pasando por los vecinos y los chivos.",
+     "id": "a0875abe20ee"
     }
    ]
   },
@@ -381,84 +381,84 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "¿Cómo serán los seres humanos del futuro?",
+     "link": "https://www.bbc.com/mundo/articles/ce375g4n17vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-26T10:09:50+00:00",
+     "copete": "Científicos afirman que seguimos evolucionando, aunque con las nuevas tecnologías, como la edición genética, nuestro futuro podría cambiar de maneras inesperadas.",
+     "id": "c4249d6c727d"
+    },
+    {
+     "title": "Alemania busca al sospechoso del atropello masivo en Berlín que causó al menos un muerto y 16 heridos",
+     "link": "https://elpais.com/internacional/2026-07-26/alemania-busca-al-autor-del-atropello-masivo-en-berlin-que-causo-al-menos-un-muerto-y-16-heridos.html",
+     "source": "El País Internacional",
+     "published": "2026-07-26T09:59:16+00:00",
+     "copete": "Una furgoneta embistió a los asistentes a la marcha del Día del Orgullo LGTBI+. “Esto es un ataque a nuestra sociedad”, dice el canciller Merz. La policía apunta a un hombre del “entorno islamista” de la ciudad",
+     "id": "31db37b1e484"
+    },
+    {
+     "title": "Un muerto y al menos 16 heridos en la Marcha del Orgullo en Berlín después de que un vehículo arrollara a la multitud",
+     "link": "https://www.bbc.com/mundo/articles/c5yv63e67wko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-26T09:33:25+00:00",
+     "copete": "La policía informó que se puso en marcha una intensa búsqueda del conductor del vehículo tras el incidente ocurrido en el centro de la capital alemana.",
+     "id": "dd02965d7afa"
+    },
+    {
+     "title": "El fuego del suroeste de Francia gana terreno y obliga a nuevas evacuaciones masivas",
+     "link": "https://elpais.com/internacional/2026-07-26/el-fuego-del-suroeste-de-francia-gana-terreno-y-obliga-a-nuevas-evacuaciones-masivas.html",
+     "source": "El País Internacional",
+     "published": "2026-07-26T09:32:27+00:00",
+     "copete": "Los fuertes vientos dirigen las llamas hacia Burdeos y las autoridades decretan nuevos desalojos, que ya ascienden a 220.000 personas en la zona",
+     "id": "699205a1f676"
+    },
+    {
+     "title": "What we know so far about the Berlin Pride ramming attack",
+     "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-26T09:18:33+00:00",
+     "copete": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+     "id": "9289efc8a1b9"
+    },
+    {
+     "title": "\"Me lavaron el cerebro por completo\": la secta apocalíptica de los años 80 que atrapó a jóvenes modelos",
+     "link": "https://www.bbc.com/mundo/articles/cd7wqv0vr41o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-26T09:18:01+00:00",
+     "copete": "Liderada por una enigmática figura de la alta sociedad neoyorquina que afirmaba ser un extraterrestre en forma humana, Eternal Values ​​contaba con miembros de élite. Ahora, uno de sus exseguidores más destacados cuenta su historia.",
+     "id": "772aed67db42"
+    },
+    {
+     "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
+     "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-26T09:16:46+00:00",
+     "copete": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
+     "id": "2bec49ca650f"
+    },
+    {
+     "title": "Detenido en Chile el último  prófugo por el asesinato del cantautor Víctor Jara, el exmilitar Nelson Haase Mazzei",
+     "link": "https://elpais.com/chile/2026-07-26/detenido-en-chile-el-ultimo-profugo-por-el-asesinato-del-cantautor-victor-jara-el-exmilitar-nelson-haase-mazzei.html",
+     "source": "El País Internacional",
+     "published": "2026-07-26T09:12:10+00:00",
+     "copete": "El coronel retirado del ejército fue condenado a 25 años de cárcel por el crimen y permanecía oculto en la región de Los Lagos. En septiembre de 1973 se transformó en hombre de confianza de Manuel Contreras, jefe de la policía secreta de…",
+     "id": "cd9458b145b4"
+    },
+    {
+     "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
+     "link": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-26T08:14:55+00:00",
+     "copete": "A 21-year-old suspect has been identified by police, but he has not been found.",
+     "id": "d51e5b239985"
+    },
+    {
      "title": "Daniel Ortega consuma en Nicaragua la última tiranía de América Latina",
      "link": "https://elpais.com/america/2026-07-27/daniel-ortega-consuma-en-nicaragua-la-ultima-dictadura-de-america-latina.html",
      "source": "El País Internacional",
      "published": "2026-07-26T04:00:00+00:00",
      "copete": "El anuncio del mandatario de erradicar los procesos electorales sella la deriva autocrática en el país centroamericano y abre paso a una nueva dinastía familiar",
      "id": "d9120bbfced6"
-    },
-    {
-     "title": "Left-wing Democrats are on a winning run - but can they lure back crucial swing voters?",
-     "link": "https://www.bbc.co.uk/news/articles/c5y3rrd32jlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-26T03:58:51+00:00",
-     "copete": "They have seen a flurry of recent wins, but Michigan will test their ability to win back working-class voters in crucial states.",
-     "id": "5a665a1378d4"
-    },
-    {
-     "title": "Cómo el K-pop se abrió paso en la asfixiante dictadura de Corea del Norte, donde \"solo puede haber un ídolo: Kim Jong-un\"",
-     "link": "https://www.bbc.com/mundo/articles/c70g4pj696ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-26T03:56:27+00:00",
-     "copete": "Desertores cuentan a la BBC que, a pesar de las restricciones, escuchaban K-pop en Corea del Norte en secreto, a menudo sin saber quiénes eran los artistas. Algunos incluso lograron ver presentaciones, sorprendidos por los ídolos de…",
-     "id": "978fa9b1f4ab"
-    },
-    {
-     "title": "Un muerto y al menos 16 heridos en la Marcha del Orgullo en Berlín después de que un vehículo arrollara a la multitud",
-     "link": "https://www.bbc.com/mundo/articles/c5yv63e67wko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-26T03:52:36+00:00",
-     "copete": "La policía informó que se puso en marcha una intensa búsqueda del conductor del vehículo tras el incidente ocurrido en el centro de la capital alemana.",
-     "id": "dd02965d7afa"
-    },
-    {
-     "title": "Irán asume el precio de la guerra para preservar el estratégico control de Ormuz",
-     "link": "https://elpais.com/internacional/2026-07-26/iran-asume-el-precio-de-la-guerra-para-preservar-el-estrategico-control-de-ormuz.html",
-     "source": "El País Internacional",
-     "published": "2026-07-26T03:40:00+00:00",
-     "copete": "Teherán considera que la renuncia a la baza del paso marítimo amenazaría la supervivencia de la República Islámica",
-     "id": "9a83eac145b9"
-    },
-    {
-     "title": "Trump encuentra en Irán su guerra interminable",
-     "link": "https://elpais.com/internacional/2026-07-26/trump-encuentra-en-iran-su-guerra-interminable.html",
-     "source": "El País Internacional",
-     "published": "2026-07-26T03:30:01+00:00",
-     "copete": "La vuelta al enfrentamiento directo con Teherán evidencia la dificultad de EE UU de cerrar un acuerdo de paz y coloca al presidente ante uno de esos conflictos sin salida que prometió abandonar para siempre",
-     "id": "4d73348b13db"
-    },
-    {
-     "title": "El ‘hukou’, la frontera invisible que persigue a los migrantes internos de China",
-     "link": "https://elpais.com/internacional/2026-07-26/el-hukou-la-frontera-invisible-que-persigue-a-los-migrantes-internos-de-china.html",
-     "source": "El País Internacional",
-     "published": "2026-07-26T03:30:01+00:00",
-     "copete": "El Gobierno impulsa una reforma para que casi 358 millones de ciudadanos que viven fuera de donde tienen registrada su residencia accedan a los servicios públicos en igualdad de condiciones que los locales",
-     "id": "faa04b1239bd"
-    },
-    {
-     "title": "\"Es el peor incendio de la historia de Madrid\": los fuegos sin control que han obligado a evacuar a decenas de miles de personas en el centro de España",
-     "link": "https://www.bbc.com/mundo/articles/crrvdq8d9x9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-26T02:33:43+00:00",
-     "copete": "La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, calificó el enorme incendio que afecta a su región como \"el peor de la historia\" y aseguró que la situación era \"totalmente inusual y catastrófica\".",
-     "id": "acc9a714f24d"
-    },
-    {
-     "title": "\"Si me hubiera demorado cinco minutos más, nos habría arrasado\": los testimonios de los afectados por los devastadores incendios en España y Francia",
-     "link": "https://www.bbc.com/mundo/articles/cp9eyv3g9kmo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-26T02:31:05+00:00",
-     "copete": "Las llamas han devastado ya más de 25.000 hectáreas y forzado el desplazamiento de más de 300.000 personas.",
-     "id": "48b783cab892"
-    },
-    {
-     "title": "More than 300,000 flee wildfires in France and Spain",
-     "link": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-26T00:54:06+00:00",
-     "copete": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
-     "id": "cb4ec34d33d3"
     }
    ]
   }

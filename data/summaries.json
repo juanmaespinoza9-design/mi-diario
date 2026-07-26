@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T10:06:43Z",
+  "generated_at": "2026-07-26T22:04:42Z",
   "summaries": {
     "1e50dced5df1": {
       "resumen": "Nota de TCTMD sobre la escasez de cardiólogos especializados en insuficiencia cardíaca avanzada y trasplante cardíaco en numerosos estados de EE. UU. Interesa porque anticipa un problema de acceso a centros de referencia para pacientes con insuficiencia cardíaca terminal, un escenario que también preocupa en sistemas de salud con recursos limitados como el nuestro.",
@@ -45,33 +45,36 @@
       "resumen": "Artículo de opinión de Harlan Krumholz en JACC (Journal of the American College of Cardiology) sobre cómo escribir la sección de discusión de un artículo científico, donde cada párrafo debe cumplir una función clara. Interesa como guía práctica de escritura científica para quien está en transición hacia la producción de investigación en farmacovigilancia y análisis de datos.",
       "destacado": false
     },
-    "4b0ba8d6ce5c": {
-      "resumen": "La venta de entradas para los partidos de Los Pumas representa un ingreso económico inédito para los clubes mendocinos que oficiarán de sede."
-    },
-    "ed629f5abfb3": {
-      "resumen": "Un repaso por el calendario que le queda a Los Pumas hasta fin de año, con los próximos rivales y las fechas ya confirmadas."
-    },
-    "ed2c2e5c3f07": {
-      "resumen": "La prensa deportiva de Chile destacó el gran presente de una figura de Los Pumas, a quien describen atravesando la mejor etapa de su carrera."
-    },
-    "05af30794be9": {
-      "resumen": "Sitio oficial de JetZero, la startup aeroespacial que desarrolla un avión de fuselaje integrado (ala volante, \"blended wing body\") pensado para reducir el consumo de combustible frente a los aviones comerciales tradicionales, tema viral en Hacker News. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo el diseño asistido por simulación y modelos computacionales puede repensar por completo un producto complejo, una lógica trasladable a la modelización de sistemas en medicina.",
+    "e7bd166c2dcc": {
+      "resumen": "Nota de Simon Willison que comenta una investigación de Matt Lenhard sobre el mercado de reventa de tokens de modelos de lenguaje grande (LLM, large language model), donde se agrupan claves de interfaz de programación de aplicaciones (API, application programming interface) de distintos orígenes para revender acceso más barato, muchas veces obtenido de forma fraudulenta. Le sirve a un médico que aprende análisis de datos para entender los riesgos de seguridad y costo ocultos detrás de servicios de inteligencia artificial (IA) \"baratos\", algo relevante si maneja datos sensibles de pacientes con estas herramientas.",
       "destacado": false
     },
-    "8b9e40a968d5": {
-      "resumen": "Proyecto individual publicado en la sección \"Show HN\" de Hacker News que construyó un mapa interactivo con todos los campos de golf de Estados Unidos, combinando datos geoespaciales con una interfaz de visualización. Le sirve a un médico que aprende análisis de datos como ejemplo accesible de un proyecto de punta a punta —recolección de datos, geolocalización y visualización— aplicable después a mapas de recursos de salud o de distribución de patologías.",
+    "9d3e811cbd6d": {
+      "resumen": "Artículo de The Climate Brink sobre el episodio de El Niño (fenómeno climático cíclico que altera la temperatura del océano Pacífico y el clima global) más intenso registrado hasta la fecha. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo se comunican series temporales y anomalías estadísticas a partir de datos históricos, una lógica trasladable al análisis de tendencias epidemiológicas.",
+      "destacado": false
+    },
+    "635287ac5457": {
+      "resumen": "Ensayo personal sobre cómo toda decisión de diseño implica resignar algo a cambio de otra cosa, sin que exista una solución óptima en todos los aspectos a la vez. Le sirve a un médico que aprende análisis de datos porque la misma lógica aplica al construir visualizaciones o tableros de control: cada elección de gráfico prioriza claridad, precisión o simplicidad a costa de las otras.",
+      "destacado": false
+    },
+    "94d030042966": {
+      "resumen": "Artículo original de Vectoral que documenta el mercado de reventa de tokens de modelos de lenguaje grande (LLM, large language model), armado a partir de claves de interfaz de programación de aplicaciones (API) agrupadas de múltiples cuentas, muchas veces obtenidas de forma irregular. Le sirve a un médico que aprende análisis de datos como alerta concreta sobre por qué conviene usar proveedores de inteligencia artificial (IA) confiables y no credenciales de dudosa procedencia al procesar información clínica.",
+      "destacado": false
+    },
+    "43c2499d43c9": {
+      "resumen": "Guía de Towards Data Science con recomendaciones prácticas para escribir instrucciones (prompts) más efectivas al trabajar con Claude Code, el asistente de programación de Anthropic. Le sirve a un médico que aprende análisis de datos porque mejora directamente la productividad al pedirle ayuda a un asistente de inteligencia artificial (IA) para escribir o depurar código de análisis.",
+      "destacado": false
+    },
+    "aa2a1da850d7": {
+      "resumen": "Nota sobre el sistema de valet robótico de Stanley Robotics implementado en el aeropuerto de Gatwick, Londres, que estaciona autos de forma autónoma mediante plataformas robóticas. Le sirve a un médico que aprende análisis de datos como ejemplo de automatización física guiada por sensores y algoritmos, un caso concreto de cómo la robótica se apoya en el mismo tipo de datos y modelos que la inteligencia artificial (IA) que usa a diario.",
+      "destacado": false
+    },
+    "cee646a86e8b": {
+      "resumen": "Artículo de Towards Data Science que explica cómo construir un agente basado en un modelo de lenguaje grande (LLM) capaz de navegar la web, usando el kit de agentes de OpenAI (OpenAI Agents SDK) junto con el protocolo de contexto de modelo (MCP, model context protocol) para controlar un navegador vía Playwright. Le sirve a un médico que aprende análisis de datos como introducción práctica a los agentes de inteligencia artificial (IA) que pueden buscar y extraer información online de forma autónoma, por ejemplo para relevar bibliografía.",
       "destacado": false
     },
     "56eddc9d00c8": {
       "resumen": "Nota de Simon Willison (bitácora especializada en inteligencia artificial y desarrollo de software) sobre el lanzamiento de la versión 0.16.0 de Ruff, la herramienta de análisis y formateo de código (linter) para Python desarrollada por Astral, que sumó nuevas reglas activadas por defecto. Le sirve a un médico que aprende análisis de datos porque Ruff es una herramienta habitual para mantener prolijo y libre de errores el código Python usado en ciencia de datos, y conocer sus cambios evita que los procesos de integración continua (CI, continuous integration) fallen sin aviso previo.",
-      "destacado": false
-    },
-    "8622cff3d13f": {
-      "resumen": "Artículo de IEEE Spectrum, viral en Hacker News, sobre el respaldo de General Motors (GM) a las baterías de iones de sodio como alternativa a las de litio para el almacenamiento de energía en la red eléctrica de Estados Unidos. Le sirve a un médico que aprende análisis de datos porque el almacenamiento energético es la infraestructura que sostiene tanto los centros de datos que entrenan modelos de inteligencia artificial como los sistemas eléctricos hospitalarios, un tema cada vez más ligado a la sustentabilidad de la tecnología que usamos.",
-      "destacado": false
-    },
-    "439112ecdf42": {
-      "resumen": "Publicación del blog de Fly.io (empresa de infraestructura para desarrolladores), viral en Hacker News, cuyo título remite a la letra de David Bowie sobre atravesar el cambio (\"Turn and face the strange\"); sin acceso al contenido no se puede precisar el tema exacto, aunque por la fuente probablemente trate sobre una decisión técnica o un cambio de rumbo en su plataforma de infraestructura. Le sirve a un médico que aprende análisis de datos como lectura sobre cómo las empresas de infraestructura cloud gestionan el cambio técnico, un contexto útil para quien empieza a depender de estas plataformas para correr sus propios análisis.",
       "destacado": false
     },
     "339dea094304": {
@@ -82,17 +85,14 @@
       "resumen": "Resumen semanal de KDnuggets con una selección de recursos sobre inteligencia artificial (IA) y ciencia de datos: los servidores más usados del protocolo de contexto de modelo (MCP, model context protocol), un curso gratuito de IA agéntica de Kaggle y Google, y un método para evaluar las alucinaciones de los modelos de lenguaje (GraphEval). Le sirve a un médico que aprende análisis de datos como curaduría semanal para descubrir cursos y herramientas nuevas sin tener que rastrear cada fuente por separado.",
       "destacado": false
     },
-    "5299e9822629": {
-      "resumen": "Artículo de Towards Data Science que explica cómo generar una simulación realista de dinámica de fluidos (como la calle de vórtices de Kármán) sin resolver directamente las ecuaciones de fluidos, usando el método de Lattice Boltzmann, implementado en C++ y corrido en una supercomputadora. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo un modelo computacional alternativo puede simplificar drásticamente un problema físico complejo, una lógica trasladable a otros modelos de simulación en salud.",
-      "destacado": false
+    "0ff24480bb6d": {
+      "resumen": "Un jugador que superó una situación límite de salud debutó en los Springboks de Sudáfrica y ahora podría cruzarse con Los Pumas."
     },
-    "b9a9425a3815": {
-      "resumen": "Hilo de r/datascience donde se debate qué herramientas y lenguajes conviene dominar de cara a 2026/2027 para trabajar en ciencia de datos. Le sirve a un médico que aprende análisis de datos como guía para priorizar qué aprender primero (por ejemplo Python, SQL o herramientas de inteligencia artificial) sin dispersar el esfuerzo.",
-      "destacado": false
+    "a369f5130533": {
+      "resumen": "El duelo entre Los Pumas y Australia en Mendoza aparece como una oportunidad para impulsar el desarrollo del rugby en la provincia."
     },
-    "c05482ab3a04": {
-      "resumen": "Hilo de r/datascience (foro de Reddit sobre ciencia de datos) donde se debaten criterios prácticos para decidir cuándo un problema realmente necesita aprendizaje automático (machine learning) y cuándo alcanza con reglas simples o estadística clásica. Le sirve a un médico que aprende análisis de datos porque ayuda a evitar la tentación de usar modelos complejos cuando un enfoque más simple resuelve el problema igual de bien.",
-      "destacado": false
+    "6b49d51c4079": {
+      "resumen": "Albornoz fue citado por el tribunal disciplinario y podría recibir una sanción dura por lo ocurrido en la cancha."
     }
   }
 }

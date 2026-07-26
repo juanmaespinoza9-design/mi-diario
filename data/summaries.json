@@ -1,10 +1,23 @@
 {
-  "generated_at": "2026-07-25T22:05:57Z",
+  "generated_at": "2026-07-26T10:06:43Z",
   "summaries": {
+    "1e50dced5df1": {
+      "resumen": "Nota de TCTMD sobre la escasez de cardiólogos especializados en insuficiencia cardíaca avanzada y trasplante cardíaco en numerosos estados de EE. UU. Interesa porque anticipa un problema de acceso a centros de referencia para pacientes con insuficiencia cardíaca terminal, un escenario que también preocupa en sistemas de salud con recursos limitados como el nuestro.",
+      "destacado": false
+    },
+    "33a888c204d2": {
+      "resumen": "Cobertura de TCTMD sobre la actualización del consenso del Colegio Americano de Cardiología (ACC, American College of Cardiology) para el manejo de la insuficiencia cardíaca con fracción de eyección preservada (ICFEp), que refuerza el rol de la finerenona (antagonista no esteroideo del receptor de mineralocorticoides) y pone mayor énfasis en los agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1). Interesa porque resume en qué cambia la práctica recomendada para una entidad muy prevalente y con opciones terapéuticas antes limitadas.",
+      "destacado": false
+    },
     "1115a995481c": {
       "resumen": "Nota de TCTMD sobre un análisis que muestra un aumento sostenido de las amputaciones vinculadas a la enfermedad arterial periférica (EAP, arteriopatía obstructiva de los miembros inferiores), con una carga que ya no se concentra solo en los centros de referencia sino que se distribuye entre un número creciente de hospitales. Interesa porque refleja cómo la isquemia crónica de miembros inferiores se está volviendo un problema de salud pública más amplio, con implicancias para la organización de los servicios vasculares y la prevención cardiovascular.",
       "destacado": false,
       "analisis": "Diseño: Por el título parece un análisis de datos hospitalarios (probablemente de registros o bases administrativas) sobre tendencias de amputación; sin abstract no se puede precisar si es un estudio de cohorte, transversal, ni el número de centros o pacientes incluidos.\nPoblación: Pacientes con enfermedad arterial periférica avanzada sometidos a amputación de miembros inferiores, en distintos tipos de hospitales (de referencia vs. comunitarios).\nIntervención: No aplica una intervención terapéutica; se describe la distribución y evolución temporal de las amputaciones entre distintos tipos de centros.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar la fuente de datos, el período analizado ni si se ajustó por gravedad de la enfermedad o acceso a revascularización.\nMensaje: Sugiere que la carga de las amputaciones por enfermedad vascular periférica se está expandiendo más allá de los centros especializados, lo que podría reflejar brechas en la prevención y el tratamiento oportuno de la isquemia de miembros inferiores.\nNota: análisis sin acceso al abstract."
+    },
+    "1727716cfea3": {
+      "resumen": "Documento oficial del Colegio Americano de Cardiología (ACC) publicado en JACC (Journal of the American College of Cardiology) que actualiza el algoritmo de manejo de la insuficiencia cardíaca con fracción de eyección preservada (ICFEp), con foco en la finerenona y los agonistas del receptor de GLP-1. Interesa como referencia directa de consulta en la práctica diaria, más allá del resumen periodístico de TCTMD sobre el mismo consenso.",
+      "destacado": false,
+      "analisis": "Diseño: Documento de consenso de expertos (Expert Consensus Decision Pathway) del Colegio Americano de Cardiología (ACC); no es un ensayo clínico original sino una guía de práctica que sintetiza evidencia previa sobre insuficiencia cardíaca con fracción de eyección preservada (ICFEp).\nPoblación: Pacientes adultos con diagnóstico de ICFEp, en distintos escenarios de manejo ambulatorio y hospitalario.\nIntervención: No aplica una intervención experimental; el documento propone un algoritmo escalonado que refuerza el lugar de la finerenona (antagonista no esteroideo del receptor de mineralocorticoides) y los agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1), sumados a los pilares ya establecidos como los inhibidores de SGLT2 (cotransportador sodio-glucosa tipo 2).\nResultados: No aplica; el documento no reporta datos originales de eficacia, se apoya en la evidencia de los ensayos que sustentan cada fármaco recomendado.\nLimitaciones: Al ser un consenso de expertos y no una revisión sistemática formal ni un ensayo clínico, las recomendaciones combinan evidencia de distinto peso con juicio clínico; no aborda en detalle la aplicabilidad ni el costo en sistemas de salud con recursos limitados.\nMensaje: Actualiza el algoritmo de manejo de la ICFEp, consolidando a la finerenona y los agonistas de GLP-1 como piezas centrales del tratamiento junto a los inhibidores de SGLT2.\nNota: análisis sin acceso al abstract."
     },
     "e23c37eed3bf": {
       "resumen": "Nota de TCTMD sobre un estudio que muestra que cuantificar la inflamación perivascular en tomografías computadas sin contraste (no-contrast scans) mejoraría la predicción del riesgo cardiovascular, incluso cuando no se dispone de angiotomografía coronaria con contraste. Interesa porque abre la puerta a extraer información pronóstica adicional de estudios de imagen ya solicitados por otros motivos (por ejemplo, score de calcio coronario), sin exponer al paciente a contraste yodado.",
@@ -32,40 +45,38 @@
       "resumen": "Artículo de opinión de Harlan Krumholz en JACC (Journal of the American College of Cardiology) sobre cómo escribir la sección de discusión de un artículo científico, donde cada párrafo debe cumplir una función clara. Interesa como guía práctica de escritura científica para quien está en transición hacia la producción de investigación en farmacovigilancia y análisis de datos.",
       "destacado": false
     },
-    "1e50dced5df1": {
-      "resumen": "Nota de TCTMD sobre la escasez de cardiólogos especializados en insuficiencia cardíaca avanzada y trasplante cardíaco en numerosos estados de EE. UU. Interesa porque anticipa un problema de acceso a centros de referencia para pacientes con insuficiencia cardíaca terminal, un escenario que también preocupa en sistemas de salud con recursos limitados como el nuestro.",
+    "4b0ba8d6ce5c": {
+      "resumen": "La venta de entradas para los partidos de Los Pumas representa un ingreso económico inédito para los clubes mendocinos que oficiarán de sede."
+    },
+    "ed629f5abfb3": {
+      "resumen": "Un repaso por el calendario que le queda a Los Pumas hasta fin de año, con los próximos rivales y las fechas ya confirmadas."
+    },
+    "ed2c2e5c3f07": {
+      "resumen": "La prensa deportiva de Chile destacó el gran presente de una figura de Los Pumas, a quien describen atravesando la mejor etapa de su carrera."
+    },
+    "05af30794be9": {
+      "resumen": "Sitio oficial de JetZero, la startup aeroespacial que desarrolla un avión de fuselaje integrado (ala volante, \"blended wing body\") pensado para reducir el consumo de combustible frente a los aviones comerciales tradicionales, tema viral en Hacker News. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo el diseño asistido por simulación y modelos computacionales puede repensar por completo un producto complejo, una lógica trasladable a la modelización de sistemas en medicina.",
       "destacado": false
     },
-    "33a888c204d2": {
-      "resumen": "Cobertura de TCTMD sobre la actualización del consenso del Colegio Americano de Cardiología (ACC, American College of Cardiology) para el manejo de la insuficiencia cardíaca con fracción de eyección preservada (ICFEp), que refuerza el rol de la finerenona (antagonista no esteroideo del receptor de mineralocorticoides) y pone mayor énfasis en los agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1). Interesa porque resume en qué cambia la práctica recomendada para una entidad muy prevalente y con opciones terapéuticas antes limitadas.",
+    "8b9e40a968d5": {
+      "resumen": "Proyecto individual publicado en la sección \"Show HN\" de Hacker News que construyó un mapa interactivo con todos los campos de golf de Estados Unidos, combinando datos geoespaciales con una interfaz de visualización. Le sirve a un médico que aprende análisis de datos como ejemplo accesible de un proyecto de punta a punta —recolección de datos, geolocalización y visualización— aplicable después a mapas de recursos de salud o de distribución de patologías.",
       "destacado": false
     },
-    "1727716cfea3": {
-      "resumen": "Documento oficial del Colegio Americano de Cardiología (ACC) publicado en JACC (Journal of the American College of Cardiology) que actualiza el algoritmo de manejo de la insuficiencia cardíaca con fracción de eyección preservada (ICFEp), con foco en la finerenona y los agonistas del receptor de GLP-1. Interesa como referencia directa de consulta en la práctica diaria, más allá del resumen periodístico de TCTMD sobre el mismo consenso.",
-      "destacado": false,
-      "analisis": "Diseño: Documento de consenso de expertos (Expert Consensus Decision Pathway) del Colegio Americano de Cardiología (ACC); no es un ensayo clínico original sino una guía de práctica que sintetiza evidencia previa sobre insuficiencia cardíaca con fracción de eyección preservada (ICFEp).\nPoblación: Pacientes adultos con diagnóstico de ICFEp, en distintos escenarios de manejo ambulatorio y hospitalario.\nIntervención: No aplica una intervención experimental; el documento propone un algoritmo escalonado que refuerza el lugar de la finerenona (antagonista no esteroideo del receptor de mineralocorticoides) y los agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1), sumados a los pilares ya establecidos como los inhibidores de SGLT2 (cotransportador sodio-glucosa tipo 2).\nResultados: No aplica; el documento no reporta datos originales de eficacia, se apoya en la evidencia de los ensayos que sustentan cada fármaco recomendado.\nLimitaciones: Al ser un consenso de expertos y no una revisión sistemática formal ni un ensayo clínico, las recomendaciones combinan evidencia de distinto peso con juicio clínico; no aborda en detalle la aplicabilidad ni el costo en sistemas de salud con recursos limitados.\nMensaje: Actualiza el algoritmo de manejo de la ICFEp, consolidando a la finerenona y los agonistas de GLP-1 como piezas centrales del tratamiento junto a los inhibidores de SGLT2.\nNota: análisis sin acceso al abstract."
+    "56eddc9d00c8": {
+      "resumen": "Nota de Simon Willison (bitácora especializada en inteligencia artificial y desarrollo de software) sobre el lanzamiento de la versión 0.16.0 de Ruff, la herramienta de análisis y formateo de código (linter) para Python desarrollada por Astral, que sumó nuevas reglas activadas por defecto. Le sirve a un médico que aprende análisis de datos porque Ruff es una herramienta habitual para mantener prolijo y libre de errores el código Python usado en ciencia de datos, y conocer sus cambios evita que los procesos de integración continua (CI, continuous integration) fallen sin aviso previo.",
+      "destacado": false
     },
-    "2e425db2fe44": {
-      "resumen": "Réplica en The New England Journal of Medicine (NEJM) de los autores originales a una carta que cuestiona los resultados de un estudio sobre el cierre percutáneo de la orejuela izquierda (LAAC, left atrial appendage closure) para la prevención de eventos tromboembólicos en la fibrilación auricular (FA). Interesa porque este tipo de intercambio editorial suele aclarar matices metodológicos o de interpretación de un ensayo que puede influir en cuándo indicar esta alternativa a la anticoagulación oral."
+    "8622cff3d13f": {
+      "resumen": "Artículo de IEEE Spectrum, viral en Hacker News, sobre el respaldo de General Motors (GM) a las baterías de iones de sodio como alternativa a las de litio para el almacenamiento de energía en la red eléctrica de Estados Unidos. Le sirve a un médico que aprende análisis de datos porque el almacenamiento energético es la infraestructura que sostiene tanto los centros de datos que entrenan modelos de inteligencia artificial como los sistemas eléctricos hospitalarios, un tema cada vez más ligado a la sustentabilidad de la tecnología que usamos.",
+      "destacado": false
     },
-    "86af87019f7b": {
-      "resumen": "Carta al editor en The New England Journal of Medicine (NEJM) que discute un estudio reciente sobre el cierre percutáneo de la orejuela izquierda (LAAC) en pacientes con fibrilación auricular (FA), probablemente cuestionando algún aspecto metodológico o la interpretación de sus resultados. Interesa porque este tipo de discusión ayuda a matizar la evidencia sobre una técnica cada vez más usada como alternativa a la anticoagulación crónica."
-    },
-    "03cbe2e6bb9b": {
-      "resumen": "Ensayo personal, publicado en Substack y viralizado en Hacker News, sobre la experiencia subjetiva de adentrarse en las matemáticas avanzadas: la confusión y la duda que atraviesa quien estudia conceptos abstractos antes de terminar de comprenderlos. Le sirve a un médico que aprende análisis de datos porque normaliza esa sensación de estar perdido al estudiar estadística o aprendizaje automático (machine learning) antes de que los conceptos terminen de encajar.",
+    "439112ecdf42": {
+      "resumen": "Publicación del blog de Fly.io (empresa de infraestructura para desarrolladores), viral en Hacker News, cuyo título remite a la letra de David Bowie sobre atravesar el cambio (\"Turn and face the strange\"); sin acceso al contenido no se puede precisar el tema exacto, aunque por la fuente probablemente trate sobre una decisión técnica o un cambio de rumbo en su plataforma de infraestructura. Le sirve a un médico que aprende análisis de datos como lectura sobre cómo las empresas de infraestructura cloud gestionan el cambio técnico, un contexto útil para quien empieza a depender de estas plataformas para correr sus propios análisis.",
       "destacado": false
     },
     "339dea094304": {
       "resumen": "Artículo de Towards Data Science que compara los índices de búsqueda vectorial aproximada (ANN, approximate nearest neighbor) que viven en memoria (in-memory) contra los que residen en disco (on-disk), como HNSW, SPANN y DiskANN, para reducir el costo de infraestructura sin resignar demasiada velocidad de búsqueda. Le sirve a un médico que aprende análisis de datos porque estos índices son la base de los sistemas de recuperación aumentada por generación (RAG, retrieval-augmented generation) que se usan para buscar en bibliografía médica o historias clínicas con inteligencia artificial (IA).",
       "destacado": true
-    },
-    "5d1487ccbccb": {
-      "resumen": "Nota de un blog personal, difundida en Hacker News, que compara el auge actual de los modelos de inteligencia artificial (IA) de pesos abiertos (open-weight) con el momento en que Kubernetes se consolidó como estándar para orquestar infraestructura, sugiriendo que el ecosistema de IA abierta está madurando de forma parecida. Le sirve a un médico que aprende análisis de datos porque ayuda a entender hacia dónde va la infraestructura de IA que eventualmente podría correr de forma local en un hospital o centro de investigación.",
-      "destacado": false
-    },
-    "01266390edec": {
-      "resumen": "Nota en Hacker News sobre la disponibilidad de Bitchat, una aplicación de mensajería descentralizada, en Radicle, una red de alojamiento de código sin servidores centrales (peer-to-peer). Le sirve a un médico que aprende análisis de datos como ejemplo de arquitecturas descentralizadas que no dependen de un único servidor, un concepto relevante al pensar en la privacidad y la soberanía de los datos clínicos.",
-      "destacado": false
     },
     "6efed5ac22ba": {
       "resumen": "Resumen semanal de KDnuggets con una selección de recursos sobre inteligencia artificial (IA) y ciencia de datos: los servidores más usados del protocolo de contexto de modelo (MCP, model context protocol), un curso gratuito de IA agéntica de Kaggle y Google, y un método para evaluar las alucinaciones de los modelos de lenguaje (GraphEval). Le sirve a un médico que aprende análisis de datos como curaduría semanal para descubrir cursos y herramientas nuevas sin tener que rastrear cada fuente por separado.",
@@ -75,10 +86,6 @@
       "resumen": "Artículo de Towards Data Science que explica cómo generar una simulación realista de dinámica de fluidos (como la calle de vórtices de Kármán) sin resolver directamente las ecuaciones de fluidos, usando el método de Lattice Boltzmann, implementado en C++ y corrido en una supercomputadora. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo un modelo computacional alternativo puede simplificar drásticamente un problema físico complejo, una lógica trasladable a otros modelos de simulación en salud.",
       "destacado": false
     },
-    "e4b996acdef1": {
-      "resumen": "Relato en un blog personal, difundido en Hacker News, sobre el proceso interno —a veces caótico— de construir y lanzar la distribución Linux Fedora 45. Le sirve a un médico que aprende análisis de datos porque expone cómo funciona por dentro el software de código abierto (open source) que probablemente use a diario para programar o analizar datos.",
-      "destacado": false
-    },
     "b9a9425a3815": {
       "resumen": "Hilo de r/datascience donde se debate qué herramientas y lenguajes conviene dominar de cara a 2026/2027 para trabajar en ciencia de datos. Le sirve a un médico que aprende análisis de datos como guía para priorizar qué aprender primero (por ejemplo Python, SQL o herramientas de inteligencia artificial) sin dispersar el esfuerzo.",
       "destacado": false
@@ -86,19 +93,6 @@
     "c05482ab3a04": {
       "resumen": "Hilo de r/datascience (foro de Reddit sobre ciencia de datos) donde se debaten criterios prácticos para decidir cuándo un problema realmente necesita aprendizaje automático (machine learning) y cuándo alcanza con reglas simples o estadística clásica. Le sirve a un médico que aprende análisis de datos porque ayuda a evitar la tentación de usar modelos complejos cuando un enfoque más simple resuelve el problema igual de bien.",
       "destacado": false
-    },
-    "9e10b8bb9cb2": {
-      "resumen": "Cita de Simon Willison (bitácora especializada en inteligencia artificial) a Boris Cherny, que señala a Claude Opus 5 como el modelo de Anthropic más resistente hasta ahora a la inyección de instrucciones maliciosas (prompt injection), según las evaluaciones de seguridad y pruebas de penetración (red teaming) de su reporte técnico. Le sirve a un médico que aprende análisis de datos porque esta resistencia es clave si va a conectar asistentes de inteligencia artificial (IA) a datos clínicos o de investigación.",
-      "destacado": false
-    },
-    "4b0ba8d6ce5c": {
-      "resumen": "La venta de entradas para los partidos de Los Pumas representa un ingreso económico inédito para los clubes mendocinos que oficiarán de sede."
-    },
-    "ed629f5abfb3": {
-      "resumen": "Un repaso por el calendario que le queda a Los Pumas hasta fin de año, con los próximos rivales y las fechas ya confirmadas."
-    },
-    "8678d3ea267b": {
-      "resumen": "La prensa internacional destacó el gran presente futbolístico de un referente del seleccionado argentino de rugby."
     }
   }
 }

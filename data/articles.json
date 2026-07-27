@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-26T23:24:58.620445+00:00",
+ "generated_at": "2026-07-27T04:10:01.459537+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -34,6 +34,22 @@
      "published": "2026-07-23T00:00:00+00:00",
      "copete": "Kittleson MM et al. · Journal of the American College of Cardiology",
      "id": "1727716cfea3"
+    },
+    {
+     "title": "Left Atrial Appendage Closure in Atrial Fibrillation. Reply",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42485638/",
+     "source": "NEJM Cardiología",
+     "published": "2026-07-23T00:00:00+00:00",
+     "copete": "Landmesser U et al. · The New England journal of medicine",
+     "id": "2e425db2fe44"
+    },
+    {
+     "title": "Left Atrial Appendage Closure in Atrial Fibrillation",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42485637/",
+     "source": "NEJM Cardiología",
+     "published": "2026-07-23T00:00:00+00:00",
+     "copete": "Garg J et al. · The New England journal of medicine",
+     "id": "86af87019f7b"
     },
     {
      "title": "Quantifying Inflammation Can Add to CV Risk Prediction Even in No-Contrast Scans",
@@ -89,28 +105,43 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Video: mala marca de Boca en los dos goles de Riestra",
-     "link": "https://www.ole.com.ar/futbol-primera/boca-riestra-defensa-arruabarrena_0_iPymRO3IaR.html",
+     "title": "Nuevas reglas: hecha la ley, hecha la trampa",
+     "link": "https://www.ole.com.ar/opinion/nuevas-reglas-ley-trampa-fifa-direccion-arbitraje-beligoy_0_pTeai2kuGy.html",
      "source": "Olé — Primera",
-     "published": "2026-07-26T22:55:45+00:00",
-     "copete": "Los dos tantos llegaron de cabeza. En el primero, Braida no calculcó bien un centro y Braian Sánchez cabeceó sin que los zagueros centrales, Di Lollo y Pellegrino, lo encimaran. En el segundo: Montero no reaccionó.",
-     "id": "c8d25de04a68"
+     "published": "2026-07-27T02:51:44+00:00",
+     "copete": "En el Clausura pusieron en vigencia las nuevas reglas FIFA para contrarrestar la pérdida de tiempo, pero con jugadores tramposos y árbitros cómplices difícilmente mejore el tiempo neto de juego.",
+     "id": "77afd8e19e1d"
     },
     {
-     "title": "Video: mala marca de Boca en el 1 a 0 de Riestra",
-     "link": "https://www.ole.com.ar/futbol-primera/boca-riestra-defensa-gol-arruabarrena-sanchez_0_DC1PBVERcp.html",
+     "title": "Los cinco hechos lapidarios de la derrota de Boca frente a Riestra",
+     "link": "https://www.ole.com.ar/futbol-primera/boca-riestra-goleada-hechos-lapidarios-derrota-clausura-resultado_0_QI2Gp9PuL4.html",
      "source": "Olé — Primera",
-     "published": "2026-07-26T22:54:03+00:00",
-     "copete": "Braida no calculcó bien un centro y Braian Sánchez cabeceó sin que los zagueros centrales, Di Lollo y Pellegrino, lo encimaran.",
-     "id": "d9fbe6e79446"
+     "published": "2026-07-27T02:05:46+00:00",
+     "copete": "El Xeneize se comió un tremendo cachetazo en el Guillermo Laza, donde cayó por 3-0 y empezó el Torneo Clausura con el pie izquierdo.",
+     "id": "16308cb0e428"
     },
     {
-     "title": "Los videos del partido entre Boca y Riestra",
-     "link": "https://www.ole.com.ar/futbol-primera/boca-riestra-torneo-clausura-videos-mejores-momentos_0_XGAwQ4Hm9x.html",
+     "title": "Quintero volvió a jugar 48 horas después de rescindir con River y enfrentó a Armani",
+     "link": "https://www.ole.com.ar/river-plate/quintero-rescision-river-armani-cafetero-atleticonacional_0_Euvfn6BZKG.html",
+     "source": "Olé — River",
+     "published": "2026-07-27T01:07:29+00:00",
+     "copete": "Juanfer fue parte de un homenaje en Medellín al ex futbolista Macnelly Torres. El ex arquero del Millo estuvo en el equipo rival.",
+     "id": "f1ff64e86089"
+    },
+    {
+     "title": "Los mejores memes por la dura derrota de Boca ante Riestra",
+     "link": "https://www.ole.com.ar/futbol-primera/boca-riestra-memes-derrota-cargadas_0_g5mdBvW252.html",
      "source": "Olé — Primera",
-     "published": "2026-07-26T22:51:34+00:00",
-     "copete": "El Xeneize debuta en el Clausura ante el Malevo en el Bajo Flores. Acá, repasamos los mejores momentos del encuentro.",
-     "id": "427371a94456"
+     "published": "2026-07-27T00:55:49+00:00",
+     "copete": "El Malevo goleó al Xeneize y las redes estallaron. Acá, las mejores gastadas tras el papelón en el Bajo Flores.",
+     "id": "51d7c4ec3812"
+    },
+    {
+     "title": "¿Cómo Los Pumas vs Australia ayudará al Rugby de Mendoza?",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQTA1MUl6cE5lYUt4VjRzZnBrR19wd1hQLXQwaDcwNWdVeGlTMG4wcGs4T19za2RHNHpZNXY0XzNNdUYxQkNUdm8tMmJ5Uzh5Tll4T25nNHR6Rl9oZTIzR1E1cXNFYUFsYTR3WVE5Wkg3aG9zYUlMaWQxUlV3ZmgycC1scS1QcmNqbEMzZHM1aDQ3bDg0NXdscExwT2R4WFZBakxVeHpWUzBOalNydkZKa1liV2hJcGFwVjJQN01JU05uQWFjS1M1Ni13WWVCZ2ZIQTFIMFp5OFNBYUpHTktpN016akFoTEU1cEExOTVoU2hZOEk?oc=5",
+     "source": "ESPN Guatemala",
+     "published": "2026-07-26T23:49:25+00:00",
+     "id": "7eb838e4818e"
     },
     {
      "title": "Qué negociaciones buscará acelerar River esta semana",
@@ -119,6 +150,13 @@
      "published": "2026-07-26T22:32:02+00:00",
      "copete": "Luego de la derrota vs. Barracas Central, la dirigencia intentará cerrar algunas de las tratativas que tiene en marcha. Apellidos y lo que puede pasar en la última semana del mercado de pases argentino.",
      "id": "4f75355e9321"
+    },
+    {
+     "title": "Las entradas que quedan para ver a Los Pumas en Jujuy: precios y ubicaciones disponibles",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWEJUTlpYYzdKVmNEZ2kzY2Y3NEpGUzVwNGpKZ0t5WGV5dW92bE9vdEhPblZNeFJra0xHV1NtTnZnLUZQN18wT2tIMWlvTU1BcE1GSmNwZjJNVkxxM2tyWWZZT1lkSHlzXzY1Z2FhWXF3YUFtOVRFdzZiWEh1TDFmWUZidTdqOEdfYTdXMnVTZFRJX2tlM1dEbHlWSTZHOUVUaEtsb0xrVVUxZlNJcUw0NW1qQ0XSAboBQVVfeXFMT1hmMjl3OXlPaHl3WXdBWWg3WmNyMkdPUk93ZnJuTGh6bEdFaUdLbHNnc2R1bHJLQnVLeDRpQ2ZOS3BiTHh4eFpVQnRmT244Wnh6NTVvQ2hFR1BrMUpkdUxVbjdVQXlrSWtGRmVhc1hMWF9fOGIyNHRrRTZvVl9PSDRCc29FZDE0X3J6OXZqUWF4ZVg0Q2VTSkloNy1ldk5jY0x3YkJ2SHl1SU1GUkRIVGRSbWtWcHMtM2R3?oc=5",
+     "source": "Somos Jujuy",
+     "published": "2026-07-26T20:30:00+00:00",
+     "id": "594ee5ffcb67"
     },
     {
      "title": "El paso a paso de cómo River llegó a este incómodo momento",
@@ -152,28 +190,6 @@
      "id": "eb880dfd68d8"
     },
     {
-     "title": "Correa agrandó la lista: todos los campeones del mundo que jugaron en River",
-     "link": "https://www.ole.com.ar/river-plate/river-campeones-mundo-jugaron-river_0_nz4fUckXgv.html",
-     "source": "Olé — River",
-     "published": "2026-07-26T14:01:26+00:00",
-     "copete": "Con la llegada de Ángel Correa, son 23 los campeones del mundo con sus selecciones que se pusieron la banda.",
-     "id": "fd7455116674"
-    },
-    {
-     "title": "¿Cómo Los Pumas vs Australia ayudará al Rugby de Mendoza?",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQU19rYlh0eDhDcWdpeTNrRUptdnoyUnhDdGtIQzhicVpVOUZDWUpfNG96LXFiTXl5RngxSWw5cndGd2IyQWxNMkozd2tTOG5OU1g3dW90SWFnNnFCcFp6R2o3VDBPUmJUVlMtd09Udmtxck1yaUh3X2llajZmcXJaZnVNTFQxX0pDUmVIV0pEUFMwMFBJM0FKRnBNM0pySm42UFROTUF2SHdFNi1LWHhULWVwZjUxdG5LR1hYZG1hRlhGRzl1bXVsREJVQTUtZFpmS1gtblFWdV9wTkdOcTd6bE4wWk1qNXp3TlR3OEVsQTdKN2M?oc=5",
-     "source": "ESPN Argentina",
-     "published": "2026-07-26T13:14:00+00:00",
-     "id": "a369f5130533"
-    },
-    {
-     "title": "Albornoz fue citado y podría enfrentar una dura sanción",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOS16alIwMjlQVkxwUkRIcWdZZl9vd1JRQ0JWMndXWDc5elNCeG1fcmdtTGZwbUNXcVBPS01oTHBBcV9OalhicjltNlIxMlNDNld6c3hjdkZGN3lKYmlTRWxOdDVhQ3daSkhINTNsRWhfMnZMa3UwOVItdkNHZ3I3V1MzRFNPamxZZU9EY3gyc25scVU?oc=5",
-     "source": "El Eco",
-     "published": "2026-07-26T09:31:13+00:00",
-     "id": "6b49d51c4079"
-    },
-    {
      "title": "Se jugó una nueva fecha del Torneo del Interior Copa Zurich",
      "link": "https://uar.com.ar/se-jugo-una-nueva-fecha-del-torneo-del-interior-copa-zurich/",
      "source": "UAR",
@@ -189,6 +205,34 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Weekly Entering & Transitioning - Thread 27 Jul, 2026 - 03 Aug, 2026",
+     "link": "https://www.reddit.com/r/datascience/comments/1v7pjli/weekly_entering_transitioning_thread_27_jul_2026/",
+     "source": "r/datascience",
+     "published": "2026-07-27T04:01:18+00:00",
+     "id": "062d377cc89b"
+    },
+    {
+     "title": "PGSimCity - How PostgreSQL Works",
+     "link": "https://nikolays.github.io/PGSimCity/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-27T00:19:04+00:00",
+     "id": "f3972832c2c9"
+    },
+    {
+     "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+     "link": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-26T22:21:41+00:00",
+     "id": "afec1688213e"
+    },
+    {
+     "title": "We have proof automation now",
+     "link": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-26T20:53:26+00:00",
+     "id": "a2b2343f8427"
+    },
+    {
      "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
      "link": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything",
      "source": "Simon Willison (IA)",
@@ -197,32 +241,11 @@
      "id": "e7bd166c2dcc"
     },
     {
-     "title": "The Strongest El Niño Ever",
-     "link": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-26T18:35:36+00:00",
-     "id": "9d3e811cbd6d"
-    },
-    {
      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
      "link": "https://beyondloom.com/decker/",
      "source": "Hacker News (100+ puntos)",
      "published": "2026-07-26T18:23:06+00:00",
      "id": "60f7eea84202"
-    },
-    {
-     "title": "It's not empowering to hand off the details",
-     "link": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-26T17:58:02+00:00",
-     "id": "93c5baa8a18f"
-    },
-    {
-     "title": "French firefighters face 'pyrocumulonimbus' for first time",
-     "link": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-26T17:49:44+00:00",
-     "id": "41a2f99aa8b5"
     },
     {
      "title": "How to Efficiently Prompt Claude Code",
@@ -255,14 +278,6 @@
      "published": "2026-07-25T15:00:00+00:00",
      "copete": "Architecting cost-effective infrastructure by navigating the latency and storage trade-offs of HNSW, SPANN, and DiskANN The post How to Optimize Vector Search When RAM Gets Too Expensive: On-Disk vs. In-Memory ANN Indexes appeared first on…",
      "id": "339dea094304"
-    },
-    {
-     "title": "KDnuggets Weekly Roundup: Week of July 20, 2026",
-     "link": "https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-20",
-     "source": "KDnuggets",
-     "published": "2026-07-25T13:00:37+00:00",
-     "copete": "Top 5 MCP Servers for High Performance Agentic Development • 10 Newsletters Keeping You Ahead in AI • Kaggle + Google’s Free 5-Day Agentic AI Course • Language Model Hallucination Evaluation with GraphEval",
-     "id": "6efed5ac22ba"
     }
    ]
   },
@@ -272,100 +287,99 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Boca pierde por goleada ante Deportivo Riestra en su debut en el Torneo Clausura",
-     "link": "https://www.infobae.com/deportes/2026/07/26/boca-juniors-visitara-a-deportivo-riestra-por-el-torneo-clausura-hora-tv-y-formaciones/",
+     "title": "Arzobispado de San Salvador anuncia el calendario de las fiestas patronales en honor al Divino Salvador del Mundo",
+     "link": "https://www.infobae.com/el-salvador/2026/07/27/arzobispado-de-san-salvador-anuncia-el-calendario-de-las-fiestas-patronales-en-honor-al-divino-salvador-del-mundo/",
      "source": "Infobae",
-     "published": "2026-07-26T23:23:00+00:00",
-     "copete": "Luego del triunfo por Copa Sudamericana, el equipo del Vasco Arruabarrena debuta en el certamen local ante el Malevo. Transmite ESPN Premium",
-     "id": "b6fdaeca9410"
+     "published": "2026-07-27T04:08:33+00:00",
+     "copete": "La invitación la lidera José Luis Escobar Alas e incluye una novena desde el 28 de julio, recorridos por templos del centro y una consigna enfocada en la concordia entre países",
+     "id": "0317bd552d46"
     },
     {
-     "title": "Crece la tensión diplomática: el gobierno de Brasil también convocó al embajador argentino tras los dichos de Milei",
-     "link": "https://www.infobae.com/politica/2026/07/26/crece-la-tension-diplomatica-el-gobierno-de-brasil-convoco-al-embajador-argentino-tras-los-dichos-de-milei/",
+     "title": "Ministro de Seguridad de Panamá niega que el Clan del Golfo opere en el Darién",
+     "link": "https://www.infobae.com/panama/2026/07/27/ministro-de-seguridad-de-panama-niega-que-el-clan-del-golfo-opere-en-el-darien/",
      "source": "Infobae",
-     "published": "2026-07-26T23:21:55+00:00",
-     "copete": "El llamado al representante diplomático se suma a la medida previa de citar a su propio enviado en Buenos Aires a raíz de las expresiones del jefe de Estado de Argentina durante un acto en San Pablo",
-     "id": "ca7199acdc40"
+     "published": "2026-07-27T04:07:43+00:00",
+     "copete": "El titular de Seguridad Pública afirmó que no existe notificación oficial sobre incursiones, refugio o asentamientos de esa banda ni de disidencias de las FARC en la zona del Darién",
+     "id": "5f463e592c75"
     },
     {
-     "title": "El grosero error entre Funes Mori y Muslera que derivó en el gol que definió el triunfo de Independiente ante Estudiantes",
-     "link": "https://www.infobae.com/deportes/2026/07/26/el-grosero-error-entre-funes-mori-y-muslera-que-derivo-en-el-gol-que-definio-el-triunfo-de-independiente-ante-estudiantes/",
+     "title": "Capturan a seis personas por desviar el curso de una quebrada para realizar trabajos de minería ilegal en Panamá",
+     "link": "https://www.infobae.com/panama/2026/07/27/fueron-capturados-por-desviar-el-curso-de-una-quebrada-para-realizar-trabajos-de-mineria-ilegal-en-panama/",
      "source": "Infobae",
-     "published": "2026-07-26T23:21:27+00:00",
-     "copete": "Instantes después del penal que Rodrigo Rey le atajó a Guido Carrillo, el Rojo resolvió el pleito por la primera fecha del Torneo Clausura",
-     "id": "2e7df309ed3b"
+     "published": "2026-07-27T04:06:34+00:00",
+     "id": "f3f807f8cea2"
     },
     {
-     "title": "Nicolás Cabré confirmó la muerte de Duilio, su hermano, a los 48 años: “Nunca jamás te voy a olvidar”",
-     "link": "https://www.infobae.com/teleshow/2026/07/26/nicolas-cabre-confirmo-la-muerte-de-duilio-su-hermano-mayor-a-los-48-anos-nunca-jamas-te-voy-a-olvidar/",
-     "source": "Infobae",
-     "published": "2026-07-26T23:19:57+00:00",
-     "copete": "El actor compartió en sus redes su tristeza por la pérdida de su único hermano, a quien recordó con palabras muy íntimas. La información de Teleshow",
-     "id": "c2e2c1e2b1a4"
-    },
-    {
-     "title": "Boca vs. Riestra, en vivo por el torneo Clausura: minuto a minuto del partido",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/boca-vs-riestra-en-vivo-nid26072026/",
+     "title": "Un tiroteo dejó al menos dos muertos y cinco heridos en un complejo de eventos de Seattle",
+     "link": "https://www.lanacion.com.ar/estados-unidos/un-tiroteo-dejo-varios-heridos-en-un-complejo-de-eventos-de-seattle-nid26072026/",
      "source": "La Nación",
-     "published": "2026-07-26T23:19:31+00:00",
-     "copete": "Se miden en el Bajo Flores por la primera fecha del Clausura; es la primera vez que el xeneize juega en el estadio Guillermo Laza",
-     "id": "4e4c7218f4b1"
+     "published": "2026-07-27T04:03:21+00:00",
+     "copete": "El Departamento de Policía local pidió evitar la zona; el centro médico Harborview Medical Center informó que recibirá a las personas afectadas",
+     "id": "21a52301553e"
     },
     {
-     "title": "Clima en República Dominicana: temperatura y probabilidad de lluvia para Puerto Plata este 27 de julio",
-     "link": "https://www.infobae.com/noticias/2026/07/26/clima-en-republica-dominicana-temperatura-y-probabilidad-de-lluvia-para-puerto-plata-este-27-de-julio/",
+     "title": "Guatemala: Apuntan al narcomenudeo como principal hipótesis del ataque que dejó seis muertos en Boca del Monte",
+     "link": "https://www.infobae.com/guatemala/2026/07/27/guatemala-apuntan-al-narcomenudeo-como-principal-hipotesis-del-ataque-que-dejo-seis-muertos-en-boca-del-monte/",
      "source": "Infobae",
-     "published": "2026-07-26T23:17:34+00:00",
-     "copete": "Los fenómenos meteorológicos y análisis de probabilidad permiten dar información sobre la temperatura, lluvias y vientos para las próximas horas",
-     "id": "2086f2d0ff07"
+     "published": "2026-07-27T04:02:34+00:00",
+     "copete": "Entre las víctimas está una creadora de contenido; la Policía Nacional Civil investiga si el crimen se vinculó a venta de drogas al menudeo",
+     "id": "e08c0ff8ad72"
     },
     {
-     "title": "Independiente le ganó a Estudiantes 2-0: se equivocó menos y se llevó un enorme triunfo de La Plata",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/independiente-le-gano-a-estudiantes-2-0-se-equivoco-menos-y-se-llevo-un-enorme-triunfo-de-la-plata-nid26072026/",
-     "source": "La Nación",
-     "published": "2026-07-26T23:05:31+00:00",
-     "copete": "Ávalos ganó la falta para el lanzamiento del tiro libre que luego terminaría convirtiendo el 1-0; Rey le desvió un penal a Carrillo y Montiel aprovechó un grosero error defensivo del Pincha",
-     "id": "2da2a97bffe9"
+     "title": "Capturan a extraditable en Guatemala solicitado por Estados Unidos por abuso sexual contra menor",
+     "link": "https://www.infobae.com/guatemala/2026/07/27/capturan-a-extraditable-en-guatemala-solicitado-por-estados-unidos-por-abuso-sexual-contra-menor/",
+     "source": "Infobae",
+     "published": "2026-07-27T04:00:17+00:00",
+     "copete": "Levi Hernández Rodas, de 43 años, era requerido por Estados Unidos y quedó a disposición judicial para iniciar el trámite de extradición",
+     "id": "3fce91780844"
     },
     {
-     "title": "El ratón orejudo que vive más alto que ningún otro mamífero del mundo: así soporta el frío y la falta de oxígeno",
-     "link": "https://www.lanacion.com.ar/ciencia/el-raton-orejudo-que-vive-mas-alto-que-ningun-otro-mamifero-del-mundo-asi-soporta-el-frio-y-la-falta-nid26072026/",
-     "source": "La Nación",
-     "published": "2026-07-26T23:05:00+00:00",
-     "copete": "Científicos descubrieron las adaptaciones genéticas y físicas que le permiten a un roedor de los Andes vivir en altitudes extremas",
-     "id": "06bed6be977d"
-    },
-    {
-     "title": "Leandro Santoro y Pilar Ramírez se cruzaron en redes sociales por la agenda legislativa del gobierno de Milei",
-     "link": "https://www.lanacion.com.ar/politica/leandro-santoro-y-pilar-ramirez-se-cruzaron-en-redes-sociales-por-la-agenda-legislativa-del-gobierno-nid26072026/",
-     "source": "La Nación",
-     "published": "2026-07-26T23:03:40+00:00",
-     "copete": "El dirigente opositor criticó un paquete de iniciativas económicas impulsadas por el oficialismo y la legisladora libertaria salió a contestarle con un extenso descargo",
-     "id": "6557cdca6761"
-    },
-    {
-     "title": "Llega Kristalina Georgieva con cena secreta en Olivos y la propuesta de un menú de reformas",
-     "link": "https://www.clarin.com/economia/llega-kristalina-georgieva-cena-secreta-olivos-propuesta-menu-reformas_0_HOX0r8KAXa.html",
+     "title": "Clima hoy en Villarobles, Buenos Aires: el pronóstico del tiempo para este lunes 27 julio de 2026",
+     "link": "https://www.clarin.com/informacion-general/clima-hoy-villarobles-buenos-aires-pronostico-tiempo-lunes-27-julio-2026_0_Ldk3FUuMPp.html",
      "source": "Clarín",
-     "published": "2026-07-26T22:55:00+00:00",
-     "copete": "La jefa del Fondo pondrá la lupa en el frente fiscal. Arriba este lunes y tiene un itinerario reservado. Las reformas que aguardan en Washington antes de fin de año.",
-     "id": "42b6ba4eaa3a"
+     "published": "2026-07-27T03:41:12+00:00",
+     "copete": "El SMN anticipa para este lunes temperaturas entre 7°C y 15°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+     "id": "0b379ee57f53"
     },
     {
-     "title": "Kristalina Georgieva llega mañana  a la Argentina: reuniones con Milei, Caputo, empresarios y una visita a Vaca Muerta",
-     "link": "https://www.lanacion.com.ar/economia/kristalina-georgieva-llega-manana-a-la-argentina-reuniones-con-milei-caputo-empresarios-y-una-visita-nid26072026/",
-     "source": "La Nación",
-     "published": "2026-07-26T22:52:51+00:00",
-     "copete": "La directora gerente del FMI iniciará este lunes su primera visita al país desde que asumió el cargo; el país aún es el principal deudor del organismo",
-     "id": "d30ab156e5e0"
-    },
-    {
-     "title": "Rafa Guerrero, psicólogo infantil: \"Parece que buscamos soluciones para nuestros hijos como quien consulta el manual de una lavadora, pero los niños no son máquinas\"",
-     "link": "https://www.clarin.com/estados-unidos/rafa-guerrero-psicologo-infantil-parece-buscamos-soluciones-hijos-consulta-manual-lavadora-ninos-maquinas_0_FU5pHERUHK.html",
+     "title": "Clima hoy en Yerba Buena, Tucumán: el pronóstico del tiempo para este lunes 27 julio de 2026",
+     "link": "https://www.clarin.com/informacion-general/clima-hoy-yerba-buena-tucuman-pronostico-tiempo-lunes-27-julio-2026_0_tWShKwTd4s.html",
      "source": "Clarín",
-     "published": "2026-07-26T22:45:30+00:00",
-     "copete": "El especialista invita a dejar de buscar respuestas automáticas frente a los problemas de conducta de los chicos.",
-     "id": "6f61b5fb5180"
+     "published": "2026-07-27T03:41:12+00:00",
+     "copete": "El SMN anticipa para este lunes temperaturas entre 11°C y 24°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+     "id": "772b182bb19b"
+    },
+    {
+     "title": "Clima hoy en Zárate, Buenos Aires: el pronóstico del tiempo para este lunes 27 julio de 2026",
+     "link": "https://www.clarin.com/informacion-general/clima-hoy-zarate-buenos-aires-pronostico-tiempo-lunes-27-julio-2026_0_f3rMExX51c.html",
+     "source": "Clarín",
+     "published": "2026-07-27T03:41:12+00:00",
+     "copete": "El SMN anticipa para este lunes temperaturas entre 11°C y 19°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+     "id": "0af34a9a4a97"
+    },
+    {
+     "title": "Clima hoy en Villa Pehuenia, Neuquén: el pronóstico del tiempo para este lunes 27 julio de 2026",
+     "link": "https://www.clarin.com/informacion-general/clima-hoy-villa-pehuenia-neuquen-pronostico-tiempo-lunes-27-julio-2026_0_74gQNdmbbC.html",
+     "source": "Clarín",
+     "published": "2026-07-27T03:40:49+00:00",
+     "copete": "El SMN anticipa para este lunes temperaturas entre 1°C y 5°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+     "id": "8530c65a859b"
+    },
+    {
+     "title": "Clima hoy en Villa Unión, La Rioja: el pronóstico del tiempo para este lunes 27 julio de 2026",
+     "link": "https://www.clarin.com/informacion-general/clima-hoy-villa-union-rioja-pronostico-tiempo-lunes-27-julio-2026_0_Ty3jYZ5L1D.html",
+     "source": "Clarín",
+     "published": "2026-07-27T03:40:48+00:00",
+     "copete": "El SMN anticipa para este lunes temperaturas entre 10°C y 28°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+     "id": "f8c59b411408"
+    },
+    {
+     "title": "Según la ciencia, la velocidad a la que se camina revela mucho sobre el funcionamiento interno del cuerpo y la mente",
+     "link": "https://www.lanacion.com.ar/salud/fitness/segun-la-ciencia-la-velocidad-a-la-que-se-camina-revela-mucho-sobre-el-funcionamiento-interno-del-nid26072026/",
+     "source": "La Nación",
+     "published": "2026-07-27T03:40:00+00:00",
+     "copete": "Diversas investigaciones constatan que la velocidad de la marcha es un predictor significativo de la esperanza de vida en adultos mayores",
+     "id": "6e5a5ce951f9"
     }
    ]
   },
@@ -374,6 +388,54 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "\"Todo el mundo se queda en la playa mirando los misiles en el cielo\": el contraste de Odesa, el balneario de Ucrania con turismo de lujo y bombardeos diarios",
+     "link": "https://www.bbc.com/mundo/articles/c1w1003y4rzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-27T03:48:34+00:00",
+     "copete": "En la llamada \"perla del mar Negro\" las playas y restaurantes están repletos de turistas a pesar de que todos los días allí mismo mueren personas por los bombardeos rusos.",
+     "id": "bec1831da328"
+    },
+    {
+     "title": "La periferia de Burdeos, en vilo por los incendios: “Sabemos que en cualquier momento tendremos que irnos”",
+     "link": "https://elpais.com/internacional/2026-07-27/la-periferia-de-burdeos-en-vilo-por-los-incendios-sabemos-que-en-cualquier-momento-tendremos-que-irnos.html",
+     "source": "El País Internacional",
+     "published": "2026-07-27T03:30:01+00:00",
+     "copete": "El fuego obliga al desalojo de más de una decena de pueblos en el suroeste de Francia",
+     "id": "4ab1fa8ab466"
+    },
+    {
+     "title": "El rap destapa los recortes a la libertad de expresión en Marruecos",
+     "link": "https://elpais.com/internacional/2026-07-27/el-rap-destapa-los-recortes-a-la-libertad-de-expresion-en-marruecos.html",
+     "source": "El País Internacional",
+     "published": "2026-07-27T03:30:01+00:00",
+     "copete": "El encarcelamiento de un cantante urbano acusado de injuriar al rey intensifica el control sobre la creación artística y la libre opinión en el país magrebí",
+     "id": "d4f6e436b669"
+    },
+    {
+     "title": "Watch: Scaffolding ripped from Hong Kong building as Typhoon Noul makes landfall",
+     "link": "https://www.bbc.co.uk/news/videos/ckg9ewekpk1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-27T01:54:30+00:00",
+     "copete": "Typhoon Noul is the strongest to make landfall in China so far this year, according to state media.",
+     "id": "c4214550b214"
+    },
+    {
+     "title": "Argentinian leader calls Brazilian president a 'thief' and a 'convict'",
+     "link": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-27T01:35:51+00:00",
+     "copete": "Javier Milei made the comments while in Brazil at a rally to launch the campaign of right-wing presidential candidate Flávio Bolsonaro.",
+     "id": "144538d221d7"
+    },
+    {
+     "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+     "link": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-27T00:27:58+00:00",
+     "copete": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
+     "id": "c4e62024fac6"
+    },
     {
      "title": "Regresa a Honduras Juan Orlando Hernández, expresidente indultado por Trump tras condena por narcotráfico",
      "link": "https://www.bbc.com/mundo/articles/cwyrqpn1kzro?at_medium=RSS&at_campaign=rss",
@@ -391,30 +453,6 @@
      "id": "d2eb15cbba98"
     },
     {
-     "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
-     "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-26T21:30:20+00:00",
-     "copete": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
-     "id": "702c5e1d5d90"
-    },
-    {
-     "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-     "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-26T21:23:53+00:00",
-     "copete": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
-     "id": "bb7e9947d7bf"
-    },
-    {
-     "title": "What we know so far about the Berlin Pride ramming attack",
-     "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-26T20:34:23+00:00",
-     "copete": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
-     "id": "9289efc8a1b9"
-    },
-    {
      "title": "Marruecos dedica a Trump la nueva autopista de un millar de kilómetros que enlaza con el Sáhara",
      "link": "https://elpais.com/internacional/2026-07-26/marruecos-dedica-a-trump-la-nueva-autopista-de-un-millar-de-kilometros-que-enlaza-con-el-sahara.html",
      "source": "El País Internacional",
@@ -429,30 +467,6 @@
      "published": "2026-07-26T18:35:37+00:00",
      "copete": "El secretario general de la ONU visita el país árabe por primera vez y se reúne con el presidente Al Shara",
      "id": "f2a8ae9a6e2c"
-    },
-    {
-     "title": "Colonos de Israel incendian dos mezquitas, coches y campos  en Cisjordania",
-     "link": "https://elpais.com/internacional/2026-07-26/colonos-de-israel-incendian-dos-mezquitas-coches-y-campos-en-cisjordania.html",
-     "source": "El País Internacional",
-     "published": "2026-07-26T18:24:40+00:00",
-     "copete": "El Gobierno de Netanyahu asegura que ampliará “las actuaciones contra el terrorismo” en la zona ocupada tras el choque mortal del viernes entre israelíes y palestinos",
-     "id": "181f8b0a70c0"
-    },
-    {
-     "title": "Policía alemana mata al sospechoso del ataque contra la Marcha del Orgullo en Berlín que dejó una mujer muerta y 29 heridos",
-     "link": "https://www.bbc.com/mundo/articles/c5yv63e67wko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-26T18:20:43+00:00",
-     "copete": "Las autoridades alemanas calificaron el suceso como un \"atentado terrorista islamista\" y desplegaron un amplio operativo policial para localizar al presunto perpetrador a quien dieron muerte horas después.",
-     "id": "dd02965d7afa"
-    },
-    {
-     "title": "Isaac del Toro, el ciclista que cuatro años después de un terrible accidente se convirtió en el primer mexicano en llegar al podio del Tour de Francia",
-     "link": "https://www.bbc.com/mundo/articles/cj63769rr79o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-26T18:13:46+00:00",
-     "copete": "El bajacaliforniano de 22 años rompió otro récord para el ciclismo mexicano llegando al podio de la competencia más prestigiosa del ciclismo al lado de su compañero y amigo Tadej Pogačar.",
-     "id": "c800ef697b5d"
     }
    ]
   }
@@ -466,11 +480,6 @@
   {
    "section": "cardiologia",
    "feed": "Circulation (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "cardiologia",
-   "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]

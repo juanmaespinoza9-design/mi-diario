@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T22:04:42Z",
+  "generated_at": "2026-07-27T10:03:00Z",
   "summaries": {
     "1e50dced5df1": {
       "resumen": "Nota de TCTMD sobre la escasez de cardiólogos especializados en insuficiencia cardíaca avanzada y trasplante cardíaco en numerosos estados de EE. UU. Interesa porque anticipa un problema de acceso a centros de referencia para pacientes con insuficiencia cardíaca terminal, un escenario que también preocupa en sistemas de salud con recursos limitados como el nuestro.",
@@ -45,29 +45,46 @@
       "resumen": "Artículo de opinión de Harlan Krumholz en JACC (Journal of the American College of Cardiology) sobre cómo escribir la sección de discusión de un artículo científico, donde cada párrafo debe cumplir una función clara. Interesa como guía práctica de escritura científica para quien está en transición hacia la producción de investigación en farmacovigilancia y análisis de datos.",
       "destacado": false
     },
+    "de467c878d7f": {
+      "resumen": "Un jugador que superó una situación límite de salud debutó en los Springboks de Sudáfrica y ahora podría cruzarse con Los Pumas."
+    },
+    "7eb838e4818e": {
+      "resumen": "El duelo entre Los Pumas y Australia en Mendoza aparece como una oportunidad para impulsar el desarrollo del rugby en la provincia."
+    },
+    "594ee5ffcb67": {
+      "resumen": "Repaso de las entradas disponibles, con precios y ubicaciones, para ver a Los Pumas en Jujuy."
+    },
+    "864502812f90": {
+      "resumen": "Hilo de discusión en el foro r/datascience que debate si las organizaciones grandes y tradicionales -incluidas las del sector público- tienen más especialistas en inteligencia artificial (IA) contratados que problemas reales donde aplicarla. Le sirve a un médico que aprende análisis de datos para dimensionar qué tan bien encaja la IA con problemas concretos antes de invertir tiempo en aprenderla o implementarla.",
+      "destacado": false
+    },
+    "062d377cc89b": {
+      "resumen": "Hilo semanal fijo de r/datascience para quienes están entrando o haciendo la transición hacia la ciencia de datos, donde se comparten dudas sobre formación, primeros pasos y búsqueda laboral. Le sirve a un médico que aprende análisis de datos como espacio de consulta entre pares que atraviesan el mismo camino de reconversión profesional.",
+      "destacado": false
+    },
+    "f3972832c2c9": {
+      "resumen": "Proyecto interactivo publicado en Hacker News que explica de forma visual cómo funciona por dentro PostgreSQL, el motor de base de datos relacional de código abierto. Le sirve a un médico que aprende análisis de datos porque entender cómo se almacenan y consultan los datos internamente ayuda a escribir consultas SQL (lenguaje de consulta estructurado) más eficientes.",
+      "destacado": false
+    },
+    "2df68072a7c1": {
+      "resumen": "Presentación en Hacker News de Scriptc, un compilador de Vercel que traduce TypeScript directamente a código nativo sin incluir un motor de JavaScript en el binario final. Le sirve a un médico que aprende análisis de datos como panorama de hacia dónde evoluciona el ecosistema de herramientas de programación, aunque su aplicación práctica en ciencia de datos hoy sea limitada.",
+      "destacado": false
+    },
+    "afec1688213e": {
+      "resumen": "Nota sobre un ciudadano estadounidense imputado después de que su teléfono con GrapheneOS (sistema operativo Android enfocado en privacidad) se borrara automáticamente durante un control migratorio en un aeropuerto. Le sirve a un médico que aprende análisis de datos como recordatorio de los riesgos legales y prácticos de las medidas de seguridad extremas al manejar dispositivos con información sensible, incluidos datos de pacientes.",
+      "destacado": false
+    },
+    "a2b2343f8427": {
+      "resumen": "Artículo técnico de un ingeniero de seguridad sobre cómo la automatización de demostraciones formales (proof automation) permitió verificar matemáticamente la corrección de zstd-lean, una implementación del algoritmo de compresión Zstandard. Le sirve a un médico que aprende análisis de datos como introducción a los métodos formales que garantizan que un programa hace exactamente lo que dice hacer, algo relevante cuando se automatizan análisis clínicos críticos.",
+      "destacado": false
+    },
     "e7bd166c2dcc": {
       "resumen": "Nota de Simon Willison que comenta una investigación de Matt Lenhard sobre el mercado de reventa de tokens de modelos de lenguaje grande (LLM, large language model), donde se agrupan claves de interfaz de programación de aplicaciones (API, application programming interface) de distintos orígenes para revender acceso más barato, muchas veces obtenido de forma fraudulenta. Le sirve a un médico que aprende análisis de datos para entender los riesgos de seguridad y costo ocultos detrás de servicios de inteligencia artificial (IA) \"baratos\", algo relevante si maneja datos sensibles de pacientes con estas herramientas.",
       "destacado": false
     },
-    "9d3e811cbd6d": {
-      "resumen": "Artículo de The Climate Brink sobre el episodio de El Niño (fenómeno climático cíclico que altera la temperatura del océano Pacífico y el clima global) más intenso registrado hasta la fecha. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo se comunican series temporales y anomalías estadísticas a partir de datos históricos, una lógica trasladable al análisis de tendencias epidemiológicas.",
-      "destacado": false
-    },
-    "635287ac5457": {
-      "resumen": "Ensayo personal sobre cómo toda decisión de diseño implica resignar algo a cambio de otra cosa, sin que exista una solución óptima en todos los aspectos a la vez. Le sirve a un médico que aprende análisis de datos porque la misma lógica aplica al construir visualizaciones o tableros de control: cada elección de gráfico prioriza claridad, precisión o simplicidad a costa de las otras.",
-      "destacado": false
-    },
-    "94d030042966": {
-      "resumen": "Artículo original de Vectoral que documenta el mercado de reventa de tokens de modelos de lenguaje grande (LLM, large language model), armado a partir de claves de interfaz de programación de aplicaciones (API) agrupadas de múltiples cuentas, muchas veces obtenidas de forma irregular. Le sirve a un médico que aprende análisis de datos como alerta concreta sobre por qué conviene usar proveedores de inteligencia artificial (IA) confiables y no credenciales de dudosa procedencia al procesar información clínica.",
-      "destacado": false
-    },
     "43c2499d43c9": {
       "resumen": "Guía de Towards Data Science con recomendaciones prácticas para escribir instrucciones (prompts) más efectivas al trabajar con Claude Code, el asistente de programación de Anthropic. Le sirve a un médico que aprende análisis de datos porque mejora directamente la productividad al pedirle ayuda a un asistente de inteligencia artificial (IA) para escribir o depurar código de análisis.",
-      "destacado": false
-    },
-    "aa2a1da850d7": {
-      "resumen": "Nota sobre el sistema de valet robótico de Stanley Robotics implementado en el aeropuerto de Gatwick, Londres, que estaciona autos de forma autónoma mediante plataformas robóticas. Le sirve a un médico que aprende análisis de datos como ejemplo de automatización física guiada por sensores y algoritmos, un caso concreto de cómo la robótica se apoya en el mismo tipo de datos y modelos que la inteligencia artificial (IA) que usa a diario.",
-      "destacado": false
+      "destacado": true
     },
     "cee646a86e8b": {
       "resumen": "Artículo de Towards Data Science que explica cómo construir un agente basado en un modelo de lenguaje grande (LLM) capaz de navegar la web, usando el kit de agentes de OpenAI (OpenAI Agents SDK) junto con el protocolo de contexto de modelo (MCP, model context protocol) para controlar un navegador vía Playwright. Le sirve a un médico que aprende análisis de datos como introducción práctica a los agentes de inteligencia artificial (IA) que pueden buscar y extraer información online de forma autónoma, por ejemplo para relevar bibliografía.",
@@ -76,23 +93,6 @@
     "56eddc9d00c8": {
       "resumen": "Nota de Simon Willison (bitácora especializada en inteligencia artificial y desarrollo de software) sobre el lanzamiento de la versión 0.16.0 de Ruff, la herramienta de análisis y formateo de código (linter) para Python desarrollada por Astral, que sumó nuevas reglas activadas por defecto. Le sirve a un médico que aprende análisis de datos porque Ruff es una herramienta habitual para mantener prolijo y libre de errores el código Python usado en ciencia de datos, y conocer sus cambios evita que los procesos de integración continua (CI, continuous integration) fallen sin aviso previo.",
       "destacado": false
-    },
-    "339dea094304": {
-      "resumen": "Artículo de Towards Data Science que compara los índices de búsqueda vectorial aproximada (ANN, approximate nearest neighbor) que viven en memoria (in-memory) contra los que residen en disco (on-disk), como HNSW, SPANN y DiskANN, para reducir el costo de infraestructura sin resignar demasiada velocidad de búsqueda. Le sirve a un médico que aprende análisis de datos porque estos índices son la base de los sistemas de recuperación aumentada por generación (RAG, retrieval-augmented generation) que se usan para buscar en bibliografía médica o historias clínicas con inteligencia artificial (IA).",
-      "destacado": true
-    },
-    "6efed5ac22ba": {
-      "resumen": "Resumen semanal de KDnuggets con una selección de recursos sobre inteligencia artificial (IA) y ciencia de datos: los servidores más usados del protocolo de contexto de modelo (MCP, model context protocol), un curso gratuito de IA agéntica de Kaggle y Google, y un método para evaluar las alucinaciones de los modelos de lenguaje (GraphEval). Le sirve a un médico que aprende análisis de datos como curaduría semanal para descubrir cursos y herramientas nuevas sin tener que rastrear cada fuente por separado.",
-      "destacado": false
-    },
-    "0ff24480bb6d": {
-      "resumen": "Un jugador que superó una situación límite de salud debutó en los Springboks de Sudáfrica y ahora podría cruzarse con Los Pumas."
-    },
-    "a369f5130533": {
-      "resumen": "El duelo entre Los Pumas y Australia en Mendoza aparece como una oportunidad para impulsar el desarrollo del rugby en la provincia."
-    },
-    "6b49d51c4079": {
-      "resumen": "Albornoz fue citado por el tribunal disciplinario y podría recibir una sanción dura por lo ocurrido en la cancha."
     }
   }
 }

@@ -1,9 +1,15 @@
 {
-  "generated_at": "2026-07-27T10:03:00Z",
+  "generated_at": "2026-07-27T22:07:32Z",
   "summaries": {
+    "c06e44cdad4d": {
+      "resumen": "Nota de TCTMD sobre un estudio que muestra que los costos de atención médica se disparan una vez que aparecen síntomas en pacientes con estenosis aórtica severa, la obstrucción más frecuente de la válvula aórtica en adultos mayores. Interesa porque refuerza el argumento a favor de la detección y el tratamiento oportuno (por ejemplo, con reemplazo valvular) antes de que el paciente se vuelva sintomático y la enfermedad se encarezca y complique.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título parece un estudio de costos en salud (probablemente un análisis retrospectivo de bases de datos administrativas o de reclamos) que compara gastos antes y después de la aparición de síntomas en estenosis aórtica severa; sin abstract no se puede precisar el número de pacientes, el período ni si hubo un grupo de comparación.\nPoblación: Pacientes con diagnóstico de estenosis aórtica severa, presumiblemente estratificados según presencia o ausencia de síntomas.\nIntervención: No aplica una intervención terapéutica; se compara el gasto en salud asociado al pasaje de la enfermedad de asintomática a sintomática.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar la fuente de los datos de costos, si se ajustó por comorbilidades ni si los resultados son generalizables fuera del sistema de salud de origen (probablemente estadounidense).\nMensaje: Sugiere que dejar progresar la estenosis aórtica severa hasta la aparición de síntomas no solo empeora el pronóstico clínico sino que también incrementa sensiblemente los costos de atención, lo que refuerza la importancia del seguimiento estrecho y la derivación oportuna para tratamiento valvular.\nNota: análisis sin acceso al abstract."
+    },
     "1e50dced5df1": {
       "resumen": "Nota de TCTMD sobre la escasez de cardiólogos especializados en insuficiencia cardíaca avanzada y trasplante cardíaco en numerosos estados de EE. UU. Interesa porque anticipa un problema de acceso a centros de referencia para pacientes con insuficiencia cardíaca terminal, un escenario que también preocupa en sistemas de salud con recursos limitados como el nuestro.",
-      "destacado": false
+      "destacado": false,
+      "analisis": "Diseño: Por el título parece un análisis descriptivo (probablemente de datos de matrícula, censos profesionales o registros de centros) sobre la distribución geográfica de cardiólogos especializados en insuficiencia cardíaca avanzada y trasplante cardíaco en Estados Unidos; sin abstract no se puede precisar la fuente de datos ni si hubo comparación entre períodos.\nPoblación: Estados o regiones de Estados Unidos, caracterizados según la disponibilidad de cardiólogos especializados en insuficiencia cardíaca avanzada y trasplante.\nIntervención: No aplica una intervención terapéutica; se describe la oferta de especialistas y su distribución geográfica.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar cómo se definió \"escasez\", qué fuente de datos se usó ni si se consideró la demanda real de cada región.\nMensaje: Señala una brecha de acceso a especialistas en insuficiencia cardíaca avanzada y trasplante en buena parte de Estados Unidos, un problema de organización sanitaria que también resuena en sistemas de salud con recursos más limitados.\nNota: análisis sin acceso al abstract."
     },
     "33a888c204d2": {
       "resumen": "Cobertura de TCTMD sobre la actualización del consenso del Colegio Americano de Cardiología (ACC, American College of Cardiology) para el manejo de la insuficiencia cardíaca con fracción de eyección preservada (ICFEp), que refuerza el rol de la finerenona (antagonista no esteroideo del receptor de mineralocorticoides) y pone mayor énfasis en los agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1). Interesa porque resume en qué cambia la práctica recomendada para una entidad muy prevalente y con opciones terapéuticas antes limitadas.",
@@ -24,10 +30,6 @@
       "destacado": true,
       "analisis": "Diseño: Por el título se infiere un estudio observacional (probablemente de cohorte) que evalúa un método de cuantificación de inflamación por imágenes en tomografías sin contraste; sin abstract no se puede precisar la aleatorización, el cegamiento ni el número de centros o pacientes.\nPoblación: Pacientes sometidos a tomografía computada cardíaca sin contraste (por ejemplo, para score de calcio coronario), en quienes se buscó predecir eventos cardiovasculares.\nIntervención: No aplica una intervención terapéutica; se evalúa un biomarcador de imagen (cuantificación de inflamación perivascular) como herramienta de predicción de riesgo, presumiblemente comparado contra la evaluación habitual sin este parámetro.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar la validación externa del método de cuantificación, el tiempo de seguimiento ni los eventos cardiovasculares específicos considerados.\nMensaje: Sugiere que la cuantificación de inflamación por imagen podría sumar valor pronóstico a estudios de tomografía sin contraste ya realizados en la práctica habitual, ampliando su utilidad sin exponer al paciente a contraste adicional.\nNota: análisis sin acceso al abstract."
     },
-    "7fac913c2bdf": {
-      "resumen": "Segunda parte de la cobertura de TCTMD sobre la Determinación Nacional de Cobertura (NCD, National Coverage Determination) propuesta para 2026 para el reemplazo valvular aórtico transcatéter (TAVR, transcatheter aortic valve replacement), discutida en el congreso NY Valves. Interesa porque estas reglas de cobertura definen qué centros y pacientes pueden acceder al procedimiento, con impacto directo en la organización de los programas de TAVR.",
-      "destacado": false
-    },
     "4b069d1fe30f": {
       "resumen": "Artículo de opinión en JACC (Journal of the American College of Cardiology) que, con un título que juega con la diferencia entre teoría y práctica, reflexiona sobre las brechas entre cómo se evalúa la seguridad y efectividad de los dispositivos médicos en el papel y cómo funciona realmente eso en la práctica clínica. Interesa porque cuestiona el proceso regulatorio y de generación de evidencia de los dispositivos cardiovasculares, un tema central para quien evalúa tecnología médica en su práctica diaria.",
       "destacado": false
@@ -45,54 +47,54 @@
       "resumen": "Artículo de opinión de Harlan Krumholz en JACC (Journal of the American College of Cardiology) sobre cómo escribir la sección de discusión de un artículo científico, donde cada párrafo debe cumplir una función clara. Interesa como guía práctica de escritura científica para quien está en transición hacia la producción de investigación en farmacovigilancia y análisis de datos.",
       "destacado": false
     },
-    "de467c878d7f": {
-      "resumen": "Un jugador que superó una situación límite de salud debutó en los Springboks de Sudáfrica y ahora podría cruzarse con Los Pumas."
-    },
-    "7eb838e4818e": {
-      "resumen": "El duelo entre Los Pumas y Australia en Mendoza aparece como una oportunidad para impulsar el desarrollo del rugby en la provincia."
-    },
-    "594ee5ffcb67": {
-      "resumen": "Repaso de las entradas disponibles, con precios y ubicaciones, para ver a Los Pumas en Jujuy."
-    },
-    "864502812f90": {
-      "resumen": "Hilo de discusión en el foro r/datascience que debate si las organizaciones grandes y tradicionales -incluidas las del sector público- tienen más especialistas en inteligencia artificial (IA) contratados que problemas reales donde aplicarla. Le sirve a un médico que aprende análisis de datos para dimensionar qué tan bien encaja la IA con problemas concretos antes de invertir tiempo en aprenderla o implementarla.",
+    "c759f6198061": {
+      "resumen": "Hilo de r/datascience donde un usuario cuenta que armó una herramienta de aprendizaje automático automatizado (AutoML) del tipo \"traé tu propia nube\" (bring your own cloud), pensada para que equipos chicos entrenen modelos sin depender de plataformas cerradas ni ceder sus datos a terceros. Le sirve a un médico que aprende análisis de datos porque el AutoML simplifica el entrenamiento de modelos predictivos sin tener que programar cada paso a mano, aunque conviene entender sus límites antes de usarlo con datos clínicos.",
       "destacado": false
     },
-    "062d377cc89b": {
-      "resumen": "Hilo semanal fijo de r/datascience para quienes están entrando o haciendo la transición hacia la ciencia de datos, donde se comparten dudas sobre formación, primeros pasos y búsqueda laboral. Le sirve a un médico que aprende análisis de datos como espacio de consulta entre pares que atraviesan el mismo camino de reconversión profesional.",
+    "f12802b7a474": {
+      "resumen": "Hilo de r/datascience donde los usuarios comparten consejos para prepararse ante búsquedas laborales o promociones a puestos senior de ciencia de datos, con foco en qué habilidades técnicas y de liderazgo se evalúan en esa instancia. Le sirve a un médico en transición hacia el análisis de datos como mapa de referencia de hacia dónde apunta el desarrollo de carrera en el área, más allá de los primeros pasos.",
       "destacado": false
     },
-    "f3972832c2c9": {
-      "resumen": "Proyecto interactivo publicado en Hacker News que explica de forma visual cómo funciona por dentro PostgreSQL, el motor de base de datos relacional de código abierto. Le sirve a un médico que aprende análisis de datos porque entender cómo se almacenan y consultan los datos internamente ayuda a escribir consultas SQL (lenguaje de consulta estructurado) más eficientes.",
+    "2b8c164e3bdb": {
+      "resumen": "Nota de Techdirt, difundida en Hacker News, sobre un fallo judicial que rechazó el intento de Google de usar la ley de derechos de autor digital (DMCA, Digital Millennium Copyright Act) para impedir que terceros extrajeran datos (scraping) de sus sitios. Le sirve a un médico que aprende análisis de datos porque toca un debate central para cualquiera que recolecte datos públicos de la web: hasta dónde el scraping es legal y qué herramientas tienen las empresas para frenarlo.",
       "destacado": false
     },
-    "2df68072a7c1": {
-      "resumen": "Presentación en Hacker News de Scriptc, un compilador de Vercel que traduce TypeScript directamente a código nativo sin incluir un motor de JavaScript en el binario final. Le sirve a un médico que aprende análisis de datos como panorama de hacia dónde evoluciona el ecosistema de herramientas de programación, aunque su aplicación práctica en ciencia de datos hoy sea limitada.",
+    "176cd9f25af3": {
+      "resumen": "Anuncio de Microsoft AI sobre MAI-Cyber-1-Flash, un modelo de inteligencia artificial (IA) especializado en ciberseguridad que se integra a su panel MDASH para detectar y responder a amenazas informáticas. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo la IA se aplica a tareas de detección de anomalías, una lógica trasladable a la vigilancia de eventos adversos en farmacovigilancia.",
       "destacado": false
     },
-    "afec1688213e": {
-      "resumen": "Nota sobre un ciudadano estadounidense imputado después de que su teléfono con GrapheneOS (sistema operativo Android enfocado en privacidad) se borrara automáticamente durante un control migratorio en un aeropuerto. Le sirve a un médico que aprende análisis de datos como recordatorio de los riesgos legales y prácticos de las medidas de seguridad extremas al manejar dispositivos con información sensible, incluidos datos de pacientes.",
+    "41e3f05fff23": {
+      "resumen": "Nota breve sobre la incorporación de Wero, el nuevo sistema de pagos europeo, como opción de pago en el sitio web de Decathlon Alemania. Aporta poco de forma directa a un médico que aprende análisis de datos, salvo como ejemplo de cómo la infraestructura de pagos digitales genera datos transaccionales que después alimentan análisis de comportamiento de consumo.",
       "destacado": false
     },
-    "a2b2343f8427": {
-      "resumen": "Artículo técnico de un ingeniero de seguridad sobre cómo la automatización de demostraciones formales (proof automation) permitió verificar matemáticamente la corrección de zstd-lean, una implementación del algoritmo de compresión Zstandard. Le sirve a un médico que aprende análisis de datos como introducción a los métodos formales que garantizan que un programa hace exactamente lo que dice hacer, algo relevante cuando se automatizan análisis clínicos críticos.",
+    "48867509a3fa": {
+      "resumen": "Artículo de Towards Data Science que relata cómo resolver, con optimización matemática, un problema de ruteo de tipo recolección y entrega (pickup-and-delivery) con ventanas horarias, un clásico desafío de investigación operativa. Le sirve a un médico que aprende análisis de datos como introducción a técnicas de optimización aplicables, por ejemplo, a la logística de turnos, guardias o distribución de recursos en un servicio de salud.",
       "destacado": false
     },
-    "e7bd166c2dcc": {
-      "resumen": "Nota de Simon Willison que comenta una investigación de Matt Lenhard sobre el mercado de reventa de tokens de modelos de lenguaje grande (LLM, large language model), donde se agrupan claves de interfaz de programación de aplicaciones (API, application programming interface) de distintos orígenes para revender acceso más barato, muchas veces obtenido de forma fraudulenta. Le sirve a un médico que aprende análisis de datos para entender los riesgos de seguridad y costo ocultos detrás de servicios de inteligencia artificial (IA) \"baratos\", algo relevante si maneja datos sensibles de pacientes con estas herramientas.",
-      "destacado": false
-    },
-    "43c2499d43c9": {
-      "resumen": "Guía de Towards Data Science con recomendaciones prácticas para escribir instrucciones (prompts) más efectivas al trabajar con Claude Code, el asistente de programación de Anthropic. Le sirve a un médico que aprende análisis de datos porque mejora directamente la productividad al pedirle ayuda a un asistente de inteligencia artificial (IA) para escribir o depurar código de análisis.",
+    "5b7c96325d60": {
+      "resumen": "Artículo de Towards Data Science sobre aprendizaje activo (active learning), una técnica de aprendizaje automático (machine learning) que prioriza qué datos conviene que una persona etiquete a mano para entrenar un modelo, reduciendo el tiempo humano invertido en anotación. Le sirve especialmente a un médico que aprende análisis de datos y trabaja en farmacovigilancia, donde revisar y clasificar reportes de eventos adversos a mano consume muchísimo tiempo: esta técnica ayuda a enfocar ese esfuerzo donde más aporta.",
       "destacado": true
     },
-    "cee646a86e8b": {
-      "resumen": "Artículo de Towards Data Science que explica cómo construir un agente basado en un modelo de lenguaje grande (LLM) capaz de navegar la web, usando el kit de agentes de OpenAI (OpenAI Agents SDK) junto con el protocolo de contexto de modelo (MCP, model context protocol) para controlar un navegador vía Playwright. Le sirve a un médico que aprende análisis de datos como introducción práctica a los agentes de inteligencia artificial (IA) que pueden buscar y extraer información online de forma autónoma, por ejemplo para relevar bibliografía.",
+    "b58ce5f9ecd8": {
+      "resumen": "Nueva edición en PDF de Paged Out!, un fanzine gratuito de programación, ingeniería inversa y seguridad informática con artículos cortos de distintos autores. Le aporta a un médico que aprende análisis de datos una fuente de lectura técnica variada y en formato breve, útil para ir incorporando vocabulario y cultura de programación de a poco.",
       "destacado": false
     },
-    "56eddc9d00c8": {
-      "resumen": "Nota de Simon Willison (bitácora especializada en inteligencia artificial y desarrollo de software) sobre el lanzamiento de la versión 0.16.0 de Ruff, la herramienta de análisis y formateo de código (linter) para Python desarrollada por Astral, que sumó nuevas reglas activadas por defecto. Le sirve a un médico que aprende análisis de datos porque Ruff es una herramienta habitual para mantener prolijo y libre de errores el código Python usado en ciencia de datos, y conocer sus cambios evita que los procesos de integración continua (CI, continuous integration) fallen sin aviso previo.",
+    "c7124bbfa7ee": {
+      "resumen": "Nota de KDnuggets que compara KimiClaw, una plataforma de agentes de inteligencia artificial (IA) alojada en la nube, contra OpenClaw, su alternativa autoalojada (self-hosted), en instalación, privacidad y capacidades de automatización. Le sirve a un médico que aprende análisis de datos para entender el equilibrio entre comodidad y control de los datos al elegir herramientas de IA, algo especialmente sensible cuando hay información de pacientes de por medio.",
       "destacado": false
+    },
+    "b33edc3f18df": {
+      "resumen": "Artículo de Towards Data Science que repasa la historia y los fundamentos estadísticos de la media aritmética, mostrando por qué esta medida tan simple sigue siendo clave para resumir datos en contextos muy diversos. Le sirve a un médico que aprende análisis de datos para volver a mirar con otros ojos una herramienta que usa todo el tiempo en la práctica clínica, entendiendo mejor sus supuestos y sus límites.",
+      "destacado": false
+    },
+    "14654bc73dd0": {
+      "resumen": "Contepomi confirmó el plantel de Los Pumas para los test matches ante Sudáfrica y Australia, con siete jugadores nacidos en Córdoba entre los convocados."
+    },
+    "2ab1fb736b50": {
+      "resumen": "El entrenador de Los Pumas dio a conocer la lista de convocados para recibir a Sudáfrica y Australia en los próximos test matches."
+    },
+    "9fd03463766c": {
+      "resumen": "Entre los convocados de Los Pumas para enfrentar a Sudáfrica y Australia hay un jugador oriundo de Bahía Blanca."
     }
   }
 }

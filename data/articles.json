@@ -1,11 +1,43 @@
 {
- "generated_at": "2026-07-28T10:47:01.457676+00:00",
+ "generated_at": "2026-07-28T14:45:37.583826+00:00",
  "sections": [
   {
    "id": "cardiologia",
    "title": "Cardiología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "A Multitask Deep Learning Model for Pediatric Echocardiography Analysis",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42517220/",
+     "source": "Circulation",
+     "published": "2026-07-28T00:00:00+00:00",
+     "copete": "Cho J et al. · Circulation",
+     "id": "46354f04e805"
+    },
+    {
+     "title": "Risk-Guided Screening for Atrial Fibrillation Using Electronic Health Records",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42517218/",
+     "source": "Circulation",
+     "published": "2026-07-28T00:00:00+00:00",
+     "copete": "Nadarajah R et al. · Circulation",
+     "id": "477328dd0091"
+    },
+    {
+     "title": "Cardiovascular-Kidney-Metabolic Syndrome: A User's Guide to the Guidelines",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42507784/",
+     "source": "Circulation",
+     "published": "2026-07-28T00:00:00+00:00",
+     "copete": "Ndumele CE et al. · Circulation",
+     "id": "8464825d601a"
+    },
+    {
+     "title": "Telehealth for Community-Engaged Cardiovascular Care in Rural Populations",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42507783/",
+     "source": "Circulation",
+     "published": "2026-07-28T00:00:00+00:00",
+     "copete": "Powell-Wiley TM et al. · Circulation",
+     "id": "179db420c3ca"
+    },
     {
      "title": "Costs Spike When Severe Aortic Stenosis Symptoms Develop",
      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObjZ5NXBaTlJzWlc2MzRzVVlrR2NlRGpLLWVCeDZzbnZFSkxOM3N6OVpkc1NiR01SbmhkclB5THNJNi1IQnp3OGRlYkE4eGQyS2NGU0I0VVB0MTFxOUNfR0lPZWotdHpteEgxYjI3X0ZBbUVCdmlqeXFVMW1rNGlMRWdWcjJ2bXRmdzVR?oc=5",
@@ -64,22 +96,6 @@
      "published": "2026-07-22T00:00:00+00:00",
      "copete": "Zahedi Tajrishi F et al. · Journal of the American College of Cardiology",
      "id": "e5c8fddddcaf"
-    },
-    {
-     "title": "The fascinating evolution of vascular biology: novel mechanisms leading to new therapeutic targets",
-     "link": "https://academic.oup.com/eurheartj/article/47/28/3653/8737868?rss=1",
-     "source": "European Heart Journal",
-     "published": "2026-07-21T00:00:00+00:00",
-     "copete": "For image description, please refer to the figure legend and surrounding text.",
-     "id": "23b0db17ac4a"
-    },
-    {
-     "title": "The Discussion: Where Every Paragraph Has a Job",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42478810/",
-     "source": "JACC",
-     "published": "2026-07-21T00:00:00+00:00",
-     "copete": "Krumholz HM et al. · Journal of the American College of Cardiology",
-     "id": "b3ccc906cd74"
     }
    ]
   },
@@ -89,25 +105,65 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Se formaron en el Súper Rugby Américas y podrían tener su debut en Los Pumas",
-     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOWHJJYldSbVhyb2tReHpsOEZpOEdLYTQwNVBGaXhjWW5iSFVqTy1vMWNPRVRhQWwzZzJDTWVaakRNQ3Ffdi1oM193SVR6MHpNUmphbTd5cnhXQ19jOTRSdXRhVzRBSmVtdE9pVDREMGkyM19OdDN0T3E5MFZabDdGMFBsMkxJcVdXbHBKSFIwWFlubUpKOXg4aFduM1NPVE93bFFZUzkxZDlrZDBFVWVmMXRhZ0xVNGxJZERLS3lpSlUydGhPSUk0czFOaXNtdDcxekdQc0RNT29VU01nV2tTeENoSVlkemJ3bnNYNjdweUlRaEI1NW84QnlfdmlObkZmalE?oc=5",
-     "source": "ESPN Deportes",
-     "published": "2026-07-28T10:36:00+00:00",
-     "id": "7940e443634f"
+     "title": "Nicolás Gaitán fue presentado en Aldosivi",
+     "link": "https://www.ole.com.ar/aldosivi/nico-gaitan-aldosivi-refuerzo-presentado-club_0_dRJ3uYx2TQ.html",
+     "source": "Olé — Primera",
+     "published": "2026-07-28T14:32:51+00:00",
+     "copete": "Tal como lo adelantó Olé, el jugador de 38 años vuelve a ponerse los cortos para defender la camiseta del Tiburón de Mar del Plata. Firmó hasta diciembre de 2027.",
+     "id": "2847e86c31d3"
     },
     {
-     "title": "Con cambios, Los Pumas tienen su plantel para enfrentar a Springboks y Wallabies en Argentina",
-     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQN1ZIcW0tT1lRVU9ucmVpQlllQVBhaFFFb2F6WnMzQzdIcGRGbjkxaUNWZXVIQ1g3NEhPNjl1ektoUVNYeFR2UWFWcHZEbjc4bUFMVFQ3cDlZZnhpTi1TbkxRa2JKNG9pN0dQSEdJdy1paFJnU2JEY192QmZJUDV4MjZmcHZmVk5rVUJjUE9NSlRKX25QbWgyY1NRVVNWLVN2bURDUU9KU1l6VkhIX2FUTS1PcXY2a093LVZXcWFoZkE2amFpV01ZUnpJRVJhM2Z5azhCV000NXR6VWpaeTQ4bGdfV2VpZzEyZWZIYWFSako5enpYSVpwR0dvLUhZZjNTbTFTczlwR2d4Zw?oc=5",
-     "source": "ESPN Colombia",
-     "published": "2026-07-28T06:10:55+00:00",
-     "id": "1dc008529eb5"
+     "title": "El ex campeón de Libertadores con River que jugará el Torneo Regional Federal Amateur",
+     "link": "https://www.ole.com.ar/river-plate/river-libertadores-defensor-futbol-mendoza-ascenso-trayectoria-vangioni-huracan-regional-experiencia-jerarquia-titulos-plantel-retorno-fichaje_0_fwrkFGLsqe.html",
+     "source": "Olé — River",
+     "published": "2026-07-28T14:22:12+00:00",
+     "copete": "Un experimentado futbolista comenzó una nueva etapa en Mendoza tras dejar el profesionalismo y será uno de los refuerzos para pelear por el ascenso.",
+     "id": "80af0769348a"
     },
     {
-     "title": "Tomás Lavanini, un histórico que vuelve a Los Pumas: cuándo fueron sus últimas apariciones en el seleccionado",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcThXRWpsWnJqSm8tWGpJTFdrMGdZMXZBazJLLXI0ajEzUGdia0NibW8xZndDcC1wamtHckVhRUhHbmdmMTBBT2RlZTVJb3lQVFRFMTdYRnZKOUNxdVdjcnd3OXRTSlJXRUJCbTVWNGpJNC0yWEdQV1ZhdThaaXZJQWpPLWdkUEN1N1RYWXhBTWs0UTIyV1BBY0dEZUp2YzBuTTl1S25CU3pjLURHNXYtREhBYVlBNWtKVENlTmNsS1k3NGtpa1VsaWw4ZmY2OEhLSFVpTUVmb0Qtc29Jemc?oc=5",
-     "source": "ESPN Colombia",
-     "published": "2026-07-28T06:10:54+00:00",
-     "id": "545ae8364296"
+     "title": "A jugar en el Bosque: el probable 11 de River ante Gimnasia",
+     "link": "https://www.ole.com.ar/river-plate/river-eduardo-coudet-gimnasia-posible-formacion-11-clausura_0_oj935AT4za.html",
+     "source": "Olé — River",
+     "published": "2026-07-28T14:10:00+00:00",
+     "copete": "El equipo de Eduardo Coudet tendrá una prueba de fuego contra el Lobo.",
+     "id": "c30b27240cf1"
+    },
+    {
+     "title": "José «Cheto» Santamarina pasó por CORDOBAXV streaming",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc3J6VXIzbnlvS2dLbTNMZ28wOWhJSGNEck01cjR5anF4NFhSQWpJZk5jUzV4YUNHMlJjTVprNUJnU0syclRmZnF5dDZOamRHTDlhTG83ZXlheDBnTUhwQVNodFpKOWJqc3ppUXNoNEpMU2c2V3Q2aVpCT2h3ZEVHM1ZEcw?oc=5",
+     "source": "Cordoba XV",
+     "published": "2026-07-28T14:05:49+00:00",
+     "id": "50edc8b62999"
+    },
+    {
+     "title": "Mayco Vivas fue convocado por Los Pumas para los duelos ante Sudáfrica y Australia",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTGMxUWRld1MyaFFaczIxMFBYMl94eHh2eU1kZnhOejY2LTBpY0k4UTl6cFBxZHh3amllRHRMV2p4dkRKWkwyOE1lRkxsWktWczhYLXhmcVI2UFJOTThhZTdTZGx1S1pXM0pZWXJwb3BxUlkzcUxsc0MzQnRuNS0xR2lCajZpeXVxVDhXZUN6THpUQk81THdOS3NUcGViQmhBdDRnUGZpeEtYUFdhTmZQb3ByZ09TWU5qSm5Z?oc=5",
+     "source": "Radio Rafaela",
+     "published": "2026-07-28T13:30:00+00:00",
+     "id": "65b91e42387d"
+    },
+    {
+     "title": "River insiste por Tobías Andrada: por qué en Núñez son optimistas a pesar de la firme postura de Vélez",
+     "link": "https://www.ole.com.ar/river-plate/river-tobias-andrada-velez-mercado-pases_0_cVPOLygO5c.html",
+     "source": "Olé — River",
+     "published": "2026-07-28T13:05:34+00:00",
+     "copete": "El Millonario busca acercarse a lo que pretende el Fortín para dejar salir al joven volante.",
+     "id": "332eea3178ed"
+    },
+    {
+     "title": "River, hoy EN VIVO: la lista vs. Gimnasia, lo último del mercado de pases y las noticias de este martes 28 de julio",
+     "link": "https://www.ole.com.ar/river-plate/river-vivo-martes-28-julio-ultimas-noticias-mercado-pases_0_jzwFa7twAo.html",
+     "source": "Olé — River",
+     "published": "2026-07-28T12:30:21+00:00",
+     "copete": "Obligado a ganar, el Millonario se prepara para visitar este miércoles a Gimnasia en el Bosque.",
+     "id": "2d67a74587aa"
+    },
+    {
+     "title": "La respuesta a Nigel Owens y el arbitraje con Los Pumas: el editorial de Martín Altberg en Equipo Scrum",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckZnRy1UeDJlUnNyV1UyUUs3U2xkQ0NjX2xoVWFFdlBKN3h3YVFjcFREQkkxelFoaFpKS242elFqY2VsOVd1ajNVZ1ZZNHdxa2FzQlJpVnUxQXNXZHNSaXBKY2s4TEZHcDhlSTlIcTVHWFhDdjJlLTZBTkFoQU5HOVZVSW9lcXJzUTNscEZYQVBiOU1hNzdoeEN1d2w3RHIycVlGTkhhXzBvdk1SRTRVLUJidXhTWGNiMWd4cE95MW5LQQ?oc=5",
+     "source": "ESPN Argentina",
+     "published": "2026-07-28T11:33:00+00:00",
+     "id": "ab732d09dc6f"
     },
     {
      "title": "El emotivo festejo del cumple del hijo menor de Marcelo Gallardo",
@@ -116,62 +172,6 @@
      "published": "2026-07-28T02:03:04+00:00",
      "copete": "Benjamín cumplió siete y el Muñeco disfrutó de la fiesta en Miami, con mucha música, baile y alegría compartida.",
      "id": "1a7a00b6f69d"
-    },
-    {
-     "title": "Ángel de la guarda: Correa y su rol clave en tiempo récord",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-angel-correa_0_VNcGWZ2Chk.html",
-     "source": "Olé — River",
-     "published": "2026-07-28T01:45:25+00:00",
-     "copete": "Que haya jugado el sábado con solo una práctica habla de lo que River necesita a Angelito. Deberá readaptarse al fútbol argentino en tiempo récord. ¿Titular ante Gimnasia?",
-     "id": "ee3960090845"
-    },
-    {
-     "title": "River negocia por un lateral izquierdo con un club de Grecia",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-francisco-ortega-grecia_0_lQQZXDNivp.html",
-     "source": "Olé — River",
-     "published": "2026-07-28T00:33:55+00:00",
-     "copete": "Olympiacos contestó por el interés sobre Francisco Ortega: piden seis millones de euros. En River se estiraban hasta cinco. ¿Habrá acuerdo?",
-     "id": "2da7c384fe64"
-    },
-    {
-     "title": "La Reserva de River empató ante Talleres en el comienzo del Clausura",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-reserva-talleres_0_PsPF6pJv3X.html",
-     "source": "Olé — River",
-     "published": "2026-07-28T00:27:52+00:00",
-     "copete": "Los pibes, subcampeones del torneo pasado, comenzaron con un 0-0 en Córdoba.",
-     "id": "37131ce6f62d"
-    },
-    {
-     "title": "Sebastián Domínguez fue presentado en Central Córdoba: \"Nuestro compromiso es total\"",
-     "link": "https://www.ole.com.ar/futbol-primera/sebastian-dominguez-central-cordoba-entrenador-dt-tecnico_0_3E6HZNY6Q9.html",
-     "source": "Olé — Primera",
-     "published": "2026-07-28T00:19:49+00:00",
-     "copete": "El club santiagueño oficializó, mediante una rueda de prensa, la llegada del reemplazante de Lucas Pusineri.",
-     "id": "fd8379dbe556"
-    },
-    {
-     "title": "El impresionante historial de Riestra ante los cinco grandes en su casa",
-     "link": "https://www.ole.com.ar/deportivo-riestra/boca-riestra-clausura-malevo_0_LF332jLXgv.html",
-     "source": "Olé — Primera",
-     "published": "2026-07-27T23:52:43+00:00",
-     "copete": "El Malevo superó a Boca por 3-0 y reafirmó su dominio ante los poderosos del fútbol argentino en el Guillermo Laza. ¿Cómo le fue cada vez que los recibió?",
-     "id": "95d3f90bbec0"
-    },
-    {
-     "title": "Argentinos Juniors vs. Estudiantes de Río Cuarto, por el Torneo Clausura: hora, cómo ver y probables formaciones",
-     "link": "https://www.ole.com.ar/futbol-primera/argentinos-juniors-vs-estudiantes-rio-cuarto-torneo-clausura-dia-horario-ver-formaciones_0_q165OXpNaj.html",
-     "source": "Olé — Primera",
-     "published": "2026-07-27T23:00:00+00:00",
-     "copete": "El Bicho y el León se enfrentan en La Paternal por la segunda fecha del certamen local. Conocé todos los datos de este partido.",
-     "id": "e8239aed8dae"
-    },
-    {
-     "title": "River piensa en Gimnasia: ¿Correa titular?",
-     "link": "https://www.ole.com.ar/river-plate/river-gimnasia-coudet-correa_0_B9lxjZUl62.html",
-     "source": "Olé — River",
-     "published": "2026-07-27T22:52:42+00:00",
-     "copete": "Tras el golpe con Barracas, Coudet metería mano: además de la chance de Angelito de entrada, habría cambios en el mediocampo.",
-     "id": "01d769aca6e7"
     },
     {
      "title": "LOS PUMAS PARA RECIBIR A SUDÁFRICA Y AUSTRALIA",
@@ -197,6 +197,52 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "An Introductory Guide to Practical Constraint Decoding",
+     "link": "https://www.kdnuggets.com/an-introductory-guide-to-practical-constraint-decoding",
+     "source": "KDnuggets",
+     "published": "2026-07-28T14:00:30+00:00",
+     "copete": "With this introductory guide to practical constraint decoding, you'll no longer need to beg your model to \"output valid JSON without including any markdown.\"",
+     "id": "43c9828db253"
+    },
+    {
+     "title": "Don’t Just “Throw Adam at It”: Misunderstanding Adam Will Cost You",
+     "link": "https://towardsdatascience.com/dont-just-throw-adam-at-it-misunderstanding-adam-will-cost-you/",
+     "source": "Towards Data Science",
+     "published": "2026-07-28T13:30:00+00:00",
+     "copete": "You \"vibe coded\" the import. Understand Adam's optimization dynamics, why it fails spectacularly, and how to fix it. The post Don’t Just “Throw Adam at It”: Misunderstanding Adam Will Cost You appeared first on Towards Data Science .",
+     "id": "d590b8c9bb9e"
+    },
+    {
+     "title": "New HIV vaccine shows unprecedented success in preclinical study",
+     "link": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-28T13:12:01+00:00",
+     "id": "1b1cfe434c44"
+    },
+    {
+     "title": "5 Best AI Tools for Data Analysis You Should Try in 2026",
+     "link": "https://www.kdnuggets.com/5-best-ai-tools-for-data-analysis-you-should-try-in-2026",
+     "source": "KDnuggets",
+     "published": "2026-07-28T12:00:08+00:00",
+     "copete": "Discover five of the best AI tools for data analysis that can clean data, write code, create visualizations, and generate insights faster.",
+     "id": "7048b90d49a4"
+    },
+    {
+     "title": "Backpropagation Explained for Beginners (Part 2): There Has to Be a Better Way",
+     "link": "https://towardsdatascience.com/backpropagation-explained-for-beginners-part-2-there-has-to-be-a-better-way/",
+     "source": "Towards Data Science",
+     "published": "2026-07-28T12:00:00+00:00",
+     "copete": "The idea that makes backpropagation possible. The post Backpropagation Explained for Beginners (Part 2): There Has to Be a Better Way appeared first on Towards Data Science .",
+     "id": "9dba893e5c9a"
+    },
+    {
+     "title": "About the security content of macOS Tahoe 26.6",
+     "link": "https://support.apple.com/en-us/128067",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-28T09:45:43+00:00",
+     "id": "ec42b6a8025a"
+    },
+    {
      "title": "7.1 Earthquake in Japan",
      "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
      "source": "Hacker News (100+ puntos)",
@@ -204,25 +250,11 @@
      "id": "58863c29a03d"
     },
     {
-     "title": "Using an open model feels surprisingly good",
-     "link": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-28T02:37:14+00:00",
-     "id": "83c7bd2e9481"
-    },
-    {
      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
      "link": "https://fermisense.com/when-machines-take-the-wheel/",
      "source": "Hacker News (100+ puntos)",
      "published": "2026-07-28T02:18:53+00:00",
      "id": "447e4a25f507"
-    },
-    {
-     "title": "Vehicle Motion Cues",
-     "link": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-28T01:13:26+00:00",
-     "id": "d776803a45eb"
     },
     {
      "title": "moonshotai/Kimi-K3",
@@ -239,36 +271,6 @@
      "published": "2026-07-27T21:55:53+00:00",
      "copete": "An opinionated guide to which AI to use to do stuff It's interesting watching the evolution of Ethan Mollick's guide over time. A year ago it was still all about chat - ChatGPT, Claude, Gemini - with o3, Claude 4 Opus, and Gemini 2.5 Pro…",
      "id": "def96b54eb52"
-    },
-    {
-     "title": "I started a bring your own cloud AutoML for smaller teams",
-     "link": "https://www.reddit.com/r/datascience/comments/1v8crrh/i_started_a_bring_your_own_cloud_automl_for/",
-     "source": "r/datascience",
-     "published": "2026-07-27T20:48:09+00:00",
-     "id": "c759f6198061"
-    },
-    {
-     "title": "Prepping for Senior roles?",
-     "link": "https://www.reddit.com/r/datascience/comments/1v88t92/prepping_for_senior_roles/",
-     "source": "r/datascience",
-     "published": "2026-07-27T18:28:07+00:00",
-     "id": "f12802b7a474"
-    },
-    {
-     "title": "“Los Movimientos”: The Routing Problem That Nearly Broke My Spirit",
-     "link": "https://towardsdatascience.com/los-movimientos-the-routing-problem-that-nearly-broke-my-spirit-2/",
-     "source": "Towards Data Science",
-     "published": "2026-07-27T16:30:00+00:00",
-     "copete": "Using mathematical optimization to solve a pickup-and-delivery problem with time windows. The post “Los Movimientos”: The Routing Problem That Nearly Broke My Spirit appeared first on Towards Data Science .",
-     "id": "48867509a3fa"
-    },
-    {
-     "title": "Reducing Human Annotation with ML Active Learning",
-     "link": "https://towardsdatascience.com/reducing-human-annotation-with-ml-active-learning/",
-     "source": "Towards Data Science",
-     "published": "2026-07-27T15:00:00+00:00",
-     "copete": "In a world where human time is expensive, learn how to use it only when really necessary The post Reducing Human Annotation with ML Active Learning appeared first on Towards Data Science .",
-     "id": "5b7c96325d60"
     }
    ]
   },
@@ -278,99 +280,98 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Fue una de las grandes estrellas de los 80, abandonó la actuación y se convirtió en policía",
-     "link": "https://www.lanacion.com.ar/espectaculos/fue-una-de-las-grandes-estrellas-de-los-80-abandono-la-actuacion-y-se-convirtio-en-policia-nid25072026/",
+     "title": "Moldeados por la luz del sol",
+     "link": "https://www.lanacion.com.ar/salud/moldeados-por-la-luz-del-sol-nid28072026/",
      "source": "La Nación",
-     "published": "2026-07-28T10:41:48+00:00",
-     "copete": "Aunque construyó una extensa carrera como actor, décadas después sorprendió al cumplir el sueño que le había prometido a su madre desde pequeño",
-     "id": "8384f761013d"
+     "published": "2026-07-28T14:44:40+00:00",
+     "copete": "Desde el comportamiento de las células hasta el cine romántico, nuestros motores emocionales responden a sus rayos",
+     "id": "6d9440755dbc"
     },
     {
-     "title": "Cómo los algoritmos de las redes sociales pueden reforzar rasgos narcisistas, según un estudio",
-     "link": "https://www.infobae.com/salud/2026/07/28/como-los-algoritmos-de-las-redes-sociales-pueden-reforzar-rasgos-narcisistas-segun-un-estudio/",
+     "title": "El financista Elías Piccirillo se presentó en los tribunales de Comodoro Py: le pidió a la Cámara que lo deje en libertad",
+     "link": "https://www.lanacion.com.ar/politica/el-financista-elias-piccirillo-se-presento-en-los-tribunales-de-comodoro-py-le-pidio-a-la-camara-que-nid28072026/",
+     "source": "La Nación",
+     "published": "2026-07-28T14:44:35+00:00",
+     "copete": "Participa de una audiencia en el segundo piso de los tribunales de Retiro; apeló un fallo del juez Ariel Lijo",
+     "id": "dcb867eb1dc7"
+    },
+    {
+     "title": "Revelación: un estudio señala que la mayoría de los cortes de carne de cerdo tienen un perfil de grasas saludable",
+     "link": "https://www.lanacion.com.ar/economia/campo/revelacion-un-estudio-senala-que-la-mayoria-de-los-cortes-de-carne-de-cerdo-tienen-un-perfil-de-nid28072026/",
+     "source": "La Nación",
+     "published": "2026-07-28T14:44:16+00:00",
+     "copete": "La investigación, realizada por expertos del INTI sobre cinco cortes representativos, concluyó que aportan proteínas completas, minerales esenciales y bajos niveles de grasa",
+     "id": "7d57441d29c3"
+    },
+    {
+     "title": "Estudian a tiburones que pueden vivir 400 años y dejan enseñanzas sobre la longevidad: “Tienen la resiliencia como un mecanismo clave”",
+     "link": "https://www.lanacion.com.ar/ciencia/estudian-a-tiburones-que-pueden-vivir-400-anos-y-dejan-ensenanzas-sobre-la-longevidad-tienen-la-nid28072026/",
+     "source": "La Nación",
+     "published": "2026-07-28T14:43:52+00:00",
+     "copete": "Un equipo de científicos de Irlanda estudió la biología de una especie de vertebrado marino que tiene la capacidad de estirar su tiempo de vida por cuatro siglos",
+     "id": "2697aa8655a4"
+    },
+    {
+     "title": "Horóscopo: Cómo será tu semana del 26 de julio al 1° de agosto 2026",
+     "link": "https://www.lanacion.com.ar/salud/horoscopo-como-sera-tu-semana-del-26-de-julio-al-1-de-agosto-2026-nid26072026/",
+     "source": "La Nación",
+     "published": "2026-07-28T14:43:42+00:00",
+     "id": "e44459b12f7e"
+    },
+    {
+     "title": "Juicio de los Cuadernos, en vivo: se reanudó el debate en plena feria judicial de invierno",
+     "link": "https://www.infobae.com/judiciales/2026/07/28/juicio-de-los-cuadernos-en-vivo-se-reanudo-el-debate-en-plena-feria-judicial-de-invierno/",
      "source": "Infobae",
-     "published": "2026-07-28T10:40:00+00:00",
-     "copete": "Investigadores de la Universidad de Huddersfield desarrollaron un modelo teórico para estudiar la relación entre personalidad, autoimagen y entornos digitales. El trabajo abre preguntas sobre el modo en que las recomendaciones…",
-     "id": "f8b746159047"
+     "published": "2026-07-28T14:39:13+00:00",
+     "copete": "El Tribunal Oral Federal 7 habilitó la segunda semana del receso invernal y retomó las audiencias con más testigos vinculados a la ex AFIP",
+     "id": "5aed59d3f72b"
     },
     {
-     "title": "Messi, sobre la selección de España: “En un momento me llegó, me insinuaron, pero el deseo siempre estuvo en Argentina”",
-     "link": "https://www.lanacion.com.ar/estados-unidos/messi-sobre-la-seleccion-de-espana-en-un-momento-me-llego-me-insinuaron-pero-el-deseo-siempre-estuvo-nid27072026/",
-     "source": "La Nación",
-     "published": "2026-07-28T10:35:00+00:00",
-     "copete": "En febrero, Messi contó que hubo una insinuación para jugar con España en sus años de juveniles en Barcelona, pero que siempre quiso vestir la camiseta argentina",
-     "id": "60f4fc878384"
-    },
-    {
-     "title": "Javier Milei y sus medidas, en vivo: lo que dejó la visita de Georgieva, el cruce con Lula y el paro nacional de ATE",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-lo-que-dejo-la-visita-de-georgieva-su-cruce-con-lula-y-el-nuevo-nid28072026/",
-     "source": "La Nación",
-     "published": "2026-07-28T10:31:25+00:00",
-     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "238ed44dd3be"
-    },
-    {
-     "title": "Todas las películas y series que hay que ver para entender Spider-Man: Brand New Day",
-     "link": "https://www.lanacion.com.ar/espectaculos/todas-las-peliculas-y-series-que-hay-que-ver-para-entender-spider-man-brand-new-day-nid25072026/",
-     "source": "La Nación",
-     "published": "2026-07-28T10:31:25+00:00",
-     "copete": "El estreno de la cuarta entrega del Hombre Araña marca el inicio de una etapa definitoria para el personaje en el Universo Cinematográfico; descubrí la selección clave de títulos para comprender este nuevo capítulo de Peter Parker",
-     "id": "c5abe63633d8"
-    },
-    {
-     "title": "Cuáles fueron los productos que los argentinos dejaron de comprar  en el supermercado",
-     "link": "https://www.infobae.com/economia/2026/07/28/cuales-fueron-los-productos-que-los-argentinos-dejaron-de-comprar-en-el-supermercado/",
+     "title": "Christopher Nolan se convirtió en el cuarto director más taquillero de la historia del cine",
+     "link": "https://www.infobae.com/entretenimiento/2026/07/28/christopher-nolan-se-convirtio-en-el-cuarto-director-mas-taquillero-de-la-historia-del-cine/",
      "source": "Infobae",
-     "published": "2026-07-28T10:29:31+00:00",
-     "copete": "Solo tres rubros exhibieron crecimiento en mayo, mientras que el resto experimentó caídas, con bajas de hasta dos dígitos",
-     "id": "4e21d1ca4902"
+     "published": "2026-07-28T14:36:39+00:00",
+     "copete": "El británico superó a Peter Jackson en la recaudación global por el impulso de su estreno más reciente, una marca que lo deja muy cerca de los Hermanos Russo en la lista histórica",
+     "id": "8ee41e3219f5"
     },
     {
-     "title": "Repatriación voluntaria para migrantes con TPS en 2026: cómo acceder a un cheque de US$2600 y un vuelo gratis",
-     "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/repatriacion-voluntaria-para-migrantes-con-tps-en-2026-como-acceder-a-un-cheque-de-us2600-y-un-vuelo-nid28072026/",
-     "source": "La Nación",
-     "published": "2026-07-28T10:29:00+00:00",
-     "copete": "Cómo es el incentivo de US$2600 y el vuelo gratuito mediante CBP Home: conoce quiénes califican, los pasos y cómo se verifica la salida.",
-     "id": "79d1e9f5d127"
-    },
-    {
-     "title": "Susto en Inglaterra: perdió el equilibrio y se desvaneció tras intentar levantar más de 170 kilos en una competencia de halterofilia",
-     "link": "https://www.infobae.com/deportes/2026/07/28/susto-en-inglaterra-perdio-el-equilibrio-y-se-desvanecio-tras-intentar-levantar-mas-de-170-kilos-en-una-competencia-de-halterofilia/",
+     "title": "El mapa del 9 en Boca Juniors: las tres opciones sobre la mesa y el nuevo futbolista que interesa",
+     "link": "https://www.infobae.com/deportes/2026/07/28/el-mapa-del-9-en-boca-juniors-las-tres-opciones-sobre-la-mesa-y-el-nuevo-futbolista-que-interesa/",
      "source": "Infobae",
-     "published": "2026-07-28T10:26:54+00:00",
-     "copete": "Chris Murray sufrió un percance durante su presentación en los Juegos de la Commonwealth. Finalmente volvió a escena y se quedó con la medalla de bronce",
-     "id": "4b2f7d126147"
+     "published": "2026-07-28T14:34:46+00:00",
+     "copete": "El Vasco Arruabarrena pretende un centrodelantero y Lucas Passerini figura en carpeta",
+     "id": "5e88f87cab23"
     },
     {
-     "title": "Clima: las temperaturas que predominarán este 28 de julio en Nueva York",
-     "link": "https://www.infobae.com/noticias/2026/07/28/clima-las-temperaturas-que-predominaran-este-28-de-julio-en-nueva-york/",
+     "title": "El Gobierno lanzó una licitación internacional para privatizar el complejo hidroeléctrico Los Nihuiles, en Mendoza",
+     "link": "https://www.infobae.com/economia/2026/07/28/el-gobierno-lanzo-una-licitacion-internacional-para-privatizar-el-complejo-hidroelectrico-los-nihuiles-en-mendoza/",
      "source": "Infobae",
-     "published": "2026-07-28T10:15:49+00:00",
-     "copete": "Para evitar cualquier imprevisto es importante conocer el pronóstico del tiempo",
-     "id": "754b1b00bc24"
+     "published": "2026-07-28T14:27:34+00:00",
+     "copete": "La convocatoria abre la segunda etapa del plan de privatizaciones energéticas de Caputo, que apunta a recaudar USD 2.300 millones entre lo que resta de 2026 y 2027",
+     "id": "8c40edea51c5"
     },
     {
-     "title": "Qué ver en Disney+ hoy: las 10 series y películas que lideran el ranking este martes 28 de julio de 2026 en Argentina",
-     "link": "https://www.clarin.com/espectaculos/que-ver-en-disney-hoy-las-10-series-y-peliculas-que-lideran-el-ranking-este-martes-28-de-julio-de-2026-en-argentina_0_Yotb2reP42.html",
+     "title": "Fui, vi y escribí: Una nena, un papá, un río rebelde y las lágrimas de la ira",
+     "link": "https://www.infobae.com/cultura/2024/08/22/fui-vi-y-escribi-una-nena-un-papa-un-rio-rebelde-y-las-lagrimas-de-la-ira/",
+     "source": "Infobae",
+     "published": "2026-07-28T14:24:27+00:00",
+     "copete": "Autor de culto, Enrique Wernicke dejó una obra extensa que aún despierta fascinación. María, su hija, es una de las grandes ilustradoras argentinas. Este artículo reproduce el newsletter de Cultura: lecturas, cine, teatro, arte, música e…",
+     "id": "0a763b8a8f3b"
+    },
+    {
+     "title": "Tras demoras, polémicas y la resistencia de Donald Trump: abre oficialmente una megaobra de US$4.700 millones que conecta a Estados Unidos con Canadá",
+     "link": "https://www.clarin.com/estados-unidos/demoras-polemicas-resistencia-donald-trump-abre-oficialmente-megaobra-us4700-millones-conecta-estados-unidos-canada_0_CJ61GWSZrG.html",
      "source": "Clarín",
-     "published": "2026-07-28T10:15:02+00:00",
-     "copete": "Cada día, Disney Plus actualiza su ranking y da una pista clara de qué producciones son tendencia en los fanáticos. Hay un amplio catálogo de series y películas que no te podés perder, entre estrenos recientes, clásicos de siempre y alguna…",
-     "id": "c245f6890582"
+     "published": "2026-07-28T13:09:49+00:00",
+     "copete": "El presidente estadounidense había criticado la obra en medio de un conflicto comercial. Por qué se generó la polémica entre ambos países y qué pasará con los usuarios.",
+     "id": "fe6a1b0fe9d5"
     },
     {
-     "title": "Carlota: la superproducción histórica que prepara HBO Max",
-     "link": "https://www.infobae.com/que-puedo-ver/2026/07/28/carlota-la-superproduccion-historica-que-prepara-hbo-max/",
-     "source": "Infobae",
-     "published": "2026-07-28T10:15:00+00:00",
-     "id": "1bb6904acbcc"
-    },
-    {
-     "title": "“Muchas familias no pueden pagar una residencia, y cuidar a los mayores en casa aporta cercanía, pero puede convertirse en una carga”: la dificultad de elegir los cuidados para una persona dependiente",
-     "link": "https://www.clarin.com/internacional/muchas-familias-pueden-pagar-residencia-cuidar-mayores-casa-aporta-cercania-puede-convertirse-carga-dificultad-elegir-cuidados-persona-dependiente_0_Uoux1EARiB.html",
+     "title": "Claudio Rígoli se casó en secreto con su novia Elisa en Italia: todas las fotos",
+     "link": "https://www.clarin.com/fama/claudio-rigoli-caso-secreto-novia-elisa-italia-todas-fotos_0_p7ryO87DpP.html",
      "source": "Clarín",
-     "published": "2026-07-28T10:11:51+00:00",
-     "copete": "La labor de los trabajadores sociales es clave para apoyar y acompañar tanto a la persona en situación de dependencia como a las personas cuidadoras, que a menudo sufren ansiedad, insomnio o culpa“ Con todo lo que sé, ¿yo viviría aquí?”…",
-     "id": "7a5bde21bcef"
+     "published": "2026-07-28T13:05:37+00:00",
+     "id": "342f6dc3c869"
     }
    ]
   },
@@ -380,84 +381,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "People trapped inside Japan shopping centre after earthquake",
-     "link": "https://www.bbc.co.uk/news/articles/cgewg24qgnjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-28T10:44:50+00:00",
-     "copete": "Some reports say there was an explosion at the Aeon Mall in Kumamoto, following the magnitude 7.1 earthquake which injured several people.",
-     "id": "c86b007113b1"
-    },
-    {
-     "title": "\"Aún me siento invencible\": Marianela Núñez, la argentina que lleva casi 3 décadas en la élite del Royal Ballet de Londres",
-     "link": "https://www.bbc.com/mundo/articles/c3v0x6rr46no?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-28T10:42:11+00:00",
-     "copete": "Ingresó al Royal Ballet de Londres en 1998 y se convirtió en primera bailarina de la compañía británica en 2002.",
-     "id": "6367e622ac0f"
-    },
-    {
-     "title": "Luis Manuel Otero Alcántara: “Los cubanos están locos por que pase algo, cualquier cosa”",
-     "link": "https://elpais.com/us/2026-07-28/luis-manuel-otero-alcantara-los-cubanos-estan-locos-porque-pase-algo-cualquier-cosa.html",
+     "title": "La reactivación en algunas zonas del incendio del suroeste de Francia obliga a evacuar a 4.000 turistas",
+     "link": "https://elpais.com/internacional/2026-07-28/la-reactivacion-en-algunas-zonas-del-incendio-del-suroeste-de-francia-obliga-a-evacuar-a-4000-turistas.html",
      "source": "El País Internacional",
-     "published": "2026-07-28T10:28:57+00:00",
-     "copete": "Tras cinco años en prisión y forzado al exilio, el artista reflexiona sobre la crisis en la isla, una posible intervención de Estados Unidos, y lo que considera un momento decisivo para Cuba",
-     "id": "cb286eec4377"
+     "published": "2026-07-28T13:59:19+00:00",
+     "copete": "El país afronta una nueva ola de calor que amenaza con reavivar el fuego, estable desde el pasado domingo, y que ha arrasado ya 42.000 hectáreas y ha obligado a desalojar a 220.000 personas",
+     "id": "997f782facd4"
     },
     {
-     "title": "\"No podía salir de casa, me preocupaba ser infiel\": cómo afecta el trastorno obsesivo compulsivo a las relaciones de pareja",
-     "link": "https://www.bbc.com/mundo/articles/cwym7gln711o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-28T10:01:05+00:00",
-     "copete": "Los síntomas se presentan principalmente en relaciones románticas, pero también pueden afectar a otros tipos de vinculos.",
-     "id": "e5e2a5524773"
-    },
-    {
-     "title": "Odyssey translator writes scathing review of Nolan film adaptation",
-     "link": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
+     "title": "Mancini reappointed Italy boss after Pirlo controversy",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-07-28T09:45:10+00:00",
-     "copete": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
-     "id": "2439a2109b55"
+     "published": "2026-07-28T13:54:00+00:00",
+     "copete": "Roberto Mancini is appointed Italy manager for a second time - just a day after Andrea Pirlo rules himself out of the running for the job and technical director Paolo Maldini resigns.",
+     "id": "b55e0bb786a8"
     },
     {
-     "title": "Japón registra un fuerte terremoto de magnitud 7,1, que provoca cortes de luz e interrupciones en el transporte",
+     "title": "French Navy carries out shooting drill mid interview",
+     "link": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-28T13:53:26+00:00",
+     "copete": "Shadow Home Secretary Chris Philp says the vessel fired 17 shots as he was giving a BBC interview.",
+     "id": "7e41bd64ce67"
+    },
+    {
+     "title": "La policía halla los cuerpos de cinco recién nacidos en la vivienda de una pareja en Francia",
+     "link": "https://elpais.com/internacional/2026-07-28/la-policia-francesa-halla-los-cuerpos-de-cinco-recien-nacidos-en-la-vivienda-de-una-pareja-en-francia.html",
+     "source": "El País Internacional",
+     "published": "2026-07-28T13:44:37+00:00",
+     "copete": "El hospital alertó a los agentes después de que una mujer diera a luz a un bebé sano tras un embarazo que negaba haber detectado. En su domicilio, los cadáveres han sido encontrados en cajas de cartón",
+     "id": "6352eae8647f"
+    },
+    {
+     "title": "Gironde wildfires pick up as French region braces for new 40C heatwave",
+     "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-28T13:25:13+00:00",
+     "copete": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires.",
+     "id": "44c682a32aec"
+    },
+    {
+     "title": "'It's a hell of a situation': Spain grapples with devastating wildfires",
+     "link": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-28T13:03:38+00:00",
+     "copete": "Three fires in the Madrid region have caused special concerns, with a new heatwave expected to hit Spain from Wednesday.",
+     "id": "3262d6e04101"
+    },
+    {
+     "title": "\"En la cárcel descubrí que presos y guardias éramos víctimas de una cúpula que mantiene a Cuba secuestrada\": Luis Manuel Otero Alcántara, el artista que pasó 5 años en prisión",
+     "link": "https://www.bbc.com/mundo/articles/cgew1n5l8plo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-28T13:01:34+00:00",
+     "copete": "Recién llegado a Miami tras verse obligado a abandonar Cuba, el cofundador del Movimiento San Isidro relata cómo sobrevivió al encierro y por qué quiere convertir sus creaciones desde la prisión en una nueva forma de resistencia.",
+     "id": "e85caab93e30"
+    },
+    {
+     "title": "Varias personas quedan atrapadas en la explosión de un centro comercial tras un fuerte terremoto en Japón",
      "link": "https://elpais.com/internacional/2026-07-28/japon-registra-un-fuerte-terremoto-de-magnitud-71-y-emite-una-alerta-por-tsunami.html",
      "source": "El País Internacional",
-     "published": "2026-07-28T09:33:46+00:00",
-     "copete": "El seísmo ha sacudido la prefectura de Kumamoto, en el sur del país. La amenaza de tsunami ha sido rebajada",
+     "published": "2026-07-28T12:42:50+00:00",
+     "copete": "La cadena Fuji TV asegura que hay numerosos fallecidos, mientras se informa de desaparecidos por el colapso de una chimenea de una fábrica de papel. El seísmo ha provocado al menos 50 heridos en la prefectura meridional de Kumamoto",
      "id": "20d2c9f6d115"
     },
     {
-     "title": "US walks out of UN Security Council meeting during France's remarks",
-     "link": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-28T09:32:25+00:00",
-     "copete": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
-     "id": "84af759744f5"
-    },
-    {
-     "title": "Zidane confirmed as France head coach",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-28T09:03:49+00:00",
-     "copete": "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.",
-     "id": "75e81f5ae087"
-    },
-    {
-     "title": "Qué papel tiene realmente la escasez de municiones en que Trump haya puesto en pausa la guerra con Irán",
-     "link": "https://www.bbc.com/mundo/articles/c1d1e3zwpqdo?at_medium=RSS&at_campaign=rss",
+     "title": "Varias personas quedan atrapadas en un centro comercial tras un terremoto de magnitud 7,1 en Japón",
+     "link": "https://www.bbc.com/mundo/articles/c5y62l02y3jo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-28T04:00:52+00:00",
-     "copete": "Washington ha utilizado misiles difíciles de reemplazar durante su guerra contra Teherán. Analizamos si realmente se está quedando sin reservas.",
-     "id": "d14863ce3667"
+     "published": "2026-07-28T11:40:28+00:00",
+     "copete": "El epicentro se situó a unos 20 km al sur de Kumamoto, la ciudad más grande de la isla de Kyushu, con una población de unos 700.000 habitantes.",
+     "id": "3e76a747d878"
     },
     {
-     "title": "Los insultos de Milei a Lula llevan a Argentina y Brasil al peor choque diplomático en años",
-     "link": "https://elpais.com/argentina/2026-07-28/los-insultos-de-milei-a-lula-llevan-a-argentina-y-brasil-al-peor-choque-diplomatico-en-anos.html",
-     "source": "El País Internacional",
-     "published": "2026-07-28T04:00:00+00:00",
-     "copete": "Los ataques del presidente ultra al izquierdista, que han motivado la llamada a consultas del embajador brasileño, conviven con una fuerte relación económica entre ambos países",
-     "id": "fe2ab656f1c8"
+     "title": "Cómo se compara Keiko con su padre y qué significa que un Fujimori vuelva a gobernar Perú",
+     "link": "https://www.bbc.com/mundo/articles/cn8p8ngk9gno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-28T11:24:55+00:00",
+     "copete": "Existen similitudes y diferencias entre la derechista que asume como presidenta peruana y Alberto Fujimori, quien marcó una era política en Perú.",
+     "id": "d896477c3813"
     }
    ]
   }
@@ -467,11 +468,6 @@
    "section": "cardiologia",
    "feed": "Cardiology Trials",
    "error": "HTTP Error 403: Forbidden"
-  },
-  {
-   "section": "cardiologia",
-   "feed": "Circulation (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "section": "cardiologia",

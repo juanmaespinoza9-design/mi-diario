@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T22:07:32Z",
+  "generated_at": "2026-07-28T10:05:24Z",
   "summaries": {
     "c06e44cdad4d": {
       "resumen": "Nota de TCTMD sobre un estudio que muestra que los costos de atención médica se disparan una vez que aparecen síntomas en pacientes con estenosis aórtica severa, la obstrucción más frecuente de la válvula aórtica en adultos mayores. Interesa porque refuerza el argumento a favor de la detección y el tratamiento oportuno (por ejemplo, con reemplazo valvular) antes de que el paciente se vuelva sintomático y la enfermedad se encarezca y complique.",
@@ -55,18 +55,6 @@
       "resumen": "Hilo de r/datascience donde los usuarios comparten consejos para prepararse ante búsquedas laborales o promociones a puestos senior de ciencia de datos, con foco en qué habilidades técnicas y de liderazgo se evalúan en esa instancia. Le sirve a un médico en transición hacia el análisis de datos como mapa de referencia de hacia dónde apunta el desarrollo de carrera en el área, más allá de los primeros pasos.",
       "destacado": false
     },
-    "2b8c164e3bdb": {
-      "resumen": "Nota de Techdirt, difundida en Hacker News, sobre un fallo judicial que rechazó el intento de Google de usar la ley de derechos de autor digital (DMCA, Digital Millennium Copyright Act) para impedir que terceros extrajeran datos (scraping) de sus sitios. Le sirve a un médico que aprende análisis de datos porque toca un debate central para cualquiera que recolecte datos públicos de la web: hasta dónde el scraping es legal y qué herramientas tienen las empresas para frenarlo.",
-      "destacado": false
-    },
-    "176cd9f25af3": {
-      "resumen": "Anuncio de Microsoft AI sobre MAI-Cyber-1-Flash, un modelo de inteligencia artificial (IA) especializado en ciberseguridad que se integra a su panel MDASH para detectar y responder a amenazas informáticas. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo la IA se aplica a tareas de detección de anomalías, una lógica trasladable a la vigilancia de eventos adversos en farmacovigilancia.",
-      "destacado": false
-    },
-    "41e3f05fff23": {
-      "resumen": "Nota breve sobre la incorporación de Wero, el nuevo sistema de pagos europeo, como opción de pago en el sitio web de Decathlon Alemania. Aporta poco de forma directa a un médico que aprende análisis de datos, salvo como ejemplo de cómo la infraestructura de pagos digitales genera datos transaccionales que después alimentan análisis de comportamiento de consumo.",
-      "destacado": false
-    },
     "48867509a3fa": {
       "resumen": "Artículo de Towards Data Science que relata cómo resolver, con optimización matemática, un problema de ruteo de tipo recolección y entrega (pickup-and-delivery) con ventanas horarias, un clásico desafío de investigación operativa. Le sirve a un médico que aprende análisis de datos como introducción a técnicas de optimización aplicables, por ejemplo, a la logística de turnos, guardias o distribución de recursos en un servicio de salud.",
       "destacado": false
@@ -75,26 +63,38 @@
       "resumen": "Artículo de Towards Data Science sobre aprendizaje activo (active learning), una técnica de aprendizaje automático (machine learning) que prioriza qué datos conviene que una persona etiquete a mano para entrenar un modelo, reduciendo el tiempo humano invertido en anotación. Le sirve especialmente a un médico que aprende análisis de datos y trabaja en farmacovigilancia, donde revisar y clasificar reportes de eventos adversos a mano consume muchísimo tiempo: esta técnica ayuda a enfocar ese esfuerzo donde más aporta.",
       "destacado": true
     },
-    "b58ce5f9ecd8": {
-      "resumen": "Nueva edición en PDF de Paged Out!, un fanzine gratuito de programación, ingeniería inversa y seguridad informática con artículos cortos de distintos autores. Le aporta a un médico que aprende análisis de datos una fuente de lectura técnica variada y en formato breve, útil para ir incorporando vocabulario y cultura de programación de a poco.",
+    "83c7bd2e9481": {
+      "resumen": "Entrada de blog personal, difundida en Hacker News, donde el autor cuenta su experiencia cotidiana usando un modelo de inteligencia artificial (IA) de pesos abiertos (open model) en lugar de los modelos cerrados de los grandes proveedores. Le sirve a un médico que aprende análisis de datos porque plantea una alternativa real a depender de servicios pagos y cerrados: más control sobre el costo, la privacidad de los datos y la posibilidad de correr el modelo en infraestructura propia.",
       "destacado": false
     },
-    "c7124bbfa7ee": {
-      "resumen": "Nota de KDnuggets que compara KimiClaw, una plataforma de agentes de inteligencia artificial (IA) alojada en la nube, contra OpenClaw, su alternativa autoalojada (self-hosted), en instalación, privacidad y capacidades de automatización. Le sirve a un médico que aprende análisis de datos para entender el equilibrio entre comodidad y control de los datos al elegir herramientas de IA, algo especialmente sensible cuando hay información de pacientes de por medio.",
+    "447e4a25f507": {
+      "resumen": "Publicación en Hacker News sobre cómo, con apenas 500 dólares, se hizo un ajuste fino por aprendizaje por refuerzo (RL fine-tune, reinforcement learning) de un modelo abierto de 9 mil millones de parámetros, y ese modelo chico terminó superando a modelos de punta (frontier models) mucho más grandes en una tarea específica de revisión de catálogos. Le sirve a un médico que aprende análisis de datos porque muestra que, para una tarea bien acotada, especializar un modelo chico puede ser más barato y efectivo que usar un modelo genérico enorme.",
       "destacado": false
     },
-    "b33edc3f18df": {
-      "resumen": "Artículo de Towards Data Science que repasa la historia y los fundamentos estadísticos de la media aritmética, mostrando por qué esta medida tan simple sigue siendo clave para resumir datos en contextos muy diversos. Le sirve a un médico que aprende análisis de datos para volver a mirar con otros ojos una herramienta que usa todo el tiempo en la práctica clínica, entendiendo mejor sus supuestos y sus límites.",
+    "64db355e6a0c": {
+      "resumen": "Simon Willison comenta el lanzamiento de los pesos de Kimi K3, el nuevo modelo de 2,8 billones de parámetros de Moonshot AI, publicado en Hugging Face con un tamaño de 1,56 terabytes y bajo una licencia propia derivada de la MIT. Le sirve a un médico que aprende análisis de datos como termómetro de la carrera por modelos de pesos abiertos cada vez más grandes y de las decisiones de licenciamiento que condicionan su uso real.",
       "destacado": false
     },
-    "14654bc73dd0": {
-      "resumen": "Contepomi confirmó el plantel de Los Pumas para los test matches ante Sudáfrica y Australia, con siete jugadores nacidos en Córdoba entre los convocados."
+    "785290846d9b": {
+      "resumen": "Nota de divulgación, difundida en Hacker News, sobre astronautas que describen una sensación persistente de \"observador\" -como si vieran su propia vida desde afuera- semanas después de volver de misiones de seis meses en el espacio. Es un ítem atípico dentro de esta sección, más ligado a neurociencia y psicología que a análisis de datos o inteligencia artificial, pero se incluye porque llegó entre lo más comentado de Hacker News esta semana.",
+      "destacado": false
     },
-    "2ab1fb736b50": {
-      "resumen": "El entrenador de Los Pumas dio a conocer la lista de convocados para recibir a Sudáfrica y Australia en los próximos test matches."
+    "6e826bcb66ff": {
+      "resumen": "Publicación técnica en GitHub, comentada en Hacker News, que mide el desempeño del modelo Opus 5 de Anthropic en SlopCodeBench, un banco de pruebas (benchmark) para evaluar agentes de codificación con inteligencia artificial. Le sirve a un médico que aprende análisis de datos como referencia para entender qué tan confiables son hoy los asistentes de IA a la hora de escribir o revisar código, algo cada vez más relevante si va a usarlos para analizar datos propios.",
+      "destacado": false
     },
-    "9fd03463766c": {
-      "resumen": "Entre los convocados de Los Pumas para enfrentar a Sudáfrica y Australia hay un jugador oriundo de Bahía Blanca."
+    "def96b54eb52": {
+      "resumen": "Simon Willison repasa cómo fue cambiando, con el correr de las actualizaciones, la guía de Ethan Mollick sobre qué inteligencia artificial (IA) conviene usar para cada tarea: hace apenas un año se limitaba a comparar chats como ChatGPT, Claude y Gemini, y hoy el panorama es mucho más amplio. Le sirve a un médico que aprende análisis de datos como mapa práctico y actualizado para elegir qué herramienta de IA usar según la tarea, en lugar de quedarse con la primera que probó.",
+      "destacado": false
+    },
+    "1dc008529eb5": {
+      "resumen": "Los Pumas confirmaron, con modificaciones respecto a la última convocatoria, el plantel que enfrentará a Sudáfrica (Springboks) y Australia (Wallabies) en Argentina."
+    },
+    "545ae8364296": {
+      "resumen": "Tomás Lavanini vuelve a Los Pumas y repasan cuándo fue la última vez que vistió la camiseta del seleccionado argentino de rugby."
+    },
+    "1ca1c1b5cc9f": {
+      "resumen": "Los Pumas confirmaron el plantel para los test matches ante Sudáfrica y Australia, con diez jugadores que debutarán en el seleccionado."
     }
   }
 }

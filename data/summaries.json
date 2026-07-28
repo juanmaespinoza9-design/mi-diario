@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-07-28T10:05:24Z",
+  "generated_at": "2026-07-28T22:05:29Z",
   "summaries": {
+    "ee659e575a31": {
+      "resumen": "Nota de TCTMD sobre un estudio que evalúa el uso de fibrinólisis (tratamiento farmacológico para disolver el coágulo) en pacientes con infarto agudo de miocardio con elevación del segmento ST (IAMCEST, conocido también por su sigla en inglés STEMI) atendidos en hospitales rurales sin acceso rápido a angioplastia primaria. Encontró mejoras en indicadores de calidad de proceso, como los tiempos de tratamiento, pero no en los resultados clínicos duros, como la mortalidad. Interesa porque toca un problema real de nuestro sistema de salud: qué hacer cuando el paciente con IAMCEST no puede llegar a tiempo a un centro con hemodinamia.",
+      "destacado": true,
+      "analisis": "Diseño: Por el título parece un estudio observacional (probablemente de registro o de tipo antes-después) que evalúa la implementación de un protocolo de fibrinólisis para el infarto con elevación del segmento ST (IAMCEST) en hospitales rurales sin capacidad de angioplastia primaria; sin abstract no se puede precisar aleatorización, cegamiento ni el número de centros o pacientes.\nPoblación: Pacientes con IAMCEST atendidos inicialmente en hospitales rurales sin acceso oportuno a angioplastia primaria.\nIntervención: Fibrinólisis (tratamiento trombolítico) como estrategia de reperfusión inicial, presumiblemente comparada contra el desempeño previo a la implementación del protocolo o contra centros con acceso a angioplastia primaria.\nResultados: No disponibles sin el abstract original; el título sugiere mejoras en métricas de calidad de proceso (por ejemplo, tiempos puerta-aguja) que no se tradujeron en mejores resultados clínicos duros (mortalidad, reinfarto).\nLimitaciones: Sin el trabajo completo no se puede evaluar el tamaño muestral, el período analizado ni si se ajustó por gravedad basal o comorbilidades entre los grupos comparados.\nMensaje: Sugiere que mejorar los procesos asistenciales para la fibrinólisis en zonas rurales no necesariamente se traduce en mejores desenlaces clínicos, lo que plantea la necesidad de fortalecer también las redes de derivación a centros con angioplastia primaria.\nNota: análisis sin acceso al abstract."
+    },
+    "fe5e991b371a": {
+      "resumen": "Nota de TCTMD sobre un análisis que muestra que una proporción importante de pacientes en Estados Unidos mantiene niveles de colesterol LDL (lipoproteínas de baja densidad, el principal blanco terapéutico en prevención cardiovascular) por encima de las metas recomendadas. Interesa porque confirma una brecha persistente entre las guías de manejo del riesgo cardiovascular y lo que realmente ocurre en la práctica, algo que también aplica a nuestro medio.",
+      "destacado": false,
+      "analisis": "Diseño: Por el título parece un estudio descriptivo (probablemente de registro o de historias clínicas) que evalúa el control del colesterol LDL (lipoproteínas de baja densidad) en la población de Estados Unidos; sin abstract no se puede precisar si es transversal o longitudinal, ni el número de pacientes incluidos.\nPoblación: Adultos de Estados Unidos con indicación de manejo del colesterol LDL, presumiblemente estratificados por riesgo cardiovascular (prevención primaria vs. secundaria).\nIntervención: No aplica una intervención terapéutica; se describe el grado de control del colesterol LDL respecto a las metas de las guías vigentes.\nResultados: No disponibles sin el abstract original; el título indica que una proporción relevante de pacientes no alcanza las metas recomendadas de LDL.\nLimitaciones: Sin el trabajo completo no se puede evaluar la fuente de datos, el período analizado ni si se consideró la adherencia al tratamiento hipolipemiante como causa del mal control.\nMensaje: Refuerza que, a pesar de contar con fármacos hipolipemiantes eficaces, persiste una brecha importante entre las metas de LDL recomendadas por las guías y el control real logrado en la práctica clínica.\nNota: análisis sin acceso al abstract."
+    },
     "c06e44cdad4d": {
       "resumen": "Nota de TCTMD sobre un estudio que muestra que los costos de atención médica se disparan una vez que aparecen síntomas en pacientes con estenosis aórtica severa, la obstrucción más frecuente de la válvula aórtica en adultos mayores. Interesa porque refuerza el argumento a favor de la detección y el tratamiento oportuno (por ejemplo, con reemplazo valvular) antes de que el paciente se vuelva sintomático y la enfermedad se encarezca y complique.",
       "destacado": false,
@@ -15,20 +25,10 @@
       "resumen": "Cobertura de TCTMD sobre la actualización del consenso del Colegio Americano de Cardiología (ACC, American College of Cardiology) para el manejo de la insuficiencia cardíaca con fracción de eyección preservada (ICFEp), que refuerza el rol de la finerenona (antagonista no esteroideo del receptor de mineralocorticoides) y pone mayor énfasis en los agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1). Interesa porque resume en qué cambia la práctica recomendada para una entidad muy prevalente y con opciones terapéuticas antes limitadas.",
       "destacado": false
     },
-    "1115a995481c": {
-      "resumen": "Nota de TCTMD sobre un análisis que muestra un aumento sostenido de las amputaciones vinculadas a la enfermedad arterial periférica (EAP, arteriopatía obstructiva de los miembros inferiores), con una carga que ya no se concentra solo en los centros de referencia sino que se distribuye entre un número creciente de hospitales. Interesa porque refleja cómo la isquemia crónica de miembros inferiores se está volviendo un problema de salud pública más amplio, con implicancias para la organización de los servicios vasculares y la prevención cardiovascular.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título parece un análisis de datos hospitalarios (probablemente de registros o bases administrativas) sobre tendencias de amputación; sin abstract no se puede precisar si es un estudio de cohorte, transversal, ni el número de centros o pacientes incluidos.\nPoblación: Pacientes con enfermedad arterial periférica avanzada sometidos a amputación de miembros inferiores, en distintos tipos de hospitales (de referencia vs. comunitarios).\nIntervención: No aplica una intervención terapéutica; se describe la distribución y evolución temporal de las amputaciones entre distintos tipos de centros.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar la fuente de datos, el período analizado ni si se ajustó por gravedad de la enfermedad o acceso a revascularización.\nMensaje: Sugiere que la carga de las amputaciones por enfermedad vascular periférica se está expandiendo más allá de los centros especializados, lo que podría reflejar brechas en la prevención y el tratamiento oportuno de la isquemia de miembros inferiores.\nNota: análisis sin acceso al abstract."
-    },
     "1727716cfea3": {
       "resumen": "Documento oficial del Colegio Americano de Cardiología (ACC) publicado en JACC (Journal of the American College of Cardiology) que actualiza el algoritmo de manejo de la insuficiencia cardíaca con fracción de eyección preservada (ICFEp), con foco en la finerenona y los agonistas del receptor de GLP-1. Interesa como referencia directa de consulta en la práctica diaria, más allá del resumen periodístico de TCTMD sobre el mismo consenso.",
       "destacado": false,
       "analisis": "Diseño: Documento de consenso de expertos (Expert Consensus Decision Pathway) del Colegio Americano de Cardiología (ACC); no es un ensayo clínico original sino una guía de práctica que sintetiza evidencia previa sobre insuficiencia cardíaca con fracción de eyección preservada (ICFEp).\nPoblación: Pacientes adultos con diagnóstico de ICFEp, en distintos escenarios de manejo ambulatorio y hospitalario.\nIntervención: No aplica una intervención experimental; el documento propone un algoritmo escalonado que refuerza el lugar de la finerenona (antagonista no esteroideo del receptor de mineralocorticoides) y los agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1), sumados a los pilares ya establecidos como los inhibidores de SGLT2 (cotransportador sodio-glucosa tipo 2).\nResultados: No aplica; el documento no reporta datos originales de eficacia, se apoya en la evidencia de los ensayos que sustentan cada fármaco recomendado.\nLimitaciones: Al ser un consenso de expertos y no una revisión sistemática formal ni un ensayo clínico, las recomendaciones combinan evidencia de distinto peso con juicio clínico; no aborda en detalle la aplicabilidad ni el costo en sistemas de salud con recursos limitados.\nMensaje: Actualiza el algoritmo de manejo de la ICFEp, consolidando a la finerenona y los agonistas de GLP-1 como piezas centrales del tratamiento junto a los inhibidores de SGLT2.\nNota: análisis sin acceso al abstract."
-    },
-    "e23c37eed3bf": {
-      "resumen": "Nota de TCTMD sobre un estudio que muestra que cuantificar la inflamación perivascular en tomografías computadas sin contraste (no-contrast scans) mejoraría la predicción del riesgo cardiovascular, incluso cuando no se dispone de angiotomografía coronaria con contraste. Interesa porque abre la puerta a extraer información pronóstica adicional de estudios de imagen ya solicitados por otros motivos (por ejemplo, score de calcio coronario), sin exponer al paciente a contraste yodado.",
-      "destacado": true,
-      "analisis": "Diseño: Por el título se infiere un estudio observacional (probablemente de cohorte) que evalúa un método de cuantificación de inflamación por imágenes en tomografías sin contraste; sin abstract no se puede precisar la aleatorización, el cegamiento ni el número de centros o pacientes.\nPoblación: Pacientes sometidos a tomografía computada cardíaca sin contraste (por ejemplo, para score de calcio coronario), en quienes se buscó predecir eventos cardiovasculares.\nIntervención: No aplica una intervención terapéutica; se evalúa un biomarcador de imagen (cuantificación de inflamación perivascular) como herramienta de predicción de riesgo, presumiblemente comparado contra la evaluación habitual sin este parámetro.\nResultados: No disponibles sin el abstract original.\nLimitaciones: Sin el trabajo completo no se puede evaluar la validación externa del método de cuantificación, el tiempo de seguimiento ni los eventos cardiovasculares específicos considerados.\nMensaje: Sugiere que la cuantificación de inflamación por imagen podría sumar valor pronóstico a estudios de tomografía sin contraste ya realizados en la práctica habitual, ampliando su utilidad sin exponer al paciente a contraste adicional.\nNota: análisis sin acceso al abstract."
     },
     "4b069d1fe30f": {
       "resumen": "Artículo de opinión en JACC (Journal of the American College of Cardiology) que, con un título que juega con la diferencia entre teoría y práctica, reflexiona sobre las brechas entre cómo se evalúa la seguridad y efectividad de los dispositivos médicos en el papel y cómo funciona realmente eso en la práctica clínica. Interesa porque cuestiona el proceso regulatorio y de generación de evidencia de los dispositivos cardiovasculares, un tema central para quien evalúa tecnología médica en su práctica diaria.",
@@ -47,54 +47,57 @@
       "resumen": "Artículo de opinión de Harlan Krumholz en JACC (Journal of the American College of Cardiology) sobre cómo escribir la sección de discusión de un artículo científico, donde cada párrafo debe cumplir una función clara. Interesa como guía práctica de escritura científica para quien está en transición hacia la producción de investigación en farmacovigilancia y análisis de datos.",
       "destacado": false
     },
-    "c759f6198061": {
-      "resumen": "Hilo de r/datascience donde un usuario cuenta que armó una herramienta de aprendizaje automático automatizado (AutoML) del tipo \"traé tu propia nube\" (bring your own cloud), pensada para que equipos chicos entrenen modelos sin depender de plataformas cerradas ni ceder sus datos a terceros. Le sirve a un médico que aprende análisis de datos porque el AutoML simplifica el entrenamiento de modelos predictivos sin tener que programar cada paso a mano, aunque conviene entender sus límites antes de usarlo con datos clínicos.",
+    "53b868bd01d6": {
+      "resumen": "Simon Willison repasa un informe técnico muy detallado, publicado por Hugging Face, sobre el incidente de julio de 2026 en el que un agente de inteligencia artificial de OpenAI terminó protagonizando un ataque cibernético accidental contra la propia infraestructura de la compañía. Le sirve a un médico que aprende análisis de datos porque expone, con una cronología concreta, los riesgos de seguridad que aparecen cuando se delega autonomía real a agentes de inteligencia artificial, algo cada vez más relevante a medida que estas herramientas se usan en tareas sensibles.",
       "destacado": false
     },
-    "f12802b7a474": {
-      "resumen": "Hilo de r/datascience donde los usuarios comparten consejos para prepararse ante búsquedas laborales o promociones a puestos senior de ciencia de datos, con foco en qué habilidades técnicas y de liderazgo se evalúan en esa instancia. Le sirve a un médico en transición hacia el análisis de datos como mapa de referencia de hacia dónde apunta el desarrollo de carrera en el área, más allá de los primeros pasos.",
-      "destacado": false
-    },
-    "48867509a3fa": {
-      "resumen": "Artículo de Towards Data Science que relata cómo resolver, con optimización matemática, un problema de ruteo de tipo recolección y entrega (pickup-and-delivery) con ventanas horarias, un clásico desafío de investigación operativa. Le sirve a un médico que aprende análisis de datos como introducción a técnicas de optimización aplicables, por ejemplo, a la logística de turnos, guardias o distribución de recursos en un servicio de salud.",
-      "destacado": false
-    },
-    "5b7c96325d60": {
-      "resumen": "Artículo de Towards Data Science sobre aprendizaje activo (active learning), una técnica de aprendizaje automático (machine learning) que prioriza qué datos conviene que una persona etiquete a mano para entrenar un modelo, reduciendo el tiempo humano invertido en anotación. Le sirve especialmente a un médico que aprende análisis de datos y trabaja en farmacovigilancia, donde revisar y clasificar reportes de eventos adversos a mano consume muchísimo tiempo: esta técnica ayuda a enfocar ese esfuerzo donde más aporta.",
+    "df6c16550d6d": {
+      "resumen": "Investigación publicada por Anthropic, muy comentada en Hacker News, sobre cómo usaron su modelo de inteligencia artificial Claude para encontrar debilidades reales en implementaciones criptográficas. Le sirve a un médico que aprende análisis de datos porque muestra un caso concreto de un modelo de lenguaje aplicado a una tarea técnica de alto valor (auditoría de seguridad), más allá del uso conversacional habitual.",
       "destacado": true
     },
-    "83c7bd2e9481": {
-      "resumen": "Entrada de blog personal, difundida en Hacker News, donde el autor cuenta su experiencia cotidiana usando un modelo de inteligencia artificial (IA) de pesos abiertos (open model) en lugar de los modelos cerrados de los grandes proveedores. Le sirve a un médico que aprende análisis de datos porque plantea una alternativa real a depender de servicios pagos y cerrados: más control sobre el costo, la privacidad de los datos y la posibilidad de correr el modelo en infraestructura propia.",
+    "f41b06015696": {
+      "resumen": "Anuncio de una nueva versión del compilador Steel Bank Common Lisp (SBCL), una implementación del lenguaje de programación Lisp, entre lo más comentado de Hacker News esta semana. Es un ítem atípico para esta sección: no aporta directamente a análisis de datos ni inteligencia artificial, pero refleja la vitalidad de comunidades de programación con décadas de historia que conviven con el auge actual de la IA.",
       "destacado": false
     },
-    "447e4a25f507": {
-      "resumen": "Publicación en Hacker News sobre cómo, con apenas 500 dólares, se hizo un ajuste fino por aprendizaje por refuerzo (RL fine-tune, reinforcement learning) de un modelo abierto de 9 mil millones de parámetros, y ese modelo chico terminó superando a modelos de punta (frontier models) mucho más grandes en una tarea específica de revisión de catálogos. Le sirve a un médico que aprende análisis de datos porque muestra que, para una tarea bien acotada, especializar un modelo chico puede ser más barato y efectivo que usar un modelo genérico enorme.",
+    "368f477b983d": {
+      "resumen": "Nota de opinión, difundida en Hacker News, que argumenta por qué quienes escriben en Substack deberían tener también un sitio web propio en lugar de depender solo de esa plataforma. Es un ítem atípico para esta sección, más vinculado a estrategia de publicación de contenidos que a análisis de datos o inteligencia artificial, pero se incluye porque llegó entre lo más comentado de Hacker News esta semana.",
       "destacado": false
     },
-    "64db355e6a0c": {
-      "resumen": "Simon Willison comenta el lanzamiento de los pesos de Kimi K3, el nuevo modelo de 2,8 billones de parámetros de Moonshot AI, publicado en Hugging Face con un tamaño de 1,56 terabytes y bajo una licencia propia derivada de la MIT. Le sirve a un médico que aprende análisis de datos como termómetro de la carrera por modelos de pesos abiertos cada vez más grandes y de las decisiones de licenciamiento que condicionan su uso real.",
+    "4a625d27daef": {
+      "resumen": "Artículo de Towards Data Science que midió, vatio a vatio, cuánto cuesta realmente en electricidad correr distintos modelos de lenguaje de gran tamaño (LLM, large language model) de forma local en una computadora con chip Apple Silicon, comparando varios modelos y contrastando con mediciones previas en placas de video RTX-3090. Le sirve a un médico que aprende análisis de datos porque da una base concreta de costos para decidir si conviene correr modelos propios en vez de pagar servicios en la nube.",
       "destacado": false
     },
-    "785290846d9b": {
-      "resumen": "Nota de divulgación, difundida en Hacker News, sobre astronautas que describen una sensación persistente de \"observador\" -como si vieran su propia vida desde afuera- semanas después de volver de misiones de seis meses en el espacio. Es un ítem atípico dentro de esta sección, más ligado a neurociencia y psicología que a análisis de datos o inteligencia artificial, pero se incluye porque llegó entre lo más comentado de Hacker News esta semana.",
+    "9037130a5728": {
+      "resumen": "Presentación de la revista Delayed Gratification, que se enorgullece de publicar sus notas después de que pasó la urgencia de la noticia, priorizando el análisis pausado por sobre la primicia. Es un ítem atípico para esta sección, más ligado al periodismo lento que al análisis de datos o la inteligencia artificial, pero se incluye porque llegó entre lo más comentado de Hacker News esta semana.",
       "destacado": false
     },
-    "6e826bcb66ff": {
-      "resumen": "Publicación técnica en GitHub, comentada en Hacker News, que mide el desempeño del modelo Opus 5 de Anthropic en SlopCodeBench, un banco de pruebas (benchmark) para evaluar agentes de codificación con inteligencia artificial. Le sirve a un médico que aprende análisis de datos como referencia para entender qué tan confiables son hoy los asistentes de IA a la hora de escribir o revisar código, algo cada vez más relevante si va a usarlos para analizar datos propios.",
+    "2d9f9ff3f813": {
+      "resumen": "Artículo de Towards Data Science que explica el Protocolo de Contexto de Modelo (MCP, Model Context Protocol), el estándar que permite que los agentes de inteligencia artificial se conecten de forma uniforme con herramientas y fuentes de datos externas, reemplazando integraciones a medida. Le sirve a un médico que aprende análisis de datos porque es la pieza técnica que hoy conecta modelos de inteligencia artificial con bases de datos, planillas o sistemas propios de forma estandarizada.",
       "destacado": false
     },
-    "def96b54eb52": {
-      "resumen": "Simon Willison repasa cómo fue cambiando, con el correr de las actualizaciones, la guía de Ethan Mollick sobre qué inteligencia artificial (IA) conviene usar para cada tarea: hace apenas un año se limitaba a comparar chats como ChatGPT, Claude y Gemini, y hoy el panorama es mucho más amplio. Le sirve a un médico que aprende análisis de datos como mapa práctico y actualizado para elegir qué herramienta de IA usar según la tarea, en lugar de quedarse con la primera que probó.",
+    "43c9828db253": {
+      "resumen": "Guía introductoria de KDnuggets sobre la decodificación con restricciones (constraint decoding), una técnica que obliga a un modelo de lenguaje a generar salidas que cumplan un formato exacto (por ejemplo, JSON válido) sin depender de pedírselo con instrucciones en el texto. Le sirve a un médico que aprende análisis de datos porque es clave para integrar modelos de inteligencia artificial en flujos automatizados donde la salida tiene que poder procesarse sin errores de formato.",
       "destacado": false
     },
-    "1dc008529eb5": {
-      "resumen": "Los Pumas confirmaron, con modificaciones respecto a la última convocatoria, el plantel que enfrentará a Sudáfrica (Springboks) y Australia (Wallabies) en Argentina."
+    "d590b8c9bb9e": {
+      "resumen": "Artículo de Towards Data Science que explica en profundidad la dinámica del optimizador Adam, uno de los algoritmos más usados para entrenar redes neuronales, y por qué usarlo sin entenderlo puede arruinar el entrenamiento de un modelo. Le sirve a un médico que aprende análisis de datos porque baja a tierra un concepto técnico central del aprendizaje automático (machine learning) que suele usarse de memoria sin entender sus supuestos.",
+      "destacado": false
     },
-    "545ae8364296": {
-      "resumen": "Tomás Lavanini vuelve a Los Pumas y repasan cuándo fue la última vez que vistió la camiseta del seleccionado argentino de rugby."
+    "7048b90d49a4": {
+      "resumen": "Listado de KDnuggets con cinco herramientas de inteligencia artificial para análisis de datos, que prometen limpiar datos, escribir código, crear visualizaciones y generar conclusiones más rápido. Le sirve a un médico que aprende análisis de datos como punta de lanza para probar herramientas concretas que pueden acortar camino en tareas repetitivas del trabajo diario con datos.",
+      "destacado": false
     },
-    "1ca1c1b5cc9f": {
-      "resumen": "Los Pumas confirmaron el plantel para los test matches ante Sudáfrica y Australia, con diez jugadores que debutarán en el seleccionado."
+    "7a086aeff047": {
+      "resumen": "Jugadores formados en el Súper Rugby Américas asoman como candidatos a debutar próximamente con la camiseta de Los Pumas."
+    },
+    "1eeb8dfed213": {
+      "resumen": "Martín Altberg le responde en su editorial de Equipo Scrum al árbitro Nigel Owens por sus cuestionamientos al arbitraje en los partidos de Los Pumas."
+    },
+    "5290c51a8d0e": {
+      "resumen": "Se explican los motivos por los que el Rugby Championship no se disputará en 2026 y cómo ese parate afecta el calendario de Los Pumas."
+    },
+    "25a3d242968b": {
+      "resumen": "La energía se perfila como uno de los motores del crecimiento económico argentino, según se planteó en el ciclo Visión 360 de Clarín."
     }
   }
 }

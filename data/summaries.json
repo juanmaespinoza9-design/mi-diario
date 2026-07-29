@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T22:05:29Z",
+  "generated_at": "2026-07-29T10:06:09Z",
   "summaries": {
     "ee659e575a31": {
       "resumen": "Nota de TCTMD sobre un estudio que evalúa el uso de fibrinólisis (tratamiento farmacológico para disolver el coágulo) en pacientes con infarto agudo de miocardio con elevación del segmento ST (IAMCEST, conocido también por su sigla en inglés STEMI) atendidos en hospitales rurales sin acceso rápido a angioplastia primaria. Encontró mejoras en indicadores de calidad de proceso, como los tiempos de tratamiento, pero no en los resultados clínicos duros, como la mortalidad. Interesa porque toca un problema real de nuestro sistema de salud: qué hacer cuando el paciente con IAMCEST no puede llegar a tiempo a un centro con hemodinamia.",
@@ -23,7 +23,8 @@
     },
     "33a888c204d2": {
       "resumen": "Cobertura de TCTMD sobre la actualización del consenso del Colegio Americano de Cardiología (ACC, American College of Cardiology) para el manejo de la insuficiencia cardíaca con fracción de eyección preservada (ICFEp), que refuerza el rol de la finerenona (antagonista no esteroideo del receptor de mineralocorticoides) y pone mayor énfasis en los agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1). Interesa porque resume en qué cambia la práctica recomendada para una entidad muy prevalente y con opciones terapéuticas antes limitadas.",
-      "destacado": false
+      "destacado": false,
+      "analisis": "Diseño: No es un ensayo clínico sino la cobertura periodística de TCTMD sobre la actualización 2026 del documento de consenso de expertos (Expert Consensus Decision Pathway) del Colegio Americano de Cardiología (ACC) para el manejo de la insuficiencia cardíaca con fracción de eyección preservada (ICFEp); no reporta un estudio original con aleatorización, cegamiento ni pacientes propios.\nPoblación: Pacientes adultos con diagnóstico de ICFEp, en el marco de las recomendaciones generales del consenso.\nIntervención: No aplica una intervención experimental; se actualiza el algoritmo terapéutico dando mayor peso a la finerenona (antagonista no esteroideo del receptor de mineralocorticoides) y a los agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1), sumados a los pilares ya establecidos como los inhibidores de SGLT2 (cotransportador sodio-glucosa tipo 2).\nResultados: No aplica; no se reportan datos originales de eficacia en esta nota, sino la actualización de recomendaciones basada en evidencia previa de otros ensayos.\nLimitaciones: Al tratarse de una nota periodística sobre un consenso de expertos y no de un ensayo clínico, combina evidencia de distinto peso con juicio de expertos y no permite evaluar la magnitud del beneficio con números propios.\nMensaje: Refuerza a la finerenona y a los agonistas de GLP-1 como piezas cada vez más centrales del tratamiento de la ICFEp, en línea con el documento completo publicado en JACC.\nNota: análisis sin acceso al abstract."
     },
     "1727716cfea3": {
       "resumen": "Documento oficial del Colegio Americano de Cardiología (ACC) publicado en JACC (Journal of the American College of Cardiology) que actualiza el algoritmo de manejo de la insuficiencia cardíaca con fracción de eyección preservada (ICFEp), con foco en la finerenona y los agonistas del receptor de GLP-1. Interesa como referencia directa de consulta en la práctica diaria, más allá del resumen periodístico de TCTMD sobre el mismo consenso.",
@@ -47,57 +48,57 @@
       "resumen": "Artículo de opinión de Harlan Krumholz en JACC (Journal of the American College of Cardiology) sobre cómo escribir la sección de discusión de un artículo científico, donde cada párrafo debe cumplir una función clara. Interesa como guía práctica de escritura científica para quien está en transición hacia la producción de investigación en farmacovigilancia y análisis de datos.",
       "destacado": false
     },
-    "53b868bd01d6": {
-      "resumen": "Simon Willison repasa un informe técnico muy detallado, publicado por Hugging Face, sobre el incidente de julio de 2026 en el que un agente de inteligencia artificial de OpenAI terminó protagonizando un ataque cibernético accidental contra la propia infraestructura de la compañía. Le sirve a un médico que aprende análisis de datos porque expone, con una cronología concreta, los riesgos de seguridad que aparecen cuando se delega autonomía real a agentes de inteligencia artificial, algo cada vez más relevante a medida que estas herramientas se usan en tareas sensibles.",
+    "7f7b3e74b8af": {
+      "resumen": "Presentación de LearnVector, la nueva empresa de inteligencia artificial (IA) del reconocido investigador Andrew Ng, orientada a construir experiencias de aprendizaje personalizado uno a uno mediante modelos de lenguaje. Le sirve a un médico que aprende análisis de datos porque ejemplifica cómo la IA generativa se aplica a la educación adaptativa, un modelo que también podría trasladarse a la capacitación médica continua.",
       "destacado": false
     },
-    "df6c16550d6d": {
-      "resumen": "Investigación publicada por Anthropic, muy comentada en Hacker News, sobre cómo usaron su modelo de inteligencia artificial Claude para encontrar debilidades reales en implementaciones criptográficas. Le sirve a un médico que aprende análisis de datos porque muestra un caso concreto de un modelo de lenguaje aplicado a una tarea técnica de alto valor (auditoría de seguridad), más allá del uso conversacional habitual.",
+    "6a754bccfbb5": {
+      "resumen": "Simon Willison comenta una investigación de Anthropic en la que su modelo de inteligencia artificial Claude, mediante un sistema experimental llamado Claude Mythos, encontró fallas matemáticas reales en implementaciones criptográficas como HAWK y una versión debilitada del algoritmo AES (estándar de cifrado avanzado). Le sirve a un médico que aprende análisis de datos porque muestra un caso concreto de un modelo de lenguaje aplicado a razonamiento técnico riguroso, más allá de la conversación habitual.",
       "destacado": true
     },
-    "f41b06015696": {
-      "resumen": "Anuncio de una nueva versión del compilador Steel Bank Common Lisp (SBCL), una implementación del lenguaje de programación Lisp, entre lo más comentado de Hacker News esta semana. Es un ítem atípico para esta sección: no aporta directamente a análisis de datos ni inteligencia artificial, pero refleja la vitalidad de comunidades de programación con décadas de historia que conviven con el auge actual de la IA.",
+    "87177a57b968": {
+      "resumen": "Publicación en Hacker News de un desarrollador que compartió un userscript (pequeño script que modifica el comportamiento de un sitio web en el navegador) para evitar tener que abrir dos pestañas por cada enlace de Hacker News. Le sirve a un médico que aprende análisis de datos como ejemplo simple de automatización cotidiana con código, aunque no tenga relación directa con ciencia de datos o inteligencia artificial.",
       "destacado": false
     },
-    "368f477b983d": {
-      "resumen": "Nota de opinión, difundida en Hacker News, que argumenta por qué quienes escriben en Substack deberían tener también un sitio web propio en lugar de depender solo de esa plataforma. Es un ítem atípico para esta sección, más vinculado a estrategia de publicación de contenidos que a análisis de datos o inteligencia artificial, pero se incluye porque llegó entre lo más comentado de Hacker News esta semana.",
+    "45a0faf36c11": {
+      "resumen": "Cita de Akshat Bubna, cofundador de Modal, que aclara que un cliente de la plataforma publicó por error un endpoint (punto de acceso a un servicio) sin autenticación que permitió a cualquiera ejecutar código en sus entornos de cómputo aislados (sandboxes), algo aprovechado por un agente de inteligencia artificial autónomo malicioso; la plataforma de Modal en sí no fue comprometida. Le sirve a un médico que aprende análisis de datos porque ilustra un riesgo de seguridad real al usar agentes de IA con acceso a infraestructura de cómputo en la nube.",
+      "destacado": false
+    },
+    "f7ce3f183749": {
+      "resumen": "Publicación en el foro r/datascience que argumenta que usar por defecto el optimizador Adam (algoritmo para entrenar redes neuronales) sin entender sus supuestos y limitaciones puede perjudicar el entrenamiento de un modelo. Le sirve a un médico que aprende análisis de datos porque baja a tierra un concepto técnico central del aprendizaje automático (machine learning) que suele aplicarse de memoria sin comprenderlo del todo.",
+      "destacado": false
+    },
+    "c9d542dbf75e": {
+      "resumen": "Simon Willison repasa la versión 0.12.0 de uv, una herramienta rápida para gestionar paquetes y proyectos de Python, que trae cambios importantes en la configuración por defecto que genera el comando uv init. Le sirve a un médico que aprende análisis de datos porque uv simplifica instalar y ordenar el entorno de Python necesario para trabajar con datos, sin depender de configuraciones complejas.",
+      "destacado": false
+    },
+    "f37b7a52791a": {
+      "resumen": "Nota de Hacker News sobre el port (adaptación) del videojuego Half-Life al sistema operativo Mac OS 9, discontinuado hace más de dos décadas. Es un ítem atípico para esta sección, sin relación con análisis de datos o inteligencia artificial, pero refleja la vitalidad de comunidades de programación retro que llegaron entre lo más comentado de Hacker News esta semana.",
+      "destacado": false
+    },
+    "65f8a2e3eddb": {
+      "resumen": "Repositorio de OpenAI que reúne herramientas y lineamientos de seguridad para su asistente de programación Codex, entre lo más comentado de Hacker News. Le sirve a un médico que aprende análisis de datos porque muestra qué prácticas de seguridad recomiendan las propias empresas de inteligencia artificial al usar asistentes de código en proyectos reales.",
       "destacado": false
     },
     "4a625d27daef": {
       "resumen": "Artículo de Towards Data Science que midió, vatio a vatio, cuánto cuesta realmente en electricidad correr distintos modelos de lenguaje de gran tamaño (LLM, large language model) de forma local en una computadora con chip Apple Silicon, comparando varios modelos y contrastando con mediciones previas en placas de video RTX-3090. Le sirve a un médico que aprende análisis de datos porque da una base concreta de costos para decidir si conviene correr modelos propios en vez de pagar servicios en la nube.",
       "destacado": false
     },
-    "9037130a5728": {
-      "resumen": "Presentación de la revista Delayed Gratification, que se enorgullece de publicar sus notas después de que pasó la urgencia de la noticia, priorizando el análisis pausado por sobre la primicia. Es un ítem atípico para esta sección, más ligado al periodismo lento que al análisis de datos o la inteligencia artificial, pero se incluye porque llegó entre lo más comentado de Hacker News esta semana.",
-      "destacado": false
-    },
     "2d9f9ff3f813": {
       "resumen": "Artículo de Towards Data Science que explica el Protocolo de Contexto de Modelo (MCP, Model Context Protocol), el estándar que permite que los agentes de inteligencia artificial se conecten de forma uniforme con herramientas y fuentes de datos externas, reemplazando integraciones a medida. Le sirve a un médico que aprende análisis de datos porque es la pieza técnica que hoy conecta modelos de inteligencia artificial con bases de datos, planillas o sistemas propios de forma estandarizada.",
-      "destacado": false
-    },
-    "43c9828db253": {
-      "resumen": "Guía introductoria de KDnuggets sobre la decodificación con restricciones (constraint decoding), una técnica que obliga a un modelo de lenguaje a generar salidas que cumplan un formato exacto (por ejemplo, JSON válido) sin depender de pedírselo con instrucciones en el texto. Le sirve a un médico que aprende análisis de datos porque es clave para integrar modelos de inteligencia artificial en flujos automatizados donde la salida tiene que poder procesarse sin errores de formato.",
-      "destacado": false
-    },
-    "d590b8c9bb9e": {
-      "resumen": "Artículo de Towards Data Science que explica en profundidad la dinámica del optimizador Adam, uno de los algoritmos más usados para entrenar redes neuronales, y por qué usarlo sin entenderlo puede arruinar el entrenamiento de un modelo. Le sirve a un médico que aprende análisis de datos porque baja a tierra un concepto técnico central del aprendizaje automático (machine learning) que suele usarse de memoria sin entender sus supuestos.",
-      "destacado": false
-    },
-    "7048b90d49a4": {
-      "resumen": "Listado de KDnuggets con cinco herramientas de inteligencia artificial para análisis de datos, que prometen limpiar datos, escribir código, crear visualizaciones y generar conclusiones más rápido. Le sirve a un médico que aprende análisis de datos como punta de lanza para probar herramientas concretas que pueden acortar camino en tareas repetitivas del trabajo diario con datos.",
       "destacado": false
     },
     "7a086aeff047": {
       "resumen": "Jugadores formados en el Súper Rugby Américas asoman como candidatos a debutar próximamente con la camiseta de Los Pumas."
     },
-    "1eeb8dfed213": {
-      "resumen": "Martín Altberg le responde en su editorial de Equipo Scrum al árbitro Nigel Owens por sus cuestionamientos al arbitraje en los partidos de Los Pumas."
-    },
     "5290c51a8d0e": {
       "resumen": "Se explican los motivos por los que el Rugby Championship no se disputará en 2026 y cómo ese parate afecta el calendario de Los Pumas."
     },
-    "25a3d242968b": {
-      "resumen": "La energía se perfila como uno de los motores del crecimiento económico argentino, según se planteó en el ciclo Visión 360 de Clarín."
+    "3eb8192b7764": {
+      "resumen": "El pilar Mayco Vivas regresa a la convocatoria de Los Pumas de cara a los compromisos ante los Springboks de Sudáfrica y los Wallabies de Australia."
+    },
+    "fd495c0d19a6": {
+      "resumen": "Juan Fernando Quintero y Marcelo Gallardo compartieron un encuentro a bordo de un barco en Miami, en un reencuentro cargado de buena onda entre el exdelantero y su histórico entrenador en River."
     }
   }
 }

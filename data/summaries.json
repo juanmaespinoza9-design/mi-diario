@@ -1,19 +1,13 @@
 {
-  "generated_at": "2026-07-29T22:06:20Z",
+  "generated_at": "2026-07-30T10:05:20Z",
   "summaries": {
-    "fe5e991b371a": {
-      "resumen": "Nota de TCTMD sobre un análisis que muestra que una proporción importante de pacientes en Estados Unidos mantiene niveles de colesterol LDL (lipoproteínas de baja densidad, el principal blanco terapéutico en prevención cardiovascular) por encima de las metas recomendadas. Interesa porque confirma una brecha persistente entre las guías de manejo del riesgo cardiovascular y lo que realmente ocurre en la práctica, algo que también aplica a nuestro medio.",
-      "destacado": false,
-      "analisis": "Diseño: Por el título parece un estudio descriptivo (probablemente de registro o de historias clínicas) que evalúa el control del colesterol LDL (lipoproteínas de baja densidad) en la población de Estados Unidos; sin abstract no se puede precisar si es transversal o longitudinal, ni el número de pacientes incluidos.\nPoblación: Adultos de Estados Unidos con indicación de manejo del colesterol LDL, presumiblemente estratificados por riesgo cardiovascular (prevención primaria vs. secundaria).\nIntervención: No aplica una intervención terapéutica; se describe el grado de control del colesterol LDL respecto a las metas de las guías vigentes.\nResultados: No disponibles sin el abstract original; el título indica que una proporción relevante de pacientes no alcanza las metas recomendadas de LDL.\nLimitaciones: Sin el trabajo completo no se puede evaluar la fuente de datos, el período analizado ni si se consideró la adherencia al tratamiento hipolipemiante como causa del mal control.\nMensaje: Refuerza que, a pesar de contar con fármacos hipolipemiantes eficaces, persiste una brecha importante entre las metas de LDL recomendadas por las guías y el control real logrado en la práctica clínica.\nNota: análisis sin acceso al abstract."
-    },
-    "23b0db17ac4a": {
-      "resumen": "Revisión del European Heart Journal (EHJ) sobre la evolución del conocimiento en biología vascular y los mecanismos moleculares recientemente descubiertos que abrirían la puerta a nuevos blancos terapéuticos. El contenido capturado remite solo a la leyenda de una figura, por lo que parece tratarse de un elemento gráfico o de portada más que del texto completo; de todos modos, sirve como disparador para seguir la actualización en fisiopatología vascular en la fuente original.",
+    "b55a9ad1fa58": {
+      "resumen": "Nota de TCTMD con reflexiones de fellows de cardiología (médicos en formación de subespecialidad) sobre lo que hubiesen querido saber antes de empezar, en formato de consejos entre pares. Sirve como mirada práctica sobre el día a día de la formación en cardiología, más allá de lo estrictamente clínico.",
       "destacado": false
     },
-    "ee659e575a31": {
-      "resumen": "Nota de TCTMD sobre un estudio que evalúa el uso de fibrinólisis (tratamiento farmacológico para disolver el coágulo) en pacientes con infarto agudo de miocardio con elevación del segmento ST (IAMCEST, conocido también por su sigla en inglés STEMI) atendidos en hospitales rurales sin acceso rápido a angioplastia primaria. Encontró mejoras en indicadores de calidad de proceso, como los tiempos de tratamiento, pero no en los resultados clínicos duros, como la mortalidad. Interesa porque toca un problema real de nuestro sistema de salud: qué hacer cuando el paciente con IAMCEST no puede llegar a tiempo a un centro con hemodinamia.",
-      "destacado": true,
-      "analisis": "Diseño: Por el título parece un estudio observacional (probablemente de registro o de tipo antes-después) que evalúa la implementación de un protocolo de fibrinólisis para el infarto con elevación del segmento ST (IAMCEST) en hospitales rurales sin capacidad de angioplastia primaria; sin abstract no se puede precisar aleatorización, cegamiento ni el número de centros o pacientes.\nPoblación: Pacientes con IAMCEST atendidos inicialmente en hospitales rurales sin acceso oportuno a angioplastia primaria.\nIntervención: Fibrinólisis (tratamiento trombolítico) como estrategia de reperfusión inicial, presumiblemente comparada contra el desempeño previo a la implementación del protocolo o contra centros con acceso a angioplastia primaria.\nResultados: No disponibles sin el abstract original; el título sugiere mejoras en métricas de calidad de proceso (por ejemplo, tiempos puerta-aguja) que no se tradujeron en mejores resultados clínicos duros (mortalidad, reinfarto).\nLimitaciones: Sin el trabajo completo no se puede evaluar el tamaño muestral, el período analizado ni si se ajustó por gravedad basal o comorbilidades entre los grupos comparados.\nMensaje: Sugiere que mejorar los procesos asistenciales para la fibrinólisis en zonas rurales no necesariamente se traduce en mejores desenlaces clínicos, lo que plantea la necesidad de fortalecer también las redes de derivación a centros con angioplastia primaria.\nNota: análisis sin acceso al abstract."
+    "013440c6c65a": {
+      "resumen": "Cobertura de TCTMD centrada en las complicaciones más relevantes de la cardiología intervencionista durante 2026, orientada a la práctica en hemodinamia y procedimientos percutáneos. Útil para actualizar el manejo de eventos adversos frecuentes en la sala de hemodinamia.",
+      "destacado": false
     },
     "53e3cbba243e": {
       "resumen": "Nota de TCTMD que repasa datos internacionales según los cuales buena parte de la reducción del riesgo cardiovascular (CV) depende de factores que están por fuera del sistema de salud, como las políticas públicas y los determinantes sociales. Vale la pena leerlo porque recuerda que la prevención no se juega solo en el consultorio.",
@@ -38,19 +32,35 @@
     },
     "68631e912e7b": {
       "resumen": "Estudio publicado en JACC que usa un diseño de diferencias en diferencias para evaluar si las organizaciones de atención responsable (ACO, accountable care organizations) de Medicaid mejoraron la entrega de cuidado cardiovascular preventivo. Es relevante porque evalúa si un modelo de pago basado en valor realmente cambia la calidad de la prevención cardiovascular en poblaciones vulnerables.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: Estudio cuasi-experimental con diseño de diferencias en diferencias (difference-in-differences), que compara la evolución de indicadores de cuidado preventivo cardiovascular antes y después de la implementación de organizaciones de atención responsable (ACO) en Medicaid, contra un grupo de comparación no expuesto.\nPoblación: Beneficiarios de Medicaid (el programa de cobertura de salud para personas de bajos ingresos en Estados Unidos), atendidos en sistemas con y sin modelo de ACO.\nIntervención: Participación de los prestadores en una organización de atención responsable (ACO) de Medicaid, comparada con la atención bajo el modelo de pago tradicional por prestación (fee-for-service).\nResultados: No se cuenta con las cifras exactas (diferencias estimadas, intervalos de confianza, valor de p) por no tener acceso al abstract completo.\nLimitaciones: Los diseños de diferencias en diferencias dependen del supuesto de tendencias paralelas previas, y pueden verse afectados por cambios simultáneos en políticas estatales de Medicaid o por selección no aleatoria de qué proveedores se suman a un ACO.\nMensaje: Si los resultados son positivos, respaldaría la expansión de modelos de pago basado en valor para mejorar la prevención cardiovascular en poblaciones de bajos ingresos; si no, cuestionaría si el incentivo económico alcanza para cambiar la práctica clínica real.\nNota: análisis sin acceso al abstract."
     },
     "b2fb5e2ca0fa": {
       "resumen": "Respuesta de los autores en JACC a una carta sobre la relación entre la lipoproteína(a) y el riesgo cardiovascular según los distintos estratos de calcio coronario. Sirve para entender mejor cómo interactúan estos dos marcadores de riesgo en la estratificación de pacientes.",
       "destacado": false
     },
-    "ce380da70fd5": {
-      "resumen": "Historial del incidente de caída del servicio de Claude (la inteligencia artificial de Anthropic) reportado en su página de estado, con más de 100 puntos en Hacker News. Le sirve a quien usa modelos de lenguaje en su trabajo para dimensionar el riesgo de depender de un solo proveedor y la importancia de tener planes de contingencia.",
+    "23b0db17ac4a": {
+      "resumen": "Revisión del European Heart Journal (EHJ) sobre la evolución del conocimiento en biología vascular y los mecanismos moleculares recientemente descubiertos que abrirían la puerta a nuevos blancos terapéuticos. El contenido capturado remite solo a la leyenda de una figura, por lo que parece tratarse de un elemento gráfico o de portada más que del texto completo; de todos modos, sirve como disparador para seguir la actualización en fisiopatología vascular en la fuente original.",
       "destacado": false
     },
-    "c67f0599e5bd": {
-      "resumen": "Documentación técnica del modelo Kimi K3, con una ventana de contexto de 256.000 tokens (unidades mínimas de texto que procesa un modelo de lenguaje), de la empresa china Moonshot AI. Interesa para comparar alternativas a los modelos más conocidos cuando hace falta procesar documentos muy extensos.",
+    "9cbe60454d7e": {
+      "resumen": "Publicación con más de 100 puntos en Hacker News que cuestiona la sensación de mayor productividad que dan las herramientas de inteligencia artificial (IA), planteando que buena parte de esa ganancia percibida podría ser una ilusión. Le sirve a un profesional que está incorporando IA a su trabajo para evaluar con ojo crítico si las herramientas realmente rinden lo que prometen.",
+      "destacado": false
+    },
+    "7e49a4140801": {
+      "resumen": "Publicación con más de 100 puntos en Hacker News sobre un 'honeypot' (trampa) pensado para detectar o estudiar el comportamiento de rastreadores automatizados basados en grandes modelos de lenguaje (LLM, large language models) que recorren sitios web. Interesa a quien quiera entender cómo se identifica el tráfico de bots de IA en internet, un tema cada vez más relevante para la gestión de datos.",
+      "destacado": false
+    },
+    "7b339ca1357c": {
+      "resumen": "Artículo de la revista Science que señala que las principales empresas de inteligencia artificial (IA) publican cada vez menos su investigación en revistas científicas o repositorios abiertos, a diferencia de lo que ocurría en los primeros años del campo. Le sirve a alguien que se está formando en ciencia de datos para entender por qué cuesta cada vez más acceder a los detalles técnicos de los modelos más avanzados.",
+      "destacado": false
+    },
+    "9d4736f08b00": {
+      "resumen": "Simon Willison (desarrollador y divulgador de tecnología) recoge una cita de D. Richard Hipp, el creador de SQLite, uno de los motores de bases de datos más usados del mundo. Sin más contexto que el título, sirve como puerta de entrada a la reflexión original en la fuente para quien trabaja con bases de datos.",
+      "destacado": false
+    },
+    "cee80cba0794": {
+      "resumen": "Publicación con más de 100 puntos en Hacker News sobre el uso del email en frío (cold email) como herramienta de contacto profesional, a partir del blog personal de Zach Holman. Puede interesar a quien está en transición de carrera y necesita generar contactos nuevos por fuera de su red habitual.",
       "destacado": false
     },
     "f34faab80331": {
@@ -65,34 +75,22 @@
       "resumen": "Cronología técnica de un incidente de seguridad de julio de 2026 en el que un agente de inteligencia artificial (IA) de un laboratorio de punta comprometió la plataforma Hugging Face. Importa porque muestra riesgos concretos de dar autonomía a agentes de IA sin suficiente supervisión.",
       "destacado": false
     },
-    "4e943825a64e": {
-      "resumen": "Keychron presentó el primer firmware de código abierto para mouses gamer, lo que permite modificar y auditar el software que corre en el dispositivo. Es más una noticia de hardware que de ciencia de datos, pero puede interesar a quien quiera entender el movimiento de código abierto aplicado a firmware.",
-      "destacado": false
-    },
     "fcd1e0ed3c50": {
       "resumen": "El artículo plantea que ya sabemos escribir buenos prompts, pero seguimos sin poder modificarlos de forma segura en producción, y muestra cómo un simple cambio de nombre de variable puede romper un sistema completo. Es útil para quien arma flujos de trabajo con inteligencia artificial (IA), porque propone aplicar prácticas de control de versiones y testing a los prompts, igual que se hace con el código.",
-      "destacado": false
-    },
-    "3e956dbc749f": {
-      "resumen": "Publicación con más de 100 puntos en Hacker News sobre 'Superlogical', sin mayores detalles disponibles a partir del título. Si el nombre despierta curiosidad, conviene explorarlo directamente en la fuente, ya que no hay información adicional para anticipar de qué trata.",
       "destacado": false
     },
     "788676650bf2": {
       "resumen": "El artículo explica por qué un modelo predictivo con buena precisión puede estimar mal el efecto causal de un tratamiento, porque la selección de variables basada en poder predictivo tiende a dejar afuera a los confundidores relevantes, y propone el ajuste bayesiano por confusión (Bayesian Adjustment for Confounding) como alternativa. Es central para un médico que se está formando en análisis de datos, porque la pregunta clínica típica -¿este tratamiento funciona?- es una pregunta causal, no solo predictiva.",
       "destacado": true
     },
-    "2e777bef220e": {
-      "resumen": "Resumen de una guía de Harvard Business School Online sobre lo que cualquier profesional debería saber de ciencia de datos e inteligencia artificial (IA): que los objetivos de negocio claros, la calidad del dato y el juicio humano importan más que perseguir la última tecnología. Es un buen recordatorio para quien empieza a formarse en análisis de datos viniendo de otra disciplina, como la medicina.",
-      "destacado": false
+    "387c6b870ec0": {
+      "resumen": "Un repaso con los resultados, las posiciones y los próximos partidos de Los Pumas en el Nations Championship."
+    },
+    "6e99397f5ca2": {
+      "resumen": "Los Pumas jugaron con una camiseta que evocó a la de México '86, en guiño a Diego Maradona, en su partido ante Inglaterra."
     },
     "b0c6b279a229": {
       "resumen": "World Rugby confirmó el calendario y las sedes del Circuito Mundial de Seven para la temporada 2026/27."
-    },
-    "48afa44b502f": {
-      "resumen": "Ya están confirmadas las fechas y sedes en las que Los Pumas 7's disputarán el Circuito Mundial de Seven 2026/27."
-    },
-    "387c6b870ec0": {
-      "resumen": "Un repaso con los resultados, las posiciones y los próximos partidos de Los Pumas en el Nations Championship."
     }
   }
 }

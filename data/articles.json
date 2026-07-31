@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-30T23:29:36.749814+00:00",
+ "generated_at": "2026-07-31T03:56:57.248145+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -12,6 +12,13 @@
      "source": "TCTMD",
      "published": "2026-07-30T19:21:30+00:00",
      "id": "3a32b3c7915e"
+    },
+    {
+     "title": "Bifemoral Complication Bailout",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxNzBGLXJJeWdoc25DUGl0ZmpvMmJCQXVMYVptWWdxRUNNV0tydGtxaVlFbDVKbHNWcmFtanVkTFU0SGNzTnVoQUY3bEM4bFhsdm80N0p0U3FHUXFvZ1dYcV80cFdHQkJldWc?oc=5",
+     "source": "TCTMD",
+     "published": "2026-07-30T16:02:00+00:00",
+     "id": "9a845077f72a"
     },
     {
      "title": "Perfs and Dissections in the Periphery: When to Treat and When to Walk Away",
@@ -33,29 +40,6 @@
      "source": "TCTMD",
      "published": "2026-07-30T15:17:00+00:00",
      "id": "c3c93f952423"
-    },
-    {
-     "title": "Case 3. Short Valve Embolization",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ESFY0NjlOU3B6Rm1MQ251Smg3U1FVY281ODlkTmtiT3pwdF9pMm0tbl80OE80bEJOeWFLOVlCV0FWRlRxY1FmdmhFSXBZb2loUE1FRERhXzc2NG9YejY4WFJRcU9PV0dONm1lV09R?oc=5",
-     "source": "TCTMD",
-     "published": "2026-07-30T13:24:00+00:00",
-     "id": "d798d1f90ae9"
-    },
-    {
-     "title": "Sex Hormone Influences on Cardiovascular Risk. Reply",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42526042/",
-     "source": "NEJM Cardiología",
-     "published": "2026-07-30T00:00:00+00:00",
-     "copete": "Skeith L et al. · The New England journal of medicine",
-     "id": "742ee8759563"
-    },
-    {
-     "title": "Sex Hormone Influences on Cardiovascular Risk",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42526041/",
-     "source": "NEJM Cardiología",
-     "published": "2026-07-30T00:00:00+00:00",
-     "copete": "Bonnet F et al. · The New England journal of medicine",
-     "id": "ba245273fb1b"
     },
     {
      "title": "Clinical Considerations in Management of Hypertrophic Cardiomyopathy in Pregnancy: JACC State-of-the-Art Review",
@@ -105,12 +89,59 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Independiente quiere estirar el buen arranque frente a Newell's en Avellaneda",
-     "link": "https://www.ole.com.ar/independiente/independiente-newells-minuto-minuto-online-directo-vivo-rojo-lepra-ver-resumen-goles_0_pjDH91THlP.html",
+     "title": "Quinteros, tras la victoria de Independiente: del \"el equipo mejoró\" al \"están muy positivos\"",
+     "link": "https://www.ole.com.ar/independiente/independiente-gustavo-quinteros-clausura_0_2DtMglkSCr.html",
      "source": "Olé — Primera",
-     "published": "2026-07-30T23:12:06+00:00",
-     "copete": "El Rojo, que viene de vencer a Estudiantes en La Plata, busca seguir con puntaje ideal ante La Lepra. Seguilo en Olé.",
-     "id": "ef7498fbbb0b"
+     "published": "2026-07-31T03:30:33+00:00",
+     "copete": "El técnico destacó el cambio de actitud del plantel respecto al semestre anterior y valoró el arranque ideal del Rojo, que suma dos triunfos en las primeras dos fechas del Clausura.",
+     "id": "a49431c4e9c2"
+    },
+    {
+     "title": "Con el Súper cada vez más cerca, así quedó la llave de la Copa Sudamericana 2026: cuándo son los octavos de final",
+     "link": "https://www.ole.com.ar/futbol-internacional/sudamericana/copa-sudamericana-2026-octavos-final-partidos-cruces-fecha-boca-river-tigre_0_DGAezbKvvo.html",
+     "source": "Olé — River",
+     "published": "2026-07-31T02:40:56+00:00",
+     "copete": "El Xeneize eliminó a O'Higgins y se metió entre los 16 mejores del certamen. A su vez, River ya conoce a su próximo rival. Por otro lado, Tigre dejó atrás a Nacional y Lanús quedó en el camino.",
+     "id": "628593e54f90"
+    },
+    {
+     "title": "El Uno X Uno del triunfo de Independiente",
+     "link": "https://www.ole.com.ar/futbol-primera/independiente-puntajes-newells-torneo-clausura_0_gDVQ5EdYRJ.html",
+     "source": "Olé — Primera",
+     "published": "2026-07-31T02:24:51+00:00",
+     "copete": "Con gol de Montiel, el Rojo venció a Newell's con varios puntos altos. Los puntajes de Olé.",
+     "id": "5d5026570ab3"
+    },
+    {
+     "title": "Copa Sudamericana: se definió el rival de River en los octavos de final",
+     "link": "https://www.ole.com.ar/river-plate/river-rival-octavos-final-copa-sudamericana_0_1aMtu32yUk.html",
+     "source": "Olé — River",
+     "published": "2026-07-31T02:20:51+00:00",
+     "copete": "Este jueves se completó el playoff y el Millonario ya conoce ante quién se medirá en la siguiente ronda del torneo.",
+     "id": "51bc63c7bfbc"
+    },
+    {
+     "title": "Video: el gol de Santiago Montiel en el 1 a 0 de Independiente a Newell's",
+     "link": "https://www.ole.com.ar/independiente/montiel-independiente-newells-santiago-gol-diablo_0_Ib6qn5CX4A.html",
+     "source": "Olé — Primera",
+     "published": "2026-07-31T01:19:03+00:00",
+     "copete": "El volante ofensivo acomodó la pelota con la cadera y clavó una volea al ángulo. Marcó por segundo partido consecutivo para el Diablo.",
+     "id": "00362fa6a45b"
+    },
+    {
+     "title": "LOS PUMAS VS SUDÁFRICA FUE DECLARADO EVENTO DE INTERÉS DEPORTIVO",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa2Nnc2lHMVhmVnJDa3lQcUJURDZxOEhCQTZxdndOT0JNbzZfZ0VhQUlxMGhtdlZ6ejJJcGNZYTdlY0pTQ1dpaE1lYlR6V1pSbWtER0xYYmJBVWQ4dElmRW5YTkNTelp5MWJqYXo0eERmYU0wUmhKczI4RlFaTEN1ZWVwT1dzd3VCcVk3YlgtRV81TUJPRW9yTTMwXzhIT29sY1pYdXFZZTNmRW52eFJiNUFn?oc=5",
+     "source": "Rugby Champagne",
+     "published": "2026-07-30T23:56:32+00:00",
+     "id": "15817c61f31a"
+    },
+    {
+     "title": "Oficial: habrá público de Gimnasia contra Aldosivi",
+     "link": "https://www.ole.com.ar/gimnasia-y-esgrima/hinchas-gimnasia-aldosivi-popular-3000_0_UCnPt5L0sD.html",
+     "source": "Olé — Primera",
+     "published": "2026-07-30T23:28:05+00:00",
+     "copete": "La Aprevide y la AFA acordaron que 3.000 hinchas del Lobo estarán el domingo a las 14.30 en el Minella, para el match del equipo del Pata Pereyra contra el Tiburón.",
+     "id": "951336c7a4e0"
     },
     {
      "title": "De arquero de Central Córdoba a pilar de Los Pumas: la increíble historia de Pedro Delgado que recordó Scrum de ESPN",
@@ -118,22 +149,6 @@
      "source": "infodelestero",
      "published": "2026-07-30T22:34:50+00:00",
      "id": "a19144e253b0"
-    },
-    {
-     "title": "La joya de Newell´s que podría llegar a Defensa como refuerzo",
-     "link": "https://www.ole.com.ar/futbol-primera/newells-defensa-justicia-valentino-acuna-prestamo-joya-refuerzo_0_I8uWHLHZtl.html",
-     "source": "Olé — Primera",
-     "published": "2026-07-30T22:20:43+00:00",
-     "copete": "Valentino Acuña está cerca de llegar como préstamo con opción de compra al Halcón de Varela, equipo de Julio Vaccari.",
-     "id": "b953db7aff41"
-    },
-    {
-     "title": "Uno por uno: los cuatro clubes sin refuerzos a horas del cierre del mercado de pases",
-     "link": "https://www.ole.com.ar/futbol-primera/mercado-pases-torneo-clausura-refuerzos-equipos-incorporaciones-clubes_0_YewGR3nc1S.html",
-     "source": "Olé — Primera",
-     "published": "2026-07-30T22:20:29+00:00",
-     "copete": "En Olé hacemos un repaso de los equipos que siguen sin sumar caras nuevas y cómo es la situación de cada uno.",
-     "id": "28673f798619"
     },
     {
      "title": "No paran las malas en River: salió el parte médico de los lesionados vs Gimnasia",
@@ -144,17 +159,9 @@
      "id": "3135de28e800"
     },
     {
-     "title": "Descuenta Huracán en Mendoza",
-     "link": "https://www.ole.com.ar/futbol-primera/independiente-rivadavia-huracan-torneo-clausura_0_TCr8s0hyfd.html",
-     "source": "Olé — Primera",
-     "published": "2026-07-30T21:13:18+00:00",
-     "copete": "Con un golazo de Cortés, el Globo se pone a tiro de Independiente Rivadavia. Por ahora, gana la Lepra. Seguilo en Olé.",
-     "id": "8ae53aaf5d9b"
-    },
-    {
      "title": "Los Pumas 7's ya conocen el nuevo formato del Circuito Mundial de Seven 2026-2027",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVkY2aXdFRy1PWDNjMHFjcGY4cWNZOGNkYlZKUXo5eEthLVd0MkM1b2N5VFZHOXd4NThoZWszTWN1dnRheWRsRlR1ekZvQUthMFVsRVk2dm1JTy1IV2pYZVV6UG56OFpKOVp1YjBYd2VjbmgwNFpOUEVzQ050UlNBVmdfZE04SkJzQ3dhMmZ2ZTJtMXhETTdlaFBUaEFrQ0VCRVAtZ0k3aFJEVllSUV9kUm5fR0tLZjVnODN6MtIBwgFBVV95cUxOVHB2OGZyNFdtR3JrZ253X0V2UDVmbm1vLXRIbFlmTUtDNFpRUGVPVDRCOTVUMDhHMy1laGc3U0V6b3ROZmdDN0oxRHhFOF9pTkIzVVBWN09mNGNUVlQxU200TWF6OUtpOXlseG5ia2g1cGtLVXNRTkhMYzZHRG16WV9WUEFNQ09sNmVFZlltN0FmUTdlZ2VwOEgyMlRCeHlBSENBM2ZtUXZ5dVViMnAxN1FraU9mb2RXdkRkTzlrX0Ntdw?oc=5",
-     "source": "lagaceta.com.ar",
+     "source": "La Gaceta",
      "published": "2026-07-30T21:05:23+00:00",
      "id": "a8ea298fe9ee"
     },
@@ -175,35 +182,12 @@
      "id": "c94ee44b4687"
     },
     {
-     "title": "Otra promesa del rugby argentino a Francia: Augusto Rimini jugará en un importante equipo del Top 14",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNeFJwRkJXUnIxSHAzRlhUbmJzLWw4eEJIc3QxcF9OeF96UUp6WlBsY3FEMTdXUTg3M3JkcFU0Zk9IVE9HZnRCN2NnWUUyZURKOHBhYjhST2lGMk5Sc3VQUFozeWwxTXNrUGVCeG5WdjAxN1U3OENSeXFocWI0WUtpQTVqRDU2UW1hc1k0NTJMb1JDRzZ2Zk5SUTdPUVNLYURZUEdxZzF6b2VYdTNUUHhnaVJELWxRal8wZGZYZ1AxY2pNaW1yS3o4aGgtMFF3QVJFTjVKQVhTN1ZhdXNHejBLeWswZ2FSQndMbUI4?oc=5",
-     "source": "ESPN Argentina",
-     "published": "2026-07-30T19:27:00+00:00",
-     "id": "a436f1e0f984"
-    },
-    {
      "title": "Olé en Cantilo: entre obreros y Juveniles, así es un día de los borrados de River",
      "link": "https://www.ole.com.ar/river-plate/river-plate-cantilo-coudet-jugadores-borrados_0_yLzC4Tp53K.html",
      "source": "Olé — River",
      "published": "2026-07-30T17:50:02+00:00",
      "copete": "La crónica desde el entrenamiento de los jugadores apartados del CARP.",
      "id": "9650dcca1971"
-    },
-    {
-     "title": "La insólita racha de River que empezó con Gallardo y Coudet todavía no pudo revertir",
-     "link": "https://www.ole.com.ar/river-plate/river-racha-insolita-gallardo-coudet-derrota-gimnasia_0_tTwiKdIkuB.html",
-     "source": "Olé — River",
-     "published": "2026-07-30T17:29:50+00:00",
-     "copete": "En la derrota contra Gimnasia, el Millonario estiró más una pésima estadística que también es el fiel reflejo de su cruda actualidad.",
-     "id": "a9a8f9f9912b"
-    },
-    {
-     "title": "El borrado en River que se acerca a un club del fútbol argentino para jugar la Libertadores",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-maxi-salas-independiente-rivadavia_0_M6E9svd7cf.html",
-     "source": "Olé — River",
-     "published": "2026-07-30T16:52:54+00:00",
-     "copete": "Maximiliano Salas encamina su salida a préstamo a préstamo. Acá, los detalles de la negociación.",
-     "id": "88fe19ad7619"
     },
     {
      "title": "World Rugby anunció el calendario 2026/2027 del SVNS Series",
@@ -221,40 +205,49 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Advancing the price-performance frontier with GPT‑5.6",
+     "link": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+     "source": "Simon Willison (IA)",
+     "published": "2026-07-30T23:58:42+00:00",
+     "copete": "Advancing the price-performance frontier with GPT‑5.6 Huge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop. OpenAI credit 5.6 Sol with enabling this: in How GPT‑5.6 fuses frontier…",
+     "id": "cc6d8492c627"
+    },
+    {
+     "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+     "link": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything",
+     "source": "Simon Willison (IA)",
+     "published": "2026-07-30T23:41:29+00:00",
+     "copete": "Investigating three real-world incidents in our cybersecurity evaluations It happened again! This is turning into something of a pattern. Last week OpenAI accidentally exploited Hugging Face when one of their frontier models broke out of a…",
+     "id": "1782a66a344a"
+    },
+    {
+     "title": "The AI Aesthetic",
+     "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-30T23:22:16+00:00",
+     "id": "cfcccf116d3f"
+    },
+    {
+     "title": "llm 0.32rc2",
+     "link": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything",
+     "source": "Simon Willison (IA)",
+     "published": "2026-07-30T22:52:06+00:00",
+     "copete": "Release: llm 0.32rc2 Hot on the heels of RC1 , this fixes a dependency issue and also adds two neat new features: The default model for users who have not set their own default is now GPT-5.6 Luna . It was previously GPT-4o mini . Luna is…",
+     "id": "51d4c308f3f4"
+    },
+    {
+     "title": "I flagged two research papers for fake authors and both were accepted as orals",
+     "link": "https://geospatialml.com/posts/reviewing-ai-slop/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-30T22:33:11+00:00",
+     "id": "4ad44c609c51"
+    },
+    {
      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
      "link": "https://github.com/AminBlg/SimpleEnglish",
      "source": "Hacker News (100+ puntos)",
      "published": "2026-07-30T19:34:27+00:00",
      "id": "8f1425b317dc"
-    },
-    {
-     "title": "UEFA and its national associations will not participate in FIFA competitions",
-     "link": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-30T18:40:52+00:00",
-     "id": "41a9acbd0365"
-    },
-    {
-     "title": "Quoting Bruce Schneier",
-     "link": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything",
-     "source": "Simon Willison (IA)",
-     "published": "2026-07-30T18:25:26+00:00",
-     "copete": "The writing assignments I give my students are gym tasks, not work tasks. I ask them to write policy memos not because the world needs more policy memos. I assign them because the very act of writing, which includes thinking and outlining…",
-     "id": "c629b437b978"
-    },
-    {
-     "title": "CodePen 2.0",
-     "link": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-30T17:52:51+00:00",
-     "id": "f24c654f5369"
-    },
-    {
-     "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-     "link": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-30T17:31:07+00:00",
-     "id": "c60bc7ac5bfe"
     },
     {
      "title": "The Python Ecosystem That Changed AI Development",
@@ -285,14 +278,6 @@
      "published": "2026-07-30T15:00:00+00:00",
      "copete": "Optimise how you interact with your coding agents The post How to Organize All of Your Coding Agent Tasks appeared first on Towards Data Science .",
      "id": "73f006ea6a53"
-    },
-    {
-     "title": "A Beginner’s Guide to Working with Claude Design",
-     "link": "https://www.kdnuggets.com/a-beginners-guide-to-working-with-claude-design",
-     "source": "KDnuggets",
-     "published": "2026-07-30T14:06:48+00:00",
-     "copete": "Claude Design is a research preview under Anthropic Labs, powered by Claude Opus' vision capability, generating interactive prototypes with working navigation, embedded video, voice input, and 3D elements.",
-     "id": "795a117830f7"
     }
    ]
   },
@@ -302,100 +287,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Luciano Laspina, director ejecutivo de CIPPEC: “Los países de América Latina que blindaron la independencia del Banco Central derrotaron la inflación”",
-     "link": "https://www.infobae.com/economia/2026/07/30/luciano-laspina-director-ejecutivo-de-cippec-los-paises-de-america-latina-que-blindaron-la-independencia-del-banco-central-derrotaron-la-inflacion/",
+     "title": "7 frases de Paredes tras el triunfo por penales de Boca ante O’Higgins: gran respaldo a Aranda y “obligación” de competir hasta el final",
+     "link": "https://www.infobae.com/deportes/2026/07/31/7-frases-de-paredes-tras-el-triunfo-por-penales-de-boca-ante-ohiggins-gran-respaldo-a-aranda-y-obligacion-de-competir-hasta-el-final/",
      "source": "Infobae",
-     "published": "2026-07-30T23:26:58+00:00",
-     "copete": "En una entrevista con Infobae al Regreso, el economista respaldó los cambios que impulsa el Gobierno, comparó la experiencia argentina con la de otros países latinoamericanos y explicó cuáles son, a su juicio, las condiciones necesarias…",
-     "id": "eb0902490947"
+     "published": "2026-07-31T03:53:55+00:00",
+     "copete": "El capitán xeneize se mostró en la misma sintonía que Arruabarrena y fue autocrítico tras la sufrida clasificación a los octavos de final de la Sudamericana",
+     "id": "8060f2169341"
     },
     {
-     "title": "Milei habló en cadena nacional y presentó la reforma al Banco Central",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-presenta-la-reforma-de-la-carta-organica-del-blanco-central-por-cadena-nacional-nid30072026/",
-     "source": "La Nación",
-     "published": "2026-07-30T23:26:49+00:00",
-     "copete": "La iniciativa propone redefinir las funciones del organismo, prohibir el financiamiento al Tesoro y reforzar su autonomía; prevé además limitar la emisión y endurecer las sanciones para las autoridades que incumplan esas disposiciones",
-     "id": "18fca8d2c338"
-    },
-    {
-     "title": "Grillete fiscal: cómo es el esquema que podría provocar el “cierre” del Estado y que anula el sueldo de los principales funcionarios",
-     "link": "https://www.infobae.com/economia/2026/07/30/grillete-fiscal-como-es-el-esquema-que-podria-provocar-el-cierre-del-estado-y-que-anula-el-sueldo-de-los-principales-funcionarios/",
+     "title": "La reacción de Gastón Edul y Sabrina Cortez tras los rumores de romance: “La dejo a tu criterio”",
+     "link": "https://www.infobae.com/teleshow/2026/07/31/la-reaccion-de-gaston-edul-y-sabrina-cortez-tras-los-rumores-de-romance-la-dejo-a-tu-criterio/",
      "source": "Infobae",
-     "published": "2026-07-30T23:26:35+00:00",
-     "copete": "El Presidente dio detalles de la herramienta que busca impedir que el Congreso apruebe presupuestos deficitarios y responsabilizar a los legisladores por el desbalance de las cuentas públicas",
-     "id": "84350b79f57b"
+     "published": "2026-07-31T03:53:37+00:00",
+     "copete": "Mientras algunas partes ya daban por hecho el acercamiento, el periodista mostró imágenes desde Mallorca y la ex Gran Hermano se dejó ver en Ibiza con una frase ambigua",
+     "id": "f87f7f71a644"
     },
     {
-     "title": "Independiente Rivadavia vence a Huracán en el cierre de la segunda fecha del Torneo Clausura",
-     "link": "https://www.infobae.com/deportes/2026/07/30/con-independiente-newells-como-plato-principal-se-bajara-el-telon-de-la-segunda-fecha-del-torneo-clausura-hora-tv-y-formaciones/",
+     "title": "¿Tu PC va lento o muestra publicidad extraña?: señales de que ha sido hackeado",
+     "link": "https://www.infobae.com/tecno/2026/07/31/tu-pc-va-lento-o-muestra-publicidad-extrana-senales-de-que-ha-sido-hackeado/",
      "source": "Infobae",
-     "published": "2026-07-30T23:21:30+00:00",
-     "copete": "Al unísono del juego entre La Lepra mendocina y el Globo, Talleres de Córdoba supera a Vélez. Luego, a las 21.15, el Rojo recibirá a la Lepra y Central Córdoba chocará con Atlético Tucumán",
-     "id": "b4d47d14da91"
+     "published": "2026-07-31T03:53:00+00:00",
+     "copete": "Una comprobación inicial es abrir la lista de cuentas desde el comando de ejecución y borrar perfiles que no reconoces, además de cambiar la clave del router para cortar posibles entradas por la red doméstica",
+     "id": "5216a3392c05"
     },
     {
-     "title": "Habrá tres remates: se subastarán más de 7500 cabezas de ganado en el marco del Congreso de Aapresid",
-     "link": "https://www.lanacion.com.ar/economia/habra-tres-remates-se-subastaran-mas-de-7500-cabezas-de-ganado-en-el-marco-del-congreso-de-aapresid-nid30072026/",
-     "source": "La Nación",
-     "published": "2026-07-30T23:19:57+00:00",
-     "copete": "Participarán Jáuregui Lorda, AFA y Rosgan",
-     "id": "47c85e1f941f"
-    },
-    {
-     "title": "La pubertad se asocia con más lesiones deportivas en adolescentes, advierte un estudio",
-     "link": "https://www.infobae.com/salud/ciencia/2026/07/30/la-pubertad-se-asocia-con-mas-lesiones-deportivas-en-adolescentes-advierte-un-estudio/",
+     "title": "Qué dijo Thiago Medina tras la denuncia de su prima por abuso sexual: “Me jode con esto”",
+     "link": "https://www.infobae.com/teleshow/2026/07/31/que-dijo-thiago-medina-tras-la-denuncia-de-su-prima-de-abuso-sexual-me-jode-con-esto/",
      "source": "Infobae",
-     "published": "2026-07-30T23:18:42+00:00",
-     "copete": "La Academia Americana de Pediatría advierte que un crecimiento acelerado debilita los cartílagos y aumenta el riesgo de lesiones en el ligamento cruzado anterior, un peligro mayor que el derivado del nivel de entrenamiento",
-     "id": "5467fdc2e663"
+     "published": "2026-07-31T03:50:57+00:00",
+     "copete": "El ex Gran Hermano 2022 negó la grave acusación de Lara Agustina Ledesma y respondió con una declaración que llamó la atención",
+     "id": "f3405d49bc86"
     },
     {
-     "title": "¿El fútbol del futuro? Del rock and roll propuesto por Klopp a la música emotiva de Scaloni",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/el-futbol-del-futuro-del-rock-and-roll-propuesto-por-klopp-a-la-musica-emotiva-de-scaloni-nid30072026/",
-     "source": "La Nación",
-     "published": "2026-07-30T23:18:00+00:00",
-     "copete": "Señales que dejó el Mundial 2026 desde los aspectos del juego que dominaron las selecciones que llegaron más lejos y lo que puede venir",
-     "id": "5caaad9d0e50"
-    },
-    {
-     "title": "Uruguay: las predicciones del tiempo para Montevideo este 31 de julio",
-     "link": "https://www.infobae.com/noticias/2026/07/30/uruguay-las-predicciones-del-tiempo-para-montevideo-este-31-de-julio/",
+     "title": "Militar dominicana afronta tres meses de prisión, investigada por la muerte de su suegra",
+     "link": "https://www.infobae.com/republica-dominicana/2026/07/31/militar-dominicana-afronta-tres-meses-de-prision-investigada-por-la-muerte-de-su-suegra/",
      "source": "Infobae",
-     "published": "2026-07-30T23:17:47+00:00",
-     "copete": "Uruguay podría presentar un aumento de hasta 3 grados en su temperatura por el cambio climático en los próximos años, advierten expertos",
-     "id": "84071e0fbe1f"
+     "published": "2026-07-31T03:50:50+00:00",
+     "copete": "La Fiscalía de Azua imputa a la sargento, quien permanece bajo custodia tras ser acusada de homicidio con agravantes y trasladar a la víctima a una zona rural donde fue hallada sin vida",
+     "id": "28b051a9b9d0"
     },
     {
-     "title": "Momento histórico: se exportaron casi 170.000 toneladas de un cultivo muy demandado en Medio Oriente y Asia",
-     "link": "https://www.lanacion.com.ar/economia/campo/nuevo-oro-verde-se-exportaron-casi-170000-toneladas-de-un-cultivo-muy-demandado-en-medio-oriente-y-nid30072026/",
+     "title": "Rodolfo Arruabarrena: “Sabemos que de esta manera serán pocas las victorias que podremos conseguir”",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/rodolfo-arruabarrena-sabemos-que-de-esta-manera-seran-pocas-las-victorias-que-podremos-conseguir-nid31072026/",
      "source": "La Nación",
-     "published": "2026-07-30T23:17:45+00:00",
-     "copete": "En 2025 el país tuvo una venta récord de alfalfa; Córdoba consolidó su posición como principal polo con el 91% de los negocios con el exterior; un informe destaca los desafíos del sector",
-     "id": "e32bca79ae04"
+     "published": "2026-07-31T03:45:24+00:00",
+     "copete": "El DT xeneize se fue disconforme con el juego del equipo, tras la clasificación por penales ante O’Higgins en Chile; también se refirió a los posibles refuerzos",
+     "id": "54ae1ecf65e5"
     },
     {
-     "title": "Habla Javier Milei en cadena nacional, EN VIVO: presenta la reforma del Banco Central hoy",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-cadena-nacional-sobre-la-reforma-del-banco-central-y-la-nid30072026/",
+     "title": "Tabla de Promedios 2026: así están las posiciones que definen un descenso, en la fecha 2 del Clausura",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/tabla-de-promedios-2026-asi-estan-las-posiciones-que-definen-un-descenso-en-la-fecha-2-del-clausura-nid31072026/",
      "source": "La Nación",
-     "published": "2026-07-30T23:17:25+00:00",
-     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "7499334a0346"
+     "published": "2026-07-31T03:39:01+00:00",
+     "copete": "Estudiantes de Río Cuarto, Aldosivi y Sarmiento de Junín perdieron sus respectivos cotejos y siguen los últimos puestos",
+     "id": "1ddb79c112da"
     },
     {
-     "title": "Trump dice que podría retirar nominación de Blanche hasta que se vayan senadores disidentes",
-     "link": "https://www.clarin.com/estados-unidos/trump-dice-que-podria-retirar-nominacion-de-blanche-hasta-que-se-vayan-senadores-disidentes_0_9RbJTjYN88.html",
+     "title": "Clima hoy en Villa Pehuenia, Neuquén: el pronóstico del tiempo para este viernes 31 julio de 2026",
+     "link": "https://www.clarin.com/informacion-general/clima-hoy-villa-pehuenia-neuquen-pronostico-tiempo-viernes-31-julio-2026_0_h4H33KYF5W.html",
      "source": "Clarín",
-     "published": "2026-07-30T22:50:15+00:00",
-     "copete": "Trump considera retirar la nominación de Blanche para evitar concesiones a senadores que exigen límites a un acuerdo de inmunidad fiscal. La presión interna crece. Cornyn y Tillis piden garantías escritas sobre el acuerdo. El rechazo…",
-     "id": "a08b3df09da2"
+     "published": "2026-07-31T03:30:15+00:00",
+     "copete": "El SMN anticipa para este viernes temperaturas entre 0°C y 5°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+     "id": "0dfafcce653a"
     },
     {
-     "title": "México cierra la zona del derrame químico junto a la frontera con EEUU mientras sigue la limpieza",
-     "link": "https://www.clarin.com/estados-unidos/mexico-cierra-la-zona-del-derrame-quimico-junto-a-la-frontera-con-eeuu-mientras-sigue-la-limpieza_0_BoHX2NhtUT.html",
+     "title": "Clima hoy en Villa Unión, La Rioja: el pronóstico del tiempo para este viernes 31 julio de 2026",
+     "link": "https://www.clarin.com/informacion-general/clima-hoy-villa-union-rioja-pronostico-tiempo-viernes-31-julio-2026_0_lj3qFE58K3.html",
      "source": "Clarín",
-     "published": "2026-07-30T22:50:11+00:00",
-     "copete": "Un tren de carga descarriló en Sonora, derramando químicos peligrosos. Las autoridades cerraron la zona y evalúan el impacto ambiental. La empresa responsable, parte de Grupo México, trabaja en la limpieza. No se detectaron contaminantes…",
-     "id": "affd5d916a5b"
+     "published": "2026-07-31T03:30:15+00:00",
+     "copete": "El SMN anticipa para este viernes temperaturas entre 9°C y 25°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+     "id": "d745c4c44dd5"
+    },
+    {
+     "title": "Clima hoy en Villa Gesell, Buenos Aires: el pronóstico del tiempo para este viernes 31 julio de 2026",
+     "link": "https://www.clarin.com/informacion-general/clima-hoy-villa-gesell-buenos-aires-pronostico-tiempo-viernes-31-julio-2026_0_Bq5EN2BzCA.html",
+     "source": "Clarín",
+     "published": "2026-07-31T03:30:14+00:00",
+     "copete": "El SMN anticipa para este viernes temperaturas entre 10°C y 16°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+     "id": "2c6b0f3b465e"
+    },
+    {
+     "title": "Por qué hay que desenchufar la televisión de la habitación antes de dormir",
+     "link": "https://www.lanacion.com.ar/lifestyle/por-que-hay-que-desenchufar-la-television-de-la-habitacion-antes-de-dormir-nid31072026/",
+     "source": "La Nación",
+     "published": "2026-07-31T03:30:00+00:00",
+     "copete": "Aunque para muchas personas mirar televisión antes de acostarse forma parte de la rutina nocturna, especialistas coinciden en que mantener este aparato en el dormitorio puede afectar tanto el descanso como la calidad del sueño",
+     "id": "4ad4cec94211"
+    },
+    {
+     "title": "Clima hoy en Vicente López, Buenos Aires: el pronóstico del tiempo para este viernes 31 julio de 2026",
+     "link": "https://www.clarin.com/informacion-general/clima-hoy-vicente-lopez-buenos-aires-pronostico-tiempo-viernes-31-julio-2026_0_NnPRtocDSg.html",
+     "source": "Clarín",
+     "published": "2026-07-31T03:29:52+00:00",
+     "copete": "El SMN anticipa para este viernes temperaturas entre 14°C y 21°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
+     "id": "a538d14d1257"
     }
    ]
   },
@@ -405,84 +390,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Trump says Board of Peace has reached agreement for disarmament of Hamas",
+     "title": "El sociólogo Kagarlitski, de la cárcel soviética a la de Putin",
+     "link": "https://elpais.com/internacional/2026-07-31/el-sociologo-kagarlitski-de-la-carcel-sovietica-a-la-de-putin.html",
+     "source": "El País Internacional",
+     "published": "2026-07-31T03:30:01+00:00",
+     "copete": "Cualquiera que sea percibido como un peligro para la estabilidad del régimen ruso corre el riesgo de ir a la cárcel",
+     "id": "156a4a3e5200"
+    },
+    {
+     "title": "La poderosa milicia libanesa Hezbolá se resiste a perder las armas y el control social",
+     "link": "https://elpais.com/internacional/2026-07-31/la-poderosa-milicia-libanesa-hezbola-se-resiste-a-perder-las-armas-y-el-control-social.html",
+     "source": "El País Internacional",
+     "published": "2026-07-31T03:30:01+00:00",
+     "copete": "La insistencia del Gobierno de Netanyahu en ocupar el sur de Líbano lastra el plan de desarme del movimiento proiraní",
+     "id": "4374ddbedcfe"
+    },
+    {
+     "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
      "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-07-30T23:08:51+00:00",
-     "copete": "Israel and Hamas have yet to comment on the announcement.",
+     "published": "2026-07-31T03:24:14+00:00",
+     "copete": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
      "id": "2c84d1a306e8"
     },
     {
-     "title": "Por qué a Irán puede interesarle más una guerra limitada con Estados Unidos que la paz",
-     "link": "https://www.bbc.com/mundo/articles/cewr0elg875o?at_medium=RSS&at_campaign=rss",
+     "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+     "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-31T02:41:09+00:00",
+     "copete": "At least 15 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
+     "id": "4ad405e8bf33"
+    },
+    {
+     "title": "Trump anuncia un acuerdo para \"el desarme total\" de Hamás en Gaza que fue confirmado por el grupo palestino",
+     "link": "https://www.bbc.com/mundo/articles/cvgxn4mjmkro?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-30T22:57:41+00:00",
-     "copete": "Irán puede creer que puede controlar el conflicto con la suficiente cautela como para mantener la presión sobre Estados Unidos y, al mismo tiempo, evitar una guerra total.",
-     "id": "91e8fbbd1470"
+     "published": "2026-07-31T02:11:45+00:00",
+     "copete": "El presidente de Estados Unidos afirmó que la Junta de Paz alcanzó un acuerdo para el \"desarme completo\" de Hamás y otros grupos armados en Gaza.",
+     "id": "5a193974e7fb"
+    },
+    {
+     "title": "Anthropic says Claude AI hacked three firms during cyber tests",
+     "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-31T01:31:14+00:00",
+     "copete": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+     "id": "a6d12130c066"
     },
     {
      "title": "\"La situación está fuera de control\": España moviliza al ejército ante el cruce de miles de migrantes desde Marruecos a Ceuta que ha dejado al menos 15 muertos",
      "link": "https://www.bbc.com/mundo/articles/cvg0n0p4xg4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-30T22:21:38+00:00",
+     "published": "2026-07-31T01:23:41+00:00",
      "copete": "Miles de personas han cruzado desde el territorio africano al europeo en los últimos días a través de este paso y las autoridades locales dicen estar desbordadas.",
      "id": "8307c96dcf01"
     },
     {
-     "title": "Las selecciones de Europa no participarán en el Mundial si se aprueba el plan de la FIFA para abrir el torneo a la inversión privada",
-     "link": "https://www.bbc.com/mundo/articles/cwyeq02dj3ro?at_medium=RSS&at_campaign=rss",
+     "title": "Por qué Ceuta y Melilla pertenecen a España si están en África",
+     "link": "https://www.bbc.com/mundo/articles/cdj0xv1l8vro?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-30T21:44:56+00:00",
-     "copete": "Las 55 federaciones miembro de la UEFA votan a favor de boicotear el Mundial si la FIFA sigue adelante con su plan de vender participaciones en sus competiciones.",
-     "id": "3f03d6f42816"
+     "published": "2026-07-31T00:53:37+00:00",
+     "copete": "El conflicto se reaviva cada vez que migrantes africanos intentan cruzar de Marruecos a los territorios españoles, o cuando Rabat reinvidica su soberanía sobre estos enclaves.",
+     "id": "a93622d572ce"
     },
     {
-     "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-     "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+     "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
+     "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-07-30T21:24:31+00:00",
-     "copete": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene.",
-     "id": "4ad405e8bf33"
+     "published": "2026-07-31T00:52:54+00:00",
+     "copete": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.",
+     "id": "45cd353ca380"
     },
     {
-     "title": "La zona del sur de EE.UU. que quedó devastada por un huracán y ahora tiene más dinero del que puede gastar",
-     "link": "https://www.bbc.com/mundo/articles/c5y09z556jeo?at_medium=RSS&at_campaign=rss",
+     "title": "Por qué a Irán puede interesarle más una guerra limitada con EE.UU. que la paz",
+     "link": "https://www.bbc.com/mundo/articles/cewr0elg875o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-30T20:10:36+00:00",
-     "copete": "Un condado estadounidense arrasado por el huracán Rita es ahora el mayor exportador mundial de gas natural licuado.",
-     "id": "d36b6bdb1b3b"
-    },
-    {
-     "title": "Migrants seen swimming around border fence of Spanish enclave Ceuta",
-     "link": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-30T19:16:18+00:00",
-     "copete": "The North African enclave's leader said resources were being overwhelmed after so many people entered by sea from Morocco.",
-     "id": "d2ac6391d57d"
-    },
-    {
-     "title": "Egipto sufre el primer ataque de la guerra en Oriente Próximo al impactar un dron contra buques gasísticos",
-     "link": "https://elpais.com/internacional/2026-07-30/egipto-confirma-que-un-dron-provoco-el-incendio-de-dos-buques-de-gas-en-su-costa-cerca-del-canal-de-suez.html",
-     "source": "El País Internacional",
-     "published": "2026-07-30T18:46:01+00:00",
-     "copete": "El lanzamiento del aparato, que no ha sido reivindicado, aumenta la preocupación por la posible extensión del conflicto a una ruta clave para el transporte de petróleo saudí",
-     "id": "a34450df80bd"
-    },
-    {
-     "title": "La costarricense Grynspan encabeza la primera votación informal para elegir nuevo líder de la ONU",
-     "link": "https://elpais.com/internacional/2026-07-30/la-costarricense-grynspan-encabeza-la-primera-votacion-informal-para-elegir-nuevo-lider-de-la-onu.html",
-     "source": "El País Internacional",
-     "published": "2026-07-30T18:37:57+00:00",
-     "copete": "Los 15 miembros del Consejo de Seguridad comienzan el proceso para sustituir a António Guterres. En segundo y tercer puesto quedan la guyanesa Rodrigues-Birkett y el argentino Grossi",
-     "id": "b205ca173c4b"
-    },
-    {
-     "title": "EN VIDEO: el momento en el que cientos de migrantes cruzan a nado la frontera de Marruecos con España",
-     "link": "https://www.bbc.com/mundo/articles/cq5636nzp01o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-30T18:21:30+00:00",
-     "copete": "La llegada masiva desbordó a los servicios de emergencia y a las fuerzas de seguridad en la ciudad autónoma española.",
-     "id": "c60949a2ba28"
+     "published": "2026-07-30T22:57:41+00:00",
+     "copete": "Irán puede creer que puede controlar el conflicto con la suficiente cautela como para mantener la presión sobre Estados Unidos y, al mismo tiempo, evitar una guerra total.",
+     "id": "91e8fbbd1470"
     }
    ]
   }
@@ -496,6 +481,11 @@
   {
    "section": "cardiologia",
    "feed": "Circulation (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "cardiologia",
+   "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]

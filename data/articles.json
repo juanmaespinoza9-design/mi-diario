@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-31T07:19:35.835606+00:00",
+ "generated_at": "2026-07-31T11:01:55.527484+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -40,6 +40,22 @@
      "source": "TCTMD",
      "published": "2026-07-30T15:17:00+00:00",
      "id": "c3c93f952423"
+    },
+    {
+     "title": "Sex Hormone Influences on Cardiovascular Risk. Reply",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42526042/",
+     "source": "NEJM Cardiología",
+     "published": "2026-07-30T00:00:00+00:00",
+     "copete": "Skeith L et al. · The New England journal of medicine",
+     "id": "742ee8759563"
+    },
+    {
+     "title": "Sex Hormone Influences on Cardiovascular Risk",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42526041/",
+     "source": "NEJM Cardiología",
+     "published": "2026-07-30T00:00:00+00:00",
+     "copete": "Bonnet F et al. · The New England journal of medicine",
+     "id": "ba245273fb1b"
     },
     {
      "title": "Clinical Considerations in Management of Hypertrophic Cardiomyopathy in Pregnancy: JACC State-of-the-Art Review",
@@ -147,7 +163,7 @@
      "title": "De arquero de Central Córdoba a pilar de Los Pumas: la increíble historia de Pedro Delgado que recordó Scrum de ESPN",
      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQXpiWHp3Qzk5SG4zMW50WmhVWnpBcG9CdHNLSzliS1RGTnM1ZWNOVUNVSTFnOWhPRng1eUZ6Zkc2TjAzUlNnazJtYVV2THNfNV9ocjhVZUVBVVhlSTRtZ1dXUGtRWnQ1bzNoZ3dTZ3pTd0VmV2ZrWGRBcHpFZTl6ZFFibXdYUFcyVEc2WGVlMElWd2JZQWZ5d1oxMHpKR0pWZ2d2blVxU1BrSXl5cDFmeDBfWEpxS2kzX2p2czFGQm8yR3ZsSHNaUU5Tc0R5c3BpdDJpSmpnaUdaRE01MDRlWjhkOTNscFBw?oc=5",
      "source": "infodelestero",
-     "published": "2026-07-30T22:34:50+00:00",
+     "published": "2026-07-30T22:42:30+00:00",
      "id": "a19144e253b0"
     },
     {
@@ -205,18 +221,32 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+     "link": "https://blog.google/security/chrome-stronger-with-every-update/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-31T07:29:22+00:00",
+     "id": "c3b2c774b858"
+    },
+    {
+     "title": "DeepSeek-V4-Flash Update",
+     "link": "https://api-docs.deepseek.com/updates/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-31T06:08:36+00:00",
+     "id": "565e3d66b2b1"
+    },
+    {
+     "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+     "link": "https://github.com/openjdk/jdk/pull/31120",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-07-31T04:38:19+00:00",
+     "id": "c1d816711085"
+    },
+    {
      "title": "The session you cannot take with you",
      "link": "https://earendil.com/posts/session-portability/",
      "source": "Hacker News (100+ puntos)",
      "published": "2026-07-31T03:47:59+00:00",
      "id": "beca97c90873"
-    },
-    {
-     "title": "A California aquifer may have crossed the point of no return",
-     "link": "https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-31T03:27:36+00:00",
-     "id": "1c0198eecd90"
     },
     {
      "title": "Advancing the price-performance frontier with GPT‑5.6",
@@ -233,13 +263,6 @@
      "published": "2026-07-30T23:41:29+00:00",
      "copete": "Investigating three real-world incidents in our cybersecurity evaluations It happened again! This is turning into something of a pattern. Last week OpenAI accidentally exploited Hugging Face when one of their frontier models broke out of a…",
      "id": "1782a66a344a"
-    },
-    {
-     "title": "The AI Aesthetic",
-     "link": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-30T23:22:16+00:00",
-     "id": "cfcccf116d3f"
     },
     {
      "title": "llm 0.32rc2",
@@ -270,14 +293,6 @@
      "source": "r/datascience",
      "published": "2026-07-30T15:55:58+00:00",
      "id": "41098254a1dc"
-    },
-    {
-     "title": "How to Organize All of Your Coding Agent Tasks",
-     "link": "https://towardsdatascience.com/how-to-organize-all-of-your-coding-agent-tasks/",
-     "source": "Towards Data Science",
-     "published": "2026-07-30T15:00:00+00:00",
-     "copete": "Optimise how you interact with your coding agents The post How to Organize All of Your Coding Agent Tasks appeared first on Towards Data Science .",
-     "id": "73f006ea6a53"
     }
    ]
   },
@@ -287,100 +302,99 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Murió Franco Baresi a los 66 años, leyenda del fútbol italiano y campeón del mundo",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/murio-franco-baresi-a-los-66-anos-leyenda-del-futbol-italiano-y-campeon-del-mundo-nid31072026/",
-     "source": "La Nación",
-     "published": "2026-07-31T07:15:05+00:00",
-     "copete": "El legendario defensor y capitán emblemático de Milan, conquistó tres Copas de Europa y seis títulos de la Serie A durante su carrera",
-     "id": "b2e78d52cb41"
-    },
-    {
-     "title": "Qué es Recoleta FC: el modesto club paraguayo que Boca enfrentará en los octavos de final de la Copa Sudamericana",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/que-es-recoleta-fc-el-modesto-club-paraguayo-que-boca-enfrentara-en-los-octavos-de-final-de-la-copa-nid31072026/",
-     "source": "La Nación",
-     "published": "2026-07-31T07:06:51+00:00",
-     "copete": "El miércoles 12 de agosto el club guaraní visitará por primera vez en su historia la Bombonera; su fundación, apodos y la perlita de su presidente",
-     "id": "a8f3464801c6"
-    },
-    {
-     "title": "12.819.532.788.614.400.000%: el número de inflación que calculó Milei desde la fundación del BCRA hace 91 años",
-     "link": "https://www.infobae.com/economia/2026/07/31/12819532788614400000-el-numero-de-inflacion-que-calculo-milei-desde-la-fundacion-del-bcra-hace-91-anos/",
+     "title": "Por qué la exportación de soja podría impulsar la economía en el segundo semestre y ayudar al BCRA a comprar dólares",
+     "link": "https://www.infobae.com/economia/2026/07/31/por-que-la-exportacion-de-soja-podria-impulsar-la-economia-en-el-segundo-semestre-y-ayudar-al-bcra-a-comprar-dolares/",
      "source": "Infobae",
-     "published": "2026-07-31T07:06:17+00:00",
-     "copete": "En la presentación del proyecto para reformar la Carta Orgánica del Banco Central, el presidente estimó que la suba del costo de vida se acercó a 13 trillones desde 1935",
-     "id": "5d42f63cfc0f"
+     "published": "2026-07-31T10:53:39+00:00",
+     "copete": "En el primer semestre, las ventas se ubicaron en el nivel más bajo en 17 años. Esta reducción abre una nueva oportunidad para el repunte de la actividad. El complejo sojero comienza a romper su estacionalidad habitual",
+     "id": "c6bd70485320"
     },
     {
-     "title": "Naty Franz, pionera del tapping: “Cualquier desequilibrio trae enfermedad”",
-     "link": "https://www.lanacion.com.ar/lifestyle/naty-franz-pionera-del-tapping-cualquier-desequilibrio-trae-enfermedad-nid31072026/",
+     "title": "El día que Diego Maradona se rindió ante el talento de Franco Baresi",
+     "link": "https://www.infobae.com/deportes/2026/07/31/el-dia-que-diego-maradona-se-rindio-ante-el-talento-de-franco-baresi/",
+     "source": "Infobae",
+     "published": "2026-07-31T10:50:46+00:00",
+     "id": "0e793a8f8503"
+    },
+    {
+     "title": "Alerta naranja por tormentas intensas y vientos: el pronóstico del tiempo para este fin de semana en el AMBA",
+     "link": "https://www.infobae.com/sociedad/2026/07/31/alerta-naranja-por-tormentas-intensas-y-vientos-como-estara-el-tiempo-este-fin-de-semana-en-el-amba/",
+     "source": "Infobae",
+     "published": "2026-07-31T10:49:16+00:00",
+     "copete": "Se esperan fuertes precipitaciones para hoy y mañana en la Ciudad y provincia de Buenos Aires. El panorama del resto del país con advertencias en 16 regiones por grandes masas de aire ventoso",
+     "id": "ce5cbf278ea8"
+    },
+    {
+     "title": "El gobierno español moviliza al Ejército para intentar contener la crisis migratoria en Ceuta",
+     "link": "https://www.lanacion.com.ar/el-mundo/el-gobierno-espanol-moviliza-al-ejercito-para-intentar-contener-la-crisis-migratoria-en-ceuta-nid30072026/",
      "source": "La Nación",
-     "published": "2026-07-31T07:00:00+00:00",
-     "copete": "En una entrevista para LA NACION, la pionera de la Técnica de Liberación Emocional en la Argentina profundizó en la importancia de este ejercicio y los beneficios de incorporarlo en la rutina",
-     "id": "174d1027d52f"
+     "published": "2026-07-31T10:47:14+00:00",
+     "copete": "Miles de personas cruzaron desde Marruecos en medio del caos fronterizo, mientras Madrid reforzó la vigilancia, acordó devoluciones con Rabat y recibió una oferta de asistencia de la Unión Europea",
+     "id": "203d81af6a8f"
     },
     {
-     "title": "Iker, montañés que vive sin red eléctrica: “Aprender a tener una casa eficiente y acorde a lo que el sol te da cada día”",
-     "link": "https://www.lanacion.com.ar/lifestyle/iker-montanes-que-vive-sin-red-electrica-aprender-a-tener-una-casa-eficiente-y-acorde-a-lo-que-el-nid31072026/",
+     "title": "Clima en Heredia: la predicción para este 31 de julio",
+     "link": "https://www.infobae.com/noticias/2026/07/31/clima-en-heredia-la-prediccion-para-este-31-de-julio/",
+     "source": "Infobae",
+     "published": "2026-07-31T10:46:38+00:00",
+     "copete": "Los fenómenos meteorológicos y análisis de probabilidad permiten dar información sobre la temperatura, lluvias y vientos para las próximas horas",
+     "id": "7b9518a6ff73"
+    },
+    {
+     "title": "Predicción del tiempo en San José para este 31 de julio",
+     "link": "https://www.infobae.com/noticias/2026/07/31/prediccion-del-tiempo-en-san-jose-para-este-31-de-julio/",
+     "source": "Infobae",
+     "published": "2026-07-31T10:46:20+00:00",
+     "copete": "Los fenómenos meteorológicos y análisis de probabilidad permiten dar información sobre la temperatura, lluvias y vientos para las próximas horas",
+     "id": "c62629a7037c"
+    },
+    {
+     "title": "Tiraba de un carro de 3 toneladas y casi muere desplomada cuando una veterinaria la vio: “Peleó por su vida y la de alguien más”",
+     "link": "https://www.lanacion.com.ar/lifestyle/tiraba-de-un-carro-de-3-toneladas-y-casi-muere-desplomada-cuando-una-veterinaria-la-vio-peleo-por-su-nid29082024/",
      "source": "La Nación",
-     "published": "2026-07-31T07:00:00+00:00",
-     "copete": "El creador de contenido español enseñó cómo hacer que una vivienda rústica funcione con un único panel solar; además, dio detalles de las herramientas para gastar menos dinero",
-     "id": "c00a4c6a68c0"
+     "published": "2026-07-31T10:45:01+00:00",
+     "copete": "La médica veterinaria intervino ante la dramática situación con una potranca, de tan solo dos años y medio",
+     "id": "7d1b97bd8f59"
     },
     {
-     "title": "Murió Franco Baresi, histórico capitán de Milan y leyenda del fútbol italiano",
-     "link": "https://www.clarin.com/deportes/murio-franco-baresi-historico-capitan-milan-campeon-mundo-italia_0_IQMAmTjeK7.html",
+     "title": "Un árbol que devora el paisaje: por qué es tan difícil detener la invasión de la acacia negra",
+     "link": "https://www.lanacion.com.ar/revista-jardin/un-arbol-que-devora-el-paisaje-por-que-es-tan-dificil-detener-la-invasion-de-la-acacia-negra-nid31072026/",
+     "source": "La Nación",
+     "published": "2026-07-31T10:42:11+00:00",
+     "copete": "Sus espinas miden 15 centímetros y su capacidad invasora no tiene límite visible; la acacia negra es el árbol que la Argentina plantó y ahora no sabe cómo detener",
+     "id": "ef8d5478d3ac"
+    },
+    {
+     "title": "Se conocieron internados y estrecharon un vínculo que superaba la amistad ¿podrían seguir amándose fuera?",
+     "link": "https://www.lanacion.com.ar/lifestyle/se-conocieron-internados-y-estrecharon-un-vinculo-que-superaba-la-amistad-podrian-seguir-amandose-nid31072026/",
+     "source": "La Nación",
+     "published": "2026-07-31T10:38:03+00:00",
+     "copete": "Con un cuadro de depresión y atravesando el mismo cuadro de salud, Julieta y Facundo coincidieron en la misma institución dedicada a la salud mental",
+     "id": "ed08f1476a13"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: las repercusiones de la cadena nacional y el proyecto de cambios en el BCRA",
+     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-las-repercusiones-de-la-cadena-nacional-y-el-proyecto-de-cambios-nid31072026/",
+     "source": "La Nación",
+     "published": "2026-07-31T10:31:47+00:00",
+     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+     "id": "6536d7a8276a"
+    },
+    {
+     "title": "Bodegas y viñedos a menos de dos horas de  Buenos Aires para hacer una escapada con vino y campo",
+     "link": "https://www.clarin.com/viajes/bodegas-vinedos-horas-buenos-aires-hacer-escapada-vino-campo_0_hbBxkw7huc.html",
      "source": "Clarín",
-     "published": "2026-07-31T06:49:10+00:00",
-     "copete": "El legendario exdefensor tenía 66 años. El club italiano confirmó la noticia y destacó que su legado permanecerá ligado para siempre a la camiseta número 6. Disputó más de 700 partidos con el conjunto rossonero y formó parte del…",
-     "id": "fd4f45dd74eb"
+     "published": "2026-07-31T10:30:59+00:00",
+     "copete": "Fincas y viñedos bonaerenses abren sus puertas con propuestas que van desde catas a ciegas hasta gastronomía de campo. Dónde están y qué ofrece cada lugar.",
+     "id": "a8e662d4511f"
     },
     {
-     "title": "La crisis migratoria de Ceuta: las fotos del cruce masivo de la frontera con Marruecos",
-     "link": "https://www.infobae.com/fotos/2026/07/31/la-crisis-migratoria-de-ceuta-las-fotos-del-cruce-masivo-de-la-frontera-con-marruecos/",
-     "source": "Infobae",
-     "published": "2026-07-31T06:40:54+00:00",
-     "copete": "La crisis migratoria de Ceuta, miles de personas se resisten a abandonar la frontera",
-     "id": "dc5668f421ae"
-    },
-    {
-     "title": "Reforma del Banco Central: la cadena nacional actuó como primer paso de la campaña de Milei para la reelección",
-     "link": "https://www.infobae.com/politica/2026/07/31/reforma-del-banco-central-la-cadena-nacional-actuo-como-primer-paso-de-la-campana-de-milei-para-la-reeleccion/",
-     "source": "Infobae",
-     "published": "2026-07-31T06:36:13+00:00",
-     "copete": "El anuncio fue un “punto de quiebre” hacia el 2027. Cómo sigue la calendarización del Gobierno para el cierre del año. La suspensión de las PASO, más cerca",
-     "id": "ebd70d993efa"
-    },
-    {
-     "title": "África Occidental se ha convertido en un enorme centro de tráfico de cocaína",
-     "link": "https://www.infobae.com/economist/2026/07/31/africa-occidental-se-ha-convertido-en-un-enorme-centro-de-trafico-de-cocaina/",
-     "source": "Infobae",
-     "published": "2026-07-31T06:35:08+00:00",
-     "copete": "El análisis de otras rutas ha cambiado la estrategia de los traficantes para el transporte marítimo a Europa",
-     "id": "c8a9d0c2b444"
-    },
-    {
-     "title": "Del cruce del Atlántico al Río de la Plata: la historia de las mujeres africanas esclavizadas y su lucha por la libertad",
-     "link": "https://www.infobae.com/historias/2026/07/31/del-cruce-del-atlantico-al-rio-de-la-plata-la-historia-de-las-mujeres-africanas-esclavizadas-y-su-lucha-por-la-libertad/",
-     "source": "Infobae",
-     "published": "2026-07-31T06:34:27+00:00",
-     "copete": "Cada 31 de julio se conmemora el Día Internacional de la Mujer Africana, una fecha instituida tras una cumbre histórica celebrada en 1962 en Tanzania. Cómo funcionó la trata y por qué las mujeres comenzaron a ser un objetivo del comercio…",
-     "id": "443c7a39858d"
-    },
-    {
-     "title": "Qué es el “grillete fiscal”, la adaptación local que quiere Javier Milei de un mecanismo usado en Estados Unidos",
-     "link": "https://www.lanacion.com.ar/politica/que-es-el-grillete-fiscal-la-adaptacion-local-que-quiere-javier-milei-de-un-mecanismo-usado-en-nid30072026/",
-     "source": "La Nación",
-     "published": "2026-07-31T06:33:31+00:00",
-     "copete": "Fue una de las propuestas anunciadas en el mensaje presidencial de la cadena nacional",
-     "id": "3c10740587bf"
-    },
-    {
-     "title": "Ni Capitán América ni Thor: Marvel revela quién puede derrotar a Doctor Doom",
-     "link": "https://www.clarin.com/internacional/capitan-america-thor-marvel-revela-puede-derrotar-doctor-doom_0_Wlwv92oVdy.html",
+     "title": "Ethereum hoy: cotización y precio del ETH este viernes 31 de julio de 2026",
+     "link": "https://www.clarin.com/economia/ethereum-hoy-cotizacion-y-precio-del-eth-este-viernes-31-de-julio-de-2026_0_zqNj7Wm7JX.html",
      "source": "Clarín",
-     "published": "2026-07-31T06:00:38+00:00",
-     "copete": "Marvel filtró sin querer quién puede detener a Doctor Doom. La pista no llegó por un tráiler: llegó por un juguete.",
-     "id": "3c4664c0ea32"
+     "published": "2026-07-31T10:30:02+00:00",
+     "copete": "El valor actualizado de la segunda criptomoneda más importante por capitalización. Origen e historia de Ethereum.",
+     "id": "f266a7a1d956"
     }
    ]
   },
@@ -390,84 +404,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
-     "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+     "title": "Condenado a 15 años de prisión el padre del autor de un tiroteo en un instituto en Estados Unidos",
+     "link": "https://elpais.com/internacional/2026-07-31/condenado-a-15-anos-de-prision-el-padre-del-autor-de-un-tiroteo-en-un-instituto-en-estados-unidos.html",
+     "source": "El País Internacional",
+     "published": "2026-07-31T10:59:01+00:00",
+     "copete": "El juez considera a Colin Gray culpable de asesinato en segundo grado y homicidio involuntario al regalar un rifle a su hijo adolescente y no haber tomado medidas preventivas",
+     "id": "804675d9831f"
+    },
+    {
+     "title": "About 49,000 migrants enter Spanish territory of Ceuta in 24 hours, officials say",
+     "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-07-31T07:03:29+00:00",
-     "copete": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
-     "id": "2c84d1a306e8"
+     "published": "2026-07-31T10:46:03+00:00",
+     "copete": "The estimated number of arrivals is more than half of the population of the city, which is about 83,600.",
+     "id": "b77056b3f0a1"
+    },
+    {
+     "title": "El polémico decreto de Milei para expulsar extranjeros que expresen \"odio\" contra Argentina (y qué tiene que ver con el Mundial de Fútbol)",
+     "link": "https://www.bbc.com/mundo/articles/c2k7zx7v95ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-31T10:45:47+00:00",
+     "copete": "El decreto entró en vigencia este jueves, y ocurre luego de que el mandatario denunció una supuesta campaña \"antiargentina\" durante el Mundial de fútbol.",
+     "id": "1655613dccfb"
+    },
+    {
+     "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+     "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-31T10:32:17+00:00",
+     "copete": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
+     "id": "daed8babd9a7"
+    },
+    {
+     "title": "Anthropic's Claude AI escapes to hack into three organisations",
+     "link": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-07-31T10:18:54+00:00",
+     "copete": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks.",
+     "id": "a6d12130c066"
+    },
+    {
+     "title": "\"Tuve cáncer en estadio cuatro a los 14 años y ahora soy médico\"",
+     "link": "https://www.bbc.com/mundo/articles/cp3ryev5022o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-07-31T09:49:36+00:00",
+     "copete": "Ellie Waters-Barnes sobrevivió a un cáncer agresivo en estadio IV y se sometió a 18 meses de tratamiento.",
+     "id": "254210ad3107"
     },
     {
      "title": "AC Milan and Italy great Baresi dies aged 66",
      "link": "https://www.bbc.co.uk/sport/football/articles/ckgvlz45l3eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-07-31T06:51:50+00:00",
+     "published": "2026-07-31T09:44:48+00:00",
      "copete": "AC Milan and Italy great Franco Baresi has died at the age of 66, the Italian club announces.",
      "id": "63153d3c3095"
     },
     {
-     "title": "Fifa says 'nobody selling football' as plan continues",
-     "link": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-31T06:31:44+00:00",
-     "copete": "Football's governing body Fifa plans to continue the consultation process after Uefa threatens to boycott World Cups.",
-     "id": "5c9e90a27f39"
-    },
-    {
-     "title": "Trump anuncia un acuerdo para “el desarme total” de Hamás",
-     "link": "https://elpais.com/us/2026-07-30/trump-anuncia-un-acuerdo-para-el-desarme-total-de-hamas.html",
-     "source": "El País Internacional",
-     "published": "2026-07-31T06:30:12+00:00",
-     "copete": "El presidente de EE UU asegura que el pacto, sin confirmación israelí ni de la milicia palestina, supone un paso clave para que Gaza tenga un Gobierno propio",
-     "id": "824e72a05ff3"
-    },
-    {
-     "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-     "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-07-31T05:21:18+00:00",
-     "copete": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
-     "id": "46b062d91bef"
-    },
-    {
-     "title": "El sociólogo Kagarlitski, de la cárcel soviética a la de Putin",
-     "link": "https://elpais.com/internacional/2026-07-31/el-sociologo-kagarlitski-de-la-carcel-sovietica-a-la-de-putin.html",
-     "source": "El País Internacional",
-     "published": "2026-07-31T03:30:01+00:00",
-     "copete": "Cualquiera que sea percibido como un peligro para la estabilidad del régimen ruso corre el riesgo de ir a la cárcel",
-     "id": "156a4a3e5200"
-    },
-    {
-     "title": "La poderosa milicia libanesa Hezbolá se resiste a perder las armas y el control social",
-     "link": "https://elpais.com/internacional/2026-07-31/la-poderosa-milicia-libanesa-hezbola-se-resiste-a-perder-las-armas-y-el-control-social.html",
-     "source": "El País Internacional",
-     "published": "2026-07-31T03:30:01+00:00",
-     "copete": "La insistencia del Gobierno de Netanyahu en ocupar el sur de Líbano lastra el plan de desarme del movimiento proiraní",
-     "id": "4374ddbedcfe"
-    },
-    {
-     "title": "Trump anuncia un acuerdo para \"el desarme total\" de Hamás en Gaza que fue confirmado por el grupo palestino",
-     "link": "https://www.bbc.com/mundo/articles/cvgxn4mjmkro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-31T02:11:45+00:00",
-     "copete": "El presidente de Estados Unidos afirmó que la Junta de Paz alcanzó un acuerdo para el \"desarme completo\" de Hamás y otros grupos armados en Gaza.",
-     "id": "5a193974e7fb"
-    },
-    {
-     "title": "\"La situación está fuera de control\": España moviliza al ejército ante el cruce de miles de migrantes desde Marruecos a Ceuta que ha dejado al menos 15 muertos",
+     "title": "\"La situación está fuera de control\": España moviliza al ejército ante el cruce de más de 49.000 migrantes desde Marruecos a Ceuta; hay al menos 18 muertos",
      "link": "https://www.bbc.com/mundo/articles/cvg0n0p4xg4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-07-31T01:23:41+00:00",
+     "published": "2026-07-31T09:28:46+00:00",
      "copete": "Miles de personas han cruzado desde el territorio africano al europeo en los últimos días a través de este paso y las autoridades locales dicen estar desbordadas.",
      "id": "8307c96dcf01"
     },
     {
-     "title": "Por qué Ceuta y Melilla pertenecen a España si están en África",
-     "link": "https://www.bbc.com/mundo/articles/cdj0xv1l8vro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-07-31T00:53:37+00:00",
-     "copete": "El conflicto se reaviva cada vez que migrantes africanos intentan cruzar de Marruecos a los territorios españoles, o cuando Rabat reinvidica su soberanía sobre estos enclaves.",
-     "id": "a93622d572ce"
+     "title": "Trump anuncia un acuerdo para “el desarme total” de Hamás en el marco de su plan para Gaza",
+     "link": "https://elpais.com/us/2026-07-30/trump-anuncia-un-acuerdo-para-el-desarme-total-de-hamas.html",
+     "source": "El País Internacional",
+     "published": "2026-07-31T08:08:11+00:00",
+     "copete": "El movimiento islamista insiste en que solo cumplirá el pacto si Israel respeta sus obligaciones. El Gobierno de Netanyahu aún no se ha pronunciado",
+     "id": "824e72a05ff3"
+    },
+    {
+     "title": "Detener migrantes indocumentados en los aeropuertos, el nuevo frente de la ofensiva migratoria de Trump",
+     "link": "https://elpais.com/us/migracion/2026-07-31/detener-migrantes-indocumentados-en-los-aeropuertos-el-nuevo-frente-de-la-ofensiva-migratoria-de-trump.html",
+     "source": "El País Internacional",
+     "published": "2026-07-31T04:00:00+00:00",
+     "copete": "Más de 25 personas fueron arrestadas recientemente en aeropuertos del país por una nueva norma de las autoridades federales, según ‘The New York Times’",
+     "id": "9d1c20e19427"
     }
    ]
   }
@@ -481,11 +495,6 @@
   {
    "section": "cardiologia",
    "feed": "Circulation (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "cardiologia",
-   "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]

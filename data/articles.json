@@ -1,11 +1,25 @@
 {
- "generated_at": "2026-08-01T21:12:40.180770+00:00",
+ "generated_at": "2026-08-01T23:15:45.734031+00:00",
  "sections": [
   {
    "id": "cardiologia",
    "title": "Cardiología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Talking to Family in the Aftermath of Disaster",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iUHpKYTNtb2VSZEhnT0hicFFVa0NmM1lwMVRsRFQ1N2hHMHNiNEY0U0UxZ0plaHVBVzNOckQ3Y2xJVW1FbXQxcGFzTllGQXdaNHZtNHhJVTRSckd2dWxUNS12aHFidGZDZjUtd2R3?oc=5",
+     "source": "TCTMD",
+     "published": "2026-08-01T15:10:00+00:00",
+     "id": "b4ffd8c082ec"
+    },
+    {
+     "title": "Troubleshooting Electrosurgery",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBELU5LdmNUbVVVUGlrR2ExMktVQU54YXN3T2lYQlI0LU51T0lZdERSYVpxSy1yWVlGSHplZVZzaHoyRy1FV2RsVk1vU1ZrSWQ3QkEwVnVDY1NiQ3FObmRvUW95NTBwU1p4SFE?oc=5",
+     "source": "TCTMD",
+     "published": "2026-08-01T11:45:00+00:00",
+     "id": "2b6dae079ebf"
+    },
     {
      "title": "TCTMD’s Top 10 Most Popular Stories for July 2026",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02bkdhRGh0WFNEZU5jTmF1UGVlMUtCVXpkbmh0cy10Q2dDWWx2bWZnVHlhY216MUdKcVRDbXhqRHg5endxS0lyam5oX0tyaGY5SVlWeUdOd3IxTEhPS2R0TGNRS2tDcndGTFZxckpNQnEzUVI5WUoyb3l5TQ?oc=5",
@@ -28,20 +42,6 @@
      "id": "3cd763b9d555"
     },
     {
-     "title": "Case 4. Complex Mitral Perivalvular Leak",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kbk9IanJPbzdPMkNpd0xTZGdlcXprWDY4bDU5eVBYMmRwQWRTNEFkSGZZdGdxaktxa3dkaHBuUUVNbXlkT1g2TGx5bmpReWl2d3QtQ25lbmdsZURFeU1sNVdNNG9tS19pYTE5RzFOMlI4bk55OGc?oc=5",
-     "source": "TCTMD",
-     "published": "2026-07-31T15:00:00+00:00",
-     "id": "4cd3c804c5b9"
-    },
-    {
-     "title": "Case 3. Unexpected LVOTO After TMVR",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoaEZLZEFYaEZ1clBKYkhaemlnTkEyMDFSRXdHNlJyQ2pXUEpDRHNsaXo5LTE2cjkzQ1haalNJZEw5XzEwOGhOZTVoUGlzVURpNVlnbVY4enc4ZzBmR2c0azBraEVZbWlDWldRajZlRFRnUQ?oc=5",
-     "source": "TCTMD",
-     "published": "2026-07-31T14:45:00+00:00",
-     "id": "ff9796a6dd71"
-    },
-    {
      "title": "Clinical Considerations in Management of Hypertrophic Cardiomyopathy in Pregnancy: JACC State-of-the-Art Review",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42524805/",
      "source": "JACC",
@@ -58,28 +58,44 @@
      "id": "5ff953291bda"
     },
     {
+     "title": "A Multitask Deep Learning Model for Pediatric Echocardiography Analysis",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42517220/",
+     "source": "Circulation",
+     "published": "2026-07-28T00:00:00+00:00",
+     "copete": "Cho J et al. · Circulation",
+     "id": "46354f04e805"
+    },
+    {
+     "title": "Risk-Guided Screening for Atrial Fibrillation Using Electronic Health Records",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42517218/",
+     "source": "Circulation",
+     "published": "2026-07-28T00:00:00+00:00",
+     "copete": "Nadarajah R et al. · Circulation",
+     "id": "477328dd0091"
+    },
+    {
+     "title": "Cardiovascular-Kidney-Metabolic Syndrome: A User's Guide to the Guidelines",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42507784/",
+     "source": "Circulation",
+     "published": "2026-07-28T00:00:00+00:00",
+     "copete": "Ndumele CE et al. · Circulation",
+     "id": "8464825d601a"
+    },
+    {
+     "title": "Telehealth for Community-Engaged Cardiovascular Care in Rural Populations",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42507783/",
+     "source": "Circulation",
+     "published": "2026-07-28T00:00:00+00:00",
+     "copete": "Powell-Wiley TM et al. · Circulation",
+     "id": "179db420c3ca"
+    },
+    {
      "title": "Preventive Cardiovascular Care Delivery and Medicaid Accountable Care Organizations: A Difference-in-Differences Analysis",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42524801/",
      "source": "JACC",
      "published": "2026-07-22T00:00:00+00:00",
      "copete": "Marinacci LX et al. · Journal of the American College of Cardiology",
      "id": "68631e912e7b"
-    },
-    {
-     "title": "REPLY: Lipoprotein(a) and Cardiovascular Risk Gradient Across Coronary Artery Calcium Strata",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42524800/",
-     "source": "JACC",
-     "published": "2026-07-22T00:00:00+00:00",
-     "copete": "Bhatia HS et al. · Journal of the American College of Cardiology",
-     "id": "b2fb5e2ca0fa"
-    },
-    {
-     "title": "The fascinating evolution of vascular biology: novel mechanisms leading to new therapeutic targets",
-     "link": "https://academic.oup.com/eurheartj/article/47/28/3653/8737868?rss=1",
-     "source": "European Heart Journal",
-     "published": "2026-07-21T00:00:00+00:00",
-     "copete": "For image description, please refer to the figure legend and surrounding text.",
-     "id": "23b0db17ac4a"
     }
    ]
   },
@@ -88,6 +104,38 @@
    "title": "Deportes",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Fecha de definiciones en el Torneo del Interior Copa Zurich",
+     "link": "https://uar.com.ar/fecha-de-definiciones-en-el-torneo-del-interior-copa-zurich/",
+     "source": "UAR",
+     "published": "2026-08-01T22:04:48+00:00",
+     "copete": "Este sábado se vivió una jornada de alta intensidad en el interior del país, ya que se disputó la sexta y última fecha de la etapa regular del Torneo del Interior Copa Zurich ‘A’, en la cual, a falta de un partido (Tala RC vs. CAE), se…",
+     "id": "aef92c82c446"
+    },
+    {
+     "title": "Por qué Santiago Sosa no jugará en Racing vs. Tigre pese a haber concentrado",
+     "link": "https://www.ole.com.ar/racing/santiago-sosa-jugara-racing-vs-tigre-vasco-da-gama_0_masZk3yn1O.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-01T21:40:30+00:00",
+     "copete": "El capitán de la Academia no tendrá acción este sábado ante la venta inminente al Vasco da Gama.",
+     "id": "7beb0dbd0345"
+    },
+    {
+     "title": "Otro borrado deja Cantilo y se va de River",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-ian-subiabre_0_9sjsost6ux.html",
+     "source": "Olé — River",
+     "published": "2026-08-01T21:34:59+00:00",
+     "copete": "Ian Subiabre jugará en Tigre. El pibe se marcha a préstamo por 18 meses.",
+     "id": "836e7cea5c74"
+    },
+    {
+     "title": "Lanús vs. Instituto, por el Torneo Clausura: día, horario y cómo verlo por TV",
+     "link": "https://www.ole.com.ar/futbol-primera/lanus-vs-instituto-partido-torneo-clausura-2026-fecha-3-dia-horario-tv_0_fsohEjuQRC.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-01T21:03:22+00:00",
+     "copete": "Luego de quedar eliminado de la Copa Sudamericana, el Granate busca levantar cabeza en La Fortaleza ante la Gloria.",
+     "id": "2f42cbd6c5aa"
+    },
     {
      "title": "River vs. Rosario Central, por el Torneo Clausura: día, horario y cómo verlo por TV",
      "link": "https://www.ole.com.ar/futbol-primera/river-vs-rosario-central-partido-torneo-clausura-2026-dia-horario-tv-formaciones_0_6PEKtstaE7.html",
@@ -103,22 +151,6 @@
      "published": "2026-08-01T20:55:46+00:00",
      "copete": "Con tres tantos en tres fechas, una de las revelación del campeonato tiene una historia particular.",
      "id": "6baa0e288361"
-    },
-    {
-     "title": "Newell's vs. Boca, por el Torneo Clausura: día, horario y cómo verlo por TV",
-     "link": "https://www.ole.com.ar/futbol-primera/newells-vs-boca-partido-torneo-clausura-2026-formaciones-dia-horario-tv_0_42088cCdya.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-01T20:44:22+00:00",
-     "copete": "Luego de una sufrida clasificación en Chile, el Xeneize visita a la Lepra en el Coloso Marcelo Bielsa en busca de sus primeros tres puntos en el certamen.",
-     "id": "b0d8f794a4be"
-    },
-    {
-     "title": "Deportivo Riestra vs. Barracas Central, por el Torneo Clausura: día, horario y cómo verlo por TV",
-     "link": "https://www.ole.com.ar/futbol-primera/deportivo-riestra-vs-barracas-central-partido-torneo-clausura-2026-dia-horario-tv_0_ClErPLlbWV.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-01T20:33:58+00:00",
-     "copete": "Tras golear 3-0 a Boca, el Malevo recibe en el Estadio Guillermo Laza al Guapo por la tercera jornada del certamen local.",
-     "id": "aba0fb7f7557"
     },
     {
      "title": "Los días, horarios, TV y streaming para el súper domingo de fútbol",
@@ -145,17 +177,9 @@
      "id": "bdd38b71460d"
     },
     {
-     "title": "Así está la pelea por el descenso",
-     "link": "https://www.ole.com.ar/futbol-primera/descenso-promedios-tabla-anual-clausura_0_ClfInhBEOh.html",
-     "source": "Olé — River",
-     "published": "2026-08-01T20:26:46+00:00",
-     "copete": "Al final de la temporada perderán la categoría dos equipos: uno por la tabla de promedios y el otro por la anual. Mirá cómo viene la mano en cada caso.",
-     "id": "d95e8d5d6c63"
-    },
-    {
      "title": "Se confirmó el calendario 2026-2027 del Circuito Mundial de Seven",
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNldLRmZVM01tM2lUVjF2Q1VFMTZzd1UtcUdyZ0NIUEZCNG5DTy1MVTFiYVhEbGlXemtQRDU3SUpwQlFBbkhQbC1zSkxyOWN6UVMyTHY4UmcwZzhpVHZac1EtdWhhdEFsekVMUWdzRFphY2NueDlVRUZLOW1hX3JXSHkxMVgwekd6T2ktMzdXcDhsV0FfMzlycGxvZ1Z5VVBfZkxOc9IBqgFBVV95cUxPSmxwTnFtd0FPQjIycjduSklnOE5sUTQ1c2Njb1JRdkpQOXlDWG1qVlNOX1dRNS1oNXFhRnlEZ29DeG8wWTFGc0JLY09TVm9BVFhzZWIyak5zakVmRjZsNi1HOVZYMFhHbktTdXAycjZTTGF1aGdENklSS243azIyT3BLUTUxdkxPYVJGOUdQTkFuYUd1M2t2b2RSd2NSdVlGT09Cbm9malFyQQ?oc=5",
-     "source": "tiemposur.com.ar",
+     "source": "Tiempo Sur",
      "published": "2026-08-01T18:02:00+00:00",
      "id": "0b1c1cefb918"
     },
@@ -169,7 +193,7 @@
     {
      "title": "La revelación de Tomás Cubelli sobre el homenaje a Maradona y las críticas a Los Pumas",
      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR1lld1ZTWDkyekwwTzRhMUpFejg3eFdhMjE1U0RsYXBqNnY1QzJYT3lUajlISzEzZ1FVZmZyY3VVa1NQLWljb19oVC1ySlljQWpjZmJzZHFpVUtPTG5HcHhSTE05U3ZkR01KTXFEenRxZXpyNlQ3Mm5VdDB4S0d2aXQ5OUdIdlNXSFAyejJoNHo4alpHRUd1RnlFdTZ3RkpOSTZtdm5yMXJFYktnMTZGZDd3RnRUb2Q2bmREazRhT24wZ21nMzRTVjZRVEo5d3BRQ2tpa2p3?oc=5",
-     "source": "espn.com.do",
+     "source": "ESPN República Dominicana",
      "published": "2026-08-01T09:23:04+00:00",
      "id": "38aca14bc855"
     },
@@ -197,6 +221,22 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Quoting Greg Brockman",
+     "link": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
+     "source": "Simon Willison (IA)",
+     "published": "2026-08-01T22:29:44+00:00",
+     "copete": "at openai, many people hook their chatgpt up to slack. people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that same work if asked by that coworker…",
+     "id": "ea51a590f580"
+    },
+    {
+     "title": "datasette-apps 0.2a0",
+     "link": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
+     "source": "Simon Willison (IA)",
+     "published": "2026-08-01T21:23:56+00:00",
+     "copete": "Release: datasette-apps 0.2a0 Changes that improve Datasette Apps when created and edited using Datasette Agent : New app_debug() tool allowing agent to open an app (invisibly) and test it using JavaScript. #33 New app_list() tool for…",
+     "id": "2290c5b63eda"
+    },
+    {
      "title": "Ten advances in mathematics and theoretical computer science",
      "link": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
      "source": "Simon Willison (IA)",
@@ -205,11 +245,18 @@
      "id": "e2f861af9767"
     },
     {
-     "title": "Google has abandoned Google News?",
-     "link": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+     "title": "Diátaxis",
+     "link": "https://diataxis.fr/",
      "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-01T19:39:43+00:00",
-     "id": "a408ae343b81"
+     "published": "2026-08-01T20:33:27+00:00",
+     "id": "b117854c872a"
+    },
+    {
+     "title": "The Silicon Valley Founder Meat Grinder",
+     "link": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-01T20:20:58+00:00",
+     "id": "d9aabc019c8a"
     },
     {
      "title": "How Google helped destroy adoption of RSS feeds (2023)",
@@ -224,13 +271,6 @@
      "source": "Hacker News (100+ puntos)",
      "published": "2026-08-01T17:56:41+00:00",
      "id": "bc4ec80770d1"
-    },
-    {
-     "title": "A directory of people who love RSS",
-     "link": "https://andrewshell.org/2026/07/i-%e2%99%a5-rss/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-01T16:52:41+00:00",
-     "id": "84a38888a7b9"
     },
     {
      "title": "Coding Agents Don’t Need Bigger Context Windows — They Need a Context Compiler",
@@ -255,22 +295,6 @@
      "published": "2026-08-01T13:00:00+00:00",
      "copete": "A hybrid LLM application pattern that combines a predefined workflow with adaptive agent behavior The post Put the Agent Inside the Workflow appeared first on Towards Data Science .",
      "id": "a4bf23f42cde"
-    },
-    {
-     "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
-     "link": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
-     "source": "Simon Willison (IA)",
-     "published": "2026-07-31T23:59:44+00:00",
-     "copete": "deepseek-ai/DeepSeek-V4-Flash-0731 The latest release in DeepSeek's V4 family, \"with substantially enhanced agentic capabilities\". It's 304 billion parameters - 167GB on Hugging Face - but it appears to punch well above its weight…",
-     "id": "49a3b4c1ef7d"
-    },
-    {
-     "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
-     "link": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
-     "source": "Simon Willison (IA)",
-     "published": "2026-07-31T23:13:22+00:00",
-     "copete": "Tuesday was Stateless MCP day - the rollout of MCP 2.0, or the 2026-07-28 Model Context Protocol specification to use the more formal but less memorable name. This is the most significant change to the MCP spec since it first launched, and…",
-     "id": "b4abdb1547ac"
     }
    ]
   },
@@ -280,100 +304,99 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "En Córdoba, Belgrano recibe a Argentinos Juniors por la tercera fecha del Torneo Clausura",
+     "title": "Así están las tablas de la Liga Profesional, la de Promedios y la Anual camino a las copas internacionales de 2027",
+     "link": "https://www.infobae.com/deportes/2026/08/01/asi-estan-las-tablas-de-la-liga-profesional-la-de-promedios-y-la-anual-camino-a-las-copas-internacionales-de-2027/",
+     "source": "Infobae",
+     "published": "2026-08-01T23:12:46+00:00",
+     "copete": "Se lleva a cabo el grueso de la tercera jornada del Torneo Clausura con cinco partidos este sábado",
+     "id": "c50c2c5fb07f"
+    },
+    {
+     "title": "Argentinos Juniors le ganó al campeón Belgrano en Córdoba y Estudiantes goleó a Defensa y Justicia en La Plata",
      "link": "https://www.infobae.com/deportes/2026/08/01/racing-tigre-el-plato-fuerte-del-inicio-de-la-fecha-3-del-torneo-clausura-hora-tv-y-formaciones/",
      "source": "Infobae",
-     "published": "2026-08-01T21:10:42+00:00",
-     "copete": "En el arranque de la fecha, Estudiantes Río Cuarto empató 0-0 con Banfield y Gimnasia de Mendoza le ganó 2-0 a Unión. Al mismo tiempo, Estudiantes recibe en La Plata a Defensa y Justicia. El plato fuerte será Racing-Tigre, a partir de las…",
+     "published": "2026-08-01T23:12:00+00:00",
+     "copete": "En el arranque de la tercera jornada del Clausura, Estudiantes Río Cuarto empató 0-0 con Banfield y Gimnasia de Mendoza le ganó 2-0 a Unión",
      "id": "a0f4c03a1e50"
     },
     {
-     "title": "Top 14 de URBA: Alumni aplastó a SIC en un duelo clave por la clasificación",
-     "link": "https://www.lanacion.com.ar/deportes/rugby/top-14-de-urba-alumni-aplasto-a-sic-en-un-duelo-clave-por-la-clasificacion-nid01082026/",
-     "source": "La Nación",
-     "published": "2026-08-01T21:10:02+00:00",
-     "copete": "En la fecha 17, los de Tortuguitas se impusieron por 59 a 15; CASI venció a Regatas, mientras que el puntero, Newman, vapuleó por 69-3 a Los Matreros",
-     "id": "8fb848c7e152"
-    },
-    {
-     "title": "Concacaf y un duro comunicado: qué debe pasar para que Infantino sea destituido de la FIFA",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/concacaf-y-un-duro-comunicado-que-debe-pasar-para-que-infantino-sea-destituido-de-la-fifa-nid01082026/",
-     "source": "La Nación",
-     "published": "2026-08-01T21:09:05+00:00",
-     "copete": "El presidente de la FIFA no consiguió aquietar las aguas con el retiro de su proyecto para privatizar la comercialización de los mundiales; suma cuestionamientos a su mandato",
-     "id": "b51def9d4e68"
-    },
-    {
-     "title": "Un futbolista de 19 años fue asesinado de un disparo en el cuello a la salida de un bar en Ingeniero White",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/08/01/un-futbolista-de-19-anos-fue-asesinado-de-un-disparo-en-el-cuello-a-la-salida-de-un-bar-en-ingeniero-white/",
+     "title": "Con Lionel Messi de suplente y De Paul como titular, Inter Miami recibe a Columbus Crew por la MLS",
+     "link": "https://www.infobae.com/deportes/2026/08/01/con-la-probable-reaparicion-de-lionel-messi-inter-miami-recibira-a-columbus-crew-por-la-mls/",
      "source": "Infobae",
-     "published": "2026-08-01T21:06:15+00:00",
-     "copete": "La víctima era jugador de un club local. Un sospechoso de 25 años fue detenido luego de intentar escapar en auto",
-     "id": "4cd1ec116bf1"
+     "published": "2026-08-01T23:11:44+00:00",
+     "copete": "El capitán de la selección argentina vuelve a participar de un partido oficial tras la final del Mundial y aguarda sumar minutos desde el banco. Transmite Apple TV",
+     "id": "f6bd33567358"
     },
     {
-     "title": "Un estudio contradice la teoría clásica sobre la depresión y el placer en las redes sociales",
-     "link": "https://www.infobae.com/salud/ciencia/2026/08/01/un-estudio-contradice-la-teoria-clasica-sobre-la-depresion-y-el-placer-en-las-redes-sociales/",
-     "source": "Infobae",
-     "published": "2026-08-01T21:04:02+00:00",
-     "copete": "Contra lo que décadas de investigación de laboratorio sugerían, usuarios con síntomas depresivos publican más después de recibir \"me gusta\", un patrón que se repitió en tres conjuntos de datos distintos",
-     "id": "2e4e3bb2a863"
-    },
-    {
-     "title": "Horror en Rafael Calzada: un chico de 12 años fue asesinado y su padre quedó detenido tras confesar el hecho",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/08/01/horror-en-rafael-calzada-un-chico-de-12-anos-fue-asesinado-y-su-padre-quedo-detenido-tras-confesar-el-hecho/",
-     "source": "Infobae",
-     "published": "2026-08-01T21:00:07+00:00",
-     "copete": "El menor fue hallado este sábado en una habitación de la vivienda familiar. Tenía golpes en el rostro",
-     "id": "bbe64ba15c54"
-    },
-    {
-     "title": "La Unión Europea convoca a una reunión de emergencia y España refuerza la frontera en Ceuta",
-     "link": "https://www.lanacion.com.ar/el-mundo/la-union-europea-convoca-a-una-reunion-de-emergencia-y-espana-refuerza-la-frontera-en-ceuta-nid01082026/",
+     "title": "El emotivo reencuentro de Paredes con Di María tras el Mundial: “Amigo mío”",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/el-emotivo-reencuentro-de-paredes-con-di-maria-tras-el-mundial-amigo-mio-nid01082026/",
      "source": "La Nación",
-     "published": "2026-08-01T20:56:46+00:00",
-     "copete": "El gobierno de Pedro Sánchez montó una barrera flotante en el punto de mayor flujo de migrantes a Ceuta; cuestionó la reacción “egoísta, polarizadora e ilegal” de otros miembros del bloque",
-     "id": "c0053e6ce417"
+     "published": "2026-08-01T23:09:36+00:00",
+     "copete": "El volante de Boca viajó a Rosario para el partido ante Newell’s del Torneo Clausura y compartió un momento con “Fideo”",
+     "id": "cb2804b15e81"
     },
     {
-     "title": "La recesión económica actual ya es la cuarta más larga de las nueve que sufrió la Argentina en los últimos 32 años",
-     "link": "https://www.infobae.com/economia/2026/08/01/la-recesion-economica-actual-ya-es-la-cuarta-mas-larga-de-las-nueve-que-sufrio-la-argentina-en-los-ultimos-32-anos/",
+     "title": "La pizza finita, crocante y jugosa de solo cuatro variedades que genera largas filas en Núñez",
+     "link": "https://www.lanacion.com.ar/que-sale/la-pizza-finita-crocante-y-jugosa-de-solo-cuatro-variedas-que-genera-largas-filas-en-nunez-nid01082026/",
+     "source": "La Nación",
+     "published": "2026-08-01T23:09:14+00:00",
+     "copete": "Se sirve por porción, sale en pocos minutos y combina masa liviana con ingredientes desarrollados especialmente; el local pasó de vender 600 a unas 1500 porciones",
+     "id": "38867f376c43"
+    },
+    {
+     "title": "El Colegio de Abogados de Guatemala expresa preocupación por la violencia tras el desalojo de Juana Santiago Chel, en Nebaj",
+     "link": "https://www.infobae.com/guatemala/2026/08/01/el-colegio-de-abogados-de-guatemala-expresa-preocupacion-por-la-violencia-tras-el-desalojo-de-juana-santiago-chel-en-nebaj/",
      "source": "Infobae",
-     "published": "2026-08-01T20:55:25+00:00",
-     "copete": "Según el Indicador de Actividad del Centro de Investigaciones del Ciclo Económico, en junio la economía se mantuvo por debajo de febrero de 2025, pero levemente por sobre diciembre. Cuánto duraron las recesiones ocurridas desde 1994 al…",
-     "id": "4e036c77440e"
+     "published": "2026-08-01T23:09:10+00:00",
+     "copete": "que no intervino en la planificación ni en la ejecución del procedimiento del 30 de julio, pero indaga posibles delitos ocurridos durante la diligencia y en los episodios posteriores",
+     "id": "a7a4a9526d80"
     },
     {
-     "title": "Un futbolista de 19 años fue asesinado de un disparo en el cuello en Ingeniero White",
-     "link": "https://www.lanacion.com.ar/seguridad/un-futbolista-de-19-anos-fue-asesinado-en-ingeniero-white-de-un-disparo-en-el-cuello-nid01082026/",
+     "title": "Horóscopo: Cómo será tu semana del 2 al 8 de agosto de 2026",
+     "link": "https://www.lanacion.com.ar/salud/vida_sana/horoscopo-como-sera-tu-semana-del-2-al-8-de-agosto-de-2026-nid01082026/",
      "source": "La Nación",
-     "published": "2026-08-01T20:52:55+00:00",
-     "copete": "La víctima fue identificada como Santiago Vega y se desempeñaba en las inferiores del club Puerto Comercial",
-     "id": "f9fcf2884511"
+     "published": "2026-08-01T23:06:00+00:00",
+     "id": "151fcf1779a8"
     },
     {
-     "title": "La muerte de Nirmal Purjal: Broad Peak, el gigante del Karakórum que desafía incluso a los alpinistas más experimentados",
-     "link": "https://www.lanacion.com.ar/sociedad/la-muerte-de-nirmal-purjal-broad-peak-el-gigante-del-karakorum-que-desafia-incluso-a-los-alpinistas-nid01082026/",
+     "title": "Estos son los 4 juegos gratis de Steam disponibles solo hasta el lunes 3 de agosto",
+     "link": "https://www.infobae.com/tecno/2026/08/01/estos-son-los-4-juegos-gratis-de-steam-disponibles-solo-hasta-el-lunes-3-de-agosto/",
+     "source": "Infobae",
+     "published": "2026-08-01T23:04:31+00:00",
+     "copete": "Luego de la fecha indicada, los juegos recuperan su precio habitual en la plataforma",
+     "id": "19a16a9f9100"
+    },
+    {
+     "title": "Una bomba explotó en un exclusivo restaurante de Moscú: se reportaron al menos tres muertos y 21 heridos",
+     "link": "https://www.lanacion.com.ar/el-mundo/una-bomba-exploto-en-un-exclusivo-restaurante-de-moscu-se-reportaron-al-menos-tres-muertos-y-21-nid01082026/",
      "source": "La Nación",
-     "published": "2026-08-01T20:51:52+00:00",
-     "copete": "Con la cima a los 8047 metros, es el duodécimo pico más alto del mundo; combina altitud extrema, cambios bruscos del clima y un historial de accidentes fatales",
-     "id": "dba98e2eba87"
+     "published": "2026-08-01T23:02:14+00:00",
+     "copete": "El artefacto explosivo casero fue detonado en el local italiano de lujo en el centro de la ciudad rusa; está situado en uno de los siete rascacielos de la época de Stalin",
+     "id": "b5a41a3c1249"
     },
     {
-     "title": "Enfermedad inflamatoria intestinal: las claves para mantener una buena calidad de vida",
-     "link": "https://www.clarin.com/informacion-general/enfermedad-inflamatoria-intestinal-claves-mantener-buena-calidad-vida_0_23GOKGFi0o.html",
+     "title": "Pilar Sordo, psicóloga: “La comparación es lo que te quita autenticidad”",
+     "link": "https://www.lanacion.com.ar/lifestyle/pilar-sordo-psicologa-la-comparacion-es-lo-que-te-quita-autenticidad-nid01082026/",
+     "source": "La Nación",
+     "published": "2026-08-01T23:00:00+00:00",
+     "copete": "La escritora chilena explicó que el deseo de aprobación social empuja a los individuos a seguir estándares ajenos, lo cual rompe la esencia personal",
+     "id": "b72e6732a394"
+    },
+    {
+     "title": "Los ingenieros no dan crédito: cómo es \"Túnel Profundo\", el sistema de depósitos subterráneos que tardó 50 años en construirse y previene inundaciones masivas",
+     "link": "https://www.clarin.com/estados-unidos/ingenieros-dan-credito-tunel-profundo-sistema-depositos-subterraneos-tardo-50-anos-construirse-previene-inundaciones-masivas_0_IhS45vioiL.html",
      "source": "Clarín",
-     "published": "2026-08-01T20:31:08+00:00",
-     "copete": "Los avances en el diagnóstico y los tratamientos permiten mejorar el control de la enfermedad de Crohn y la colitis ulcerosa. Qué síntomas deben tenerse en cuenta, por qué es importante el seguimiento médico y cuáles son los objetivos…",
-     "id": "a0976aee9efd"
+     "published": "2026-08-01T22:35:08+00:00",
+     "copete": "Recientes lluvias pusieron a prueba algunos de estos embalses. El sistema recoge aguas residuales y de lluvia.",
+     "id": "b65a42b359fb"
     },
     {
-     "title": "Tiene apenas 100 habitantes y nació hace 16 años: la comunidad de Córdoba que atrae a quienes buscan una vida sustentable",
-     "link": "https://www.clarin.com/informacion-general/apenas-100-habitantes-nacio-hace-16-anos-comunidad-cordoba-atrae-buscan-vida-sustentable_0_dXlrPkIyTe.html",
+     "title": "Racing perdió a dos titulares antes de jugar con Tigre: Santiago Sosa se va a Vasco da Gama y Baltasar Rodríguez quedó afuera por un conflicto",
+     "link": "https://www.clarin.com/deportes/racing-perdio-titulares-jugar-tigre-santiago-sosa-va-vasco-da-gama-baltasar-rodriguez-quedo-afuera-conflicto_0_6bpwy0sAnx.html",
      "source": "Clarín",
-     "published": "2026-08-01T20:31:07+00:00",
-     "copete": "Ubicada en el Valle de Calamuchita, esta eco aldea nació en 2010 y hoy reúne a un centenar de habitantes permanentes. Cómo es el modelo de vida basado en la sustentabilidad que también atrae a turistas interesados en el bienestar y la…",
-     "id": "0d7f392bf136"
+     "published": "2026-08-01T22:34:14+00:00",
+     "copete": "El volante fue desafectado de la formación horas antes del partido para evitar riesgos antes de cerrar su transferencia a Brasil. Baltasar Rodríguez no fue convocado tras ausentarse por diferencias con la dirigencia mientras negocia su…",
+     "id": "5266cfff8079"
     }
    ]
   },
@@ -383,44 +406,60 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Tourist plane crashes in Peru, killing 13",
-     "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+     "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+     "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-01T20:51:09+00:00",
-     "copete": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
-     "id": "947baee6e271"
+     "published": "2026-08-01T23:03:35+00:00",
+     "copete": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
+     "id": "9d8fd6f39a4e"
     },
     {
-     "title": "Three killed after woman detonates bomb at Moscow restaurant, state media say",
-     "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+     "title": "Russian ship defies sanctions to send military vehicles to Mali",
+     "link": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-01T20:39:16+00:00",
-     "copete": "Security officials said the female attacker tried to enter the restaurant but was stopped by a security guard.",
-     "id": "de5af23a6b21"
+     "published": "2026-08-01T23:03:23+00:00",
+     "copete": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show.",
+     "id": "d177225f52f9"
+    },
+    {
+     "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
+     "link": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-01T23:03:15+00:00",
+     "copete": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
+     "id": "bcb6a83b1705"
+    },
+    {
+     "title": "The Sopranos star Vincent Pastore dies aged 80",
+     "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-01T22:57:55+00:00",
+     "copete": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
+     "id": "723ac7e10b42"
+    },
+    {
+     "title": "Podcasts de true crime, la inusual estrategia que están usando policías en EE.UU. para esclarecer asesinatos y desapariciones",
+     "link": "https://www.bbc.com/mundo/articles/c04kqpd4v9po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-01T22:01:55+00:00",
+     "copete": "Cada vez más departamentos de policía intentan avanzar en la investigación de casos que llevan años sin resolver produciendo podcasts",
+     "id": "4fec37a7290e"
+    },
+    {
+     "title": "Al menos tres muertos en un ataque con bomba en céntrico restaurante de Moscú",
+     "link": "https://elpais.com/internacional/2026-08-01/varios-muertos-en-un-ataque-con-bomba-en-centrico-restaurante-de-moscu.html",
+     "source": "El País Internacional",
+     "published": "2026-08-01T21:33:04+00:00",
+     "copete": "Una veintena de personas han resultado heridas en la explosión, según el Comité Nacional Antiterrorista ruso",
+     "id": "d0096f240444"
     },
     {
      "title": "Al menos 13 turistas mueren en un accidente de avioneta sobre las Líneas de Nazca, en Perú",
      "link": "https://elpais.com/america/2026-08-01/al-menos-13-turistas-mueren-en-un-accidente-de-avioneta-sobre-las-lineas-de-nazca-en-peru.html",
      "source": "El País Internacional",
      "published": "2026-08-01T20:15:11+00:00",
-     "copete": "La avioneta transportaba 11 pasajeros y dos pilotos",
+     "copete": "Entre las víctimas están el piloto, una guía turística y 11 pasajeros extranjeros cuya nacionalidad aún no han sido confirmadas",
      "id": "7174aae701a3"
-    },
-    {
-     "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-     "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-01T20:09:27+00:00",
-     "copete": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta.",
-     "id": "8dcf962fed28"
-    },
-    {
-     "title": "Crowds line Amsterdam's canals for Pride boat parade",
-     "link": "https://www.bbc.co.uk/news/videos/cp3rqd9kp91o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-01T19:39:48+00:00",
-     "copete": "Costumed participants danced and waved from a colourful flotilla of 80 decorated vessels as they made their way through the city's waterways.",
-     "id": "6d89d23b7a13"
     },
     {
      "title": "Múltiples ciberataques en el sistema de aguas inquietan a EE UU por la posible participación de Irán",
@@ -445,22 +484,6 @@
      "published": "2026-08-01T14:38:41+00:00",
      "copete": "Las autoridades españolas han intentado normalizar la situación en la ciudad autónoma de Ceuta, ubicada en el norte de África.",
      "id": "8307c96dcf01"
-    },
-    {
-     "title": "España tacha de \"egoísta\" la respuesta de algunos países de la UE y pide unidad ante la crisis migratoria en Ceuta",
-     "link": "https://www.bbc.com/mundo/articles/ckgvl7qq190o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-01T13:15:55+00:00",
-     "copete": "Varios gobiernos europeos pidieron restringir los controles migratorios ante las \"impactantes\" escenas vividas en Ceuta esta semana. Las autoridades españolas dicen que la situación está controlada.",
-     "id": "5f78471a2e34"
-    },
-    {
-     "title": "Cómo un tornillo ayudó a EE.UU. a conquistar el mundo",
-     "link": "https://www.bbc.com/mundo/articles/c5y4vdwk401o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-01T12:57:07+00:00",
-     "copete": "A principios del siglo XX, muchas cosas no encajaban; unas décadas después, el mundo se ajustó a las medidas de Estados Unidos.",
-     "id": "9d8fad0f688a"
     }
    ]
   }
@@ -470,11 +493,6 @@
    "section": "cardiologia",
    "feed": "Cardiology Trials",
    "error": "HTTP Error 403: Forbidden"
-  },
-  {
-   "section": "cardiologia",
-   "feed": "Circulation (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "section": "cardiologia",

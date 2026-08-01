@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-01T10:13:07.897559+00:00",
+ "generated_at": "2026-08-01T11:37:32.334690+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -205,18 +205,32 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "AI doesn't generate working products, that's still your job",
+     "link": "https://weeraman.com/the-prototype-isnt-the-product/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-01T07:52:10+00:00",
+     "id": "3111de57b2e6"
+    },
+    {
+     "title": "Ten advances in mathematics and theoretical computer science",
+     "link": "https://openai.com/index/ten-advances-in-mathematics/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-01T07:37:44+00:00",
+     "id": "ff4ecb27326b"
+    },
+    {
+     "title": "Ten Ways NAS Is Getting Enshitified",
+     "link": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-01T05:38:16+00:00",
+     "id": "661d8ffc6525"
+    },
+    {
      "title": "Flint: A Visualization Language for the AI Era",
      "link": "https://microsoft.github.io/flint-chart/",
      "source": "Hacker News (100+ puntos)",
      "published": "2026-08-01T02:45:09+00:00",
      "id": "24b8b6659aa1"
-    },
-    {
-     "title": "How to Exist",
-     "link": "https://www.raptitude.com/2026/07/how-to-exist/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-01T00:25:00+00:00",
-     "id": "36742ce60e8d"
     },
     {
      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
@@ -241,20 +255,6 @@
      "published": "2026-07-31T23:03:47+00:00",
      "copete": "Release: llm-mcp-client 0.1a0 See this blog entry . Tags: llm , model-context-protocol",
      "id": "68f6ae739f85"
-    },
-    {
-     "title": "Golang proposal: container/: generic collection types",
-     "link": "https://github.com/golang/go/issues/80590",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-31T18:39:47+00:00",
-     "id": "140250113c52"
-    },
-    {
-     "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
-     "link": "https://servo.org/blog/2026/07/31/june-in-servo/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-07-31T18:17:52+00:00",
-     "id": "8102f0fb287f"
     },
     {
      "title": "What to consider when creating waterfall charts",
@@ -287,100 +287,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Se amaban con locura pero él la engañó con la mujer menos pensada y provocó un quiebre: “Estoy profundamente avergonzado y dolido por haberla lastimado”",
-     "link": "https://www.lanacion.com.ar/espectaculos/se-amaban-con-locura-pero-el-la-engano-con-la-mujer-menos-pensada-y-provoco-un-quiebre-estoy-nid31072026/",
+     "title": "Aseguran que Florencia Peña y Nicolás Occhiato no llegaron a un acuerdo y sigue el conflicto económico",
+     "link": "https://www.lanacion.com.ar/espectaculos/aseguran-que-florencia-pena-y-nicolas-occhiato-no-llegaron-a-un-acuerdo-y-sigue-el-conflicto-nid01082026/",
      "source": "La Nación",
-     "published": "2026-08-01T10:10:37+00:00",
-     "copete": "El compromiso de Sienna Miller y Jude Law duró poco; de los paparazzi a una boda que nunca llegó a concretarse; por qué se desmoronó todo en segundos",
-     "id": "d92bb37d6a55"
+     "published": "2026-08-01T11:36:07+00:00",
+     "copete": "Luego de que trascendiera que la conductora y el creador de Luzu TV pactaron en secreto, aparentemente hubo una marcha atrás y la disputa continuaría vigente",
+     "id": "152ece8247e6"
     },
     {
-     "title": "Desafían todos los límites con la construcción de El Mukaab, el edificio más grande del mundo en el que entraría 20 veces el Empire State",
-     "link": "https://www.lanacion.com.ar/el-mundo/desafian-todos-los-limites-con-la-construccion-de-el-mukaab-el-edificio-mas-grande-del-mundo-en-el-nid31072026/",
-     "source": "La Nación",
-     "published": "2026-08-01T10:09:46+00:00",
-     "copete": "Arabia Saudita impulsa una de las obras arquitectónicas más ambiciosas de la historia para diversificar su economía; la estructura, proyectada en Riad, busca redefinir la escala de los desarrollos urbanos globales",
-     "id": "d7db8eff5e14"
-    },
-    {
-     "title": "Yasmin Bellani, psicogerontóloga: “Cuidar la memoria no consiste solo en hacer crucigramas o sopas de letras”",
-     "link": "https://www.lanacion.com.ar/lifestyle/yasmin-bellani-psicogerontologa-cuidar-la-memoria-no-consiste-solo-en-hacer-crucigramas-o-sopas-de-nid31072026/",
-     "source": "La Nación",
-     "published": "2026-08-01T10:09:32+00:00",
-     "copete": "La especialista explicó cómo distinguir los olvidos normales del envejecimiento de un posible deterioro cognitivo, cuáles son los hábitos que realmente ayudan a preservar la memoria y de qué manera las familias pueden acompañar a los…",
-     "id": "590a1fbc462f"
-    },
-    {
-     "title": "Mónica Marí, encargada de una estación de servicio: “Muchos conductores creen que el combustible más caro es mejor, pero no siempre es así”",
-     "link": "https://www.lanacion.com.ar/lifestyle/monica-mari-encargada-de-una-estacion-de-servicio-muchos-conductores-creen-que-el-combustible-mas-nid31072026/",
-     "source": "La Nación",
-     "published": "2026-08-01T10:07:36+00:00",
-     "copete": "Con años de experiencia en el rubro, desmintió algunos de los mitos más extendidos sobre los combustibles premium y dio recomendaciones para los conductores",
-     "id": "5b25d4650d99"
-    },
-    {
-     "title": "El descargo de Mauro Icardi luego de que una jueza italiana autorizara a sus hijas a volver a Argentina sin su firma",
-     "link": "https://www.lanacion.com.ar/espectaculos/el-descargo-de-mauro-icardi-luego-de-que-una-jueza-italiana-autorizara-a-sus-hijas-a-volver-a-nid31072026/",
-     "source": "La Nación",
-     "published": "2026-08-01T10:04:47+00:00",
-     "copete": "El futbolista compartió un mensaje en redes sociales que no pasó inadvertido para los usuarios y acusó a Wanda Nara de algunas de las situaciones que las menores atravesaron durante este tiempo",
-     "id": "11a5780602bc"
-    },
-    {
-     "title": "Caos por el temporal en Buenos Aires: reportaron inundaciones, vuelos demorados, cortes de energía y destrozos",
-     "link": "https://www.infobae.com/sociedad/2026/08/01/caos-por-el-temporal-en-buenos-aires-reportaron-inundaciones-vuelos-demorados-cortes-de-energia-y-destrozos/",
+     "title": "UEFA celebró la decisión de Infantino de dar de baja el FIFA Forward Enterprise, pero redobló la apuesta: “Debemos identificar a los responsables”",
+     "link": "https://www.infobae.com/deportes/2026/08/01/uefa-celebro-la-decision-de-infantino-de-dar-de-baja-el-fifa-forward-enterprise-pero-redoblo-la-apuesta-debemos-identificar-a-los-responsables/",
      "source": "Infobae",
-     "published": "2026-08-01T09:58:32+00:00",
-     "copete": "En el pico de la tormenta, más de 60 mil usuarios se quedaron sin servicio eléctrico. Además de los destrozos y calles anegadas, las condiciones climáticas afectaron el desarrollo normal en los aeropuertos",
-     "id": "8c08be6a4469"
+     "published": "2026-08-01T11:30:42+00:00",
+     "copete": "Desde el fútbol europeo pidieron que “rindan cuentas” los promotores del proyecto y aseguraron que la directiva de la FIFA “ha perdido la confianza de la UEFA”",
+     "id": "4d6074abee02"
     },
     {
-     "title": "Ethereum: este es el precio de la criptomoneda este 1 de agosto",
-     "link": "https://www.infobae.com/noticias/2026/08/01/ethereum-este-es-el-precio-de-la-criptomoneda-este-1-de-agosto/",
-     "source": "Infobae",
-     "published": "2026-08-01T09:45:33+00:00",
-     "copete": "Ethereum fue lanzada en 2015 por el programador Vitalik Buterin, con la intención de impulsar un instrumento para aplicaciones descentralizadas y colaborativas",
-     "id": "8c74dfa0504b"
+     "title": "Verónica Cruz Santos, oficial latina en EE.UU.: “Mi familia siempre tuvo la postura de que los policías son malos”",
+     "link": "https://www.lanacion.com.ar/estados-unidos/carolina-del-norte/veronica-cruz-santos-oficial-latina-en-eeuu-mi-familia-siempre-tuvo-la-postura-de-que-los-policias-nid01082026/",
+     "source": "La Nación",
+     "published": "2026-08-01T11:29:00+00:00",
+     "copete": "Conoce la historia de Verónica Cruz Santos, la oficial de policía latina en Carolina del Norte reconocida por acercar a la comunidad migrante de Charlotte.",
+     "id": "d299f45701cf"
     },
     {
-     "title": "Este es el precio de la criptomoneda bitcoin este 1 de agosto",
-     "link": "https://www.infobae.com/noticias/2026/08/01/este-es-el-precio-de-la-criptomoneda-bitcoin-este-1-de-agosto/",
-     "source": "Infobae",
-     "published": "2026-08-01T09:16:22+00:00",
-     "copete": "El bitcoin ha sentado las bases para la creación de muchas de las criptodivisas existentes en el mercado y ha marcado un momento crucial para las soluciones de pago digital",
-     "id": "e1daa16cbedc"
+     "title": "España instala una barrera en la frontera de Ceuta con Marruecos y ya son 67 los muertos",
+     "link": "https://www.lanacion.com.ar/el-mundo/espana-instala-una-barrera-en-la-frontera-de-ceuta-con-marruecos-y-ya-son-67-los-muertos-nid01082026/",
+     "source": "La Nación",
+     "published": "2026-08-01T11:22:02+00:00",
+     "copete": "La estructura de protección tiene 500 metros de longitud y un metro de profundidad; el gobierno de Sánchez asegura que 48.000 personas ya fueron devueltas a sus países",
+     "id": "c7834aa6a310"
     },
     {
-     "title": "¿Cuál es la temperatura promedio en Dallas?",
-     "link": "https://www.infobae.com/noticias/2026/08/01/cual-es-la-temperatura-promedio-en-dallas/",
+     "title": "Tormenta en el AMBA: alerta naranja, fuerte actividad eléctrica, calles inundadas y caída de granizo",
+     "link": "https://www.lanacion.com.ar/sociedad/tormentas-viento-zonda-y-nevadas-las-provincias-bajo-alerta-del-smn-este-viernes-y-el-pronostico-nid31072026/",
+     "source": "La Nación",
+     "published": "2026-08-01T11:20:39+00:00",
+     "copete": "El Servicio Meteorológico Nacional indicó que cayeron más de 70 milímetros acumulados de agua en menos de dos horas; se registraron cortes de luz y demoras y cancelaciones en aeropuertos",
+     "id": "89fade5a8d19"
+    },
+    {
+     "title": "¿Cómo estará el clima en Ciudad de Guatemala?",
+     "link": "https://www.infobae.com/noticias/2026/08/01/como-estara-el-clima-en-ciudad-de-guatemala/",
      "source": "Infobae",
-     "published": "2026-08-01T09:16:03+00:00",
+     "published": "2026-08-01T11:17:29+00:00",
+     "copete": "Para evitar cualquier imprevisto es importante conocer el pronóstico del tiempo",
+     "id": "15413c2b84f4"
+    },
+    {
+     "title": "Predicción del clima: estas son las temperaturas en Los Ángeles",
+     "link": "https://www.infobae.com/noticias/2026/08/01/prediccion-del-clima-estas-son-las-temperaturas-en-los-angeles/",
+     "source": "Infobae",
+     "published": "2026-08-01T11:17:10+00:00",
      "copete": "Los fenómenos meteorológicos y análisis de probabilidad permiten dar información sobre la temperatura, lluvias y vientos para las próximas horas",
-     "id": "66100c6185e2"
+     "id": "72ed79077c93"
     },
     {
-     "title": "Prepárase antes de salir: Este es el pronóstico del clima en Houston este sábado",
-     "link": "https://www.infobae.com/noticias/2026/08/01/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-houston-este-sabado/",
+     "title": "Antofagasta: calidad del aire este 1 de agosto de 2026",
+     "link": "https://www.infobae.com/noticias/2026/08/01/antofagasta-calidad-del-aire-este-1-de-agosto-de-2026/",
      "source": "Infobae",
-     "published": "2026-08-01T09:15:41+00:00",
-     "copete": "Los fenómenos meteorológicos y análisis de probabilidad permiten dar información sobre la temperatura, lluvias y vientos para las próximas horas",
-     "id": "e2130e63aa0a"
+     "published": "2026-08-01T11:16:52+00:00",
+     "copete": "El Sistema de Información Nacional de Calidad del Aire (Sinca) considera cinco etapas: bueno, regular, alerta, pre-emergencia y emergencia",
+     "id": "293cdc9a2b96"
     },
     {
-     "title": "La urbanista que incomoda al poder y denuncia “la ficción” de lo público",
-     "link": "https://www.clarin.com/arq/urbano/urbanista-incomoda-poder-denuncia-ficcion-publico_0_wmJLXMu3q6.html",
-     "source": "Clarín",
-     "published": "2026-08-01T08:56:59+00:00",
-     "copete": "Itziar González Virós fue amenazada y tuvo que exiliarse por revelar la corrupción en el Palacio de la Música de Barcelona. La arquitecta y activista catalana asume su militancia social y reivindica el trabajo comunitario.",
-     "id": "4b7fd2af18bf"
+     "title": "Coronel Norte: calidad del aire este 1 de agosto de 2026",
+     "link": "https://www.infobae.com/noticias/2026/08/01/coronel-norte-calidad-del-aire-este-1-de-agosto-de-2026/",
+     "source": "Infobae",
+     "published": "2026-08-01T11:16:35+00:00",
+     "copete": "Estas son las medidas que se aplican para el actual estado de la calidad del aire",
+     "id": "f25540d2c449"
     },
     {
-     "title": "Confirmado | A partir del 3 de agosto, Texas dará hasta 5 millones en créditos fiscales y subvenciones: quiénes son elegibles",
-     "link": "https://www.clarin.com/estados-unidos/confirmado-partir-3-agosto-texas-dara-5-millones-creditos-fiscales-subvenciones-elegibles_0_pab83KVf2E.html",
+     "title": "Efemérides del 1° de agosto: ¿qué pasó un día como hoy?",
+     "link": "https://www.lanacion.com.ar/lifestyle/efemerides-del-1-de-agosto-que-paso-un-dia-como-hoy-nid01082026/",
+     "source": "La Nación",
+     "published": "2026-08-01T11:16:21+00:00",
+     "copete": "Este sábado es el Día de la Pachamama o de la Madre Tierra, entre otros eventos y aniversarios asociados a la fecha",
+     "id": "8307d5bae7ff"
+    },
+    {
+     "title": "Ethereum hoy: cotización y precio del ETH este sábado 1 de agosto de 2026",
+     "link": "https://www.clarin.com/economia/ethereum-hoy-cotizacion-y-precio-del-eth-este-sabado-1-de-agosto-de-2026_0_13HckaSW6c.html",
      "source": "Clarín",
-     "published": "2026-08-01T08:10:58+00:00",
-     "copete": "La Oficina del Contralor confirmó los plazos y requisitos de las postulaciones.",
-     "id": "dbb0ed1b297d"
+     "published": "2026-08-01T10:30:02+00:00",
+     "copete": "El valor actualizado de la segunda criptomoneda más importante por capitalización. Origen e historia de Ethereum.",
+     "id": "d448adae01c1"
+    },
+    {
+     "title": "Real hoy: precio y a cuánto cotiza este sábado 1 de agosto de 2026",
+     "link": "https://www.clarin.com/economia/real-hoy-precio-y-a-cuanto-cotiza-este-sabado-1-de-agosto-de-2026_0_oOiJwMSzoi.html",
+     "source": "Clarín",
+     "published": "2026-08-01T10:25:04+00:00",
+     "copete": "Conocé la variación del real para la compra y venta. La cotización de la divisa de Brasil según el Banco Nación.",
+     "id": "422cf9412ebe"
     }
    ]
   },
@@ -390,12 +390,28 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+     "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-01T11:00:05+00:00",
+     "copete": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+     "id": "e1980fe0915a"
+    },
+    {
      "title": "Infantino on the brink? Who might replace him if he goes?",
      "link": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-08-01T10:02:43+00:00",
      "copete": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
      "id": "732c7c0f5bf2"
+    },
+    {
+     "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-01T09:51:05+00:00",
+     "copete": "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago.",
+     "id": "ced530318b9b"
     },
     {
      "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
@@ -412,22 +428,6 @@
      "published": "2026-08-01T07:59:30+00:00",
      "copete": "El bombardeo, con misiles balísticos, se produce en un momento en el que Ucrania denuncia la escasez de sistemas de defensa aérea",
      "id": "becdd693771a"
-    },
-    {
-     "title": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
-     "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-01T07:22:30+00:00",
-     "copete": "Poor weather has been hampering the search for seven still missing after Thursday's avalanche on Broad Peak.",
-     "id": "45cd353ca380"
-    },
-    {
-     "title": "Fifa scraps controversial World Cup investment plan",
-     "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-01T05:42:31+00:00",
-     "copete": "Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
-     "id": "119215f2d960"
     },
     {
      "title": "Más de 100 días sin agua: la crisis que golpea a miles en Puerto Rico, además de los apagones",

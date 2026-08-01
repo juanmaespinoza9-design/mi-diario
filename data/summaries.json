@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T10:04:10Z",
+  "generated_at": "2026-08-01T21:20:00Z",
   "summaries": {
     "47df4642c1c1": {
       "resumen": "Resumen mensual de TCTMD (sitio especializado en cardiología intervencionista) con las diez notas más leídas por sus lectores en julio de 2026. Sirve como termómetro rápido de qué temas de intervencionismo cardiovascular están generando más interés en la comunidad médica este mes.",
@@ -26,22 +26,6 @@
       "resumen": "Revisión del European Heart Journal (EHJ) sobre la evolución del conocimiento en biología vascular y los mecanismos moleculares recientemente descubiertos que abrirían la puerta a nuevos blancos terapéuticos. El contenido capturado remite solo a la leyenda de una figura, por lo que parece tratarse de un elemento gráfico o de portada más que del texto completo; de todos modos, sirve como disparador para seguir la actualización en fisiopatología vascular en la fuente original.",
       "destacado": false
     },
-    "32fd60636e2b": {
-      "resumen": "Nota técnica que analiza cómo, pese a tener implementado Tailscale (una red privada tipo mesh VPN), Hugging Face —la plataforma más usada para alojar y compartir modelos de inteligencia artificial (IA)— sufrió una intrusión de todos modos. Aporta una lección de seguridad informática relevante para cualquiera que empiece a manejar infraestructura de datos o modelos en la nube.",
-      "destacado": false
-    },
-    "d240dedf1510": {
-      "resumen": "Hilo de la comunidad r/datascience con recomendaciones sobre qué tener en cuenta al construir gráficos de cascada (waterfall charts), un tipo de visualización que muestra cómo distintos factores suman o restan hasta llegar a un valor final. Útil para quien está aprendiendo a comunicar datos clínicos o de gestión de forma visual.",
-      "destacado": false
-    },
-    "b429625f6f83": {
-      "resumen": "Artículo de Towards Data Science que cuenta cómo migrar a una arquitectura multiagente (varios modelos de inteligencia artificial coordinados entre sí) triplicó sin querer el gasto en tokens (las unidades con las que se cobra el uso de estos modelos), y qué cambios permitieron bajar ese costo. Es una lección práctica valiosa para quien recién empieza a experimentar con IA y necesita anticipar estos gastos.",
-      "destacado": true
-    },
-    "121fd246cb4c": {
-      "resumen": "Ensayo de Towards Data Science que imagina un escenario a futuro donde la gerencia intermedia de las empresas es reemplazada por sistemas de inteligencia artificial (IA) coordinados de forma descentralizada (\"agentic loops\"). Sirve como disparador de reflexión sobre hacia dónde puede evolucionar la automatización con IA en cualquier organización, incluida la salud.",
-      "destacado": false
-    },
     "642eeb0a1912": {
       "resumen": "Nota de TCTMD (sitio especializado en cardiología intervencionista) sobre un segmento de revisión de casos clínicos en tiempo real, donde especialistas discuten en vivo las decisiones de manejo frente a un caso complejo. Sirve para ver cómo razona un operador experimentado más allá de lo que queda registrado en la ficha final.",
       "destacado": false
@@ -58,14 +42,6 @@
       "resumen": "Caso clínico de TCTMD sobre una obstrucción inesperada del tracto de salida del ventrículo izquierdo (LVOTO, left ventricular outflow tract obstruction) tras un reemplazo valvular mitral por catéter (TMVR, transcatheter mitral valve replacement). Es una de las complicaciones más temidas de este procedimiento, y vale la pena repasar cómo se sospecha y se resuelve.",
       "destacado": false
     },
-    "1a2a3af209a3": {
-      "resumen": "Nota de Hacker News sobre la polémica por publicidad de la película Spider-Man mostrada en las pantallas de los autos BMW, un ejemplo de cómo las automotrices empiezan a monetizar los datos y las pantallas de los vehículos conectados. Le sirve a quien mira análisis de datos porque expone el lado incómodo de la recolección y el uso comercial de datos de producto.",
-      "destacado": false
-    },
-    "36742ce60e8d": {
-      "resumen": "Ensayo personal publicado en Raptitude y destacado en Hacker News sobre cómo simplificar la relación con el propio tiempo y las obligaciones cotidianas. No es contenido técnico, pero aporta una pausa reflexiva útil para quien combina la residencia médica con el aprendizaje de una disciplina nueva como el análisis de datos.",
-      "destacado": false
-    },
     "49a3b4c1ef7d": {
       "resumen": "Simon Willison (desarrollador y referente en inteligencia artificial) comenta el lanzamiento de DeepSeek-V4-Flash, un modelo de lenguaje de código abierto de 304 mil millones de parámetros con capacidades agénticas (de ejecutar tareas de forma autónoma) mejoradas. Le sirve a un médico que aprende análisis de datos porque muestra que los modelos abiertos, más baratos de correr, ya compiten de cerca con los comerciales.",
       "destacado": false
@@ -74,22 +50,46 @@
       "resumen": "Simon Willison analiza el pasaje a \"MCP sin estado\" (stateless), la actualización más importante del Protocolo de Contexto de Modelo (MCP, Model Context Protocol) desde su lanzamiento, el estándar que conecta modelos de inteligencia artificial con herramientas y fuentes de datos externas. Interesa porque simplifica la forma en que cualquier usuario, no solo programadores, puede enchufar sus propios datos a un asistente de IA.",
       "destacado": false
     },
-    "68f6ae739f85": {
-      "resumen": "Simon Willison lanza llm-mcp-client, una herramienta que permite que su línea de comandos \"llm\" se conecte a servidores del Protocolo de Contexto de Modelo (MCP). Es un ejemplo concreto de cómo integrar fuentes de datos propias a un asistente de inteligencia artificial de forma sencilla, sin depender de una plataforma cerrada.",
+    "e2f861af9767": {
+      "resumen": "Repaso de Simon Willison (desarrollador y referente en inteligencia artificial) sobre diez avances recientes en matemática y ciencias de la computación teórica, incluyendo el caso de Anthropic usando su modelo Claude para detectar debilidades criptográficas. Sirve para ver, con ejemplos concretos, cómo la inteligencia artificial ya empieza a acelerar el descubrimiento científico en áreas muy formales.",
       "destacado": false
     },
-    "6604d322a0c5": {
-      "resumen": "Publicación en Hacker News de un desarrollador independiente que construyó un navegador web desde cero y logró que pase el test Acid3, un examen clásico y exigente de cumplimiento de estándares web. Muestra el valor de entender los fundamentos al construir herramientas propias, una lógica trasladable a quien arma sus propios pipelines de análisis de datos en vez de depender solo de librerías cerradas.",
+    "a408ae343b81": {
+      "resumen": "Columna de opinión que sostiene que Google News quedó relegado y ya no es prioridad estratégica para Google, a medida que la búsqueda con inteligencia artificial reemplaza el modelo clásico de enlaces a medios. Le interesa a quien analiza datos porque ilustra cómo un cambio de algoritmo de una sola empresa puede reconfigurar de golpe el acceso a la información de millones de usuarios.",
       "destacado": false
     },
-    "6e99397f5ca2": {
-      "resumen": "Los Pumas salieron a la cancha con una camiseta que evoca a la selección de México '86, en guiño a Diego Maradona, para el partido ante Inglaterra."
+    "f7ce8c5defc3": {
+      "resumen": "Artículo de 2023 (resurgido ahora) que reconstruye cómo distintas decisiones de Google, incluido el cierre de Google Reader, contribuyeron a la caída en el uso de los feeds RSS (Really Simple Syndication, un formato para suscribirse a actualizaciones de sitios web). Aporta contexto histórico sobre cómo el diseño de plataformas moldea qué canales de información sobreviven y cuáles se abandonan.",
+      "destacado": false
     },
-    "12d6658ae03e": {
-      "resumen": "Un ex Puma se lamentó de que el seleccionado no le haya rendido homenaje a Maradona en su momento y admitió que hoy, con el diario del lunes, lo pensarían distinto."
+    "bc4ec80770d1": {
+      "resumen": "Anuncio del lanzamiento de NetBSD 11.0, una nueva versión de este sistema operativo de código abierto de la familia BSD. Es un dato de nicho para infraestructura, pero recuerda que buena parte de las herramientas que sostienen el análisis de datos corren sobre sistemas abiertos mantenidos por comunidades voluntarias.",
+      "destacado": false
     },
-    "444638d6db1b": {
-      "resumen": "Sudáfrica confirmó el plantel de los Springboks que enfrentará a Los Pumas."
+    "84a38888a7b9": {
+      "resumen": "Directorio personal que reúne enlaces a gente que sigue usando y defendiendo los feeds RSS como forma de informarse sin depender de algoritmos de redes sociales. Es un recordatorio simple de que existen alternativas para armar el propio flujo de información curado, algo útil para quien quiere organizar sus fuentes de estudio y noticias médicas o técnicas.",
+      "destacado": false
+    },
+    "a8ce7fdb5459": {
+      "resumen": "Artículo de Towards Data Science que argumenta que los agentes de inteligencia artificial dedicados a programar no rinden mejor por tener ventanas de contexto más grandes, sino que necesitan un \"compilador de contexto\" que seleccione y organice solo la información relevante antes de dársela al modelo. Le sirve a un médico que aprende análisis de datos porque el mismo principio aplica a cualquier uso de modelos de lenguaje: dar menos información, pero mejor curada, suele mejorar los resultados.",
+      "destacado": true
+    },
+    "c7ca3aaaee83": {
+      "resumen": "Resumen semanal de KDnuggets (sitio de referencia en ciencia de datos) con una guía para principiantes sobre Claude Design, una selección de herramientas de inteligencia artificial (IA) para análisis de datos, libros recomendados sobre grandes modelos de lenguaje (LLM, large language models) y una reseña de la herramienta KimiClaw. Es un buen punto de entrada semanal para quien recién arranca a formarse en ciencia de datos e IA.",
+      "destacado": false
+    },
+    "a4bf23f42cde": {
+      "resumen": "Artículo de Towards Data Science que describe un patrón híbrido para aplicaciones con grandes modelos de lenguaje (LLM): combinar un flujo de trabajo predefinido y predecible con tramos de comportamiento agéntico adaptativo donde realmente se necesita flexibilidad. Aporta una guía práctica para quien quiere automatizar tareas de análisis de datos sin perder el control ni la trazabilidad del proceso.",
+      "destacado": false
+    },
+    "0b1c1cefb918": {
+      "resumen": "Se conoció el cronograma de la temporada 2026-2027 del Circuito Mundial de Seven, el certamen internacional de rugby seven que reúne a las principales selecciones del mundo."
+    },
+    "81ec937364ee": {
+      "resumen": "El entrenador de Los Pumas Justo Piccardo se refirió a la posibilidad de que Domingo Miotti opte por jugar para Italia en lugar de para el seleccionado argentino, y aclaró que la decisión final le corresponde al jugador."
+    },
+    "38aca14bc855": {
+      "resumen": "El exjugador de Los Pumas Tomás Cubelli habló sobre la falta de un homenaje del seleccionado a Diego Maradona y sobre las críticas que recibió el equipo por esa ausencia."
     }
   }
 }

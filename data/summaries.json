@@ -1,25 +1,8 @@
 {
-  "generated_at": "2026-07-31T22:04:45Z",
+  "generated_at": "2026-08-01T10:04:10Z",
   "summaries": {
     "47df4642c1c1": {
       "resumen": "Resumen mensual de TCTMD (sitio especializado en cardiología intervencionista) con las diez notas más leídas por sus lectores en julio de 2026. Sirve como termómetro rápido de qué temas de intervencionismo cardiovascular están generando más interés en la comunidad médica este mes.",
-      "destacado": false
-    },
-    "3a32b3c7915e": {
-      "resumen": "Cobertura de TCTMD (fuente especializada en cardiología intervencionista) sobre un estudio que encontró que los niveles de lipoproteína(a) [Lp(a)] interactúan con las hormonas sexuales para modular el riesgo de tromboembolismo venoso (TEV). Vale la pena mirarlo porque la Lp(a) viene ganando protagonismo como factor de riesgo cardiovascular independiente, y esta interacción hormonal podría implicar un manejo distinto según sexo y estado hormonal.",
-      "destacado": false,
-      "analisis": "Diseño: Nota periodística de TCTMD que resume un estudio, probablemente observacional, sobre la interacción entre la lipoproteína(a) [Lp(a)] y las hormonas sexuales; sin acceso al artículo original no se puede precisar el diseño exacto, el número de centros ni de pacientes.\nPoblación: Según el título, población en la que se midió Lp(a) junto con el estado hormonal, con foco aparente en mujeres dado el eje hormonal de la nota.\nIntervención: No aplica una intervención terapéutica; se trata de un estudio observacional que analiza la asociación entre Lp(a), hormonas sexuales y riesgo de tromboembolismo venoso (TEV).\nResultados: No disponibles por falta de acceso al artículo original.\nLimitaciones: Al ser un estudio observacional, la asociación no implica causalidad, y sin el texto completo no se puede evaluar el ajuste por confundidores hormonales ni el tamaño muestral.\nMensaje: Sugiere que la Lp(a) podría no comportarse igual como factor de riesgo trombótico según el contexto hormonal del paciente, lo que abriría la puerta a una estratificación de riesgo más personalizada, en particular en mujeres.\nNota: análisis sin acceso al abstract."
-    },
-    "9a845077f72a": {
-      "resumen": "Nota de TCTMD sobre técnicas de rescate (bailout) ante complicaciones del acceso vascular bifemoral durante procedimientos endovasculares. Sirve como guía práctica rápida para el operador de hemodinamia frente a un sangrado o una disección en el sitio de punción.",
-      "destacado": false
-    },
-    "ba5a2c7cdb01": {
-      "resumen": "Cobertura de TCTMD sobre cómo decidir entre tratar activamente o solo observar las perforaciones y disecciones vasculares que aparecen durante una intervención periférica. Interesa porque ayuda a calibrar el umbral de intervención frente a estas complicaciones frecuentes en la sala de hemodinamia.",
-      "destacado": false
-    },
-    "52e93e76858e": {
-      "resumen": "Serie especial de TCTMD sobre la carga global de la enfermedad cardíaca reumática (RHD, rheumatic heart disease), una secuela crónica de la fiebre reumática que sigue afectando sobre todo a países de bajos y medianos ingresos. Interesa porque es una patología poco frecuente en la práctica diaria de países desarrollados, pero relevante para dimensionar la carga sanitaria global y las inequidades en el acceso a diagnóstico y tratamiento.",
       "destacado": false
     },
     "896f1b64c954": {
@@ -43,20 +26,8 @@
       "resumen": "Revisión del European Heart Journal (EHJ) sobre la evolución del conocimiento en biología vascular y los mecanismos moleculares recientemente descubiertos que abrirían la puerta a nuevos blancos terapéuticos. El contenido capturado remite solo a la leyenda de una figura, por lo que parece tratarse de un elemento gráfico o de portada más que del texto completo; de todos modos, sirve como disparador para seguir la actualización en fisiopatología vascular en la fuente original.",
       "destacado": false
     },
-    "1310d77c864b": {
-      "resumen": "El desarrollador Simon Willison presenta smevals, un conjunto pequeño de evaluaciones (evals) para medir el desempeño de modelos de inteligencia artificial (IA), prompts (instrucciones de entrada) y harnesses (los sistemas que orquestan el uso de esos modelos). Le sirve a quien está aprendiendo análisis de datos porque muestra cómo testear de forma sistemática una herramienta de IA antes de confiar en sus resultados.",
-      "destacado": false
-    },
     "32fd60636e2b": {
       "resumen": "Nota técnica que analiza cómo, pese a tener implementado Tailscale (una red privada tipo mesh VPN), Hugging Face —la plataforma más usada para alojar y compartir modelos de inteligencia artificial (IA)— sufrió una intrusión de todos modos. Aporta una lección de seguridad informática relevante para cualquiera que empiece a manejar infraestructura de datos o modelos en la nube.",
-      "destacado": false
-    },
-    "705694bbd6ee": {
-      "resumen": "Proyecto de código abierto llamado \"qm\", publicado en GitHub y destacado en Hacker News, cuyo contenido específico no se puede precisar solo a partir del título. Se incluye como referencia por la repercusión que tuvo en la comunidad técnica, aunque conviene revisar el repositorio original antes de sacar conclusiones.",
-      "destacado": false
-    },
-    "e0fc714efc92": {
-      "resumen": "Publicación de lcamtuf (Michał Zalewski, reconocido investigador de seguridad informática) titulada \"Severance\", cuyo contenido puntual no puede precisarse solo a partir del título. Se incluye por la relevancia técnica habitual del autor dentro de la comunidad de Hacker News.",
       "destacado": false
     },
     "d240dedf1510": {
@@ -67,30 +38,58 @@
       "resumen": "Artículo de Towards Data Science que cuenta cómo migrar a una arquitectura multiagente (varios modelos de inteligencia artificial coordinados entre sí) triplicó sin querer el gasto en tokens (las unidades con las que se cobra el uso de estos modelos), y qué cambios permitieron bajar ese costo. Es una lección práctica valiosa para quien recién empieza a experimentar con IA y necesita anticipar estos gastos.",
       "destacado": true
     },
-    "83404b811544": {
-      "resumen": "Investigación de Lighthouse Reports (vía Hacker News) sobre las estrategias de la industria alimentaria (\"Big Food\") para influir en políticas públicas de nutrición. Aunque se aleja del análisis de datos técnico, aporta contexto sobre cómo los grandes intereses económicos usan datos y lobby para moldear la salud pública, un tema cercano a la práctica médica.",
-      "destacado": false
-    },
     "121fd246cb4c": {
       "resumen": "Ensayo de Towards Data Science que imagina un escenario a futuro donde la gerencia intermedia de las empresas es reemplazada por sistemas de inteligencia artificial (IA) coordinados de forma descentralizada (\"agentic loops\"). Sirve como disparador de reflexión sobre hacia dónde puede evolucionar la automatización con IA en cualquier organización, incluida la salud.",
       "destacado": false
     },
-    "bbe5ba1433a3": {
-      "resumen": "Tutorial de KDnuggets que desglosa los componentes reales de un agente de inteligencia artificial (IA) controlado por voz: reconocimiento de habla en tiempo real, detección de turnos de conversación, generación de respuesta en streaming (transmisión continua), manejo de interrupciones y uso de herramientas. Útil para entender la arquitectura técnica detrás de asistentes de voz, cada vez más presentes en aplicaciones de salud.",
+    "642eeb0a1912": {
+      "resumen": "Nota de TCTMD (sitio especializado en cardiología intervencionista) sobre un segmento de revisión de casos clínicos en tiempo real, donde especialistas discuten en vivo las decisiones de manejo frente a un caso complejo. Sirve para ver cómo razona un operador experimentado más allá de lo que queda registrado en la ficha final.",
       "destacado": false
     },
-    "65d3209cb14b": {
-      "resumen": "Tutorial práctico de Towards Data Science sobre cómo depurar (debuggear) agentes de inteligencia artificial (IA) que programan código cuando modifican algo que no debían: registrar los pedidos al modelo, los resultados reales, los parches aplicados, las verificaciones y capturas de pantalla. Aporta un método ordenado para auditar el trabajo de estas herramientas, cada vez más usadas incluso por quienes no son programadores profesionales.",
+    "3cd763b9d555": {
+      "resumen": "Artículo de TCTMD sobre las implicancias legales de las reuniones de morbimortalidad (M&M), el espacio donde los equipos de salud revisan casos con malos resultados. Repasa qué comentarios y documentación quedan protegidos ante un eventual litigio y cuáles no, un tema relevante para cualquier médico que participa de estos ateneos.",
       "destacado": false
     },
-    "fe92f347ea88": {
-      "resumen": "El jugador de Los Pumas Justo Piccardo se ilusiona con pelear el título del Mundial de rugby en Australia 2027 y asegura que el plantel se siente capaz de lograrlo."
+    "4cd3c804c5b9": {
+      "resumen": "Caso clínico de TCTMD sobre el manejo de una fuga perivalvular mitral compleja, es decir, una pérdida de sangre por el borde de una válvula protésica ya implantada. Interesa porque estas fugas son una complicación temida de los reemplazos valvulares y su cierre percutáneo exige gran destreza técnica.",
+      "destacado": false
     },
-    "6e457ab3f980": {
-      "resumen": "Sudáfrica ya definió el plantel que viajará a enfrentar a Los Pumas, con varias de sus figuras más destacadas incluidas en la lista."
+    "ff9796a6dd71": {
+      "resumen": "Caso clínico de TCTMD sobre una obstrucción inesperada del tracto de salida del ventrículo izquierdo (LVOTO, left ventricular outflow tract obstruction) tras un reemplazo valvular mitral por catéter (TMVR, transcatheter mitral valve replacement). Es una de las complicaciones más temidas de este procedimiento, y vale la pena repasar cómo se sospecha y se resuelve.",
+      "destacado": false
     },
-    "fb6ef75cbef9": {
-      "resumen": "El seleccionado sudafricano de rugby llega a Buenos Aires con sus principales figuras para jugar contra Los Pumas en el estadio de Vélez."
+    "1a2a3af209a3": {
+      "resumen": "Nota de Hacker News sobre la polémica por publicidad de la película Spider-Man mostrada en las pantallas de los autos BMW, un ejemplo de cómo las automotrices empiezan a monetizar los datos y las pantallas de los vehículos conectados. Le sirve a quien mira análisis de datos porque expone el lado incómodo de la recolección y el uso comercial de datos de producto.",
+      "destacado": false
+    },
+    "36742ce60e8d": {
+      "resumen": "Ensayo personal publicado en Raptitude y destacado en Hacker News sobre cómo simplificar la relación con el propio tiempo y las obligaciones cotidianas. No es contenido técnico, pero aporta una pausa reflexiva útil para quien combina la residencia médica con el aprendizaje de una disciplina nueva como el análisis de datos.",
+      "destacado": false
+    },
+    "49a3b4c1ef7d": {
+      "resumen": "Simon Willison (desarrollador y referente en inteligencia artificial) comenta el lanzamiento de DeepSeek-V4-Flash, un modelo de lenguaje de código abierto de 304 mil millones de parámetros con capacidades agénticas (de ejecutar tareas de forma autónoma) mejoradas. Le sirve a un médico que aprende análisis de datos porque muestra que los modelos abiertos, más baratos de correr, ya compiten de cerca con los comerciales.",
+      "destacado": false
+    },
+    "b4abdb1547ac": {
+      "resumen": "Simon Willison analiza el pasaje a \"MCP sin estado\" (stateless), la actualización más importante del Protocolo de Contexto de Modelo (MCP, Model Context Protocol) desde su lanzamiento, el estándar que conecta modelos de inteligencia artificial con herramientas y fuentes de datos externas. Interesa porque simplifica la forma en que cualquier usuario, no solo programadores, puede enchufar sus propios datos a un asistente de IA.",
+      "destacado": false
+    },
+    "68f6ae739f85": {
+      "resumen": "Simon Willison lanza llm-mcp-client, una herramienta que permite que su línea de comandos \"llm\" se conecte a servidores del Protocolo de Contexto de Modelo (MCP). Es un ejemplo concreto de cómo integrar fuentes de datos propias a un asistente de inteligencia artificial de forma sencilla, sin depender de una plataforma cerrada.",
+      "destacado": false
+    },
+    "6604d322a0c5": {
+      "resumen": "Publicación en Hacker News de un desarrollador independiente que construyó un navegador web desde cero y logró que pase el test Acid3, un examen clásico y exigente de cumplimiento de estándares web. Muestra el valor de entender los fundamentos al construir herramientas propias, una lógica trasladable a quien arma sus propios pipelines de análisis de datos en vez de depender solo de librerías cerradas.",
+      "destacado": false
+    },
+    "6e99397f5ca2": {
+      "resumen": "Los Pumas salieron a la cancha con una camiseta que evoca a la selección de México '86, en guiño a Diego Maradona, para el partido ante Inglaterra."
+    },
+    "12d6658ae03e": {
+      "resumen": "Un ex Puma se lamentó de que el seleccionado no le haya rendido homenaje a Maradona en su momento y admitió que hoy, con el diario del lunes, lo pensarían distinto."
+    },
+    "444638d6db1b": {
+      "resumen": "Sudáfrica confirmó el plantel de los Springboks que enfrentará a Los Pumas."
     }
   }
 }

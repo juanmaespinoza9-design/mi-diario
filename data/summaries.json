@@ -1,10 +1,6 @@
 {
-  "generated_at": "2026-08-01T21:20:00Z",
+  "generated_at": "2026-08-02T10:05:25Z",
   "summaries": {
-    "47df4642c1c1": {
-      "resumen": "Resumen mensual de TCTMD (sitio especializado en cardiología intervencionista) con las diez notas más leídas por sus lectores en julio de 2026. Sirve como termómetro rápido de qué temas de intervencionismo cardiovascular están generando más interés en la comunidad médica este mes.",
-      "destacado": false
-    },
     "896f1b64c954": {
       "resumen": "Revisión del estado del arte publicada en JACC (Journal of the American College of Cardiology) sobre el manejo clínico de la miocardiopatía hipertrófica (MCH) durante el embarazo. Es un tema de nicho pero con impacto directo en las decisiones de manejo multidisciplinario de pacientes jóvenes.",
       "destacado": false
@@ -24,50 +20,6 @@
     },
     "23b0db17ac4a": {
       "resumen": "Revisión del European Heart Journal (EHJ) sobre la evolución del conocimiento en biología vascular y los mecanismos moleculares recientemente descubiertos que abrirían la puerta a nuevos blancos terapéuticos. El contenido capturado remite solo a la leyenda de una figura, por lo que parece tratarse de un elemento gráfico o de portada más que del texto completo; de todos modos, sirve como disparador para seguir la actualización en fisiopatología vascular en la fuente original.",
-      "destacado": false
-    },
-    "642eeb0a1912": {
-      "resumen": "Nota de TCTMD (sitio especializado en cardiología intervencionista) sobre un segmento de revisión de casos clínicos en tiempo real, donde especialistas discuten en vivo las decisiones de manejo frente a un caso complejo. Sirve para ver cómo razona un operador experimentado más allá de lo que queda registrado en la ficha final.",
-      "destacado": false
-    },
-    "3cd763b9d555": {
-      "resumen": "Artículo de TCTMD sobre las implicancias legales de las reuniones de morbimortalidad (M&M), el espacio donde los equipos de salud revisan casos con malos resultados. Repasa qué comentarios y documentación quedan protegidos ante un eventual litigio y cuáles no, un tema relevante para cualquier médico que participa de estos ateneos.",
-      "destacado": false
-    },
-    "4cd3c804c5b9": {
-      "resumen": "Caso clínico de TCTMD sobre el manejo de una fuga perivalvular mitral compleja, es decir, una pérdida de sangre por el borde de una válvula protésica ya implantada. Interesa porque estas fugas son una complicación temida de los reemplazos valvulares y su cierre percutáneo exige gran destreza técnica.",
-      "destacado": false
-    },
-    "ff9796a6dd71": {
-      "resumen": "Caso clínico de TCTMD sobre una obstrucción inesperada del tracto de salida del ventrículo izquierdo (LVOTO, left ventricular outflow tract obstruction) tras un reemplazo valvular mitral por catéter (TMVR, transcatheter mitral valve replacement). Es una de las complicaciones más temidas de este procedimiento, y vale la pena repasar cómo se sospecha y se resuelve.",
-      "destacado": false
-    },
-    "49a3b4c1ef7d": {
-      "resumen": "Simon Willison (desarrollador y referente en inteligencia artificial) comenta el lanzamiento de DeepSeek-V4-Flash, un modelo de lenguaje de código abierto de 304 mil millones de parámetros con capacidades agénticas (de ejecutar tareas de forma autónoma) mejoradas. Le sirve a un médico que aprende análisis de datos porque muestra que los modelos abiertos, más baratos de correr, ya compiten de cerca con los comerciales.",
-      "destacado": false
-    },
-    "b4abdb1547ac": {
-      "resumen": "Simon Willison analiza el pasaje a \"MCP sin estado\" (stateless), la actualización más importante del Protocolo de Contexto de Modelo (MCP, Model Context Protocol) desde su lanzamiento, el estándar que conecta modelos de inteligencia artificial con herramientas y fuentes de datos externas. Interesa porque simplifica la forma en que cualquier usuario, no solo programadores, puede enchufar sus propios datos a un asistente de IA.",
-      "destacado": false
-    },
-    "e2f861af9767": {
-      "resumen": "Repaso de Simon Willison (desarrollador y referente en inteligencia artificial) sobre diez avances recientes en matemática y ciencias de la computación teórica, incluyendo el caso de Anthropic usando su modelo Claude para detectar debilidades criptográficas. Sirve para ver, con ejemplos concretos, cómo la inteligencia artificial ya empieza a acelerar el descubrimiento científico en áreas muy formales.",
-      "destacado": false
-    },
-    "a408ae343b81": {
-      "resumen": "Columna de opinión que sostiene que Google News quedó relegado y ya no es prioridad estratégica para Google, a medida que la búsqueda con inteligencia artificial reemplaza el modelo clásico de enlaces a medios. Le interesa a quien analiza datos porque ilustra cómo un cambio de algoritmo de una sola empresa puede reconfigurar de golpe el acceso a la información de millones de usuarios.",
-      "destacado": false
-    },
-    "f7ce8c5defc3": {
-      "resumen": "Artículo de 2023 (resurgido ahora) que reconstruye cómo distintas decisiones de Google, incluido el cierre de Google Reader, contribuyeron a la caída en el uso de los feeds RSS (Really Simple Syndication, un formato para suscribirse a actualizaciones de sitios web). Aporta contexto histórico sobre cómo el diseño de plataformas moldea qué canales de información sobreviven y cuáles se abandonan.",
-      "destacado": false
-    },
-    "bc4ec80770d1": {
-      "resumen": "Anuncio del lanzamiento de NetBSD 11.0, una nueva versión de este sistema operativo de código abierto de la familia BSD. Es un dato de nicho para infraestructura, pero recuerda que buena parte de las herramientas que sostienen el análisis de datos corren sobre sistemas abiertos mantenidos por comunidades voluntarias.",
-      "destacado": false
-    },
-    "84a38888a7b9": {
-      "resumen": "Directorio personal que reúne enlaces a gente que sigue usando y defendiendo los feeds RSS como forma de informarse sin depender de algoritmos de redes sociales. Es un recordatorio simple de que existen alternativas para armar el propio flujo de información curado, algo útil para quien quiere organizar sus fuentes de estudio y noticias médicas o técnicas.",
       "destacado": false
     },
     "a8ce7fdb5459": {
@@ -90,6 +42,62 @@
     },
     "38aca14bc855": {
       "resumen": "El exjugador de Los Pumas Tomás Cubelli habló sobre la falta de un homenaje del seleccionado a Diego Maradona y sobre las críticas que recibió el equipo por esa ausencia."
+    },
+    "b4ffd8c082ec": {
+      "resumen": "Nota de TCTMD (sitio especializado en cardiología intervencionista) sobre cómo hablar con la familia de un paciente en el contexto posterior a una catástrofe o un evento adverso grave. Aporta herramientas de comunicación útiles para cualquier médico que deba dar malas noticias o acompañar a familiares en situaciones críticas.",
+      "destacado": false
+    },
+    "8906367994ed": {
+      "resumen": "Columna personal en TCTMD donde un profesional de la cardiología intervencionista repasa las ventajas y desventajas de las redes sociales en la vida profesional, y por qué decidió alejarse de ellas. Invita a pensar el uso de las redes sociales en el ejercicio médico y su impacto en el bienestar personal.",
+      "destacado": false
+    },
+    "e30d63755a5d": {
+      "resumen": "Nota de TCTMD sobre el rol de ser la consulta telefónica de confianza (\"phone-a-friend\") cuando un colega necesita una segunda opinión rápida ante un caso complejo. Repasa cómo dar una devolución útil bajo presión, aun sin estar presente físicamente en el caso.",
+      "destacado": false
+    },
+    "41c14ddb2f95": {
+      "resumen": "Nota de TCTMD sobre cuándo decidir el inicio del soporte circulatorio mecánico (MCS, mechanical circulatory support) en un paciente que se está descompensando de forma activa por shock cardiogénico. Repasa las señales clínicas y hemodinámicas que marcan el momento oportuno para escalar el soporte, una decisión clave en cuidados críticos cardiovasculares.",
+      "destacado": false
+    },
+    "29b54b134108": {
+      "resumen": "Nota de TCTMD sobre el uso emergente y de rescate del soporte circulatorio mecánico (MCS) y de la reanimación cardiopulmonar extracorpórea (ECPR, extracorporeal cardiopulmonary resuscitation) frente a un paro o colapso hemodinámico súbito. Interesa por tratarse de herramientas de última línea cada vez más presentes en hemodinamia y terapia intensiva cardiovascular.",
+      "destacado": false
+    },
+    "ba245273fb1b": {
+      "resumen": "Carta de correspondencia publicada en The New England Journal of Medicine (NEJM) sobre la influencia de las hormonas sexuales en el riesgo cardiovascular. Aporta una mirada crítica sobre un tema con implicancias directas en la evaluación diferencial del riesgo entre varones y mujeres.",
+      "destacado": false
+    },
+    "742ee8759563": {
+      "resumen": "Respuesta de los autores originales a la carta de correspondencia sobre hormonas sexuales y riesgo cardiovascular, publicada en NEJM. Cierra el intercambio con precisiones sobre la interpretación de los datos discutidos, útil para entender los matices de un debate en curso en la literatura.",
+      "destacado": false
+    },
+    "44e3e0fe01cf": {
+      "resumen": "Simon Willison (desarrollador y referente en inteligencia artificial) resume las últimas cartas abiertas sobre el desarrollo de la inteligencia artificial (IA), entre ellas la iniciativa \"Open Weights and American AI Leadership\". Le sirve a un médico que aprende análisis de datos para entender el debate político y regulatorio que está moldeando hacia dónde va la IA que después va a usar en su práctica.",
+      "destacado": false
+    },
+    "4f08835bebf4": {
+      "resumen": "Newsletter mensual de Simon Willison con un repaso de julio de 2026, que incluye casos de ciberataques accidentales protagonizados por modelos de OpenAI y de Anthropic bajo prueba. Es un buen resumen periódico para mantenerse al tanto de los riesgos y las novedades de la inteligencia artificial sin seguir el día a día.",
+      "destacado": false
+    },
+    "2efcab80a097": {
+      "resumen": "Discusión en Hacker News sobre cómo la participación de Linux como sistema operativo de escritorio superó el 10% en Norteamérica. Es un dato de nicho, pero relevante para quien arma su propio entorno de análisis de datos, ya que buena parte de las herramientas de ciencia de datos nacieron y corren mejor sobre Linux.",
+      "destacado": false
+    },
+    "066093c5f082": {
+      "resumen": "Tour interactivo con las novedades de la versión 1.27 del lenguaje de programación Go. Interesa menos para el análisis de datos propiamente dicho (que suele hacerse en Python o R), pero sirve para entender qué lenguaje eligen muchas de las herramientas de infraestructura que sostienen los pipelines de datos.",
+      "destacado": false
+    },
+    "ea51a590f580": {
+      "resumen": "Simon Willison comenta una cita de Greg Brockman (presidente de OpenAI) sobre cómo en OpenAI muchos empleados conectan su ChatGPT a Slack, y la incomodidad que genera cuando el asistente de un compañero pide ayuda como si fuera una persona. Un ejemplo concreto de cómo la inteligencia artificial ya empieza a mediar la comunicación laboral cotidiana.",
+      "destacado": false
+    },
+    "e8cc710abd7b": {
+      "resumen": "Estudio del Instituto Tecnológico de Massachusetts (MIT) difundido por MIT Sloan que encontró que el asesoramiento financiero brindado por inteligencia artificial es sorprendentemente bueno, en especial cuando el usuario sabe hacer las preguntas correctas. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo la calidad de la pregunta (el \"prompt\") condiciona la calidad de la respuesta de un modelo de lenguaje.",
+      "destacado": false
+    },
+    "9abc53d7091c": {
+      "resumen": "Presentación de Seedance 2.5, un modelo de generación de video de ByteDance (la empresa dueña de TikTok) con capacidad de referencia flexible para crear contenido audiovisual en una sola toma. Muestra hasta dónde llegó la generación de video con inteligencia artificial, una tecnología que ya empieza a tener aplicaciones en educación médica y divulgación científica.",
+      "destacado": false
     }
   }
 }

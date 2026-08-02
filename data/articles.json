@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-02T15:32:23.567421+00:00",
+ "generated_at": "2026-08-02T17:29:05.742793+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -42,22 +42,6 @@
      "id": "ba23c4b96b56"
     },
     {
-     "title": "Sex Hormone Influences on Cardiovascular Risk. Reply",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42526042/",
-     "source": "NEJM Cardiología",
-     "published": "2026-07-30T00:00:00+00:00",
-     "copete": "Skeith L et al. · The New England journal of medicine",
-     "id": "742ee8759563"
-    },
-    {
-     "title": "Sex Hormone Influences on Cardiovascular Risk",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42526041/",
-     "source": "NEJM Cardiología",
-     "published": "2026-07-30T00:00:00+00:00",
-     "copete": "Bonnet F et al. · The New England journal of medicine",
-     "id": "ba245273fb1b"
-    },
-    {
      "title": "Clinical Considerations in Management of Hypertrophic Cardiomyopathy in Pregnancy: JACC State-of-the-Art Review",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42524805/",
      "source": "JACC",
@@ -74,28 +58,44 @@
      "id": "5ff953291bda"
     },
     {
+     "title": "A Multitask Deep Learning Model for Pediatric Echocardiography Analysis",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42517220/",
+     "source": "Circulation",
+     "published": "2026-07-28T00:00:00+00:00",
+     "copete": "Cho J et al. · Circulation",
+     "id": "46354f04e805"
+    },
+    {
+     "title": "Risk-Guided Screening for Atrial Fibrillation Using Electronic Health Records",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42517218/",
+     "source": "Circulation",
+     "published": "2026-07-28T00:00:00+00:00",
+     "copete": "Nadarajah R et al. · Circulation",
+     "id": "477328dd0091"
+    },
+    {
+     "title": "Cardiovascular-Kidney-Metabolic Syndrome: A User's Guide to the Guidelines",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42507784/",
+     "source": "Circulation",
+     "published": "2026-07-28T00:00:00+00:00",
+     "copete": "Ndumele CE et al. · Circulation",
+     "id": "8464825d601a"
+    },
+    {
+     "title": "Telehealth for Community-Engaged Cardiovascular Care in Rural Populations",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42507783/",
+     "source": "Circulation",
+     "published": "2026-07-28T00:00:00+00:00",
+     "copete": "Powell-Wiley TM et al. · Circulation",
+     "id": "179db420c3ca"
+    },
+    {
      "title": "Preventive Cardiovascular Care Delivery and Medicaid Accountable Care Organizations: A Difference-in-Differences Analysis",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42524801/",
      "source": "JACC",
      "published": "2026-07-22T00:00:00+00:00",
      "copete": "Marinacci LX et al. · Journal of the American College of Cardiology",
      "id": "68631e912e7b"
-    },
-    {
-     "title": "REPLY: Lipoprotein(a) and Cardiovascular Risk Gradient Across Coronary Artery Calcium Strata",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42524800/",
-     "source": "JACC",
-     "published": "2026-07-22T00:00:00+00:00",
-     "copete": "Bhatia HS et al. · Journal of the American College of Cardiology",
-     "id": "b2fb5e2ca0fa"
-    },
-    {
-     "title": "The fascinating evolution of vascular biology: novel mechanisms leading to new therapeutic targets",
-     "link": "https://academic.oup.com/eurheartj/article/47/28/3653/8737868?rss=1",
-     "source": "European Heart Journal",
-     "published": "2026-07-21T00:00:00+00:00",
-     "copete": "For image description, please refer to the figure legend and surrounding text.",
-     "id": "23b0db17ac4a"
     }
    ]
   },
@@ -104,6 +104,22 @@
    "title": "Deportes",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Barracas visita a Riestra en busca de la tercera victoria al hilo",
+     "link": "https://www.ole.com.ar/futbol-primera/torneo-clausura-barracas-riestra-envivo_0_xMZtjhOq61.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-02T17:12:51+00:00",
+     "copete": "El Malevo recibe al Guapo de Damian Ayude en el Bajo Flores. Seguilo en Olé.",
+     "id": "c8ae99f749f9"
+    },
+    {
+     "title": "Por qué el hincha de Racing explotó e insultó a Diego Milito, presidente",
+     "link": "https://www.ole.com.ar/racing/racing-milito-cilindro-tigre_0_xh4H8pIhwr.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-02T16:56:33+00:00",
+     "copete": "En la derrota ante Tigre, el Cilindro silbó a los jugadores, estalló contra la comisión y por primera vez apuntó masivamente hacia el ídolo. ¿Qué llevó a esto?",
+     "id": "7d40d55b985d"
+    },
     {
      "title": "River enfrenta a Central con la necesidad de encontrar paz",
      "link": "https://www.ole.com.ar/river-plate/river-plate-rosario-central-eduardo-coudet_0_ayjz59bXIk.html",
@@ -135,14 +151,6 @@
      "published": "2026-08-02T13:23:10+00:00",
      "copete": "Jorge Almirón no podrá contar con uno de sus refuerzos estrella para el Clausura.",
      "id": "33c30c05464f"
-    },
-    {
-     "title": "A qué hora se juega Newell's vs Boca y cómo ver hoy EN VIVO el Torneo Clausura",
-     "link": "https://www.ole.com.ar/futbol-primera/newells-vs-boca-torneo-clausura-vivo-hora-ver-tv-online-formaciones-fecha-3-minuto-minuto_0_gpQ7i73CRR.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-02T12:50:25+00:00",
-     "copete": "Tras la sufrida clasificación ante O'Higgins, el Xeneize de Arruabarrena viaja a Rosario para medirse con la Lepra de Kudelka. Seguilo en Olé.",
-     "id": "60dc6d65bc41"
     },
     {
      "title": "A qué hora juega River vs. Rosario Central y cómo ver hoy EN VIVO el Torneo Clausura",
@@ -228,25 +236,18 @@
      "id": "0e59db957004"
     },
     {
-     "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
-     "link": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-02T11:24:20+00:00",
-     "id": "086d0e813990"
-    },
-    {
-     "title": "US Treasury undertakes historic intervention in yen market",
-     "link": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-02T10:46:28+00:00",
-     "id": "560eff1a1332"
-    },
-    {
      "title": "Show HN: Bor – Open-source policy management for Linux desktops",
      "link": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
      "source": "Hacker News (100+ puntos)",
      "published": "2026-08-02T09:06:33+00:00",
      "id": "ae22c6300e1c"
+    },
+    {
+     "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+     "link": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-02T04:21:14+00:00",
+     "id": "91795cf32ccd"
     },
     {
      "title": "Open letters about AI development",
@@ -263,6 +264,13 @@
      "published": "2026-08-02T04:12:41+00:00",
      "copete": "The June edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: Accidental cyberattacks by OpenAl and Anthropic models under test GPT-5.6 Sol…",
      "id": "4f08835bebf4"
+    },
+    {
+     "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+     "link": "https://github.com/tom-ilan/cycloidal_gearbox",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-02T02:07:09+00:00",
+     "id": "407ad45120f6"
     },
     {
      "title": "Quoting Greg Brockman",
@@ -288,100 +296,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Dos helicópteros chocaron en Grecia mientras combatían un incendio forestal",
+     "title": "Gimnasia La Plata visita a Aldosivi en Mar del Plata por la tercera fecha del Torneo Clausura",
+     "link": "https://www.infobae.com/deportes/2026/08/02/sigue-la-fecha-3-del-torneo-clausura-la-agenda-con-los-partidos-del-domingo/",
+     "source": "Infobae",
+     "published": "2026-08-02T17:24:46+00:00",
+     "copete": "El Lobo se mide al Tiburón en el arranque de la agenda. En simultáneo, juegan Riestra-Barracas Central. En último turno, Lanús se enfrentará a Instituto",
+     "id": "6cc4fb636618"
+    },
+    {
+     "title": "Esta app gratis de Google puede ayudarte a recuperar 10 GB de almacenamiento en tu celular",
+     "link": "https://www.infobae.com/tecno/2026/08/02/esta-app-gratis-de-google-puede-ayudarte-a-recuperar-10-gb-de-almacenamiento-en-tu-celular/",
+     "source": "Infobae",
+     "published": "2026-08-02T17:21:03+00:00",
+     "copete": "La aplicacción para Android no incluye publicidad y tiene un botón para limpiar archivos innecesarios",
+     "id": "509d4479bc6a"
+    },
+    {
+     "title": "Dos helicópteros chocaron en Grecia mientras combatían un incendio forestal: murieron dos tripulantes",
      "link": "https://www.lanacion.com.ar/el-mundo/dos-helicopteros-chocaron-en-grecia-mientras-combatian-un-incendio-forestal-nid02082026/",
      "source": "La Nación",
-     "published": "2026-08-02T15:26:53+00:00",
-     "copete": "El siniestro aéreo ocurrió al oeste de Atenas en medio de condiciones climáticas extremas; el país enfrenta una ola de fuegos simultáneos que ya destruyeron más de 16.000 hectáreas",
+     "published": "2026-08-02T17:20:15+00:00",
+     "copete": "El siniestro aéreo ocurrió al oeste de Atenas en medio de condiciones climáticas extremas",
      "id": "7da583bea377"
     },
     {
-     "title": "Mariana Eva Pérez: “Me parece un acto de justicia poética que esos cuerpos tan maltratados gocen tanto a lo largo de la novela”",
-     "link": "https://www.infobae.com/cultura/2026/08/02/mariana-eva-perez-me-parece-un-acto-de-justicia-poetica-que-esos-cuerpos-tan-maltratados-gocen-tanto-a-lo-largo-de-la-novela/",
+     "title": "Horror en Mar del Plata: salió a una entrevista de trabajo y la encontraron muerta",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/08/02/horror-en-mar-del-plata-salio-a-una-entrevista-de-trabajo-y-la-encontraron-muerta/",
      "source": "Infobae",
-     "published": "2026-08-02T15:25:56+00:00",
-     "copete": "La escritora y activista habla sobre su primera novela, “Constanza y Matute (hacen la porquería)”, en la que con lenguaje atrevido y muy buen ritmo cuenta sin solemnidad el romance turbulento entre dos hijos de desaparecidos",
-     "id": "ce117d785198"
+     "published": "2026-08-02T17:18:04+00:00",
+     "copete": "Juana Mailén Antonich, de 25 años, era madre de dos niñas de 1 y 6 años. Su hermano encontró el cuerpo en una playa. Hay dos serenos detenidos",
+     "id": "01c57c6ce3c0"
     },
     {
-     "title": "Kim Go-eun ganó el Daesang, premio mayor de la televisión surcoreana: ¿dónde ver sus k-dramas?",
-     "link": "https://www.infobae.com/entretenimiento/2026/08/02/kim-go-eun-gano-el-daesang-premio-mayor-de-la-television-surcoreana-donde-ver-sus-k-dramas/",
-     "source": "Infobae",
-     "published": "2026-08-02T15:25:48+00:00",
-     "copete": "La actriz recibió el galardón en los 5.º Premios Blue Dragon de Series por su papel en “Tú y todo lo demás”",
-     "id": "97019d80c8f4"
-    },
-    {
-     "title": "Tu celular Android puede quedarse sin acceso a Google Play: por qué esto es un problema",
-     "link": "https://www.infobae.com/tecno/2026/08/02/tu-celular-android-puede-quedarse-sin-acceso-a-google-play-por-que-esto-es-un-problema/",
-     "source": "Infobae",
-     "published": "2026-08-02T15:24:20+00:00",
-     "copete": "Aplicaciones como YouTube son de las primeras en bloquear el acceso a versiones anteriores del sistema operativo",
-     "id": "ada667b787db"
-    },
-    {
-     "title": "Últimos días para conseguir gratis dos aclamados roguelikes en PC gracias a Epic Games",
-     "link": "https://www.infobae.com/tecno/2026/08/02/ultimos-dias-para-conseguir-gratis-dos-aclamados-roguelikes-en-pc-gracias-a-epic-games/",
-     "source": "Infobae",
-     "published": "2026-08-02T15:22:47+00:00",
-     "copete": "La promoción de verano permite reclamar dos roguelikes en PC sin costo y dejarlos vinculados de forma permanente a la cuenta",
-     "id": "313f0da702a9"
-    },
-    {
-     "title": "El comercio exterior se disfruta, pero no admite romanticismo",
-     "link": "https://www.infobae.com/movant/2026/08/01/el-comercio-exterior-se-disfruta-pero-no-admite-romanticismo/",
-     "source": "Infobae",
-     "published": "2026-08-02T15:21:00+00:00",
-     "copete": "Gabriel Cures Sastre, operador de comercio exterior, cuenta cómo la gestión aduanera, la idiosincrasia cultural de sus clientes y el cuidado del importador sostienen la operación diaria del negocio",
-     "id": "57e7313cc532"
-    },
-    {
-     "title": "Miguel Ángel Pichetto afirmó que Villarruel será candidata a presidenta en las elecciones de 2027",
-     "link": "https://www.lanacion.com.ar/politica/miguel-angel-pichetto-afirmo-que-villarruel-sera-candidata-a-presidenta-en-las-elecciones-de-2027-nid02082026/",
+     "title": "Oficial, si se aprueba: la ley de revocación de licencias que aplicaría el DMV en California",
+     "link": "https://www.lanacion.com.ar/estados-unidos/california/oficial-si-se-aprueba-la-ley-de-revocacion-de-licencias-que-aplicaria-el-dmv-en-california-nid01082026/",
      "source": "La Nación",
-     "published": "2026-08-02T15:19:06+00:00",
-     "copete": "El diputado analizó la fractura dentro de La Libertad Avanza y consideró que la vice tiene un electorado que la apoyará; aseguró que “no hay lugar” para Bullrich en la Ciudad",
-     "id": "04db3c3f517d"
+     "published": "2026-08-02T17:16:58+00:00",
+     "copete": "Conoce qué propone la AB 1687 en California, a quiénes podría revocarles la licencia por ocho años y qué falta para que entre en vigor.",
+     "id": "c39fdfcfb79b"
     },
     {
-     "title": "Confirmado en Texas: cuándo inician las clases y el ciclo escolar 2026 en Houston y San Antonio",
-     "link": "https://www.lanacion.com.ar/estados-unidos/texas/confirmado-en-texas-cuando-inician-las-clases-y-el-ciclo-escolar-2026-en-houston-y-san-antonio-nid02082026/",
+     "title": "Boca Juniors visitará a Newell’s en Rosario por la tercera fecha del Torneo Clausura: hora, TV y formaciones",
+     "link": "https://www.infobae.com/deportes/2026/08/02/boca-juniors-visita-a-newells-en-rosario-por-la-tercera-fecha-del-torneo-clausura-hora-tv-y-formaciones/",
+     "source": "Infobae",
+     "published": "2026-08-02T17:15:12+00:00",
+     "copete": "Luego de clasificar a los octavos de final de la Sudamericana por penales, el Xeneize se enfrenta a la Lepra desde las 17. Transmite TNT Sports",
+     "id": "4b83fa21181b"
+    },
+    {
+     "title": "El vinculo entre una buena rutina de sueño y piel saludable, según la ciencia",
+     "link": "https://www.infobae.com/salud/2026/08/02/el-vinculo-entre-una-buena-rutina-de-sueno-y-piel-saludable-segun-la-ciencia/",
+     "source": "Infobae",
+     "published": "2026-08-02T17:12:29+00:00",
+     "copete": "Estudios en dermatología y cronobiología describen cómo el reloj biológico activa la síntesis de colágeno, reduce el cortisol y acelera la reparación tisular, un proceso que se debilita con la falta de descanso",
+     "id": "d887497176d8"
+    },
+    {
+     "title": "Oficial y confirmado en Texas: todos los candidatos de Greg Abbott para las elecciones de medio término",
+     "link": "https://www.lanacion.com.ar/estados-unidos/texas/oficial-y-confirmado-en-texas-todos-los-candidatos-de-greg-abbott-para-las-elecciones-de-medio-nid02082026/",
      "source": "La Nación",
-     "published": "2026-08-02T15:04:00+00:00",
-     "copete": "Confirmaron cuándo inician las clases del ciclo escolar 2026 en Texas: mira las fechas oficiales de regreso a las aulas en Houston y San Antonio.",
-     "id": "9b7ede5f0a8e"
+     "published": "2026-08-02T17:12:00+00:00",
+     "copete": "Greg Abbott respaldó oficialmente a los candidatos republicanos para las elecciones de medio término en Texas y se reunió con los postulantes que competirán el 3 de noviembre. Conoce quiénes integran la lista apoyada por el gobernador y…",
+     "id": "66f6485db72b"
     },
     {
-     "title": "El enunciado del Uscis para reemplazar la green card: “Rechazaremos cualquier formulario que no esté firmado”",
-     "link": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/el-enunciado-del-uscis-para-reemplazar-la-green-card-rechazaremos-cualquier-formulario-que-no-este-nid30072026/",
+     "title": "Abogados de inmigración coinciden: las opciones legales que tienen los migrantes que perdieron el TPS en EE.UU.",
+     "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/que-opciones-legales-tienen-los-migrantes-que-perdieron-el-tps-en-eeuu-segun-recomiendan-abogados-nid01082026/",
      "source": "La Nación",
-     "published": "2026-08-02T14:58:01+00:00",
-     "copete": "Evita que el Uscis rechace tu formulario I-90 para reemplazar la green card: conoce las reglas de firma vigentes y los errores que debes evitar.",
-     "id": "1b969cc4b7f1"
+     "published": "2026-08-02T17:01:40+00:00",
+     "copete": "Conoce qué opciones legales pueden evaluar los migrantes tras perder el TPS en EE.UU. y cuáles son los factores que determinan cada alternativa.",
+     "id": "019bb06df512"
     },
     {
-     "title": "Es oficial: en agosto hay un feriado que forma un fin de semana largo en la Argentina",
-     "link": "https://www.lanacion.com.ar/feriados/2026/es-oficial-en-agosto-hay-un-feriado-que-forma-un-fin-de-semana-largo-en-la-argentina-nid02082026/",
+     "title": "“Con efecto inmediato”: La orden firmada por Brandon Johnson en Chicago que cambia las reglas de seguridad",
+     "link": "https://www.lanacion.com.ar/estados-unidos/illinois/con-efecto-inmediato-la-orden-firmada-por-brandon-johnson-en-chicago-que-cambia-las-reglas-de-nid02082026/",
      "source": "La Nación",
-     "published": "2026-08-02T14:53:34+00:00",
-     "copete": "Los ciudadanos podrán disfrutar de un fin de semana extendido de tres días durante el octavo mes del año; qué se conmemora",
-     "id": "ecf6a4dd8aed"
+     "published": "2026-08-02T17:00:00+00:00",
+     "copete": "Conoce cómo la orden ejecutiva de Brandon Johnson cambia las compras de armas del gobierno de Chicago y qué exigirá a los proveedores.",
+     "id": "30fb45afcb12"
     },
     {
-     "title": "Miguel Ángel Pichetto aseguró que Victoria Villarruel será candidata a presidente en 2027 y dijo que Bullrich no tiene lugar en La Libertad Avanza",
-     "link": "https://www.clarin.com/politica/miguel-angel-pichetto-aseguro-victoria-villarruel-candidata-2027-dijo-bullrich-lugar-armado-libertad-avanza_0_87hxXwBSS0.html",
+     "title": "Lanús vs Instituto, por el Torneo Clausura, EN VIVO: a qué hora juegan, probables formaciones y cómo ver el partido",
+     "link": "https://www.clarin.com/deportes/lanus-vs-instituto-torneo-clausura-vivo-hora-juegan-probables-formaciones-ver-partido_0_j0A7g4fmRG.html",
      "source": "Clarín",
-     "published": "2026-08-02T14:34:04+00:00",
-     "copete": "El diputado nacional también habló de la necesidad de armar un \"frente nacional\" con eje en el peronismo.",
-     "id": "fd7578ea6590"
+     "published": "2026-08-02T15:56:21+00:00",
+     "copete": "El Granate, que viene de quedar eliminado en la Copa Sudamericana, recibe a la \"Gloria\" para mantener el invicto. Seguí el minuto a minuto en Clarín.",
+     "id": "1f4bded70fcd"
     },
     {
-     "title": "River vs Rosario Central, por el Torneo Clausura, EN VIVO: a qué hora es, formaciones y cómo ver el partido",
-     "link": "https://www.clarin.com/deportes/river-vs-rosario-central-torneo-clausura-vivo-hora-formaciones-ver-partido_0_ahjuyBAdUO.html",
+     "title": "\"¿Has visto a mi hijo?\", la pregunta que se repite entre las familias marroquíes en medio de la crisis migratoria en Ceuta",
+     "link": "https://www.clarin.com/mundo/visto-hijo-pregunta-repite-familias-marroquies-medio-crisis-migratoria-ceuta_0_36XSvhv3TM.html",
      "source": "Clarín",
-     "published": "2026-08-02T14:33:32+00:00",
-     "copete": "El Millonario, que suma dos derrotas en el arranque del campeonato, vuelve a presentarse ante sus hinchas en el Monumental. Seguí el minuto a minuto en Clarín.",
-     "id": "f1256a8d8f97"
+     "published": "2026-08-02T15:50:17+00:00",
+     "copete": "Decenas de personas esperan en la frontera alguna novedad sobre sus seres queridos que cruzaron hacia España.",
+     "id": "9b3e238c5abe"
     }
    ]
   },
@@ -391,18 +399,50 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Helicopters fighting Greece wildfires collide in mid-air",
+     "title": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
      "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-02T15:21:56+00:00",
-     "copete": "Video of the incident shows one of the helicopters hitting the propellers of the other, which bursts into flames.",
+     "published": "2026-08-02T17:14:04+00:00",
+     "copete": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
      "id": "0fa80837ef64"
     },
     {
-     "title": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+     "title": "At the scene of deadly Moscow bomb blast",
+     "link": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-02T16:52:35+00:00",
+     "copete": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
+     "id": "e6787591c23a"
+    },
+    {
+     "title": "Uganda unveils statue of Israel PM's brother who died in Entebbe rescue mission",
+     "link": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-02T16:37:02+00:00",
+     "copete": "Yonatan Netanyahu was the only Israeli soldier to die as he led a mission to free more than 100 hostages.",
+     "id": "2aa3d654b3cd"
+    },
+    {
+     "title": "Qué fueron las guerras cristeras, la sangrienta confrontación que marcó la relación entre el Estado y la Iglesia en México",
+     "link": "https://www.bbc.com/mundo/articles/cg4w2pe5zrro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-02T16:04:35+00:00",
+     "copete": "Hace un siglo, el país norteamericano se vio envuelto en un conflicto político, militar y religioso que dejó alrededor de 250.000 muertos y en el que las mujeres tuvieron un papel protagónico.",
+     "id": "430380a128ff"
+    },
+    {
+     "title": "Dos pilotos mueren al chocar dos helicópteros que participaban en la extinción de un incendio en Grecia",
+     "link": "https://elpais.com/internacional/2026-08-02/dos-pilotos-mueren-al-chocar-dos-helicopteros-que-participaban-en-la-extincion-de-un-incendio-en-grecia.html",
+     "source": "El País Internacional",
+     "published": "2026-08-02T15:56:50+00:00",
+     "copete": "Las llamas se encuentran a 35 kilómetros del centro urbano de Atenas",
+     "id": "e8817f9fa31e"
+    },
+    {
+     "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
      "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-02T15:02:56+00:00",
+     "published": "2026-08-02T15:50:59+00:00",
      "copete": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
      "id": "8cc100f996af"
     },
@@ -431,44 +471,12 @@
      "id": "75afc25d9c8c"
     },
     {
-     "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
-     "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-02T11:49:40+00:00",
-     "copete": "The vessel with at least 250 people on board caught fire off Madura island.",
-     "id": "9cb28f9ebed5"
-    },
-    {
      "title": "Mercurocromo, el antiséptico con el que curaron las heridas de millones de niños en todo el mundo y terminó prohibido",
      "link": "https://www.bbc.com/mundo/articles/cx2knyrryvqo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "published": "2026-08-02T11:42:54+00:00",
      "copete": "Para millones de niños, esta sustancia roja que manchaba todo lo que tocaba, era una de las imágenes más temidas al hacerse una herida.",
      "id": "146ef04633f6"
-    },
-    {
-     "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-     "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-02T11:12:00+00:00",
-     "copete": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
-     "id": "f189c87d7484"
-    },
-    {
-     "title": "Luana Lopes Lara, la bailarina de ballet que se convirtió en la multimillonaria más joven del mundo con una empresa muy controvertida",
-     "link": "https://www.bbc.com/mundo/articles/cj635znkreyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-02T10:20:18+00:00",
-     "copete": "La cofundadora de la plataforma de mercados de predicción Kalshi, cambió los tutús por los libros y se le ocurrió una idea que cambió la ley y su fortuna.",
-     "id": "a8cb9d831dde"
-    },
-    {
-     "title": "Trump dice que suspende los ataques contra Irán a la espera de un acuerdo rápido",
-     "link": "https://elpais.com/internacional/2026-08-02/donald-trump-dice-que-suspende-los-ataques-contra-iran-a-la-espera-de-un-acuerdo-rapido.html",
-     "source": "El País Internacional",
-     "published": "2026-08-02T09:14:50+00:00",
-     "copete": "El presidente de EE UU asegura haber tomado la decisión a petición de países de Oriente Próximo y de Teherán, que niega la solicitud",
-     "id": "a26be24dec90"
     }
    ]
   }
@@ -481,7 +489,7 @@
   },
   {
    "section": "cardiologia",
-   "feed": "Circulation (PubMed)",
+   "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]

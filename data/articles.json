@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-02T04:02:52.877753+00:00",
+ "generated_at": "2026-08-02T07:04:46.231358+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -40,6 +40,22 @@
      "source": "TCTMD",
      "published": "2026-08-01T13:15:00+00:00",
      "id": "29b54b134108"
+    },
+    {
+     "title": "Sex Hormone Influences on Cardiovascular Risk. Reply",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42526042/",
+     "source": "NEJM Cardiología",
+     "published": "2026-07-30T00:00:00+00:00",
+     "copete": "Skeith L et al. · The New England journal of medicine",
+     "id": "742ee8759563"
+    },
+    {
+     "title": "Sex Hormone Influences on Cardiovascular Risk",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42526041/",
+     "source": "NEJM Cardiología",
+     "published": "2026-07-30T00:00:00+00:00",
+     "copete": "Bonnet F et al. · The New England journal of medicine",
+     "id": "ba245273fb1b"
     },
     {
      "title": "Clinical Considerations in Management of Hypertrophic Cardiomyopathy in Pregnancy: JACC State-of-the-Art Review",
@@ -205,6 +221,36 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Open letters about AI development",
+     "link": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
+     "source": "Simon Willison (IA)",
+     "published": "2026-08-02T04:16:52+00:00",
+     "copete": "Open letters about AI development I wrote this summary of the past few weeks of open letters as a section of my sponsors-only newsletter but I've decided to share it here as well. Open Weights and American AI Leadership was shepherded by…",
+     "id": "44e3e0fe01cf"
+    },
+    {
+     "title": "July 2026 newsletter",
+     "link": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
+     "source": "Simon Willison (IA)",
+     "published": "2026-08-02T04:12:41+00:00",
+     "copete": "The June edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: Accidental cyberattacks by OpenAl and Anthropic models under test GPT-5.6 Sol…",
+     "id": "4f08835bebf4"
+    },
+    {
+     "title": "Linux desktop market share has hit over 10% in North America",
+     "link": "https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-02T03:10:00+00:00",
+     "id": "2efcab80a097"
+    },
+    {
+     "title": "Go 1.27 Interactive Tour",
+     "link": "https://victoriametrics.com/blog/go-1-27/index.html",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-02T01:35:51+00:00",
+     "id": "066093c5f082"
+    },
+    {
      "title": "Quoting Greg Brockman",
      "link": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
      "source": "Simon Willison (IA)",
@@ -220,41 +266,11 @@
      "id": "e8cc710abd7b"
     },
     {
-     "title": "datasette-apps 0.2a0",
-     "link": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
-     "source": "Simon Willison (IA)",
-     "published": "2026-08-01T21:23:56+00:00",
-     "copete": "Release: datasette-apps 0.2a0 Changes that improve Datasette Apps when created and edited using Datasette Agent : New app_debug() tool allowing agent to open an app (invisibly) and test it using JavaScript. #33 New app_list() tool for…",
-     "id": "2290c5b63eda"
-    },
-    {
      "title": "Seedance 2.5",
      "link": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
      "source": "Hacker News (100+ puntos)",
      "published": "2026-08-01T20:45:12+00:00",
      "id": "9abc53d7091c"
-    },
-    {
-     "title": "Ten advances in mathematics and theoretical computer science",
-     "link": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
-     "source": "Simon Willison (IA)",
-     "published": "2026-08-01T20:34:49+00:00",
-     "copete": "Ten advances in mathematics and theoretical computer science A few days ago it was Anthropic discovering cryptographic weaknesses with Claude using Mythos Preview, spending $100,000 on tokens and with prompts that included \"again we are…",
-     "id": "e2f861af9767"
-    },
-    {
-     "title": "Diátaxis",
-     "link": "https://diataxis.fr/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-01T20:33:27+00:00",
-     "id": "b117854c872a"
-    },
-    {
-     "title": "Postmortem for Kernel Soundness Bug #14576",
-     "link": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-01T18:32:20+00:00",
-     "id": "9f364c29c986"
     },
     {
      "title": "Coding Agents Don’t Need Bigger Context Windows — They Need a Context Compiler",
@@ -288,99 +304,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Mary Dozier, psicóloga: “Tendemos a conservar cosas de nuestro pasado porque nos dan una sensación de dónde venimos”",
-     "link": "https://www.lanacion.com.ar/lifestyle/mary-dozier-psicologa-tendemos-a-conservar-cosas-de-nuestro-pasado-porque-nos-dan-una-sensacion-de-nid02082026/",
+     "title": "Joseph Pilates, creador del método de entrenamiento: “Los hábitos incorrectos en el día a día son los responsables de la mayoría de las dolencias”",
+     "link": "https://www.lanacion.com.ar/sociedad/joseph-pilates-creador-del-metodo-de-entrenamiento-los-habitos-incorrectos-en-el-dia-a-dia-son-los-nid02082026/",
      "source": "La Nación",
-     "published": "2026-08-02T04:00:00+00:00",
-     "copete": "Mary Dozier, psicóloga especializada en acumulación, explica por qué cuesta tanto deshacerse de las cosas",
-     "id": "cfdc0b8ce7fe"
+     "published": "2026-08-02T07:00:00+00:00",
+     "copete": "Un móvil de LN+ dialogó con la instructora Melani Giommetti, quien sostuvo que “la actividad sirve para fortalecer nuestros músculos de forma consciente y a largo plazo”",
+     "id": "cf389f197254"
     },
     {
-     "title": "La matanza de Bolonia: un explosivo en una estación de trenes colmada, 85 muertos, más de 200 heridos y la sombra de Licio Gelli",
-     "link": "https://www.infobae.com/historias/2026/08/02/la-matanza-de-bolonia-un-explosivo-en-una-estacion-de-trenes-colmada-85-muertos-mas-de-200-heridos-y-la-sombra-de-licio-gelli/",
+     "title": "Qué es el “pulmón de palomitas de maíz” y por qué puede afectar la respiración",
+     "link": "https://www.infobae.com/salud/ciencia/2026/08/02/que-es-el-pulmon-de-palomitas-de-maiz-y-por-que-puede-afectar-la-respiracion/",
      "source": "Infobae",
-     "published": "2026-08-02T03:57:21+00:00",
-     "copete": "El sábado 3 de agosto de 1980, exactamente a las 10.25 de la mañana, una poderosa bomba estalló en la sala de espera de la estación ferroviaria central de la ciudad italiana. Los autores materiales fueron terroristas de ultraderecha, pero…",
-     "id": "bf16e49f0881"
+     "published": "2026-08-02T07:00:00+00:00",
+     "copete": "La afección genera cicatrización que bloquea el flujo de aire y puede llevar a insuficiencia respiratoria, con síntomas graduales como tos seca, sibilancias, disnea y fatiga persistente",
+     "id": "d802935ade32"
     },
     {
-     "title": "Costa Rica: Encuentran abandonado el vehículo del periodista Wilfredo Pizarro, quien fue asesinado",
-     "link": "https://www.infobae.com/costa-rica/2026/08/02/costa-rica-encuentran-abandonado-el-vehiculo-del-periodista-wilfredo-pizarro-quien-fue-asesinado/",
+     "title": "Pistachos o maní: qué fruto seco elegir para controlar el peso, según la ciencia",
+     "link": "https://www.infobae.com/salud/2026/08/02/pistachos-o-mani-que-fruto-seco-elegir-para-controlar-el-peso-segun-la-ciencia/",
      "source": "Infobae",
-     "published": "2026-08-02T03:56:51+00:00",
-     "copete": "La aparición impulsa nuevas líneas de investigación, mientras el entorno familiar del comunicador demanda respuestas sobre el crimen a alas autoridades",
-     "id": "0bd1716a2471"
+     "published": "2026-08-02T07:00:00+00:00",
+     "copete": "Especialistas compararon el aporte de proteína, fibra y grasas saludables de estos snacks y detallaron cómo su inclusión en la dieta facilita la saciedad y contribuye a la pérdida de peso en quienes buscan reducir medidas",
+     "id": "75a2f5f5850d"
     },
     {
-     "title": "Una embarazada en Panamá es imputada por presuntamente lavar dinero para una estructura del narcotráfico",
-     "link": "https://www.infobae.com/panama/2026/08/02/una-embarazada-en-panama-es-imputada-por-presuntamente-lavar-dinero-para-una-estructura-del-narcotrafico/",
+     "title": "Escapó de una guerra nadando, fue refugiada y llegó a los Juegos Olímpicos: la superación de Yusra Mardini",
+     "link": "https://www.infobae.com/historias/2026/08/02/escapo-de-una-guerra-nadando-fue-refugiada-y-llego-a-los-juegos-olimpicos-la-superacion-de-yusra-mardini/",
      "source": "Infobae",
-     "published": "2026-08-02T03:56:47+00:00",
-     "copete": "La investigación, iniciada en 2024 con apoyo de autoridades españolas, persigue a una estructura señalada por delitos relacionados con drogas, asociación ilícita y lavado de activos.",
-     "id": "e33a9f3b3ac9"
+     "published": "2026-08-02T07:00:00+00:00",
+     "copete": "Junto con su hermana se alejaron por agua de Siria y su amor por la natación la llevó a competir dos veces en la cita olímpica",
+     "id": "a0079cfdb5bb"
     },
     {
-     "title": "Denunció a una clínica privada por mala praxis tras un parto “traumático y doloroso”: la Justicia rechazó la demanda",
-     "link": "https://www.infobae.com/judiciales/2026/08/02/denuncio-a-una-clinica-privada-por-mala-praxis-tras-un-parto-traumatico-y-doloroso-la-justicia-rechazo-la-demanda/",
+     "title": "El hijo de Audrey Hepburn reveló secretos y desmintió mitos en una biografía autorizada",
+     "link": "https://www.infobae.com/entretenimiento/2026/08/02/el-hijo-de-audrey-hepburn-revelo-secretos-y-desmintio-mitos-en-una-biografia-autorizada/",
      "source": "Infobae",
-     "published": "2026-08-02T03:55:52+00:00",
-     "copete": "Una mujer denunció falta de trato digno y demandó al sanatorio, al obstetra y a la partera. Reclamó una indemnización por daños físicos y morales contra ella y su hija. El fallo sostuvo que la prueba no confirmó negligencia",
-     "id": "9361a1c58d66"
+     "published": "2026-08-02T07:00:00+00:00",
+     "copete": "Sean Hepburn Ferrer reconstruyó la vida cotidiana de la actriz, desarmó rumores sobre su salud y compartió detalles íntimos que muestran una imagen alejada de los estereotipos y más cercana a su verdadera personalidad",
+     "id": "aca97c102b81"
     },
     {
-     "title": "Chocó con un compañero en la clase de gimnasia, quedó con secuelas y la Justicia elevó la indemnización",
-     "link": "https://www.infobae.com/judiciales/2026/08/02/choco-con-un-companero-en-la-clase-de-gimnasia-quedo-con-secuelas-y-la-justicia-elevo-la-indemnizacion/",
+     "title": "Las vacaciones elevan el ánimo antes de viajar y sostienen el efecto tras el regreso",
+     "link": "https://www.infobae.com/tendencias/2026/08/02/las-vacaciones-elevan-el-animo-antes-de-viajar-y-sostienen-el-efecto-tras-el-regreso/",
      "source": "Infobae",
-     "published": "2026-08-02T03:55:24+00:00",
-     "copete": "El accidente ocurrió en 2014, cuando la víctima tenía 15 años. La Cámara de Apelaciones elevó a $6,5 millones, más intereses, la indemnización que deberán pagar el Estado bonaerense y una aseguradora",
-     "id": "df75d3561290"
+     "published": "2026-08-02T07:00:00+00:00",
+     "copete": "La evidencia en psicología del bienestar indica que la anticipación del traslado ya mejora el humor y que la mejora se mantiene por más de seis semanas, según estudios recientes citados por New Scientist",
+     "id": "4765d06c6f72"
     },
     {
-     "title": "La vio en una subasta con un extraño escrito en su cuerpo y supo que tenía que ayudar: “Su estado de salud era delicado”",
-     "link": "https://www.lanacion.com.ar/lifestyle/la-vio-en-una-subasta-con-un-extrano-escrito-en-su-cuerpo-y-supo-que-tenia-que-ayudar-su-estado-de-nid02082026/",
+     "title": "Trump anunció que Estados Unidos cesará los ataques contra Irán tras un acuerdo alcanzados por sus aliados en la región",
+     "link": "https://www.lanacion.com.ar/el-mundo/trump-anuncio-que-estados-unidos-cesara-los-ataques-contra-iran-tras-un-acuerdo-alcanzados-por-sus-nid02082026/",
      "source": "La Nación",
-     "published": "2026-08-02T03:43:00+00:00",
-     "id": "27d9ebf3416e"
+     "published": "2026-08-02T06:47:13+00:00",
+     "copete": "El mandatario afirmó que el entendimiento contempla la reapertura total del estrecho de Ormuz y el fin de la amenaza nuclear iraní; Israel se suma al compromiso",
+     "id": "d0b928373ac3"
     },
     {
-     "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este domingo 2 agosto de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-domingo-2-agosto-2026_0_gVDSZbk4gN.html",
+     "title": "Erica di Cione, profesora de yoga: “No sirve de nada descansar o meditar dos días si vivimos los otros cinco completamente desconectados de nuestras propias necesidades”",
+     "link": "https://www.clarin.com/internacional/erica-di-cione-profesora-yoga-sirve-descansar-meditar-dias-vivimos-completamente-desconectados-propias-necesidades_0_bikNooVj7y.html",
      "source": "Clarín",
-     "published": "2026-08-02T03:40:01+00:00",
-     "copete": "El SMN anticipa para este domingo temperaturas entre 10°C y 15°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "fc0650d28e74"
+     "published": "2026-08-02T06:33:13+00:00",
+     "copete": "La especialista explica por qué concentrar todo el descanso en el sábado y el domingo no compensa una semana marcada por el estrés y la falta de pausas.",
+     "id": "fced102f8e78"
     },
     {
-     "title": "Clima hoy en Maracaibo, Venezuela: el pronóstico del tiempo para este domingo 2 agosto de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-maracaibo-venezuela-pronostico-tiempo-domingo-2-agosto-2026_0_LrTVuRo63v.html",
-     "source": "Clarín",
-     "published": "2026-08-02T03:39:38+00:00",
-     "copete": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "45034953e02b"
+     "title": "Rosalía, la única: del “Madre mía, qué lío el otro día” al concierto que nunca olvidaremos",
+     "link": "https://www.lanacion.com.ar/espectaculos/musica/rosalia-la-unica-del-madre-mia-que-lio-el-otro-dia-al-concierto-que-nunca-olvidaremos-nid02082026/",
+     "source": "La Nación",
+     "published": "2026-08-02T06:09:23+00:00",
+     "copete": "Con un concierto brillante la cantante catalana inicio a su serie de cuatro presentaciones en el Movistar Arena; en el tramo inicial pidió disculpas por el “affaire mundialista”",
+     "id": "212c425b9388"
     },
     {
-     "title": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este domingo 2 agosto de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-domingo-2-agosto-2026_0_QOqNJpTEfk.html",
+     "title": "Vi los últimos capítulos de 'La Casa del Dragón' y HBO no sacará nada que supere a 'El Caballero de los Siete Reinos', por ahora",
+     "link": "https://www.clarin.com/estados-unidos/vi-ultimos-capitulos-casa-dragon-hbo-sacara-supere-caballero-reinos-ahora_0_nHK3zGZ1r3.html",
      "source": "Clarín",
-     "published": "2026-08-02T03:39:38+00:00",
-     "copete": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "5e7086690331"
+     "published": "2026-08-02T06:01:13+00:00",
+     "copete": "Entre el agotamiento por el exceso de CGI y la parálisis de sus protagonistas, la tercera temporada de 'La Casa del Dragón' vuelve a tropezar con los mismos vicios del final de 'Juego de Tronos'. Analizamos por qué la calidez, la fidelidad…",
+     "id": "6f0694669e90"
     },
     {
-     "title": "Clima hoy en Maracay, Venezuela: el pronóstico del tiempo para este domingo 2 agosto de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-maracay-venezuela-pronostico-tiempo-domingo-2-agosto-2026_0_v9d6BWjv5z.html",
+     "title": "Max Clark conecta su primer jonrón en las mayores y guía a Tigres a triunfo ante A's",
+     "link": "https://www.clarin.com/estados-unidos/max-clark-conecta-su-primer-jonron-en-las-mayores-y-guia-a-tigres-a-triunfo-ante-a-s_0_z7D9f88qqE.html",
      "source": "Clarín",
-     "published": "2026-08-02T03:39:38+00:00",
-     "copete": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "ba8e0b1ace53"
+     "published": "2026-08-02T06:00:04+00:00",
+     "copete": "El novato Max Clark brilló con un jonrón en su segunda noche en la MLB, impulsando a Detroit a vencer 8-6 a Oakland, destacando su rápido impacto. Contribuciones de McGonigle y Torres acercan a los Tigres al comodín, mientras Valdez logra…",
+     "id": "d0349282e3a5"
     },
     {
-     "title": "Clima hoy en Ciudad de Bolívar, Venezuela: el pronóstico del tiempo para este domingo 2 agosto de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-bolivar-venezuela-pronostico-tiempo-domingo-2-agosto-2026_0_IVWW7TVrw4.html",
-     "source": "Clarín",
-     "published": "2026-08-02T03:39:15+00:00",
-     "copete": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "4c79d40320f9"
+     "title": "Daniel López Rosetti, médico cardiólogo: “No somos seres racionales, somos seres emocionales que razonan”",
+     "link": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-medico-cardiologo-no-somos-seres-racionales-somos-seres-emocionales-que-razonan-nid02082026/",
+     "source": "La Nación",
+     "published": "2026-08-02T06:00:00+00:00",
+     "copete": "El especialista detalló cómo la actividad programada impacta en la salud mental; además, dijo que el ejercicio físico actúa como una herramienta terapéutica",
+     "id": "f2dd16179d31"
     }
    ]
   },
@@ -389,6 +406,46 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+     "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-02T06:24:01+00:00",
+     "copete": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+     "id": "f189c87d7484"
+    },
+    {
+     "title": "Al menos 13 turistas mueren en un accidente de avioneta sobre las Líneas de Nazca, en Perú",
+     "link": "https://elpais.com/america/2026-08-01/al-menos-13-turistas-mueren-en-un-accidente-de-avioneta-sobre-las-lineas-de-nazca-en-peru.html",
+     "source": "El País Internacional",
+     "published": "2026-08-02T06:11:23+00:00",
+     "copete": "Entre las víctimas están el piloto, una guía turística y 11 pasajeros extranjeros: siete italianos, dos alemanes y dos españoles",
+     "id": "7174aae701a3"
+    },
+    {
+     "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+     "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-02T05:40:42+00:00",
+     "copete": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
+     "id": "de5af23a6b21"
+    },
+    {
+     "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+     "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-02T05:26:39+00:00",
+     "copete": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+     "id": "2402b417b76f"
+    },
+    {
+     "title": "La tormenta política en Europa que desató la llegada de miles de migrantes africanos a Ceuta",
+     "link": "https://www.bbc.com/mundo/articles/ce8k6y8ym3no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-02T04:43:48+00:00",
+     "copete": "Los cruces de multitudes desde Marruecos hacia Ceuta pusieron de manifiesto las divisiones existentes en Europa en torno al delicado tema de la migración, escribe Sarah Rainsford de la BBC.",
+     "id": "9b381f257f55"
+    },
     {
      "title": "Estados Unidos activa el modo electoral a tres meses de las ‘midterms’",
      "link": "https://elpais.com/internacional/2026-08-02/estados-unidos-activa-el-modo-electoral-a-tres-meses-de-las-midterms.html",
@@ -414,14 +471,6 @@
      "id": "384d61a3f9e4"
     },
     {
-     "title": "Un asunto sensible",
-     "link": "https://elpais.com/opinion/2026-08-02/un-asunto-sensible.html",
-     "source": "El País Internacional",
-     "published": "2026-08-02T03:30:01+00:00",
-     "copete": "Las investigaciones para combatir las enfermedades olvidadas atraviesan una situación crítica por los recortes de los países ricos a la ayuda al desarrollo",
-     "id": "860f644f2c28"
-    },
-    {
      "title": "\"El planeta en el que nosotros nacimos ya no existe\": el climatólogo que alerta de la epidemia de eventos extremos y aún así es optimista",
      "link": "https://www.bbc.com/mundo/articles/c24mz1jrnpzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
@@ -430,44 +479,12 @@
      "id": "80fb227b423c"
     },
     {
-     "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
-     "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-02T03:05:16+00:00",
-     "copete": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
-     "id": "f189c87d7484"
-    },
-    {
      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-08-02T00:55:16+00:00",
      "copete": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
      "id": "be8ccf657c9d"
-    },
-    {
-     "title": "Tourist plane crashes in Peru, killing 13",
-     "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-02T00:29:55+00:00",
-     "copete": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
-     "id": "947baee6e271"
-    },
-    {
-     "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-     "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-02T00:02:18+00:00",
-     "copete": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
-     "id": "de5af23a6b21"
-    },
-    {
-     "title": "Una avioneta turística se estrella cerca de las Líneas de Nazca, en Perú, y deja 13 personas muertas",
-     "link": "https://www.bbc.com/mundo/articles/c0ejznr1g9no?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-01T23:26:51+00:00",
-     "copete": "Según informes de las autoridades, la avioneta había despegado del aeropuerto de Pisco. No hay sobrevivientes",
-     "id": "ce4d2a593388"
     }
    ]
   }
@@ -481,11 +498,6 @@
   {
    "section": "cardiologia",
    "feed": "Circulation (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "cardiologia",
-   "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]

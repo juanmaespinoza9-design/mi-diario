@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-02T07:04:46.231358+00:00",
+ "generated_at": "2026-08-02T10:11:45.382916+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -40,22 +40,6 @@
      "source": "TCTMD",
      "published": "2026-08-01T13:15:00+00:00",
      "id": "29b54b134108"
-    },
-    {
-     "title": "Sex Hormone Influences on Cardiovascular Risk. Reply",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42526042/",
-     "source": "NEJM Cardiología",
-     "published": "2026-07-30T00:00:00+00:00",
-     "copete": "Skeith L et al. · The New England journal of medicine",
-     "id": "742ee8759563"
-    },
-    {
-     "title": "Sex Hormone Influences on Cardiovascular Risk",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42526041/",
-     "source": "NEJM Cardiología",
-     "published": "2026-07-30T00:00:00+00:00",
-     "copete": "Bonnet F et al. · The New England journal of medicine",
-     "id": "ba245273fb1b"
     },
     {
      "title": "Clinical Considerations in Management of Hypertrophic Cardiomyopathy in Pregnancy: JACC State-of-the-Art Review",
@@ -191,11 +175,11 @@
      "id": "81ec937364ee"
     },
     {
-     "title": "La revelación de Tomás Cubelli sobre el homenaje a Maradona y las críticas a Los Pumas",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR1lld1ZTWDkyekwwTzRhMUpFejg3eFdhMjE1U0RsYXBqNnY1QzJYT3lUajlISzEzZ1FVZmZyY3VVa1NQLWljb19oVC1ySlljQWpjZmJzZHFpVUtPTG5HcHhSTE05U3ZkR01KTXFEenRxZXpyNlQ3Mm5VdDB4S0d2aXQ5OUdIdlNXSFAyejJoNHo4alpHRUd1RnlFdTZ3RkpOSTZtdm5yMXJFYktnMTZGZDd3RnRUb2Q2bmREazRhT24wZ21nMzRTVjZRVEo5d3BRQ2tpa2p3?oc=5",
-     "source": "ESPN República Dominicana",
-     "published": "2026-08-01T09:23:04+00:00",
-     "id": "38aca14bc855"
+     "title": "Cinco jugadores de Pilar vuelven a decir presente en Los Pumas",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaG9RYTZjclRQSWU3cVJtajE2aEc5bHNRRHFreVhCUXZ3SkJmMHVsZnBueGNSQl90RXMtRFBOLTh4Qkkta25qY0x4alVMSThiOUdxY1pzUGQ2T1Mzekg1bC1FWGVPRXJjM3lsek1Ud2FNUVVKVWlNaDZLRW1BY2xpTUZIU3I4NThZT2lMSkM1MG1IdzJmLVBpZXRwNW0wZlVLYmZCLWdhaWRPZ9IBowFBVV95cUxOQlJlRDlvUnZjS1RXa3czLXJsWTdLMlJGUGxLTXpGd1AxNExOMUZjLXJBM0t3ZXJJeThDRzEydXA5YjJ0czN1TUFaZy1XUTBucXd6MDRCb0l0czI2ZnN0QmFTYm5NTHRfcXNKZnk0M0pRT3RnSlJVV3VBRWIwamdPV3JvQjRRVC0tZU5uZkttTlRwQkprUmNHRlR2aFhuenhGTzJj?oc=5",
+     "source": "diarioresumen.com.ar",
+     "published": "2026-08-01T14:27:28+00:00",
+     "id": "099d8a8aa275"
     },
     {
      "title": "José Pellicena nuevo Gerente de Alto Rendimiento de la Unión Argentina de Rugby",
@@ -221,6 +205,13 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+     "link": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-02T04:21:14+00:00",
+     "id": "91795cf32ccd"
+    },
+    {
      "title": "Open letters about AI development",
      "link": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
      "source": "Simon Willison (IA)",
@@ -237,11 +228,11 @@
      "id": "4f08835bebf4"
     },
     {
-     "title": "Linux desktop market share has hit over 10% in North America",
-     "link": "https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/",
+     "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+     "link": "https://github.com/tom-ilan/cycloidal_gearbox",
      "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-02T03:10:00+00:00",
-     "id": "2efcab80a097"
+     "published": "2026-08-02T02:07:09+00:00",
+     "id": "407ad45120f6"
     },
     {
      "title": "Go 1.27 Interactive Tour",
@@ -264,13 +255,6 @@
      "source": "Hacker News (100+ puntos)",
      "published": "2026-08-01T22:25:12+00:00",
      "id": "e8cc710abd7b"
-    },
-    {
-     "title": "Seedance 2.5",
-     "link": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-01T20:45:12+00:00",
-     "id": "9abc53d7091c"
     },
     {
      "title": "Coding Agents Don’t Need Bigger Context Windows — They Need a Context Compiler",
@@ -304,100 +288,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Joseph Pilates, creador del método de entrenamiento: “Los hábitos incorrectos en el día a día son los responsables de la mayoría de las dolencias”",
-     "link": "https://www.lanacion.com.ar/sociedad/joseph-pilates-creador-del-metodo-de-entrenamiento-los-habitos-incorrectos-en-el-dia-a-dia-son-los-nid02082026/",
+     "title": "Un jugador de la selección argentina reveló la charla que tuvo con su madre sobre las teorías conspirativas por la final del Mundial",
+     "link": "https://www.infobae.com/deportes/2026/08/02/un-jugador-de-la-seleccion-argentina-revelo-la-charla-que-tuvo-con-su-madre-sobre-las-teorias-conspirativas-por-la-final-del-mundial/",
+     "source": "Infobae",
+     "published": "2026-08-02T10:00:37+00:00",
+     "copete": "El defensor del Olympique de Marsella Facundo Medina dio su mirada sobre las conjeturas del partido entre Argentina y España",
+     "id": "3b54fad78795"
+    },
+    {
+     "title": "Dólar hoy y dólar blue hoy: a cuánto cotiza este domingo 2 de agosto",
+     "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-hoy-a-cuanto-cotiza-este-domingo-2-de-agosto-nid02082026/",
      "source": "La Nación",
-     "published": "2026-08-02T07:00:00+00:00",
-     "copete": "Un móvil de LN+ dialogó con la instructora Melani Giommetti, quien sostuvo que “la actividad sirve para fortalecer nuestros músculos de forma consciente y a largo plazo”",
-     "id": "cf389f197254"
+     "published": "2026-08-02T10:00:00+00:00",
+     "copete": "La cotización de la moneda estadounidense se mantiene igual que el último día hábil; cómo fue el comportamiento de la divisa informal y los dólares financieros",
+     "id": "c70e154a0ec5"
     },
     {
-     "title": "Qué es el “pulmón de palomitas de maíz” y por qué puede afectar la respiración",
-     "link": "https://www.infobae.com/salud/ciencia/2026/08/02/que-es-el-pulmon-de-palomitas-de-maiz-y-por-que-puede-afectar-la-respiracion/",
-     "source": "Infobae",
-     "published": "2026-08-02T07:00:00+00:00",
-     "copete": "La afección genera cicatrización que bloquea el flujo de aire y puede llevar a insuficiencia respiratoria, con síntomas graduales como tos seca, sibilancias, disnea y fatiga persistente",
-     "id": "d802935ade32"
-    },
-    {
-     "title": "Pistachos o maní: qué fruto seco elegir para controlar el peso, según la ciencia",
-     "link": "https://www.infobae.com/salud/2026/08/02/pistachos-o-mani-que-fruto-seco-elegir-para-controlar-el-peso-segun-la-ciencia/",
-     "source": "Infobae",
-     "published": "2026-08-02T07:00:00+00:00",
-     "copete": "Especialistas compararon el aporte de proteína, fibra y grasas saludables de estos snacks y detallaron cómo su inclusión en la dieta facilita la saciedad y contribuye a la pérdida de peso en quienes buscan reducir medidas",
-     "id": "75a2f5f5850d"
-    },
-    {
-     "title": "Escapó de una guerra nadando, fue refugiada y llegó a los Juegos Olímpicos: la superación de Yusra Mardini",
-     "link": "https://www.infobae.com/historias/2026/08/02/escapo-de-una-guerra-nadando-fue-refugiada-y-llego-a-los-juegos-olimpicos-la-superacion-de-yusra-mardini/",
-     "source": "Infobae",
-     "published": "2026-08-02T07:00:00+00:00",
-     "copete": "Junto con su hermana se alejaron por agua de Siria y su amor por la natación la llevó a competir dos veces en la cita olímpica",
-     "id": "a0079cfdb5bb"
-    },
-    {
-     "title": "El hijo de Audrey Hepburn reveló secretos y desmintió mitos en una biografía autorizada",
-     "link": "https://www.infobae.com/entretenimiento/2026/08/02/el-hijo-de-audrey-hepburn-revelo-secretos-y-desmintio-mitos-en-una-biografia-autorizada/",
-     "source": "Infobae",
-     "published": "2026-08-02T07:00:00+00:00",
-     "copete": "Sean Hepburn Ferrer reconstruyó la vida cotidiana de la actriz, desarmó rumores sobre su salud y compartió detalles íntimos que muestran una imagen alejada de los estereotipos y más cercana a su verdadera personalidad",
-     "id": "aca97c102b81"
-    },
-    {
-     "title": "Las vacaciones elevan el ánimo antes de viajar y sostienen el efecto tras el regreso",
-     "link": "https://www.infobae.com/tendencias/2026/08/02/las-vacaciones-elevan-el-animo-antes-de-viajar-y-sostienen-el-efecto-tras-el-regreso/",
-     "source": "Infobae",
-     "published": "2026-08-02T07:00:00+00:00",
-     "copete": "La evidencia en psicología del bienestar indica que la anticipación del traslado ya mejora el humor y que la mejora se mantiene por más de seis semanas, según estudios recientes citados por New Scientist",
-     "id": "4765d06c6f72"
-    },
-    {
-     "title": "Trump anunció que Estados Unidos cesará los ataques contra Irán tras un acuerdo alcanzados por sus aliados en la región",
-     "link": "https://www.lanacion.com.ar/el-mundo/trump-anuncio-que-estados-unidos-cesara-los-ataques-contra-iran-tras-un-acuerdo-alcanzados-por-sus-nid02082026/",
+     "title": "Jorge Tartaglione, médico, sobre accidentes domésticos: “Si un niño ingiere lavandina, no hay que provocarle el vómito”",
+     "link": "https://www.lanacion.com.ar/sociedad/jorge-tartaglione-medico-sobre-accidentes-domesticos-si-un-nino-toma-lavandina-no-hay-que-provocarle-nid02082026/",
      "source": "La Nación",
-     "published": "2026-08-02T06:47:13+00:00",
-     "copete": "El mandatario afirmó que el entendimiento contempla la reapertura total del estrecho de Ormuz y el fin de la amenaza nuclear iraní; Israel se suma al compromiso",
-     "id": "d0b928373ac3"
+     "published": "2026-08-02T10:00:00+00:00",
+     "copete": "El especialista explicó en LN+ cómo actuar ante la ingesta accidental de un producto de limpieza y desmintió una creencia popular: la leche no neutraliza el cloro",
+     "id": "d32ae2a19733"
     },
     {
-     "title": "Erica di Cione, profesora de yoga: “No sirve de nada descansar o meditar dos días si vivimos los otros cinco completamente desconectados de nuestras propias necesidades”",
-     "link": "https://www.clarin.com/internacional/erica-di-cione-profesora-yoga-sirve-descansar-meditar-dias-vivimos-completamente-desconectados-propias-necesidades_0_bikNooVj7y.html",
+     "title": "Criptomonedas: cuál es el precio de ethereum este 2 de agosto",
+     "link": "https://www.infobae.com/noticias/2026/08/02/criptomonedas-cual-es-el-precio-de-ethereum-este-2-de-agosto/",
+     "source": "Infobae",
+     "published": "2026-08-02T09:45:32+00:00",
+     "copete": "Ethereum fue lanzada en 2015 por el programador Vitalik Buterin, con la intención de impulsar una herramienta para aplicaciones descentralizadas y colaborativas",
+     "id": "a21046873f66"
+    },
+    {
+     "title": "Dos jóvenes robaron una ferretería, le dispararon en el pecho al dueño y huyeron tras asesinarlo",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/08/02/dos-jovenes-robaron-una-ferreteria-le-dispararon-en-el-pecho-dueno-y-huyeron-tras-asesinarlo/",
+     "source": "Infobae",
+     "published": "2026-08-02T09:28:59+00:00",
+     "copete": "La policía los capturó tras una persecución y secuestró el arma utilizada en el hecho. La víctima del robo, un comerciante del barrio, fue herido de gravedad y falleció en el hospital",
+     "id": "4ee61fa04135"
+    },
+    {
+     "title": "Mientras busca que los argentinos saquen los “dólares del colchón”, Caputo se armó su propio colchón de pesos",
+     "link": "https://www.infobae.com/economia/2026/08/02/mientras-busca-que-los-argentinos-saquen-los-dolares-del-colchon-caputo-se-armo-su-propio-colchon-de-pesos/",
+     "source": "Infobae",
+     "published": "2026-08-02T09:28:08+00:00",
+     "copete": "Un informe resaltó tres logros del manejo de la deuda en moneda local, uno de los cuales facilitará pagar “gastos eventuales” como la compra de moneda extranjera",
+     "id": "e8c97397a55f"
+    },
+    {
+     "title": "Cuál es el valor en el mercado de la criptomoneda bitcoin este 2 de agosto",
+     "link": "https://www.infobae.com/noticias/2026/08/02/cual-es-el-valor-en-el-mercado-de-la-criptomoneda-bitcoin-este-2-de-agosto/",
+     "source": "Infobae",
+     "published": "2026-08-02T09:16:51+00:00",
+     "copete": "La criptomoneda más popular del mercado de activos digitales",
+     "id": "e6992ba6037e"
+    },
+    {
+     "title": "Joan Pros, 77 años, heladero artesano de Sant Cugat: “Tengo diabetes causada por el estrés y no puedo probar mis helados, sólo el de limón”",
+     "link": "https://www.clarin.com/internacional/joan-pros-77-anos-heladero-artesano-sant-cugat-diabetes-causada-estres-puedo-probar-helados-solo-limon_0_9SKJ1tG62a.html",
      "source": "Clarín",
-     "published": "2026-08-02T06:33:13+00:00",
-     "copete": "La especialista explica por qué concentrar todo el descanso en el sábado y el domingo no compensa una semana marcada por el estrés y la falta de pausas.",
-     "id": "fced102f8e78"
+     "published": "2026-08-02T09:09:17+00:00",
+     "copete": "En 1983 abrió puertas su primera heladería y más de 40 años después, el pastelero y heladero Joan Pros revela las claves del éxito: “Ahora abren muchas heladerías, pero solo aguantan las que tienen un sistema diferente”.",
+     "id": "f6f2433f0d21"
     },
     {
-     "title": "Rosalía, la única: del “Madre mía, qué lío el otro día” al concierto que nunca olvidaremos",
-     "link": "https://www.lanacion.com.ar/espectaculos/musica/rosalia-la-unica-del-madre-mia-que-lio-el-otro-dia-al-concierto-que-nunca-olvidaremos-nid02082026/",
-     "source": "La Nación",
-     "published": "2026-08-02T06:09:23+00:00",
-     "copete": "Con un concierto brillante la cantante catalana inicio a su serie de cuatro presentaciones en el Movistar Arena; en el tramo inicial pidió disculpas por el “affaire mundialista”",
-     "id": "212c425b9388"
-    },
-    {
-     "title": "Vi los últimos capítulos de 'La Casa del Dragón' y HBO no sacará nada que supere a 'El Caballero de los Siete Reinos', por ahora",
-     "link": "https://www.clarin.com/estados-unidos/vi-ultimos-capitulos-casa-dragon-hbo-sacara-supere-caballero-reinos-ahora_0_nHK3zGZ1r3.html",
+     "title": "¿Se puede llegar a conocer por completo a una persona?",
+     "link": "https://www.clarin.com/viva/puede-llegar-conocer-completo-persona_0_5xkyaxdVA4.html",
      "source": "Clarín",
-     "published": "2026-08-02T06:01:13+00:00",
-     "copete": "Entre el agotamiento por el exceso de CGI y la parálisis de sus protagonistas, la tercera temporada de 'La Casa del Dragón' vuelve a tropezar con los mismos vicios del final de 'Juego de Tronos'. Analizamos por qué la calidez, la fidelidad…",
-     "id": "6f0694669e90"
+     "published": "2026-08-02T09:05:16+00:00",
+     "copete": "La mayoría respondería que sí, pero la personalidad es una sucesión de modos de ser que emergen según el contexto. Qué visión tienen el psicoanálisis y la neurociencia sobre el tema.",
+     "id": "589003e987c0"
     },
     {
-     "title": "Max Clark conecta su primer jonrón en las mayores y guía a Tigres a triunfo ante A's",
-     "link": "https://www.clarin.com/estados-unidos/max-clark-conecta-su-primer-jonron-en-las-mayores-y-guia-a-tigres-a-triunfo-ante-a-s_0_z7D9f88qqE.html",
+     "title": "Viajes de mujeres: solas o en grupo, el motor imparable del nuevo turismo",
+     "link": "https://www.clarin.com/viajes/viajes-mujeres-solas-grupo-motor-imparable-nuevo-turismo_0_xJnoO4lya0.html",
      "source": "Clarín",
-     "published": "2026-08-02T06:00:04+00:00",
-     "copete": "El novato Max Clark brilló con un jonrón en su segunda noche en la MLB, impulsando a Detroit a vencer 8-6 a Oakland, destacando su rápido impacto. Contribuciones de McGonigle y Torres acercan a los Tigres al comodín, mientras Valdez logra…",
-     "id": "d0349282e3a5"
+     "published": "2026-08-02T09:03:17+00:00",
+     "copete": "Es el segmento que más creció en los últimos 5 años: 30% a nivel mundial. Nidos vacíos, duelos, separaciones o simplemente ganas de escapar de la rutina por unos días. Las claves de un fenómeno sin freno.",
+     "id": "b9f4aa138aa3"
     },
     {
-     "title": "Daniel López Rosetti, médico cardiólogo: “No somos seres racionales, somos seres emocionales que razonan”",
-     "link": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-medico-cardiologo-no-somos-seres-racionales-somos-seres-emocionales-que-razonan-nid02082026/",
-     "source": "La Nación",
-     "published": "2026-08-02T06:00:00+00:00",
-     "copete": "El especialista detalló cómo la actividad programada impacta en la salud mental; además, dijo que el ejercicio físico actúa como una herramienta terapéutica",
-     "id": "f2dd16179d31"
+     "title": "Aníbal Troilo, el virtuoso del bandoneón que siempre está volviendo al barrio",
+     "link": "https://www.clarin.com/viva/anibal-troilo-virtuoso-bandoneon-siempre-volviendo-barrio_0_yoogPvhZWD.html",
+     "source": "Clarín",
+     "published": "2026-08-02T09:03:16+00:00",
+     "copete": "Nació en el Abasto en 1914. Tocó en las mejores orquestas de la época hasta que fundó la suya. También componía y los hacía con poetas como Homero Manzi, Cátulo Castillo y Enrique Cadícamo. Con el Polaco Goyeneche formó una sociedad…",
+     "id": "a4e973077393"
+    },
+    {
+     "title": "El viaje por la mudanza a una nueva casa que terminó en tragedia: la historia de la familia que murió en el choque en Luján",
+     "link": "https://www.clarin.com/sociedad/viaje-mudanza-nueva-casa-termino-tragedia-historia-familia-murio-choque-lujan_0_LFrWbXsnC6.html",
+     "source": "Clarín",
+     "published": "2026-08-02T09:01:19+00:00",
+     "copete": "Emiliano Moreira y Tamara Gildi Albarenque iban de Parada Robles a Torres cuando los embistió un camión en la ruta 192. También fallecieron las tres hijas de la pareja y otros dos de la mujer. Y el novio de una de las chicas está grave.",
+     "id": "3d8aa3364d49"
     }
    ]
   },
@@ -407,12 +391,44 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+     "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+     "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-02T10:02:19+00:00",
+     "copete": "The vessel with 271 people on board caught fire off Madura island.",
+     "id": "9cb28f9ebed5"
+    },
+    {
+     "title": "Por qué el dios griego Kairós sigue siendo tan importante en los momentos clave de nuestras vidas",
+     "link": "https://www.bbc.com/mundo/articles/c5yz4zx825yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-02T09:43:21+00:00",
+     "copete": "Los antiguos griegos no solo imaginaron un dios para representar la oportunidad: desarrollaron toda una forma de entender la vida que ayuda a decidir, actuar... e incluso hablar.",
+     "id": "837be7536b51"
+    },
+    {
+     "title": "Donald Trump dice que suspende los ataques contra Irán a la espera de un acuerdo rápido",
+     "link": "https://elpais.com/internacional/2026-08-02/donald-trump-dice-que-suspende-los-ataques-contra-iran-a-la-espera-de-un-acuerdo-rapido.html",
+     "source": "El País Internacional",
+     "published": "2026-08-02T09:14:50+00:00",
+     "copete": "El presidente de EE UU asegura haber tomado la decisión a petición de Teherán y de otros países de la región",
+     "id": "a26be24dec90"
+    },
+    {
+     "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-02T06:24:01+00:00",
+     "published": "2026-08-02T09:10:51+00:00",
      "copete": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
      "id": "f189c87d7484"
+    },
+    {
+     "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
+     "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-02T07:58:51+00:00",
+     "copete": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more.",
+     "id": "f1a2a5ceb777"
     },
     {
      "title": "Al menos 13 turistas mueren en un accidente de avioneta sobre las Líneas de Nazca, en Perú",
@@ -429,14 +445,6 @@
      "published": "2026-08-02T05:40:42+00:00",
      "copete": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
      "id": "de5af23a6b21"
-    },
-    {
-     "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-     "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-02T05:26:39+00:00",
-     "copete": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-     "id": "2402b417b76f"
     },
     {
      "title": "La tormenta política en Europa que desató la llegada de miles de migrantes africanos a Ceuta",
@@ -461,30 +469,6 @@
      "published": "2026-08-02T03:30:01+00:00",
      "copete": "El alcalde de Nueva York, alentado por sus éxitos en las primarias demócratas, estrecha lazos con la congresista, que tantea una posible candidatura a la presidencia",
      "id": "740f5d28bef4"
-    },
-    {
-     "title": "Yakarta, la ciudad más poblada del mundo, se hunde en el mar de Java",
-     "link": "https://elpais.com/internacional/2026-08-02/yakarta-la-ciudad-mas-poblada-del-mundo-se-hunde-en-el-mar-de-java.html",
-     "source": "El País Internacional",
-     "published": "2026-08-02T03:30:01+00:00",
-     "copete": "Con 42 millones de habitantes, la capital de Indonesia es la más expuesta al aumento del nivel de los océanos, está contaminada y sus ciudadanos viven hacinados. Viaje a la gran metrópolis asiática del siglo XXI",
-     "id": "384d61a3f9e4"
-    },
-    {
-     "title": "\"El planeta en el que nosotros nacimos ya no existe\": el climatólogo que alerta de la epidemia de eventos extremos y aún así es optimista",
-     "link": "https://www.bbc.com/mundo/articles/c24mz1jrnpzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-02T03:24:57+00:00",
-     "copete": "El climatólogo Raúl Cordero explicó a BBC Mundo por qué el hemisferio norte se está calentando casi al doble de rápido que el hemisferio sur, qué esperar del efecto combinado del cambio climático y El Niño, y cómo, a pesar de todo…",
-     "id": "80fb227b423c"
-    },
-    {
-     "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-     "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-02T00:55:16+00:00",
-     "copete": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-     "id": "be8ccf657c9d"
     }
    ]
   }
@@ -498,6 +482,11 @@
   {
    "section": "cardiologia",
    "feed": "Circulation (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "cardiologia",
+   "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]

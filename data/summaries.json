@@ -1,12 +1,8 @@
 {
-  "generated_at": "2026-08-03T10:04:47Z",
+  "generated_at": "2026-08-03T22:10:00Z",
   "summaries": {
     "57b04f320996": {
       "resumen": "Artículo del European Heart Journal (EHJ) sobre cómo está cambiando el panorama de las cardiopatías congénitas del adulto, reflejo de que cada vez más pacientes con cardiopatías congénitas sobreviven hasta la vida adulta gracias a los avances en cirugía y seguimiento pediátrico. Interesa a cualquier cardiólogo clínico porque este grupo de pacientes crece y requiere manejo especializado a largo plazo. El contenido capturado por el feed remite solo a una leyenda de figura, así que conviene revisar la fuente original para el texto completo.",
-      "destacado": false
-    },
-    "e30d63755a5d": {
-      "resumen": "Nota de TCTMD sobre el rol de ser la consulta telefónica de confianza (\"phone-a-friend\") cuando un colega necesita una segunda opinión rápida ante un caso complejo. Repasa cómo dar una devolución útil bajo presión, aun sin estar presente físicamente en el caso.",
       "destacado": false
     },
     "29b54b134108": {
@@ -15,10 +11,6 @@
     },
     "ba23c4b96b56": {
       "resumen": "Nota de TCTMD (sitio especializado en cardiología intervencionista) sobre un algoritmo rápido para evaluar la pérdida de pulsatilidad (el pulso arterial normal) en un paciente que colapsa hemodinámicamente, un signo de alarma frecuente en el shock cardiogénico y en pacientes con soporte circulatorio mecánico. Aporta una guía práctica de cabecera para la terapia intensiva cardiovascular ante una descompensación aguda.",
-      "destacado": false
-    },
-    "2b6dae079ebf": {
-      "resumen": "Nota práctica de TCTMD sobre cómo resolver los problemas técnicos más frecuentes con el uso de electrocirugía durante procedimientos cardiovasculares. Funciona como guía de bolsillo para el operador que se topa con fallas del equipo en la sala de hemodinamia o de electrofisiología.",
       "destacado": false
     },
     "cda43ae0da22": {
@@ -42,54 +34,75 @@
       "resumen": "Respuesta de los autores en JACC a una carta sobre la relación entre la lipoproteína(a) y el riesgo cardiovascular según los distintos estratos de calcio coronario. Sirve para entender mejor cómo interactúan estos dos marcadores de riesgo en la estratificación de pacientes.",
       "destacado": false
     },
-    "d2eab56fecac": {
-      "resumen": "Publicación popular en Hacker News (comunidad de tecnología) que advierte contra el rol de \"proxy humano\" que transmite sin criterio propio las respuestas generadas por sistemas de inteligencia artificial, sin agregar valor ni supervisión. Le sirve a un médico que aprende análisis de datos como recordatorio de mantener el juicio crítico por sobre la automatización ciega al usar herramientas de IA.",
+    "47df4642c1c1": {
+      "resumen": "Repaso de TCTMD (sitio de referencia en cardiología intervencionista) con las diez noticias más leídas de julio 2026 entre su audiencia. Sirve como termómetro rápido de qué temas concentraron el interés de la comunidad de hemodinamia y cardiología intervencionista ese mes, aunque no aporta datos originales propios.",
       "destacado": false
     },
-    "c72d7eda875d": {
-      "resumen": "Publicación personal en Hacker News, a juzgar por el título, relacionada con un proceso de asimilación cultural o lingüística al alemán que llega a superar el de los propios nativos. El resumen es tentativo porque el título no permite anticipar con precisión el contenido ni datos concretos; vale revisar la fuente original antes de sacar conclusiones.",
+    "0ad2aa6455bb": {
+      "resumen": "Cobertura del ensayo ZEUS, que evaluó si ziltivekimab —un anticuerpo monoclonal que bloquea la interleucina 6 (IL-6), una vía inflamatoria implicada en la aterosclerosis— reducía los eventos cardiovasculares adversos mayores (MACE, major adverse cardiovascular events) en pacientes con enfermedad cardiovascular aterosclerótica (ASCVD). Según el título, el fármaco no logró el objetivo primario, lo que golpea a la hipótesis inflamatoria como blanco terapéutico en prevención secundaria.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico (se infiere del nombre \"ZEUS Trial\"); no se cuenta con el abstract completo, por lo que no puedo precisar aleatorización, ciego, número de centros ni de pacientes incluidos.\nPoblación: Según el título, pacientes con enfermedad cardiovascular aterosclerótica (ASCVD). Estudios de esta clase de fármacos suelen enrolar además pacientes con enfermedad renal crónica y proteína C reactiva elevada, pero esto no está confirmado por el abstract.\nIntervención: Ziltivekimab (anticuerpo monoclonal anti-interleucina 6, IL-6) frente a placebo, según se infiere del nombre del ensayo y la clase de fármaco.\nResultados: El título indica que el fármaco \"fails to reduce MACE\" (no logró reducir los eventos cardiovasculares adversos mayores); no dispongo de las cifras de riesgo relativo, intervalos de confianza ni valor de p.\nLimitaciones: Sin abstract no puedo evaluar la potencia estadística, el tiempo de seguimiento ni posibles desbalances basales; un título puede simplificar un resultado más matizado (por ejemplo, efecto en subgrupos o en marcadores inflamatorios).\nMensaje: De confirmarse, sería un nuevo tropiezo para la hipótesis inflamatoria (bloqueo de IL-6) como estrategia antiaterosclerótica, tras resultados mixtos con otras terapias antiinflamatorias; conviene esperar la publicación completa antes de sacar conclusiones para la práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "ba0eba8bc107": {
+      "resumen": "Nota sobre el relanzamiento de C-Kermit, el clásico protocolo y programa de transferencia de archivos y comunicaciones, que cumple 45 años con su primera actualización en 15. Es una curiosidad de la historia de la computación más que una herramienta de análisis de datos, pero sirve como ejemplo de mantenimiento de software de larga vida sobre una base de código de décadas.",
       "destacado": false
     },
-    "089cb7b69587": {
-      "resumen": "Hilo semanal fijo de r/datascience (foro de Reddit sobre ciencia de datos) para preguntas de quienes buscan iniciarse o hacer una transición de carrera hacia el análisis de datos. Le sirve a un médico en transición profesional porque concentra consejos y experiencias de otros que están atravesando el mismo cambio.",
-      "destacado": false
-    },
-    "7ecb1310becc": {
-      "resumen": "Publicación en r/datascience donde un usuario comparte reflexiones sobre su paso laboral por el área de ciencia de datos de Airbnb. Aporta una mirada de primera mano sobre cómo se trabaja con datos en una empresa tecnológica grande, útil para quien evalúa una transición de carrera hacia la industria.",
-      "destacado": false
-    },
-    "f1afe25775a0": {
-      "resumen": "Anuncio del lanzamiento de Qwen3.8-Max, la nueva versión del modelo de inteligencia artificial de la familia Qwen (desarrollada por Alibaba), con foco en programación asistida y trabajo colaborativo. Le sirve a un médico que aprende análisis de datos para seguir de cerca la carrera de modelos de IA que compiten como asistentes de programación y análisis.",
-      "destacado": false
-    },
-    "37212835e9a4": {
-      "resumen": "Presentación en Hacker News de Isopolis, un mapa isométrico en estilo pixel art de la ciudad de San Francisco. Es un proyecto creativo de visualización geográfica más que de ciencia de datos estricta, pero sirve como ejemplo de storytelling visual aplicado a datos urbanos.",
-      "destacado": false
-    },
-    "9af221d9f202": {
-      "resumen": "Anuncio de Simon Willison (desarrollador y divulgador de inteligencia artificial) sobre el lanzamiento de la versión 1.0 de condense-json, una pequeña librería para simplificar JSON que ya lleva año y medio de desarrollo. Le sirve a un médico que aprende análisis de datos como ejemplo de buenas prácticas de mantenimiento y versionado de herramientas para el manejo de datos estructurados.",
-      "destacado": false
-    },
-    "44e3e0fe01cf": {
-      "resumen": "Simon Willison (desarrollador y referente en inteligencia artificial) resume las últimas cartas abiertas sobre el desarrollo de la inteligencia artificial (IA), entre ellas la iniciativa \"Open Weights and American AI Leadership\". Le sirve a un médico que aprende análisis de datos para entender el debate político y regulatorio que está moldeando hacia dónde va la IA que después va a usar en su práctica.",
-      "destacado": false
-    },
-    "1d380470842c": {
-      "resumen": "Artículo de Towards Data Science que explica cómo aplicar agentes de inteligencia artificial diseñados originalmente para programar a tareas que no son de programación, aprovechando su capacidad de planificar y ejecutar pasos de forma autónoma. Le sirve a un médico que aprende análisis de datos porque muestra cómo extender estas herramientas a flujos de trabajo clínicos o administrativos.",
+    "1d30f6b4cb1d": {
+      "resumen": "Artículo de Towards Data Science que desglosa la arquitectura de un sistema de generación aumentada por recuperación (RAG, retrieval-augmented generation) en tres capas de ingeniería: el diseño del prompt, el armado del contexto (qué información se recupera) y el bucle de ejecución que coordina todo. Le sirve a un médico que aprende análisis de datos porque ordena conceptualmente cómo construir sistemas que responden preguntas a partir de documentos propios (por ejemplo, historias clínicas o guías) en vez de depender solo de lo que el modelo ya sabe de memoria.",
       "destacado": true
     },
-    "680de8d87dcb": {
-      "resumen": "Guía práctica de Towards Data Science sobre cómo reemplazar un proceso de reserva manual de 15 minutos por un agente de inteligencia artificial construido con LangGraph, con monitoreo mediante Langfuse. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de cómo automatizar un flujo de atención al público con herramientas de IA de código abierto.",
+    "ff4ecb27326b": {
+      "resumen": "Publicación de OpenAI que repasa diez avances recientes en matemática y ciencias de la computación teórica, vinculados al uso de inteligencia artificial para asistir en demostraciones y descubrimientos formales. Le sirve a un médico que aprende análisis de datos como panorama de hasta dónde puede llegar la inteligencia artificial en el razonamiento formal, más allá de las aplicaciones típicas de procesamiento de lenguaje.",
       "destacado": false
     },
-    "5a0ac00d7f8f": {
-      "resumen": "El seleccionado argentino de rugby seven, Los Pumas 7's, terminó en la quinta posición en la etapa de Vancouver del circuito mundial."
+    "765bf45633e2": {
+      "resumen": "Simon Willison (desarrollador y divulgador de inteligencia artificial) cita y comenta un prompt de David Crawshaw, ingeniero de software, sobre cómo instruir con precisión a un modelo de lenguaje. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de buenas prácticas para redactar instrucciones (prompts) efectivas para herramientas de inteligencia artificial.",
+      "destacado": false
     },
-    "b59bc79586a4": {
-      "resumen": "Varios entrenadores del Nations Championship cuestionaron los nuevos protocolos arbitrales implementados por World Rugby, el organismo que rige el rugby a nivel mundial."
+    "12c110366b00": {
+      "resumen": "Nota de KDnuggets que evalúa si MiniMax Agent, un asistente de inteligencia artificial para tareas de trabajo, cumple lo que promete en términos de productividad real. Le sirve a un médico que aprende análisis de datos para juzgar con espíritu crítico el valor agregado de estos agentes antes de incorporarlos a su flujo de trabajo diario.",
+      "destacado": false
     },
-    "12d6658ae03e": {
-      "resumen": "Un ex jugador de Los Pumas admitió su arrepentimiento por no haber participado del homenaje a Diego Maradona en su momento, y lo reconoció con la clásica frase \"con el diario del lunes\"."
+    "8cab3fc10a7d": {
+      "resumen": "Hilo de r/datascience (foro de Reddit sobre ciencia de datos) donde se discute si permanecer más de 4 o 5 años en el mismo puesto perjudica la carrera profesional en el área. Le sirve a un médico en transición hacia el análisis de datos para calibrar expectativas sobre la movilidad laboral típica de esta industria.",
+      "destacado": false
+    },
+    "5439cd2e0524": {
+      "resumen": "Simon Willison comenta y amplifica un posteo de exe.dev que argumenta por qué las herramientas de desarrollo (devtools) deberían ser de código abierto. Le sirve a un médico que aprende análisis de datos para entender por qué buena parte del ecosistema de ciencia de datos (notebooks, librerías, entornos) se apoya en herramientas abiertas y qué se gana en transparencia y confianza al usarlas.",
+      "destacado": false
+    },
+    "9aa219a1841f": {
+      "resumen": "Guía práctica de Towards Data Science para construir agentes de línea de comandos (CLI, command-line interface) usando Python y Ollama, una herramienta que permite correr modelos de lenguaje de forma local. Le sirve a un médico que aprende análisis de datos como tutorial concreto para automatizar tareas con inteligencia artificial sin depender de servicios en la nube ni exponer datos sensibles.",
+      "destacado": false
+    },
+    "109216a3d979": {
+      "resumen": "Publicación original de exe.dev que sostiene que las herramientas de desarrollo (devtools) deberían ser de código abierto, para evitar la dependencia de un proveedor y permitir auditar cómo funcionan. Le sirve a un médico que aprende análisis de datos como argumento a favor de priorizar herramientas abiertas (por ejemplo Python, Jupyter) frente a soluciones cerradas.",
+      "destacado": false
+    },
+    "f1fe3fd0e98c": {
+      "resumen": "Andy Pavlo, reconocido investigador en bases de datos, se suma a ClickHouse (motor de base de datos columnar orientado al análisis de grandes volúmenes de datos) para fundar ClickHouse Labs, su nuevo laboratorio de investigación. Le sirve a un médico que aprende análisis de datos para conocer una de las bases usadas en análisis a gran escala y hacia dónde evoluciona su investigación.",
+      "destacado": false
+    },
+    "3a9af51dcead": {
+      "resumen": "Un dirigente salteño tomó como modelo el trabajo formativo de Tucumán Rugby para lanzar el primer Torneo Nacional de Clubes M-17 en Salta."
+    },
+    "5bddcc4d067e": {
+      "resumen": "Los Pumas redoblan la preparación con la ilusión de repetir la hazaña que lograron hace un año en una fecha similar."
+    },
+    "26e9614a1c05": {
+      "resumen": "River acordó ceder a préstamo a un jugador en el exterior, lo que le da más margen de tiempo para sumar refuerzos."
+    },
+    "dc6dfeaf6020": {
+      "resumen": "Un repaso de cómo se entrenará Los Pumas esta semana de cara al partido ante Sudáfrica que se jugará en el estadio de Vélez."
+    },
+    "a9f4d2b1e001": {
+      "resumen": "Un estudio destacado encontró que la vaginosis bacteriana triplicaría el riesgo de contraer infecciones de transmisión sexual (ITS)."
+    },
+    "ceebdc62fe65": {
+      "resumen": "Un nuevo anillo inteligente promete monitorear en forma no invasiva los niveles de azúcar en sangre y de alcohol."
+    },
+    "dd2fb11f9ae4": {
+      "resumen": "Los agonistas del receptor del péptido similar al glucagón tipo 1 (GLP-1), usados para diabetes y obesidad, podrían asociarse a un mayor riesgo de caída de cabello."
     }
   }
 }

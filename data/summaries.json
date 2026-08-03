@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-02T21:20:00Z",
+  "generated_at": "2026-08-03T10:04:47Z",
   "summaries": {
+    "57b04f320996": {
+      "resumen": "Artículo del European Heart Journal (EHJ) sobre cómo está cambiando el panorama de las cardiopatías congénitas del adulto, reflejo de que cada vez más pacientes con cardiopatías congénitas sobreviven hasta la vida adulta gracias a los avances en cirugía y seguimiento pediátrico. Interesa a cualquier cardiólogo clínico porque este grupo de pacientes crece y requiere manejo especializado a largo plazo. El contenido capturado por el feed remite solo a una leyenda de figura, así que conviene revisar la fuente original para el texto completo.",
+      "destacado": false
+    },
+    "e30d63755a5d": {
+      "resumen": "Nota de TCTMD sobre el rol de ser la consulta telefónica de confianza (\"phone-a-friend\") cuando un colega necesita una segunda opinión rápida ante un caso complejo. Repasa cómo dar una devolución útil bajo presión, aun sin estar presente físicamente en el caso.",
+      "destacado": false
+    },
+    "29b54b134108": {
+      "resumen": "Nota de TCTMD sobre el uso emergente y de rescate del soporte circulatorio mecánico (MCS) y de la reanimación cardiopulmonar extracorpórea (ECPR, extracorporeal cardiopulmonary resuscitation) frente a un paro o colapso hemodinámico súbito. Interesa por tratarse de herramientas de última línea cada vez más presentes en hemodinamia y terapia intensiva cardiovascular.",
+      "destacado": false
+    },
+    "ba23c4b96b56": {
+      "resumen": "Nota de TCTMD (sitio especializado en cardiología intervencionista) sobre un algoritmo rápido para evaluar la pérdida de pulsatilidad (el pulso arterial normal) en un paciente que colapsa hemodinámicamente, un signo de alarma frecuente en el shock cardiogénico y en pacientes con soporte circulatorio mecánico. Aporta una guía práctica de cabecera para la terapia intensiva cardiovascular ante una descompensación aguda.",
+      "destacado": false
+    },
+    "2b6dae079ebf": {
+      "resumen": "Nota práctica de TCTMD sobre cómo resolver los problemas técnicos más frecuentes con el uso de electrocirugía durante procedimientos cardiovasculares. Funciona como guía de bolsillo para el operador que se topa con fallas del equipo en la sala de hemodinamia o de electrofisiología.",
+      "destacado": false
+    },
+    "cda43ae0da22": {
+      "resumen": "Caso clínico de TCTMD que describe una complicación grave durante la revascularización completa en el infarto agudo de miocardio con elevación del ST (IAMCEST, o STEMI por sus siglas en inglés): la perforación de un vaso no culpable derivó en trombosis del tronco de la coronaria izquierda (left main) y paro cardíaco. Sirve como advertencia sobre los riesgos de tratar lesiones no culpables durante la angioplastia primaria.",
+      "destacado": false
+    },
     "896f1b64c954": {
       "resumen": "Revisión del estado del arte publicada en JACC (Journal of the American College of Cardiology) sobre el manejo clínico de la miocardiopatía hipertrófica (MCH) durante el embarazo. Es un tema de nicho pero con impacto directo en las decisiones de manejo multidisciplinario de pacientes jóvenes.",
       "destacado": false
@@ -18,61 +42,36 @@
       "resumen": "Respuesta de los autores en JACC a una carta sobre la relación entre la lipoproteína(a) y el riesgo cardiovascular según los distintos estratos de calcio coronario. Sirve para entender mejor cómo interactúan estos dos marcadores de riesgo en la estratificación de pacientes.",
       "destacado": false
     },
-    "23b0db17ac4a": {
-      "resumen": "Revisión del European Heart Journal (EHJ) sobre la evolución del conocimiento en biología vascular y los mecanismos moleculares recientemente descubiertos que abrirían la puerta a nuevos blancos terapéuticos. El contenido capturado remite solo a la leyenda de una figura, por lo que parece tratarse de un elemento gráfico o de portada más que del texto completo; de todos modos, sirve como disparador para seguir la actualización en fisiopatología vascular en la fuente original.",
+    "d2eab56fecac": {
+      "resumen": "Publicación popular en Hacker News (comunidad de tecnología) que advierte contra el rol de \"proxy humano\" que transmite sin criterio propio las respuestas generadas por sistemas de inteligencia artificial, sin agregar valor ni supervisión. Le sirve a un médico que aprende análisis de datos como recordatorio de mantener el juicio crítico por sobre la automatización ciega al usar herramientas de IA.",
       "destacado": false
     },
-    "81ec937364ee": {
-      "resumen": "El entrenador de Los Pumas Justo Piccardo se refirió a la posibilidad de que Domingo Miotti opte por jugar para Italia en lugar de para el seleccionado argentino, y aclaró que la decisión final le corresponde al jugador."
-    },
-    "b4ffd8c082ec": {
-      "resumen": "Nota de TCTMD (sitio especializado en cardiología intervencionista) sobre cómo hablar con la familia de un paciente en el contexto posterior a una catástrofe o un evento adverso grave. Aporta herramientas de comunicación útiles para cualquier médico que deba dar malas noticias o acompañar a familiares en situaciones críticas.",
+    "c72d7eda875d": {
+      "resumen": "Publicación personal en Hacker News, a juzgar por el título, relacionada con un proceso de asimilación cultural o lingüística al alemán que llega a superar el de los propios nativos. El resumen es tentativo porque el título no permite anticipar con precisión el contenido ni datos concretos; vale revisar la fuente original antes de sacar conclusiones.",
       "destacado": false
     },
-    "8906367994ed": {
-      "resumen": "Columna personal en TCTMD donde un profesional de la cardiología intervencionista repasa las ventajas y desventajas de las redes sociales en la vida profesional, y por qué decidió alejarse de ellas. Invita a pensar el uso de las redes sociales en el ejercicio médico y su impacto en el bienestar personal.",
+    "089cb7b69587": {
+      "resumen": "Hilo semanal fijo de r/datascience (foro de Reddit sobre ciencia de datos) para preguntas de quienes buscan iniciarse o hacer una transición de carrera hacia el análisis de datos. Le sirve a un médico en transición profesional porque concentra consejos y experiencias de otros que están atravesando el mismo cambio.",
       "destacado": false
     },
-    "e30d63755a5d": {
-      "resumen": "Nota de TCTMD sobre el rol de ser la consulta telefónica de confianza (\"phone-a-friend\") cuando un colega necesita una segunda opinión rápida ante un caso complejo. Repasa cómo dar una devolución útil bajo presión, aun sin estar presente físicamente en el caso.",
+    "7ecb1310becc": {
+      "resumen": "Publicación en r/datascience donde un usuario comparte reflexiones sobre su paso laboral por el área de ciencia de datos de Airbnb. Aporta una mirada de primera mano sobre cómo se trabaja con datos en una empresa tecnológica grande, útil para quien evalúa una transición de carrera hacia la industria.",
       "destacado": false
     },
-    "29b54b134108": {
-      "resumen": "Nota de TCTMD sobre el uso emergente y de rescate del soporte circulatorio mecánico (MCS) y de la reanimación cardiopulmonar extracorpórea (ECPR, extracorporeal cardiopulmonary resuscitation) frente a un paro o colapso hemodinámico súbito. Interesa por tratarse de herramientas de última línea cada vez más presentes en hemodinamia y terapia intensiva cardiovascular.",
+    "f1afe25775a0": {
+      "resumen": "Anuncio del lanzamiento de Qwen3.8-Max, la nueva versión del modelo de inteligencia artificial de la familia Qwen (desarrollada por Alibaba), con foco en programación asistida y trabajo colaborativo. Le sirve a un médico que aprende análisis de datos para seguir de cerca la carrera de modelos de IA que compiten como asistentes de programación y análisis.",
+      "destacado": false
+    },
+    "37212835e9a4": {
+      "resumen": "Presentación en Hacker News de Isopolis, un mapa isométrico en estilo pixel art de la ciudad de San Francisco. Es un proyecto creativo de visualización geográfica más que de ciencia de datos estricta, pero sirve como ejemplo de storytelling visual aplicado a datos urbanos.",
+      "destacado": false
+    },
+    "9af221d9f202": {
+      "resumen": "Anuncio de Simon Willison (desarrollador y divulgador de inteligencia artificial) sobre el lanzamiento de la versión 1.0 de condense-json, una pequeña librería para simplificar JSON que ya lleva año y medio de desarrollo. Le sirve a un médico que aprende análisis de datos como ejemplo de buenas prácticas de mantenimiento y versionado de herramientas para el manejo de datos estructurados.",
       "destacado": false
     },
     "44e3e0fe01cf": {
       "resumen": "Simon Willison (desarrollador y referente en inteligencia artificial) resume las últimas cartas abiertas sobre el desarrollo de la inteligencia artificial (IA), entre ellas la iniciativa \"Open Weights and American AI Leadership\". Le sirve a un médico que aprende análisis de datos para entender el debate político y regulatorio que está moldeando hacia dónde va la IA que después va a usar en su práctica.",
-      "destacado": false
-    },
-    "4f08835bebf4": {
-      "resumen": "Newsletter mensual de Simon Willison con un repaso de julio de 2026, que incluye casos de ciberataques accidentales protagonizados por modelos de OpenAI y de Anthropic bajo prueba. Es un buen resumen periódico para mantenerse al tanto de los riesgos y las novedades de la inteligencia artificial sin seguir el día a día.",
-      "destacado": false
-    },
-    "ba23c4b96b56": {
-      "resumen": "Nota de TCTMD (sitio especializado en cardiología intervencionista) sobre un algoritmo rápido para evaluar la pérdida de pulsatilidad (el pulso arterial normal) en un paciente que colapsa hemodinámicamente, un signo de alarma frecuente en el shock cardiogénico y en pacientes con soporte circulatorio mecánico. Aporta una guía práctica de cabecera para la terapia intensiva cardiovascular ante una descompensación aguda.",
-      "destacado": false
-    },
-    "48afa44b502f": {
-      "resumen": "Se confirmaron el calendario y las sedes del Circuito Mundial de Seven 2026/27, el torneo internacional de rugby seven en el que compite el seleccionado argentino Los Pumas 7's."
-    },
-    "099d8a8aa275": {
-      "resumen": "Cinco jugadores del club Pilar fueron convocados nuevamente al seleccionado argentino de rugby Los Pumas."
-    },
-    "13284c1d0ba3": {
-      "resumen": "Hilo en r/datascience (foro de Reddit sobre ciencia de datos) donde se debate el pasaje del ámbito académico de salud pública hacia la industria privada en roles de ciencia de datos. Le sirve a un médico en transición profesional porque plantea de primera mano los desafíos de ese cambio de carrera.",
-      "destacado": false
-    },
-    "7149d5874ca5": {
-      "resumen": "Explicador del centro de estudios Pew sobre qué tan preciso es realmente un sondeo de opinión y cómo interpretar el margen de error. Le sirve a un médico que aprende análisis de datos porque el margen de error y los intervalos de confianza son la misma lógica estadística que se usa para interpretar resultados de estudios clínicos.",
-      "destacado": false
-    },
-    "e489345f5857": {
-      "resumen": "Presentación en Hacker News de Kakehashi, una capa experimental que permite ejecutar binarios de macOS sobre Linux en arquitectura ARM. Es un tema de nicho en sistemas operativos, pero interesa a quien arma su propio entorno de trabajo para análisis de datos en distintas plataformas de hardware.",
-      "destacado": false
-    },
-    "87ddc22c57fe": {
-      "resumen": "Pieza de periodismo de datos de The Pudding sobre cómo cambiaron con el tiempo las palabras que se enseñan a quienes aprenden inglés como segunda lengua. Sirve como ejemplo de storytelling con datos y visualización aplicada a un tema educativo, una habilidad transferible al análisis de datos en salud.",
       "destacado": false
     },
     "1d380470842c": {
@@ -83,13 +82,14 @@
       "resumen": "Guía práctica de Towards Data Science sobre cómo reemplazar un proceso de reserva manual de 15 minutos por un agente de inteligencia artificial construido con LangGraph, con monitoreo mediante Langfuse. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de cómo automatizar un flujo de atención al público con herramientas de IA de código abierto.",
       "destacado": false
     },
-    "22653e73e841": {
-      "resumen": "Nota en Hacker News sobre los veinte años del proyecto RISC OS Open, un sistema operativo de código abierto derivado del histórico RISC OS británico. Es un tema de nicho en historia de la computación, con interés relativo para quien recién se inicia en análisis de datos.",
-      "destacado": false
+    "5a0ac00d7f8f": {
+      "resumen": "El seleccionado argentino de rugby seven, Los Pumas 7's, terminó en la quinta posición en la etapa de Vancouver del circuito mundial."
     },
-    "2e112e6aa3f2": {
-      "resumen": "Presentación en Hacker News de F*, un lenguaje de programación de propósito general orientado a la verificación formal de programas mediante demostraciones matemáticas. Interesa como introducción a la verificación formal, un enfoque riguroso que también inspira herramientas de validación de código usadas en ciencia de datos.",
-      "destacado": false
+    "b59bc79586a4": {
+      "resumen": "Varios entrenadores del Nations Championship cuestionaron los nuevos protocolos arbitrales implementados por World Rugby, el organismo que rige el rugby a nivel mundial."
+    },
+    "12d6658ae03e": {
+      "resumen": "Un ex jugador de Los Pumas admitió su arrepentimiento por no haber participado del homenaje a Diego Maradona en su momento, y lo reconoció con la clásica frase \"con el diario del lunes\"."
     }
   }
 }

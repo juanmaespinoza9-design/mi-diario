@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-08-04T20:03:27.833657+00:00",
+ "generated_at": "2026-08-04T21:42:26.684092+00:00",
  "sections": [
   {
    "id": "cardiologia",
    "title": "Cardiología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Marvin ‘Marv’ Woodall, Cardiovascular Catalyst, Dies at 88",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVmNGT2d3c0dqZjJ5VDY0SXVWZ1JoREdOUk1ieWc0dURGUUduay10TmdIR1BaRGJ6Nk9aQXVmR2pTTG5vdWlEUC1lY3hEWWJFWnRRcDNoTFRWeFlLMXJZZFdpZlFXdUVjUHo1RFIxVHFzejZJdG9od3dTZlV5VERySFBscEQ?oc=5",
+     "source": "TCTMD",
+     "published": "2026-08-04T20:25:37+00:00",
+     "id": "d3532726c97a"
+    },
     {
      "title": "In-Hospital Mortality After M-TEER Doesn’t Diverge by Sex",
      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYmxqOC1WY0RWckptRVZkWXB1YWRWbFE5QVY4YVQ4NkYzOVdkVFBpajdFVXNBd1Q4cEdnbEdtTUxyYUF5WWFUUTRCTExacVA4bGlnSFNPQURVVHNFX080S19IeUZOM01TT2s4RE5QTF9tYmlmWkJCV29uRVR0Mi12TTdKOA?oc=5",
@@ -19,38 +26,6 @@
      "source": "TCTMD",
      "published": "2026-08-04T17:17:30+00:00",
      "id": "ee195a1ef15d"
-    },
-    {
-     "title": "Incidence and Predictors of Extracranial Bleeding on Oral Anticoagulants for Stroke Prevention in Patients With Atrial Fibrillation: A COMBINE-AF Analysis",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42549517/",
-     "source": "Circulation",
-     "published": "2026-08-04T00:00:00+00:00",
-     "copete": "Siegal DM et al. · Circulation",
-     "id": "97074bfbbffb"
-    },
-    {
-     "title": "Facilitation of Autophagosome-Lysosome Fusion by LAPTM4A: A Novel Strategy for Attenuating Myocardial Ischemia-Reperfusion Injury",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42549514/",
-     "source": "Circulation",
-     "published": "2026-08-04T00:00:00+00:00",
-     "copete": "Zhou S et al. · Circulation",
-     "id": "834a21eb2806"
-    },
-    {
-     "title": "COL1A1-Enhanced CD44/SLC7A11 Interaction and Cystine Uptake Result in CD34(+) Foam-Like Macrophage Accumulation in Transplant Arteriosclerosis",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42549511/",
-     "source": "Circulation",
-     "published": "2026-08-04T00:00:00+00:00",
-     "copete": "Wu J et al. · Circulation",
-     "id": "6090de8aa305"
-    },
-    {
-     "title": "Loss of the Coronary Artery Disease Risk Gene LMOD1 in Vascular Smooth Muscle Cells Triggers Rapid-Onset Coronary Atherosclerosis",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42549503/",
-     "source": "Circulation",
-     "published": "2026-08-04T00:00:00+00:00",
-     "copete": "Salem AR et al. · Circulation",
-     "id": "364e01460b19"
     },
     {
      "title": "ZEUS Trial: Ziltivekimab Fails to Reduce MACE in ASCVD Patients",
@@ -75,13 +50,6 @@
      "id": "29b54b134108"
     },
     {
-     "title": "Pulsatility is Disappearing and I'm Not Sure Why: Rapid Algorithm in Hemodynamic Collapse",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQXVRNHNuY3BDaDA2QWhMU3BFMWRUbm51dHFMMS1GRGFBRF9DRzRJdWpBU1Z4bWN0WkJIT3BVenk0ZElfcXNZTk1YOFc4aFM4SFdJMFBMYUVBN1VGcGtDLUJIUGw3NkN4WEtQd2ZGT0pZdkRQaTFTOHZZRTVrQzV0SUNEOFBXQ1ZjZzZaLXdiOTB4NDZ0eGxkbnpXVmt0dWd2V2xBdnYwREhOLVZoeGc?oc=5",
-     "source": "TCTMD",
-     "published": "2026-08-01T13:00:00+00:00",
-     "id": "ba23c4b96b56"
-    },
-    {
      "title": "Clinical Considerations in Management of Hypertrophic Cardiomyopathy in Pregnancy: JACC State-of-the-Art Review",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42524805/",
      "source": "JACC",
@@ -96,6 +64,22 @@
      "published": "2026-07-28T00:00:00+00:00",
      "copete": "White HD et al. · Journal of the American College of Cardiology",
      "id": "5ff953291bda"
+    },
+    {
+     "title": "Preventive Cardiovascular Care Delivery and Medicaid Accountable Care Organizations: A Difference-in-Differences Analysis",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42524801/",
+     "source": "JACC",
+     "published": "2026-07-22T00:00:00+00:00",
+     "copete": "Marinacci LX et al. · Journal of the American College of Cardiology",
+     "id": "68631e912e7b"
+    },
+    {
+     "title": "REPLY: Lipoprotein(a) and Cardiovascular Risk Gradient Across Coronary Artery Calcium Strata",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42524800/",
+     "source": "JACC",
+     "published": "2026-07-22T00:00:00+00:00",
+     "copete": "Bhatia HS et al. · Journal of the American College of Cardiology",
+     "id": "b2fb5e2ca0fa"
     }
    ]
   },
@@ -105,28 +89,36 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Newell’s reveló la millonaria cifra del bono especial ante Boca y lanzó una advertencia a los socios que no pagaron",
-     "link": "https://www.ole.com.ar/newells-old-boys/millonaria-cifra-dinero-recaudacion-bono-especial-vs-boca-monto-destino-obras-medida-socios-pagaron_0_W5sUK34wSo.html",
+     "title": "Tigre extiende una exigente seguidilla, ahora ante Belgrano",
+     "link": "https://www.ole.com.ar/futbol-primera/tigre-belgrano-playoffs-clausura_0_M0SgrSrMsf.html",
      "source": "Olé — Primera",
-     "published": "2026-08-04T19:48:27+00:00",
-     "copete": "La Lepra detalló el monto y el destino del dinero recaudado y estableció una condición para los próximos partidos.",
-     "id": "858156480efe"
+     "published": "2026-08-04T21:16:42+00:00",
+     "copete": "En un calendario apretado, el Matador recupera la 2da fecha del Clausura ante el Pirata, postergada por su partido ante Nacional por los playoffs de Copa Sudamericana.",
+     "id": "b1d72b29ba6f"
     },
     {
-     "title": "Santiago Sosa volvió a entrenarse en Racing: ¿se cae su pase a Vasco da Gama?",
-     "link": "https://www.ole.com.ar/racing/racing-santiago-sosa-vasco_0_sVapM9SnJq.html",
+     "title": "Desde Europa ofertaron por Cuello. ¿Qué dijo San Lorenzo?",
+     "link": "https://www.ole.com.ar/san-lorenzo/cuello-sanlorenzo-gijon-gorosito-sporting-oferta_0_MH6TvwPeYC.html",
      "source": "Olé — Primera",
-     "published": "2026-08-04T19:41:25+00:00",
-     "copete": "El volante el sábado se despidió de los hinchas de Racing, pero su transferencia sigue trabada y hasta podría jugar el domingo ante Argentinos Juniors.",
-     "id": "783dd47e60ef"
+     "published": "2026-08-04T21:06:35+00:00",
+     "copete": "El delantero del Ciclón despierta el interés de varios clubes del exterior. Ahora lo buscaron desde España...",
+     "id": "4dddd0e4ec50"
     },
     {
-     "title": "El descargo de Ignacio Vázquez tras el tenso cruce con un hincha de Platense",
-     "link": "https://www.ole.com.ar/futbol-primera/vazquez-descargo-hincha-platense-incidente-tribuna_0_aj3LToYGDJ.html",
+     "title": "Tigre vs. Belgrano, por el Torneo Clausura: día, hora y cómo ver por TV",
+     "link": "https://www.ole.com.ar/futbol-primera/tigre-vs-belgrano-torneo-clausura-dia-hora-ver-vivo-tv-online_0_V4QrzrirLl.html",
      "source": "Olé — Primera",
-     "published": "2026-08-04T19:38:23+00:00",
-     "copete": "El capitán del Calamar explicó en sus redes sociales el motivo de su reacción luego de la derrota 4-0 frente a Talleres y pidió disculpas por lo ocurrido.",
-     "id": "0dc1cce389a4"
+     "published": "2026-08-04T20:58:58+00:00",
+     "copete": "El Matador de Dabove recibe al Pirata de Zielinski en el duelo postergado de la segunda fecha. Conocé todos los detalles del partido.",
+     "id": "81857e49b466"
+    },
+    {
+     "title": "Bomba en Vélez: renunciará el presidente Fabián Berlanga",
+     "link": "https://www.ole.com.ar/velez/bomba-renuncia-presidente-fabian-berlanga-insultos-hinchas-plaqueta-gustavo-quinteros-tecnico-independiente_0_p83FPtIrhQ.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-04T20:32:28+00:00",
+     "copete": "El dirigente tiene decidido dimitir en la reunión de Comisión Directiva de este jueves. Los motivos y quién lo sucede.",
+     "id": "5f044d0b9664"
     },
     {
      "title": "Pekerman y la salida de Juanfer Quintero de River: \"Hay que entenderlo\" y \"el problema que no superó\"",
@@ -146,7 +138,7 @@
     {
      "title": "Sudáfrica confirmó su formación para enfrentar a Los Pumas: varias figuras regresan al equipo",
      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVC1RaGtDMHBCUzh1NHo0c0ZCSW1oM1k4ZVJRQlo2ZUlEZmVYVnVOMG5oZHMzZkxOQ3cyRFA0VDh0ZDF2czRIQVVUQ3ZHc2JENDdreUNycjNhUG5EckswT0RLendWNy1mUnJJel8yajR3bTlYZXJEYXp0Y0NPd01ONEpnSGlVSFh2RGh6ck9KSS1hT1RZZDVJbWFkWWFFUmV3RE1BUlZMdHhqMi1XSlQ0WjJlYU55TG1WRUx3VGR6aE9venlWU1dJN3NieDZkMlM3WjZPVjVRTmZlU3JJX0ZIczN3eVU?oc=5",
-     "source": "espn.com.ar",
+     "source": "ESPN Argentina",
      "published": "2026-08-04T17:40:00+00:00",
      "id": "14874b868663"
     },
@@ -161,16 +153,16 @@
     {
      "title": "Los Pumas, el factor sorpresa que inquieta a los Springboks",
      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeFZkOE9lZ1JMaE1BTHFKU0Y4T0JQRFRJZ0o3THAyd3A5bGpuOU5XSWx1dFI1MkdycURDN3lfRURPVFl0cW9pYmhtX3I2ZnhHZTBoY2JUajljMFlxQ0dQeUdwZ2dPX1AwTXpPOEpnRnJhU1JjRjI1WDN4aXFZUkxuSGRQUXhKY3VhUUJXVg?oc=5",
-     "source": "cordobaxv.com.ar",
+     "source": "Cordoba XV",
      "published": "2026-08-04T16:00:51+00:00",
      "id": "b49a1ba244e7"
     },
     {
-     "title": "De la cláusula de 8M de euros a la salida de River como borrado: Maxi Salas será refuerzo de Independiente Rivadavia",
+     "title": "Salas llegó a Independiente Rivadavia y rompió el silencio: ''Jugar y otra vez demostrar lo que soy''",
      "link": "https://www.ole.com.ar/river-plate/river-maxi-salas-independiente-rivadavia-mendoza_0_AEDlBFxA1p.html",
      "source": "Olé — River",
      "published": "2026-08-04T15:11:36+00:00",
-     "copete": "El delantero viajó este martes por la mañana a Mendoza para sumarse al plantel de Alfredo Berti: jugará la Copa Libertadores.",
+     "copete": "Maxi, que estaba borrado en River, llegó este martes a Mendoza para sumarse al plantel de Alfredo Berti: jugará la Copa Libertadores.",
      "id": "c69f3d67c924"
     },
     {
@@ -221,18 +213,32 @@
      "id": "8b1f51d24bfa"
     },
     {
-     "title": "Stephen Wolfram's Wife Has Died",
+     "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
      "link": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
      "source": "Hacker News (100+ puntos)",
      "published": "2026-08-04T18:51:38+00:00",
      "id": "3b96fa80dc28"
     },
     {
-     "title": "Web security is too hard",
+     "title": "Waymo – Dallas Open to All",
+     "link": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-04T18:29:41+00:00",
+     "id": "6f1f8c025c32"
+    },
+    {
+     "title": "Web Security is Too Hard",
      "link": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
      "source": "Hacker News (100+ puntos)",
      "published": "2026-08-04T18:29:32+00:00",
      "id": "de6b3be4a933"
+    },
+    {
+     "title": "Why some people mow a lawn better than others",
+     "link": "https://pudding.cool/2026/06/mow/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-04T18:06:12+00:00",
+     "id": "579ce39fb3b8"
     },
     {
      "title": "Honest Abacus AI Review: ChatLLM, DeepAgent, AI Studio & More",
@@ -258,20 +264,6 @@
      "id": "e71470f6f05d"
     },
     {
-     "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-     "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-04T15:37:42+00:00",
-     "id": "88dfcd64b73b"
-    },
-    {
-     "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-     "link": "https://toneyalexander.github.io/inclusive-color-space/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-04T15:16:22+00:00",
-     "id": "c343395b0c53"
-    },
-    {
      "title": "How to Get More Statistical Power from Fewer Research Participants",
      "link": "https://towardsdatascience.com/increasing-statistical-power-with-more-problems/",
      "source": "Towards Data Science",
@@ -295,100 +287,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Lollapalooza Chicago 2026: Olivia Dean deslumbró con su talento en una ciudad hecha para sus canciones",
-     "link": "https://www.infobae.com/teleshow/2026/08/02/lollapalooza-chicago-2026-olivia-dean-deslumbro-con-su-talento-en-una-ciudad-hecha-para-sus-canciones/",
+     "title": "La Comisión de la Mujer del Congreso de Guatemala avala una ley para fortalecer la lactancia materna",
+     "link": "https://www.infobae.com/guatemala/2026/08/04/la-comision-de-la-mujer-del-congreso-de-guatemala-avala-una-ley-para-fortalecer-la-lactancia-materna/",
      "source": "Infobae",
-     "published": "2026-08-04T20:02:01+00:00",
-     "copete": "La británica cerró el escenario principal y superó todo lo bueno que se decía de ella. El día 3 del festival también tuvo a Jennie, Geese y The Neighbourhood entre los artistas más importantes",
-     "id": "c2d337f2bbea"
+     "published": "2026-08-04T21:38:08+00:00",
+     "copete": "El texto fija que esos ambientes no podrán ubicarse en baños ni bodegas y deberán garantizar privacidad, higiene, ventilación, iluminación, mobiliario y resguardo de la leche, además de estar disponibles en la jornada laboral",
+     "id": "031d67af94f5"
     },
     {
-     "title": "Javier Milei y sus medidas, en vivo: el Gobierno cede para conseguir la Ley de Tierras y busca acuerdos para 2027",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-cede-para-conseguir-la-ley-de-tierras-y-busca-nid04082026/",
+     "title": "Ford lanzó el Territory Platinum: la nueva versión tope de gama del SUV más vendido",
+     "link": "https://www.lanacion.com.ar/autos/ford-lanzo-el-territory-platinum-la-nueva-version-tope-de-gama-del-suv-mas-vendido-nid04082026/",
      "source": "La Nación",
-     "published": "2026-08-04T20:00:00+00:00",
-     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "fb369aafe5cd"
+     "published": "2026-08-04T21:38:07+00:00",
+     "copete": "El modelo llegará a los concesionarios durante agosto y saldrá al mercado con un precio de $60.850.000; incorpora cambios de diseño y equipamiento",
+     "id": "b70286a5a895"
     },
     {
-     "title": "Qué se sabe de la detención de Facundo Moyano y de la mujer que escapó semidesnuda de su departamento en Belgrano",
-     "link": "https://www.lanacion.com.ar/seguridad/que-se-sabe-de-la-denuncia-contra-facundo-moyano-por-agredir-a-una-mujer-en-un-departamento-de-nid04082026/",
+     "title": "River acelera el recambio: confirmó a Francisco Ortega, espera a Almada y busca resolver las últimas salidas del plantel",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/river-acelera-el-recambio-confirmo-a-francisco-ortega-espera-a-almada-y-busca-resolver-las-ultimas-nid04082026/",
      "source": "La Nación",
-     "published": "2026-08-04T20:00:00+00:00",
-     "copete": "El dirigente sindical fue trasladado a la Comisaría Vecinal 13A por efectivos de la Policía de la Ciudad, tras ser alertados al 911; la presunta víctima, Candela Arizaga, de 23 años, dijo que no fue golpeada ni encerrada por el…",
-     "id": "f221d6717aa9"
+     "published": "2026-08-04T21:38:00+00:00",
+     "copete": "En medio de la peor racha del club en más de un siglo, y de un clima cada vez más tenso en Núñez, la dirigencia se sigue moviendo entre negociaciones",
+     "id": "7d567863badf"
     },
     {
-     "title": "Lola Morán, la actriz de Aliados, tuvo que ser internada y se sometió a una cirugía: “Toca tener más paciencia y fe”",
-     "link": "https://www.infobae.com/teleshow/2026/08/04/lola-moran-la-actriz-de-aliados-tuvo-que-ser-internada-y-se-sometio-a-una-cirugia-toca-tener-mas-paciencia-y-fe/",
+     "title": "Bruce Springsteen celebra la recuperación de su esposa tras ocho años de batalla contra el cáncer",
+     "link": "https://www.infobae.com/entretenimiento/2026/08/04/bruce-springsteen-celebra-la-recuperacion-de-su-esposa-tras-ocho-anos-de-batalla-contra-el-cancer/",
      "source": "Infobae",
-     "published": "2026-08-04T19:59:38+00:00",
-     "copete": "La intérprete de la serie de Cris Morena, volvió a preocupar a sus seguidores luego de mostrarse en una clínica. En 2023 reveló que padece una enfermedad que no tiene cura ni tratamiento",
-     "id": "9fcff774bcc9"
+     "published": "2026-08-04T21:37:56+00:00",
+     "copete": "Patti Scialfa, quien también es integrante de la E Street Band, fue diagnosticada con mieloma múltiple en 2018",
+     "id": "f653c81dbf98"
     },
     {
-     "title": "Sin llamas ni columnas de humo: el fuego en La Rioja quedó bajo control y el operativo continúa con vigilancia",
-     "link": "https://www.infobae.com/sociedad/2026/08/04/sin-llamas-ni-columnas-de-humo-el-fuego-en-la-rioja-quedo-bajo-control-y-el-operativo-continua-con-vigilancia/",
-     "source": "Infobae",
-     "published": "2026-08-04T19:59:09+00:00",
-     "copete": "El Sistema Provincial de Emergencias confirmó que el incendio forestal en Guanchín, Chilecito, quedó bajo control en sus seis sectores tras días de operativo, aunque el monitoreo continúa por 24 horas más antes de declararlo extinguido",
-     "id": "8bd76cbad359"
-    },
-    {
-     "title": "La Libertad Avanza quiere cerrar el Senado provincial si gana las elecciones en Buenos Aires",
-     "link": "https://www.infobae.com/politica/2026/08/04/la-libertad-avanza-quiere-cerrar-el-senado-provincial-si-gana-las-elecciones-en-buenos-aires/",
-     "source": "Infobae",
-     "published": "2026-08-04T19:58:31+00:00",
-     "copete": "La iniciativa es en respuesta a un proyecto del gobernador Axel Kicillof para ampliar el número de legisladores. Los argumentos detrás de la propuesta, que todavía no se va a debatir en el recinto",
-     "id": "776c5d5ea45e"
-    },
-    {
-     "title": "Victoria Cantero habló tras el crimen de su novio en Chaco y declaró a la policía: “Me defendí y reaccioné”",
-     "link": "https://www.lanacion.com.ar/seguridad/victoria-cantero-confeso-como-mato-a-su-novio-en-chaco-me-defendi-y-reaccione-nid04082026/",
+     "title": "El Gobierno presentó un nuevo dictamen sobre la ley de tierras para evitar una derrota en el Senado",
+     "link": "https://www.lanacion.com.ar/politica/patricia-bullrich-anuncia-cambios-a-la-ley-de-tierras-para-conseguir-su-aprobacion-nid04082026/",
      "source": "La Nación",
-     "published": "2026-08-04T19:58:12+00:00",
-     "copete": "La joven de 29 años está detenida como sospechosa de haber asesinado a puñaladas a su novio",
-     "id": "11d181288066"
+     "published": "2026-08-04T21:37:19+00:00",
+     "copete": "El proyecto oficialista original no incluía límites para la compra; ahora propone subir el tope porcentual vigente de 15% a 25% de la superficie de cada distrito",
+     "id": "e2731a28c470"
     },
     {
-     "title": "Amistosos internacionales: cuándo jugará la selección argentina, por fecha FIFA",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/amistosos-internacionales-cuando-jugara-la-seleccion-argentina-por-fecha-fifa-nid04082026/",
+     "title": "En medio del escándalo de su hermano, Pablo Moyano se mostró en una reunión con el Gringo Castro",
+     "link": "https://www.lanacion.com.ar/politica/en-medio-del-escandalo-de-su-hermano-pablo-moyano-se-mostro-en-una-reunion-con-el-gringo-castro-nid04082026/",
      "source": "La Nación",
-     "published": "2026-08-04T19:57:31+00:00",
-     "copete": "El seleccionado albiceleste fue subcampeón del Mundial 2026 y ya tiene que poner los ojos en el futuro cercano; podría jugar cinco partidos en lo que queda del año",
-     "id": "7ade811b3992"
+     "published": "2026-08-04T21:37:17+00:00",
+     "copete": "El líder de Camioneros mantuvo un encuentro con el dirigente sindical en la previa a la movilización de San Cayetano del viernes",
+     "id": "d1021710c462"
     },
     {
-     "title": "¿Llega Enner Valencia? La apuesta de Boca por otro goleador experimentado, aunque lejos de su mejor versión",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/boca-juniors/llega-enner-valencia-la-apuesta-de-boca-por-otro-goleador-experimentado-aunque-lejos-de-su-mejor-nid04082026/",
+     "title": "El nuevo Nostradamus que advirtió que el fin de la sociedad como la conocemos podría estar más cerca de lo que pensamos",
+     "link": "https://www.lanacion.com.ar/lifestyle/el-nuevo-nostradamus-que-advirtio-que-el-fin-de-la-sociedad-como-la-conocemos-podria-estar-mas-cerca-nid04082026/",
      "source": "La Nación",
-     "published": "2026-08-04T19:57:22+00:00",
-     "copete": "El ídolo de Ecuador quedó libre de Pachuca durante el Mundial; también interesa Ezequiel Ávila",
-     "id": "6b58948dff36"
+     "published": "2026-08-04T21:36:55+00:00",
+     "copete": "El analista político Jiang Xueqin ganó notoriedad por sus vaticinios sobre el escenario geopolítico actual, aunque su figura despierta tanto fascinación en la red como un fuerte rechazo en el ámbito académico internacional",
+     "id": "cb2e730f6b24"
     },
     {
-     "title": "Las imágenes de Facundo Moyano corriendo detrás de Candela Arizaga: el recorrido que realizaron",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/08/04/las-imagenes-de-facundo-moyano-corriendo-detras-de-candela-arizaga-el-recorrido-que-realizaron/",
+     "title": "Jet lag social: qué es y cómo puede afectar al metabolismo, la mente y el microbioma",
+     "link": "https://www.infobae.com/salud/2026/08/04/jet-lag-social-que-es-y-como-puede-afectar-al-metabolismo-la-mente-y-el-microbioma/",
      "source": "Infobae",
-     "published": "2026-08-04T19:57:14+00:00",
-     "copete": "Las cámaras de seguridad de la zona permitieron reconstruir el recorrido que ambos realizaron tras salir del departamento del dirigente sindical",
-     "id": "df02930972e7"
+     "published": "2026-08-04T21:32:50+00:00",
+     "copete": "Tres décadas de estudios identificaron que la brecha entre el reloj biológico y los horarios laborales o de estudio puede elevar en hasta 2,5 veces el riesgo de diabetes, enfermedad cardiovascular y depresión",
+     "id": "a2a637e928b1"
     },
     {
-     "title": "Afirman que Estados Unidos envió más agentes de inteligencia a Cuba para aumentar la presión sobre el régimen",
-     "link": "https://www.clarin.com/mundo/afirman-estados-unidos-envio-agentes-inteligencia-cuba-aumentar-presion-regimen_0_buqrEgM6Bi.html",
+     "title": "Jornada financiera: los activos argentinos no se contagiaron de la euforia de Wall Street y el riesgo país volvió a subir",
+     "link": "https://www.infobae.com/economia/2026/08/04/jornada-financiera-los-activos-argentinos-no-se-contagiaron-de-la-euforia-de-wall-street-y-el-riesgo-pais-volvio-a-subir/",
+     "source": "Infobae",
+     "published": "2026-08-04T21:32:43+00:00",
+     "copete": "Los índices de Wall Street rompieron nuevos máximos. El S&P Merval perdió 2,6% y el indicador de JP Morgan subió a 421 puntos. El dólar siguió a $1.515 en el Banco Nación y las reservas del BCRA se acercaron a USD 50.000 millones tras…",
+     "id": "bb44ac58963b"
+    },
+    {
+     "title": "Las primeras palabras de Maxi Salas como jugador de Independiente Rivadavia tras dejar River Plate: “Siempre hay revancha”",
+     "link": "https://www.infobae.com/deportes/2026/08/04/las-primeras-palabras-de-maxi-salas-como-jugador-de-independiente-rivadavia-tras-dejar-river-plate-siempre-hay-revancha/",
+     "source": "Infobae",
+     "published": "2026-08-04T21:32:23+00:00",
+     "copete": "El atacante no era tenido en cuenta en el Millonario y fue cedido al conjunto mendocino, que da pelea en la Copa Libertadores. Arribó como reemplazante de Sebastián Villa, quien fue vendido a Boca",
+     "id": "5a428c4dae73"
+    },
+    {
+     "title": "Quiniela de Córdoba: resultado del sorteo de la Vespertina de hoy, martes 04 de agosto",
+     "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-vespertina-hoy-martes-04-agosto_0_B0yGEapmwu.html",
      "source": "Clarín",
-     "published": "2026-08-04T19:24:04+00:00",
-     "copete": "Ocurre en medio de una de las peores crisis en la historia del país caribeño, informó el medio Politico. Y se enmarcan en la actual escalada de tensiones de Washington sobre La Habana, que incluyen sanciones económicas, medidas contra…",
-     "id": "542144a6ddf9"
+     "published": "2026-08-04T21:24:26+00:00",
+     "copete": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+     "id": "aec1ca688e8e"
     },
     {
-     "title": "Un niño de 10 años se preguntó si las mariposas recordaban su época como orugas y descubrió que heredan memorias de sus antepasados: \"Mi sueño es convertirme en el primer veterinario de insectos del mundo\"",
-     "link": "https://www.clarin.com/estados-unidos/nino-10-anos-pregunto-mariposas-recordaban-epoca-orugas-descubrio-heredan-memorias-antepasados-sueno-convertirme-primer-veterinario-insectos-mundo_0_KpVHidlChQ.html",
+     "title": "Iris Murdoch, filósofa y escritora británica: \"La verdad es algo que se construye mediante la atención\"",
+     "link": "https://www.clarin.com/informacion-general/iris-murdoch-filosofa-escritora-britanica-verdad-construye-mediante-atencion_0_7QTw5EAUlb.html",
      "source": "Clarín",
-     "published": "2026-08-04T19:14:56+00:00",
-     "copete": "La curiosidad de un estudiante japonés dio origen a una investigación que sorprendió a especialistas.",
-     "id": "ba9b3e9320b6"
+     "published": "2026-08-04T21:19:30+00:00",
+     "copete": "La irlandesa trascendió con sus novelas complejas y profundas. El valor de la moral y el mirar fuera de uno mismo para la contrucción.",
+     "id": "801b44a4c94a"
     }
    ]
   },
@@ -397,6 +389,14 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "\"Safari humano\": el video que muestra cómo un dron ruso persigue a un vendedor ambulante ucraniano",
+     "link": "https://www.bbc.com/mundo/articles/c8xn1w4g2klo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-04T21:38:17+00:00",
+     "copete": "Ucrania afirmó que el video, que muestra a un civil aterrorizado siendo perseguido por un dron teledirigido, muestra un crimen de guerra.",
+     "id": "1d5db4a0ab69"
+    },
     {
      "title": "More than 170 migrants rescued after boat catches fire in Channel",
      "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
@@ -468,14 +468,6 @@
      "published": "2026-08-04T16:06:12+00:00",
      "copete": "La Fiscalía ha retirado los cargos contra los cuatro acusados de vandalismo",
      "id": "9dd3755e815d"
-    },
-    {
-     "title": "Los duros reveses que enfrenta Trump de parte de sus propios aliados",
-     "link": "https://www.bbc.com/mundo/articles/cnvneg544y2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-04T15:21:23+00:00",
-     "copete": "Un presidente acostumbrado a manipular la política estadounidense a su voluntad se enfrenta a dos dolorosas derrotas en cuestión de días, escribe Anthony Zurcher.",
-     "id": "d8b91d5403d1"
     }
    ]
   }
@@ -485,6 +477,16 @@
    "section": "cardiologia",
    "feed": "Cardiology Trials",
    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+   "section": "cardiologia",
+   "feed": "Circulation (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "cardiologia",
+   "feed": "NEJM Cardiología (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
   }
  ]
 }

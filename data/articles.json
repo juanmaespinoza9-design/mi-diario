@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-04T14:45:51.487510+00:00",
+ "generated_at": "2026-08-04T18:09:29.965850+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -7,9 +7,55 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "In-Hospital Mortality After M-TEER Doesn’t Diverge by Sex",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYmxqOC1WY0RWckptRVZkWXB1YWRWbFE5QVY4YVQ4NkYzOVdkVFBpajdFVXNBd1Q4cEdnbEdtTUxyYUF5WWFUUTRCTExacVA4bGlnSFNPQURVVHNFX080S19IeUZOM01TT2s4RE5QTF9tYmlmWkJCV29uRVR0Mi12TTdKOA?oc=5",
+     "source": "TCTMD",
+     "published": "2026-08-04T17:45:44+00:00",
+     "id": "229c0060c9af"
+    },
+    {
+     "title": "ANOCA Endotyping Bolsters QoL, Real-world Data Confirm",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSmJ3X1prbzd1Uk8yLTduWWdmdl9oQ0RaazhJZ3N0b2ZJdzJVVl9iVXhTYXJGTGtUZk8zN1pjM1FWLXo1aW9iWV9oRmFnNHdwM3VDTVpOeTRJSE16TmZwRlNHTVV1aHpQYk1tTl8zeU5jVFdZSnlCMjZMbjhvYzh6aXhYUXY0RHc?oc=5",
+     "source": "TCTMD",
+     "published": "2026-08-04T17:17:30+00:00",
+     "id": "ee195a1ef15d"
+    },
+    {
+     "title": "Incidence and Predictors of Extracranial Bleeding on Oral Anticoagulants for Stroke Prevention in Patients With Atrial Fibrillation: A COMBINE-AF Analysis",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42549517/",
+     "source": "Circulation",
+     "published": "2026-08-04T00:00:00+00:00",
+     "copete": "Siegal DM et al. · Circulation",
+     "id": "97074bfbbffb"
+    },
+    {
+     "title": "Facilitation of Autophagosome-Lysosome Fusion by LAPTM4A: A Novel Strategy for Attenuating Myocardial Ischemia-Reperfusion Injury",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42549514/",
+     "source": "Circulation",
+     "published": "2026-08-04T00:00:00+00:00",
+     "copete": "Zhou S et al. · Circulation",
+     "id": "834a21eb2806"
+    },
+    {
+     "title": "COL1A1-Enhanced CD44/SLC7A11 Interaction and Cystine Uptake Result in CD34(+) Foam-Like Macrophage Accumulation in Transplant Arteriosclerosis",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42549511/",
+     "source": "Circulation",
+     "published": "2026-08-04T00:00:00+00:00",
+     "copete": "Wu J et al. · Circulation",
+     "id": "6090de8aa305"
+    },
+    {
+     "title": "Loss of the Coronary Artery Disease Risk Gene LMOD1 in Vascular Smooth Muscle Cells Triggers Rapid-Onset Coronary Atherosclerosis",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42549503/",
+     "source": "Circulation",
+     "published": "2026-08-04T00:00:00+00:00",
+     "copete": "Salem AR et al. · Circulation",
+     "id": "364e01460b19"
+    },
+    {
      "title": "ZEUS Trial: Ziltivekimab Fails to Reduce MACE in ASCVD Patients",
      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTXhiTkRJOGtteDdOV0pFQlBTRnA1ZTI4ZTBBRG1hdWJLd1FSQ1I4anRFMTFZeTVuVkVNVGphWGRyM2lZYl9idmpUZThnTXVTMXJEVkJvWFJJNVJDQmYxTmMwVTVqWG9ZMWQ0WDVhTGJHcElFOGZGdXpITVJlZkp3cUVnMXR2NzZtYXNB?oc=5",
-     "source": "tctmd",
+     "source": "TCTMD",
      "published": "2026-08-03T17:05:08+00:00",
      "id": "0ad2aa6455bb"
     },
@@ -24,30 +70,16 @@
     {
      "title": "Emergent Bailout MCS and ECPR",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZNWZtdDNqRzIxcjhuTWpIOGdnNHlYZ1NtOEF6WEc2M1VzNEtBdndnZHNMckpZS3A0MHJEYVF4Q0RKbHhKXzZSWWhueHMwZ1JVT2d5dXk4ZmFpMWhhVWlXbzgwMEY3Z2FL?oc=5",
-     "source": "tctmd",
+     "source": "TCTMD",
      "published": "2026-08-01T13:15:00+00:00",
      "id": "29b54b134108"
     },
     {
      "title": "Pulsatility is Disappearing and I'm Not Sure Why: Rapid Algorithm in Hemodynamic Collapse",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQXVRNHNuY3BDaDA2QWhMU3BFMWRUbm51dHFMMS1GRGFBRF9DRzRJdWpBU1Z4bWN0WkJIT3BVenk0ZElfcXNZTk1YOFc4aFM4SFdJMFBMYUVBN1VGcGtDLUJIUGw3NkN4WEtQd2ZGT0pZdkRQaTFTOHZZRTVrQzV0SUNEOFBXQ1ZjZzZaLXdiOTB4NDZ0eGxkbnpXVmt0dWd2V2xBdnYwREhOLVZoeGc?oc=5",
-     "source": "tctmd",
+     "source": "TCTMD",
      "published": "2026-08-01T13:00:00+00:00",
      "id": "ba23c4b96b56"
-    },
-    {
-     "title": "The Pitfall of Complete Revascularization in STEMI: Non-Culprit Perforation was Followed by Left Main Thrombosis and Cardiac Arrest",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOandnaVRGOUthaE5ycEhvSi1fTDJGU0ZJWldEUU1CYjNVM3RybHhjaklSeGxCZUxQT3BZcFZocDEtbk1FZ0Z2R2dwOE9rNUFMRG4zTGUxd3g1M1RiX0NDWUkxWlEzSjZMcko4aE4tY1pXWkFqMWNQLUxxTkFpT1FweTRIQy1TVEdPUjBZNUJQY2ZYaEdUcTZTa3dzQU5QTWZXR0huNmxjMDlnX1pSYVVMN3ZVNzBUZw?oc=5",
-     "source": "tctmd",
-     "published": "2026-08-01T09:15:00+00:00",
-     "id": "cda43ae0da22"
-    },
-    {
-     "title": "TCTMD’s Top 10 Most Popular Stories for July 2026",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02bkdhRGh0WFNEZU5jTmF1UGVlMUtCVXpkbmh0cy10Q2dDWWx2bWZnVHlhY216MUdKcVRDbXhqRHg5endxS0lyam5oX0tyaGY5SVlWeUdOd3IxTEhPS2R0TGNRS2tDcndGTFZxckpNQnEzUVI5WUoyb3l5TQ?oc=5",
-     "source": "tctmd",
-     "published": "2026-07-31T19:13:59+00:00",
-     "id": "47df4642c1c1"
     },
     {
      "title": "Clinical Considerations in Management of Hypertrophic Cardiomyopathy in Pregnancy: JACC State-of-the-Art Review",
@@ -64,22 +96,6 @@
      "published": "2026-07-28T00:00:00+00:00",
      "copete": "White HD et al. · Journal of the American College of Cardiology",
      "id": "5ff953291bda"
-    },
-    {
-     "title": "Preventive Cardiovascular Care Delivery and Medicaid Accountable Care Organizations: A Difference-in-Differences Analysis",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42524801/",
-     "source": "JACC",
-     "published": "2026-07-22T00:00:00+00:00",
-     "copete": "Marinacci LX et al. · Journal of the American College of Cardiology",
-     "id": "68631e912e7b"
-    },
-    {
-     "title": "REPLY: Lipoprotein(a) and Cardiovascular Risk Gradient Across Coronary Artery Calcium Strata",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42524800/",
-     "source": "JACC",
-     "published": "2026-07-22T00:00:00+00:00",
-     "copete": "Bhatia HS et al. · Journal of the American College of Cardiology",
-     "id": "b2fb5e2ca0fa"
     }
    ]
   },
@@ -88,6 +104,52 @@
    "title": "Deportes",
    "mode": "titulares",
    "items": [
+    {
+     "title": "SUDÁFRICA CON EQUIPO CONFIRMADO PARA ENFRENTAR A LOS PUMAS EN VÉLEZ",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV1JrczM5dGFBSFhONDVXc1VhcmNjV0phaUxUUGdvWXVEaks3eW53YmlIWkNYT3RtLXFjbnpTaVhNZlpuMnF0Wi1oWW1Sc1F4THJFcEZiWmxrZkxuNmJBREoya2wwRC1JcG01ZHlQYXZkMzdYTTVFcmlMVkItTkpFMUNsak1vU3lMVy1VaFZJdW9SUFpaXzVGb1lsRXRpQlI3bXBsSFFCOFQteDNXcXVkc1Y4bnAyUQ?oc=5",
+     "source": "Rugby Champagne",
+     "published": "2026-08-04T18:04:19+00:00",
+     "id": "f850ed9fb35a"
+    },
+    {
+     "title": "Campaz sorprendió a Rosario Central tras ganarle a River: no se entrenó y busca cambiar de club",
+     "link": "https://www.ole.com.ar/rosario-central/campaz-rosariocentral-colombiano-contrato-central-transferencia-libertadores_0_Evzc1h9NTR.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-04T17:36:07+00:00",
+     "copete": "El colombiano le comunicó a la dirigencia su intención de emigrar y espera una definición por la oferta del América de México.",
+     "id": "eac6352ffbed"
+    },
+    {
+     "title": "Con un alta médica, las buenas noticias que recibió Coudet en la práctica de River",
+     "link": "https://www.ole.com.ar/river-plate/river-eduardo-coudet-buenas-noticias-practica-alta-medica_0_2By2knxmZ5.html",
+     "source": "Olé — River",
+     "published": "2026-08-04T17:11:09+00:00",
+     "copete": "Pensando en Tigre y con los octavos de la Sudamericana cada vez más cerca, el Chacho empieza a recuperar piezas",
+     "id": "0d58328f526f"
+    },
+    {
+     "title": "Los Pumas, el factor sorpresa que inquieta a los Springboks",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeFZkOE9lZ1JMaE1BTHFKU0Y4T0JQRFRJZ0o3THAyd3A5bGpuOU5XSWx1dFI1MkdycURDN3lfRURPVFl0cW9pYmhtX3I2ZnhHZTBoY2JUajljMFlxQ0dQeUdwZ2dPX1AwTXpPOEpnRnJhU1JjRjI1WDN4aXFZUkxuSGRQUXhKY3VhUUJXVg?oc=5",
+     "source": "Cordoba XV",
+     "published": "2026-08-04T16:00:51+00:00",
+     "id": "b49a1ba244e7"
+    },
+    {
+     "title": "Preocupación para Vojvoda en Racing: Miljevic, en duda para visitar a Argentinos",
+     "link": "https://www.ole.com.ar/racing/racing-miljevic-lesion-argentinos_0_utI1YBwql6.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-04T15:55:16+00:00",
+     "copete": "Justo cuando pasaba su mejor momento en Racing, el volante sufrió una lesión que abre una incógnita sobre su presencia frente al Bicho el domingo. Los detalles.",
+     "id": "fc519c829f62"
+    },
+    {
+     "title": "De la cláusula de 8M de euros a la salida de River como borrado: Maxi Salas será refuerzo de Independiente Rivadavia",
+     "link": "https://www.ole.com.ar/river-plate/river-maxi-salas-independiente-rivadavia-mendoza_0_AEDlBFxA1p.html",
+     "source": "Olé — River",
+     "published": "2026-08-04T15:11:36+00:00",
+     "copete": "El delantero viajó este martes por la mañana a Mendoza para sumarse al plantel de Alfredo Berti: jugará la Copa Libertadores.",
+     "id": "c69f3d67c924"
+    },
     {
      "title": "La firme postura de Flamengo en la pelea con River por Almada: \"No vamos a entrar en subastas\"",
      "link": "https://www.ole.com.ar/river-plate/river-plate-thiago-almada-director-futbol-flamengo-subastas_0_ruTD1SMVyG.html",
@@ -107,16 +169,9 @@
     {
      "title": "Eliseo \"Chapa\" Branca pasó por CORDOBAXV Streaming: \"Estoy orgulloso de Los Pumas que tenemos\"",
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa1FoWkM3ZVM2ejF3b3gxR2d5TkdjWUM5RUVNWTRhdVptbE1Xc1E0N0V4dlk3R1RSU0U3TDdGa1dFa0dkWjR5RDRtNlpieHVacUNQSlB6UFBGbnJmZFBLWkJFTEJ5R2tnVHNZazN0VGhFSXhPczRwNlZZMjJteWo0MnF2cDhHVXIxSjVCUF9sM0Jac21xRmNPMzVGbmpjam5IT3I5OHFLVElYcXFYbmFoMkRXRGp1dw?oc=5",
-     "source": "cordobaxv.com.ar",
+     "source": "Cordoba XV",
      "published": "2026-08-04T13:46:54+00:00",
      "id": "e4f82208430c"
-    },
-    {
-     "title": "El historial completo entre Los Pumas y Sudáfrica, en la previa al duelo en Vélez",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORDhGVWNWSXZ0cG53Y0R2eDlsYjhOc0YxNmRYV2VvMjNNcUNKTm5LeEkwQjBTbVNYYzFCT0trc2ZPaFIycnpWZ0JqdV9mSThubnBUdXpvUktRQ3lhVVJkeFI3cVJORFNaZDFSTS1leGRsdDVjT0xRQnFrSm82bmtya0R2RGVkR1JkTm95ajJqSm9sODhvVjJyY0RYMFRISXA5ODhrdENET1RLbFdLbmRVZ1NpY1o?oc=5",
-     "source": "ESPN Argentina",
-     "published": "2026-08-04T13:39:00+00:00",
-     "id": "663e887813b1"
     },
     {
      "title": "Francisco Ortega a River: hay acuerdo de palabra con Olympiacos",
@@ -125,37 +180,6 @@
      "published": "2026-08-04T12:55:11+00:00",
      "copete": "El CARP está a una firma de tener a su octavo refuerzo del mercado en un puesto que por estas horas es clave.",
      "id": "ea9c03eacf05"
-    },
-    {
-     "title": "Oficial: Ian Subiabre es nuevo jugador de Tigre",
-     "link": "https://www.ole.com.ar/river-plate/subiabre-tigre-river-prestamo_0_jpqsGGhEN6.html",
-     "source": "Olé — River",
-     "published": "2026-08-04T12:50:19+00:00",
-     "copete": "El juvenil, uno de los cortados de River, fue cedido a préstamo al Matador por 12 meses, con opción de extensión y de compra.",
-     "id": "57a61b104db8"
-    },
-    {
-     "title": "Cómo les fue a Los Pumas en Vélez: los números antes de enfrentar a Sudáfrica",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObEF6dzZsdUVFak8tQzVKMEVkbGI1T0F3dFJMS0oxQjBqRklDMnZKME1ZcmtqZEtKVm1haVdMNGhZOGNwT2p5cXFmVDB3S2Nzd0VOam5hc29aVlBvak03Q2ZZVHltUmhXVlRIaEt0M05BQjNHMUNPbW83b1dpdjVCbDlEc2EwY0hXQ1lsMjlReTFmSkZzVUlrNDR5SThlX1A1U0MwWmExeUhmd1Rpb2tEWVhPY2xMUlJx?oc=5",
-     "source": "ESPN Deportes",
-     "published": "2026-08-04T12:50:00+00:00",
-     "id": "3cd734335fb3"
-    },
-    {
-     "title": "Verón y el “raro” de los borrados de River",
-     "link": "https://www.ole.com.ar/river-plate/veron-river-jugadores-apartados-coudet_0_3F4ADaapRj.html",
-     "source": "Olé — River",
-     "published": "2026-08-04T12:30:00+00:00",
-     "copete": "El presidente de Estudiantes se refirió a la situación de los futbolistas cortados del plantel de Coudet, que siguen entrenándose apartados.",
-     "id": "1b9866b0ce16"
-    },
-    {
-     "title": "River, hoy EN VIVO: Almada, la vuelta al trabajo, el mercado de pases y las noticias de este martes 4 de agosto",
-     "link": "https://www.ole.com.ar/river-plate/river-vivo-martes-4-agosto_0_kh6lNbPp3P.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-04T12:26:35+00:00",
-     "copete": "El equipo de Coudet retoma los entrenamientos, mientras todo Núñez espera por una resolución favorable para que el campeón del mundo en Qatar 2022 se ponga la banda roja.",
-     "id": "1406544dade7"
     },
     {
      "title": "Argentina XV definió su plantel para viajar a Estados Unidos",
@@ -181,6 +205,58 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Honest Abacus AI Review: ChatLLM, DeepAgent, AI Studio & More",
+     "link": "https://www.kdnuggets.com/2026/08/abacus/honest-abacus-ai-review",
+     "source": "KDnuggets",
+     "published": "2026-08-04T17:00:59+00:00",
+     "copete": "The All-In-One AI Powerhouse: A Comprehensive Review of Abacus AI’s Full Ecosystem An in-depth look at how the platform integrates 100+ AI models, autonomous agents, and a complete developer suite into a single, cost-effective workflow for…",
+     "id": "e17e8b4bd229"
+    },
+    {
+     "title": "The Medallion Data Architecture: An Introduction",
+     "link": "https://towardsdatascience.com/the-medallion-data-architecture/",
+     "source": "Towards Data Science",
+     "published": "2026-08-04T16:30:00+00:00",
+     "copete": "A practical guide to Bronze, Silver and Gold, with a working Python and DuckDB example The post The Medallion Data Architecture: An Introduction appeared first on Towards Data Science .",
+     "id": "956b4445a1e2"
+    },
+    {
+     "title": "Is a year in a 'less-technical' but very client-relationship focused role a hindrance or a help for future DS roles, and who falls through keyword gaps?",
+     "link": "https://www.reddit.com/r/datascience/comments/1vff975/is_a_year_in_a_lesstechnical_but_very/",
+     "source": "r/datascience",
+     "published": "2026-08-04T16:27:41+00:00",
+     "id": "e71470f6f05d"
+    },
+    {
+     "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+     "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-04T15:37:42+00:00",
+     "id": "88dfcd64b73b"
+    },
+    {
+     "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+     "link": "https://toneyalexander.github.io/inclusive-color-space/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-04T15:16:22+00:00",
+     "id": "c343395b0c53"
+    },
+    {
+     "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
+     "link": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-04T15:05:33+00:00",
+     "id": "d6aa347cdc75"
+    },
+    {
+     "title": "How to Get More Statistical Power from Fewer Research Participants",
+     "link": "https://towardsdatascience.com/increasing-statistical-power-with-more-problems/",
+     "source": "Towards Data Science",
+     "published": "2026-08-04T15:00:00+00:00",
+     "copete": "An online simulation and a novel method for increasing power The post How to Get More Statistical Power from Fewer Research Participants appeared first on Towards Data Science .",
+     "id": "307970d98790"
+    },
+    {
      "title": "I Replaced Pip, Virtualenv, and Poetry With uv: Here’s Why",
      "link": "https://www.kdnuggets.com/i-replaced-pip-virtualenv-and-poetry-with-uv-heres-why",
      "source": "KDnuggets",
@@ -189,75 +265,19 @@
      "id": "14dbaa340bc7"
     },
     {
+     "title": "Germany Records Historic 12B KWh Solar Feed-In in July 2026",
+     "link": "https://solarquarter.com/2026/08/03/germany-records-historic-12-billion-kwh-solar-feed-in-in-july-2026/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-04T13:43:00+00:00",
+     "id": "921b32356dd8"
+    },
+    {
      "title": "Are Home Teams Favoured by Referees in Football/Soccer?",
      "link": "https://towardsdatascience.com/are-home-teams-favoured-by-referees-in-football-soccer/",
      "source": "Towards Data Science",
      "published": "2026-08-04T13:30:00+00:00",
      "copete": "Data Storytelling Series, Chapter 1 The post Are Home Teams Favoured by Referees in Football/Soccer? appeared first on Towards Data Science .",
      "id": "8d0fc02f7f2d"
-    },
-    {
-     "title": "DeepSeek V4 Flash on DGX Spark",
-     "link": "https://www.reddit.com/r/datascience/comments/1vf974b/deepseek_v4_flash_on_dgx_spark/",
-     "source": "r/datascience",
-     "published": "2026-08-04T12:39:52+00:00",
-     "id": "459d7e78cb86"
-    },
-    {
-     "title": "7 Approaches to Reduce Inference Latency in Your LLM Workflows",
-     "link": "https://www.kdnuggets.com/7-approaches-to-reduce-inference-latency-in-your-llm-workflows",
-     "source": "KDnuggets",
-     "published": "2026-08-04T12:00:59+00:00",
-     "copete": "From quantization to speculative decoding, here are seven engineering strategies to ship faster, more responsive generative AI applications in production.",
-     "id": "802b83f48f06"
-    },
-    {
-     "title": "Using Agents as Tools",
-     "link": "https://towardsdatascience.com/using-agents-as-tools/",
-     "source": "Towards Data Science",
-     "published": "2026-08-04T12:00:00+00:00",
-     "copete": "Building manager–specialist workflows with the OpenAI Agents SDK The post Using Agents as Tools appeared first on Towards Data Science .",
-     "id": "a89220f3c437"
-    },
-    {
-     "title": "Quoting Steve Yegge",
-     "link": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
-     "source": "Simon Willison (IA)",
-     "published": "2026-08-04T00:42:45+00:00",
-     "copete": "Gas Town was intended to be reusable, but I only ever wound up using it to build itself. Gas Town fell apart at the seams with Opus 4.7. Up through 4.6 it was working brilliantly. With 4.7 we saw the introduction of the \"just two more…",
-     "id": "1ed1f6384a4f"
-    },
-    {
-     "title": "Don't be a meat proxy",
-     "link": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything",
-     "source": "Simon Willison (IA)",
-     "published": "2026-08-03T23:45:04+00:00",
-     "copete": "Don't be a meat proxy Niklas Gruhn coins an excellent new term - meat proxy - for people who blindly copy and paste the output of AI systems to their peers. By all means, prompt AI. But don't just relay the output. Read it, understand it…",
-     "id": "1c5150c65d41"
-    },
-    {
-     "title": "Prompt, Context, Loop: The Three Engineering Layers Every RAG System Is Built On",
-     "link": "https://towardsdatascience.com/prompt-context-loop-the-three-engineering-layers-every-rag-system-is-built-on/",
-     "source": "Towards Data Science",
-     "published": "2026-08-03T16:30:00+00:00",
-     "copete": "Enterprise Document Intelligence [Vol.1 #M2] - Every RAG system is built in three engineering layers stacked on one LLM call: prompt (the call itself), context (what fills the model’s window), loop (when the next call fires and when it…",
-     "id": "1d30f6b4cb1d"
-    },
-    {
-     "title": "Quoting David Crawshaw's prompt",
-     "link": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
-     "source": "Simon Willison (IA)",
-     "published": "2026-08-03T16:15:27+00:00",
-     "copete": "Set up a nightly cron job that executes the prompt: fetch upstream changes to the <software> and rebase all local changes on top of upstream. Check that the software works as intended and replace the current version. — David Crawshaw's…",
-     "id": "765bf45633e2"
-    },
-    {
-     "title": "Does MiniMax Agent Actually Make Work Easier?",
-     "link": "https://www.kdnuggets.com/does-minimax-agent-actually-make-work-easier",
-     "source": "KDnuggets",
-     "published": "2026-08-03T16:00:59+00:00",
-     "copete": "Read about MiniMax's own architecture, and see how it runs a real task against the actual API. Learn the pieces of the MiniMax story that weren't covered in the launch post.",
-     "id": "12c110366b00"
     }
    ]
   },
@@ -267,100 +287,100 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Javier Milei y sus medidas, en vivo: el Gobierno cede para conseguir la Ley de Tierras y busca acuerdos para 2027",
+     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-cede-para-conseguir-la-ley-de-tierras-y-busca-nid04082026/",
+     "source": "La Nación",
+     "published": "2026-08-04T18:04:42+00:00",
+     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+     "id": "fb369aafe5cd"
+    },
+    {
+     "title": "Buses Alegres: estas son algunas de las opciones que ofrece El Salvador para hacer turismo en estas vacaciones de agosto",
+     "link": "https://www.infobae.com/el-salvador/2026/08/04/buses-alegres-estas-son-algunas-de-las-opciones-que-ofrece-el-salvador-para-hacer-turismo-en-estas-vacaciones-de-agosto/",
+     "source": "Infobae",
+     "published": "2026-08-04T18:03:21+00:00",
+     "copete": "Hay opciones acuáticas, senderos naturales y recorridos por pueblos, con horarios de partida definidos y una reserva telefónica en días hábiles que puede ser decisiva para asegurar espacio",
+     "id": "2940f5807475"
+    },
+    {
+     "title": "La verdadera historia detrás de Bomba en el Pan Am 103: la tragedia que transformó la seguridad aérea",
+     "link": "https://www.lanacion.com.ar/espectaculos/la-verdadera-historia-detras-de-bomba-en-el-pan-am-103-la-tragedia-que-transformo-la-seguridad-aerea-nid04082026/",
+     "source": "La Nación",
+     "published": "2026-08-04T18:02:42+00:00",
+     "copete": "La miniserie de Netflix revive el interés por el atentado de Lockerbie: cómo un radiocassette con explosivos se cobró 270 vidas y cambió para siempre los controles en los aeropuertos del mundo",
+     "id": "5196a8fa24ca"
+    },
+    {
+     "title": "Primavera Sound confirmó su sede en Buenos Aires: dónde tocan Gorillaz y The Strokes",
+     "link": "https://www.lanacion.com.ar/que-sale/primavera-sound-confirmo-su-sede-en-buenos-aires-donde-tocan-gorillaz-y-the-strokes-nid04082026/",
+     "source": "La Nación",
+     "published": "2026-08-04T18:02:07+00:00",
+     "copete": "La edición reunirá un line-up internacional y una selección de artistas argentinos durante dos jornadas; los abonos y tickets individuales ya están la fase 2 de venta",
+     "id": "059698b2d5b1"
+    },
+    {
+     "title": "El Museo Moderno debate cómo el arte interviene en la construcción de la memoria colectiva",
+     "link": "https://www.infobae.com/cultura/2026/08/04/el-museo-moderno-debate-como-el-arte-interviene-en-la-construccion-de-la-memoria-colectiva/",
+     "source": "Infobae",
+     "published": "2026-08-04T18:00:42+00:00",
+     "copete": "El 7 y 8 de agosto, el evento incluirá conversaciones, entrevistas públicas, mesas redondas y activaciones performáticas. El detalle",
+     "id": "a8996ddc3d0a"
+    },
+    {
+     "title": "Ministerio de Educación convoca a 28 mil alumnos dominicanos para la segunda ronda de Pruebas Preuniversitarias 2026",
+     "link": "https://www.infobae.com/republica-dominicana/2026/08/04/ministerio-de-educacion-convoca-a-28-mil-alumnos-dominicanos-para-la-segunda-ronda-de-pruebas-preuniversitarias-2026/",
+     "source": "Infobae",
+     "published": "2026-08-04T18:00:05+00:00",
+     "copete": "La aplicación se realizará del 6 al 9 de agosto en 270 centros distribuidos en todo el país, con supervisión de la Dirección de Evaluación de los Aprendizajes y equipos regionales y distritales",
+     "id": "fcf90afce4ab"
+    },
+    {
+     "title": "Refactor Games despide al 85 % tras lanzar ‘FIFA World Cup: Launch Edition’ en Netflix",
+     "link": "https://www.infobae.com/malditos-nerds/2026/08/04/refactor-games-despide-al-85-tras-lanzar-fifa-world-cup-launch-edition-en-netflix/",
+     "source": "Infobae",
+     "published": "2026-08-04T18:00:00+00:00",
+     "copete": "Empleados aseguran que Delphi Interactive retiró la financiación, mientras Netflix había prometido mejoras continuas",
+     "id": "d3799994af7a"
+    },
+    {
+     "title": "La Comisión de la Mujer del Congreso de Guatemala avala una ley para fortalecer la lactancia materna",
+     "link": "https://www.infobae.com/guatemala/2026/08/04/la-comision-de-la-mujer-del-congreso-de-guatemala-avala-una-ley-para-fortalecer-la-lactancia-materna/",
+     "source": "Infobae",
+     "published": "2026-08-04T17:59:31+00:00",
+     "copete": "El texto fija que esos ambientes no podrán ubicarse en baños ni bodegas y deberán garantizar privacidad, higiene, ventilación, iluminación, mobiliario y resguardo de la leche, además de estar disponibles en la jornada laboral",
+     "id": "031d67af94f5"
+    },
+    {
+     "title": "Tenía 49 días de vida, pesaba 2,2 kilos y fue sometido a una cirugía en la aorta inédita en América Latina",
+     "link": "https://www.lanacion.com.ar/sociedad/tenia-49-dias-de-vida-pesaba-22-kilos-y-fue-sometido-a-una-cirugia-en-la-aorta-inedita-en-america-nid04082026/",
+     "source": "La Nación",
+     "published": "2026-08-04T17:56:09+00:00",
+     "copete": "El procedimiento se realizó en el Hospital de Niños de Córdoba para corregir una grave coartación de aorta; por primera vez se utilizó un stent bioabsorbible en un paciente de tan bajo peso y edad en la región",
+     "id": "f3e6bf3767ec"
+    },
+    {
      "title": "La crisis en la FIFA, en vivo: la rebelión europea y el futuro de Gianni Infantino, minuto a minuto",
      "link": "https://www.lanacion.com.ar/deportes/futbol/la-crisis-en-la-fifa-en-vivo-nid04082026/",
      "source": "La Nación",
-     "published": "2026-08-04T14:43:05+00:00",
+     "published": "2026-08-04T17:55:24+00:00",
      "copete": "Cómo queda el tablero del fútbol luego del fallido plan para privatizar la Copa del Mundo",
      "id": "2d27a83a2c79"
     },
     {
-     "title": "Francisco Ortega se convirtió en nuevo refuerzo de River: quién es el lateral por el que desembolsará 5 millones de euros",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/river-plate/francisco-ortega-se-convirtio-en-nuevo-refuerzo-de-river-quien-es-el-lateral-por-el-que-desembolsara-nid04082026/",
-     "source": "La Nación",
-     "published": "2026-08-04T14:42:58+00:00",
-     "copete": "Surgido de la cantera de Vélez, tiene 27 años y llega desde Olympiakos de Grecia; firmará un contrato de dos años y medio de duración",
-     "id": "0688d0bde3c3"
-    },
-    {
-     "title": "Georgina Rodríguez, tras las críticas a su físico: “El valor de una persona jamás puede depender de eso ni de la opinión de desconocidos”",
-     "link": "https://www.lanacion.com.ar/espectaculos/georgina-rodriguez-tras-las-criticas-a-su-fisico-el-valor-de-una-persona-jamas-puede-depender-de-eso-nid04082026/",
-     "source": "La Nación",
-     "published": "2026-08-04T14:42:57+00:00",
-     "copete": "La mujer de Cristiano Ronaldo realizó un descargo en las redes sociales y recibió el apoyo de Antonela Roccuzzo; el texto completo que publicó en su Instagram y qué le dijo el futbolista",
-     "id": "2964f4415ac0"
-    },
-    {
-     "title": "Suplementos y bienestar: los detalles y la estrategia de una venta que suma ciencia al éxito de una marca",
-     "link": "https://www.infobae.com/economia/2026/08/02/suplementos-y-bienestar-los-detalles-y-la-estrategia-de-una-venta-que-suma-ciencia-al-exito-de-una-marca/",
-     "source": "Infobae",
-     "published": "2026-08-04T14:42:55+00:00",
-     "copete": "Terraflos adquirió Vitalis Navitas. El objetivo es incorporar la comunidad de clientes y la plataforma tecnológica de la firma adquirida e ir hacia una etapa con foco en suplementación personalizada y expansión omnicanal a nivel regional",
-     "id": "3b85edc8824a"
-    },
-    {
-     "title": "Qué se sabe de la detención de Facundo Moyano, acusado de agredir a una mujer que escapó semidesnuda de su departamento en Belgrano",
-     "link": "https://www.lanacion.com.ar/seguridad/que-se-sabe-de-la-denuncia-contra-facundo-moyano-por-agredir-a-una-mujer-en-un-departamento-de-nid04082026/",
-     "source": "La Nación",
-     "published": "2026-08-04T14:42:21+00:00",
-     "copete": "El dirigente sindical fue trasladado a la Comisaría Vecinal 13A esta madrugada por efectivos de la Policía de la Ciudad, tras ser alertados al 911; la víctima, Candela Arizaga, de 23 años, permanece internada en el Hospital Pirovano; se…",
-     "id": "f221d6717aa9"
-    },
-    {
-     "title": "Cuándo juega Boca vs. Estudiantes, por el Torneo Clausura 2026",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/cuando-juega-boca-vs-estudiantes-por-el-torneo-clausura-2026-nid04082026/",
-     "source": "La Nación",
-     "published": "2026-08-04T14:41:28+00:00",
-     "copete": "El encuentro entre el xeneize y el Pincha se disputa en el estadio Tomás Adolfo Ducó por el mal estado del cambo de juego de la Bombonera",
-     "id": "7057431bec9c"
-    },
-    {
-     "title": "Epic Games regala un nuevo juego de ciencia ficción para PC por tiempo limitado",
-     "link": "https://www.infobae.com/tecno/2026/08/04/epic-games-regala-un-nuevo-juego-de-ciencia-ficcion-para-pc-por-tiempo-limitado/",
-     "source": "Infobae",
-     "published": "2026-08-04T14:39:40+00:00",
-     "copete": "La historia sitúa al jugador como uno de los pocos sobrevivientes que escapan de experimentos y deben avanzar entre criaturas hostiles hacia el Área 51",
-     "id": "0b9f017531b4"
-    },
-    {
-     "title": "Receta de pollo a la naranja, rápida y fácil",
-     "link": "https://www.infobae.com/tendencias/2026/08/04/receta-de-pollo-a-la-naranja-rapida-y-facil/",
-     "source": "Infobae",
-     "published": "2026-08-04T14:35:37+00:00",
-     "copete": "Una opción práctica para todos los días, combina ingredientes simples y una salsa agridulce para lograr un plato sabroso, económico y listo en menos de una hora",
-     "id": "e15276661d63"
-    },
-    {
-     "title": "La pobreza frenó su baja y volvió a aumentar en el primer trimestre de 2026, según la UCA",
-     "link": "https://www.infobae.com/economia/2026/08/04/la-pobreza-freno-su-baja-y-volvio-a-aumentar-en-el-primer-trimestre-de-2026-segun-la-uca/",
-     "source": "Infobae",
-     "published": "2026-08-04T14:34:19+00:00",
-     "copete": "El indicador llegó al 30% en los primeros tres meses del año. La indigencia también mostró un incremento",
-     "id": "e620a05e4272"
-    },
-    {
-     "title": "Detención de Facundo Moyano, en vivo: las últimas noticias hoy, 4 de agosto, minuto a minuto",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/08/04/detencion-de-facundo-moyano-en-vivo-las-ultimas-noticias-hoy-4-de-agosto-minuto-a-minuto/",
-     "source": "Infobae",
-     "published": "2026-08-04T14:33:05+00:00",
-     "copete": "El hijo del líder de Camioneros es acusado de delitos de lesiones leves y privación ilegítima de la libertad en contexto de violencia de género. Candela Arizaga se encuentra hospitalizada",
-     "id": "b9b37ba9fe2e"
-    },
-    {
-     "title": "Juan José Pizarro, especialista en mecánica: “No hay que dejar el auto estacionado con las ruedas giradas porque puede terminar en el taller”",
-     "link": "https://www.clarin.com/informacion-general/juan-jose-pizarro-especialista-mecanica-dejar-auto-estacionado-ruedas-giradas-puede-terminar-taller_0_QmWtZ2AwAU.html",
+     "title": "Un lago de montaña no siempre estuvo lleno de truchas marrones: evidencias sugieren que los cazadores-recolectores llevaron esos peces, creando así una fuente de alimento confiable mucho antes de que la agricultura apareciera en la región",
+     "link": "https://www.clarin.com/estados-unidos/lago-montana-siempre-lleno-truchas-marrones-evidencias-sugieren-cazadores-recolectores-llevaron-peces-creando-fuente-alimento-confiable-agricultura-apareciera-region_0_6ssDavURF7.html",
      "source": "Clarín",
-     "published": "2026-08-04T14:15:51+00:00",
-     "copete": "Un especialista en mecánica explicó por qué dejar el auto estacionado con las ruedas giradas puede acelerar el desgaste de la dirección y la suspensión. Un hábito muy común que, con el tiempo, puede terminar en una reparación costosa.",
-     "id": "5565c7d926da"
+     "published": "2026-08-04T17:48:03+00:00",
+     "copete": "Trampas para peces revelan que hace 7.000 años los cazadores-recolectores llevaron truchas a lagos donde nunca habían existido.",
+     "id": "ae9d76c72d0e"
     },
     {
-     "title": "Ariana Grande habló sobre las críticas a su cuerpo y fue tajante: \"Nada podrá distorsionar mi realidad\"",
-     "link": "https://www.clarin.com/espectaculos/ariana-grande-hablo-criticas-cuerpo-tajante-podra-distorsionar-realidad_0_UfN5ZBVuip.html",
+     "title": "NODO Circuito Neuquén llega en noviembre a sacudir la escena artística local",
+     "link": "https://www.clarin.com/cultura/nodo-circuito-neuquen-llega-noviembre-sacudir-escena-artistica-local_0_TKnDFVkbci.html",
      "source": "Clarín",
-     "published": "2026-08-04T14:10:34+00:00",
-     "copete": "Después de anunciar que desaparecerá de la vida pública, la cantante abordó las preocupaciones por su delgadez en su show en Chicago. El escándalo empezó luego de que se difundieran impactantes imágenes en las que se la ve con muy bajo…",
-     "id": "f92fb8a67608"
+     "published": "2026-08-04T17:46:52+00:00",
+     "copete": "El programa de Meridiano para extender a todo el país herramientas para profesionalizar las artes visuales se realizará del 13 al 15 de noviembre en la ciudad patagónica. Este mes comienza un ciclo de talleres para acompañar a los…",
+     "id": "f00836ad0c7c"
     }
    ]
   },
@@ -370,84 +390,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "More than 150 migrants rescued after boat catches fire in Channel",
+     "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+     "link": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-04T17:26:06+00:00",
+     "copete": "Ukraine said the video - showing a terrified civilian being hounded by a remotely-controlled drone - amounted to a war crime.",
+     "id": "0dff666c37c8"
+    },
+    {
+     "title": "More than 170 migrants rescued after boat catches fire in Channel",
      "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-04T14:37:42+00:00",
-     "copete": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
+     "published": "2026-08-04T17:25:41+00:00",
+     "copete": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
      "id": "b72631da345d"
     },
     {
-     "title": "Arson arrest made over largest of Washington state's wildfires",
-     "link": "https://www.bbc.co.uk/news/articles/c5y3ppmmev1o?at_medium=RSS&at_campaign=rss",
+     "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+     "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-04T14:20:16+00:00",
-     "copete": "There are three wildfires in the Spokane area that have forced 60,000 to be evacuated from their homes.",
-     "id": "569318a6a4b0"
+     "published": "2026-08-04T17:06:17+00:00",
+     "copete": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+     "id": "479cf0129fda"
     },
     {
-     "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-     "link": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-04T13:59:24+00:00",
-     "copete": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
-     "id": "cd168e25b35d"
-    },
-    {
-     "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
-     "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-04T13:53:41+00:00",
-     "copete": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts.",
-     "id": "80b01a961eca"
-    },
-    {
-     "title": "\"Los carteles no existen\": la provocadora idea que desafía la guerra contra el narco",
-     "link": "https://www.bbc.com/mundo/articles/cpq8ex8v8xxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-04T13:52:37+00:00",
-     "copete": "Oswaldo Zavala señala que la política antidrogas de Washington ha sostenido un discurso generalizador sobre el narcotráfico que genera una narrativa en torno a la delincuencia organizada de México.",
-     "id": "34440cd141ae"
-    },
-    {
-     "title": "Más de 150 personas rescatadas de una embarcación en llamas en la que trataban de llegar a las costas británicas",
-     "link": "https://elpais.com/internacional/2026-08-04/las-autoridades-francesas-y-britanicas-rescatan-a-157-migrantes-de-una-embarcacion-que-se-incendio-en-el-canal-de-la-mancha.html",
+     "title": "Zelenski condena el “safari humano” de drones rusos en Ucrania tras el ataque a un vendedor de verduras",
+     "link": "https://elpais.com/internacional/2026-08-04/al-menos-31-civiles-mueren-en-ataques-en-rusia-y-ucrania-en-los-ultimos-dos-dias.html",
      "source": "El País Internacional",
-     "published": "2026-08-04T12:32:30+00:00",
-     "copete": "No se han registrado víctimas mortales hasta el momento. Las personas socorridas han sido trasladadas al puerto francés de Boulogne-sur-Mer para ser atendidas",
-     "id": "72a0433d92a7"
+     "published": "2026-08-04T17:02:55+00:00",
+     "copete": "Las partes en conflicto niegan que la población sea un blanco intencional. Al menos 31 civiles han muerto en ofensivas en los últimos dos días",
+     "id": "5dd906b4d5aa"
+    },
+    {
+     "title": "Watch: Evacuations as Guatemala volcano erupts",
+     "link": "https://www.bbc.co.uk/news/videos/c9q91dnljpeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-04T16:50:07+00:00",
+     "copete": "The Fuego volcano is located near Escuintla, Chimaltenango, and Sacatepéquez.",
+     "id": "8cc267fe40ce"
+    },
+    {
+     "title": "Qué pasará cuando el cohete a la deriva de SpaceX choque contra la Luna (y por qué puede ser una buena noticia para la ciencia)",
+     "link": "https://www.bbc.com/mundo/articles/c4g3764dm5do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-04T16:45:21+00:00",
+     "copete": "La Luna ha soportado innumerables impactos a lo largo de millones de años. Los astrónomos creen que el de este miércoles podría resultar provechoso.",
+     "id": "8584ccdd7868"
+    },
+    {
+     "title": "Todd Blanche supera el gran escollo del Congreso para convertirse en fiscal general de Estados Unidos",
+     "link": "https://elpais.com/internacional/2026-08-04/todd-blanche-supera-el-gran-escollo-del-congreso-para-convertirse-en-fiscal-general-de-estados-unidos.html",
+     "source": "El País Internacional",
+     "published": "2026-08-04T16:17:09+00:00",
+     "copete": "El candidato de Trump logra el apoyo de los republicanos tras el compromiso para retirar el fondo millonario de compensación a los aliados y amigos del presidente",
+     "id": "60933ebc4078"
+    },
+    {
+     "title": "El caso de la piscina reflectante de Washington se le atraganta a Trump",
+     "link": "https://elpais.com/internacional/2026-08-04/el-caso-de-la-piscina-reflectante-de-washington-se-le-atraganta-a-trump.html",
+     "source": "El País Internacional",
+     "published": "2026-08-04T16:06:12+00:00",
+     "copete": "La Fiscalía ha retirado los cargos contra los cuatro acusados de vandalismo",
+     "id": "9dd3755e815d"
+    },
+    {
+     "title": "Los duros reveses que enfrenta Trump de parte de sus propios aliados",
+     "link": "https://www.bbc.com/mundo/articles/cnvneg544y2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-04T15:21:23+00:00",
+     "copete": "Un presidente acostumbrado a manipular la política estadounidense a su voluntad se enfrenta a dos dolorosas derrotas en cuestión de días, escribe Anthony Zurcher.",
+     "id": "d8b91d5403d1"
     },
     {
      "title": "Japón sitúa la industria militar como nuevo motor para el crecimiento de la economía",
      "link": "https://elpais.com/internacional/2026-08-04/japon-situa-la-industria-militar-como-nuevo-motor-para-el-crecimiento-de-la-economia.html",
      "source": "El País Internacional",
-     "published": "2026-08-04T12:28:12+00:00",
-     "copete": "Tras décadas de una actividad militar limitada por las consecuencias de la II Guerra Mundial, Tokio apuesta por el rearme y la inversión en tecnología de defensa",
+     "published": "2026-08-04T15:15:44+00:00",
+     "copete": "Tras décadas de una actividad militar limitada desde la II Guerra Mundial, Tokio apuesta por el rearme y la inversión en tecnología de defensa",
      "id": "b41f0b48add9"
-    },
-    {
-     "title": "\"Hay que poner límites\": Ariana Grande habla sobre la decisión de hacer una pausa en su carrera",
-     "link": "https://www.bbc.com/mundo/articles/c3v0z6pw4x7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-04T12:15:26+00:00",
-     "copete": "La apariencia física y la salud de la actriz y cantante estadounidense han sido objeto de especulación en los últimos años.",
-     "id": "f9972aa7d99e"
-    },
-    {
-     "title": "6 cambios sencillos que hice para evitar los alimentos ultraprocesados",
-     "link": "https://www.bbc.com/mundo/articles/c24ml501gqno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-04T11:59:44+00:00",
-     "copete": "Los alimentos ultraprocesados suelen ser más baratos y prácticos que las alternativas más saludables y pueden crear adicción.",
-     "id": "01cebf972cb3"
-    },
-    {
-     "title": "\"Siento compasión por mi madre, hizo lo mejor que pudo\": el hombre abandonado al nacer que encontró a su familia biológica 65 años después",
-     "link": "https://www.bbc.com/mundo/articles/c141ppn38vvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-04T10:25:22+00:00",
-     "copete": "David Stevenson fue encontrado en un edificio de Londres en 1960, antes de ser adoptado.",
-     "id": "35a8b76808ee"
     }
    ]
   }
@@ -460,18 +480,8 @@
   },
   {
    "section": "cardiologia",
-   "feed": "Circulation (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "cardiologia",
    "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "ciencia_datos",
-   "feed": "Hacker News (100+ puntos)",
-   "error": "<urlopen error timed out>"
   }
  ]
 }

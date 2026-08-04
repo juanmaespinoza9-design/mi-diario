@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T10:04:44Z",
+  "generated_at": "2026-08-04T22:06:50Z",
   "summaries": {
     "57b04f320996": {
       "resumen": "Artículo del European Heart Journal (EHJ) sobre cómo está cambiando el panorama de las cardiopatías congénitas del adulto, reflejo de que cada vez más pacientes con cardiopatías congénitas sobreviven hasta la vida adulta gracias a los avances en cirugía y seguimiento pediátrico. Interesa a cualquier cardiólogo clínico porque este grupo de pacientes crece y requiere manejo especializado a largo plazo. El contenido capturado por el feed remite solo a una leyenda de figura, así que conviene revisar la fuente original para el texto completo.",
@@ -7,14 +7,6 @@
     },
     "29b54b134108": {
       "resumen": "Nota de TCTMD sobre el uso emergente y de rescate del soporte circulatorio mecánico (MCS) y de la reanimación cardiopulmonar extracorpórea (ECPR, extracorporeal cardiopulmonary resuscitation) frente a un paro o colapso hemodinámico súbito. Interesa por tratarse de herramientas de última línea cada vez más presentes en hemodinamia y terapia intensiva cardiovascular.",
-      "destacado": false
-    },
-    "ba23c4b96b56": {
-      "resumen": "Nota de TCTMD (sitio especializado en cardiología intervencionista) sobre un algoritmo rápido para evaluar la pérdida de pulsatilidad (el pulso arterial normal) en un paciente que colapsa hemodinámicamente, un signo de alarma frecuente en el shock cardiogénico y en pacientes con soporte circulatorio mecánico. Aporta una guía práctica de cabecera para la terapia intensiva cardiovascular ante una descompensación aguda.",
-      "destacado": false
-    },
-    "cda43ae0da22": {
-      "resumen": "Caso clínico de TCTMD que describe una complicación grave durante la revascularización completa en el infarto agudo de miocardio con elevación del ST (IAMCEST, o STEMI por sus siglas en inglés): la perforación de un vaso no culpable derivó en trombosis del tronco de la coronaria izquierda (left main) y paro cardíaco. Sirve como advertencia sobre los riesgos de tratar lesiones no culpables durante la angioplastia primaria.",
       "destacado": false
     },
     "896f1b64c954": {
@@ -34,63 +26,73 @@
       "resumen": "Respuesta de los autores en JACC a una carta sobre la relación entre la lipoproteína(a) y el riesgo cardiovascular según los distintos estratos de calcio coronario. Sirve para entender mejor cómo interactúan estos dos marcadores de riesgo en la estratificación de pacientes.",
       "destacado": false
     },
-    "47df4642c1c1": {
-      "resumen": "Repaso de TCTMD (sitio de referencia en cardiología intervencionista) con las diez noticias más leídas de julio 2026 entre su audiencia. Sirve como termómetro rápido de qué temas concentraron el interés de la comunidad de hemodinamia y cardiología intervencionista ese mes, aunque no aporta datos originales propios.",
-      "destacado": false
-    },
     "0ad2aa6455bb": {
       "resumen": "Cobertura del ensayo ZEUS, que evaluó si ziltivekimab —un anticuerpo monoclonal que bloquea la interleucina 6 (IL-6), una vía inflamatoria implicada en la aterosclerosis— reducía los eventos cardiovasculares adversos mayores (MACE, major adverse cardiovascular events) en pacientes con enfermedad cardiovascular aterosclerótica (ASCVD). Según el título, el fármaco no logró el objetivo primario, lo que golpea a la hipótesis inflamatoria como blanco terapéutico en prevención secundaria.",
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico (se infiere del nombre \"ZEUS Trial\"); no se cuenta con el abstract completo, por lo que no puedo precisar aleatorización, ciego, número de centros ni de pacientes incluidos.\nPoblación: Según el título, pacientes con enfermedad cardiovascular aterosclerótica (ASCVD). Estudios de esta clase de fármacos suelen enrolar además pacientes con enfermedad renal crónica y proteína C reactiva elevada, pero esto no está confirmado por el abstract.\nIntervención: Ziltivekimab (anticuerpo monoclonal anti-interleucina 6, IL-6) frente a placebo, según se infiere del nombre del ensayo y la clase de fármaco.\nResultados: El título indica que el fármaco \"fails to reduce MACE\" (no logró reducir los eventos cardiovasculares adversos mayores); no dispongo de las cifras de riesgo relativo, intervalos de confianza ni valor de p.\nLimitaciones: Sin abstract no puedo evaluar la potencia estadística, el tiempo de seguimiento ni posibles desbalances basales; un título puede simplificar un resultado más matizado (por ejemplo, efecto en subgrupos o en marcadores inflamatorios).\nMensaje: De confirmarse, sería un nuevo tropiezo para la hipótesis inflamatoria (bloqueo de IL-6) como estrategia antiaterosclerótica, tras resultados mixtos con otras terapias antiinflamatorias; conviene esperar la publicación completa antes de sacar conclusiones para la práctica.\nNota: análisis sin acceso al abstract."
     },
-    "ba0eba8bc107": {
-      "resumen": "Nota sobre el relanzamiento de C-Kermit, el clásico protocolo y programa de transferencia de archivos y comunicaciones, que cumple 45 años con su primera actualización en 15. Es una curiosidad de la historia de la computación más que una herramienta de análisis de datos, pero sirve como ejemplo de mantenimiento de software de larga vida sobre una base de código de décadas.",
+    "d3532726c97a": {
+      "resumen": "Obituario de TCTMD sobre Marvin ‘Marv’ Woodall, referente e impulsor de la cardiología intervencionista, fallecido a los 88 años. No aporta datos clínicos nuevos, pero vale la pena para dimensionar la historia reciente de la especialidad y a quiénes se les debe buena parte de su desarrollo.",
       "destacado": false
     },
-    "1d30f6b4cb1d": {
-      "resumen": "Artículo de Towards Data Science que desglosa la arquitectura de un sistema de generación aumentada por recuperación (RAG, retrieval-augmented generation) en tres capas de ingeniería: el diseño del prompt, el armado del contexto (qué información se recupera) y el bucle de ejecución que coordina todo. Le sirve a un médico que aprende análisis de datos porque ordena conceptualmente cómo construir sistemas que responden preguntas a partir de documentos propios (por ejemplo, historias clínicas o guías) en vez de depender solo de lo que el modelo ya sabe de memoria.",
+    "229c0060c9af": {
+      "resumen": "Nota de TCTMD sobre un análisis que comparó la mortalidad intrahospitalaria tras la reparación percutánea borde a borde de la válvula mitral (M-TEER, mitral transcatheter edge-to-edge repair) entre varones y mujeres, sin encontrar diferencias significativas entre sexos. Es relevante porque las mujeres suelen estar subrepresentadas en los registros de intervencionismo estructural y persiste la duda de si el riesgo periprocedimiento difiere entre sexos.",
+      "destacado": false,
+      "analisis": "Diseño: Se infiere, por el título, un análisis observacional (probablemente de registro) que compara desenlaces intrahospitalarios según sexo; no hay datos sobre aleatorización, número de centros ni de pacientes.\nPoblación: Pacientes sometidos a reparación percutánea borde a borde de la válvula mitral (M-TEER, mitral transcatheter edge-to-edge repair), sin mayor precisión de criterios de inclusión o exclusión.\nIntervención: M-TEER, comparando el desenlace de mortalidad intrahospitalaria entre varones y mujeres (no hay grupo de comparación con otra técnica).\nResultados: El título indica que la mortalidad intrahospitalaria “no diverge” entre sexos; no dispongo de las cifras (tasas, razones de riesgo, intervalos de confianza, valor de p).\nLimitaciones: Sin el abstract no puedo evaluar ajuste por comorbilidades basales, tamaño muestral por sexo ni seguimiento más allá de la internación, que suele ser donde más se ven las diferencias por sexo en intervencionismo estructural.\nMensaje: Si se confirma, es tranquilizador respecto de la seguridad periprocedimiento del M-TEER en mujeres, aunque no cierra el debate sobre diferencias en desenlaces alejados o funcionales entre sexos.\nNota: análisis sin acceso al abstract."
+    },
+    "ee195a1ef15d": {
+      "resumen": "Cobertura de TCTMD sobre datos de la vida real que confirman que clasificar a los pacientes con angina y arterias coronarias no obstructivas (ANOCA, angina with non-obstructive coronary arteries) según su endotipo fisiopatológico (por ejemplo, vasoespasmo o disfunción microvascular) se asocia a mejor calidad de vida (QoL, quality of life). Interesa porque el ANOCA es un cuadro cada vez más reconocido y esta estrategia de endotipado guía mejor el tratamiento dirigido.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional de vida real (real-world data) sobre endotipado de pacientes con angina y arterias coronarias no obstructivas; no se cuenta con detalles de número de centros, pacientes ni seguimiento.\nPoblación: Pacientes con angina y arterias coronarias no obstructivas (ANOCA, angina with non-obstructive coronary arteries), presumiblemente estudiados con pruebas funcionales invasivas para definir el endotipo (vasoespasmo epicárdico, disfunción microvascular, o ambos).\nIntervención: Clasificación por endotipo fisiopatológico para guiar el tratamiento dirigido, comparada implícitamente con el manejo empírico no guiado por endotipo.\nResultados: El título señala que el endotipado “bolsters QoL” (mejora la calidad de vida); no dispongo de las cifras de los cuestionarios de calidad de vida ni de significancia estadística.\nLimitaciones: Sin abstract no puedo valorar si hubo grupo de comparación concurrente, el riesgo de sesgo propio de los datos de vida real, ni la duración del seguimiento.\nMensaje: Refuerza la tendencia a estudiar funcionalmente a los pacientes con ANOCA en vez de descartarlos tras una coronariografía “normal”, apoyando el endotipado como guía terapéutica en la práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "8b1f51d24bfa": {
+      "resumen": "Post breve de Simon Willison sobre cómo correr el modelo de lenguaje MiniMax-H3 de forma local en Mac usando MLX, el framework de aprendizaje automático de Apple optimizado para sus chips. Sirve para quien quiera experimentar con modelos de lenguaje (LLM, large language model) sin depender de una API paga ni de la nube.",
+      "destacado": false
+    },
+    "3b96fa80dc28": {
+      "resumen": "Publicación personal del científico computacional Stephen Wolfram en memoria de su esposa Elise Cawley, fallecida tras 36 años de matrimonio. No tiene contenido técnico de ciencia de datos, pero aparece en el feed por la relevancia de Wolfram (creador de Mathematica y Wolfram Alpha) en la comunidad.",
+      "destacado": false
+    },
+    "6f1f8c025c32": {
+      "resumen": "Anuncio de Waymo sobre la apertura de su servicio de robotaxis (vehículos autónomos) al público general en Dallas, Texas. Es un buen termómetro del despliegue real de inteligencia artificial aplicada a conducción autónoma, más allá de las pruebas piloto.",
+      "destacado": false
+    },
+    "de6b3be4a933": {
+      "resumen": "Nota de opinión destacada en Hacker News sobre por qué la seguridad informática web sigue siendo tan difícil de implementar bien, incluso para equipos experimentados. Le sirve a quien maneja datos sensibles (por ejemplo, de pacientes) para entender por qué conviene desconfiar de soluciones caseras de seguridad.",
+      "destacado": false
+    },
+    "579ce39fb3b8": {
+      "resumen": "Pieza de periodismo de datos de The Pudding que explora, con visualizaciones interactivas, por qué algunas personas cortan el césped de forma más prolija que otras. Es un buen ejemplo de cómo comunicar un análisis de datos cotidiano con visualizaciones atractivas, útil como inspiración de storytelling con datos.",
+      "destacado": false
+    },
+    "e17e8b4bd229": {
+      "resumen": "Reseña de KDnuggets sobre la plataforma Abacus AI y sus herramientas (ChatLLM, DeepAgent, AI Studio, entre otras) para construir aplicaciones con inteligencia artificial sin necesidad de infraestructura propia. Sirve para conocer alternativas todo-en-uno a la hora de armar prototipos de análisis o agentes de IA sin empezar de cero.",
+      "destacado": false
+    },
+    "956b4445a1e2": {
+      "resumen": "Introducción en Towards Data Science a la arquitectura de datos “medallion” (medallion data architecture), que organiza los datos en capas de calidad creciente —bronce, plata y oro— a medida que se limpian y transforman. Es un concepto básico y muy usado en ingeniería de datos que conviene conocer para entender cómo se estructuran los pipelines de análisis en organizaciones grandes.",
+      "destacado": false
+    },
+    "e71470f6f05d": {
+      "resumen": "Hilo de la comunidad r/datascience donde alguien consulta si pasar un año en un rol “menos técnico” pero muy orientado a la relación con clientes perjudica o ayuda a una carrera en ciencia de datos. Puede ser útil para quien viene de otra profesión (como la medicina) y se pregunta cómo pesan las habilidades no técnicas en una transición de carrera hacia datos.",
+      "destacado": false
+    },
+    "307970d98790": {
+      "resumen": "Artículo de Towards Data Science sobre cómo aumentar la potencia estadística de un estudio (la capacidad de detectar un efecto real) sin necesariamente sumar más participantes, usando mejores diseños y métodos de análisis. Es directamente aplicable a la investigación clínica, donde reclutar pacientes es caro y lento y maximizar la potencia con la muestra disponible es clave.",
       "destacado": true
     },
-    "765bf45633e2": {
-      "resumen": "Simon Willison (desarrollador y divulgador de inteligencia artificial) cita y comenta un prompt de David Crawshaw, ingeniero de software, sobre cómo instruir con precisión a un modelo de lenguaje. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de buenas prácticas para redactar instrucciones (prompts) efectivas para herramientas de inteligencia artificial.",
+    "14dbaa340bc7": {
+      "resumen": "Relato en KDnuggets de por qué el autor reemplazó pip, virtualenv y Poetry (herramientas clásicas para instalar paquetes y manejar entornos en Python) por uv, un gestor de paquetes más rápido y simple. Útil para un médico que está aprendiendo Python y quiere evitar dolores de cabeza típicos al armar su entorno de trabajo.",
       "destacado": false
     },
-    "12c110366b00": {
-      "resumen": "Nota de KDnuggets que evalúa si MiniMax Agent, un asistente de inteligencia artificial para tareas de trabajo, cumple lo que promete en términos de productividad real. Le sirve a un médico que aprende análisis de datos para juzgar con espíritu crítico el valor agregado de estos agentes antes de incorporarlos a su flujo de trabajo diario.",
-      "destacado": false
+    "f850ed9fb35a": {
+      "resumen": "Sudáfrica confirmó el equipo con el que va a enfrentar a Los Pumas en Vélez."
     },
-    "8cab3fc10a7d": {
-      "resumen": "Hilo de r/datascience (foro de Reddit sobre ciencia de datos) donde se discute si permanecer más de 4 o 5 años en el mismo puesto perjudica la carrera profesional en el área. Le sirve a un médico en transición hacia el análisis de datos para calibrar expectativas sobre la movilidad laboral típica de esta industria.",
-      "destacado": false
+    "14874b868663": {
+      "resumen": "Sudáfrica confirmó su formación para el partido ante Los Pumas, con el regreso de varias figuras al equipo."
     },
-    "1ed1f6384a4f": {
-      "resumen": "Simon Willison (desarrollador y divulgador de inteligencia artificial) cita a Steve Yegge, quien cuenta que su herramienta de automatización con agentes de inteligencia artificial (Gas Town) funcionaba muy bien hasta que se actualizó al modelo Opus 4.7 y empezó a fallar. Le sirve a un médico que aprende análisis de datos como advertencia de que cambiar el modelo de IA subyacente puede romper flujos de trabajo antes estables, y de la importancia de testear antes de migrar de versión.",
-      "destacado": false
-    },
-    "1c5150c65d41": {
-      "resumen": "Simon Willison difunde el término \"meat proxy\" (algo así como \"proxy de carne\"), acuñado por Niklas Gruhn, para describir a quienes copian y pegan la respuesta de una inteligencia artificial sin leerla ni entenderla antes de reenviarla a otros. Le sirve a un médico que aprende análisis de datos como recordatorio de revisar y comprender siempre la salida de una IA antes de usarla o compartirla, más aún en un contexto clínico.",
-      "destacado": false
-    },
-    "234fe9ac3c58": {
-      "resumen": "Enlace en PDF al cuento clásico de ciencia ficción \"There Will Come Soft Rains\" (1950), de Ray Bradbury, que imagina una casa automatizada que sigue funcionando sola tras la desaparición de sus habitantes. Circula en Hacker News como excusa para reflexionar sobre los límites y riesgos de la automatización total, un tema que resuena con los debates actuales sobre la autonomía de los sistemas de inteligencia artificial.",
-      "destacado": false
-    },
-    "3e9781fff505": {
-      "resumen": "Ensayo de Sean Goedecke que sostiene que los modelos de lenguaje de gran tamaño (LLM, large language models) rinden mejor cuando quien los usa ya tiene experiencia y criterio propio en el tema, porque puede detectar errores y guiar mejor las consultas. Le sirve a un médico que aprende análisis de datos porque refuerza que su conocimiento clínico previo es una ventaja real al usar inteligencia artificial para analizar datos, no algo que la IA vuelva innecesario.",
-      "destacado": false
-    },
-    "489b06ed5094": {
-      "resumen": "Entrada del blog de Cloudflare sobre cómo despliegan a gran escala los modelos de lenguaje abiertos Kimi y GLM, priorizando tamaño reducido, velocidad de respuesta y seguridad frente a modelos más grandes. Le sirve a un médico que aprende análisis de datos para conocer alternativas de código abierto a los modelos más conocidos y cómo se optimizan para uso masivo.",
-      "destacado": false
-    },
-    "5bddcc4d067e": {
-      "resumen": "Los Pumas redoblan la preparación con la ilusión de repetir la hazaña que lograron hace un año en una fecha similar."
-    },
-    "dc6dfeaf6020": {
-      "resumen": "Un repaso de cómo se entrenará Los Pumas esta semana de cara al partido ante Sudáfrica que se jugará en el estadio de Vélez."
-    },
-    "09a8fb88cfc5": {
-      "resumen": "El seleccionado de Sudáfrica ya está en Buenos Aires de cara al partido ante Los Pumas que se jugará en el estadio Amalfitani de Vélez."
+    "b49a1ba244e7": {
+      "resumen": "Los Pumas tienen una carta sorpresa que genera preocupación en el seno de los Springboks."
     }
   }
 }

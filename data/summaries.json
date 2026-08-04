@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T22:10:00Z",
+  "generated_at": "2026-08-04T10:04:44Z",
   "summaries": {
     "57b04f320996": {
       "resumen": "Artículo del European Heart Journal (EHJ) sobre cómo está cambiando el panorama de las cardiopatías congénitas del adulto, reflejo de que cada vez más pacientes con cardiopatías congénitas sobreviven hasta la vida adulta gracias a los avances en cirugía y seguimiento pediátrico. Interesa a cualquier cardiólogo clínico porque este grupo de pacientes crece y requiere manejo especializado a largo plazo. El contenido capturado por el feed remite solo a una leyenda de figura, así que conviene revisar la fuente original para el texto completo.",
@@ -51,10 +51,6 @@
       "resumen": "Artículo de Towards Data Science que desglosa la arquitectura de un sistema de generación aumentada por recuperación (RAG, retrieval-augmented generation) en tres capas de ingeniería: el diseño del prompt, el armado del contexto (qué información se recupera) y el bucle de ejecución que coordina todo. Le sirve a un médico que aprende análisis de datos porque ordena conceptualmente cómo construir sistemas que responden preguntas a partir de documentos propios (por ejemplo, historias clínicas o guías) en vez de depender solo de lo que el modelo ya sabe de memoria.",
       "destacado": true
     },
-    "ff4ecb27326b": {
-      "resumen": "Publicación de OpenAI que repasa diez avances recientes en matemática y ciencias de la computación teórica, vinculados al uso de inteligencia artificial para asistir en demostraciones y descubrimientos formales. Le sirve a un médico que aprende análisis de datos como panorama de hasta dónde puede llegar la inteligencia artificial en el razonamiento formal, más allá de las aplicaciones típicas de procesamiento de lenguaje.",
-      "destacado": false
-    },
     "765bf45633e2": {
       "resumen": "Simon Willison (desarrollador y divulgador de inteligencia artificial) cita y comenta un prompt de David Crawshaw, ingeniero de software, sobre cómo instruir con precisión a un modelo de lenguaje. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de buenas prácticas para redactar instrucciones (prompts) efectivas para herramientas de inteligencia artificial.",
       "destacado": false
@@ -67,42 +63,34 @@
       "resumen": "Hilo de r/datascience (foro de Reddit sobre ciencia de datos) donde se discute si permanecer más de 4 o 5 años en el mismo puesto perjudica la carrera profesional en el área. Le sirve a un médico en transición hacia el análisis de datos para calibrar expectativas sobre la movilidad laboral típica de esta industria.",
       "destacado": false
     },
-    "5439cd2e0524": {
-      "resumen": "Simon Willison comenta y amplifica un posteo de exe.dev que argumenta por qué las herramientas de desarrollo (devtools) deberían ser de código abierto. Le sirve a un médico que aprende análisis de datos para entender por qué buena parte del ecosistema de ciencia de datos (notebooks, librerías, entornos) se apoya en herramientas abiertas y qué se gana en transparencia y confianza al usarlas.",
+    "1ed1f6384a4f": {
+      "resumen": "Simon Willison (desarrollador y divulgador de inteligencia artificial) cita a Steve Yegge, quien cuenta que su herramienta de automatización con agentes de inteligencia artificial (Gas Town) funcionaba muy bien hasta que se actualizó al modelo Opus 4.7 y empezó a fallar. Le sirve a un médico que aprende análisis de datos como advertencia de que cambiar el modelo de IA subyacente puede romper flujos de trabajo antes estables, y de la importancia de testear antes de migrar de versión.",
       "destacado": false
     },
-    "9aa219a1841f": {
-      "resumen": "Guía práctica de Towards Data Science para construir agentes de línea de comandos (CLI, command-line interface) usando Python y Ollama, una herramienta que permite correr modelos de lenguaje de forma local. Le sirve a un médico que aprende análisis de datos como tutorial concreto para automatizar tareas con inteligencia artificial sin depender de servicios en la nube ni exponer datos sensibles.",
+    "1c5150c65d41": {
+      "resumen": "Simon Willison difunde el término \"meat proxy\" (algo así como \"proxy de carne\"), acuñado por Niklas Gruhn, para describir a quienes copian y pegan la respuesta de una inteligencia artificial sin leerla ni entenderla antes de reenviarla a otros. Le sirve a un médico que aprende análisis de datos como recordatorio de revisar y comprender siempre la salida de una IA antes de usarla o compartirla, más aún en un contexto clínico.",
       "destacado": false
     },
-    "109216a3d979": {
-      "resumen": "Publicación original de exe.dev que sostiene que las herramientas de desarrollo (devtools) deberían ser de código abierto, para evitar la dependencia de un proveedor y permitir auditar cómo funcionan. Le sirve a un médico que aprende análisis de datos como argumento a favor de priorizar herramientas abiertas (por ejemplo Python, Jupyter) frente a soluciones cerradas.",
+    "234fe9ac3c58": {
+      "resumen": "Enlace en PDF al cuento clásico de ciencia ficción \"There Will Come Soft Rains\" (1950), de Ray Bradbury, que imagina una casa automatizada que sigue funcionando sola tras la desaparición de sus habitantes. Circula en Hacker News como excusa para reflexionar sobre los límites y riesgos de la automatización total, un tema que resuena con los debates actuales sobre la autonomía de los sistemas de inteligencia artificial.",
       "destacado": false
     },
-    "f1fe3fd0e98c": {
-      "resumen": "Andy Pavlo, reconocido investigador en bases de datos, se suma a ClickHouse (motor de base de datos columnar orientado al análisis de grandes volúmenes de datos) para fundar ClickHouse Labs, su nuevo laboratorio de investigación. Le sirve a un médico que aprende análisis de datos para conocer una de las bases usadas en análisis a gran escala y hacia dónde evoluciona su investigación.",
+    "3e9781fff505": {
+      "resumen": "Ensayo de Sean Goedecke que sostiene que los modelos de lenguaje de gran tamaño (LLM, large language models) rinden mejor cuando quien los usa ya tiene experiencia y criterio propio en el tema, porque puede detectar errores y guiar mejor las consultas. Le sirve a un médico que aprende análisis de datos porque refuerza que su conocimiento clínico previo es una ventaja real al usar inteligencia artificial para analizar datos, no algo que la IA vuelva innecesario.",
       "destacado": false
     },
-    "3a9af51dcead": {
-      "resumen": "Un dirigente salteño tomó como modelo el trabajo formativo de Tucumán Rugby para lanzar el primer Torneo Nacional de Clubes M-17 en Salta."
+    "489b06ed5094": {
+      "resumen": "Entrada del blog de Cloudflare sobre cómo despliegan a gran escala los modelos de lenguaje abiertos Kimi y GLM, priorizando tamaño reducido, velocidad de respuesta y seguridad frente a modelos más grandes. Le sirve a un médico que aprende análisis de datos para conocer alternativas de código abierto a los modelos más conocidos y cómo se optimizan para uso masivo.",
+      "destacado": false
     },
     "5bddcc4d067e": {
       "resumen": "Los Pumas redoblan la preparación con la ilusión de repetir la hazaña que lograron hace un año en una fecha similar."
     },
-    "26e9614a1c05": {
-      "resumen": "River acordó ceder a préstamo a un jugador en el exterior, lo que le da más margen de tiempo para sumar refuerzos."
-    },
     "dc6dfeaf6020": {
       "resumen": "Un repaso de cómo se entrenará Los Pumas esta semana de cara al partido ante Sudáfrica que se jugará en el estadio de Vélez."
     },
-    "a9f4d2b1e001": {
-      "resumen": "Un estudio destacado encontró que la vaginosis bacteriana triplicaría el riesgo de contraer infecciones de transmisión sexual (ITS)."
-    },
-    "ceebdc62fe65": {
-      "resumen": "Un nuevo anillo inteligente promete monitorear en forma no invasiva los niveles de azúcar en sangre y de alcohol."
-    },
-    "dd2fb11f9ae4": {
-      "resumen": "Los agonistas del receptor del péptido similar al glucagón tipo 1 (GLP-1), usados para diabetes y obesidad, podrían asociarse a un mayor riesgo de caída de cabello."
+    "09a8fb88cfc5": {
+      "resumen": "El seleccionado de Sudáfrica ya está en Buenos Aires de cara al partido ante Los Pumas que se jugará en el estadio Amalfitani de Vélez."
     }
   }
 }

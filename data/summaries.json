@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T22:06:50Z",
+  "generated_at": "2026-08-05T10:04:52Z",
   "summaries": {
     "57b04f320996": {
       "resumen": "Artículo del European Heart Journal (EHJ) sobre cómo está cambiando el panorama de las cardiopatías congénitas del adulto, reflejo de que cada vez más pacientes con cardiopatías congénitas sobreviven hasta la vida adulta gracias a los avances en cirugía y seguimiento pediátrico. Interesa a cualquier cardiólogo clínico porque este grupo de pacientes crece y requiere manejo especializado a largo plazo. El contenido capturado por el feed remite solo a una leyenda de figura, así que conviene revisar la fuente original para el texto completo.",
@@ -49,22 +49,6 @@
       "resumen": "Post breve de Simon Willison sobre cómo correr el modelo de lenguaje MiniMax-H3 de forma local en Mac usando MLX, el framework de aprendizaje automático de Apple optimizado para sus chips. Sirve para quien quiera experimentar con modelos de lenguaje (LLM, large language model) sin depender de una API paga ni de la nube.",
       "destacado": false
     },
-    "3b96fa80dc28": {
-      "resumen": "Publicación personal del científico computacional Stephen Wolfram en memoria de su esposa Elise Cawley, fallecida tras 36 años de matrimonio. No tiene contenido técnico de ciencia de datos, pero aparece en el feed por la relevancia de Wolfram (creador de Mathematica y Wolfram Alpha) en la comunidad.",
-      "destacado": false
-    },
-    "6f1f8c025c32": {
-      "resumen": "Anuncio de Waymo sobre la apertura de su servicio de robotaxis (vehículos autónomos) al público general en Dallas, Texas. Es un buen termómetro del despliegue real de inteligencia artificial aplicada a conducción autónoma, más allá de las pruebas piloto.",
-      "destacado": false
-    },
-    "de6b3be4a933": {
-      "resumen": "Nota de opinión destacada en Hacker News sobre por qué la seguridad informática web sigue siendo tan difícil de implementar bien, incluso para equipos experimentados. Le sirve a quien maneja datos sensibles (por ejemplo, de pacientes) para entender por qué conviene desconfiar de soluciones caseras de seguridad.",
-      "destacado": false
-    },
-    "579ce39fb3b8": {
-      "resumen": "Pieza de periodismo de datos de The Pudding que explora, con visualizaciones interactivas, por qué algunas personas cortan el césped de forma más prolija que otras. Es un buen ejemplo de cómo comunicar un análisis de datos cotidiano con visualizaciones atractivas, útil como inspiración de storytelling con datos.",
-      "destacado": false
-    },
     "e17e8b4bd229": {
       "resumen": "Reseña de KDnuggets sobre la plataforma Abacus AI y sus herramientas (ChatLLM, DeepAgent, AI Studio, entre otras) para construir aplicaciones con inteligencia artificial sin necesidad de infraestructura propia. Sirve para conocer alternativas todo-en-uno a la hora de armar prototipos de análisis o agentes de IA sin empezar de cero.",
       "destacado": false
@@ -73,26 +57,42 @@
       "resumen": "Introducción en Towards Data Science a la arquitectura de datos “medallion” (medallion data architecture), que organiza los datos en capas de calidad creciente —bronce, plata y oro— a medida que se limpian y transforman. Es un concepto básico y muy usado en ingeniería de datos que conviene conocer para entender cómo se estructuran los pipelines de análisis en organizaciones grandes.",
       "destacado": false
     },
-    "e71470f6f05d": {
-      "resumen": "Hilo de la comunidad r/datascience donde alguien consulta si pasar un año en un rol “menos técnico” pero muy orientado a la relación con clientes perjudica o ayuda a una carrera en ciencia de datos. Puede ser útil para quien viene de otra profesión (como la medicina) y se pregunta cómo pesan las habilidades no técnicas en una transición de carrera hacia datos.",
+    "739acc3899de": {
+      "resumen": "Hilo de la comunidad r/datascience sobre una contradicción muy conocida en el trabajo con datos: los stakeholders piden resúmenes de alto nivel, pero después igual preguntan por el detalle técnico. Le sirve a un médico que está aprendiendo a comunicar hallazgos de datos, porque anticipa que conviene tener siempre el detalle a mano aunque la presentación sea ejecutiva.",
       "destacado": false
     },
-    "307970d98790": {
-      "resumen": "Artículo de Towards Data Science sobre cómo aumentar la potencia estadística de un estudio (la capacidad de detectar un efecto real) sin necesariamente sumar más participantes, usando mejores diseños y métodos de análisis. Es directamente aplicable a la investigación clínica, donde reclutar pacientes es caro y lento y maximizar la potencia con la muestra disponible es clave.",
+    "a19f627762e6": {
+      "resumen": "Simon Willison anuncia la versión 0.32 de LLM, su herramienta de línea de comandos para trabajar con modelos de lenguaje (LLM, large language model), que ahora suma trazas de razonamiento visibles, soporte para la API Responses de OpenAI, herramientas del lado del servidor y un sistema de logging más prolijo. Le sirve a un médico que arranca en análisis de datos porque permite probar distintos modelos de IA desde la terminal sin escribir código de integración.",
+      "destacado": false
+    },
+    "1a7a590593f0": {
+      "resumen": "Artículo de ACM Queue que desarma ocho mitos frecuentes sobre el impacto de la inteligencia artificial generativa (GenAI, generative artificial intelligence) en la ingeniería de software. Le sirve a un médico en transición hacia el análisis de datos para calibrar expectativas realistas sobre qué puede y qué no puede resolver la IA generativa al programar.",
       "destacado": true
     },
-    "14dbaa340bc7": {
-      "resumen": "Relato en KDnuggets de por qué el autor reemplazó pip, virtualenv y Poetry (herramientas clásicas para instalar paquetes y manejar entornos en Python) por uv, un gestor de paquetes más rápido y simple. Útil para un médico que está aprendiendo Python y quiere evitar dolores de cabeza típicos al armar su entorno de trabajo.",
+    "48188c3efa70": {
+      "resumen": "Noticia breve sobre el financiamiento por hasta seis meses que la ciudad de Múnich le otorgó al proyecto de código abierto libexpat, una biblioteca para procesar archivos XML. No es de ciencia de datos en sí, pero ilustra cómo se sostiene económicamente parte del software libre del que dependen muchas herramientas de análisis.",
       "destacado": false
     },
-    "f850ed9fb35a": {
-      "resumen": "Sudáfrica confirmó el equipo con el que va a enfrentar a Los Pumas en Vélez."
+    "231c322d5a80": {
+      "resumen": "Nota con tono humorístico sobre desarrollo web que repasa lo difícil que fue durante años centrar un elemento con CSS, justo cuando los navegadores empezaron a sumar barras laterales que rompen ese centrado. Es una curiosidad de programación más que de ciencia de datos, pero sirve como recordatorio de que hasta lo más básico de una interfaz tiene su historia.",
+      "destacado": false
     },
-    "14874b868663": {
-      "resumen": "Sudáfrica confirmó su formación para el partido ante Los Pumas, con el regreso de varias figuras al equipo."
+    "b9a4c8c6dc1c": {
+      "resumen": "Artículo que analiza cómo el minimalismo de la herramienta Pi (vinculada a investigación automatizada y a Databricks) sería justamente su punto fuerte frente a plataformas más complejas. Le aporta a quien evalúa herramientas de análisis de datos la idea de que la simplicidad puede ser una ventaja competitiva y no solo una limitación.",
+      "destacado": false
     },
-    "b49a1ba244e7": {
-      "resumen": "Los Pumas tienen una carta sorpresa que genera preocupación en el seno de los Springboks."
+    "6fbb52234be2": {
+      "resumen": "Actualización del complemento llm-anthropic que suma soporte para los nuevos modelos de Claude (Fable 5, Sonnet 5 y Opus 5) y herramientas del lado del servidor como búsqueda web, acceso a URLs y ejecución de código. Sirve para quien usa la herramienta de línea de comandos LLM y quiere aprovechar las capacidades más nuevas de Claude sin cambiar de flujo de trabajo.",
+      "destacado": false
+    },
+    "f55dd8b0206e": {
+      "resumen": "Sudáfrica confirmó el equipo titular para enfrentar a Los Pumas por la Copa Visa Galicia, con el regreso de varias figuras."
+    },
+    "bceb74c55702": {
+      "resumen": "Sacha Feinberg-Mngomezulu recordó el último cruce entre Sudáfrica y Los Pumas y aseguró que los pusieron a prueba."
+    },
+    "96cdc2afd96d": {
+      "resumen": "Los mismos árbitros que dirigieron el partido de Los Pumas ante Inglaterra estarán a cargo de encuentros en la gira de los All Blacks por Sudáfrica."
     }
   }
 }

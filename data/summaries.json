@@ -1,35 +1,9 @@
 {
-  "generated_at": "2026-08-05T10:04:52Z",
+  "generated_at": "2026-08-05T22:06:25Z",
   "summaries": {
     "57b04f320996": {
       "resumen": "Artículo del European Heart Journal (EHJ) sobre cómo está cambiando el panorama de las cardiopatías congénitas del adulto, reflejo de que cada vez más pacientes con cardiopatías congénitas sobreviven hasta la vida adulta gracias a los avances en cirugía y seguimiento pediátrico. Interesa a cualquier cardiólogo clínico porque este grupo de pacientes crece y requiere manejo especializado a largo plazo. El contenido capturado por el feed remite solo a una leyenda de figura, así que conviene revisar la fuente original para el texto completo.",
       "destacado": false
-    },
-    "29b54b134108": {
-      "resumen": "Nota de TCTMD sobre el uso emergente y de rescate del soporte circulatorio mecánico (MCS) y de la reanimación cardiopulmonar extracorpórea (ECPR, extracorporeal cardiopulmonary resuscitation) frente a un paro o colapso hemodinámico súbito. Interesa por tratarse de herramientas de última línea cada vez más presentes en hemodinamia y terapia intensiva cardiovascular.",
-      "destacado": false
-    },
-    "896f1b64c954": {
-      "resumen": "Revisión del estado del arte publicada en JACC (Journal of the American College of Cardiology) sobre el manejo clínico de la miocardiopatía hipertrófica (MCH) durante el embarazo. Es un tema de nicho pero con impacto directo en las decisiones de manejo multidisciplinario de pacientes jóvenes.",
-      "destacado": false
-    },
-    "5ff953291bda": {
-      "resumen": "Artículo de reflexión en JACC sobre las lecciones aprendidas de la respuesta a la pandemia de COVID-19 (enfermedad por coronavirus 2019) y cómo debería prepararse el sistema de salud ante una futura emergencia sanitaria. Aporta una mirada crítica útil para pensar la gestión de crisis desde la cardiología.",
-      "destacado": false
-    },
-    "68631e912e7b": {
-      "resumen": "Estudio publicado en JACC que usa un diseño de diferencias en diferencias para evaluar si las organizaciones de atención responsable (ACO, accountable care organizations) de Medicaid mejoraron la entrega de cuidado cardiovascular preventivo. Es relevante porque evalúa si un modelo de pago basado en valor realmente cambia la calidad de la prevención cardiovascular en poblaciones vulnerables.",
-      "destacado": true,
-      "analisis": "Diseño: Estudio cuasi-experimental con diseño de diferencias en diferencias (difference-in-differences), que compara la evolución de indicadores de cuidado preventivo cardiovascular antes y después de la implementación de organizaciones de atención responsable (ACO) en Medicaid, contra un grupo de comparación no expuesto.\nPoblación: Beneficiarios de Medicaid (el programa de cobertura de salud para personas de bajos ingresos en Estados Unidos), atendidos en sistemas con y sin modelo de ACO.\nIntervención: Participación de los prestadores en una organización de atención responsable (ACO) de Medicaid, comparada con la atención bajo el modelo de pago tradicional por prestación (fee-for-service).\nResultados: No se cuenta con las cifras exactas (diferencias estimadas, intervalos de confianza, valor de p) por no tener acceso al abstract completo.\nLimitaciones: Los diseños de diferencias en diferencias dependen del supuesto de tendencias paralelas previas, y pueden verse afectados por cambios simultáneos en políticas estatales de Medicaid o por selección no aleatoria de qué proveedores se suman a un ACO.\nMensaje: Si los resultados son positivos, respaldaría la expansión de modelos de pago basado en valor para mejorar la prevención cardiovascular en poblaciones de bajos ingresos; si no, cuestionaría si el incentivo económico alcanza para cambiar la práctica clínica real.\nNota: análisis sin acceso al abstract."
-    },
-    "b2fb5e2ca0fa": {
-      "resumen": "Respuesta de los autores en JACC a una carta sobre la relación entre la lipoproteína(a) y el riesgo cardiovascular según los distintos estratos de calcio coronario. Sirve para entender mejor cómo interactúan estos dos marcadores de riesgo en la estratificación de pacientes.",
-      "destacado": false
-    },
-    "0ad2aa6455bb": {
-      "resumen": "Cobertura del ensayo ZEUS, que evaluó si ziltivekimab —un anticuerpo monoclonal que bloquea la interleucina 6 (IL-6), una vía inflamatoria implicada en la aterosclerosis— reducía los eventos cardiovasculares adversos mayores (MACE, major adverse cardiovascular events) en pacientes con enfermedad cardiovascular aterosclerótica (ASCVD). Según el título, el fármaco no logró el objetivo primario, lo que golpea a la hipótesis inflamatoria como blanco terapéutico en prevención secundaria.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico (se infiere del nombre \"ZEUS Trial\"); no se cuenta con el abstract completo, por lo que no puedo precisar aleatorización, ciego, número de centros ni de pacientes incluidos.\nPoblación: Según el título, pacientes con enfermedad cardiovascular aterosclerótica (ASCVD). Estudios de esta clase de fármacos suelen enrolar además pacientes con enfermedad renal crónica y proteína C reactiva elevada, pero esto no está confirmado por el abstract.\nIntervención: Ziltivekimab (anticuerpo monoclonal anti-interleucina 6, IL-6) frente a placebo, según se infiere del nombre del ensayo y la clase de fármaco.\nResultados: El título indica que el fármaco \"fails to reduce MACE\" (no logró reducir los eventos cardiovasculares adversos mayores); no dispongo de las cifras de riesgo relativo, intervalos de confianza ni valor de p.\nLimitaciones: Sin abstract no puedo evaluar la potencia estadística, el tiempo de seguimiento ni posibles desbalances basales; un título puede simplificar un resultado más matizado (por ejemplo, efecto en subgrupos o en marcadores inflamatorios).\nMensaje: De confirmarse, sería un nuevo tropiezo para la hipótesis inflamatoria (bloqueo de IL-6) como estrategia antiaterosclerótica, tras resultados mixtos con otras terapias antiinflamatorias; conviene esperar la publicación completa antes de sacar conclusiones para la práctica.\nNota: análisis sin acceso al abstract."
     },
     "d3532726c97a": {
       "resumen": "Obituario de TCTMD sobre Marvin ‘Marv’ Woodall, referente e impulsor de la cardiología intervencionista, fallecido a los 88 años. No aporta datos clínicos nuevos, pero vale la pena para dimensionar la historia reciente de la especialidad y a quiénes se les debe buena parte de su desarrollo.",
@@ -40,59 +14,84 @@
       "destacado": false,
       "analisis": "Diseño: Se infiere, por el título, un análisis observacional (probablemente de registro) que compara desenlaces intrahospitalarios según sexo; no hay datos sobre aleatorización, número de centros ni de pacientes.\nPoblación: Pacientes sometidos a reparación percutánea borde a borde de la válvula mitral (M-TEER, mitral transcatheter edge-to-edge repair), sin mayor precisión de criterios de inclusión o exclusión.\nIntervención: M-TEER, comparando el desenlace de mortalidad intrahospitalaria entre varones y mujeres (no hay grupo de comparación con otra técnica).\nResultados: El título indica que la mortalidad intrahospitalaria “no diverge” entre sexos; no dispongo de las cifras (tasas, razones de riesgo, intervalos de confianza, valor de p).\nLimitaciones: Sin el abstract no puedo evaluar ajuste por comorbilidades basales, tamaño muestral por sexo ni seguimiento más allá de la internación, que suele ser donde más se ven las diferencias por sexo en intervencionismo estructural.\nMensaje: Si se confirma, es tranquilizador respecto de la seguridad periprocedimiento del M-TEER en mujeres, aunque no cierra el debate sobre diferencias en desenlaces alejados o funcionales entre sexos.\nNota: análisis sin acceso al abstract."
     },
-    "ee195a1ef15d": {
-      "resumen": "Cobertura de TCTMD sobre datos de la vida real que confirman que clasificar a los pacientes con angina y arterias coronarias no obstructivas (ANOCA, angina with non-obstructive coronary arteries) según su endotipo fisiopatológico (por ejemplo, vasoespasmo o disfunción microvascular) se asocia a mejor calidad de vida (QoL, quality of life). Interesa porque el ANOCA es un cuadro cada vez más reconocido y esta estrategia de endotipado guía mejor el tratamiento dirigido.",
+    "384049854bdb": {
+      "resumen": "Nota de TCTMD que reporta un estudio sobre las organizaciones de atención responsable (ACO, accountable care organizations) de Medicaid, el seguro estadounidense para personas de bajos ingresos, asociadas a una mejora en la atención cardiovascular preventiva. Interesa porque evalúa si los modelos de pago basados en valor se traducen en más prevención cardiovascular real, algo relevante para pensar el diseño de sistemas de salud.",
       "destacado": false,
-      "analisis": "Diseño: Estudio observacional de vida real (real-world data) sobre endotipado de pacientes con angina y arterias coronarias no obstructivas; no se cuenta con detalles de número de centros, pacientes ni seguimiento.\nPoblación: Pacientes con angina y arterias coronarias no obstructivas (ANOCA, angina with non-obstructive coronary arteries), presumiblemente estudiados con pruebas funcionales invasivas para definir el endotipo (vasoespasmo epicárdico, disfunción microvascular, o ambos).\nIntervención: Clasificación por endotipo fisiopatológico para guiar el tratamiento dirigido, comparada implícitamente con el manejo empírico no guiado por endotipo.\nResultados: El título señala que el endotipado “bolsters QoL” (mejora la calidad de vida); no dispongo de las cifras de los cuestionarios de calidad de vida ni de significancia estadística.\nLimitaciones: Sin abstract no puedo valorar si hubo grupo de comparación concurrente, el riesgo de sesgo propio de los datos de vida real, ni la duración del seguimiento.\nMensaje: Refuerza la tendencia a estudiar funcionalmente a los pacientes con ANOCA en vez de descartarlos tras una coronariografía “normal”, apoyando el endotipado como guía terapéutica en la práctica.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Se infiere del título un estudio observacional o cuasi-experimental que compara indicadores de atención cardiovascular preventiva entre beneficiarios cubiertos por organizaciones de atención responsable (ACO) de Medicaid y beneficiarios fuera de ese modelo; sin abstract no hay precisión sobre aleatorización, número de centros ni de pacientes.\nPoblación: Beneficiarios de Medicaid, el programa estadounidense de cobertura de salud para personas de bajos ingresos.\nIntervención: Atención bajo el modelo de organización de atención responsable (ACO), comparada implícitamente con el modelo de pago tradicional por prestación (fee-for-service).\nResultados: El título indica que las ACO \"appear to boost\" (parecerían mejorar) la atención cardiovascular preventiva; no se dispone de cifras (diferencias, intervalos de confianza, valor de p).\nLimitaciones: Los estudios observacionales sobre modelos de pago están expuestos a sesgo de selección de los prestadores que adoptan el modelo y a factores de confusión no medidos; sin abstract no se puede evaluar el ajuste estadístico ni el tiempo de seguimiento.\nMensaje: De confirmarse, respaldaría la expansión de modelos de pago basado en valor para mejorar la prevención cardiovascular en poblaciones de bajos ingresos, aunque conviene esperar la publicación completa.\nNota: análisis sin acceso al abstract."
     },
-    "8b1f51d24bfa": {
-      "resumen": "Post breve de Simon Willison sobre cómo correr el modelo de lenguaje MiniMax-H3 de forma local en Mac usando MLX, el framework de aprendizaje automático de Apple optimizado para sus chips. Sirve para quien quiera experimentar con modelos de lenguaje (LLM, large language model) sin depender de una API paga ni de la nube.",
+    "be134afebca3": {
+      "resumen": "Cobertura de TCTMD sobre el estudio PRAGUE-25, un ensayo clínico del grupo checo de cardiología intervencionista que continúa la serie de estudios PRAGUE. Vale la pena seguirlo por la trayectoria de esa serie en temas de intervencionismo cardiovascular, aunque el título no precisa el tema puntual de esta edición.",
+      "destacado": true,
+      "analisis": "Diseño: Se trata de un ensayo clínico (se infiere del nombre \"PRAGUE-25 Study\", continuación de la serie de ensayos PRAGUE del grupo checo de cardiología intervencionista); sin abstract no hay datos sobre aleatorización, ciego, número de centros ni de pacientes.\nPoblación: No especificada en el título disponible.\nIntervención: No especificada en el título disponible; los estudios previos de esta serie (PRAGUE-17, PRAGUE-19, entre otros) abordaron temas de intervencionismo estructural, arritmias y soporte circulatorio.\nResultados: No hay datos numéricos disponibles sin el abstract completo.\nLimitaciones: Sin abstract no se puede evaluar el diseño, la potencia estadística ni la validez interna del estudio.\nMensaje: Al tratarse de la continuación de una serie de ensayos con impacto previo en la práctica de cardiología intervencionista, conviene seguir su publicación completa para conocer el tema abordado y sus implicancias clínicas.\nNota: análisis sin acceso al abstract."
+    },
+    "d0920f2b490e": {
+      "resumen": "Comunicado de la empresa AngioInsight sobre la inclusión del primer paciente en su estudio clínico SMARTFLOW, orientado presumiblemente a evaluar una nueva tecnología de imagen o flujo coronario. Es una noticia institucional de arranque de reclutamiento, sin resultados todavía, pero marca una tecnología a seguir en los próximos años.",
       "destacado": false
     },
-    "e17e8b4bd229": {
-      "resumen": "Reseña de KDnuggets sobre la plataforma Abacus AI y sus herramientas (ChatLLM, DeepAgent, AI Studio, entre otras) para construir aplicaciones con inteligencia artificial sin necesidad de infraestructura propia. Sirve para conocer alternativas todo-en-uno a la hora de armar prototipos de análisis o agentes de IA sin empezar de cero.",
+    "60eca4e0f44a": {
+      "resumen": "Guía clínica concisa 2026 del Colegio Americano de Cardiología (ACC, American College of Cardiology) sobre el rol de la vacunación del adulto como parte del cuidado cardiovascular. Es una herramienta práctica para incorporar la indicación de vacunas (por ejemplo, antigripal, neumocócica) a la consulta cardiológica de rutina.",
       "destacado": false
     },
-    "956b4445a1e2": {
-      "resumen": "Introducción en Towards Data Science a la arquitectura de datos “medallion” (medallion data architecture), que organiza los datos en capas de calidad creciente —bronce, plata y oro— a medida que se limpian y transforman. Es un concepto básico y muy usado en ingeniería de datos que conviene conocer para entender cómo se estructuran los pipelines de análisis en organizaciones grandes.",
+    "2e05ce8f976b": {
+      "resumen": "Artículo de opinión en JACC (Journal of the American College of Cardiology) sobre el modelo ACCESS y el rol del cardiólogo en el cuidado integrado del síndrome cardiovascular-renal-metabólico (CKM, cardiovascular-kidney-metabolic), un concepto en auge que combina riesgo cardiovascular, enfermedad renal crónica y trastornos metabólicos. Sirve para pensar cómo se reorganiza la práctica clínica frente a este enfoque integrado.",
       "destacado": false
     },
-    "739acc3899de": {
-      "resumen": "Hilo de la comunidad r/datascience sobre una contradicción muy conocida en el trabajo con datos: los stakeholders piden resúmenes de alto nivel, pero después igual preguntan por el detalle técnico. Le sirve a un médico que está aprendiendo a comunicar hallazgos de datos, porque anticipa que conviene tener siempre el detalle a mano aunque la presentación sea ejecutiva.",
+    "7e20a14df3ef": {
+      "resumen": "Artículo de JACC que plantea la necesidad de modelos de atención interdisciplinaria para el síndrome cardiovascular-renal-metabólico (CKM), en lugar de la atención fragmentada actual entre cardiología, nefrología y endocrinología. Es útil para pensar el trabajo en equipo frente a un paciente cada vez más complejo y comórbido.",
       "destacado": false
     },
-    "a19f627762e6": {
-      "resumen": "Simon Willison anuncia la versión 0.32 de LLM, su herramienta de línea de comandos para trabajar con modelos de lenguaje (LLM, large language model), que ahora suma trazas de razonamiento visibles, soporte para la API Responses de OpenAI, herramientas del lado del servidor y un sistema de logging más prolijo. Le sirve a un médico que arranca en análisis de datos porque permite probar distintos modelos de IA desde la terminal sin escribir código de integración.",
+    "584ca2fc6c22": {
+      "resumen": "Artículo de JACC que revisa qué intervenciones sobre los determinantes sociales de la salud realmente funcionan (y cuáles no) en pacientes con síndrome cardiovascular-renal-metabólico (CKM). Interesa porque pone el foco en factores más allá de lo biológico —acceso, vivienda, ingresos— que condicionan el pronóstico cardiovascular.",
       "destacado": false
     },
-    "1a7a590593f0": {
-      "resumen": "Artículo de ACM Queue que desarma ocho mitos frecuentes sobre el impacto de la inteligencia artificial generativa (GenAI, generative artificial intelligence) en la ingeniería de software. Le sirve a un médico en transición hacia el análisis de datos para calibrar expectativas realistas sobre qué puede y qué no puede resolver la IA generativa al programar.",
+    "9a5ee5312b18": {
+      "resumen": "Hilo de r/datascience que compila señales respaldadas por investigación para detectar contenido generado por modelos de lenguaje (LLM, large language model) —el llamado \"slop\"— en la web. Le sirve a un médico que analiza literatura y datos para desarrollar un ojo crítico frente a textos o reportes potencialmente generados por IA sin supervisión.",
+      "destacado": false
+    },
+    "c9f31671de26": {
+      "resumen": "Investigación de Wired que revela que Meta publicó anuncios con imágenes de abuso sexual infantil generadas por inteligencia artificial (IA). Es un caso extremo que expone las fallas de moderación automática y los riesgos del contenido generado por IA a gran escala en plataformas masivas.",
+      "destacado": false
+    },
+    "910ad4eba2e3": {
+      "resumen": "Simon Willison prueba a Claude Fable 5, el modelo de Anthropic, generando de una sola vez un videojuego completo sobre un golpe protagonizado por mapaches, corriendo en Claude Code para la web. Sirve para calibrar hasta dónde llega hoy la generación de código autónoma con un solo prompt, útil para pensar cómo delegar tareas de programación en el trabajo diario.",
+      "destacado": false
+    },
+    "872a55e4ad43": {
+      "resumen": "Presentación de DeltaDB, un motor de base de datos del editor de código Zed, discutido en Hacker News. Interesa a quien está aprendiendo análisis de datos porque ilustra decisiones de diseño detrás de las bases de datos que después se usan para almacenar y consultar información.",
+      "destacado": false
+    },
+    "6437fe73ae85": {
+      "resumen": "Ensayo que explora por qué las comunidades de programación hobby rechazan el uso de modelos de lenguaje (LLM) para escribir código, apelando a valores como el aprendizaje y el oficio. Le sirve a un médico en transición hacia el análisis de datos para entender las tensiones culturales alrededor de la IA en el desarrollo de software, más allá de la productividad.",
+      "destacado": false
+    },
+    "9c5366ef67eb": {
+      "resumen": "Neon muestra cómo un modelo abierto mucho más barato puede superar a GPT-5.6 Sol en tareas de recuperación de información (retrieval). Es relevante porque demuestra que no siempre hace falta el modelo más caro o \"de punta\" para resolver bien un problema de datos concreto.",
+      "destacado": false
+    },
+    "5ab80889a060": {
+      "resumen": "Análisis del reporte técnico del modelo Kimi K3, de 2,8 billones de parámetros, que detalla cómo se construye hoy un modelo de lenguaje de punta (frontier model) y cuánto de ese trabajo no es el modelo en sí. Le sirve a quien aprende ciencia de datos para entender todo el proceso —datos, infraestructura, evaluación— detrás de un modelo de inteligencia artificial.",
       "destacado": true
     },
-    "48188c3efa70": {
-      "resumen": "Noticia breve sobre el financiamiento por hasta seis meses que la ciudad de Múnich le otorgó al proyecto de código abierto libexpat, una biblioteca para procesar archivos XML. No es de ciencia de datos en sí, pero ilustra cómo se sostiene económicamente parte del software libre del que dependen muchas herramientas de análisis.",
+    "8b19e1c08f8f": {
+      "resumen": "Introducción al aprendizaje semisupervisado (semi-supervised learning), una familia de técnicas que combina pocos datos etiquetados con muchos datos sin etiquetar para entrenar modelos. Es un concepto clave para un médico que empieza en análisis de datos, ya que en salud suele sobrar información sin etiquetar y escasear el diagnóstico confirmado.",
       "destacado": false
     },
-    "231c322d5a80": {
-      "resumen": "Nota con tono humorístico sobre desarrollo web que repasa lo difícil que fue durante años centrar un elemento con CSS, justo cuando los navegadores empezaron a sumar barras laterales que rompen ese centrado. Es una curiosidad de programación más que de ciencia de datos, pero sirve como recordatorio de que hasta lo más básico de una interfaz tiene su historia.",
+    "2f0a6293ac7d": {
+      "resumen": "Guía introductoria a los flujos de trabajo agénticos de GitHub (GitHub Agentic Workflows), disponibles en vista previa pública, que permiten automatizar tareas de desarrollo con agentes de inteligencia artificial. Sirve para quien quiere empezar a automatizar tareas repetitivas de análisis o control de versiones con IA.",
       "destacado": false
     },
-    "b9a4c8c6dc1c": {
-      "resumen": "Artículo que analiza cómo el minimalismo de la herramienta Pi (vinculada a investigación automatizada y a Databricks) sería justamente su punto fuerte frente a plataformas más complejas. Le aporta a quien evalúa herramientas de análisis de datos la idea de que la simplicidad puede ser una ventaja competitiva y no solo una limitación.",
+    "c5a5885a30a9": {
+      "resumen": "Artículo que propone señales estadísticas y heurísticas —sin necesidad de otro modelo de IA— para detectar si un texto fue generado por inteligencia artificial. Le aporta a un médico que evalúa literatura o reportes la posibilidad de sospechar contenido generado por IA sin depender de herramientas externas.",
       "destacado": false
     },
-    "6fbb52234be2": {
-      "resumen": "Actualización del complemento llm-anthropic que suma soporte para los nuevos modelos de Claude (Fable 5, Sonnet 5 y Opus 5) y herramientas del lado del servidor como búsqueda web, acceso a URLs y ejecución de código. Sirve para quien usa la herramienta de línea de comandos LLM y quiere aprovechar las capacidades más nuevas de Claude sin cambiar de flujo de trabajo.",
-      "destacado": false
+    "f8cbecd63cd5": {
+      "resumen": "World Rugby sancionó al apertura Tomás Albornoz por un exabrupto contra el árbitro, en una jornada que además terminó en derrota."
     },
-    "f55dd8b0206e": {
-      "resumen": "Sudáfrica confirmó el equipo titular para enfrentar a Los Pumas por la Copa Visa Galicia, con el regreso de varias figuras."
+    "af12337fd873": {
+      "resumen": "Facundo Cardozo, una de las caras nuevas de Los Pumas, contó que su sueño es sumar minutos aunque sea en un solo partido."
     },
-    "bceb74c55702": {
-      "resumen": "Sacha Feinberg-Mngomezulu recordó el último cruce entre Sudáfrica y Los Pumas y aseguró que los pusieron a prueba."
-    },
-    "96cdc2afd96d": {
-      "resumen": "Los mismos árbitros que dirigieron el partido de Los Pumas ante Inglaterra estarán a cargo de encuentros en la gira de los All Blacks por Sudáfrica."
+    "1d9a20d405fa": {
+      "resumen": "El apertura tucumano Tomás Albornoz recibió una dura sanción de World Rugby tras su exabrupto contra el árbitro."
     }
   }
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-05T14:40:22.320231+00:00",
+ "generated_at": "2026-08-05T17:57:47.632355+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -7,11 +7,26 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "The PRAGUE-25 Study",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44cmFUbUgySEMxbUJzNkVrVGRjbG1fdTd2VmMwd210NUNkS0pPa1QydUJGUzhUUmRad0hvSXpKSlFEQnFsMlVoM3BSNDJfTy1ybFJmOHNn?oc=5",
+     "source": "TCTMD",
+     "published": "2026-08-05T15:16:29+00:00",
+     "id": "be134afebca3"
+    },
+    {
      "title": "AngioInsight™, Announces First Patient Enrolled in SMARTFLOW™ Clinical Study",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQy1sbUUzbHE3X3h5N0d3SUo1c200Yy1YTUZXM2FqQ1JnYjVrTEhaVjRQemJLZjdwUDdvRVVaNjFjLUpEVk9kdzJ2RUpjV243SWVmNkpkblFQNDkyMDdOTWhEU001V1l6azFsWV94d2F4UGVOSGdiNTQyU1pGTzl0eFJnUFpIdkw2bkIyNVg3aUlMdDg5dUJKMEdMQWVuRkV2RjJR?oc=5",
      "source": "TCTMD",
      "published": "2026-08-05T13:47:03+00:00",
      "id": "d0920f2b490e"
+    },
+    {
+     "title": "Adult Immunizations as Part of Cardiovascular Care: 2026 ACC Concise Clinical Guidance: A Report of the American College of Cardiology Solution Set Oversight Committee",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42554529/",
+     "source": "JACC",
+     "published": "2026-08-05T00:00:00+00:00",
+     "copete": "Heidenreich PA et al. · Journal of the American College of Cardiology",
+     "id": "60eca4e0f44a"
     },
     {
      "title": "Marvin ‘Marv’ Woodall, Cardiovascular Catalyst, Dies at 88",
@@ -35,11 +50,28 @@
      "id": "ee195a1ef15d"
     },
     {
-     "title": "ZEUS Trial: Ziltivekimab Fails to Reduce MACE in ASCVD Patients",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTXhiTkRJOGtteDdOV0pFQlBTRnA1ZTI4ZTBBRG1hdWJLd1FSQ1I4anRFMTFZeTVuVkVNVGphWGRyM2lZYl9idmpUZThnTXVTMXJEVkJvWFJJNVJDQmYxTmMwVTVqWG9ZMWQ0WDVhTGJHcElFOGZGdXpITVJlZkp3cUVnMXR2NzZtYXNB?oc=5",
-     "source": "TCTMD",
-     "published": "2026-08-03T17:05:08+00:00",
-     "id": "0ad2aa6455bb"
+     "title": "Cardiovascular-Kidney-Metabolic Care and the ACCESS Model: Opportunity, Tension, and the Role of Cardiologists",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42554389/",
+     "source": "JACC",
+     "published": "2026-08-04T00:00:00+00:00",
+     "copete": "Chiu N et al. · Journal of the American College of Cardiology",
+     "id": "2e05ce8f976b"
+    },
+    {
+     "title": "From Fragmentation to Integration: The Need for Interdisciplinary Care Models in Cardiovascular-Kidney-Metabolic Syndrome",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42554388/",
+     "source": "JACC",
+     "published": "2026-08-04T00:00:00+00:00",
+     "copete": "Neeland IJ et al. · Journal of the American College of Cardiology",
+     "id": "7e20a14df3ef"
+    },
+    {
+     "title": "Addressing Social Determinants of Health in Patients With Cardiovascular-Kidney-Metabolic Syndrome: What Works, What Does Not?",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42554387/",
+     "source": "JACC",
+     "published": "2026-08-04T00:00:00+00:00",
+     "copete": "Ferdinand KC et al. · Journal of the American College of Cardiology",
+     "id": "584ca2fc6c22"
     },
     {
      "title": "The changing landscape of adult congenital heart diseases",
@@ -50,36 +82,20 @@
      "id": "57b04f320996"
     },
     {
-     "title": "Clinical Considerations in Management of Hypertrophic Cardiomyopathy in Pregnancy: JACC State-of-the-Art Review",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42524805/",
-     "source": "JACC",
-     "published": "2026-07-29T00:00:00+00:00",
-     "copete": "Abdelfattah OM et al. · Journal of the American College of Cardiology",
-     "id": "896f1b64c954"
+     "title": "Sex Hormone Influences on Cardiovascular Risk. Reply",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42526042/",
+     "source": "NEJM Cardiología",
+     "published": "2026-07-30T00:00:00+00:00",
+     "copete": "Skeith L et al. · The New England journal of medicine",
+     "id": "742ee8759563"
     },
     {
-     "title": "Cross-Ancestry Proteogenomic Analyses Identified New Therapeutic Insights for Ischemic Heart Disease",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42524807/",
-     "source": "JACC",
-     "published": "2026-07-20T00:00:00+00:00",
-     "copete": "Mazidi M et al. · Journal of the American College of Cardiology",
-     "id": "6dea0ac69818"
-    },
-    {
-     "title": "Compound Exposure to Extreme Heat and Substantial Landscape Fire-Sourced Air Pollution on Cardiovascular Mortality",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42524808/",
-     "source": "JACC",
-     "published": "2026-07-19T00:00:00+00:00",
-     "copete": "Wen B et al. · Journal of the American College of Cardiology",
-     "id": "24637850ff32"
-    },
-    {
-     "title": "Health Status Outcomes 7 Years After Transcatheter or Surgical Aortic Valve Replacement in Low-Surgical Risk Patients With Aortic Stenosis",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42524810/",
-     "source": "JACC",
-     "published": "2026-07-17T00:00:00+00:00",
-     "copete": "Brener MI et al. · Journal of the American College of Cardiology",
-     "id": "40adebb8b30f"
+     "title": "Sex Hormone Influences on Cardiovascular Risk",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42526041/",
+     "source": "NEJM Cardiología",
+     "published": "2026-07-30T00:00:00+00:00",
+     "copete": "Bonnet F et al. · The New England journal of medicine",
+     "id": "ba245273fb1b"
     }
    ]
   },
@@ -89,26 +105,65 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Ranking de World Rugby: el impacto que podrían generar Los Pumas en el partido ante Sudáfrica",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSWNqZlE5Rkh5V1hrclBZa05CUjE4ZGgxNzRpQU83aW5rV0ZzUU1WUGI5Y2pzWThNOFZiSk1ZeWV2cjhzd25OLWk1UE1HLVl6dnpaV3I5c2Q1Tlo2di1pZkNsVWRjYTdTNC1pYWFWZXJhUmNZN1B1cEc0Z1BpV203a0lVMXY3bGVkQkdLcVpCODBONFZ6SWVQcHY1SzlBYkdfUlB5MWI3RDBzZTN1VkcxR3hjeEhyNkdL?oc=5",
-     "source": "ESPN Argentina",
-     "published": "2026-08-05T14:19:00+00:00",
-     "id": "7c7187ecf734"
+     "title": "Francisco Ortega ya se hace la revisión médica en River: \"Estoy disponible para jugar\"",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-francisco-ortega-llegada-argentina-revision-medica-firma_0_Aj1gviUCTJ.html",
+     "source": "Olé — River",
+     "published": "2026-08-05T17:25:00+00:00",
+     "copete": "El lateral izquierdo llegó este miércoles por la mañana al país y en las próximas horas firmará su contrato en el Monumental.",
+     "id": "27ed73074c8d"
     },
     {
-     "title": "Rassie Erasmus, entrenador de los Springboks: “El Rugby Championship debería trasladarse a febrero”",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZHRtMkNBQ2piVDM2VVVzZUI4dmxidTlZNzR6WVBIdEdZNy0yV3ZrdGwyazc4aWhRdjBHUkh0TUhweFNiX1dfai0zemxONllNbVp5XzhYQURYUzVMRnRvYndfYmxRWGxQLUR4UklIN0s5RTR2eGdlNlJMZi1tLXdlSU9UTlR4Uy1CSEJGNkl5OFNacTg0OUNTbFBMUzREV1Vmd1hqR2hlRUExLV9lMHM5X3ZEMHhtbS05eU1qb3BKYw?oc=5",
+     "title": "Rassie Erasmus salió en defensa de Los Pumas luego de la controversia con Inglaterra",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ3g0UG1wM291dTRZOHhrYnprS0hDRnU1RmxmSFZTTVR6TzcyTTJzM2dEbDN3TjdaWkpjZVV2Z0FRdlhkc09DdzFPTHVLNVlYZm1GNzhJcXQ0VkZ2Q3pjLTQtRTdieXBiSzVyYXZicjNmeXN6ckx4SXBweTlERkZGUGJSS2gwUHdYT2VNTWE1YTNMa09rMExzanNzZFJwenpKQ2k5UXpkeUNmXzdGMWJSU0lRUmg5UQ?oc=5",
+     "source": "ESPN Chile",
+     "published": "2026-08-05T17:21:46+00:00",
+     "id": "3203d33fcb5d"
+    },
+    {
+     "title": "Tomás Albornoz, apertura de los Pumas, fue sancionado con cuatro partidos por inconducta en el test ante Inglaterra",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYXpRMlRwRW4zT01xS3dLeEJhb0lVZU5DOWd3N1RGQjBhZ3FDeHd6a1NPZW9LUEx5MlFNZU1iaEhEbl9QNF95djZTeFl3Q3RyM3ptSm5wOXV3bV9qU0tabkx2QTA4Z0VUTGI4VW90TG5TWHlDbHMybzhSQ082VFBoYmNrUDJ4SEs3VWhJVmhIbjhNVDB0emFCeE5JWWhCWkgwdV9QY1VuSjVGSDZUcjlQWlFZS2FoWENnS0E2bXA5bml3T1ZKUEhVa0RUVmFITC1LNjE5R3JVWElwQ25VXzl0LW1BNEk4Tm1x?oc=5",
      "source": "La Nación",
-     "published": "2026-08-05T13:43:00+00:00",
-     "id": "452826eaf200"
+     "published": "2026-08-05T17:07:00+00:00",
+     "id": "5968d50e075f"
     },
     {
-     "title": "Unión vs. Lanús, por el Torneo Clausura: día, horario y por dónde ver",
-     "link": "https://www.ole.com.ar/futbol-primera/union-vs-lanus-partido-torneo-clausura-fecha2-dia-horario-tv_0_aDCS4wd3yY.html",
+     "title": "El estadio que podría albergar la final del Torneo Clausura",
+     "link": "https://www.ole.com.ar/futbol-primera/torneo-clausura-final-estadio_0_ZH4TVkRl8L.html",
      "source": "Olé — Primera",
-     "published": "2026-08-05T13:34:35+00:00",
-     "copete": "Este jueves, el Tatengue recibe al Granate en Santa Fe en un duelo clave por el torneo local, completando los partidos pendientes de la segunda jornada.",
-     "id": "be57de9c88dd"
+     "published": "2026-08-05T16:52:04+00:00",
+     "copete": "Una cancha ubicada en la provincia de Buenos Aires pica en punta para oficiar como sede del partido decisivo del campeonato doméstico en 2026.",
+     "id": "da172a18ee94"
+    },
+    {
+     "title": "La decisión de Flamengo que deja a Thiago Almada a un paso de River",
+     "link": "https://www.ole.com.ar/river-plate/river-flamengo-thiago-almada-decision-zenit-rusia-luiz-henrique_0_Y57e11M1Xo.html",
+     "source": "Olé — River",
+     "published": "2026-08-05T16:34:07+00:00",
+     "copete": "Después de las contundentes declaraciones del director deportivo del club, el Mengao comenzó a avanzar por otro jugador.",
+     "id": "bb86ab93b21f"
+    },
+    {
+     "title": "Cómo le fue a Boca la última vez que hizo de local en el Ducó",
+     "link": "https://www.ole.com.ar/boca-juniors/boca-local-duco-cancha-huracan_0_SNtDTuTWaw.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-05T16:00:56+00:00",
+     "copete": "Después de 41 años, el Xeneize vuelve a hacer de local en la cancha de Huracán. Cómo fue el partido y por qué había mudado la localía en ese entonces.",
+     "id": "5c97d40d1812"
+    },
+    {
+     "title": "La promesa en la zaga de River que firmó su primer contrato: quién es Juan Segundo Miretti",
+     "link": "https://www.ole.com.ar/river-plate/river-firma-primer-contrato-profesional-juan-segundo-miretti_0_tu1N9sx8Pl.html",
+     "source": "Olé — River",
+     "published": "2026-08-05T15:50:45+00:00",
+     "copete": "Nació en Córdoba, se crió en Santiago del Estero y llegó a River a los 13 años. Acá, su historia.",
+     "id": "43ccc978f0ba"
+    },
+    {
+     "title": "\"No saben cuándo rendirse\": la advertencia de dos bicampeones del mundo sobre Los Pumas",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeWJ0aGtSVDRXMFBsWDhlMHRXZnk4VHhUdWJMbjliVkExZTNsb0NTZmpmTC15TDg0dUt4QlNKRURadlVFdkFkVGRVRXhrLXpac1RFRmY3MlpxUTVfYWg0aTZTSHhiTDZmVVhybU85RlltMGRqdGVXalYxc0ctNVBGRklUMWs1T1dDR243dkFZM0NsVGlQNzZUUmlweVB3dVREZFREdjlZNnk1UkFaczFoVHBrWGdvTV9VeUlvNllPOE1EOG1VQnFr?oc=5",
+     "source": "ESPN Chile",
+     "published": "2026-08-05T15:32:30+00:00",
+     "id": "83607eea8ab7"
     },
     {
      "title": "Qué hace y dónde está Thiago Almada mientras River busca abrochar su llegada",
@@ -119,59 +174,12 @@
      "id": "45cbe3ca7e0a"
     },
     {
-     "title": "CAMBIO DE ÁRBITRO PARA EL PARTIDO DE LOS PUMAS VS SUDÁFRICA",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLXRVdFRNa2UxLVZBOEk3S0NKQUdRZ0xsb3U5VW5KeVB4MmRRVVE2SUptRFQwTmhBN2ZrbDlnUElESDlSX0x3YV9peXl5Z0t4ZkZINUFfZjBsSGYwLTVreENMeGZCazdmMlNSVDd0UFdWN09XeWdmRDZXQU9OUXNNU3J4bzZaaEc5QTNCNjNiWlBpclhhYlI5TkF3dHdjTnJ1QlktNUR3WmNtbXc?oc=5",
-     "source": "Rugby Champagne",
-     "published": "2026-08-05T13:19:43+00:00",
-     "id": "16f13566d927"
-    },
-    {
      "title": "El borrado de River que se acerca al fútbol italiano: ''No es barato'' y ''River actuó mal''",
      "link": "https://www.ole.com.ar/river-plate/river-plate-matias-galarza-fonda-borrado-italia_0_hJWO80KS3Z.html",
      "source": "Olé — River",
      "published": "2026-08-05T12:59:45+00:00",
      "copete": "Su representante aseguró que hay clubes interesados de Europa, que se iría del Millonario por una venta y también apuntó duro contra el club por la situación del futbolista.",
      "id": "90e66522879d"
-    },
-    {
-     "title": "Qué respondió Gabriel Milito cuando le mencionaron que su nombre \"volvió a sonar en el entorno de River\"",
-     "link": "https://www.ole.com.ar/futbol-internacional/america/gabriel-milito-river-leagues-cup-eduardo-coudet_0_53NuQxh8Qw.html",
-     "source": "Olé — River",
-     "published": "2026-08-05T12:34:06+00:00",
-     "copete": "Justo antes de hacer su debut en la Leagues Cup, el entrenador de Chivas fue consultado por un supuesto interés del Millonario y fue tajante.",
-     "id": "7c3a61911c9b"
-    },
-    {
-     "title": "River, hoy EN VIVO: las bombas de Salas, Almada, llega Ortega y las noticias del miércoles 5 de agosto",
-     "link": "https://www.ole.com.ar/river-plate/river-vivo-miercoles-5-agosto-ultimas-noticias-mercado-pases-salas-almada-ortega_0_Jwzc3uzogI.html",
-     "source": "Olé — River",
-     "published": "2026-08-05T12:31:07+00:00",
-     "copete": "Mientras Coudet piensa en Tigre y aguarda por más refuerzos, el correntino habló tras su llegada a Independiente Rivadavia y dejó fuertes frases.",
-     "id": "38e481cfe094"
-    },
-    {
-     "title": "A qué hora juega hoy Boca vs. Estudiantes y por dónde se puede ver EN VIVO el Torneo Clausura",
-     "link": "https://www.ole.com.ar/futbol-primera/boca-vs-estudiantes-partido-fecha2-torneo-clausura-2026-vivo-minuto-minuto_0_mDPvBLTy7g.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-05T12:15:37+00:00",
-     "copete": "El Xeneize recibe al Pincha en la cancha de Huracán para disputar un encuentro pediende de la segunda fecha del certamen local. Seguilo en Olé.",
-     "id": "ed117a0e0cf5"
-    },
-    {
-     "title": "El uno por uno de las grandes joyas de La Fábrica de Vélez",
-     "link": "https://www.ole.com.ar/velez/velez-fabrica-juveniles-inferiores_0_MhbG4Gqy6S.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-05T10:00:16+00:00",
-     "copete": "Con el debut de Thiago Aguirre, el séptimo en la era Barros Schelotto, el foco volvió a estar en el proceso de formación del Fortín. Acá, el resultado de una de las mejores Inferiores del Siglo XXI.",
-     "id": "bfc56c3a97de"
-    },
-    {
-     "title": "Mercado récord: cuántos millones lleva invertidos River y por qué puede hacerlo",
-     "link": "https://www.ole.com.ar/river-plate/river-mercado-pases-plata-dinero-invertido-invierno-2026-refuerzos_0_3S8198h8XT.html",
-     "source": "Olé — River",
-     "published": "2026-08-05T02:14:54+00:00",
-     "copete": "Con Ortega como octavo refuerzo, las cifras treparán mucho más si cierra a Almada. De dónde sale el dinero. Cuáles son los principales ingresos.",
-     "id": "f9f3d3615658"
     },
     {
      "title": "Argentina XV definió su plantel para viajar a Estados Unidos",
@@ -188,6 +196,50 @@
    "title": "Ciencia de datos e IA",
    "mode": "resumen",
    "items": [
+    {
+     "title": "How a Frontier Model Gets Built, Read from the Kimi K3 Report",
+     "link": "https://towardsdatascience.com/how-a-frontier-model-gets-built-read-from-the-kimi-k3-report/",
+     "source": "Towards Data Science",
+     "published": "2026-08-05T16:30:00+00:00",
+     "copete": "An open, 2.8-trillion-parameter model shipped with 47 pages of its own recipe. Reading it tells you what building a frontier model now involves, and how little of it is the model. The post How a Frontier Model Gets Built, Read from the…",
+     "id": "5ab80889a060"
+    },
+    {
+     "title": "Discovery Loop",
+     "link": "https://www.discoveryloop.com/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-05T16:19:44+00:00",
+     "id": "77585261d12a"
+    },
+    {
+     "title": "Google DeepMind CEO Demis Hassabis is stepping down",
+     "link": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-05T16:05:37+00:00",
+     "id": "e24af488b820"
+    },
+    {
+     "title": "Jeff Dean leaving Alphabet",
+     "link": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-05T16:04:33+00:00",
+     "id": "326752dd3883"
+    },
+    {
+     "title": "Cops Used Flock to Track a Man Across State Lines for a Pretextual Weed Search",
+     "link": "https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-05T15:20:11+00:00",
+     "id": "3643f266e5bf"
+    },
+    {
+     "title": "Introduction to Semi-Supervised Learning",
+     "link": "https://towardsdatascience.com/introduction-to-semi-supervised-learning/",
+     "source": "Towards Data Science",
+     "published": "2026-08-05T15:00:00+00:00",
+     "copete": "A primer about Semi-Supervised Learning, the approaches taken with different algorithms and the limitations of using unlabelled data. The post Introduction to Semi-Supervised Learning appeared first on Towards Data Science .",
+     "id": "8b19e1c08f8f"
+    },
     {
      "title": "Getting Started with GitHub Agentic Workflows",
      "link": "https://www.kdnuggets.com/getting-started-with-github-agentic-workflows",
@@ -213,55 +265,11 @@
      "id": "244d7049b97a"
     },
     {
-     "title": "Building Document Structure with Loop Engineering: Recovering a PDF’s Outline from Body Typography for RAG",
-     "link": "https://towardsdatascience.com/building-document-structure-with-loop-engineering-recovering-a-pdfs-outline-from-body-typography-for-rag/",
-     "source": "Towards Data Science",
-     "published": "2026-08-05T12:00:00+00:00",
-     "copete": "Enterprise Document Intelligence [Vol.1 #5octies] - Rules propose, LLM validates: six deterministic signals on span-level typography surface heading candidates, one bounded loop keeps the real ones, and the same toc_df drops back into the…",
-     "id": "5b1794197a78"
-    },
-    {
-     "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
-     "link": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-05T11:03:13+00:00",
-     "id": "0db5ea2b8c13"
-    },
-    {
-     "title": "Position: LLMs Can't Jump",
-     "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-05T11:01:37+00:00",
-     "id": "38e5715b6685"
-    },
-    {
      "title": "Stakeholders want high level, then ask detailed questions anyway",
      "link": "https://www.reddit.com/r/datascience/comments/1vfshsd/stakeholders_want_high_level_then_ask_detailed/",
      "source": "r/datascience",
      "published": "2026-08-05T00:52:16+00:00",
      "id": "739acc3899de"
-    },
-    {
-     "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
-     "link": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
-     "source": "Simon Willison (IA)",
-     "published": "2026-08-04T23:58:24+00:00",
-     "copete": "I released LLM 0.32 this morning, the most significant new version of LLM since the initial launch of the project. The new version includes support for visible reasoning traces, server-side provider tools, redesigned content-addressable…",
-     "id": "a19f627762e6"
-    },
-    {
-     "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
-     "link": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-04T23:31:46+00:00",
-     "id": "57631661fc26"
-    },
-    {
-     "title": "Pi's Minimalism Is Its Advantage",
-     "link": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-04T22:22:12+00:00",
-     "id": "b9a4c8c6dc1c"
     }
    ]
   },
@@ -271,100 +279,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este miércoles 5 de agosto de 2026",
-     "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid05082026/",
+     "title": "Un cohete de SpaceX se estrelló contra la Luna y los científicos estudiarán el impacto",
+     "link": "https://www.lanacion.com.ar/el-mundo/un-cohete-de-spacex-se-estrello-contra-la-luna-y-los-cientificos-estudiaran-el-impacto-nid05082026/",
      "source": "La Nación",
-     "published": "2026-08-05T14:38:38+00:00",
-     "copete": "La divisa oficial se vende a $1515; en tanto, el dólar blue cotiza a $1545 para esa operación; qué pasa con el MEP y el CC",
-     "id": "e5dab132d1ab"
+     "published": "2026-08-05T17:55:34+00:00",
+     "copete": "La etapa superior de un Falcon 9, que quedó a la deriva tras una misión de 2025, habría chocado contra la superficie lunar a unos 8700 kilómetros por hora",
+     "id": "9fd0abc31b62"
     },
     {
-     "title": "La totalidad del empleo creado en el último año fue informal, según un estudio privado",
-     "link": "https://www.infobae.com/economia/2026/08/05/la-totalidad-del-empleo-creado-en-el-ultimo-ano-fue-informal-segun-un-estudio-privado/",
-     "source": "Infobae",
-     "published": "2026-08-05T14:37:59+00:00",
-     "copete": "Los puestos de trabajo generados en los primeros meses de 2026 reflejaron un nuevo deterioro en la calidad laboral. Cuáles son las provincias con mayor informalidad",
-     "id": "d43884ed4aa2"
-    },
-    {
-     "title": "Un policía se disfrazó de arbusto para controlar el uso del celular al volante",
-     "link": "https://www.lanacion.com.ar/autos/un-policia-se-disfrazo-de-arbusto-para-controlar-el-uso-del-celular-al-volante-nid05082026/",
+     "title": "Caputo defendió el modelo económico: “Para todos los tarados que hablan de la industria”",
+     "link": "https://www.lanacion.com.ar/economia/caputo-defendio-el-modelo-economico-para-todos-los-tarados-que-hablan-de-la-industria-nid05082026/",
      "source": "La Nación",
-     "published": "2026-08-05T14:37:36+00:00",
-     "copete": "La campaña buscó concientizar sobre los peligros y las consecuencias de conducir mientras se usan dispositivos móviles",
-     "id": "56c83eac249a"
+     "published": "2026-08-05T17:54:18+00:00",
+     "copete": "El ministro vinculó la estabilidad macroeconómica con el ingreso de divisas de los sectores exportadores y afirmó que el programa económico continuará otros cuatro años",
+     "id": "972b6dfdaf47"
     },
     {
-     "title": "Agricultura en Guatemala  activa su plan de respuesta y vigila 238,862 hectáreas por la actividad del volcán de Fuego",
-     "link": "https://www.infobae.com/guatemala/2026/08/05/agricultura-en-guatemala-activa-su-plan-de-respuesta-y-vigila-238862-hectareas-por-la-actividad-del-volcan-de-fuego/",
-     "source": "Infobae",
-     "published": "2026-08-05T14:37:15+00:00",
-     "copete": "El boletín vulcanológico especial BEFGO_064_2026 reportó incandescencia constante y emisión persistente de ceniza, y llevó a emitir una alerta el 5 de agosto de 2026 por riesgo en barrancas cercanas",
-     "id": "06b69c626846"
-    },
-    {
-     "title": "Dura acusación de Patricia Bullrich contra Brasil tras el retiro de su embajador en el país",
-     "link": "https://www.lanacion.com.ar/politica/dura-acusacion-de-patricia-bullrich-contra-brasil-tras-el-retiro-de-su-embajador-en-el-pais-nid05082026/",
+     "title": "Dónde queda el Volcán de Fuego: el pueblo cerca de Ciudad de Guatemala que fue arrasado por una erupción en 2018",
+     "link": "https://www.lanacion.com.ar/el-mundo/donde-queda-el-volcan-de-fuego-el-pueblo-cerca-de-ciudad-de-guatemala-que-fue-arrasado-por-una-nid05082026/",
      "source": "La Nación",
-     "published": "2026-08-05T14:36:54+00:00",
-     "copete": "La senadora acusó al gobierno de Lula de no elegir el camino diplomático para resolver el conflicto que se generó luego de las críticas de Milei",
-     "id": "85d60302ff34"
+     "published": "2026-08-05T17:54:16+00:00",
+     "copete": "El Volcán de Fuego, ubicado cerca de Ciudad de Guatemala, protagonizó una de las erupciones más devastadoras de 2018, que arrasó comunidades enteras. Conoce qué pueblos se encuentran en su entorno, cómo viven el riesgo volcánico y cuál es…",
+     "id": "98601b21df58"
     },
     {
-     "title": "La declaración de Facundo Moyano ante la Justicia tras el episodio con Candela Arizaga",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/08/05/la-declaracion-de-facundo-moyano-ante-la-justicia-tras-el-episodio-con-candela-arizaga/",
+     "title": "Cómo unos agentes corruptos convirtieron una red nacional de cámaras en una herramienta de acoso",
+     "link": "https://www.infobae.com/wapo/2026/08/05/como-unos-agentes-corruptos-convirtieron-una-red-nacional-de-camaras-en-una-herramienta-de-acoso/",
      "source": "Infobae",
-     "published": "2026-08-05T14:36:10+00:00",
-     "copete": "El sindicalista fue liberado anoche tras permanecer varias horas detenido. Está imputado por lesiones leves y privación ilegítima de la libertad en contexto de violencia de género",
-     "id": "1a395dbba5b1"
+     "published": "2026-08-05T17:51:58+00:00",
+     "copete": "Una investigación revela que agentes usaron lectores de matrículas para seguir rutinas privadas y acosar a mujeres, mientras la empresa que provee esta tecnología crece con miles de comunidades conectadas",
+     "id": "59a3a4eb8404"
     },
     {
      "title": "Boca Juniors recibirá a Estudiantes en la cancha de Huracán por el Torneo Clausura: hora, TV y formaciones",
      "link": "https://www.infobae.com/deportes/2026/08/05/boca-juniors-recibira-a-estudiantes-en-la-cancha-de-huracan-por-el-torneo-clausura-hora-tv-y-formaciones/",
      "source": "Infobae",
-     "published": "2026-08-05T14:35:38+00:00",
+     "published": "2026-08-05T17:51:47+00:00",
      "copete": "El equipo del Vasco Arruabarrena buscará su primer triunfo en el certamen ante el Pincha en el duelo postergado de la fecha 2. Desde las 19 transmite TNT Sports",
      "id": "7a0f8b6dd138"
     },
     {
-     "title": "De Lali y Emilia Mernes a Dillom: famosos convocan a marchar al Congreso en rechazo a la reforma de la Ley de Tierras",
-     "link": "https://www.lanacion.com.ar/espectaculos/de-lali-y-emilia-mernes-a-dillom-famosos-convocan-a-marchar-al-congreso-en-rechazo-a-la-reforma-de-nid05082026/",
-     "source": "La Nación",
-     "published": "2026-08-05T14:35:06+00:00",
-     "copete": "A través de sus redes sociales, referentes de la música y la cultura llamaron a participar de una convocatoria el jueves 6 de agosto",
-     "id": "55fe5bf382fe"
-    },
-    {
-     "title": "Denisse González se grabó frente al espejo durante su internación y dejó un mensaje esperanzador: “Un día a la vez”",
-     "link": "https://www.lanacion.com.ar/espectaculos/denisse-gonzalez-se-grabo-frente-al-espejo-durante-su-internacion-y-dejo-un-mensaje-esperanzador-un-nid05082026/",
-     "source": "La Nación",
-     "published": "2026-08-05T14:34:17+00:00",
-     "copete": "La exparticipante de Gran Hermano debió quedar bajo observación tras los resultados adversos que arrojó un estudio de rutina",
-     "id": "9d337a97a443"
-    },
-    {
-     "title": "El gigante que nunca descansa: La historia y riesgo del Volcán de Fuego de Guatemala",
-     "link": "https://www.infobae.com/guatemala/2026/08/05/el-gigante-que-nunca-descansa-la-historia-y-riesgo-del-volcan-de-fuego-de-guatemala/",
+     "title": "L-Gante habló de la situación que vivió Candela Arizaga con Facundo Moyano: “Me sorprende porque conviví con ella”",
+     "link": "https://www.infobae.com/teleshow/2026/08/05/l-gante-hablo-de-la-situacion-que-vivio-candela-arizaga-con-facundo-moyano-me-sorprende-porque-convivi-con-ella/",
      "source": "Infobae",
-     "published": "2026-08-05T14:31:49+00:00",
-     "copete": "La montaña de 3.763 metros entre Sacatepéquez, Escuintla y Chimaltenango registra explosiones diarias con emisiones de ceniza y fuentes de lava, además de flujos piroclásticos, lahares y avalanchas incandescentes",
-     "id": "1cc45a4257d9"
+     "published": "2026-08-05T17:50:49+00:00",
+     "copete": "Desde Ezeiza, el cantante le mostró todo su apoyo a su expareja luego del episodio que vivió en Belgrano junto al exdirigente sindical",
+     "id": "edcedb03a9be"
     },
     {
-     "title": "El herrero de Escobar que se obsesionó con el siku y cambió el rock por la música andina",
-     "link": "https://www.clarin.com/zonales/herrero-escobar-obsesiono-siku-cambio-rock-musica-andina_0_Pg3zPOqtVf.html",
-     "source": "Clarín",
-     "published": "2026-08-05T14:00:18+00:00",
-     "copete": "Diego Frías creció escuchando heavy metal, hasta que un taller gratuito de folclore andino despertó una pasión que lo acompaña desde hace más de tres décadas. Hoy combina su oficio con la música y se convirtió en uno de los referentes…",
-     "id": "033ffb69a42a"
+     "title": "Mauro Icardi volvió a apuntar contra la Justicia por el embargo de su casa y fue tajante: “Mamarrachos”",
+     "link": "https://www.lanacion.com.ar/espectaculos/mauro-icardi-volvio-a-apuntar-contra-la-justicia-por-el-embargo-de-su-casa-y-fue-tajante-mamarrachos-nid05082026/",
+     "source": "La Nación",
+     "published": "2026-08-05T17:50:07+00:00",
+     "copete": "En medio del escándalo legal y mediático con Wanda Nara, el futbolista publicó un extenso descargo en sus redes sociales y no se guardó nada",
+     "id": "818af226781c"
     },
     {
-     "title": "Demócratas añaden otros 12 distritos republicanos a lista de posibles capturas en elecciones",
-     "link": "https://www.clarin.com/estados-unidos/democratas-anaden-otros-12-distritos-republicanos-a-lista-de-posibles-capturas-en-elecciones_0_PYzlNo7rcz.html",
+     "title": "“Entregan la soberanía”: el fuerte cruce de dos senadoras por la Ley de Propiedad Privada que se tratará en el Senado",
+     "link": "https://www.infobae.com/politica/2026/08/05/entregan-la-soberania-el-fuerte-cruce-de-dos-senadoras-por-la-por-la-ley-de-propiedad-privada-que-se-tratara-en-el-senado/",
+     "source": "Infobae",
+     "published": "2026-08-05T17:49:20+00:00",
+     "copete": "Florencia López y Nadia Márquez confrontaron en Infobae sus posturas sobre el proyecto oficial, con diferencias por la compra de tierras, las inversiones y el impacto sobre los recursos estratégicos",
+     "id": "4dccf064d62d"
+    },
+    {
+     "title": "El verano de Antonela Roccuzzo en Miami: relax al sol, paseos en yate y su nueva saga de fantasía favorita",
+     "link": "https://www.infobae.com/teleshow/2026/08/05/el-verano-de-antonela-roccuzzo-en-miami-relax-al-sol-paseos-en-yate-y-su-nueva-saga-de-fantasia-favorita/",
+     "source": "Infobae",
+     "published": "2026-08-05T17:49:11+00:00",
+     "copete": "La esposa de Lionel Messi abrió el carrete de sus días a puro disfrute luego de la intensidad del Mundial 2026",
+     "id": "9274660eff6b"
+    },
+    {
+     "title": "Karina Milei visitó las oficinas de Google y se reunió con directivos de la compañía",
+     "link": "https://www.lanacion.com.ar/politica/karina-milei-visito-las-oficinas-de-google-y-se-reunio-con-directivos-de-la-compania-nid05082026/",
+     "source": "La Nación",
+     "published": "2026-08-05T17:46:09+00:00",
+     "copete": "Las autoridades “presentaron un panorama de la actividad de la compañía, su dotación de personal y las iniciativas que impulsa a nivel local y regional”",
+     "id": "1d2c2c17fb44"
+    },
+    {
+     "title": "Quiniela de Santa Fe: resultado del sorteo de la Vespertina de hoy, miércoles 05 de agosto",
+     "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-vespertina-hoy-miercoles-05-agosto_0_eyPqDrdnx9.html",
      "source": "Clarín",
-     "published": "2026-08-05T14:00:04+00:00",
-     "copete": "Los demócratas amplían su lista de objetivos electorales, incluyendo distritos que Trump ganó, reflejando un cambio en el apoyo electoral. Buscan capitalizar el descontento por temas económicos y la gestión caótica del gobierno actual…",
-     "id": "4db6bd6ebf2a"
+     "published": "2026-08-05T17:33:00+00:00",
+     "copete": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+     "id": "531bb4674e41"
+    },
+    {
+     "title": "Quiniela de Córdoba: resultado del sorteo de la Vespertina de hoy, miércoles 05 de agosto",
+     "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-vespertina-hoy-miercoles-05-agosto_0_VibLddhtQ3.html",
+     "source": "Clarín",
+     "published": "2026-08-05T17:32:01+00:00",
+     "copete": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+     "id": "4e847249ec07"
     }
    ]
   },
@@ -374,10 +382,26 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Quién era César Gastelum, el influencer mexicano de 25 años al que mataron a tiros mientras hacía un streaming",
+     "link": "https://www.bbc.com/mundo/articles/czek8n2wnd0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-05T16:58:04+00:00",
+     "copete": "De acuerdo con los reportes iniciales de las autoridades, dos personas en motocicleta se acercaron al creador de contenido y le dispararon a quemaropa.",
+     "id": "627efd9f779d"
+    },
+    {
+     "title": "La histórica sequía que afecta al Rin y al Danubio, los principales ríos de Europa (y que amenaza con provocar un shock económico y energético)",
+     "link": "https://www.bbc.com/mundo/articles/cj639737zyeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-05T16:33:07+00:00",
+     "copete": "Los bajos niveles de agua en el Rin y el Danubio han restringido el transporte de mercancías y reducido la producción de electricidad.",
+     "id": "1a0022d6dc4f"
+    },
+    {
      "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
      "link": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-05T14:39:45+00:00",
+     "published": "2026-08-05T16:20:14+00:00",
      "copete": "Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November.",
      "id": "f99117de6d85"
     },
@@ -385,9 +409,33 @@
      "title": "Drone carrying explosives found at German airport, police say",
      "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-05T14:32:27+00:00",
+     "published": "2026-08-05T16:06:30+00:00",
      "copete": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
      "id": "71ff3008af46"
+    },
+    {
+     "title": "El-Sayed's victory sends tremors through Democratic Party",
+     "link": "https://www.bbc.co.uk/news/articles/cp309ng0xq1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-05T16:04:16+00:00",
+     "copete": "His win in Michigan sets up a high-stakes contest in November, testing a left-wing candidate's popularity in a swing state.",
+     "id": "624f722f6d32"
+    },
+    {
+     "title": "Israel anuncia la primera orden de desalojo en Líbano desde el acuerdo de paz anunciado por EE UU en junio",
+     "link": "https://elpais.com/internacional/2026-08-05/israel-anuncia-la-primera-orden-de-desalojo-en-libano-desde-el-acuerdo-de-paz-anunciado-por-ee-uu-en-junio.html",
+     "source": "El País Internacional",
+     "published": "2026-08-05T15:36:59+00:00",
+     "copete": "El ejército israelí “ha bombardeado selectivamente” el sur del país en respuesta a “una violación flagrante” de Hezbolá",
+     "id": "d7fb3534a6d4"
+    },
+    {
+     "title": "South Africa plans new rules on ex-leaders' foreign trips after Zuma's visit to India",
+     "link": "https://www.bbc.co.uk/news/articles/c1e14lj7vg7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-05T14:58:41+00:00",
+     "copete": "Jacob Zuma was pictured with a businessmen allegedly at the heart of a corruption scandal in South Africa",
+     "id": "fae5d29e8524"
     },
     {
      "title": "La policía de Londres detiene a una mujer acusada de apuñalar a cuatro personas",
@@ -406,52 +454,12 @@
      "id": "7a8ee5e5ff73"
     },
     {
-     "title": "UN rights chief alarmed by rise in Iran executions since March",
-     "link": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-05T14:04:09+00:00",
-     "copete": "Volker Türk says 56 people have been executed on national security-related charges, including 27 in cases linked to January's protests.",
-     "id": "cdcd85159305"
-    },
-    {
-     "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-     "link": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-05T13:58:01+00:00",
-     "copete": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
-     "id": "722799217792"
-    },
-    {
-     "title": "Cómo es Pix, el sistema brasileño de pagos que Trump ve como una amenaza (y por qué es diferente a otros)",
+     "title": "Cómo funciona Pix, el sistema brasileño de pagos que Trump ve como una amenaza (y por qué es diferente a otros)",
      "link": "https://www.bbc.com/mundo/articles/c98vj2g5npjo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "published": "2026-08-05T13:13:27+00:00",
      "copete": "La herramienta Pix fue desarrollada por técnicos del banco central y rápidamente se popularizó en todo Brasil.",
      "id": "02d700b766e7"
-    },
-    {
-     "title": "La policía alemana desactiva un dron bomba que cayó junto a un avión de carga ucranio en el aeropuerto de Leipzig",
-     "link": "https://elpais.com/internacional/2026-08-05/la-policia-alemana-desactiva-un-dron-bomba-que-cayo-junto-a-un-avion-de-carga-ucranio-en-el-aeropuerto-de-leipzig.html",
-     "source": "El País Internacional",
-     "published": "2026-08-05T13:02:33+00:00",
-     "copete": "Un segundo aparato no tripulado ha impactado con una aeronave de carga que volaba en las inmediaciones del aeropuerto de Leipzig",
-     "id": "6ba23332cd0f"
-    },
-    {
-     "title": "Qué puede aprender la ciencia del choque contra la Luna de un cohete de SpaceX que estaba a la deriva",
-     "link": "https://www.bbc.com/mundo/articles/c4g3764dm5do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-05T13:00:33+00:00",
-     "copete": "La Luna ha soportado innumerables impactos a lo largo de millones de años. Los astrónomos creen que el que ocurrió este miércoles puede resultar provechoso.",
-     "id": "8584ccdd7868"
-    },
-    {
-     "title": "El verdulero ‘cazado’ por un dron en Ucrania: “Le enseñé que solo tenía verduras, pero empezó a volar hacia mí”",
-     "link": "https://elpais.com/internacional/2026-08-05/el-verdulero-cazado-por-un-dron-en-ucrania-le-ensene-que-solo-tenia-verduras-pero-empezo-a-volar-hacia-mi.html",
-     "source": "El País Internacional",
-     "published": "2026-08-05T12:59:01+00:00",
-     "copete": "El hombre, de 52 años, identificado como Yurii, sufrió heridas por metralla y una conmoción cerebral. Zelenski describió el episodio como ejemplo de “safari humano”",
-     "id": "4b9aa0a61e7e"
     }
    ]
   }
@@ -465,11 +473,6 @@
   {
    "section": "cardiologia",
    "feed": "Circulation (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "cardiologia",
-   "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]

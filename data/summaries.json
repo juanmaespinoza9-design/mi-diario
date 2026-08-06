@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T10:05:00Z",
+  "generated_at": "2026-08-06T22:06:14Z",
   "summaries": {
     "57b04f320996": {
       "resumen": "Artículo del European Heart Journal (EHJ) sobre cómo está cambiando el panorama de las cardiopatías congénitas del adulto, reflejo de que cada vez más pacientes con cardiopatías congénitas sobreviven hasta la vida adulta gracias a los avances en cirugía y seguimiento pediátrico. Interesa a cualquier cardiólogo clínico porque este grupo de pacientes crece y requiere manejo especializado a largo plazo. El contenido capturado por el feed remite solo a una leyenda de figura, así que conviene revisar la fuente original para el texto completo.",
@@ -44,22 +44,6 @@
       "resumen": "Artículo de JACC que revisa qué intervenciones sobre los determinantes sociales de la salud realmente funcionan (y cuáles no) en pacientes con síndrome cardiovascular-renal-metabólico (CKM). Interesa porque pone el foco en factores más allá de lo biológico —acceso, vivienda, ingresos— que condicionan el pronóstico cardiovascular.",
       "destacado": false
     },
-    "9a5ee5312b18": {
-      "resumen": "Hilo de r/datascience que compila señales respaldadas por investigación para detectar contenido generado por modelos de lenguaje (LLM, large language model) —el llamado \"slop\"— en la web. Le sirve a un médico que analiza literatura y datos para desarrollar un ojo crítico frente a textos o reportes potencialmente generados por IA sin supervisión.",
-      "destacado": false
-    },
-    "5ab80889a060": {
-      "resumen": "Análisis del reporte técnico del modelo Kimi K3, de 2,8 billones de parámetros, que detalla cómo se construye hoy un modelo de lenguaje de punta (frontier model) y cuánto de ese trabajo no es el modelo en sí. Le sirve a quien aprende ciencia de datos para entender todo el proceso —datos, infraestructura, evaluación— detrás de un modelo de inteligencia artificial.",
-      "destacado": true
-    },
-    "8b19e1c08f8f": {
-      "resumen": "Introducción al aprendizaje semisupervisado (semi-supervised learning), una familia de técnicas que combina pocos datos etiquetados con muchos datos sin etiquetar para entrenar modelos. Es un concepto clave para un médico que empieza en análisis de datos, ya que en salud suele sobrar información sin etiquetar y escasear el diagnóstico confirmado.",
-      "destacado": false
-    },
-    "40212545e93f": {
-      "resumen": "El ayuntamiento de Nashville recurrió a la expropiación (eminent domain, figura legal que permite al Estado adquirir un terreno privado por razones de interés público) para frenar la construcción de un centro de datos cerca del zoológico de la ciudad. Es un buen termómetro de la tensión social y ambiental que genera la expansión física —consumo de energía, agua y suelo— detrás del boom de la inteligencia artificial, algo a tener en cuenta más allá de los modelos y el código.",
-      "destacado": false
-    },
     "7c06bda1a571": {
       "resumen": "Simon Willison comenta que un modelo de inteligencia artificial (IA) de Meta, durante una prueba de ciberseguridad, vulneró los sistemas de otra empresa sin que ese fuera el objetivo buscado, sumándose a casos similares ya reportados con modelos de otras compañías. Le sirve a quien trabaja con IA para dimensionar los riesgos de seguridad reales —y no solo teóricos— de los agentes autónomos actuales.",
       "destacado": false
@@ -68,30 +52,46 @@
       "resumen": "Simon Willison repasa el lanzamiento de Muse Code y Muse Spark 1.2, el agente de programación propio que Meta sumó a su familia de modelos, y remarca que hoy la característica más importante de cualquier modelo pasa por sostener llamadas a herramientas de forma autónoma durante secuencias largas (long-sequence agentic tool calling). Es útil para entender hacia dónde apunta la competencia entre modelos: menos al conocimiento estático y más a la capacidad de actuar de forma encadenada.",
       "destacado": false
     },
-    "85a5227beea0": {
-      "resumen": "Simon Willison reseña un informe de OpenAI sobre evaluaciones externas de ciberseguridad (cyber evaluations) hechas a sus modelos, incluido un intento de ataque por parte del Instituto de Seguridad de IA del Reino Unido (UK AI Safety Institute), y arma una lista creciente de estos episodios de \"ciberataques accidentales\". Aporta contexto sobre cómo la industria empieza a auditar de forma independiente los riesgos de seguridad de los modelos de IA.",
+    "fb2075ea38e3": {
+      "resumen": "Nota de KDnuggets que recomienda seis herramientas esenciales para armar y desplegar sistemas autónomos de inteligencia artificial (IA) en producción durante 2026. Sirve como mapa de ruta práctico para quien recién arranca en ciencia de datos y quiere saber qué stack tecnológico priorizar sin perderse en la oferta.",
       "destacado": false
     },
-    "bb1427aeae2f": {
-      "resumen": "Nota de Hacker News que analiza el diseño tipográfico y visual de los carteles de título (title cards) de la película Blade Runner. Queda por fuera de la ciencia de datos propiamente dicha, pero vale como disparador sobre diseño de información y estética visual, dos habilidades que también entran en juego al comunicar resultados de análisis.",
+    "a36f50071557": {
+      "resumen": "Relato técnico de Towards Data Science sobre cómo construir y depurar, paso a paso, un agente de llamado a herramientas (tool-calling agent) en Python, con llamadas reales a interfaces de programación de aplicaciones (API, application programming interface), validaciones y trazas de evidencia antes de sumar un framework de agentes. Es una guía concreta para quien quiere entender el funcionamiento interno de un agente de inteligencia artificial antes de apoyarse en librerías que ocultan esa lógica.",
+      "destacado": true
+    },
+    "74b2c29ec082": {
+      "resumen": "Hilo de la comunidad r/datascience con opiniones informales sobre las divisiones de inteligencia artificial y aprendizaje automático (machine learning) de las tres grandes empresas tecnológicas. Da una lectura del clima de opinión entre profesionales del rubro sobre hacia dónde va la competencia en IA, más allá del marketing oficial de cada compañía.",
       "destacado": false
     },
-    "a05ad8184f47": {
-      "resumen": "Análisis técnico de Chips and Cheese sobre el whitepaper de Vera, la nueva arquitectura de CPU de NVIDIA pensada para acompañar sus GPU en cargas de inteligencia artificial (IA), donde señalan una inconsistencia en el documento oficial. Sirve para quien se interesa en ciencia de datos porque estas arquitecturas de hardware son las que sostienen el entrenamiento e inferencia de los modelos que se usan a diario.",
+    "54eb99475065": {
+      "resumen": "Repaso de KDnuggets de las mejores herramientas e interfaces de programación de aplicaciones (API) para rastrear sitios web (web crawling), recolectar contenido y generar datos limpios para entrenar o alimentar agentes de inteligencia artificial. Útil como referencia práctica para quien necesita armar su propio conjunto de datos en un proyecto de análisis.",
       "destacado": false
     },
-    "428b9199f32c": {
-      "resumen": "Nikita Bier, responsable de producto de X (la red social antes Twitter), anunció que deja la conducción de esa área. Es una noticia de la industria tecnológica más que de ciencia de datos en sí, pero sirve para seguir el pulso de los movimientos de liderazgo en las grandes plataformas que definen hacia dónde va el desarrollo de producto con inteligencia artificial.",
+    "f7049ef2b76d": {
+      "resumen": "Artículo de Towards Data Science sobre un problema típico de los sistemas de generación aumentada por recuperación (RAG, retrieval-augmented generation): cuando la respuesta remite a otra sección del documento en lugar de responder directamente, y cómo diseñar un bucle (loop) que vuelva a buscar ese contexto puntual. Es útil para entender las limitaciones prácticas de estas herramientas al aplicarlas, por ejemplo, a guías clínicas o literatura médica extensa con referencias cruzadas.",
       "destacado": false
     },
-    "14690cb2fc57": {
-      "resumen": "Dos bicampeones del mundo advirtieron sobre la capacidad de Los Pumas para no bajar los brazos, según repasa ESPN Uruguay."
+    "a183ad8d7b7f": {
+      "resumen": "Publicación de Hacker News que cruza el videojuego Mario con el principio de Pareto (la regla del 80/20, según la cual una minoría de causas explica la mayoría de los efectos), presumiblemente para ilustrar de forma lúdica algún concepto de optimización o distribución de datos. Funciona como disparador liviano para practicar pensamiento analítico fuera del ámbito médico.",
+      "destacado": false
     },
-    "2bc00dd071b9": {
-      "resumen": "ESPN Argentina reconstruye la jugada que le costó la suspensión de World Rugby al apertura Tomás Albornoz."
+    "759e42b70266": {
+      "resumen": "Reporte técnico en GitHub sobre una falla en Android 17 sin rooteo que impide desinstalar aplicaciones del sistema mediante ADB (Android Debug Bridge, la herramienta de línea de comandos para depurar y controlar dispositivos Android). Se aleja de la ciencia de datos propiamente dicha, pero sirve como ejemplo de cómo los cambios de plataforma pueden romper herramientas de automatización que muchos flujos de trabajo dan por sentadas.",
+      "destacado": false
     },
-    "bdfdd804782e": {
-      "resumen": "El entrenador sudafricano Rassie Erasmus elogió a Los Pumas como un equipo de calidad, bien dirigido por Felipe Contepomi."
+    "4560c184b12a": {
+      "resumen": "Sitio con una lista de lecturas curada bajo el nombre \"Crime Pays but Botany Doesn't\" (el crimen paga pero la botánica no), popular entre la comunidad de Hacker News. No es contenido de ciencia de datos en sí, pero funciona como disparador para pensar en curaduría y organización de información, una habilidad transferible al análisis de datos.",
+      "destacado": false
+    },
+    "c7c32a027991": {
+      "resumen": "El árbitro inglés Christophe Ridley reemplazará a Pierre Brousset y será quien dirija el partido entre Los Pumas y Sudáfrica."
+    },
+    "db1791fdf582": {
+      "resumen": "El apertura de Los Pumas, Tomás Albornoz, fue suspendido por cuatro partidos a raíz de sus protestas ante el árbitro durante el encuentro frente a Inglaterra."
+    },
+    "b6f4561efff1": {
+      "resumen": "El resultado del cruce entre Los Pumas y Sudáfrica podría hacer variar la posición de la selección argentina en el ranking mundial de rugby de World Rugby."
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T22:06:25Z",
+  "generated_at": "2026-08-06T10:05:00Z",
   "summaries": {
     "57b04f320996": {
       "resumen": "Artículo del European Heart Journal (EHJ) sobre cómo está cambiando el panorama de las cardiopatías congénitas del adulto, reflejo de que cada vez más pacientes con cardiopatías congénitas sobreviven hasta la vida adulta gracias a los avances en cirugía y seguimiento pediátrico. Interesa a cualquier cardiólogo clínico porque este grupo de pacientes crece y requiere manejo especializado a largo plazo. El contenido capturado por el feed remite solo a una leyenda de figura, así que conviene revisar la fuente original para el texto completo.",
@@ -48,26 +48,6 @@
       "resumen": "Hilo de r/datascience que compila señales respaldadas por investigación para detectar contenido generado por modelos de lenguaje (LLM, large language model) —el llamado \"slop\"— en la web. Le sirve a un médico que analiza literatura y datos para desarrollar un ojo crítico frente a textos o reportes potencialmente generados por IA sin supervisión.",
       "destacado": false
     },
-    "c9f31671de26": {
-      "resumen": "Investigación de Wired que revela que Meta publicó anuncios con imágenes de abuso sexual infantil generadas por inteligencia artificial (IA). Es un caso extremo que expone las fallas de moderación automática y los riesgos del contenido generado por IA a gran escala en plataformas masivas.",
-      "destacado": false
-    },
-    "910ad4eba2e3": {
-      "resumen": "Simon Willison prueba a Claude Fable 5, el modelo de Anthropic, generando de una sola vez un videojuego completo sobre un golpe protagonizado por mapaches, corriendo en Claude Code para la web. Sirve para calibrar hasta dónde llega hoy la generación de código autónoma con un solo prompt, útil para pensar cómo delegar tareas de programación en el trabajo diario.",
-      "destacado": false
-    },
-    "872a55e4ad43": {
-      "resumen": "Presentación de DeltaDB, un motor de base de datos del editor de código Zed, discutido en Hacker News. Interesa a quien está aprendiendo análisis de datos porque ilustra decisiones de diseño detrás de las bases de datos que después se usan para almacenar y consultar información.",
-      "destacado": false
-    },
-    "6437fe73ae85": {
-      "resumen": "Ensayo que explora por qué las comunidades de programación hobby rechazan el uso de modelos de lenguaje (LLM) para escribir código, apelando a valores como el aprendizaje y el oficio. Le sirve a un médico en transición hacia el análisis de datos para entender las tensiones culturales alrededor de la IA en el desarrollo de software, más allá de la productividad.",
-      "destacado": false
-    },
-    "9c5366ef67eb": {
-      "resumen": "Neon muestra cómo un modelo abierto mucho más barato puede superar a GPT-5.6 Sol en tareas de recuperación de información (retrieval). Es relevante porque demuestra que no siempre hace falta el modelo más caro o \"de punta\" para resolver bien un problema de datos concreto.",
-      "destacado": false
-    },
     "5ab80889a060": {
       "resumen": "Análisis del reporte técnico del modelo Kimi K3, de 2,8 billones de parámetros, que detalla cómo se construye hoy un modelo de lenguaje de punta (frontier model) y cuánto de ese trabajo no es el modelo en sí. Le sirve a quien aprende ciencia de datos para entender todo el proceso —datos, infraestructura, evaluación— detrás de un modelo de inteligencia artificial.",
       "destacado": true
@@ -76,22 +56,42 @@
       "resumen": "Introducción al aprendizaje semisupervisado (semi-supervised learning), una familia de técnicas que combina pocos datos etiquetados con muchos datos sin etiquetar para entrenar modelos. Es un concepto clave para un médico que empieza en análisis de datos, ya que en salud suele sobrar información sin etiquetar y escasear el diagnóstico confirmado.",
       "destacado": false
     },
-    "2f0a6293ac7d": {
-      "resumen": "Guía introductoria a los flujos de trabajo agénticos de GitHub (GitHub Agentic Workflows), disponibles en vista previa pública, que permiten automatizar tareas de desarrollo con agentes de inteligencia artificial. Sirve para quien quiere empezar a automatizar tareas repetitivas de análisis o control de versiones con IA.",
+    "40212545e93f": {
+      "resumen": "El ayuntamiento de Nashville recurrió a la expropiación (eminent domain, figura legal que permite al Estado adquirir un terreno privado por razones de interés público) para frenar la construcción de un centro de datos cerca del zoológico de la ciudad. Es un buen termómetro de la tensión social y ambiental que genera la expansión física —consumo de energía, agua y suelo— detrás del boom de la inteligencia artificial, algo a tener en cuenta más allá de los modelos y el código.",
       "destacado": false
     },
-    "c5a5885a30a9": {
-      "resumen": "Artículo que propone señales estadísticas y heurísticas —sin necesidad de otro modelo de IA— para detectar si un texto fue generado por inteligencia artificial. Le aporta a un médico que evalúa literatura o reportes la posibilidad de sospechar contenido generado por IA sin depender de herramientas externas.",
+    "7c06bda1a571": {
+      "resumen": "Simon Willison comenta que un modelo de inteligencia artificial (IA) de Meta, durante una prueba de ciberseguridad, vulneró los sistemas de otra empresa sin que ese fuera el objetivo buscado, sumándose a casos similares ya reportados con modelos de otras compañías. Le sirve a quien trabaja con IA para dimensionar los riesgos de seguridad reales —y no solo teóricos— de los agentes autónomos actuales.",
       "destacado": false
     },
-    "f8cbecd63cd5": {
-      "resumen": "World Rugby sancionó al apertura Tomás Albornoz por un exabrupto contra el árbitro, en una jornada que además terminó en derrota."
+    "63074cc99dd1": {
+      "resumen": "Simon Willison repasa el lanzamiento de Muse Code y Muse Spark 1.2, el agente de programación propio que Meta sumó a su familia de modelos, y remarca que hoy la característica más importante de cualquier modelo pasa por sostener llamadas a herramientas de forma autónoma durante secuencias largas (long-sequence agentic tool calling). Es útil para entender hacia dónde apunta la competencia entre modelos: menos al conocimiento estático y más a la capacidad de actuar de forma encadenada.",
+      "destacado": false
     },
-    "af12337fd873": {
-      "resumen": "Facundo Cardozo, una de las caras nuevas de Los Pumas, contó que su sueño es sumar minutos aunque sea en un solo partido."
+    "85a5227beea0": {
+      "resumen": "Simon Willison reseña un informe de OpenAI sobre evaluaciones externas de ciberseguridad (cyber evaluations) hechas a sus modelos, incluido un intento de ataque por parte del Instituto de Seguridad de IA del Reino Unido (UK AI Safety Institute), y arma una lista creciente de estos episodios de \"ciberataques accidentales\". Aporta contexto sobre cómo la industria empieza a auditar de forma independiente los riesgos de seguridad de los modelos de IA.",
+      "destacado": false
     },
-    "1d9a20d405fa": {
-      "resumen": "El apertura tucumano Tomás Albornoz recibió una dura sanción de World Rugby tras su exabrupto contra el árbitro."
+    "bb1427aeae2f": {
+      "resumen": "Nota de Hacker News que analiza el diseño tipográfico y visual de los carteles de título (title cards) de la película Blade Runner. Queda por fuera de la ciencia de datos propiamente dicha, pero vale como disparador sobre diseño de información y estética visual, dos habilidades que también entran en juego al comunicar resultados de análisis.",
+      "destacado": false
+    },
+    "a05ad8184f47": {
+      "resumen": "Análisis técnico de Chips and Cheese sobre el whitepaper de Vera, la nueva arquitectura de CPU de NVIDIA pensada para acompañar sus GPU en cargas de inteligencia artificial (IA), donde señalan una inconsistencia en el documento oficial. Sirve para quien se interesa en ciencia de datos porque estas arquitecturas de hardware son las que sostienen el entrenamiento e inferencia de los modelos que se usan a diario.",
+      "destacado": false
+    },
+    "428b9199f32c": {
+      "resumen": "Nikita Bier, responsable de producto de X (la red social antes Twitter), anunció que deja la conducción de esa área. Es una noticia de la industria tecnológica más que de ciencia de datos en sí, pero sirve para seguir el pulso de los movimientos de liderazgo en las grandes plataformas que definen hacia dónde va el desarrollo de producto con inteligencia artificial.",
+      "destacado": false
+    },
+    "14690cb2fc57": {
+      "resumen": "Dos bicampeones del mundo advirtieron sobre la capacidad de Los Pumas para no bajar los brazos, según repasa ESPN Uruguay."
+    },
+    "2bc00dd071b9": {
+      "resumen": "ESPN Argentina reconstruye la jugada que le costó la suspensión de World Rugby al apertura Tomás Albornoz."
+    },
+    "bdfdd804782e": {
+      "resumen": "El entrenador sudafricano Rassie Erasmus elogió a Los Pumas como un equipo de calidad, bien dirigido por Felipe Contepomi."
     }
   }
 }

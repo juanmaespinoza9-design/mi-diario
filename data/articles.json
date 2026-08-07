@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-08-07T00:19:56.612055+00:00",
+ "generated_at": "2026-08-07T03:21:48.016657+00:00",
  "sections": [
   {
    "id": "cardiologia",
    "title": "Cardiología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Transcatheter aortic valve implantation vs surgical aortic valve replacement for aortic stenosis: the saga continues",
+     "link": "https://academic.oup.com/eurheartj/article/47/30/3997/8753322?rss=1",
+     "source": "European Heart Journal",
+     "published": "2026-08-07T00:00:00+00:00",
+     "copete": "For image description, please refer to the figure legend and surrounding text.",
+     "id": "380bd84ff6e4"
+    },
     {
      "title": "Quality-Improvement Initiative Spurs Imaging-Guided PCI Use",
      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdGh2b1FrYldFRWoyU1dUWWlnZmhaWXB5SlRmSVJVV21GY3p6YU9rbUxmb09WZ0xLSC0tXzFmUkVNenVMbHhiT2RfeU41cTlRVExjTkl1dkl0ak41R3RhV2hPSmNaTDg1VWVFOGRhMXNaRHhuMUN4ZEd0bmFTbGhsdUVhMmN2RzVuYVdSek1Taw?oc=5",
@@ -72,14 +80,6 @@
      "published": "2026-08-04T00:00:00+00:00",
      "copete": "Ferdinand KC et al. · Journal of the American College of Cardiology",
      "id": "584ca2fc6c22"
-    },
-    {
-     "title": "The changing landscape of adult congenital heart diseases",
-     "link": "https://academic.oup.com/eurheartj/article/47/29/3873/8748774?rss=1",
-     "source": "European Heart Journal",
-     "published": "2026-08-03T00:00:00+00:00",
-     "copete": "For image description, please refer to the figure legend and surrounding text.",
-     "id": "57b04f320996"
     }
    ]
   },
@@ -89,11 +89,41 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Los Pumas apuestan por la renovación para recibir a Sudáfrica",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNejVNMi1TMWJzZXl4RUFLQ0JfOW4yOUs0UkhkalFSekZ6emU3UVhERkRBbzJCemc5UjZtajM3NTdyQUVZbVJYOXRZVXdkU0htLWM3eWFEZXhsVjFSRTVNTW5WcWRiOTFNVDBHaEhfS01QNVFHWHdVcG90VnlybzkyM2lCWGlwSGd6aUI5eVhjOTc0eVlJdkFrZEdCcw?oc=5",
-     "source": "La Reforma, General Pico",
-     "published": "2026-08-06T23:36:11+00:00",
-     "id": "2de815fd7922"
+     "title": "\"Siempre fue mi objetivo ser protagonista\": Tomás Rapetti analizó su presente en Los Pumas",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPanJ4WmMtVVRsVUhTa0ZwWlc1NVFkS0JVd1VyUmpSMGtLOVBSMXdiVDRkejVXNjVTdGpubnFYMFJBZmdwcWpUQzVOTkVJM19sQmR6dEh1Rl9OLUkxdGhtVnVUelA4UXR5X1RyQkVscUtCOGU4UUcyQ095TF9JdERMSHZ3ZWJlUHJBaFRLXzB2aEQ3aFlpWVNnd1YwOExBemN3V2VhcDRTR1FKcDN3V1p4YjAzOUh3MXp4TXBpLWQ4UFlJUFVweDBzMV8zd2tMOFpuZ2RKRzVPM2VOeFNKNlFfdk5aSFI0b04wRW9TU3RQaHc?oc=5",
+     "source": "ESPN Uruguay",
+     "published": "2026-08-07T01:56:01+00:00",
+     "id": "b0aba533c77f"
+    },
+    {
+     "title": "Ranking de World Rugby: el impacto que podrían generar Los Pumas en el partido ante Sudáfrica",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQby1oOHJQcWhvNXRWbWl3bTZ4Z29DSlYzVzh0M1hDMHJINk1aRi1EbkJJNTZVMnpJSnZmOElicU9EdXREZWVIOFdydHR0ZkpaQ2Vva1h1eDBPWHlGdWxwdXljN0lsaXFxakxpMnpPb2tnS2VBVnVscmRYUmd3SFp4a3BoWVJGVFhLN3pKejZzLWhjYk52SHdJRG1ROUN4U2JpNkJJUGp0T0VmZ2lqRk5vaGF4R1dSb2V4?oc=5",
+     "source": "ESPN República Dominicana",
+     "published": "2026-08-07T01:53:56+00:00",
+     "id": "ea7fff9442fe"
+    },
+    {
+     "title": "CUARENTA, EL NÚMERO QUE SE REPETIRÁ ESTE SÁBADO DE LOS PUMAS ANTE SUDÁFRICA EN VÉLEZ SARSFIELD",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOanBjaE9tYThfampvWHRnejJQWnlrX3hlR2ZMSnp4ajhrdmVkVmp0SnZ0S3dod3N2akVOS0x6WV92RmdwelZhZVhBeVlBWHlPMElVVnFCRlZyTGVXb0dmdUFlR3RzeW5VbDY4d0FyS0NqODduZFhscm9lWEhHWkFocmhaRnNYVjI1WGMybkQySmhONGE5YWY3RWttSWpwV2RJbVBYaHJSdzhDQUtMcVhlcWp1NW5MUmFHcklGWS11NkV1RXNIX0oydUV6YVdua0NudXhqYWhwa2E?oc=5",
+     "source": "Rugby Champagne",
+     "published": "2026-08-07T01:50:32+00:00",
+     "id": "424d732dd2a6"
+    },
+    {
+     "title": "La Calculadora de Olé de la fecha 4 del Torneo Clausura: ¿qué se juega cada uno de los equipos?",
+     "link": "https://www.ole.com.ar/futbol-primera/calculadora-ole-fecha-4-torneo-clausura_0_COddTRZNeW.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-07T01:50:17+00:00",
+     "copete": "Se viene una nueva jornada del campeonato: ¿cómo están las peleas por playoffs, tabla anual y descensos?",
+     "id": "4d0a7647e43c"
+    },
+    {
+     "title": "Con River como principal denominador, cuáles son las compras más caras en la historia del fútbol argentino",
+     "link": "https://www.ole.com.ar/futbol-primera/compras-caras-futbol-argentino-almada-correa-medina-pratto-riquelme-river_0_Pe1UwLGjVa.html",
+     "source": "Olé — River",
+     "published": "2026-08-07T01:04:18+00:00",
+     "copete": "Con la llegada de Almada, el CARP se aseguró la incorporación más alta de todas. ¿Cuáles son los otros traspasos onerosos que se hicieron en Primera?",
+     "id": "6aed5fd4c4bf"
     },
     {
      "title": "Se cerró el pase de Baltasar Rodríguez a Estudiantes",
@@ -110,13 +140,6 @@
      "published": "2026-08-06T23:19:58+00:00",
      "copete": "Dos clubes brasileños avanzaron por el colombiano.",
      "id": "86585edf64cf"
-    },
-    {
-     "title": "Pablo Matera vuelve a ser capitán de Los Pumas: \"Es algo extra que disfruto mucho\"",
-     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTldRY2JoUXFGcjloeXFxVTYwREFLNkRMRzFnTlk4U2pFN3lJVmpyVzdKMHUyNml0VnVjbHl3UFNIeHdycGxpME5DUElYT005SXY2bTV3Zkl2YkR3R2RXQWc0eWhybGRqNXliVFJOaU5YSjRaZEFxa0VBbmFyM1ZtdUlKQ3BVMi1BVjdUSHVIN0V5cUd6MmEycnhnLVRhX2VRa1BXNFZ0SW5ONks2WW02WTktdi11OXhVN2ZfU1R5VlFkclhsSm8zVmV5aVh5X2R4N1FSWWhITy1KMjhURUN5ZmNaM3BDdTl5czJubkFvVDVCZ1NFa29qSzFOY3I?oc=5",
-     "source": "ESPN Chile",
-     "published": "2026-08-06T22:39:06+00:00",
-     "id": "0eed77f1c2de"
     },
     {
      "title": "Tapia: \"El plan A, el plan B y el plan C es Scaloni\"",
@@ -143,36 +166,12 @@
      "id": "67d1140d37c1"
     },
     {
-     "title": "Palermo, en su presentación como DT de Platense: \"No me gusta ver a los hinchas como pasó el otro día\"",
-     "link": "https://www.ole.com.ar/platense/palermo-platense-hinchas-presentacion-segundo-ciclo_0_g0cMipb4lx.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-06T21:05:12+00:00",
-     "copete": "El Titán dio su primera conferencia como entrenador del Calamar, se mostró feliz por volver a un club que siente como \"familia\" y destacó: \"El hincha se tiene que sentir representado\".",
-     "id": "3dce903162d6"
-    },
-    {
-     "title": "Regreso top a Estudiantes: el Tucu Correa vuelve al Pincha",
-     "link": "https://www.ole.com.ar/estudiantes/libertadores-correa-estudiantes-botafogo-transferencia_0_BhnS7SiBRi.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-06T20:45:18+00:00",
-     "copete": "El delantero se incorpora libre de Botafogo y tendrá su segunda etapa en el Pincha. Este viernes ya estará en City Bell.",
-     "id": "3270449f0625"
-    },
-    {
      "title": "La emotiva despedida de Ortega antes de sumarse a River: \"Una parte de mí...\"",
      "link": "https://www.ole.com.ar/river-plate/river-francisco-ortega-despedida-emotiva_0_FcAnQvLBdn.html",
      "source": "Olé — River",
      "published": "2026-08-06T20:43:28+00:00",
      "copete": "El lateral recién firmado con el Millonario acudió a la nostalgia recordando su etapa como futbolista en Olympiakos.",
      "id": "073c52ebf80f"
-    },
-    {
-     "title": "El titular de River que se va a Brasil: los detalles del acuerdo con Vasco por Colidio",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-facundo-colidio_0_6dOPyRJaIb.html",
-     "source": "Olé — River",
-     "published": "2026-08-06T20:34:13+00:00",
-     "copete": "Los clubes llegaron a un entendimiento económico por el delantero argentino.",
-     "id": "536168d879da"
     },
     {
      "title": "FORMACIÓN CONFIRMADA PARA RECIBIR A SUDÁFRICA EN VÉLEZ",
@@ -189,6 +188,13 @@
    "title": "Ciencia de datos e IA",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+     "link": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-06T21:52:16+00:00",
+     "id": "4bc6e888c4ea"
+    },
     {
      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
      "link": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
@@ -209,13 +215,6 @@
      "source": "Hacker News (100+ puntos)",
      "published": "2026-08-06T19:14:21+00:00",
      "id": "65821ac5c007"
-    },
-    {
-     "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
-     "link": "https://artificialanalysis.ai/?intelligence=agentic-index",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-06T18:44:49+00:00",
-     "id": "09bedd42a46d"
     },
     {
      "title": "How do you design a forecasting system?",
@@ -272,100 +271,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Brad Pitt sobre ser actor: “Es muy intenso, trabajamos 14 horas al día durante meses y luego podemos relajarnos un poco”",
-     "link": "https://www.lanacion.com.ar/espectaculos/brad-pitt-sobre-ser-actor-es-muy-intenso-trabajamos-14-horas-al-dia-durante-meses-y-luego-podemos-nid06082026/",
-     "source": "La Nación",
-     "published": "2026-08-07T00:11:00+00:00",
-     "copete": "El protagonista de éxitos como El club de la pelea y Había una vez en Hollywood rompió con el mito del glamour cinematográfico y reveló que la rutina detrás de escena implica jornadas extenuantes que superan la mitad del día",
-     "id": "f0fce08b451d"
-    },
-    {
-     "title": "Manifestantes incendiaron una bandera de Estados Unidos en las cercanías del Congreso",
-     "link": "https://www.lanacion.com.ar/politica/manifestantes-incendiaron-una-bandera-de-estados-unidos-en-las-cercanias-del-congreso-nid06082026/",
-     "source": "La Nación",
-     "published": "2026-08-07T00:10:54+00:00",
-     "copete": "El hecho ocurrió en un clima de alta tensión con la policía durante la marcha en rechazo a la ley de propiedad privada",
-     "id": "9189ec3e55b9"
-    },
-    {
-     "title": "Florencia Luna, arquitecta: “Adaptar una casa para envejecer no significa renunciar al diseño, sino entender cómo se habita el espacio”",
-     "link": "https://www.lanacion.com.ar/lifestyle/florencia-luna-arquitecta-adaptar-una-casa-para-envejecer-no-significa-renunciar-al-diseno-sino-nid06082026/",
-     "source": "La Nación",
-     "published": "2026-08-07T00:08:00+00:00",
-     "copete": "La experta repasó cuáles son algunos de los cambios que pueden realizarse con poco presupuesto para adaptar una vivienda a los adultos mayores",
-     "id": "dbf7a6056af4"
-    },
-    {
-     "title": "Pronóstico del tiempo, en vivo: alerta por ráfagas de hasta 80km/h, lluvias y bajas temperaturas",
-     "link": "https://www.lanacion.com.ar/sociedad/pronostico-del-tiempo-en-vivo-doble-alerta-por-tormentas-vientos-fuertes-y-bajas-temperaturas-nid06082026/",
-     "source": "La Nación",
-     "published": "2026-08-07T00:07:31+00:00",
-     "copete": "El SMN advirtió sobre el avance de un frente inestable en varias provincias del país, incluida la ciudad de Buenos Aires y sus alrededores, en medio del fenómeno de la ciclogénesis; las condiciones adversas dominarán toda la jornada; cómo…",
-     "id": "e1f471b17e53"
+     "title": "Marcha contra la Ley de propiedad privada: 12 detenidos y 4 efectivos heridos por los incidentes entre la policía y los manifestantes",
+     "link": "https://www.infobae.com/sociedad/2026/08/06/marcha-contra-la-ley-de-propiedad-privada-en-congreso-en-vivo-ultimas-noticias-noticias-de-hoy-6-de-agosto/",
+     "source": "Infobae",
+     "published": "2026-08-07T03:16:42+00:00",
+     "copete": "Los enfrentamientos iniciaron alrededor de las 17 y se registraron en las afueras del Congreso, mientras en el interior del Senado se debatía la Ley de inviolabilidad de la propiedad privada. Los disturbios se extendieron hasta casi la…",
+     "id": "4c01ead743d6"
     },
     {
      "title": "Ley de propiedad privada en el Senado, EN VIVO: se debate el proyecto de Milei, minuto a minuto",
      "link": "https://www.lanacion.com.ar/politica/ley-de-propiedad-privada-en-el-senado-en-vivo-se-debate-el-proyecto-de-milei-minuto-a-minuto-nid06082026/",
      "source": "La Nación",
-     "published": "2026-08-07T00:04:56+00:00",
+     "published": "2026-08-07T03:16:20+00:00",
      "copete": "El oficialismo busca aprobar el proyecto en la Cámara alta en una jornada de alta tensión política; se prevé una gran movilización en las inmediaciones del Congreso",
      "id": "1a90977ed3b7"
     },
     {
-     "title": "Claudio Tapia: “Scaloni es mi plan A, B y C, pero no lo puedo tener encadenado”",
-     "link": "https://www.infobae.com/deportes/2026/08/06/claudio-tapia-scaloni-es-mi-plan-a-b-y-c-pero-no-lo-puedo-tener-encadenado/",
-     "source": "Infobae",
-     "published": "2026-08-06T23:57:55+00:00",
-     "copete": "El presidente de la AFA habló por primera vez tras el Mundial 2026: también habló sobre la continuidad de Lionel Messi en la selección argentina",
-     "id": "6dfedb0cc670"
+     "title": "La inesperada aparición del riesgo Milei",
+     "link": "https://www.lanacion.com.ar/opinion/la-inesperada-aparicion-del-riesgo-milei-nid07082026/",
+     "source": "La Nación",
+     "published": "2026-08-07T03:15:00+00:00",
+     "copete": "El Presidente enfrenta el peligro de causar el efecto contrario al deseado; la confianza en lograr la reelección que pretende transmitir a los inversores choca con la urgencia por demostrar que puede aprobar reformas electorales en el…",
+     "id": "b349daf5027c"
     },
     {
-     "title": "Unión le ganó 2-1 a Lanús en el duelo que completó la segunda fecha del Torneo Clausura",
-     "link": "https://www.infobae.com/deportes/2026/08/06/lanus-visitara-a-union-de-santa-fe-para-completar-la-segunda-fecha-del-torneo-clausura-hora-tv-y-formaciones/",
-     "source": "Infobae",
-     "published": "2026-08-06T23:57:09+00:00",
-     "copete": "El Tatengue consiguió su primera victoria en el certamen frente a un Granate que sigue sin sumar de a tres",
-     "id": "e9ee6482275a"
+     "title": "La consolidación de la izquierda radical en los Estados Unidos",
+     "link": "https://www.lanacion.com.ar/opinion/la-consolidacion-de-la-izquierda-radical-en-los-estados-unidos-nid07082026/",
+     "source": "La Nación",
+     "published": "2026-08-07T03:15:00+00:00",
+     "copete": "La Democratic Socialists of America pasó de 6000 miembros en 2015 a más de 120.000 en 2026 y se convirtió en la organización socialista más numerosa e influyente de la historia estadounidense contemporánea",
+     "id": "39edd3888f44"
     },
     {
-     "title": "Un águila volvió a volar en libertad después de haber recibido atención veterinaria por una intoxicación por plomo: \"Nuestro más sincero agradecimiento a todos los que participaron en la recuperación de esta águila y en su regreso a la naturaleza\"",
-     "link": "https://www.clarin.com/internacional/aguila-volvio-volar-libertad-despues-recibido-atencion-veterinaria-intoxicacion-plomo-sincero-agradecimiento-participaron-recuperacion-aguila-regreso-naturaleza_0_oVIB0pE4n2.html",
+     "title": "Las claves del desayuno salado: lo que se repite en Okinawa, Nicoya y Cerdeña según el creador de The Blue Zones",
+     "link": "https://www.infobae.com/generacion-silver/2026/08/07/zonas-azules-y-desayuno-salado-lo-que-se-repite-en-okinawa-nicoya-y-cerdena-segun-el-creador-de-the-blue-zones/",
+     "source": "Infobae",
+     "published": "2026-08-07T03:13:44+00:00",
+     "copete": "En estos territorios longevos, la mañana arranca con preparaciones simples de legumbres, verduras y granos integrales, muy lejos de la repostería y los productos industriales que dominan la oferta masiva",
+     "id": "6e2a325d050f"
+    },
+    {
+     "title": "Envejecer y crecer: las claves del BID para transformar la transición demográfica en una oportunidad económica",
+     "link": "https://www.infobae.com/generacion-silver/2026/08/07/envejecer-y-crecer-las-claves-del-bid-para-transformar-la-transicion-demografica-en-una-oportunidad-economica/",
+     "source": "Infobae",
+     "published": "2026-08-07T03:12:08+00:00",
+     "copete": "El debate se corre del diagnóstico a las herramientas políticas. Entre regímenes especiales, empleo no registrado y reformas “chiquitas”, asoma una discusión de fondo sobre quién queda dentro del sistema",
+     "id": "25affdbfd67c"
+    },
+    {
+     "title": "Nicaragüenses están viéndose afectados por recibir dólares dañados de cajeros, mientras el Banco Central que no regula el canje",
+     "link": "https://www.infobae.com/nicaragua/2026/08/07/nicaraguenses-estan-viendose-afectados-por-recibir-dolares-danados-de-cajeros-mientras-el-banco-central-que-no-regula-el-canje/",
+     "source": "Infobae",
+     "published": "2026-08-07T03:10:18+00:00",
+     "copete": "Las quejas apuntan a billetes de USD 20 manchados o rotos; un usuario retiró USD 400 y terminó con USD 60 afectados y descuentos en el mercado informal",
+     "id": "bf61c8b65f79"
+    },
+    {
+     "title": "La agenda de la TV y streaming del viernes: la cuarta fecha del Clausura y continúa el Masters 1000 de Canadá",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-y-streaming-del-viernes-la-cuarta-fecha-del-clausura-y-continua-el-masters-1000-nid06082026/",
+     "source": "La Nación",
+     "published": "2026-08-07T03:10:00+00:00",
+     "copete": "Ciclismo, béisbol y golf completan la actividad deportiva en la previa del fin de semana, disponible a través de las pantallas",
+     "id": "ee63b00d3618"
+    },
+    {
+     "title": "País generoso, educación y salud para extranjeros",
+     "link": "https://www.lanacion.com.ar/editoriales/pais-generoso-educacion-y-salud-para-extranjeros-nid07082026/",
+     "source": "La Nación",
+     "published": "2026-08-07T03:10:00+00:00",
+     "copete": "El arancelamiento que ya se viene aplicando en algunos distritos ha contribuido a ordenar y optimizar el uso de los recursos públicos",
+     "id": "6ced620493ea"
+    },
+    {
+     "title": "El mosquito no da tregua: Panamá suma una nueva muerte por dengue",
+     "link": "https://www.infobae.com/panama/2026/08/07/el-mosquito-no-da-tregua-panama-suma-una-nueva-muerte-por-dengue/",
+     "source": "Infobae",
+     "published": "2026-08-07T03:09:16+00:00",
+     "copete": "Las hospitalizaciones, los casos con signos de alarma y los cuadros graves también registraron un incremento, manteniendo la presión sobre el sistema de salud.",
+     "id": "3d3b14c17887"
+    },
+    {
+     "title": "La tormenta y la marcha al Congreso se hicieron sentir en el primer día de la Feria de Editores",
+     "link": "https://www.clarin.com/cultura/tormenta-marcha-congreso-hicieron-sentir-primer-dia-feria-editores_0_mCheJTb5Rv.html",
      "source": "Clarín",
-     "published": "2026-08-06T23:52:59+00:00",
-     "copete": "Un animal silvestre fue reinsertado en su hábitat natural tras haber sido rescatado y rehabilitado. El hecho ocurrió en Canadá.",
-     "id": "6b24f1dbaf6a"
+     "published": "2026-08-07T02:40:01+00:00",
+     "copete": "La primera jornada de la feria que reune editoriales independientes del país, la región y de España tuvo una asistencia media. El sistema de ingreso con código QR no presentó problemas, aunque tampoco fue exigido al máximo. Los editores…",
+     "id": "65bf58972c7d"
     },
     {
-     "title": "Dolor en Chubut: murió el intendente de Gaiman, Darío Ernesto James",
-     "link": "https://www.clarin.com/politica/dolor-chubut-murio-intendente-gaiman-dario-ernesto-james_0_yEIUDU4YWR.html",
+     "title": "Camilota presentó a su nueva novia y contó su historia de amor: \"Hoy, por fin, podemos dejar de escondernos\"",
+     "link": "https://www.clarin.com/fama/camilota-presento-nueva-novia-conto-historia-amor-hoy-fin-podemos-dejar-escondernos_0_O54wXtPnk4.html",
      "source": "Clarín",
-     "published": "2026-08-06T23:52:58+00:00",
-     "copete": "Falleció en medio de una compleja operación al corazón mientras estaba de licencia médica. El mensaje de despedida del gobernador Nacho Torres: \"Se va un gran intendente\".",
-     "id": "d553e78385f6"
-    },
-    {
-     "title": "El Senado debate la Ley de inviolabilidad de la propiedad privada y se espera una sesión maratónica",
-     "link": "https://www.infobae.com/politica/2026/08/06/ley-de-propiedad-privada-en-el-senado-en-vivo-las-ultimas-noticias-del-debate-hoy-6-de-agosto/",
-     "source": "Infobae",
-     "published": "2026-08-06T23:51:43+00:00",
-     "copete": "Luego de varios cruces y un intento fallido del PJ por levantar la sesión, el recinto discute la iniciativa enviada por el Poder Ejecutivo. Afuera se realiza una manifestación y hubo incidentes",
-     "id": "16f24a86beda"
-    },
-    {
-     "title": "Nico Vázquez sorprendió al cantar una canción de Casi Ángeles: el video",
-     "link": "https://www.infobae.com/teleshow/2026/08/06/nico-vazquez-sorprendio-al-cantar-una-cancion-de-casi-angeles-el-video/",
-     "source": "Infobae",
-     "published": "2026-08-06T23:51:09+00:00",
-     "copete": "El actor compartió en Instagram un momento improvisado durante una pausa de PopStars, cuando Fernando López Rossi sacó la guitarra y lo llevó a revivir uno de los temas más recordados de la tira juvenil",
-     "id": "31310763003d"
-    },
-    {
-     "title": "Valle Hermoso: el pueblo que fue vendido por completo y se convirtió en un antecedente histórico de la Ley de Tierras",
-     "link": "https://www.infobae.com/politica/2026/08/06/valle-hermoso-el-pueblo-que-fue-vendido-completo-y-se-convirtio-en-un-antecedente-historico-de-la-ley-de-tierras/",
-     "source": "Infobae",
-     "published": "2026-08-06T23:50:36+00:00",
-     "copete": "La operación, realizada en 2008, puso a un pueblo completo en manos de un inversor extranjero y dejó un precedente que redefinió el debate sobre la propiedad rural y la extranjerización de las tierras",
-     "id": "e797f5d52fe3"
+     "published": "2026-08-07T01:28:28+00:00",
+     "copete": "La hermana de Thiago Medina y ex Cuestión de Peso confirmó su nuevo noviazgo a través de las redes. La pareja celebró haber dado un nuevo paso en su relación con una romántica cena.",
+     "id": "661c6adb8967"
     }
    ]
   },
@@ -375,20 +374,44 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Multan a Meta con US$567 millones en el mayor fallo sobre seguridad infantil contra el gigante de las redes sociales",
+     "link": "https://www.bbc.com/mundo/articles/cd7lzn00vd8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-07T02:54:04+00:00",
+     "copete": "Un juez de Nuevo México ordenó a la empresa matriz de Instagram, Facebook y WhatsApp pagar por el daño causado a los niños.",
+     "id": "a108bd471612"
+    },
+    {
+     "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+     "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-07T02:07:46+00:00",
+     "copete": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
+     "id": "6b4039a5e3d2"
+    },
+    {
+     "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-07T01:57:02+00:00",
+     "copete": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
+     "id": "14fdca7037f5"
+    },
+    {
+     "title": "Trump imposes 15% tariff on key chip material to counter China",
+     "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-07T01:03:35+00:00",
+     "copete": "The move aims to protect US firms as they face increasing competition from China's chip industry.",
+     "id": "ca547e548704"
+    },
+    {
      "title": "Meta fined $567m in largest child safety ruling against social media giant",
      "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-07T00:06:17+00:00",
+     "published": "2026-08-07T00:54:03+00:00",
      "copete": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
      "id": "05ae93802b36"
-    },
-    {
-     "title": "Some of Doge's $110bn saving reports are wrong or lack evidence, US watchdog finds",
-     "link": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-06T23:55:35+00:00",
-     "copete": "A review of the body formerly charged with reducing government spending has found several issues with its calculations.",
-     "id": "91eace800efe"
     },
     {
      "title": "El revolucionario diseño de virus completamente nuevos mediante inteligencia artificial",
@@ -397,22 +420,6 @@
      "published": "2026-08-06T23:15:03+00:00",
      "copete": "Los científicos crearon 16 virus exitosos cuyo código genético fue diseñado mediante inteligencia artificial.",
      "id": "c529e0b8dfda"
-    },
-    {
-     "title": "Houthi attacks reportedly kill at least 30 Yemeni government forces",
-     "link": "https://www.bbc.co.uk/news/articles/ckgdmdr0lmgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-06T22:41:09+00:00",
-     "copete": "The Houthis say they launched missiles and drones at \"Saudi military build-ups\" in the central provinces of Marib and Hadramawt.",
-     "id": "3ab3d5e995b6"
-    },
-    {
-     "title": "India is a nation of walkers - but its cities forgot them",
-     "link": "https://www.bbc.co.uk/news/articles/ce3e4enkrqro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-06T22:39:46+00:00",
-     "copete": "India's top court has put the spotlight on unsafe footpaths and the country's forgotten pedestrians.",
-     "id": "3acc5304a42b"
     },
     {
      "title": "Trump aprueba dos decretos para volver a limitar de forma parcial la ciudadanía por nacimiento pese a la decisión del Supremo",
@@ -445,14 +452,6 @@
      "published": "2026-08-06T18:31:43+00:00",
      "copete": "Human Rights Watch y Amnistía Internacional denuncian que se trató de “un ataque deliberado” contra una civil. Israel ha matado a 27 informadores libaneses desde octubre de 2023",
      "id": "f8306378d922"
-    },
-    {
-     "title": "Quiénes son los presuntos líderes del Cartel Jalisco Nueva Generación por los que EE.UU. ofrece más de US$100 millones en recompensas",
-     "link": "https://www.bbc.com/mundo/articles/cx2jdq0qjyxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-06T18:16:37+00:00",
-     "copete": "El gobierno de EE.UU. identificó a Juan Carlos Valencia como sucesor de \"El Mencho\" en el liderazgo del Cartel Jalisco Nueva Generación. También a otros siete líderes por los que ofreció altas recompensas.",
-     "id": "73555f9943dd"
     }
    ]
   }

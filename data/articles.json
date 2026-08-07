@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T15:13:29.961517+00:00",
+ "generated_at": "2026-08-07T17:12:24.144210+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -20,6 +20,14 @@
      "source": "TCTMD",
      "published": "2026-08-06T16:52:33+00:00",
      "id": "771a19e87353"
+    },
+    {
+     "title": "Oxygen Targets after Cardiac Arrest - A LOGICAL Finding",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42555938/",
+     "source": "NEJM Cardiología",
+     "published": "2026-08-06T00:00:00+00:00",
+     "copete": "Andersen LW et al. · The New England journal of medicine",
+     "id": "1e62aa997f39"
     },
     {
      "title": "Medicaid ACOs Appear to Boost Preventive CV Care",
@@ -80,6 +88,14 @@
      "published": "2026-08-04T00:00:00+00:00",
      "copete": "Ferdinand KC et al. · Journal of the American College of Cardiology",
      "id": "584ca2fc6c22"
+    },
+    {
+     "title": "Sex Hormone Influences on Cardiovascular Risk. Reply",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42526042/",
+     "source": "NEJM Cardiología",
+     "published": "2026-07-30T00:00:00+00:00",
+     "copete": "Skeith L et al. · The New England journal of medicine",
+     "id": "742ee8759563"
     }
    ]
   },
@@ -89,11 +105,65 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Felipe Contepomi eligió a una sorpresa para Los Pumas y explicó por qué jugará ante los Springboks",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOGd5bnBaT3VMWmsxWlFsZ2xrZkFjZ29NeFFHVDRRQ3lxZFBqRjVvVGVkMk81N3ExMkNiWlo5eGlEX256R0V6UF9HMUFkdlpPeUtIQXc1eFJtRjRLMWlfckFFYjdFS2ljZ3Q5MllsUDFWamY3VlVoZzZITGF2MF8zRWVja3F0OGlndXRKUjAzenN1MDlqd3MtTTZ1UkZnaGtNcTZxTjNmS2MwXzczY2FBeTNRSHh6VGtBd214aW1TWVVwdnc?oc=5",
-     "source": "espn.com.pe",
-     "published": "2026-08-07T15:01:02+00:00",
-     "id": "3d174e9399e5"
+     "title": "\"Hay un bien mayor, que es el jugador\": Felipe Contepomi explicó las ausencias en Los Pumas para enfrentar a Sudáfrica",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdFduU016d2xjZTFSakZMWDc2VTh4UTN6OVB4NUJpSkNidVYxc1Ffc3JSWG80bUpLdFQ5dXFhWU9UeGxPOXA5bk1jWW9EUWVLZjcyajc4MFR4SG9LMV9UdEF1QVdDYk1MTDAybTNnS0Y0aWdUY195NFRpbFhLUFpqLTZTZ1pJYXpVd2hTdjR2Y1UwWnpsV3NMRVdINzdxdTdhR01welFvM0poVlFuc2htV3RVM24wT0JFTjhBdW5acjhUQ2lMbXhlSk44czFwcUdN?oc=5",
+     "source": "ESPN Uruguay",
+     "published": "2026-08-07T16:52:30+00:00",
+     "id": "ab1bcbd37255"
+    },
+    {
+     "title": "Los Pumas con equipo renovado para enfrentar a Sudáfrica",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNENTbnNILUc1YVBNVENvVnBxOHItZmg4ZDAwcFZNT0ZKNktfRklPanBVWUNBLU51MmNhaVJWcVVkVldRTGpfaG9hWXRkbVpjbThvOGh6a3ZyaDJ5NUxIOFdaSlZoNjI5WEI2c05zT05vam14WGJRU0pzSjB4THRuY1JIT2RxeW5aUlZMZnBHcjE1WURiRGstZFJ5MG40V2NCdHczRlYya3BDLXlqaG5KR2VoMHlfT3lJaVJiMmhfQnRBRGc?oc=5",
+     "source": "LA17",
+     "published": "2026-08-07T16:38:00+00:00",
+     "id": "773d4a0f6746"
+    },
+    {
+     "title": "Instituto vs. Gimnasia de Mendoza, por el Torneo Clausura 2026: día, horario y por dónde ver",
+     "link": "https://www.ole.com.ar/futbol-primera/instituto-cordoba-vs-gimnasia-mendoza-partido-torneo-clausura-2026-dia-horario-tv_0_IR73LKrwVy.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-07T16:25:57+00:00",
+     "copete": "La Gloria y el Lobo mendocino chocan este sábado en Alta Córdoba por la cuarta fecha de la Zona A del certamen local.",
+     "id": "623e8c1f34fc"
+    },
+    {
+     "title": "Independiente vs. Platense, por el Torneo Clausura 2026: día, horario y por dónde ver",
+     "link": "https://www.ole.com.ar/futbol-primera/independiente-vs-platense-partido-torneo-clausura-2026-dia-horario-tv_0_EuYHe8v6bu.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-07T16:25:21+00:00",
+     "copete": "El Rojo quiere recuperarse de la caída ante Vélez, mientras que el Calamar llega golpeado y estrena a Martín Palermo en el banco.",
+     "id": "da3b390ebc1a"
+    },
+    {
+     "title": "Deportivo Riestra vs. Estudiantes, por el Torneo Clausura 2026: día, horario y por dónde ver",
+     "link": "https://www.ole.com.ar/futbol-primera/deportivo-riestra-vs-estudiantes-partido-torneo-clausura-2026-dia-horario-tv_0_gnur7uxMxP.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-07T16:25:06+00:00",
+     "copete": "El Malevo recibe al Pincha en el Guillermo Laza por una nueva fecha del certamen local.",
+     "id": "a207cced5f48"
+    },
+    {
+     "title": "Atlético Tucumán vs. Sarmiento, por el Torneo Clausura 2026: día, horario y por dónde ver",
+     "link": "https://www.ole.com.ar/futbol-primera/atletico-tucuman-vs-sarmiento-torneo-clausura-2026-dia-horario-tv_0_lyHsa836qg.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-07T16:24:45+00:00",
+     "copete": "El Decano busca mantener su invicto ante su gente ante un Verde que llega motivado tras lograr su primer triunfo.",
+     "id": "158e149e0f66"
+    },
+    {
+     "title": "Un sobreviviente y el regreso que no fue: las perlitas de la última visita de River a la cancha de Tigre",
+     "link": "https://www.ole.com.ar/river-plate/river-tigre-colidio-beltran-casco-demichelis-2023_0_qcw5U1JvTi.html",
+     "source": "Olé — River",
+     "published": "2026-08-07T16:23:45+00:00",
+     "copete": "Pasaron tres años desde el último duelo del Millonario en la casa del Matador.",
+     "id": "71b3a76004b8"
+    },
+    {
+     "title": "Los Pumas vs. Sudáfrica, por un test match: día, horario, TV y cómo ver online",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY01pdXlITlBnWTIwcWdzNXVCLW5XY3FPbS1qV0o3RVh4WnZpaEpaLW1FcHUxMHZtNjVicnRCc2ptSkdlX2NacEpyeHd2cTdybXVHeHdZcGkya0RlelhVVHh5WjNNU2JyWXJpTDJZRndCd1BpLVl4RXdiLVRzU3hCbUdYWXJvYWRQeVZDNXZrbllpMWdqcVVIZXlhVjdkeTlVX3JzXzJSQlhTbldWamtMT0JCaDZHRTV5cFl3aFNKdDBzYXY5WVZCR2Vvb21MMzhLdTl6UGRJQlFEdXFm?oc=5",
+     "source": "La Nación",
+     "published": "2026-08-07T16:13:00+00:00",
+     "id": "e5d647293bec"
     },
     {
      "title": "Encuesta Olé: ¿quién es el mejor refuerzo del Torneo Clausura?",
@@ -112,18 +182,11 @@
      "id": "27df29e7f4e7"
     },
     {
-     "title": "El tucumano Francisco Moreno debuta en Los Pumas ante el gigante Sudáfrica",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQkdOLXdDd2pPSnowb1VHekNxMWVDRFBhUVpJQVlhSUtoYWFRVElnM3FFV1AtNm01YVlranlWRlgtVkhuLTdKNmUxRjNLdkd6T2NtU0J2cldKdTlmWWpmcDFmY1dmZ19RdV9oRUY0MnFianhLMmp0bldKemJCVnV5QUVld3NwTmRRN3NwVk1XRUN2WFNrT2Rial9icTRNZ0Zkb01nUnhQQTc0YWlYX1E?oc=5",
-     "source": "GN Noticias",
-     "published": "2026-08-07T14:12:47+00:00",
-     "id": "e58cfcd62d95"
-    },
-    {
-     "title": "Se fue el más antiguo del plantel de River: Colidio, en Río para sumarse a Vasco da Gama",
+     "title": "Colidio, en Río para sumarse a Vasco da Gama: \"Vengo a un club muy grande\"",
      "link": "https://www.ole.com.ar/river-plate/facundo-colidio-viaje-rio-janeiro-brasil-vasco-da-gama_0_ZVb99B0S7q.html",
      "source": "Olé — River",
      "published": "2026-08-07T13:19:26+00:00",
-     "copete": "Los clubes llegaron a un acuerdo económico por el delantero argentino, que podría ser rival en la Sudamericana.",
+     "copete": "River llegó a un acuerdo económico por el delantero argentino, que podría ser rival en la Sudamericana.",
      "id": "a155b57b7b9b"
     },
     {
@@ -133,29 +196,6 @@
      "published": "2026-08-07T12:49:43+00:00",
      "copete": "Sin la consideración de Coudet, el volante ofensivo salió a préstamo y continuará su carrera en el ascenso español.",
      "id": "db080d077b8b"
-    },
-    {
-     "title": "Los Pumas juegan contra los Springboks: el encuentro conmemora los 40 años del primer partido histórico del seleccionado en Vélez",
-     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVEJZcTRRVW5LdjA0UUpKTl9WUEVDNXJOLXd4U0NQcUNZRFBJOEFZbi1HWGU0cy05dnR4YU1zMGI1aGNOZ3ZXRlBIN1pNWmxXMEFwTXB2VlNHc0l2VEZtRC1uMng4b3pTdllNbER5ZVhBSzdhV3pBc1hFUnBvclYwcnlUVEE4MkhzQy0yS1RuQWJzem5SSUhSVEJ4emEzTWN3R3lWcUNYZ09mU1VIN0V1ZXZLck1NWGJTRlVxbVlPN1QtNlRBTXhTMHluQmJRdHR0RnlVaC12NzV1WWQtbHFVY21ab0pzdkhjenU4emthRHhNVHNNNC1hc3lB?oc=5",
-     "source": "airedesantafe.com.ar",
-     "published": "2026-08-07T12:40:54+00:00",
-     "id": "ca9061df1b7a"
-    },
-    {
-     "title": "River, hoy EN VIVO: Almada, sale la lista vs. Tigre, se va Colidio y las noticias del viernes 7 de agosto",
-     "link": "https://www.ole.com.ar/river-plate/river-hoy-vivo-viernes-7-agosto-almada-tigre-formacion_0_Kf5ZZhvyCs.html",
-     "source": "Olé — River",
-     "published": "2026-08-07T12:40:10+00:00",
-     "copete": "A la espera de la oficialización del pase de Thiago y de su llegada a Buenos Aires, el equipo de Coudet se prepara para una visita de riesgo a Victoria.",
-     "id": "b377100e15e3"
-    },
-    {
-     "title": "La Calculadora de Olé de la fecha 4 del Torneo Clausura: ¿qué se juega cada uno de los equipos?",
-     "link": "https://www.ole.com.ar/futbol-primera/calculadora-ole-fecha-4-torneo-clausura_0_COddTRZNeW.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-07T01:50:17+00:00",
-     "copete": "Se viene una nueva jornada del campeonato: ¿cómo están las peleas por playoffs, tabla anual y descensos?",
-     "id": "4d0a7647e43c"
     },
     {
      "title": "FORMACIÓN CONFIRMADA PARA RECIBIR A SUDÁFRICA EN VÉLEZ",
@@ -173,12 +213,49 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Matplotlib vs Plotly: Which Python Chart Tool Should You Choose?",
+     "link": "https://towardsdatascience.com/matplotlib-vs-plotly-which-python-chart-tool-should-you-choose/",
+     "source": "Towards Data Science",
+     "published": "2026-08-07T16:30:00+00:00",
+     "copete": "From Static Plots to Interactive Data Exploration The post Matplotlib vs Plotly: Which Python Chart Tool Should You Choose? appeared first on Towards Data Science .",
+     "id": "16af9fd362d4"
+    },
+    {
+     "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+     "link": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
+     "source": "Simon Willison (IA)",
+     "published": "2026-08-07T16:18:51+00:00",
+     "copete": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI There's a fun anecdote from Accenture (apparently via leaked meeting audio recordings) in this 404 Media piece from June 24th: “We’re seeing from some of…",
+     "id": "11fab7eed4ac"
+    },
+    {
      "title": "Loop Engineering for Listing Questions: When the Answer Is Every Passage, Not the Top One",
      "link": "https://towardsdatascience.com/loop-engineering-for-listing-questions-when-the-answer-is-every-passage-not-the-top-one/",
      "source": "Towards Data Science",
      "published": "2026-08-07T15:00:00+00:00",
      "copete": "Enterprise Document Intelligence [Vol.1 #12] - The category of question most RAG pipelines silently fail on, and the pipeline shape that handles them The post Loop Engineering for Listing Questions: When the Answer Is Every Passage, Not…",
      "id": "4292c53b69e5"
+    },
+    {
+     "title": "Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]",
+     "link": "https://www.youtube.com/watch?v=UufMqwyO7pY",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-07T14:55:08+00:00",
+     "id": "186db7cb06ec"
+    },
+    {
+     "title": "99% of My Website Traffic Is Bots",
+     "link": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-07T14:51:57+00:00",
+     "id": "9efeabccb1db"
+    },
+    {
+     "title": "USA Today Co., partners with Palantir to analyze audience data",
+     "link": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-07T14:02:15+00:00",
+     "id": "e114084397a5"
     },
     {
      "title": "Small Language Models with Hugging Face transformers Library + smolLM3",
@@ -204,48 +281,11 @@
      "id": "0576484f0c09"
     },
     {
-     "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
-     "link": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
+     "title": "Show HN: Wyzer Programming Language",
+     "link": "https://github.com/Wyzer-Lang/wyzer",
      "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-07T12:42:58+00:00",
-     "id": "1347c9becc3b"
-    },
-    {
-     "title": "5 Free Courses to Learn Modern AI and LLMs",
-     "link": "https://www.kdnuggets.com/5-free-courses-to-learn-modern-ai-and-llms",
-     "source": "KDnuggets",
-     "published": "2026-08-07T12:00:30+00:00",
-     "copete": "Learn how to use generative AI at work, build RAG and agentic apps, fine-tune models, work with the Hugging Face ecosystem, and prototype AI products with hands-on resources.",
-     "id": "b868f184837d"
-    },
-    {
-     "title": "My Fall-Detection Model Scored 94%, and It Was Lying to Me",
-     "link": "https://towardsdatascience.com/my-fall-detection-model-scored-94-and-it-was-lying-to-me/",
-     "source": "Towards Data Science",
-     "published": "2026-08-07T12:00:00+00:00",
-     "copete": "How a single evaluation choice inflated my results by 25 points, and what rebuilding honestly taught me about ML systems people might depend on The post My Fall-Detection Model Scored 94%, and It Was Lying to Me appeared first on Towards…",
-     "id": "3c241973d9ce"
-    },
-    {
-     "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
-     "link": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-07T10:28:55+00:00",
-     "id": "7f39f211892f"
-    },
-    {
-     "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-     "link": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-07T00:06:28+00:00",
-     "id": "98208b2daa8f"
-    },
-    {
-     "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-     "link": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-06T21:52:16+00:00",
-     "id": "4bc6e888c4ea"
+     "published": "2026-08-07T12:28:55+00:00",
+     "id": "252eddff9320"
     }
    ]
   },
@@ -255,100 +295,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Marvel Tokon: Fighting Souls debuta en Steam con críticas por su rendimiento en PC",
-     "link": "https://www.infobae.com/malditos-nerds/2026/08/07/marvel-tokon-fighting-souls-debuta-en-steam-con-criticas-por-su-rendimiento-en-pc/",
+     "title": "Efecto Mundial 2026: la recaudación impositiva por apuestas online trepó casi 30% en julio",
+     "link": "https://www.infobae.com/economia/2026/08/07/efecto-mundial-2026-la-recaudacion-impositiva-por-apuestas-online-trepo-casi-30-en-julio/",
      "source": "Infobae",
-     "published": "2026-08-07T15:10:00+00:00",
-     "copete": "Un día después de su lanzamiento, apenas el 43 % de sus más de 1.000 reseñas en Steam son positivas",
-     "id": "7ccc3f4c5452"
+     "published": "2026-08-07T17:10:54+00:00",
+     "copete": "El Mundial impulsó este aumento sin precedentes y se espera que la tendencia continúe",
+     "id": "700817181302"
     },
     {
-     "title": "Los 7 errores que están arruinando tus plantas de interior y cómo corregirlos a tiempo",
-     "link": "https://www.infobae.com/tendencias/2026/08/07/los-7-errores-que-estan-arruinando-tus-plantas-de-interior-y-como-corregirlos-a-tiempo/",
+     "title": "La FED 2026 arrancó con premios a una librería cordobesa, una ilustradora y una editorial de libros de música",
+     "link": "https://www.infobae.com/cultura/2026/08/07/la-fed-2026-arranco-con-premios-a-una-libreria-cordobesa-una-ilustradora-y-una-editorial-de-libros-de-musica/",
      "source": "Infobae",
-     "published": "2026-08-07T15:09:08+00:00",
-     "copete": "Pequeños hábitos cotidianos pueden alterar el crecimiento, debilitar las hojas y generar problemas que muchas veces pasan inadvertidos",
-     "id": "0fa6231613b4"
+     "published": "2026-08-07T17:10:01+00:00",
+     "copete": "Volcán Azul fue reconocida por “labor librera”, Ornella Pagliaruolo se llevó el galardón “Afiche” y Gourmet Musical Ediciones obtuvo la distinción “Camino a Guadalajara”",
+     "id": "84c67513b58c"
     },
     {
-     "title": "Murió la ley de alquileres: los contratos aumentan por debajo de la inflación",
-     "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/murio-la-ley-de-alquileres-los-contratos-aumentan-por-debajo-de-la-inflacion-nid05082026/",
+     "title": "Troya: el error de Eric Bana al interpretar a Héctor del que nadie se dio cuenta en dos décadas",
+     "link": "https://www.lanacion.com.ar/espectaculos/troya-el-error-de-eric-bana-al-interpretar-a-hector-del-que-nadie-se-dio-cuenta-en-dos-decadas-nid05082026/",
      "source": "La Nación",
-     "published": "2026-08-07T15:08:22+00:00",
-     "copete": "El alquiler medio de un departamento de dos ambientes en la ciudad de Buenos Aires se ubica en $873.668 por mes",
-     "id": "583f1fe37b22"
+     "published": "2026-08-07T17:04:39+00:00",
+     "copete": "A más de 20 años de su estreno, los fanáticos de la película épica descubrieron un insólito error de utilería durante una de las escenas clave del actor",
+     "id": "cfa55606a680"
     },
     {
-     "title": "En Belgrano, la casa de más de 100 años con detalles intactos de la época que sorprende a los que recorren las arboladas calles de la zona",
-     "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/en-belgrano-la-casa-de-mas-de-100-anos-con-detalles-intactos-de-la-epoca-que-sorprende-a-los-que-nid06082026/",
+     "title": "Georgina Rodríguez, tras las críticas a su físico: “El valor de una persona jamás puede depender de eso ni de la opinión de desconocidos”",
+     "link": "https://www.lanacion.com.ar/espectaculos/georgina-rodriguez-tras-las-criticas-a-su-fisico-el-valor-de-una-persona-jamas-puede-depender-de-eso-nid04082026/",
      "source": "La Nación",
-     "published": "2026-08-07T15:07:42+00:00",
-     "copete": "La propiedad que, está en venta, mantiene piezas originales como los pisos, la boiserie y un patio andaluz",
-     "id": "c20477727f7a"
+     "published": "2026-08-07T17:04:28+00:00",
+     "copete": "La mujer de Cristiano Ronaldo realizó un descargo en las redes sociales y recibió el apoyo de Antonela Roccuzzo; el texto completo que publicó en su Instagram y qué le dijo el futbolista",
+     "id": "2964f4415ac0"
     },
     {
-     "title": "San Cayetano, en vivo: “La solución a los problemas económicos y sociales la tiene la clase dirigente”, dijo García Cuerva",
-     "link": "https://www.infobae.com/sociedad/2026/08/07/san-cayetano-en-vivo-las-ultimas-noticias-de-la-marcha-y-peregrinacion-hoy-7-de-agosto/",
+     "title": "Los 5 alimentos que aportan más fibra por porción que el pan integral",
+     "link": "https://www.infobae.com/salud/ciencia/2026/08/07/los-5-alimentos-que-aportan-mas-fibra-por-porcion-que-un-pedazo-de-pan-integral/",
      "source": "Infobae",
-     "published": "2026-08-07T15:07:30+00:00",
-     "copete": "El arzobispo de Buenos Aires pronunció una encendida homilía con críticas sociales y económicas. Por su parte, la movilización ya llega a Plaza de Mayo en donde a las 13, frente a la Casa Rosada, se leerá un documento conjunto desde un…",
-     "id": "d62b76510f2b"
+     "published": "2026-08-07T17:04:09+00:00",
+     "copete": "Legumbres, semillas, frutas y verduras concentran cantidades superiores de este nutriente, cuyo consumo insuficiente sigue siendo frecuente y se vincula con efectos sobre la digestión, la saciedad y la salud cardiovascular",
+     "id": "fd4eb4e361ff"
     },
     {
-     "title": "Remate: el centro porteño vibrará con una subasta ganadera de Galicia y Gananor Pujol con Expoagro",
-     "link": "https://www.lanacion.com.ar/economia/campo/remate-el-centro-porteno-vibrara-con-una-subasta-ganadera-de-galicia-y-gananor-pujol-con-expoagro-nid07082026/",
+     "title": "Por qué es efectivo aplicar bicarbonato de sodio alrededor del inodoro, según expertos",
+     "link": "https://www.lanacion.com.ar/lifestyle/por-que-es-efectivo-aplicar-bicarbonato-de-sodio-alrededor-del-inodoro-segun-expertos-nid04082026/",
      "source": "La Nación",
-     "published": "2026-08-07T15:06:17+00:00",
-     "copete": "Se llevará a cabo el viernes 28 de agosto en la Torre Galicia del centro porteño",
-     "id": "ce73da5fe27c"
+     "published": "2026-08-07T17:04:05+00:00",
+     "copete": "El uso de este producto en el hogar permite neutralizar olores y reducir la humedad, aunque especialistas advierten sobre su utilización responsable",
+     "id": "356400ef5328"
     },
     {
-     "title": "Remates judiciales de propiedades en agosto 2026: dónde están las oportunidades",
-     "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/remates-judiciales-de-propiedades-en-agosto-2026-donde-estan-las-oportunidades-nid06082026/",
+     "title": "Javier Milei y sus medidas, en vivo: la media sanción a la ley de propiedad privada y sus repercusiones",
+     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-media-sancion-a-la-ley-de-propiedad-privada-y-sus-nid07082026/",
      "source": "La Nación",
-     "published": "2026-08-07T15:06:13+00:00",
-     "copete": "Todos los meses se llevan a cabo diversas subastas públicas de inmuebles a precios de oportunidad y con la posibilidad de pagar en pesos",
-     "id": "cef1c5805092"
+     "published": "2026-08-07T17:04:00+00:00",
+     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+     "id": "8c00acf51767"
     },
     {
-     "title": "San Cayetano: empresarios cristianos llamaron a sostener el empleo, impulsar inversiones y orientar la IA al bien común",
-     "link": "https://www.lanacion.com.ar/economia/san-cayetano-empresarios-cristianos-llamaron-a-sostener-el-empleo-impulsar-inversiones-y-orientar-la-nid07082026/",
+     "title": "Fue la “novia del país” y rompió con todo cuando se supo de su amor secreto: la historia que se llevó puesta una idea de 65 millones de dólares",
+     "link": "https://www.lanacion.com.ar/espectaculos/ella-fue-la-novia-del-pais-y-rompio-con-todo-cuando-se-supo-de-su-amor-secreto-la-historia-que-se-nid02082026/",
      "source": "La Nación",
-     "published": "2026-08-07T15:05:09+00:00",
-     "copete": "En un comunicado por el día del patrono, la Asociación Cristiana de Dirigentes de Empresa instó a fortalecer el trabajo digno, destacó la figura de Enrique Shaw y analizó los desafíos de la Inteligencia Artificial",
-     "id": "3927d0d1e462"
+     "published": "2026-08-07T17:03:17+00:00",
+     "copete": "Durante el rodaje de la película Prueba de vida, Meg Ryan y Russell Crowe protagonizaron un affaire que terminó por opacar a la película; por qué el amor nubló los ojos de la crítica",
+     "id": "b81e27a9ad65"
     },
     {
-     "title": "Las últimas previsiones para Encarnación: temperatura, lluvias y viento",
-     "link": "https://www.infobae.com/noticias/2026/08/07/las-ultimas-previsiones-para-encarnacion-temperatura-lluvias-y-viento/",
+     "title": "Geopolítica y comercio internacional: un vínculo estrecho",
+     "link": "https://www.infobae.com/movant/2026/08/06/geopolitica-y-comercio-internacional-un-vinculo-estrecho/",
      "source": "Infobae",
-     "published": "2026-08-07T15:02:28+00:00",
-     "copete": "Durante el invierno en Paraguay la temperatura desciende hasta los cero grados, siendo -7 grados el récord histórico, ocurrido en el año 2000",
-     "id": "b951beded21d"
+     "published": "2026-08-07T17:03:15+00:00",
+     "copete": "En un mundo altamente conectado, algunos puntos geográficos concentran una influencia decisiva sobre la economía global. Ormuz y Bab el-Mandeb son ejemplos del vínculo entre poder, comercio y logística",
+     "id": "ab11193d321e"
     },
     {
-     "title": "Ajedrez bajo el agua: enfrentó a 16 rivales en simultáneo y logró un récord Guinness",
-     "link": "https://www.infobae.com/virales/2026/08/07/ajedrez-bajo-el-agua-enfrento-a-16-rivales-en-simultaneo-y-logro-un-record-guinness/",
+     "title": "La rutina nocturna que recomienda un experto en longevidad para dormir mejor",
+     "link": "https://www.infobae.com/salud/2026/08/07/la-rutina-nocturna-que-recomienda-un-experto-en-longevidad-para-dormir-mejor/",
      "source": "Infobae",
-     "published": "2026-08-07T14:58:19+00:00",
-     "copete": "La disciplina se juega con una sola respiración por movimiento. El polaco Michał Mazurkiewicz ganó 12 partidas, empató tres y perdió una en una prueba que combinó estrategia, apnea y resistencia",
-     "id": "8ed05c13bfec"
+     "published": "2026-08-07T17:01:04+00:00",
+     "copete": "La calidad del descanso no depende del azar: el especialista identificó los mecanismos biológicos que determinan si el organismo logra un sueño profundo o no",
+     "id": "c7dacb4c2442"
     },
     {
-     "title": "El retorno a los templos",
-     "link": "https://www.clarin.com/opinion/retorno-templos_0_2ng10md9Cn.html",
+     "title": "Una larga noche de agonía: Las 48 horas que cambiaron Venezuela",
+     "link": "https://www.clarin.com/new-york-times-international-weekly/larga-noche-agonia-48-horas-cambiaron-venezuela_0_Jr8CjKCM09.html",
      "source": "Clarín",
-     "published": "2026-08-07T14:26:51+00:00",
-     "copete": "En una Argentina, donde la convivencia intercultural forma parte de la vida comunitaria, el fortalecimiento de las identidades religiosas puede ser también un antídoto frente a fundamentalismos y discursos de odio.",
-     "id": "ec5ef00a9675"
+     "published": "2026-08-07T16:26:08+00:00",
+     "copete": "El Gobierno pidió ayuda a la comunidad internacional para hacer frente a los dos terremotos. Sin embargo, años de recortes presupuestarios y represión política habían mermado su capacidad para rescatar a las innumerables personas que…",
+     "id": "0159afc5f76b"
     },
     {
-     "title": "Dhani Ferrón: fue chofer de Spinetta, integró su última banda y recuerda los últimos días del Flaco",
-     "link": "https://www.clarin.com/espectaculos/dhani-ferron-chofer-spinetta-integro-ultima-banda-recuerda-ultimos-dias-flaco_0_DHwETDUeOt.html",
+     "title": "Quiniela de Santa Fe: resultado del sorteo de la Primera de hoy, viernes 07 de agosto",
+     "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-primera-hoy-viernes-07-agosto_0_IddewMQzzR.html",
      "source": "Clarín",
-     "published": "2026-08-07T14:26:32+00:00",
-     "copete": "Durante los meses de Las Bandas Eternas, el famoso recital de Spinetta en Vélez (2009), fue su conductor oficial. Después fue bajista de \"Los Amigo\", su último grupo junto al histórico Rodolfo García. Único sobreviviente de ese proyecto…",
-     "id": "908e99672542"
+     "published": "2026-08-07T16:20:57+00:00",
+     "copete": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+     "id": "7232e1a0d4a3"
     }
    ]
   },
@@ -358,84 +398,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Los hutíes elevan la tensión en el Golfo con nuevos ataques contra Arabia Saudí y las fuerzas yemeníes",
-     "link": "https://elpais.com/internacional/2026-08-07/los-huties-elevan-la-tension-en-el-golfo-con-nuevos-ataques-contra-arabia-saudi-y-las-fuerzas-yemenies.html",
-     "source": "El País Internacional",
-     "published": "2026-08-07T14:53:58+00:00",
-     "copete": "Riad firma con Estambul e Islamabad un acuerdo de defensa para reforzar la “disuasión colectiva” frente a cualquier acto de agresión",
-     "id": "4e36ae816f42"
+     "title": "Un alumno de 14 años es sospechoso de matar a tiros a 5 maestros y a sus abuelos en Tailandia",
+     "link": "https://www.bbc.com/mundo/articles/c20ed4rnd7xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-07T17:04:19+00:00",
+     "copete": "El cuerpo del agresor también fue encontrado sin vida. Se sospecha que mató a sus dos abuelos antes de dirigiste al colegio.",
+     "id": "cceeefd1a401"
     },
     {
-     "title": "Seven killed after teen shooter opens fire at home and school in Thailand",
+     "title": "Un tribunal dictamina que Trump necesita el aval del Congreso para continuar con las obras del salón de baile en la Casa Blanca",
+     "link": "https://elpais.com/us/2026-08-07/un-tribunal-dictamina-que-trump-necesita-el-aval-del-congreso-para-continuar-con-las-obras-del-salon-de-baile-en-la-casa-blanca.html",
+     "source": "El País Internacional",
+     "published": "2026-08-07T16:54:28+00:00",
+     "copete": "El presidente de EE UU sufre otro varapalo a sus planes de transformar lugares icónicos de Washington. La decisión final la tomará el Supremo",
+     "id": "c7aee96de0d9"
+    },
+    {
+     "title": "El pacto firmado por Arabia Saudita, Turquía y Pakistán en el que declaran que un ataque contra uno de ellos será un ataque \"contra los tres\"",
+     "link": "https://www.bbc.com/mundo/articles/cdewx30e7d4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-07T16:47:30+00:00",
+     "copete": "Este pacto se conoce en medio del conflicto en Medio Oriente por la guerra de EE.UU. e Israel contra Irán.",
+     "id": "ebd2ba956a2a"
+    },
+    {
+     "title": "Irán y Omán ultiman un acuerdo sobre Ormuz entre amenazas de Trump",
+     "link": "https://elpais.com/internacional/2026-08-07/iran-y-oman-ultiman-un-acuerdo-sobre-ormuz-pese-a-las-amenazas-de-trump.html",
+     "source": "El País Internacional",
+     "published": "2026-08-07T16:37:41+00:00",
+     "copete": "Este pacto, que estaría en vigor 60 días, es visto por Teherán como una “soberanía efectiva” sobre el estrecho",
+     "id": "a4ca5d32d29c"
+    },
+    {
+     "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+     "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-07T16:33:50+00:00",
+     "copete": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week.",
+     "id": "7dc1d2ca7c75"
+    },
+    {
+     "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
+     "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-07T16:13:45+00:00",
+     "copete": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
+     "id": "506810ba8502"
+    },
+    {
+     "title": "Muere José Breijo: la historia del uruguayo encarcelado en Venezuela por una foto y que al salir encontró su casa ocupada por el policía que lo detuvo",
+     "link": "https://www.bbc.com/mundo/articles/c934v95dk5yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-07T16:12:13+00:00",
+     "copete": "Activistas de derechos humanos lamentan que el fallecido no haya podido beneficiarse de la amnistía y consideran que este caso es una muestra de las consecuencias de unos procesos que califican de \"injustos\".",
+     "id": "a6f16833e8f3"
+    },
+    {
+     "title": "Seven killed after Thai student opens fire at home and school",
      "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-07T14:44:35+00:00",
-     "copete": "Authorities say the teen killed his grandparents at home before gunning down five teachers at his school.",
+     "published": "2026-08-07T15:51:16+00:00",
+     "copete": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.",
      "id": "35ed01305066"
     },
     {
      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
      "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-07T14:41:15+00:00",
+     "published": "2026-08-07T15:48:49+00:00",
      "copete": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
      "id": "d16d38017cfe"
     },
     {
-     "title": "Trump administration to pay German firm $1.2bn to halt US wind projects",
-     "link": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-07T13:32:41+00:00",
-     "copete": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
-     "id": "2f83371b5baf"
-    },
-    {
-     "title": "Por qué Bogotá dejará de ser la sede única del gobierno de Colombia con De la Espriella como presidente",
-     "link": "https://www.bbc.com/mundo/articles/cd69xnwd4zvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-07T12:22:03+00:00",
-     "copete": "El presidente entrante anunció que habrá \"sedes alternas\" de la Presidencia en Medellín, Cali y Barranquilla. ¿Es efectiva esta medida para lograr mayor descentralización?",
-     "id": "2e2476be8bf9"
-    },
-    {
-     "title": "Cuáles son las propuestas más polémicas de la \"patria milagro\" de De la Espriella y qué contrapesos tendrá como presidente de Colombia",
-     "link": "https://www.bbc.com/mundo/articles/cp8xzjkz754o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-07T11:00:15+00:00",
-     "copete": "De la Espriella se ha posicionado fuerte en seguridad y política exterior y quiere librar una batalla cultural, pero su capacidad de ejecución es limitada.",
-     "id": "25f562c2d7dd"
-    },
-    {
-     "title": "El búnker de la Guerra Fría reconvertido en apartamentos de lujo para \"sobrevivir al fin del mundo\"",
-     "link": "https://www.bbc.com/mundo/articles/c7vg5qp28e0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-07T10:36:52+00:00",
-     "copete": "Un antiguo refugio antiaéreo nuclear del gobierno canadiense en una zona rural de Nueva Escocia podría albergar pronto el primer refugio de supervivencia de lujo a gran escala del país.",
-     "id": "4b3b4c164b60"
-    },
-    {
-     "title": "\"Mi app de fitness sabía que estaba embarazada antes que yo\"",
-     "link": "https://www.bbc.com/mundo/articles/cvg9n3zq5xdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-07T10:12:58+00:00",
-     "copete": "Ravika está entre los cientos de mujeres que están recibiendo señales anticipadas de embarazo a través de sus dispositivos de rastreo de actividad física.",
-     "id": "77eedd081835"
-    },
-    {
-     "title": "Un estudiante mata al menos a cinco personas en un tiroteo en un colegio de Tailandia",
-     "link": "https://elpais.com/internacional/2026-08-07/un-estudiante-mata-al-menos-a-seis-personas-en-un-tiroteo-en-un-colegio-de-tailandia.html",
+     "title": "Los hutíes elevan la tensión en el Golfo con nuevos ataques contra Arabia Saudí y las fuerzas yemeníes",
+     "link": "https://elpais.com/internacional/2026-08-07/los-huties-elevan-la-tension-en-el-golfo-con-nuevos-ataques-contra-arabia-saudi-y-las-fuerzas-yemenies.html",
      "source": "El País Internacional",
-     "published": "2026-08-07T10:10:24+00:00",
-     "copete": "Las víctimas son profesores y personal del centro. El atacante, de 14 años, acabó con la vida también de sus abuelos antes de dirigirse al centro educativo",
-     "id": "d7efe9df593c"
-    },
-    {
-     "title": "Un alumno de 14 años es sospechoso de matar a tiros a 5 maestros y a sus abuelos en Tailandia",
-     "link": "https://www.bbc.com/mundo/articles/c20ed4rnd7xo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-07T09:53:16+00:00",
-     "copete": "El cuerpo del agresor también fue encontrado sin vida. Se sospecha que mató a sus dos abuelos antes de dirigiste al colegio.",
-     "id": "cceeefd1a401"
+     "published": "2026-08-07T14:53:58+00:00",
+     "copete": "Riad firma con Estambul e Islamabad un acuerdo de defensa para reforzar la “disuasión colectiva” frente a cualquier acto de agresión",
+     "id": "4e36ae816f42"
     }
    ]
   }
@@ -449,11 +489,6 @@
   {
    "section": "cardiologia",
    "feed": "Circulation (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "cardiologia",
-   "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]

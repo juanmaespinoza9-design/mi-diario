@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T10:05:35Z",
+  "generated_at": "2026-08-08T22:05:00Z",
   "summaries": {
     "380bd84ff6e4": {
       "resumen": "Artículo del European Heart Journal (EHJ) que repasa el debate en curso entre el reemplazo valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation) y el reemplazo valvular aórtico quirúrgico (SAVR, surgical aortic valve replacement) para la estenosis aórtica. Vale la pena porque sintetiza hacia dónde se inclina la evidencia acumulada y ayuda a actualizar el criterio de elección de técnica en cada perfil de paciente.",
@@ -45,51 +45,54 @@
       "resumen": "Segmento 'On Record' de TCTMD que repasa el estado actual de la implantación valvular aórtica transcatéter (TAVI, transcatheter aortic valve implantation) en pacientes con estenosis aórtica asintomática. Sirve para actualizarse sobre un debate abierto: si conviene intervenir tempranamente en estenosis aórtica grave sin síntomas o mantener la conducta expectante.",
       "destacado": false
     },
-    "6897ab4f3ed3": {
-      "resumen": "Simon Willison, referente en inteligencia artificial aplicada, relata cómo construyó un juego completo ('Raccoon Heist') usando Codex y GPT-5.6 Sol Ultra a partir de una premisa generada por otro modelo. Aporta como caso práctico de programación asistida por IA y sirve para entender el estado actual de estas herramientas para prototipar software rápido.",
+    "31d05ae690e6": {
+      "resumen": "Dinamarca exigirá defensas orales de los trabajos escritos de los estudiantes para frenar el uso indebido de inteligencia artificial generativa. Le sirve a quien se forma en análisis de datos porque muestra cómo las instituciones educativas están repensando la evaluación ante la irrupción de la IA generativa, un debate que también empieza a atravesar la formación médica continua.",
+      "destacado": false
+    },
+    "d8c98d0c7452": {
+      "resumen": "Nota que sostiene que un centro de datos (data center) de Amazon en construcción se perfila como la mayor fuente de contaminación del país por su consumo energético. Interesa porque expone el costo ambiental que suele quedar oculto detrás de la infraestructura que sostiene a los modelos grandes de inteligencia artificial.",
+      "destacado": false
+    },
+    "ddcef63acf2c": {
+      "resumen": "Herramienta de código abierto publicada en GitHub que bloquea el feed de LinkedIn para reducir la distracción de esa red social. Es un ejemplo simple de cómo un script propio puede ayudar a gestionar mejor el tiempo frente a la pantalla, algo útil también frente a la sobrecarga de información digital.",
+      "destacado": false
+    },
+    "93b9b492871c": {
+      "resumen": "El proveedor de correo electrónico Fastmail habilitó una región de datos dentro de la Unión Europea para alojar la información de sus usuarios. Le interesa a quien trabaja con datos porque ilustra cómo la ubicación geográfica del almacenamiento (data residency) se volvió un criterio central de privacidad y cumplimiento normativo.",
+      "destacado": false
+    },
+    "b0b4da0a6079": {
+      "resumen": "Artículo de Towards Data Science que reconstruye desde cero la lógica de la arquitectura Transformer, explicando por qué existen las matrices de consulta (query), clave (key) y valor (value) en lugar de partir directamente del diseño final ya armado. Le sirve a un médico que aprende análisis de datos porque da una base conceptual sólida para entender cómo funcionan por dentro los modelos de lenguaje actuales.",
+      "destacado": true
+    },
+    "79c1666962a9": {
+      "resumen": "Simon Willison, referente en inteligencia artificial aplicada, reconstruye la cronología de un ataque accidental de sistemas automatizados de OpenAI contra la plataforma Hugging Face. Le sirve a un médico que aprende análisis de datos porque muestra, con un caso real, los riesgos de seguridad que pueden surgir al operar sistemas de inteligencia artificial a gran escala de forma automatizada.",
+      "destacado": false
+    },
+    "59317c1fa743": {
+      "resumen": "Artículo de Towards Data Science que explica cómo construir una interfaz web con Streamlit para un agente de inteligencia artificial hecho con LangGraph, un framework para orquestar flujos de trabajo con modelos de lenguaje. Le sirve a un médico que aprende análisis de datos porque muestra, paso a paso, cómo pasar de un modelo que funciona en código a una herramienta usable por otras personas.",
       "destacado": false
     },
     "16af9fd362d4": {
       "resumen": "Artículo de Towards Data Science que compara Matplotlib y Plotly, dos librerías de Python para graficar datos: la primera orientada a gráficos estáticos y la segunda a la exploración interactiva. Es útil para un médico que aprende análisis de datos porque ayuda a elegir la herramienta correcta según si el objetivo es una figura para publicación o un tablero interactivo.",
       "destacado": false
     },
-    "4292c53b69e5": {
-      "resumen": "Artículo de Towards Data Science sobre un problema típico de los sistemas de generación aumentada por recuperación (RAG, retrieval-augmented generation): cuando la respuesta correcta requiere reunir todos los pasajes relevantes de un documento y no solo el más parecido a la pregunta. Le sirve a un médico que aprende análisis de datos porque este tipo de falla es frecuente al construir asistentes que buscan información en historias clínicas o guías extensas.",
-      "destacado": false
-    },
     "82d405c00b46": {
       "resumen": "Guía de KDnuggets sobre cómo usar modelos de lenguaje pequeños (SLM, small language models), como smolLM3, con la librería Hugging Face Transformers, en lugar de recurrir siempre a modelos grandes de decenas de miles de millones de parámetros. Aporta una vía concreta y económica para que un médico que aprende análisis de datos entrene o adapte modelos de IA para tareas específicas sin necesitar infraestructura costosa.",
-      "destacado": false
-    },
-    "cda2030bf7f7": {
-      "resumen": "Los Pumas reciben a los Springboks, bicampeones del mundo, en un amistoso este sábado en el estadio de Vélez."
-    },
-    "d3c68fc30ae0": {
-      "resumen": "Los Pumas ultiman los preparativos para el amistoso ante Sudáfrica que se juega este sábado en Vélez."
-    },
-    "3ac31eadf05b": {
-      "resumen": "Nota de Hacker News sobre cómo la NASA logró extender un año más la vida útil de la sonda Voyager 2, de 48 años, ajustando el consumo eléctrico de sus instrumentos a bordo. No es ciencia de datos en sentido estricto, pero interesa como ejemplo de ingeniería de sistemas de larga vida y gestión de recursos escasos, un desafío análogo al de optimizar recursos computacionales limitados.",
-      "destacado": false
-    },
-    "82ff09b8f03c": {
-      "resumen": "Nota de Hacker News sobre la disolución del equipo central (core team) de Nixpkgs, el repositorio de paquetes del sistema Nix/NixOS. Es una noticia de gobernanza de software libre más que de ciencia de datos, pero puede interesarle a quien usa Nix para lograr entornos de análisis reproducibles, ya que anticipa cambios en cómo se mantiene el proyecto.",
       "destacado": false
     },
     "bdef73cd55ee": {
       "resumen": "Simon Willison, referente en inteligencia artificial aplicada, cita una reflexión de John Gruber sobre distintos estilos de escritura: unas veces como 'tocar en vivo' y otras como 'grabar un álbum de estudio'. No aporta contenido técnico de ciencia de datos, pero ilustra cómo referentes del ambiente tecnológico piensan el proceso de escribir y comunicar ideas.",
       "destacado": false
     },
-    "0aaa4cc9a36b": {
-      "resumen": "Simon Willison reconstruye la cronología del llamado 'incidente de Hugging Face', un ataque accidental de OpenAI contra la plataforma Hugging Face presentado en la conferencia de seguridad Black Hat. Le sirve a un médico que aprende análisis de datos porque muestra, con un caso real, los riesgos de seguridad que pueden surgir al operar sistemas de inteligencia artificial a gran escala.",
-      "destacado": true
+    "a9e04b8bcb8d": {
+      "resumen": "Minuto a minuto de Los Pumas ante los Springboks en Vélez: dónde y cómo seguir en vivo el test match ante el bicampeón del mundo."
     },
-    "294109fce8a0": {
-      "resumen": "El Departamento de Energía de Estados Unidos lanzó la iniciativa Genesis Open Models, orientada a desarrollar y distribuir modelos de inteligencia artificial de código abierto para uso científico. Le sirve a un médico que aprende análisis de datos porque amplía el acceso a modelos abiertos y auditables para investigación, sin depender solo de proveedores comerciales cerrados.",
-      "destacado": false
+    "3402744c429c": {
+      "resumen": "La Unión Argentina de Rugby (UAR) dedicó un mensaje a la familia Messi en Vélez, previo al partido de Los Pumas ante Sudáfrica."
     },
-    "efb641fe7ca6": {
-      "resumen": "Un exjefe de la Agencia de Seguridad Nacional (NSA) de Estados Unidos advierte que los controladores de sistemas de agua no deberían estar conectados a internet, tras sospechas de ataques desde Irán. No es ciencia de datos en sentido estricto, pero es un recordatorio de que toda infraestructura crítica conectada, incluida la que procesa datos sensibles como los de salud, necesita resguardos básicos de ciberseguridad.",
-      "destacado": false
+    "9ff4f0647724": {
+      "resumen": "Los hermanos Moreno debutarán con Universitario y con Los Pumas con apenas dos horas de diferencia entre un partido y otro."
     }
   }
 }

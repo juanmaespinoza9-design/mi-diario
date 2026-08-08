@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T22:10:00Z",
+  "generated_at": "2026-08-08T10:05:35Z",
   "summaries": {
     "380bd84ff6e4": {
       "resumen": "Artículo del European Heart Journal (EHJ) que repasa el debate en curso entre el reemplazo valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation) y el reemplazo valvular aórtico quirúrgico (SAVR, surgical aortic valve replacement) para la estenosis aórtica. Vale la pena porque sintetiza hacia dónde se inclina la evidencia acumulada y ayuda a actualizar el criterio de elección de técnica en cada perfil de paciente.",
@@ -49,28 +49,8 @@
       "resumen": "Simon Willison, referente en inteligencia artificial aplicada, relata cómo construyó un juego completo ('Raccoon Heist') usando Codex y GPT-5.6 Sol Ultra a partir de una premisa generada por otro modelo. Aporta como caso práctico de programación asistida por IA y sirve para entender el estado actual de estas herramientas para prototipar software rápido.",
       "destacado": false
     },
-    "0b7c8d8de419": {
-      "resumen": "Nota de Daring Fireball (vía Hacker News) sobre el rechazo de una aplicación llamada 'Dark Hours' en la App Store de Apple. No es contenido de ciencia de datos en sí, pero aparece en esta sección por su origen en Hacker News; puede interesar como ejemplo de las políticas de moderación de plataformas más que como insumo analítico.",
-      "destacado": false
-    },
-    "4fffe919132d": {
-      "resumen": "Databricks, la plataforma de datos e inteligencia artificial, cuenta cómo logró reducir 70% el gasto en herramientas de programación asistida por IA sin perder productividad. Le sirve a quien recién arranca en análisis de datos para entender que el uso eficiente de estas herramientas, y no solo el acceso a ellas, es clave en cualquier equipo de datos.",
-      "destacado": false
-    },
-    "8023bbd2b745": {
-      "resumen": "Repositorio de GitHub que reúne ejemplos de código ensamblador (assembly) mal escrito o vulnerable, a modo de catálogo humorístico de errores clásicos de programación de bajo nivel. No es ciencia de datos estrictamente, pero puede interesar como curiosidad técnica sobre seguridad informática.",
-      "destacado": false
-    },
-    "92f81e64c3c7": {
-      "resumen": "Resultados de arcprize.org sobre el desempeño del modelo chino DeepSeek V4 Flash en el benchmark ARC-AGI, que mide la capacidad de razonamiento abstracto de los modelos de inteligencia artificial más allá de tareas de lenguaje. Sirve para seguir el ritmo de mejora de los modelos abiertos frente a los propietarios.",
-      "destacado": false
-    },
     "16af9fd362d4": {
       "resumen": "Artículo de Towards Data Science que compara Matplotlib y Plotly, dos librerías de Python para graficar datos: la primera orientada a gráficos estáticos y la segunda a la exploración interactiva. Es útil para un médico que aprende análisis de datos porque ayuda a elegir la herramienta correcta según si el objetivo es una figura para publicación o un tablero interactivo.",
-      "destacado": false
-    },
-    "11fab7eed4ac": {
-      "resumen": "Simon Willison recopila ejemplos de empresas que están recortando drásticamente su gasto en modelos de inteligencia artificial, medido en tokens (la unidad de facturación de estos servicios), tras meses de uso poco controlado. Sirve para entender que integrar IA en un flujo de trabajo también implica gestionar su costo, no solo su capacidad técnica.",
       "destacado": false
     },
     "4292c53b69e5": {
@@ -81,18 +61,35 @@
       "resumen": "Guía de KDnuggets sobre cómo usar modelos de lenguaje pequeños (SLM, small language models), como smolLM3, con la librería Hugging Face Transformers, en lugar de recurrir siempre a modelos grandes de decenas de miles de millones de parámetros. Aporta una vía concreta y económica para que un médico que aprende análisis de datos entrene o adapte modelos de IA para tareas específicas sin necesitar infraestructura costosa.",
       "destacado": false
     },
-    "0eb884cb3cb1": {
-      "resumen": "Artículo de Towards Data Science que sostiene que el problema principal de pandas, la librería de Python más usada para manejar tablas de datos, no es la velocidad sino la carga cognitiva de recordar su sintaxis. Le sirve a un médico que aprende análisis de datos porque anticipa las dificultades más comunes al aprender a manipular datos tabulares y ayuda a elegir mejor las herramientas de trabajo.",
+    "cda2030bf7f7": {
+      "resumen": "Los Pumas reciben a los Springboks, bicampeones del mundo, en un amistoso este sábado en el estadio de Vélez."
+    },
+    "d3c68fc30ae0": {
+      "resumen": "Los Pumas ultiman los preparativos para el amistoso ante Sudáfrica que se juega este sábado en Vélez."
+    },
+    "3ac31eadf05b": {
+      "resumen": "Nota de Hacker News sobre cómo la NASA logró extender un año más la vida útil de la sonda Voyager 2, de 48 años, ajustando el consumo eléctrico de sus instrumentos a bordo. No es ciencia de datos en sentido estricto, pero interesa como ejemplo de ingeniería de sistemas de larga vida y gestión de recursos escasos, un desafío análogo al de optimizar recursos computacionales limitados.",
+      "destacado": false
+    },
+    "82ff09b8f03c": {
+      "resumen": "Nota de Hacker News sobre la disolución del equipo central (core team) de Nixpkgs, el repositorio de paquetes del sistema Nix/NixOS. Es una noticia de gobernanza de software libre más que de ciencia de datos, pero puede interesarle a quien usa Nix para lograr entornos de análisis reproducibles, ya que anticipa cambios en cómo se mantiene el proyecto.",
+      "destacado": false
+    },
+    "bdef73cd55ee": {
+      "resumen": "Simon Willison, referente en inteligencia artificial aplicada, cita una reflexión de John Gruber sobre distintos estilos de escritura: unas veces como 'tocar en vivo' y otras como 'grabar un álbum de estudio'. No aporta contenido técnico de ciencia de datos, pero ilustra cómo referentes del ambiente tecnológico piensan el proceso de escribir y comunicar ideas.",
+      "destacado": false
+    },
+    "0aaa4cc9a36b": {
+      "resumen": "Simon Willison reconstruye la cronología del llamado 'incidente de Hugging Face', un ataque accidental de OpenAI contra la plataforma Hugging Face presentado en la conferencia de seguridad Black Hat. Le sirve a un médico que aprende análisis de datos porque muestra, con un caso real, los riesgos de seguridad que pueden surgir al operar sistemas de inteligencia artificial a gran escala.",
       "destacado": true
     },
-    "518b454afdf2": {
-      "resumen": "El capitán de los Springboks, Siya Kolisi, destacó el nivel de Los Pumas y de Pablo Matera de cara al partido entre ambas selecciones."
+    "294109fce8a0": {
+      "resumen": "El Departamento de Energía de Estados Unidos lanzó la iniciativa Genesis Open Models, orientada a desarrollar y distribuir modelos de inteligencia artificial de código abierto para uso científico. Le sirve a un médico que aprende análisis de datos porque amplía el acceso a modelos abiertos y auditables para investigación, sin depender solo de proveedores comerciales cerrados.",
+      "destacado": false
     },
-    "85892f632c92": {
-      "resumen": "Dos jugadores oriundos de La Plata fueron confirmados como titulares de Los Pumas para el partido ante Sudáfrica."
-    },
-    "e80327ad6103": {
-      "resumen": "Dos jugadores de la ciudad de Pilar arrancarán como titulares en Los Pumas frente a los Springboks."
+    "efb641fe7ca6": {
+      "resumen": "Un exjefe de la Agencia de Seguridad Nacional (NSA) de Estados Unidos advierte que los controladores de sistemas de agua no deberían estar conectados a internet, tras sospechas de ataques desde Irán. No es ciencia de datos en sentido estricto, pero es un recordatorio de que toda infraestructura crítica conectada, incluida la que procesa datos sensibles como los de salud, necesita resguardos básicos de ciberseguridad.",
+      "destacado": false
     }
   }
 }

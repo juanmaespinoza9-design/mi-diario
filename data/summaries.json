@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T10:04:45Z",
+  "generated_at": "2026-08-09T22:04:59Z",
   "summaries": {
     "380bd84ff6e4": {
       "resumen": "Artículo del European Heart Journal (EHJ) que repasa el debate en curso entre el reemplazo valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation) y el reemplazo valvular aórtico quirúrgico (SAVR, surgical aortic valve replacement) para la estenosis aórtica. Vale la pena porque sintetiza hacia dónde se inclina la evidencia acumulada y ayuda a actualizar el criterio de elección de técnica en cada perfil de paciente.",
@@ -53,46 +53,49 @@
       "resumen": "Simon Willison, referente en inteligencia artificial aplicada, reconstruye la cronología de un ataque accidental de sistemas automatizados de OpenAI contra la plataforma Hugging Face. Le sirve a un médico que aprende análisis de datos porque muestra, con un caso real, los riesgos de seguridad que pueden surgir al operar sistemas de inteligencia artificial a gran escala de forma automatizada.",
       "destacado": false
     },
-    "59317c1fa743": {
-      "resumen": "Artículo de Towards Data Science que explica cómo construir una interfaz web con Streamlit para un agente de inteligencia artificial hecho con LangGraph, un framework para orquestar flujos de trabajo con modelos de lenguaje. Le sirve a un médico que aprende análisis de datos porque muestra, paso a paso, cómo pasar de un modelo que funciona en código a una herramienta usable por otras personas.",
-      "destacado": false
-    },
-    "16af9fd362d4": {
-      "resumen": "Artículo de Towards Data Science que compara Matplotlib y Plotly, dos librerías de Python para graficar datos: la primera orientada a gráficos estáticos y la segunda a la exploración interactiva. Es útil para un médico que aprende análisis de datos porque ayuda a elegir la herramienta correcta según si el objetivo es una figura para publicación o un tablero interactivo.",
-      "destacado": false
-    },
-    "bdef73cd55ee": {
-      "resumen": "Simon Willison, referente en inteligencia artificial aplicada, cita una reflexión de John Gruber sobre distintos estilos de escritura: unas veces como 'tocar en vivo' y otras como 'grabar un álbum de estudio'. No aporta contenido técnico de ciencia de datos, pero ilustra cómo referentes del ambiente tecnológico piensan el proceso de escribir y comunicar ideas.",
-      "destacado": false
-    },
-    "09928270f45c": {
-      "resumen": "Apuesta pública de largo plazo (long bet) publicada en 2011 sobre si una URL específica seguirá funcionando once años después, un ejemplo del fenómeno de 'descomposición de enlaces' (link rot). Le sirve a quien trabaja con datos porque recuerda la importancia de archivar y citar fuentes de forma permanente (por ejemplo, con identificadores DOI) al documentar una investigación.",
-      "destacado": false
-    },
-    "bb938de13eaf": {
-      "resumen": "El bloguero John Gruber (Daring Fireball) se retracta de una crítica previa a Apple: la aplicación que había señalado como rechazada injustamente por la App Store en realidad había sido rechazada con razón. Le deja a quien aprende análisis de datos un recordatorio simple: conviene revisar y corregir públicamente una conclusión propia cuando aparece evidencia que la contradice.",
-      "destacado": false
-    },
-    "66bc5cf11e49": {
-      "resumen": "Ensayo de divulgación en ciencia del comportamiento que cuestiona la eficacia de los incentivos externos (premios, bonos, métricas) para mejorar el desempeño real, y advierte cómo pueden distorsionar aquello que se busca medir. Le sirve a un médico que aprende análisis de datos porque toca un problema central del diseño de indicadores: cuando la métrica se convierte en el objetivo, deja de reflejar lo que en verdad importa.",
-      "destacado": false
-    },
-    "ef46700b353f": {
-      "resumen": "Estudio de 2023 publicado en la revista Sleep que encontró que la melatonina, tomada como ayuda para dormir, puede deteriorar el rendimiento cognitivo matutino en adultos jóvenes sanos. Le interesa a un médico que aprende análisis de datos como ejemplo de cómo un hallazgo fisiológico se convierte en evidencia cuantificable a través de pruebas cognitivas estandarizadas y su análisis estadístico.",
-      "destacado": false
-    },
     "f43ad033701a": {
       "resumen": "Simon Willison, referente en inteligencia artificial aplicada, comenta que Anthropic convirtió al 'modo automático' (auto mode) en la configuración predeterminada de Claude Code para los planes Pro, Max y Team. Le sirve a un médico que aprende análisis de datos porque muestra hacia dónde evolucionan las herramientas de programación asistida por inteligencia artificial que puede aplicar en sus propios proyectos de datos.",
       "destacado": false
     },
-    "b7c6572febeb": {
-      "resumen": "El seleccionado argentino de rugby perdió 17 a 10 ante los Springboks de Sudáfrica en un test match parejo disputado en el estadio de Vélez."
+    "a7c4d93e02ba": {
+      "resumen": "Post personal donde el autor cuenta cómo usa los modelos de lenguaje de gran escala (LLM, large language model) para aprender temas complejos: los usa como tutor que hace preguntas y detecta huecos en el propio entendimiento, en vez de pedirles directamente la respuesta final. Le sirve a quien está aprendiendo ciencia de datos porque plantea una forma concreta de usar la inteligencia artificial (IA) como herramienta de estudio y no solo como atajo.",
+      "destacado": false
     },
-    "b1469f4ad9a8": {
-      "resumen": "Los Pumas no pudieron ante Sudáfrica y cayeron en su presentación en el estadio de Vélez frente a los Springboks."
+    "d5aec2a303c8": {
+      "resumen": "Hilo mensual de Hacker News donde la comunidad cuenta en qué proyectos está trabajando durante agosto de 2026. No es un artículo técnico en sí, pero funciona como termómetro de qué herramientas y problemas de datos e inteligencia artificial (IA) están en agenda entre desarrolladores y científicos de datos.",
+      "destacado": false
     },
-    "eada664a63ea": {
-      "resumen": "La Unión Argentina de Rugby confirmó el equipo titular de Los Pumas para enfrentar a Sudáfrica, con dos jugadores oriundos de La Plata entre los citados."
+    "0ab3045a5f87": {
+      "resumen": "Estudio académico publicado en una revista de INFORMS (Institute for Operations Research and the Management Sciences) que analiza datos de empresas emergentes (startups) y fundadores de Silicon Valley procesados por fraude, buscando patrones comunes previos al fraude. Le aporta a un médico que aprende análisis de datos un ejemplo de investigación aplicada con datos observacionales sobre comportamiento organizacional, con métodos estadísticos trasladables a otros campos.",
+      "destacado": false
+    },
+    "1755937672c8": {
+      "resumen": "Nota que muestra cómo la aplicación de clima integrada en Windows 11 llega a consumir más de 1 gigabyte (GB) de memoria RAM (memoria de acceso aleatorio), muy por encima de lo esperable para su función. Sirve como recordatorio práctico de que medir el consumo de recursos (memoria, procesador) es parte del trabajo de cualquiera que programe o analice datos, no solo de quien desarrolla software.",
+      "destacado": false
+    },
+    "1840c23ae0fc": {
+      "resumen": "Relato en primera persona de alguien que construyó sus primeros modelos con dbt (data build tool, herramienta de transformación de datos) y descubrió que cargar los datos es apenas el comienzo: falta modelarlos, testearlos y documentarlos para que sean realmente utilizables. Le sirve a un médico que aprende análisis de datos porque ilustra por qué tener datos disponibles no alcanza para que estén listos para el análisis (\"analysis-ready\").",
+      "destacado": false
+    },
+    "707c4b012898": {
+      "resumen": "Consulta en el foro r/datascience de alguien que usó inteligencia artificial (IA) por primera vez para una tarea de análisis y pide consejo a la comunidad sobre cómo seguir. Le sirve a quien está empezando en ciencia de datos porque refleja dudas típicas del primer contacto con estas herramientas, y las respuestas suelen traer recomendaciones prácticas de gente con más experiencia.",
+      "destacado": false
+    },
+    "64c90b43d8c6": {
+      "resumen": "Tutorial de Towards Data Science sobre cómo implementar salida estructurada (structured output, forzar que un modelo de lenguaje responda en un formato fijo como JSON) usando modelos de lenguaje de gran escala (LLM) ejecutados de forma local. Le sirve a un médico que aprende análisis de datos porque la salida estructurada es clave para poder procesar automáticamente las respuestas de un modelo dentro de un flujo de trabajo (pipeline) de datos.",
+      "destacado": false
+    },
+    "42d67bee9d36": {
+      "resumen": "Los Pumas pelearon hasta el final pero terminaron cayendo ante los Springboks de Sudáfrica en un partido parejo."
+    },
+    "4e7a634e8ea9": {
+      "resumen": "Un análisis jugador por jugador del rendimiento de Los Pumas en la derrota ante Sudáfrica."
+    },
+    "27497fc3d0ad": {
+      "resumen": "Los Pumas perdieron ante Sudáfrica en un partido de rugby que se definió en los minutos finales."
+    },
+    "95788e373719": {
+      "resumen": "Trascendió que Pep Guardiola estuvo cerca de convertirse en el entrenador de la selección de Italia, pero finalmente rechazó la propuesta."
     }
   }
 }

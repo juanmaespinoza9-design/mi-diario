@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T22:05:00Z",
+  "generated_at": "2026-08-09T10:04:45Z",
   "summaries": {
     "380bd84ff6e4": {
       "resumen": "Artículo del European Heart Journal (EHJ) que repasa el debate en curso entre el reemplazo valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation) y el reemplazo valvular aórtico quirúrgico (SAVR, surgical aortic valve replacement) para la estenosis aórtica. Vale la pena porque sintetiza hacia dónde se inclina la evidencia acumulada y ayuda a actualizar el criterio de elección de técnica en cada perfil de paciente.",
@@ -45,22 +45,6 @@
       "resumen": "Segmento 'On Record' de TCTMD que repasa el estado actual de la implantación valvular aórtica transcatéter (TAVI, transcatheter aortic valve implantation) en pacientes con estenosis aórtica asintomática. Sirve para actualizarse sobre un debate abierto: si conviene intervenir tempranamente en estenosis aórtica grave sin síntomas o mantener la conducta expectante.",
       "destacado": false
     },
-    "31d05ae690e6": {
-      "resumen": "Dinamarca exigirá defensas orales de los trabajos escritos de los estudiantes para frenar el uso indebido de inteligencia artificial generativa. Le sirve a quien se forma en análisis de datos porque muestra cómo las instituciones educativas están repensando la evaluación ante la irrupción de la IA generativa, un debate que también empieza a atravesar la formación médica continua.",
-      "destacado": false
-    },
-    "d8c98d0c7452": {
-      "resumen": "Nota que sostiene que un centro de datos (data center) de Amazon en construcción se perfila como la mayor fuente de contaminación del país por su consumo energético. Interesa porque expone el costo ambiental que suele quedar oculto detrás de la infraestructura que sostiene a los modelos grandes de inteligencia artificial.",
-      "destacado": false
-    },
-    "ddcef63acf2c": {
-      "resumen": "Herramienta de código abierto publicada en GitHub que bloquea el feed de LinkedIn para reducir la distracción de esa red social. Es un ejemplo simple de cómo un script propio puede ayudar a gestionar mejor el tiempo frente a la pantalla, algo útil también frente a la sobrecarga de información digital.",
-      "destacado": false
-    },
-    "93b9b492871c": {
-      "resumen": "El proveedor de correo electrónico Fastmail habilitó una región de datos dentro de la Unión Europea para alojar la información de sus usuarios. Le interesa a quien trabaja con datos porque ilustra cómo la ubicación geográfica del almacenamiento (data residency) se volvió un criterio central de privacidad y cumplimiento normativo.",
-      "destacado": false
-    },
     "b0b4da0a6079": {
       "resumen": "Artículo de Towards Data Science que reconstruye desde cero la lógica de la arquitectura Transformer, explicando por qué existen las matrices de consulta (query), clave (key) y valor (value) en lugar de partir directamente del diseño final ya armado. Le sirve a un médico que aprende análisis de datos porque da una base conceptual sólida para entender cómo funcionan por dentro los modelos de lenguaje actuales.",
       "destacado": true
@@ -77,22 +61,38 @@
       "resumen": "Artículo de Towards Data Science que compara Matplotlib y Plotly, dos librerías de Python para graficar datos: la primera orientada a gráficos estáticos y la segunda a la exploración interactiva. Es útil para un médico que aprende análisis de datos porque ayuda a elegir la herramienta correcta según si el objetivo es una figura para publicación o un tablero interactivo.",
       "destacado": false
     },
-    "82d405c00b46": {
-      "resumen": "Guía de KDnuggets sobre cómo usar modelos de lenguaje pequeños (SLM, small language models), como smolLM3, con la librería Hugging Face Transformers, en lugar de recurrir siempre a modelos grandes de decenas de miles de millones de parámetros. Aporta una vía concreta y económica para que un médico que aprende análisis de datos entrene o adapte modelos de IA para tareas específicas sin necesitar infraestructura costosa.",
-      "destacado": false
-    },
     "bdef73cd55ee": {
       "resumen": "Simon Willison, referente en inteligencia artificial aplicada, cita una reflexión de John Gruber sobre distintos estilos de escritura: unas veces como 'tocar en vivo' y otras como 'grabar un álbum de estudio'. No aporta contenido técnico de ciencia de datos, pero ilustra cómo referentes del ambiente tecnológico piensan el proceso de escribir y comunicar ideas.",
       "destacado": false
     },
-    "a9e04b8bcb8d": {
-      "resumen": "Minuto a minuto de Los Pumas ante los Springboks en Vélez: dónde y cómo seguir en vivo el test match ante el bicampeón del mundo."
+    "09928270f45c": {
+      "resumen": "Apuesta pública de largo plazo (long bet) publicada en 2011 sobre si una URL específica seguirá funcionando once años después, un ejemplo del fenómeno de 'descomposición de enlaces' (link rot). Le sirve a quien trabaja con datos porque recuerda la importancia de archivar y citar fuentes de forma permanente (por ejemplo, con identificadores DOI) al documentar una investigación.",
+      "destacado": false
     },
-    "3402744c429c": {
-      "resumen": "La Unión Argentina de Rugby (UAR) dedicó un mensaje a la familia Messi en Vélez, previo al partido de Los Pumas ante Sudáfrica."
+    "bb938de13eaf": {
+      "resumen": "El bloguero John Gruber (Daring Fireball) se retracta de una crítica previa a Apple: la aplicación que había señalado como rechazada injustamente por la App Store en realidad había sido rechazada con razón. Le deja a quien aprende análisis de datos un recordatorio simple: conviene revisar y corregir públicamente una conclusión propia cuando aparece evidencia que la contradice.",
+      "destacado": false
     },
-    "9ff4f0647724": {
-      "resumen": "Los hermanos Moreno debutarán con Universitario y con Los Pumas con apenas dos horas de diferencia entre un partido y otro."
+    "66bc5cf11e49": {
+      "resumen": "Ensayo de divulgación en ciencia del comportamiento que cuestiona la eficacia de los incentivos externos (premios, bonos, métricas) para mejorar el desempeño real, y advierte cómo pueden distorsionar aquello que se busca medir. Le sirve a un médico que aprende análisis de datos porque toca un problema central del diseño de indicadores: cuando la métrica se convierte en el objetivo, deja de reflejar lo que en verdad importa.",
+      "destacado": false
+    },
+    "ef46700b353f": {
+      "resumen": "Estudio de 2023 publicado en la revista Sleep que encontró que la melatonina, tomada como ayuda para dormir, puede deteriorar el rendimiento cognitivo matutino en adultos jóvenes sanos. Le interesa a un médico que aprende análisis de datos como ejemplo de cómo un hallazgo fisiológico se convierte en evidencia cuantificable a través de pruebas cognitivas estandarizadas y su análisis estadístico.",
+      "destacado": false
+    },
+    "f43ad033701a": {
+      "resumen": "Simon Willison, referente en inteligencia artificial aplicada, comenta que Anthropic convirtió al 'modo automático' (auto mode) en la configuración predeterminada de Claude Code para los planes Pro, Max y Team. Le sirve a un médico que aprende análisis de datos porque muestra hacia dónde evolucionan las herramientas de programación asistida por inteligencia artificial que puede aplicar en sus propios proyectos de datos.",
+      "destacado": false
+    },
+    "b7c6572febeb": {
+      "resumen": "El seleccionado argentino de rugby perdió 17 a 10 ante los Springboks de Sudáfrica en un test match parejo disputado en el estadio de Vélez."
+    },
+    "b1469f4ad9a8": {
+      "resumen": "Los Pumas no pudieron ante Sudáfrica y cayeron en su presentación en el estadio de Vélez frente a los Springboks."
+    },
+    "eada664a63ea": {
+      "resumen": "La Unión Argentina de Rugby confirmó el equipo titular de Los Pumas para enfrentar a Sudáfrica, con dos jugadores oriundos de La Plata entre los citados."
     }
   }
 }

@@ -1,29 +1,8 @@
 {
-  "generated_at": "2026-08-10T10:06:33Z",
+  "generated_at": "2026-08-10T22:06:03Z",
   "summaries": {
-    "380bd84ff6e4": {
-      "resumen": "Artículo del European Heart Journal (EHJ) que repasa el debate en curso entre el reemplazo valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation) y el reemplazo valvular aórtico quirúrgico (SAVR, surgical aortic valve replacement) para la estenosis aórtica. Vale la pena porque sintetiza hacia dónde se inclina la evidencia acumulada y ayuda a actualizar el criterio de elección de técnica en cada perfil de paciente.",
-      "destacado": false
-    },
-    "771a19e87353": {
-      "resumen": "Nota de TCTMD sobre una iniciativa de mejora de calidad (quality-improvement initiative) que logró aumentar el uso de guía por imagen intracoronaria durante la angioplastia coronaria percutánea (PCI, percutaneous coronary intervention). Interesa porque la imagen intracoronaria (ecografía intravascular o tomografía de coherencia óptica) mejora los resultados del intervencionismo complejo pero sigue subutilizada en la práctica real.",
-      "destacado": false,
-      "analisis": "Diseño: Se infiere, a partir del título, un estudio o proyecto de mejora de calidad (quality-improvement initiative) que evalúa el impacto de una intervención organizacional sobre la adopción del intervencionismo coronario percutáneo (PCI, percutaneous coronary intervention) guiado por imagen; sin abstract no hay datos sobre aleatorización, ciego, número de centros ni de pacientes.\nPoblación: No especificada en el título disponible; presumiblemente centros o programas de hemodinamia que participaron de la iniciativa.\nIntervención: Implementación de una iniciativa de mejora de calidad orientada a incrementar el uso de guía por imagen intracoronaria (por ejemplo, ecografía intravascular o tomografía de coherencia óptica) durante la angioplastia coronaria, comparada implícitamente con la práctica previa sin esa iniciativa.\nResultados: El título indica que la iniciativa \"impulsa\" (spurs) el uso de PCI guiado por imagen; no se dispone de cifras (porcentaje de adopción, razones de riesgo, intervalos de confianza, valor de p).\nLimitaciones: Sin abstract no se puede evaluar el diseño (antes-después vs. controlado), el tamaño de la muestra, el tiempo de seguimiento ni si se midieron desenlaces clínicos además de la adopción del proceso.\nMensaje: Si se confirma, respalda que las iniciativas estructuradas de mejora de calidad pueden aumentar la adopción de guía por imagen en PCI, una práctica asociada a mejores resultados en intervencionismo coronario complejo, aunque falta ver si esto se traduce en menos eventos clínicos.\nNota: análisis sin acceso al abstract."
-    },
-    "60eca4e0f44a": {
-      "resumen": "Guía clínica concisa 2026 del Colegio Americano de Cardiología (ACC, American College of Cardiology) sobre el rol de la vacunación del adulto como parte del cuidado cardiovascular. Es una herramienta práctica para incorporar la indicación de vacunas (por ejemplo, antigripal, neumocócica) a la consulta cardiológica de rutina.",
-      "destacado": false
-    },
-    "2e05ce8f976b": {
-      "resumen": "Artículo de opinión en JACC (Journal of the American College of Cardiology) sobre el modelo ACCESS y el rol del cardiólogo en el cuidado integrado del síndrome cardiovascular-renal-metabólico (CKM, cardiovascular-kidney-metabolic), un concepto en auge que combina riesgo cardiovascular, enfermedad renal crónica y trastornos metabólicos. Sirve para pensar cómo se reorganiza la práctica clínica frente a este enfoque integrado.",
-      "destacado": false
-    },
-    "7e20a14df3ef": {
-      "resumen": "Artículo de JACC que plantea la necesidad de modelos de atención interdisciplinaria para el síndrome cardiovascular-renal-metabólico (CKM), en lugar de la atención fragmentada actual entre cardiología, nefrología y endocrinología. Es útil para pensar el trabajo en equipo frente a un paciente cada vez más complejo y comórbido.",
-      "destacado": false
-    },
-    "584ca2fc6c22": {
-      "resumen": "Artículo de JACC que revisa qué intervenciones sobre los determinantes sociales de la salud realmente funcionan (y cuáles no) en pacientes con síndrome cardiovascular-renal-metabólico (CKM). Interesa porque pone el foco en factores más allá de lo biológico —acceso, vivienda, ingresos— que condicionan el pronóstico cardiovascular.",
+    "2f591bce25d2": {
+      "resumen": "Declaración científica 2026 del Colegio Americano de Cardiología (ACC, American College of Cardiology) sobre el deterioro cognitivo y la fragilidad en adultos mayores con enfermedad cardiovascular. Vale la pena porque ordena cómo evaluar estos dos factores —cada vez más frecuentes en la población añosa— a la hora de decidir tratamientos e intervenciones cardiológicas.",
       "destacado": false
     },
     "47dad8765b5b": {
@@ -45,54 +24,84 @@
       "resumen": "Segmento 'On Record' de TCTMD que repasa el estado actual de la implantación valvular aórtica transcatéter (TAVI, transcatheter aortic valve implantation) en pacientes con estenosis aórtica asintomática. Sirve para actualizarse sobre un debate abierto: si conviene intervenir tempranamente en estenosis aórtica grave sin síntomas o mantener la conducta expectante.",
       "destacado": false
     },
-    "1840c23ae0fc": {
-      "resumen": "Relato en primera persona de alguien que construyó sus primeros modelos con dbt (data build tool, herramienta de transformación de datos) y descubrió que cargar los datos es apenas el comienzo: falta modelarlos, testearlos y documentarlos para que sean realmente utilizables. Le sirve a un médico que aprende análisis de datos porque ilustra por qué tener datos disponibles no alcanza para que estén listos para el análisis (\"analysis-ready\").",
+    "380bd84ff6e4": {
+      "resumen": "Artículo del European Heart Journal (EHJ) que repasa el debate en curso entre el reemplazo valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation) y el reemplazo valvular aórtico quirúrgico (SAVR, surgical aortic valve replacement) para la estenosis aórtica. Vale la pena porque sintetiza hacia dónde se inclina la evidencia acumulada y ayuda a actualizar el criterio de elección de técnica en cada perfil de paciente.",
+      "destacado": false
+    },
+    "771a19e87353": {
+      "resumen": "Nota de TCTMD sobre una iniciativa de mejora de calidad (quality-improvement initiative) que logró aumentar el uso de guía por imagen intracoronaria durante la angioplastia coronaria percutánea (PCI, percutaneous coronary intervention). Interesa porque la imagen intracoronaria (ecografía intravascular o tomografía de coherencia óptica) mejora los resultados del intervencionismo complejo pero sigue subutilizada en la práctica real.",
+      "destacado": false,
+      "analisis": "Diseño: Se infiere, a partir del título, un estudio o proyecto de mejora de calidad (quality-improvement initiative) que evalúa el impacto de una intervención organizacional sobre la adopción del intervencionismo coronario percutáneo (PCI, percutaneous coronary intervention) guiado por imagen; sin abstract no hay datos sobre aleatorización, ciego, número de centros ni de pacientes.\nPoblación: No especificada en el título disponible; presumiblemente centros o programas de hemodinamia que participaron de la iniciativa.\nIntervención: Implementación de una iniciativa de mejora de calidad orientada a incrementar el uso de guía por imagen intracoronaria (por ejemplo, ecografía intravascular o tomografía de coherencia óptica) durante la angioplastia coronaria, comparada implícitamente con la práctica previa sin esa iniciativa.\nResultados: El título indica que la iniciativa \"impulsa\" (spurs) el uso de PCI guiado por imagen; no se dispone de cifras (porcentaje de adopción, razones de riesgo, intervalos de confianza, valor de p).\nLimitaciones: Sin abstract no se puede evaluar el diseño (antes-después vs. controlado), el tamaño de la muestra, el tiempo de seguimiento ni si se midieron desenlaces clínicos además de la adopción del proceso.\nMensaje: Si se confirma, respalda que las iniciativas estructuradas de mejora de calidad pueden aumentar la adopción de guía por imagen en PCI, una práctica asociada a mejores resultados en intervencionismo coronario complejo, aunque falta ver si esto se traduce en menos eventos clínicos.\nNota: análisis sin acceso al abstract."
+    },
+    "a72b0127599a": {
+      "resumen": "Declaración científica de la American Heart Association (AHA) sobre el manejo del shock cardiogénico pediátrico: abordaje clínico, cómo mejorar los resultados y hacia dónde va la investigación. Interesa como puesta al día integral de un cuadro grave y poco frecuente, más relevante para quienes atienden población pediátrica o comparten guardia con cardiología infantil.",
+      "destacado": false
+    },
+    "60eca4e0f44a": {
+      "resumen": "Guía clínica concisa 2026 del Colegio Americano de Cardiología (ACC, American College of Cardiology) sobre el rol de la vacunación del adulto como parte del cuidado cardiovascular. Es una herramienta práctica para incorporar la indicación de vacunas (por ejemplo, antigripal, neumocócica) a la consulta cardiológica de rutina.",
+      "destacado": false
+    },
+    "2e05ce8f976b": {
+      "resumen": "Artículo de opinión en JACC (Journal of the American College of Cardiology) sobre el modelo ACCESS y el rol del cardiólogo en el cuidado integrado del síndrome cardiovascular-renal-metabólico (CKM, cardiovascular-kidney-metabolic), un concepto en auge que combina riesgo cardiovascular, enfermedad renal crónica y trastornos metabólicos. Sirve para pensar cómo se reorganiza la práctica clínica frente a este enfoque integrado.",
+      "destacado": false
+    },
+    "7e20a14df3ef": {
+      "resumen": "Artículo de JACC que plantea la necesidad de modelos de atención interdisciplinaria para el síndrome cardiovascular-renal-metabólico (CKM), en lugar de la atención fragmentada actual entre cardiología, nefrología y endocrinología. Es útil para pensar el trabajo en equipo frente a un paciente cada vez más complejo y comórbido.",
+      "destacado": false
+    },
+    "97074bfbbffb": {
+      "resumen": "Análisis del COMBINE-AF, una base combinada de datos de pacientes individuales de los grandes ensayos de anticoagulantes orales directos (ACOD) en fibrilación auricular (FA), que estudia la incidencia y los predictores de sangrado extracraneal en pacientes anticoagulados para prevención de accidente cerebrovascular (ACV). Vale la pena porque ayuda a identificar qué pacientes con FA anticoagulados tienen más riesgo de sangrar fuera del cerebro, un dato clave para el seguimiento clínico.",
+      "destacado": false,
+      "analisis": "Diseño: Análisis secundario (pooled analysis) del proyecto COMBINE-AF, que combina datos de pacientes individuales de los grandes ensayos aleatorizados de anticoagulantes orales directos (ACOD) frente a warfarina en fibrilación auricular (FA); no se cuenta con el abstract, por lo que no hay precisión sobre el número exacto de pacientes incluidos ni el método estadístico de ajuste.\nPoblación: Se infiere del título una población de pacientes con fibrilación auricular (FA) tratados con anticoagulantes orales para prevención de accidente cerebrovascular (ACV), provenientes de los ensayos pivotales de ACOD incluidos en COMBINE-AF; sin abstract no hay precisión sobre criterios de inclusión y exclusión específicos.\nIntervención: Tratamiento anticoagulante oral (se infiere que incluye distintos anticoagulantes orales directos y posiblemente warfarina como comparador, dado el diseño habitual de COMBINE-AF), evaluando la incidencia de sangrado extracraneal según distintas variables predictoras.\nResultados: El título indica que el análisis reporta la incidencia y los predictores de sangrado extracraneal; no se dispone de cifras (incidencia puntual, razones de riesgo, intervalos de confianza, valor de p) al no contar con el abstract.\nLimitaciones: Al ser un análisis combinado post hoc de ensayos con diseños y poblaciones no idénticas, existe heterogeneidad entre estudios; sin abstract no se puede evaluar el método de ajuste estadístico ni si se validaron los predictores identificados en una cohorte externa.\nMensaje: Si se confirma, este análisis ayuda a afinar la estratificación del riesgo de sangrado extracraneal en pacientes con FA anticoagulados, complementando los puntajes de riesgo hemorrágico habituales y orientando el seguimiento clínico, aunque conviene revisar el trabajo completo antes de cambiar conductas.\nNota: análisis sin acceso al abstract."
+    },
+    "9a1541aa610f": {
+      "resumen": "Artículo de Towards Data Science sobre cómo optimizar el pipeline de integración y despliegue continuo (CI/CD, continuous integration/continuous deployment) al trabajar con agentes de programación como Claude Code. Le sirve a un médico que aprende análisis de datos porque enseña buenas prácticas para llevar código de análisis a producción de forma más segura y ordenada.",
+      "destacado": false
+    },
+    "204a8c5a001f": {
+      "resumen": "KDnuggets presenta un eBook gratuito dirigido a directivos que explica, en términos ejecutivos, de qué están hechos los sistemas de inteligencia artificial (IA) agéntica —agentes que actúan de forma autónoma encadenando tareas—. Le sirve a un médico que aprende análisis de datos como introducción conceptual clara antes de meterse con herramientas técnicas.",
+      "destacado": false
+    },
+    "a43807efb088": {
+      "resumen": "Presentación en Hacker News de Ante, un agente de programación que corre offline empaquetado en un único binario, sin depender de servicios en la nube. Le sirve a un médico que aprende análisis de datos como alternativa liviana para experimentar con asistentes de código sin exponer datos sensibles a internet.",
+      "destacado": false
+    },
+    "19a863a423a8": {
+      "resumen": "Nota técnica del Servicio Geológico de Estados Unidos (USGS) sobre el terremoto de magnitud 7,4 registrado en Colombia, que llegó a los primeros puestos de Hacker News por el interés general del evento. No aporta contenido de ciencia de datos: para el contexto completo del sismo conviene ver la cobertura en las secciones de Argentina e Internacional de esta edición.",
+      "destacado": false
+    },
+    "735e9e44b880": {
+      "resumen": "Curiosidad viral de la BBC —que trepó en Hacker News por su interés general— sobre una barra de chocolate Mars de 1991 hallada intacta, 20 gramos más pesada que la versión actual. No tiene relación con ciencia de datos ni cardiología; llegó a esta sección solo por ser tendencia en Hacker News.",
+      "destacado": false
+    },
+    "16e553438a5c": {
+      "resumen": "Artículo de Towards Data Science que explica por qué darle a un agente de inteligencia artificial (IA) acceso a un almacén de datos (data warehouse) no alcanza para que lo use bien: hay que enseñarle qué significan los datos y cuándo son confiables. Le sirve a un médico que aprende análisis de datos porque plantea, de forma accesible, los cuidados de calidad y contexto que hacen falta antes de automatizar el análisis con IA.",
       "destacado": true
     },
-    "707c4b012898": {
-      "resumen": "Consulta en el foro r/datascience de alguien que usó inteligencia artificial (IA) por primera vez para una tarea de análisis y pide consejo a la comunidad sobre cómo seguir. Le sirve a quien está empezando en ciencia de datos porque refleja dudas típicas del primer contacto con estas herramientas, y las respuestas suelen traer recomendaciones prácticas de gente con más experiencia.",
+    "7c784dd3821a": {
+      "resumen": "Nota del Financial Times sobre el giro de Meta hacia los modelos de inteligencia artificial (IA) de código abierto (open source), con críticas de Mark Zuckerberg a los competidores que mantienen sus modelos cerrados. Le sirve a un médico que aprende análisis de datos para entender el panorama de opciones —abiertas versus cerradas— a la hora de elegir qué modelo de IA usar.",
       "destacado": false
     },
-    "236b8888a613": {
-      "resumen": "Agustín Creevy habla del miedo al retiro, del peso de ser el capitán de Los Pumas y de la decisión que marcó un antes y un después en su carrera."
-    },
-    "cc5304bbd59d": {
-      "resumen": "Un repaso de los partidos que le quedan a Los Pumas en lo que resta de la temporada."
-    },
-    "e98eda896513": {
-      "resumen": "Rassie Erasmus, entrenador de los Springboks, felicitó a Los Pumas y contó sus sensaciones tras la ajustada victoria de Sudáfrica."
-    },
-    "778cdf77949a": {
-      "resumen": "Docker presentó Docker Sandboxes, entornos aislados y descartables pensados para que agentes de inteligencia artificial (IA) ejecuten código de forma segura. Le sirve a un médico que aprende análisis de datos porque muestra una forma práctica de probar herramientas o scripts de IA sin arriesgar la propia computadora ni los datos.",
+    "4592c6c41ca4": {
+      "resumen": "KDnuggets propone la 'ingeniería de especificaciones' (specification engineering) como la habilidad que sigue a la ingeniería de prompts: en vez de solo saber preguntarle bien a la inteligencia artificial (IA), aprender a definir con precisión qué trabajo se espera que haga. Le sirve a un médico que aprende análisis de datos porque da un marco práctico para pedirle tareas de análisis a una IA con menos ambigüedad y mejores resultados.",
       "destacado": false
     },
-    "fb3ff9e39790": {
-      "resumen": "Hilo semanal del foro r/datascience donde quienes están entrando o haciendo la transición hacia la ciencia de datos comparten dudas y piden consejo a la comunidad. Le sirve a un médico en transición hacia el análisis de datos porque es un espacio concreto para preguntar y ver qué caminos siguieron personas con un perfil similar.",
+    "517dc353077e": {
+      "resumen": "Explicación matemática de los autoencoders variacionales (VAE, variational autoencoders), un tipo de red neuronal que aprende a generar nuevos datos, cubriendo el límite inferior de la evidencia (ELBO, evidence lower bound) y el truco de reparametrización. Le sirve a un médico que aprende análisis de datos como puerta de entrada a los modelos generativos, aunque requiere una base de matemática y aprendizaje automático (machine learning) previa.",
       "destacado": false
     },
-    "15e161b5f7dd": {
-      "resumen": "Anthropic convirtió el modo automático (auto mode) en la configuración predeterminada de Claude Code, su herramienta de programación asistida por inteligencia artificial (IA). Le sirve a un médico que aprende análisis de datos porque simplifica el uso cotidiano de estas herramientas para escribir y depurar código sin tener que elegir manualmente el modelo o el nivel de autonomía.",
+    "0ebf5b7aa1c2": {
+      "resumen": "Listado de KDnuggets con diez referentes de inteligencia artificial (IA) que están marcando la agenda en 2026, desde la seguridad de la superinteligencia hasta la búsqueda nativa en IA. Le sirve a un médico que aprende análisis de datos para saber a quién seguir y mantenerse al tanto de las discusiones relevantes del campo.",
       "destacado": false
     },
-    "e7ebeed4c782": {
-      "resumen": "Artículo que analiza qué pasó con HackerOne, la plataforma de referencia para reportar vulnerabilidades de seguridad informática (bug bounty). Le sirve a un médico que aprende análisis de datos porque introduce, a partir de un caso concreto, nociones básicas de seguridad informática relevantes al manejar datos y sistemas.",
-      "destacado": false
+    "0bd86555a09e": {
+      "resumen": "Pese a la derrota ante los Springboks, la prensa sudafricana eligió tres nombres de Los Pumas para destacar del partido."
     },
-    "c1b15acb0193": {
-      "resumen": "Simon Willison, referente en inteligencia artificial aplicada, comparte y comenta una cita vinculada a 'OpenClaw'. Le sirve a un médico que aprende análisis de datos como forma de mantenerse al tanto de las discusiones que circulan en la comunidad de inteligencia artificial.",
-      "destacado": false
+    "aa75f715ff6d": {
+      "resumen": "Se confirmaron las sedes donde Argentina XV disputará el Americas Rugby Championship."
     },
-    "b9793ca1b93b": {
-      "resumen": "Simon Willison, referente en inteligencia artificial aplicada, comparte y comenta un fragmento del system prompt (las instrucciones internas que guían el comportamiento) del modelo Claude Opus 5. Le sirve a un médico que aprende análisis de datos porque muestra, en la práctica, cómo se diseñan las instrucciones que condicionan el comportamiento de un modelo de lenguaje de gran escala (LLM, large language model).",
-      "destacado": false
-    },
-    "1aa79843a752": {
-      "resumen": "Simon Willison, referente en inteligencia artificial aplicada, cuenta que GitHub Models, el servicio de GitHub para probar modelos de inteligencia artificial, dejó de estar disponible. Le sirve a un médico que aprende análisis de datos como recordatorio de que las herramientas de este ecosistema cambian rápido y conviene no depender de una sola para experimentar con modelos.",
-      "destacado": false
-    },
-    "e75ec7ce3275": {
-      "resumen": "Artículo que relata la desaparición de los medios especializados en música de Nueva Zelanda y describe el proyecto que sus autores están construyendo para reemplazarlos. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo un equipo diseña desde cero una nueva plataforma de datos cuando desaparecen las fuentes tradicionales.",
-      "destacado": false
+    "b1469f4ad9a8": {
+      "resumen": "Los Pumas perdieron 17-10 ante los Springboks en el estadio José Amalfitani de Vélez, por la Copa Visa Galicia."
     }
   }
 }

@@ -1,6 +1,10 @@
 {
-  "generated_at": "2026-08-11T10:05:56Z",
+  "generated_at": "2026-08-11T22:05:00Z",
   "summaries": {
+    "e1c629c1843c": {
+      "resumen": "Cobertura de TCTMD sobre la declaración científica 2026 del Colegio Americano de Cardiología (ACC, American College of Cardiology) acerca del deterioro cognitivo y la fragilidad en adultos mayores con enfermedad cardiovascular. Traduce a lenguaje más llano los puntos clave del documento original, útil para incorporarlos rápido a la práctica diaria sin leer el statement completo.",
+      "destacado": false
+    },
     "2f591bce25d2": {
       "resumen": "Declaración científica 2026 del Colegio Americano de Cardiología (ACC, American College of Cardiology) sobre el deterioro cognitivo y la fragilidad en adultos mayores con enfermedad cardiovascular. Vale la pena porque ordena cómo evaluar estos dos factores —cada vez más frecuentes en la población añosa— a la hora de decidir tratamientos e intervenciones cardiológicas.",
       "destacado": false
@@ -28,11 +32,6 @@
       "resumen": "Artículo del European Heart Journal (EHJ) que repasa el debate en curso entre el reemplazo valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation) y el reemplazo valvular aórtico quirúrgico (SAVR, surgical aortic valve replacement) para la estenosis aórtica. Vale la pena porque sintetiza hacia dónde se inclina la evidencia acumulada y ayuda a actualizar el criterio de elección de técnica en cada perfil de paciente.",
       "destacado": false
     },
-    "771a19e87353": {
-      "resumen": "Nota de TCTMD sobre una iniciativa de mejora de calidad (quality-improvement initiative) que logró aumentar el uso de guía por imagen intracoronaria durante la angioplastia coronaria percutánea (PCI, percutaneous coronary intervention). Interesa porque la imagen intracoronaria (ecografía intravascular o tomografía de coherencia óptica) mejora los resultados del intervencionismo complejo pero sigue subutilizada en la práctica real.",
-      "destacado": false,
-      "analisis": "Diseño: Se infiere, a partir del título, un estudio o proyecto de mejora de calidad (quality-improvement initiative) que evalúa el impacto de una intervención organizacional sobre la adopción del intervencionismo coronario percutáneo (PCI, percutaneous coronary intervention) guiado por imagen; sin abstract no hay datos sobre aleatorización, ciego, número de centros ni de pacientes.\nPoblación: No especificada en el título disponible; presumiblemente centros o programas de hemodinamia que participaron de la iniciativa.\nIntervención: Implementación de una iniciativa de mejora de calidad orientada a incrementar el uso de guía por imagen intracoronaria (por ejemplo, ecografía intravascular o tomografía de coherencia óptica) durante la angioplastia coronaria, comparada implícitamente con la práctica previa sin esa iniciativa.\nResultados: El título indica que la iniciativa \"impulsa\" (spurs) el uso de PCI guiado por imagen; no se dispone de cifras (porcentaje de adopción, razones de riesgo, intervalos de confianza, valor de p).\nLimitaciones: Sin abstract no se puede evaluar el diseño (antes-después vs. controlado), el tamaño de la muestra, el tiempo de seguimiento ni si se midieron desenlaces clínicos además de la adopción del proceso.\nMensaje: Si se confirma, respalda que las iniciativas estructuradas de mejora de calidad pueden aumentar la adopción de guía por imagen en PCI, una práctica asociada a mejores resultados en intervencionismo coronario complejo, aunque falta ver si esto se traduce en menos eventos clínicos.\nNota: análisis sin acceso al abstract."
-    },
     "60eca4e0f44a": {
       "resumen": "Guía clínica concisa 2026 del Colegio Americano de Cardiología (ACC, American College of Cardiology) sobre el rol de la vacunación del adulto como parte del cuidado cardiovascular. Es una herramienta práctica para incorporar la indicación de vacunas (por ejemplo, antigripal, neumocócica) a la consulta cardiológica de rutina.",
       "destacado": false
@@ -45,57 +44,54 @@
       "resumen": "Artículo de JACC que plantea la necesidad de modelos de atención interdisciplinaria para el síndrome cardiovascular-renal-metabólico (CKM), en lugar de la atención fragmentada actual entre cardiología, nefrología y endocrinología. Es útil para pensar el trabajo en equipo frente a un paciente cada vez más complejo y comórbido.",
       "destacado": false
     },
-    "9a1541aa610f": {
-      "resumen": "Artículo de Towards Data Science sobre cómo optimizar el pipeline de integración y despliegue continuo (CI/CD, continuous integration/continuous deployment) al trabajar con agentes de programación como Claude Code. Le sirve a un médico que aprende análisis de datos porque enseña buenas prácticas para llevar código de análisis a producción de forma más segura y ordenada.",
+    "e29a45fb4b3c": {
+      "resumen": "Post del blog de desarrolladores de Google que argumenta por qué el lenguaje de programación Go resulta particularmente apto para la ingeniería de software asistida por inteligencia artificial (IA), gracias a su sintaxis simple y su tipado explícito, que facilitan que los asistentes de IA generen código correcto. Le sirve a un médico que aprende análisis de datos para pensar qué características de un lenguaje lo hacen más amigable a la hora de trabajar en conjunto con herramientas de IA generativa.",
       "destacado": false
     },
-    "204a8c5a001f": {
-      "resumen": "KDnuggets presenta un eBook gratuito dirigido a directivos que explica, en términos ejecutivos, de qué están hechos los sistemas de inteligencia artificial (IA) agéntica —agentes que actúan de forma autónoma encadenando tareas—. Le sirve a un médico que aprende análisis de datos como introducción conceptual clara antes de meterse con herramientas técnicas.",
+    "5a70573ea4d6": {
+      "resumen": "Modular anunció la versión 1.0 de Mojo, un lenguaje de programación pensado para inteligencia artificial (IA) que busca combinar la simplicidad de Python con el rendimiento de lenguajes compilados como C++. Le sirve a un médico que aprende análisis de datos como alternativa a tener en el radar si en el futuro necesita acelerar cálculos pesados sin abandonar una sintaxis accesible tipo Python.",
       "destacado": false
     },
-    "16e553438a5c": {
-      "resumen": "Artículo de Towards Data Science que explica por qué darle a un agente de inteligencia artificial (IA) acceso a un almacén de datos (data warehouse) no alcanza para que lo use bien: hay que enseñarle qué significan los datos y cuándo son confiables. Le sirve a un médico que aprende análisis de datos porque plantea, de forma accesible, los cuidados de calidad y contexto que hacen falta antes de automatizar el análisis con IA.",
+    "6621e2fa1863": {
+      "resumen": "Hilo de la comunidad r/datascience donde alguien intenta explicar el método de Monte Carlo vía cadenas de Markov (MCMC, Markov Chain Monte Carlo) con un enfoque de escritura creativa, y pide devolución de la comunidad. Le sirve a un médico que aprende análisis de datos porque el MCMC es la base de buena parte de la inferencia bayesiana moderna, y ver intentos didácticos alternativos ayuda a construir la intuición detrás del método.",
+      "destacado": false
+    },
+    "3667ebe9502d": {
+      "resumen": "Artículo de Towards Data Science que advierte sobre el error de declarar ganador a un test A/B apenas el valor de p cruza el umbral de significancia por primera vez, sin tener en cuenta el problema de las comparaciones múltiples ni la variabilidad a lo largo del tiempo. Le sirve a un médico que aprende análisis de datos porque ese mismo error de \"espiar\" los datos y frenar apenas aparece significancia es habitual también al analizar estudios clínicos y ensayos, y puede llevar a conclusiones falsas.",
       "destacado": true
     },
-    "4592c6c41ca4": {
-      "resumen": "KDnuggets propone la 'ingeniería de especificaciones' (specification engineering) como la habilidad que sigue a la ingeniería de prompts: en vez de solo saber preguntarle bien a la inteligencia artificial (IA), aprender a definir con precisión qué trabajo se espera que haga. Le sirve a un médico que aprende análisis de datos porque da un marco práctico para pedirle tareas de análisis a una IA con menos ambigüedad y mejores resultados.",
+    "c5702709cec1": {
+      "resumen": "Herramienta de código abierto mostrada en Hacker News que permite editar mensajes de commit, autores y fechas del historial de Git como si fuera una planilla de cálculo. Le sirve a un médico que aprende análisis de datos porque ordenar y prolijar el historial de versiones de un proyecto facilita después reconstruir qué cambió y cuándo en un análisis.",
       "destacado": false
     },
-    "37f65da2a43c": {
-      "resumen": "Hilo de la comunidad r/datascience con consejos prácticos para sacarle información y conocimiento tácito a colegas (documentación no escrita, decisiones históricas, contexto de negocio) al llegar a un equipo nuevo. Le sirve a un médico que aprende análisis de datos porque gran parte del trabajo real de un científico de datos pasa por entender el contexto detrás de los datos, no solo programar.",
+    "170612fa69aa": {
+      "resumen": "Artículo de Towards Data Science que compara las bibliotecas de Python Pandas y Polars para manipular datos, y discute en qué escenarios conviene priorizar una sobre la otra al desarrollar herramientas con inteligencia artificial (IA). Le sirve a un médico que aprende análisis de datos porque Pandas es la puerta de entrada más habitual y Polars ofrece mejor rendimiento con bases grandes, algo a tener en cuenta cuando los datasets clínicos crecen.",
       "destacado": false
     },
-    "8797c3b659bb": {
-      "resumen": "Proyecto de código abierto en GitHub (del desarrollador conocido como antirez) que permite correr el modelo de lenguaje MiniMax-H3 de forma nativa y eficiente en chips Apple Silicon, sin depender de servidores en la nube. Le sirve a un médico que aprende análisis de datos porque muestra una vía concreta para experimentar con inteligencia artificial (IA) local, sin costos de API ni exposición de datos sensibles a terceros.",
+    "800ebb0d7846": {
+      "resumen": "Entrada técnica que explica cómo lograr acceso directo a la placa de video (GPU passthrough) en máquinas virtuales de macOS sobre chips Apple Silicon, para acelerar la inferencia de modelos de lenguaje (LLM, large language model) con la herramienta llama.cpp. Le sirve a un médico que aprende análisis de datos y usa una Mac como referencia técnica para correr modelos de inteligencia artificial (IA) de forma local y privada, sin depender de servicios en la nube.",
       "destacado": false
     },
-    "0bc06db0f4ed": {
-      "resumen": "Notas de la versión 6.0 de Chicken Scheme, una implementación del lenguaje de programación Scheme (un dialecto de Lisp) que compila a código C. Es una noticia de nicho para programadores, con aplicación directa limitada al análisis de datos clínicos, pero sirve para tomar contacto con la diversidad de lenguajes y herramientas que maneja la comunidad de desarrollo de software.",
+    "088b24a253f2": {
+      "resumen": "Guía de KDnuggets que explica paso a paso cómo empezar a contribuir a proyectos de código abierto (open source): cómo elegir un proyecto que responda, la mecánica de Git necesaria y las buenas prácticas para que la primera contribución sea aceptada. Le sirve a un médico que aprende análisis de datos porque contribuir a proyectos abiertos es una forma concreta de practicar con herramientas reales y sumar experiencia verificable.",
       "destacado": false
     },
-    "8aaf1cb28862": {
-      "resumen": "Simon Willison, uno de los referentes más seguidos en inteligencia artificial (IA) aplicada, presenta en su blog una herramienta o modelo nuevo llamado 'Muse Glimmer'; sin acceso al artículo completo no se pueden precisar sus funciones específicas. Le sirve a un médico que aprende análisis de datos como puerta de entrada a evaluaciones tempranas y confiables de novedades de IA antes de que se masifiquen.",
+    "ef36fe9240a8": {
+      "resumen": "Artículo de Towards Data Science sobre cómo repartir un presupuesto entre distintos objetivos sin perder de vista los \"precios sombra\" (shadow prices), que explican cuánto vale marginalmente cada recurso en un problema de optimización. Le sirve a un médico que aprende análisis de datos como introducción accesible a conceptos de optimización matemática, aplicables por ejemplo a la asignación de recursos sanitarios limitados.",
       "destacado": false
     },
-    "a50b7e9d346a": {
-      "resumen": "Nota que analiza cómo las leyes británicas de verificación de identidad online —pensadas para restringir el acceso anónimo en nombre de la protección de menores— empiezan a replicarse en Estados Unidos. Le sirve a un médico que aprende análisis de datos porque toca de lleno el debate sobre privacidad, anonimización y regulación del acceso a la información, algo central al manejar datos sensibles.",
+    "9209c10739f5": {
+      "resumen": "Artículo de KDnuggets que muestra tres demostraciones visuales del teorema central del límite (CLT, central limit theorem): la idea de que la suma de muchas variables aleatorias tiende a una distribución normal (curva de campana), sin importar la distribución original. Le sirve a un médico que aprende análisis de datos porque ese teorema es la base que justifica usar pruebas estadísticas clásicas (como la t de Student) en investigación clínica.",
       "destacado": false
     },
-    "7d6440dd3953": {
-      "resumen": "Proyecto 'Show HN' que permite navegar visualmente por el enorme espacio de estados posibles del cubo Rubik (más de 43 trillones de combinaciones). Le sirve a un médico que aprende análisis de datos como ejemplo lúdico de cómo representar y explorar espacios combinatorios y de alta dimensionalidad, un problema que también aparece en genómica o en modelos de aprendizaje automático.",
-      "destacado": false
+    "fa787973d984": {
+      "resumen": "Una lesión dejará afuera del amistoso ante Japón a una joven promesa australiana, con dudas sobre si llegará a jugar frente a Los Pumas."
     },
-    "f44507b2f4fa": {
-      "resumen": "Entradas para ver a Los Pumas ante Australia en Jujuy y Mendoza: cuánto cuestan y cómo conseguirlas."
+    "16e5263b3a65": {
+      "resumen": "Desde Córdoba XV destacan que los jugadores debutantes que pasaron por el Súper Rugby Américas respondieron bien en cada estreno."
     },
-    "9258162e5d81": {
-      "resumen": "Los Pumas perdieron ante los Springboks de Sudáfrica en su presentación en el estadio de Vélez."
-    },
-    "fe35907d4842": {
-      "resumen": "Álvaro Galindo habla del nuevo desafío al frente de Argentina XV, el equipo que busca ser la cantera de Los Pumas."
-    },
-    "af9c5e115781": {
-      "resumen": "Calendario de pagos de ANSES: quiénes cobran este martes 11 de agosto de 2026."
+    "ec1c25ecff2c": {
+      "resumen": "Álvaro Galindo remarcó que Argentina XV puede ser trampolín hacia Los Pumas, de cara al amistoso que se viene."
     }
   }
 }

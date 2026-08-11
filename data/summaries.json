@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T22:06:03Z",
+  "generated_at": "2026-08-11T10:05:56Z",
   "summaries": {
     "2f591bce25d2": {
       "resumen": "Declaración científica 2026 del Colegio Americano de Cardiología (ACC, American College of Cardiology) sobre el deterioro cognitivo y la fragilidad en adultos mayores con enfermedad cardiovascular. Vale la pena porque ordena cómo evaluar estos dos factores —cada vez más frecuentes en la población añosa— a la hora de decidir tratamientos e intervenciones cardiológicas.",
@@ -33,10 +33,6 @@
       "destacado": false,
       "analisis": "Diseño: Se infiere, a partir del título, un estudio o proyecto de mejora de calidad (quality-improvement initiative) que evalúa el impacto de una intervención organizacional sobre la adopción del intervencionismo coronario percutáneo (PCI, percutaneous coronary intervention) guiado por imagen; sin abstract no hay datos sobre aleatorización, ciego, número de centros ni de pacientes.\nPoblación: No especificada en el título disponible; presumiblemente centros o programas de hemodinamia que participaron de la iniciativa.\nIntervención: Implementación de una iniciativa de mejora de calidad orientada a incrementar el uso de guía por imagen intracoronaria (por ejemplo, ecografía intravascular o tomografía de coherencia óptica) durante la angioplastia coronaria, comparada implícitamente con la práctica previa sin esa iniciativa.\nResultados: El título indica que la iniciativa \"impulsa\" (spurs) el uso de PCI guiado por imagen; no se dispone de cifras (porcentaje de adopción, razones de riesgo, intervalos de confianza, valor de p).\nLimitaciones: Sin abstract no se puede evaluar el diseño (antes-después vs. controlado), el tamaño de la muestra, el tiempo de seguimiento ni si se midieron desenlaces clínicos además de la adopción del proceso.\nMensaje: Si se confirma, respalda que las iniciativas estructuradas de mejora de calidad pueden aumentar la adopción de guía por imagen en PCI, una práctica asociada a mejores resultados en intervencionismo coronario complejo, aunque falta ver si esto se traduce en menos eventos clínicos.\nNota: análisis sin acceso al abstract."
     },
-    "a72b0127599a": {
-      "resumen": "Declaración científica de la American Heart Association (AHA) sobre el manejo del shock cardiogénico pediátrico: abordaje clínico, cómo mejorar los resultados y hacia dónde va la investigación. Interesa como puesta al día integral de un cuadro grave y poco frecuente, más relevante para quienes atienden población pediátrica o comparten guardia con cardiología infantil.",
-      "destacado": false
-    },
     "60eca4e0f44a": {
       "resumen": "Guía clínica concisa 2026 del Colegio Americano de Cardiología (ACC, American College of Cardiology) sobre el rol de la vacunación del adulto como parte del cuidado cardiovascular. Es una herramienta práctica para incorporar la indicación de vacunas (por ejemplo, antigripal, neumocócica) a la consulta cardiológica de rutina.",
       "destacado": false
@@ -49,11 +45,6 @@
       "resumen": "Artículo de JACC que plantea la necesidad de modelos de atención interdisciplinaria para el síndrome cardiovascular-renal-metabólico (CKM), en lugar de la atención fragmentada actual entre cardiología, nefrología y endocrinología. Es útil para pensar el trabajo en equipo frente a un paciente cada vez más complejo y comórbido.",
       "destacado": false
     },
-    "97074bfbbffb": {
-      "resumen": "Análisis del COMBINE-AF, una base combinada de datos de pacientes individuales de los grandes ensayos de anticoagulantes orales directos (ACOD) en fibrilación auricular (FA), que estudia la incidencia y los predictores de sangrado extracraneal en pacientes anticoagulados para prevención de accidente cerebrovascular (ACV). Vale la pena porque ayuda a identificar qué pacientes con FA anticoagulados tienen más riesgo de sangrar fuera del cerebro, un dato clave para el seguimiento clínico.",
-      "destacado": false,
-      "analisis": "Diseño: Análisis secundario (pooled analysis) del proyecto COMBINE-AF, que combina datos de pacientes individuales de los grandes ensayos aleatorizados de anticoagulantes orales directos (ACOD) frente a warfarina en fibrilación auricular (FA); no se cuenta con el abstract, por lo que no hay precisión sobre el número exacto de pacientes incluidos ni el método estadístico de ajuste.\nPoblación: Se infiere del título una población de pacientes con fibrilación auricular (FA) tratados con anticoagulantes orales para prevención de accidente cerebrovascular (ACV), provenientes de los ensayos pivotales de ACOD incluidos en COMBINE-AF; sin abstract no hay precisión sobre criterios de inclusión y exclusión específicos.\nIntervención: Tratamiento anticoagulante oral (se infiere que incluye distintos anticoagulantes orales directos y posiblemente warfarina como comparador, dado el diseño habitual de COMBINE-AF), evaluando la incidencia de sangrado extracraneal según distintas variables predictoras.\nResultados: El título indica que el análisis reporta la incidencia y los predictores de sangrado extracraneal; no se dispone de cifras (incidencia puntual, razones de riesgo, intervalos de confianza, valor de p) al no contar con el abstract.\nLimitaciones: Al ser un análisis combinado post hoc de ensayos con diseños y poblaciones no idénticas, existe heterogeneidad entre estudios; sin abstract no se puede evaluar el método de ajuste estadístico ni si se validaron los predictores identificados en una cohorte externa.\nMensaje: Si se confirma, este análisis ayuda a afinar la estratificación del riesgo de sangrado extracraneal en pacientes con FA anticoagulados, complementando los puntajes de riesgo hemorrágico habituales y orientando el seguimiento clínico, aunque conviene revisar el trabajo completo antes de cambiar conductas.\nNota: análisis sin acceso al abstract."
-    },
     "9a1541aa610f": {
       "resumen": "Artículo de Towards Data Science sobre cómo optimizar el pipeline de integración y despliegue continuo (CI/CD, continuous integration/continuous deployment) al trabajar con agentes de programación como Claude Code. Le sirve a un médico que aprende análisis de datos porque enseña buenas prácticas para llevar código de análisis a producción de forma más segura y ordenada.",
       "destacado": false
@@ -62,46 +53,49 @@
       "resumen": "KDnuggets presenta un eBook gratuito dirigido a directivos que explica, en términos ejecutivos, de qué están hechos los sistemas de inteligencia artificial (IA) agéntica —agentes que actúan de forma autónoma encadenando tareas—. Le sirve a un médico que aprende análisis de datos como introducción conceptual clara antes de meterse con herramientas técnicas.",
       "destacado": false
     },
-    "a43807efb088": {
-      "resumen": "Presentación en Hacker News de Ante, un agente de programación que corre offline empaquetado en un único binario, sin depender de servicios en la nube. Le sirve a un médico que aprende análisis de datos como alternativa liviana para experimentar con asistentes de código sin exponer datos sensibles a internet.",
-      "destacado": false
-    },
-    "19a863a423a8": {
-      "resumen": "Nota técnica del Servicio Geológico de Estados Unidos (USGS) sobre el terremoto de magnitud 7,4 registrado en Colombia, que llegó a los primeros puestos de Hacker News por el interés general del evento. No aporta contenido de ciencia de datos: para el contexto completo del sismo conviene ver la cobertura en las secciones de Argentina e Internacional de esta edición.",
-      "destacado": false
-    },
-    "735e9e44b880": {
-      "resumen": "Curiosidad viral de la BBC —que trepó en Hacker News por su interés general— sobre una barra de chocolate Mars de 1991 hallada intacta, 20 gramos más pesada que la versión actual. No tiene relación con ciencia de datos ni cardiología; llegó a esta sección solo por ser tendencia en Hacker News.",
-      "destacado": false
-    },
     "16e553438a5c": {
       "resumen": "Artículo de Towards Data Science que explica por qué darle a un agente de inteligencia artificial (IA) acceso a un almacén de datos (data warehouse) no alcanza para que lo use bien: hay que enseñarle qué significan los datos y cuándo son confiables. Le sirve a un médico que aprende análisis de datos porque plantea, de forma accesible, los cuidados de calidad y contexto que hacen falta antes de automatizar el análisis con IA.",
       "destacado": true
-    },
-    "7c784dd3821a": {
-      "resumen": "Nota del Financial Times sobre el giro de Meta hacia los modelos de inteligencia artificial (IA) de código abierto (open source), con críticas de Mark Zuckerberg a los competidores que mantienen sus modelos cerrados. Le sirve a un médico que aprende análisis de datos para entender el panorama de opciones —abiertas versus cerradas— a la hora de elegir qué modelo de IA usar.",
-      "destacado": false
     },
     "4592c6c41ca4": {
       "resumen": "KDnuggets propone la 'ingeniería de especificaciones' (specification engineering) como la habilidad que sigue a la ingeniería de prompts: en vez de solo saber preguntarle bien a la inteligencia artificial (IA), aprender a definir con precisión qué trabajo se espera que haga. Le sirve a un médico que aprende análisis de datos porque da un marco práctico para pedirle tareas de análisis a una IA con menos ambigüedad y mejores resultados.",
       "destacado": false
     },
-    "517dc353077e": {
-      "resumen": "Explicación matemática de los autoencoders variacionales (VAE, variational autoencoders), un tipo de red neuronal que aprende a generar nuevos datos, cubriendo el límite inferior de la evidencia (ELBO, evidence lower bound) y el truco de reparametrización. Le sirve a un médico que aprende análisis de datos como puerta de entrada a los modelos generativos, aunque requiere una base de matemática y aprendizaje automático (machine learning) previa.",
+    "37f65da2a43c": {
+      "resumen": "Hilo de la comunidad r/datascience con consejos prácticos para sacarle información y conocimiento tácito a colegas (documentación no escrita, decisiones históricas, contexto de negocio) al llegar a un equipo nuevo. Le sirve a un médico que aprende análisis de datos porque gran parte del trabajo real de un científico de datos pasa por entender el contexto detrás de los datos, no solo programar.",
       "destacado": false
     },
-    "0ebf5b7aa1c2": {
-      "resumen": "Listado de KDnuggets con diez referentes de inteligencia artificial (IA) que están marcando la agenda en 2026, desde la seguridad de la superinteligencia hasta la búsqueda nativa en IA. Le sirve a un médico que aprende análisis de datos para saber a quién seguir y mantenerse al tanto de las discusiones relevantes del campo.",
+    "8797c3b659bb": {
+      "resumen": "Proyecto de código abierto en GitHub (del desarrollador conocido como antirez) que permite correr el modelo de lenguaje MiniMax-H3 de forma nativa y eficiente en chips Apple Silicon, sin depender de servidores en la nube. Le sirve a un médico que aprende análisis de datos porque muestra una vía concreta para experimentar con inteligencia artificial (IA) local, sin costos de API ni exposición de datos sensibles a terceros.",
       "destacado": false
     },
-    "0bd86555a09e": {
-      "resumen": "Pese a la derrota ante los Springboks, la prensa sudafricana eligió tres nombres de Los Pumas para destacar del partido."
+    "0bc06db0f4ed": {
+      "resumen": "Notas de la versión 6.0 de Chicken Scheme, una implementación del lenguaje de programación Scheme (un dialecto de Lisp) que compila a código C. Es una noticia de nicho para programadores, con aplicación directa limitada al análisis de datos clínicos, pero sirve para tomar contacto con la diversidad de lenguajes y herramientas que maneja la comunidad de desarrollo de software.",
+      "destacado": false
     },
-    "aa75f715ff6d": {
-      "resumen": "Se confirmaron las sedes donde Argentina XV disputará el Americas Rugby Championship."
+    "8aaf1cb28862": {
+      "resumen": "Simon Willison, uno de los referentes más seguidos en inteligencia artificial (IA) aplicada, presenta en su blog una herramienta o modelo nuevo llamado 'Muse Glimmer'; sin acceso al artículo completo no se pueden precisar sus funciones específicas. Le sirve a un médico que aprende análisis de datos como puerta de entrada a evaluaciones tempranas y confiables de novedades de IA antes de que se masifiquen.",
+      "destacado": false
     },
-    "b1469f4ad9a8": {
-      "resumen": "Los Pumas perdieron 17-10 ante los Springboks en el estadio José Amalfitani de Vélez, por la Copa Visa Galicia."
+    "a50b7e9d346a": {
+      "resumen": "Nota que analiza cómo las leyes británicas de verificación de identidad online —pensadas para restringir el acceso anónimo en nombre de la protección de menores— empiezan a replicarse en Estados Unidos. Le sirve a un médico que aprende análisis de datos porque toca de lleno el debate sobre privacidad, anonimización y regulación del acceso a la información, algo central al manejar datos sensibles.",
+      "destacado": false
+    },
+    "7d6440dd3953": {
+      "resumen": "Proyecto 'Show HN' que permite navegar visualmente por el enorme espacio de estados posibles del cubo Rubik (más de 43 trillones de combinaciones). Le sirve a un médico que aprende análisis de datos como ejemplo lúdico de cómo representar y explorar espacios combinatorios y de alta dimensionalidad, un problema que también aparece en genómica o en modelos de aprendizaje automático.",
+      "destacado": false
+    },
+    "f44507b2f4fa": {
+      "resumen": "Entradas para ver a Los Pumas ante Australia en Jujuy y Mendoza: cuánto cuestan y cómo conseguirlas."
+    },
+    "9258162e5d81": {
+      "resumen": "Los Pumas perdieron ante los Springboks de Sudáfrica en su presentación en el estadio de Vélez."
+    },
+    "fe35907d4842": {
+      "resumen": "Álvaro Galindo habla del nuevo desafío al frente de Argentina XV, el equipo que busca ser la cantera de Los Pumas."
+    },
+    "af9c5e115781": {
+      "resumen": "Calendario de pagos de ANSES: quiénes cobran este martes 11 de agosto de 2026."
     }
   }
 }

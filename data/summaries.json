@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T22:05:00Z",
+  "generated_at": "2026-08-12T13:10:00Z",
   "summaries": {
     "e1c629c1843c": {
       "resumen": "Cobertura de TCTMD sobre la declaración científica 2026 del Colegio Americano de Cardiología (ACC, American College of Cardiology) acerca del deterioro cognitivo y la fragilidad en adultos mayores con enfermedad cardiovascular. Traduce a lenguaje más llano los puntos clave del documento original, útil para incorporarlos rápido a la práctica diaria sin leer el statement completo.",
@@ -44,54 +44,54 @@
       "resumen": "Artículo de JACC que plantea la necesidad de modelos de atención interdisciplinaria para el síndrome cardiovascular-renal-metabólico (CKM), en lugar de la atención fragmentada actual entre cardiología, nefrología y endocrinología. Es útil para pensar el trabajo en equipo frente a un paciente cada vez más complejo y comórbido.",
       "destacado": false
     },
-    "e29a45fb4b3c": {
-      "resumen": "Post del blog de desarrolladores de Google que argumenta por qué el lenguaje de programación Go resulta particularmente apto para la ingeniería de software asistida por inteligencia artificial (IA), gracias a su sintaxis simple y su tipado explícito, que facilitan que los asistentes de IA generen código correcto. Le sirve a un médico que aprende análisis de datos para pensar qué características de un lenguaje lo hacen más amigable a la hora de trabajar en conjunto con herramientas de IA generativa.",
-      "destacado": false
-    },
-    "5a70573ea4d6": {
-      "resumen": "Modular anunció la versión 1.0 de Mojo, un lenguaje de programación pensado para inteligencia artificial (IA) que busca combinar la simplicidad de Python con el rendimiento de lenguajes compilados como C++. Le sirve a un médico que aprende análisis de datos como alternativa a tener en el radar si en el futuro necesita acelerar cálculos pesados sin abandonar una sintaxis accesible tipo Python.",
-      "destacado": false
-    },
-    "6621e2fa1863": {
-      "resumen": "Hilo de la comunidad r/datascience donde alguien intenta explicar el método de Monte Carlo vía cadenas de Markov (MCMC, Markov Chain Monte Carlo) con un enfoque de escritura creativa, y pide devolución de la comunidad. Le sirve a un médico que aprende análisis de datos porque el MCMC es la base de buena parte de la inferencia bayesiana moderna, y ver intentos didácticos alternativos ayuda a construir la intuición detrás del método.",
-      "destacado": false
-    },
     "3667ebe9502d": {
       "resumen": "Artículo de Towards Data Science que advierte sobre el error de declarar ganador a un test A/B apenas el valor de p cruza el umbral de significancia por primera vez, sin tener en cuenta el problema de las comparaciones múltiples ni la variabilidad a lo largo del tiempo. Le sirve a un médico que aprende análisis de datos porque ese mismo error de \"espiar\" los datos y frenar apenas aparece significancia es habitual también al analizar estudios clínicos y ensayos, y puede llevar a conclusiones falsas.",
       "destacado": true
     },
-    "c5702709cec1": {
-      "resumen": "Herramienta de código abierto mostrada en Hacker News que permite editar mensajes de commit, autores y fechas del historial de Git como si fuera una planilla de cálculo. Le sirve a un médico que aprende análisis de datos porque ordenar y prolijar el historial de versiones de un proyecto facilita después reconstruir qué cambió y cuándo en un análisis.",
+    "a0486fcb3396": {
+      "resumen": "El capitán de los Springboks, Siya Kolisi, elogió el nivel actual de Los Pumas tras el partido entre ambas selecciones."
+    },
+    "f4e975f39a4f": {
+      "resumen": "Salió a la venta una lata especial de cerveza sin alcohol en homenaje a Los Pumas."
+    },
+    "a76a341bb0fa": {
+      "resumen": "CCU Argentina asoció su cerveza sin alcohol Imperial 0.0 a Los Pumas para promover el consumo consciente."
+    },
+    "cb6bf524df05": {
+      "resumen": "Proyecto humorístico difundido en Hacker News que, a juzgar por su nombre, parodia el estilo grandilocuente de los posteos motivacionales de LinkedIn. Le sirve a un médico que aprende análisis de datos como recordatorio informal: a la hora de comunicar resultados, la claridad y la honestidad pesan más que el efecto grandilocuente.",
       "destacado": false
     },
-    "170612fa69aa": {
-      "resumen": "Artículo de Towards Data Science que compara las bibliotecas de Python Pandas y Polars para manipular datos, y discute en qué escenarios conviene priorizar una sobre la otra al desarrollar herramientas con inteligencia artificial (IA). Le sirve a un médico que aprende análisis de datos porque Pandas es la puerta de entrada más habitual y Polars ofrece mejor rendimiento con bases grandes, algo a tener en cuenta cuando los datasets clínicos crecen.",
+    "1a8475db80d5": {
+      "resumen": "Publicación en Hacker News en torno a llama.cpp, el proyecto de código abierto que permite correr modelos de lenguaje grandes (LLM, large language model) de forma eficiente en CPU y GPU mediante cuantización. Le sirve a un médico que aprende análisis de datos porque es la puerta de entrada más común para experimentar con inteligencia artificial (IA) generativa de forma local, sin depender de servicios pagos en la nube.",
       "destacado": false
     },
-    "800ebb0d7846": {
-      "resumen": "Entrada técnica que explica cómo lograr acceso directo a la placa de video (GPU passthrough) en máquinas virtuales de macOS sobre chips Apple Silicon, para acelerar la inferencia de modelos de lenguaje (LLM, large language model) con la herramienta llama.cpp. Le sirve a un médico que aprende análisis de datos y usa una Mac como referencia técnica para correr modelos de inteligencia artificial (IA) de forma local y privada, sin depender de servicios en la nube.",
+    "3f816e1db11f": {
+      "resumen": "Hilo de la comunidad r/datascience donde alguien que trabaja en sistemas de ranking (ordenamiento de resultados, por ejemplo en buscadores o recomendadores) pregunta hasta qué punto estos modelos logran modificar el comportamiento real de los usuarios. Le sirve a un médico que aprende análisis de datos porque estos sistemas de recomendación usan los mismos principios estadísticos que luego sirven para predecir adherencia o riesgo en salud.",
       "destacado": false
     },
-    "088b24a253f2": {
-      "resumen": "Guía de KDnuggets que explica paso a paso cómo empezar a contribuir a proyectos de código abierto (open source): cómo elegir un proyecto que responda, la mecánica de Git necesaria y las buenas prácticas para que la primera contribución sea aceptada. Le sirve a un médico que aprende análisis de datos porque contribuir a proyectos abiertos es una forma concreta de practicar con herramientas reales y sumar experiencia verificable.",
+    "068da7e084f1": {
+      "resumen": "Ensayo publicado en Hacker News que plantea que, en los sistemas de inteligencia artificial (IA), el ser humano no debería pensarse como una simple verificación final sino como el centro del proceso (de ahí el juego con la expresión 'human in the loop', humano en el bucle). Le sirve a un médico que aprende análisis de datos porque describe justamente el rol que debería tener el profesional de salud frente a herramientas de IA: supervisar y decidir, no delegar sin criterio.",
       "destacado": false
     },
-    "ef36fe9240a8": {
-      "resumen": "Artículo de Towards Data Science sobre cómo repartir un presupuesto entre distintos objetivos sin perder de vista los \"precios sombra\" (shadow prices), que explican cuánto vale marginalmente cada recurso en un problema de optimización. Le sirve a un médico que aprende análisis de datos como introducción accesible a conceptos de optimización matemática, aplicables por ejemplo a la asignación de recursos sanitarios limitados.",
+    "4c9cd6774577": {
+      "resumen": "Publicación en r/datascience de una persona despedida tras cuatro años y medio como científica de datos senior, que pregunta cómo está el mercado laboral del rubro. Le sirve a un médico que aprende análisis de datos como termómetro informal de un mercado que, pese a la demanda de inteligencia artificial (IA), también atraviesa ajustes y despidos en roles de ciencia de datos.",
       "destacado": false
     },
-    "9209c10739f5": {
-      "resumen": "Artículo de KDnuggets que muestra tres demostraciones visuales del teorema central del límite (CLT, central limit theorem): la idea de que la suma de muchas variables aleatorias tiende a una distribución normal (curva de campana), sin importar la distribución original. Le sirve a un médico que aprende análisis de datos porque ese teorema es la base que justifica usar pruebas estadísticas clásicas (como la t de Student) en investigación clínica.",
+    "d3d55184704f": {
+      "resumen": "Simon Willison comenta el documento de política interna de Sophie Alpert sobre el uso aceptable de escritura generada por inteligencia artificial (IA) entre ingenieros, que parte de la idea de que todo resumen o reescritura de un texto en lenguaje natural pierde información. Le sirve a un médico que aprende análisis de datos porque plantea un criterio trasladable a la práctica clínica: cuándo alcanza con un resumen hecho por IA y cuándo hace falta volver a la fuente original completa.",
       "destacado": false
     },
-    "fa787973d984": {
-      "resumen": "Una lesión dejará afuera del amistoso ante Japón a una joven promesa australiana, con dudas sobre si llegará a jugar frente a Los Pumas."
+    "a2a745e3e9bd": {
+      "resumen": "Simon Willison comenta un paper que muestra cómo se pueden reconstruir (\"robar\") los rastros de razonamiento (reasoning traces) que Anthropic, OpenAI y Google devuelven encriptados en sus modelos de lenguaje grandes (LLM, large language model) de razonamiento. Le sirve a un médico que aprende análisis de datos como noticia de seguridad informática relevante si en algún momento integra estas herramientas de inteligencia artificial (IA) en flujos de trabajo con datos sensibles.",
+      "destacado": false
     },
-    "16e5263b3a65": {
-      "resumen": "Desde Córdoba XV destacan que los jugadores debutantes que pasaron por el Súper Rugby Américas respondieron bien en cada estreno."
+    "e9cb2f748d97": {
+      "resumen": "Presentación de WorldClaw, un sistema de Tencent Hunyuan3D que usa agentes de inteligencia artificial (IA) para generar mundos tridimensionales abiertos a gran escala. Le sirve a un médico que aprende análisis de datos como ejemplo del avance de los llamados 'agentes de IA' —sistemas que encadenan tareas de forma autónoma— más allá del texto, aplicado ahora a la generación de contenido 3D.",
+      "destacado": false
     },
-    "ec1c25ecff2c": {
-      "resumen": "Álvaro Galindo remarcó que Argentina XV puede ser trampolín hacia Los Pumas, de cara al amistoso que se viene."
+    "fdcf93c06f85": {
+      "resumen": "Simon Willison anuncia una nueva versión del plugin datasette-upload-dbs, que permite subir una base de datos SQLite nueva a una instancia de Datasette alojada y que esta empiece a servirla al instante. Le sirve a un médico que aprende análisis de datos porque Datasette es una herramienta simple para explorar y publicar datos tabulares (como bases clínicas o de investigación) sin necesidad de programar un backend propio.",
+      "destacado": false
     }
   }
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-12T11:13:28.694875+00:00",
+ "generated_at": "2026-08-12T13:53:08.516104+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -12,6 +12,38 @@
      "source": "TCTMD",
      "published": "2026-08-11T20:46:25+00:00",
      "id": "e1c629c1843c"
+    },
+    {
+     "title": "Mechanosensitive Endothelial METTL7A Regulates Internal m(7)G mRNA Methylation and Protects Against Atherosclerosis",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42578282/",
+     "source": "Circulation",
+     "published": "2026-08-11T00:00:00+00:00",
+     "copete": "Shentu TP et al. · Circulation",
+     "id": "57073d952e2c"
+    },
+    {
+     "title": "YAP Promotes Microtubule Growth to Facilitate Sarcomere Disassembly in Adult Cardiomyocytes",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42578265/",
+     "source": "Circulation",
+     "published": "2026-08-11T00:00:00+00:00",
+     "copete": "Zhang F et al. · Circulation",
+     "id": "75c8f765d375"
+    },
+    {
+     "title": "The Pediatric Pulmonary Hypertension International Risk Score: A Prediction Model for Outcomes Using Machine Learning",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42576812/",
+     "source": "Circulation",
+     "published": "2026-08-11T00:00:00+00:00",
+     "copete": "Griffiths M et al. · Circulation",
+     "id": "06f6781e14bc"
+    },
+    {
+     "title": "ABHD11-Mediated mtDNA Transcription Restored Mitochondrial Function to Attenuate Cardiomyocyte Ferroptosis After Myocardial Infarction",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42576811/",
+     "source": "Circulation",
+     "published": "2026-08-11T00:00:00+00:00",
+     "copete": "Liu Y et al. · Circulation",
+     "id": "b6dce54bfb64"
     },
     {
      "title": "Cognitive Impairment and Frailty in Older Adults With Cardiovascular Disease: 2026 ACC Scientific Statement: A Report of the American College of Cardiology",
@@ -64,22 +96,6 @@
      "published": "2026-08-05T00:00:00+00:00",
      "copete": "Heidenreich PA et al. · Journal of the American College of Cardiology",
      "id": "60eca4e0f44a"
-    },
-    {
-     "title": "Cardiovascular-Kidney-Metabolic Care and the ACCESS Model: Opportunity, Tension, and the Role of Cardiologists",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42554389/",
-     "source": "JACC",
-     "published": "2026-08-04T00:00:00+00:00",
-     "copete": "Chiu N et al. · Journal of the American College of Cardiology",
-     "id": "2e05ce8f976b"
-    },
-    {
-     "title": "From Fragmentation to Integration: The Need for Interdisciplinary Care Models in Cardiovascular-Kidney-Metabolic Syndrome",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42554388/",
-     "source": "JACC",
-     "published": "2026-08-04T00:00:00+00:00",
-     "copete": "Neeland IJ et al. · Journal of the American College of Cardiology",
-     "id": "7e20a14df3ef"
     }
    ]
   },
@@ -89,7 +105,46 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "El tío de Almada: \"Thiago me acompañaba a todos los partidos en las Inferiores de River y hacía de alcanpelotas\"",
+     "title": "La banca de Otamendi a Coudet en medio del difícil momento de River",
+     "link": "https://www.ole.com.ar/river-plate/river-nicolas-otamendi-chacho-coudet_0_nrUKdQVVgz.html",
+     "source": "Olé — River",
+     "published": "2026-08-12T13:28:40+00:00",
+     "copete": "El defensor publicó una historia en su cuenta de Instagram en la que se refleja claramente el apoyo al Chacho.",
+     "id": "7f72fe7bb78d"
+    },
+    {
+     "title": "Se fue de River casi sin jugar, tampoco encontró lugar en España y pasó a la Serie B de Italia",
+     "link": "https://www.ole.com.ar/futbol-internacional/italia/federico-gattoni-river-jugar-encontro-lugar-espana-sevilla-paso-serieb-italia_0_ZJ4oTbBDIu.html",
+     "source": "Olé — River",
+     "published": "2026-08-12T12:49:15+00:00",
+     "copete": "Luego de otra temporada sin minutos en Sevilla, Federico Gattoni acordó su llegada al recién ascendido Ascoli. Firmó contrato por un año, con posibilidad de extenderlo.",
+     "id": "73d37975c915"
+    },
+    {
+     "title": "River, hoy en VIVO: las repercusiones de lo que dijo Di Carlo, Almada y las noticias de este miércoles 12 de agosto",
+     "link": "https://www.ole.com.ar/river-plate/river-vivo-miercoles-12-agosto-di-carlo-coudet_0_tcluMcYhSD.html",
+     "source": "Olé — River",
+     "published": "2026-08-12T12:41:59+00:00",
+     "copete": "El presidente de River rompió el silencio y dejó mucha tela para cortar. Mientras tanto, Coudet piensa en Argentinos y en el debut de Thiago.",
+     "id": "897d3958bfd3"
+    },
+    {
+     "title": "Juanfer Quintero fue presentado oficialmente en el DIM",
+     "link": "https://www.ole.com.ar/futbol-internacional/america/juanfer-quintero-presentado-oficialmente-independiente-medellin_0_WZjbkyusDF.html",
+     "source": "Olé — River",
+     "published": "2026-08-12T11:58:15+00:00",
+     "copete": "Luego de rescindir contrato con River, el colombiano firmó por un año con Independiente Medellín. Este miércoles se suma a los entrenamientos con el plantel.",
+     "id": "fb5597747e16"
+    },
+    {
+     "title": "CRAR será sede de un campus de rugby con dos referentes de Los Pumas",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSndwRW9oWDItWGUzb204bUpnSTdBb2xNR284MUZGRS12UlN2bUg3MVh0YWhYRFRHNUhFVFI0YV9XRXJQaXIzVlJtUTNQaEdoNG9SbmktZGUxT0xtR3NwWTFCcExxdU95bENJWmVJRDZBME0zeFJrSm1pamtZcHl4MlVPSDRPS29CQjhicnpYVjl2eWVCbFF1MFVSYzBOS2RmalZRcU16QUs?oc=5",
+     "source": "Radio Rafaela",
+     "published": "2026-08-12T11:00:00+00:00",
+     "id": "2e5840edc253"
+    },
+    {
+     "title": "El tío de Almada: \"Thiago me acompañaba a todos los partidos en las Inferiores de River y hacía de alcanzapelotas\"",
      "link": "https://www.ole.com.ar/river-plate/river-almada-tio-inferiores-alcanzapelotas-alejandro-ruiz_0_xEUkrDzs3Q.html",
      "source": "Olé — River",
      "published": "2026-08-12T10:00:18+00:00",
@@ -111,24 +166,9 @@
      "id": "f4e975f39a4f"
     },
     {
-     "title": "En River es la hora de los jugadores: sin protestas ni peros",
-     "link": "https://www.ole.com.ar/opinion/river-almada-sudamericana-coudet-crisis_0_KbhPVAmMi7.html",
-     "source": "Olé — River",
-     "published": "2026-08-12T02:52:14+00:00",
-     "copete": "Hoy la prioridad es ganar por sobre el juego. La semana sin Copa le vino bien desde lo deportivo.",
-     "id": "5b4774593d04"
-    },
-    {
-     "title": "CCU ARGENTINA PONE EN AGENDA EL DISFRUTE CONCIENTE CON IMPERIAL 0.0 JUNTO A LOS PUMAS",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNnVrT2Y2VExXWHM2d1pEaWpsYnJBcGxLaHNLTTgtUGZXWDFOd1JpeHlaWmgzOHc1YjMwbzcwWnBLbktmWEhFZzhMQVJHUUV4cjBVX2s4dFI5Y3UtMkhXYlQxeHlCZHBjUk13NG93OGRPRUhhTlJBeXhraHcxcDdPOWZZZDAwYUNKXzI0YkpBcThtSVkzVi1HY2NvbEVxdGJLcTk2Tm81VUlfcVJ2SUV5NG5LdVRGSVJ6Qy01d1NUaFJFQ2JvSXdUdTE5S1IzZw?oc=5",
-     "source": "Rugby Champagne",
-     "published": "2026-08-12T02:31:46+00:00",
-     "id": "a76a341bb0fa"
-    },
-    {
      "title": "La llave de la Sudamericana: empezaron los octavos con la victoria de Boca",
      "link": "https://www.ole.com.ar/futbol-internacional/sudamericana/llave-copa-sudamericana-partidos-ida-octavos-final_0_i0jOQ9hHbJ.html",
-     "source": "Olé — River",
+     "source": "Olé — Primera",
      "published": "2026-08-12T00:06:53+00:00",
      "copete": "La nueva etapa del torneo comenzó con el 3-1 del Xeneize. Este miércoles juega Tigre y la ida de River se postergó una semana.",
      "id": "d99b06c38b5b"
@@ -140,38 +180,6 @@
      "published": "2026-08-11T23:47:29+00:00",
      "copete": "Dylan Aquino abrió la cuenta y luego el colombiano Valois metió un doblete para sentenciar el 3-0.",
      "id": "4baa244ab959"
-    },
-    {
-     "title": "Diego Milito rompió el silencio tras los insultos de sus hinchas: \"Entiendo el enojo y no me es indiferente\"",
-     "link": "https://www.ole.com.ar/racing/racing-diego-miito-presidente_0_Vc9SLVY5ry.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-11T23:30:57+00:00",
-     "copete": "Durante una Asamblea del club, el presidente de la Academia aseguró que comprende \"la frustración de la gente\" y pidió que haya unidad \"porque así somos invencibles\".",
-     "id": "0e45d0dc20ea"
-    },
-    {
-     "title": "Los números del arranque del ciclo Gorosito, otros casos y la experiencia similar que ya vivió",
-     "link": "https://www.ole.com.ar/san-lorenzo/nestorgorosito-sanlorenzo-turcoasad-gallegoinsua-estadistica-arranque-union_0_YMi6r9stxA.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-11T23:27:05+00:00",
-     "copete": "El mal arranque de Pipo tiene antecedentes similares, incluso en su primera etapa como DT de San Lorenzo. El sábado, partido clave...",
-     "id": "21a014f6b048"
-    },
-    {
-     "title": "La sentida despedida de Colidio de River: \"Me voy sintiéndome un hincha más de este club enorme\"",
-     "link": "https://www.ole.com.ar/river-plate/sentida-despedida-facundo-colidio-river-hincha_0_xEmTW0RCOm.html",
-     "source": "Olé — River",
-     "published": "2026-08-11T23:14:38+00:00",
-     "copete": "A través de sus redes sociales, el delantero dejó un mensaje para cerrar su ciclo en el Millonario.",
-     "id": "a5a570a3d8c3"
-    },
-    {
-     "title": "El presidente de Independiente Santa Fe: el desafío ante River y la suspensión de la ida",
-     "link": "https://www.ole.com.ar/river-plate/river-presidente-independiente-santa-fe-suspendido-copa-sudamericana_0_AOh2oDQFso.html",
-     "source": "Olé — River",
-     "published": "2026-08-11T23:05:50+00:00",
-     "copete": "Eduardo Méndez comentó sus sensaciones tras el terremoto en Colombia y además palpitó lo que será la serie por la Sudamericana.",
-     "id": "489393a8212e"
     },
     {
      "title": "Las Yaguaretés comienzan la pretemporada en Córdoba",
@@ -189,25 +197,63 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Building Multimodal Workflows with a Local LLM",
+     "link": "https://towardsdatascience.com/building-multimodal-workflows-with-a-local-llm/",
+     "source": "Towards Data Science",
+     "published": "2026-08-12T13:30:00+00:00",
+     "copete": "Image inputs and structured outputs with Gemma 4 and Ollama The post Building Multimodal Workflows with a Local LLM appeared first on Towards Data Science .",
+     "id": "dd0ca51bca12"
+    },
+    {
+     "title": "5 Easy Ways to Install Python on Windows",
+     "link": "https://www.kdnuggets.com/5-easy-ways-to-install-python-on-windows",
+     "source": "KDnuggets",
+     "published": "2026-08-12T12:00:25+00:00",
+     "copete": "Learn how to install Python on Windows using the Python Install Manager, WinGet, uv, Miniconda, or the official Python installer, and choose the best setup for beginners and Python development.",
+     "id": "c2b2e120c7c3"
+    },
+    {
+     "title": "How to Place Vertiport Locations in Any City Using Geospatial Machine Learning",
+     "link": "https://towardsdatascience.com/how-to-place-vertiport-locations-in-any-city-using-geospatial-machine-learning/",
+     "source": "Towards Data Science",
+     "published": "2026-08-12T12:00:00+00:00",
+     "copete": "A reproducible Lagos case study with population data, transport access, and airspace constraints The post How to Place Vertiport Locations in Any City Using Geospatial Machine Learning appeared first on Towards Data Science .",
+     "id": "06391d29ac27"
+    },
+    {
+     "title": "2026 Eclipse Webcams",
+     "link": "https://jonty.github.io/2026_eclipse_webcams/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-12T11:53:01+00:00",
+     "id": "ab198bd7e06c"
+    },
+    {
+     "title": "Data Science in manufacturing vs IT/consulting",
+     "link": "https://www.reddit.com/r/datascience/comments/1vmbfw4/data_science_in_manufacturing_vs_itconsulting/",
+     "source": "r/datascience",
+     "published": "2026-08-12T11:26:51+00:00",
+     "id": "f7d8b38cf1c5"
+    },
+    {
+     "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+     "link": "https://woxi.ad-si.com",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-12T10:06:29+00:00",
+     "id": "4d5da3ea46dc"
+    },
+    {
+     "title": "What sort of maths are LLMs good at?",
+     "link": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-12T10:04:25+00:00",
+     "id": "a0f3dc1efe58"
+    },
+    {
      "title": "Facebook is paying controversial creators to produce rage-bait content",
      "link": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
      "source": "Hacker News (100+ puntos)",
      "published": "2026-08-12T09:35:30+00:00",
      "id": "1c934513bcad"
-    },
-    {
-     "title": "LinkedIn CringeBot 3000",
-     "link": "https://www.cringebot3000.com/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-12T06:30:49+00:00",
-     "id": "cb6bf524df05"
-    },
-    {
-     "title": "llama.cpp",
-     "link": "https://llama.app",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-12T04:51:59+00:00",
-     "id": "1a8475db80d5"
     },
     {
      "title": "I'm curious about people working in ranking and if you can change customer behavior",
@@ -217,50 +263,12 @@
      "id": "3f816e1db11f"
     },
     {
-     "title": "The Human Is the Loop",
-     "link": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-12T02:15:01+00:00",
-     "id": "068da7e084f1"
-    },
-    {
-     "title": "Laid off after 4.5 yrs at the company as Sr Data scientist. How is the job market ?",
-     "link": "https://www.reddit.com/r/datascience/comments/1vlzpvt/laid_off_after_45_yrs_at_the_company_as_sr_data/",
-     "source": "r/datascience",
-     "published": "2026-08-12T01:01:57+00:00",
-     "id": "4c9cd6774577"
-    },
-    {
      "title": "There are no lossless transformations of natural-language text",
      "link": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything",
      "source": "Simon Willison (IA)",
      "published": "2026-08-11T23:48:35+00:00",
      "copete": "There are no lossless transformations of natural-language text Sophie Alpert shares her \"internal policy on acceptable use of AI writing by engineers\". It's a short read (supporting its own recommendations) and really good. If you chose to…",
      "id": "d3d55184704f"
-    },
-    {
-     "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-     "link": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything",
-     "source": "Simon Willison (IA)",
-     "published": "2026-08-11T22:40:45+00:00",
-     "copete": "Stealing Reasoning Traces from Proprietary LLM APIs A vanity domain name ( stolen-thoughts.com ) for a neat paper : Anthropic, OpenAI, and Google return encrypted chain-of-thought blocks to clients that can be replayed across sessions…",
-     "id": "a2a745e3e9bd"
-    },
-    {
-     "title": "datasette-upload-dbs 0.5a0",
-     "link": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/#atom-everything",
-     "source": "Simon Willison (IA)",
-     "published": "2026-08-11T20:35:13+00:00",
-     "copete": "Release: datasette-upload-dbs 0.5a0 This plugin has been around for a while - it lets users upload a brand new SQLite database to a hosted Datasette instance, at which point that database will start being served by that instance. It can…",
-     "id": "fdcf93c06f85"
-    },
-    {
-     "title": "Stop Calling the First Significant Day a Win",
-     "link": "https://towardsdatascience.com/stop-calling-the-first-significant-day-a-win/",
-     "source": "Towards Data Science",
-     "published": "2026-08-11T16:30:00+00:00",
-     "copete": "Checking an A/B test until it crosses p < 0.05 can turn a nominal 5 percent false-positive rate into almost 28 percent. I use a seeded simulation to show how large the damage gets and compare the fixes that keep early stopping honest. The…",
-     "id": "3667ebe9502d"
     }
    ]
   },
@@ -270,99 +278,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Se reabre el conflicto universitario: los gremios docentes realizan un paro y reclaman por el financiamiento",
-     "link": "https://www.infobae.com/politica/2026/08/12/se-reabre-el-conflicto-universitario-los-gremios-docentes-realizaran-un-paro-y-reclaman-por-el-financiamiento/",
+     "title": "El mensaje de Lionel Messi a la gente tras la muerte de su padre: “Gracias por respetar nuestro dolor y nuestra intimidad”",
+     "link": "https://www.infobae.com/deportes/2026/08/12/el-mensaje-de-lionel-messi-a-la-gente-tras-la-muerte-de-su-padre-gracias-por-respetar-nuestro-dolor-y-nuestra-intimidad/",
      "source": "Infobae",
-     "published": "2026-08-12T11:09:16+00:00",
-     "copete": "Si bien el Gobierno asegura que cumplió con las partidas presupuestarias, los sindicatos reclaman que no se actualizaron los salarios ni los fondos para el funcionamiento de las facultades",
-     "id": "93e09d9d4f9c"
+     "published": "2026-08-12T13:49:07+00:00",
+     "copete": "El futbolista del Inter Miami agradeció el apoyo del público con un sentido mensaje en sus redes sociales",
+     "id": "10279d992558"
     },
     {
-     "title": "Resultados del Quini 6 del 9 de agosto: cuáles fueron los números de la suerte para ganar $4350 millones en el último sorteo",
-     "link": "https://www.lanacion.com.ar/loterias/resultados-del-quini-6-cuales-fueron-los-numeros-de-la-suerte-para-ganar-4350-millones-en-el-sorteo-nid10082026/",
+     "title": "Lionel Messi puso en duda su continuidad en el fútbol en la carta de despedida a su papá, Jorge",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/lionel-messi-puso-en-duda-su-continuidad-en-el-futbol-en-el-mensaje-de-despedida-a-su-papa-jorge-nid12082026/",
      "source": "La Nación",
-     "published": "2026-08-12T11:07:43+00:00",
-     "copete": "El primer premio de este juego de azar organizado por la Lotería de Santa Fe quedó vacante; en la modalidad “La Segunda” hubo un ganador que se llevó un premio millonario",
-     "id": "4b77a9c97e46"
+     "published": "2026-08-12T13:47:28+00:00",
+     "copete": "El capitán de la selección argentina publicó un posteo en su cuenta de Instagram tras la muerte de su padre; el diez volvió a Estados Unidos luego de unos días en Rosario",
+     "id": "de869334d4aa"
     },
     {
-     "title": "Qué significa que un hornero aparezca en tu jardín o cerca de tu casa",
-     "link": "https://www.lanacion.com.ar/lifestyle/que-significa-que-un-hornero-aparezca-en-tu-jardin-o-cerca-de-tu-casa-nid12082026/",
+     "title": "Policías aeroportuarios argentinos están aprendiendo hebreo ante la llegada de los vuelos que conectarán con Tel Aviv",
+     "link": "https://www.lanacion.com.ar/sociedad/policias-aeroportuarios-argentinos-estan-aprendiendo-hebreo-ante-la-llegada-de-los-vuelos-que-nid12082026/",
      "source": "La Nación",
-     "published": "2026-08-12T11:03:46+00:00",
-     "copete": "En la cultura de los pueblos originarios, la presencia de este tipo de ave tiene una connotación especial y se vincula con la buena suerte y la fortuna próxima",
-     "id": "8770604ca3bf"
+     "published": "2026-08-12T13:47:20+00:00",
+     "copete": "La aerolínea de bandera israelí El Al Israel Airlines comenzará a operar vuelos directos entre Buenos Aires e Israel el próximo 29 de noviembre de 2026; el curso fue ofrecido por la empresa y los oficiales se inscriben de manera voluntaria",
+     "id": "60c4a86b1617"
+    },
+    {
+     "title": "Lionel Messi publicó una carta tras la muerte de su padre Jorge: qué dice el texto completo",
+     "link": "https://www.lanacion.com.ar/deportes/lionel-messi-publico-un-mensaje-tras-la-muerte-de-su-padre-jorge-que-dice-el-texto-completo-nid12082026/",
+     "source": "La Nación",
+     "published": "2026-08-12T13:47:13+00:00",
+     "copete": "A cuatro días del fallecimiento de Jorge Messi, el futbolista de la selección publicó un emotivo mensaje de despedida y reveló todo lo que vivió durante el Mundial",
+     "id": "8efd74d867c8"
+    },
+    {
+     "title": "Lionel Messi despidió a su padre con una sentida carta: los mensajes de apoyo de Beckham, Di María, Paredes y otras figuras del fútbol",
+     "link": "https://www.infobae.com/deportes/2026/08/12/lionel-messi-despidio-a-su-padre-con-una-sentida-carta-los-mensajes-de-apoyo-de-beckham-di-maria-paredes-y-otras-figuras-del-futbol/",
+     "source": "Infobae",
+     "published": "2026-08-12T13:46:35+00:00",
+     "copete": "Ni bien el astro rosarino publicó unas palabras dedicadas a su papá Jorge en sus redes, apareció el apoyo para el capitán de la Albiceleste",
+     "id": "1c8b3caf63fc"
+    },
+    {
+     "title": "Charly García y Julieta Venegas se reencontraron en Buenos Aires: una amistad que trasciende la música",
+     "link": "https://www.infobae.com/teleshow/2026/08/12/charly-garcia-y-julieta-venegas-se-reencontraron-en-buenos-aires-una-amistad-que-trasciende-la-musica/",
+     "source": "Infobae",
+     "published": "2026-08-12T13:45:22+00:00",
+     "copete": "El ícono del rock argentino asistió a la presentación de Norteña, el nuevo trabajo de la mexicana, que lo definió como “un faro de este mundo”",
+     "id": "9e2629963d41"
     },
     {
      "title": "Eclipse Solar Total, EN VIVO: así se puede seguir el fenómeno del 12 agosto minuto a minuto",
      "link": "https://www.lanacion.com.ar/ciencia/eclipse-solar-total-en-vivo-asi-se-puede-seguir-el-fenomeno-del-12-agosto-minuto-a-minuto-nid12082026/",
      "source": "La Nación",
-     "published": "2026-08-12T11:02:28+00:00",
+     "published": "2026-08-12T13:44:17+00:00",
      "copete": "El fenómeno astronómico será visible en algunos países; el horario exacto del evento dependerá de la ubicación geográfica de cada observador",
      "id": "524f53ff4a73"
     },
     {
-     "title": "Testimonios de empresarios y dueños de negocios en Florida que pierden a sus trabajadores por el fin del TPS",
-     "link": "https://www.lanacion.com.ar/estados-unidos/florida/testimonios-de-empresarios-y-duenos-de-negocios-en-florida-que-pierden-a-sus-trabajadores-por-el-fin-nid12082026/",
+     "title": "Una invasión de aguavivas paralizó tres reactores de una de las mayores centrales nucleares de Europa en Francia",
+     "link": "https://www.lanacion.com.ar/el-mundo/una-invasion-de-aguavivas-paralizo-tres-reactores-de-una-de-las-mayores-centrales-nucleares-de-nid12082026/",
      "source": "La Nación",
-     "published": "2026-08-12T11:00:00+00:00",
-     "copete": "La pérdida del TPS en Florida afecta a los negocios locales debido a la ausencia de trabajadores migrantes por temor a detenciones.",
-     "id": "8da5a316073b"
+     "published": "2026-08-12T13:43:42+00:00",
+     "copete": "La presencia de medusas en el litoral del norte de Francia es regular y estacional, pero el reporte de grandes bancos en esta zona es cada vez más frecuente durante el verano",
+     "id": "a7c027f18a7d"
     },
     {
-     "title": "Día del Hijo del Medio: 150 frases para enviar por WhatsApp",
-     "link": "https://www.lanacion.com.ar/sociedad/dia-del-hijo-del-medio-150-frases-para-enviar-por-whatsapp-nid12082026/",
-     "source": "La Nación",
-     "published": "2026-08-12T10:59:10+00:00",
-     "copete": "La iniciativa busca dar a conocer el Síndrome del Hijo del Medio, una creencia popular que indica que orden de nacer afecta el comportamiento humano",
-     "id": "9b0bf2e442f1"
-    },
-    {
-     "title": "Gerónimo Rulli fue presentado como nuevo arquero del Manchester City: “Llegué para defender al mejor club del mundo”",
-     "link": "https://www.infobae.com/deportes/2026/08/12/geronimo-rulli-fue-presentado-como-nuevo-arquero-del-manchester-city-llegue-para-defender-al-mejor-club-del-mundo/",
+     "title": "Fernán Quirós contó cómo se redujo la atención a extranjeros en hospitales luego de que empezaran a cobrar la atención",
+     "link": "https://www.infobae.com/sociedad/2026/08/12/fernan-quiros-revelo-que-menos-del-1-de-la-atencion-hospitalaria-correspondia-a-extranjeros-no-residentes/",
      "source": "Infobae",
-     "published": "2026-08-12T10:52:14+00:00",
-     "id": "c8d729feb7a7"
+     "published": "2026-08-12T13:43:12+00:00",
+     "copete": "CABA fue uno de los primeros distritos en facturar los tratamientos no urgentes de extranjeros no residentes. Esta semana, el Gobierno dictó un decreto similar para la jurisdicción nacional",
+     "id": "e73581100930"
     },
     {
-     "title": "Ricardo Oteros, catador de café: \"El error más habitual al prepararlo en casa no tiene que ver con el café, sino con el agua y la temperatura\"",
-     "link": "https://www.clarin.com/internacional/ricardo-oteros-catador-cafe-error-habitual-prepararlo-casa-ver-cafe-agua-temperatura_0_dRzQgzm0Ak.html",
-     "source": "Clarín",
-     "published": "2026-08-12T10:47:52+00:00",
-     "copete": "El especialista explica cómo se valora un café y qué errores cometemos en casa incluso cuando compramos un buen producto. Indica en qué debe fijarse la gente si quiere comprar el mejor café sin volverse experto.",
-     "id": "b1fa279d34a6"
+     "title": "Juicio a “Pity” Álvarez, en vivo: las últimas noticias de hoy, 12 de agosto, minuto a minuto",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/08/12/juicio-a-pity-alvarez-en-vivo-las-ultimas-noticias-de-hoy-12-de-agosto-minuto-a-minuto/",
+     "source": "Infobae",
+     "published": "2026-08-12T13:42:00+00:00",
+     "copete": "La segunda audiencia contará con cinco testimonios. La pelea previa, los disparos y la conducta posterior del ex líder de Viejas Locas e Intoxicados",
+     "id": "76b355129a3b"
     },
     {
-     "title": "Euro hoy en Panamá: precio y cotización de la divisa este miércoles 12 de agosto de 2026",
-     "link": "https://www.clarin.com/economia/euro-hoy-en-panama-precio-y-cotizacion-de-la-divisa-este-miercoles-12-de-agosto-de-2026_0_TxBIgRxWa8.html",
+     "title": "Lucía Distante, 28 años, argentina que vive en Madrid: \"Llegué con 4.000 euros, en cuatro años ahorré 50.000 y me compré un departamento\"",
+     "link": "https://www.clarin.com/internacional/lucia-distante-28-anos-argentina-vive-madrid-llegue-4000-euros-anos-ahorre-50000-compre-departamento_0_IqZbqITksc.html",
      "source": "Clarín",
-     "published": "2026-08-12T10:45:14+00:00",
-     "copete": "Mirá la cotización del euro en Panamá, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
-     "id": "dd4041a8f55d"
+     "published": "2026-08-12T13:29:01+00:00",
+     "copete": "La joven emigró y junto euro por euro para cumplir su sueño de tener la vivienda propia. “Me quedé sin un euro, pero era el proyecto de mi vida y lo pude cumplir”, asegura.",
+     "id": "8ffac3db5d43"
     },
     {
-     "title": "Euro hoy en Costa Rica: precio y cotización de la divisa este miércoles 12 de agosto de 2026",
-     "link": "https://www.clarin.com/economia/euro-hoy-en-costa-rica-precio-y-cotizacion-de-la-divisa-este-miercoles-12-de-agosto-de-2026_0_k8CWKgnTDq.html",
+     "title": "Tortilla rápida de zucchini",
+     "link": "https://www.clarin.com/recetas/platos-principales/tortilla-rapida-de-zucchini_7_wWsUrGbZyS.html",
      "source": "Clarín",
-     "published": "2026-08-12T10:45:13+00:00",
-     "copete": "Mirá la cotización del euro en Costa Rica, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
-     "id": "a70a9f6db25f"
-    },
-    {
-     "title": "Euro hoy en Guatemala: precio y cotización de la divisa este miércoles 12 de agosto de 2026",
-     "link": "https://www.clarin.com/economia/euro-hoy-en-guatemala-precio-y-cotizacion-de-la-divisa-este-miercoles-12-de-agosto-de-2026_0_OrBAVw7toR.html",
-     "source": "Clarín",
-     "published": "2026-08-12T10:45:13+00:00",
-     "copete": "Mirá la cotización del euro en Guatemala, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
-     "id": "d0221af94579"
-    },
-    {
-     "title": "Euro hoy en Venezuela: precio y cotización de la divisa este miércoles 12 de agosto de 2026",
-     "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-miercoles-12-de-agosto-de-2026_0_tzNCjEnnzt.html",
-     "source": "Clarín",
-     "published": "2026-08-12T10:45:11+00:00",
-     "copete": "Mirá la cotización del euro en Venezuela, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
-     "id": "3fd6b87f6a59"
+     "published": "2026-08-12T13:26:33+00:00",
+     "copete": "Una receta ideal para resolver un almuerzo o una cena en pocos minutos. El zucchini en rodajas se cocina rápidamente y los pedacitos de tomate aportan frescura y color.",
+     "id": "e24829873b64"
     }
    ]
   },
@@ -372,84 +381,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Buscan a contrarreloj a miles de desaparecidos en Colombia tras el terremoto que dejó al menos 181 muertos y más de 2.500 heridos",
+     "title": "Buscan a contrarreloj a centenares de desaparecidos en Colombia tras el terremoto que dejó al menos 181 muertos y más de 2.500 heridos",
      "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-08-12T11:13:28.603386+00:00",
+     "published": "2026-08-12T13:53:08.212785+00:00",
      "copete": "Rescatistas y vecinos buscan sobrevivientes tras el terremoto de magnitud 7,4 que sacudió Colombia este lunes. El presidente De la Espriella decretó desastre nacional y declaró emergencia económica para hacer frente al sismo más fuerte de…",
      "id": "376d42b3e6e7"
     },
     {
-     "title": "Los trucos que usa el servicio secreto de EE.UU. para ocultar a los presidentes a plena vista",
-     "link": "https://www.bbc.com/mundo/articles/cy8m2xp944do?at_medium=RSS&at_campaign=rss",
+     "title": "Trump se escondió en un contenedor de comida para cambiar de avión en secreto por una amenaza de Irán",
+     "link": "https://www.bbc.com/mundo/articles/c24m8ymgz7ro?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-08-12T10:57:27+00:00",
-     "copete": "Con frecuencia se utilizan elaboradas operaciones de engaño y señuelos para despistar a posibles amenazas contra los presidentes de Estados Unidos.",
-     "id": "9f7cb4f0c701"
+     "published": "2026-08-12T13:49:06+00:00",
+     "copete": "El presidente fue reubicado secretamente en un avión diferente al Air Force One, confirmó Trump. Medios de EE.UU. aseguraron que fue para evitar una amenaza iraní al volar desde Turquía.",
+     "id": "1d296853ad9f"
+    },
+    {
+     "title": "US inflation eases as food costs cool",
+     "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-12T13:40:51+00:00",
+     "copete": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
+     "id": "c9a1ebd9ff80"
     },
     {
      "title": "Wisconsin result dents winning streak for Democratic Party's left wing",
      "link": "https://www.bbc.co.uk/news/articles/c9347ezzwljo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-12T09:55:40+00:00",
+     "published": "2026-08-12T13:35:12+00:00",
      "copete": "Centrist David Crowley is projected to have beaten democratic socialist Francesca Hong, breaking a recent nationwide trend.",
      "id": "7f9562a36ca9"
     },
     {
-     "title": "Crítica de la BBC: \"El Spiderman de Tom Holland tiene que evolucionar o el actor debe dejar el papel\"",
-     "link": "https://www.bbc.com/mundo/articles/cddjq4g1e1do?at_medium=RSS&at_campaign=rss",
+     "title": "Alemania quiere dar más poder a sus servicios de inteligencia para que no solo espíen sino contraataquen",
+     "link": "https://elpais.com/internacional/2026-08-12/alemania-quiere-dar-mas-poder-a-sus-servicios-de-inteligencia-para-que-no-solo-espien-sino-contraataquen.html",
+     "source": "El País Internacional",
+     "published": "2026-08-12T12:59:42+00:00",
+     "copete": "El Ejecutivo de Merz defiende la propuesta de ley para proteger el país ante amenazas de “guerra híbrida” y “sabotajes”. La oposición teme que ponga en peligro la separación entre los organismos de espionaje y la policía",
+     "id": "c08f8687d596"
+    },
+    {
+     "title": "La erupción del Etna desata el caos en los aeropuertos de Sicilia en plena temporada alta",
+     "link": "https://elpais.com/internacional/2026-08-12/la-erupcion-del-etna-desata-el-caos-en-los-aeropuertos-de-sicilia-en-plena-temporada-alta.html",
+     "source": "El País Internacional",
+     "published": "2026-08-12T12:36:57+00:00",
+     "copete": "La ceniza obliga a cerrar repetidamente las terminales de Catania y alcanza también Comiso, mientras miles de turistas tratan de reorganizar sus viajes",
+     "id": "6ed13547b175"
+    },
+    {
+     "title": "Israeli settlers besieging Palestinian families in West Bank village",
+     "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-12T12:16:22+00:00",
+     "copete": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+     "id": "b86fbc4ab58f"
+    },
+    {
+     "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
+     "link": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-12T12:10:45+00:00",
+     "copete": "The former premier brought China into the WTO and championed reforms that fuelled growth.",
+     "id": "0b1cdcfb5658"
+    },
+    {
+     "title": "\"Nunca imaginé que me pudiera pasar algo así\": el creciente número de migrantes que están siendo detenidos por ICE en los aeropuertos de EE.UU.",
+     "link": "https://www.bbc.com/mundo/articles/cn0nye17n5wo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-08-12T09:43:43+00:00",
-     "copete": "“Spiderman: un nuevo día” es la más reciente entrega de la saga y ya es un mega éxito. Pero la encarnación de Holland del superhéroe se está quedando sin red y necesita madurar o entregársela a un actor más joven.",
-     "id": "86e0a4183575"
+     "published": "2026-08-12T11:57:01+00:00",
+     "copete": "Claudia Rodríguez se disponia a abordar un vuelo doméstico cuando la interceptaron unos agentes migratorios. Libre bajo fianza tras pasar dos semanas en detención, su caso ilustra un fenómeno que denuncian organizaciones y abogados.",
+     "id": "ab4be77adb0f"
     },
     {
-     "title": "Tata Group Chairman N Chandrasekaran to step down in February",
-     "link": "https://www.bbc.co.uk/news/articles/c1512909pgpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-12T08:50:52+00:00",
-     "copete": "Chandrasekaran said he would not seek reappointment when his term ends due to a lack of support from the Tata Sons board.",
-     "id": "43672e5223a8"
-    },
-    {
-     "title": "Las primarias demócratas en Wisconsin muestran la división extrema del partido, con una estrecha victoria centrista",
-     "link": "https://elpais.com/us/2026-08-12/las-primarias-democratas-en-wisconsin-muestran-la-division-extrema-del-partido-con-una-estrecha-ventaja-centrista.html",
-     "source": "El País Internacional",
-     "published": "2026-08-12T07:50:07+00:00",
-     "copete": "En Minnesota se impone la candidata izquierdista, que aspirará a un escaño de senadora en las elecciones de noviembre",
-     "id": "d861c788bd1d"
-    },
-    {
-     "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
-     "link": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-12T07:44:44+00:00",
-     "copete": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries.",
-     "id": "0f7e486f6a60"
-    },
-    {
-     "title": "At least 15 die as boat sinks in Zimbabwe's Lake Kariba",
-     "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-12T07:16:44+00:00",
-     "copete": "The vessel is said to have overturned after being hit by strong waves.",
-     "id": "ee295099557e"
-    },
-    {
-     "title": "Corea del Norte dispara su segundo misil balístico en seis días",
-     "link": "https://elpais.com/internacional/2026-08-12/corea-del-norte-dispara-su-segundo-misil-balistico-en-seis-dias.html",
-     "source": "El País Internacional",
-     "published": "2026-08-12T06:50:44+00:00",
-     "copete": "El nuevo lanzamiento eleva la tensión antes de las maniobras anuales entre Corea del Sur y EE UU. Expertos surcoreanos creen que podría tratarse de un arma nueva todavía en fase de desarrollo",
-     "id": "509ad5d10168"
-    },
-    {
-     "title": "Colombia en las 72 horas tras el terremoto: despliegue desigual y titubeos ante el auxilio internacional",
-     "link": "https://elpais.com/america-colombia/2026-08-12/colombia-en-las-72-horas-tras-el-terremoto-despliegue-desigual-y-titubeos-ante-el-auxilio-internacional.html",
-     "source": "El País Internacional",
-     "published": "2026-08-12T03:45:00+00:00",
-     "copete": "Continúan los operativos de rescate para tratar de encontrar a las cerca de 200 personas que aún permanecen desaparecidas",
-     "id": "76bfc6d79784"
+     "title": "Cuánto tiempo se puede sobrevivir bajo los escombros tras un terremoto y qué factores dan esperanza a los rescatistas",
+     "link": "https://www.bbc.com/mundo/articles/c74yw04e59wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-12T11:38:54+00:00",
+     "copete": "Equipos de rescate de todo el mundo trabajan día y noche para llegar a las víctimas atrapadas por el reciente terremoto en Venezuela. Pero, ¿cuánto tiempo se puede sobrevivir bajo los escombros? ¿Qué factores son importantes para…",
+     "id": "c56c0843c17a"
     }
    ]
   }
@@ -459,11 +468,6 @@
    "section": "cardiologia",
    "feed": "Cardiology Trials",
    "error": "HTTP Error 403: Forbidden"
-  },
-  {
-   "section": "cardiologia",
-   "feed": "Circulation (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "section": "cardiologia",

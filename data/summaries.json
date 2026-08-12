@@ -1,97 +1,88 @@
 {
-  "generated_at": "2026-08-12T13:10:00Z",
+  "generated_at": "2026-08-12T22:06:26Z",
   "summaries": {
+    "522742e148b7": {
+      "resumen": "TCTMD recuerda al cirujano cardiovascular David Taggart, fallecido a los 69 años, referente en cirugía de revascularización coronaria y conocido por su franqueza para cuestionar dogmas del campo. Vale la pena por el repaso de su legado y su impronta en el debate sobre cirugía versus angioplastia.",
+      "destacado": false
+    },
+    "3366ced78369": {
+      "resumen": "Nota de TCTMD que repasa los vacíos de evidencia, las guías vigentes y las innovaciones terapéuticas en el manejo de la insuficiencia aórtica (regurgitación aórtica) de cara a 2026. Sirve para actualizar el enfoque diagnóstico y de seguimiento de una valvulopatía con guías todavía poco definidas.",
+      "destacado": false
+    },
+    "22200ae487d5": {
+      "resumen": "Octavo episodio de una serie de entrevistas de TCTMD con el cardiólogo e investigador Kausik Ray, que reflexiona sobre el rol de la suerte y la disciplina en su carrera científica. Interesa como mirada personal sobre cómo se construye una trayectoria en investigación cardiovascular.",
+      "destacado": false
+    },
     "e1c629c1843c": {
       "resumen": "Cobertura de TCTMD sobre la declaración científica 2026 del Colegio Americano de Cardiología (ACC, American College of Cardiology) acerca del deterioro cognitivo y la fragilidad en adultos mayores con enfermedad cardiovascular. Traduce a lenguaje más llano los puntos clave del documento original, útil para incorporarlos rápido a la práctica diaria sin leer el statement completo.",
       "destacado": false
     },
-    "2f591bce25d2": {
-      "resumen": "Declaración científica 2026 del Colegio Americano de Cardiología (ACC, American College of Cardiology) sobre el deterioro cognitivo y la fragilidad en adultos mayores con enfermedad cardiovascular. Vale la pena porque ordena cómo evaluar estos dos factores —cada vez más frecuentes en la población añosa— a la hora de decidir tratamientos e intervenciones cardiológicas.",
+    "9bcb774ad332": {
+      "resumen": "TCTMD reporta un estudio que muestra que las medidas de adiposidad central (por ejemplo, la circunferencia de cintura) predicen mejor el riesgo cardiovascular que el índice de masa corporal (IMC). Vale la pena porque cuestiona una medida antropométrica muy arraigada en la práctica y respalda migrar hacia indicadores de distribución de grasa.",
+      "destacado": true,
+      "analisis": "Diseño: Se infiere del título que se trata de un estudio (probablemente de cohorte o un análisis de datos poblacionales) que compara la capacidad predictiva de medidas de adiposidad central (circunferencia de cintura, índice cintura-cadera u otras) frente al índice de masa corporal (IMC) para el riesgo cardiovascular; sin abstract no hay precisión sobre aleatorización, ciego, número de centros ni de pacientes.\nPoblación: No especificada en el título disponible; probablemente una cohorte poblacional general o de pacientes con seguimiento cardiovascular, sin mayor detalle de criterios de inclusión o exclusión.\nIntervención: No aplica en sentido estricto (no es un ensayo de intervención); se comparan distintas medidas antropométricas (adiposidad central vs. IMC) como predictores de riesgo.\nResultados: El título indica que la adiposidad central aporta mayor capacidad de discriminación del riesgo cardiovascular que el IMC; no se dispone de cifras (razones de riesgo, intervalos de confianza, valor de p).\nLimitaciones: Sin abstract no se puede evaluar el método de ajuste por factores de confusión, el tipo exacto de medida de adiposidad central utilizada, ni si los hallazgos son generalizables a distintas poblaciones y grupos étnicos.\nMensaje: Si se confirma, refuerza que las medidas de adiposidad central deberían complementar o reemplazar al IMC en la estratificación de riesgo cardiovascular, con implicancia directa en el examen físico de rutina.\nNota: análisis sin acceso al abstract."
+    },
+    "b1d14f57a216": {
+      "resumen": "Fe de erratas publicada por el Journal of the American College of Cardiology (JACC) sobre un artículo previo; el título disponible (\"Correction\") no permite precisar a qué trabajo corrige. Se incluye solo como referencia bibliográfica, sin contenido clínico propio.",
       "destacado": false
     },
-    "47dad8765b5b": {
-      "resumen": "Nota de TCTMD sobre cómo el calor extremo y la contaminación por humo de incendios forestales (wildfire smoke) se combinan para aumentar el riesgo cardiovascular, más allá del efecto de cada exposición por separado. Interesa porque el cambio climático hace más frecuentes estos episodios y conviene sumarlos como factor de riesgo agudo en pacientes con cardiopatía isquémica o insuficiencia cardíaca.",
-      "destacado": false,
-      "analisis": "Diseño: Se infiere del título una nota que resume evidencia (posiblemente de uno o varios estudios epidemiológicos u observacionales) sobre el efecto combinado del calor extremo y la contaminación por partículas de incendios forestales sobre el riesgo cardiovascular; sin abstract no hay precisión sobre el diseño exacto, aleatorización, número de centros ni de pacientes.\nPoblación: No especificada en el título disponible; probablemente poblaciones expuestas a olas de calor y humo de incendios forestales en estudios de base poblacional.\nIntervención: No aplica en sentido estricto (no es un ensayo de intervención); se compara la exposición combinada a calor y contaminación por incendios forestales frente a la exposición a un solo factor o a ninguno.\nResultados: El título indica que ambas exposiciones \"combinan\" (compound) su efecto sobre el riesgo cardiovascular; no se dispone de cifras (razones de riesgo, intervalos de confianza, valor de p).\nLimitaciones: Sin abstract no se puede evaluar el control de factores de confusión (por ejemplo, nivel socioeconómico o comorbilidades) ni si los datos son generalizables a otros climas.\nMensaje: Si se confirma, refuerza que el calor extremo y la contaminación por incendios forestales deben considerarse factores de riesgo cardiovascular agudo cada vez más relevantes por el cambio climático, con implicancia en la prevención y el seguimiento de pacientes de alto riesgo durante estos episodios.\nNota: análisis sin acceso al abstract."
+    "a1fc649f9735": {
+      "resumen": "Artículo de perspectiva en JACC que analiza la brecha entre la evidencia de los ensayos clínicos con agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1) y su implementación real en la prevención cardiovascular. Sirve para pensar por qué, pese a los resultados positivos, estos fármacos siguen subutilizados en la práctica diaria.",
+      "destacado": false
     },
-    "f0d090b92bd3": {
-      "resumen": "Nota de TCTMD sobre un análisis de datos de reclamos (claims data) de seguros de salud que respalda los efectos cardiovasculares favorables de la tirzepatida en pacientes con diabetes. Es relevante porque suma evidencia de vida real (real-world evidence) a los resultados de los ensayos clínicos sobre este agonista dual (GIP/GLP-1) cada vez más usado en diabetes y obesidad.",
-      "destacado": true,
-      "analisis": "Diseño: Se infiere del título un estudio observacional retrospectivo basado en datos administrativos de reclamos (claims data) de seguros de salud, que compara desenlaces cardiovasculares en pacientes con diabetes tratados con tirzepatida frente a otro comparador; sin abstract no hay precisión sobre el número de pacientes, el período analizado ni el método estadístico de ajuste.\nPoblación: Pacientes con diabetes tipo 2 tratados con tirzepatida, identificados a partir de bases de datos de reclamos de seguros de salud.\nIntervención: Tratamiento con tirzepatida (agonista dual del receptor de GIP y GLP-1), comparado implícitamente con otro fármaco antidiabético o con no uso de tirzepatida.\nResultados: El título indica que los datos de reclamos \"respaldan\" (lend support to) los efectos cardiovasculares de la tirzepatida; no se dispone de cifras (razones de riesgo, intervalos de confianza, valor de p).\nLimitaciones: Los estudios con datos de reclamos están expuestos a sesgo de indicación y a factores de confusión no medidos, además de carecer de datos clínicos granulares (laboratorio, adherencia real); sin abstract no se puede evaluar el ajuste estadístico ni el seguimiento.\nMensaje: De confirmarse, suma evidencia observacional a favor del beneficio cardiovascular de la tirzepatida en diabetes, en línea con los ensayos clínicos aleatorizados en curso, aunque los datos de vida real no reemplazan la evidencia de un ensayo controlado.\nNota: análisis sin acceso al abstract."
-    },
-    "205ffcc746f5": {
-      "resumen": "Nota de TCTMD sobre un estudio o registro que encontró que los sangrados extracraneales clínicamente relevantes son frecuentes en pacientes con fibrilación auricular (FA) tratados con anticoagulantes orales (OAC, oral anticoagulants). Interesa porque el foco habitual está puesto en el sangrado intracraneal, y esto recuerda que el sangrado extracraneal también pesa en la decisión de anticoagular y en el seguimiento clínico.",
-      "destacado": false,
-      "analisis": "Diseño: Se infiere del título un estudio observacional o de registro que evalúa la incidencia de sangrados extracraneales clínicamente relevantes en pacientes anticoagulados; sin abstract no hay datos sobre aleatorización, ciego, número de centros ni de pacientes.\nPoblación: Pacientes con fibrilación auricular (FA) bajo tratamiento con anticoagulantes orales (OAC), sin mayor precisión de criterios de inclusión o exclusión.\nIntervención: No aplica en sentido estricto (no es un ensayo de intervención); se describe la frecuencia de sangrado extracraneal clínicamente relevante en la cohorte anticoagulada.\nResultados: El título indica que estos sangrados son \"comunes\" (common); no se dispone de cifras (incidencia, razones de riesgo, intervalos de confianza, valor de p).\nLimitaciones: Sin abstract no se puede evaluar si se trata de un registro prospectivo o un análisis retrospectivo, el tipo de anticoagulante usado (antagonistas de la vitamina K vs. anticoagulantes orales directos), ni el ajuste por factores de riesgo hemorrágico basal.\nMensaje: Si se confirma, refuerza la importancia de vigilar activamente el sangrado extracraneal (no solo el intracraneal) en el seguimiento de pacientes anticoagulados por FA, e incorporar ese riesgo en la decisión terapéutica y en la elección del anticoagulante.\nNota: análisis sin acceso al abstract."
-    },
-    "0c2d02959704": {
-      "resumen": "Segmento 'On Record' de TCTMD que repasa el estado actual de la implantación valvular aórtica transcatéter (TAVI, transcatheter aortic valve implantation) en pacientes con estenosis aórtica asintomática. Sirve para actualizarse sobre un debate abierto: si conviene intervenir tempranamente en estenosis aórtica grave sin síntomas o mantener la conducta expectante.",
+    "e5dc882d4c27": {
+      "resumen": "Artículo en JACC, con formato de editorial o perspectiva, que discute si conviene dejar de lado el índice de masa corporal (IMC) en favor de medidas basadas en la circunferencia de cintura para estimar el riesgo cardiovascular por adiposidad. Complementa la nota de TCTMD sobre adiposidad central y aporta el marco de discusión detrás del debate IMC vs. medidas de cintura.",
       "destacado": false
     },
     "380bd84ff6e4": {
       "resumen": "Artículo del European Heart Journal (EHJ) que repasa el debate en curso entre el reemplazo valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation) y el reemplazo valvular aórtico quirúrgico (SAVR, surgical aortic valve replacement) para la estenosis aórtica. Vale la pena porque sintetiza hacia dónde se inclina la evidencia acumulada y ayuda a actualizar el criterio de elección de técnica en cada perfil de paciente.",
       "destacado": false
     },
-    "60eca4e0f44a": {
-      "resumen": "Guía clínica concisa 2026 del Colegio Americano de Cardiología (ACC, American College of Cardiology) sobre el rol de la vacunación del adulto como parte del cuidado cardiovascular. Es una herramienta práctica para incorporar la indicación de vacunas (por ejemplo, antigripal, neumocócica) a la consulta cardiológica de rutina.",
+    "d2535f023812": {
+      "resumen": "El editor de código Zed presenta Delta, una nueva función o producto dentro de su plataforma orientada a mejorar el flujo de trabajo de desarrollo (el posteo no detalla más que el nombre). Le sirve a un médico que aprende análisis de datos como forma de seguir de cerca las herramientas de programación asistidas por inteligencia artificial (IA) que van apareciendo en el ecosistema.",
       "destacado": false
     },
-    "2e05ce8f976b": {
-      "resumen": "Artículo de opinión en JACC (Journal of the American College of Cardiology) sobre el modelo ACCESS y el rol del cardiólogo en el cuidado integrado del síndrome cardiovascular-renal-metabólico (CKM, cardiovascular-kidney-metabolic), un concepto en auge que combina riesgo cardiovascular, enfermedad renal crónica y trastornos metabólicos. Sirve para pensar cómo se reorganiza la práctica clínica frente a este enfoque integrado.",
+    "32cdb4e18a7e": {
+      "resumen": "El nuevo modelo Grok 4.6, de xAI, obtuvo un puntaje de 61 en el Artificial Analysis Intelligence Index, un índice independiente que compara el desempeño de distintos modelos de lenguaje grandes (LLM, large language model). Le sirve a un médico que aprende análisis de datos para ubicar el nivel relativo de este modelo frente a otros disponibles antes de elegir cuál usar.",
       "destacado": false
     },
-    "7e20a14df3ef": {
-      "resumen": "Artículo de JACC que plantea la necesidad de modelos de atención interdisciplinaria para el síndrome cardiovascular-renal-metabólico (CKM), en lugar de la atención fragmentada actual entre cardiología, nefrología y endocrinología. Es útil para pensar el trabajo en equipo frente a un paciente cada vez más complejo y comórbido.",
+    "e776ca0691b6": {
+      "resumen": "Artículo de Towards Data Science sobre cómo decidir el método de análisis (parsing) de documentos antes de construir un sistema de generación aumentada por recuperación (RAG, retrieval-augmented generation) totalmente autónomo, comparando herramientas como Docling, PaddleOCR o MinerU. Le sirve a un médico que aprende análisis de datos porque plantea un criterio práctico para elegir cómo extraer información de documentos (por ejemplo, historias clínicas o PDFs) antes de automatizar con inteligencia artificial (IA).",
       "destacado": false
     },
-    "3667ebe9502d": {
-      "resumen": "Artículo de Towards Data Science que advierte sobre el error de declarar ganador a un test A/B apenas el valor de p cruza el umbral de significancia por primera vez, sin tener en cuenta el problema de las comparaciones múltiples ni la variabilidad a lo largo del tiempo. Le sirve a un médico que aprende análisis de datos porque ese mismo error de \"espiar\" los datos y frenar apenas aparece significancia es habitual también al analizar estudios clínicos y ensayos, y puede llevar a conclusiones falsas.",
+    "fbdfaa10f2aa": {
+      "resumen": "Lanzamiento de DeepSeek V4 Pro, una nueva versión del modelo de lenguaje grande (LLM, large language model) de la empresa china DeepSeek, disponible a través de la plataforma OpenRouter. Le sirve a un médico que aprende análisis de datos para conocer otra alternativa —a menudo más económica— frente a los modelos de OpenAI o Anthropic.",
+      "destacado": false
+    },
+    "abadfb45f943": {
+      "resumen": "Anuncio oficial de xAI sobre el lanzamiento de Grok 4.6, la nueva versión de su modelo de lenguaje grande (LLM, large language model). Le sirve a un médico que aprende análisis de datos para mantenerse al tanto de las actualizaciones de los modelos de inteligencia artificial (IA) más usados en la actualidad.",
+      "destacado": false
+    },
+    "cd20ea4fd093": {
+      "resumen": "Simon Willison cita una anécdota de Florian Herrengt sobre un equipo que, tras varios intentos fallidos de arreglar un error con ayuda de inteligencia artificial (IA) generativa, termina recurriendo a la persona que originalmente escribió ese código. Le sirve a un médico que aprende análisis de datos como recordatorio de que la IA generativa no reemplaza el conocimiento profundo de quien construyó el sistema original.",
+      "destacado": false
+    },
+    "949f74284cbd": {
+      "resumen": "Tercera entrega de una serie de Towards Data Science que explica, paso a paso, cómo funciona la retropropagación del error (backpropagation), el algoritmo central para entrenar redes neuronales. Le sirve a un médico que aprende análisis de datos porque desmenuza en términos simples uno de los conceptos matemáticos más importantes detrás de la inteligencia artificial (IA) moderna.",
+      "destacado": false
+    },
+    "33288d234612": {
+      "resumen": "Guía de KDnuggets sobre cómo construir un proyecto de portafolio de ciencia de datos completo, que vaya más allá de un simple notebook exploratorio. Le sirve a un médico que aprende análisis de datos porque ofrece una hoja de ruta concreta para mostrar habilidades reales frente a potenciales empleadores o colaboradores.",
       "destacado": true
     },
-    "a0486fcb3396": {
-      "resumen": "El capitán de los Springboks, Siya Kolisi, elogió el nivel actual de Los Pumas tras el partido entre ambas selecciones."
-    },
-    "f4e975f39a4f": {
-      "resumen": "Salió a la venta una lata especial de cerveza sin alcohol en homenaje a Los Pumas."
-    },
-    "a76a341bb0fa": {
-      "resumen": "CCU Argentina asoció su cerveza sin alcohol Imperial 0.0 a Los Pumas para promover el consumo consciente."
-    },
-    "cb6bf524df05": {
-      "resumen": "Proyecto humorístico difundido en Hacker News que, a juzgar por su nombre, parodia el estilo grandilocuente de los posteos motivacionales de LinkedIn. Le sirve a un médico que aprende análisis de datos como recordatorio informal: a la hora de comunicar resultados, la claridad y la honestidad pesan más que el efecto grandilocuente.",
+    "dd0ca51bca12": {
+      "resumen": "Tutorial de Towards Data Science sobre cómo construir flujos de trabajo multimodales (que combinan texto e imágenes) usando un modelo de lenguaje grande (LLM, large language model) local, con el modelo Gemma 4 y la herramienta Ollama, generando salidas estructuradas. Le sirve a un médico que aprende análisis de datos como ejemplo práctico de cómo correr modelos de inteligencia artificial (IA) sin depender de servicios en la nube, útil si se manejan datos sensibles.",
       "destacado": false
     },
-    "1a8475db80d5": {
-      "resumen": "Publicación en Hacker News en torno a llama.cpp, el proyecto de código abierto que permite correr modelos de lenguaje grandes (LLM, large language model) de forma eficiente en CPU y GPU mediante cuantización. Le sirve a un médico que aprende análisis de datos porque es la puerta de entrada más común para experimentar con inteligencia artificial (IA) generativa de forma local, sin depender de servicios pagos en la nube.",
+    "c2b2e120c7c3": {
+      "resumen": "Guía de KDnuggets con cinco formas de instalar Python en Windows: el instalador oficial, el Python Install Manager, WinGet, uv y Miniconda, con recomendaciones según el nivel de experiencia. Le sirve a un médico que aprende análisis de datos como referencia práctica para dejar bien configurado el entorno de trabajo antes de empezar a programar.",
       "destacado": false
     },
-    "3f816e1db11f": {
-      "resumen": "Hilo de la comunidad r/datascience donde alguien que trabaja en sistemas de ranking (ordenamiento de resultados, por ejemplo en buscadores o recomendadores) pregunta hasta qué punto estos modelos logran modificar el comportamiento real de los usuarios. Le sirve a un médico que aprende análisis de datos porque estos sistemas de recomendación usan los mismos principios estadísticos que luego sirven para predecir adherencia o riesgo en salud.",
-      "destacado": false
+    "c01e9b367705": {
+      "resumen": "La Experiencia Pumas combinó el partido de Los Pumas ante Sudáfrica con propuestas gastronómicas y de networking, más allá de lo estrictamente deportivo."
     },
-    "068da7e084f1": {
-      "resumen": "Ensayo publicado en Hacker News que plantea que, en los sistemas de inteligencia artificial (IA), el ser humano no debería pensarse como una simple verificación final sino como el centro del proceso (de ahí el juego con la expresión 'human in the loop', humano en el bucle). Le sirve a un médico que aprende análisis de datos porque describe justamente el rol que debería tener el profesional de salud frente a herramientas de IA: supervisar y decidir, no delegar sin criterio.",
-      "destacado": false
-    },
-    "4c9cd6774577": {
-      "resumen": "Publicación en r/datascience de una persona despedida tras cuatro años y medio como científica de datos senior, que pregunta cómo está el mercado laboral del rubro. Le sirve a un médico que aprende análisis de datos como termómetro informal de un mercado que, pese a la demanda de inteligencia artificial (IA), también atraviesa ajustes y despidos en roles de ciencia de datos.",
-      "destacado": false
-    },
-    "d3d55184704f": {
-      "resumen": "Simon Willison comenta el documento de política interna de Sophie Alpert sobre el uso aceptable de escritura generada por inteligencia artificial (IA) entre ingenieros, que parte de la idea de que todo resumen o reescritura de un texto en lenguaje natural pierde información. Le sirve a un médico que aprende análisis de datos porque plantea un criterio trasladable a la práctica clínica: cuándo alcanza con un resumen hecho por IA y cuándo hace falta volver a la fuente original completa.",
-      "destacado": false
-    },
-    "a2a745e3e9bd": {
-      "resumen": "Simon Willison comenta un paper que muestra cómo se pueden reconstruir (\"robar\") los rastros de razonamiento (reasoning traces) que Anthropic, OpenAI y Google devuelven encriptados en sus modelos de lenguaje grandes (LLM, large language model) de razonamiento. Le sirve a un médico que aprende análisis de datos como noticia de seguridad informática relevante si en algún momento integra estas herramientas de inteligencia artificial (IA) en flujos de trabajo con datos sensibles.",
-      "destacado": false
-    },
-    "e9cb2f748d97": {
-      "resumen": "Presentación de WorldClaw, un sistema de Tencent Hunyuan3D que usa agentes de inteligencia artificial (IA) para generar mundos tridimensionales abiertos a gran escala. Le sirve a un médico que aprende análisis de datos como ejemplo del avance de los llamados 'agentes de IA' —sistemas que encadenan tareas de forma autónoma— más allá del texto, aplicado ahora a la generación de contenido 3D.",
-      "destacado": false
-    },
-    "fdcf93c06f85": {
-      "resumen": "Simon Willison anuncia una nueva versión del plugin datasette-upload-dbs, que permite subir una base de datos SQLite nueva a una instancia de Datasette alojada y que esta empiece a servirla al instante. Le sirve a un médico que aprende análisis de datos porque Datasette es una herramienta simple para explorar y publicar datos tabulares (como bases clínicas o de investigación) sin necesidad de programar un backend propio.",
-      "destacado": false
+    "8570baac1ebc": {
+      "resumen": "Francisco Moreno contó cómo vivió su debut con la camiseta de Los Pumas y aseguró que se sentía preparado para el desafío."
     }
   }
 }

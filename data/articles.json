@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T03:03:59.846548+00:00",
+ "generated_at": "2026-08-13T05:52:06.506830+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -90,7 +90,7 @@
     {
      "title": "Más allá del Rugby: Así se vivió la Experiencia Pumas, un encuentro que fusiona deporte, gastronomía y networking en el partido de Los Pumas vs. Sudáfrica – Marcela Fittipaldi Magazine",
      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNZmY0dmJzWU9zVjZwbzdrNGJtMVBRd0lHaXdvZDlxRko3bUNybnYtemZTNTNfRjBxaEJqTk1Qa2ZnaTFsaFBVZFNmOVRnQkdhUVpQUWZ6WHV3RGRWR095bHBaajhWZHoyelpjSVdKMDhhQmVIZURrcGFFenVnLUczWVpiSFZQYklSZS0zanFxMHAxUFhXRnY0VS1pVjl0TWVRV0pRa05mMm5OSHF4NDlLd19Ubnp2dFladEJMSGo3ZDVUX2daM3ZUOHM4SGwwVUtEZzVPQkdNZVZCd0lWMWNuZXhaLWNKZ0lWNTdYQmpXc1FGRThVZm9YZ19jcHpFT0xlVUZMS1pmZUFqSEJlb0VBQXh5OWFCcGNxZnhxRQ?oc=5",
-     "source": "Marcela Fittipaldi Magazine",
+     "source": "marcelafittipaldi.com.ar",
      "published": "2026-08-13T01:51:43+00:00",
      "id": "c01e9b367705"
     },
@@ -197,6 +197,21 @@
      "id": "04d62565190e"
     },
     {
+     "title": "Principia Mathematica is modern and insightful",
+     "link": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-12T23:26:21+00:00",
+     "id": "9abd3fd24c08"
+    },
+    {
+     "title": "alchemy-utils 0.1a0",
+     "link": "https://simonwillison.net/2026/Aug/12/alchemy-utils/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-08-12T19:51:30+00:00",
+     "copete": "Release: alchemy-utils 0.1a0 I've long pondered what a database agnostic version of my sqlite-utils Python library and CLI utility might look like. This morning (literally a shower project) I tasked Codex and GPT-5.6 Sol Ultra with…",
+     "id": "96d1d535cf9d"
+    },
+    {
      "title": "Delta",
      "link": "https://zed.dev/blog/introducing-delta",
      "source": "Hacker News (100+ puntos)",
@@ -226,13 +241,6 @@
      "id": "efe0c03b9941"
     },
     {
-     "title": "Pixel Watch 5",
-     "link": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-12T16:14:37+00:00",
-     "id": "58f40ae24e6c"
-    },
-    {
      "title": "Quoting Florian Herrengt",
      "link": "https://simonwillison.net/2026/Aug/12/florian-herrengt/",
      "source": "Simon Willison (IA)",
@@ -255,14 +263,6 @@
      "published": "2026-08-12T14:00:50+00:00",
      "copete": "Most portfolios stop at a notebook. Take yours all the way.",
      "id": "33288d234612"
-    },
-    {
-     "title": "Building Multimodal Workflows with a Local LLM",
-     "link": "https://towardsdatascience.com/building-multimodal-workflows-with-a-local-llm/",
-     "source": "Towards Data Science",
-     "published": "2026-08-12T13:30:00+00:00",
-     "copete": "Image inputs and structured outputs with Gemma 4 and Ollama The post Building Multimodal Workflows with a Local LLM appeared first on Towards Data Science .",
-     "id": "dd0ca51bca12"
     }
    ]
   },
@@ -272,100 +272,99 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Correr no es la única vía para cuidar el corazón, expertos recomiendan alternativas con menos impacto articular",
-     "link": "https://www.infobae.com/generacion-silver/2026/08/13/correr-no-es-la-unica-via-para-cuidar-el-corazon-expertos-recomiendan-alternativas-con-menos-impacto-articular/",
+     "title": "Encontaron al psicólogo argentino que era buscado tras el terremoto en Colombia",
+     "link": "https://www.infobae.com/sociedad/2026/08/13/encontaron-al-psicologo-argentino-que-era-buscado-tras-el-terremoto-en-colombia/",
      "source": "Infobae",
-     "published": "2026-08-13T03:02:00+00:00",
-     "copete": "Los médicos y fisioterapeutas recomiendan alternativas para quienes no toleran la carrera por dolor o lesiones, y señalan que el ciclismo, el remo y la natación pueden cuidar el corazón con menos carga articular",
-     "id": "bd2b148b8506"
+     "published": "2026-08-13T05:37:06+00:00",
+     "copete": "Luego de que se difundiera la noticia en medios nacionales e internacionales, Gonzalo Galván aclaró que no residía en la zona afectada por la catastrófe",
+     "id": "4b30667bcab9"
     },
     {
-     "title": "Cómo el aprendizaje online está cambiando las carreras de ingeniería",
-     "link": "https://www.infobae.com/inhouse/2026/08/13/como-el-aprendizaje-online-esta-cambiando-las-carreras-de-ingenieria/",
+     "title": "Reunión LLA-PRO: las condiciones de Karina Milei para un acuerdo electoral con Mauricio Macri",
+     "link": "https://www.infobae.com/politica/2026/08/13/reunion-lla-pro-las-condiciones-de-karina-milei-para-un-acuerdo-electoral-con-mauricio-macri/",
      "source": "Infobae",
-     "published": "2026-08-13T03:01:00+00:00",
-     "copete": "La propuesta reúne carreras y posgrados vinculados con higiene y seguridad, ciberseguridad e informática forense, con alternativas de pregrado, grado y especialización",
-     "id": "1037c508dc92"
+     "published": "2026-08-13T05:34:02+00:00",
+     "copete": "La secretaria general les ordenó a Diego Santilli y a los Menem que reciban a los laderos de Mauricio Macri en la Casa Rosada a las 11. Ella no formará parte del encuentro pero lo digitó",
+     "id": "e9cc8eae2856"
     },
     {
-     "title": "Una reconocida cadena gastronómica llegó a Junín con 80 nuevos puestos de trabajo",
-     "link": "https://www.infobae.com/inhouse/2026/08/13/una-reconocida-cadena-gastronomica-llego-a-junin-con-80-nuevos-puestos-de-trabajo/",
-     "source": "Infobae",
-     "published": "2026-08-13T03:01:00+00:00",
-     "copete": "McDonald’s sumó su primer establecimiento en la localidad bonaerense, con una propuesta que incluye Delivery Point, sala de cumpleaños y alternativas para familias",
-     "id": "8ffeb47d9900"
-    },
-    {
-     "title": "Currículums idénticos, una sola diferencia: el estudio que expuso el sesgo por edad y lo que revela sobre el desempleo senior",
-     "link": "https://www.infobae.com/generacion-silver/2026/08/13/curriculums-identicos-una-sola-diferencia-el-estudio-que-expuso-el-sesgo-por-edad-y-lo-que-revela-sobre-el-desempleo-senior/",
-     "source": "Infobae",
-     "published": "2026-08-13T03:01:00+00:00",
-     "copete": "Se enviaron perfiles casi calcados para puestos reales, cambiando solo la fecha de nacimiento. El resultado dejó una brecha de respuestas que obliga a duplicar esfuerzos. El impacto no termina en Recursos Humanos",
-     "id": "5bf55c7a3bca"
-    },
-    {
-     "title": "Las 200 mejores empresas para trabajar en América Latina en 2026",
-     "link": "https://www.infobae.com/tendencias/2026/08/13/las-200-mejores-empresas-para-trabajar-en-america-latina-en-2026/",
-     "source": "Infobae",
-     "published": "2026-08-13T03:01:00+00:00",
-     "copete": "Un nuevo ranking de la consultora Great Place To Work mostró que la confianza, la inclusión y el bienestar sostienen la experiencia laboral mejor evaluada en la región. El listado completo de las compañías destacadas",
-     "id": "769b4ec08d44"
-    },
-    {
-     "title": "El gesto solidario de Jorge Messi con un hospital de Rosario que permitió realizar 100 trasplantes",
-     "link": "https://www.lanacion.com.ar/sociedad/el-gesto-solidario-de-jorge-messi-con-un-hospital-de-rosario-que-permitio-realizar-100-trasplantes-nid12082026/",
+     "title": "Javier Milei y sus medidas, en vivo: movimientos en Diputados y cumbre opositora",
+     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-movimientos-en-diputados-y-cumbre-opositora-nid13082026/",
      "source": "La Nación",
-     "published": "2026-08-13T02:50:58+00:00",
-     "copete": "El médico Jorge Tartaglione reveló en LN+ que el padre del futbolista financió la capacitación en Barcelona de médicos, enfermeros y hemoterapistas rosarinos",
-     "id": "286e0865b3db"
+     "published": "2026-08-13T05:33:44+00:00",
+     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+     "id": "bba02ec7d48d"
     },
     {
-     "title": "Idas y vueltas en Nueva York: Mamdani le responde a Trump sobre la posibilidad de eliminar el impuesto a los ricos",
-     "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/idas-y-vueltas-en-nueva-york-mamdani-le-responde-a-trump-sobre-la-posibilidad-de-eliminar-el-nid12082026/",
+     "title": "Violó una restricción de acercamiento, agredió a su ex pareja y le rompió el auto en Santa Cruz",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/08/13/violo-una-restriccion-de-acercamiento-agredio-a-su-ex-pareja-y-le-rompio-el-auto-en-santa-cruz/",
+     "source": "Infobae",
+     "published": "2026-08-13T05:31:29+00:00",
+     "copete": "El ataque ocurrió durante la madrugada del miércoles. El hombre llegó alterado, insultó a la víctima y comenzó a arrojarle objetos",
+     "id": "7954ba32bf7a"
+    },
+    {
+     "title": "La Gran Terminal",
+     "link": "https://www.lanacion.com.ar/cultura/la-gran-terminal-nid13082026/",
      "source": "La Nación",
-     "published": "2026-08-13T02:45:00+00:00",
-     "copete": "Conoce por qué Trump cuestionó el impuesto a las propiedades de lujo en Nueva York, qué respondió Mamdani y qué decidió un juez sobre la medida.",
-     "id": "be2e9409bf87"
+     "published": "2026-08-13T05:25:00+00:00",
+     "id": "053b78b053ac"
+    },
+    {
+     "title": "Violenta entradera en Bahía Blanca: golpearon a una jubilada y se llevaron dólares, joyas y armas",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/08/13/violenta-entradera-en-bahia-blanca-golpearon-a-una-jubilada-y-se-llevaron-dolares-joyas-y-armas/",
+     "source": "Infobae",
+     "published": "2026-08-13T05:15:31+00:00",
+     "copete": "El hecho ocurrió en una casa de Córdoba al 300 del barrio Universitario. La policía busca a los responsables",
+     "id": "46e42df93373"
+    },
+    {
+     "title": "Paulo Londra lanzó “me asfixia LA CIUDAD” y mostró su lado más íntimo: \"Estoy en una etapa muy enamoradiza de mi vida\"",
+     "link": "https://www.infobae.com/teleshow/2026/08/13/paulo-londra-lanzo-me-asfixia-la-ciudad-y-mostro-su-lado-mas-intimo-estoy-en-una-etapa-muy-enamoradiza-de-mi-vida/",
+     "source": "Infobae",
+     "published": "2026-08-13T05:05:00+00:00",
+     "copete": "Tras un año de alto impacto, el cantante habló con Teleshow y contó los detalles de su nueva canción, la cual está atravesada por una búsqueda más íntima y personal",
+     "id": "3c2704bb20b2"
+    },
+    {
+     "title": "La reflexión de Séneca, filósofo: \"Cuando uno es amigo de sí mismo, lo es también de todo el mundo”",
+     "link": "https://www.clarin.com/internacional/reflexion-seneca-filosofo-amigo-mismo-mundo_0_OqfcTmL087.html",
+     "source": "Clarín",
+     "published": "2026-08-13T05:00:29+00:00",
+     "copete": "La frase aparece dentro de las Epístolas morales a Lucilio, una de las obras centrales del estoicismo romano. El pasaje relaciona la amistad con uno mismo, la vida compartida y la forma de tratar a los demás.",
+     "id": "782f891e6d5f"
+    },
+    {
+     "title": "El 1er juego de 3 jonrones en la carrera de Bregman ayuda a Cachorros a vencer 12-6 a Nacionales",
+     "link": "https://www.clarin.com/estados-unidos/el-1er-juego-de-3-jonrones-en-la-carrera-de-bregman-ayuda-a-cachorros-a-vencer-12-6-a-nacionales_0_23YUp3GVcB.html",
+     "source": "Clarín",
+     "published": "2026-08-13T05:00:09+00:00",
+     "copete": "Bregman lideró a los Cachorros con tres jonrones y siete impulsadas, asegurando una victoria contundente sobre Washington. Chicago se acerca al liderato. Swanson y Suzuki también destacaron en la ofensiva, mientras que Peterson y Assad…",
+     "id": "4c6e181bb4c9"
+    },
+    {
+     "title": "Transportistas en EEUU que recibieron reembolsos de aranceles están trasladándolos a los clientes",
+     "link": "https://www.clarin.com/estados-unidos/transportistas-en-eeuu-que-recibieron-reembolsos-de-aranceles-estan-trasladandolos-a-los-clientes_0_1saSQwVZ1d.html",
+     "source": "Clarín",
+     "published": "2026-08-13T04:50:04+00:00",
+     "copete": "Transportistas como FedEx y UPS están devolviendo aranceles a clientes tras la anulación de tarifas por la Corte Suprema de EE.UU. en febrero. Grandes minoristas, en cambio, planean usar los reembolsos para reducir precios, mientras…",
+     "id": "c0b828fc1e08"
+    },
+    {
+     "title": "La nueva imagen de la NASA: el telescopio James Webb revela con mayor detalle la Nebulosa del León",
+     "link": "https://www.lanacion.com.ar/ciencia/la-nueva-imagen-de-la-nasa-el-telescopio-james-webb-revela-con-mayor-detalle-la-nebulosa-del-leon-nid13082026/",
+     "source": "La Nación",
+     "published": "2026-08-13T04:46:00+00:00",
+     "copete": "Descubre la nueva imagen de la NASA: el James Webb muestra con mayor detalle la Nebulosa del León, situada a unos 5000 años luz de la Tierra.",
+     "id": "0457184a366d"
     },
     {
      "title": "Adriana Baravalle es la nueva secretaria de Innovación en reemplazo de Darío Genua",
      "link": "https://www.lanacion.com.ar/politica/adriana-baravalle-es-la-nueva-secretaria-de-innovacion-en-reemplazo-del-caputista-dario-genua-nid12082026/",
      "source": "La Nación",
-     "published": "2026-08-13T02:41:06+00:00",
+     "published": "2026-08-13T04:32:08+00:00",
      "copete": "Así lo pudo confirmar LA NACION de fuentes al tanto; su nombramiento sale por un decreto ya firmado; según fuentes de la Casa Rosada, al jefe de Gabinete se la presentó Martín Migoya, CEO de Globant",
      "id": "dd9b34e3c2d5"
-    },
-    {
-     "title": "Así están los cruces de octavos de final de la Copa Sudamericana 2026",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/asi-estan-los-cruces-de-octavos-de-final-de-la-copa-sudamericana-2026-nid12082026/",
-     "source": "La Nación",
-     "published": "2026-08-13T02:28:49+00:00",
-     "copete": "Los partidos de ida comenzaron con triunfo de Boca y un empate entre Bolívar y San Pablo; se postergo el cotejo de River por el terremoto en Colombia",
-     "id": "c8777361bfa5"
-    },
-    {
-     "title": "Javier Milei y sus medidas, en vivo: el Gobierno busca retomar la iniciativa en el Congreso y reactiva la mesa política",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-busca-retomar-la-iniciativa-en-el-congreso-y-reactiva-nid12082026/",
-     "source": "La Nación",
-     "published": "2026-08-13T02:27:27+00:00",
-     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "d382c1839b0e"
-    },
-    {
-     "title": "Giro en el caso del joven asesinado por su novia en Chaco: investigan el faltante de una suma millonaria de la casa de la víctima",
-     "link": "https://www.clarin.com/policiales/giro-investigacion-joven-asesinado-novia-chaco-investigan-faltante-suma-millonaria-casa-victima_0_xGcM4SuVq8.html",
-     "source": "Clarín",
-     "published": "2026-08-13T02:24:07+00:00",
-     "copete": "Juan Arregín, representante de la familia de Julián Álvarez Guardia, declaró este miércoles que en la causa judicial se estudia la desaparición de miles de dólares. E informó que el joven ahorraba para comprarse su casa.",
-     "id": "68ed1907dce4"
-    },
-    {
-     "title": "Bolivia: turistas estadounidenses quedan varados cerca de una laguna tras intensas nevadas",
-     "link": "https://www.clarin.com/estados-unidos/bolivia-turistas-estadounidenses-quedan-varados-cerca-de-una-laguna-tras-intensas-nevadas_0_ZGi39D6lkh.html",
-     "source": "Clarín",
-     "published": "2026-08-13T02:10:06+00:00",
-     "copete": "Tres turistas estadounidenses quedaron atrapados en una laguna al sur de Bolivia tras fuertes nevadas. Fueron hallados a salvo en un observatorio. Las condiciones climáticas dificultan el rescate en Potosí, región que declaró alerta por…",
-     "id": "73e367d1a8ec"
     }
    ]
   },
@@ -378,7 +377,7 @@
      "title": "Sigue la búsqueda de desaparecidos en Colombia tras el terremoto que dejó al menos 265 muertos y 3.700 heridos",
      "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-08-13T03:03:59.592740+00:00",
+     "published": "2026-08-13T05:52:06.373916+00:00",
      "copete": "Rescatistas y vecinos buscan sobrevivientes tras el terremoto de magnitud 7,4 que sacudió Colombia este lunes. El presidente De la Espriella decretó desastre nacional y declaró emergencia económica para hacer frente al sismo más fuerte de…",
      "id": "376d42b3e6e7"
     },
@@ -386,41 +385,57 @@
      "title": "Así fue el espectacular eclipse solar total que se pudo ver en parte de Europa",
      "link": "https://www.bbc.co.uk/mundo/live/crwyjxjzj763t?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-08-13T03:03:59.592548+00:00",
+     "published": "2026-08-13T05:52:06.373721+00:00",
      "copete": "España fue el escenario de un eclipse solar total, el primero que se observa desde la península ibérica en más de un siglo y que forma parte de una inusual trilogía de eclipses.",
      "id": "b66af0e4ec06"
     },
     {
-     "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-     "link": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
+     "title": "Japan protests against Putin visit to disputed islands",
+     "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-13T01:31:21+00:00",
-     "copete": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
-     "id": "4abd3982ef9b"
+     "published": "2026-08-13T05:34:04+00:00",
+     "copete": "The Russian leader visited the Kuril islands for the first time, according to state media.",
+     "id": "71b6f39bd776"
     },
     {
-     "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
-     "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
+     "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-13T01:19:23+00:00",
-     "copete": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
-     "id": "547200c61d00"
+     "published": "2026-08-13T04:55:58+00:00",
+     "copete": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+     "id": "3742c192c5e3"
     },
     {
-     "title": "'If you're not conservative, don't come here': The town making missiles for Trump",
-     "link": "https://www.bbc.co.uk/news/articles/cn0n8nd6645o?at_medium=RSS&at_campaign=rss",
+     "title": "BTS star V reveals hearing loss battle during livestream",
+     "link": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-12T23:26:21+00:00",
-     "copete": "The president's approval numbers may be down, but in this Tennessee town, his support is as strong as ever.",
-     "id": "78ff4fec1301"
+     "published": "2026-08-13T04:09:12+00:00",
+     "copete": "The K-pop star says he has suffered hearing issues for over two years before revealing it publicly this week.",
+     "id": "f364a9e037e2"
     },
     {
-     "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-     "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+     "title": "\"¡No, Marruecos no!\": el dilema de qué hacer con los niños no acompañados que llegaron a Ceuta y que España no sabe a quién devolver",
+     "link": "https://www.bbc.com/mundo/articles/cly9p3lgw6no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-13T03:48:00+00:00",
+     "copete": "Días después de la irrupción masiva de extranjeros en la ciudad española en el norte de África, cientos de menores no acompañados deambulan por sus calles.",
+     "id": "04488e4c104d"
+    },
+    {
+     "title": "El Kremlin teme los votos por la paz",
+     "link": "https://elpais.com/internacional/2026-08-13/el-kremlin-teme-los-votos-por-la-paz.html",
+     "source": "El País Internacional",
+     "published": "2026-08-13T03:30:01+00:00",
+     "copete": "El partido Yábloko, única formación de Rusia contra la guerra en Ucrania, ha pasado a ser contemplado por el poder como un peligro y ha sido excluido de las elecciones",
+     "id": "47d0c7a15076"
+    },
+    {
+     "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+     "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-12T23:19:57+00:00",
-     "copete": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
-     "id": "5853ee8f1836"
+     "published": "2026-08-13T03:28:56+00:00",
+     "copete": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+     "id": "e8201d357c5f"
     },
     {
      "title": "\"Al sentir el terremoto volví a la escuela por mi hija y una niña de 10 años acabó muriendo en mis brazos\"",
@@ -437,22 +452,6 @@
      "published": "2026-08-12T21:22:15+00:00",
      "copete": "En esta esquina de la ciudad colombiana, una de las más afectadas por el terremoto, un hombre con un megáfono lidera un ejército de desconocidos",
      "id": "11425680c415"
-    },
-    {
-     "title": "Karoline Leavitt, la portavoz más joven de la historia de la Casa Blanca, dejará su puesto a final de mes",
-     "link": "https://elpais.com/internacional/2026-08-12/karoline-leavitt-la-portavoz-mas-joven-de-la-historia-de-la-casa-blanca-dejara-su-puesto-a-final-de-mes.html",
-     "source": "El País Internacional",
-     "published": "2026-08-12T20:20:09+00:00",
-     "copete": "El presidente estadounidense anuncia la marcha de la secretaria de prensa, de 28 años, para dedicarse a cuidar a su familia",
-     "id": "e1950e03ba4e"
-    },
-    {
-     "title": "Las impresionantes imágenes del eclipse solar total que se pudo ver en Europa",
-     "link": "https://www.bbc.com/mundo/articles/cedjpv785qjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-12T20:12:59+00:00",
-     "copete": "En diferentes partes del continente, se pudo ver el fenómeno de manera parcial, mientras que en España se apreció en su totalidad.",
-     "id": "9f2457cd2d48"
     }
    ]
   }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T10:05:14Z",
+  "generated_at": "2026-08-13T22:08:34Z",
   "summaries": {
     "522742e148b7": {
       "resumen": "TCTMD recuerda al cirujano cardiovascular David Taggart, fallecido a los 69 años, referente en cirugía de revascularización coronaria y conocido por su franqueza para cuestionar dogmas del campo. Vale la pena por el repaso de su legado y su impronta en el debate sobre cirugía versus angioplastia.",
@@ -17,18 +17,13 @@
       "resumen": "Cobertura de TCTMD sobre la declaración científica 2026 del Colegio Americano de Cardiología (ACC, American College of Cardiology) acerca del deterioro cognitivo y la fragilidad en adultos mayores con enfermedad cardiovascular. Traduce a lenguaje más llano los puntos clave del documento original, útil para incorporarlos rápido a la práctica diaria sin leer el statement completo.",
       "destacado": false
     },
-    "9bcb774ad332": {
-      "resumen": "TCTMD reporta un estudio que muestra que las medidas de adiposidad central (por ejemplo, la circunferencia de cintura) predicen mejor el riesgo cardiovascular que el índice de masa corporal (IMC). Vale la pena porque cuestiona una medida antropométrica muy arraigada en la práctica y respalda migrar hacia indicadores de distribución de grasa.",
-      "destacado": true,
-      "analisis": "Diseño: Se infiere del título que se trata de un estudio (probablemente de cohorte o un análisis de datos poblacionales) que compara la capacidad predictiva de medidas de adiposidad central (circunferencia de cintura, índice cintura-cadera u otras) frente al índice de masa corporal (IMC) para el riesgo cardiovascular; sin abstract no hay precisión sobre aleatorización, ciego, número de centros ni de pacientes.\nPoblación: No especificada en el título disponible; probablemente una cohorte poblacional general o de pacientes con seguimiento cardiovascular, sin mayor detalle de criterios de inclusión o exclusión.\nIntervención: No aplica en sentido estricto (no es un ensayo de intervención); se comparan distintas medidas antropométricas (adiposidad central vs. IMC) como predictores de riesgo.\nResultados: El título indica que la adiposidad central aporta mayor capacidad de discriminación del riesgo cardiovascular que el IMC; no se dispone de cifras (razones de riesgo, intervalos de confianza, valor de p).\nLimitaciones: Sin abstract no se puede evaluar el método de ajuste por factores de confusión, el tipo exacto de medida de adiposidad central utilizada, ni si los hallazgos son generalizables a distintas poblaciones y grupos étnicos.\nMensaje: Si se confirma, refuerza que las medidas de adiposidad central deberían complementar o reemplazar al IMC en la estratificación de riesgo cardiovascular, con implicancia directa en el examen físico de rutina.\nNota: análisis sin acceso al abstract."
-    },
     "b1d14f57a216": {
       "resumen": "Fe de erratas publicada por el Journal of the American College of Cardiology (JACC) sobre un artículo previo; el título disponible (\"Correction\") no permite precisar a qué trabajo corrige. Se incluye solo como referencia bibliográfica, sin contenido clínico propio.",
       "destacado": false
     },
     "a1fc649f9735": {
       "resumen": "Artículo de perspectiva en JACC que analiza la brecha entre la evidencia de los ensayos clínicos con agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1) y su implementación real en la prevención cardiovascular. Sirve para pensar por qué, pese a los resultados positivos, estos fármacos siguen subutilizados en la práctica diaria.",
-      "destacado": false
+      "destacado": true
     },
     "e5dc882d4c27": {
       "resumen": "Artículo en JACC, con formato de editorial o perspectiva, que discute si conviene dejar de lado el índice de masa corporal (IMC) en favor de medidas basadas en la circunferencia de cintura para estimar el riesgo cardiovascular por adiposidad. Complementa la nota de TCTMD sobre adiposidad central y aporta el marco de discusión detrás del debate IMC vs. medidas de cintura.",
@@ -38,66 +33,61 @@
       "resumen": "Artículo del European Heart Journal (EHJ) que repasa el debate en curso entre el reemplazo valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation) y el reemplazo valvular aórtico quirúrgico (SAVR, surgical aortic valve replacement) para la estenosis aórtica. Vale la pena porque sintetiza hacia dónde se inclina la evidencia acumulada y ayuda a actualizar el criterio de elección de técnica en cada perfil de paciente.",
       "destacado": false
     },
-    "1e62aa997f39": {
-      "resumen": "Editorial del New England Journal of Medicine (NEJM) que comenta los resultados del ensayo LOGICAL sobre los objetivos de oxigenación (targets de oxígeno) en pacientes reanimados tras un paro cardíaco. Vale la pena porque suma evidencia al debate sobre oxigenoterapia restrictiva versus liberal en el posparo, un tema con guías todavía cambiantes.",
+    "14fbe3be1e6b": {
+      "resumen": "TCTMD reporta el lanzamiento de kits de herramientas gratuitos con recursos para reforzar las prácticas de radioprotección en el laboratorio de hemodinamia. Vale la pena porque la exposición crónica a radiación es un riesgo ocupacional real para los cardiólogos intervencionistas, y estos kits ofrecen material concreto para mejorar la protección del equipo de sala.",
       "destacado": false
     },
-    "742ee8759563": {
-      "resumen": "Réplica de los autores en el New England Journal of Medicine (NEJM) a una carta sobre la influencia de las hormonas sexuales en el riesgo cardiovascular. Cierra el intercambio epistolar y aporta matices sobre cómo interpretar diferencias de riesgo entre varones y mujeres según su perfil hormonal.",
+    "50f9ffd70672": {
+      "resumen": "Cerebras Systems detalla cómo aceleraron la inferencia del modelo de lenguaje GPT-5.6 (Sol Ultrafast) usando su hardware especializado en inteligencia artificial (IA). Le sirve a un médico que aprende análisis de datos para entender por qué la velocidad de respuesta de estos modelos depende tanto del chip que los corre como del modelo en sí, un factor a tener en cuenta al elegir herramientas de IA.",
       "destacado": false
     },
-    "ba245273fb1b": {
-      "resumen": "Carta al editor publicada en el New England Journal of Medicine (NEJM) que discute la influencia de las hormonas sexuales sobre el riesgo cardiovascular, en referencia a un estudio previo de la revista. Interesa porque plantea objeciones o matices metodológicos que enriquecen la lectura del trabajo original.",
+    "213d3a620241": {
+      "resumen": "Ensayo clásico de 2015 que plantea por qué conviene elegir tecnología \"aburrida\" y ya probada antes que la más novedosa a la hora de construir sistemas, reservando la innovación para lo que realmente aporta valor. Le sirve a un médico que aprende análisis de datos como criterio práctico para elegir herramientas (lenguajes, bases de datos, librerías) sin sumar complejidad innecesaria.",
       "destacado": false
     },
-    "e776ca0691b6": {
-      "resumen": "Artículo de Towards Data Science sobre cómo decidir el método de análisis (parsing) de documentos antes de construir un sistema de generación aumentada por recuperación (RAG, retrieval-augmented generation) totalmente autónomo, comparando herramientas como Docling, PaddleOCR o MinerU. Le sirve a un médico que aprende análisis de datos porque plantea un criterio práctico para elegir cómo extraer información de documentos (por ejemplo, historias clínicas o PDFs) antes de automatizar con inteligencia artificial (IA).",
+    "1ce9df3aa971": {
+      "resumen": "Nota que celebra el 45.º aniversario de Donkey.bas, un mini videojuego de apenas 131 líneas escrito en BASIC, uno de los primeros programas que corrieron en una PC. Le sirve a un médico que aprende análisis de datos como recordatorio de que se puede lograr mucho con código simple y bien pensado, sin depender de frameworks complejos.",
       "destacado": false
     },
-    "949f74284cbd": {
-      "resumen": "Tercera entrega de una serie de Towards Data Science que explica, paso a paso, cómo funciona la retropropagación del error (backpropagation), el algoritmo central para entrenar redes neuronales. Le sirve a un médico que aprende análisis de datos porque desmenuza en términos simples uno de los conceptos matemáticos más importantes detrás de la inteligencia artificial (IA) moderna.",
+    "f6846007d58f": {
+      "resumen": "Hilo de la comunidad r/datascience de Reddit que debate cuán vigente sigue el lenguaje R frente a Python en la industria actual. Le sirve a un médico que aprende análisis de datos para decidir en qué lenguaje conviene invertir tiempo de aprendizaje, sobre todo porque R sigue siendo fuerte en bioestadística y en la literatura médica.",
       "destacado": false
     },
-    "33288d234612": {
-      "resumen": "Guía de KDnuggets sobre cómo construir un proyecto de portafolio de ciencia de datos completo, que vaya más allá de un simple notebook exploratorio. Le sirve a un médico que aprende análisis de datos porque ofrece una hoja de ruta concreta para mostrar habilidades reales frente a potenciales empleadores o colaboradores.",
+    "ccebb06f6c32": {
+      "resumen": "Google presenta Gemini 3.7 Flash, la nueva versión liviana y rápida de su familia de modelos de inteligencia artificial (IA) Gemini, pensada para tareas de baja latencia y bajo costo. Le sirve a un médico que aprende análisis de datos para conocer una opción económica y veloz a la hora de integrar IA generativa en proyectos propios.",
+      "destacado": false
+    },
+    "4b3e777cda95": {
+      "resumen": "Artículo que retoma el Formato Abierto de Conocimiento (OKF, Open Knowledge Format) de Google —un esqueleto en Markdown más YAML— para un caso puntual: el intercambio de arreglos de números ya tokenizados entre agentes de inteligencia artificial (IA). Le sirve a un médico que aprende análisis de datos para entender cómo distintos sistemas de IA pueden compartir información estructurada de manera estandarizada.",
+      "destacado": false
+    },
+    "1e6ce4d0981f": {
+      "resumen": "Artículo sobre generación aumentada por recuperación (RAG, retrieval-augmented generation) empresarial que muestra cómo reducir la latencia y el costo de un sistema evitando llamadas innecesarias al modelo de lenguaje, en vez de simplemente comprar un modelo más rápido. Le sirve a un médico que aprende análisis de datos porque enseña a optimizar recursos computacionales antes de escalar infraestructura, un criterio aplicable a cualquier proyecto de IA con presupuesto limitado.",
       "destacado": true
     },
-    "a4a95721c707": {
-      "resumen": "OpenAI lanzó una versión de escritorio de ChatGPT/Codex para Linux, ampliando el acceso a su asistente de programación asistida por inteligencia artificial (IA) más allá de Windows y Mac. Le sirve a un médico que aprende análisis de datos porque facilita instalar y usar estas herramientas de programación con IA directamente en un entorno Linux, común en ciencia de datos.",
+    "6bf6d4c647c4": {
+      "resumen": "Guía de KDnuggets sobre cómo construir un agente de inteligencia artificial (IA) local con transmisión de datos en tiempo real (streaming), aclarando los dos sentidos distintos en que se usa ese término al hablar de agentes de IA. Le sirve a un médico que aprende análisis de datos para entender mejor cómo funcionan estos agentes por dentro antes de usarlos o construir uno propio.",
       "destacado": false
     },
-    "04d62565190e": {
-      "resumen": "Simon Willison comenta la salida de DeepSeek V4 Pro, la nueva versión del modelo de lenguaje grande (LLM, large language model) de la empresa china DeepSeek, disponible por ahora solo vía API a través de OpenRouter. Le sirve a un médico que aprende análisis de datos para conocer una alternativa más accesible en costo frente a los modelos de OpenAI o Anthropic.",
+    "9a9603074a83": {
+      "resumen": "Hilo de la comunidad r/datascience de Reddit donde se comparten las preguntas típicas de una primera entrevista laboral para puestos de ciencia de datos. Le sirve a un médico que aprende análisis de datos y piensa en una eventual transición de carrera, porque anticipa qué se evalúa realmente en esas instancias.",
       "destacado": false
     },
-    "9abd3fd24c08": {
-      "resumen": "Ensayo que reivindica la vigencia de los Principia Mathematica de Bertrand Russell y Alfred North Whitehead, mostrando que sus ideas sobre lógica formal siguen siendo relevantes. Le sirve a un médico que aprende análisis de datos porque esa lógica formal es la base conceptual de la programación y de los sistemas que sustentan la inteligencia artificial (IA) actual.",
+    "c3c48e432909": {
+      "resumen": "Tutorial de Towards Data Science sobre cómo coordinar una flota de bots OpenClaw para aumentar la productividad en tareas automatizadas. Le sirve a un médico que aprende análisis de datos como introducción práctica a la orquestación de múltiples agentes de inteligencia artificial (IA) trabajando en conjunto.",
       "destacado": false
     },
-    "590d8212a1ad": {
-      "resumen": "Nota sobre cómo una tendencia viral en redes sociales generó una escasez real de sardinas enlatadas en los supermercados, ilustrando el impacto de la difusión digital en el consumo. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de análisis de tendencias y efecto de red en datos de comportamiento de consumo.",
-      "destacado": false
+    "63a27114dd06": {
+      "resumen": "El técnico de River habló sobre el presente de Franco Mastantuono y Claudio Echeverri en el fútbol europeo y les deseó éxito, con la esperanza de que no tengan que volver antes de tiempo."
     },
-    "1afb54b1344a": {
-      "resumen": "Artículo técnico de Antithesis que describe cómo detectaron y depuraron un error de reinicio en el registro de escritura anticipada (WAL, write-ahead log) de una base de datos mediante pruebas exhaustivas automatizadas. Le sirve a un médico que aprende análisis de datos para entender mejor cómo garantizan las bases de datos la integridad de la información que después se analiza.",
-      "destacado": false
+    "c9045ab535e1": {
+      "resumen": "El jugador argentino continuará en el club australiano Western Force y disputará una temporada más en el Super Rugby Pacific."
     },
-    "96d1d535cf9d": {
-      "resumen": "Simon Willison presenta alchemy-utils, una primera versión experimental (0.1a0) de una herramienta pensada como equivalente agnóstico de base de datos de su popular sqlite-utils, desarrollada con ayuda de Codex y GPT-5.6. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo usar asistentes de inteligencia artificial (IA) para crear herramientas propias de manejo de datos.",
-      "destacado": false
+    "021e7e4642a7": {
+      "resumen": "Repaso de cuántos jugadores argentinos integrarán la próxima temporada del Top 14, la liga de rugby más importante de Francia."
     },
-    "4ed9ef2ed7b7": {
-      "resumen": "Simon Willison cita una anécdota de Florian Herrengt sobre un equipo que, tras varios intentos fallidos de arreglar un error con ayuda de inteligencia artificial (IA) generativa, termina recurriendo a la persona que originalmente escribió ese código. Le sirve a un médico que aprende análisis de datos como recordatorio de que la IA generativa no reemplaza el conocimiento profundo de quien construyó el sistema original.",
-      "destacado": false
-    },
-    "c01e9b367705": {
-      "resumen": "La Experiencia Pumas combinó el partido de Los Pumas ante Sudáfrica con propuestas gastronómicas y de networking, más allá de lo estrictamente deportivo."
-    },
-    "4056fd36e02e": {
-      "resumen": "Francisco Moreno contó cómo vivió su debut con la camiseta de Los Pumas y aseguró que se sentía preparado para el desafío."
-    },
-    "e580119ffa3c": {
-      "resumen": "Los Pumas ultiman los preparativos para presentarse ante Australia el 29 de agosto en Jujuy."
+    "b3b07a8dce4e": {
+      "resumen": "El medio scrum de Los Pumas recibió una noticia positiva de cara a la temporada que se viene."
     }
   }
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T07:58:26.986677+00:00",
+ "generated_at": "2026-08-13T09:36:10.533358+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -72,6 +72,30 @@
      "published": "2026-08-07T00:00:00+00:00",
      "copete": "For image description, please refer to the figure legend and surrounding text.",
      "id": "380bd84ff6e4"
+    },
+    {
+     "title": "Oxygen Targets after Cardiac Arrest - A LOGICAL Finding",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42555938/",
+     "source": "NEJM Cardiología",
+     "published": "2026-08-06T00:00:00+00:00",
+     "copete": "Andersen LW et al. · The New England journal of medicine",
+     "id": "1e62aa997f39"
+    },
+    {
+     "title": "Sex Hormone Influences on Cardiovascular Risk. Reply",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42526042/",
+     "source": "NEJM Cardiología",
+     "published": "2026-07-30T00:00:00+00:00",
+     "copete": "Skeith L et al. · The New England journal of medicine",
+     "id": "742ee8759563"
+    },
+    {
+     "title": "Sex Hormone Influences on Cardiovascular Risk",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42526041/",
+     "source": "NEJM Cardiología",
+     "published": "2026-07-30T00:00:00+00:00",
+     "copete": "Bonnet F et al. · The New England journal of medicine",
+     "id": "ba245273fb1b"
     }
    ]
   },
@@ -88,7 +112,7 @@
      "id": "4056fd36e02e"
     },
     {
-     "title": "Más allá del Rugby: Así se vivió la Experiencia Pumas, un encuentro que fusiona deporte, gastronomía y networking en el partido de Los Pumas vs. Sudáfrica – Marcela Fittipaldi Magazine",
+     "title": "Más allá del Rugby: Así se vivió la Experiencia Pumas, un encuentro que fusiona deporte, gastronomía y networking en el partido de Los Pumas vs. Sudáfrica",
      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNZmY0dmJzWU9zVjZwbzdrNGJtMVBRd0lHaXdvZDlxRko3bUNybnYtemZTNTNfRjBxaEJqTk1Qa2ZnaTFsaFBVZFNmOVRnQkdhUVpQUWZ6WHV3RGRWR095bHBaajhWZHoyelpjSVdKMDhhQmVIZURrcGFFenVnLUczWVpiSFZQYklSZS0zanFxMHAxUFhXRnY0VS1pVjl0TWVRV0pRa05mMm5OSHF4NDlLd19Ubnp2dFladEJMSGo3ZDVUX2daM3ZUOHM4SGwwVUtEZzVPQkdNZVZCd0lWMWNuZXhaLWNKZ0lWNTdYQmpXc1FGRThVZm9YZ19jcHpFT0xlVUZMS1pmZUFqSEJlb0VBQXh5OWFCcGNxZnhxRQ?oc=5",
      "source": "Marcela Fittipaldi Magazine",
      "published": "2026-08-13T01:51:43+00:00",
@@ -189,6 +213,13 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+     "link": "https://openai.com/codex/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-13T04:53:41+00:00",
+     "id": "a4a95721c707"
+    },
+    {
      "title": "DeepSeek V4 Pro 0813 (on OpenRouter)",
      "link": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
      "source": "Simon Willison (IA)",
@@ -211,26 +242,19 @@
      "id": "590d8212a1ad"
     },
     {
+     "title": "Breaking the WAL",
+     "link": "https://antithesis.com/blog/2026/wal-reset-bug/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-12T20:00:16+00:00",
+     "id": "1afb54b1344a"
+    },
+    {
      "title": "alchemy-utils 0.1a0",
      "link": "https://simonwillison.net/2026/Aug/12/alchemy-utils/",
      "source": "Simon Willison (IA)",
      "published": "2026-08-12T19:51:30+00:00",
      "copete": "Release: alchemy-utils 0.1a0 I've long pondered what a database agnostic version of my sqlite-utils Python library and CLI utility might look like. This morning (literally a shower project) I tasked Codex and GPT-5.6 Sol Ultra with…",
      "id": "96d1d535cf9d"
-    },
-    {
-     "title": "Delta",
-     "link": "https://zed.dev/blog/introducing-delta",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-12T18:19:59+00:00",
-     "id": "d2535f023812"
-    },
-    {
-     "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-     "link": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-12T16:51:25+00:00",
-     "id": "39b8dacf1d9b"
     },
     {
      "title": "Before Full Agentic RAG: Know How You Decide, and the Parsing Methods You Pick From",
@@ -272,99 +296,99 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Dylan, albañil argentino que trabaja en Australia: “Después de 8 horas de trabajo, nos vamos a casa con 320 dólares”",
-     "link": "https://www.lanacion.com.ar/lifestyle/dylan-albanil-argentino-que-trabaja-en-australia-despues-de-8-horas-de-trabajo-nos-vamos-a-casa-con-nid13082026/",
+     "title": "Por qué escribir la lista de compras en papel puede mejorar la concentración, según la psicología",
+     "link": "https://www.lanacion.com.ar/lifestyle/por-que-escribir-la-lista-de-compras-en-papel-puede-mejorar-la-concentracion-segun-la-psicologia-nid12082026/",
      "source": "La Nación",
-     "published": "2026-08-13T07:46:00+00:00",
-     "copete": "A través de un video, el hombre mostró parte de su rutina laboral en Oceanía y explicó cuánto puede llegar a ganar; los detalles",
-     "id": "6b7a2bb7434a"
+     "published": "2026-08-13T09:31:50+00:00",
+     "copete": "En una época dominada por celulares y aplicaciones, anotar a mano aquello que se necesita comprar continúa siendo una práctica habitual",
+     "id": "4d2b75b56266"
     },
     {
-     "title": "Una mujer participó de un robo de 15 millones de pesos y quedó detenida mientras buscan a sus cómplices",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/08/13/una-mujer-participo-de-un-robo-de-15-millones-de-pesos-y-quedo-detenida-mientras-buscan-a-sus-complices/",
-     "source": "Infobae",
-     "published": "2026-08-13T07:45:10+00:00",
-     "copete": "El asalto ocurrió el pasado 18 de julio en una vivienda de la localidad de Orán",
-     "id": "8754eadbb1b4"
-    },
-    {
-     "title": "La urgencia como síntoma contemporáneo: cuando la espera dejó de tener sentido",
-     "link": "https://www.infobae.com/opinion/2026/08/13/la-urgencia-como-sintoma-contemporaneo-cuando-la-espera-dejo-de-tener-sentido/",
-     "source": "Infobae",
-     "published": "2026-08-13T07:28:55+00:00",
-     "copete": "Todo parece organizado para reducir al mínimo la distancia entre el deseo y su satisfacción",
-     "id": "b17c5eb37392"
-    },
-    {
-     "title": "Claude va a dejar una marca invisible en sus textos",
-     "link": "https://www.infobae.com/opinion/2026/08/13/claude-va-a-dejar-una-marca-invisible-en-sus-textos/",
-     "source": "Infobae",
-     "published": "2026-08-13T07:28:51+00:00",
-     "copete": "Además, utilizará C2PA, un estándar que agrega información firmada sobre su procedencia",
-     "id": "cb6209730464"
-    },
-    {
-     "title": "El punto interior",
-     "link": "https://www.infobae.com/opinion/2026/08/13/el-punto-interior/",
-     "source": "Infobae",
-     "published": "2026-08-13T07:28:47+00:00",
-     "id": "33d9a30ba920"
-    },
-    {
-     "title": "Punto por punto: cómo es la nueva reglamentación para tener silenciadores y miras telescópicas nocturnas para armas",
-     "link": "https://www.infobae.com/sociedad/2026/08/13/nuevos-requisitos-para-la-portacion-de-armas-cuales-son-los-tramites-y-que-cambia/",
-     "source": "Infobae",
-     "published": "2026-08-13T07:22:21+00:00",
-     "copete": "El Gobierno publicó una resolución que detalla trámites, controles y criterios de evaluación, y suma un régimen específico para supresores de sonido y miras nocturnas",
-     "id": "524cfabfe835"
-    },
-    {
-     "title": "El Gobierno reglamentó la tenencia de silenciadores y miras nocturnas para armas: quiénes pueden registrarlos y cuáles son los requisitos",
-     "link": "https://www.clarin.com/sociedad/gobierno-reglamento-tenencia-silenciadores-miras-nocturnas-armas-pueden-registrarlos-requisitos_0_jBuIdoObmX.html",
-     "source": "Clarín",
-     "published": "2026-08-13T07:08:41+00:00",
-     "copete": "La medida fue oficializada mediante la Resolución 48/2026 del Registro Nacional de Armas, publicada en el Boletín Oficial. También se establecieron nuevos procedimientos para armas heredadas y criterios para solicitar la portación de armas…",
-     "id": "11f92603a220"
-    },
-    {
-     "title": "Qué significa el proverbio árabe: \"Aunque un amigo sea un encanto, no abuses de su bondad\"",
-     "link": "https://www.clarin.com/estados-unidos/significa-proverbio-arabe-amigo-encanto-abuses-bondad_0_tcJTjBBnRT.html",
-     "source": "Clarín",
-     "published": "2026-08-13T07:00:30+00:00",
-     "copete": "La vieja lección que enmarca los principios de una buena amistad.",
-     "id": "adea68a7339c"
-    },
-    {
-     "title": "Karlos Arguiñano, chef español, 77 años, sobre su infancia: \"Mi madre era impedida de las piernas de una polio, yo era el mayor de los cuatro hermanos y yo me acuerdo que llegaba de la escuela y le tenía que ayudar pues a pasar la salsa de tomate, a pelar las patatas limpiar los puerros y poner la mesa\"",
-     "link": "https://www.clarin.com/internacional/karlos-arguinano-chef-espanol-77-anos-infancia-madre-impedida-piernas-polio-mayor-hermanos-acuerdo-llegaba-escuela-ayudar-pasar-salsa-tomate-pelar-patatas-limpiar-puerros-poner-mesa_0_u6OTYmJAZF.html",
-     "source": "Clarín",
-     "published": "2026-08-13T07:00:30+00:00",
-     "copete": "El cocinero vasco, símbolo de la cultura gastronómica española, reveló cómo fueron sus inicios en el mundo culinario. Su infancia, su matrimonio de medio siglo y el legado de sus siete hijos.",
-     "id": "ab610c4cb317"
-    },
-    {
-     "title": "Dólar blue hoy: a cuánto cotiza este jueves 13 de agosto",
-     "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-jueves-13-agosto_0_bk8GV9yT0P.html",
-     "source": "Clarín",
-     "published": "2026-08-13T07:00:02+00:00",
-     "copete": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
-     "id": "2268326a252b"
-    },
-    {
-     "title": "Cuáles son los riesgos de usar el microondas en casa y cómo podemos reducirlos al máximo, según un experto",
-     "link": "https://www.lanacion.com.ar/sociedad/cuales-son-los-riesgos-de-usar-el-microondas-en-casa-y-como-podemos-reducirlos-al-maximo-segun-un-nid13082026/",
+     "title": "La mayor colecta de oro de la historia surcoreana: así fue la campaña que recaudó US$2130 millones",
+     "link": "https://www.lanacion.com.ar/el-mundo/la-mayor-colecta-de-oro-de-la-historia-surcoreana-asi-fue-la-campana-que-recaudo-us2130-millones-nid12082026/",
      "source": "La Nación",
-     "published": "2026-08-13T07:00:00+00:00",
-     "copete": "El médico Jorge Tartaglione advirtió en LN+ sobre una práctica cotidiana que muchas personas realizan sin prestar atención y recomendó evitar los recipientes de plástico, incluso aquellos identificados como aptos; cuál es la alternativa…",
-     "id": "245c10869a04"
+     "published": "2026-08-13T09:31:15+00:00",
+     "copete": "Desde la cruz de oro de un cardenal hasta los anillos de boda de familias comunes; un recorrido por el sacrificio colectivo que evitó la quiebra de una nación",
+     "id": "be1c7b309a19"
     },
     {
-     "title": "Javier Milei y sus medidas, en vivo: movimientos en Diputados y cumbre opositora",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-movimientos-en-diputados-y-cumbre-opositora-nid13082026/",
+     "title": "María Montessori, pedagoga italiana: “Nunca ayudes a un niño en una tarea en la que siente que puede tener éxito”",
+     "link": "https://www.lanacion.com.ar/lifestyle/maria-montessori-pedagoga-italiana-nunca-ayudes-a-un-nino-en-una-tarea-en-la-que-siente-que-puede-nid12082026/",
      "source": "La Nación",
-     "published": "2026-08-13T06:50:34+00:00",
-     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "bba02ec7d48d"
+     "published": "2026-08-13T09:30:24+00:00",
+     "copete": "La creadora del método Montessori defendía la autonomía como una herramienta fundamental para el aprendizaje de los chicos; conocé el significado de la frase",
+     "id": "9683bcb3ba77"
+    },
+    {
+     "title": "Hasta qué edad se celebra el Día del Niño y qué día cae en 2026",
+     "link": "https://www.lanacion.com.ar/lifestyle/hasta-que-edad-se-celebra-el-dia-del-nino-y-que-dia-cae-en-2026-nid12082026/",
+     "source": "La Nación",
+     "published": "2026-08-13T09:29:58+00:00",
+     "copete": "La festividad dedicada a la niñez se celebra el tercer domingo de agosto; descubrí cómo se originó y las mejores frases para compartir",
+     "id": "b10e4412be2b"
+    },
+    {
+     "title": "Nikki, la mujer de 77 años que lleva cuatro décadas viviendo sola en un velero: “Soy la capitana, la mecánica, la electricista; soy el todo”",
+     "link": "https://www.lanacion.com.ar/lifestyle/nikki-la-mujer-de-77-anos-que-lleva-cuatro-decadas-viviendo-sola-en-un-velero-soy-la-capitana-la-nid12082026/",
+     "source": "La Nación",
+     "published": "2026-08-13T09:28:55+00:00",
+     "copete": "Dejó su trabajo a principios de los años 80 y aprendió todo lo necesario para poder navegar sin depender de nadie en Alaska",
+     "id": "29516c59f14c"
+    },
+    {
+     "title": "Día del Niño 2026: cuándo se celebra en Argentina y cuál es su origen",
+     "link": "https://www.infobae.com/sociedad/2026/08/13/dia-del-nino-2026-cuando-se-celebra-en-argentina-y-cual-es-su-origen/",
+     "source": "Infobae",
+     "published": "2026-08-13T09:23:08+00:00",
+     "copete": "El festejo combina una iniciativa global en favor de la infancia con una costumbre argentina que suma juguetes, actividades recreativas y reuniones familiares como parte central de la jornada",
+     "id": "46ccd39027af"
+    },
+    {
+     "title": "El Mini moderno cumplió 25 años: la geometría de una torta de tres pisos y el olvido subsanado con dos latas de cervezas",
+     "link": "https://www.clarin.com/autos/mini-moderno-cumplio-25-anos-geometria-torta-pisos-olvido-subsanado-latas-cervezas_0_LTDP5QJBrN.html",
+     "source": "Clarín",
+     "published": "2026-08-13T09:06:33+00:00",
+     "copete": "Cómo su diseñador logró continuar el espíritu inconfundible del modelo de finales de los 50. A partir del icónico modelo se logró crear una familia de vehículos.",
+     "id": "a7ce43c1f932"
+    },
+    {
+     "title": "Los cuadernos",
+     "link": "https://www.clarin.com/opinion/cuadernos_0_mkrrB9QdiG.html",
+     "source": "Clarín",
+     "published": "2026-08-13T09:04:33+00:00",
+     "id": "a15e752fa445"
+    },
+    {
+     "title": "El regreso de John Galliano: el diseñador protagonizará la próxima gran exposición del Met",
+     "link": "https://www.clarin.com/viva/regreso-john-galliano-disenador-protagonizara-proxima-gran-exposicion-met_0_Cne4YBo2ra.html",
+     "source": "Clarín",
+     "published": "2026-08-13T09:04:33+00:00",
+     "copete": "Será homenajeado en 2027 con una retrospectiva en el Metropolitan Museum de Nueva York. La muestra repasará su legado en la moda y abordará la polémica que marcó su salida de Dior en 2011.",
+     "id": "faa1e04074d1"
+    },
+    {
+     "title": "El final de la Calle Oak ¿se atreve a lo que Jurassic Park no logró?",
+     "link": "https://www.clarin.com/espectaculos/final-calle-oak-atreve-jurassic-park-logro_0_MckRACUYIr.html",
+     "source": "Clarín",
+     "published": "2026-08-13T09:02:33+00:00",
+     "copete": "Anne Hathaway y Ewan McGregor son los padres de familia que deben luchar, literalmente, por su supervivencia. A la película le juega en contra que los efectos de los dinosaurios son demasiado evidentes.",
+     "id": "51dc02b94b05"
+    },
+    {
+     "title": "Yo Narciso, con Adrián Suar y Natalia Oreiro: enredos, humor y sentimientos",
+     "link": "https://www.clarin.com/espectaculos/narciso-adrian-suar-natalia-oreiro-enredos-humor-sentimientos_0_wZum0V4XGP.html",
+     "source": "Clarín",
+     "published": "2026-08-13T09:02:33+00:00",
+     "copete": "En la comedia Oreiro es una socióloga que busca un narcisista como modelo para escribir un libro. Suar también la dirige.",
+     "id": "dcbdc5626571"
+    },
+    {
+     "title": "“Solo se te concede una pequeña chispa de locura; no debes perderla”: el día que Robin Williams definió su filosofía de vida",
+     "link": "https://www.infobae.com/entretenimiento/2026/08/13/solo-se-te-concede-una-pequena-chispa-de-locura-no-debes-perderla-el-dia-que-robin-williams-definio-su-filosofia-de-vida/",
+     "source": "Infobae",
+     "published": "2026-08-13T09:00:01+00:00",
+     "copete": "La frase surgió en el Roxy Theatre de Los Ángeles durante su primer monólogo para HBO y se convirtió en el hilo conductor que unió personajes tan distintos como la Sra. Doubtfire, John Keating y Sean Maguire",
+     "id": "e3f4e90162a6"
     }
    ]
   },
@@ -377,7 +401,7 @@
      "title": "Sigue la búsqueda de desaparecidos en Colombia tras el terremoto que dejó al menos 265 muertos y 3.700 heridos",
      "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-08-13T07:58:26.916377+00:00",
+     "published": "2026-08-13T09:36:10.282456+00:00",
      "copete": "Rescatistas y vecinos buscan sobrevivientes tras el terremoto de magnitud 7,4 que sacudió Colombia este lunes. El presidente De la Espriella decretó desastre nacional y declaró emergencia económica para hacer frente al sismo más fuerte de…",
      "id": "376d42b3e6e7"
     },
@@ -385,9 +409,33 @@
      "title": "Así fue el espectacular eclipse solar total que se pudo ver en parte de Europa",
      "link": "https://www.bbc.co.uk/mundo/live/crwyjxjzj763t?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-08-13T07:58:26.916232+00:00",
+     "published": "2026-08-13T09:36:10.282299+00:00",
      "copete": "España fue el escenario de un eclipse solar total, el primero que se observa desde la península ibérica en más de un siglo y que forma parte de una inusual trilogía de eclipses.",
      "id": "b66af0e4ec06"
+    },
+    {
+     "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
+     "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-13T08:13:55+00:00",
+     "copete": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
+     "id": "71b6f39bd776"
+    },
+    {
+     "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+     "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-13T08:12:53+00:00",
+     "copete": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
+     "id": "09443cca3ddd"
+    },
+    {
+     "title": "Japón protesta por la primera visita de Putin a las islas Kuriles que Tokio reclama desde la II Guerra Mundial",
+     "link": "https://elpais.com/internacional/2026-08-13/japon-protesta-por-la-primera-visita-de-putin-a-las-islas-kuriles-que-tokio-reclama-desde-la-ii-guerra-mundial.html",
+     "source": "El País Internacional",
+     "published": "2026-08-13T08:04:04+00:00",
+     "copete": "El Gobierno japonés insiste en que esos territorios, anexionados por Moscú, le pertenecen por derecho histórico e internacional",
+     "id": "1dcd1af2f242"
     },
     {
      "title": "Twitch faces backlash over Amazon using content to train AI",
@@ -414,22 +462,6 @@
      "id": "1c87cd47d557"
     },
     {
-     "title": "Japan protests against Putin visit to disputed islands",
-     "link": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-13T06:21:31+00:00",
-     "copete": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
-     "id": "71b6f39bd776"
-    },
-    {
-     "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-13T04:55:58+00:00",
-     "copete": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-     "id": "3742c192c5e3"
-    },
-    {
      "title": "La lluvia amenaza los albergues improvisados de Cali: “No tenemos a dónde ir”",
      "link": "https://elpais.com/america-colombia/2026-08-13/la-lluvia-amenaza-los-albergues-improvisados-de-cali-no-tenemos-a-donde-ir.html",
      "source": "El País Internacional",
@@ -444,14 +476,6 @@
      "published": "2026-08-13T04:00:00+00:00",
      "copete": "Tras el terremoto en La Guaira, dos migrantes en Los Ángeles vivieron la pérdida de sus familias por videollamada. Sin permiso para salir de EE UU, lidian entre el dolor del exilio y la burocracia migratoria",
      "id": "e2eefd860b8f"
-    },
-    {
-     "title": "La incertidumbre y el temor se apoderan de Quibdó tras el terremoto: “¿Es verdad que la casita se va a caer?”",
-     "link": "https://elpais.com/america-colombia/2026-08-13/la-incertidumbre-y-el-temor-se-apoderan-de-quibdo-tras-el-terremoto-es-verdad-que-la-casita-se-va-a-caer.html",
-     "source": "El País Internacional",
-     "published": "2026-08-13T04:00:00+00:00",
-     "copete": "En la capital del Chocó, el departamento donde se registró el epicentro, los habitantes siguen a la espera de atención estatal",
-     "id": "5d59401a9fc8"
     }
    ]
   }
@@ -465,11 +489,6 @@
   {
    "section": "cardiologia",
    "feed": "Circulation (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "cardiologia",
-   "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]

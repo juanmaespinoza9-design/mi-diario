@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T22:06:26Z",
+  "generated_at": "2026-08-13T10:05:14Z",
   "summaries": {
     "522742e148b7": {
       "resumen": "TCTMD recuerda al cirujano cardiovascular David Taggart, fallecido a los 69 años, referente en cirugía de revascularización coronaria y conocido por su franqueza para cuestionar dogmas del campo. Vale la pena por el repaso de su legado y su impronta en el debate sobre cirugía versus angioplastia.",
@@ -38,28 +38,20 @@
       "resumen": "Artículo del European Heart Journal (EHJ) que repasa el debate en curso entre el reemplazo valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation) y el reemplazo valvular aórtico quirúrgico (SAVR, surgical aortic valve replacement) para la estenosis aórtica. Vale la pena porque sintetiza hacia dónde se inclina la evidencia acumulada y ayuda a actualizar el criterio de elección de técnica en cada perfil de paciente.",
       "destacado": false
     },
-    "d2535f023812": {
-      "resumen": "El editor de código Zed presenta Delta, una nueva función o producto dentro de su plataforma orientada a mejorar el flujo de trabajo de desarrollo (el posteo no detalla más que el nombre). Le sirve a un médico que aprende análisis de datos como forma de seguir de cerca las herramientas de programación asistidas por inteligencia artificial (IA) que van apareciendo en el ecosistema.",
+    "1e62aa997f39": {
+      "resumen": "Editorial del New England Journal of Medicine (NEJM) que comenta los resultados del ensayo LOGICAL sobre los objetivos de oxigenación (targets de oxígeno) en pacientes reanimados tras un paro cardíaco. Vale la pena porque suma evidencia al debate sobre oxigenoterapia restrictiva versus liberal en el posparo, un tema con guías todavía cambiantes.",
       "destacado": false
     },
-    "32cdb4e18a7e": {
-      "resumen": "El nuevo modelo Grok 4.6, de xAI, obtuvo un puntaje de 61 en el Artificial Analysis Intelligence Index, un índice independiente que compara el desempeño de distintos modelos de lenguaje grandes (LLM, large language model). Le sirve a un médico que aprende análisis de datos para ubicar el nivel relativo de este modelo frente a otros disponibles antes de elegir cuál usar.",
+    "742ee8759563": {
+      "resumen": "Réplica de los autores en el New England Journal of Medicine (NEJM) a una carta sobre la influencia de las hormonas sexuales en el riesgo cardiovascular. Cierra el intercambio epistolar y aporta matices sobre cómo interpretar diferencias de riesgo entre varones y mujeres según su perfil hormonal.",
+      "destacado": false
+    },
+    "ba245273fb1b": {
+      "resumen": "Carta al editor publicada en el New England Journal of Medicine (NEJM) que discute la influencia de las hormonas sexuales sobre el riesgo cardiovascular, en referencia a un estudio previo de la revista. Interesa porque plantea objeciones o matices metodológicos que enriquecen la lectura del trabajo original.",
       "destacado": false
     },
     "e776ca0691b6": {
       "resumen": "Artículo de Towards Data Science sobre cómo decidir el método de análisis (parsing) de documentos antes de construir un sistema de generación aumentada por recuperación (RAG, retrieval-augmented generation) totalmente autónomo, comparando herramientas como Docling, PaddleOCR o MinerU. Le sirve a un médico que aprende análisis de datos porque plantea un criterio práctico para elegir cómo extraer información de documentos (por ejemplo, historias clínicas o PDFs) antes de automatizar con inteligencia artificial (IA).",
-      "destacado": false
-    },
-    "fbdfaa10f2aa": {
-      "resumen": "Lanzamiento de DeepSeek V4 Pro, una nueva versión del modelo de lenguaje grande (LLM, large language model) de la empresa china DeepSeek, disponible a través de la plataforma OpenRouter. Le sirve a un médico que aprende análisis de datos para conocer otra alternativa —a menudo más económica— frente a los modelos de OpenAI o Anthropic.",
-      "destacado": false
-    },
-    "abadfb45f943": {
-      "resumen": "Anuncio oficial de xAI sobre el lanzamiento de Grok 4.6, la nueva versión de su modelo de lenguaje grande (LLM, large language model). Le sirve a un médico que aprende análisis de datos para mantenerse al tanto de las actualizaciones de los modelos de inteligencia artificial (IA) más usados en la actualidad.",
-      "destacado": false
-    },
-    "cd20ea4fd093": {
-      "resumen": "Simon Willison cita una anécdota de Florian Herrengt sobre un equipo que, tras varios intentos fallidos de arreglar un error con ayuda de inteligencia artificial (IA) generativa, termina recurriendo a la persona que originalmente escribió ese código. Le sirve a un médico que aprende análisis de datos como recordatorio de que la IA generativa no reemplaza el conocimiento profundo de quien construyó el sistema original.",
       "destacado": false
     },
     "949f74284cbd": {
@@ -70,19 +62,42 @@
       "resumen": "Guía de KDnuggets sobre cómo construir un proyecto de portafolio de ciencia de datos completo, que vaya más allá de un simple notebook exploratorio. Le sirve a un médico que aprende análisis de datos porque ofrece una hoja de ruta concreta para mostrar habilidades reales frente a potenciales empleadores o colaboradores.",
       "destacado": true
     },
-    "dd0ca51bca12": {
-      "resumen": "Tutorial de Towards Data Science sobre cómo construir flujos de trabajo multimodales (que combinan texto e imágenes) usando un modelo de lenguaje grande (LLM, large language model) local, con el modelo Gemma 4 y la herramienta Ollama, generando salidas estructuradas. Le sirve a un médico que aprende análisis de datos como ejemplo práctico de cómo correr modelos de inteligencia artificial (IA) sin depender de servicios en la nube, útil si se manejan datos sensibles.",
+    "a4a95721c707": {
+      "resumen": "OpenAI lanzó una versión de escritorio de ChatGPT/Codex para Linux, ampliando el acceso a su asistente de programación asistida por inteligencia artificial (IA) más allá de Windows y Mac. Le sirve a un médico que aprende análisis de datos porque facilita instalar y usar estas herramientas de programación con IA directamente en un entorno Linux, común en ciencia de datos.",
       "destacado": false
     },
-    "c2b2e120c7c3": {
-      "resumen": "Guía de KDnuggets con cinco formas de instalar Python en Windows: el instalador oficial, el Python Install Manager, WinGet, uv y Miniconda, con recomendaciones según el nivel de experiencia. Le sirve a un médico que aprende análisis de datos como referencia práctica para dejar bien configurado el entorno de trabajo antes de empezar a programar.",
+    "04d62565190e": {
+      "resumen": "Simon Willison comenta la salida de DeepSeek V4 Pro, la nueva versión del modelo de lenguaje grande (LLM, large language model) de la empresa china DeepSeek, disponible por ahora solo vía API a través de OpenRouter. Le sirve a un médico que aprende análisis de datos para conocer una alternativa más accesible en costo frente a los modelos de OpenAI o Anthropic.",
+      "destacado": false
+    },
+    "9abd3fd24c08": {
+      "resumen": "Ensayo que reivindica la vigencia de los Principia Mathematica de Bertrand Russell y Alfred North Whitehead, mostrando que sus ideas sobre lógica formal siguen siendo relevantes. Le sirve a un médico que aprende análisis de datos porque esa lógica formal es la base conceptual de la programación y de los sistemas que sustentan la inteligencia artificial (IA) actual.",
+      "destacado": false
+    },
+    "590d8212a1ad": {
+      "resumen": "Nota sobre cómo una tendencia viral en redes sociales generó una escasez real de sardinas enlatadas en los supermercados, ilustrando el impacto de la difusión digital en el consumo. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de análisis de tendencias y efecto de red en datos de comportamiento de consumo.",
+      "destacado": false
+    },
+    "1afb54b1344a": {
+      "resumen": "Artículo técnico de Antithesis que describe cómo detectaron y depuraron un error de reinicio en el registro de escritura anticipada (WAL, write-ahead log) de una base de datos mediante pruebas exhaustivas automatizadas. Le sirve a un médico que aprende análisis de datos para entender mejor cómo garantizan las bases de datos la integridad de la información que después se analiza.",
+      "destacado": false
+    },
+    "96d1d535cf9d": {
+      "resumen": "Simon Willison presenta alchemy-utils, una primera versión experimental (0.1a0) de una herramienta pensada como equivalente agnóstico de base de datos de su popular sqlite-utils, desarrollada con ayuda de Codex y GPT-5.6. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo usar asistentes de inteligencia artificial (IA) para crear herramientas propias de manejo de datos.",
+      "destacado": false
+    },
+    "4ed9ef2ed7b7": {
+      "resumen": "Simon Willison cita una anécdota de Florian Herrengt sobre un equipo que, tras varios intentos fallidos de arreglar un error con ayuda de inteligencia artificial (IA) generativa, termina recurriendo a la persona que originalmente escribió ese código. Le sirve a un médico que aprende análisis de datos como recordatorio de que la IA generativa no reemplaza el conocimiento profundo de quien construyó el sistema original.",
       "destacado": false
     },
     "c01e9b367705": {
       "resumen": "La Experiencia Pumas combinó el partido de Los Pumas ante Sudáfrica con propuestas gastronómicas y de networking, más allá de lo estrictamente deportivo."
     },
-    "8570baac1ebc": {
+    "4056fd36e02e": {
       "resumen": "Francisco Moreno contó cómo vivió su debut con la camiseta de Los Pumas y aseguró que se sentía preparado para el desafío."
+    },
+    "e580119ffa3c": {
+      "resumen": "Los Pumas ultiman los preparativos para presentarse ante Australia el 29 de agosto en Jujuy."
     }
   }
 }

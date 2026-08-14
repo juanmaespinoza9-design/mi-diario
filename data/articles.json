@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-08-13T23:07:22.368747+00:00",
+ "generated_at": "2026-08-14T03:02:32.021845+00:00",
  "sections": [
   {
    "id": "cardiologia",
    "title": "Cardiología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Ischaemic heart disease beyond obstructive coronary stenoses: from prevention to treatment",
+     "link": "https://academic.oup.com/eurheartj/article/47/31/4169/8761243?rss=1",
+     "source": "European Heart Journal",
+     "published": "2026-08-14T00:00:00+00:00",
+     "copete": "For image description, please refer to the figure legend and surrounding text. For the podcast associated with this article, please visit https://academic.oup.com/eurheartj/pages/Podcasts .",
+     "id": "7d7e3022b040"
+    },
     {
      "title": "RHD Series: Initiatives of the World Heart Federation to Fight",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZlhsdU9lX2wzRTdpWnJaTnFNOEcyUGxvRFVscGhWWndNaExGVlBuU1BobmFIRmVTaUo2SFd0RUFZUWJjZTZadW9HVFdJOG01akk0elJVMFR2d1R0OXJtMzdydnMwVU5wazAxWlVUZ0E5OFNxZXlOcXNNTkVCMEtnX05NQ01lZw?oc=5",
@@ -64,38 +72,6 @@
      "published": "2026-08-11T00:00:00+00:00",
      "copete": "Patel KV et al. · Journal of the American College of Cardiology",
      "id": "e5dc882d4c27"
-    },
-    {
-     "title": "Transcatheter aortic valve implantation vs surgical aortic valve replacement for aortic stenosis: the saga continues",
-     "link": "https://academic.oup.com/eurheartj/article/47/30/3997/8753322?rss=1",
-     "source": "European Heart Journal",
-     "published": "2026-08-07T00:00:00+00:00",
-     "copete": "For image description, please refer to the figure legend and surrounding text.",
-     "id": "380bd84ff6e4"
-    },
-    {
-     "title": "Oxygen Targets after Cardiac Arrest - A LOGICAL Finding",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42555938/",
-     "source": "NEJM Cardiología",
-     "published": "2026-08-06T00:00:00+00:00",
-     "copete": "Andersen LW et al. · The New England journal of medicine",
-     "id": "1e62aa997f39"
-    },
-    {
-     "title": "Sex Hormone Influences on Cardiovascular Risk. Reply",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42526042/",
-     "source": "NEJM Cardiología",
-     "published": "2026-07-30T00:00:00+00:00",
-     "copete": "Skeith L et al. · The New England journal of medicine",
-     "id": "742ee8759563"
-    },
-    {
-     "title": "Sex Hormone Influences on Cardiovascular Risk",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42526041/",
-     "source": "NEJM Cardiología",
-     "published": "2026-07-30T00:00:00+00:00",
-     "copete": "Bonnet F et al. · The New England journal of medicine",
-     "id": "ba245273fb1b"
     }
    ]
   },
@@ -105,20 +81,65 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Dos nuevos partidos confirmados para Los Pumas: Australia anunció sedes y fechas para recibir al seleccionado argentino",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPenZPOXEwd2RVRWc0Q0ZsRHBFQ0tWTkloeUg2R2hLcFEyMVJFaVpDQ3FRVHhtRmctTmZJT19mMEttNGMzaDdZOFE1d3k5VGoxR3Rpdk50V2dxTW5SQXNfVmM2dWhldzk1UTFMcURiQ2ViYVlodzVnNHNtYndZWEpVYmJ2VnBLT3NXNDVFdVVlSkVvS2o5QjZfc2hzQkQ4N2RVdi1kT2dqSzJ3LWxQaGhuSjJ1TGE3ZHZ3TTNXV2N4ZDE?oc=5",
+     "source": "ESPN Uruguay",
+     "published": "2026-08-14T02:05:44+00:00",
+     "id": "79eedf95a820"
+    },
+    {
+     "title": "Vojvoda bajó a dos futbolistas de la convocatoria contra Banfield",
+     "link": "https://www.ole.com.ar/racing/juanpablovojvoda-nazarenocolombo-santiagosolari-racing-banfield_0_qm4W43cXai.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-14T01:00:15+00:00",
+     "copete": "El técnico de Racing decidió no incluir al defensor Nazareno Colombo y al delantero Santiago Solari para el match de este viernes, ante el Taladro en el Cilindro.",
+     "id": "ca638b1b76c8"
+    },
+    {
+     "title": "Números impactantes: cuánto vale el plantel de River y cuánto les saca de diferencia a Boca y al resto",
+     "link": "https://www.ole.com.ar/river-plate/river-eduardo-coudet-plantel-millones-cuesta-vale-diferencia-boca-resto-mercado-pases-valor_0_XaFSSaiZ5x.html",
+     "source": "Olé — River",
+     "published": "2026-08-14T00:46:01+00:00",
+     "copete": "Con este mercado récord, el club amplió todavía más la diferencia de cotización con sus competidores. Ahora, el desafío es trasladar esos millones al campo de juego.",
+     "id": "bee9852f198e"
+    },
+    {
+     "title": "Atento River: Vasco no pudo con Olimpia",
+     "link": "https://www.ole.com.ar/futbol-internacional/sudamericana/vascodagama-olimpia-copasudamericana-riverplate-saojanuario-independientesantafe_0_iu7BCQd4q7.html",
+     "source": "Olé — River",
+     "published": "2026-08-14T00:39:30+00:00",
+     "copete": "El equipo carioca apenas empató 0 a 0 ante los guaraníes, en Río de Janeiro. De esa serie sale el rival de la serie del Millo ante Independiente Santa Fe en cuartos de final.",
+     "id": "43fcb67cfe27"
+    },
+    {
+     "title": "LOS PUMAS ENFRENTARÁN A AUSTRALIA EN TOWNSVILLE EN EL AÑO DEL MUNDIAL",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeEtST1dldUo3MVZwNzFCMjZ0THdXVWRXU2tzSkRWNHhJV2ZtNEt5WllOci1oZzN3bTl0SXczYzg4a0JqSmh3OVVwUjA5aHpqcFdubFZRb1BScEFobFV2TkpXUFd6WWNQTUgtQlNrUW9ra2ZnNHIybUpVRmpkOW83TEN1T1MtZ0NRdUc1NWd4LTZZWEJORlc0TktlSTFUN2liWW5Db3dCdXBvcEpuNXEzcUdwRlljZ1NI?oc=5",
+     "source": "Rugby Champagne",
+     "published": "2026-08-14T00:36:07+00:00",
+     "id": "188827e6ff58"
+    },
+    {
+     "title": "EL SUPER RUGBY AMERICAS SIGUE AMPLIANDO LA BASE DE LOS PUMAS",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOEF2c3VFNmZWQXV0QlAxbzQ1SXJpMTdwb3FXSmt3MDd6NkZXOUUwU1ZaTC1MSkhhR19iRWVBZFpWQ0dWWTBtRDFadEVLQ05Fc3V3U1Ayd3BMaDZmUXBHa3hDekZCal9BZERKSThzdkphbUFrUDVSeWczSWZyZWczSmU1amZoUXdOeHFlQmVFU25PcElKSnFNY2NQalRSNXdVczRFSm11WEt4VEhv?oc=5",
+     "source": "Rugby Champagne",
+     "published": "2026-08-14T00:33:45+00:00",
+     "id": "4e60ca68af4f"
+    },
+    {
+     "title": "Marconi: \"Haber estado en esta comisión fue uno de los grandes errores de mi vida\"",
+     "link": "https://www.ole.com.ar/independiente/independiente-juan-marconi_0_wN9wk1KOpu.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-13T23:28:52+00:00",
+     "copete": "El ex vicepresidente del Rojo habló sobre su estadía en la CD del club. \"Si hubiera tenido que hacer algo racional, con esta gente no tendría que haber entrado\", aseguró.",
+     "id": "dd735eb05f44"
+    },
+    {
      "title": "Platense vs. Boca, por el Torneo Clausura: día, horario y por dónde ver",
      "link": "https://www.ole.com.ar/futbol-primera/platense-vs-boca-partido-torneo-clausura-2026-dia-horario-tv_0_HTmvjLFOVl.html",
      "source": "Olé — Primera",
      "published": "2026-08-13T22:31:13+00:00",
      "copete": "Con la mente dividida entre el torneo local y los mano a mano de octavos, el Calamar de Palermo y el Xeneize del Vasco juegan un partidazo en Vicente López.",
      "id": "549d3b85ae01"
-    },
-    {
-     "title": "Estudiantes vs. Gimnasia, por el Torneo Clausura: día, horario y por dónde ver",
-     "link": "https://www.ole.com.ar/futbol-primera/estudiantes-vs-gimnasia-clasico-plata-dia-horario-ver_0_qjzkglhEnC.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-13T22:12:02+00:00",
-     "copete": "El Pincha, dividido entre el Clausura y la Libertadores, recibe en UNO a un Lobo que llega en racha con tres triunfos al hilo. Acá los detalles.",
-     "id": "d860869bdbd4"
     },
     {
      "title": "Coudet piensa en Argentinos: la posibilidad de Almada y ¿formación súper ofensiva?",
@@ -129,21 +150,6 @@
      "id": "5176e55c3f21"
     },
     {
-     "title": "La Calculadora de Olé de la fecha 5 del Torneo Clausura: ¿qué se juega cada uno de los equipos?",
-     "link": "https://www.ole.com.ar/futbol-primera/calculadora-ole-fecha-5-torneo-clausura-juega-equipo_0_en7At4ctaJ.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-13T21:57:53+00:00",
-     "copete": "Se pone en marcha el quinto capítulo de esta fase del torneo local: ¿cómo están las peleas por los playoffs, promedios y la tabla para las copas?",
-     "id": "fe92c736a84a"
-    },
-    {
-     "title": "Dos nuevos partidos confirmados para Los Pumas: Australia anunció sedes y fechas para recibir al seleccionado argentino",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWmJkaXd2dXBxM2lFcnJuUFMzZWd4aEk3Y09QV250UmdWU2JaYUduSDRnQjRlcTBoYXgwYTFJY0J2WG8zNUgtdFcyajJmRnJXMk1JbndVa3VWVV9SRkZKZU4wNjEwZkp0Ui1tTEZVNGdrSlJTMWhEM1NiV182YTRRN0hxME5kVGthWkpZeWJxb29Gam5ua1FSb2g1Yjh0VkJUSmVVUzd0Um9uSzFLS3BlVW1VZUY4UG8xa0JFWU1pcDBJRWlvdWVHdQ?oc=5",
-     "source": "ESPN Deportes",
-     "published": "2026-08-13T21:49:00+00:00",
-     "id": "a44c6b845085"
-    },
-    {
      "title": "Demichelis sobre Mastantuono y Echeverri: \"Les deseo que no se vuelvan\"",
      "link": "https://www.ole.com.ar/river-plate/river-plate-martin-demichelis-echeverri-mastantuono_0_HgzqVXhZKo.html",
      "source": "Olé — River",
@@ -152,42 +158,12 @@
      "id": "63a27114dd06"
     },
     {
-     "title": "Agustín Moyano seguirá en Western Force y jugará otra temporada en el Super Rugby Pacific",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUVJySDVLd1lLVEt2QjVZMzdINi1Tbzd2X2Z5Nl9zZV9EUkpZZU1VWTB5OW45cS05ZHAxQnFoWUszQWE0WktCWHk5Uk5hZkZ0VDBOVWpjTFpEeFU4YVBFVnhtTkl4Ym9kbkM4ck91NXdzb1h3dHdsU3NjaEh2dDlia1VnNGhoZUVkelB5WWRheEpQbENPSGstSC0yZGlQQlBEVEt5bzBfVXEwdklzY2lPb1ZWYW9tb2tibDNEQUx2bmhQR19rVmtJM1Rycw?oc=5",
-     "source": "La Voz del Interior",
-     "published": "2026-08-13T19:09:09+00:00",
-     "id": "c9045ab535e1"
-    },
-    {
      "title": "Por qué en River están muy atentos al interés del Manchester City por Enzo Fernández",
      "link": "https://www.ole.com.ar/river-plate/river-plate-enzo-fernandez-chelsea-manchester-city-mecanismo-solidaridad_0_vKw61xpKMt.html",
      "source": "Olé — River",
      "published": "2026-08-13T18:19:30+00:00",
      "copete": "Desde Núñez siguen de cerca la negociación porque en caso de concretarse la operación embolsarán una importante suma.",
      "id": "eff4bea65d67"
-    },
-    {
-     "title": "Los Pumas aumentan su presencia en el Top 14: cuántos argentinos tendrá la liga de Francia",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZUI5VzM2NXkxNFdqNGJOSDNDdU1vUDJRZ2hMeENPOV9YZm1wY09HZEUySDhPOE5MNnBsUFRkeHlTUXlUaEpxbFpvc0dHb21rb3NlZTM4bXpJWUhWaTRsUFY5dkJBbVc1TmtEQ0ZZS0F2TXg5ZGluVjRzYlNHbDI3cGhndDdnSTJ1RGFTWEZQOGxIZzBISElTdUstODQtdnpMSWFOVFRJQmlMMnhLZ1FRTWdYRWhjNmNFeHlPbVN3ZXh4TnlTUmRV?oc=5",
-     "source": "ESPN Argentina",
-     "published": "2026-08-13T18:03:00+00:00",
-     "id": "021e7e4642a7"
-    },
-    {
-     "title": "¿De River a jugar con una estrella Mundial? El club que busca a Kendry Páez",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-kendry-paez-chelsea-mohamed-salah-trabzonspor_0_OuBRiKcInZ.html",
-     "source": "Olé — River",
-     "published": "2026-08-13T17:00:34+00:00",
-     "copete": "El volante ecuatoriano no seguirá en Núñez y el Chelsea, dueño de su pase, le busca club.",
-     "id": "93e970f970ae"
-    },
-    {
-     "title": "Así se juega la fecha 5 de la Liga Profesional: día, hora, TV y un clásico",
-     "link": "https://www.ole.com.ar/futbol-primera/asi-juega-fecha-5-liga-profesional-partidos-dia-hora-tv-clasico-gimnasia-estudiantes_0_U6Nn2J2s8w.html",
-     "source": "Olé — River",
-     "published": "2026-08-13T15:49:04+00:00",
-     "copete": "Con Estudiantes - Gimnasia como plato fuerte, repasamos toda la programación de la quinta jornada del Torneo Clausura.",
-     "id": "0abf1ab7ebfe"
     },
     {
      "title": "Quedaron confirmados los cuartos de final del Torneo del Interior Copa Zurich 2026",
@@ -213,6 +189,37 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "sqlite-utils 4.2.1",
+     "link": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-08-13T23:53:47+00:00",
+     "copete": "Release: sqlite-utils 4.2.1 Fixes a crashing bug in sqlite-utils 4.2 . I'd introduced code that looks like this: from typing_extensions import Self It turned out the typing-extensions package was not listed as a dependency for sqlite-utils…",
+     "id": "3a85f23ac32b"
+    },
+    {
+     "title": "NP-overrated",
+     "link": "https://gruhn.me/blog/2026-08-13/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-13T20:14:17+00:00",
+     "id": "a932cf04aada"
+    },
+    {
+     "title": "sqlite-utils 4.2",
+     "link": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-08-13T20:11:29+00:00",
+     "copete": "Release: sqlite-utils 4.2 Lots of improvements in this one relating to the table.transform() feature , which adds support for complex alter table operations by creating a fresh table, copying across the data and then dropping and replacing…",
+     "id": "9ae5cf1d718f"
+    },
+    {
+     "title": "llm-gemini 0.33",
+     "link": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-08-13T19:37:34+00:00",
+     "copete": "Release: llm-gemini 0.33 It's been a while since the last llm-gemini release. This version of the plugin adds support for today's Gemini 3.7 Flash release, plus gemini-3.6-flash , gemini-3.5-flash-lite and two embedding models…",
+     "id": "6d7f7c3a0398"
+    },
+    {
      "title": "Understanding is the new bottleneck",
      "link": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
      "source": "Hacker News (100+ puntos)",
@@ -232,13 +239,6 @@
      "source": "Hacker News (100+ puntos)",
      "published": "2026-08-13T18:10:02+00:00",
      "id": "50f9ffd70672"
-    },
-    {
-     "title": "Where did the old web go? We followed 657,607 links to find out",
-     "link": "https://0.mk/blog/link-rot",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-13T17:49:18+00:00",
-     "id": "0d0ca0eaaa5a"
     },
     {
      "title": "How widely is R still used in industry today?",
@@ -262,29 +262,6 @@
      "published": "2026-08-13T15:00:00+00:00",
      "copete": "Enterprise Document Intelligence [Vol.1 #9ter] - The pipeline from Article 9 calls a model at several steps to be sure it is right. On easy questions that is needless latency. A per-question signal routes them past the model, about two…",
      "id": "1e6ce4d0981f"
-    },
-    {
-     "title": "Building a Streaming Local AI Agent",
-     "link": "https://www.kdnuggets.com/building-a-streaming-local-ai-agent",
-     "source": "KDnuggets",
-     "published": "2026-08-13T14:00:15+00:00",
-     "copete": "Streaming gets used in two different ways when people talk about AI agents. Straighten out your understanding here.",
-     "id": "6bf6d4c647c4"
-    },
-    {
-     "title": "Typical question in the first interview?",
-     "link": "https://www.reddit.com/r/datascience/comments/1vnbj8m/typical_question_in_the_first_interview/",
-     "source": "r/datascience",
-     "published": "2026-08-13T14:00:08+00:00",
-     "id": "9a9603074a83"
-    },
-    {
-     "title": "How to Orchestrate a Fleet of OpenClaw Bots",
-     "link": "https://towardsdatascience.com/how-to-orchestrate-a-fleet-of-openclaw-bots/",
-     "source": "Towards Data Science",
-     "published": "2026-08-13T13:30:00+00:00",
-     "copete": "Learn how to run OpenClaw bots for increased productivity The post How to Orchestrate a Fleet of OpenClaw Bots appeared first on Towards Data Science .",
-     "id": "c3c48e432909"
     }
    ]
   },
@@ -294,100 +271,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Créditos en dólares para empresas: cómo impactaría en el mercado inmobiliario",
-     "link": "https://www.lanacion.com.ar/propiedades/inversiones/creditos-en-dolares-para-empresas-como-impactaria-en-el-mercado-inmobiliario-nid13082026/",
-     "source": "La Nación",
-     "published": "2026-08-14T01:03:00+00:00",
-     "copete": "El Gobierno flexibilizará las condiciones para que los bancos puedan prestar dólares a las empresas y puso el foco principalmente en la industria de la construcción",
-     "id": "d2dbc402ded0"
+     "title": "El desafío de fabricar tecnología en la Argentina frente a un consumidor más informado",
+     "link": "https://www.infobae.com/inhouse/2026/08/14/el-desafio-de-fabricar-tecnologia-en-la-argentina-frente-a-un-consumidor-mas-informado/",
+     "source": "Infobae",
+     "published": "2026-08-14T03:01:00+00:00",
+     "copete": "La producción local de celulares y aires acondicionados se suma a una estrategia basada en datos para conocer los hábitos de los usuarios y orientar los próximos lanzamientos",
+     "id": "ccee4b195641"
     },
     {
-     "title": "Cuánto cuesta el Ford Territory en agosto 2026",
-     "link": "https://www.lanacion.com.ar/autos/cuanto-cuesta-el-ford-territory-en-agosto-2026-nid12082026/",
-     "source": "La Nación",
-     "published": "2026-08-13T23:05:08+00:00",
-     "copete": "El SUV mediano se ofrece en cuatro versiones, incluida la nueva Platinum presentada este mes; los precios parten de $48,8 millones",
-     "id": "56dc9717ae29"
+     "title": "Camiones y buses: cómo trabaja la tecnología que busca transformar la producción y el abastecimiento",
+     "link": "https://www.infobae.com/inhouse/2026/08/14/camiones-y-buses-como-trabaja-la-tecnologia-que-busca-transformar-la-produccion-y-el-abastecimiento/",
+     "source": "Infobae",
+     "published": "2026-08-14T03:01:00+00:00",
+     "copete": "Un nuevo complejo industrial incorporó sistemas para optimizar los procesos, mejorar los controles de calidad y reducir los tiempos de entrega de repuestos",
+     "id": "368d50bc296c"
     },
     {
-     "title": "Cuánto cuesta el Toyota Yaris en agosto 2026",
-     "link": "https://www.lanacion.com.ar/autos/cuanto-cuesta-el-toyota-yaris-en-agosto-2026-nid13082026/",
-     "source": "La Nación",
-     "published": "2026-08-13T23:05:04+00:00",
-     "copete": "El Toyota Yaris es uno de los pocos hatchback que se mantienen muy activos en los rankings de patentamientos, pese al avance de los SUV",
-     "id": "084aa3625082"
+     "title": "Promociones especiales para el Día del Niño: descuentos y beneficios en tecnología y entretenimiento",
+     "link": "https://www.infobae.com/inhouse/2026/08/14/promociones-especiales-para-el-dia-del-nino-descuentos-y-beneficios-en-tecnologia-y-entretenimiento/",
+     "source": "Infobae",
+     "published": "2026-08-14T03:01:00+00:00",
+     "copete": "Financiación en cuotas y ofertas exclusivas en tecnología y entretenimiento llegan para sorprender a los más chicos durante la jornada festiva",
+     "id": "79e3dcc5fdc9"
     },
     {
-     "title": "Cuánto cuesta el Toyota Corolla Cross en agosto 2026",
-     "link": "https://www.lanacion.com.ar/autos/cuanto-cuesta-el-toyota-corolla-cross-en-agosto-2026-nid11082026/",
-     "source": "La Nación",
-     "published": "2026-08-13T23:05:00+00:00",
-     "copete": "Toyota confirmó el precio del Corolla Cross para este octavo mes del año: cuánto vale el SUV mediano",
-     "id": "cf780636eba3"
+     "title": "Autos conectados: las claves de una nueva etapa para la movilidad",
+     "link": "https://www.infobae.com/inhouse/2026/08/14/autos-conectados-las-claves-de-una-nueva-etapa-para-la-movilidad/",
+     "source": "Infobae",
+     "published": "2026-08-14T03:01:00+00:00",
+     "copete": "La IA ya interviene en el desarrollo y la fabricación, mientras los vehículos incorporan comandos por voz, sistemas de asistencia y nuevas funciones de conectividad",
+     "id": "55f44c8adf02"
     },
     {
-     "title": "Javier Milei y sus medidas, en vivo: movimientos en Diputados y cumbre opositora",
+     "title": "Movilidad de nuevas energías: la tecnología que está transformando el mercado argentino",
+     "link": "https://www.infobae.com/inhouse/2026/08/14/movilidad-de-nuevas-energias-la-tecnologia-que-esta-transformando-el-mercado-argentino/",
+     "source": "Infobae",
+     "published": "2026-08-14T03:01:00+00:00",
+     "copete": "Autonomía extendida, recarga ultrarrápida y sistemas que anticipan el entorno: los avances que marcan un antes y un después en la experiencia de conducir un vehículo de última generación en el país",
+     "id": "9e29d933a304"
+    },
+    {
+     "title": "Los reyes de la baraja",
+     "link": "https://www.lanacion.com.ar/opinion/los-reyes-de-la-baraja-nid14082026/",
+     "source": "La Nación",
+     "published": "2026-08-14T03:00:00+00:00",
+     "copete": "Hoy en día ser dictador de derecha o de izquierda ha dejado de tener relevancia",
+     "id": "36fc4e99019a"
+    },
+    {
+     "title": "Rosario Central empató con Corinthians y buscará el pase a los cuartos de final de la Copa Libertadores en Brasil",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/rosario-central-igualo-con-corinthians-y-buscara-en-brasil-el-pase-a-los-cuartos-de-final-de-la-copa-nid13082026/",
+     "source": "La Nación",
+     "published": "2026-08-14T02:55:49+00:00",
+     "copete": "Igualó 0 a 0 en el Gigante de Arroyito y definirá la serie el jueves, en San Pablo",
+     "id": "2106cdc5d3fa"
+    },
+    {
+     "title": "Presentan nuevas imágenes en la causa por enriquecimiento ilícito que tiene en la mira a Martín Insaurralde y Jesica Cirio",
+     "link": "https://www.lanacion.com.ar/politica/presentan-nuevas-imagenes-en-la-causa-por-enriquecimiento-ilicito-que-tiene-en-la-mira-a-insaurralde-nid13082026/",
+     "source": "La Nación",
+     "published": "2026-08-14T02:55:23+00:00",
+     "copete": "Los denunciantes advierten que la casa donde vivían fue modificada y los cajones con fajos de dólares fueron vaciados; el material tendría información que permitiría saber cuándo fueron grabados",
+     "id": "0c23b0810d03"
+    },
+    {
+     "title": "“Un bofetón en la cara”: el enojo de DeSantis con los republicanos de la Cámara de Representantes en Florida",
+     "link": "https://www.lanacion.com.ar/estados-unidos/florida/un-bofeton-en-la-cara-el-enojo-de-desantis-con-los-republicanos-de-la-camara-de-representantes-en-nid13082026/",
+     "source": "La Nación",
+     "published": "2026-08-14T02:45:00+00:00",
+     "copete": "Conoce por qué Ron DeSantis cargó contra los republicanos de la Cámara de Florida por frenar un proyecto con exenciones no médicas a vacunas infantiles.",
+     "id": "84d8353f76cb"
+    },
+    {
+     "title": "El oficialismo avanza en un acuerdo con Pro y la oposición se reúne en una cumbre reservada",
      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-movimientos-en-diputados-y-cumbre-opositora-nid13082026/",
      "source": "La Nación",
-     "published": "2026-08-13T23:05:00+00:00",
+     "published": "2026-08-14T02:40:00+00:00",
      "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
      "id": "bba02ec7d48d"
     },
     {
-     "title": "Independiente hizo oficial la salida de Gustavo Quinteros: el duro comunicado y quiénes se harán cargo del plantel",
-     "link": "https://www.infobae.com/deportes/2026/08/13/independiente-hizo-oficial-la-salida-de-gustavo-quinteros-el-duro-comunicado-y-quienes-se-haran-cargo-del-plantel/",
-     "source": "Infobae",
-     "published": "2026-08-13T23:00:33+00:00",
-     "copete": "El club de Avellaneda informó que el santafesino dejó su cargo tras la eliminación en Copa Argentina",
-     "id": "7d8178f228d2"
-    },
-    {
-     "title": "168 fotos de la presentación del cortometraje de Infobae que recrea con IA el encuentro entre San Martín y Sarmiento",
-     "link": "https://www.infobae.com/fotos/2026/08/13/158-fotos-de-la-presentacion-del-cortometraje-de-infobae-que-recrea-con-ia-el-encuentro-entre-san-martin-y-sarmiento/",
-     "source": "Infobae",
-     "published": "2026-08-13T22:58:09+00:00",
-     "copete": "El evento se llevó a cabo en el Salón de Actos de la Facultad de Derecho de la UBA. Reunió a empresarios y dirigentes de todas las fuerzas políticas",
-     "id": "5c57718207e6"
-    },
-    {
-     "title": "Anthropic detecta que sus agentes de IA se enfrentan entre sí cuando tienen la misma tarea",
-     "link": "https://www.infobae.com/tecno/2026/08/13/anthropic-detecta-que-sus-agentes-de-ia-se-enfrentan-entre-si-cuando-tienen-la-misma-tarea/",
-     "source": "Infobae",
-     "published": "2026-08-13T22:57:26+00:00",
-     "copete": "Una investigación reciente reveló que los modelos de Claude desplegaron malware al percibir competencia interna",
-     "id": "c53c4a0f8314"
-    },
-    {
-     "title": "Fiscalía de El Salvador ejecuta la quema de droga valorada en USD 39,260",
-     "link": "https://www.infobae.com/el-salvador/2026/08/13/fiscalia-de-el-salvador-ejecuta-la-quema-de-droga-valorada-en-usd-39260/",
-     "source": "Infobae",
-     "published": "2026-08-13T22:57:25+00:00",
-     "copete": "La quema se realizó este jueves en Mejicanos, San Salvador y San Miguel, e incluyó marihuana, cocaína y metanfetamina vinculadas a 28 expedientes ya resueltos por los tribunales competentes",
-     "id": "3ae82023f5b0"
-    },
-    {
-     "title": "La ciencia reveló por qué algunas superficies del hogar acumulan polvo más rápido que otras",
-     "link": "https://www.infobae.com/tendencias/2026/08/13/la-ciencia-revelo-por-que-algunas-superficies-del-hogar-acumulan-polvo-mas-rapido-que-otras/",
-     "source": "Infobae",
-     "published": "2026-08-13T22:57:05+00:00",
-     "copete": "Un experimento doméstico de cuatro semanas, que estudió la física molecular, la electricidad estática y la humedad ambiental, determinó dónde se depositan estas partículas y cómo un purificador de aire logró superar a todos los métodos…",
-     "id": "29dc0e483d36"
-    },
-    {
-     "title": "Un elanio tijereta que sufrió un disparo volvió a volar en libertad tras una larga recuperación: \"Para un ave que pasa gran parte de su vida planeando por el cielo sin esfuerzo, era inevitable preguntarse si volvería a volar alguna vez\"",
-     "link": "https://www.clarin.com/internacional/elanio-tijereta-sufrio-disparo-volvio-volar-libertad-larga-recuperacion-ave-pasa-gran-parte-vida-planeando-cielo-esfuerzo-inevitable-preguntarse-volveria-volar-alguna-vez_0_q3d3Xobxhk.html",
+     "title": "Agostina Hein brilló en el Pan Pacific: bronce con récord sudamericano en un ensayo de una posible final olímpica en Los Ángeles 2028",
+     "link": "https://www.clarin.com/deportes/agostina-hein-brillo-pan-pacific-bronce-record-sudamericano-ensayo-posible-final-olimpica-angeles-2028_0_NUVZsv7ng5.html",
      "source": "Clarín",
-     "published": "2026-08-13T22:33:24+00:00",
-     "copete": "Un ave rescatada fue devuelta a la naturaleza tras haber recibido atención veterinaria. Fue liberada junto a otro ejemplar de la misma especie. El hecho ocurrió en Estados Unidos.",
-     "id": "3790b42dcc67"
+     "published": "2026-08-14T02:26:15+00:00",
+     "copete": "La campanense de 18 años finalizó tercera en los 400 metros medley. Compitió al lado de Summer McIntosh, reina de la prueba en la que tiene el récord mundial y es campeona olímpica y tricampeona mundial. En la definición, la argentina…",
+     "id": "8b5da1b714b5"
     },
     {
-     "title": "\"Algún cartucho se quedó en el arma\": cortaban una escopeta en un programa de desarme oficial y cuatro personas terminaron baleadas",
-     "link": "https://www.clarin.com/internacional/algun-cartucho-quedo-arma-cortaban-escopeta-programa-desarme-gobierno-personas-terminaron-heridas-balazos_0_kskVzKznEy.html",
+     "title": "Por la \"Ley de Alquileres\" de Mamdani | Las rentas en Manhattan y Brooklyn alcanzan un máximo histórico de 6.655 dólares al mes en medio de las nuevas políticas y la amenaza de un impuesto a las segundas residencias en Nueva York",
+     "link": "https://www.clarin.com/estados-unidos/reves-mamdani-rentas-manhattan-brooklyn-alcanzan-picos-historicos-mes-despues-aprobacion-congelamiento-alquileres_0_TGPL54bWhN.html",
      "source": "Clarín",
-     "published": "2026-08-13T22:30:17+00:00",
-     "copete": "Los heridos son civiles que presenciaban el acto donde personal militar realizaba la destrucción del arma que al ser presionada por una sierra se disparó. Ocurrió en la localidad mexicana de Tzintzuntzan, en Michoacán. Las víctimas se…",
-     "id": "518a452569ce"
+     "published": "2026-08-14T01:22:00+00:00",
+     "copete": "Un nuevo informe reportó que en julio el precio promedio de un departamento en estos dos distritos trepó a los US$ 5.000. Este periodo coincidió con las mudanzas de verano y una disminución de la oferta inmobiliaria en la ciudad más cara…",
+     "id": "4547164102be"
     }
    ]
   },
@@ -400,7 +377,7 @@
      "title": "Sigue la búsqueda de desaparecidos en Colombia tras el terremoto que dejó al menos 265 muertos y 3.700 heridos",
      "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-08-13T23:07:22.087729+00:00",
+     "published": "2026-08-14T03:02:31.899994+00:00",
      "copete": "Rescatistas y vecinos buscan sobrevivientes tras el terremoto de magnitud 7,4 que sacudió Colombia este lunes. El presidente De la Espriella decretó desastre nacional y declaró emergencia económica para hacer frente al sismo más fuerte de…",
      "id": "376d42b3e6e7"
     },
@@ -408,9 +385,25 @@
      "title": "El espectacular eclipse solar total que se pudo ver en parte de Europa",
      "link": "https://www.bbc.co.uk/mundo/live/crwyjxjzj763t?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-08-13T23:07:22.087505+00:00",
+     "published": "2026-08-14T03:02:31.899778+00:00",
      "copete": "España fue el escenario de un eclipse solar total, el primero que se observa desde la península ibérica en más de un siglo y que forma parte de una inusual trilogía de eclipses.",
      "id": "b66af0e4ec06"
+    },
+    {
+     "title": "Las ejecuciones de 3 hombres en un mismo día que reflejan el aumento del uso de la pena de muerte en EE.UU.",
+     "link": "https://www.bbc.com/mundo/articles/c77g5zk52pxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-14T00:40:47+00:00",
+     "copete": "A pesar de una creciente oposición a la pena capital, un solo estado es el responsable del incremento en las cifras.",
+     "id": "a821c79165ca"
+    },
+    {
+     "title": "Las preocupantes condiciones a bordo del portaaviones de EE.UU. que lleva más de 250 días en el mar por la guerra de Irán",
+     "link": "https://www.bbc.com/mundo/articles/cdrv4j4v02do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-13T23:42:20+00:00",
+     "copete": "Según diversos reportes, miles de marinos a bordo del USS Abraham Lincoln se han enfrentado a la escasez de alimentos y a problemas con las tuberías, y algunos incluso han considerado saltar por la borda.",
+     "id": "51deb8b6eb4e"
     },
     {
      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
@@ -459,22 +452,6 @@
      "published": "2026-08-13T19:41:28+00:00",
      "copete": "El número de presos muertos por la pena capital caía en los últimos años hasta que en 2025 repuntó hasta los 47",
      "id": "5c5534bfdd67"
-    },
-    {
-     "title": "Cuál es la importancia de los Altos del Golán y por qué es polémico que Colombia reconozca la soberanía israelí sobre ellos",
-     "link": "https://www.bbc.com/mundo/articles/cd0xp44y755o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-13T19:25:54+00:00",
-     "copete": "Aunque Israel ocupa desde 1967 los Altos del Golán, solo Estados Unidos y Colombia reconocen su soberanía sobre esta meseta con gran valor estratégico.",
-     "id": "6b8f0e94140e"
-    },
-    {
-     "title": "La incertidumbre y el temor se apoderan de Quibdó tras el terremoto: “¿Es verdad que la casita se va a caer?”",
-     "link": "https://elpais.com/america-colombia/2026-08-13/la-incertidumbre-y-el-temor-se-apoderan-de-quibdo-tras-el-terremoto-es-verdad-que-la-casita-se-va-a-caer.html",
-     "source": "El País Internacional",
-     "published": "2026-08-13T17:45:50+00:00",
-     "copete": "En la capital del Chocó, el departamento donde se registró el epicentro, los habitantes siguen a la espera de atención estatal",
-     "id": "5d59401a9fc8"
     }
    ]
   }
@@ -488,6 +465,11 @@
   {
    "section": "cardiologia",
    "feed": "Circulation (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "cardiologia",
+   "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]

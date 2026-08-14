@@ -1,48 +1,23 @@
 {
-  "generated_at": "2026-08-14T10:07:47Z",
+  "generated_at": "2026-08-14T22:14:00Z",
   "summaries": {
-    "522742e148b7": {
-      "resumen": "TCTMD recuerda al cirujano cardiovascular David Taggart, fallecido a los 69 años, referente en cirugía de revascularización coronaria y conocido por su franqueza para cuestionar dogmas del campo. Vale la pena por el repaso de su legado y su impronta en el debate sobre cirugía versus angioplastia.",
-      "destacado": false
-    },
-    "3366ced78369": {
-      "resumen": "Nota de TCTMD que repasa los vacíos de evidencia, las guías vigentes y las innovaciones terapéuticas en el manejo de la insuficiencia aórtica (regurgitación aórtica) de cara a 2026. Sirve para actualizar el enfoque diagnóstico y de seguimiento de una valvulopatía con guías todavía poco definidas.",
-      "destacado": false
-    },
-    "22200ae487d5": {
-      "resumen": "Octavo episodio de una serie de entrevistas de TCTMD con el cardiólogo e investigador Kausik Ray, que reflexiona sobre el rol de la suerte y la disciplina en su carrera científica. Interesa como mirada personal sobre cómo se construye una trayectoria en investigación cardiovascular.",
-      "destacado": false
-    },
     "b1d14f57a216": {
       "resumen": "Fe de erratas publicada por el Journal of the American College of Cardiology (JACC) sobre un artículo previo; el título disponible (\"Correction\") no permite precisar a qué trabajo corrige. Se incluye solo como referencia bibliográfica, sin contenido clínico propio.",
       "destacado": false
     },
     "a1fc649f9735": {
       "resumen": "Artículo de perspectiva en JACC que analiza la brecha entre la evidencia de los ensayos clínicos con agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1) y su implementación real en la prevención cardiovascular. Sirve para pensar por qué, pese a los resultados positivos, estos fármacos siguen subutilizados en la práctica diaria.",
-      "destacado": true
+      "destacado": true,
+      "analisis": "Diseño: artículo de perspectiva/análisis publicado en JACC (Journal of the American College of Cardiology) sobre la brecha de implementación de los agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1) en prevención cardiovascular; no se trata de un ensayo clínico original, sino de una revisión crítica posterior a los grandes ensayos.\nPoblación: no aplica un criterio de inclusión/exclusión de pacientes individuales; el foco son los pacientes con enfermedad cardiovascular aterosclerótica y/u obesidad que serían candidatos a agonistas del receptor de GLP-1 según la evidencia de los ensayos ya publicados.\nIntervención: no evalúa una intervención nueva; analiza por qué la prescripción real de agonistas del receptor de GLP-1 sigue siendo baja pese a los beneficios cardiovasculares demostrados en ensayos previos.\nResultados: no se dispone de cifras propias (no es un estudio con datos originales) y no se pudo acceder al abstract completo para precisar qué brechas cuantifica.\nLimitaciones: al ser un artículo de opinión/perspectiva, sus conclusiones no surgen de datos originales propios sino de la síntesis de literatura existente y la mirada de los autores.\nMensaje: llama la atención sobre la distancia entre la evidencia de los ensayos clínicos con agonistas del receptor de GLP-1 y su uso real en prevención cardiovascular, con foco en barreras de acceso, costo y prescripción.\nNota: análisis sin acceso al abstract."
     },
     "e5dc882d4c27": {
       "resumen": "Artículo en JACC, con formato de editorial o perspectiva, que discute si conviene dejar de lado el índice de masa corporal (IMC) en favor de medidas basadas en la circunferencia de cintura para estimar el riesgo cardiovascular por adiposidad. Complementa la nota de TCTMD sobre adiposidad central y aporta el marco de discusión detrás del debate IMC vs. medidas de cintura.",
-      "destacado": false
+      "destacado": false,
+      "analisis": "Diseño: artículo de perspectiva/revisión publicado en JACC (Journal of the American College of Cardiology) que discute el rol de las medidas de adiposidad basadas en la cintura frente al índice de masa corporal (IMC) para estimar riesgo cardiovascular; no queda claro por el título si incluye un análisis de datos original o es puramente narrativo, y no se pudo acceder al abstract para confirmarlo.\nPoblación: población adulta en la que se compara el valor pronóstico cardiovascular del IMC frente a medidas de adiposidad central (circunferencia de cintura, índice cintura-cadera o similares).\nIntervención: no hay una intervención terapéutica; se comparan distintas formas de medir adiposidad como herramientas de estratificación de riesgo cardiovascular.\nResultados: no disponibles con precisión por falta de acceso al abstract.\nLimitaciones: sin la fuente primaria no es posible saber si se trata de un análisis de cohorte propio o de una revisión de literatura existente, lo que limita la solidez de cualquier conclusión cuantitativa.\nMensaje: refuerza el debate sobre reemplazar o complementar el IMC con medidas de adiposidad central para una estimación más precisa del riesgo cardiovascular en la práctica clínica.\nNota: análisis sin acceso al abstract."
     },
     "14fbe3be1e6b": {
       "resumen": "TCTMD reporta el lanzamiento de kits de herramientas gratuitos con recursos para reforzar las prácticas de radioprotección en el laboratorio de hemodinamia. Vale la pena porque la exposición crónica a radiación es un riesgo ocupacional real para los cardiólogos intervencionistas, y estos kits ofrecen material concreto para mejorar la protección del equipo de sala.",
       "destacado": false
-    },
-    "f6846007d58f": {
-      "resumen": "Hilo de la comunidad r/datascience de Reddit que debate cuán vigente sigue el lenguaje R frente a Python en la industria actual. Le sirve a un médico que aprende análisis de datos para decidir en qué lenguaje conviene invertir tiempo de aprendizaje, sobre todo porque R sigue siendo fuerte en bioestadística y en la literatura médica.",
-      "destacado": false
-    },
-    "4b3e777cda95": {
-      "resumen": "Artículo que retoma el Formato Abierto de Conocimiento (OKF, Open Knowledge Format) de Google —un esqueleto en Markdown más YAML— para un caso puntual: el intercambio de arreglos de números ya tokenizados entre agentes de inteligencia artificial (IA). Le sirve a un médico que aprende análisis de datos para entender cómo distintos sistemas de IA pueden compartir información estructurada de manera estandarizada.",
-      "destacado": false
-    },
-    "1e6ce4d0981f": {
-      "resumen": "Artículo sobre generación aumentada por recuperación (RAG, retrieval-augmented generation) empresarial que muestra cómo reducir la latencia y el costo de un sistema evitando llamadas innecesarias al modelo de lenguaje, en vez de simplemente comprar un modelo más rápido. Le sirve a un médico que aprende análisis de datos porque enseña a optimizar recursos computacionales antes de escalar infraestructura, un criterio aplicable a cualquier proyecto de IA con presupuesto limitado.",
-      "destacado": true
-    },
-    "63a27114dd06": {
-      "resumen": "El técnico de River habló sobre el presente de Franco Mastantuono y Claudio Echeverri en el fútbol europeo y les deseó éxito, con la esperanza de que no tengan que volver antes de tiempo."
     },
     "7d7e3022b040": {
       "resumen": "Revisión del European Heart Journal sobre la cardiopatía isquémica más allá de las estenosis coronarias obstructivas —el cuadro conocido como isquemia con arterias coronarias no obstructivas (INOCA) o angina microvascular—, desde la prevención hasta el tratamiento. Vale la pena porque es una entidad subdiagnosticada, más frecuente en mujeres, y esta puesta al día ayuda a sospecharla y manejarla en la consulta diaria.",
@@ -52,35 +27,71 @@
       "resumen": "TCTMD presenta una serie sobre las iniciativas de la Federación Mundial del Corazón (World Heart Federation) para combatir la cardiopatía reumática (RHD, rheumatic heart disease), una enfermedad todavía muy prevalente en países de ingresos bajos y medios. Vale la pena por el repaso de estrategias de prevención y control de una patología desatendida pero relevante en salud pública cardiovascular.",
       "destacado": false
     },
-    "e6c53596b4a8": {
-      "resumen": "Z.ai presenta GLM-5.3, un nuevo modelo de lenguaje orientado a programación (coding) que según sus desarrolladores incorpora capacidades emergentes preocupantes en el terreno de la ciberseguridad ofensiva. Le sirve a un médico que aprende análisis de datos para seguir de cerca cómo evoluciona la carrera de modelos de código abierto y qué riesgos nuevos trae esa capacidad creciente."
+    "3e9ab9eca463": {
+      "resumen": "TCTMD reporta un estudio que evaluó si el puntaje de calcio coronario (CAC, calcium score) puede calcularse de forma precisa a partir de tomografías de tórax sin sincronización cardíaca (no gatilladas), habitualmente pedidas por otros motivos. Vale la pena porque, si se confirma, permitiría aprovechar millones de estudios de tórax ya realizados para estratificar riesgo cardiovascular sin exponer al paciente a radiación ni estudios adicionales.",
+      "destacado": false,
+      "analisis": "Diseño: nota periodística de TCTMD sobre un estudio de validación diagnóstica; no se dispone del diseño exacto (prospectivo/retrospectivo, número de centros y pacientes) porque no se pudo acceder al artículo original ni a un abstract en PubMed.\nPoblación: pacientes sometidos a tomografía de tórax no gatillada por indicaciones no cardíacas, en quienes se estimó el calcio coronario de forma retrospectiva sobre esas imágenes.\nIntervención: cuantificación del calcio coronario (CAC) derivado de TC de tórax sin gatillado cardíaco, comparado contra el estándar de TC cardíaca gatillada específica para score de calcio.\nResultados: no disponibles con precisión (no hay acceso al abstract); el título sugiere buena correlación/exactitud entre ambos métodos para predecir riesgo cardiovascular.\nLimitaciones: falta de acceso a la fuente primaria impide valorar el tamaño muestral, el método estadístico de concordancia y posibles sesgos de selección.\nMensaje: si se confirma en estudios prospectivos, oportunidad de \"cribado oportunista\" de riesgo cardiovascular reutilizando TC de tórax ya indicadas por otras razones (por ejemplo estudios oncológicos o de tamizaje pulmonar), sin necesidad de un estudio dedicado.\nNota: análisis sin acceso al abstract."
     },
-    "1475fd126ea6": {
-      "resumen": "Bluesky presenta sus Protocol Services, un conjunto de servicios de infraestructura para facilitar que terceros construyan aplicaciones sobre el protocolo abierto AT (Authenticated Transfer Protocol) en el que se basa la red social. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo se diseña una infraestructura de datos abierta y descentralizada, un concepto trasladable a proyectos propios de intercambio de información."
+    "609f5755d386": {
+      "resumen": "TCTMD cubre un estudio sobre el uso de telemedicina liderada por enfermeros de práctica avanzada (nurse practitioners) para el manejo del accidente cerebrovascular (ACV) agudo, como alternativa a la evaluación neurológica presencial o por médico a distancia. Interesa porque en muchos centros sin neurólogo vascular disponible las 24 horas, este modelo podría agilizar la decisión de trombolisis sin perder calidad de atención.",
+      "destacado": false,
+      "analisis": "Diseño: nota de TCTMD sobre un estudio (probablemente observacional o de implementación) que compara telemedicina para ACV agudo liderada por enfermeros de práctica avanzada frente al modelo tradicional; no se pudo acceder al artículo original para precisar diseño, número de centros ni de pacientes.\nPoblación: pacientes con sospecha de accidente cerebrovascular agudo evaluados por telemedicina en el servicio de urgencias.\nIntervención: evaluación y toma de decisiones (por ejemplo indicación de trombolisis) por enfermeros de práctica avanzada vía telemedicina, comparado con el modelo estándar (neurólogo vascular presencial o por telemedicina).\nResultados: no disponibles con precisión por falta de acceso al abstract; el título indica que la modalidad resultó una \"opción sólida\", sugiriendo resultados comparables al estándar.\nLimitaciones: sin la fuente primaria no es posible evaluar tiempos puerta-aguja, tasas de complicaciones ni el entrenamiento específico del personal de enfermería involucrado.\nMensaje: podría respaldar la ampliación de modelos de telemedicina liderados por enfermería para ACV agudo en centros con acceso limitado a neurología vascular, aunque conviene esperar confirmación con la publicación completa.\nNota: análisis sin acceso al abstract."
     },
-    "3a85f23ac32b": {
-      "resumen": "Simon Willison libera la versión 4.2.1 de sqlite-utils, una corrección rápida que soluciona un error de arranque introducido en la versión anterior por una dependencia faltante. Le sirve a un médico que aprende análisis de datos porque sqlite-utils es una herramienta simple y muy usada para manipular bases de datos SQLite desde la línea de comandos sin necesidad de saber SQL avanzado."
+    "d98a9496e7fd": {
+      "resumen": "Entrega de la serie \"On Record\" de TCTMD, con formato de entrevista o debate, que discute si las estrategias de detección y tratamiento sistemático de la estenosis aórtica (AS, aortic stenosis) realmente funcionan en la práctica. Vale la pena por la mirada crítica sobre programas de pesquisa de una valvulopatía frecuente y subdiagnosticada en adultos mayores.",
+      "destacado": false
     },
-    "a932cf04aada": {
-      "resumen": "Artículo de divulgación que cuestiona cuánto peso práctico tiene realmente el problema P versus NP (si todo problema cuya solución es fácil de verificar también es fácil de resolver) para el trabajo cotidiano de programación. Le sirve a un médico que aprende análisis de datos para entender, sin necesidad de formación matemática avanzada, por qué ciertos problemas de optimización son intrínsecamente difíciles de resolver de forma exacta."
+    "75d00b92f98c": {
+      "resumen": "Relato en primera persona de un científico de datos sobre cómo la inteligencia artificial (IA) cambió radicalmente su rutina laboral diaria en 2026, desde la exploración de datos hasta la comunicación de resultados. Le sirve a un médico que aprende análisis de datos para dimensionar qué tareas de un científico de datos hoy se automatizan con IA y dónde sigue siendo imprescindible el criterio humano.",
+      "destacado": false
     },
-    "9ae5cf1d718f": {
-      "resumen": "Simon Willison presenta sqlite-utils 4.2, con mejoras en la función table.transform(), que permite alterar tablas de forma compleja creando una tabla nueva, copiando los datos y reemplazando la original. Le sirve a un médico que aprende análisis de datos para modificar la estructura de sus bases SQLite (agregar o cambiar columnas) sin perder la información ya cargada."
+    "a489d739725e": {
+      "resumen": "Hilo de la comunidad r/datascience que resume qué aprendió el equipo de Hugging Face al intentar reproducir 2.200 artículos presentados en ICML (International Conference on Machine Learning), una de las principales conferencias de aprendizaje automático. Le sirve a un médico que aprende análisis de datos para entender cuán frecuente es la falta de reproducibilidad en investigación computacional, un problema análogo al de la investigación clínica.",
+      "destacado": true
     },
-    "35f3a67fc4b3": {
-      "resumen": "Artículo de Quanta Magazine (de 2020, resurgido en Hacker News) que explica de forma accesible cómo funciona la demostración del teorema de incompletitud de Gödel. Le sirve a un médico que aprende análisis de datos para entender los límites lógicos de cualquier sistema formal, una base conceptual útil para pensar los límites de los modelos y algoritmos con los que trabaja."
+    "ac01be975ce9": {
+      "resumen": "RustDesk, un software de acceso remoto de código abierto, anunció soporte para control remoto verdaderamente desatendido en sistemas Linux con Wayland. Le sirve a un médico que aprende análisis de datos como alternativa gratuita y abierta para administrar computadoras o servidores propios a distancia, sin depender de herramientas comerciales.",
+      "destacado": false
     },
-    "6d7f7c3a0398": {
-      "resumen": "Simon Willison actualiza el plugin llm-gemini a la versión 0.33, sumando soporte para el nuevo modelo Gemini 3.7 Flash y otros modelos livianos y de embeddings de Google. Le sirve a un médico que aprende análisis de datos para seguir usando desde la línea de comandos los modelos más nuevos y económicos de Google sin cambiar de herramienta."
+    "ca3f698bc87c": {
+      "resumen": "El máximo tribunal de Francia bloqueó una ley que buscaba prohibir el acceso a redes sociales a menores de 15 años, por considerar que restringe de forma desproporcionada la libertad de expresión. Le sirve a un médico que aprende análisis de datos como ejemplo del choque entre regulación de plataformas digitales y derechos individuales, un debate de fondo en cualquier política de datos y algoritmos.",
+      "destacado": false
     },
-    "79eedf95a820": {
-      "resumen": "Australia confirmó las sedes y fechas de dos nuevos partidos que Los Pumas jugarán en su gira, sumando definiciones de cara al año del Mundial."
+    "36eb2bae6fbc": {
+      "resumen": "AI by Hand es un recurso educativo que enseña los fundamentos matemáticos de la inteligencia artificial y las redes neuronales resolviendo a mano, paso a paso, los cálculos que normalmente hacen las bibliotecas de software. Le sirve a un médico que aprende análisis de datos para entender qué pasa \"por dentro\" de un modelo antes de usarlo como caja negra.",
+      "destacado": false
     },
-    "4e60ca68af4f": {
-      "resumen": "El Super Rugby Americas continúa ampliando la base de jugadores de Los Pumas, sumando cantera de cara a las próximas convocatorias del seleccionado."
+    "ab1f720db0b9": {
+      "resumen": "Google presenta avances para hacer viable en la práctica el uso de cifrado homomórfico, una técnica que permite que un modelo de inteligencia artificial procese datos cifrados sin necesidad de descifrarlos. Le sirve a un médico que aprende análisis de datos porque es clave para poder usar IA sobre datos sensibles de pacientes sin comprometer su privacidad.",
+      "destacado": false
     },
-    "188827e6ff58": {
-      "resumen": "Los Pumas enfrentarán a Australia en la ciudad de Townsville, en un partido que se suma al calendario del año del Mundial."
+    "3393aeaaa648": {
+      "resumen": "Artículo técnico sobre generación aumentada por recuperación (RAG, retrieval-augmented generation) que explica cómo diseñar un \"despachante\" (dispatcher) que decide cuándo un sistema de IA debe repetir una búsqueda de información y cuándo debe detenerse y responder. Le sirve a un médico que aprende análisis de datos para entender cómo se controla que un asistente de IA no entre en bucles infinitos ni se quede corto al buscar información confiable.",
+      "destacado": false
+    },
+    "5afe83667f9f": {
+      "resumen": "Tutorial de KDnuggets que enseña a construir, con Python, un raspador web (web scraper) potenciado por inteligencia artificial capaz de convertir cualquier página en un motor simple de preguntas y respuestas, limpiando el HTML y resumiendo el contenido. Le sirve a un médico que aprende análisis de datos como primer proyecto práctico para combinar extracción de datos web con modelos de lenguaje.",
+      "destacado": false
+    },
+    "7fb7f1bdb855": {
+      "resumen": "Relato de un científico de datos sobre cómo un paso de preprocesamiento mal diseñado dejó que su modelo de predicción de precios de autos \"espiara\" el conjunto de prueba antes de la evaluación final, inflando artificialmente su desempeño. Le sirve a un médico que aprende análisis de datos como advertencia concreta sobre la fuga de datos (data leakage), un error frecuente que hace parecer un modelo mejor de lo que realmente es.",
+      "destacado": false
+    },
+    "03ebf83adc2f": {
+      "resumen": "KDnuggets selecciona cinco artículos científicos recientes y accesibles sobre inteligencia artificial agéntica (agentic AI), sistemas capaces de planificar y ejecutar tareas de forma más autónoma. Le sirve a un médico que aprende análisis de datos como puerta de entrada liviana a la literatura técnica sobre agentes de IA, sin necesidad de leer papers extensos.",
+      "destacado": false
+    },
+    "580de0c1afd5": {
+      "resumen": "El ranking de World Rugby pone en foco cómo puede afectar a la posición de Los Pumas el resultado del partido entre Australia y Japón."
+    },
+    "2b7b20de2a53": {
+      "resumen": "Un referente de Los Pumas fue reconocido entre los mejores del mundo en su puesto, según el ranking o listado citado por ESPN Argentina."
+    },
+    "6067f7a8968d": {
+      "resumen": "Los Pumas ya tienen confirmado que jugarán en la ciudad australiana de Townsville en las giras de 2027 y 2030."
+    },
+    "3341e11bf7a8": {
+      "resumen": "High On Life VR llega en 2027 con armas y sistema de movimiento rediseñados para su versión en realidad virtual."
     }
   }
 }

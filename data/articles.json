@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T03:02:32.021845+00:00",
+ "generated_at": "2026-08-14T05:50:02.195514+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -72,6 +72,30 @@
      "published": "2026-08-11T00:00:00+00:00",
      "copete": "Patel KV et al. · Journal of the American College of Cardiology",
      "id": "e5dc882d4c27"
+    },
+    {
+     "title": "Oxygen Targets after Cardiac Arrest - A LOGICAL Finding",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42555938/",
+     "source": "NEJM Cardiología",
+     "published": "2026-08-06T00:00:00+00:00",
+     "copete": "Andersen LW et al. · The New England journal of medicine",
+     "id": "1e62aa997f39"
+    },
+    {
+     "title": "Sex Hormone Influences on Cardiovascular Risk. Reply",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42526042/",
+     "source": "NEJM Cardiología",
+     "published": "2026-07-30T00:00:00+00:00",
+     "copete": "Skeith L et al. · The New England journal of medicine",
+     "id": "742ee8759563"
+    },
+    {
+     "title": "Sex Hormone Influences on Cardiovascular Risk",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42526041/",
+     "source": "NEJM Cardiología",
+     "published": "2026-07-30T00:00:00+00:00",
+     "copete": "Bonnet F et al. · The New England journal of medicine",
+     "id": "ba245273fb1b"
     }
    ]
   },
@@ -189,6 +213,13 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Bluesky Protocol Services",
+     "link": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-14T00:14:28+00:00",
+     "id": "1475fd126ea6"
+    },
+    {
      "title": "sqlite-utils 4.2.1",
      "link": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
      "source": "Simon Willison (IA)",
@@ -234,13 +265,6 @@
      "id": "7a470e4fd867"
     },
     {
-     "title": "Accelerating GPT-5.6 Sol Ultrafast",
-     "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-13T18:10:02+00:00",
-     "id": "50f9ffd70672"
-    },
-    {
      "title": "How widely is R still used in industry today?",
      "link": "https://www.reddit.com/r/datascience/comments/1vnh7w2/how_widely_is_r_still_used_in_industry_today/",
      "source": "r/datascience",
@@ -271,100 +295,99 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "El desafío de fabricar tecnología en la Argentina frente a un consumidor más informado",
-     "link": "https://www.infobae.com/inhouse/2026/08/14/el-desafio-de-fabricar-tecnologia-en-la-argentina-frente-a-un-consumidor-mas-informado/",
-     "source": "Infobae",
-     "published": "2026-08-14T03:01:00+00:00",
-     "copete": "La producción local de celulares y aires acondicionados se suma a una estrategia basada en datos para conocer los hábitos de los usuarios y orientar los próximos lanzamientos",
-     "id": "ccee4b195641"
-    },
-    {
-     "title": "Camiones y buses: cómo trabaja la tecnología que busca transformar la producción y el abastecimiento",
-     "link": "https://www.infobae.com/inhouse/2026/08/14/camiones-y-buses-como-trabaja-la-tecnologia-que-busca-transformar-la-produccion-y-el-abastecimiento/",
-     "source": "Infobae",
-     "published": "2026-08-14T03:01:00+00:00",
-     "copete": "Un nuevo complejo industrial incorporó sistemas para optimizar los procesos, mejorar los controles de calidad y reducir los tiempos de entrega de repuestos",
-     "id": "368d50bc296c"
-    },
-    {
-     "title": "Promociones especiales para el Día del Niño: descuentos y beneficios en tecnología y entretenimiento",
-     "link": "https://www.infobae.com/inhouse/2026/08/14/promociones-especiales-para-el-dia-del-nino-descuentos-y-beneficios-en-tecnologia-y-entretenimiento/",
-     "source": "Infobae",
-     "published": "2026-08-14T03:01:00+00:00",
-     "copete": "Financiación en cuotas y ofertas exclusivas en tecnología y entretenimiento llegan para sorprender a los más chicos durante la jornada festiva",
-     "id": "79e3dcc5fdc9"
-    },
-    {
-     "title": "Autos conectados: las claves de una nueva etapa para la movilidad",
-     "link": "https://www.infobae.com/inhouse/2026/08/14/autos-conectados-las-claves-de-una-nueva-etapa-para-la-movilidad/",
-     "source": "Infobae",
-     "published": "2026-08-14T03:01:00+00:00",
-     "copete": "La IA ya interviene en el desarrollo y la fabricación, mientras los vehículos incorporan comandos por voz, sistemas de asistencia y nuevas funciones de conectividad",
-     "id": "55f44c8adf02"
-    },
-    {
-     "title": "Movilidad de nuevas energías: la tecnología que está transformando el mercado argentino",
-     "link": "https://www.infobae.com/inhouse/2026/08/14/movilidad-de-nuevas-energias-la-tecnologia-que-esta-transformando-el-mercado-argentino/",
-     "source": "Infobae",
-     "published": "2026-08-14T03:01:00+00:00",
-     "copete": "Autonomía extendida, recarga ultrarrápida y sistemas que anticipan el entorno: los avances que marcan un antes y un después en la experiencia de conducir un vehículo de última generación en el país",
-     "id": "9e29d933a304"
-    },
-    {
-     "title": "Los reyes de la baraja",
-     "link": "https://www.lanacion.com.ar/opinion/los-reyes-de-la-baraja-nid14082026/",
+     "title": "Oficial en Florida: DeSantis anuncia una inversión millonaria que busca generar nuevos empleos",
+     "link": "https://www.lanacion.com.ar/estados-unidos/florida/oficial-en-florida-desantis-anuncia-una-inversion-millonaria-que-busca-generar-nuevos-empleos-nid14082026/",
      "source": "La Nación",
-     "published": "2026-08-14T03:00:00+00:00",
-     "copete": "Hoy en día ser dictador de derecha o de izquierda ha dejado de tener relevancia",
-     "id": "36fc4e99019a"
+     "published": "2026-08-14T05:41:00+00:00",
+     "copete": "Inversión millonaria en Florida: descubre el plan oficial de Ron DeSantis para impulsar el puerto de Pensacola y la creación de nuevos empleos",
+     "id": "33d73d6247d3"
     },
     {
-     "title": "Rosario Central empató con Corinthians y buscará el pase a los cuartos de final de la Copa Libertadores en Brasil",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/rosario-central-igualo-con-corinthians-y-buscara-en-brasil-el-pase-a-los-cuartos-de-final-de-la-copa-nid13082026/",
+     "title": "Horacio Marín habló sobre el precio de la nafta: “No vamos a especular”",
+     "link": "https://www.lanacion.com.ar/politica/horacio-marin-hablo-sobre-el-precio-de-la-nafta-no-vamos-a-especular-nid13082026/",
      "source": "La Nación",
-     "published": "2026-08-14T02:55:49+00:00",
-     "copete": "Igualó 0 a 0 en el Gigante de Arroyito y definirá la serie el jueves, en San Pablo",
-     "id": "2106cdc5d3fa"
+     "published": "2026-08-14T05:40:24+00:00",
+     "copete": "El CEO y presidente de YPF sostuvo que a ningún gobierno provincial le tocamos las regalías y se refirió a la nueva inversión que se desarrollará en el país",
+     "id": "9854d91015c5"
     },
     {
-     "title": "Presentan nuevas imágenes en la causa por enriquecimiento ilícito que tiene en la mira a Martín Insaurralde y Jesica Cirio",
-     "link": "https://www.lanacion.com.ar/politica/presentan-nuevas-imagenes-en-la-causa-por-enriquecimiento-ilicito-que-tiene-en-la-mira-a-insaurralde-nid13082026/",
+     "title": "Corrían picadas en pleno centro de La Plata y fueron detenidos",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/08/14/corrian-picadas-en-pleno-centro-de-la-plata-y-fueron-detenidos/",
+     "source": "Infobae",
+     "published": "2026-08-14T05:31:21+00:00",
+     "copete": "Un Volkswagen Golf y una Ford Ranger fueron secuestrados tras detectarse una competencia ilegal en City Bell. Los conductores no pudieron acreditar la documentación obligatoria",
+     "id": "31f65f7e0fd4"
+    },
+    {
+     "title": "Entrenar sin abandonar: la clave de la constancia para envejecer con fuerza y autonomía",
+     "link": "https://www.infobae.com/generacion-silver/2026/08/14/entrenar-sin-abandonar-la-clave-de-la-constancia-para-envejecer-con-fuerza-y-autonomia/",
+     "source": "Infobae",
+     "published": "2026-08-14T05:27:56+00:00",
+     "copete": "Entre bandas elásticas, mancuernas livianas y peso corporal, aparece un principio que ordena el plan y una advertencia sobre el esfuerzo extremo que todavía confunde a muchos",
+     "id": "b1992bb28198"
+    },
+    {
+     "title": "Un altar con pedidos personales: qué hallaron los investigadores en la escena del femicidio de Villa Devoto",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/08/14/un-altar-con-pedidos-personales-que-hallaron-los-investigadores-en-la-escena-del-femicidio-de-villa-devoto/",
+     "source": "Infobae",
+     "published": "2026-08-14T05:27:06+00:00",
+     "copete": "El juez Darío Bonanno recorrió el domicilio donde fue asesinada Romina María de los Ángeles Calvo en busca de elementos de interés para la causa",
+     "id": "25a60f7936f6"
+    },
+    {
+     "title": "Visitó Argentina una referente internacional de la lucha por la abolición universal de la maternidad subrogada",
+     "link": "https://www.infobae.com/opinion/2026/08/14/visito-argentina-una-referente-internacional-de-la-lucha-por-la-abolicion-universal-de-la-maternidad-subrogada/",
+     "source": "Infobae",
+     "published": "2026-08-14T05:26:29+00:00",
+     "copete": "La abolición de la explotación reproductiva es un imperativo del estado de derecho. Olivia Maurel dio charlas en la UBA, la Universidad Austral, el Congreso de la Nación y la Legislatura de la Ciudad de Buenos Aires",
+     "id": "6223e4a91b8c"
+    },
+    {
+     "title": "“Quiero formar una familia”: Gonzalo Aziz habló sobre la búsqueda del amor, la paternidad como proyecto y la ansiedad por el paso del tiempo",
+     "link": "https://www.infobae.com/reportajes/2026/08/14/quiero-formar-una-familia-gonzalo-aziz-hablo-sobre-la-busqueda-del-amor-la-paternidad-como-proyecto-y-la-ansiedad-por-el-paso-del-tiempo/",
+     "source": "Infobae",
+     "published": "2026-08-14T05:25:58+00:00",
+     "copete": "En Ellos, el periodista y conductor reflexionó sobre su deseo de compartir la vida con alguien, construir un hogar y comenzar una nueva etapa después de haber priorizado durante años su carrera profesional. Además, habló de sus miedos y…",
+     "id": "aa3d2478fe7e"
+    },
+    {
+     "title": "Con un carrusel celestial e invitados de lujo, El Kuelgue hizo una fiesta en el Movistar Arena y presentó su nuevo disco",
+     "link": "https://www.lanacion.com.ar/espectaculos/musica/con-un-carrusel-celestial-e-invitados-de-lujo-el-kuelgue-hizo-una-fiesta-en-el-movistar-arena-y-nid14082026/",
      "source": "La Nación",
-     "published": "2026-08-14T02:55:23+00:00",
-     "copete": "Los denunciantes advierten que la casa donde vivían fue modificada y los cajones con fajos de dólares fueron vaciados; el material tendría información que permitiría saber cuándo fueron grabados",
-     "id": "0c23b0810d03"
+     "published": "2026-08-14T05:11:12+00:00",
+     "copete": "La banda de Villa Crespo, liderada por Julián Kartun, brindó un concierto en el marco de la presentación de su sexto álbum de estudio, Díscolo",
+     "id": "8423a55d17d9"
     },
     {
-     "title": "“Un bofetón en la cara”: el enojo de DeSantis con los republicanos de la Cámara de Representantes en Florida",
-     "link": "https://www.lanacion.com.ar/estados-unidos/florida/un-bofeton-en-la-cara-el-enojo-de-desantis-con-los-republicanos-de-la-camara-de-representantes-en-nid13082026/",
+     "title": "Eckhart Tolle, conferencista y guía espiritual: “Hay que hacer del ahora el foco primario de la vida”",
+     "link": "https://www.lanacion.com.ar/sociedad/eckhart-tolle-conferencista-y-guia-espiritual-hay-que-hacer-del-ahora-el-foco-primario-de-la-vida-nid14082026/",
      "source": "La Nación",
-     "published": "2026-08-14T02:45:00+00:00",
-     "copete": "Conoce por qué Ron DeSantis cargó contra los republicanos de la Cámara de Florida por frenar un proyecto con exenciones no médicas a vacunas infantiles.",
-     "id": "84d8353f76cb"
+     "published": "2026-08-14T05:00:00+00:00",
+     "copete": "El escritor y referente espiritual sostiene que gran parte del sufrimiento humano nace de la identificación constante con el pasado y el futuro",
+     "id": "b5e5b059b73d"
     },
     {
-     "title": "El oficialismo avanza en un acuerdo con Pro y la oposición se reúne en una cumbre reservada",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-movimientos-en-diputados-y-cumbre-opositora-nid13082026/",
-     "source": "La Nación",
-     "published": "2026-08-14T02:40:00+00:00",
-     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "bba02ec7d48d"
-    },
-    {
-     "title": "Agostina Hein brilló en el Pan Pacific: bronce con récord sudamericano en un ensayo de una posible final olímpica en Los Ángeles 2028",
-     "link": "https://www.clarin.com/deportes/agostina-hein-brillo-pan-pacific-bronce-record-sudamericano-ensayo-posible-final-olimpica-angeles-2028_0_NUVZsv7ng5.html",
+     "title": "Un mujer denunció que su pareja le tiró agua hirviendo y quiso prender fuego la casa con ella adentro",
+     "link": "https://www.clarin.com/sociedad/mujer-denuncio-pareja-tiro-agua-hirviendo-quiso-prender-fuego-casa-adentro_0_BBZXwj60H4.html",
      "source": "Clarín",
-     "published": "2026-08-14T02:26:15+00:00",
-     "copete": "La campanense de 18 años finalizó tercera en los 400 metros medley. Compitió al lado de Summer McIntosh, reina de la prueba en la que tiene el récord mundial y es campeona olímpica y tricampeona mundial. En la definición, la argentina…",
-     "id": "8b5da1b714b5"
+     "published": "2026-08-14T04:33:18+00:00",
+     "copete": "El episodio ocurrió en Tolosa, en La Plata; El acusado fue detenido pero luego lo liberaron.",
+     "id": "1bddcf2b8adc"
     },
     {
-     "title": "Por la \"Ley de Alquileres\" de Mamdani | Las rentas en Manhattan y Brooklyn alcanzan un máximo histórico de 6.655 dólares al mes en medio de las nuevas políticas y la amenaza de un impuesto a las segundas residencias en Nueva York",
-     "link": "https://www.clarin.com/estados-unidos/reves-mamdani-rentas-manhattan-brooklyn-alcanzan-picos-historicos-mes-despues-aprobacion-congelamiento-alquileres_0_TGPL54bWhN.html",
+     "title": "Cienciano le ganó 6-1 a Botafogo, la mayor goleada sufrida por un club brasileño en torneos Conmebol",
+     "link": "https://www.lanacion.com.ar/deportes/cienciano-le-gano-6-1-a-botafogo-la-mayor-goleada-sufrida-por-un-club-brasileno-en-torneos-conmebol-nid14082026/",
+     "source": "La Nación",
+     "published": "2026-08-14T04:28:11+00:00",
+     "copete": "El equipo peruano se impuso de local en el partido de ida por los octavos de final de la Copa Sudamericana ante un desdibujado conjunto brasileño y concretó una victoria histórica",
+     "id": "e93afea0d179"
+    },
+    {
+     "title": "\"Presidente, trabaje junto a la gente para renovar la confianza\"",
+     "link": "https://www.clarin.com/cartas-al-pais/presidente-trabaje-junto-gente-renovar-confianza_0_KtNTKeMXKl.html",
      "source": "Clarín",
-     "published": "2026-08-14T01:22:00+00:00",
-     "copete": "Un nuevo informe reportó que en julio el precio promedio de un departamento en estos dos distritos trepó a los US$ 5.000. Este periodo coincidió con las mudanzas de verano y una disminución de la oferta inmobiliaria en la ciudad más cara…",
-     "id": "4547164102be"
+     "published": "2026-08-14T04:00:44+00:00",
+     "id": "65fb0fe45a68"
     }
    ]
   },
@@ -374,10 +397,10 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Sigue la búsqueda de desaparecidos en Colombia tras el terremoto que dejó al menos 265 muertos y 3.700 heridos",
+     "title": "Sigue la búsqueda de desaparecidos en Colombia tras el terremoto que dejó cientos de muertos y miles de heridos",
      "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-08-14T03:02:31.899994+00:00",
+     "published": "2026-08-14T05:50:01.348373+00:00",
      "copete": "Rescatistas y vecinos buscan sobrevivientes tras el terremoto de magnitud 7,4 que sacudió Colombia este lunes. El presidente De la Espriella decretó desastre nacional y declaró emergencia económica para hacer frente al sismo más fuerte de…",
      "id": "376d42b3e6e7"
     },
@@ -385,9 +408,41 @@
      "title": "El espectacular eclipse solar total que se pudo ver en parte de Europa",
      "link": "https://www.bbc.co.uk/mundo/live/crwyjxjzj763t?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-08-14T03:02:31.899778+00:00",
+     "published": "2026-08-14T05:50:01.348155+00:00",
      "copete": "España fue el escenario de un eclipse solar total, el primero que se observa desde la península ibérica en más de un siglo y que forma parte de una inusual trilogía de eclipses.",
      "id": "b66af0e4ec06"
+    },
+    {
+     "title": "'Unprecedented' rains in Japan kill four people",
+     "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-14T04:54:13+00:00",
+     "copete": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+     "id": "3c023a579eff"
+    },
+    {
+     "title": "\"Putin puede destruir Ucrania, pero no podrá conquistarla\"",
+     "link": "https://www.bbc.com/mundo/articles/ckgd82zj14zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-14T03:40:41+00:00",
+     "copete": "El premio Nobel de la Paz ruso Dimitri Murátov afirma que el líder del Kremlin no podrá proclamar la victoria en Ucrania, ahora que la guerra se encuentra en su quinto año.",
+     "id": "a63a735e178d"
+    },
+    {
+     "title": "US says dozens of countries helped China dodge Trump's tariffs",
+     "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-14T03:09:48+00:00",
+     "copete": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+     "id": "eeffef378099"
+    },
+    {
+     "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
+     "link": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-14T02:13:27+00:00",
+     "copete": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?",
+     "id": "c16250e824d5"
     },
     {
      "title": "Las ejecuciones de 3 hombres en un mismo día que reflejan el aumento del uso de la pena de muerte en EE.UU.",
@@ -414,38 +469,6 @@
      "id": "89555754a07f"
     },
     {
-     "title": "\"Los terremotos nos persiguen\": los hermanos adolescentes que perdieron a su madre en el sismo de Venezuela y ahora sufrieron el de Colombia",
-     "link": "https://www.bbc.com/mundo/articles/c934x32d0n7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-13T22:01:01+00:00",
-     "copete": "Deivi y Winder Delfín tienen 15 y 17 años. En junio su edificio se derrumbó tras los sismos en Venezuela y pasaron 27 días para retirar con sus manos los cuerpos de su mamá y su hermanito. Se mudaron a Colombia con su papá y a los tres…",
-     "id": "3a20509ca846"
-    },
-    {
-     "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-     "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-13T21:43:47+00:00",
-     "copete": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
-     "id": "a2ea0f8a0db0"
-    },
-    {
-     "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-     "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-13T20:12:17+00:00",
-     "copete": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-     "id": "09443cca3ddd"
-    },
-    {
-     "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-     "link": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-13T19:46:27+00:00",
-     "copete": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-     "id": "91fd82f2cc46"
-    },
-    {
      "title": "Estados Unidos prevé ejecutar en un solo día a tres personas por primera vez desde 2010",
      "link": "https://elpais.com/us/2026-08-13/estados-unidos-preve-ejecutar-en-un-solo-dia-a-tres-personas-por-primera-vez-desde-2010.html",
      "source": "El País Internacional",
@@ -465,11 +488,6 @@
   {
    "section": "cardiologia",
    "feed": "Circulation (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "cardiologia",
-   "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]

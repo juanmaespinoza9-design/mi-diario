@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T22:08:34Z",
+  "generated_at": "2026-08-14T10:07:47Z",
   "summaries": {
     "522742e148b7": {
       "resumen": "TCTMD recuerda al cirujano cardiovascular David Taggart, fallecido a los 69 años, referente en cirugía de revascularización coronaria y conocido por su franqueza para cuestionar dogmas del campo. Vale la pena por el repaso de su legado y su impronta en el debate sobre cirugía versus angioplastia.",
@@ -11,10 +11,6 @@
     },
     "22200ae487d5": {
       "resumen": "Octavo episodio de una serie de entrevistas de TCTMD con el cardiólogo e investigador Kausik Ray, que reflexiona sobre el rol de la suerte y la disciplina en su carrera científica. Interesa como mirada personal sobre cómo se construye una trayectoria en investigación cardiovascular.",
-      "destacado": false
-    },
-    "e1c629c1843c": {
-      "resumen": "Cobertura de TCTMD sobre la declaración científica 2026 del Colegio Americano de Cardiología (ACC, American College of Cardiology) acerca del deterioro cognitivo y la fragilidad en adultos mayores con enfermedad cardiovascular. Traduce a lenguaje más llano los puntos clave del documento original, útil para incorporarlos rápido a la práctica diaria sin leer el statement completo.",
       "destacado": false
     },
     "b1d14f57a216": {
@@ -29,32 +25,12 @@
       "resumen": "Artículo en JACC, con formato de editorial o perspectiva, que discute si conviene dejar de lado el índice de masa corporal (IMC) en favor de medidas basadas en la circunferencia de cintura para estimar el riesgo cardiovascular por adiposidad. Complementa la nota de TCTMD sobre adiposidad central y aporta el marco de discusión detrás del debate IMC vs. medidas de cintura.",
       "destacado": false
     },
-    "380bd84ff6e4": {
-      "resumen": "Artículo del European Heart Journal (EHJ) que repasa el debate en curso entre el reemplazo valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation) y el reemplazo valvular aórtico quirúrgico (SAVR, surgical aortic valve replacement) para la estenosis aórtica. Vale la pena porque sintetiza hacia dónde se inclina la evidencia acumulada y ayuda a actualizar el criterio de elección de técnica en cada perfil de paciente.",
-      "destacado": false
-    },
     "14fbe3be1e6b": {
       "resumen": "TCTMD reporta el lanzamiento de kits de herramientas gratuitos con recursos para reforzar las prácticas de radioprotección en el laboratorio de hemodinamia. Vale la pena porque la exposición crónica a radiación es un riesgo ocupacional real para los cardiólogos intervencionistas, y estos kits ofrecen material concreto para mejorar la protección del equipo de sala.",
       "destacado": false
     },
-    "50f9ffd70672": {
-      "resumen": "Cerebras Systems detalla cómo aceleraron la inferencia del modelo de lenguaje GPT-5.6 (Sol Ultrafast) usando su hardware especializado en inteligencia artificial (IA). Le sirve a un médico que aprende análisis de datos para entender por qué la velocidad de respuesta de estos modelos depende tanto del chip que los corre como del modelo en sí, un factor a tener en cuenta al elegir herramientas de IA.",
-      "destacado": false
-    },
-    "213d3a620241": {
-      "resumen": "Ensayo clásico de 2015 que plantea por qué conviene elegir tecnología \"aburrida\" y ya probada antes que la más novedosa a la hora de construir sistemas, reservando la innovación para lo que realmente aporta valor. Le sirve a un médico que aprende análisis de datos como criterio práctico para elegir herramientas (lenguajes, bases de datos, librerías) sin sumar complejidad innecesaria.",
-      "destacado": false
-    },
-    "1ce9df3aa971": {
-      "resumen": "Nota que celebra el 45.º aniversario de Donkey.bas, un mini videojuego de apenas 131 líneas escrito en BASIC, uno de los primeros programas que corrieron en una PC. Le sirve a un médico que aprende análisis de datos como recordatorio de que se puede lograr mucho con código simple y bien pensado, sin depender de frameworks complejos.",
-      "destacado": false
-    },
     "f6846007d58f": {
       "resumen": "Hilo de la comunidad r/datascience de Reddit que debate cuán vigente sigue el lenguaje R frente a Python en la industria actual. Le sirve a un médico que aprende análisis de datos para decidir en qué lenguaje conviene invertir tiempo de aprendizaje, sobre todo porque R sigue siendo fuerte en bioestadística y en la literatura médica.",
-      "destacado": false
-    },
-    "ccebb06f6c32": {
-      "resumen": "Google presenta Gemini 3.7 Flash, la nueva versión liviana y rápida de su familia de modelos de inteligencia artificial (IA) Gemini, pensada para tareas de baja latencia y bajo costo. Le sirve a un médico que aprende análisis de datos para conocer una opción económica y veloz a la hora de integrar IA generativa en proyectos propios.",
       "destacado": false
     },
     "4b3e777cda95": {
@@ -65,29 +41,46 @@
       "resumen": "Artículo sobre generación aumentada por recuperación (RAG, retrieval-augmented generation) empresarial que muestra cómo reducir la latencia y el costo de un sistema evitando llamadas innecesarias al modelo de lenguaje, en vez de simplemente comprar un modelo más rápido. Le sirve a un médico que aprende análisis de datos porque enseña a optimizar recursos computacionales antes de escalar infraestructura, un criterio aplicable a cualquier proyecto de IA con presupuesto limitado.",
       "destacado": true
     },
-    "6bf6d4c647c4": {
-      "resumen": "Guía de KDnuggets sobre cómo construir un agente de inteligencia artificial (IA) local con transmisión de datos en tiempo real (streaming), aclarando los dos sentidos distintos en que se usa ese término al hablar de agentes de IA. Le sirve a un médico que aprende análisis de datos para entender mejor cómo funcionan estos agentes por dentro antes de usarlos o construir uno propio.",
-      "destacado": false
-    },
-    "9a9603074a83": {
-      "resumen": "Hilo de la comunidad r/datascience de Reddit donde se comparten las preguntas típicas de una primera entrevista laboral para puestos de ciencia de datos. Le sirve a un médico que aprende análisis de datos y piensa en una eventual transición de carrera, porque anticipa qué se evalúa realmente en esas instancias.",
-      "destacado": false
-    },
-    "c3c48e432909": {
-      "resumen": "Tutorial de Towards Data Science sobre cómo coordinar una flota de bots OpenClaw para aumentar la productividad en tareas automatizadas. Le sirve a un médico que aprende análisis de datos como introducción práctica a la orquestación de múltiples agentes de inteligencia artificial (IA) trabajando en conjunto.",
-      "destacado": false
-    },
     "63a27114dd06": {
       "resumen": "El técnico de River habló sobre el presente de Franco Mastantuono y Claudio Echeverri en el fútbol europeo y les deseó éxito, con la esperanza de que no tengan que volver antes de tiempo."
     },
-    "c9045ab535e1": {
-      "resumen": "El jugador argentino continuará en el club australiano Western Force y disputará una temporada más en el Super Rugby Pacific."
+    "7d7e3022b040": {
+      "resumen": "Revisión del European Heart Journal sobre la cardiopatía isquémica más allá de las estenosis coronarias obstructivas —el cuadro conocido como isquemia con arterias coronarias no obstructivas (INOCA) o angina microvascular—, desde la prevención hasta el tratamiento. Vale la pena porque es una entidad subdiagnosticada, más frecuente en mujeres, y esta puesta al día ayuda a sospecharla y manejarla en la consulta diaria.",
+      "destacado": false
     },
-    "021e7e4642a7": {
-      "resumen": "Repaso de cuántos jugadores argentinos integrarán la próxima temporada del Top 14, la liga de rugby más importante de Francia."
+    "ecaa897aa947": {
+      "resumen": "TCTMD presenta una serie sobre las iniciativas de la Federación Mundial del Corazón (World Heart Federation) para combatir la cardiopatía reumática (RHD, rheumatic heart disease), una enfermedad todavía muy prevalente en países de ingresos bajos y medios. Vale la pena por el repaso de estrategias de prevención y control de una patología desatendida pero relevante en salud pública cardiovascular.",
+      "destacado": false
     },
-    "b3b07a8dce4e": {
-      "resumen": "El medio scrum de Los Pumas recibió una noticia positiva de cara a la temporada que se viene."
+    "e6c53596b4a8": {
+      "resumen": "Z.ai presenta GLM-5.3, un nuevo modelo de lenguaje orientado a programación (coding) que según sus desarrolladores incorpora capacidades emergentes preocupantes en el terreno de la ciberseguridad ofensiva. Le sirve a un médico que aprende análisis de datos para seguir de cerca cómo evoluciona la carrera de modelos de código abierto y qué riesgos nuevos trae esa capacidad creciente."
+    },
+    "1475fd126ea6": {
+      "resumen": "Bluesky presenta sus Protocol Services, un conjunto de servicios de infraestructura para facilitar que terceros construyan aplicaciones sobre el protocolo abierto AT (Authenticated Transfer Protocol) en el que se basa la red social. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo se diseña una infraestructura de datos abierta y descentralizada, un concepto trasladable a proyectos propios de intercambio de información."
+    },
+    "3a85f23ac32b": {
+      "resumen": "Simon Willison libera la versión 4.2.1 de sqlite-utils, una corrección rápida que soluciona un error de arranque introducido en la versión anterior por una dependencia faltante. Le sirve a un médico que aprende análisis de datos porque sqlite-utils es una herramienta simple y muy usada para manipular bases de datos SQLite desde la línea de comandos sin necesidad de saber SQL avanzado."
+    },
+    "a932cf04aada": {
+      "resumen": "Artículo de divulgación que cuestiona cuánto peso práctico tiene realmente el problema P versus NP (si todo problema cuya solución es fácil de verificar también es fácil de resolver) para el trabajo cotidiano de programación. Le sirve a un médico que aprende análisis de datos para entender, sin necesidad de formación matemática avanzada, por qué ciertos problemas de optimización son intrínsecamente difíciles de resolver de forma exacta."
+    },
+    "9ae5cf1d718f": {
+      "resumen": "Simon Willison presenta sqlite-utils 4.2, con mejoras en la función table.transform(), que permite alterar tablas de forma compleja creando una tabla nueva, copiando los datos y reemplazando la original. Le sirve a un médico que aprende análisis de datos para modificar la estructura de sus bases SQLite (agregar o cambiar columnas) sin perder la información ya cargada."
+    },
+    "35f3a67fc4b3": {
+      "resumen": "Artículo de Quanta Magazine (de 2020, resurgido en Hacker News) que explica de forma accesible cómo funciona la demostración del teorema de incompletitud de Gödel. Le sirve a un médico que aprende análisis de datos para entender los límites lógicos de cualquier sistema formal, una base conceptual útil para pensar los límites de los modelos y algoritmos con los que trabaja."
+    },
+    "6d7f7c3a0398": {
+      "resumen": "Simon Willison actualiza el plugin llm-gemini a la versión 0.33, sumando soporte para el nuevo modelo Gemini 3.7 Flash y otros modelos livianos y de embeddings de Google. Le sirve a un médico que aprende análisis de datos para seguir usando desde la línea de comandos los modelos más nuevos y económicos de Google sin cambiar de herramienta."
+    },
+    "79eedf95a820": {
+      "resumen": "Australia confirmó las sedes y fechas de dos nuevos partidos que Los Pumas jugarán en su gira, sumando definiciones de cara al año del Mundial."
+    },
+    "4e60ca68af4f": {
+      "resumen": "El Super Rugby Americas continúa ampliando la base de jugadores de Los Pumas, sumando cantera de cara a las próximas convocatorias del seleccionado."
+    },
+    "188827e6ff58": {
+      "resumen": "Los Pumas enfrentarán a Australia en la ciudad de Townsville, en un partido que se suma al calendario del año del Mundial."
     }
   }
 }

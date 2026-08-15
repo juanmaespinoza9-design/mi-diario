@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T10:03:42Z",
+  "generated_at": "2026-08-15T22:05:12Z",
   "summaries": {
     "b1d14f57a216": {
       "resumen": "Fe de erratas publicada por el Journal of the American College of Cardiology (JACC) sobre un artículo previo; el título disponible (\"Correction\") no permite precisar a qué trabajo corrige. Se incluye solo como referencia bibliográfica, sin contenido clínico propio.",
@@ -10,21 +10,12 @@
       "destacado": true,
       "analisis": "Diseño: artículo de perspectiva/análisis publicado en JACC (Journal of the American College of Cardiology) sobre la brecha de implementación de los agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1) en prevención cardiovascular; no se trata de un ensayo clínico original, sino de una revisión crítica posterior a los grandes ensayos.\nPoblación: no aplica un criterio de inclusión/exclusión de pacientes individuales; el foco son los pacientes con enfermedad cardiovascular aterosclerótica y/u obesidad que serían candidatos a agonistas del receptor de GLP-1 según la evidencia de los ensayos ya publicados.\nIntervención: no evalúa una intervención nueva; analiza por qué la prescripción real de agonistas del receptor de GLP-1 sigue siendo baja pese a los beneficios cardiovasculares demostrados en ensayos previos.\nResultados: no se dispone de cifras propias (no es un estudio con datos originales) y no se pudo acceder al abstract completo para precisar qué brechas cuantifica.\nLimitaciones: al ser un artículo de opinión/perspectiva, sus conclusiones no surgen de datos originales propios sino de la síntesis de literatura existente y la mirada de los autores.\nMensaje: llama la atención sobre la distancia entre la evidencia de los ensayos clínicos con agonistas del receptor de GLP-1 y su uso real en prevención cardiovascular, con foco en barreras de acceso, costo y prescripción.\nNota: análisis sin acceso al abstract."
     },
-    "e5dc882d4c27": {
-      "resumen": "Artículo en JACC, con formato de editorial o perspectiva, que discute si conviene dejar de lado el índice de masa corporal (IMC) en favor de medidas basadas en la circunferencia de cintura para estimar el riesgo cardiovascular por adiposidad. Complementa la nota de TCTMD sobre adiposidad central y aporta el marco de discusión detrás del debate IMC vs. medidas de cintura.",
-      "destacado": false,
-      "analisis": "Diseño: artículo de perspectiva/revisión publicado en JACC (Journal of the American College of Cardiology) que discute el rol de las medidas de adiposidad basadas en la cintura frente al índice de masa corporal (IMC) para estimar riesgo cardiovascular; no queda claro por el título si incluye un análisis de datos original o es puramente narrativo, y no se pudo acceder al abstract para confirmarlo.\nPoblación: población adulta en la que se compara el valor pronóstico cardiovascular del IMC frente a medidas de adiposidad central (circunferencia de cintura, índice cintura-cadera o similares).\nIntervención: no hay una intervención terapéutica; se comparan distintas formas de medir adiposidad como herramientas de estratificación de riesgo cardiovascular.\nResultados: no disponibles con precisión por falta de acceso al abstract.\nLimitaciones: sin la fuente primaria no es posible saber si se trata de un análisis de cohorte propio o de una revisión de literatura existente, lo que limita la solidez de cualquier conclusión cuantitativa.\nMensaje: refuerza el debate sobre reemplazar o complementar el IMC con medidas de adiposidad central para una estimación más precisa del riesgo cardiovascular en la práctica clínica.\nNota: análisis sin acceso al abstract."
-    },
     "14fbe3be1e6b": {
       "resumen": "TCTMD reporta el lanzamiento de kits de herramientas gratuitos con recursos para reforzar las prácticas de radioprotección en el laboratorio de hemodinamia. Vale la pena porque la exposición crónica a radiación es un riesgo ocupacional real para los cardiólogos intervencionistas, y estos kits ofrecen material concreto para mejorar la protección del equipo de sala.",
       "destacado": false
     },
     "7d7e3022b040": {
       "resumen": "Revisión del European Heart Journal sobre la cardiopatía isquémica más allá de las estenosis coronarias obstructivas —el cuadro conocido como isquemia con arterias coronarias no obstructivas (INOCA) o angina microvascular—, desde la prevención hasta el tratamiento. Vale la pena porque es una entidad subdiagnosticada, más frecuente en mujeres, y esta puesta al día ayuda a sospecharla y manejarla en la consulta diaria.",
-      "destacado": false
-    },
-    "7287992ef071": {
-      "resumen": "TCTMD presenta una serie sobre las iniciativas de la Federación Mundial del Corazón (World Heart Federation) para combatir la cardiopatía reumática (RHD, rheumatic heart disease), una enfermedad todavía muy prevalente en países de ingresos bajos y medios. Vale la pena por el repaso de estrategias de prevención y control de una patología desatendida pero relevante en salud pública cardiovascular.",
       "destacado": false
     },
     "3e9ab9eca463": {
@@ -49,46 +40,54 @@
       "resumen": "Hilo de la comunidad r/datascience que resume qué aprendió el equipo de Hugging Face al intentar reproducir 2.200 artículos presentados en ICML (International Conference on Machine Learning), una de las principales conferencias de aprendizaje automático. Le sirve a un médico que aprende análisis de datos para entender cuán frecuente es la falta de reproducibilidad en investigación computacional, un problema análogo al de la investigación clínica.",
       "destacado": true
     },
-    "2bdb9faa4afb": {
-      "resumen": "Publicación en el blog conic.al, destacada en Hacker News, sobre el caso de una persona que descubrió que existe otro \"Sean Byrne\" que en realidad no existe: aparentemente una identidad o perfil generado o confundido en internet. Le sirve a un médico que aprende análisis de datos como ejemplo de los problemas de identidad, desinformación y verificación de datos que genera el contenido generado o indexado automáticamente en la web.",
-      "destacado": false
-    },
     "69a56244fe98": {
       "resumen": "Entrada del blog de Simon Willison (referente en IA) que en este caso no trata de inteligencia artificial sino de una observación de avistamiento de aves: un alcatraz atlántico (Northern Gannet) avistado en California, lejos de su hábitat habitual. Se incluye por venir de una fuente seguida por temas de IA, pero su aporte para un médico que aprende análisis de datos es mínimo.",
-      "destacado": false
-    },
-    "be73bc3cd41e": {
-      "resumen": "Página oficial del Servicio Geológico de Estados Unidos (USGS) con los datos de un terremoto de magnitud 7,7 ocurrido a 68 km al noroeste de Ende, Indonesia. No es un contenido de ciencia de datos o inteligencia artificial en sí, sino un evento de actualidad que llegó a la sección por ser tendencia en Hacker News; su interés para un médico que aprende análisis de datos es marginal, salvo como ejemplo de fuente de datos abiertos en tiempo real.",
-      "destacado": false
-    },
-    "ee04363f17a2": {
-      "resumen": "Anuncio del lanzamiento del Ploopy A+, un mouse de tipo trackball de hardware abierto (open source). No se relaciona directamente con ciencia de datos o inteligencia artificial; aporta poco a un médico que aprende análisis de datos, más allá de la curiosidad por el hardware libre usado por parte de la comunidad tecnológica.",
-      "destacado": false
-    },
-    "b88a47911015": {
-      "resumen": "\"eigendrum\", un proyecto o herramienta interactiva en la web cuyo nombre sugiere el uso de autovalores (eigenvalues), un concepto de álgebra lineal, aplicado a generación de sonido o ritmo. Sin acceso al contenido no se puede precisar su función exacta, pero el nombre remite a una base matemática (álgebra lineal) que también sustenta técnicas de análisis de datos como el análisis de componentes principales.",
       "destacado": false
     },
     "77478ebfdae2": {
       "resumen": "Simon Willison cuenta cómo, en lugar de pedirle a un modelo de lenguaje grande (LLM, large language model) que clasifique contenido entre miles de etiquetas ya existentes en su blog, le pide directamente que \"invente\" o proponga las etiquetas más adecuadas para cada texto. Le sirve a un médico que aprende análisis de datos como ejemplo práctico de una técnica alternativa a la clasificación tradicional para etiquetar grandes volúmenes de texto con inteligencia artificial generativa.",
       "destacado": false
     },
-    "3393aeaaa648": {
-      "resumen": "Artículo técnico sobre generación aumentada por recuperación (RAG, retrieval-augmented generation) que explica cómo diseñar un \"despachante\" (dispatcher) que decide cuándo un sistema de IA debe repetir una búsqueda de información y cuándo debe detenerse y responder. Le sirve a un médico que aprende análisis de datos para entender cómo se controla que un asistente de IA no entre en bucles infinitos ni se quede corto al buscar información confiable.",
+    "ecaa897aa947": {
+      "resumen": "TCTMD presenta una entrega de la serie sobre las iniciativas de la Federación Mundial del Corazón (World Heart Federation) para combatir la cardiopatía reumática (RHD, rheumatic heart disease), enfermedad todavía muy prevalente en países de ingresos bajos y medios y ligada a la faringitis estreptocócica no tratada en la infancia. Vale la pena por el repaso de estrategias de prevención primaria y secundaria de una patología desatendida pero relevante en salud cardiovascular global.",
       "destacado": false
     },
-    "5afe83667f9f": {
-      "resumen": "Tutorial de KDnuggets que enseña a construir, con Python, un raspador web (web scraper) potenciado por inteligencia artificial capaz de convertir cualquier página en un motor simple de preguntas y respuestas, limpiando el HTML y resumiendo el contenido. Le sirve a un médico que aprende análisis de datos como primer proyecto práctico para combinar extracción de datos web con modelos de lenguaje.",
+    "26455c500fd0": {
+      "resumen": "Aviso de retiro temporal ('temporary removal') publicado en JACC (Journal of the American College of Cardiology) sobre un artículo que replanteaba la progresión de la enfermedad en la miocardiopatía amiloidótica por transtiretina (ATTR-CM, transthyretin amyloid cardiomyopathy). No se dispone del motivo del retiro ni del contenido original; se incluye solo como referencia bibliográfica, sin contenido clínico propio para analizar.",
       "destacado": false
     },
-    "8d4d92ad1c6f": {
-      "resumen": "Julián Montoya, capitán de Los Pumas, fue distinguido entre los mejores del mundo en su posición, según el reconocimiento que difundió DeporTV."
+    "627a59aedf96": {
+      "resumen": "Ensayo destacado en Hacker News que argumenta que los modelos de inteligencia artificial actuales no razonan matemáticamente mejor que los matemáticos, sino que 'recuerdan' mejor: reconocen patrones de una enorme cantidad de material de entrenamiento en vez de generar ideas nuevas. Le sirve a un médico que aprende análisis de datos para calibrar expectativas sobre qué tan confiable es pedirle a una inteligencia artificial razonamiento original versus recuperación de información ya vista.",
+      "destacado": false
     },
-    "506e75365e63": {
-      "resumen": "Argentina XV confirmó el equipo titular para enfrentar a Estados Unidos, con dos jugadores mendocinos entre los convocados."
+    "69a98c1765b1": {
+      "resumen": "Nota de la revista Nature sobre una cirugía experimental y controvertida que, según reportes preliminares, revertiría síntomas de la enfermedad de Alzheimer en algunos pacientes. Le sirve a un médico que aprende análisis de datos como ejemplo de por qué los reportes de casos aislados, sin ensayos controlados ni análisis estadístico riguroso, no alcanzan para validar una intervención por más prometedora que suene.",
+      "destacado": false
     },
-    "07361733b8f3": {
-      "resumen": "El ranking de World Rugby pone en foco cómo puede afectar a la posición de Los Pumas el resultado del partido entre Australia y Japón."
+    "c09e460cdf9e": {
+      "resumen": "Estudio publicado en Alzheimer's & Dementia (Wiley) que asocia el uso de semaglutida con una reducción del 26% en el riesgo de demencia proyectado a 5 años, estimado mediante modelos predictivos sobre datos poblacionales. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo se construyen y comunican estimaciones de riesgo a partir de modelos predictivos, con las limitaciones propias de un riesgo 'proyectado' y no observado de forma directa.",
+      "destacado": false
+    },
+    "6e84a174dc08": {
+      "resumen": "Artículo de Towards Data Science sobre cómo la colaboración entre humanos y máquinas está haciendo más frecuentes los 'experimentos matemáticos': explorar conjeturas de forma computacional antes de intentar demostrarlas formalmente. Le aporta a un médico que aprende análisis de datos una mirada sobre cómo el cómputo intensivo cambia la forma de generar hipótesis, algo trasladable a la exploración de grandes bases de datos clínicos.",
+      "destacado": false
+    },
+    "b21a09c4798c": {
+      "resumen": "Artículo técnico destacado en Hacker News sobre caracteres 'fantasma' en el estándar Unicode: puntos de código problemáticos que generan errores de codificación, visualización o seguridad en el manejo de texto. Le sirve a un médico que aprende análisis de datos para entender una fuente frecuente y poco visible de errores al limpiar y procesar datos de texto (por ejemplo, historias clínicas electrónicas) antes de analizarlos.",
+      "destacado": false
+    },
+    "3282f14dda9b": {
+      "resumen": "Artículo de Towards Data Science sobre cómo diferenciarse como científico de datos en la era del 'vibe coding' (programar apoyándose fuertemente en asistentes de inteligencia artificial generativa), poniendo el foco en el criterio, el conocimiento del dominio y la validación por sobre la escritura mecánica de código. Le sirve a un médico que aprende análisis de datos porque describe justamente qué habilidades sí conviene desarrollar cuando gran parte del código lo puede escribir una inteligencia artificial.",
+      "destacado": false
+    },
+    "e3f98b78c001": {
+      "resumen": "Australia venció a Japón en rugby y recortó distancias con Los Pumas en el ranking mundial de la World Rugby."
+    },
+    "79f0a7527e98": {
+      "resumen": "Un análisis de ESPN Argentina repasa cómo la goleada de Australia sobre Japón repercutió en la posición de Los Pumas dentro del ranking de la World Rugby."
+    },
+    "4e3c774e8d89": {
+      "resumen": "Jujuy se prepara para recibir a Los Pumas en un partido que la nota de todojujuy describe como una fiesta para la provincia."
     }
   }
 }

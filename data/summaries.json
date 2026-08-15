@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T22:14:00Z",
+  "generated_at": "2026-08-15T10:03:42Z",
   "summaries": {
     "b1d14f57a216": {
       "resumen": "Fe de erratas publicada por el Journal of the American College of Cardiology (JACC) sobre un artículo previo; el título disponible (\"Correction\") no permite precisar a qué trabajo corrige. Se incluye solo como referencia bibliográfica, sin contenido clínico propio.",
@@ -23,7 +23,7 @@
       "resumen": "Revisión del European Heart Journal sobre la cardiopatía isquémica más allá de las estenosis coronarias obstructivas —el cuadro conocido como isquemia con arterias coronarias no obstructivas (INOCA) o angina microvascular—, desde la prevención hasta el tratamiento. Vale la pena porque es una entidad subdiagnosticada, más frecuente en mujeres, y esta puesta al día ayuda a sospecharla y manejarla en la consulta diaria.",
       "destacado": false
     },
-    "ecaa897aa947": {
+    "7287992ef071": {
       "resumen": "TCTMD presenta una serie sobre las iniciativas de la Federación Mundial del Corazón (World Heart Federation) para combatir la cardiopatía reumática (RHD, rheumatic heart disease), una enfermedad todavía muy prevalente en países de ingresos bajos y medios. Vale la pena por el repaso de estrategias de prevención y control de una patología desatendida pero relevante en salud pública cardiovascular.",
       "destacado": false
     },
@@ -49,20 +49,28 @@
       "resumen": "Hilo de la comunidad r/datascience que resume qué aprendió el equipo de Hugging Face al intentar reproducir 2.200 artículos presentados en ICML (International Conference on Machine Learning), una de las principales conferencias de aprendizaje automático. Le sirve a un médico que aprende análisis de datos para entender cuán frecuente es la falta de reproducibilidad en investigación computacional, un problema análogo al de la investigación clínica.",
       "destacado": true
     },
-    "ac01be975ce9": {
-      "resumen": "RustDesk, un software de acceso remoto de código abierto, anunció soporte para control remoto verdaderamente desatendido en sistemas Linux con Wayland. Le sirve a un médico que aprende análisis de datos como alternativa gratuita y abierta para administrar computadoras o servidores propios a distancia, sin depender de herramientas comerciales.",
+    "2bdb9faa4afb": {
+      "resumen": "Publicación en el blog conic.al, destacada en Hacker News, sobre el caso de una persona que descubrió que existe otro \"Sean Byrne\" que en realidad no existe: aparentemente una identidad o perfil generado o confundido en internet. Le sirve a un médico que aprende análisis de datos como ejemplo de los problemas de identidad, desinformación y verificación de datos que genera el contenido generado o indexado automáticamente en la web.",
       "destacado": false
     },
-    "ca3f698bc87c": {
-      "resumen": "El máximo tribunal de Francia bloqueó una ley que buscaba prohibir el acceso a redes sociales a menores de 15 años, por considerar que restringe de forma desproporcionada la libertad de expresión. Le sirve a un médico que aprende análisis de datos como ejemplo del choque entre regulación de plataformas digitales y derechos individuales, un debate de fondo en cualquier política de datos y algoritmos.",
+    "69a56244fe98": {
+      "resumen": "Entrada del blog de Simon Willison (referente en IA) que en este caso no trata de inteligencia artificial sino de una observación de avistamiento de aves: un alcatraz atlántico (Northern Gannet) avistado en California, lejos de su hábitat habitual. Se incluye por venir de una fuente seguida por temas de IA, pero su aporte para un médico que aprende análisis de datos es mínimo.",
       "destacado": false
     },
-    "36eb2bae6fbc": {
-      "resumen": "AI by Hand es un recurso educativo que enseña los fundamentos matemáticos de la inteligencia artificial y las redes neuronales resolviendo a mano, paso a paso, los cálculos que normalmente hacen las bibliotecas de software. Le sirve a un médico que aprende análisis de datos para entender qué pasa \"por dentro\" de un modelo antes de usarlo como caja negra.",
+    "be73bc3cd41e": {
+      "resumen": "Página oficial del Servicio Geológico de Estados Unidos (USGS) con los datos de un terremoto de magnitud 7,7 ocurrido a 68 km al noroeste de Ende, Indonesia. No es un contenido de ciencia de datos o inteligencia artificial en sí, sino un evento de actualidad que llegó a la sección por ser tendencia en Hacker News; su interés para un médico que aprende análisis de datos es marginal, salvo como ejemplo de fuente de datos abiertos en tiempo real.",
       "destacado": false
     },
-    "ab1f720db0b9": {
-      "resumen": "Google presenta avances para hacer viable en la práctica el uso de cifrado homomórfico, una técnica que permite que un modelo de inteligencia artificial procese datos cifrados sin necesidad de descifrarlos. Le sirve a un médico que aprende análisis de datos porque es clave para poder usar IA sobre datos sensibles de pacientes sin comprometer su privacidad.",
+    "ee04363f17a2": {
+      "resumen": "Anuncio del lanzamiento del Ploopy A+, un mouse de tipo trackball de hardware abierto (open source). No se relaciona directamente con ciencia de datos o inteligencia artificial; aporta poco a un médico que aprende análisis de datos, más allá de la curiosidad por el hardware libre usado por parte de la comunidad tecnológica.",
+      "destacado": false
+    },
+    "b88a47911015": {
+      "resumen": "\"eigendrum\", un proyecto o herramienta interactiva en la web cuyo nombre sugiere el uso de autovalores (eigenvalues), un concepto de álgebra lineal, aplicado a generación de sonido o ritmo. Sin acceso al contenido no se puede precisar su función exacta, pero el nombre remite a una base matemática (álgebra lineal) que también sustenta técnicas de análisis de datos como el análisis de componentes principales.",
+      "destacado": false
+    },
+    "77478ebfdae2": {
+      "resumen": "Simon Willison cuenta cómo, en lugar de pedirle a un modelo de lenguaje grande (LLM, large language model) que clasifique contenido entre miles de etiquetas ya existentes en su blog, le pide directamente que \"invente\" o proponga las etiquetas más adecuadas para cada texto. Le sirve a un médico que aprende análisis de datos como ejemplo práctico de una técnica alternativa a la clasificación tradicional para etiquetar grandes volúmenes de texto con inteligencia artificial generativa.",
       "destacado": false
     },
     "3393aeaaa648": {
@@ -73,25 +81,14 @@
       "resumen": "Tutorial de KDnuggets que enseña a construir, con Python, un raspador web (web scraper) potenciado por inteligencia artificial capaz de convertir cualquier página en un motor simple de preguntas y respuestas, limpiando el HTML y resumiendo el contenido. Le sirve a un médico que aprende análisis de datos como primer proyecto práctico para combinar extracción de datos web con modelos de lenguaje.",
       "destacado": false
     },
-    "7fb7f1bdb855": {
-      "resumen": "Relato de un científico de datos sobre cómo un paso de preprocesamiento mal diseñado dejó que su modelo de predicción de precios de autos \"espiara\" el conjunto de prueba antes de la evaluación final, inflando artificialmente su desempeño. Le sirve a un médico que aprende análisis de datos como advertencia concreta sobre la fuga de datos (data leakage), un error frecuente que hace parecer un modelo mejor de lo que realmente es.",
-      "destacado": false
+    "8d4d92ad1c6f": {
+      "resumen": "Julián Montoya, capitán de Los Pumas, fue distinguido entre los mejores del mundo en su posición, según el reconocimiento que difundió DeporTV."
     },
-    "03ebf83adc2f": {
-      "resumen": "KDnuggets selecciona cinco artículos científicos recientes y accesibles sobre inteligencia artificial agéntica (agentic AI), sistemas capaces de planificar y ejecutar tareas de forma más autónoma. Le sirve a un médico que aprende análisis de datos como puerta de entrada liviana a la literatura técnica sobre agentes de IA, sin necesidad de leer papers extensos.",
-      "destacado": false
+    "506e75365e63": {
+      "resumen": "Argentina XV confirmó el equipo titular para enfrentar a Estados Unidos, con dos jugadores mendocinos entre los convocados."
     },
-    "580de0c1afd5": {
+    "07361733b8f3": {
       "resumen": "El ranking de World Rugby pone en foco cómo puede afectar a la posición de Los Pumas el resultado del partido entre Australia y Japón."
-    },
-    "2b7b20de2a53": {
-      "resumen": "Un referente de Los Pumas fue reconocido entre los mejores del mundo en su puesto, según el ranking o listado citado por ESPN Argentina."
-    },
-    "6067f7a8968d": {
-      "resumen": "Los Pumas ya tienen confirmado que jugarán en la ciudad australiana de Townsville en las giras de 2027 y 2030."
-    },
-    "3341e11bf7a8": {
-      "resumen": "High On Life VR llega en 2027 con armas y sistema de movimiento rediseñados para su versión en realidad virtual."
     }
   }
 }

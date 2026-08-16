@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T22:05:12Z",
+  "generated_at": "2026-08-16T10:03:40Z",
   "summaries": {
     "b1d14f57a216": {
       "resumen": "Fe de erratas publicada por el Journal of the American College of Cardiology (JACC) sobre un artículo previo; el título disponible (\"Correction\") no permite precisar a qué trabajo corrige. Se incluye solo como referencia bibliográfica, sin contenido clínico propio.",
@@ -36,10 +36,6 @@
       "resumen": "Relato en primera persona de un científico de datos sobre cómo la inteligencia artificial (IA) cambió radicalmente su rutina laboral diaria en 2026, desde la exploración de datos hasta la comunicación de resultados. Le sirve a un médico que aprende análisis de datos para dimensionar qué tareas de un científico de datos hoy se automatizan con IA y dónde sigue siendo imprescindible el criterio humano.",
       "destacado": false
     },
-    "a489d739725e": {
-      "resumen": "Hilo de la comunidad r/datascience que resume qué aprendió el equipo de Hugging Face al intentar reproducir 2.200 artículos presentados en ICML (International Conference on Machine Learning), una de las principales conferencias de aprendizaje automático. Le sirve a un médico que aprende análisis de datos para entender cuán frecuente es la falta de reproducibilidad en investigación computacional, un problema análogo al de la investigación clínica.",
-      "destacado": true
-    },
     "69a56244fe98": {
       "resumen": "Entrada del blog de Simon Willison (referente en IA) que en este caso no trata de inteligencia artificial sino de una observación de avistamiento de aves: un alcatraz atlántico (Northern Gannet) avistado en California, lejos de su hábitat habitual. Se incluye por venir de una fuente seguida por temas de IA, pero su aporte para un médico que aprende análisis de datos es mínimo.",
       "destacado": false
@@ -56,38 +52,42 @@
       "resumen": "Aviso de retiro temporal ('temporary removal') publicado en JACC (Journal of the American College of Cardiology) sobre un artículo que replanteaba la progresión de la enfermedad en la miocardiopatía amiloidótica por transtiretina (ATTR-CM, transthyretin amyloid cardiomyopathy). No se dispone del motivo del retiro ni del contenido original; se incluye solo como referencia bibliográfica, sin contenido clínico propio para analizar.",
       "destacado": false
     },
-    "627a59aedf96": {
-      "resumen": "Ensayo destacado en Hacker News que argumenta que los modelos de inteligencia artificial actuales no razonan matemáticamente mejor que los matemáticos, sino que 'recuerdan' mejor: reconocen patrones de una enorme cantidad de material de entrenamiento en vez de generar ideas nuevas. Le sirve a un médico que aprende análisis de datos para calibrar expectativas sobre qué tan confiable es pedirle a una inteligencia artificial razonamiento original versus recuperación de información ya vista.",
-      "destacado": false
-    },
-    "69a98c1765b1": {
-      "resumen": "Nota de la revista Nature sobre una cirugía experimental y controvertida que, según reportes preliminares, revertiría síntomas de la enfermedad de Alzheimer en algunos pacientes. Le sirve a un médico que aprende análisis de datos como ejemplo de por qué los reportes de casos aislados, sin ensayos controlados ni análisis estadístico riguroso, no alcanzan para validar una intervención por más prometedora que suene.",
-      "destacado": false
-    },
-    "c09e460cdf9e": {
-      "resumen": "Estudio publicado en Alzheimer's & Dementia (Wiley) que asocia el uso de semaglutida con una reducción del 26% en el riesgo de demencia proyectado a 5 años, estimado mediante modelos predictivos sobre datos poblacionales. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo se construyen y comunican estimaciones de riesgo a partir de modelos predictivos, con las limitaciones propias de un riesgo 'proyectado' y no observado de forma directa.",
-      "destacado": false
-    },
     "6e84a174dc08": {
       "resumen": "Artículo de Towards Data Science sobre cómo la colaboración entre humanos y máquinas está haciendo más frecuentes los 'experimentos matemáticos': explorar conjeturas de forma computacional antes de intentar demostrarlas formalmente. Le aporta a un médico que aprende análisis de datos una mirada sobre cómo el cómputo intensivo cambia la forma de generar hipótesis, algo trasladable a la exploración de grandes bases de datos clínicos.",
-      "destacado": false
-    },
-    "b21a09c4798c": {
-      "resumen": "Artículo técnico destacado en Hacker News sobre caracteres 'fantasma' en el estándar Unicode: puntos de código problemáticos que generan errores de codificación, visualización o seguridad en el manejo de texto. Le sirve a un médico que aprende análisis de datos para entender una fuente frecuente y poco visible de errores al limpiar y procesar datos de texto (por ejemplo, historias clínicas electrónicas) antes de analizarlos.",
       "destacado": false
     },
     "3282f14dda9b": {
       "resumen": "Artículo de Towards Data Science sobre cómo diferenciarse como científico de datos en la era del 'vibe coding' (programar apoyándose fuertemente en asistentes de inteligencia artificial generativa), poniendo el foco en el criterio, el conocimiento del dominio y la validación por sobre la escritura mecánica de código. Le sirve a un médico que aprende análisis de datos porque describe justamente qué habilidades sí conviene desarrollar cuando gran parte del código lo puede escribir una inteligencia artificial.",
       "destacado": false
     },
-    "e3f98b78c001": {
-      "resumen": "Australia venció a Japón en rugby y recortó distancias con Los Pumas en el ranking mundial de la World Rugby."
+    "c17be638bf7e": {
+      "resumen": "Ensayo publicado en el blog rhonabwy.com, destacado en Hacker News, que sostiene que los fundamentos de la ingeniería de software (diseño, testing, depuración de errores) importan más que nunca, incluso en la era de la programación asistida por inteligencia artificial (IA). Le sirve a un médico que aprende análisis de datos porque recuerda que las herramientas de IA generan código más rápido, pero no reemplazan el criterio para entender qué está pasando cuando algo falla.",
+      "destacado": false
     },
-    "79f0a7527e98": {
-      "resumen": "Un análisis de ESPN Argentina repasa cómo la goleada de Australia sobre Japón repercutió en la posición de Los Pumas dentro del ranking de la World Rugby."
+    "a01eaa04bebc": {
+      "resumen": "Nota de prensa del American College of Cardiology (Colegio Americano de Cardiología) que reporta que la grasa abdominal predice mejor el riesgo de enfermedad cardiovascular que el índice de masa corporal (IMC). Le aporta a un médico que aprende análisis de datos un ejemplo concreto de cómo comparar el poder predictivo de distintas variables o modelos de riesgo frente a una métrica tradicional y fácil de medir como el IMC.",
+      "destacado": true
     },
-    "4e3c774e8d89": {
-      "resumen": "Jujuy se prepara para recibir a Los Pumas en un partido que la nota de todojujuy describe como una fiesta para la provincia."
+    "152a1b19ec9d": {
+      "resumen": "Ensayo de 2023 del blog de Henrik Karlsson, resurgido en Hacker News, sobre qué condiciones mentales y de entorno favorecen la aparición de ideas originales. Le sirve a un médico que aprende análisis de datos como reflexión sobre cómo generar hipótesis novedosas de investigación, más allá de la ejecución técnica del análisis.",
+      "destacado": false
+    },
+    "84971242f6d7": {
+      "resumen": "Artículo de severe-weather.eu, difundido en Hacker News, sobre pronósticos climáticos que anticipan un fenómeno El Niño de intensidad récord para el próximo otoño-invierno del hemisferio norte. Le sirve a un médico que aprende análisis de datos como ejemplo de modelos predictivos aplicados a series temporales complejas y de la incertidumbre inherente a proyectar eventos con meses de anticipación.",
+      "destacado": false
+    },
+    "b0ec4660c702": {
+      "resumen": "Simon Willison presenta 'CORS Chat', una herramienta que construyó para probar modelos de lenguaje corriendo localmente (como Qwen 3.8 27B en LM Studio) desde una interfaz web simple, compatible con la API de OpenAI Responses. Le sirve a un médico que aprende análisis de datos como ejemplo accesible de cómo armar herramientas propias para experimentar con modelos de inteligencia artificial (IA) sin depender de servicios en la nube.",
+      "destacado": false
+    },
+    "f3671461452a": {
+      "resumen": "Un repaso del presente de Santiago Montoya, referente de Los Pumas, entre los mejores jugadores de rugby del mundo."
+    },
+    "73dddb6e96df": {
+      "resumen": "El histórico Jorge Búsico reflexiona sobre la cultura de juego que se transmite de generación en generación en Los Pumas."
+    },
+    "7d3ee0030049": {
+      "resumen": "Argentina XV cayó 25-24 ante Estados Unidos en su primer partido amistoso del año."
     }
   }
 }

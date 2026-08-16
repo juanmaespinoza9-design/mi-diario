@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-16T14:43:42.890893+00:00",
+ "generated_at": "2026-08-16T16:45:53.143238+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -80,6 +80,22 @@
    "title": "Deportes",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Sarmiento vs. Huracán, hoy EN VIVO: a qué hora juegan y dónde ver por TV",
+     "link": "https://www.ole.com.ar/futbol-primera/sarmiento-vs-huracan-hoy-vivohora-juegan-ver-tv_0_G9D4cr8HfW.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-16T15:47:20+00:00",
+     "copete": "Después de la victoria en el clásico, el Globo visitará al Kiwi para seguir sumando. Seguilo en Olé.",
+     "id": "54fcd41e6067"
+    },
+    {
+     "title": "Alarma en Vélez: Tigres de México va a la carga por Guillermo Barros Schelotto como entrenador",
+     "link": "https://www.ole.com.ar/velez/alarma-velez-interes-tigres-mexico-contratar-guillermo-barros-schelotto-entrenador-contrato-guido-pizarro_0_7fmtOyQLzk.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-16T15:05:33+00:00",
+     "copete": "El equipo felino busca un reemplazo para Guido Pizarro y baraja al Mellizo como una opción inmediata. ¿Habrá reunión en Argentina?",
+     "id": "b9157e4be415"
+    },
     {
      "title": "El palito de Rodrigo Auzmendi contra el arbitraje tras la victoria de San Lorenzo",
      "link": "https://www.ole.com.ar/san-lorenzo/rodrigo-auzmendi-san-lorenzo-leandro-rey-hilfer-union-video-amarilla_0_6MY88cUfCN.html",
@@ -173,12 +189,35 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Quoting Dario Amodei",
+     "link": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-08-16T15:05:36+00:00",
+     "copete": "I do agree that the public has a negative view of AI (and that this is a big problem), but I don’t think it is primarily caused by me or any other AI leader warning about AI’s risks. I think it is fundamentally a crisis of trust. I think…",
+     "id": "7b67d0050f11"
+    },
+    {
+     "title": "Designing a Persistent Knowledge Layer That Refuses to Guess",
+     "link": "https://towardsdatascience.com/designing-a-persistent-knowledge-layer-that-refuses-to-guess/",
+     "source": "Towards Data Science",
+     "published": "2026-08-16T15:00:00+00:00",
+     "copete": "RAG Retrieves, It Never Remembers. A vendor-neutral blueprint for applications that accumulate understanding. Includes a complete Azure-native implementation (Microsoft Foundry, Azure AI Search, Cosmos DB, FastAPI) mapped to a…",
+     "id": "be8c2d8895e6"
+    },
+    {
      "title": "Running SQL Concurrently Across Three Remote DuckDB Servers with Quack",
      "link": "https://towardsdatascience.com/running-sql-concurrently-across-three-remote-duckdb-servers-with-quack/",
      "source": "Towards Data Science",
      "published": "2026-08-16T13:00:00+00:00",
      "copete": "A small experiment in remote SQL execution The post Running SQL Concurrently Across Three Remote DuckDB Servers with Quack appeared first on Towards Data Science .",
      "id": "ebeede76a664"
+    },
+    {
+     "title": "Firefox for iOS now has a native adblocker",
+     "link": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-16T12:58:10+00:00",
+     "id": "283298017039"
     },
     {
      "title": "Claude: System Prompts",
@@ -188,11 +227,11 @@
      "id": "9ffac573dcb5"
     },
     {
-     "title": "What happens when an LLM never sees material beyond fifth grade?",
-     "link": "https://littlelearner-ll.github.io/",
+     "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+     "link": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
      "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-16T07:37:53+00:00",
-     "id": "81ad09ea2459"
+     "published": "2026-08-16T12:22:20+00:00",
+     "id": "09287bc9f79b"
     },
     {
      "title": "Patterns and problems in emerging multi-agent systems",
@@ -200,13 +239,6 @@
      "source": "Hacker News (100+ puntos)",
      "published": "2026-08-16T02:12:53+00:00",
      "id": "af863cb3b215"
-    },
-    {
-     "title": "Software Engineering fundamentals matter more",
-     "link": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-15T22:31:09+00:00",
-     "id": "c17be638bf7e"
     },
     {
      "title": "Mathematical Experiments Are Becoming Abundant Through Human-Machine Teaming",
@@ -225,28 +257,12 @@
      "id": "b0ec4660c702"
     },
     {
-     "title": "How to Shine as a Data Scientist in the Vibe Coding Era",
-     "link": "https://towardsdatascience.com/how-to-shine-in-the-vibe-coding-era-as-a-data-scientist/",
-     "source": "Towards Data Science",
-     "published": "2026-08-15T13:00:00+00:00",
-     "copete": "Here's how to be the Data Scientist who thrives in a world where coding is a commodity. The post How to Shine as a Data Scientist in the Vibe Coding Era appeared first on Towards Data Science .",
-     "id": "3282f14dda9b"
-    },
-    {
      "title": "Northern Gannet",
      "link": "https://simonwillison.net/2026/Aug/15/sighting-391300422/",
      "source": "Simon Willison (IA)",
      "published": "2026-08-15T03:22:00+00:00",
      "copete": "Northern Gannet, in Pillar Point Harbor, CA, US This is Morris. Morris is a local celebrity: the only known Northern Gannet ( Morus bassanus ) in the entire Pacific Ocean. They showed up in the Farallon Islands off the coast of San…",
      "id": "69a56244fe98"
-    },
-    {
-     "title": "Don't classify. Hallucinate!",
-     "link": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
-     "source": "Simon Willison (IA)",
-     "published": "2026-08-14T21:54:35+00:00",
-     "copete": "Don't classify. Hallucinate! I still have quite a bit of older content on my blog that I never got round to tagging. My blog has 1,856 tags - likely too many to feed to an LLM in one go and say \"which of these tags match the following…",
-     "id": "77478ebfdae2"
     }
    ]
   },
@@ -256,100 +272,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Qué encontró la Policía al llegar a la casa del femicidio de Villa Devoto: hermanos conmocionados, un perro herido y un conejo",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/08/16/que-encontro-la-policia-al-llegar-a-la-casa-del-femicidio-de-villa-devoto-hermanos-conmocionados-un-perro-herido-y-un-conejo/",
+     "title": "Escribió que planeó el asesinato de Tupac Shakur, cobró por contarlo y ahora dice que fue pura ficción",
+     "link": "https://www.infobae.com/cultura/2026/08/16/escribio-que-planeo-el-asesinato-de-tupac-shakur-cobro-por-contarlo-y-ahora-dice-que-fue-pura-ficcion/",
      "source": "Infobae",
-     "published": "2026-08-16T14:42:39+00:00",
-     "copete": "Romina Calvo fue asesinada por su marido, Walter Verón, en una propiedad de la calle Pedro Morán",
-     "id": "e46a9d4c49a1"
+     "published": "2026-08-16T16:43:54+00:00",
+     "copete": "En el libro ‘Compton Street Legend’, Duane Davis alardeó de su participación. Estas memorias, de las que ahora se retracta, son una prueba relevante en el juicio que comienza esta semana",
+     "id": "9a7507ad0c16"
     },
     {
-     "title": "Lo buscaban por el crimen de un comisario y cayó por el asalto al padre de un exfiscal",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/08/16/lo-buscaban-por-el-crimen-de-un-comisario-y-cayo-por-el-asalto-al-padre-de-un-exfiscal/",
-     "source": "Infobae",
-     "published": "2026-08-16T14:36:47+00:00",
-     "copete": "Lautaro Gastón Lemos era buscado por el homicidio de Diego Fernando Ponce, baleado por delincuentes cuando retiraba a su hija de una escuela de inglés en La Matanza",
-     "id": "e472a1a3f77d"
-    },
-    {
-     "title": "Lisa Kudrow y Mira Sorvino revelan el mayor temor que enfrentaron en su regreso como Romy y Michele",
-     "link": "https://www.infobae.com/entretenimiento/2026/08/16/lisa-kudrow-y-mira-sorvino-revelan-el-mayor-temor-que-enfrentaron-en-su-regreso-como-romy-y-michele/",
-     "source": "Infobae",
-     "published": "2026-08-16T14:36:26+00:00",
-     "copete": "Casi 30 años después, las actrices retoman sus papeles en “Romy y Michele” y cuentan qué sintieron al volver al set por primera vez",
-     "id": "1919be29b4f1"
-    },
-    {
-     "title": "Martín Ghiozzi, argentino con carnicerías en Estados Unidos: “No alcanza con vender un buen producto; hay que construir una experiencia”",
-     "link": "https://www.lanacion.com.ar/economia/campo/martin-ghiozzi-argentino-con-carnicerias-en-estados-unidos-no-alcanza-con-vender-un-buen-producto-nid16082026/",
+     "title": "Victor Glover, piloto del Artemis II: “La vida en Orión era íntima, éramos un solo organismo”",
+     "link": "https://www.lanacion.com.ar/ciencia/victor-glover-piloto-del-artemis-ii-la-vida-en-orion-era-intima-eramos-un-solo-organismo-nid16082026/",
      "source": "La Nación",
-     "published": "2026-08-16T14:36:24+00:00",
-     "copete": "Silvio Siracussa y Martín Ghiozzi cuentan con cuatro sucursales en Florida (North Miami, Aventura, Key Biscayne y Pinecrest); el plan para los próximos meses incluye la apertura de cinco nuevos locales propios y, en paralelo, el desarrollo…",
-     "id": "9d374a349216"
+     "published": "2026-08-16T16:40:58+00:00",
+     "copete": "El astronauta reveló detalles sobre la convivencia extrema en la cápsula espacial; destacó la cohesión necesaria para superar los desafíos técnicos y físicos de la misión",
+     "id": "2a02593b5a89"
     },
     {
-     "title": "Dónde pasan el Mundial de hockey 2026 y qué canal lo transmite en vivo",
-     "link": "https://www.lanacion.com.ar/deportes/hockey/donde-pasan-el-mundial-de-hockey-2026-y-que-canal-lo-transmite-en-vivo-nid16082026/",
-     "source": "La Nación",
-     "published": "2026-08-16T14:35:42+00:00",
-     "copete": "El certamen para las ramas femenina y masculina se disputa en Bélgica y Países Bajos con 16 seleccionados en cada uno",
-     "id": "d727ee6c8d17"
-    },
-    {
-     "title": "Robots, alianzas y trabajo en equipo: cómo es la competencia que reúne a estudiantes de todo el país",
-     "link": "https://www.lanacion.com.ar/sociedad/robots-alianzas-y-trabajo-en-equipo-como-es-la-competencia-que-reune-a-estudiantes-de-todo-el-pais-nid15082026/",
-     "source": "La Nación",
-     "published": "2026-08-16T14:33:58+00:00",
-     "copete": "La Copa Robótica Educabot 2026 reúne a jóvenes de 24 jurisdicciones; la final nacional será el 25 y 26 de septiembre en Neuquén; el ganador viajará a un certamen mundial",
-     "id": "881976581eca"
-    },
-    {
-     "title": "Detuvieron a tres ciudadanos chilenos que entraron a robar a un departamento del barrio porteño de Balvanera",
-     "link": "https://www.infobae.com/sociedad/2026/08/16/detuvieron-a-tres-ciudadanes-chilenos-que-entraron-a-robar-a-un-departamento-del-barrio-porteno-de-balvanera/",
+     "title": "Honduras enfrenta una crisis de sequía en 75 municipios y alcaldes piden acelerar obras para garantizar agua",
+     "link": "https://www.infobae.com/honduras/2026/08/16/honduras-enfrenta-una-crisis-de-sequia-en-75-municipios-y-alcaldes-piden-acelerar-obras-para-garantizar-agua/",
      "source": "Infobae",
-     "published": "2026-08-16T14:33:48+00:00",
-     "copete": "Una joven denunció el ingreso de tres personas a su vivienda por el balcón, lo que permitió un rápido operativo policial y la recuperación de los objetos sustraídos",
-     "id": "7ca8a8d6b0f3"
+     "published": "2026-08-16T16:38:23+00:00",
+     "copete": "Las municipalidades plantean pasar de la distribución inmediata a una estrategia con infraestructura para almacenar y aprovechar el recurso, con obras como cosechadoras de agua, pozos y sistemas de riego.",
+     "id": "bb7318d115e0"
     },
     {
-     "title": "Clima: las temperaturas que predominarán este 16 de agosto en Asunción",
-     "link": "https://www.infobae.com/noticias/2026/08/16/clima-las-temperaturas-que-predominaran-este-16-de-agosto-en-asuncion/",
+     "title": "República Dominicana tendrá más mayores de 60 años que menores de 15 en 2044, según la Oficina Nacional de Estadística",
+     "link": "https://www.infobae.com/republica-dominicana/2026/08/16/republica-dominicana-tendra-mas-mayores-de-60-anos-que-menores-de-15-en-2044-segun-la-oficina-nacional-de-estadistica/",
      "source": "Infobae",
-     "published": "2026-08-16T14:31:00+00:00",
-     "copete": "Durante el invierno en Paraguay la temperatura baja hasta los cero grados, siendo -7 grados el récord histórico, ocurrido en el año 2000",
-     "id": "53d261c341f5"
+     "published": "2026-08-16T16:37:05+00:00",
+     "copete": "Las proyecciones oficiales anticipan un cambio en la estructura etaria del país, con una relación de 100.38 adultos mayores por cada 100 niños, en un escenario que presionará la salud, las pensiones y el empleo",
+     "id": "9c14de88410b"
     },
     {
-     "title": "Miguel Ángel Sánchez, socorrista de Cruz Roja: “Ante un encuentro con medusas en el agua, hay que nadar pausadamente y salir sin movimientos bruscos”",
-     "link": "https://www.clarin.com/internacional/miguel-angel-sanchez-socorrista-cruz-roja-encuentro-medusas-agua-nadar-pausadamente-salir-movimientos-bruscos_0_Rz9P4PKv1n.html",
+     "title": "Qué aporta la avena antes de dormir dentro de una rutina saludable de sueño, según la evidencia",
+     "link": "https://www.infobae.com/salud/2026/08/16/que-aporta-la-avena-antes-de-dormir-dentro-de-una-rutina-saludable-de-sueno-segun-la-evidencia/",
+     "source": "Infobae",
+     "published": "2026-08-16T16:35:10+00:00",
+     "copete": "El interés creció por su combinación de carbohidratos complejos, fibra y triptófano, un perfil que se estudia por su posible papel en la producción de serotonina y melatonina",
+     "id": "21850da20334"
+    },
+    {
+     "title": "Fuerza Naval alerta por marejadas de hasta 2 metros en el Pacífico de Nicaragua",
+     "link": "https://www.infobae.com/nicaragua/2026/08/16/fuerza-naval-alerta-por-marejadas-de-hasta-2-metros-en-el-pacifico-de-nicaragua/",
+     "source": "Infobae",
+     "published": "2026-08-16T16:34:52+00:00",
+     "copete": "El aviso marítimo estará vigente del 16 al 20 de agosto y pone el foco en la franja entre Bahía de Salinas y el Golfo de Fonseca, donde también se esperan ráfagas fuertes",
+     "id": "1dd93bdd2799"
+    },
+    {
+     "title": "Las redadas de ICE golpean a la construcción en Texas: empresarios advierten por falta de trabajadores",
+     "link": "https://www.lanacion.com.ar/estados-unidos/texas/las-redadas-de-ice-golpean-a-la-construccion-en-texas-empresarios-advierten-por-falta-de-nid16082026/",
+     "source": "La Nación",
+     "published": "2026-08-16T16:18:17+00:00",
+     "copete": "Conoce cómo las redadas de ICE afectan la construcción en Texas y por qué empresarios advierten a los legisladores sobre las elecciones de noviembre.",
+     "id": "332f5da1e193"
+    },
+    {
+     "title": "Noticias de Texas: nueva encuesta muestra que Abbott mejora su posición frente a Hinojosa para gobernador",
+     "link": "https://www.lanacion.com.ar/estados-unidos/texas/noticias-de-texas-nueva-encuesta-muestra-que-abbott-mejora-su-posicion-frente-a-hinojosa-para-nid15082026/",
+     "source": "La Nación",
+     "published": "2026-08-16T16:13:16+00:00",
+     "copete": "Mira cómo Abbott lidera a Hinojosa por cuatro puntos y Paxton supera por uno a Talarico en Texas, según una nueva encuesta de Emerson.",
+     "id": "e02c9f8c49dd"
+    },
+    {
+     "title": "Cómo eligen los gatos a su persona favorita y cuál es la razón detrás",
+     "link": "https://www.lanacion.com.ar/lifestyle/mascotas/como-eligen-los-gatos-a-su-persona-favorita-y-cual-es-la-razon-detras-nid16082026/",
+     "source": "La Nación",
+     "published": "2026-08-16T16:06:55+00:00",
+     "copete": "Especialistas en comportamiento animal analizan los factores biológicos y cotidianos que definen la jerarquía afectiva de los gatos; el rol del cuidador en el entorno doméstico resulta determinante",
+     "id": "6250938534a5"
+    },
+    {
+     "title": "Por qué compañías como Apple o Samsung colaboran con la CBP: “Están muy interesados en trabajar con nosotros”",
+     "link": "https://www.lanacion.com.ar/estados-unidos/por-que-companias-como-apple-o-samsung-colaboran-con-la-cbp-estan-muy-interesados-en-trabajar-con-nid14082026/",
+     "source": "La Nación",
+     "published": "2026-08-16T15:59:48+00:00",
+     "copete": "Descubre cómo la CBP trabaja con Apple y Samsung para detectar falsificaciones, revisar cargamentos y evitar el ingreso de productos peligrosos.",
+     "id": "930b4345ca6c"
+    },
+    {
+     "title": "Selena Gomez y su madre fueron demandas por fraude: qué respondió el defensor de la actriz",
+     "link": "https://www.clarin.com/espectaculos/selena-gomez-madre-demandas-fraude-respondio-defensor-actriz_0_qeQ5YeOIfi.html",
      "source": "Clarín",
-     "published": "2026-08-16T14:26:53+00:00",
-     "copete": "El especialista explica cómo actuar durante los primeros minutos, qué remedios conviene evitar y qué síntomas indican que es necesario acudir a un centro sanitario.",
-     "id": "8b73a02a4451"
+     "published": "2026-08-16T15:59:20+00:00",
+     "copete": "Ambas fueron acusadas ante la Justicia por un grupo de inversores de su empresa \"Wondermind\", dedicada a la salud mental. Los presuntos afectados alegan movimientos desleales por parte de la mega estrella estadounidense y sus socias.",
+     "id": "f91c836b3c42"
     },
     {
-     "title": "El silaje de maíz: una reserva estratégica para la ganadería moderna",
-     "link": "https://www.lanacion.com.ar/economia/campo/el-silaje-de-maiz-una-reserva-estrategica-para-la-ganaderia-moderna-nid14082026/",
-     "source": "La Nación",
-     "published": "2026-08-16T14:21:51+00:00",
-     "copete": "Los mejores silos nacen de una planificación integral donde ambiente, genética, manejo agronómico y demanda animal trabajan de manera coordinada para garantizar resultados productivos y económicos sostenibles",
-     "id": "1096b6dfa321"
-    },
-    {
-     "title": "Pablo Ginestet, presidente de Carbap: “Lamentablemente, otra vez los productores tendrán que arreglarse como puedan”",
-     "link": "https://www.lanacion.com.ar/economia/campo/pablo-ginestet-presidente-de-carbap-lamentablemente-otra-vez-los-productores-tendran-que-arreglarse-nid16082026/",
-     "source": "La Nación",
-     "published": "2026-08-16T14:21:14+00:00",
-     "copete": "Carbap advirtió que la provincia llega ante El Niño con una infraestructura deteriorada, pocas obras hidráulicas y 120.000 kilómetros de caminos rurales con escaso mantenimiento; temen que las lluvias compliquen la siembra y la salida de…",
-     "id": "cfc310bb2c4e"
-    },
-    {
-     "title": "Mariana, cuidadora venezolana en España: “En mi país era maestra y ganaba 500 dólares al mes; aquí gano 1.400 euros”",
-     "link": "https://www.clarin.com/internacional/mariana-cuidadora-venezolana-espana-pais-maestra-ganaba-500-dolares-mes-gano-1400-euros-8-horas-trabajar-casa_0_DkNzEAIIWx.html",
+     "title": "\"Experto en paros\": Javier Milei se burló de Facundo Moyano tras el escándalo con su novia Candela Arizaga",
+     "link": "https://www.clarin.com/politica/experto-paros-javier-milei-burlo-facundo-moyano-escandalo-novia-candela-arizaga_0_MFlpI3KPEf.html",
      "source": "Clarín",
-     "published": "2026-08-16T14:16:00+00:00",
-     "copete": "Una maestra venezolana dejó su profesión y emigró a España en busca de mejores oportunidades.",
-     "id": "0d3f16139478"
+     "published": "2026-08-16T15:36:42+00:00",
+     "copete": "El Presidente compartió un posteo en su cuenta de Instagram en el que aludió al episodio en el que la pareja del exdiputado fue vista corriendo semidesnuda por Belgrano. En su versión pública del hecho, Moyano dijo que la joven sufrió un…",
+     "id": "c87a92508a9f"
     }
    ]
   },
@@ -359,6 +375,54 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Two dead and evacuation under way as fires break out on Greek island",
+     "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-16T16:14:26+00:00",
+     "copete": "Nearly 200 firefighters are trying to keep the two fires on Salamina apart, Greek media report.",
+     "id": "5282a4741c3e"
+    },
+    {
+     "title": "Dos muertos y cuatro heridos en un incendio en la isla griega de Salamina",
+     "link": "https://elpais.com/internacional/2026-08-16/dos-muertos-y-cuatro-heridos-en-un-incendio-en-la-isla-griega-de-salamina.html",
+     "source": "El País Internacional",
+     "published": "2026-08-16T16:06:16+00:00",
+     "copete": "El fuerte viento dificulta las labores de extinción del fuego, que se expande con rapidez en dos focos",
+     "id": "d93aa5f03614"
+    },
+    {
+     "title": "Lula arranca la campaña para conquistar un cuarto mandato: “No voy a permitir que la derecha regrese al poder”",
+     "link": "https://elpais.com/internacional/2026-08-16/lula-arranca-la-campana-para-conquistar-un-cuarto-mandato-no-voy-a-permitir-que-la-derecha-regrese-al-poder.html",
+     "source": "El País Internacional",
+     "published": "2026-08-16T15:53:05+00:00",
+     "copete": "Bolsonaro hijo y el presidente de Brasil están en empate técnico en las encuestas",
+     "id": "b2f0f5a8b9a3"
+    },
+    {
+     "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+     "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-16T15:50:12+00:00",
+     "copete": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
+     "id": "20cfa26d02e6"
+    },
+    {
+     "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+     "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-16T15:25:38+00:00",
+     "copete": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
+     "id": "5af5a4c30c40"
+    },
+    {
+     "title": "Teenager arrested in Virginia State University shooting that injured five",
+     "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-16T15:22:50+00:00",
+     "copete": "The 19-year-old, who was not a student at the university, was found hiding in a closet on campus, according to police.",
+     "id": "a596e2302c0c"
+    },
+    {
      "title": "Se enamoraron y luego violaron la ley para comprobar que no eran hermanos",
      "link": "https://www.bbc.com/mundo/articles/cpd7p215jyqo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
@@ -367,44 +431,12 @@
      "id": "5872f11ab79a"
     },
     {
-     "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-     "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-16T13:34:38+00:00",
-     "copete": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
-     "id": "8d0343a74756"
-    },
-    {
-     "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
-     "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-16T12:53:43+00:00",
-     "copete": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas.",
-     "id": "803a25ffb81d"
-    },
-    {
-     "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-     "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-16T12:37:21+00:00",
-     "copete": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
-     "id": "3ad1c578f974"
-    },
-    {
      "title": "Los equipos de rescate de Indonesia buscan supervivientes tras el terremoto de 7,7 de magnitud",
      "link": "https://elpais.com/internacional/2026-08-16/los-equipos-de-rescate-de-indonesia-buscan-supervivientes-tras-el-terremoto-de-77-de-magnitud.html",
      "source": "El País Internacional",
      "published": "2026-08-16T12:23:51+00:00",
      "copete": "Las autoridades elevan a 53 los fallecidos y miles de personas siguen evacuadas en la isla de Flores",
      "id": "61ebbc6ac700"
-    },
-    {
-     "title": "BBC visits smouldering Kyiv market after Russian strikes",
-     "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-16T12:18:09+00:00",
-     "copete": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
-     "id": "966b5f565a26"
     },
     {
      "title": "Cómo se convirtió en el hombre más rico del mundo Jean Paul Getty, el excéntrico magnate cuya mascota era un león",
@@ -421,22 +453,6 @@
      "published": "2026-08-16T10:06:24+00:00",
      "copete": "En Reino Unido cada vez más personas se someten a escáneres corporales para detectar enfermedades anticipadamente, pero no todos los médicos confían en los resultados.",
      "id": "1f5f8bbabd16"
-    },
-    {
-     "title": "Al menos 12 muertos al volcar un autobús turístico de Polonia  en una autopista en Hungría",
-     "link": "https://elpais.com/internacional/2026-08-16/al-menos-12-muertos-al-volcar-un-autobus-turistico-de-polonia-en-una-autopista-en-hungria.html",
-     "source": "El País Internacional",
-     "published": "2026-08-16T09:45:44+00:00",
-     "copete": "Una decena de viajeros sufren heridas graves por el accidente. La policía cree que el conductor supuestamente se quedó dormido",
-     "id": "238de34f5bc9"
-    },
-    {
-     "title": "Un F-18 español de la OTAN derriba un dron en el espacio aéreo de Rumania",
-     "link": "https://elpais.com/internacional/2026-08-16/un-f-18-espanol-de-la-otan-derriba-un-dron-en-el-espacio-aereo-de-rumania.html",
-     "source": "El País Internacional",
-     "published": "2026-08-16T09:16:52+00:00",
-     "copete": "La Alianza sospecha que se trató de un avión no tripulado ruso. Es el cuarto aparato sobre territorio rumano desde finales de julio",
-     "id": "f9744d60f580"
     }
    ]
   }

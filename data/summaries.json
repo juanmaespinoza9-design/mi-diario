@@ -1,19 +1,6 @@
 {
-  "generated_at": "2026-08-17T10:06:00Z",
+  "generated_at": "2026-08-17T22:04:46Z",
   "summaries": {
-    "b1d14f57a216": {
-      "resumen": "Fe de erratas publicada por el Journal of the American College of Cardiology (JACC) sobre un artículo previo; el título disponible (\"Correction\") no permite precisar a qué trabajo corrige. Se incluye solo como referencia bibliográfica, sin contenido clínico propio.",
-      "destacado": false
-    },
-    "a1fc649f9735": {
-      "resumen": "Artículo de perspectiva en JACC que analiza la brecha entre la evidencia de los ensayos clínicos con agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1) y su implementación real en la prevención cardiovascular. Sirve para pensar por qué, pese a los resultados positivos, estos fármacos siguen subutilizados en la práctica diaria.",
-      "destacado": true,
-      "analisis": "Diseño: artículo de perspectiva/análisis publicado en JACC (Journal of the American College of Cardiology) sobre la brecha de implementación de los agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1) en prevención cardiovascular; no se trata de un ensayo clínico original, sino de una revisión crítica posterior a los grandes ensayos.\nPoblación: no aplica un criterio de inclusión/exclusión de pacientes individuales; el foco son los pacientes con enfermedad cardiovascular aterosclerótica y/u obesidad que serían candidatos a agonistas del receptor de GLP-1 según la evidencia de los ensayos ya publicados.\nIntervención: no evalúa una intervención nueva; analiza por qué la prescripción real de agonistas del receptor de GLP-1 sigue siendo baja pese a los beneficios cardiovasculares demostrados en ensayos previos.\nResultados: no se dispone de cifras propias (no es un estudio con datos originales) y no se pudo acceder al abstract completo para precisar qué brechas cuantifica.\nLimitaciones: al ser un artículo de opinión/perspectiva, sus conclusiones no surgen de datos originales propios sino de la síntesis de literatura existente y la mirada de los autores.\nMensaje: llama la atención sobre la distancia entre la evidencia de los ensayos clínicos con agonistas del receptor de GLP-1 y su uso real en prevención cardiovascular, con foco en barreras de acceso, costo y prescripción.\nNota: análisis sin acceso al abstract."
-    },
-    "7d7e3022b040": {
-      "resumen": "Revisión del European Heart Journal sobre la cardiopatía isquémica más allá de las estenosis coronarias obstructivas —el cuadro conocido como isquemia con arterias coronarias no obstructivas (INOCA) o angina microvascular—, desde la prevención hasta el tratamiento. Vale la pena porque es una entidad subdiagnosticada, más frecuente en mujeres, y esta puesta al día ayuda a sospecharla y manejarla en la consulta diaria.",
-      "destacado": false
-    },
     "3e9ab9eca463": {
       "resumen": "TCTMD reporta un estudio que evaluó si el puntaje de calcio coronario (CAC, calcium score) puede calcularse de forma precisa a partir de tomografías de tórax sin sincronización cardíaca (no gatilladas), habitualmente pedidas por otros motivos. Vale la pena porque, si se confirma, permitiría aprovechar millones de estudios de tórax ya realizados para estratificar riesgo cardiovascular sin exponer al paciente a radiación ni estudios adicionales.",
       "destacado": false,
@@ -24,70 +11,85 @@
       "destacado": false,
       "analisis": "Diseño: nota de TCTMD sobre un estudio (probablemente observacional o de implementación) que compara telemedicina para ACV agudo liderada por enfermeros de práctica avanzada frente al modelo tradicional; no se pudo acceder al artículo original para precisar diseño, número de centros ni de pacientes.\nPoblación: pacientes con sospecha de accidente cerebrovascular agudo evaluados por telemedicina en el servicio de urgencias.\nIntervención: evaluación y toma de decisiones (por ejemplo indicación de trombolisis) por enfermeros de práctica avanzada vía telemedicina, comparado con el modelo estándar (neurólogo vascular presencial o por telemedicina).\nResultados: no disponibles con precisión por falta de acceso al abstract; el título indica que la modalidad resultó una \"opción sólida\", sugiriendo resultados comparables al estándar.\nLimitaciones: sin la fuente primaria no es posible evaluar tiempos puerta-aguja, tasas de complicaciones ni el entrenamiento específico del personal de enfermería involucrado.\nMensaje: podría respaldar la ampliación de modelos de telemedicina liderados por enfermería para ACV agudo en centros con acceso limitado a neurología vascular, aunque conviene esperar confirmación con la publicación completa.\nNota: análisis sin acceso al abstract."
     },
-    "d98a9496e7fd": {
-      "resumen": "Entrega de la serie \"On Record\" de TCTMD, con formato de entrevista o debate, que discute si las estrategias de detección y tratamiento sistemático de la estenosis aórtica (AS, aortic stenosis) realmente funcionan en la práctica. Vale la pena por la mirada crítica sobre programas de pesquisa de una valvulopatía frecuente y subdiagnosticada en adultos mayores.",
-      "destacado": false
-    },
-    "ecaa897aa947": {
-      "resumen": "TCTMD presenta una entrega de la serie sobre las iniciativas de la Federación Mundial del Corazón (World Heart Federation) para combatir la cardiopatía reumática (RHD, rheumatic heart disease), enfermedad todavía muy prevalente en países de ingresos bajos y medios y ligada a la faringitis estreptocócica no tratada en la infancia. Vale la pena por el repaso de estrategias de prevención primaria y secundaria de una patología desatendida pero relevante en salud cardiovascular global.",
-      "destacado": false
-    },
-    "7287992ef071": {
-      "resumen": "TCTMD repasa otra entrega de la serie sobre las iniciativas de la Federación Mundial del Corazón (World Heart Federation) para combatir la cardiopatía reumática (RHD, rheumatic heart disease), secuela de la fiebre reumática por faringitis estreptocócica no tratada en la infancia. Vale la pena porque pone el foco en una enfermedad desatendida pero todavía muy prevalente en países de ingresos bajos y medios, con estrategias concretas de prevención primaria y secundaria.",
-      "destacado": false
-    },
     "26455c500fd0": {
       "resumen": "Aviso de retiro temporal ('temporary removal') publicado en JACC (Journal of the American College of Cardiology) sobre un artículo que replanteaba la progresión de la enfermedad en la miocardiopatía amiloidótica por transtiretina (ATTR-CM, transthyretin amyloid cardiomyopathy). No se dispone del motivo del retiro ni del contenido original; se incluye solo como referencia bibliográfica, sin contenido clínico propio para analizar.",
       "destacado": false
     },
-    "7339be537a61": {
-      "resumen": "Hilo semanal fijo de r/datascience donde quienes están entrando o haciendo la transición hacia la ciencia de datos comparten dudas sobre formación, portfolio y búsqueda laboral. Le sirve a un médico que está migrando hacia el análisis de datos como termómetro de qué preguntas y obstáculos son comunes en ese camino, y como punto de partida para pedir consejo a la comunidad.",
+    "b1d14f57a216": {
+      "resumen": "Fe de erratas publicada por el Journal of the American College of Cardiology (JACC) sobre un artículo previo; el título disponible (\"Correction\") no permite precisar a qué trabajo corrige. Se incluye solo como referencia bibliográfica, sin contenido clínico propio.",
       "destacado": false
     },
-    "f94f3ec49f0b": {
-      "resumen": "Parte mensual de novedades del desarrollo de GIMP, el editor de imágenes de código abierto, publicada en su blog oficial y destacada en Hacker News. No es estrictamente ciencia de datos, pero le aporta a un médico que aprende a programar un ejemplo de cómo un proyecto de software libre grande organiza y comunica su evolución técnica.",
+    "7d7e3022b040": {
+      "resumen": "Revisión del European Heart Journal sobre la cardiopatía isquémica más allá de las estenosis coronarias obstructivas —el cuadro conocido como isquemia con arterias coronarias no obstructivas (INOCA) o angina microvascular—, desde la prevención hasta el tratamiento. Vale la pena porque es una entidad subdiagnosticada, más frecuente en mujeres, y esta puesta al día ayuda a sospecharla y manejarla en la consulta diaria.",
       "destacado": false
     },
-    "67414529efd2": {
-      "resumen": "Informe extenso (en PDF) sobre el auge y la cancelación de Direct File, el sistema gratuito de declaración de impuestos que el fisco de Estados Unidos (IRS) había lanzado y luego discontinuó. Le sirve a un médico que aprende análisis de datos como estudio de caso de cómo la política y los intereses del sector privado pueden determinar el destino de una herramienta digital pública, más allá de sus méritos técnicos.",
+    "d98a9496e7fd": {
+      "resumen": "Entrega de la serie \"On Record\" de TCTMD, con formato de entrevista o debate, que discute si las estrategias de detección y tratamiento sistemático de la estenosis aórtica (AS, aortic stenosis) realmente funcionan en la práctica. Vale la pena por la mirada crítica sobre programas de pesquisa de una valvulopatía frecuente y subdiagnosticada en adultos mayores.",
       "destacado": false
     },
-    "5d80ce7e11f5": {
-      "resumen": "Simon Willison (referente en inteligencia artificial) presenta las mejoras de su herramienta para renderizar Markdown con gráficos vectoriales SVG (Scalable Vector Graphics) incrustados, pensada para compartir transcripciones técnicas con diagramas. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo documentar y comunicar resultados técnicos de forma reproducible y visual.",
+    "a1fc649f9735": {
+      "resumen": "Artículo de perspectiva en JACC que analiza la brecha entre la evidencia de los ensayos clínicos con agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1) y su implementación real en la prevención cardiovascular. Sirve para pensar por qué, pese a los resultados positivos, estos fármacos siguen subutilizados en la práctica diaria.",
+      "destacado": true,
+      "analisis": "Diseño: artículo de perspectiva/análisis publicado en JACC (Journal of the American College of Cardiology) sobre la brecha de implementación de los agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1) en prevención cardiovascular; no se trata de un ensayo clínico original, sino de una revisión crítica posterior a los grandes ensayos.\nPoblación: no aplica un criterio de inclusión/exclusión de pacientes individuales; el foco son los pacientes con enfermedad cardiovascular aterosclerótica y/u obesidad que serían candidatos a agonistas del receptor de GLP-1 según la evidencia de los ensayos ya publicados.\nIntervención: no evalúa una intervención nueva; analiza por qué la prescripción real de agonistas del receptor de GLP-1 sigue siendo baja pese a los beneficios cardiovasculares demostrados en ensayos previos.\nResultados: no se dispone de cifras propias (no es un estudio con datos originales) y no se pudo acceder al abstract completo para precisar qué brechas cuantifica.\nLimitaciones: al ser un artículo de opinión/perspectiva, sus conclusiones no surgen de datos originales propios sino de la síntesis de literatura existente y la mirada de los autores.\nMensaje: llama la atención sobre la distancia entre la evidencia de los ensayos clínicos con agonistas del receptor de GLP-1 y su uso real en prevención cardiovascular, con foco en barreras de acceso, costo y prescripción.\nNota: análisis sin acceso al abstract."
+    },
+    "3ce96bae7fac": {
+      "resumen": "Investigación de TCTMD que compara la frecuencia de ectopía cardíaca (extrasístoles) en días con y sin consumo de cannabis, en los mismos pacientes con monitoreo ambulatorio del ritmo cardíaco. Vale la pena porque el consumo de cannabis crece y hay dudas sobre su seguridad cardiovascular; el hallazgo, contraintuitivo, cuestiona la idea de que el cannabis dispara arritmias.",
+      "destacado": false,
+      "analisis": "Diseño: nota de TCTMD sobre un estudio que compara la ectopía cardíaca (extrasístoles auriculares o ventriculares) en días de consumo de cannabis frente a días sin consumo, en los mismos pacientes, probablemente mediante monitoreo ambulatorio prolongado; no se pudo acceder al artículo original para precisar si es un diseño de cohorte o autocontrolado (case-crossover), ni el número de centros o pacientes.\nPoblación: personas usuarias de cannabis con registro ambulatorio de ritmo cardíaco que permite comparar días de consumo contra días sin consumo.\nIntervención: consumo de cannabis en un día dado, comparado contra días sin consumo, en una comparación intrapersonal.\nResultados: no disponibles con precisión por falta de acceso al abstract; el título indica menor incidencia de ectopía cardíaca en los días de consumo.\nLimitaciones: sin la fuente primaria no es posible evaluar el método de constatación del consumo (autorreporte vs. objetivo), posibles factores de confusión (actividad física, estrés, otras sustancias) ni el tipo de dispositivo de monitoreo.\nMensaje: hallazgo llamativo que no debería traducirse en un cambio de conducta clínica sin ver la publicación completa; no avala recomendar ni desaconsejar el consumo de cannabis por motivos arrítmicos.\nNota: análisis sin acceso al abstract."
+    },
+    "4eed604d7496": {
+      "resumen": "Estudio de TCTMD que asocia el sexo femenino y la fibrosis miocárdica (detectada por resonancia magnética cardíaca) con arritmias ventriculares graves en pacientes con prolapso de la válvula mitral. Vale la pena porque el prolapso mitral arritmogénico es una causa de muerte súbita poco reconocida, y esto ayuda a identificar mejor a los pacientes de alto riesgo.",
+      "destacado": false,
+      "analisis": "Diseño: nota de TCTMD sobre un estudio, probablemente de cohorte observacional, que evalúa factores asociados a arritmias ventriculares graves en pacientes con prolapso de la válvula mitral; no se pudo acceder al artículo original para precisar si es prospectivo o retrospectivo, ni el número de centros o pacientes.\nPoblación: pacientes con prolapso de la válvula mitral, presumiblemente evaluados con resonancia magnética cardíaca para detectar fibrosis miocárdica y con seguimiento de eventos arrítmicos.\nIntervención: no hay una intervención terapéutica evaluada; es un estudio de asociación entre variables (sexo femenino, fibrosis miocárdica) y el desenlace arrítmico.\nResultados: no disponibles con precisión por falta de acceso al abstract; el título indica que el sexo femenino y la fibrosis se asociaron con mayor riesgo de arritmias ventriculares graves, sin magnitud precisada.\nLimitaciones: sin la fuente primaria no es posible valorar el método de cuantificación de la fibrosis, el tiempo de seguimiento ni el ajuste por otros factores de riesgo arrítmico ya conocidos en el prolapso mitral.\nMensaje: refuerza estratificar el riesgo arrítmico en el prolapso mitral más allá de la severidad de la regurgitación, incorporando sexo y hallazgos de fibrosis por resonancia; podría orientar una vigilancia más estrecha en pacientes seleccionados.\nNota: análisis sin acceso al abstract."
+    },
+    "c76018e68d72": {
+      "resumen": "Reflexión publicada en Hacker News (más de 100 puntos) sobre la cultura de pedirle a la inteligencia artificial que resuma todo en vez de leer las fuentes originales, fenómeno bautizado \"AI;DR\" (parodia de \"TL;DR\"). Le sirve a quien está aprendiendo análisis de datos porque advierte sobre el riesgo de perder profundidad de comprensión al delegar la lectura crítica en herramientas de inteligencia artificial.",
       "destacado": false
     },
-    "bd2ea7ca9589": {
-      "resumen": "Presentación en Hacker News de Reticulum, un protocolo de red en malla (mesh network) descentralizada pensado para comunicarse incluso sin infraestructura de internet convencional. El aporte para un médico que aprende análisis de datos es acotado, pero sirve como ejemplo de arquitecturas de datos distribuidas y resilientes ante fallas de conectividad.",
+    "da51129093b6": {
+      "resumen": "Hilo de la comunidad r/datascience sobre cómo prepararse para entrevistas técnicas de ciencia de datos. Útil para quien está en transición hacia el análisis de datos porque da una idea de qué tipo de preguntas y exigencias esperan los procesos de selección del rubro.",
       "destacado": false
     },
-    "097582375e87": {
-      "resumen": "Simon Willison prueba Qwen 3.8 27B, un modelo de lenguaje de código abierto, y señala que si bien da muy buenos resultados, tiende a 'sobrepensar' (generar razonamientos innecesariamente largos) antes de responder. Le sirve a un médico que aprende análisis de datos para entender que, al elegir un modelo de inteligencia artificial (IA) para tareas propias, el tiempo de respuesta y la verbosidad del razonamiento son variables tan importantes como la precisión.",
+    "30e1e03328df": {
+      "resumen": "Publicación de Hacker News que reporta el desempeño del modelo de lenguaje Qwen3.8 27B (27.000 millones de parámetros) en el índice comparativo Artificial Analysis, que mide capacidades de distintos modelos de inteligencia artificial. Sirve como referencia rápida de qué tan competitivos son los modelos de código abierto frente a los comerciales, algo útil al elegir herramientas de IA para trabajar con datos.",
       "destacado": false
     },
-    "7b67d0050f11": {
-      "resumen": "Simon Willison cita una reflexión de Dario Amodei (director ejecutivo de Anthropic) sobre la desconfianza pública hacia la inteligencia artificial (IA), que Amodei atribuye a una crisis de confianza más amplia y no solo a las advertencias de riesgo de los propios líderes del sector. Le sirve a un médico que aprende análisis de datos para entender el clima de opinión y los debates éticos que rodean a las herramientas de IA que probablemente vaya a usar en su trabajo.",
+    "b2afd0d3a37e": {
+      "resumen": "Artículo de Towards Data Science que argumenta que los agentes de inteligencia artificial que navegan la web deberían generar código para interactuar con las páginas en vez de simular clics, por ser más confiable y reproducible. Aporta una idea clave para quien programa: automatizar tareas repetitivas de extracción de datos (web scraping) con código es más robusto que depender de agentes que \"clickean\" como un humano.",
       "destacado": false
     },
-    "be8c2d8895e6": {
-      "resumen": "Artículo de Towards Data Science que propone una arquitectura de 'capa de conocimiento persistente' para aplicaciones de inteligencia artificial (IA): a diferencia de la recuperación aumentada por generación (RAG, retrieval-augmented generation) tradicional, que solo busca información pero no la retiene, este diseño acumula comprensión a lo largo del tiempo, con una implementación completa sobre servicios de Microsoft Azure. Le sirve a un médico que aprende análisis de datos porque plantea, con un caso concreto, cómo construir sistemas que aprenden de forma incremental en lugar de repetir búsquedas desde cero.",
+    "8933d03c7eac": {
+      "resumen": "Investigación del blog de Simon Willison (referente en inteligencia artificial) que rastreó un cargamento de libros raros hasta un centro de entrenamiento de IA de Amazon, exponiendo cómo se consiguen datos para entrenar modelos de lenguaje. Interesa porque muestra, con un caso concreto, de dónde sale realmente la materia prima (datos) que alimenta a la IA que hoy se usa en análisis y automatización.",
       "destacado": true
     },
-    "ebeede76a664": {
-      "resumen": "Towards Data Science relata un experimento para ejecutar consultas SQL (lenguaje de consulta estructurado) de forma concurrente contra tres servidores remotos de DuckDB, una base de datos analítica liviana, usando la herramienta Quack. Le sirve a un médico que aprende análisis de datos como introducción práctica a distribuir consultas sobre múltiples fuentes de datos en paralelo, una habilidad útil al trabajar con bases de datos clínicas grandes o fragmentadas.",
+    "3fd8613df3cc": {
+      "resumen": "Artículo técnico de Towards Data Science sobre la evolución del autoescalado de infraestructura (autoscaling) en tres generaciones, y por qué el tráfico generado por agentes autónomos de inteligencia artificial desafía a todas ellas. Útil para entender, a nivel conceptual, los desafíos de infraestructura que trae la adopción de IA agéntica en sistemas de datos.",
       "destacado": false
     },
-    "6e84a174dc08": {
-      "resumen": "Artículo de Towards Data Science sobre cómo la colaboración entre humanos y máquinas está haciendo más frecuentes los 'experimentos matemáticos': explorar conjeturas de forma computacional antes de intentar demostrarlas formalmente. Le aporta a un médico que aprende análisis de datos una mirada sobre cómo el cómputo intensivo cambia la forma de generar hipótesis, algo trasladable a la exploración de grandes bases de datos clínicos.",
+    "10a5b0bc8332": {
+      "resumen": "Investigación de seguridad (Hacker News, más de 100 puntos) que muestra cómo una corrección automática generada por GitHub Copilot (\"Autofix\") habilitó el compromiso del sistema Jira de Snowflake. Sirve de advertencia sobre los riesgos de aplicar sugerencias de inteligencia artificial en código de forma automática sin revisión humana, algo relevante para cualquiera que use asistentes de IA para programar.",
       "destacado": false
     },
-    "f3671461452a": {
-      "resumen": "Un repaso del presente de Santiago Montoya, referente de Los Pumas, entre los mejores jugadores de rugby del mundo."
+    "0e257c106cb5": {
+      "resumen": "Investigación de la autoridad antimonopolio alemana (Bundeskartellamt) que concluyó que el sistema de transparencia de rastreo de aplicaciones de Apple (App Tracking Transparency) favoreció a sus propias apps frente a las de la competencia. Relevante para quien trabaja con datos porque ilustra cómo las reglas de privacidad y recolección de datos pueden aplicarse de forma desigual entre actores del mercado.",
+      "destacado": false
     },
-    "82b991570ea8": {
-      "resumen": "La prensa internacional del rugby sigue de cerca a Tomás Rapetti, la joven promesa de Los Pumas, de cara al próximo Top 14 francés."
+    "61b05ae598d2": {
+      "resumen": "Guía práctica de KDnuggets sobre los usos reales de los modelos de lenguaje pequeños (small language models), más livianos y económicos que los grandes modelos como GPT. Le sirve a un médico que se inicia en análisis de datos porque plantea alternativas accesibles para tareas de procesamiento de texto sin necesitar infraestructura costosa.",
+      "destacado": false
     },
-    "ab7eb1b46be5": {
-      "resumen": "Jorge Búsico, histórico de Los Pumas, sostiene que la identidad y los valores del seleccionado se transmiten de generación en generación."
+    "b36cd614ecb4": {
+      "resumen": "Artículo de Towards Data Science sobre cómo aplicar herramientas de inteligencia artificial a la gestión de proyectos, para organizar tareas, plazos y prioridades de forma más eficiente. Útil para quien lidera proyectos de análisis de datos o está en transición de carrera, porque ofrece usos concretos de la IA más allá de la programación o el análisis estadístico.",
+      "destacado": false
+    },
+    "7ee61863da90": {
+      "resumen": "Un jugador de Los Pumas fue ubicado entre los cinco mejores del mundo en su posición, según un ranking de ESPN."
+    },
+    "5bf451d64034": {
+      "resumen": "Santiago Pernas repasó su debut en Los Pumas y se quedó con un balance positivo pese a las dificultades."
+    },
+    "d7607cc1e7dd": {
+      "resumen": "A 20 años de la renuncia masiva de Los Pumas, un repaso de cómo aquel conflicto derivó en el histórico bronce mundial."
     }
   }
 }

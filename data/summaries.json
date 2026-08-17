@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T10:03:40Z",
+  "generated_at": "2026-08-17T10:06:00Z",
   "summaries": {
     "b1d14f57a216": {
       "resumen": "Fe de erratas publicada por el Journal of the American College of Cardiology (JACC) sobre un artículo previo; el título disponible (\"Correction\") no permite precisar a qué trabajo corrige. Se incluye solo como referencia bibliográfica, sin contenido clínico propio.",
@@ -9,10 +9,6 @@
       "resumen": "Artículo de perspectiva en JACC que analiza la brecha entre la evidencia de los ensayos clínicos con agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1) y su implementación real en la prevención cardiovascular. Sirve para pensar por qué, pese a los resultados positivos, estos fármacos siguen subutilizados en la práctica diaria.",
       "destacado": true,
       "analisis": "Diseño: artículo de perspectiva/análisis publicado en JACC (Journal of the American College of Cardiology) sobre la brecha de implementación de los agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1) en prevención cardiovascular; no se trata de un ensayo clínico original, sino de una revisión crítica posterior a los grandes ensayos.\nPoblación: no aplica un criterio de inclusión/exclusión de pacientes individuales; el foco son los pacientes con enfermedad cardiovascular aterosclerótica y/u obesidad que serían candidatos a agonistas del receptor de GLP-1 según la evidencia de los ensayos ya publicados.\nIntervención: no evalúa una intervención nueva; analiza por qué la prescripción real de agonistas del receptor de GLP-1 sigue siendo baja pese a los beneficios cardiovasculares demostrados en ensayos previos.\nResultados: no se dispone de cifras propias (no es un estudio con datos originales) y no se pudo acceder al abstract completo para precisar qué brechas cuantifica.\nLimitaciones: al ser un artículo de opinión/perspectiva, sus conclusiones no surgen de datos originales propios sino de la síntesis de literatura existente y la mirada de los autores.\nMensaje: llama la atención sobre la distancia entre la evidencia de los ensayos clínicos con agonistas del receptor de GLP-1 y su uso real en prevención cardiovascular, con foco en barreras de acceso, costo y prescripción.\nNota: análisis sin acceso al abstract."
-    },
-    "14fbe3be1e6b": {
-      "resumen": "TCTMD reporta el lanzamiento de kits de herramientas gratuitos con recursos para reforzar las prácticas de radioprotección en el laboratorio de hemodinamia. Vale la pena porque la exposición crónica a radiación es un riesgo ocupacional real para los cardiólogos intervencionistas, y estos kits ofrecen material concreto para mejorar la protección del equipo de sala.",
-      "destacado": false
     },
     "7d7e3022b040": {
       "resumen": "Revisión del European Heart Journal sobre la cardiopatía isquémica más allá de las estenosis coronarias obstructivas —el cuadro conocido como isquemia con arterias coronarias no obstructivas (INOCA) o angina microvascular—, desde la prevención hasta el tratamiento. Vale la pena porque es una entidad subdiagnosticada, más frecuente en mujeres, y esta puesta al día ayuda a sospecharla y manejarla en la consulta diaria.",
@@ -32,62 +28,66 @@
       "resumen": "Entrega de la serie \"On Record\" de TCTMD, con formato de entrevista o debate, que discute si las estrategias de detección y tratamiento sistemático de la estenosis aórtica (AS, aortic stenosis) realmente funcionan en la práctica. Vale la pena por la mirada crítica sobre programas de pesquisa de una valvulopatía frecuente y subdiagnosticada en adultos mayores.",
       "destacado": false
     },
-    "75d00b92f98c": {
-      "resumen": "Relato en primera persona de un científico de datos sobre cómo la inteligencia artificial (IA) cambió radicalmente su rutina laboral diaria en 2026, desde la exploración de datos hasta la comunicación de resultados. Le sirve a un médico que aprende análisis de datos para dimensionar qué tareas de un científico de datos hoy se automatizan con IA y dónde sigue siendo imprescindible el criterio humano.",
-      "destacado": false
-    },
-    "69a56244fe98": {
-      "resumen": "Entrada del blog de Simon Willison (referente en IA) que en este caso no trata de inteligencia artificial sino de una observación de avistamiento de aves: un alcatraz atlántico (Northern Gannet) avistado en California, lejos de su hábitat habitual. Se incluye por venir de una fuente seguida por temas de IA, pero su aporte para un médico que aprende análisis de datos es mínimo.",
-      "destacado": false
-    },
-    "77478ebfdae2": {
-      "resumen": "Simon Willison cuenta cómo, en lugar de pedirle a un modelo de lenguaje grande (LLM, large language model) que clasifique contenido entre miles de etiquetas ya existentes en su blog, le pide directamente que \"invente\" o proponga las etiquetas más adecuadas para cada texto. Le sirve a un médico que aprende análisis de datos como ejemplo práctico de una técnica alternativa a la clasificación tradicional para etiquetar grandes volúmenes de texto con inteligencia artificial generativa.",
-      "destacado": false
-    },
     "ecaa897aa947": {
       "resumen": "TCTMD presenta una entrega de la serie sobre las iniciativas de la Federación Mundial del Corazón (World Heart Federation) para combatir la cardiopatía reumática (RHD, rheumatic heart disease), enfermedad todavía muy prevalente en países de ingresos bajos y medios y ligada a la faringitis estreptocócica no tratada en la infancia. Vale la pena por el repaso de estrategias de prevención primaria y secundaria de una patología desatendida pero relevante en salud cardiovascular global.",
+      "destacado": false
+    },
+    "7287992ef071": {
+      "resumen": "TCTMD repasa otra entrega de la serie sobre las iniciativas de la Federación Mundial del Corazón (World Heart Federation) para combatir la cardiopatía reumática (RHD, rheumatic heart disease), secuela de la fiebre reumática por faringitis estreptocócica no tratada en la infancia. Vale la pena porque pone el foco en una enfermedad desatendida pero todavía muy prevalente en países de ingresos bajos y medios, con estrategias concretas de prevención primaria y secundaria.",
       "destacado": false
     },
     "26455c500fd0": {
       "resumen": "Aviso de retiro temporal ('temporary removal') publicado en JACC (Journal of the American College of Cardiology) sobre un artículo que replanteaba la progresión de la enfermedad en la miocardiopatía amiloidótica por transtiretina (ATTR-CM, transthyretin amyloid cardiomyopathy). No se dispone del motivo del retiro ni del contenido original; se incluye solo como referencia bibliográfica, sin contenido clínico propio para analizar.",
       "destacado": false
     },
-    "6e84a174dc08": {
-      "resumen": "Artículo de Towards Data Science sobre cómo la colaboración entre humanos y máquinas está haciendo más frecuentes los 'experimentos matemáticos': explorar conjeturas de forma computacional antes de intentar demostrarlas formalmente. Le aporta a un médico que aprende análisis de datos una mirada sobre cómo el cómputo intensivo cambia la forma de generar hipótesis, algo trasladable a la exploración de grandes bases de datos clínicos.",
+    "7339be537a61": {
+      "resumen": "Hilo semanal fijo de r/datascience donde quienes están entrando o haciendo la transición hacia la ciencia de datos comparten dudas sobre formación, portfolio y búsqueda laboral. Le sirve a un médico que está migrando hacia el análisis de datos como termómetro de qué preguntas y obstáculos son comunes en ese camino, y como punto de partida para pedir consejo a la comunidad.",
       "destacado": false
     },
-    "3282f14dda9b": {
-      "resumen": "Artículo de Towards Data Science sobre cómo diferenciarse como científico de datos en la era del 'vibe coding' (programar apoyándose fuertemente en asistentes de inteligencia artificial generativa), poniendo el foco en el criterio, el conocimiento del dominio y la validación por sobre la escritura mecánica de código. Le sirve a un médico que aprende análisis de datos porque describe justamente qué habilidades sí conviene desarrollar cuando gran parte del código lo puede escribir una inteligencia artificial.",
+    "f94f3ec49f0b": {
+      "resumen": "Parte mensual de novedades del desarrollo de GIMP, el editor de imágenes de código abierto, publicada en su blog oficial y destacada en Hacker News. No es estrictamente ciencia de datos, pero le aporta a un médico que aprende a programar un ejemplo de cómo un proyecto de software libre grande organiza y comunica su evolución técnica.",
       "destacado": false
     },
-    "c17be638bf7e": {
-      "resumen": "Ensayo publicado en el blog rhonabwy.com, destacado en Hacker News, que sostiene que los fundamentos de la ingeniería de software (diseño, testing, depuración de errores) importan más que nunca, incluso en la era de la programación asistida por inteligencia artificial (IA). Le sirve a un médico que aprende análisis de datos porque recuerda que las herramientas de IA generan código más rápido, pero no reemplazan el criterio para entender qué está pasando cuando algo falla.",
+    "67414529efd2": {
+      "resumen": "Informe extenso (en PDF) sobre el auge y la cancelación de Direct File, el sistema gratuito de declaración de impuestos que el fisco de Estados Unidos (IRS) había lanzado y luego discontinuó. Le sirve a un médico que aprende análisis de datos como estudio de caso de cómo la política y los intereses del sector privado pueden determinar el destino de una herramienta digital pública, más allá de sus méritos técnicos.",
       "destacado": false
     },
-    "a01eaa04bebc": {
-      "resumen": "Nota de prensa del American College of Cardiology (Colegio Americano de Cardiología) que reporta que la grasa abdominal predice mejor el riesgo de enfermedad cardiovascular que el índice de masa corporal (IMC). Le aporta a un médico que aprende análisis de datos un ejemplo concreto de cómo comparar el poder predictivo de distintas variables o modelos de riesgo frente a una métrica tradicional y fácil de medir como el IMC.",
+    "5d80ce7e11f5": {
+      "resumen": "Simon Willison (referente en inteligencia artificial) presenta las mejoras de su herramienta para renderizar Markdown con gráficos vectoriales SVG (Scalable Vector Graphics) incrustados, pensada para compartir transcripciones técnicas con diagramas. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo documentar y comunicar resultados técnicos de forma reproducible y visual.",
+      "destacado": false
+    },
+    "bd2ea7ca9589": {
+      "resumen": "Presentación en Hacker News de Reticulum, un protocolo de red en malla (mesh network) descentralizada pensado para comunicarse incluso sin infraestructura de internet convencional. El aporte para un médico que aprende análisis de datos es acotado, pero sirve como ejemplo de arquitecturas de datos distribuidas y resilientes ante fallas de conectividad.",
+      "destacado": false
+    },
+    "097582375e87": {
+      "resumen": "Simon Willison prueba Qwen 3.8 27B, un modelo de lenguaje de código abierto, y señala que si bien da muy buenos resultados, tiende a 'sobrepensar' (generar razonamientos innecesariamente largos) antes de responder. Le sirve a un médico que aprende análisis de datos para entender que, al elegir un modelo de inteligencia artificial (IA) para tareas propias, el tiempo de respuesta y la verbosidad del razonamiento son variables tan importantes como la precisión.",
+      "destacado": false
+    },
+    "7b67d0050f11": {
+      "resumen": "Simon Willison cita una reflexión de Dario Amodei (director ejecutivo de Anthropic) sobre la desconfianza pública hacia la inteligencia artificial (IA), que Amodei atribuye a una crisis de confianza más amplia y no solo a las advertencias de riesgo de los propios líderes del sector. Le sirve a un médico que aprende análisis de datos para entender el clima de opinión y los debates éticos que rodean a las herramientas de IA que probablemente vaya a usar en su trabajo.",
+      "destacado": false
+    },
+    "be8c2d8895e6": {
+      "resumen": "Artículo de Towards Data Science que propone una arquitectura de 'capa de conocimiento persistente' para aplicaciones de inteligencia artificial (IA): a diferencia de la recuperación aumentada por generación (RAG, retrieval-augmented generation) tradicional, que solo busca información pero no la retiene, este diseño acumula comprensión a lo largo del tiempo, con una implementación completa sobre servicios de Microsoft Azure. Le sirve a un médico que aprende análisis de datos porque plantea, con un caso concreto, cómo construir sistemas que aprenden de forma incremental en lugar de repetir búsquedas desde cero.",
       "destacado": true
     },
-    "152a1b19ec9d": {
-      "resumen": "Ensayo de 2023 del blog de Henrik Karlsson, resurgido en Hacker News, sobre qué condiciones mentales y de entorno favorecen la aparición de ideas originales. Le sirve a un médico que aprende análisis de datos como reflexión sobre cómo generar hipótesis novedosas de investigación, más allá de la ejecución técnica del análisis.",
+    "ebeede76a664": {
+      "resumen": "Towards Data Science relata un experimento para ejecutar consultas SQL (lenguaje de consulta estructurado) de forma concurrente contra tres servidores remotos de DuckDB, una base de datos analítica liviana, usando la herramienta Quack. Le sirve a un médico que aprende análisis de datos como introducción práctica a distribuir consultas sobre múltiples fuentes de datos en paralelo, una habilidad útil al trabajar con bases de datos clínicas grandes o fragmentadas.",
       "destacado": false
     },
-    "84971242f6d7": {
-      "resumen": "Artículo de severe-weather.eu, difundido en Hacker News, sobre pronósticos climáticos que anticipan un fenómeno El Niño de intensidad récord para el próximo otoño-invierno del hemisferio norte. Le sirve a un médico que aprende análisis de datos como ejemplo de modelos predictivos aplicados a series temporales complejas y de la incertidumbre inherente a proyectar eventos con meses de anticipación.",
-      "destacado": false
-    },
-    "b0ec4660c702": {
-      "resumen": "Simon Willison presenta 'CORS Chat', una herramienta que construyó para probar modelos de lenguaje corriendo localmente (como Qwen 3.8 27B en LM Studio) desde una interfaz web simple, compatible con la API de OpenAI Responses. Le sirve a un médico que aprende análisis de datos como ejemplo accesible de cómo armar herramientas propias para experimentar con modelos de inteligencia artificial (IA) sin depender de servicios en la nube.",
+    "6e84a174dc08": {
+      "resumen": "Artículo de Towards Data Science sobre cómo la colaboración entre humanos y máquinas está haciendo más frecuentes los 'experimentos matemáticos': explorar conjeturas de forma computacional antes de intentar demostrarlas formalmente. Le aporta a un médico que aprende análisis de datos una mirada sobre cómo el cómputo intensivo cambia la forma de generar hipótesis, algo trasladable a la exploración de grandes bases de datos clínicos.",
       "destacado": false
     },
     "f3671461452a": {
       "resumen": "Un repaso del presente de Santiago Montoya, referente de Los Pumas, entre los mejores jugadores de rugby del mundo."
     },
-    "73dddb6e96df": {
-      "resumen": "El histórico Jorge Búsico reflexiona sobre la cultura de juego que se transmite de generación en generación en Los Pumas."
+    "82b991570ea8": {
+      "resumen": "La prensa internacional del rugby sigue de cerca a Tomás Rapetti, la joven promesa de Los Pumas, de cara al próximo Top 14 francés."
     },
-    "7d3ee0030049": {
-      "resumen": "Argentina XV cayó 25-24 ante Estados Unidos en su primer partido amistoso del año."
+    "ab7eb1b46be5": {
+      "resumen": "Jorge Búsico, histórico de Los Pumas, sostiene que la identidad y los valores del seleccionado se transmiten de generación en generación."
     }
   }
 }

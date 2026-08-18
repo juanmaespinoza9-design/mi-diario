@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T08:58:13.727565+00:00",
+ "generated_at": "2026-08-18T10:50:56.539080+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -72,6 +72,30 @@
      "published": "2026-08-11T00:00:00+00:00",
      "copete": "Erhabor J et al. · Journal of the American College of Cardiology",
      "id": "a1fc649f9735"
+    },
+    {
+     "title": "Oxygen Targets after Cardiac Arrest - A LOGICAL Finding",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42555938/",
+     "source": "NEJM Cardiología",
+     "published": "2026-08-06T00:00:00+00:00",
+     "copete": "Andersen LW et al. · The New England journal of medicine",
+     "id": "1e62aa997f39"
+    },
+    {
+     "title": "Sex Hormone Influences on Cardiovascular Risk. Reply",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42526042/",
+     "source": "NEJM Cardiología",
+     "published": "2026-07-30T00:00:00+00:00",
+     "copete": "Skeith L et al. · The New England journal of medicine",
+     "id": "742ee8759563"
+    },
+    {
+     "title": "Sex Hormone Influences on Cardiovascular Risk",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42526041/",
+     "source": "NEJM Cardiología",
+     "published": "2026-07-30T00:00:00+00:00",
+     "copete": "Bonnet F et al. · The New England journal of medicine",
+     "id": "ba245273fb1b"
     }
    ]
   },
@@ -80,6 +104,13 @@
    "title": "Deportes",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Los Pumas vuelven a Jujuy: habrá entrenamiento abierto y actividades gratuitas para el público",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNXhoeWMtcUgzakJzR2Nad3pXaVQtZXpEZVRGS3BNX01yTDNzRzJTYmdNM28wdkNMX0ZkaWxPRGZIem11dTBqR3RZMDB0bTdVUk9FVzJfMWpwZTFpWnpYM1p5SGY5TWxqRFZkY3oyMzlUNFhrNmg1ZGludkNWaEhVb3hKZ2xnWFJCdVBtX1NDeFhVemtUWGNTODF2TXVtWnVSNkNxNXY5TnBveFhpSVoxaXM5cG11Q1pjZk1IVnhuaWVqU19fcVc40gHMAUFVX3lxTE81bzNVTzlfMU9xWjlURFNGTjBfSEtBQXRnUHRMSk0wMkpkczc2WExLWnlUc3Zob3Q5RVFqRFczZW4zYkY2MTB5MDlsdTBFbXhhQ2tqcmJ5ZXRFN1VvSlZLUGVuc181eTVPUHItZk9KZlZPck5tcjJqSndiSFNXbE5KSGpGd3BMQmpQcWI5NDBHWWFBaFRIeHdxaGxEekJUT3kyQ0dyR2NFWDdBRjRwN1pRNnBkajc1ZndVZ005X2ZxNVBEazE2WDlZTnpVVA?oc=5",
+     "source": "Somos Jujuy",
+     "published": "2026-08-18T10:00:00+00:00",
+     "id": "a001c8638860"
+    },
     {
      "title": "Un jugador de Los Pumas, entre los cinco mejores del mundo en su posición",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlVoSnhUMEg3TFJGM3llVUxEQ0xuSk55RHpKeVVTSkNQQS1VbjkzQm4zUzF0WkczX0pXVjF5c1c0eWZFekVIOHZMaDR2a1RERnJrTk9ZdVg0WG5jZGNFZmZSYlNudm5xTE1DQmN3dmhCdlowdkVoMmQ0MmFiRm15WUd4UnRId0pMbFNXb2hHYXBtWVdyMWhQZmZMVTR3a3p3bkVkTEZZLTF0QVR0ZXpzakIxb00?oc=5",
@@ -159,13 +190,6 @@
      "id": "d7607cc1e7dd"
     },
     {
-     "title": "Santiago Pernas y su experiencia en Los Pumas: \"Después de ese debut me llevé muchas cosas buenas\"",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZDFBSmxnci1jMm5Ua2NQNURWYlVLaVU0YW5PUUlYU3lxZGo2WXh3SlVJV1pfX0VxR1Awcl9iT1NBNmUzTWc0N21PZWRLcURrb0hMTGtrWDhDeDl6bzRLeXNMVjU4bVg5VURvVWJ4WC1VTFljbUYwZUk5Qy0xMllENWJVTW9xWjJQZG14djNEWlUycTg1aFl4a0t3cWhiUTB6NDdoS0JvU1lsQVJ1bkNsczB1MFBpYzNheFE?oc=5",
-     "source": "ESPN Deportes",
-     "published": "2026-08-17T12:10:00+00:00",
-     "id": "ba50fccbf507"
-    },
-    {
      "title": "Las Yaguaretés cerraron invictas el Torneo Internacional Pre-Odesur en Córdoba",
      "link": "https://uar.com.ar/las-yaguaretes-cerraron-invictas-el-torneo-internacional-pre-odesur-en-cordoba/",
      "source": "UAR",
@@ -189,6 +213,20 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Linux 7.3 improves performance when running out of vRAM",
+     "link": "https://pixelcluster.dev/VRAM-Overcommit/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-18T07:51:50+00:00",
+     "id": "d37c6702c0ec"
+    },
+    {
+     "title": "The Benchmarkpocalypse",
+     "link": "https://danluu.com/benchpocalypse/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-18T02:11:02+00:00",
+     "id": "3822c7401f02"
+    },
+    {
      "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
      "link": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
      "source": "Simon Willison (IA)",
@@ -209,20 +247,6 @@
      "source": "Hacker News (100+ puntos)",
      "published": "2026-08-17T22:20:40+00:00",
      "id": "e881d65294e0"
-    },
-    {
-     "title": "Quake Shareware, a CD-ROM just a little too full",
-     "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-17T22:06:14+00:00",
-     "id": "60d29d18b8a2"
-    },
-    {
-     "title": "Fairphone 6 and PostmarketOS working main camera",
-     "link": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-17T22:01:17+00:00",
-     "id": "8c07ece6556f"
     },
     {
      "title": "How does one prepare for such interviews?",
@@ -271,100 +295,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Oscar Wilde, sobre el amor: “Un hombre puede vivir feliz con cualquier mujer, siempre y cuando no la ame”",
-     "link": "https://www.lanacion.com.ar/lifestyle/oscar-wilde-sobre-el-amor-un-hombre-puede-vivir-feliz-con-cualquier-mujer-siempre-y-cuando-no-la-ame-nid18082026/",
+     "title": "Walter Bentancor, historiador: “El C-432 fue el primer avión de la Fuerza Aérea Argentina en atacar a la Task Force británica”",
+     "link": "https://www.lanacion.com.ar/que-sale/walter-bentancor-historiador-el-c-432-fue-el-primer-avion-de-la-fuerza-aerea-argentina-en-atacar-a-nid17082026/",
      "source": "La Nación",
-     "published": "2026-08-18T08:47:00+00:00",
-     "copete": "El famoso escritor irlandés plasmó esta frase en una de sus obras más reconocidas; enterate dónde y qué quiso decir",
-     "id": "fcab17bd7d7c"
+     "published": "2026-08-18T10:45:33+00:00",
+     "copete": "El Museo Nacional de Aeronáutica conserva aeronaves que participaron en la Guerra de Malvinas y otras piezas vinculadas con la historia de la aviación nacional; el recorrido incluye el Dagger, el Chinook, los Skyhawk, el Canberra y el…",
+     "id": "2cf0a0ddb246"
     },
     {
-     "title": "Kawhi Leonard y los Angeles Clippers vs la NBA: el ABC para entender por qué acusan al ex San Antonio Spurs de recibir un sobresueldo ilegal",
-     "link": "https://www.clarin.com/deportes/kawhi-leonard-angeles-clippers-vs-nba-abc-entender-acusan-ex-san-antonio-spurs-recibir-sobresueldo-ilegal_0_D22CH34Jdr.html",
-     "source": "Clarín",
-     "published": "2026-08-18T08:29:51+00:00",
-     "copete": "La liga lleva once meses investigando si la franquicia eludió el tope salarial con supuestos contratos publicitarios paralelos para el alero. La polémica se reavivó tras un informe de ESPN que aseguraba que la NBA no halló pruebas para…",
-     "id": "82a41d101807"
-    },
-    {
-     "title": "Cristina Moya, alicatadora y soldadora con 20 años de experiencia: “Las primeras palabras del jefe de obra fueron ‘Tú deberías estar en tu casa fregando los platos’”",
-     "link": "https://www.clarin.com/internacional/cristina-moya-alicatadora-soldadora-20-anos-experiencia-primeras-palabras-jefe-obra-deberias-casa-fregando-platos_0_XZw9el6kGV.html",
-     "source": "Clarín",
-     "published": "2026-08-18T08:29:51+00:00",
-     "copete": "La profesional andaluza cuenta algunas de sus experiencias sufridas a consecuencia del machismo laboral.",
-     "id": "dc9d23b3adfc"
-    },
-    {
-     "title": "Un albañil soportó 35 años de trabajo agotador para que sus ocho hijas pudieran estudiar medicina, cumpliendo así el mayor sueño de su vida tras décadas rodeado de cemento, ladrillos y obras de construcción",
-     "link": "https://www.clarin.com/estados-unidos/albanil-soporto-35-anos-trabajo-agotador-hijas-pudieran-estudiar-medicina-cumpliendo-mayor-sueno-vida-decadas-rodeado-cemento-ladrillos-obras-construccion_0_GFHQmoYxmR.html",
-     "source": "Clarín",
-     "published": "2026-08-18T08:21:50+00:00",
-     "copete": "Ocurrió en Egipto y la historia la dio a conocer un conductor de TV local. Es una inspiración para todos los que luchas por el progreso de sus hijos.",
-     "id": "9bce00c9d383"
-    },
-    {
-     "title": "La prevención de conflictos es posible en el mercado laboral",
-     "link": "https://www.infobae.com/opinion/2026/08/18/la-prevencion-de-conflictos-es-posible-en-el-mercado-laboral/",
-     "source": "Infobae",
-     "published": "2026-08-18T08:02:31+00:00",
-     "copete": "Una reforma donde el consentimiento adquiere protagonismo",
-     "id": "e21702390c11"
-    },
-    {
-     "title": "Inmigración y expresiones de odio",
-     "link": "https://www.infobae.com/opinion/2026/08/18/inmigracion-y-expresiones-de-odio/",
-     "source": "Infobae",
-     "published": "2026-08-18T08:02:17+00:00",
-     "copete": "El falso patriotismo que pone en riesgo la Constitución",
-     "id": "dffc0c2e3fa2"
-    },
-    {
-     "title": "Oficial y confirmado por Abbott: Texas dará más de 4,7 millones de dólares en subvenciones para varios empleos de alta demanda",
-     "link": "https://www.clarin.com/estados-unidos/oficial-confirmado-abbott-texas-dara-47-millones-dolares-subvenciones-varios-empleos-alta-demanda_0_OIp4JFtUfq.html",
-     "source": "Clarín",
-     "published": "2026-08-18T08:01:51+00:00",
-     "copete": "Los fondos serán recibidos por 15 escuelas y colegios secundarios y terciarios.",
-     "id": "a37acbdd3ce6"
-    },
-    {
-     "title": "De la generación \"medapaja\" a los six seven: es hora de hacernos cargo",
-     "link": "https://www.clarin.com/buena-vida/generacion-medapaja-six-seven-hora-hacernos-cargo_0_3yyxKJi4N3.html",
-     "source": "Clarín",
-     "published": "2026-08-18T08:01:50+00:00",
-     "copete": "Un meme, un código que no dice significa nada, y que por eso funciona. En lugar de separarnos de los adolescentes, nos iguala. Debería preocuparnos y ocuparnos.",
-     "id": "f0c1eb41c978"
-    },
-    {
-     "title": "Mario Pergolini: “Soy el fundador de la frase la televisión está muerta; yo realmente creo que sí, que lo está”",
-     "link": "https://www.lanacion.com.ar/sociedad/mario-pergolini-soy-el-fundador-de-la-frase-la-television-esta-muerta-yo-realmente-creo-que-si-que-nid18082026/",
+     "title": "Hay alerta naranja y amarilla por tormentas, vientos y nevadas para este martes 18 de agosto: las provincias afectadas",
+     "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-vientos-y-nevadas-para-este-martes-18-de-agosto-las-nid18082026/",
      "source": "La Nación",
-     "published": "2026-08-18T08:00:00+00:00",
-     "copete": "En una entrevista exclusiva con José del Rio, el reconocido conductor analizó la transformación de los medios, el impacto de la inteligencia artificial en la sociedad y su visión sobre la obsolescencia del formato televisivo tradicional",
-     "id": "13b550c17e57"
+     "published": "2026-08-18T10:45:07+00:00",
+     "copete": "El Servicio Meteorológico Nacional advirtió sobre posibles condiciones adversas en distintas regiones del país; en la Ciudad, la máxima será de 13°C",
+     "id": "64460d2a24e6"
     },
     {
-     "title": "Hallaron muerto a un hombre en su casa de Córdoba: creen que su hijo lo mató y luego se quitó la vida",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/08/18/hallaron-sin-vida-a-un-hombre-en-su-casa-de-cordoba-creen-que-su-hijo-lo-mato-y-luego-se-quito-la-vida/",
+     "title": "Ecuador impulsa sus exportaciones un 4% en el primer semestre de 2026",
+     "link": "https://www.infobae.com/movant/2026/08/18/ecuador-impulsa-sus-exportaciones-un-4-en-el-primer-semestre-de-2026/",
      "source": "Infobae",
-     "published": "2026-08-18T07:54:19+00:00",
-     "copete": "Ambos se encontraban sin vida en una vivienda de la localidad de Corralito. El mayor de los dos tenía un disparo en la cara y estaba sobre la cama. En la escena había un arma un vainas servidas",
-     "id": "ec8fcba69d51"
+     "published": "2026-08-18T10:45:00+00:00",
+     "copete": "El país registró ventas externas por 19.571 millones de dólares entre enero y junio, con el camarón como principal impulsor, mientras el cacao y sus elaborados retrocedieron con fuerza",
+     "id": "b05e61c20ec8"
     },
     {
-     "title": "Hasta cuándo seguirá el mal tiempo en el AMBA: hay 11 provincias bajo alerta",
-     "link": "https://www.infobae.com/sociedad/2026/08/18/hasta-cuando-seguira-el-mal-tiempo-en-el-amba-hay-11-provincias-bajo-alerta/",
+     "title": "Juan Manuel Cerúndolo enfrentará al número 4 del mundo Felix Auger-Aliassime en el Masters 1000 de Cincinnati: hora y cómo verlo en vivo",
+     "link": "https://www.infobae.com/deportes/2026/08/18/juan-manuel-cerundolo-enfrentara-al-numero-4-del-mundo-felix-auger-aliassime-en-el-masters-1000-de-cincinnati-hora-y-como-verlo-en-vivo/",
      "source": "Infobae",
-     "published": "2026-08-18T07:42:38+00:00",
-     "copete": "Lluvias aisladas, vientos y nevadas; esas fueron las advertencias que el SMN anticipó para hoy martes. La inestabilidad se mantendrá durante toda la mañana y las temperaturas oscilarán entre los 8 °C y 15 °C durante los próximos días…",
-     "id": "176ce77170ea"
+     "published": "2026-08-18T10:43:34+00:00",
+     "copete": "El zurdo se medirá este martes con el canadiense en busca de ser el segundo argentino en los octavos de final del torneo",
+     "id": "c21842da7e43"
     },
     {
-     "title": "33 fotos: la Gala Solidaria a beneficio del Hospital de Niños Ricardo Gutiérrez",
-     "link": "https://www.infobae.com/fotos/2026/08/18/33-fotos-la-gala-solidaria-a-beneficio-del-hospital-de-ninos-ricardo-gutierrez/",
+     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 18 de agosto, minuto a minuto",
+     "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid18082026/",
+     "source": "La Nación",
+     "published": "2026-08-18T10:41:06+00:00",
+     "copete": "La divisa oficial operó a $1515 para la venta en el Banco Nación; el dólar blue cotizó a $1540 para esa operación; qué pasa con el MEP y el CCL",
+     "id": "4509a02f5d54"
+    },
+    {
+     "title": "Franco Colapinto correrá este fin de semana el GP de los Países Bajos en el regreso de la F1: hora, TV y todo lo que hay que saber",
+     "link": "https://www.infobae.com/deportes/2026/08/18/franco-colapinto-correra-este-fin-de-semana-el-gp-de-los-paises-bajos-en-el-regreso-de-la-f1-hora-tv-y-todo-lo-que-hay-que-saber/",
      "source": "Infobae",
-     "published": "2026-08-18T07:38:53+00:00",
-     "copete": "En una nueva edición, el tradicional evento contó con la presencia de destacadas personalidades en el Teatro Colón",
-     "id": "4b036207a944"
+     "published": "2026-08-18T10:40:00+00:00",
+     "copete": "Después del parate de un mes que tuvo la Máxima, el piloto argentino saldrá a pista en el circuito de Zandvoort",
+     "id": "5dc21e24ee0d"
+    },
+    {
+     "title": "Javier Milei y sus medidas, en vivo: el armado electoral de cara al 2027 y la visita del papa León XIV a la Argentina",
+     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-armado-electoral-de-cara-al-2027-y-la-visita-del-papa-leon-xiv-nid18082026/",
+     "source": "La Nación",
+     "published": "2026-08-18T10:37:38+00:00",
+     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+     "id": "fcbd36400018"
+    },
+    {
+     "title": "“La política nos hundió”: cerró la empresa textil de un ex entrenador de Los Pumas y su dueño lloró al despedir a 120 trabajadores",
+     "link": "https://www.infobae.com/economia/2026/08/17/la-politica-nos-hundio-cerro-la-empresa-textil-de-un-ex-entrenador-de-los-pumas-y-su-dueno-lloro-al-despedir-a-120-trabajadores/",
+     "source": "Infobae",
+     "published": "2026-08-18T10:37:24+00:00",
+     "copete": "Will Der SA fabricaba indumentaria deportiva para Adidas, Puma y Macron y empleaba a 300 personas en la provincia de Buenos Aires; sus socios advirtieron que “no hay trabajo”",
+     "id": "148b3848e03e"
+    },
+    {
+     "title": "Un padre filmó a su hija de 9 años mientras conducía un auto: “¡Qué grande la piloto!\"",
+     "link": "https://www.lanacion.com.ar/sociedad/un-padre-filmo-a-su-hija-de-9-anos-mientras-conducia-un-auto-que-grande-la-piloto-nid18082026/",
+     "source": "La Nación",
+     "published": "2026-08-18T10:36:01+00:00",
+     "copete": "El video fue grabado en las calles de la localidad de Lago Puelo, Chubut; hasta el momento, no se supo si alguna autoridad intervino",
+     "id": "2b20a5cf24c8"
+    },
+    {
+     "title": "Teresa, la abuela de 93 años que viaja con su nieto haciendo autoestop y ya llevan 2.000 kilómetros: \"Al principio se negó, iba a regañadientes\"",
+     "link": "https://www.clarin.com/estados-unidos/teresa-abuela-93-anos-viaja-nieto-haciendo-autoestop-llevan-2000-kilometros-principio-nego-iba-reganadientes_0_Lk9f5JzC5J.html",
+     "source": "Clarín",
+     "published": "2026-08-18T10:31:53+00:00",
+     "copete": "Lo que comenzó como una propuesta difícil de aceptar terminó convirtiéndose en una experiencia que cambió la mirada de una mujer de 93 años sobre los viajes y las personas.",
+     "id": "135ca8ee17b4"
+    },
+    {
+     "title": "Kyle Chandler y Aaron Pierre explicaron cómo se prepararon para interpretar a Hal Jordan y John Stewart en Lanterns",
+     "link": "https://www.infobae.com/entretenimiento/2026/08/18/kyle-chandler-y-aaron-pierre-explicaron-como-se-prepararon-para-interpretar-a-hal-jordan-y-john-stewart-en-lanterns/",
+     "source": "Infobae",
+     "published": "2026-08-18T10:31:30+00:00",
+     "copete": "El dúo protagonista de la nueva producción de DC Cómics detalló en una entrevista con IndieWire sobre el proceso creativo, el trabajo compartido y los desafíos que implicó construir la relación entre ambos personajes durante el rodaje",
+     "id": "72e77c96a1c8"
+    },
+    {
+     "title": "Ethereum hoy: cotización y precio del ETH este martes 18 de agosto de 2026",
+     "link": "https://www.clarin.com/economia/ethereum-hoy-cotizacion-y-precio-del-eth-este-martes-18-de-agosto-de-2026_0_eiCLpgNLBy.html",
+     "source": "Clarín",
+     "published": "2026-08-18T10:30:02+00:00",
+     "copete": "El valor actualizado de la segunda criptomoneda más importante por capitalización. Origen e historia de Ethereum.",
+     "id": "a2f5c421a5ae"
     }
    ]
   },
@@ -373,6 +397,38 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "\"Perdí una pierna cuando tenía 16 años y ahora soy 4 veces campeón mundial de surf\"",
+     "link": "https://www.bbc.com/mundo/articles/cg7mmmpeed0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-18T10:37:29+00:00",
+     "copete": "Llywelyn Williams afirma que nada es imposible para quienes tienen algún tipo de discapacidad.",
+     "id": "33bfe9c1bc94"
+    },
+    {
+     "title": "Russia warns UK will pay for supplying drones to Ukraine",
+     "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-18T09:55:00+00:00",
+     "copete": "Russia accuses the UK of escalating the Ukraine war after British-made drones were used, but the MoD says it stands against Russian aggression.",
+     "id": "73549710cf66"
+    },
+    {
+     "title": "\"Experimentó una fuerte libertad personal\": cómo se forjó el vínculo de García Lorca con América Latina",
+     "link": "https://www.bbc.com/mundo/articles/cgk4510ddr6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-18T09:39:54+00:00",
+     "copete": "De La Habana a Buenos Aires y Montevideo, el poeta encontró en la región un escenario de libertad y éxito que transformó su vida y su obra.",
+     "id": "5e17c0a6025a"
+    },
+    {
+     "title": "Al menos 10 muertos en un ataque ruso con misiles en la región ucrania de Járkov",
+     "link": "https://elpais.com/internacional/2026-08-18/varios-muertos-en-un-ataque-ruso-con-misiles-en-la-region-ucrania-de-jarkov.html",
+     "source": "El País Internacional",
+     "published": "2026-08-18T09:38:59+00:00",
+     "copete": "Otras 17 personas han resultado heridas. Zelenski promete responder a la ofensiva",
+     "id": "d755dc57c74d"
+    },
     {
      "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
      "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
@@ -406,14 +462,6 @@
      "id": "18185c180534"
     },
     {
-     "title": "Indian student leader ends hunger strike after 16 days",
-     "link": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-18T07:27:32+00:00",
-     "copete": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
-     "id": "fa7863173477"
-    },
-    {
      "title": "Los tropiezos de De la Espriella en medio de la emergencia: un ministro en la playa, balones con propaganda política y clases virtuales sin acceso a wifi",
      "link": "https://elpais.com/america-colombia/2026-08-18/los-tropiezos-de-de-la-espriella-en-medio-de-la-emergencia-un-ministro-en-la-playa-balones-con-propaganda-politica-y-clases-virtuales-sin-acceso-a-wifi.html",
      "source": "El País Internacional",
@@ -428,30 +476,6 @@
      "published": "2026-08-18T04:00:00+00:00",
      "copete": "Los migrantes expulsados por Estados Unidos ya no terminan en hoteles como el que sepultó al centenar de venezolanos que murió en La Guaira, el 24 de junio",
      "id": "3ea34de9b282"
-    },
-    {
-     "title": "Un gobierno de millonarios: Trump nombró para su Administración a 57 personas con un patrimonio de más de 100 millones",
-     "link": "https://elpais.com/internacional/2026-08-18/un-gobierno-de-millonarios-trump-nombro-para-su-administracion-a-57-personas-con-un-patrimonio-de-mas-de-100-millones.html",
-     "source": "El País Internacional",
-     "published": "2026-08-18T04:00:00+00:00",
-     "copete": "El presidente estadounidense se ha rodeado de banqueros de inversión y empresarios que acumulan una gran riqueza",
-     "id": "6463312056b5"
-    },
-    {
-     "title": "El pacto de La Meca: 4 claves para entender la \"OTAN musulmana\" creada por Turquía, Arabia Saudita y Pakistán",
-     "link": "https://www.bbc.com/mundo/articles/cm2grvk85vlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-18T02:58:44+00:00",
-     "copete": "El pacto de defensa entre Turquía, Arabia Saudita y Pakistán ha sido llamado la \"OTAN musulmana\" o \"pacto sunita\". Pero, ¿funcionará así en la práctica? Lo analizamos.",
-     "id": "7de17bc230ea"
-    },
-    {
-     "title": "Quién es Duane Davis, el acusado del asesinato del rapero Tupac Shakur hace 30 años (y el libro de memorias que fue clave para incriminarlo)",
-     "link": "https://www.bbc.com/mundo/articles/cdrv7g5g7jno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-17T22:08:34+00:00",
-     "copete": "Tres décadas después del crimen más importante en la historia del hip-hop, empieza el primer juicio contra un acusado.",
-     "id": "dec916e28b4a"
     }
    ]
   }
@@ -465,11 +489,6 @@
   {
    "section": "cardiologia",
    "feed": "Circulation (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "cardiologia",
-   "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T10:50:56.539080+00:00",
+ "generated_at": "2026-08-18T13:14:21.761192+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -19,6 +19,14 @@
      "source": "TCTMD",
      "published": "2026-08-17T15:09:56+00:00",
      "id": "4eed604d7496"
+    },
+    {
+     "title": "2026 AHA/ACC Clinical Performance and Quality Measures for Patients With Atrial Fibrillation: A Report of the American College of Cardiology/American Heart Association",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42608866/",
+     "source": "JACC",
+     "published": "2026-08-17T00:00:00+00:00",
+     "copete": "Benjamin EJ et al. · Journal of the American College of Cardiology",
+     "id": "246d3a0ac491"
     },
     {
      "title": "CAC Derived From Nongated CT Can Accurately Predict CV Risk",
@@ -66,14 +74,6 @@
      "id": "b1d14f57a216"
     },
     {
-     "title": "Cardiovascular Prevention and the Implementation Gap in GLP-1 Receptor Agonist Therapies: After the Trials",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42583991/",
-     "source": "JACC",
-     "published": "2026-08-11T00:00:00+00:00",
-     "copete": "Erhabor J et al. · Journal of the American College of Cardiology",
-     "id": "a1fc649f9735"
-    },
-    {
      "title": "Oxygen Targets after Cardiac Arrest - A LOGICAL Finding",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42555938/",
      "source": "NEJM Cardiología",
@@ -105,18 +105,41 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Los Pumas vuelven a Jujuy: habrá entrenamiento abierto y actividades gratuitas para el público",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNXhoeWMtcUgzakJzR2Nad3pXaVQtZXpEZVRGS3BNX01yTDNzRzJTYmdNM28wdkNMX0ZkaWxPRGZIem11dTBqR3RZMDB0bTdVUk9FVzJfMWpwZTFpWnpYM1p5SGY5TWxqRFZkY3oyMzlUNFhrNmg1ZGludkNWaEhVb3hKZ2xnWFJCdVBtX1NDeFhVemtUWGNTODF2TXVtWnVSNkNxNXY5TnBveFhpSVoxaXM5cG11Q1pjZk1IVnhuaWVqU19fcVc40gHMAUFVX3lxTE81bzNVTzlfMU9xWjlURFNGTjBfSEtBQXRnUHRMSk0wMkpkczc2WExLWnlUc3Zob3Q5RVFqRFczZW4zYkY2MTB5MDlsdTBFbXhhQ2tqcmJ5ZXRFN1VvSlZLUGVuc181eTVPUHItZk9KZlZPck5tcjJqSndiSFNXbE5KSGpGd3BMQmpQcWI5NDBHWWFBaFRIeHdxaGxEekJUT3kyQ0dyR2NFWDdBRjRwN1pRNnBkajc1ZndVZ005X2ZxNVBEazE2WDlZTnpVVA?oc=5",
-     "source": "Somos Jujuy",
-     "published": "2026-08-18T10:00:00+00:00",
-     "id": "a001c8638860"
+     "title": "Franco Molina vuelve a Los Pumas para los partidos ante Australia",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZlNMRzBkM3NHOW1VOXMtbHM2VVBTTko3UTNId1pSY3B1QWl1LXNpejVNdlRqbHh5VE9LbFZlSFYtS09UVWxORmxLTDRhem02WTAzcTVzbmZ0LVh0WTZ5YllQMTBTZGhBeWp6Q2hUYzlZMk1ZWDBGVVRJc01mVWdzcV9CcFdpWHE1RlRTaQ?oc=5",
+     "source": "DeporTV",
+     "published": "2026-08-18T12:53:00+00:00",
+     "id": "2b18a3a47d86"
     },
     {
-     "title": "Un jugador de Los Pumas, entre los cinco mejores del mundo en su posición",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSlVoSnhUMEg3TFJGM3llVUxEQ0xuSk55RHpKeVVTSkNQQS1VbjkzQm4zUzF0WkczX0pXVjF5c1c0eWZFekVIOHZMaDR2a1RERnJrTk9ZdVg0WG5jZGNFZmZSYlNudm5xTE1DQmN3dmhCdlowdkVoMmQ0MmFiRm15WUd4UnRId0pMbFNXb2hHYXBtWVdyMWhQZmZMVTR3a3p3bkVkTEZZLTF0QVR0ZXpzakIxb00?oc=5",
-     "source": "ESPN Venezuela",
-     "published": "2026-08-18T06:50:53+00:00",
-     "id": "5c3f44133864"
+     "title": "River, hoy EN VIVO: la lista para jugar vs. Santa Fe, el viaje a Bogotá y las últimas noticias de este martes 18 de agosto",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-vivo-ultimas-noticias-copa-sudamericana-convocados-santa-fe_0_BJyVaY6U1W.html",
+     "source": "Olé — River",
+     "published": "2026-08-18T12:30:13+00:00",
+     "copete": "Eduardo Coudet define los últimos detalles para jugar la ida de octavos de final de la Sudamericana.",
+     "id": "a6637322f295"
+    },
+    {
+     "title": "Santiago González Iglesias destacó el presente de Los Pumas y elogió a dos de sus figuras",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYjJiVEFMRFdDVzRTRXo4dUtlNnNpS1A5TTVLSUFNY0t3OVp0VEl4b0EzcDNwRS1aRjgzVGZnQ1JfZDRsVVVVSDk1RV9sU1NidF9JTm1reW9QV3duTE9oYTNUVjNXNUF1NUloTEhhM0RDQkxXM0ZIbW96Xy12YV9naHpXcEh3dTI5Qmw2eVJwSUlleUZFLXNzZWE1ZUIxRllfLTFyTHNieVlDZmNsLXI3R1F3QzRoalRMQmtfRTB5WGpMMzZJTG1CVldSSm5NRXRxVzAxZQ?oc=5",
+     "source": "ESPN Deportes",
+     "published": "2026-08-18T11:45:00+00:00",
+     "id": "21b45c76564e"
+    },
+    {
+     "title": "Los Pumas ya tienen a dos villamarienses",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWWZfWXpXazVRQ2p6NS10aE81Z1lnUThlN1Y2cmEwMEN6UnJlc1JCT2lBYlFpRTFFaGdNT1ZkU1M2bFdablZXeC1BQWJIODdGTzJka2MtQWRFSjZEWWN6a29yQlN6eW1QQkhIajJncHZBMnJjMWdPVWxXWjQxeGs4bmJXaW9jM1AzSDQ3ZkQ2RS1HOEQ5YWNETk5WbUhWckUzdU1PSjNabWJPbldzVi1EZGY5aG7SAY4BQVVfeXFMTkQyNzFPNnl4YmtKUzZPWjA0QlpHY05uMkpHYUs1MUVlWTR4ZlVDd09WU2RDeTd6RFJ6THBwT29CaGZTOVQ5QjBzQjM1dFppWmhoODRyYUI5MW92VEd5dllFQnpnemMtdFZhZTFpSXBnbnRWckliTlNGcTVIRWZweUl4aGlpMlRwM2cwUjNlUQ?oc=5",
+     "source": "El Diario del centro del país",
+     "published": "2026-08-18T11:30:00+00:00",
+     "id": "cab16b29f5cf"
+    },
+    {
+     "title": "Las claves de un River que busca dejar atrás la crisis",
+     "link": "https://www.ole.com.ar/river-plate/river-plantel-otamendi-coudet-di-carlo_0_A663BCD56e.html",
+     "source": "Olé — River",
+     "published": "2026-08-18T11:09:19+00:00",
+     "copete": "El liderazgo de Otamendi, el mensaje de unidad total en sintonía con Di Carlo y la búsqueda de una comunión con los hinchas. Ahora, a seguir en la Copa: se juega mucho.",
+     "id": "0278a6b3c50f"
     },
     {
      "title": "Se viene el Interzonal: días y horarios de la fecha 6 de la Liga Profesional",
@@ -143,14 +166,6 @@
      "id": "67a8e346d637"
     },
     {
-     "title": "Qué dijeron los futbolistas sobre la pelea entre los técnicos de Vélez y Defensa",
-     "link": "https://www.ole.com.ar/futbol-primera/velez-defensa-justicia-vaccari-barros-schelotto-video-cruce-manuel-lanzini-silvero_0_ueXnzMp4bN.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-18T00:54:18+00:00",
-     "copete": "Manuel Lanzini y Thiago Silvero fueron consultados por el cruce que protagonizaron los entrenadores camino a los vestuarios.",
-     "id": "77c9281654c0"
-    },
-    {
      "title": "Boca y River, altos riesgos diferentes",
      "link": "https://www.ole.com.ar/opinion/boca-river-sudamericana-copa_0_O2tYYbqzZ6.html",
      "source": "Olé — River",
@@ -165,29 +180,6 @@
      "published": "2026-08-17T22:41:33+00:00",
      "copete": "¿Cuándo y cómo arrancó el conflicto? ¿Hay algún tipo de contacto? La trama del enfrentamiento del que habla el fútbol argentino...",
      "id": "6e3c1d1d9d62"
-    },
-    {
-     "title": "Cómo están Driussi y Acuña: ¿llegan para viajar a Bogotá?",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-marcos-acuna-sebastian-driussi_0_zIIevCGzjl.html",
-     "source": "Olé — River",
-     "published": "2026-08-17T21:24:23+00:00",
-     "copete": "Ambos siguen avanzando favorablemente y Coudet debe decidir: ¿los suma a la lista?",
-     "id": "e71ae426476b"
-    },
-    {
-     "title": "¿Quién es Yutiel Susano, el pibe de River que podría reemplazar a Gonzalo Montiel en la Copa Sudamericana?",
-     "link": "https://www.ole.com.ar/river-plate/yutiel-susano-lateral-derecho-reemplazo-gonzalo-montiel-copa-sudamericana-titular-independiente-santa-fe_0_Q2sJpULtJg.html",
-     "source": "Olé — River",
-     "published": "2026-08-17T21:12:14+00:00",
-     "copete": "De 19 años y sin contrato profesional, es el único lateral derecho sano e inscripto: viajaría a Bogotá y tiene chances de meterse en el 11 ante Independiente Santa Fe.",
-     "id": "801deeb1a543"
-    },
-    {
-     "title": "De la renuncia masiva al bronce mundial: a 20 años del histórico acuerdo de Los Pumas",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS1dnT0Q4Z1B6eHEwZkhEVXBtb0VLa1hXdEFUellhcmtsTjRadnJXaWw4UTNTVnZTdnhLU1hvVWpObTZaZTFkVGcybnlBTXNGN0ZyQVpDMzdNekJFYWt2bnlOT0xDcWwyZ3JYUHpHWV9oTGdnLTZybC1rZHZWX3hzeGxCWHFVcGdoOUtySVgtUWFiOWh6UmY1U0g4dFc3bXh3RGJpa0VXcHV2OXRhNjVZMWpPUkR0eFFNdXFFMFd2SjlWMEJRdExlcHNB?oc=5",
-     "source": "La Nueva Provincia",
-     "published": "2026-08-17T12:44:47+00:00",
-     "id": "d7607cc1e7dd"
     },
     {
      "title": "Las Yaguaretés cerraron invictas el Torneo Internacional Pre-Odesur en Córdoba",
@@ -213,11 +205,41 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "5 Things Vibe Coding Gets Right and 5 Things It Gets Wrong",
+     "link": "https://www.kdnuggets.com/5-things-vibe-coding-gets-right-and-5-things-it-gets-wrong",
+     "source": "KDnuggets",
+     "published": "2026-08-18T12:00:12+00:00",
+     "copete": "Is vibe coding the future of programming or a shortcut to bad code? Let’s look at what it gets right and wrong.",
+     "id": "bdd3d04db058"
+    },
+    {
+     "title": "Ten Is Not a Hundred",
+     "link": "https://towardsdatascience.com/ten-is-not-a-hundred/",
+     "source": "Towards Data Science",
+     "published": "2026-08-18T12:00:00+00:00",
+     "copete": "The number that fooled every hallucination detector The post Ten Is Not a Hundred appeared first on Towards Data Science .",
+     "id": "1e5ea7576bae"
+    },
+    {
+     "title": "Google buys crashed airline Spirit's data at auction, because AI",
+     "link": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-18T10:13:28+00:00",
+     "id": "7d1d995afc75"
+    },
+    {
      "title": "Linux 7.3 improves performance when running out of vRAM",
      "link": "https://pixelcluster.dev/VRAM-Overcommit/",
      "source": "Hacker News (100+ puntos)",
      "published": "2026-08-18T07:51:50+00:00",
      "id": "d37c6702c0ec"
+    },
+    {
+     "title": "Rethinking Database Programming",
+     "link": "https://acadia.engineering/blog/rethinking-database-programming",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-18T07:28:27+00:00",
+     "id": "3ff998d50ab7"
     },
     {
      "title": "The Benchmarkpocalypse",
@@ -233,20 +255,6 @@
      "published": "2026-08-17T23:58:14+00:00",
      "copete": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.7T…",
      "id": "1999067b9617"
-    },
-    {
-     "title": "Repair Cafe – Fix Your Broken Items",
-     "link": "https://www.repaircafe.org/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-17T23:28:28+00:00",
-     "id": "b5f54d5d83c4"
-    },
-    {
-     "title": "How Bluesky draws its logo on screenshots",
-     "link": "https://timmarinin.net/2026/bluesky-screenshots/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-17T22:20:40+00:00",
-     "id": "e881d65294e0"
     },
     {
      "title": "How does one prepare for such interviews?",
@@ -270,22 +278,6 @@
      "published": "2026-08-17T15:21:29+00:00",
      "copete": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility Excellent piece of reporting from 404 Media. For a while now there have been stories of book dealers receiving orders for large volumes of books from…",
      "id": "8933d03c7eac"
-    },
-    {
-     "title": "Three Generations of Autoscaling — And Why Agentic Traffic Breaks All of Them",
-     "link": "https://towardsdatascience.com/three-generations-of-autoscaling-and-why-agentic-traffic-breaks-all-of-them/",
-     "source": "Towards Data Science",
-     "published": "2026-08-17T15:00:00+00:00",
-     "copete": "How autonomous agents broke two decades of capacity planning — and what to build instead The post Three Generations of Autoscaling — And Why Agentic Traffic Breaks All of Them appeared first on Towards Data Science .",
-     "id": "3fd8613df3cc"
-    },
-    {
-     "title": "What Can I Actually Do with a Small Language Model?",
-     "link": "https://www.kdnuggets.com/what-can-i-actually-do-with-a-small-language-model",
-     "source": "KDnuggets",
-     "published": "2026-08-17T14:00:36+00:00",
-     "copete": "But by keeping these limits in mind, and planning for them, we can effectively use these small, local models for the following broad operations scenarios.",
-     "id": "61b05ae598d2"
     }
    ]
   },
@@ -295,100 +287,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Walter Bentancor, historiador: “El C-432 fue el primer avión de la Fuerza Aérea Argentina en atacar a la Task Force británica”",
-     "link": "https://www.lanacion.com.ar/que-sale/walter-bentancor-historiador-el-c-432-fue-el-primer-avion-de-la-fuerza-aerea-argentina-en-atacar-a-nid17082026/",
-     "source": "La Nación",
-     "published": "2026-08-18T10:45:33+00:00",
-     "copete": "El Museo Nacional de Aeronáutica conserva aeronaves que participaron en la Guerra de Malvinas y otras piezas vinculadas con la historia de la aviación nacional; el recorrido incluye el Dagger, el Chinook, los Skyhawk, el Canberra y el…",
-     "id": "2cf0a0ddb246"
-    },
-    {
-     "title": "Hay alerta naranja y amarilla por tormentas, vientos y nevadas para este martes 18 de agosto: las provincias afectadas",
-     "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-vientos-y-nevadas-para-este-martes-18-de-agosto-las-nid18082026/",
-     "source": "La Nación",
-     "published": "2026-08-18T10:45:07+00:00",
-     "copete": "El Servicio Meteorológico Nacional advirtió sobre posibles condiciones adversas en distintas regiones del país; en la Ciudad, la máxima será de 13°C",
-     "id": "64460d2a24e6"
-    },
-    {
-     "title": "Ecuador impulsa sus exportaciones un 4% en el primer semestre de 2026",
-     "link": "https://www.infobae.com/movant/2026/08/18/ecuador-impulsa-sus-exportaciones-un-4-en-el-primer-semestre-de-2026/",
+     "title": "El riesgo país se acerca a los 500 puntos básicos y ya llegó a su nivel más alto desde junio",
+     "link": "https://www.infobae.com/economia/2026/08/18/por-que-el-riesgo-pais-toco-el-nivel-mas-alto-desde-junio-y-se-acerco-a-los-500-puntos-basicos/",
      "source": "Infobae",
-     "published": "2026-08-18T10:45:00+00:00",
-     "copete": "El país registró ventas externas por 19.571 millones de dólares entre enero y junio, con el camarón como principal impulsor, mientras el cacao y sus elaborados retrocedieron con fuerza",
-     "id": "b05e61c20ec8"
+     "published": "2026-08-18T13:12:27+00:00",
+     "copete": "Factores externos y locales se combinan para explicar el comportamiento del indicador elaborado por JP Morgan, que ascendió a 494 unidades en la apertura de los mercados",
+     "id": "50491eaa8f93"
     },
     {
-     "title": "Juan Manuel Cerúndolo enfrentará al número 4 del mundo Felix Auger-Aliassime en el Masters 1000 de Cincinnati: hora y cómo verlo en vivo",
-     "link": "https://www.infobae.com/deportes/2026/08/18/juan-manuel-cerundolo-enfrentara-al-numero-4-del-mundo-felix-auger-aliassime-en-el-masters-1000-de-cincinnati-hora-y-como-verlo-en-vivo/",
-     "source": "Infobae",
-     "published": "2026-08-18T10:43:34+00:00",
-     "copete": "El zurdo se medirá este martes con el canadiense en busca de ser el segundo argentino en los octavos de final del torneo",
-     "id": "c21842da7e43"
-    },
-    {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 18 de agosto, minuto a minuto",
-     "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid18082026/",
+     "title": "Detuvieron a Fernando Cerimedo en Bolivia: investigan al exasesor de Milei por el atentado a una activista política",
+     "link": "https://www.lanacion.com.ar/politica/detuvieron-a-fernando-cerimedo-en-bolivia-lo-investigan-por-un-ataque-a-balazos-a-su-expareja-nid18082026/",
      "source": "La Nación",
-     "published": "2026-08-18T10:41:06+00:00",
-     "copete": "La divisa oficial operó a $1515 para la venta en el Banco Nación; el dólar blue cotizó a $1540 para esa operación; qué pasa con el MEP y el CCL",
-     "id": "4509a02f5d54"
+     "published": "2026-08-18T13:11:33+00:00",
+     "copete": "Fue aprehendido en el aeropuerto de Santa Cruz de la Sierra, cuando estaba por embarcar hacia la Argentina; según medios locales, la mujer fue su pareja; dos hombres disfrazados la atacaron a balazos en la puerta de un hotel",
+     "id": "6dc69236aeed"
     },
     {
-     "title": "Franco Colapinto correrá este fin de semana el GP de los Países Bajos en el regreso de la F1: hora, TV y todo lo que hay que saber",
-     "link": "https://www.infobae.com/deportes/2026/08/18/franco-colapinto-correra-este-fin-de-semana-el-gp-de-los-paises-bajos-en-el-regreso-de-la-f1-hora-tv-y-todo-lo-que-hay-que-saber/",
-     "source": "Infobae",
-     "published": "2026-08-18T10:40:00+00:00",
-     "copete": "Después del parate de un mes que tuvo la Máxima, el piloto argentino saldrá a pista en el circuito de Zandvoort",
-     "id": "5dc21e24ee0d"
-    },
-    {
-     "title": "Javier Milei y sus medidas, en vivo: el armado electoral de cara al 2027 y la visita del papa León XIV a la Argentina",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-armado-electoral-de-cara-al-2027-y-la-visita-del-papa-leon-xiv-nid18082026/",
+     "title": "Se viene una semana con lluvias intensas de más de 100 mm y otro “pulso de aire frío”, que traerá un marcado descenso térmico: las zonas afectadas",
+     "link": "https://www.lanacion.com.ar/sociedad/se-viene-una-semana-con-ciclogenesis-de-alto-impacto-que-traera-48-horas-de-tormentas-fuertes-nid17082026/",
      "source": "La Nación",
-     "published": "2026-08-18T10:37:38+00:00",
-     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "fcbd36400018"
+     "published": "2026-08-18T13:11:30+00:00",
+     "copete": "El SMN anticipa un marcado contraste durante los próximos días; el Litoral y parte del noreste del país concentrarán las mayores probabilidades de precipitaciones; en paralelo, avanza una nueva masa de aire que cambiará por completo las…",
+     "id": "57a57809f3cd"
     },
     {
-     "title": "“La política nos hundió”: cerró la empresa textil de un ex entrenador de Los Pumas y su dueño lloró al despedir a 120 trabajadores",
-     "link": "https://www.infobae.com/economia/2026/08/17/la-politica-nos-hundio-cerro-la-empresa-textil-de-un-ex-entrenador-de-los-pumas-y-su-dueno-lloro-al-despedir-a-120-trabajadores/",
+     "title": "Juicio de los Cuadernos, en vivo: “Los ferrocarriles explican parte de la tragedia argentina”, dijo Randazzo",
+     "link": "https://www.infobae.com/judiciales/2026/08/18/juicio-de-los-cuadernos-en-vivo-varios-exfuncionarios-declaran-como-testigos/",
      "source": "Infobae",
-     "published": "2026-08-18T10:37:24+00:00",
-     "copete": "Will Der SA fabricaba indumentaria deportiva para Adidas, Puma y Macron y empleaba a 300 personas en la provincia de Buenos Aires; sus socios advirtieron que “no hay trabajo”",
-     "id": "148b3848e03e"
+     "published": "2026-08-18T13:10:37+00:00",
+     "copete": "El Tribunal Oral Federal 7 retomó este martes las audiencias con la convocatoria como testigos a ex funcionarios, entre ellos el ex ministro de Transporte Florencio Randazzo",
+     "id": "eb84c42aeb5e"
     },
     {
-     "title": "Un padre filmó a su hija de 9 años mientras conducía un auto: “¡Qué grande la piloto!\"",
-     "link": "https://www.lanacion.com.ar/sociedad/un-padre-filmo-a-su-hija-de-9-anos-mientras-conducia-un-auto-que-grande-la-piloto-nid18082026/",
+     "title": "Los Grammy revisan la categoría de pop asiático tras la baja de BTS",
+     "link": "https://www.infobae.com/entretenimiento/2026/08/18/los-grammy-revisan-la-categoria-de-pop-asiatico-tras-la-baja-de-bts-para-postularse/",
+     "source": "Infobae",
+     "published": "2026-08-18T13:08:52+00:00",
+     "copete": "La Academia de la Grabación abrió una evaluación interna sobre ese apartado después de que la banda surcoreana dejara fuera a Arirang y reclamara que la música sea valorada sin importar idioma o región",
+     "id": "9f0db33df522"
+    },
+    {
+     "title": "El Gobierno vuelve a reunirse para analizar la estrategia legislativa y mira con cautela la actitud del PRO",
+     "link": "https://www.infobae.com/politica/2026/08/18/el-gobierno-vuelve-a-reunirse-para-analizar-la-estrategia-legislativa-y-mira-con-cautela-la-actitud-del-pro/",
+     "source": "Infobae",
+     "published": "2026-08-18T13:08:41+00:00",
+     "copete": "En la Casa Rosada habrá un nuevo encuentro de la mesa política, en la antesala de la sesión a la que Martín Menem quiere convocar en la Cámara de Diputados",
+     "id": "763cf7f438ab"
+    },
+    {
+     "title": "Nueva etapa de Kicillof: señales sobre su sucesión, agenda paralela y guardia alta frente a los Kirchner",
+     "link": "https://www.infobae.com/politica/2026/08/18/nueva-etapa-de-kicillof-senales-sobre-su-sucesion-agenda-paralela-y-guardia-alta-frente-a-los-kirchner/",
+     "source": "Infobae",
+     "published": "2026-08-18T13:08:04+00:00",
+     "copete": "El Gobernador expande el trabajo de su fuerza política en las provincias. La interna peronista en pausa, pero la desconfianza latente. La nacionalización de su propuesta electoral",
+     "id": "8995262b9b28"
+    },
+    {
+     "title": "Mario Pergolini: “Soy el fundador de la frase la televisión está muerta; yo realmente creo que sí, que lo está”",
+     "link": "https://www.lanacion.com.ar/sociedad/mario-pergolini-soy-el-fundador-de-la-frase-la-television-esta-muerta-yo-realmente-creo-que-si-que-nid18082026/",
      "source": "La Nación",
-     "published": "2026-08-18T10:36:01+00:00",
-     "copete": "El video fue grabado en las calles de la localidad de Lago Puelo, Chubut; hasta el momento, no se supo si alguna autoridad intervino",
-     "id": "2b20a5cf24c8"
+     "published": "2026-08-18T13:06:43+00:00",
+     "copete": "En una entrevista exclusiva con José del Rio, el reconocido conductor analizó la transformación de los medios, el impacto de la inteligencia artificial en la sociedad y su visión sobre la obsolescencia del formato televisivo tradicional",
+     "id": "13b550c17e57"
     },
     {
-     "title": "Teresa, la abuela de 93 años que viaja con su nieto haciendo autoestop y ya llevan 2.000 kilómetros: \"Al principio se negó, iba a regañadientes\"",
-     "link": "https://www.clarin.com/estados-unidos/teresa-abuela-93-anos-viaja-nieto-haciendo-autoestop-llevan-2000-kilometros-principio-nego-iba-reganadientes_0_Lk9f5JzC5J.html",
+     "title": "La reflexión de Jean-Paul Sartre sobre la identidad y el pasado: “Somos lo que hacemos con lo que hicieron de nosotros”",
+     "link": "https://www.lanacion.com.ar/sociedad/la-reflexion-de-jean-paul-sartre-sobre-la-identidad-y-el-pasado-somos-lo-que-hacemos-con-lo-que-nid18082026/",
+     "source": "La Nación",
+     "published": "2026-08-18T13:06:37+00:00",
+     "copete": "La frase del filósofo francés fue retomada por Gabriel Rolón en una entrevista con LA NACION para explicar cómo los recuerdos y las experiencias moldean la personalidad",
+     "id": "79503575cc35"
+    },
+    {
+     "title": "Daniel López Rosetti: “El hacerse mala sangre puede mitigarse si uno adopta una visión estoica frente a las frustraciones diarias”",
+     "link": "https://www.lanacion.com.ar/sociedad/daniel-lopez-rosetti-el-hacerse-mala-sangre-puede-mitigarse-si-uno-adopta-una-vision-estoica-frente-nid18082026/",
+     "source": "La Nación",
+     "published": "2026-08-18T13:06:33+00:00",
+     "copete": "En diálogo con LA NACION, el reconocido cardiólogo analizó el impacto del estrés crónico en el organismo; sostuvo que la clave para la salud reside en una filosofía de vida que permita evitar las batallas innecesarias",
+     "id": "8ac2cbc96827"
+    },
+    {
+     "title": "Cómo los avances satelitales están cambiando las reglas del juego para Ucrania",
+     "link": "https://www.clarin.com/new-york-times-international-weekly/avances-satelitales-cambiando-reglas-juego-ucrania_0_ercR2KtgBd.html",
      "source": "Clarín",
-     "published": "2026-08-18T10:31:53+00:00",
-     "copete": "Lo que comenzó como una propuesta difícil de aceptar terminó convirtiéndose en una experiencia que cambió la mirada de una mujer de 93 años sobre los viajes y las personas.",
-     "id": "135ca8ee17b4"
+     "published": "2026-08-18T12:41:56+00:00",
+     "copete": "Los equipos ucranianos de drones cuentan con una nueva y potente herramienta: información casi en tiempo real sobre los movimientos y la ubicación de las tropas.",
+     "id": "de666801c6b8"
     },
     {
-     "title": "Kyle Chandler y Aaron Pierre explicaron cómo se prepararon para interpretar a Hal Jordan y John Stewart en Lanterns",
-     "link": "https://www.infobae.com/entretenimiento/2026/08/18/kyle-chandler-y-aaron-pierre-explicaron-como-se-prepararon-para-interpretar-a-hal-jordan-y-john-stewart-en-lanterns/",
-     "source": "Infobae",
-     "published": "2026-08-18T10:31:30+00:00",
-     "copete": "El dúo protagonista de la nueva producción de DC Cómics detalló en una entrevista con IndieWire sobre el proceso creativo, el trabajo compartido y los desafíos que implicó construir la relación entre ambos personajes durante el rodaje",
-     "id": "72e77c96a1c8"
-    },
-    {
-     "title": "Ethereum hoy: cotización y precio del ETH este martes 18 de agosto de 2026",
-     "link": "https://www.clarin.com/economia/ethereum-hoy-cotizacion-y-precio-del-eth-este-martes-18-de-agosto-de-2026_0_eiCLpgNLBy.html",
+     "title": "Detuvieron al ex asesor de Milei Fernando Cerimedo en Bolivia:  lo investigan por un ataque a tiros contra su ex pareja",
+     "link": "https://www.clarin.com/politica/detuvieron-ex-asesor-milei-fernando-cerimedo-bolivia-investigan-ataque-tiros-ex-pareja_0_RAevcod5AX.html",
      "source": "Clarín",
-     "published": "2026-08-18T10:30:02+00:00",
-     "copete": "El valor actualizado de la segunda criptomoneda más importante por capitalización. Origen e historia de Ethereum.",
-     "id": "a2f5c421a5ae"
+     "published": "2026-08-18T12:40:40+00:00",
+     "copete": "Fue detenido esta madrugada en un aeropuerto de ese país apuntado como principal sospechoso por el ataque armado que sufrió su ex mujer en Santa Cruz de la Sierra.",
+     "id": "b04817aa6d6f"
     }
    ]
   },
@@ -398,6 +390,70 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Trump declara el estrecho de Ormuz “nuevo territorio de Estados Unidos”",
+     "link": "https://elpais.com/internacional/2026-08-18/trump-declara-el-estrecho-de-ormuz-nuevo-territorio-de-estados-unidos.html",
+     "source": "El País Internacional",
+     "published": "2026-08-18T12:56:26+00:00",
+     "copete": "El republicano va un paso más allá en sus amenazas de anexión con una imagen publicada en su propia red social",
+     "id": "b0fc015013d9"
+    },
+    {
+     "title": "Rusia advierte al Reino Unido de que “pagará un precio” por suministrar drones a Ucrania",
+     "link": "https://elpais.com/internacional/2026-08-18/rusia-advierte-al-reino-unido-de-que-pagara-un-precio-por-suministrar-drones-a-ucrania.html",
+     "source": "El País Internacional",
+     "published": "2026-08-18T12:38:32+00:00",
+     "copete": "Londres reafirma su compromiso de ayudar a Kiev",
+     "id": "703f9cb26815"
+    },
+    {
+     "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+     "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-18T12:36:11+00:00",
+     "copete": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+     "id": "73549710cf66"
+    },
+    {
+     "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
+     "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-18T12:04:11+00:00",
+     "copete": "Recovery efforts continue in what is the country's deadliest transport disaster.",
+     "id": "a5ea43890019"
+    },
+    {
+     "title": "Turquía da un paso clave en la resolución del conflicto kurdo con la reinserción y perdón condicional de los militantes del PKK",
+     "link": "https://elpais.com/internacional/2026-08-18/turquia-da-un-paso-clave-en-la-resolucion-del-conflicto-kurdo-con-la-reinsercion-y-perdon-condicional-de-los-militantes-del-pkk.html",
+     "source": "El País Internacional",
+     "published": "2026-08-18T11:56:12+00:00",
+     "copete": "Entra en vigor la ley que permite el regreso de aquellos combatientes sin delitos de sangre. El presidente Erdogan lo califica de “importante paso para el futuro en paz, próspero y seguro” del país",
+     "id": "e47eef0a64d6"
+    },
+    {
+     "title": "La niña de 10 años traficada de Perú a Ecuador para casarse con un hombre de 50 (y qué revela sobre el matrimonio infantil en América Latina)",
+     "link": "https://www.bbc.com/mundo/articles/c5yvrnqd2pdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-18T11:54:04+00:00",
+     "copete": "Una de cada cuatro niñas en Latinoamérica se han visto envueltas en un matrimonio infantil o unión temprana. Y es la única región del mundo donde no se ha producido una reducción significativa de esta práctica.",
+     "id": "870e59829938"
+    },
+    {
+     "title": "\"El Chocó ha estado abandonado\": Shakira se compromete a reconstruir escuelas tras viajar a una de las zonas más pobres de Colombia después del terremoto",
+     "link": "https://www.bbc.com/mundo/articles/cq89jpp8vx4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-18T11:37:33+00:00",
+     "copete": "La cantante ha anunciado una inversión de un millón de dólares en la región, pero ha pedido ayuda a gobiernos extranjeros y al sector privado.",
+     "id": "87e420506ccc"
+    },
+    {
+     "title": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
+     "link": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-18T10:59:22+00:00",
+     "copete": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
+     "id": "18185c180534"
+    },
+    {
      "title": "\"Perdí una pierna cuando tenía 16 años y ahora soy 4 veces campeón mundial de surf\"",
      "link": "https://www.bbc.com/mundo/articles/cg7mmmpeed0o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
@@ -406,76 +462,12 @@
      "id": "33bfe9c1bc94"
     },
     {
-     "title": "Russia warns UK will pay for supplying drones to Ukraine",
-     "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-18T09:55:00+00:00",
-     "copete": "Russia accuses the UK of escalating the Ukraine war after British-made drones were used, but the MoD says it stands against Russian aggression.",
-     "id": "73549710cf66"
-    },
-    {
-     "title": "\"Experimentó una fuerte libertad personal\": cómo se forjó el vínculo de García Lorca con América Latina",
+     "title": "Cómo se forjó el vínculo de García Lorca con América Latina (y el viaje a México que nunca hizo y que podría haberle salvado la vida)",
      "link": "https://www.bbc.com/mundo/articles/cgk4510ddr6o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "published": "2026-08-18T09:39:54+00:00",
      "copete": "De La Habana a Buenos Aires y Montevideo, el poeta encontró en la región un escenario de libertad y éxito que transformó su vida y su obra.",
      "id": "5e17c0a6025a"
-    },
-    {
-     "title": "Al menos 10 muertos en un ataque ruso con misiles en la región ucrania de Járkov",
-     "link": "https://elpais.com/internacional/2026-08-18/varios-muertos-en-un-ataque-ruso-con-misiles-en-la-region-ucrania-de-jarkov.html",
-     "source": "El País Internacional",
-     "published": "2026-08-18T09:38:59+00:00",
-     "copete": "Otras 17 personas han resultado heridas. Zelenski promete responder a la ofensiva",
-     "id": "d755dc57c74d"
-    },
-    {
-     "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
-     "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-18T08:44:10+00:00",
-     "copete": "The former heavyweight boxing champion shares a child with the Heroes actress, who died on Sunday.",
-     "id": "01ccb878cd0c"
-    },
-    {
-     "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-     "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-18T08:07:37+00:00",
-     "copete": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
-     "id": "bdb966a87e2b"
-    },
-    {
-     "title": "La Casa Blanca se abalanza contra un senador demócrata por hablar de Natalie Harp, la “impresora humana” de Trump",
-     "link": "https://elpais.com/internacional/2026-08-18/la-casa-blanca-se-abalanza-contra-un-senador-democrata-por-hablar-de-natalie-harp-la-impresora-humana-de-trump.html",
-     "source": "El País Internacional",
-     "published": "2026-08-18T07:57:44+00:00",
-     "copete": "El legislador Jon Ossoff acusa al presidente de preferir “viajar en su palacio volante” con su ayudante más leal a hacer su trabajo",
-     "id": "5781520fd138"
-    },
-    {
-     "title": "Zambia's president wins second term with 60% of the vote",
-     "link": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-18T07:46:55+00:00",
-     "copete": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
-     "id": "18185c180534"
-    },
-    {
-     "title": "Los tropiezos de De la Espriella en medio de la emergencia: un ministro en la playa, balones con propaganda política y clases virtuales sin acceso a wifi",
-     "link": "https://elpais.com/america-colombia/2026-08-18/los-tropiezos-de-de-la-espriella-en-medio-de-la-emergencia-un-ministro-en-la-playa-balones-con-propaganda-politica-y-clases-virtuales-sin-acceso-a-wifi.html",
-     "source": "El País Internacional",
-     "published": "2026-08-18T04:00:00+00:00",
-     "copete": "Los congresistas llaman al ministro de Vivienda a una moción de censura por tomarse un descanso, mientras que habitantes del Pacífico critican la oferta sin tener en cuenta las realidades locales",
-     "id": "1243b47eb865"
-    },
-    {
-     "title": "Los pasajeros del vuelo 164 no tienen justicia: deportados por Trump, retenidos por Venezuela, muertos en el terremoto",
-     "link": "https://elpais.com/america/2026-08-18/el-vuelo-164-no-tiene-justicia-deportados-por-trump-retenidos-por-venezuela-muertos-en-el-terremoto.html",
-     "source": "El País Internacional",
-     "published": "2026-08-18T04:00:00+00:00",
-     "copete": "Los migrantes expulsados por Estados Unidos ya no terminan en hoteles como el que sepultó al centenar de venezolanos que murió en La Guaira, el 24 de junio",
-     "id": "3ea34de9b282"
     }
    ]
   }

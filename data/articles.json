@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T03:12:10.118489+00:00",
+ "generated_at": "2026-08-18T04:56:16.155434+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -9,35 +9,35 @@
     {
      "title": "Cannabis Users Less Likely to Have Cardiac Ectopy on Days They Partake",
      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV1JaN3BjSTZxYjhqR000ekxGOVk4VGZPTk9ERUFDbU9GeGRYTWllUjMtWExvbHltX2JGMjdrQnc4bU1Xd0FkRjFLTFM4UUtZelViT05ralU1VXNPZ242VFJlSUNFamItVnd6MThyc2dSWklzb3d3OUlhR00zR3A5cGpPSndodW82S0lpZy1iaE8zdC1EUUE?oc=5",
-     "source": "TCTMD",
+     "source": "tctmd",
      "published": "2026-08-17T19:34:23+00:00",
      "id": "3ce96bae7fac"
     },
     {
      "title": "Female Sex, Fibrosis Tied to Serious Arrhythmias in Mitral Valve Prolapse",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWC13dTJvRHZPSXRPaWRkVGJJcDFFSWRWQkVDX1ozTURSVDFvOE5vUEhta2hUSEh4cUcwTE9oODBPVXp0ODRVdjRacFhEaTdzVmhEQTVCRkkzQzZfWHBMWGU1aTBKUGZVQ2FoWWV5QTVSWTJaUlpON3BHTEVuSXJPdEZMM0ItUDRWbWVLb2hnMk1JQmxLYU42Nw?oc=5",
-     "source": "TCTMD",
+     "source": "tctmd",
      "published": "2026-08-17T15:09:56+00:00",
      "id": "4eed604d7496"
     },
     {
      "title": "CAC Derived From Nongated CT Can Accurately Predict CV Risk",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT20zVm0tN05Dd3NlTGo3Y3lGLXQ5VFVSMWxKNTV4ZTM5RzZtWFlFUVdjREtKOVdCOVlxaU5iZ1NCLTY1b1NBZWpELUdQUkswMFR6TU1ORThaNjFMc2hyY1FiQjZfQk1mWUtiM2pFSkpsNUg1N3U5MkpDUEtkSUtRSkN6RUdMRmIt?oc=5",
-     "source": "TCTMD",
+     "source": "tctmd",
      "published": "2026-08-14T18:46:16+00:00",
      "id": "3e9ab9eca463"
     },
     {
      "title": "NP-Led Telemedicine a Solid Option in Acute Stroke Management",
      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONTlnV1dqcHpOUVRWWC1CSkNPWmM2YVdCcVE2bUMtMm82QlEtMTJVNzJDOEl4RVFHMWR5cGFPWUVCVzhvSHdTbW1yZTVHaE1xV0JMZFNPRGtOMnNUU2pfa1o2T3lsM2huZXRoWkhoSDZRSk5BWXpmTnZMNTkzdnRDbFdCZVdoMVItU1Nn?oc=5",
-     "source": "TCTMD",
+     "source": "tctmd",
      "published": "2026-08-14T17:40:56+00:00",
      "id": "609f5755d386"
     },
     {
      "title": "On Record: Does Targeting AS Systematically Work?",
      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUWs4R3hGVVE0X1A0VUJfSmZtbjJsa2xhakE2WmdQQW1nbGZHVDRaVVlCSWlPeC1uOWY0MjFfcEh2cndkSTlJTWpTcVF0bkpTN1k1WFVlcEdyQk42RXhMNlExVDVBZHNudC1PeXVyeTZPSXFsNm1RMGZnLXNuM09YU3Y0VlpMMWFTa3pRcS1lTkJVTFZC?oc=5",
-     "source": "TCTMD",
+     "source": "tctmd",
      "published": "2026-08-14T16:51:58+00:00",
      "id": "d98a9496e7fd"
     },
@@ -72,6 +72,30 @@
      "published": "2026-08-11T00:00:00+00:00",
      "copete": "Erhabor J et al. · Journal of the American College of Cardiology",
      "id": "a1fc649f9735"
+    },
+    {
+     "title": "Oxygen Targets after Cardiac Arrest - A LOGICAL Finding",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42555938/",
+     "source": "NEJM Cardiología",
+     "published": "2026-08-06T00:00:00+00:00",
+     "copete": "Andersen LW et al. · The New England journal of medicine",
+     "id": "1e62aa997f39"
+    },
+    {
+     "title": "Sex Hormone Influences on Cardiovascular Risk. Reply",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42526042/",
+     "source": "NEJM Cardiología",
+     "published": "2026-07-30T00:00:00+00:00",
+     "copete": "Skeith L et al. · The New England journal of medicine",
+     "id": "742ee8759563"
+    },
+    {
+     "title": "Sex Hormone Influences on Cardiovascular Risk",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42526041/",
+     "source": "NEJM Cardiología",
+     "published": "2026-07-30T00:00:00+00:00",
+     "copete": "Bonnet F et al. · The New England journal of medicine",
+     "id": "ba245273fb1b"
     }
    ]
   },
@@ -197,34 +221,6 @@
      "id": "1999067b9617"
     },
     {
-     "title": "How Bluesky draws its logo on screenshots",
-     "link": "https://timmarinin.net/2026/bluesky-screenshots/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-17T22:20:40+00:00",
-     "id": "e881d65294e0"
-    },
-    {
-     "title": "Quake Shareware, a CD-ROM just a little too full",
-     "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-17T22:06:14+00:00",
-     "id": "60d29d18b8a2"
-    },
-    {
-     "title": "GPT-5.6 Sol Pricing Cut by 50%",
-     "link": "https://openrouter.ai/openai/gpt-5.6-sol",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-17T21:03:18+00:00",
-     "id": "e37dcbb0bfb6"
-    },
-    {
-     "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-     "link": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-17T20:46:10+00:00",
-     "id": "1d7b5105e7e2"
-    },
-    {
      "title": "How does one prepare for such interviews?",
      "link": "https://www.reddit.com/r/datascience/comments/1vr2gxc/how_does_one_prepare_for_such_interviews/",
      "source": "r/datascience",
@@ -262,6 +258,37 @@
      "published": "2026-08-17T14:00:36+00:00",
      "copete": "But by keeping these limits in mind, and planning for them, we can effectively use these small, local models for the following broad operations scenarios.",
      "id": "61b05ae598d2"
+    },
+    {
+     "title": "How to Perform Effective Project Management with AI",
+     "link": "https://towardsdatascience.com/how-to-perform-effective-project-management-with-ai/",
+     "source": "Towards Data Science",
+     "published": "2026-08-17T13:30:00+00:00",
+     "copete": "Become a more productive software engineer with LLMs The post How to Perform Effective Project Management with AI appeared first on Towards Data Science .",
+     "id": "b36cd614ecb4"
+    },
+    {
+     "title": "5 Python Libraries That Make Data Cleaning More Enjoyable",
+     "link": "https://www.kdnuggets.com/5-python-libraries-that-make-data-cleaning-more-enjoyable",
+     "source": "KDnuggets",
+     "published": "2026-08-17T12:00:53+00:00",
+     "copete": "This article covers five Python libraries that turn tedious data cleaning into something expressive and genuinely enjoyable.",
+     "id": "d1bf8148901c"
+    },
+    {
+     "title": "Weekly Entering & Transitioning - Thread 17 Aug, 2026 - 24 Aug, 2026",
+     "link": "https://www.reddit.com/r/datascience/comments/1vqhpog/weekly_entering_transitioning_thread_17_aug_2026/",
+     "source": "r/datascience",
+     "published": "2026-08-17T04:01:15+00:00",
+     "id": "7339be537a61"
+    },
+    {
+     "title": "Markdown SVG upgrades",
+     "link": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-08-16T23:59:37+00:00",
+     "copete": "I started building my markdown-svg-renderer tool in May , but I've since added enough features to it that it's worth talking about here again. It's evolved into my ideal tool for sharing Markdown transcripts that include SVG documents…",
+     "id": "5d80ce7e11f5"
     }
    ]
   },
@@ -271,100 +298,99 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Tras el empate de Vélez con Defensa, Gimnasia de Mendoza venció 3-1 al Talleres por el Torneo Clausura",
-     "link": "https://www.infobae.com/deportes/2026/08/17/se-cierra-la-fecha-5-del-torneo-clausura-todo-lo-que-hay-que-saber-de-los-partidos-de-la-jornada/",
+     "title": "Avanza el restablecimiento de la electricidad en La Plata: 18 mil usuarios siguen sin luz tras el incendio en una subestación",
+     "link": "https://www.infobae.com/sociedad/2026/08/18/avanza-el-restablecimiento-de-la-electricidad-en-la-plata-18-mil-usuarios-siguen-sin-luz-tras-el-incendio-en-una-subestacion/",
      "source": "Infobae",
-     "published": "2026-08-18T03:10:13+00:00",
-     "copete": "El Fortín igualó 1-1 con el Halcón y Estudiantes de Río Cuarto cayó 1-0 con Atlético Tucumán. En último turno, el Lobo mendocino goleó a la T de Sampaoli",
-     "id": "73a6a3279cb6"
+     "published": "2026-08-18T04:38:44+00:00",
+     "copete": "Cerca de la medianoche quedaban cerca de 20 mil usuarios sin luz, de los 65 mil que estuvieron afectados. Los equipos continuarán trabajando al menos por 72 horas más",
+     "id": "430262e5b1cb"
     },
     {
-     "title": "Las autoridades de Guatemala cerrarán parcialmente la CA-9 Sur el domingo para evaluar el puente Enrique Tejada Wyld",
-     "link": "https://www.infobae.com/guatemala/2026/08/18/las-autoridades-de-guatemala-cerraran-parcialmente-la-ca-9-sur-el-domingo-para-evaluar-el-puente-enrique-tejada-wyld/",
+     "title": "Diputados votan por reformas presupuestarias por más de USD 100 millones para educación, turismo y agricultura en El Salvador",
+     "link": "https://www.infobae.com/el-salvador/2026/08/18/diputados-votan-por-reformas-presupuestarias-de-nacion-por-mas-de-usd-100-millones-para-educacion-turismo-y-agricultura-en-el-salvador/",
      "source": "Infobae",
-     "published": "2026-08-18T03:07:57+00:00",
-     "copete": "El Ministerio de Comunicaciones, Infraestructura y Vivienda, con apoyo de la Coordinadora Nacional para la Reducción de Desastres, intenta anticipar fallas mayores mientras persisten restricciones al transporte pesado y filas recurrentes…",
-     "id": "ca67038bbcc7"
+     "published": "2026-08-18T04:33:09+00:00",
+     "copete": "La medida incluye un préstamo de hasta USD 100 millones con el Banco Interamericano de Desarrollo y una reasignación de USD 54,75 millones para atender prioridades del segundo semestre de 2026",
+     "id": "1d772ea5b03c"
     },
     {
-     "title": "El exprocurador dominicano Jean Alain Rodríguez seguirá en juicio por presunta corrupción de más de RD$6,000 millones",
-     "link": "https://www.infobae.com/republica-dominicana/2026/08/18/el-exprocurador-dominicano-jean-alain-rodriguez-seguira-en-juicio-por-presunta-corrupcion-de-mas-de-rd6000-millones/",
+     "title": "La toma del Justine. La hazaña de Güemes durante las invasiones inglesas: rindió a la marina británica con una carga de caballería",
+     "link": "https://www.lanacion.com.ar/lifestyle/la-toma-del-justine-la-hazana-de-guemes-durante-las-invasiones-inglesas-rindio-a-la-marina-britanica-nid18082026/",
+     "source": "La Nación",
+     "published": "2026-08-18T04:30:00+00:00",
+     "copete": "El 12 de agosto de 1812, el gaucho salteño que sería luego héroe de la independencia participó del asalto a caballo a un buque británico que había encallado en el Río de la Plata",
+     "id": "8ef034d02301"
+    },
+    {
+     "title": "Hacienda cambia de postura y liberará USD 6.7 millones que había retenido al Poder Judicial de Costa Rica",
+     "link": "https://www.infobae.com/costa-rica/2026/08/18/hacienda-cambia-de-postura-y-liberara-usd-67-millones-que-habia-retenido-al-poder-judicial-de-costa-rica/",
      "source": "Infobae",
-     "published": "2026-08-18T03:05:20+00:00",
-     "copete": "El Segundo Tribunal Colegiado del Distrito Nacional desestimó el planteo de Jean Alain Rodríguez Sánchez, acusado de corrupción administrativa",
-     "id": "e5d1b00231f2"
+     "published": "2026-08-18T04:29:54+00:00",
+     "copete": "El Ministerio comunicó que girará la totalidad de los recursos correspondientes al tercer y cuarto trimestre de 2026, luego de que la Presidencia de la Corte presentara un recurso contra la retención",
+     "id": "3f7e658d4a16"
     },
     {
-     "title": "Qué dijeron Guillermo Barros Schelotto y Julio Vaccari sobre su escandalosa pelea a golpes en el túnel del Amalfitani",
-     "link": "https://www.infobae.com/deportes/2026/08/18/que-dijeron-julio-vaccari-y-guillermo-barros-schelotto-sobre-su-escandalosa-pelea-a-golpes-en-el-tunel-del-amalfitani/",
+     "title": "“Nunca les vas a interesar”: se enamoró de Picasso, 40 años mayor, pero cuando lo dejó él amenazó con arruinarle su carrera",
+     "link": "https://www.lanacion.com.ar/lifestyle/nunca-les-vas-a-interesar-se-enamoro-de-picasso-40-anos-mayor-pero-cuando-lo-dejo-el-amenazo-con-nid18082026/",
+     "source": "La Nación",
+     "published": "2026-08-18T04:29:00+00:00",
+     "copete": "Françoise Gilot tenía 21 años cuando se conocieron; Picasso, que tenía 61 y estaba en pareja, la convirtió en su musa y su discípula",
+     "id": "6811040912c2"
+    },
+    {
+     "title": "Régimen de Nicaragua se escuda en las Fiestas Patrias mientras avanza la reforma constitucional",
+     "link": "https://www.infobae.com/nicaragua/2026/08/18/regimen-de-nicaragua-se-escuda-en-las-fiestas-patrias-mientras-avanza-la-reforma-constitucional/",
      "source": "Infobae",
-     "published": "2026-08-18T03:05:02+00:00",
-     "copete": "Los entrenadores de Vélez y Defensa y Justicia protagonizaron un bochornoso final tras el empate 1-1 por el Torneo Clausura",
-     "id": "51e9b1303385"
+     "published": "2026-08-18T04:27:52+00:00",
+     "copete": "Las voces críticas y analistas políticos sostienen que la conmemoración de la independencia podría servir de plataforma para respaldar las modificaciones que darán continuidad a la dictadura de Ortega y Murillo",
+     "id": "067cb6f5edb2"
     },
     {
-     "title": "Aprender a sentir también es aprender",
-     "link": "https://www.infobae.com/educacion/2026/08/18/aprender-a-sentir-tambien-es-aprender/",
-     "source": "Infobae",
-     "published": "2026-08-18T03:05:00+00:00",
-     "copete": "El desafío de la escuela, dice la autora de esta columan de opinión, es educar para la vida",
-     "id": "f66ff6555c4f"
-    },
-    {
-     "title": "Son argentinos y los primeros en el mundo que construyen edificios creando una saga de juegos en tamaño real",
-     "link": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/son-argentinos-y-crean-edificios-con-formas-raras-desde-el-cubo-magico-hasta-el-jenga-nid20072026/",
-     "source": "La Nación",
-     "published": "2026-08-18T03:03:00+00:00",
-     "copete": "Un estudio de arquitectura de Puerto Madryn comenzó a combinar lo lúdico con la arquitectura",
-     "id": "2480c7050117"
-    },
-    {
-     "title": "Clásico y moderno: el barrio periférico donde los pioneros de la gastronomía conviven con desembarcos innovadores",
-     "link": "https://www.lanacion.com.ar/sabado/clasico-y-moderno-el-barrio-periferico-donde-los-pioneros-de-la-gastronomia-conviven-con-desembarcos-nid18082026/",
-     "source": "La Nación",
-     "published": "2026-08-18T03:02:00+00:00",
-     "copete": "En constante reformulación, la zona es testigo de aperturas y cierres; aquí, establecimientos tradicionales y recién llegados que se hicieron un lugar entre las preferencias de los vecinos",
-     "id": "ca23c43fcb8a"
-    },
-    {
-     "title": "¿Crisis o no crisis? La gran batalla cultural que definirá 2027",
-     "link": "https://www.lanacion.com.ar/politica/la-gran-batalla-cultural-que-definira-2027-nid18082026/",
-     "source": "La Nación",
-     "published": "2026-08-18T03:01:00+00:00",
-     "copete": "En el homenaje a San Martín, el presidente Milei esbozó una ligera autocrítica por la situación de las familias frente al cuadro económico; sin embargo, cuenta con ventajas competitivas ante al agotamiento del modelo kirchnerista",
-     "id": "00c00dd80bd1"
-    },
-    {
-     "title": "Hay alerta naranja y amarilla por tormentas, vientos y nevadas para este martes 18 de agosto: las provincias afectadas",
-     "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-naranja-y-amarilla-por-tormentas-vientos-y-nevadas-para-este-martes-18-de-agosto-las-nid18082026/",
-     "source": "La Nación",
-     "published": "2026-08-18T03:01:00+00:00",
-     "copete": "El Servicio Meteorológico Nacional advirtió sobre posibles condiciones adversas en distintas regiones del país; en la Ciudad, la máxima será de 13°C",
-     "id": "64460d2a24e6"
-    },
-    {
-     "title": "Liderazgos y desmesura",
-     "link": "https://www.lanacion.com.ar/opinion/liderazgos-y-desmesura-nid18082026/",
-     "source": "La Nación",
-     "published": "2026-08-18T03:00:00+00:00",
-     "copete": "Los mayores desafíos del siglo XXI son de orden global y ningún país, por más poderoso que sea, puede abordarlos en soledad",
-     "id": "8129a40ef2bb"
-    },
-    {
-     "title": "Jeanie Buss impugnará el plan de sus hermanos de vender su participación minoritaria de los Lakers",
-     "link": "https://www.clarin.com/estados-unidos/jeanie-buss-impugnara-el-plan-de-sus-hermanos-de-vender-su-participacion-minoritaria-de-los-lakers_0_iVdT3T2KzH.html",
+     "title": "Rabindranath Tagore, filósofo indio: \"La persona alcanza más facilmente la felicidad si disfruta de las cosas sencillas que si busca las extraordinarias\"",
+     "link": "https://www.clarin.com/internacional/rabindranath-tagore-filosofo-indio-persona-alcanza-facilmente-felicidad-disfruta-cosas-sencillas-busca-extraordinarias_0_eta8e2OH22.html",
      "source": "Clarín",
-     "published": "2026-08-18T01:10:05+00:00",
-     "copete": "Jeanie Buss impugna la venta del 17.8% de la familia en los Lakers, argumentando que necesita mantener el 15% para seguir como propietaria controladora. Los hermanos Buss buscan vender a Kushner e Iger, lo que podría quitarle a Jeanie su…",
-     "id": "15cd80620b6c"
+     "published": "2026-08-18T04:27:48+00:00",
+     "copete": "El pensador indio, ganador del Premio Nobel de Literatura en 1913, dejó un legado que une a Oriente y Occidente.",
+     "id": "963adfcc1fe8"
     },
     {
-     "title": "Horóscopo de hoy, martes 18 de agosto: las predicciones para la salud, el amor y el dinero",
-     "link": "https://www.clarin.com/astrologia/horoscopo-hoy-martes-18-agosto-predicciones-salud-amor-dinero_0_80Bjv8i4oJ.html",
+     "title": "Gisela Lladó, cantante, 47 años: “La maternidad es tan grande que creo que la mente de la mujer, antes de ser madre, no lo puede ni imaginar”",
+     "link": "https://www.clarin.com/internacional/gisela-llado-cantante-47-anos-maternidad-grande-creo-mente-mujer-madre-puede-imaginar_0_Lym3IzifwO.html",
      "source": "Clarín",
-     "published": "2026-08-18T01:05:15+00:00",
-     "copete": "Conocé qué dice el horóscopo hoy para los signos del zodiaco en este día de la semana.",
-     "id": "5cae071e4787"
+     "published": "2026-08-18T04:27:48+00:00",
+     "copete": "La cantante y exconcursnte de 'Operación Triunfo 1' ha compartido en el pódcast '¡Hola, BB!' los momentos más duros de su experiencia como madre.",
+     "id": "c9cb73b00424"
+    },
+    {
+     "title": "Un tribunal dominicano condena a 30 años al hombre que mató por la espalda a un excapitán policial",
+     "link": "https://www.infobae.com/republica-dominicana/2026/08/18/un-tribunal-dominicano-condena-a-30-anos-al-hombre-que-mato-por-la-espalda-a-un-excapitan-policial/",
+     "source": "Infobae",
+     "published": "2026-08-18T04:26:50+00:00",
+     "copete": "La Procuraduría General de la República informó que Euris Yessiel Báez recibió la pena máxima por el homicidio agravado de Cantalicio Valdez Vallejo, un oficial retirado y abogado, ocurrido en San Cristóbal en 2022",
+     "id": "b730c13e349e"
+    },
+    {
+     "title": "Un grupo de ladrones irrumpió en la casa de una jubilada en La Matanza: la sometieron por una hora, la golpearon y le robaron",
+     "link": "https://www.lanacion.com.ar/seguridad/un-grupo-de-ladrones-irrumpio-en-la-casa-de-una-jubilada-en-la-matanza-la-sometieron-por-una-hora-la-nid17082026/",
+     "source": "La Nación",
+     "published": "2026-08-18T04:25:36+00:00",
+     "copete": "La banda entró al domicilio mientras la mujer dormía; la Policía aún no pudo dar con el paradero de los delincuentes",
+     "id": "2f648690bad2"
+    },
+    {
+     "title": "\"La ruta de nuestros impuestos\"",
+     "link": "https://www.clarin.com/cartas-al-pais/ruta-impuestos_0_GdslOIlZjo.html",
+     "source": "Clarín",
+     "published": "2026-08-18T04:19:48+00:00",
+     "id": "cb1f4abadf9e"
+    },
+    {
+     "title": "Rating: cuánto midió la gala de eliminación de Gran Hermano",
+     "link": "https://www.lanacion.com.ar/espectaculos/television/rating-cuanto-midio-la-gala-de-eliminacion-de-gran-hermano-nid18082026/",
+     "source": "La Nación",
+     "published": "2026-08-18T04:17:14+00:00",
+     "copete": "El reality de convivencia de Telefe fue seguido por más de 760.000 individuos según Ibope",
+     "id": "d36d1f940a59"
     }
    ]
   },
@@ -373,6 +399,38 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Ni OTAN islámica, ni pacto suní",
+     "link": "https://elpais.com/internacional/2026-08-18/ni-otan-islamica-ni-pacto-suni.html",
+     "source": "El País Internacional",
+     "published": "2026-08-18T03:30:01+00:00",
+     "copete": "El acuerdo de La Meca entre Arabia Saudí, Pakistán y Turquía es, por ahora, más político y estratégico que militar",
+     "id": "1fe926970ccb"
+    },
+    {
+     "title": "Las horas más bajas de Salvini, acorralado en su partido y presionado por el auge del ultra Vannacci",
+     "link": "https://elpais.com/internacional/2026-08-18/las-horas-mas-bajas-de-salvini-acorralado-en-su-partido-y-presionado-por-el-auge-del-ultra-vannacci.html",
+     "source": "El País Internacional",
+     "published": "2026-08-18T03:30:01+00:00",
+     "copete": "La Liga se replantea su rumbo tras años de pérdida de apoyos, con apenas un 5% de intención de voto",
+     "id": "b56f27f05cfe"
+    },
+    {
+     "title": "Sentencias contra el pacifismo en Rusia",
+     "link": "https://elpais.com/internacional/2026-08-18/sentencias-contra-el-pacifismo-en-rusia.html",
+     "source": "El País Internacional",
+     "published": "2026-08-18T03:30:01+00:00",
+     "copete": "El político Lev Schlosberg, del partido Yábloko, condenado a 11 años de cárcel por manifestarse contra la guerra",
+     "id": "b5d11a66edcf"
+    },
+    {
+     "title": "El ocaso del Tribunal Penal Internacional",
+     "link": "https://elpais.com/opinion/2026-08-18/el-ocaso-del-tribunal-penal-internacional.html",
+     "source": "El País Internacional",
+     "published": "2026-08-18T03:30:01+00:00",
+     "copete": "La orden de arresto de Netanyahu ha puesto de relieve la impotencia de la institución y su tendencia hacia una justicia selectiva",
+     "id": "ed5d008eda5c"
+    },
     {
      "title": "El pacto de La Meca: 4 claves para entender la \"OTAN musulmana\" creada por Turquía, Arabia Saudita y Pakistán",
      "link": "https://www.bbc.com/mundo/articles/cm2grvk85vlo?at_medium=RSS&at_campaign=rss",
@@ -420,38 +478,6 @@
      "published": "2026-08-17T22:08:34+00:00",
      "copete": "Tres décadas después del crimen más importante en la historia del hip-hop, empieza el primer juicio contra un acusado.",
      "id": "dec916e28b4a"
-    },
-    {
-     "title": "Muere a los 36 años Hayden Panettiere, actriz de las series \"Héroes\" y \"Nashville\"",
-     "link": "https://www.bbc.com/mundo/articles/cg5l96jnv37o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-17T21:28:46+00:00",
-     "copete": "Panettiere empezó su carrera actoral a los 4 años y su muerte ha causado shock en el gremio del entretenimiento.",
-     "id": "c9fc6954789d"
-    },
-    {
-     "title": "EN VIDEO Cómo funcionan las \"plumas\" para adelgazar que pueden cambiar la forma de entender la obesidad",
-     "link": "https://www.bbc.com/mundo/articles/c2lq87zp8x8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-17T21:12:15+00:00",
-     "copete": "Detrás de este cambio están medicamentos como Wegovy y Mounjaro, tratamientos que originalmente fueron desarrollados para la diabetes.",
-     "id": "2382cae168d6"
-    },
-    {
-     "title": "Las empresas de IA prometen que se trabajará menos, pero sus empleados dicen que tienen jornadas de 90 horas semanales",
-     "link": "https://www.bbc.com/mundo/articles/c9802y9lk76o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-17T20:59:25+00:00",
-     "copete": "Las empresas tecnológicas no están respaldando con hechos sus propias afirmaciones de que la tecnología proporciona a las personas más tiempo libre.",
-     "id": "496c593a1116"
-    },
-    {
-     "title": "El fin del conflicto se aleja tras expirar el acuerdo entre Estados Unidos e Irán",
-     "link": "https://elpais.com/internacional/2026-08-17/el-fin-del-conflicto-se-aleja-tras-expirar-el-acuerdo-entre-estados-unidos-e-iran.html",
-     "source": "El País Internacional",
-     "published": "2026-08-17T19:33:52+00:00",
-     "copete": "Washington amenaza con bombardear a su antiguo aliado Omán, que dialoga con Teherán para una reapertura del estrecho de Ormuz, el principal escollo en las negociaciones",
-     "id": "e1c9665bd8b5"
     }
    ]
   }
@@ -468,9 +494,9 @@
    "error": "HTTP Error 429: Too Many Requests"
   },
   {
-   "section": "cardiologia",
-   "feed": "NEJM Cardiología (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
+   "section": "ciencia_datos",
+   "feed": "Hacker News (100+ puntos)",
+   "error": "HTTP Error 502: Bad Gateway"
   }
  ]
 }

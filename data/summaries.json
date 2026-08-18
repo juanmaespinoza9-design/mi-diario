@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-08-18T10:05:00Z",
+  "generated_at": "2026-08-18T22:06:10Z",
   "summaries": {
+    "7136b15d9828": {
+      "resumen": "Breve nota de TCTMD sobre el rol creciente de África en los ensayos clínicos globales de cardiología, un continente históricamente subrepresentado en la investigación. Vale la pena porque diversificar dónde se hacen los estudios mejora la validez externa de los resultados que después aplicamos en la práctica.",
+      "destacado": false
+    },
+    "dfb75c0999e1": {
+      "resumen": "Nueva mirada al ensayo CLEAR Outcomes que muestra que el ácido bempedoico —hipolipemiante oral para pacientes intolerantes a las estatinas— también redujo los eventos vasculares en los miembros inferiores en el subgrupo con enfermedad arterial periférica (EAP). Interesa porque suma una opción más para bajar el colesterol LDL con beneficio cardiovascular extendido a la EAP, un territorio vascular históricamente poco estudiado en estos ensayos.",
+      "destacado": true,
+      "analisis": "Diseño: nota de TCTMD sobre un subanálisis (análisis de subgrupo) del ensayo CLEAR Outcomes, un ensayo clínico aleatorizado, doble ciego, multicéntrico, que evaluó ácido bempedoico frente a placebo en pacientes con intolerancia a estatinas; no se pudo acceder al abstract del subanálisis para precisar el número de pacientes del subgrupo con enfermedad arterial periférica (EAP).\nPoblación: subgrupo de pacientes del ensayo CLEAR Outcomes con enfermedad arterial periférica (EAP) al inicio del estudio, dentro de la población general de intolerantes a estatinas con alto riesgo cardiovascular.\nIntervención: ácido bempedoico versus placebo, agregado al tratamiento hipolipemiante habitual.\nResultados: no disponibles con precisión por falta de acceso al abstract; el título indica una reducción de eventos en los miembros inferiores con ácido bempedoico en este subgrupo.\nLimitaciones: al ser un análisis de subgrupo no preespecificado como principal, tiene menor poder estadístico y valor hipótesis-generador; sin la fuente primaria no es posible evaluar el ajuste estadístico ni la magnitud del efecto.\nMensaje: refuerza el rol del ácido bempedoico como alternativa hipolipemiante con beneficio cardiovascular que podría extenderse a la enfermedad arterial periférica, aunque conviene confirmar con la publicación completa antes de cambiar conductas.\nNota: análisis sin acceso al abstract."
+    },
+    "47050b116710": {
+      "resumen": "Episodio del podcast Rox Heart Radio de TCTMD que anticipa los temas centrales del próximo congreso de la Sociedad Europea de Cardiología (ESC) 2026. Sirve como agenda rápida de qué esperar en el evento científico más importante del año en cardiología europea.",
+      "destacado": false
+    },
     "3ce96bae7fac": {
       "resumen": "Investigación de TCTMD que compara la frecuencia de ectopía cardíaca (extrasístoles) en días con y sin consumo de cannabis, en los mismos pacientes con monitoreo ambulatorio del ritmo cardíaco. Vale la pena porque el consumo de cannabis crece y hay dudas sobre su seguridad cardiovascular; el hallazgo, contraintuitivo, cuestiona la idea de que el cannabis dispara arritmias.",
       "destacado": false,
@@ -11,15 +24,13 @@
       "destacado": false,
       "analisis": "Diseño: nota de TCTMD sobre un estudio, probablemente de cohorte observacional, que evalúa factores asociados a arritmias ventriculares graves en pacientes con prolapso de la válvula mitral; no se pudo acceder al artículo original para precisar si es prospectivo o retrospectivo, ni el número de centros o pacientes.\nPoblación: pacientes con prolapso de la válvula mitral, presumiblemente evaluados con resonancia magnética cardíaca para detectar fibrosis miocárdica y con seguimiento de eventos arrítmicos.\nIntervención: no hay una intervención terapéutica evaluada; es un estudio de asociación entre variables (sexo femenino, fibrosis miocárdica) y el desenlace arrítmico.\nResultados: no disponibles con precisión por falta de acceso al abstract; el título indica que el sexo femenino y la fibrosis se asociaron con mayor riesgo de arritmias ventriculares graves, sin magnitud precisada.\nLimitaciones: sin la fuente primaria no es posible valorar el método de cuantificación de la fibrosis, el tiempo de seguimiento ni el ajuste por otros factores de riesgo arrítmico ya conocidos en el prolapso mitral.\nMensaje: refuerza estratificar el riesgo arrítmico en el prolapso mitral más allá de la severidad de la regurgitación, incorporando sexo y hallazgos de fibrosis por resonancia; podría orientar una vigilancia más estrecha en pacientes seleccionados.\nNota: análisis sin acceso al abstract."
     },
-    "3e9ab9eca463": {
-      "resumen": "TCTMD reporta un estudio que evaluó si el puntaje de calcio coronario (CAC, calcium score) puede calcularse de forma precisa a partir de tomografías de tórax sin sincronización cardíaca (no gatilladas), habitualmente pedidas por otros motivos. Vale la pena porque, si se confirma, permitiría aprovechar millones de estudios de tórax ya realizados para estratificar riesgo cardiovascular sin exponer al paciente a radiación ni estudios adicionales.",
-      "destacado": false,
-      "analisis": "Diseño: nota periodística de TCTMD sobre un estudio de validación diagnóstica; no se dispone del diseño exacto (prospectivo/retrospectivo, número de centros y pacientes) porque no se pudo acceder al artículo original ni a un abstract en PubMed.\nPoblación: pacientes sometidos a tomografía de tórax no gatillada por indicaciones no cardíacas, en quienes se estimó el calcio coronario de forma retrospectiva sobre esas imágenes.\nIntervención: cuantificación del calcio coronario (CAC) derivado de TC de tórax sin gatillado cardíaco, comparado contra el estándar de TC cardíaca gatillada específica para score de calcio.\nResultados: no disponibles con precisión (no hay acceso al abstract); el título sugiere buena correlación/exactitud entre ambos métodos para predecir riesgo cardiovascular.\nLimitaciones: falta de acceso a la fuente primaria impide valorar el tamaño muestral, el método estadístico de concordancia y posibles sesgos de selección.\nMensaje: si se confirma en estudios prospectivos, oportunidad de \"cribado oportunista\" de riesgo cardiovascular reutilizando TC de tórax ya indicadas por otras razones (por ejemplo estudios oncológicos o de tamizaje pulmonar), sin necesidad de un estudio dedicado.\nNota: análisis sin acceso al abstract."
+    "246d3a0ac491": {
+      "resumen": "Documento conjunto del Colegio Americano de Cardiología (ACC) y la Asociación Americana del Corazón (AHA) que define medidas de desempeño y calidad clínica para el manejo de la fibrilación auricular. Vale la pena porque establece los indicadores con los que se va a evaluar la atención de estos pacientes en los próximos años.",
+      "destacado": false
     },
-    "609f5755d386": {
-      "resumen": "TCTMD cubre un estudio sobre el uso de telemedicina liderada por enfermeros de práctica avanzada (nurse practitioners) para el manejo del accidente cerebrovascular (ACV) agudo, como alternativa a la evaluación neurológica presencial o por médico a distancia. Interesa porque en muchos centros sin neurólogo vascular disponible las 24 horas, este modelo podría agilizar la decisión de trombolisis sin perder calidad de atención.",
-      "destacado": false,
-      "analisis": "Diseño: nota de TCTMD sobre un estudio (probablemente observacional o de implementación) que compara telemedicina para ACV agudo liderada por enfermeros de práctica avanzada frente al modelo tradicional; no se pudo acceder al artículo original para precisar diseño, número de centros ni de pacientes.\nPoblación: pacientes con sospecha de accidente cerebrovascular agudo evaluados por telemedicina en el servicio de urgencias.\nIntervención: evaluación y toma de decisiones (por ejemplo indicación de trombolisis) por enfermeros de práctica avanzada vía telemedicina, comparado con el modelo estándar (neurólogo vascular presencial o por telemedicina).\nResultados: no disponibles con precisión por falta de acceso al abstract; el título indica que la modalidad resultó una \"opción sólida\", sugiriendo resultados comparables al estándar.\nLimitaciones: sin la fuente primaria no es posible evaluar tiempos puerta-aguja, tasas de complicaciones ni el entrenamiento específico del personal de enfermería involucrado.\nMensaje: podría respaldar la ampliación de modelos de telemedicina liderados por enfermería para ACV agudo en centros con acceso limitado a neurología vascular, aunque conviene esperar confirmación con la publicación completa.\nNota: análisis sin acceso al abstract."
+    "7d7e3022b040": {
+      "resumen": "Revisión del European Heart Journal sobre la cardiopatía isquémica más allá de las estenosis coronarias obstructivas —el cuadro conocido como isquemia con arterias coronarias no obstructivas (INOCA) o angina microvascular—, desde la prevención hasta el tratamiento. Vale la pena porque es una entidad subdiagnosticada, más frecuente en mujeres, y esta puesta al día ayuda a sospecharla y manejarla en la consulta diaria.",
+      "destacado": false
     },
     "26455c500fd0": {
       "resumen": "Aviso de retiro temporal ('temporary removal') publicado en JACC (Journal of the American College of Cardiology) sobre un artículo que replanteaba la progresión de la enfermedad en la miocardiopatía amiloidótica por transtiretina (ATTR-CM, transthyretin amyloid cardiomyopathy). No se dispone del motivo del retiro ni del contenido original; se incluye solo como referencia bibliográfica, sin contenido clínico propio para analizar.",
@@ -29,66 +40,53 @@
       "resumen": "Fe de erratas publicada por el Journal of the American College of Cardiology (JACC) sobre un artículo previo; el título disponible (\"Correction\") no permite precisar a qué trabajo corrige. Se incluye solo como referencia bibliográfica, sin contenido clínico propio.",
       "destacado": false
     },
-    "7d7e3022b040": {
-      "resumen": "Revisión del European Heart Journal sobre la cardiopatía isquémica más allá de las estenosis coronarias obstructivas —el cuadro conocido como isquemia con arterias coronarias no obstructivas (INOCA) o angina microvascular—, desde la prevención hasta el tratamiento. Vale la pena porque es una entidad subdiagnosticada, más frecuente en mujeres, y esta puesta al día ayuda a sospecharla y manejarla en la consulta diaria.",
+    "d9a67e0d2f8f": {
+      "resumen": "El pilar regresa a la convocatoria del seleccionado argentino de rugby para la doble fecha ante los Wallabies en Jujuy y Mendoza."
+    },
+    "0f39579df942": {
+      "resumen": "El cierre de una histórica fábrica textil con un exjugador de Los Pumas entre sus socios dejó un discurso de despedida cargado de crítica hacia el voto de los trabajadores."
+    },
+    "49de5a424b94": {
+      "resumen": "Un excampeón mundial de rugby advirtió a la selección australiana sobre la fortaleza en el juego físico del seleccionado argentino de cara al choque en Jujuy y Mendoza."
+    },
+    "2cd0ffaa42a1": {
+      "resumen": "Artículo de opinión, muy votado en Hacker News, que plantea que Noruega —a través de su fondo soberano, uno de los más grandes del mundo— debería comprar OpenAI para asegurar gobernanza pública sobre una de las empresas de inteligencia artificial más influyentes. Aporta una perspectiva sobre los debates de control y regulación de las empresas que desarrollan los modelos de IA que hoy se usan en análisis de datos.",
       "destacado": false
     },
-    "d98a9496e7fd": {
-      "resumen": "Entrega de la serie \"On Record\" de TCTMD, con formato de entrevista o debate, que discute si las estrategias de detección y tratamiento sistemático de la estenosis aórtica (AS, aortic stenosis) realmente funcionan en la práctica. Vale la pena por la mirada crítica sobre programas de pesquisa de una valvulopatía frecuente y subdiagnosticada en adultos mayores.",
+    "5ddb5344b10d": {
+      "resumen": "Nota curiosa, muy votada en Hacker News, sobre el sistema interno que usa IKEA para nombrar sus productos según categoría. No trata de inteligencia artificial ni de ciencia de datos, pero interesa como ejemplo de un sistema de clasificación y nomenclatura a gran escala, un problema afín al de organizar bases de datos.",
       "destacado": false
     },
-    "a1fc649f9735": {
-      "resumen": "Artículo de perspectiva en JACC que analiza la brecha entre la evidencia de los ensayos clínicos con agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1) y su implementación real en la prevención cardiovascular. Sirve para pensar por qué, pese a los resultados positivos, estos fármacos siguen subutilizados en la práctica diaria.",
-      "destacado": true,
-      "analisis": "Diseño: artículo de perspectiva/análisis publicado en JACC (Journal of the American College of Cardiology) sobre la brecha de implementación de los agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1) en prevención cardiovascular; no se trata de un ensayo clínico original, sino de una revisión crítica posterior a los grandes ensayos.\nPoblación: no aplica un criterio de inclusión/exclusión de pacientes individuales; el foco son los pacientes con enfermedad cardiovascular aterosclerótica y/u obesidad que serían candidatos a agonistas del receptor de GLP-1 según la evidencia de los ensayos ya publicados.\nIntervención: no evalúa una intervención nueva; analiza por qué la prescripción real de agonistas del receptor de GLP-1 sigue siendo baja pese a los beneficios cardiovasculares demostrados en ensayos previos.\nResultados: no se dispone de cifras propias (no es un estudio con datos originales) y no se pudo acceder al abstract completo para precisar qué brechas cuantifica.\nLimitaciones: al ser un artículo de opinión/perspectiva, sus conclusiones no surgen de datos originales propios sino de la síntesis de literatura existente y la mirada de los autores.\nMensaje: llama la atención sobre la distancia entre la evidencia de los ensayos clínicos con agonistas del receptor de GLP-1 y su uso real en prevención cardiovascular, con foco en barreras de acceso, costo y prescripción.\nNota: análisis sin acceso al abstract."
-    },
-    "d7607cc1e7dd": {
-      "resumen": "A 20 años de la renuncia masiva de Los Pumas, un repaso de cómo aquel conflicto derivó en el histórico bronce mundial."
-    },
-    "da51129093b6": {
-      "resumen": "Hilo de la comunidad r/datascience sobre cómo prepararse para entrevistas técnicas de ciencia de datos. Útil para quien está en transición hacia el análisis de datos porque da una idea de qué tipo de preguntas y exigencias esperan los procesos de selección del rubro.",
+    "af3d9b9037a9": {
+      "resumen": "Proyecto de código abierto en Rust que reimplementa TurboQuant, la técnica de cuantización de vectores de Google para acelerar la búsqueda de similitud (vector search). Le sirve a quien se inicia en ciencia de datos porque el vector search es la base de los sistemas de recuperación aumentada (RAG) que hoy sostienen muchas aplicaciones de inteligencia artificial.",
       "destacado": false
     },
-    "b2afd0d3a37e": {
-      "resumen": "Artículo de Towards Data Science que argumenta que los agentes de inteligencia artificial que navegan la web deberían generar código para interactuar con las páginas en vez de simular clics, por ser más confiable y reproducible. Aporta una idea clave para quien programa: automatizar tareas repetitivas de extracción de datos (web scraping) con código es más robusto que depender de agentes que \"clickean\" como un humano.",
+    "3be58384477c": {
+      "resumen": "Estudio publicado en una revista de la ASME (American Society of Mechanical Engineers) que mide cómo el calor residual de los centros de datos eleva hasta 4 grados la temperatura del entorno urbano en Phoenix. Le sirve a quien trabaja con infraestructura de datos para dimensionar el costo ambiental real del cómputo intensivo que exige entrenar y correr modelos de inteligencia artificial.",
       "destacado": false
     },
-    "8933d03c7eac": {
-      "resumen": "Investigación del blog de Simon Willison (referente en inteligencia artificial) que rastreó un cargamento de libros raros hasta un centro de entrenamiento de IA de Amazon, exponiendo cómo se consiguen datos para entrenar modelos de lenguaje. Interesa porque muestra, con un caso concreto, de dónde sale realmente la materia prima (datos) que alimenta a la IA que hoy se usa en análisis y automatización.",
+    "ab65061b26b3": {
+      "resumen": "Artículo técnico de Towards Data Science sobre cómo construir las capas de seguridad, gobernanza y responsabilidad (Responsible AI) necesarias para llevar agentes de inteligencia artificial de un prototipo a un entorno de producción empresarial. Aporta un mapa práctico de los controles que hay que sumar antes de confiar una tarea real a un agente automatizado.",
+      "destacado": false
+    },
+    "2ddc12be3b7a": {
+      "resumen": "Publicación de la comunidad r/datascience donde un usuario cuenta una mala experiencia en un proceso de entrevistas técnicas para un puesto de ciencia de datos. Sirve para quien está en transición hacia el análisis de datos porque muestra, de primera mano, las frustraciones típicas de estos procesos de selección.",
+      "destacado": false
+    },
+    "1ae4be9afa07": {
+      "resumen": "Artículo de Towards Data Science que resume cinco principios para que un sistema de agentes de inteligencia artificial funcione de forma confiable en producción, basado en un caso real implementado en una empresa de más de 100 millones de dólares de facturación. Aporta criterios concretos de diseño útiles para evaluar o construir herramientas de IA en un entorno de trabajo real.",
+      "destacado": false
+    },
+    "c8ebfc660ddc": {
+      "resumen": "Guía práctica de KDnuggets para instalar y correr de forma local, con solo tres comandos, el modelo de lenguaje Qwen3.8 de 27.000 millones de parámetros como asistente de programación. Le sirve a un médico que se inicia en análisis de datos porque muestra que hoy se puede tener un asistente de inteligencia artificial corriendo en la propia computadora, sin depender de servicios pagos en la nube.",
+      "destacado": false
+    },
+    "1c6cfd0b9050": {
+      "resumen": "Artículo de Towards Data Science que muestra, con un experimento controlado y reproducible de 50 corridas, que agregar más conexiones de comunicación entre agentes de inteligencia artificial no mejora necesariamente su desempeño conjunto: la capacidad de recuperación ante errores se mantuvo estable aun variando la densidad de la red del 20% al 100%. Aporta una lección de diseño de sistemas multiagente, útil para pensar cómo estructurar flujos de trabajo automatizados con IA.",
       "destacado": true
     },
-    "3fd8613df3cc": {
-      "resumen": "Artículo técnico de Towards Data Science sobre la evolución del autoescalado de infraestructura (autoscaling) en tres generaciones, y por qué el tráfico generado por agentes autónomos de inteligencia artificial desafía a todas ellas. Útil para entender, a nivel conceptual, los desafíos de infraestructura que trae la adopción de IA agéntica en sistemas de datos.",
-      "destacado": false
-    },
-    "61b05ae598d2": {
-      "resumen": "Guía práctica de KDnuggets sobre los usos reales de los modelos de lenguaje pequeños (small language models), más livianos y económicos que los grandes modelos como GPT. Le sirve a un médico que se inicia en análisis de datos porque plantea alternativas accesibles para tareas de procesamiento de texto sin necesitar infraestructura costosa.",
-      "destacado": false
-    },
-    "5c3f44133864": {
-      "resumen": "Un jugador de Los Pumas quedó ubicado entre los cinco mejores del mundo en su puesto, según un ranking especializado."
-    },
-    "ba50fccbf507": {
-      "resumen": "Santiago Pernas repasó su debut en Los Pumas y se quedó con un balance positivo pese a los nervios del estreno."
-    },
-    "1999067b9617": {
-      "resumen": "El modelo de código abierto Qwen 3.8, de 27.000 millones de parámetros, obtuvo 52 puntos en el índice comparativo Artificial Analysis Intelligence Index, que mide el desempeño de distintos modelos de inteligencia artificial. Igualó a modelos comerciales mucho más grandes (con cientos de miles de millones de parámetros), lo que sirve como referencia rápida de qué tan competitivos son hoy los modelos livianos y de acceso abierto a la hora de elegir herramientas de IA para trabajar con datos.",
-      "destacado": false
-    },
-    "b5f54d5d83c4": {
-      "resumen": "Publicación de Hacker News (con más de 100 puntos) sobre los \"Repair Cafe\", encuentros comunitarios donde voluntarios ayudan a reparar objetos rotos en vez de descartarlos. No es un tema de inteligencia artificial ni de análisis de datos; aparece en la sección por ser una de las noticias más votadas del día en esa comunidad tecnológica.",
-      "destacado": false
-    },
-    "e881d65294e0": {
-      "resumen": "Artículo técnico de Hacker News sobre cómo la red social Bluesky superpone su logo de forma automática en las capturas de pantalla compartidas desde la aplicación. Aporta una idea aplicable al procesamiento de imágenes con código: cómo detectar y modificar programáticamente un archivo gráfico antes de que se comparta.",
-      "destacado": false
-    },
-    "60d29d18b8a2": {
-      "resumen": "Nota de Hacker News sobre cómo el equipo de Quake tuvo que ajustar el contenido del CD-ROM de la versión shareware del videojuego para que entrara en el espacio disponible. Es una historia de ingeniería y optimización de recursos más que de inteligencia artificial, pero ilustra restricciones técnicas clásicas (compresión, límites de almacenamiento) con las que también lidia quien trabaja con grandes volúmenes de datos.",
-      "destacado": false
-    },
-    "8c07ece6556f": {
-      "resumen": "Publicación de Hacker News sobre cómo lograron hacer funcionar la cámara principal del teléfono Fairphone 6 bajo PostmarketOS, un sistema operativo móvil de código abierto alternativo a Android. Es un tema de hardware y software libre más que de ciencia de datos, aunque interesa a quien sigue el ecosistema de tecnología abierta.",
+    "bdd3d04db058": {
+      "resumen": "Balance de KDnuggets sobre el \"vibe coding\" —programar delegando gran parte del código a un asistente de inteligencia artificial guiado por instrucciones en lenguaje natural—, con cinco aciertos y cinco riesgos de esta forma de trabajo. Le sirve a quien se inicia en análisis de datos para entender dónde conviene apoyarse en la IA para programar y dónde todavía hace falta revisión humana.",
       "destacado": false
     }
   }

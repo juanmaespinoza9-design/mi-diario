@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T22:06:10Z",
+  "generated_at": "2026-08-19T10:04:48Z",
   "summaries": {
     "7136b15d9828": {
       "resumen": "Breve nota de TCTMD sobre el rol creciente de África en los ensayos clínicos globales de cardiología, un continente históricamente subrepresentado en la investigación. Vale la pena porque diversificar dónde se hacen los estudios mejora la validez externa de los resultados que después aplicamos en la práctica.",
@@ -9,10 +9,6 @@
       "resumen": "Nueva mirada al ensayo CLEAR Outcomes que muestra que el ácido bempedoico —hipolipemiante oral para pacientes intolerantes a las estatinas— también redujo los eventos vasculares en los miembros inferiores en el subgrupo con enfermedad arterial periférica (EAP). Interesa porque suma una opción más para bajar el colesterol LDL con beneficio cardiovascular extendido a la EAP, un territorio vascular históricamente poco estudiado en estos ensayos.",
       "destacado": true,
       "analisis": "Diseño: nota de TCTMD sobre un subanálisis (análisis de subgrupo) del ensayo CLEAR Outcomes, un ensayo clínico aleatorizado, doble ciego, multicéntrico, que evaluó ácido bempedoico frente a placebo en pacientes con intolerancia a estatinas; no se pudo acceder al abstract del subanálisis para precisar el número de pacientes del subgrupo con enfermedad arterial periférica (EAP).\nPoblación: subgrupo de pacientes del ensayo CLEAR Outcomes con enfermedad arterial periférica (EAP) al inicio del estudio, dentro de la población general de intolerantes a estatinas con alto riesgo cardiovascular.\nIntervención: ácido bempedoico versus placebo, agregado al tratamiento hipolipemiante habitual.\nResultados: no disponibles con precisión por falta de acceso al abstract; el título indica una reducción de eventos en los miembros inferiores con ácido bempedoico en este subgrupo.\nLimitaciones: al ser un análisis de subgrupo no preespecificado como principal, tiene menor poder estadístico y valor hipótesis-generador; sin la fuente primaria no es posible evaluar el ajuste estadístico ni la magnitud del efecto.\nMensaje: refuerza el rol del ácido bempedoico como alternativa hipolipemiante con beneficio cardiovascular que podría extenderse a la enfermedad arterial periférica, aunque conviene confirmar con la publicación completa antes de cambiar conductas.\nNota: análisis sin acceso al abstract."
-    },
-    "47050b116710": {
-      "resumen": "Episodio del podcast Rox Heart Radio de TCTMD que anticipa los temas centrales del próximo congreso de la Sociedad Europea de Cardiología (ESC) 2026. Sirve como agenda rápida de qué esperar en el evento científico más importante del año en cardiología europea.",
-      "destacado": false
     },
     "3ce96bae7fac": {
       "resumen": "Investigación de TCTMD que compara la frecuencia de ectopía cardíaca (extrasístoles) en días con y sin consumo de cannabis, en los mismos pacientes con monitoreo ambulatorio del ritmo cardíaco. Vale la pena porque el consumo de cannabis crece y hay dudas sobre su seguridad cardiovascular; el hallazgo, contraintuitivo, cuestiona la idea de que el cannabis dispara arritmias.",
@@ -40,31 +36,6 @@
       "resumen": "Fe de erratas publicada por el Journal of the American College of Cardiology (JACC) sobre un artículo previo; el título disponible (\"Correction\") no permite precisar a qué trabajo corrige. Se incluye solo como referencia bibliográfica, sin contenido clínico propio.",
       "destacado": false
     },
-    "d9a67e0d2f8f": {
-      "resumen": "El pilar regresa a la convocatoria del seleccionado argentino de rugby para la doble fecha ante los Wallabies en Jujuy y Mendoza."
-    },
-    "0f39579df942": {
-      "resumen": "El cierre de una histórica fábrica textil con un exjugador de Los Pumas entre sus socios dejó un discurso de despedida cargado de crítica hacia el voto de los trabajadores."
-    },
-    "49de5a424b94": {
-      "resumen": "Un excampeón mundial de rugby advirtió a la selección australiana sobre la fortaleza en el juego físico del seleccionado argentino de cara al choque en Jujuy y Mendoza."
-    },
-    "2cd0ffaa42a1": {
-      "resumen": "Artículo de opinión, muy votado en Hacker News, que plantea que Noruega —a través de su fondo soberano, uno de los más grandes del mundo— debería comprar OpenAI para asegurar gobernanza pública sobre una de las empresas de inteligencia artificial más influyentes. Aporta una perspectiva sobre los debates de control y regulación de las empresas que desarrollan los modelos de IA que hoy se usan en análisis de datos.",
-      "destacado": false
-    },
-    "5ddb5344b10d": {
-      "resumen": "Nota curiosa, muy votada en Hacker News, sobre el sistema interno que usa IKEA para nombrar sus productos según categoría. No trata de inteligencia artificial ni de ciencia de datos, pero interesa como ejemplo de un sistema de clasificación y nomenclatura a gran escala, un problema afín al de organizar bases de datos.",
-      "destacado": false
-    },
-    "af3d9b9037a9": {
-      "resumen": "Proyecto de código abierto en Rust que reimplementa TurboQuant, la técnica de cuantización de vectores de Google para acelerar la búsqueda de similitud (vector search). Le sirve a quien se inicia en ciencia de datos porque el vector search es la base de los sistemas de recuperación aumentada (RAG) que hoy sostienen muchas aplicaciones de inteligencia artificial.",
-      "destacado": false
-    },
-    "3be58384477c": {
-      "resumen": "Estudio publicado en una revista de la ASME (American Society of Mechanical Engineers) que mide cómo el calor residual de los centros de datos eleva hasta 4 grados la temperatura del entorno urbano en Phoenix. Le sirve a quien trabaja con infraestructura de datos para dimensionar el costo ambiental real del cómputo intensivo que exige entrenar y correr modelos de inteligencia artificial.",
-      "destacado": false
-    },
     "ab65061b26b3": {
       "resumen": "Artículo técnico de Towards Data Science sobre cómo construir las capas de seguridad, gobernanza y responsabilidad (Responsible AI) necesarias para llevar agentes de inteligencia artificial de un prototipo a un entorno de producción empresarial. Aporta un mapa práctico de los controles que hay que sumar antes de confiar una tarea real a un agente automatizado.",
       "destacado": false
@@ -85,9 +56,38 @@
       "resumen": "Artículo de Towards Data Science que muestra, con un experimento controlado y reproducible de 50 corridas, que agregar más conexiones de comunicación entre agentes de inteligencia artificial no mejora necesariamente su desempeño conjunto: la capacidad de recuperación ante errores se mantuvo estable aun variando la densidad de la red del 20% al 100%. Aporta una lección de diseño de sistemas multiagente, útil para pensar cómo estructurar flujos de trabajo automatizados con IA.",
       "destacado": true
     },
-    "bdd3d04db058": {
-      "resumen": "Balance de KDnuggets sobre el \"vibe coding\" —programar delegando gran parte del código a un asistente de inteligencia artificial guiado por instrucciones en lenguaje natural—, con cinco aciertos y cinco riesgos de esta forma de trabajo. Le sirve a quien se inicia en análisis de datos para entender dónde conviene apoyarse en la IA para programar y dónde todavía hace falta revisión humana.",
+    "27140889b249": {
+      "resumen": "Cobertura de TCTMD sobre el documento conjunto del Colegio Americano de Cardiología (ACC) y la Asociación Americana del Corazón (AHA) que actualiza las medidas de desempeño y calidad clínica para la fibrilación auricular. Vale la pena porque resume, en formato de noticia, los mismos indicadores con los que se va a auditar la atención de estos pacientes.",
       "destacado": false
+    },
+    "b72e1bdcc78d": {
+      "resumen": "Nota de The Economist, muy votada en Hacker News, que compara el juicio millonario que enfrenta Meta por el diseño adictivo de sus redes sociales con los litigios históricos contra las tabacaleras. Aporta contexto sobre cómo la Justicia empieza a exigir cuentas por el uso de datos de comportamiento para maximizar el enganche, un tema relevante para quien piensa en la ética del análisis de datos aplicado a personas.",
+      "destacado": false
+    },
+    "dcdbdd3ed1b2": {
+      "resumen": "Proyecto de código abierto llamado OpenLogi, destacado en Hacker News, sin más detalle disponible que su nombre y su sitio. A falta de más información, interesa como ejemplo del ecosistema de herramientas abiertas que circula en la comunidad de datos y tecnología; conviene revisar la fuente original antes de sacar conclusiones.",
+      "destacado": false
+    },
+    "5fe3a01f1692": {
+      "resumen": "Cobertura de la BBC, muy votada en Hacker News, sobre datos que muestran una recuperación inesperada en la función pulmonar de chicos que viven en la zona de bajas emisiones (ultra low emission zone) de Londres. Le sirve a un médico que aprende análisis de datos porque es un ejemplo de cómo el monitoreo poblacional longitudinal permite medir el impacto real de una política pública sobre la salud.",
+      "destacado": false
+    },
+    "c0e4bffc1619": {
+      "resumen": "Anuncio del CS-4, el nuevo chip acelerador de inteligencia artificial de Cerebras, discutido en Hacker News. Le sirve a quien se inicia en ciencia de datos para entender hacia dónde avanza el hardware que sostiene el entrenamiento y la inferencia de los modelos de inteligencia artificial que hoy se usan en análisis de datos.",
+      "destacado": false
+    },
+    "fe6793f58b70": {
+      "resumen": "Simon Willison repasa la apertura del código fuente de Mojo, el lenguaje de programación pensado para acelerar cargas de trabajo de inteligencia artificial, tras alcanzar su versión 1.0. Le sirve a quien aprende análisis de datos porque es una alternativa a Python que promete mayor velocidad para el mismo tipo de tareas numéricas y de IA.",
+      "destacado": false
+    },
+    "14de748c72c7": {
+      "resumen": "El seleccionado argentino de rugby recupera a una pieza clave de cara al choque ante los Wallabies."
+    },
+    "61d7b36dc966": {
+      "resumen": "Jujuy se prepara para la fiesta del partido entre Los Pumas y los Wallabies, previsto para el 23 de agosto."
+    },
+    "3707227a044e": {
+      "resumen": "Los jugadores australianos Ikitau y Suaalii vuelven a la convocatoria de los Wallabies para la gira por la Argentina."
     }
   }
 }

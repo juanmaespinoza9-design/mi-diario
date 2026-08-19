@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T10:04:48Z",
+  "generated_at": "2026-08-19T22:06:51Z",
   "summaries": {
     "7136b15d9828": {
       "resumen": "Breve nota de TCTMD sobre el rol creciente de África en los ensayos clínicos globales de cardiología, un continente históricamente subrepresentado en la investigación. Vale la pena porque diversificar dónde se hacen los estudios mejora la validez externa de los resultados que después aplicamos en la práctica.",
@@ -10,84 +10,73 @@
       "destacado": true,
       "analisis": "Diseño: nota de TCTMD sobre un subanálisis (análisis de subgrupo) del ensayo CLEAR Outcomes, un ensayo clínico aleatorizado, doble ciego, multicéntrico, que evaluó ácido bempedoico frente a placebo en pacientes con intolerancia a estatinas; no se pudo acceder al abstract del subanálisis para precisar el número de pacientes del subgrupo con enfermedad arterial periférica (EAP).\nPoblación: subgrupo de pacientes del ensayo CLEAR Outcomes con enfermedad arterial periférica (EAP) al inicio del estudio, dentro de la población general de intolerantes a estatinas con alto riesgo cardiovascular.\nIntervención: ácido bempedoico versus placebo, agregado al tratamiento hipolipemiante habitual.\nResultados: no disponibles con precisión por falta de acceso al abstract; el título indica una reducción de eventos en los miembros inferiores con ácido bempedoico en este subgrupo.\nLimitaciones: al ser un análisis de subgrupo no preespecificado como principal, tiene menor poder estadístico y valor hipótesis-generador; sin la fuente primaria no es posible evaluar el ajuste estadístico ni la magnitud del efecto.\nMensaje: refuerza el rol del ácido bempedoico como alternativa hipolipemiante con beneficio cardiovascular que podría extenderse a la enfermedad arterial periférica, aunque conviene confirmar con la publicación completa antes de cambiar conductas.\nNota: análisis sin acceso al abstract."
     },
-    "3ce96bae7fac": {
-      "resumen": "Investigación de TCTMD que compara la frecuencia de ectopía cardíaca (extrasístoles) en días con y sin consumo de cannabis, en los mismos pacientes con monitoreo ambulatorio del ritmo cardíaco. Vale la pena porque el consumo de cannabis crece y hay dudas sobre su seguridad cardiovascular; el hallazgo, contraintuitivo, cuestiona la idea de que el cannabis dispara arritmias.",
-      "destacado": false,
-      "analisis": "Diseño: nota de TCTMD sobre un estudio que compara la ectopía cardíaca (extrasístoles auriculares o ventriculares) en días de consumo de cannabis frente a días sin consumo, en los mismos pacientes, probablemente mediante monitoreo ambulatorio prolongado; no se pudo acceder al artículo original para precisar si es un diseño de cohorte o autocontrolado (case-crossover), ni el número de centros o pacientes.\nPoblación: personas usuarias de cannabis con registro ambulatorio de ritmo cardíaco que permite comparar días de consumo contra días sin consumo.\nIntervención: consumo de cannabis en un día dado, comparado contra días sin consumo, en una comparación intrapersonal.\nResultados: no disponibles con precisión por falta de acceso al abstract; el título indica menor incidencia de ectopía cardíaca en los días de consumo.\nLimitaciones: sin la fuente primaria no es posible evaluar el método de constatación del consumo (autorreporte vs. objetivo), posibles factores de confusión (actividad física, estrés, otras sustancias) ni el tipo de dispositivo de monitoreo.\nMensaje: hallazgo llamativo que no debería traducirse en un cambio de conducta clínica sin ver la publicación completa; no avala recomendar ni desaconsejar el consumo de cannabis por motivos arrítmicos.\nNota: análisis sin acceso al abstract."
-    },
-    "4eed604d7496": {
-      "resumen": "Estudio de TCTMD que asocia el sexo femenino y la fibrosis miocárdica (detectada por resonancia magnética cardíaca) con arritmias ventriculares graves en pacientes con prolapso de la válvula mitral. Vale la pena porque el prolapso mitral arritmogénico es una causa de muerte súbita poco reconocida, y esto ayuda a identificar mejor a los pacientes de alto riesgo.",
-      "destacado": false,
-      "analisis": "Diseño: nota de TCTMD sobre un estudio, probablemente de cohorte observacional, que evalúa factores asociados a arritmias ventriculares graves en pacientes con prolapso de la válvula mitral; no se pudo acceder al artículo original para precisar si es prospectivo o retrospectivo, ni el número de centros o pacientes.\nPoblación: pacientes con prolapso de la válvula mitral, presumiblemente evaluados con resonancia magnética cardíaca para detectar fibrosis miocárdica y con seguimiento de eventos arrítmicos.\nIntervención: no hay una intervención terapéutica evaluada; es un estudio de asociación entre variables (sexo femenino, fibrosis miocárdica) y el desenlace arrítmico.\nResultados: no disponibles con precisión por falta de acceso al abstract; el título indica que el sexo femenino y la fibrosis se asociaron con mayor riesgo de arritmias ventriculares graves, sin magnitud precisada.\nLimitaciones: sin la fuente primaria no es posible valorar el método de cuantificación de la fibrosis, el tiempo de seguimiento ni el ajuste por otros factores de riesgo arrítmico ya conocidos en el prolapso mitral.\nMensaje: refuerza estratificar el riesgo arrítmico en el prolapso mitral más allá de la severidad de la regurgitación, incorporando sexo y hallazgos de fibrosis por resonancia; podría orientar una vigilancia más estrecha en pacientes seleccionados.\nNota: análisis sin acceso al abstract."
-    },
-    "246d3a0ac491": {
-      "resumen": "Documento conjunto del Colegio Americano de Cardiología (ACC) y la Asociación Americana del Corazón (AHA) que define medidas de desempeño y calidad clínica para el manejo de la fibrilación auricular. Vale la pena porque establece los indicadores con los que se va a evaluar la atención de estos pacientes en los próximos años.",
+    "27140889b249": {
+      "resumen": "Cobertura de TCTMD sobre el documento conjunto del Colegio Americano de Cardiología (ACC) y la Asociación Americana del Corazón (AHA) que actualiza las medidas de desempeño y calidad clínica para la fibrilación auricular. Vale la pena porque resume, en formato de noticia, los mismos indicadores con los que se va a auditar la atención de estos pacientes.",
       "destacado": false
     },
     "7d7e3022b040": {
       "resumen": "Revisión del European Heart Journal sobre la cardiopatía isquémica más allá de las estenosis coronarias obstructivas —el cuadro conocido como isquemia con arterias coronarias no obstructivas (INOCA) o angina microvascular—, desde la prevención hasta el tratamiento. Vale la pena porque es una entidad subdiagnosticada, más frecuente en mujeres, y esta puesta al día ayuda a sospecharla y manejarla en la consulta diaria.",
       "destacado": false
     },
-    "26455c500fd0": {
-      "resumen": "Aviso de retiro temporal ('temporary removal') publicado en JACC (Journal of the American College of Cardiology) sobre un artículo que replanteaba la progresión de la enfermedad en la miocardiopatía amiloidótica por transtiretina (ATTR-CM, transthyretin amyloid cardiomyopathy). No se dispone del motivo del retiro ni del contenido original; se incluye solo como referencia bibliográfica, sin contenido clínico propio para analizar.",
-      "destacado": false
+    "ac2829e527c1": {
+      "resumen": "Nota de TCTMD sobre la composición de los comités que dirigen los ensayos clínicos de cardiología estructural (por ejemplo, reemplazo valvular percutáneo): las mujeres siguen subrepresentadas en esos cargos de liderazgo. Vale la pena porque quién decide el diseño y la conducción de un ensayo también influye en qué preguntas se investigan y cómo se interpretan los resultados.",
+      "destacado": false,
+      "analisis": "Diseño: nota de TCTMD sobre un análisis, probablemente transversal, de la composición por sexo de los comités directivos (steering committees) de ensayos clínicos de cardiología estructural; no se pudo acceder al artículo original para precisar la cantidad de ensayos o comités relevados ni el período analizado.\nPoblación: comités de dirección y liderazgo de ensayos clínicos de intervenciones estructurales cardíacas (por ejemplo, reemplazo valvular aórtico transcatéter, reparación valvular percutánea).\nIntervención: no aplica; es un estudio descriptivo/observacional sobre representación de género, sin intervención terapéutica.\nResultados: no disponibles con precisión por falta de acceso al abstract; el título indica que la subrepresentación femenina persiste en estos comités.\nLimitaciones: sin la fuente primaria no es posible valorar la metodología de conteo, el período cubierto ni si se ajustó por especialidad o país de origen de los ensayos.\nMensaje: refuerza la necesidad de diversificar el liderazgo de los ensayos de cardiología estructural, lo que podría mejorar la relevancia de las preguntas de investigación para las pacientes mujeres.\nNota: análisis sin acceso al abstract."
     },
-    "b1d14f57a216": {
-      "resumen": "Fe de erratas publicada por el Journal of the American College of Cardiology (JACC) sobre un artículo previo; el título disponible (\"Correction\") no permite precisar a qué trabajo corrige. Se incluye solo como referencia bibliográfica, sin contenido clínico propio.",
-      "destacado": false
+    "3f8800b773f8": {
+      "resumen": "Artículo de TCTMD sobre cómo aplicar en la práctica diaria la evidencia sobre soporte hemodinámico mecánico (como balón de contrapulsación intraaórtico o dispositivos de asistencia ventricular percutánea) en pacientes de alto riesgo que van a una angioplastia coronaria. Vale la pena porque estos pacientes complejos son cada vez más frecuentes en la sala de hemodinamia y todavía genera debate cuándo conviene usar soporte."
     },
-    "ab65061b26b3": {
-      "resumen": "Artículo técnico de Towards Data Science sobre cómo construir las capas de seguridad, gobernanza y responsabilidad (Responsible AI) necesarias para llevar agentes de inteligencia artificial de un prototipo a un entorno de producción empresarial. Aporta un mapa práctico de los controles que hay que sumar antes de confiar una tarea real a un agente automatizado.",
-      "destacado": false
+    "4a6f912100bd": {
+      "resumen": "Artículo del Journal of the American College of Cardiology (JACC) que repasa el rol vigente de la miectomía septal quirúrgica en la miocardiopatía hipertrófica obstructiva sintomática, 65 años después de su primera descripción, e incluye las innovaciones técnicas recientes. Vale la pena porque, pese a la llegada de los inhibidores de la miosina cardíaca, la cirugía sigue siendo la opción definitiva en casos seleccionados y conviene tener actualizado el criterio de derivación."
     },
-    "2ddc12be3b7a": {
-      "resumen": "Publicación de la comunidad r/datascience donde un usuario cuenta una mala experiencia en un proceso de entrevistas técnicas para un puesto de ciencia de datos. Sirve para quien está en transición hacia el análisis de datos porque muestra, de primera mano, las frustraciones típicas de estos procesos de selección.",
-      "destacado": false
+    "41b7a2bf08ad": {
+      "resumen": "Perspectiva del Journal of the American College of Cardiology (JACC) sobre la miocardiopatía hipertrófica: plantea que la enfermedad entra en una nueva era farmacológica gracias a los inhibidores de la miosina cardíaca, pero que además hoy tiene baja mortalidad y una expectativa de vida cercana a la de la población general cuando se trata bien. Vale la pena porque cambia el mensaje que se le da al paciente en el consultorio, de una enfermedad temida a una condición manejable a largo plazo."
     },
-    "1ae4be9afa07": {
-      "resumen": "Artículo de Towards Data Science que resume cinco principios para que un sistema de agentes de inteligencia artificial funcione de forma confiable en producción, basado en un caso real implementado en una empresa de más de 100 millones de dólares de facturación. Aporta criterios concretos de diseño útiles para evaluar o construir herramientas de IA en un entorno de trabajo real.",
-      "destacado": false
+    "e274e77b6116": {
+      "resumen": "Editorial del Journal of the American College of Cardiology (JACC), a cargo de Krumholz HM y colaboradores, que argumenta por qué la cardiología ambiental —el impacto de la contaminación del aire y otros factores ambientales sobre el sistema cardiovascular— merece un lugar central en la revista y en la práctica clínica. Vale la pena porque plantea la exposición ambiental como un factor de riesgo cardiovascular modificable a nivel poblacional, más allá de los factores clásicos."
     },
-    "c8ebfc660ddc": {
-      "resumen": "Guía práctica de KDnuggets para instalar y correr de forma local, con solo tres comandos, el modelo de lenguaje Qwen3.8 de 27.000 millones de parámetros como asistente de programación. Le sirve a un médico que se inicia en análisis de datos porque muestra que hoy se puede tener un asistente de inteligencia artificial corriendo en la propia computadora, sin depender de servicios pagos en la nube.",
-      "destacado": false
+    "b9609661894f": {
+      "resumen": "Artículo del Journal of the American College of Cardiology (JACC), a cargo de Rajagopalan S y colaboradores, que analiza las implicancias para la salud cardiovascular de la desregulación ambiental en Estados Unidos, es decir, el retroceso de normas de protección del aire, el agua y el clima. Vale la pena porque conecta decisiones de política pública con el riesgo cardiovascular poblacional, un ángulo poco habitual pero cada vez más relevante."
     },
-    "1c6cfd0b9050": {
-      "resumen": "Artículo de Towards Data Science que muestra, con un experimento controlado y reproducible de 50 corridas, que agregar más conexiones de comunicación entre agentes de inteligencia artificial no mejora necesariamente su desempeño conjunto: la capacidad de recuperación ante errores se mantuvo estable aun variando la densidad de la red del 20% al 100%. Aporta una lección de diseño de sistemas multiagente, útil para pensar cómo estructurar flujos de trabajo automatizados con IA.",
+    "79127fb50f93": {
+      "resumen": "Notas de la nueva versión 1.27 del lenguaje de programación Go, muy comentada en Hacker News. Le sirve a quien aprende análisis de datos como referencia sobre las herramientas usadas para construir sistemas de datos en producción, aunque Go no sea el lenguaje habitual para el análisis exploratorio (ese rol lo cumplen Python o R)."
+    },
+    "539b727b046f": {
+      "resumen": "Relato técnico de Towards Data Science sobre cómo escalar un pipeline de integración de datos empresarial de 500 a 8.000 eventos por segundo sin sacrificar dos garantías de correctitud de los datos. Aporta lecciones prácticas sobre los compromisos entre velocidad y confiabilidad al construir sistemas de datos a gran escala, algo central para quien piensa una carrera en ciencia de datos aplicada."
+    },
+    "44dce72c1eb7": {
+      "resumen": "Anuncio de que OpenRouter, la plataforma que permite acceder a múltiples modelos de inteligencia artificial con una sola integración, se suma a Stripe, la empresa de pagos online. Le sirve a quien sigue el ecosistema de inteligencia artificial para entender cómo se van consolidando los intermediarios que facilitan usar distintos modelos de lenguaje desde una sola herramienta."
+    },
+    "4f74107daef8": {
+      "resumen": "Comparación controlada de Towards Data Science entre dos formas de darle contexto a un modelo de lenguaje: un sistema de recuperación aumentada (RAG, retrieval-augmented generation) que busca los cinco fragmentos más relevantes, contra cargar un documento completo de 127.000 tokens en la ventana de contexto de un millón de tokens del modelo Kimi K3. Evaluaron a ciego 12 preguntas por corrección, completitud y fundamentación en la fuente. Le sirve a quien aprende análisis de datos porque muestra, con metodología clara, cuándo conviene invertir en un sistema de búsqueda y cuándo alcanza con un contexto largo.",
       "destacado": true
     },
-    "27140889b249": {
-      "resumen": "Cobertura de TCTMD sobre el documento conjunto del Colegio Americano de Cardiología (ACC) y la Asociación Americana del Corazón (AHA) que actualiza las medidas de desempeño y calidad clínica para la fibrilación auricular. Vale la pena porque resume, en formato de noticia, los mismos indicadores con los que se va a auditar la atención de estos pacientes.",
-      "destacado": false
+    "5c80812e7584": {
+      "resumen": "Estudio de la Universidad de Colorado, difundido en Hacker News, que encontró mayor bienestar autopercibido entre trabajadores remotos frente a presenciales o híbridos, en una muestra de 7.700 empleados. Le sirve a quien piensa en la ciencia de datos aplicada a recursos humanos como ejemplo de cómo se mide el bienestar laboral con encuestas a gran escala."
     },
-    "b72e1bdcc78d": {
-      "resumen": "Nota de The Economist, muy votada en Hacker News, que compara el juicio millonario que enfrenta Meta por el diseño adictivo de sus redes sociales con los litigios históricos contra las tabacaleras. Aporta contexto sobre cómo la Justicia empieza a exigir cuentas por el uso de datos de comportamiento para maximizar el enganche, un tema relevante para quien piensa en la ética del análisis de datos aplicado a personas.",
-      "destacado": false
+    "4860db51b048": {
+      "resumen": "Ficha de producto de un reloj digital Casio, muy votada en Hacker News por su diseño minimalista. No aporta contenido de ciencia de datos ni de inteligencia artificial; se incluye solo porque circuló en la comunidad tecnológica."
     },
-    "dcdbdd3ed1b2": {
-      "resumen": "Proyecto de código abierto llamado OpenLogi, destacado en Hacker News, sin más detalle disponible que su nombre y su sitio. A falta de más información, interesa como ejemplo del ecosistema de herramientas abiertas que circula en la comunidad de datos y tecnología; conviene revisar la fuente original antes de sacar conclusiones.",
-      "destacado": false
+    "d451ccaa36b3": {
+      "resumen": "Artículo de Towards Data Science que explora por qué crece el rechazo público a la inteligencia artificial cuando la gente no percibe un valor claro a cambio de los compromisos que exige (privacidad, empleo, uso de datos). Le sirve a quien trabaja con datos e inteligencia artificial para entender la aceptación social como una variable más a la hora de diseñar y comunicar un proyecto."
     },
-    "5fe3a01f1692": {
-      "resumen": "Cobertura de la BBC, muy votada en Hacker News, sobre datos que muestran una recuperación inesperada en la función pulmonar de chicos que viven en la zona de bajas emisiones (ultra low emission zone) de Londres. Le sirve a un médico que aprende análisis de datos porque es un ejemplo de cómo el monitoreo poblacional longitudinal permite medir el impacto real de una política pública sobre la salud.",
-      "destacado": false
+    "069e82f3f1a1": {
+      "resumen": "Guía de KDnuggets sobre cómo encarar las entrevistas técnicas de diseño de sistemas de inteligencia artificial, que reemplazaron a las clásicas preguntas de diseño de aplicaciones (\"diseñá YouTube\") por consignas como \"diseñá ChatGPT\". Le sirve a quien está en transición hacia el análisis de datos porque anticipa el tipo de evaluación que se usa hoy en procesos de selección para roles de inteligencia artificial."
     },
-    "c0e4bffc1619": {
-      "resumen": "Anuncio del CS-4, el nuevo chip acelerador de inteligencia artificial de Cerebras, discutido en Hacker News. Le sirve a quien se inicia en ciencia de datos para entender hacia dónde avanza el hardware que sostiene el entrenamiento y la inferencia de los modelos de inteligencia artificial que hoy se usan en análisis de datos.",
-      "destacado": false
+    "7c71053de4d2": {
+      "resumen": "Publicación de la comunidad r/datascience que comparte una herramienta interactiva y gratuita para aprender diseño de sistemas de aprendizaje automático (machine learning). Le sirve a quien recién se inicia en ciencia de datos como recurso práctico y sin costo para entender cómo se arma un sistema de inteligencia artificial de punta a punta."
     },
-    "fe6793f58b70": {
-      "resumen": "Simon Willison repasa la apertura del código fuente de Mojo, el lenguaje de programación pensado para acelerar cargas de trabajo de inteligencia artificial, tras alcanzar su versión 1.0. Le sirve a quien aprende análisis de datos porque es una alternativa a Python que promete mayor velocidad para el mismo tipo de tareas numéricas y de IA.",
-      "destacado": false
+    "6bf999f84947": {
+      "resumen": "Recorrido de KDnuggets por cinco herramientas, una para cada capa del proceso de construir y llevar a producción agentes de inteligencia artificial: desde la lógica del agente hasta la infraestructura para correrlo a escala. Le sirve a quien aprende análisis de datos como mapa concreto de las herramientas disponibles para pasar de un prototipo de inteligencia artificial a un sistema real."
     },
-    "14de748c72c7": {
-      "resumen": "El seleccionado argentino de rugby recupera a una pieza clave de cara al choque ante los Wallabies."
+    "0d4403a526eb": {
+      "resumen": "Los Pumas abrirán las puertas de un entrenamiento en Jujuy de cara al partido ante los Wallabies de Australia."
     },
-    "61d7b36dc966": {
-      "resumen": "Jujuy se prepara para la fiesta del partido entre Los Pumas y los Wallabies, previsto para el 23 de agosto."
+    "389b4dc7f9e2": {
+      "resumen": "Cuándo llegan Los Pumas y los Wallabies a Jujuy antes de su cruce por el Rugby Championship."
     },
-    "3707227a044e": {
-      "resumen": "Los jugadores australianos Ikitau y Suaalii vuelven a la convocatoria de los Wallabies para la gira por la Argentina."
+    "9122f77c4dd9": {
+      "resumen": "Habrá un Fan Fest el 23 de agosto en Jujuy para acompañar el partido entre Los Pumas y Australia."
     }
   }
 }

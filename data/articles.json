@@ -1,35 +1,11 @@
 {
- "generated_at": "2026-08-20T07:12:16.131196+00:00",
+ "generated_at": "2026-08-20T09:00:29.800996+00:00",
  "sections": [
   {
    "id": "cardiologia",
    "title": "Cardiología",
    "mode": "resumen",
    "items": [
-    {
-     "title": "Case 10-2026: A 70-Year-Old Woman with a Racing Heart, Fatigue, and Dyspnea. Reply",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42617129/",
-     "source": "NEJM Cardiología",
-     "published": "2026-08-20T00:00:00+00:00",
-     "copete": "Khurshid SS et al. · The New England journal of medicine",
-     "id": "64c3c41cd6aa"
-    },
-    {
-     "title": "Case 10-2026: A 70-Year-Old Woman with a Racing Heart, Fatigue, and Dyspnea",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42617128/",
-     "source": "NEJM Cardiología",
-     "published": "2026-08-20T00:00:00+00:00",
-     "copete": "Ferreira D et al. · The New England journal of medicine",
-     "id": "04196dd38241"
-    },
-    {
-     "title": "Biologic Ventricular Assist Tissue in Heart Failure. Reply",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42617124/",
-     "source": "NEJM Cardiología",
-     "published": "2026-08-20T00:00:00+00:00",
-     "copete": "Zimmermann WH et al. · The New England journal of medicine",
-     "id": "d48e6bd50d59"
-    },
     {
      "title": "Women Still Underrepresented on Structural Heart Disease Trial Committees",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY3NnOWJvc1Zlc3ZXc2pQNS0zOUl2SUpnc2E1bFpJRlZOaE8zblZoZ1ZKdUtkUHY0c0VCTzlBQ1BCd0pIMmhsY2lxaWZXNG54MFp5TXh3Q1BzenFhQU04LVZWR2tRTEJQTlRWcWF5OGdaUjZuX3p3OWU5ckNiX3cteG5BV2d0Z0pFRlB2T25iX1N4b0hwRVZ0c1lSYk81QQ?oc=5",
@@ -96,6 +72,14 @@
      "source": "TCTMD",
      "published": "2026-08-18T16:03:17+00:00",
      "id": "dfb75c0999e1"
+    },
+    {
+     "title": "Ischaemic heart disease beyond obstructive coronary stenoses: from prevention to treatment",
+     "link": "https://academic.oup.com/eurheartj/article/47/31/4169/8761243?rss=1",
+     "source": "European Heart Journal",
+     "published": "2026-08-14T00:00:00+00:00",
+     "copete": "For image description, please refer to the figure legend and surrounding text. For the podcast associated with this article, please visit https://academic.oup.com/eurheartj/pages/Podcasts .",
+     "id": "7d7e3022b040"
     }
    ]
   },
@@ -186,7 +170,7 @@
     {
      "title": "Los Pumas vs Australia: ¿Cuándo llegan los seleccionados a Jujuy?",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVl9aZTNtLUMyeGQ2cndMc0RvendOY3BRSFRFVENJcHZNZ3lsX2Y3cUNfZmNBX3ZoMWd1dXhvWHNITUpsZ3loSkN1RjZZQ0FObWRBTzd0d3NTRUhjcWhzenFfRnY5NmhLQ2paLUJ2QWJ0ZWh5MlRNaWNSM3RvUmE2SEt6OXNsVC1XRUdlc2JOSHZwV1ZUX1diOFU0ZmJ0WXROZUNMUktDaUdsaHFtZW9HTHliQkswU0Q5aWR0XzN2cmp6ZTg?oc=5",
-     "source": "espn.com.mx",
+     "source": "ESPN México",
      "published": "2026-08-19T22:14:00+00:00",
      "id": "e27536dbfcc3"
     },
@@ -212,6 +196,13 @@
    "title": "Ciencia de datos e IA",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Windows brings out the Rorschach test in everyone",
+     "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-20T06:16:40+00:00",
+     "id": "795bf78ffcc4"
+    },
     {
      "title": "Turns are Better than Radians (2022)",
      "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
@@ -258,13 +249,6 @@
      "id": "b650c8e47359"
     },
     {
-     "title": "Unsloth Dynamic 3.0 GGUFs",
-     "link": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-19T18:36:45+00:00",
-     "id": "5bdbe701c0fd"
-    },
-    {
      "title": "How to Scale an Integration Pipeline Without Breaking Correctness",
      "link": "https://towardsdatascience.com/scaling-an-integration-pipeline-without-breaking-correctness/",
      "source": "Towards Data Science",
@@ -296,100 +280,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Milei habla en el Council of the Americas, en vivo: las últimas medidas y el minuto a minuto",
-     "link": "https://www.lanacion.com.ar/politica/milei-habla-en-el-council-of-the-americas-en-vivo-las-ultimas-medidas-y-el-minuto-a-minuto-nid20082026/",
-     "source": "La Nación",
-     "published": "2026-08-20T07:04:40+00:00",
-     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "b420e3feeeb9"
-    },
-    {
-     "title": "Convocaron a una reunión para actualizar el salario mínimo, vital y móvil y las prestaciones por desempleo",
-     "link": "https://www.infobae.com/economia/2026/08/20/convocaron-a-una-reunion-para-actualizar-el-salario-minimo-vital-y-movil-y-las-prestaciones-por-desempleo/",
+     "title": "Desarticularon una banda que abastecía cocaína a diferentes puntos de venta de drogas en Mar del Plata",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/08/20/desarticularon-una-banda-que-abastecia-cocaina-a-diferentes-puntos-de-venta-de-drogas-en-ma-del-plata/",
      "source": "Infobae",
-     "published": "2026-08-20T07:02:15+00:00",
-     "copete": "Según la convocatoria publicada en el Boletín Oficial, la sesión se realizará el próximo viernes 28 de agosto vía plataforma virtual",
-     "id": "28fbe1add0ea"
+     "published": "2026-08-20T08:57:14+00:00",
+     "copete": "La investigación judicial detectó una presunta estructura dedicada a distribuir cocaína y marihuana hacia distintos búnkers de la ciudad. Los procedimientos se concentraron en Santa Rosa de Lima, Libertad, San Jorge y La Herradura",
+     "id": "25d9f52a2d20"
     },
     {
-     "title": "Los hilos de la diplomacia del submundo",
-     "link": "https://www.lanacion.com.ar/politica/los-hilos-de-la-diplomacia-del-submundo-nid19082026/",
-     "source": "La Nación",
-     "published": "2026-08-20T07:00:45+00:00",
-     "copete": "La democracia puede mirarse en la opaca saga de Cerimedo y descubrir algunos de los vicios que la están desfigurando; el caso del exasesor de Milei revela las particularidades de una casta lumpen que opera en el bajo fondo de las redes",
-     "id": "69146938aca1"
-    },
-    {
-     "title": "De los terrenos del Golf a las tierras de Ramón Díaz: las expropiaciones que Ricardo Quintela ya concretó",
-     "link": "https://www.lanacion.com.ar/politica/de-los-terrenos-del-golf-a-las-tierras-de-ramon-diaz-las-expropiaciones-que-ricardo-quintela-ya-nid19082026/",
-     "source": "La Nación",
-     "published": "2026-08-20T07:00:19+00:00",
-     "copete": "El gobernador riojano advirtió a los inversores que si el peronismo vuelve al poder “va a revisar absolutamente todo” y nacionalizar propiedades; en su provincia ya hay antecedentes",
-     "id": "9460cc9e52fc"
-    },
-    {
-     "title": "Jorge Tartaglione, cardiólogo, sobre el colesterol: “Para evitar riesgos, lo más importante de todo, es tener una dieta saludable, un control de peso y dormir bien”",
-     "link": "https://www.lanacion.com.ar/sociedad/jorge-tartaglione-cardiologo-sobre-el-colesterol-para-evitar-riesgos-lo-mas-importante-de-todo-es-nid20082026/",
-     "source": "La Nación",
-     "published": "2026-08-20T07:00:00+00:00",
-     "copete": "El cardiólogo advirtió sobre la importancia de la prevención temprana; destacó que el chequeo de la salud arterial requiere hábitos saludables y un monitoreo médico personalizado",
-     "id": "2e1a3860fb1c"
-    },
-    {
-     "title": "Donald Trump anunció el inicio de una “guerra económica” contra Irán y amenazó a los países que intenten ayudarlo",
-     "link": "https://www.lanacion.com.ar/estados-unidos/donald-trump-anuncio-el-inicio-de-una-guerra-economica-contra-iran-y-amenazo-a-los-paises-que-nid20082026/",
-     "source": "La Nación",
-     "published": "2026-08-20T06:57:34+00:00",
-     "copete": "El mandatario afirmó que EE.UU. llevará a cabo una embestida inédita contra el régimen de Teherán, que incluiría un aislamiento económico “sin precedentes”",
-     "id": "1795be42c43c"
-    },
-    {
-     "title": "Cuatro policías llegaron a jucio por torturar y privar de la libertad a dos adolescentes en Río Negro",
+     "title": "Cuatro policías llegaron a juicio por torturar y privar de la libertad a dos adolescentes en Río Negro",
      "link": "https://www.infobae.com/sociedad/policiales/2026/08/20/cuatro-policias-llegaron-a-jucio-por-torturar-y-privar-de-la-libertad-a-dos-adolescentes-en-rio-negro/",
      "source": "Infobae",
-     "published": "2026-08-20T06:53:48+00:00",
+     "published": "2026-08-20T08:56:45+00:00",
      "copete": "El Tribunal Colegiado de Roca comenzó a escuchar a más de treinta testigos en el proceso que investiga el accionar de agentes de la Comisaría 47°",
      "id": "9f66e33434d0"
     },
     {
-     "title": "Luto y dolor en el turf: murió el jockey Leandro Henrique, tras caer abruptamente de su caballo en plena carrera",
-     "link": "https://www.clarin.com/deportes/luto-dolor-turf-murio-jockey-leandro-henrique-caer-abruptamente-caballo-plena-carrera_0_oqYwB8cwa7.html",
+     "title": "Expertos en limpieza del hogar explican por qué hay que tirar sal en el inodoro y cada cuánto hacerlo",
+     "link": "https://www.lanacion.com.ar/lifestyle/expertos-en-limpieza-del-hogar-explican-por-que-hay-que-tirar-sal-en-el-inodoro-y-cada-cuanto-nid20082026/",
+     "source": "La Nación",
+     "published": "2026-08-20T08:51:00+00:00",
+     "copete": "El uso de ingredientes cotidianos permite una desinfección profunda del sanitario; especialistas recomiendan esta técnica casera para eliminar gérmenes y bacterias de manera efectiva",
+     "id": "cd88925470ca"
+    },
+    {
+     "title": "El Gobierno autorizó el llamado a licitación de las líneas Belgrano Cargas, San Martín y Urquiza",
+     "link": "https://www.infobae.com/economia/2026/08/20/el-gobierno-autorizo-la-licitacion-para-privatizar-las-lineas-belgrano-cargas-san-martin-y-urquiza/",
+     "source": "Infobae",
+     "published": "2026-08-20T08:35:31+00:00",
+     "copete": "Los interesados en participar en el concurso público deberán inscribirse en la plataforma CONTRAT.AR. Las inscripciones finalizarán el 11 de noviembre",
+     "id": "fe27ad240aed"
+    },
+    {
+     "title": "Robaron un comercio de San Juan y se llevaron casi $ 40 millones en dispositivos electrónicos",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/08/20/robaron-un-comercio-de-san-juan-y-se-llevaron-casi-40-millones-en-dispositivos-electronicos/",
+     "source": "Infobae",
+     "published": "2026-08-20T08:23:22+00:00",
+     "copete": "Los delincuentes utilizaron una escalera para ingresar al local ubicado en el primer piso de un paseo comercial. Robaron iPhones, computadoras y el dueño no descarta que haya más artículos sustraídos",
+     "id": "0a4bc060bab8"
+    },
+    {
+     "title": "Balearon y amenazaron a un hombre en Neuquén: “La próxima vez va a ser en la cabeza”",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/08/20/balearon-y-amenazaron-a-un-hombre-en-neuquen-la-proxima-vez-va-a-ser-en-la-cabeza/",
+     "source": "Infobae",
+     "published": "2026-08-20T08:07:03+00:00",
+     "copete": "Dos agresores encapuchados lo interceptaron, lo golpearon y le dispararon. La víctima improvisó un torniquete con su ropa para frenar el sangrado hasta la llegada de la ambulancia",
+     "id": "cf332ff0454f"
+    },
+    {
+     "title": "Es oficial | Estados Unidos permitirá el ingreso legal y automático sin pasaporte ni visa americana a quienes puedan obtener el Formulario DSP-150",
+     "link": "https://www.clarin.com/estados-unidos/oficial-estados-unidos-permitira-ingreso-legal-automatico-pasaporte-visa-americana-puedan-obtener-formulario-dsp-150_0_jg48ZUhY60.html",
      "source": "Clarín",
-     "published": "2026-08-20T06:53:29+00:00",
-     "copete": "El jinete brasileño tuvo la caída este domingo cuando disputaba la segunda competencia del programa del Jockey Club Brasileiro. Tenía 27 años. El accidente se produjo cuando su caballo se salió de la pista y saltó las vallas. Estuvo…",
-     "id": "53a4712922bc"
+     "published": "2026-08-20T08:02:20+00:00",
+     "copete": "El documento permite ingresar a algunos estados por tiempo y distancia limitados. Los requisitos son similares a los de las visas de visitante y turismo.",
+     "id": "04717953944f"
     },
     {
-     "title": "Fraudes más comunes en cajeros: clonación de tarjetas, trampas en dispensadores y engaños en la calle",
-     "link": "https://www.infobae.com/tecno/2026/08/20/fraudes-mas-comunes-en-cajeros-clonacion-de-tarjetas-trampas-en-dispensadores-y-enganos-en-la-calle/",
-     "source": "Infobae",
-     "published": "2026-08-20T06:30:47+00:00",
-     "copete": "Para prevenir estafas se sugiere cubrir el teclado al introducir el PIN, cancelar la sesión tras cada retiro de dinero y no aceptar ayuda de desconocidos",
-     "id": "b883b50a423d"
-    },
-    {
-     "title": "Setenta veces siete: la deuda que hoy estrangula a nuestras familias",
-     "link": "https://www.infobae.com/opinion/2026/08/20/setenta-veces-siete-la-deuda-que-hoy-estrangula-a-nuestras-familias/",
-     "source": "Infobae",
-     "published": "2026-08-20T06:23:36+00:00",
-     "copete": "La morosidad de los hogares trepó al 12,6% en mayo, el nivel más alto desde el final de la convertibilidad, con una suba de más de ocho puntos en apenas un año",
-     "id": "b2747cce6753"
-    },
-    {
-     "title": "Cuando el que sufre violencia en la pareja es un varón",
-     "link": "https://www.infobae.com/opinion/2026/08/20/cuando-el-que-sufre-violencia-en-la-pareja-es-un-varon/",
-     "source": "Infobae",
-     "published": "2026-08-20T06:23:23+00:00",
-     "copete": "El joven asesinado en Chaco había hecho una presentación contra su novia en 2025, lo que obliga a preguntar si cuando un varón se acerca al sistema con una señal chica, hay alguien entrenado para leerla como lo que podría ser: el primer…",
-     "id": "8f57d2ec09c0"
-    },
-    {
-     "title": "Esta especie llegó a tener tan solo 100 sobrevivientes en un único refugio, y hoy cuenta con 50.000 animales repartidos por seis países, pero los científicos advierten que la recuperación ha enmascarado un grave problema",
-     "link": "https://www.clarin.com/estados-unidos/especie-llego-tener-solo-100-sobrevivientes-unico-refugio-hoy-cuenta-50000-animales-repartidos-paises-cientificos-advierten-recuperacion-enmascarado-grave-problema_0_989FND8XqM.html",
+     "title": "Marc Cucurella, 28 años: \"Mourinho quiere que entrenemos como Cristiano Ronaldo. Lo usa como referencia de lo que debería ser un jugador del Madrid\"",
+     "link": "https://www.clarin.com/internacional/marc-cucurella-28-anos-mourinho-quiere-entrenemos-cristiano-ronaldo-usa-referencia-deberia-jugador-madrid_0_rYgopdiHIP.html",
      "source": "Clarín",
-     "published": "2026-08-20T06:22:19+00:00",
-     "copete": "El íbice de los Alpes estuvo al borde de la extinción y sobrevivió gracias a una población ubicada en el norte de Italia. El exitoso programa de reintroducción permitió recuperar unos 50.000 ejemplares, pero los estudios genéticos…",
-     "id": "6e3eda9d873a"
+     "published": "2026-08-20T08:00:20+00:00",
+     "copete": "Cucurella reveló el método que Mourinho usa para exigir a sus jugadores en el Madrid. El nombre de Cristiano Ronaldo aparece en cada entrenamiento como un estándar inalcanzable.",
+     "id": "71c15b8acf22"
+    },
+    {
+     "title": "Rituales simples para limpiar las malas energías: cómo renovar la vibración de tu casa",
+     "link": "https://www.clarin.com/astrologia/rituales-simples-limpiar-malas-energias-renovar-vibracion-casa_0_km7Bx5ZjuZ.html",
+     "source": "Clarín",
+     "published": "2026-08-20T08:00:20+00:00",
+     "copete": "Prácticas que pueden ayudar a ordenar la energía de los espacios. Qué rituales hacer en casa para soltar lo negativo y generar una sensación de bienestar, según la astróloga Flor Sánchez.",
+     "id": "e9e4a4758ff8"
+    },
+    {
+     "title": "5 museos del sexo alrededor del mundo: curiosidades, historia y los dispositivos sexuales más antiguos",
+     "link": "https://www.clarin.com/relaciones/5-museos-sexo-alrededor-mundo-curiosidades-historia-dispositivos-sexuales-antiguos_0_XRizCytraP.html",
+     "source": "Clarín",
+     "published": "2026-08-20T08:00:20+00:00",
+     "copete": "Cómo son los museos del sexo de Nueva York, Miami, Ámsterdam, Praga y Las Vegas. Esculturas eróticas, pinturas, fotografías, disfraces y dispositivos sexuales son parte de sus colecciones.",
+     "id": "9c7690690b49"
+    },
+    {
+     "title": "Eje ojo-intestino: así influye la microbiota en la salud visual",
+     "link": "https://www.clarin.com/buena-vida/eje-ojo-intestino-influye-microbiota-salud-visual_0_HtePVyykqh.html",
+     "source": "Clarín",
+     "published": "2026-08-20T08:00:19+00:00",
+     "copete": "Alimentación sana, actividad física y control profesional son la clave. La importancia de una mirada y atención profesional integral.",
+     "id": "1bd297d95a91"
+    },
+    {
+     "title": "Conrado Estol: “El cambio de horario de sueño entre días de semana y fin de semana aumenta el riesgo de depresión”",
+     "link": "https://www.lanacion.com.ar/sociedad/conrado-estol-el-cambio-de-horario-de-sueno-entre-dias-de-semana-y-fin-de-semana-aumenta-el-riesgo-nid20082026/",
+     "source": "La Nación",
+     "published": "2026-08-20T08:00:00+00:00",
+     "copete": "Según advirtió el experto, “un estudio de biopsia muscular en jóvenes que durmieron pocas horas mostró un cambio significativo con aumento de todos los marcadores de inflamación y lesión celular”",
+     "id": "581d335d68e6"
     }
    ]
   },
@@ -399,68 +383,68 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "“El hombre más peligroso de Alemania”: una portada de prensa revoluciona la campaña electoral de la extrema derecha",
+     "link": "https://elpais.com/internacional/2026-08-20/el-hombre-mas-peligroso-de-alemania-una-portada-de-prensa-revoluciona-la-campana-electoral-de-la-extrema-derecha.html",
+     "source": "El País Internacional",
+     "published": "2026-08-20T08:52:56+00:00",
+     "copete": "AfD da por hecho que el último número del semanario ‘Der Spiegel’ les permitirá obtener la mayoría absoluta en el Estado de Sajonia-Anhalt",
+     "id": "8124486b0bd6"
+    },
+    {
+     "title": "Al menos 100 muertos tras derrumbarse una mina de oro en República Centroafricana",
+     "link": "https://elpais.com/internacional/2026-08-20/al-menos-100-muertos-tras-derrumbarse-una-mina-de-oro-en-republica-centroafricana.html",
+     "source": "El País Internacional",
+     "published": "2026-08-20T08:50:45+00:00",
+     "copete": "Autoridades locales y testigos del incidente apuntan a un deslizamiento de tierra como causa del colapso del yacimiento",
+     "id": "0bd5f0b3414b"
+    },
+    {
+     "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+     "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-20T08:39:26+00:00",
+     "copete": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+     "id": "cedf7f5c0142"
+    },
+    {
+     "title": "Four workers dead after being hit by train in Japan",
+     "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-20T08:14:20+00:00",
+     "copete": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+     "id": "6548cb7061c8"
+    },
+    {
+     "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+     "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-20T07:33:11+00:00",
+     "copete": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+     "id": "088e31d8fd42"
+    },
+    {
+     "title": "Trump proclama “la mayor guerra económica” contra Irán",
+     "link": "https://elpais.com/internacional/2026-08-20/trump-proclama-la-mayor-guerra-economica-contra-iran.html",
+     "source": "El País Internacional",
+     "published": "2026-08-20T07:26:04+00:00",
+     "copete": "El presidente de Estados Unidos amenaza con graves represalias a los países que permitan ayudar a Teherán",
+     "id": "9adcc931fade"
+    },
+    {
+     "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
+     "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-20T07:08:35+00:00",
+     "copete": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole.",
+     "id": "7f5d8fe9608e"
+    },
+    {
      "title": "Al menos 12 muertos y decenas de heridos en un ataque ruso con misiles contra Kiev",
      "link": "https://elpais.com/internacional/2026-08-20/varios-muertos-y-decenas-de-heridos-en-un-ataque-ruso-contra-kiev.html",
      "source": "El País Internacional",
      "published": "2026-08-20T07:08:31+00:00",
      "copete": "Las explosiones afectan a varios puntos de la ciudad, entre ellos un depósito de municiones, y obligan a cortar el suministro eléctrico en algunas zonas",
      "id": "f89f57fb0b79"
-    },
-    {
-     "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
-     "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-20T06:44:20+00:00",
-     "copete": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
-     "id": "cedf7f5c0142"
-    },
-    {
-     "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-     "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-20T06:39:14+00:00",
-     "copete": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
-     "id": "088e31d8fd42"
-    },
-    {
-     "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-     "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-20T06:08:02+00:00",
-     "copete": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
-     "id": "f340445905c0"
-    },
-    {
-     "title": "Missing teen hiker found dead in Australian bush after eight-day search",
-     "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-20T05:45:53+00:00",
-     "copete": "The state premier initially said Lily Hooper had been found alive before police confirmed her death.",
-     "id": "35560161c067"
-    },
-    {
-     "title": "Milei enfrenta un escándalo por cubrir déficit con fondos asignados por ley a obras públicas",
-     "link": "https://elpais.com/argentina/2026-08-20/milei-enfrenta-un-escandalo-por-cubrir-deficit-con-fondos-asignados-por-ley-a-obras-publicas.html",
-     "source": "El País Internacional",
-     "published": "2026-08-20T04:00:00+00:00",
-     "copete": "La Justicia pide informes sobre la inversión de casi 668 millones de dólares que en vez de invertise en carreteras fueron a instrumentos financieros",
-     "id": "9bc26b622d35"
-    },
-    {
-     "title": "El terremoto de Colombia pone en riesgo la memoria del conflicto armado enterrada en los cementerios",
-     "link": "https://elpais.com/america-colombia/2026-08-20/el-terremoto-de-colombia-pone-en-riesgo-la-memoria-del-conflicto-armado-enterrada-en-los-cementerios.html",
-     "source": "El País Internacional",
-     "published": "2026-08-20T04:00:00+00:00",
-     "copete": "La Unidad de Búsqueda ha recuperado dos esqueletos y nueve bolsas con ropa militar en el pueblo de Roldanillo. Hay al menos otras cinco necrópolis afectadas por el sismo del 10 de agosto",
-     "id": "f5a61fdeb740"
-    },
-    {
-     "title": "La agonía cotidiana de vivir a oscuras en Venezuela",
-     "link": "https://elpais.com/america/2026-08-20/la-agonia-cotidiana-de-vivir-a-oscuras-en-venezuela.html",
-     "source": "El País Internacional",
-     "published": "2026-08-20T04:00:00+00:00",
-     "copete": "Los racionamientos de energía apagan los comercios y dejan a familias enteras atrapadas en la desolación causada por una infraestructura en ruinas",
-     "id": "1cc53655ebf8"
     },
     {
      "title": "\"Ni siquiera saben si están vivas o muertas\": la agonía de las familias de las miles de personas que permanecen desaparecidas en Gaza",
@@ -486,6 +470,16 @@
    "section": "cardiologia",
    "feed": "Cardiology Trials",
    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+   "section": "cardiologia",
+   "feed": "Circulation (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "cardiologia",
+   "feed": "NEJM Cardiología (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
   }
  ]
 }

@@ -1,11 +1,35 @@
 {
- "generated_at": "2026-08-20T10:52:19.522014+00:00",
+ "generated_at": "2026-08-20T13:22:27.623381+00:00",
  "sections": [
   {
    "id": "cardiologia",
    "title": "Cardiología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Case 10-2026: A 70-Year-Old Woman with a Racing Heart, Fatigue, and Dyspnea. Reply",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42617129/",
+     "source": "NEJM Cardiología",
+     "published": "2026-08-20T00:00:00+00:00",
+     "copete": "Khurshid SS et al. · The New England journal of medicine",
+     "id": "64c3c41cd6aa"
+    },
+    {
+     "title": "Case 10-2026: A 70-Year-Old Woman with a Racing Heart, Fatigue, and Dyspnea",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42617128/",
+     "source": "NEJM Cardiología",
+     "published": "2026-08-20T00:00:00+00:00",
+     "copete": "Ferreira D et al. · The New England journal of medicine",
+     "id": "04196dd38241"
+    },
+    {
+     "title": "Biologic Ventricular Assist Tissue in Heart Failure. Reply",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42617124/",
+     "source": "NEJM Cardiología",
+     "published": "2026-08-20T00:00:00+00:00",
+     "copete": "Zimmermann WH et al. · The New England journal of medicine",
+     "id": "d48e6bd50d59"
+    },
     {
      "title": "Beyond the Data: High-Risk Populations and Primary Prevention",
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYXEwQmQ4YWRrc21GakVqVURUS2x3VjJyY3lneExpd3pFMlBQOU5BZWZCV2lLS0l4VHNCREZBUV9PdC1Zci1jS3FsaGNWYjF4RmtUZG90VWd6aEpiLU02QzU4eENXcUdCM1l1NXJjVmtrNG9NZzBpd3lwLXNVTEJwTmMyY3k2cGZOMVN5a2lhVy0yUjJzOTVhS0hBb1dzOU9LVlJHQw?oc=5",
@@ -72,14 +96,6 @@
      "source": "TCTMD",
      "published": "2026-08-18T16:58:01+00:00",
      "id": "7136b15d9828"
-    },
-    {
-     "title": "Ischaemic heart disease beyond obstructive coronary stenoses: from prevention to treatment",
-     "link": "https://academic.oup.com/eurheartj/article/47/31/4169/8761243?rss=1",
-     "source": "European Heart Journal",
-     "published": "2026-08-14T00:00:00+00:00",
-     "copete": "For image description, please refer to the figure legend and surrounding text. For the podcast associated with this article, please visit https://academic.oup.com/eurheartj/pages/Podcasts .",
-     "id": "7d7e3022b040"
     }
    ]
   },
@@ -89,44 +105,58 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Por qué Correa ya es indispensable en River y su confianza en la serie ante Santa Fe: \"Vamos a pasar\"",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-angel-correa-santa-fe-copa-sudamericana-vamos-pasar_0_BJH8G6nilj.html",
+     "source": "Olé — River",
+     "published": "2026-08-20T12:56:58+00:00",
+     "copete": "Con gambeta, empuje y desgaste físico, Angelito fue lo más destacado del equipo de Eduardo Coudet y se ilusionó pensando en la revancha.",
+     "id": "eb15f7a9b900"
+    },
+    {
+     "title": "El aviso del DT de Independiente Santa Fe de cara a la revancha en el Monumental",
+     "link": "https://www.ole.com.ar/river-plate/repetto-dijo-post-0-0-river-ida-sudamericana_0_PfuOp5o8UY.html",
+     "source": "Olé — River",
+     "published": "2026-08-20T12:39:45+00:00",
+     "copete": "Pablo Repetto mostró los dientes después del 0-0 con River en Bogotá, Hace 10 años eliminó al Millo de visitante de la Libertadores.",
+     "id": "4fb601392ff7"
+    },
+    {
+     "title": "River, hoy EN VIVO: lo que dejó el empate en Bogotá, Coudet y todas las noticias de este jueves 20 de agosto",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-vivo-ultimas-noticias-jueves-20-agosto-copa-sudamericana-santa-fe_0_SBZYVJ6T5V.html",
+     "source": "Olé — River",
+     "published": "2026-08-20T12:30:24+00:00",
+     "copete": "El equipo de Chacho igualó 0-0 ante Santa Fe por la ida de octavos de final de la Sudamericana y deberá definir la serie en el Monumental.",
+     "id": "10a67a765f23"
+    },
+    {
+     "title": "El insólito 11 con el que River terminó el 0-0 en Bogotá",
+     "link": "https://www.ole.com.ar/river-plate/river-insolito-11-final-0-0bogota-equipo-coudet_0_Py551jlI2T.html",
+     "source": "Olé — River",
+     "published": "2026-08-20T11:44:34+00:00",
+     "copete": "Coudet hizo cuatro cambios y terminó con Almada de centrodelantero, Freitas de 8/7, dos laterales izquierdos y una especie de 4-5-1 como esquema.",
+     "id": "c1a6a078daf5"
+    },
+    {
+     "title": "Los Pumas preparan su duelo ante Australia con dos villamarienses",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLW5OdFc5Yktud3RrZUVNb0haakNOZ3YtazJ5M2ZULUU4YjRSb3NaVi1NVXlTRUhGQTh0dXJ2cU0wRW02alg0a3dLRlAxNWswd01UTU1ZOWF6bk4xbm5XSzFmbW5HSHFZb3FKVmgybVltcEExRWZRQUN1SkRQRDhiZkRHSVJQcWJUeTRqM2pwaXVFVUlNOWtRUWgzWkM3cFdfUlHSAacBQVVfeXFMTi1ua3NfeHpiSUNfbXBjcGFDcEVRUHY1c1BGdVFPZ0pFSThKbS1lTTE4VHZxX1lRX2d5a24wMkVUYVJtRFFhcW03ZncyeGw2dEUwV0NTRENKYVo4ZUZWc3ZtdkphTVpYR25odkVZQndOWHdJVFJhUUJ2M3lGbVJFQmttTDRVNVhnRUJZOEdPUmRQQ011MC11MzdPdTA1MWpDcnlWUHBCbVk?oc=5",
+     "source": "puntal.com.ar",
+     "published": "2026-08-20T11:37:00+00:00",
+     "id": "e22cdb3d6466"
+    },
+    {
+     "title": "Los Pumas realizarán un entrenamiento a puertas abiertas en Jujuy",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOXZ2dERGMlYxbERUZGxmRmRrV2txQ3ZnYjM3bVJlVlNXUDZsZ0ttZlJQWS05Z1dDQ0xpQzQ4Qk5ELWVqRzg1RVdrcmNaNTdCWlNXZE9QSWFPUXpMa2R1ZnNVSEcxS1hOSU5lMnlkUmF2YWxzLTdYUjFXd1dfZHdERUNpVkZYRl9YRnRXM2c4bC13bXYtZEV6Z3ljMVB3UlRIbXhndlpRUUNmamJqSlB3WjRTVjYwbnZqczFUdUt6NExXOGY3SzViaTg1T1o1Zw?oc=5",
+     "source": "ESPN Colombia",
+     "published": "2026-08-20T10:27:15+00:00",
+     "id": "f8a7d6c1f37d"
+    },
+    {
      "title": "Otamendi: \"Obviamente que fue un resultado positivo\"",
      "link": "https://www.ole.com.ar/river-plate/river-otamendi-sudamericana-independiente-santa-fe_0_AU3aq6i4dy.html",
      "source": "Olé — River",
      "published": "2026-08-20T03:05:49+00:00",
      "copete": "El capitán de River le dio valor al 0-0 en Bogotá aunque destacó que \"tenemos que llegar de la mejor manera\" a la revancha. Una señal de que hay que levantar.",
      "id": "edf882fa5525"
-    },
-    {
-     "title": "Coudet: \"Todos hubiésemos firmado el empate\"",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-conferencia-prensa-eduardo-coudet-santa-fe_0_uySFPMhl8R.html",
-     "source": "Olé — River",
-     "published": "2026-08-20T02:53:37+00:00",
-     "copete": "El técnico de River analizó el empate frente a Santa Fe en la ida de los octavos de final de la Copa Sudamericana.",
-     "id": "a40e77d32cc1"
-    },
-    {
-     "title": "Videos: las jugadas en las que se salvó River más la calentura de Coudet con Borré y qué dijo el DT",
-     "link": "https://www.ole.com.ar/river-plate/river-copa-sudamericana-independiente-santa-fe-videos-partido-resumen-jugadas-gol-riverplate-copasudamericana-independientesantafe-chachocoudet-rafaelsantosborre-jugadas-partido_0_wSrYWn0jQ6.html",
-     "source": "Olé — River",
-     "published": "2026-08-20T02:44:38+00:00",
-     "copete": "El CARP la pasó mal ante Independiente Santa Fe aunque sacó un 0-0 valioso de cara a la vuelta. A su vez, la TV captó un fuerte cruce del DT con el colombiano.",
-     "id": "754e035b3de9"
-    },
-    {
-     "title": "El uno por uno de River en el empate de la ida de octavos en Bogotá",
-     "link": "https://www.ole.com.ar/river-plate/river-x-puntajes-sudamericana-octavos-santa-fe-coudet_0_lVIaAZmPKC.html",
-     "source": "Olé — River",
-     "published": "2026-08-20T02:37:49+00:00",
-     "copete": "El equipo de Coudet logró un valioso 0-0 para definir la serie de la Sudamericana en el Monumental. Beltrán y Correa, los mejores. Todos los puntajes.",
-     "id": "69e8fa1eb624"
-    },
-    {
-     "title": "Copa Sudamericana: cuándo juega River la revancha contra Independiente Santa Fe y qué necesita para clasificar a cuartos",
-     "link": "https://www.ole.com.ar/futbol-internacional/sudamericana/copa-sudamericana-2026-partido-vuelta-octavos-final-river-vs-independiente-santa-fe_0_8mE4zTuqMV.html",
-     "source": "Olé — River",
-     "published": "2026-08-20T02:32:07+00:00",
-     "copete": "El Millonario igualó 0-0 en Bogotá y definirá la serie ante su gente en el Monumental.",
-     "id": "1adb96c83526"
     },
     {
      "title": "La emoción de Palermo por la histórica clasificación de Platense a cuartos de la Libertadores",
@@ -160,28 +190,6 @@
      "id": "078078a09fb1"
     },
     {
-     "title": "Las posibles salidas de Ávalos y Gutiérrez, y por qué Independiente debe liberar un cupo",
-     "link": "https://www.ole.com.ar/independiente/independiente-avalos-gutierrez-jadsonviera-chimyavila_0_KCUN0lip5J.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-19T22:14:28+00:00",
-     "copete": "El delantero y el extremo podrían marcharse en medio de un Rojo que necesita vender para generar recursos. Ambos hablaron sobre esa chance. Mirá.",
-     "id": "631f363fb6fe"
-    },
-    {
-     "title": "Los Pumas vs Australia: ¿Cuándo llegan los seleccionados a Jujuy?",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVl9aZTNtLUMyeGQ2cndMc0RvendOY3BRSFRFVENJcHZNZ3lsX2Y3cUNfZmNBX3ZoMWd1dXhvWHNITUpsZ3loSkN1RjZZQ0FObWRBTzd0d3NTRUhjcWhzenFfRnY5NmhLQ2paLUJ2QWJ0ZWh5MlRNaWNSM3RvUmE2SEt6OXNsVC1XRUdlc2JOSHZwV1ZUX1diOFU0ZmJ0WXROZUNMUktDaUdsaHFtZW9HTHliQkswU0Q5aWR0XzN2cmp6ZTg?oc=5",
-     "source": "ESPN México",
-     "published": "2026-08-19T22:14:00+00:00",
-     "id": "e27536dbfcc3"
-    },
-    {
-     "title": "Cuenta regresiva para Los Pumas: Fan Fest y rugby en el 23 de Agosto",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPajVfcWNuMHNRdU9vMTUwdTM5blg1TmttVzBkZjZ1MThjSFRWV2NFX3Qwc0hkaDBYbzdJYTVQajVlbVRvSUlQZGlvZUVQVFloWVlDYTlOZDluWFhXMmNqeFhKd0YwWnZtNmVtaWVMcGRCdUR6VXhhcGNWOWNFVnU5MDhlcXdzQXU4aGhqRHFoTWczLUoyZEU1TC1OMW8yOFEyRjAwVdIBqgFBVV95cUxPY1JrYl9IMDVRX3BLRVFzZkw5blRhZVQ3OFUybXBlODlaWEpFb1FURHJlaV8ycFVXNmdkb3kzOXRBR1VLRjRsVllJajBLTUpxR1BRMUd6aDJnR2E0Qk9KMHRZdXpVQ3dPX085bnJVX1k3LXJSc1dFSm5XckV3dHVNczFueVNsZXdvaTM2YjFoUGJZeGliY1FDLVRhdkJ0ZHhZczhpbExSaEZmQQ?oc=5",
-     "source": "Jujuy Al Momento",
-     "published": "2026-08-19T22:11:00+00:00",
-     "id": "355e708cd6d6"
-    },
-    {
      "title": "Arranca una nueva edición del Campeonato Argentino Juvenil M17",
      "link": "https://uar.com.ar/arranca-una-nueva-edicion-del-campeonato-argentino-juvenil-m17/",
      "source": "UAR",
@@ -197,6 +205,29 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Top 10 Open-Source Benchmarks for AI Coding Agents in 2026",
+     "link": "https://www.kdnuggets.com/top-10-open-source-benchmarks-for-ai-coding-agents-in-2026",
+     "source": "KDnuggets",
+     "published": "2026-08-20T12:00:38+00:00",
+     "copete": "SWE-bench, Terminal-Bench, SlopCodeBench, ProgramBench, and more. Explore the top 10 open-source benchmarks for evaluating AI coding agents.",
+     "id": "85f51f225fec"
+    },
+    {
+     "title": "Making the Knowledge Layer a Graph You Actually Traverse",
+     "link": "https://towardsdatascience.com/making-the-knowledge-layer-a-graph-you-actually-traverse/",
+     "source": "Towards Data Science",
+     "published": "2026-08-20T12:00:00+00:00",
+     "copete": "Why retrieval quality should be a property of the system, not of the question's wording? Rebuilding knowledge layer with graph traversal on every query, bitemporal edges, and two-threshold entity resolution. The post Making the Knowledge…",
+     "id": "c61c3622226e"
+    },
+    {
+     "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+     "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-20T10:08:52+00:00",
+     "id": "e2dc35a6be96"
+    },
+    {
      "title": "Don't Paste the AI, please",
      "link": "https://dontpastetheai.com/",
      "source": "Hacker News (100+ puntos)",
@@ -204,7 +235,7 @@
      "id": "3ca1d6eea3dc"
     },
     {
-     "title": "Windows brings out the Rorschach test in everyone",
+     "title": "Windows brings out the Rorschach test in everyone (2003)",
      "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
      "source": "Hacker News (100+ puntos)",
      "published": "2026-08-20T06:16:40+00:00",
@@ -242,35 +273,12 @@
      "id": "e53691799f9e"
     },
     {
-     "title": "Feature Request: Support AGENTS.md",
-     "link": "https://github.com/anthropics/claude-code/issues/6235",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-19T21:19:50+00:00",
-     "id": "d829edc693d4"
-    },
-    {
      "title": "How to Scale an Integration Pipeline Without Breaking Correctness",
      "link": "https://towardsdatascience.com/scaling-an-integration-pipeline-without-breaking-correctness/",
      "source": "Towards Data Science",
      "published": "2026-08-19T18:00:00+00:00",
      "copete": "A production account of scaling an enterprise integration pipeline from 500 to 8,000 events per second, and the two correctness guarantees the throughput work was never allowed to trade away. The post How to Scale an Integration Pipeline…",
      "id": "539b727b046f"
-    },
-    {
-     "title": "Kimi K3’s 1M Token Context Window vs. RAG: Cost, Latency and Answer Quality",
-     "link": "https://towardsdatascience.com/kimi-k3s-1m-token-context-window-vs-rag-cost-latency-and-answer-quality/",
-     "source": "Towards Data Science",
-     "published": "2026-08-19T16:30:00+00:00",
-     "copete": "A controlled comparison of a top-5 RAG pipeline and a full 127,000 token prompt on the same 12 questions, same system prompt and same model. Graded blind on correctness, completeness and grounding. The post Kimi K3’s 1M Token Context…",
-     "id": "4f74107daef8"
-    },
-    {
-     "title": "Understanding Anti-AI Public Opinion",
-     "link": "https://towardsdatascience.com/understanding-anti-ai-public-opinion/",
-     "source": "Towards Data Science",
-     "published": "2026-08-19T15:00:00+00:00",
-     "copete": "People can accept tradeoffs when they see value — but if they don’t, what happens? The post Understanding Anti-AI Public Opinion appeared first on Towards Data Science .",
-     "id": "d451ccaa36b3"
     }
    ]
   },
@@ -280,100 +288,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Es uno de los autos más baratos del mercado y consume apenas 4,8L cada 100km",
-     "link": "https://www.lanacion.com.ar/autos/es-uno-de-los-autos-mas-baratos-del-mercado-y-consume-apenas-48l-cada-100km-nid19082026/",
-     "source": "La Nación",
-     "published": "2026-08-20T10:48:56+00:00",
-     "copete": "El MG 3 llega para romper con los códigos tradicionales del segmento: combina una mecánica híbrida de 191 CV con consumos muy bajos y un precio que lo enfrenta con algunos hatchbacks muy vendidos",
-     "id": "e9126652170a"
+     "title": "Perder el miedo al comercio exterior para animarse a exportar o importar",
+     "link": "https://www.infobae.com/movant/2026/08/19/perder-el-miedo-al-comercio-exterior-para-animarse-a-exportar-o-importar/",
+     "source": "Infobae",
+     "published": "2026-08-20T13:18:34+00:00",
+     "copete": "Rosalía Guzmán, despachante de aduana y licenciada en comercio internacional, explica por qué perder el miedo a exportar o importar impulsa a pymes, diseñadores y artistas que dudan en salir al mundo",
+     "id": "584c97e946d1"
     },
     {
-     "title": "Cuál es la ciudad argentina con los alquileres más baratos en agosto 2026",
-     "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/cual-es-la-ciudad-argentina-con-los-alquileres-mas-baratos-en-agosto-2026-nid19082026/",
-     "source": "La Nación",
-     "published": "2026-08-20T10:46:40+00:00",
-     "copete": "Los precios de los departamentos en alquiler continúan en aumento, pero no en todas las provincias ni ciudades suben al mismo ritmo ni tienen los mismos valores",
-     "id": "f1f75d1f0e78"
+     "title": "Euro hoy en Panamá : cotización de apertura del 20 de agosto",
+     "link": "https://www.infobae.com/noticias/2026/08/20/euro-hoy-en-panama-cotizacion-de-apertura-del-20-de-agosto/",
+     "source": "Infobae",
+     "published": "2026-08-20T13:18:06+00:00",
+     "copete": "Este fue el comportamiento de la principal moneda europea en la apertura de divisas",
+     "id": "5290153db568"
     },
     {
-     "title": "Estos son los tres puntos clave que hay que aclarar en los contratos de alquiler para evitar problemas",
-     "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/estos-son-los-tres-puntos-clave-que-hay-que-aclarar-en-los-contratos-de-alquiler-para-evitar-nid18082026/",
+     "title": "Euro hoy en Cuba: cotización de apertura del 20 de agosto",
+     "link": "https://www.infobae.com/noticias/2026/08/20/euro-hoy-en-cuba-cotizacion-de-apertura-del-20-de-agosto/",
+     "source": "Infobae",
+     "published": "2026-08-20T13:17:49+00:00",
+     "copete": "Este fue el comportamiento de la principal moneda europea en la apertura de operaciones",
+     "id": "8c8e94c4458e"
+    },
+    {
+     "title": "Dólar hoy en Panamá: cotización de apertura del 20 de agosto",
+     "link": "https://www.infobae.com/noticias/2026/08/20/dolar-hoy-en-panama-cotizacion-de-apertura-del-20-de-agosto/",
+     "source": "Infobae",
+     "published": "2026-08-20T13:17:32+00:00",
+     "copete": "Este fue el comportamiento de la divisa estadounidense durante los primeros minutos de la jornada",
+     "id": "ff97960aa15f"
+    },
+    {
+     "title": "Científicos argentinos logran anticipar el rechazo en trasplantes renales mediante la medición de un virus",
+     "link": "https://www.infobae.com/salud/ciencia/2026/08/19/cientificos-argentinos-logran-anticipar-el-rechazo-en-trasplantes-renales-mediante-la-medicion-de-un-virus/",
+     "source": "Infobae",
+     "published": "2026-08-20T13:17:19+00:00",
+     "copete": "Un estudio realizado por expertos del CEMIC-CONICET muestra que un análisis de sangre puede ayudar a personalizar los cuidados y disminuir riesgos en quienes reciben un órgano",
+     "id": "85cfe78da755"
+    },
+    {
+     "title": "Encontraron muerto a un nene de 6 años en Santa Fe y detuvieron a su madre",
+     "link": "https://www.lanacion.com.ar/seguridad/murio-un-nino-de-6-anos-en-santa-fe-y-su-madre-quedo-detenida-nid20082026/",
      "source": "La Nación",
-     "published": "2026-08-20T10:46:28+00:00",
-     "copete": "Antes de firmar un acuerdo de locación, es importante aclarar diversas condiciones para que no haya ningún malentendido entre las partes",
-     "id": "c98d0b10e756"
+     "published": "2026-08-20T13:09:26+00:00",
+     "copete": "Los vecinos aseguran haber escuchado gritos",
+     "id": "58741ac36ef0"
     },
     {
      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este jueves 20 de agosto, minuto a minuto",
      "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid20082026/",
      "source": "La Nación",
-     "published": "2026-08-20T10:46:13+00:00",
+     "published": "2026-08-20T13:09:22+00:00",
      "copete": "La divisa oficial operó a $1515 para la venta en el Banco Nación; el dólar blue cotizó a $1555 para esa operación; qué pasa con el MEP y el CCL",
      "id": "a7b45a1dbd77"
     },
     {
-     "title": "El secreto de las automotrices chinas para revolucionar a la industria en el mundo",
-     "link": "https://www.lanacion.com.ar/autos/el-secreto-de-las-automotrices-chinas-para-revolucionar-a-la-industria-en-el-mundo-nid17082026/",
+     "title": "Luisana Lopilato celebró los 4 años de su hija Cielo con un emotivo video: “La jefa de la casa”",
+     "link": "https://www.lanacion.com.ar/espectaculos/luisana-lopilato-celebro-los-4-anos-de-su-hija-cielo-con-un-emotivo-video-la-jefa-de-la-casa-nid20082026/",
      "source": "La Nación",
-     "published": "2026-08-20T10:45:37+00:00",
-     "copete": "Las marcas chinas recuperaron protagonismo en su mercado interno, mientras las occidentales recurren a plataformas, tecnología y socios locales para recuperar competitividad",
-     "id": "199d9afac846"
+     "published": "2026-08-20T13:05:28+00:00",
+     "copete": "La ex Chiquititas hizo una tierna publicación en Instagram que incluyó una serie de imágenes que dieron cuenta de cómo creció la más pequeña de la casa",
+     "id": "c8e3fce4598c"
     },
     {
-     "title": "La formación logística acelera su vínculo con la industria, pero enfrenta una brecha tecnológica",
-     "link": "https://www.infobae.com/movant/2026/08/20/la-formacion-logistica-acelera-su-vinculo-con-la-industria-pero-enfrenta-una-brecha-tecnologica/",
-     "source": "Infobae",
-     "published": "2026-08-20T10:45:00+00:00",
-     "copete": "Un relevamiento entre 82 docentes de 35 instituciones educativas mostró una fuerte conexión con la actividad profesional, aunque la incorporación de herramientas digitales todavía presenta desafíos",
-     "id": "8714726f3aea"
+     "title": "Quién era la mujer que falleció al caer de un barranco en Jujuy: su hija tiene muerte cerebral",
+     "link": "https://www.lanacion.com.ar/sociedad/quien-era-la-mujer-que-fallecio-al-caer-de-un-barranco-en-jujuy-su-hija-tiene-muerte-cerebral-nid20082026/",
+     "source": "La Nación",
+     "published": "2026-08-20T13:05:22+00:00",
+     "copete": "Silvia Rosana Amaro estaba de vacaciones en el norte del país junto a su familia; el resto de las víctimas permanece internada con heridas de distinta gravedad",
+     "id": "2fb247070794"
     },
     {
-     "title": "Thiago Tirante enfrentará a Arthur Fils en busca de las semifinales del Masters 1000 de Cincinnati: hora y cómo ver en vivo",
-     "link": "https://www.infobae.com/deportes/2026/08/20/thiago-tirante-enfrentara-a-arthur-fils-en-busca-de-las-semifinales-del-masters-1000-de-cincinnati-hora-y-como-ver-en-vivo/",
-     "source": "Infobae",
-     "published": "2026-08-20T10:41:26+00:00",
-     "copete": "El argentino, que atraviesa la mejor semana de su carrera y viene de eliminar a Jakub Mensik, se medirá con el francés, 21° del ranking ATP",
-     "id": "89184a59cbfd"
+     "title": "Murió la madre de las dos hermanas de 21 y 19 años que fallecieron en el choque de la ruta 60",
+     "link": "https://www.lanacion.com.ar/sociedad/murio-la-madre-de-las-dos-hermanas-de-21-y-19-anos-que-fallecieron-en-el-choque-de-la-ruta-60-nid19082026/",
+     "source": "La Nación",
+     "published": "2026-08-20T13:03:44+00:00",
+     "copete": "Ariadna Tillar iba a bordo de la Volkswagen T-Cross que impactó contra otro automóvil el domingo por la noche; ya son cuatro las víctimas fatales del siniestro",
+     "id": "ffd3071b6f87"
     },
     {
-     "title": "Max Verstappen terminó con los rumores sobre su salida de la Fórmula 1 y renovó contrato con Red Bull hasta 2030",
-     "link": "https://www.infobae.com/deportes/2026/08/20/max-verstappen-termino-con-los-rumores-sobre-su-salida-de-la-formula-1-y-renovo-contrato-con-red-bull-hasta-2030/",
-     "source": "Infobae",
-     "published": "2026-08-20T10:40:08+00:00",
-     "copete": "El piloto neerlandés prolongó su vínculo con la escudería y seguirá en la Máxima. “Estoy emocionado de seguir trabajando juntos para volver a la cima”, dijo el cuatro veces campeón",
-     "id": "5d072b6f1cbc"
-    },
-    {
-     "title": "Milei se pone al frente de su batalla cultural: la intimidad de un Gobierno que admite el descontento social",
-     "link": "https://www.infobae.com/politica/2026/08/20/milei-se-pone-al-frente-de-su-batalla-cultural-la-intimidad-de-un-gobierno-que-admite-el-descontento-social/",
-     "source": "Infobae",
-     "published": "2026-08-20T10:28:13+00:00",
-     "copete": "El Presidente escribió el discurso económico que dará hoy; el Gobierno comenzó a reconocer que la economía no se reactivó como se esperaba y Bullrich fue más allá; las diferencias tácticas del ala política",
-     "id": "d807a301128f"
-    },
-    {
-     "title": "Rosario Central buscará la clasificación a cuartos de final de la Copa Libertadores frente al Corinthians: hora, TV y formaciones",
-     "link": "https://www.infobae.com/deportes/2026/08/20/rosario-central-buscara-la-clasificacion-a-cuartos-de-final-de-la-copa-libertadores-frente-al-corinthians-hora-tv-y-formaciones/",
-     "source": "Infobae",
-     "published": "2026-08-20T10:27:16+00:00",
-     "copete": "Tras el empate 0-0 en la ida, el conjunto argentino jugará en Brasil ante el Timao. Desde las 21.30, por Telefé y Fox Sports",
-     "id": "f66c75d40be0"
-    },
-    {
-     "title": "Dólar CCL hoy: a cuánto cotiza este jueves 20 de agosto",
-     "link": "https://www.clarin.com/economia/dolar-ccl-hoy-cotiza-jueves-20-agosto_0_PcFCxUEfcB.html",
+     "title": "Encontraron un diente del tiburón más grande que jamás haya existido",
+     "link": "https://www.clarin.com/internacional/encontraron-diente-tiburon-grande-jamas-existido_0_BxHOUGdkvT.html",
      "source": "Clarín",
-     "published": "2026-08-20T10:08:01+00:00",
-     "copete": "Mirá la cotización para la compra y venta del dólar CCL hoy. Cotizaciones, evolución, previsiones e información para el cambio de monedas.",
-     "id": "10ffa55d8cfb"
+     "published": "2026-08-20T12:38:07+00:00",
+     "copete": "El diente pertenecía a un megalodón, el tiburón más grande conocido. La pieza perteneció a un ejemplar de esta especie prehistórica, extinguida hace unos 3,6 millones de años.",
+     "id": "5905acfee232"
     },
     {
-     "title": "Dólar tarjeta hoy: a cuánto cotiza este jueves 20 de agosto",
-     "link": "https://www.clarin.com/economia/dolar-tarjeta-hoy-cotiza-jueves-20-agosto_0_UEZEOTmnGJ.html",
+     "title": "La CGT marcha al Ministerio de Economía por la situación de los morosos y las pymes reclaman por el cierre de empresas",
+     "link": "https://www.clarin.com/politica/cgt-marcha-ministerio-economia-situacion-morosos-pymes-reclaman-cierre-empresas_0_A8YmA5IMiX.html",
      "source": "Clarín",
-     "published": "2026-08-20T10:08:01+00:00",
-     "copete": "Mirá la cotización para la compra y venta del dólar tarjeta hoy. Cotizaciones, evolución, previsiones e información para el cambio de monedas.",
-     "id": "8c857c7bcc1c"
+     "published": "2026-08-20T12:33:14+00:00",
+     "copete": "La central sindical marchará junto a las dos CTA y organizaciones sociales para pedir una ayuda para las familias endeudadas. En paralelo, cámaras empresarias se movilizarán a Plaza de Mayo para advertir sobre la caída de la actividad y…",
+     "id": "c5b5132ee5c5"
     }
    ]
   },
@@ -383,36 +391,68 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-     "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+     "title": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
+     "link": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-20T10:41:25+00:00",
-     "copete": "Michele Sensi-Contugi and his wife Stephany Hollihan are among the seven people killed in the crash.",
-     "id": "96f51d25cdbc"
+     "published": "2026-08-20T13:04:15+00:00",
+     "copete": "Investigators believe they have identified an arsonist who attacked a Jewish community centre in Munich in 1970, killing seven people.",
+     "id": "1acfe0c02203"
     },
     {
-     "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+     "title": "Assad officer extradited to Syria on war crimes charges for first time",
+     "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-20T12:38:35+00:00",
+     "copete": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
+     "id": "854cfb2dfbed"
+    },
+    {
+     "title": "\"Mi prioridad era sacar a esos niños\": la historia de una de las imágenes más conmovedoras del terremoto en Colombia",
+     "link": "https://www.bbc.com/mundo/articles/c8en3n78x5go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-20T12:05:55+00:00",
+     "copete": "En medio del caos, el personal del Hospital Universitario del Valle reaccionó con rapidez y vocación, salvando vidas y reorganizándose contrarreloj.",
+     "id": "23c5e3aa1683"
+    },
+    {
+     "title": "Cómo el juicio contra una madre acusada de matar a sus 3 hijos impulsa la discusión sobre la psicosis posparto en EE.UU.",
+     "link": "https://www.bbc.com/mundo/articles/c2lq44gqg1jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-20T11:59:07+00:00",
+     "copete": "La psicosis posparto es una urgencia psiquiátrica que puede conllevar manía, depresión, alucinaciones y delirios.",
+     "id": "d08d4d52cea1"
+    },
+    {
+     "title": "Al menos 16 muertos y decenas de heridos en un ataque ruso con misiles contra Kiev",
+     "link": "https://elpais.com/internacional/2026-08-20/varios-muertos-y-decenas-de-heridos-en-un-ataque-ruso-contra-kiev.html",
+     "source": "El País Internacional",
+     "published": "2026-08-20T11:12:03+00:00",
+     "copete": "Las explosiones afectan a varios puntos de la ciudad, entre ellos un depósito de municiones, y obligan a cortar el suministro eléctrico en algunas zonas",
+     "id": "f89f57fb0b79"
+    },
+    {
+     "title": "Former Liberian vice-president charged in drug-trafficking probe",
+     "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-20T11:08:19+00:00",
+     "copete": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations.",
+     "id": "2c99652c82b7"
+    },
+    {
+     "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-20T10:34:33+00:00",
-     "copete": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+     "published": "2026-08-20T11:06:54+00:00",
+     "copete": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say.",
      "id": "cedf7f5c0142"
     },
     {
-     "title": "Four workers dead after being hit by train in Japan",
-     "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-20T10:32:31+00:00",
-     "copete": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
-     "id": "6548cb7061c8"
-    },
-    {
-     "title": "Israel opens up bids for highly sensitive West Bank settlement project",
-     "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-20T10:30:52+00:00",
-     "copete": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
-     "id": "3d02ce96b227"
+     "title": "Seúl alerta del lanzamiento de una decena de misiles de corto alcance desde Corea del Norte al mar de Japón",
+     "link": "https://elpais.com/internacional/2026-08-20/seul-alerta-del-lanzamiento-de-una-decena-de-misiles-de-corto-alcance-desde-corea-del-norte-al-mar-de-japon.html",
+     "source": "El País Internacional",
+     "published": "2026-08-20T11:05:56+00:00",
+     "copete": "Las autoridades niponas habían confirmado previamente haber detectado el lanzamiento de un solo proyectil. Trump confirma que quiere verse este año con el líder norcoreano, Kim Jong-un",
+     "id": "a2ab5d77eb9e"
     },
     {
      "title": "Lo que la exitosa salida a bolsa de la mayor empresa de robots humanoides del mundo revela sobre el liderazgo tecnológico de China",
@@ -429,38 +469,6 @@
      "published": "2026-08-20T09:55:27+00:00",
      "copete": "Ante el creciente número de hombres jóvenes que optan por este método anticonceptivo, la BBC habló con dos de ellos para conocer las razones que los llevaron a tomar esta decisión.",
      "id": "8a90969d8a5c"
-    },
-    {
-     "title": "“El hombre más peligroso de Alemania”: una portada de prensa revoluciona la campaña electoral de la extrema derecha",
-     "link": "https://elpais.com/internacional/2026-08-20/el-hombre-mas-peligroso-de-alemania-una-portada-de-prensa-revoluciona-la-campana-electoral-de-la-extrema-derecha.html",
-     "source": "El País Internacional",
-     "published": "2026-08-20T08:52:56+00:00",
-     "copete": "AfD da por hecho que el último número del semanario ‘Der Spiegel’ les permitirá obtener la mayoría absoluta en el Estado de Sajonia-Anhalt",
-     "id": "8124486b0bd6"
-    },
-    {
-     "title": "Al menos 100 muertos tras derrumbarse una mina de oro en República Centroafricana",
-     "link": "https://elpais.com/internacional/2026-08-20/al-menos-100-muertos-tras-derrumbarse-una-mina-de-oro-en-republica-centroafricana.html",
-     "source": "El País Internacional",
-     "published": "2026-08-20T08:50:45+00:00",
-     "copete": "Autoridades locales y testigos del incidente apuntan a un deslizamiento de tierra como causa del colapso del yacimiento",
-     "id": "0bd5f0b3414b"
-    },
-    {
-     "title": "Trump proclama “la mayor guerra económica” contra Irán",
-     "link": "https://elpais.com/internacional/2026-08-20/trump-proclama-la-mayor-guerra-economica-contra-iran.html",
-     "source": "El País Internacional",
-     "published": "2026-08-20T07:26:04+00:00",
-     "copete": "El presidente de Estados Unidos amenaza con graves represalias a los países que permitan ayudar a Teherán",
-     "id": "9adcc931fade"
-    },
-    {
-     "title": "Al menos 12 muertos y decenas de heridos en un ataque ruso con misiles contra Kiev",
-     "link": "https://elpais.com/internacional/2026-08-20/varios-muertos-y-decenas-de-heridos-en-un-ataque-ruso-contra-kiev.html",
-     "source": "El País Internacional",
-     "published": "2026-08-20T07:08:31+00:00",
-     "copete": "Las explosiones afectan a varios puntos de la ciudad, entre ellos un depósito de municiones, y obligan a cortar el suministro eléctrico en algunas zonas",
-     "id": "f89f57fb0b79"
     }
    ]
   }
@@ -474,11 +482,6 @@
   {
    "section": "cardiologia",
    "feed": "Circulation (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "cardiologia",
-   "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]

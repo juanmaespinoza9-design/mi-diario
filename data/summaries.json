@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T22:06:51Z",
+  "generated_at": "2026-08-20T10:10:00Z",
   "summaries": {
     "7136b15d9828": {
       "resumen": "Breve nota de TCTMD sobre el rol creciente de África en los ensayos clínicos globales de cardiología, un continente históricamente subrepresentado en la investigación. Vale la pena porque diversificar dónde se hacen los estudios mejora la validez externa de los resultados que después aplicamos en la práctica.",
@@ -38,45 +38,45 @@
     "b9609661894f": {
       "resumen": "Artículo del Journal of the American College of Cardiology (JACC), a cargo de Rajagopalan S y colaboradores, que analiza las implicancias para la salud cardiovascular de la desregulación ambiental en Estados Unidos, es decir, el retroceso de normas de protección del aire, el agua y el clima. Vale la pena porque conecta decisiones de política pública con el riesgo cardiovascular poblacional, un ángulo poco habitual pero cada vez más relevante."
     },
-    "79127fb50f93": {
-      "resumen": "Notas de la nueva versión 1.27 del lenguaje de programación Go, muy comentada en Hacker News. Le sirve a quien aprende análisis de datos como referencia sobre las herramientas usadas para construir sistemas de datos en producción, aunque Go no sea el lenguaje habitual para el análisis exploratorio (ese rol lo cumplen Python o R)."
-    },
     "539b727b046f": {
       "resumen": "Relato técnico de Towards Data Science sobre cómo escalar un pipeline de integración de datos empresarial de 500 a 8.000 eventos por segundo sin sacrificar dos garantías de correctitud de los datos. Aporta lecciones prácticas sobre los compromisos entre velocidad y confiabilidad al construir sistemas de datos a gran escala, algo central para quien piensa una carrera en ciencia de datos aplicada."
-    },
-    "44dce72c1eb7": {
-      "resumen": "Anuncio de que OpenRouter, la plataforma que permite acceder a múltiples modelos de inteligencia artificial con una sola integración, se suma a Stripe, la empresa de pagos online. Le sirve a quien sigue el ecosistema de inteligencia artificial para entender cómo se van consolidando los intermediarios que facilitan usar distintos modelos de lenguaje desde una sola herramienta."
     },
     "4f74107daef8": {
       "resumen": "Comparación controlada de Towards Data Science entre dos formas de darle contexto a un modelo de lenguaje: un sistema de recuperación aumentada (RAG, retrieval-augmented generation) que busca los cinco fragmentos más relevantes, contra cargar un documento completo de 127.000 tokens en la ventana de contexto de un millón de tokens del modelo Kimi K3. Evaluaron a ciego 12 preguntas por corrección, completitud y fundamentación en la fuente. Le sirve a quien aprende análisis de datos porque muestra, con metodología clara, cuándo conviene invertir en un sistema de búsqueda y cuándo alcanza con un contexto largo.",
       "destacado": true
     },
-    "5c80812e7584": {
-      "resumen": "Estudio de la Universidad de Colorado, difundido en Hacker News, que encontró mayor bienestar autopercibido entre trabajadores remotos frente a presenciales o híbridos, en una muestra de 7.700 empleados. Le sirve a quien piensa en la ciencia de datos aplicada a recursos humanos como ejemplo de cómo se mide el bienestar laboral con encuestas a gran escala."
-    },
-    "4860db51b048": {
-      "resumen": "Ficha de producto de un reloj digital Casio, muy votada en Hacker News por su diseño minimalista. No aporta contenido de ciencia de datos ni de inteligencia artificial; se incluye solo porque circuló en la comunidad tecnológica."
-    },
     "d451ccaa36b3": {
       "resumen": "Artículo de Towards Data Science que explora por qué crece el rechazo público a la inteligencia artificial cuando la gente no percibe un valor claro a cambio de los compromisos que exige (privacidad, empleo, uso de datos). Le sirve a quien trabaja con datos e inteligencia artificial para entender la aceptación social como una variable más a la hora de diseñar y comunicar un proyecto."
     },
-    "069e82f3f1a1": {
-      "resumen": "Guía de KDnuggets sobre cómo encarar las entrevistas técnicas de diseño de sistemas de inteligencia artificial, que reemplazaron a las clásicas preguntas de diseño de aplicaciones (\"diseñá YouTube\") por consignas como \"diseñá ChatGPT\". Le sirve a quien está en transición hacia el análisis de datos porque anticipa el tipo de evaluación que se usa hoy en procesos de selección para roles de inteligencia artificial."
+    "795bf78ffcc4": {
+      "resumen": "Nota clásica del blog de Raymond Chen (Old New Thing, de Microsoft) sobre cómo un mismo elemento ambiguo de la interfaz de Windows genera interpretaciones opuestas en distintos usuarios, como un test de Rorschach. Le sirve a quien piensa en diseño de interfaces y visualización de datos, porque muestra cómo la ambigüedad de un elemento visual puede llevar a conclusiones distintas según quién lo mire."
     },
-    "7c71053de4d2": {
-      "resumen": "Publicación de la comunidad r/datascience que comparte una herramienta interactiva y gratuita para aprender diseño de sistemas de aprendizaje automático (machine learning). Le sirve a quien recién se inicia en ciencia de datos como recurso práctico y sin costo para entender cómo se arma un sistema de inteligencia artificial de punta a punta."
+    "14d04233de5d": {
+      "resumen": "Artículo técnico de 2022 que argumenta por qué usar 'vueltas' (turns, donde una vuelta completa equivale a 1) resulta más práctico que los radianes para programar funciones trigonométricas, porque reduce errores de redondeo y hace el código más legible. Le sirve a quien aprende análisis de datos porque toca decisiones concretas de representación numérica, útiles al programar señales periódicas o gráficos circulares."
     },
-    "6bf999f84947": {
-      "resumen": "Recorrido de KDnuggets por cinco herramientas, una para cada capa del proceso de construir y llevar a producción agentes de inteligencia artificial: desde la lógica del agente hasta la infraestructura para correrlo a escala. Le sirve a quien aprende análisis de datos como mapa concreto de las herramientas disponibles para pasar de un prototipo de inteligencia artificial a un sistema real."
+    "5cb86b7b06ea": {
+      "resumen": "Simon Willison probó smolmachines/smolvm, un servicio de sandboxing (entorno aislado y seguro) para ejecutar código Python y JavaScript no confiable, apoyándose en el modelo de lenguaje Claude Fable 5 como asistente de investigación. Le interesa a quien trabaja con datos porque ejecutar de forma segura código generado por inteligencia artificial es un problema cada vez más frecuente al automatizar análisis."
     },
-    "0d4403a526eb": {
-      "resumen": "Los Pumas abrirán las puertas de un entrenamiento en Jujuy de cara al partido ante los Wallabies de Australia."
+    "287e3b90895c": {
+      "resumen": "Cita de Jeremy Morrell sobre una nueva oportunidad para el 'software extensible' en la web: los modelos de lenguaje (LLM, large language model) bajan el costo de escribir extensiones y los entornos de sandbox (entorno aislado y seguro) modernos bajan el costo de desplegarlas con garantías de seguridad. Aporta una idea sobre hacia dónde va el desarrollo apoyado en inteligencia artificial, útil para entender el ecosistema de herramientas en el que se van a insertar los análisis de datos del futuro."
     },
-    "389b4dc7f9e2": {
-      "resumen": "Cuándo llegan Los Pumas y los Wallabies a Jujuy antes de su cruce por el Rugby Championship."
+    "e53691799f9e": {
+      "resumen": "Simon Willison comparte reflexiones de una charla en el podcast Talking Postgres sobre cómo la inteligencia artificial está cambiando el desarrollo de software, cuestionando contar líneas de código como medida de productividad frente al concepto de integridad conceptual del diseño. Le sirve a un médico en transición hacia el análisis de datos para pensar qué métricas realmente importan al evaluar un proyecto, más allá del volumen de código escrito."
     },
-    "9122f77c4dd9": {
-      "resumen": "Habrá un Fan Fest el 23 de agosto en Jujuy para acompañar el partido entre Los Pumas y Australia."
+    "d829edc693d4": {
+      "resumen": "Pedido de la comunidad en un issue de GitHub para que Claude Code, la herramienta de línea de comandos de Anthropic, adopte el estándar AGENTS.md (un archivo de instrucciones para agentes de inteligencia artificial que ya usan otras herramientas de programación asistida). Aporta contexto sobre cómo se está estandarizando la configuración de asistentes de inteligencia artificial en proyectos de código, útil para quien empieza a usar estas herramientas en sus propios análisis."
+    },
+    "b650c8e47359": {
+      "resumen": "Relato técnico de cómo un investigador logró desbloquear una máquina de corte Cricut Maker descartada como chatarra electrónica, que había quedado inutilizada por un bloqueo remoto del fabricante. Aporta un ejemplo de ingeniería inversa y seguridad de dispositivos con software embebido, un área vecina al análisis de datos aunque no sea su foco central."
+    },
+    "078078a09fb1": {
+      "resumen": "Un atleta que pasó por Los Pumas 7's y llegó a tener el récord argentino de los 100 metros ahora vuelve al rugby, según cuenta La Gaceta."
+    },
+    "e27536dbfcc3": {
+      "resumen": "ESPN México repasa cuándo llegan a Jujuy las selecciones de Los Pumas y de Australia de cara a su cruce por el Rugby Championship."
+    },
+    "355e708cd6d6": {
+      "resumen": "Jujuy se prepara para recibir el partido de Los Pumas ante Australia con un Fan Fest y actividades de rugby programadas para el 23 de agosto."
     }
   }
 }

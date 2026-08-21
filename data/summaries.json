@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T10:15:00Z",
+  "generated_at": "2026-08-21T22:06:36Z",
   "summaries": {
     "e77d6b7f90b1": {
       "resumen": "Cobertura de TCTMD sobre un estudio que muestra que la mortalidad asociada a la estenosis aórtica —el estrechamiento de la válvula aórtica del corazón— viene bajando con el tiempo, aunque persisten diferencias importantes entre subgrupos poblacionales. Vale la pena porque, más allá de la mejora global gracias al diagnóstico temprano y al reemplazo valvular aórtico percutáneo (TAVI, transcatheter aortic valve implantation), las brechas de acceso siguen determinando quién se beneficia realmente de esos avances.",
@@ -14,10 +14,6 @@
       "resumen": "Nota de TCTMD sobre la composición de los comités que dirigen los ensayos clínicos de cardiología estructural (por ejemplo, reemplazo valvular percutáneo): las mujeres siguen subrepresentadas en esos cargos de liderazgo. Vale la pena porque quién decide el diseño y la conducción de un ensayo también influye en qué preguntas se investigan y cómo se interpretan los resultados.",
       "destacado": false,
       "analisis": "Diseño: nota de TCTMD sobre un análisis, probablemente transversal, de la composición por sexo de los comités directivos (steering committees) de ensayos clínicos de cardiología estructural; no se pudo acceder al artículo original para precisar la cantidad de ensayos o comités relevados ni el período analizado.\nPoblación: comités de dirección y liderazgo de ensayos clínicos de intervenciones estructurales cardíacas (por ejemplo, reemplazo valvular aórtico transcatéter, reparación valvular percutánea).\nIntervención: no aplica; es un estudio descriptivo/observacional sobre representación de género, sin intervención terapéutica.\nResultados: no disponibles con precisión por falta de acceso al abstract; el título indica que la subrepresentación femenina persiste en estos comités.\nLimitaciones: sin la fuente primaria no es posible valorar la metodología de conteo, el período cubierto ni si se ajustó por especialidad o país de origen de los ensayos.\nMensaje: refuerza la necesidad de diversificar el liderazgo de los ensayos de cardiología estructural, lo que podría mejorar la relevancia de las preguntas de investigación para las pacientes mujeres.\nNota: análisis sin acceso al abstract."
-    },
-    "3f8800b773f8": {
-      "resumen": "Artículo de TCTMD sobre cómo aplicar en la práctica diaria la evidencia sobre soporte hemodinámico mecánico (como balón de contrapulsación intraaórtico o dispositivos de asistencia ventricular percutánea) en pacientes de alto riesgo que van a una angioplastia coronaria. Vale la pena porque estos pacientes complejos son cada vez más frecuentes en la sala de hemodinamia y todavía genera debate cuándo conviene usar soporte.",
-      "destacado": false
     },
     "4a6f912100bd": {
       "resumen": "Artículo del Journal of the American College of Cardiology (JACC) que repasa el rol vigente de la miectomía septal quirúrgica en la miocardiopatía hipertrófica obstructiva sintomática, 65 años después de su primera descripción, e incluye las innovaciones técnicas recientes. Vale la pena porque, pese a la llegada de los inhibidores de la miosina cardíaca, la cirugía sigue siendo la opción definitiva en casos seleccionados y conviene tener actualizado el criterio de derivación.",
@@ -39,49 +35,74 @@
       "resumen": "Cobertura de TCTMD sobre el documento conjunto del Colegio Americano de Cardiología (ACC) y la Asociación Americana del Corazón (AHA) que actualiza las medidas de desempeño y calidad clínica para la fibrilación auricular. Vale la pena porque resume, en formato de noticia, los mismos indicadores con los que se va a auditar la atención de estos pacientes.",
       "destacado": false
     },
-    "7d7e3022b040": {
-      "resumen": "Revisión del European Heart Journal sobre la cardiopatía isquémica más allá de las estenosis coronarias obstructivas —el cuadro conocido como isquemia con arterias coronarias no obstructivas (INOCA) o angina microvascular—, desde la prevención hasta el tratamiento. Vale la pena porque es una entidad subdiagnosticada, más frecuente en mujeres, y esta puesta al día ayuda a sospecharla y manejarla en la consulta diaria.",
+    "2198caf304db": {
+      "resumen": "Cobertura de TCTMD sobre datos del estudio AGENT IDE que confirman que preparar bien la lesión (angioplastia con balón antes de aplicar el fármaco) mejora los resultados del balón farmacoactivo (DCB, drug-coated balloon) cuando se trata la reestenosis intrastent (ISR, in-stent restenosis), es decir, el reangostamiento dentro de un stent ya colocado. Vale la pena porque el DCB se usa cada vez más para evitar poner \"stent sobre stent\", y esto ayuda a definir la técnica óptima antes de aplicarlo.",
+      "destacado": false,
+      "analisis": "Diseño: nota de TCTMD que reporta datos, probablemente de un análisis del estudio/registro AGENT IDE sobre balón farmacoactivo con paclitaxel para reestenosis intrastent; no se pudo acceder a la fuente original para precisar si se trata de un subanálisis, el número de pacientes o centros, ni el diseño exacto.\nPoblación: pacientes con reestenosis intrastent (ISR) tratados con balón farmacoactivo (DCB), comparando el resultado según se haya realizado o no una preparación adecuada de la lesión antes del DCB.\nIntervención: preparación de la lesión (por ejemplo, angioplastia con balón convencional o no complaciente, o aterectomía) previa al uso del balón farmacoactivo, comparada con un DCB aplicado sin esa preparación óptima.\nResultados: no disponibles con precisión por falta de acceso a la fuente primaria; el título indica que los datos confirman el beneficio de la preparación de la lesión antes del DCB.\nLimitaciones: sin la fuente primaria no es posible evaluar el tamaño de la muestra, el seguimiento, ni si el análisis fue preespecificado o post-hoc.\nMensaje: refuerza en la práctica que, antes de usar un balón farmacoactivo en reestenosis intrastent, conviene invertir en una preparación adecuada de la lesión para optimizar el resultado.\nNota: análisis sin acceso al abstract."
+    },
+    "64c3c41cd6aa": {
+      "resumen": "Caso clínico del New England Journal of Medicine (Case Records of the Massachusetts General Hospital) sobre una mujer de 70 años con palpitaciones, fatiga y disnea (dificultad para respirar), en su versión de réplica al comentario sobre el caso original. Vale la pena porque estos casos clínicos con discusión paso a paso son un ejercicio clásico de razonamiento diagnóstico en cardiología.",
       "destacado": false
     },
-    "4794c079ade7": {
-      "resumen": "Nota de historia tecnológica que repasa cómo Japón intentó en los años 80 desarrollar TRON, un sistema operativo propio pensado para uso mundial, y cómo la intervención comercial de Estados Unidos frenó ese proyecto. Le sirve a quien se forma en análisis de datos porque ilustra cómo las decisiones geopolíticas y comerciales moldean qué tecnologías terminan dominando el ecosistema de software que usamos hoy."
+    "04196dd38241": {
+      "resumen": "Caso clínico del New England Journal of Medicine (Case Records of the Massachusetts General Hospital): una mujer de 70 años que consulta por palpitaciones (sensación de \"corazón acelerado\"), fatiga y disnea. Vale la pena porque expone el razonamiento diagnóstico completo, desde los síntomas hasta el diagnóstico final, un formato clásico de aprendizaje en cardiología.",
+      "destacado": false
     },
-    "f8d5e817777c": {
-      "resumen": "Reporte de un error (bug) en la integración de Codex, el agente de programación de OpenAI, con Amazon Web Services (AWS) Bedrock, que llegó a facturar hasta diez veces más de lo esperado a algunos usuarios. Le sirve a quien empieza a usar agentes de inteligencia artificial para programar porque advierte sobre la necesidad de monitorear de cerca los costos de estas herramientas antes de automatizar tareas a gran escala."
+    "d48e6bd50d59": {
+      "resumen": "Carta de réplica en el New England Journal of Medicine dentro de un intercambio de correspondencia sobre tejido biológico de asistencia ventricular en insuficiencia cardíaca, una estrategia experimental para reforzar un corazón que bombea mal. Vale la pena porque estos intercambios entre autores suelen aclarar dudas metodológicas o resultados que no quedaron claros en el artículo original.",
+      "destacado": false
     },
-    "92d0acf4aa3a": {
-      "resumen": "Nota de Anna's Archive que denuncia que empresas de inteligencia artificial estarían destruyendo libros físicos después de escanearlos para entrenar sus modelos, y llama a digitalizar libros raros antes de que se pierdan. Le sirve a quien trabaja con datos porque plantea un dilema ético sobre la procedencia (provenance) de los datos usados para entrenar modelos y la preservación del conocimiento original."
+    "e505f725d54b": {
+      "resumen": "Artículo de Towards Data Science que explica cómo convertir a Codex, el agente de programación de OpenAI, de un asistente interactivo a un componente de automatización programable que corre sin interfaz (headless), es decir, ejecutado por script sin intervención manual. Le sirve a un médico que aprende análisis de datos porque muestra cómo integrar agentes de inteligencia artificial dentro de flujos de trabajo automatizados, más allá de usarlos como chat.",
+      "destacado": false
     },
-    "d58dda0fceea": {
-      "resumen": "Análisis de Simon Willison sobre cómo la búsqueda de ChatGPT empezó a usar de forma masiva el operador 'site:' (que restringe una búsqueda a un sitio puntual) y sobre el auge de la optimización para motores generativos (GEO, Generative Engine Optimization), la versión para chatbots del clásico posicionamiento en buscadores (SEO). Le sirve a quien trabaja con datos porque muestra cómo cambia la forma de indexar y recuperar información cuando el usuario final es un modelo de lenguaje y no una persona googleando."
+    "6e832a9da829": {
+      "resumen": "Artículo técnico de Towards Data Science que explica, con la matemática incluida, cómo usar redes neuronales de baja capacidad para obtener un puntaje continuo y detallado a partir de datos que solo vienen etiquetados en categorías. Le sirve a quien aprende ciencia de datos porque es una situación habitual en medicina: contar con variables categóricas (por ejemplo, \"leve/moderado/grave\") y necesitar igual una escala más fina para el análisis.",
+      "destacado": false
     },
-    "2f7b33868b15": {
-      "resumen": "Publicación en OpenRouter de 'Ox Alpha', un modelo de lenguaje bajo nombre en clave (stealth) cuya identidad real todavía no fue revelada por sus desarrolladores. Le sirve a quien sigue la evolución de la inteligencia artificial porque este tipo de lanzamientos anónimos suele anticipar nuevos modelos de las empresas líderes antes de su anuncio oficial."
-    },
-    "8e20a2171769": {
-      "resumen": "Post de Reddit sobre un nuevo banco de pruebas (benchmark) y un modelo fundacional de código abierto para datos relacionales, es decir, información organizada en tablas vinculadas entre sí como en una base de datos clínica. Le sirve a quien aprende ciencia de datos porque los modelos fundacionales para datos tabulares/relacionales son una alternativa emergente a construir un modelo predictivo desde cero para cada problema."
-    },
-    "d1903403e641": {
-      "resumen": "Guía de Towards Data Science con recomendaciones prácticas para comunicarse mejor con Claude Code, la herramienta de línea de comandos de Anthropic para programar asistido por inteligencia artificial. Le sirve a un médico en transición hacia el análisis de datos porque da consejos concretos para expresar mejor sus pedidos y aprovechar mejor este tipo de herramientas en sus propios proyectos."
-    },
-    "3f03520ba937": {
-      "resumen": "Relato de un incidente de producción en Towards Data Science sobre un modelo de lenguaje (LLM, large language model) usado como 'juez' para evaluar el trabajo de otro modelo, que terminó sesgado a darse siempre la razón a sí mismo. Le sirve a quien aprende análisis de datos porque expone un riesgo concreto de confiar en la inteligencia artificial para validar su propio trabajo, algo cada vez más común en flujos de análisis automatizados.",
+    "4b424c7ed9b2": {
+      "resumen": "Artículo de Towards Data Science sobre recuperación aumentada por generación (RAG, retrieval-augmented generation) que propone usar cada fila de una tabla, con sus encabezados de columna, como unidad de búsqueda en vez de la página o el párrafo completo. Le sirve a un médico que analiza datos porque es directamente aplicable a organizar historias clínicas o bases de resultados de laboratorio en tablas para consultarlas con inteligencia artificial de forma más precisa.",
       "destacado": true
     },
-    "4b6d1b0e0d57": {
-      "resumen": "Publicación técnica de Simon Willison que muestra cómo construir una interfaz de programación de aplicaciones (API) en formato JSON, al estilo de la herramienta shot-scraper, aprovechando Bun.WebView, la nueva función de la versión 1.4 del entorno de ejecución Bun. Le sirve a quien aprende análisis de datos porque es un ejemplo concreto de cómo automatizar la extracción de datos de páginas web (web scraping) con herramientas modernas."
+    "ee8e0afe53f1": {
+      "resumen": "Publicación en Hacker News sobre Cobalt, un proyecto que permite correr aplicaciones propias en los lectores de libros electrónicos Kobo. Le sirve a quien se inicia en programación y datos porque muestra cómo la comunidad de código abierto extiende dispositivos de uso cotidiano más allá de su función original.",
+      "destacado": false
     },
-    "4fb8938e8405": {
-      "resumen": "Artículo de Towards Data Science que distingue tres tipos de conjuntos de documentos (corpus) para sistemas de recuperación aumentada (RAG, retrieval-augmented generation) y explica qué arquitectura conviene según el tipo. Le sirve a quien aprende análisis de datos porque ayuda a elegir bien el diseño de un sistema de búsqueda documental antes de invertir tiempo de desarrollo, algo aplicable a organizar historias clínicas o literatura médica."
+    "bc0cc655f93c": {
+      "resumen": "Nota de Simon Willison sobre el planteo de Thomas Ptacek de dejar de construir interfaces de texto en la terminal (TUI, text user interface) para herramientas personales, porque los agentes de programación con inteligencia artificial bajaron mucho el costo de armar una interfaz gráfica (GUI) usable. Le sirve a quien aprende análisis de datos porque cuestiona un hábito común entre programadores y muestra cómo la IA cambia qué conviene construir para uso propio.",
+      "destacado": false
     },
-    "baae68b24015": {
-      "resumen": "Los Pumas realizarán este sábado un entrenamiento abierto y gratuito en Jujuy, de cara al test match ante los Wallabies de Australia."
+    "2eabb3f0a812": {
+      "resumen": "Publicación en Hacker News de una herramienta llamada \"Felony Bench\", cuyo objetivo puntual no se puede precisar sin acceder al sitio original. Le sirve a quien sigue la actualidad de la inteligencia artificial porque forma parte de la ola de bancos de pruebas (benchmarks) especializados que se publican para medir capacidades específicas de los modelos.",
+      "destacado": false
     },
-    "7c1dc9567641": {
-      "resumen": "Los hinchas del rugby podrán presenciar de cerca la práctica abierta de Los Pumas en el estadio \"23 de Agosto\" de Jujuy."
+    "16d33351d8eb": {
+      "resumen": "Cita que recoge Simon Willison de Matt Webb, quien cuenta que en vez de pedirle a ChatGPT que le escribiera el código para resolver un problema de rotaciones (geométricas), lo usó como tutor paciente para aprender él mismo a resolverlo. Le sirve a un médico que aprende análisis de datos porque plantea un uso alternativo de la inteligencia artificial: no delegar la tarea, sino usarla para entender los fundamentos y aprender a hacerla uno mismo.",
+      "destacado": false
     },
-    "3fa0852cd233": {
-      "resumen": "Un repaso por todos los jugadores argentinos que integrarán los planteles de la Premiership inglesa en la próxima temporada."
+    "0dbbd03afc61": {
+      "resumen": "Herramienta de código abierto en GitHub (Claudette) pensada para lograr que las respuestas de Claude, el asistente de inteligencia artificial de Anthropic, no suenen al estilo sensacionalista de un artículo de BuzzFeed. Le sirve a quien usa estos asistentes para trabajar porque apunta a un problema práctico y frecuente: ajustar el tono de las respuestas para que sean más útiles y menos artificiosas.",
+      "destacado": false
+    },
+    "b216e07b3002": {
+      "resumen": "Guía de KDnuggets para correr Muse Glimmer en forma local, en una placa de video (GPU) RTX 3090, combinando llama.cpp, la técnica de decodificación especulativa DFlash y la herramienta Pi, para programar de manera asistida por inteligencia artificial (vibe coding) en forma rápida y privada. Le sirve a quien aprende análisis de datos porque muestra cómo correr modelos de lenguaje propios sin depender de servicios en la nube, algo relevante si se manejan datos sensibles como los clínicos.",
+      "destacado": false
+    },
+    "e19de7deb30d": {
+      "resumen": "Novedad del buscador pago Kagi que agregó una opción para excluir de los resultados de búsqueda los enlaces detrás de paywall (muro de pago). Le sirve a quien investiga y analiza información porque es una mejora concreta de usabilidad para quienes buscan fuentes de acceso abierto de forma sistemática.",
+      "destacado": false
+    },
+    "472753f3a4f1": {
+      "resumen": "Un ex All Black elogió la estrategia de Los Pumas para enfrentar a los Springboks de Sudáfrica."
+    },
+    "c4a06faaab75": {
+      "resumen": "El wing argentino Mateo Carreras regresó a la competencia en Francia y tuvo un papel destacado en el clásico vasco de rugby."
+    },
+    "124ae62ae415": {
+      "resumen": "El arquero Santiago Beltrán se convirtió en un sostén clave para que River Plate intente salir de su crisis futbolística."
+    },
+    "bde07ce929a4": {
+      "resumen": "Un repaso de los jugadores argentinos, entre figuras de Los Pumas y jóvenes promesas, que competirán esta temporada en el Pro D2 francés de rugby."
     }
   }
 }

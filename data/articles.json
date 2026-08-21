@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T22:49:50.560330+00:00",
+ "generated_at": "2026-08-21T02:01:19.043841+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -12,6 +12,30 @@
      "source": "TCTMD",
      "published": "2026-08-20T14:23:08+00:00",
      "id": "e77d6b7f90b1"
+    },
+    {
+     "title": "Case 10-2026: A 70-Year-Old Woman with a Racing Heart, Fatigue, and Dyspnea. Reply",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42617129/",
+     "source": "NEJM Cardiología",
+     "published": "2026-08-20T00:00:00+00:00",
+     "copete": "Khurshid SS et al. · The New England journal of medicine",
+     "id": "64c3c41cd6aa"
+    },
+    {
+     "title": "Case 10-2026: A 70-Year-Old Woman with a Racing Heart, Fatigue, and Dyspnea",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42617128/",
+     "source": "NEJM Cardiología",
+     "published": "2026-08-20T00:00:00+00:00",
+     "copete": "Ferreira D et al. · The New England journal of medicine",
+     "id": "04196dd38241"
+    },
+    {
+     "title": "Biologic Ventricular Assist Tissue in Heart Failure. Reply",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42617124/",
+     "source": "NEJM Cardiología",
+     "published": "2026-08-20T00:00:00+00:00",
+     "copete": "Zimmermann WH et al. · The New England journal of medicine",
+     "id": "d48e6bd50d59"
     },
     {
      "title": "Beyond the Data: High-Risk Populations and Primary Prevention",
@@ -72,14 +96,6 @@
      "source": "TCTMD",
      "published": "2026-08-18T20:29:47+00:00",
      "id": "27140889b249"
-    },
-    {
-     "title": "Ischaemic heart disease beyond obstructive coronary stenoses: from prevention to treatment",
-     "link": "https://academic.oup.com/eurheartj/article/47/31/4169/8761243?rss=1",
-     "source": "European Heart Journal",
-     "published": "2026-08-14T00:00:00+00:00",
-     "copete": "For image description, please refer to the figure legend and surrounding text. For the podcast associated with this article, please visit https://academic.oup.com/eurheartj/pages/Podcasts .",
-     "id": "7d7e3022b040"
     }
    ]
   },
@@ -89,20 +105,76 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Independiente-Universidad de Chile: la barbarie que desató la crisis deportiva del Rojo",
-     "link": "https://www.ole.com.ar/independiente/independiente-chile-copa-sudamericana-crisis-rojo_0_8u6ZLbqJ3q.html",
+     "title": "La lesión de Tiago Palacios: ¿cuándo podrá volver a jugar?",
+     "link": "https://www.ole.com.ar/estudiantes/tiagopalacios-estudiantes-lesionmuscular-copalibertadores-cuartosdefinal_0_grXrNtoKYw.html",
      "source": "Olé — Primera",
-     "published": "2026-08-20T22:05:54+00:00",
-     "copete": "El 20 de agosto de 2025 fue una de las peores noches del fútbol sudamericano, que derivó en la expulsión de Independiente en la Copa Sudamericana y, con el tiempo, el inicio de la crisis deportiva del club.",
-     "id": "f15b3726efd1"
+     "published": "2026-08-21T00:40:49+00:00",
+     "copete": "El volante del Pincha sufrió un desgarro de grado dos: tendrá un mínimo de tres semanas de baja en el equipo de Alexander Medina.",
+     "id": "52867fb687f1"
     },
     {
-     "title": "La Calculadora de Olé de la fecha 6 del Torneo Clausura: ¿qué se juega cada uno de los equipos?",
-     "link": "https://www.ole.com.ar/futbol-primera/calculadora-ole-fecha-6-torneo-clausura-juega-equipo_0_0DQhcUmEK5.html",
+     "title": "¿Cuántas fechas afuera? Salieron las sanciones para Jordy Caicedo y Orlando Gill",
+     "link": "https://www.ole.com.ar/futbol-primera/huracan-san-lorenzo-jordy-caicedo-orlando-gill-arquero-sancion-tribunal-disciplina_0_M8Fh26p0Cl.html",
      "source": "Olé — Primera",
-     "published": "2026-08-20T22:01:23+00:00",
-     "copete": "Se disputa una nueva jornada del campeonato y ponemos la lupa en el impacto que tendrá cada partido.",
-     "id": "6e1bc552c1e5"
+     "published": "2026-08-21T00:27:06+00:00",
+     "copete": "El Tribunal de Disciplina dio a conocer los castigos tanto para el delantero de Huracán como para el arquero de San Lorenzo.",
+     "id": "96c2e8260f82"
+    },
+    {
+     "title": "Sebastián Valdez pasó por el quirófano: la lesión que lo aleja de las canchas",
+     "link": "https://www.ole.com.ar/independiente/sebastianvaldezindependiente-juanmanuelfedorco-lautaromillan_0_GdgmcCuOKG.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-21T00:13:58+00:00",
+     "copete": "La baja del zaguero abre la puerta al debut de Franco Calderón, quien podría ser titular en el próximo partido contra Independiente Rivadavia en lugar de Arrayago, que reemplazó a Valdez contra Lanús.",
+     "id": "45aa740f1c89"
+    },
+    {
+     "title": "Vasco da Gama eliminó a Olimpia y será el posible rival de River en los cuartos de final de la Sudamericana",
+     "link": "https://www.ole.com.ar/futbol-internacional/sudamericana/vasco-da-gama-elimino-olimpia-rival-river-cuartos-final-sudamericana_0_1HSuZsDQHN.html",
+     "source": "Olé — River",
+     "published": "2026-08-20T23:57:28+00:00",
+     "copete": "Tras un 0-0 en la ida, el equipo brasileño venció por 3-1 en Paraguay al Decano. Podrá contar con Sosa y Colidio para la hipotética serie contra el Millo.",
+     "id": "925eb14cdbae"
+    },
+    {
+     "title": "Atención River: con Vasco da Gama e, cuándo serían los cuartos de la Copa Sudamericana y dónde definiría",
+     "link": "https://www.ole.com.ar/futbol-internacional/sudamericana/atencion-river-vasco-da-gama-clasificado-octavos-final-rival-confirmado-definiria_0_8ISDqK5917.html",
+     "source": "Olé — River",
+     "published": "2026-08-20T23:56:56+00:00",
+     "copete": "El Millonario, que la semana que viene disputará la revancha ante Independiente Santa Fe en el Monumental, ya conoce como seguiría su camino en la Gran Conquista en caso de avanzar.",
+     "id": "c44d0eefd487"
+    },
+    {
+     "title": "El plan de Independiente para habilitar a Ávila: ¿quién es el jugador que podría salir?",
+     "link": "https://www.ole.com.ar/independiente/maximilianogutierrez-independiente-ezequielavila_0_Zx0u7miWW3.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-20T23:56:55+00:00",
+     "copete": "El Rojo necesita vender para equilibrar sus cuentas y liberar un cupo. Un futbolista con una oferta de Rusia es la carta que podrían jugar los dirigentes.",
+     "id": "b10660275a50"
+    },
+    {
+     "title": "Con Colidio, las claves de Vasco da Gama que River debe tener en cuenta ante un posible cruce",
+     "link": "https://www.ole.com.ar/river-plate/river-vasco-da-gama-claves-copa-sudamericana-cuartos-final-colidio_0_sGS9a8dEaU.html",
+     "source": "Olé — River",
+     "published": "2026-08-20T23:56:20+00:00",
+     "copete": "El conjunto brasileño eliminó a Olimpia en octavos de la Sudamericana y se puso en el camino del equipo de Coudet o Independiente Santa Fe en los cuartos.",
+     "id": "ad5ef61cc6c8"
+    },
+    {
+     "title": "El camino de River en la Sudamericana: Vasco da Gama si avanza a cuartos y posible superclásico",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-copa-sudamericana-camino-final_0_7Le3gUfZw9.html",
+     "source": "Olé — River",
+     "published": "2026-08-20T23:52:00+00:00",
+     "copete": "El Millonario quedó bien parado pensando en la revancha en el Monumental ante Santa Fe. Acá, lo que tenés que saber sobre el recorrido rumbo a La Gran Conquista.",
+     "id": "b9dd09696359"
+    },
+    {
+     "title": "Video: el golazo de pecho de Vasco da Gama, el posible próximo rival de River, ante Olimpia",
+     "link": "https://www.ole.com.ar/futbol-internacional/sudamericana/video-golazo-pecho-vasco-da-gama-olimpia_0_HLbg3m9RGR.html",
+     "source": "Olé — River",
+     "published": "2026-08-20T22:57:54+00:00",
+     "copete": "David se filtró entre todos los defensores del equipo paraguayo y remató de primera para un gran tanto.",
+     "id": "ee88aa7ed40d"
     },
     {
      "title": "Los Pumas tendrán un entrenamiento abierto y gratuito en Jujuy",
@@ -112,28 +184,11 @@
      "id": "fbc8ebc532f1"
     },
     {
-     "title": "La revelación sobre uno de los borrados en River: \"Ha tomado decisiones que complicaron su vida\"",
-     "link": "https://www.ole.com.ar/river-plate/revelacion-borrados-river-kendry-paez-decisiones_0_oG7r4Zhaek.html",
-     "source": "Olé — River",
-     "published": "2026-08-20T20:29:05+00:00",
-     "copete": "Desde Ecuador hablaron sobre el presente de Kendry Páez, que dejó de ser tenido en cuenta por Eduardo Coudet y se entrena en Cantilo.",
-     "id": "a75468db8a43"
-    },
-    {
-     "title": "Racing, sin Maravilla, se prepara para Boca",
-     "link": "https://www.ole.com.ar/futbol-primera/racing-boca-formacion-vojvoda-maravilla-martinez_0_3H3fRHOjym.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-20T20:26:25+00:00",
-     "copete": "Al goleador todavía le quedan por cumplir dos fechas de sanción en el Torneo Clausura. Vojvoda tiene un problema porque Lautaro Díaz está desgarrado. Los posibles 11 de la Academia.",
-     "id": "666ff2c033e3"
-    },
-    {
-     "title": "Talleres reincorporó a dos apartados",
-     "link": "https://www.ole.com.ar/talleres/talleres-matiascatalan-juansforza-jorgesampaoli-zonaa_0_XRxjKtPr55.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-20T20:25:03+00:00",
-     "copete": "El club informó que Matías Catalán y Juan Sforza vuelvan a entrenarse con el plantel que dirige Jorge Sampaoli. La T es el equipo más goleado del Clausura...",
-     "id": "1de4b1f07dee"
+     "title": "Los Pumas realizarán un entrenamiento abierto y gratuito en el estadio 23 de Agosto",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb0E4MUp4aldpOUljYjI0VWJVN1ZVZEFsZ3lyb2NQcW91dEZTOExYazgtLW1zUHpNT2NfNVdiYW5qRXdXckszYjhSLXU1aERSRjlzaFZxN2RTeVpHMGhqU2Fjb1hENDVBanRzcW5DTENBd3JibUQtd05oMkVzR2xPbEFIdlhONldqY3R0c3ltRUlmaUhIblhXUHR3d3ZoLTQtb093bGRIX2JxQUxFcGx4bEhZbjdBYjlSVVNGdEVnUmkwbHdmbUY3a1E1ajA2bk14YlNSQmVR0gHbAUFVX3lxTE5Wak9ieS14TTVvZEktZE90NGRxTi1pSGxpQWItWWZtaVNXeXFsTVdsczN4WWZCNTJJVk05azI2dW9BSl9SLWdRcWZTQXl6ekJadUlWN0VWTHE5ZEQtX0dNWXN1THpnT204NkFlODdERHlnODQ0Z3AwZGlTTENPYVJOSFhuc1ljWlAzSFNLblctRUFINlNzV2lLb01zcTJ0ZHFiQjdBbVlyYnV4UVV0TUR0OWdBYy1WalVra3Q5QXhwOUVnRkxqOHJ3dVk4YjNNQ1VXUmdiRDNqVkNXVQ?oc=5",
+     "source": "El Tribuno de Jujuy",
+     "published": "2026-08-20T20:48:45+00:00",
+     "id": "b9b4ca0c9799"
     },
     {
      "title": "Los Pumas y Wallabies tiene planteles confirmados para el test match en Jujuy",
@@ -141,45 +196,6 @@
      "source": "todojujuy",
      "published": "2026-08-20T20:09:56+00:00",
      "id": "cba9f5e49673"
-    },
-    {
-     "title": "Ranking de World Rugby: qué necesitan los All Blacks para desplazar a Sudáfrica del primer puesto",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMGw4U2RSZVNONEFnYjBtOGVxYVluQ0taODhPVnF5MTVMVUwwbmZ5WnVidHVlY2o2YmRWR2NPclVUYkxFWUQ5cVNaS2RQQktCeUNwTTNuVHVwODFpd3lQbmZFZDRyVU9rNWlRZkdxM2laNGN0aGhTUnNjZmRncVBQbUxHOUptUVFaSS1Pc2xMQ2x6akFPM0d0bEM4bEluM3pFTmJmRHB4QXhGbEk1NG10VVhFTjJXLXM?oc=5",
-     "source": "ESPN Chile",
-     "published": "2026-08-20T20:03:38+00:00",
-     "id": "78c66d4faeb8"
-    },
-    {
-     "title": "Rescindió con River y recordó su ciclo en el club: \"Fue lo mejor que me ha pasado\"",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-recuerdo-paulo-diaz_0_Oesg6bgQ0S.html",
-     "source": "Olé — River",
-     "published": "2026-08-20T18:55:16+00:00",
-     "copete": "Paulo Díaz, actual defensor del Atlanta United, no dudó al responder sobre el recuerdo favorito de su carrera.",
-     "id": "545758c4db3c"
-    },
-    {
-     "title": "Kuyumchoglu, ex DT de Correa en San Lorenzo: \"Angelito es Aladino, va a ser ídolo de River\"",
-     "link": "https://www.ole.com.ar/river-plate/river-correa-san-lorenzo-kuyumchoglu-angelito_0_hVVCsbJWDr.html",
-     "source": "Olé — River",
-     "published": "2026-08-20T17:48:40+00:00",
-     "copete": "El reconocido formador y ex jugador de River recuerda con Olé cómo salvo a Correa de que lo echaran del Ciclón y se ilusiona con que deje una huella histórica en Núñez.",
-     "id": "046b0312ea5c"
-    },
-    {
-     "title": "\"Salió vivo\" y \"no propuso casi nada\": la reacción de los medios de Colombia tras el empate de River en la Sudamericana",
-     "link": "https://www.ole.com.ar/river-plate/river-salio-vivo-santafe-perdono-reaccion-medios-colombia-empate-copa-sudamericana_0_PoJliVX9zj.html",
-     "source": "Olé — River",
-     "published": "2026-08-20T16:53:43+00:00",
-     "copete": "La prensa del país cafetero destacó que \"Santa Fe perdonó\" al equipo del Chacho y lamentó la falta de puntería del local. La serie se define el miércoles en Núñez.",
-     "id": "f25ab428d128"
-    },
-    {
-     "title": "Las vueltas en River que proyecta Coudet: alta para Acuña y cómo están Driussi y Montiel",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-marcos-acuna-alta-medica-sebastian-driussi_0_dhrELcCIIF.html",
-     "source": "Olé — River",
-     "published": "2026-08-20T16:08:02+00:00",
-     "copete": "De regreso a Buenos Aires, el Chacho recibió una gran noticia porque ya cuenta con el Huevo a la par del grupo.",
-     "id": "d29034a999ed"
     },
     {
      "title": "Arranca una nueva edición del Campeonato Argentino Juvenil M17",
@@ -196,6 +212,14 @@
    "title": "Ciencia de datos e IA",
    "mode": "resumen",
    "items": [
+    {
+     "title": "ChatGPT search now uses the site:operator at scale",
+     "link": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-08-20T23:57:32+00:00",
+     "copete": "ChatGPT search now uses the site:operator at scale Promptwatch is part of the emerging \"GEO\" space, for Generative Engine Optimization - the chatbot version of SEO, where companies offer tools and consulting to help your site increase its…",
+     "id": "d58dda0fceea"
+    },
     {
      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
      "link": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
@@ -218,11 +242,11 @@
      "id": "19e393a5e185"
     },
     {
-     "title": "Watching TikTok and Instagram deactivates the cognitive control network: Study",
-     "link": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
+     "title": "Consumer Rights Wiki",
+     "link": "https://consumerrights.wiki/w/Main_Page",
      "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-20T18:54:32+00:00",
-     "id": "4125e512fc45"
+     "published": "2026-08-20T18:19:51+00:00",
+     "id": "b9407ca92b8d"
     },
     {
      "title": "New open source relational benchmark and foundation model",
@@ -248,28 +272,20 @@
      "id": "3f03520ba937"
     },
     {
+     "title": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
+     "link": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-08-20T15:37:00+00:00",
+     "copete": "Research: A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView Today saw the long awaited release of Bun 1.4 , the first stable version since the infamous Rust rewrite a few months ago . Interestingly, the Rust rewrite was downplayed…",
+     "id": "4b6d1b0e0d57"
+    },
+    {
      "title": "Three Kinds of RAG Corpus, and What It Costs to Build for the Wrong One",
      "link": "https://towardsdatascience.com/three-kinds-of-rag-corpus-and-what-it-costs-to-build-for-the-wrong-one/",
      "source": "Towards Data Science",
      "published": "2026-08-20T15:00:00+00:00",
      "copete": "Enterprise Document Intelligence [Vol.1 #14A] - Three questions tell you which shape a document collection has, and each shape wants a different architecture The post Three Kinds of RAG Corpus, and What It Costs to Build for the Wrong One…",
      "id": "4fb8938e8405"
-    },
-    {
-     "title": "How to Build a Career in AI: 3 Distinct Pathways",
-     "link": "https://www.kdnuggets.com/how-to-build-a-career-in-ai-3-distinct-pathways",
-     "source": "KDnuggets",
-     "published": "2026-08-20T14:00:59+00:00",
-     "copete": "Three orientations, three different skill maps, and how to find the one that fits where you actually stand.",
-     "id": "6dfb4263a72c"
-    },
-    {
-     "title": "Top 10 Open-Source Benchmarks for AI Coding Agents in 2026",
-     "link": "https://www.kdnuggets.com/top-10-open-source-benchmarks-for-ai-coding-agents-in-2026",
-     "source": "KDnuggets",
-     "published": "2026-08-20T12:00:38+00:00",
-     "copete": "SWE-bench, Terminal-Bench, SlopCodeBench, ProgramBench, and more. Explore the top 10 open-source benchmarks for evaluating AI coding agents.",
-     "id": "85f51f225fec"
     }
    ]
   },
@@ -279,100 +295,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "El instituto Malbrán activa una nueva estrategia para abordar enfermedades infecciosas en Argentina",
-     "link": "https://www.infobae.com/salud/ciencia/2026/08/20/el-instituto-malbran-activa-una-nueva-estrategia-para-abordar-enfermedades-infecciosas-en-argentina/",
+     "title": "Cuál es el origen de “farmear aura” y cómo son las batallas",
+     "link": "https://www.infobae.com/tecno/2026/08/21/cual-es-el-origen-de-farmear-aura-y-como-son-las-batallas/",
      "source": "Infobae",
-     "published": "2026-08-20T22:46:11+00:00",
-     "copete": "La nueva etapa se centra en proyectos de investigación y diagnóstico temprano, con el objetivo de mejorar la capacidad de respuesta. Un convenio prevé la incorporación de herramientas científicas y acuerdos para generar datos locales",
-     "id": "7058598c2413"
+     "published": "2026-08-21T01:55:37+00:00",
+     "copete": "El carisma y la creatividad superan a la destreza física en estos duelos",
+     "id": "66ca4ee8d048"
     },
     {
-     "title": "Intento de femicidio en Rosario: atacó a puñaladas a su novia de 18 años y luego trató de quitarse la vida",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/08/20/intento-de-femicidio-en-rosario-ataco-a-punaladas-a-su-novia-de-18-anos-y-luego-trato-de-quitarse-la-vida/",
+     "title": "Dave Bautista será Kratos en la esperada serie de live-action de ‘God of War’",
+     "link": "https://www.infobae.com/entretenimiento/2026/08/21/dave-bautista-sera-kratos-en-la-esperada-serie-de-live-action-de-god-of-war/",
      "source": "Infobae",
-     "published": "2026-08-20T22:46:00+00:00",
-     "copete": "La joven fue trasladada de urgencia a un hospital con múltiples heridas de arma blanca y permanece internada en estado reservado. El agresor, de 19 años, fue hallado en el mismo domicilio con lesiones autoinfligidas",
-     "id": "608225597438"
+     "published": "2026-08-21T01:53:26+00:00",
+     "copete": "El actor sustituirá a Ryan Hurst en la adaptación de Amazon Prime Video, tras lesionarse de gravedad",
+     "id": "7a743c29b296"
     },
     {
-     "title": "El drama de Jonathan Gómez con la adicción al juego: claves médicas de la ludopatía y cómo detectarla",
-     "link": "https://www.infobae.com/salud/2026/08/20/el-drama-de-jonathan-gomez-con-la-adiccion-al-juego-claves-medicas-de-la-ludopatia-y-como-detectarla/",
+     "title": "El iPhone 18 Pro y Pro Max apostarían por tonos audaces y dejarían atrás el negro y el gris",
+     "link": "https://www.infobae.com/tecno/2026/08/21/el-iphone-18-pro-y-pro-max-apostarian-por-tonos-audaces-y-dejarian-atras-el-negro-y-el-gris/",
      "source": "Infobae",
-     "published": "2026-08-20T22:45:37+00:00",
-     "copete": "El mediocampista relató cómo el impulso incontrolable por apostar lo llevó a endeudarse y atravesar una crisis familiar. Qué dicen los expertos sobre síntomas, factores de riesgo y alternativas de tratamiento",
-     "id": "b3f3f7a9f4d9"
+     "published": "2026-08-21T01:49:34+00:00",
+     "copete": "Los cambios no se limitarían al aspecto externo. Entre los avances técnicos más relevantes figura la adopción del nuevo chip A20 Pro",
+     "id": "0d81430b35a4"
     },
     {
-     "title": "Por qué buscar Cienciano vs. Botafogo en Roja Directa o Fútbol Libre pone en riesgo tu PC",
-     "link": "https://www.infobae.com/tecno/2026/08/20/por-que-buscar-cienciano-vs-botafogo-en-roja-directa-o-futbol-libre-pone-en-riesgo-tu-pc/",
+     "title": "Moria Casan, sobre Castiglione: “Discutíamos de la mañana a la noche, pero yo también le compraba la botella de whisky”",
+     "link": "https://www.lanacion.com.ar/espectaculos/la-historia-de-amor-jamas-contada-moria-casan-y-mario-castiglione-del-voyerista-que-la-espiaba-nid20082026/",
+     "source": "La Nación",
+     "published": "2026-08-21T01:49:00+00:00",
+     "copete": "Lo que empezó como una amistad laboral se transformó en una relación pasional que enloqueció al mundo del espectáculo; la violencia les puso un fin y marcó para siempre a “La One”",
+     "id": "75157c15144f"
+    },
+    {
+     "title": "Sofía Clerici, protagonista del Yategate con Insaurralde, anunció que está embarazada: “Voy a ser mamá soltera”",
+     "link": "https://www.lanacion.com.ar/politica/sofia-clerici-protagonista-del-yategate-con-insaurralde-anuncio-que-esta-embarazada-voy-a-ser-mama-nid20082026/",
+     "source": "La Nación",
+     "published": "2026-08-21T01:45:49+00:00",
+     "copete": "La mediática compartió la novedad a través de su perfil en Instagram a pocos días de ser sobreseída en la causa que involucra al exintendente de Lomas de Zamora",
+     "id": "d8feb1b7ab12"
+    },
+    {
+     "title": "Detrás del rating hay un consumidor que también mueve el comercio exterior",
+     "link": "https://www.infobae.com/movant/2026/08/20/detras-del-rating-hay-un-consumidor-que-tambien-mueve-el-comercio-exterior/",
      "source": "Infobae",
-     "published": "2026-08-20T22:40:58+00:00",
-     "copete": "Estos portales pueden convertirse en focos de propagación de malware, spyware y troyanos",
-     "id": "50dc2273d408"
+     "published": "2026-08-21T01:43:16+00:00",
+     "copete": "Ariel Hajmi, CEO de una empresa dedicada a la medición de audiencias, explica por qué el consumidor de medios y el que sostiene al comercio exterior y la logística son, en el fondo, la misma persona",
+     "id": "0f17f2ff9e50"
     },
     {
-     "title": "Preocupación por Augusto Batalla: una gran atajada, un fuerte golpe y la salida en camilla entre aplausos",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/preocupacion-por-augusto-batalla-una-gran-atajada-un-fuerte-golpe-y-la-salida-en-camilla-entre-nid20082026/",
-     "source": "La Nación",
-     "published": "2026-08-20T22:38:13+00:00",
-     "copete": "El arquero argentino quedó tendido tras un choque cuando evitó un gol de Alavés; no hay parte médico",
-     "id": "3f82d884267b"
-    },
-    {
-     "title": "Mora récord: Kicillof investiga a Mercado Pago y otras billeteras por “hostigamiento”, “acoso” y “falta de información clara”",
-     "link": "https://www.infobae.com/economia/2026/08/20/mora-record-kicillof-investiga-a-mercado-pago-y-otras-billeteras-por-hostigamiento-acoso-y-falta-de-informacion-clara/",
+     "title": "Dolor en el fútbol argentino: murió Antonino Spilinga, campeón del mundo con Racing a sus 87 años",
+     "link": "https://www.infobae.com/deportes/2026/08/21/dolor-en-el-futbol-argentino-murio-antonino-spilinga-campeon-del-mundo-con-racing-a-sus-87-anos/",
      "source": "Infobae",
-     "published": "2026-08-20T22:37:44+00:00",
-     "copete": "El gobernador de Buenos Aires, junto con el ministro Costa, anunció el inicio de imputaciones contra Mercado Pago, Naranja Digital, Ualá, Personal Pay, Brubank y Cencosud, y adelantaron que las multas podrán llegar a los 1.883 millones de…",
-     "id": "7e5f52b22045"
+     "published": "2026-08-21T01:36:25+00:00",
+     "copete": "Nino, el emblemático arquero que defendió los tres palos de Argentinos Juniors en distintas etapas y que alcanzó la gloria con la Academia, recibió el último adiós por parte de los clubes donde dejó su huella",
+     "id": "dab2f660910e"
     },
     {
-     "title": "Milei habla en el Council of the Americas, en vivo: las últimas medidas y el minuto a minuto",
-     "link": "https://www.lanacion.com.ar/politica/milei-habla-en-el-council-of-the-americas-en-vivo-las-ultimas-medidas-y-el-minuto-a-minuto-nid20082026/",
+     "title": "Construyeron la estructura en 3D más grande del mundo",
+     "link": "https://www.lanacion.com.ar/el-mundo/construyeron-la-estructura-en-3d-mas-grande-del-mundo-nid20082026/",
      "source": "La Nación",
-     "published": "2026-08-20T22:37:39+00:00",
-     "copete": "El Presidente participa de la reunión anual organizada por el Consejo de las Américas y la Cámara Argentina de Comercio; arrancó su discurso con críticas a economistas y adelantó que su exposición se centrará en el “modelo de crecimiento”",
-     "id": "b420e3feeeb9"
+     "published": "2026-08-21T01:29:11+00:00",
+     "copete": "La estructura, denominada Tor Alva, se alza en los Alpes suizos como un hito de la arquitectura robótica; su diseño modular permite que sea desmontada y trasladada tras cumplir su ciclo de uso",
+     "id": "ee39a7a461b5"
     },
     {
-     "title": "Naufragó por 438 días y sobrevivió tras recorrer 10.800 kilómetros sin agua ni comida",
-     "link": "https://www.lanacion.com.ar/lifestyle/naufrago-por-438-dias-y-sobrevivio-tras-recorrer-10800-kilometros-sin-agua-ni-comida-nid20082026/",
-     "source": "La Nación",
-     "published": "2026-08-20T22:36:11+00:00",
-     "copete": "El pescador salvadoreño José Salvador Alvarenga protagonizó una de las hazañas de supervivencia más extremas de la historia moderna; tras quedar a la deriva en el Pacífico, logró mantenerse con vida en condiciones físicas límite",
-     "id": "835e4e1ee3ac"
-    },
-    {
-     "title": "Evo Morales denuncia un supuesto complot entre el gobierno de Paz y EE.UU. para matarlo",
-     "link": "https://www.lanacion.com.ar/el-mundo/evo-morales-denuncia-un-supuesto-complot-entre-el-gobierno-de-paz-y-eeuu-para-matarlo-nid20082026/",
-     "source": "La Nación",
-     "published": "2026-08-20T22:33:58+00:00",
-     "copete": "El expresidente afirmó que militares y policías le advirtieron sobre un nuevo operativo en el Trópico de Cochabamba",
-     "id": "e197a4e69590"
-    },
-    {
-     "title": "El último mensaje de DeSantis antes de conocer su posible sucesor: “Los resultados hablan por sí mismos”",
-     "link": "https://www.lanacion.com.ar/estados-unidos/florida/el-ultimo-mensaje-de-desantis-antes-de-conocer-su-posible-sucesor-los-resultados-hablan-por-si-nid20082026/",
-     "source": "La Nación",
-     "published": "2026-08-20T22:33:00+00:00",
-     "copete": "Conoce qué dijo Ron DeSantis durante las primarias de Florida y por qué su mensaje llamó la atención mientras se definían los candidatos a gobernador.",
-     "id": "ac1f4d2e38f8"
-    },
-    {
-     "title": "En bikini en el Caribe, Moria Casán celebró el éxito de su serie: \"Volviendo a ser niña\"",
-     "link": "https://www.clarin.com/fama/bikini-caribe-moria-casan-celebro-exito-serie-volviendo-nina_0_4XebmgCUCk.html",
+     "title": "Rory McIlroy se recupera rápido y comparte el liderato del BMW, Scheffler, enfermo, se desinfla",
+     "link": "https://www.clarin.com/estados-unidos/rory-mcilroy-se-recupera-rapido-y-comparte-el-liderato-del-bmw-scheffler-enfermo-se-desinfla_0_Ah3YUz83qc.html",
      "source": "Clarín",
-     "published": "2026-08-20T22:01:46+00:00",
-     "copete": "Mientras su biopic arrasa en Netflix, La One se alejó de Buenos Aires para recargar energías. El impactante look que eligió para disfrutar de su merecido descanso.",
-     "id": "c8ee4c327382"
+     "published": "2026-08-21T01:20:05+00:00",
+     "copete": "El golfista norirlandés brilló en Bellerive con una ronda sin errores, logrando un 64, empatando en el liderato del BMW Championship. Scottie Scheffler, tras una victoria abrumadora, sufrió un bajón por enfermedad, firmando su peor inicio…",
+     "id": "320d02d464b6"
     },
     {
-     "title": "El vice de Caputo: \"Cuando hay un shock, el sistema cambiario se mantiene\"",
-     "link": "https://www.clarin.com/economia/vice-caputo-shock-sistema-cambiario-mantiene_0_AaGaxRLOEL.html",
+     "title": "Carga pública del Uscis: qué cambia para los migrantes con la entrada en vigor de la nueva guía el 18 de septiembre",
+     "link": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/carga-publica-del-uscis-que-cambia-para-los-migrantes-con-la-entrada-en-vigor-de-la-nueva-guia-el-18-nid20082026/",
+     "source": "La Nación",
+     "published": "2026-08-21T01:20:00+00:00",
+     "copete": "Conoce qué cambia con la nueva regla de carga pública del Uscis desde el 18 de septiembre y qué beneficios y factores podrían considerar los oficiales.",
+     "id": "fd296f0fda07"
+    },
+    {
+     "title": "¿Quién va a cuidar a los que ya no pueden cuidarse solos?",
+     "link": "https://www.clarin.com/opinion/va-cuidar-pueden-cuidarse-solos_0_H4G3vd4SVX.html",
      "source": "Clarín",
-     "published": "2026-08-20T21:59:41+00:00",
-     "copete": "José Luis Daza dijo la ayuda de EE.UU. refleja el cambio. Dijo que la inflación \"dejó de ser un tema\". Y que el modelo de Milei es \"permanente\".",
-     "id": "9c7c0eaa86f8"
+     "published": "2026-08-21T01:14:31+00:00",
+     "copete": "La profesionalización del cuidado de las personas mayores necesita cambios en el tratamiento impositivo de las residencias geriátricas.",
+     "id": "b5f8a606602f"
+    },
+    {
+     "title": "Temblor en Perú hoy, jueves 20 de agosto EN VIVO: magnitud y epicentro según los últimos reportes",
+     "link": "https://www.lanacion.com.ar/el-mundo/temblor-en-peru-hoy-jueves-20-de-agosto-en-vivo-magnitud-y-epicentro-segun-los-ultimos-reportes-nid20082026/",
+     "source": "La Nación",
+     "published": "2026-08-21T01:09:16+00:00",
+     "copete": "Un sismo de magnitud 6,7 se registró en las últimas horas; por el momento, no se reportaron víctimas",
+     "id": "00f6c6d3e068"
     }
    ]
   },
@@ -381,6 +397,22 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Why Nigeria's one-time political giant may face extinction",
+     "link": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-20T23:21:22+00:00",
+     "copete": "Once a giant of African politics, the PDP is in danger of being wiped out after January's elections.",
+     "id": "2cd478a755c6"
+    },
+    {
+     "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+     "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-20T23:16:45+00:00",
+     "copete": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+     "id": "7bad4a198588"
+    },
     {
      "title": "Los pescadores rescatados en México tras pasar cinco días a la deriva en el mar aferrados a una hielera",
      "link": "https://www.bbc.com/mundo/articles/cx2d9yvj4qeo?at_medium=RSS&at_campaign=rss",
@@ -396,6 +428,14 @@
      "published": "2026-08-20T22:43:42+00:00",
      "copete": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, according to his party.",
      "id": "8fa036f59528"
+    },
+    {
+     "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
+     "link": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-20T22:01:26+00:00",
+     "copete": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
+     "id": "0582391aa0b0"
     },
     {
      "title": "Un fuerte terremoto de magnitud 7,2 sacude el sur de Perú",
@@ -422,36 +462,12 @@
      "id": "23f224ff9df7"
     },
     {
-     "title": "Watch: Fishermen rescued after five days adrift in cool box",
-     "link": "https://www.bbc.co.uk/news/videos/c1l10g94yg1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-20T20:41:31+00:00",
-     "copete": "The men, aged 53 and 32, lost contact with their fishing cooperative on 14 August, 75 miles off the coast of Mexico.",
-     "id": "5270533fc203"
-    },
-    {
-     "title": "Dozens dead after boat capsizes in north-western Nigeria",
-     "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-20T20:27:36+00:00",
-     "copete": "The incident took place in the country's northwest ​Sokoto state, with many of the victims feared to be children.",
-     "id": "7e1d630fe606"
-    },
-    {
      "title": "Un terremoto de magnitud 7,2 sacude la región andina de Ayacucho, en el sur de Perú",
      "link": "https://elpais.com/america/2026-08-20/un-terremoto-de-magnitud-72-sacude-la-region-andina-de-ayacucho-en-el-sur-de-peru.html",
      "source": "El País Internacional",
      "published": "2026-08-20T20:22:40+00:00",
      "copete": "Las autoridades reportan por el momento daños menores, sin víctimas",
      "id": "e03235f4d64d"
-    },
-    {
-     "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
-     "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-20T20:08:29+00:00",
-     "copete": "Alessandro Rapinese said the prohibition was for public safety, adding \"I know what it's like to be hit by one of these beasts\".",
-     "id": "8b65c32ad1d8"
     },
     {
      "title": "Llega a Oriente Próximo el portaaviones de EE UU que relevará al atribulado ‘Abraham Lincoln’",
@@ -469,16 +485,6 @@
    "section": "cardiologia",
    "feed": "Cardiology Trials",
    "error": "HTTP Error 403: Forbidden"
-  },
-  {
-   "section": "cardiologia",
-   "feed": "Circulation (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "cardiologia",
-   "feed": "NEJM Cardiología (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
   }
  ]
 }

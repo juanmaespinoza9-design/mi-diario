@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T22:06:05Z",
+  "generated_at": "2026-08-21T10:15:00Z",
   "summaries": {
     "e77d6b7f90b1": {
       "resumen": "Cobertura de TCTMD sobre un estudio que muestra que la mortalidad asociada a la estenosis aórtica —el estrechamiento de la válvula aórtica del corazón— viene bajando con el tiempo, aunque persisten diferencias importantes entre subgrupos poblacionales. Vale la pena porque, más allá de la mejora global gracias al diagnóstico temprano y al reemplazo valvular aórtico percutáneo (TAVI, transcatheter aortic valve implantation), las brechas de acceso siguen determinando quién se beneficia realmente de esos avances.",
@@ -43,8 +43,20 @@
       "resumen": "Revisión del European Heart Journal sobre la cardiopatía isquémica más allá de las estenosis coronarias obstructivas —el cuadro conocido como isquemia con arterias coronarias no obstructivas (INOCA) o angina microvascular—, desde la prevención hasta el tratamiento. Vale la pena porque es una entidad subdiagnosticada, más frecuente en mujeres, y esta puesta al día ayuda a sospecharla y manejarla en la consulta diaria.",
       "destacado": false
     },
-    "4125e512fc45": {
-      "resumen": "Nota que resume un estudio según el cual mirar videos cortos en TikTok e Instagram desactiva la red de control cognitivo del cerebro, la que regula la atención y el autocontrol. Le sirve a quien trabaja con datos porque conecta el consumo de redes sociales con hallazgos de neurociencia sobre la atención, un tema cada vez más relevante para entender el comportamiento y la salud mental."
+    "4794c079ade7": {
+      "resumen": "Nota de historia tecnológica que repasa cómo Japón intentó en los años 80 desarrollar TRON, un sistema operativo propio pensado para uso mundial, y cómo la intervención comercial de Estados Unidos frenó ese proyecto. Le sirve a quien se forma en análisis de datos porque ilustra cómo las decisiones geopolíticas y comerciales moldean qué tecnologías terminan dominando el ecosistema de software que usamos hoy."
+    },
+    "f8d5e817777c": {
+      "resumen": "Reporte de un error (bug) en la integración de Codex, el agente de programación de OpenAI, con Amazon Web Services (AWS) Bedrock, que llegó a facturar hasta diez veces más de lo esperado a algunos usuarios. Le sirve a quien empieza a usar agentes de inteligencia artificial para programar porque advierte sobre la necesidad de monitorear de cerca los costos de estas herramientas antes de automatizar tareas a gran escala."
+    },
+    "92d0acf4aa3a": {
+      "resumen": "Nota de Anna's Archive que denuncia que empresas de inteligencia artificial estarían destruyendo libros físicos después de escanearlos para entrenar sus modelos, y llama a digitalizar libros raros antes de que se pierdan. Le sirve a quien trabaja con datos porque plantea un dilema ético sobre la procedencia (provenance) de los datos usados para entrenar modelos y la preservación del conocimiento original."
+    },
+    "d58dda0fceea": {
+      "resumen": "Análisis de Simon Willison sobre cómo la búsqueda de ChatGPT empezó a usar de forma masiva el operador 'site:' (que restringe una búsqueda a un sitio puntual) y sobre el auge de la optimización para motores generativos (GEO, Generative Engine Optimization), la versión para chatbots del clásico posicionamiento en buscadores (SEO). Le sirve a quien trabaja con datos porque muestra cómo cambia la forma de indexar y recuperar información cuando el usuario final es un modelo de lenguaje y no una persona googleando."
+    },
+    "2f7b33868b15": {
+      "resumen": "Publicación en OpenRouter de 'Ox Alpha', un modelo de lenguaje bajo nombre en clave (stealth) cuya identidad real todavía no fue revelada por sus desarrolladores. Le sirve a quien sigue la evolución de la inteligencia artificial porque este tipo de lanzamientos anónimos suele anticipar nuevos modelos de las empresas líderes antes de su anuncio oficial."
     },
     "8e20a2171769": {
       "resumen": "Post de Reddit sobre un nuevo banco de pruebas (benchmark) y un modelo fundacional de código abierto para datos relacionales, es decir, información organizada en tablas vinculadas entre sí como en una base de datos clínica. Le sirve a quien aprende ciencia de datos porque los modelos fundacionales para datos tabulares/relacionales son una alternativa emergente a construir un modelo predictivo desde cero para cada problema."
@@ -52,42 +64,24 @@
     "d1903403e641": {
       "resumen": "Guía de Towards Data Science con recomendaciones prácticas para comunicarse mejor con Claude Code, la herramienta de línea de comandos de Anthropic para programar asistido por inteligencia artificial. Le sirve a un médico en transición hacia el análisis de datos porque da consejos concretos para expresar mejor sus pedidos y aprovechar mejor este tipo de herramientas en sus propios proyectos."
     },
-    "19925e0b660e": {
-      "resumen": "Ensayo personal de 2020 sobre por qué la forma en que se enseña biología en la escuela puede alejar a los estudiantes de una disciplina que, bien contada, resulta fascinante. Le sirve a un médico que ahora se dedica al análisis de datos porque invita a reflexionar sobre cómo comunicar mejor la ciencia y los datos biomédicos para que generen el mismo entusiasmo que despertaría la biología bien enseñada."
-    },
     "3f03520ba937": {
       "resumen": "Relato de un incidente de producción en Towards Data Science sobre un modelo de lenguaje (LLM, large language model) usado como 'juez' para evaluar el trabajo de otro modelo, que terminó sesgado a darse siempre la razón a sí mismo. Le sirve a quien aprende análisis de datos porque expone un riesgo concreto de confiar en la inteligencia artificial para validar su propio trabajo, algo cada vez más común en flujos de análisis automatizados.",
       "destacado": true
     },
-    "afc2bf6176d3": {
-      "resumen": "Nota técnica sobre el lanzamiento de la versión 7.2 del núcleo Linux, el sistema operativo que corre en la gran mayoría de los servidores donde se procesan datos. Le sirve a quien trabaja en análisis de datos como referencia de la infraestructura de base sobre la que corren casi todas las herramientas de ciencia de datos, aunque su contenido sea de bajo nivel técnico."
-    },
-    "0ac0123bfb33": {
-      "resumen": "Herramienta de código abierto llamada 'Vomit' que usa un segundo modelo de lenguaje (LLM) para limpiar y ordenar la salida de texto de Claude 5. Le sirve a quien empieza a automatizar análisis con inteligencia artificial porque muestra un patrón práctico: encadenar un modelo 'revisor' para mejorar la calidad de lo que produce otro modelo."
+    "4b6d1b0e0d57": {
+      "resumen": "Publicación técnica de Simon Willison que muestra cómo construir una interfaz de programación de aplicaciones (API) en formato JSON, al estilo de la herramienta shot-scraper, aprovechando Bun.WebView, la nueva función de la versión 1.4 del entorno de ejecución Bun. Le sirve a quien aprende análisis de datos porque es un ejemplo concreto de cómo automatizar la extracción de datos de páginas web (web scraping) con herramientas modernas."
     },
     "4fb8938e8405": {
       "resumen": "Artículo de Towards Data Science que distingue tres tipos de conjuntos de documentos (corpus) para sistemas de recuperación aumentada (RAG, retrieval-augmented generation) y explica qué arquitectura conviene según el tipo. Le sirve a quien aprende análisis de datos porque ayuda a elegir bien el diseño de un sistema de búsqueda documental antes de invertir tiempo de desarrollo, algo aplicable a organizar historias clínicas o literatura médica."
     },
-    "6dfb4263a72c": {
-      "resumen": "Artículo de KDnuggets que describe tres caminos distintos para construir una carrera en inteligencia artificial, cada uno con su propio perfil de habilidades. Le sirve a un médico en transición hacia el análisis de datos porque ayuda a identificar qué camino se ajusta mejor a su formación clínica previa y a decidir en qué habilidades enfocar el aprendizaje."
+    "baae68b24015": {
+      "resumen": "Los Pumas realizarán este sábado un entrenamiento abierto y gratuito en Jujuy, de cara al test match ante los Wallabies de Australia."
     },
-    "85f51f225fec": {
-      "resumen": "Repaso de KDnuggets de los diez principales bancos de pruebas (benchmarks) de código abierto para evaluar agentes de inteligencia artificial que programan, como SWE-bench o Terminal-Bench. Le sirve a quien aprende análisis de datos porque da un mapa de referencia para entender qué tan confiables son hoy estas herramientas antes de apoyarse en ellas para tareas de programación o automatización de análisis."
+    "7c1dc9567641": {
+      "resumen": "Los hinchas del rugby podrán presenciar de cerca la práctica abierta de Los Pumas en el estadio \"23 de Agosto\" de Jujuy."
     },
-    "a75468db8a43": {
-      "resumen": "Un futbolista que dejó de sumar minutos en River habría tomado decisiones personales que complicaron su presente en el club, según trascendió desde Ecuador."
-    },
-    "666ff2c033e3": {
-      "resumen": "Racing encara la preparación para enfrentar a Boca sin poder contar con Maravilla Martínez."
-    },
-    "cba9f5e49673": {
-      "resumen": "Los Pumas y los Wallabies de Australia ya tienen confirmados los planteles para el test match que jugarán en Jujuy."
-    },
-    "78c66d4faeb8": {
-      "resumen": "El ranking de World Rugby define qué resultados necesitan los All Blacks de Nueva Zelanda para sacarle el primer puesto a Sudáfrica."
-    },
-    "3cdb54d6099c": {
-      "resumen": "Los Pumas regresan a jugar a Mendoza y ya se conocen los precios de las entradas para el partido ante Australia."
+    "3fa0852cd233": {
+      "resumen": "Un repaso por todos los jugadores argentinos que integrarán los planteles de la Premiership inglesa en la próxima temporada."
     }
   }
 }

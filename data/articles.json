@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T07:12:44.681887+00:00",
+ "generated_at": "2026-08-21T09:02:45.469121+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -12,30 +12,6 @@
      "source": "TCTMD",
      "published": "2026-08-20T14:23:08+00:00",
      "id": "e77d6b7f90b1"
-    },
-    {
-     "title": "Case 10-2026: A 70-Year-Old Woman with a Racing Heart, Fatigue, and Dyspnea. Reply",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42617129/",
-     "source": "NEJM Cardiología",
-     "published": "2026-08-20T00:00:00+00:00",
-     "copete": "Khurshid SS et al. · The New England journal of medicine",
-     "id": "64c3c41cd6aa"
-    },
-    {
-     "title": "Case 10-2026: A 70-Year-Old Woman with a Racing Heart, Fatigue, and Dyspnea",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42617128/",
-     "source": "NEJM Cardiología",
-     "published": "2026-08-20T00:00:00+00:00",
-     "copete": "Ferreira D et al. · The New England journal of medicine",
-     "id": "04196dd38241"
-    },
-    {
-     "title": "Biologic Ventricular Assist Tissue in Heart Failure. Reply",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42617124/",
-     "source": "NEJM Cardiología",
-     "published": "2026-08-20T00:00:00+00:00",
-     "copete": "Zimmermann WH et al. · The New England journal of medicine",
-     "id": "d48e6bd50d59"
     },
     {
      "title": "Beyond the Data: High-Risk Populations and Primary Prevention",
@@ -96,6 +72,14 @@
      "source": "TCTMD",
      "published": "2026-08-18T20:29:47+00:00",
      "id": "27140889b249"
+    },
+    {
+     "title": "Ischaemic heart disease beyond obstructive coronary stenoses: from prevention to treatment",
+     "link": "https://academic.oup.com/eurheartj/article/47/31/4169/8761243?rss=1",
+     "source": "European Heart Journal",
+     "published": "2026-08-14T00:00:00+00:00",
+     "copete": "For image description, please refer to the figure legend and surrounding text. For the podcast associated with this article, please visit https://academic.oup.com/eurheartj/pages/Podcasts .",
+     "id": "7d7e3022b040"
     }
    ]
   },
@@ -213,6 +197,13 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Japan tried to build an operating system for the world, the US intervened",
+     "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-21T05:31:34+00:00",
+     "id": "4794c079ade7"
+    },
+    {
      "title": "Codex on AWS bedrock bug causing 10x charges",
      "link": "https://github.com/openai/codex/issues/37674",
      "source": "Hacker News (100+ puntos)",
@@ -240,13 +231,6 @@
      "source": "Hacker News (100+ puntos)",
      "published": "2026-08-20T23:56:35+00:00",
      "id": "2f7b33868b15"
-    },
-    {
-     "title": "The August 17 outage",
-     "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-20T19:22:24+00:00",
-     "id": "ba7ef830fa2a"
     },
     {
      "title": "New open source relational benchmark and foundation model",
@@ -295,100 +279,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Robaron en una tienda de tecnología de Rosario y se llevaron una millones de pesos en minutos",
+     "title": "Últimas encuestas en Florida hoy: Jolly le saca ventaja a Donalds y complica la elección del 3 de noviembre",
+     "link": "https://www.lanacion.com.ar/estados-unidos/florida/ultimas-encuestas-en-florida-hoy-jolly-le-saca-ventaja-a-donalds-y-complica-la-eleccion-del-3-de-nid21082026/",
+     "source": "La Nación",
+     "published": "2026-08-21T08:55:00+00:00",
+     "copete": "Una nueva encuesta en Florida muestra a David Jolly por delante de Byron Donalds en la carrera por la gobernación rumbo al 3 de noviembre. El demócrata gana terreno entre votantes hispanos e independientes, mientras crecen las dudas de…",
+     "id": "864d208d783b"
+    },
+    {
+     "title": "Incidentes con la Policía de Brasil tras la eliminación de Rosario Central de la Libertadores: hay 5 argentinos detenidos",
+     "link": "https://www.infobae.com/deportes/2026/08/21/incidentes-con-la-policia-de-brasil-tras-la-eliminacion-de-rosario-central-de-la-libertadores-hay-5-argentinos-detenidos/",
+     "source": "Infobae",
+     "published": "2026-08-21T08:24:11+00:00",
+     "copete": "Nueve simpatizantes, cuatro de Corinthians y cinco del conjunto rosarino, fueron aprehendidos y quedaron a disposición del juzgado que funciona dentro del estadio. Hubo cruces e insultos entre ambas hinchadas tras el cierre del partido",
+     "id": "0ae0ebb4f7b1"
+    },
+    {
+     "title": "Un comerciante se resistió a un robo en una joyería de Chubut y mató a un ladrón",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/08/21/un-comerciante-se-resistio-a-un-robo-en-una-joyeria-de-chubut-y-mato-a-un-ladron/",
+     "source": "Infobae",
+     "published": "2026-08-21T08:20:59+00:00",
+     "copete": "El fallecido recibió un disparo cerca del rostro y su identidad no había sido confirmada oficialmente. Para la Fiscalía, actuó en legítima defensa y no tendría reproche penal",
+     "id": "7efcd301e7a5"
+    },
+    {
+     "title": "Robaron en una tienda de tecnología de Rosario y se llevaron millones de pesos en minutos",
      "link": "https://www.infobae.com/sociedad/policiales/2026/08/21/robaron-en-una-tienda-de-tecnologia-de-rosario-y-se-llevaron-una-millones-de-pesos-en-minutos/",
      "source": "Infobae",
-     "published": "2026-08-21T07:03:40+00:00",
+     "published": "2026-08-21T08:18:08+00:00",
      "copete": "Cinco delincuentes irrumpieron en Luxor Tech, forzaron los accesos y escaparon con equipos electrónicos",
      "id": "bb1741d701eb"
     },
     {
-     "title": "Mel Robbins, experta en desarrollo personal: “Tenés que aprender a amar a tus padres por quienes son, no por quienes deseás que sean”",
-     "link": "https://www.lanacion.com.ar/sociedad/mel-robbins-experta-en-desarrollo-personal-tenes-que-aprender-a-amar-a-tus-padres-por-quienes-son-no-nid21082026/",
-     "source": "La Nación",
-     "published": "2026-08-21T07:00:00+00:00",
-     "copete": "La especialista advirtió sobre la intención de muchos hijos de modificar a los progenitores; sugiere que la aceptación es el camino hacia vínculos más sanos",
-     "id": "6a7d0e8f4e96"
-    },
-    {
-     "title": "Al Caribe en avión privado: el viaje de Massa con su esposa y amigos en medio del retorno a la discusión electoral",
-     "link": "https://www.lanacion.com.ar/politica/al-caribe-en-avion-privado-el-viaje-de-massa-con-su-esposa-y-amigos-en-medio-del-retorno-a-la-nid20082026/",
-     "source": "La Nación",
-     "published": "2026-08-21T06:53:29+00:00",
-     "copete": "Después de la última cumbre peronista se fue una semana a Barbados, a donde llegó en un jet de Francisco De Narváez; salió desde Uruguay y regresó por Paraguay; quiénes lo acompañaron",
-     "id": "35d420fdff5e"
-    },
-    {
-     "title": "El Gobierno sumó la ludopatía y el consumo de sustancias como problemáticas prioritarias de salud pública",
-     "link": "https://www.infobae.com/politica/2026/08/21/el-gobierno-sumo-la-ludopatia-y-el-consumo-de-sustancias-como-problematicas-prioritarias-de-salud-publica/",
+     "title": "“Hay muchas pruebas”: el ministro de Seguridad de Entre Ríos habló sobre la detención del comisario acusado de narco",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/08/21/hay-muchas-pruebas-el-ministro-de-seguridad-de-entre-rios-hablo-sobre-la-detencion-del-comisario-acusado-de-narco/",
      "source": "Infobae",
-     "published": "2026-08-21T06:49:29+00:00",
-     "copete": "Después de que se registrara un aumento de casos de ludopatía en adolescentes, la medida buscará fortalecer las políticas de prevención y asistencia",
-     "id": "70599b427238"
+     "published": "2026-08-21T08:15:42+00:00",
+     "copete": "Tras el arresto de Daniel Rosatelli, el ministro Roncaglia explicó que la investigación es “muy seria” y respaldó la actuación judicial. Además, garantizó que no habrá encubrimientos dentro de la fuerza provincial",
+     "id": "453e85bc140a"
     },
     {
-     "title": "El riesgo de comprarse lo que se quiere vender",
-     "link": "https://www.lanacion.com.ar/politica/el-riesgo-de-comprarse-lo-que-se-quiere-vender-nid20082026/",
-     "source": "La Nación",
-     "published": "2026-08-21T06:49:14+00:00",
-     "copete": "El discurso de Milei en el Consejo de las Américas vino a retroalimentar la distancia que se viene registrando entre el escenario que relata el Gobierno y el sentir mayoritario de la población",
-     "id": "752db17299e2"
-    },
-    {
-     "title": "Cerimedo “planificó” el ataque y “dirigió remotamente la emboscada” para matar a su novia, sostiene la acusación fiscal en Bolivia",
-     "link": "https://www.lanacion.com.ar/politica/cerimedo-planifico-el-ataque-y-dirigio-remotamente-la-emboscada-para-matar-a-su-novia-sostiene-la-nid20082026/",
-     "source": "La Nación",
-     "published": "2026-08-21T06:48:37+00:00",
-     "copete": "El documento pide la prisión sin límite de tiempo; señala que el exasesor la presionó para ver a los sicarios; la controlaba por teléfono; el móvil del crimen fue el embarazo",
-     "id": "278717ea656d"
-    },
-    {
-     "title": "El Gobierno reorganizó el Registro Nacional de Armas y amplió sus funciones",
-     "link": "https://www.infobae.com/politica/2026/08/21/el-gobierno-reorganizo-el-registro-nacional-de-armas-y-amplio-sus-funciones/",
-     "source": "Infobae",
-     "published": "2026-08-21T06:46:39+00:00",
-     "copete": "La medida, publicada este viernes en el Boletín Oficial, el organigrama del organismo y fija su intervención en causas penales",
-     "id": "5de4b423d4b5"
-    },
-    {
-     "title": "Cómo Suecia se convirtió en un país de libertarios partidarios de un gran Estado",
-     "link": "https://www.infobae.com/economist/2026/08/21/como-suecia-se-convirtio-en-un-pais-de-libertarios-partidarios-de-un-gran-estado/",
-     "source": "Infobae",
-     "published": "2026-08-21T06:44:02+00:00",
-     "copete": "Un test de Rorschach con albóndigas de acompañamiento",
-     "id": "4af0032163d5"
-    },
-    {
-     "title": "Tormentas en Nueva York: una tromba marina toco tierra y declararon el estado de emergencia",
-     "link": "https://www.lanacion.com.ar/el-mundo/tormentas-en-nueva-york-una-tromba-marina-toco-tierra-y-declararon-el-estado-de-emergencia-nid21082026/",
-     "source": "La Nación",
-     "published": "2026-08-21T06:40:45+00:00",
-     "copete": "El fenómeno natural tuvo lugar en Long Island, donde se avistó un enorme remolino de agua",
-     "id": "178fa263efc2"
-    },
-    {
-     "title": "Graves incidentes tras la eliminación de Rosario Central en Brasil: la policía de San Pablo reprimió a los hinchas argentinos",
-     "link": "https://www.clarin.com/deportes/graves-incidentes-eliminacion-rosario-central-brasil-policia-san-pablo-reprimio-hinchas-argentinos_0_mzPGYoSHUv.html",
+     "title": "El Gobierno incorporó la ludopatía a las funciones del Ministerio de Salud y redefinió el control de los alimentos",
+     "link": "https://www.clarin.com/politica/gobierno-incorporo-ludopatia-funciones-ministerio-salud-redefinio-control-alimentos_0_n4MUYQTPr6.html",
      "source": "Clarín",
-     "published": "2026-08-21T06:05:16+00:00",
-     "copete": "La eliminación de Rosario Central ante Corinthians terminó con incidentes en la Neo Química Arena. Hinchas del Canalla se enfrentaron con efectivos de la Policía Militar de San Pablo. Nueve simpatizantes, cuatro locales y cinco visitantes…",
-     "id": "25cd8af4baed"
+     "published": "2026-08-21T08:03:02+00:00",
+     "copete": "La medida fue oficializada mediante el Decreto 771/2026, publicado este jueves en el Boletín Oficial. La normativa redefine quién controla la cadena alimentaria y suma la prevención de las apuestas problemáticas entre las responsabilidades…",
+     "id": "d71f335b9a3d"
     },
     {
-     "title": "Cayó al bajar de un colectivo frente al Teatro Colón y la Justicia ordenó indemnizarla con más de $21 millones",
-     "link": "https://www.infobae.com/judiciales/2026/08/21/cayo-al-bajar-de-un-colectivo-frente-al-teatro-colon-y-la-justicia-ordeno-indemnizarla-con-mas-de-21-millones/",
+     "title": "Guía de Arte y Cultura: semana del 21 al 28 de agosto de 2026",
+     "link": "https://www.infobae.com/cultura/agenda-cultura/2026/08/21/guia-de-arte-y-cultura-semana-del-21-al-28-de-agosto-de-2026/",
      "source": "Infobae",
-     "published": "2026-08-21T06:02:36+00:00",
-     "copete": "La mujer, de 39 años al momento del accidente, atribuyó la caída a una maniobra brusca del chofer sobre la avenida 9 de Julio. Sufrió graves lesiones y la Cámara Civil actualizó la indemnización por incapacidad a valores vigentes, además…",
-     "id": "8c0934b89b7f"
+     "published": "2026-08-21T08:01:59+00:00",
+     "copete": "Una agenda completa con variadas propuestas: música, teatro, cine, ferias, muestras y cursos que componen un programa de imperdibles",
+     "id": "a4b1da391e9f"
     },
     {
-     "title": "¿Necesita el béisbol aun más tecnología para jugadas como el elevado discutido de Pete Alonso?",
-     "link": "https://www.clarin.com/estados-unidos/necesita-el-beisbol-aun-mas-tecnologia-para-jugadas-como-el-elevado-discutido-de-pete-alonso_0_uENsO7kVKD.html",
+     "title": "Lucrecia Manzur va por la hazaña ante Amanda Serrano en una pelea que se verá gratis por TikTok",
+     "link": "https://www.clarin.com/deportes/lucrecia-manzur-va-hazana-amanda-serrano-pelea-vera-gratis-tiktok_0_YmKVpOKMhw.html",
      "source": "Clarín",
-     "published": "2026-08-21T06:00:06+00:00",
-     "copete": "La polémica surgió tras la decisión de foul en un golpe de Alonso, generando debate sobre el uso de tecnología para validar jonrones. El mánager de los Orioles señaló la falta de evidencia clara en video, mientras la MLB evalúa opciones…",
-     "id": "183c56bedc5b"
+     "published": "2026-08-21T08:00:36+00:00",
+     "copete": "La tucumana desafiará a la puertorriqueña por los títulos mundiales pluma de la AMB y la OMB. Su legendaria rival buscará convertirse en la mujer con más nocauts de la historia.",
+     "id": "1a584c3b1469"
+    },
+    {
+     "title": "Yomif Kejelcha, el hombre que batió un récord imposible y ahora va por más",
+     "link": "https://www.clarin.com/deportes/yomif-kejelcha-hombre-batio-record-imposible-ahora-va_0_2Iwcjp406e.html",
+     "source": "Clarín",
+     "published": "2026-08-21T08:00:36+00:00",
+     "copete": "Hace cuatro meses fue uno de los dos atletas que rompió la mítica barrera de las dos horas en los 42K de Londres. Este domingo, el etíope buscará bajar la marca del Medio Maratón de Buenos Aires.",
+     "id": "0064c059bcdd"
+    },
+    {
+     "title": "El ciclo Cine y Libros cierra con \"El amante\", la novela erótica que convirtió una pasión prohibida en un clásico",
+     "link": "https://www.clarin.com/revista-n/ciclo-cine-libros-cierra-amante-novela-erotica-convirtio-pasion-prohibida-clasico_0_h8aWaL7wKa.html",
+     "source": "Clarín",
+     "published": "2026-08-21T08:00:35+00:00",
+     "copete": "Publicada en 1984 y llevada al cine por Jean-Jacques Annaud, la obra más célebre de Marguerite Duras transformó un episodio de su adolescencia en uno de los relatos fundamentales de la literatura francesa del siglo XX. El film se…",
+     "id": "b5b3f15b38c1"
+    },
+    {
+     "title": "Juan Bengoechea, comandante y piloto de Eurofighter: \"Esta profesión tiene mucho sacrificio y a la gente que está con nosotros les debemos la vida porque si nuestra vida es de servicio y de sacrificio, la suya lo es con nosotros también\"",
+     "link": "https://www.clarin.com/internacional/juan-bengoechea-comandante-piloto-eurofighter-profesion-sacrificio-gente-debemos-vida-vida-servicio-sacrificio_0_p1HCbhgJXc.html",
+     "source": "Clarín",
+     "published": "2026-08-21T08:00:35+00:00",
+     "copete": "Juan Bengoechea pilota el Eurofighter con más de mil horas de vuelo encima. Dice que quienes los acompañan en la vida también ejercen, a su modo, esa misma profesión.",
+     "id": "2d7cfa4cafe8"
+    },
+    {
+     "title": "Estas son las nuevas formas de medir el colesterol y la prueba clave para detectar si están bien o mal los niveles",
+     "link": "https://www.lanacion.com.ar/sociedad/estas-son-las-nuevas-formas-de-medir-el-colesterol-y-la-prueba-clave-para-detectar-si-estan-bien-o-nid21082026/",
+     "source": "La Nación",
+     "published": "2026-08-21T08:00:00+00:00",
+     "copete": "El cardiólogo Jorge Tartaglione explicó en LN+ cómo determinar el riesgo real de infarto mediante calculadoras digitales; advirtió que el tratamiento requiere un enfoque personalizado",
+     "id": "b77157296c0a"
     }
    ]
   },
@@ -397,6 +381,22 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Why the US economy is ringing alarm bells",
+     "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-21T08:38:18+00:00",
+     "copete": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
+     "id": "4f5d67d601c5"
+    },
+    {
+     "title": "El Niño set to be 'strongest in living memory', says Met Office",
+     "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-21T07:43:30+00:00",
+     "copete": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+     "id": "53f6d659dba4"
+    },
     {
      "title": "Five missing after fire in Swiss Alpine town",
      "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
@@ -412,22 +412,6 @@
      "published": "2026-08-21T06:46:08+00:00",
      "copete": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
      "id": "142c24046870"
-    },
-    {
-     "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-     "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-21T05:47:32+00:00",
-     "copete": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
-     "id": "84ce4047c1c5"
-    },
-    {
-     "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
-     "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-21T05:30:18+00:00",
-     "copete": "A jury last month cleared the YouTuber of several sexual assault offences, but it couldn't reach a decision on three others,",
-     "id": "493f07f2483a"
     },
     {
      "title": "Medio año de guerra después, Estados Unidos sigue sin estrangular la economía de Irán",
@@ -489,6 +473,11 @@
   {
    "section": "cardiologia",
    "feed": "Circulation (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "cardiologia",
+   "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]

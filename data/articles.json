@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T04:56:27.217250+00:00",
+ "generated_at": "2026-08-22T07:05:22.562655+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -196,11 +196,39 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "There's no reason for software to be slow anymore",
+     "link": "https://danluu.com/perf-opt/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-22T01:06:17+00:00",
+     "id": "2715b13cc178"
+    },
+    {
      "title": "Man vs Machine (vs Wizard vs Troll) - Article on AI for Game Design",
      "link": "https://www.reddit.com/r/datascience/comments/1vuuzjy/man_vs_machine_vs_wizard_vs_troll_article_on_ai/",
      "source": "r/datascience",
      "published": "2026-08-21T22:39:47+00:00",
      "id": "43b533ec5006"
+    },
+    {
+     "title": "Three important steps in my maturation process",
+     "link": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-21T22:29:00+00:00",
+     "id": "c60e9177a631"
+    },
+    {
+     "title": "Rust Glancer: Rust LSP using 100x less RAM",
+     "link": "https://rust-glancer.github.io/blog/hello-world/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-21T19:51:54+00:00",
+     "id": "31ef8ebb46d9"
+    },
+    {
+     "title": "Scientists release biggest 2D map of the universe",
+     "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-21T18:36:34+00:00",
+     "id": "b7f75c9859c7"
     },
     {
      "title": "Running Codex as a Headless Agent",
@@ -241,37 +269,6 @@
      "published": "2026-08-21T16:30:00+00:00",
      "copete": "Enterprise Document Intelligence [Vol.1 #7sexies] - The unit of retrieval doesn’t have to be a page or a paragraph. When the corpus carries tables, each body row with its column headers is a chunk in its own right, and it’s often the one…",
      "id": "4b424c7ed9b2"
-    },
-    {
-     "title": "Stop Making TUIs",
-     "link": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
-     "source": "Simon Willison (IA)",
-     "published": "2026-08-21T16:07:32+00:00",
-     "copete": "Stop Making TUIs Thomas Ptacek advocates for building real native user interfaces for even the smallest of personal tools, because coding agents have reduced the cost of getting a usable-enough GUI up and running to almost nothing. I wrote…",
-     "id": "bc0cc655f93c"
-    },
-    {
-     "title": "Run Muse Glimmer for Local Vibe Coding with llama.cpp, DFlash, and Pi",
-     "link": "https://www.kdnuggets.com/run-muse-glimmer-for-local-vibe-coding-with-llama-cpp-dflash-and-pi",
-     "source": "KDnuggets",
-     "published": "2026-08-21T14:00:58+00:00",
-     "copete": "Run Muse Glimmer locally on an RTX 3090 GPU using llama.cpp, DFlash speculative decoding, and Pi for fast, private, agentic AI coding.",
-     "id": "b216e07b3002"
-    },
-    {
-     "title": "5 Real-World Use Cases for AI Agents Transforming Industries",
-     "link": "https://www.kdnuggets.com/5-real-world-use-cases-for-ai-agents-transforming-industries",
-     "source": "KDnuggets",
-     "published": "2026-08-21T12:00:41+00:00",
-     "copete": "See how AI agents are autonomously handling support, coding, supply chains, healthcare, and fraud detection today.",
-     "id": "df5a831df396"
-    },
-    {
-     "title": "New open source relational benchmark and foundation model",
-     "link": "https://www.reddit.com/r/datascience/comments/1vtr8jo/new_open_source_relational_benchmark_and/",
-     "source": "r/datascience",
-     "published": "2026-08-20T18:13:26+00:00",
-     "id": "8e20a2171769"
     }
    ]
   },
@@ -281,100 +278,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "La historia detrás del símbolo del racismo que inspiró a Paul McCartney y una reconciliación que no terminó bien",
-     "link": "https://www.lanacion.com.ar/lifestyle/la-historia-detras-del-simbolo-del-racismo-que-inspiro-a-paul-mccartney-y-tuvo-una-reconciliacion-nid22082026/",
+     "title": "Joseph Pilates, creador del método de entrenamiento: “Sería un grave error pensar que sólo con hacer ejercicio es suficiente”",
+     "link": "https://www.lanacion.com.ar/sociedad/joseph-pilates-creador-del-metodo-de-entrenamiento-seria-un-grave-error-pensar-que-solo-con-hacer-nid22082026/",
      "source": "La Nación",
-     "published": "2026-08-22T04:41:00+00:00",
-     "copete": "Una imagen de 1957 convirtió a Elizabeth Eckford y Hazel Bryan en símbolos de dos lados opuestos de la lucha contra la segregación; décadas después, se reencontraron",
-     "id": "3adb3b7294f4"
+     "published": "2026-08-22T07:00:00+00:00",
+     "copete": "Un móvil de LN+ dialogó con la instructora Melani Giommetti, quien sostuvo que “la actividad sirve para fortalecer nuestros músculos de forma consciente y a largo plazo”; la técnica y sus beneficios",
+     "id": "c32f1bb14a2d"
     },
     {
-     "title": "Temblor en Chile: se registra sismo de magnitud 4 con epicentro en Valparaíso",
-     "link": "https://www.infobae.com/noticias/2026/08/22/temblor-en-chile-se-registra-sismo-de-magnitud-4-con-epicentro-en-valparaiso/",
+     "title": "Caminar o correr: qué ejercicio ayuda más a bajar la presión arterial",
+     "link": "https://www.infobae.com/salud/2026/08/22/caminar-o-correr-que-ejercicio-ayuda-mas-a-bajar-la-presion-arterial/",
      "source": "Infobae",
-     "published": "2026-08-22T04:16:35+00:00",
-     "copete": "Chile es uno de los países con más actividad sísmica del mundo, por lo que es importante permanecer preparado ante cualquier movimiento telúrico",
-     "id": "1da718d862e1"
+     "published": "2026-08-22T07:00:00+00:00",
+     "copete": "Las guías internacionales sobre prevención cardiovascular destacan que incorporar ejercicio de manera habitual aporta efectos positivos medibles aun con esquemas moderados",
+     "id": "598ecbd22aa3"
     },
     {
-     "title": "Sismo de magnitud 4.2 sacude en San Pedro este viernes 21 de agosto",
-     "link": "https://www.infobae.com/noticias/2026/08/22/sismo-de-magnitud-42-sacude-en-san-pedro-este-viernes-21-de-agosto/",
+     "title": "“¿No voy a salir… verdad?”: las últimas horas de John Edward Jones atrapado en una cueva",
+     "link": "https://www.infobae.com/historias/2026/08/22/no-voy-a-salir-verdad-las-ultimas-horas-de-john-edward-jones-atrapado-en-una-cueva/",
      "source": "Infobae",
-     "published": "2026-08-22T04:16:13+00:00",
-     "copete": "Chile es uno de los países con más actividad sísmica del mundo, por lo que es importante estar preparado ante cualquier movimiento telúrico",
-     "id": "ece6dac67382"
+     "published": "2026-08-22T07:00:00+00:00",
+     "copete": "Tenía 26 años y experiencia bajo tierra, pero un túnel equivocado lo dejó invertido en una grieta imposible. Cuerdas, anclajes y médicos pelearon contra la arcilla. Una decisión final marcó el lugar",
+     "id": "f7c8632c136e"
     },
     {
-     "title": "Más de 75 exbecarios de Estados Unidos analizan el futuro de la educación en El Salvador",
-     "link": "https://www.infobae.com/el-salvador/2026/08/22/mas-de-75-exbecarios-de-estados-unidos-analizan-el-futuro-de-la-educacion-en-el-salvador/",
+     "title": "Los trabajadores de un gremio recibirán un bono de más de 2 millones de pesos: cuál es y cuándo lo otorgarán",
+     "link": "https://www.infobae.com/economia/2026/08/22/los-trabajadores-de-un-gremio-recibiran-un-bono-de-mas-de-2-millones-de-pesos-cual-es-y-cuando-lo-otorgaran/",
      "source": "Infobae",
-     "published": "2026-08-22T04:15:39+00:00",
-     "copete": "Los participantes de intercambios patrocinados por Washington asistieron este 21 de agosto a un encuentro impulsado por la embajada, para compartir experiencias, evaluar desafíos del sector y abrir alianzas nacionales.",
-     "id": "2c29b8f02522"
+     "published": "2026-08-22T07:00:00+00:00",
+     "copete": "La paritaria que sigue de cerca el índice de precios también contempla un ingreso extraordinario para sus afiliados",
+     "id": "78e37380e949"
     },
     {
-     "title": "Empresa electrónica amplía su planta en Costa Rica y proyecta 500 nuevos empleos para 2030",
-     "link": "https://www.infobae.com/costa-rica/2026/08/22/empresa-electronica-amplia-su-planta-en-costa-rica-y-proyecta-500-nuevos-empleos-para-2030/",
+     "title": "Jet lag: el error más común que recomiendan evitar al llegar a otro huso horario",
+     "link": "https://www.infobae.com/salud/2026/08/22/jet-lag-el-error-mas-comun-que-recomiendan-evitar-al-llegar-a-otro-huso-horario/",
      "source": "Infobae",
-     "published": "2026-08-22T04:13:39+00:00",
-     "copete": "La compañía sumó 10,000 metros cuadrados a su operación en la Zona Franca La Lima y busca triplicar sus ventas hacia 2030, con Norteamérica como uno de sus mercados estratégicos.",
-     "id": "bb314cce8db8"
+     "published": "2026-08-22T07:00:00+00:00",
+     "copete": "Dormir mal después de un viaje largo no siempre se explica por falta de descanso, sino por una alteración temporal de los ritmos internos que regulan funciones claves del cuerpo",
+     "id": "4a100063c904"
     },
     {
-     "title": "CIDH exige garantizar la vida y el acceso familiar de Santos Ariel Rodríguez Lagos en Nicaragua",
-     "link": "https://www.infobae.com/nicaragua/2026/08/22/cidh-exige-garantizar-la-vida-y-el-acceso-familiar-de-santos-ariel-rodriguez-lagos-en-nicaragua/",
+     "title": "En 58 fotos: la cena anual CEA 2026 del Centro de Estudios Americanos",
+     "link": "https://www.infobae.com/fotos/2026/08/22/en-58-fotos-la-cena-anual-cea-2026-del-centro-de-estudios-americanos/",
      "source": "Infobae",
-     "published": "2026-08-22T04:13:22+00:00",
-     "copete": "El organismo interamericano advirtió gravedad y urgencia por la falta de datos oficiales sobre su paradero y su situación de reclusión, tras su captura en junio de 2024",
-     "id": "afd97a8e8dce"
+     "published": "2026-08-22T06:55:45+00:00",
+     "copete": "La institución que preside Luis Savino distinguió a F. Cartwright Weiland y Alec Oxenford",
+     "id": "167cc1ef4d21"
     },
     {
-     "title": "EEUU se dispone a aplicar aranceles del 50% a productos canadienses",
-     "link": "https://www.clarin.com/estados-unidos/eeuu-se-dispone-a-aplicar-aranceles-del-50-a-productos-canadienses_0_TqRFk2Fedk.html",
+     "title": "Qué se sabe de la muerte del niño de 6 años en Santa Fe y por qué sigue detenida la madre",
+     "link": "https://www.lanacion.com.ar/seguridad/que-se-sabe-de-la-muerte-del-nino-de-6-anos-en-santa-fe-y-por-que-sigue-detenida-la-madre-nid21082026/",
+     "source": "La Nación",
+     "published": "2026-08-22T06:39:19+00:00",
+     "copete": "La autopsia determinó que el menor falleció por asfixia; habló el abuelo y sostuvo que la madre no era violenta con su hijo",
+     "id": "a7462b9e7fd4"
+    },
+    {
+     "title": "Los Ángeles, Atlanta y Boston, entre las ciudades que la NASA investiga por la calidad del aire",
+     "link": "https://www.lanacion.com.ar/estados-unidos/los-angeles-atlanta-y-boston-entre-las-ciudades-que-la-nasa-investiga-por-la-calidad-del-aire-nid22082026/",
+     "source": "La Nación",
+     "published": "2026-08-22T06:33:00+00:00",
+     "copete": "Conoce la investigación de la NASA sobre calidad del aire que incluye a Los Ángeles, Atlanta y Boston y analiza partículas en distintas zonas urbanas.",
+     "id": "38d165f08785"
+    },
+    {
+     "title": "Hay alerta amarilla por frío extremo y vientos fuertes para este sábado 22 de agosto: las provincias afectadas",
+     "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-frio-extremo-y-vientos-fuertes-para-este-sabado-22-de-agosto-las-provincias-nid22082026/",
+     "source": "La Nación",
+     "published": "2026-08-22T06:28:42+00:00",
+     "copete": "El Servicio Meteorológico advirtió por condiciones adversas en distintas regiones; en la ciudad de Buenos Aires la máxima será de 17°C",
+     "id": "aac24eeaa246"
+    },
+    {
+     "title": "La Anmat publicó una alerta por la venta no autorizada de un fármaco para adelgazar: “Alto riesgo para la salud”",
+     "link": "https://www.lanacion.com.ar/sociedad/la-anmat-publico-una-alerta-por-la-venta-no-autorizada-de-un-farmaco-para-adelgazar-alto-riesgo-para-nid22082026/",
+     "source": "La Nación",
+     "published": "2026-08-22T06:23:44+00:00",
+     "copete": "El organismo advirtió que se trata de un elemento experimental que no cuenta con las aprobaciones pertinentes",
+     "id": "0e6cdead3fb4"
+    },
+    {
+     "title": "Un joven de 21 años, que empezó a conducir un camión de basura hace cinco años para pagarse la universidad, abandona su ceremonia de graduación de la facultad de derecho con su toga y posa con su diploma junto a su camión, al lado de sus compañeros conductores",
+     "link": "https://www.clarin.com/estados-unidos/joven-21-anos-empezo-conducir-camion-basura-hace-anos-pagarse-universidad-abandona-ceremonia-graduacion-facultad-derecho-toga-posa-diploma-junto-camion-lado-companeros-conductores_0_frJbXaseQx.html",
      "source": "Clarín",
-     "published": "2026-08-22T04:00:11+00:00",
-     "copete": "Estados Unidos aplicará un gravamen del 50% a productos canadienses por 20.000 millones de dólares, tras fracasar las negociaciones bilaterales. La medida podría intensificar tensiones comerciales, ya que Canadá amenaza con represalias, en…",
-     "id": "467ab38cb8a8"
+     "published": "2026-08-22T06:16:50+00:00",
+     "copete": "José Israel Hernández Chávez mantuvo durante cuatro años una rutina que combinaba estudios y trabajo. La fotografía junto al vehículo con el que trabajaba se convirtió en el símbolo de su graduación.",
+     "id": "c3ce2e7ee015"
     },
     {
-     "title": "Un día después de ser apaleados, Astros derrotan 4-0 a Atléticos con 4 empujadas por Yordan Álvarez",
-     "link": "https://www.clarin.com/estados-unidos/un-dia-despues-de-ser-apaleados-astros-derrotan-4-0-a-atleticos-con-4-empujadas-por-yordan-alvarez_0_bXxr2qC55m.html",
+     "title": "Marimar de Miguel, dueña de una panadería histórica de Burgos: \"Cerramos los domingos por falta de mano de obra, la gente se cansa rápido\"",
+     "link": "https://www.clarin.com/internacional/marimar-miguel-duena-panaderia-historica-burgos-cerramos-domingos-falta-mano-obra-gente-cansa-rapido_0_5XQ6imCATE.html",
      "source": "Clarín",
-     "published": "2026-08-22T04:00:08+00:00",
-     "copete": "El conjunto texano se impuso 4-0 a su rival, liderado por el destacado desempeño del cubano, quien impulsó dos anotaciones cruciales. El abridor de Houston y el bullpen limitaron al oponente a solo tres hits, asegurando así su dominio en…",
-     "id": "f49d224537c6"
-    },
-    {
-     "title": "Tucumán: denuncian a Lisandro Catalán y a un diputado libertario por falsificar su domicilio con fines electorales",
-     "link": "https://www.lanacion.com.ar/politica/tucuman-denuncian-a-lisandro-catalan-y-a-un-diputado-libertario-por-falsificar-su-domicilio-con-nid22082026/",
-     "source": "La Nación",
-     "published": "2026-08-22T04:00:00+00:00",
-     "copete": "La presentación judicial fue impulsada por un concejal de la UCR que responde a Mariano Campero, un diputado que se sumó en el Congreso a La Libertad Avanza; en el PJ también escaló la interna",
-     "id": "d46886d8d0c0"
-    },
-    {
-     "title": "El nuevo juez del caso Insaurralde validó los videos en los que Jesica Cirio aparece rodeada de fajos de dólares",
-     "link": "https://www.lanacion.com.ar/politica/el-nuevo-juez-del-caso-insaurralde-valido-los-videos-en-los-que-jesica-cirio-aparece-rodeada-de-nid22082026/",
-     "source": "La Nación",
-     "published": "2026-08-22T04:00:00+00:00",
-     "copete": "En su primera actuación, Rodríguez Ponte rechazó la pretensión de la modelo y del exintendente de Lomas de Zamora de excluirlos como prueba",
-     "id": "8d51005f8fbb"
-    },
-    {
-     "title": "Por qué las gramíneas son las grandes protagonistas del paisajismo",
-     "link": "https://www.lanacion.com.ar/revista-jardin/por-que-las-gramineas-son-las-grandes-protagonistas-del-paisajismo-nid22082026/",
-     "source": "La Nación",
-     "published": "2026-08-22T04:00:00+00:00",
-     "copete": "Durante años quedaron relegadas a los bordes de los canteros; hoy son protagonistas del paisajismo por su movimiento, resistencia y belleza durante todo el año",
-     "id": "39aa209a74ab"
-    },
-    {
-     "title": "¿Odiás la baranda de tu balcón? Estas ideas la hacen desaparecer sin hacer obra",
-     "link": "https://www.lanacion.com.ar/revista-jardin/odias-la-baranda-de-tu-balcon-estas-ideas-la-hacen-desaparecer-sin-hacer-obra-nid22082026/",
-     "source": "La Nación",
-     "published": "2026-08-22T04:00:00+00:00",
-     "copete": "Con plantas y algunos recursos de diseño es posible ocultar la baranda, ganar privacidad y renovar el balcón sin reformas",
-     "id": "023868d98246"
+     "published": "2026-08-22T06:00:49+00:00",
+     "copete": "El problema de encontrar trabajadores dispuestos a cumplir los fines de semana. La falta de relevo generacional en los oficios.",
+     "id": "071b47376d29"
     }
    ]
   },
@@ -384,12 +381,28 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
+     "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-22T06:40:30+00:00",
+     "copete": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
+     "id": "fcfb10d2b5d4"
+    },
+    {
      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
      "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-08-22T04:46:33+00:00",
-     "copete": "New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks.",
+     "copete": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
      "id": "1ba93b103296"
+    },
+    {
+     "title": "Fracasan las negociaciones entre EE UU y Canadá para frenar la imposición de los aranceles de Trump",
+     "link": "https://elpais.com/us/economia/2026-08-22/fracasan-las-negociaciones-entre-ee-uu-y-canada-para-frenar-la-imposicion-de-los-aranceles-de-trump.html",
+     "source": "El País Internacional",
+     "published": "2026-08-22T04:43:22+00:00",
+     "copete": "El desacuerdo implica la entrada en vigor de tarifas del 50% sobre unos 20.000 millones de dólares en productos canadienses",
+     "id": "9b234b5db870"
     },
     {
      "title": "\"Fuimos la escena del crimen de estas atrocidades\": el país que se enfrenta a EE.UU. y Europa al reclamar el pago de reparaciones por la esclavitud",
@@ -398,6 +411,14 @@
      "published": "2026-08-22T04:03:15+00:00",
      "copete": "Ghana se ha convertido en la principal voz de África en exigir que las naciones occidentales e instituciones que se beneficiaron de la esclavitud paguen reparaciones.",
      "id": "dd92a9ea44b0"
+    },
+    {
+     "title": "Elías Jaua: “Después de la muerte de Chávez no hubo árbitro y nos dimos con todo”",
+     "link": "https://elpais.com/america/2026-08-22/elias-jaua-despues-de-la-muerte-de-chavez-no-hubo-arbitro-y-nos-dimos-con-todo.html",
+     "source": "El País Internacional",
+     "published": "2026-08-22T04:00:00+00:00",
+     "copete": "El exvicepresidente de Venezuela repudia la captura de Nicolás Maduro y hace una autocrítica: “El chavismo perdió el rumbo cuando se convirtió en partido de Estado”",
+     "id": "4002d53beeef"
     },
     {
      "title": "Nikolái Rybakov, líder de Yábloko: “Hemos demostrado al mundo cuánta gente en Rusia quiere la paz”",
@@ -416,28 +437,12 @@
      "id": "9276b7a70325"
     },
     {
-     "title": "El país más caro del mundo se acerca a la UE empujado por el alto coste de la vida",
-     "link": "https://elpais.com/internacional/2026-08-22/el-pais-mas-caro-del-mundo-se-acerca-a-la-ue-empujado-por-el-alto-coste-de-la-vida.html",
-     "source": "El País Internacional",
-     "published": "2026-08-22T03:45:01+00:00",
-     "copete": "La escalada de precios aviva la pulsión europeísta en Islandia, que en una semana someterá a consulta popular su entrada en el club comunitario",
-     "id": "be8c2209028a"
-    },
-    {
-     "title": "El régimen de Myanmar busca legitimidad en el exterior cinco años después del golpe: “La población civil no se ha librado de esta guerra”",
-     "link": "https://elpais.com/internacional/2026-08-22/el-regimen-de-myanmar-busca-legitimidad-en-el-exterior-cinco-anos-despues-del-golpe-la-poblacion-civil-no-se-ha-librado-de-esta-guerra.html",
-     "source": "El País Internacional",
-     "published": "2026-08-22T03:45:01+00:00",
-     "copete": "Min Aung Hlaing recupera la interlocución regional tras autoproclamarse presidente civil, mientras el conflicto y la represión continúan",
-     "id": "5674ec04187a"
-    },
-    {
-     "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
-     "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+     "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
+     "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-22T03:17:29+00:00",
-     "copete": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall.",
-     "id": "fcfb10d2b5d4"
+     "published": "2026-08-22T03:43:26+00:00",
+     "copete": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
+     "id": "424fbe8bb8d5"
     },
     {
      "title": "'Quiet, quiet, quiet!' - What triggers Trump to shut down reporters?",
@@ -454,14 +459,6 @@
      "published": "2026-08-22T00:37:18+00:00",
      "copete": "Como parte del rito de iniciación, los aspirantes a miembros de una fraternidad eran obligados a empaquetar la droga, según la fiscalía.",
      "id": "a638e4e13d2e"
-    },
-    {
-     "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-     "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-22T00:03:10+00:00",
-     "copete": "They will not be working royals when they come back. So what could they be doing instead?",
-     "id": "fd31439f723e"
     }
    ]
   }
@@ -481,11 +478,6 @@
    "section": "cardiologia",
    "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "ciencia_datos",
-   "feed": "Hacker News (100+ puntos)",
-   "error": "HTTP Error 502: Bad Gateway"
   }
  ]
 }

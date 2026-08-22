@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T20:43:38.495553+00:00",
+ "generated_at": "2026-08-22T22:42:38.607492+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -26,30 +26,6 @@
      "source": "TCTMD",
      "published": "2026-08-20T14:23:08+00:00",
      "id": "e77d6b7f90b1"
-    },
-    {
-     "title": "Case 10-2026: A 70-Year-Old Woman with a Racing Heart, Fatigue, and Dyspnea. Reply",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42617129/",
-     "source": "NEJM Cardiología",
-     "published": "2026-08-20T00:00:00+00:00",
-     "copete": "Khurshid SS et al. · The New England journal of medicine",
-     "id": "64c3c41cd6aa"
-    },
-    {
-     "title": "Case 10-2026: A 70-Year-Old Woman with a Racing Heart, Fatigue, and Dyspnea",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42617128/",
-     "source": "NEJM Cardiología",
-     "published": "2026-08-20T00:00:00+00:00",
-     "copete": "Ferreira D et al. · The New England journal of medicine",
-     "id": "04196dd38241"
-    },
-    {
-     "title": "Biologic Ventricular Assist Tissue in Heart Failure. Reply",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42617124/",
-     "source": "NEJM Cardiología",
-     "published": "2026-08-20T00:00:00+00:00",
-     "copete": "Zimmermann WH et al. · The New England journal of medicine",
-     "id": "d48e6bd50d59"
     },
     {
      "title": "Beyond the Data: High-Risk Populations and Primary Prevention",
@@ -96,6 +72,14 @@
      "published": "2026-08-19T00:00:00+00:00",
      "copete": "Rajagopalan S et al. · Journal of the American College of Cardiology",
      "id": "b9609661894f"
+    },
+    {
+     "title": "Ischaemic heart disease beyond obstructive coronary stenoses: from prevention to treatment",
+     "link": "https://academic.oup.com/eurheartj/article/47/31/4169/8761243?rss=1",
+     "source": "European Heart Journal",
+     "published": "2026-08-14T00:00:00+00:00",
+     "copete": "For image description, please refer to the figure legend and surrounding text. For the podcast associated with this article, please visit https://academic.oup.com/eurheartj/pages/Podcasts .",
+     "id": "7d7e3022b040"
     }
    ]
   },
@@ -105,20 +89,59 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "La salvada de Arrayago sobre la línea y los videos de Independiente - Independiente Rivadavia",
+     "link": "https://www.ole.com.ar/futbol-primera/independiente-independienterivadavia-torneoclausura-videos-mejores-momentos_0_XLUMVn2Zyb.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-22T22:30:00+00:00",
+     "copete": "La Lepra mendocina tuvo la más clara con una chance de Arce, que se la picó a Rey pero el central pudo sacarla justo. Acá, los mejores momentos.",
+     "id": "13c98562ff3d"
+    },
+    {
+     "title": "Pata Pereyra, tras otra derrota de Gimnasia: su opinión de las polémicas y el mensaje para los hinchas",
+     "link": "https://www.ole.com.ar/gimnasia-y-esgrima/pata-pereyra-declaraciones-derrota-gimnasia-plata-gimnasia-mendoza_0_BX1Fxz3Mlx.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-22T22:22:38+00:00",
+     "copete": "El DT del Lobo habló tras la caída por 3-2 frente a Gimnasia de Mendoza en la sexta fecha del Clausura.",
+     "id": "64d7ead5e88b"
+    },
+    {
+     "title": "El 11 que piensa Guillermo para tratar de amargar a River",
+     "link": "https://www.ole.com.ar/futbol-primera/river-plate-velez-monumental-guillermo-barros-schelotto_0_4rnWOQgrf2.html",
+     "source": "Olé — River",
+     "published": "2026-08-22T22:22:00+00:00",
+     "copete": "El entrenador de Vélez ya tiene en mente el equipo para un partido clave.",
+     "id": "c02cbeb6869f"
+    },
+    {
+     "title": "Comenzó el Campeonato Argentino Juvenil M17 2026",
+     "link": "https://uar.com.ar/comenzo-el-campeonato-argentino-juvenil-m17-2026/",
+     "source": "UAR",
+     "published": "2026-08-22T21:26:07+00:00",
+     "copete": "El Campeonato Argentino Juvenil M17 2026 tuvo este sábado su jornada inaugural, en una nueva edición de un torneo de suma importancia para el rugby de base nacional, que reúne a los mejores jugadores menores de 17 años. La próxima fecha se…",
+     "id": "237120473cfc"
+    },
+    {
+     "title": "El Rojo no la pasa bien ante Lepra mendocina",
+     "link": "https://www.ole.com.ar/futbol-primera/independiente-rojo-rivadavia-torneo-clausura-partido-avellaneda_0_vcK7LN2cWV.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-22T21:12:34+00:00",
+     "copete": "Jadson Viera arranca su ciclo en Independiente en Avellaneda frente a Independiente Rivadavia. Seguilo en Olé .",
+     "id": "37571b6c75cd"
+    },
+    {
+     "title": "Los Pumas en Jujuy: una jornada de rugby, ovaciones y cercanía con los hinchas",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbGJRNW1saHdMMms2Rkg4LXBWc3lMUmdtVTQyQmZ5YTBHRldTM05ZcUhQQlZ2akpaMlo3QlRoTjNPNktDekNqcFBzQWtKQ1FFVDItcGk3c1NlZ1NRTFVHS2Y1eEl1eU5Da09xOVIyb3lJN3J4Tm4tUURkejM5UkJpbzdlcTlIeTRRZmJ0N0tmR3BBUDdlbXc?oc=5",
+     "source": "DeporTV",
+     "published": "2026-08-22T20:58:00+00:00",
+     "id": "fe4d267b63db"
+    },
+    {
      "title": "El distendido encuentro de Martínez Quarta con un ex River y un famoso actor",
      "link": "https://www.ole.com.ar/river-plate/river-plate-pity-martinez-lucas-martinez-quarta-encuentro_0_cpk5ve8dvg.html",
      "source": "Olé — River",
      "published": "2026-08-22T19:44:38+00:00",
      "copete": "En la previa del partido frente a Vélez, el defensor compartió un momento especial.",
      "id": "b5da9019d754"
-    },
-    {
-     "title": "Venta confirmada en San Lorenzo: Gill se va a Europa",
-     "link": "https://www.ole.com.ar/san-lorenzo/san-lorenzo-orlando-gill-venta-lille-francia_0_Ir27dI4cgt.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-22T19:35:10+00:00",
-     "copete": "Tras varios días de negociación se concretó la venta del arquero paraguayo al Lille de Francia. Al CIclón le entran una buena cantidad de millones...",
-     "id": "a514798828b3"
     },
     {
      "title": "La estrategia de Vélez para \"salir a ganar\" en el Monumental ante River",
@@ -129,19 +152,11 @@
      "id": "e46f95cbc52a"
     },
     {
-     "title": "All Blacks sorprendió y le ganó a los Springboks por 17 puntos: arrancó la serie que perjudica a los Pumas",
+     "title": "All Blacks sorprendió y les ganó a los Springboks por 17 puntos: arrancó la serie que perjudica a los Pumas",
      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbjdSU2FOVWQ5TlR2QmdsM0FpdlJsX1U3VXoyVFJWaTcxcVNDSU1zNllIbHZUTm5lMERrQ3dnX2tjVEFMaWllVzhtcWh0bVd4QzNRamtlbXhsdXRQMmRtVS03RngzdUlhOF9LVGtGY3VuU3F2d28xQk1Md1ZpZnM1bWFfUWF2QlRWS0IzSEZYbDVsMmhPN2xNbGc3WGtQTVFteEc2Ty1hVlVqNzZ5eVIwdjEyT2NvTEdEdzVrV2QzekpOLXZ4eldFRnFaRTVlcnBBZ1pjRFl3Ym9Fem4zOGNaVllxNnNMWkhqZVRv?oc=5",
      "source": "La Nación",
      "published": "2026-08-22T18:45:00+00:00",
      "id": "1f4664a4ec45"
-    },
-    {
-     "title": "El Lobo, en un gran segundo tiempo, llegó al empate",
-     "link": "https://www.ole.com.ar/futbol-primera/torneo-clausura-gimnasia-gimnasia-mendoza_0_bQ0o6JRBuM.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-22T18:37:37+00:00",
-     "copete": "Gimnasia salió con todo al complemento y le empató el partido a los mendocinos, que están desconocidos en la segunda mitad. Seguilo en Olé...",
-     "id": "2bc7f40bc6e6"
     },
     {
      "title": "Francisco Moreno jugará en Newcastle Red Bulls tras la serie de Los Pumas ante Australia",
@@ -159,27 +174,12 @@
      "id": "a6ec2415bc6c"
     },
     {
-     "title": "Los Pumas entrenaron junto al público jujeño y ya palpitan su duelo con Australia",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOFJjQ0FIQno2OVVHb25SY3gxa3NTb3pyZGIyTUtwMmxEbzNjUnh0UzdoelFGX3EyMWJLNy10MEFEWTJZOXBwQzdGSzc4bFBUZGFyTjlaQklRQW1PV0JpOENxRUFidGQ0VEJnNEtmMFFzV193b2N5RXpDdmRRRWFfSm1aSVFvQWY0UkhkRGdhVlVGZE41bmppTlNqeXFTaHE4MGcxNEhhR2JLV3pwQzBZNFF5ZjVnbHduNGZCMFg5bS1qYy1teURWRHBQR3cwTjBYcjd30gHYAUFVX3lxTE4zekVKeEM3SE4zRi00TTFCQ3d1RmRKRUJnOUdJZ1FxZm5XVlRqRFZzc1ltV21HdmxqQ3duX3kzaGNzeFpjVlBtOFpSWXV1dFNHR092VUR1R05va0NwRGRONDQ3cXl5Tl9pWE9EZGwweTVQR0Q4dzNzYnE3MFQ3RDhPMUN3c0plVGZ4N0J2YWp2QmNRbXlQR0YwdVBPR09ZeXFncjZXbGIyRDZ1V1dkeXhaWDFWT2VfZnRST1NrMHVDTF9tNzFiTFA5Z2NLYndSaS05Ti1pN1pLZQ?oc=5",
-     "source": "El Tribuno de Jujuy",
-     "published": "2026-08-22T17:00:17+00:00",
-     "id": "61134ad22fa0"
-    },
-    {
      "title": "El reencuentro de Coudet y Guillermo:  superclásicos, MLS y el partido caliente que protagonizaron como técnicos",
      "link": "https://www.ole.com.ar/river-plate/river-plate-duelos-enfrentamientos-guillermo-barros-schelotto-chacho-coudet_0_41iSGexj9L.html",
      "source": "Olé — River",
      "published": "2026-08-22T15:28:09+00:00",
      "copete": "El Chacho y el Mellizo tienen un amplio historial tanto con los botines como entrenadores y hasta trascendió fronteras.",
      "id": "91ee0147451b"
-    },
-    {
-     "title": "River vs. Vélez, por el Torneo Clausura: día, horario y por dónde ver",
-     "link": "https://www.ole.com.ar/futbol-primera/river-plate-vs-velez-sarsfield-partido-torneo-clausura-2026-formaciones-dia-horario-tv_0_zq9CWyq4cW.html",
-     "source": "Olé — River",
-     "published": "2026-08-22T14:29:35+00:00",
-     "copete": "Tras cortar la racha sin victorias ante Argentinos y empatar en Colombia por la Sudamericana, el equipo de Coudet choca ante un Fortín que quiere volver a sumar de a tres.",
-     "id": "a165e5dde235"
     }
    ]
   },
@@ -188,6 +188,28 @@
    "title": "Ciencia de datos e IA",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Quoting Linus Torvalds",
+     "link": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-08-22T21:04:26+00:00",
+     "copete": "And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work. I'd like to call it my tireless helper, but the AI several times stated flat out that this was impossible and unsolvable and that we should…",
+     "id": "d17933d43559"
+    },
+    {
+     "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+     "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-22T19:04:41+00:00",
+     "id": "2a6060ec93e9"
+    },
+    {
+     "title": "Why your local LLM feels dumber than it is",
+     "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-22T18:14:16+00:00",
+     "id": "c0f9d10986f5"
+    },
     {
      "title": "Scrap",
      "link": "https://twitter.com/moxie/status/2091218652133732491",
@@ -212,6 +234,13 @@
      "id": "593482410774"
     },
     {
+     "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+     "link": "https://twitter.com/argofowl/status/2091150597374537729",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-22T16:58:49+00:00",
+     "id": "304760d42766"
+    },
+    {
      "title": "More than just code review",
      "link": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
      "source": "Simon Willison (IA)",
@@ -228,40 +257,12 @@
      "id": "491af05b0d4d"
     },
     {
-     "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-     "link": "https://quantumi.sh/public/labs.html",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-22T14:54:07+00:00",
-     "id": "32dc5360b273"
-    },
-    {
-     "title": "A Friendly Introduction to Racket",
-     "link": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-22T14:08:19+00:00",
-     "id": "0ff3f677cedd"
-    },
-    {
-     "title": "New MCP Roadmap",
-     "link": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-22T13:31:34+00:00",
-     "id": "2dad877b6cc6"
-    },
-    {
      "title": "Why We Fine-Tuned SigLip (And Why That’s Not Always the Right Call)",
      "link": "https://towardsdatascience.com/why-we-fine-tuned-siglip-and-why-thats-not-always-the-right-call/",
      "source": "Towards Data Science",
      "published": "2026-08-22T13:00:00+00:00",
      "copete": "LoRA fine-tuning solved our under-labeling problem. Whether it makes sense for you depends on three questions. The post Why We Fine-Tuned SigLip (And Why That’s Not Always the Right Call) appeared first on Towards Data Science .",
      "id": "2883d3bb40e3"
-    },
-    {
-     "title": "Man vs Machine (vs Wizard vs Troll) - Article on AI for Game Design",
-     "link": "https://www.reddit.com/r/datascience/comments/1vuuzjy/man_vs_machine_vs_wizard_vs_troll_article_on_ai/",
-     "source": "r/datascience",
-     "published": "2026-08-21T22:39:47+00:00",
-     "id": "43b533ec5006"
     }
    ]
   },
@@ -271,100 +272,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Intentó ingresar a EE.UU. con un estimulante natural en su equipaje, pero lo descubrieron: por qué es ilegal",
-     "link": "https://www.lanacion.com.ar/estados-unidos/intento-ingresar-a-eeuu-con-un-estimulante-natural-en-su-equipaje-pero-lo-descubrieron-por-que-es-nid22082026/",
-     "source": "La Nación",
-     "published": "2026-08-22T20:39:01+00:00",
-     "copete": "Descubre por qué el khat es ilegal en EE.UU. tras la incautación de la CBP de casi 368 libras ocultas en ocho valijas de un viajero de Nueva York.",
-     "id": "fe2261ed8b7b"
-    },
-    {
-     "title": "Un niño de dos años murió en Entre Ríos tras caer a un pozo ciego",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/08/22/un-nino-de-dos-anos-murio-en-entre-rios-tras-caer-a-un-pozo-ciego/",
+     "title": "Los efectos de la luz azul de las pantallas más allá de la salud ocular",
+     "link": "https://www.infobae.com/salud/ciencia/2026/08/22/los-efectos-de-la-luz-azul-de-las-pantallas-mas-alla-de-la-salud-ocular/",
      "source": "Infobae",
-     "published": "2026-08-22T20:38:02+00:00",
-     "copete": "El hecho ocurrió en una vivienda en la localidad de La Paz. El pequeño fue llevado al Hospital 9 de Julio, pero los médicos no lograron salvarle la vida. Se inició una investigación judicial",
-     "id": "d747e4e7746a"
+     "published": "2026-08-22T22:36:35+00:00",
+     "copete": "La exposición cotidiana a dispositivos digitales amplió el debate sobre un tipo de radiación visible que hoy concentra estudios por su posible relación con la fatiga visual, el descanso nocturno y los hábitos de uso",
+     "id": "34d9f223fcae"
     },
     {
-     "title": "Casi la mitad de los intendentes bonaerenses no pueden aspirar a la reelección en 2027",
-     "link": "https://www.lanacion.com.ar/politica/casi-la-mitad-de-los-intendentes-bonaerenses-no-pueden-aspirar-a-la-reeleccion-en-2027-nid22082026/",
+     "title": "Por el placer de volver a verla: un hijo, una suma de recuerdos y una madre que todo lo sobrevuela",
+     "link": "https://www.lanacion.com.ar/espectaculos/teatro/por-el-placer-de-volver-a-verla-un-hijo-una-suma-de-recuerdos-y-una-madre-que-todo-lo-sobrevuela-nid22082026/",
      "source": "La Nación",
-     "published": "2026-08-22T20:36:15+00:00",
-     "copete": "De no modificarse la ley que fija un límite de dos mandatos consecutivos, 63 jefes comunales no podrán ser candidatos; hay 16 que asumieron otros puestos y tampoco podrían volver a competir",
-     "id": "06c214efd622"
+     "published": "2026-08-22T22:33:48+00:00",
+     "copete": "La obra con Miguel Ángel Solá y Mercedes Funes se presenta en el Paseo La Plaza",
+     "id": "0e1636bf2926"
     },
     {
-     "title": "Llega a la Argentina el principal encuentro del automovilismo continental y Milei estará en la apertura",
-     "link": "https://www.lanacion.com.ar/politica/confirman-la-presencia-de-milei-en-el-principal-encuentro-del-automovilismo-continental-nid22082026/",
+     "title": "“Se levantó con los escombros en la cama”: manejaba borracho una camioneta, perdió el control y terminó dentro de una casa",
+     "link": "https://www.infobae.com/sociedad/2026/08/22/se-levanto-con-los-escombros-en-la-cama-manejaba-borracho-una-camioneta-perdio-el-control-y-termino-dentro-de-una-casa/",
+     "source": "Infobae",
+     "published": "2026-08-22T22:33:45+00:00",
+     "copete": "Luis Néstor Chaparro, un jubilado de 85 años, se encontraba descansando en su vivienda y por poco no sufrió heridas. El test de alcoholemia del conductor arrojó 1,74 de alcohol en sangre",
+     "id": "666e8eab50a7"
+    },
+    {
+     "title": "Pasaporte mexicano en Texas: quiénes pagan 50% menos y dónde tramitarlo hasta el 4 de septiembre",
+     "link": "https://www.lanacion.com.ar/estados-unidos/texas/pasaporte-mexicano-en-texas-quienes-pagan-50-menos-y-donde-tramitarlo-hasta-el-4-de-septiembre-nid22082026/",
      "source": "La Nación",
-     "published": "2026-08-22T20:31:50+00:00",
-     "copete": "El Presidente inaugurará el Congreso Americano de la FIA de 2026, que se desarrollará entre el 31 de agosto y el 2 de septiembre en Buenos Aires; dijo que apuesta por traer la Fórmula 1 al país",
-     "id": "f7bfea4700ab"
+     "published": "2026-08-22T22:33:00+00:00",
+     "copete": "Consulta cómo tramitar el pasaporte mexicano en Texas, las jornadas móviles disponibles y quiénes pueden obtener un descuento del 50% en 2026.",
+     "id": "7aaf07097892"
     },
     {
-     "title": "Vishnu con halo y Kali con espada ensangrentada: una muestra en Nueva York que revela cómo India reinventó a sus dioses hogareños",
-     "link": "https://www.infobae.com/cultura/2026/08/22/vishnu-con-halo-y-kali-con-espada-ensangrentada-una-muestra-en-nueva-york-que-revela-como-india-reinvento-a-sus-dioses-hogarenos/",
+     "title": "El MIT identificó una enzima clave en el origen del cáncer de pulmón",
+     "link": "https://www.infobae.com/salud/ciencia/2026/08/22/el-mit-identifico-una-enzima-clave-en-el-origen-del-cancer-de-pulmon/",
      "source": "Infobae",
-     "published": "2026-08-22T20:30:13+00:00",
-     "copete": "Una vívida muestra de estampas devocionales hindúes de los siglos XIX y XX exhibe el genio del país para la abundancia estética",
-     "id": "2e1fa89f058d"
+     "published": "2026-08-22T22:28:21+00:00",
+     "copete": "Un inhibidor ya testeado en humanos frenó el crecimiento tumoral en ratones y abre la puerta a tratamientos preventivos",
+     "id": "cb29476816e5"
     },
     {
-     "title": "El método para detectar qué aplicaciones consumen más batería y datos en el teléfono",
-     "link": "https://www.infobae.com/tecno/2026/08/22/el-metodo-para-detectar-que-aplicaciones-consumen-mas-bateria-y-datos-en-el-telefono/",
-     "source": "Infobae",
-     "published": "2026-08-22T20:30:05+00:00",
-     "copete": "Android y iPhone ofrecen herramientas integradas para revisar el consumo de recursos por aplicación",
-     "id": "12ff4ec961b7"
-    },
-    {
-     "title": "De espalda al arco y con un taco extraordinario: el golazo en la Championship que ya postulan al Premio Puskás",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/de-espalda-al-arco-y-con-un-taco-extraordinario-el-golazo-en-la-championship-que-ya-postulan-al-nid22082026/",
+     "title": "Top 14 de la URBA: Los Tilos se impuso ante CASI, Hindú venció a SIC y Newman sigue firme arriba",
+     "link": "https://www.lanacion.com.ar/deportes/rugby/top-14-de-la-urba-los-tilos-se-impuso-ante-casi-hindu-vencio-a-sic-y-newman-sigue-firme-arriba-nid22082026/",
      "source": "La Nación",
-     "published": "2026-08-22T20:30:01+00:00",
-     "copete": "El delantero Dominic Ballard fue el autor para Bristol City ante Birmingham City con una definición acrobática",
-     "id": "9bf74e638a97"
+     "published": "2026-08-22T22:27:50+00:00",
+     "copete": "Alumni también ganó y sacó provecho de la caída de la Academia para trepar en la tabla; La Plata remontó por un punto a Belgrano en otro de los resultados destacados",
+     "id": "7af896b1514f"
     },
     {
-     "title": "Pánico, purgas y un aliado cada vez más necesario: las señales que inquietan a Putin",
-     "link": "https://www.lanacion.com.ar/el-mundo/panico-purgas-y-un-aliado-cada-vez-mas-necesario-las-senales-que-inquietan-a-putin-nid22082026/",
+     "title": "Se entregó uno de los presuntos sicarios del ataque a la pareja de Cerimedo en Bolivia: “No tengo nada que ver”",
+     "link": "https://www.lanacion.com.ar/politica/se-entrego-uno-de-los-presuntos-sicarios-del-ataque-a-la-pareja-de-cerimedo-en-bolivia-no-tengo-nada-nid22082026/",
      "source": "La Nación",
-     "published": "2026-08-22T20:29:17+00:00",
-     "copete": "La guerra en Ucrania desgasta la economía rusa, agudiza las tensiones internas y empuja a Moscú a estrechar su dependencia de Corea del Norte",
-     "id": "1991aad80ec7"
+     "published": "2026-08-22T22:25:29+00:00",
+     "copete": "El colombiano Hugo Castaño es acusado como uno de los supuestos gatilleros que disparó contra Nadia Beller; el exasesor de Milei permanece en prisión preventiva",
+     "id": "bb4cb8cdef1f"
     },
     {
-     "title": "Kacey Musgraves: la artista country que se viralizó por las curiosas “bolas de disco” que usó en su concierto",
-     "link": "https://www.infobae.com/entretenimiento/2026/08/22/nadie-esperaba-ver-esto-en-un-concierto-cantante-country-se-viraliza-por-insolitas-bolas-de-disco-en-su-show/",
+     "title": "Sheinbaum critica la “ambición desnuda” de un gobernador mexicano requerido por narco en Estados Unidos",
+     "link": "https://www.lanacion.com.ar/el-mundo/sheinbaum-critica-la-ambicion-desnuda-de-un-gobernador-mexicano-requerido-por-narco-en-estados-nid22082026/",
+     "source": "La Nación",
+     "published": "2026-08-22T22:24:22+00:00",
+     "copete": "La presidenta se refirió al caso de Rubén Rocha Moya, que volvió a su cargo tras haberse apartado durante una investigación por sus vínculos con el crimen organizado",
+     "id": "66493dc69cc5"
+    },
+    {
+     "title": "El hondureño que soñó con volar y terminó con su voz en una canción de Coldplay",
+     "link": "https://www.infobae.com/honduras/2026/08/22/el-hondureno-que-sono-con-volar-y-termino-con-su-voz-en-una-cancion-de-coldplay/",
      "source": "Infobae",
-     "published": "2026-08-22T20:28:23+00:00",
-     "copete": "El insólito elemento llamó la atención durante el primer recital de su gira por los Estados Unidos",
-     "id": "c7348d89a1c3"
+     "published": "2026-08-22T22:24:19+00:00",
+     "copete": "Coldplay incluyó en 2019 la voz de Agustín López Pacheco en *When I Need a Friend* y vinculó su historia con el álbum *Everyday Life*.",
+     "id": "97edefe3bf51"
     },
     {
-     "title": "La tajante frase del presidente de Inter sobre el “principio de acuerdo” entre Barcelona y Lautaro Martínez",
-     "link": "https://www.infobae.com/deportes/2026/08/22/la-tajante-frase-del-presidente-de-inter-sobre-el-principio-de-acuerdo-entre-barcelona-y-lautaro-martinez/",
+     "title": "Dueños de GTA 6 inician búsqueda de los responsables de filtrar videos del juego",
+     "link": "https://www.infobae.com/tecno/2026/08/22/duenos-de-gta-6-inician-busqueda-de-los-responsables-de-filtrar-videos-del-juego/",
      "source": "Infobae",
-     "published": "2026-08-22T20:23:06+00:00",
-     "copete": "Giuseppe Marotta se refirió a la información proveniente de España y negó cualquier posibilidad de desprenderse del Toro en este mercado de pases",
-     "id": "c91d2f5c6ef2"
+     "published": "2026-08-22T22:21:11+00:00",
+     "copete": "Take-Two busca la colaboración de Microsoft y Discord para rastrear a los responsables de las filtraciones",
+     "id": "345cff2ec8bd"
     },
     {
-     "title": "La guerra comercial de Trump con Canadá: una cronología",
-     "link": "https://www.clarin.com/estados-unidos/la-guerra-comercial-de-trump-con-canada-una-cronologia_0_rc77UFY2qf.html",
+     "title": "Guerra EE.UU.-Irán: La posición de fuerza y los dos Relojes de Teherán",
+     "link": "https://www.clarin.com/opinion/guerra-eeuu-iran-posicion-fuerza-relojes-teheran_0_hDIPYzyYzP.html",
      "source": "Clarín",
-     "published": "2026-08-22T19:50:12+00:00",
-     "copete": "La política arancelaria del mandatario estadounidense ha generado tensiones con su vecino del norte, afectando la relación bilateral. Canadá responde con medidas de represalia, mientras las negociaciones comerciales enfrentan obstáculos y…",
-     "id": "e53893f145a4"
+     "published": "2026-08-22T21:59:10+00:00",
+     "copete": "La pregunta que divide al régimen no es si resistir sino cuál de las dos cronologías -la militar y la económica- se agota antes.",
+     "id": "42fd76925029"
     },
     {
-     "title": "Polémica por una presentación de Miranda! que generó indignación: los motivos",
-     "link": "https://www.clarin.com/fama/polemica-presentacion-miranda-genero-indignacion-motivos_0_JMaQaef2zs.html",
+     "title": "Sofía Clérici mostró por primera vez su pancita luego de anunciar su embarazo: \"Es algo único\"",
+     "link": "https://www.clarin.com/fama/sofia-clerici-mostro-primera-vez-pancita-luego-anunciar-embarazo-unico_0_vP6g1vvLVT.html",
      "source": "Clarín",
-     "published": "2026-08-22T19:49:37+00:00",
-     "copete": "El dúo pop cantó en la apertura de La Vuelta a España en Mónaco. Su show fue cuestionado por los españoles y los fanáticos argentinos los defendieron en redes.",
-     "id": "cdc8ecb51eb4"
+     "published": "2026-08-22T21:49:31+00:00",
+     "copete": "La modelo contó en redes sociales cómo atraviesa la incipiente etapa de gestación. \"Llevar a mi bebé y sentir cada tironcito, y síntoma es algo que recibo con mucho amor”, afirmó.",
+     "id": "2c1cc916e5f4"
     }
    ]
   },
@@ -373,6 +374,14 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Una jueza anula la prohibición de visados de EE.UU. a ciudadanos de 75 países, entre ellos Colombia, Uruguay y Cuba",
+     "link": "https://www.bbc.com/mundo/articles/cp3r3nn6nnxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-22T22:26:43+00:00",
+     "copete": "La jueza federal Jeannette Vargas dejó sin efecto la medida al considerar que era contraria a la ley federal.",
+     "id": "05eaa74c097e"
+    },
     {
      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
@@ -444,14 +453,6 @@
      "published": "2026-08-22T13:56:06+00:00",
      "copete": "Un nuevo arancel del 50% sobre importaciones canadienses por valor de 20.000 millones de dólares entra en vigor tras el fracaso de última hora de las negociaciones comerciales.",
      "id": "21f875ad5fc1"
-    },
-    {
-     "title": "¿Qué pasó con el sueño americano de Harry y Meghan?",
-     "link": "https://www.bbc.com/mundo/articles/c5yv12d5r0no?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-22T13:30:03+00:00",
-     "copete": "Los duques de Sussex gozaron de cierto éxito en la industria del entretenimiento, pero su reinado en Hollywood ha demostrado ser corto.",
-     "id": "ef25c306c87a"
     }
    ]
   }
@@ -465,6 +466,11 @@
   {
    "section": "cardiologia",
    "feed": "Circulation (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "cardiologia",
+   "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]

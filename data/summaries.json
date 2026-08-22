@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T10:04:29Z",
+  "generated_at": "2026-08-22T22:10:00Z",
   "summaries": {
     "e77d6b7f90b1": {
       "resumen": "Cobertura de TCTMD sobre un estudio que muestra que la mortalidad asociada a la estenosis aórtica —el estrechamiento de la válvula aórtica del corazón— viene bajando con el tiempo, aunque persisten diferencias importantes entre subgrupos poblacionales. Vale la pena porque, más allá de la mejora global gracias al diagnóstico temprano y al reemplazo valvular aórtico percutáneo (TAVI, transcatheter aortic valve implantation), las brechas de acceso siguen determinando quién se beneficia realmente de esos avances.",
@@ -40,64 +40,66 @@
       "resumen": "Enlace de navegación de TCTMD que remite al listado completo de congresos y conferencias cubiertos por el sitio, sin una nota periodística propia. Vale la pena solo como acceso rápido a la agenda de eventos de cardiología intervencionista, no aporta contenido clínico nuevo por sí mismo.",
       "destacado": false
     },
-    "7d7e3022b040": {
-      "resumen": "Revisión del European Heart Journal sobre la cardiopatía isquémica que ocurre sin una obstrucción coronaria significativa (disfunción microvascular, vasoespasmo), un cuadro cada vez más reconocido bajo la sigla ANOCA/INOCA (angina o isquemia con arterias coronarias no obstructivas). Vale la pena porque resume el enfoque diagnóstico y terapéutico de una entidad subdiagnosticada, sobre todo en mujeres, que la angiografía convencional no detecta.",
-      "destacado": false
-    },
-    "e505f725d54b": {
-      "resumen": "Artículo de Towards Data Science que explica cómo convertir a Codex, el agente de programación de OpenAI, de un asistente interactivo a un componente de automatización programable que corre sin interfaz (headless), es decir, ejecutado por script sin intervención manual. Le sirve a un médico que aprende análisis de datos porque muestra cómo integrar agentes de inteligencia artificial dentro de flujos de trabajo automatizados, más allá de usarlos como chat.",
-      "destacado": false
-    },
-    "6e832a9da829": {
-      "resumen": "Artículo técnico de Towards Data Science que explica, con la matemática incluida, cómo usar redes neuronales de baja capacidad para obtener un puntaje continuo y detallado a partir de datos que solo vienen etiquetados en categorías. Le sirve a quien aprende ciencia de datos porque es una situación habitual en medicina: contar con variables categóricas (por ejemplo, \"leve/moderado/grave\") y necesitar igual una escala más fina para el análisis.",
-      "destacado": false
-    },
-    "4b424c7ed9b2": {
-      "resumen": "Artículo de Towards Data Science sobre recuperación aumentada por generación (RAG, retrieval-augmented generation) que propone usar cada fila de una tabla, con sus encabezados de columna, como unidad de búsqueda en vez de la página o el párrafo completo. Le sirve a un médico que analiza datos porque es directamente aplicable a organizar historias clínicas o bases de resultados de laboratorio en tablas para consultarlas con inteligencia artificial de forma más precisa.",
-      "destacado": true
-    },
-    "2715b13cc178": {
-      "resumen": "Ensayo técnico difundido en Hacker News que argumenta que el hardware actual es tan rápido que gran parte de la lentitud del software moderno es evitable, y repasa por qué de todos modos persiste. Le sirve a quien aprende análisis de datos porque ayuda a entender por qué un script o una consulta corren lento y qué prácticas de programación conviene evitar al procesar datos.",
-      "destacado": false
-    },
-    "5d9a1ebcc719": {
-      "resumen": "Anuncio de GrapheneOS, el sistema operativo Android centrado en privacidad, sobre su alianza con Motorola, que arrancará con un modelo convencional sin pantalla plegable. Le sirve a quien maneja datos sensibles, como historias clínicas, porque muestra una alternativa de hardware más cuidada en materia de privacidad y seguridad para uso profesional.",
-      "destacado": false
-    },
     "43b533ec5006": {
       "resumen": "Publicación de la comunidad r/datascience sobre un artículo que analiza el uso de inteligencia artificial en el diseño de videojuegos. Le sirve a quien aprende ciencia de datos porque ilustra, en un dominio creativo, las mismas tensiones entre automatización y criterio humano que aparecen al aplicar IA en otros campos, incluida la medicina.",
       "destacado": false
     },
-    "c60e9177a631": {
-      "resumen": "Ensayo personal de un investigador técnico, publicado en Hacker News, sobre etapas de maduración en su carrera profesional. Le sirve a quien está en transición de carrera, como un médico que se forma en análisis de datos, porque plantea reflexiones sobre el desarrollo profesional aplicables más allá de la disciplina de origen.",
+    "64c3c41cd6aa": {
+      "resumen": "Réplica de los autores dentro de la serie \"Case Records of the Massachusetts General Hospital\" del New England Journal of Medicine (NEJM), sobre el caso 10-2026: una mujer de 70 años con palpitaciones (taquicardia), fatiga y disnea (falta de aire). Vale la pena porque estos casos clinicopatológicos son un clásico ejercicio de razonamiento diagnóstico, útil para entrenar el diagnóstico diferencial en cardiología.",
       "destacado": false
     },
-    "31ef8ebb46d9": {
-      "resumen": "Presentación en Hacker News de Rust Glancer, un servidor de lenguaje (LSP, language server protocol) para Rust que promete usar 100 veces menos memoria RAM que las alternativas actuales. Le sirve a quien programa para análisis de datos porque muestra cómo optimizar el consumo de recursos de las herramientas de desarrollo, algo relevante al trabajar con equipos o datasets limitados.",
+    "04196dd38241": {
+      "resumen": "Caso clínico de la serie \"Case Records of the Massachusetts General Hospital\" del New England Journal of Medicine (NEJM): una mujer de 70 años con taquicardia, fatiga y disnea, con discusión diagnóstica paso a paso a cargo del equipo tratante. Vale la pena porque ejemplifica el proceso de razonamiento clínico ante síntomas cardiovasculares inespecíficos.",
       "destacado": false
     },
-    "dfcebfe8dadb": {
-      "resumen": "Nota de Simon Willison sobre la versión 0.32.1 de su herramienta de línea de comandos \"llm\", que corrige un problema de instalación surgido porque la librería de OpenAI en Python dejó de depender de httpx. Le sirve a quien usa herramientas de inteligencia artificial en su flujo de trabajo porque es un recordatorio práctico de cómo una dependencia transitiva puede romper una instalación de un día para el otro.",
+    "d48e6bd50d59": {
+      "resumen": "Réplica de los autores sobre tejido biológico de asistencia ventricular (biologic ventricular assist tissue) en insuficiencia cardíaca, en respuesta a una carta sobre su trabajo previo de ingeniería de tejido cardíaco. Vale la pena porque aborda una tecnología experimental de soporte ventricular basada en tejido bioingenierizado, una línea de investigación emergente en insuficiencia cardíaca avanzada.",
       "destacado": false
     },
-    "be465d304e61": {
-      "resumen": "Nota de Simon Willison sobre la versión 0.7 del plugin llm-openrouter, ya compatible con la versión 0.32 de su herramienta \"llm\", que ahora permite ver las trazas de razonamiento de los modelos disponibles a través de OpenRouter. Le sirve a quien aprende ciencia de datos e inteligencia artificial porque muestra cómo comparar el razonamiento interno de distintos modelos de lenguaje desde una misma interfaz.",
+    "0cbbcd53f19c": {
+      "resumen": "Publicación breve difundida en Hacker News (más de 100 puntos), enlazada a un posteo en la red social X (ex Twitter) del usuario \"moxie\", sin más contexto disponible que el título \"Scrap\" provisto por la fuente. Vale la pena solo como indicador de que generó alto interés en la comunidad técnica; el contenido puntual no puede precisarse sin acceder al enlace original.",
       "destacado": false
     },
-    "cd64276323d1": {
-      "resumen": "El wing argentino Mateo Carreras, marginado de la convocatoria a Los Pumas, volvió a jugar para Bayonne y celebró un triunfo en el clásico vasco del rugby francés."
+    "d2a4852ea41c": {
+      "resumen": "Nueva versión (0.33) de \"llm\", la herramienta de línea de comandos de Simon Willison para consultar modelos de lenguaje, que actualiza la librería de Python de OpenAI a su versión 3.x y cambia el cliente HTTP interno de httpx a httpx2. Le sirve a quien aprende ciencia de datos porque \"llm\" permite probar modelos de distintos proveedores desde la terminal sin escribir código adicional, y este release recuerda cómo un cambio de dependencia puede romper una instalación de un día para el otro.",
+      "destacado": false
     },
-    "809ab56b0b99": {
-      "resumen": "El jugador de Los Pumas Joaquín Oviedo recibió una distinción a nivel mundial que confirma su salto de promesa a figura consolidada."
+    "593482410774": {
+      "resumen": "Artículo de Towards Data Science que relata cómo pasar un agente de inteligencia artificial construido con LangGraph (framework para orquestar agentes con estados y flujos) de una demo a un sistema con un backend real, capaz de guardar datos de reservas de forma persistente. Le sirve a un médico que aprende análisis de datos porque muestra el salto práctico de un prototipo de IA a una aplicación con almacenamiento de datos confiable, un paso clave en cualquier proyecto real.",
+      "destacado": false
     },
-    "3298be67772a": {
-      "resumen": "Un repaso de los argentinos, entre figuras de Los Pumas y jóvenes promesas recién llegadas, que competirán esta temporada en el Pro D2 del rugby francés."
+    "64b442a93659": {
+      "resumen": "Reflexión de Simon Willison sobre la habilidad central para aprovechar agentes de programación asistidos por inteligencia artificial: saber instruirlos con precisión y después verificar con confianza que los cambios se aplicaron correctamente. Le sirve a quien aprende ciencia de datos porque son las mismas competencias necesarias al delegarle a un agente de IA tareas de análisis o limpieza de datos: definir bien el pedido y auditar el resultado.",
+      "destacado": false
     },
-    "114a6ca9e1e6": {
-      "resumen": "Se conoció el árbitro que dirigirá el partido de vuelta entre River Plate e Independiente Santa Fe."
+    "491af05b0d4d": {
+      "resumen": "Artículo de Towards Data Science sobre recuperación aumentada por generación (RAG, retrieval-augmented generation) que propone tratar una carpeta de PDFs no relacionados entre sí como si fuera un único documento largo con un índice anidado, usando un resumen y una tabla de contenidos por archivo en vez de construir un índice compartido. Le sirve a un médico que analiza datos porque es aplicable a organizar historias clínicas, protocolos o bibliografía dispersa en PDFs para consultarlos con inteligencia artificial de forma más precisa.",
+      "destacado": true
     },
-    "be59fd2512e8": {
-      "resumen": "Un productor reemplazó sus vacas por búfalas y logró cuadruplicar la producción de carne por hectárea en su campo."
+    "32dc5360b273": {
+      "resumen": "Publicación humorística difundida en Hacker News que ironiza sobre la moda de nombrar startups de inteligencia artificial con números consecutivos en inglés (ElevenLabs, TwelveLabs y una ficticia \"ThirteenLabs\"). Le sirve a quien sigue el ecosistema de IA como una mirada crítica y liviana sobre las tendencias de marketing del sector, sin aportar contenido técnico propiamente dicho.",
+      "destacado": false
+    },
+    "0ff3f677cedd": {
+      "resumen": "Guía introductoria difundida en Hacker News sobre Racket, un lenguaje de programación de la familia Lisp orientado a la enseñanza y al diseño de lenguajes. Le sirve a quien aprende ciencia de datos como puerta de entrada a la programación funcional, un paradigma que influye en herramientas modernas de procesamiento de datos aunque no sea el lenguaje típico del rubro.",
+      "destacado": false
+    },
+    "2dad877b6cc6": {
+      "resumen": "Anuncio del nuevo mapa de ruta (roadmap) del Protocolo de Contexto de Modelo (MCP, Model Context Protocol), el estándar abierto que conecta modelos de lenguaje con herramientas y fuentes de datos externas. Le sirve a quien aprende ciencia de datos e inteligencia artificial porque MCP se está volviendo el mecanismo estándar para integrar IA con bases de datos, APIs y flujos de trabajo propios.",
+      "destacado": false
+    },
+    "2883d3bb40e3": {
+      "resumen": "Artículo de Towards Data Science sobre por qué el equipo decidió reentrenar (fine-tuning) el modelo de visión SigLip usando LoRA (low-rank adaptation, una técnica de ajuste eficiente de parámetros) para resolver un problema de datos subetiquetados, y en qué casos esa decisión no conviene. Le sirve a quien aprende ciencia de datos porque plantea con claridad cuándo conviene invertir en reentrenar un modelo propio en vez de usar uno genérico.",
+      "destacado": false
+    },
+    "1f4664a4ec45": {
+      "resumen": "Los All Blacks vencieron por 17 puntos a los Springboks en el arranque de una serie que complica las aspiraciones de Los Pumas en el certamen."
+    },
+    "248b9c5d02f9": {
+      "resumen": "El jugador confirmó su pase a Newcastle Red Bulls una vez terminada la serie de Los Pumas frente a Australia."
+    },
+    "61134ad22fa0": {
+      "resumen": "Los Pumas realizaron una práctica abierta al público en Jujuy mientras se preparan para el partido ante Australia."
     }
   }
 }

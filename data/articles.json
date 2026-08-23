@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T02:04:25.934792+00:00",
+ "generated_at": "2026-08-23T03:26:04.528688+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -74,28 +74,12 @@
      "id": "b9609661894f"
     },
     {
-     "title": "Rigosertib Reverses Hypertrophic Cardiomyopathy in Noonan Syndrome",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42610277/",
-     "source": "Circulation",
-     "published": "2026-08-18T00:00:00+00:00",
-     "copete": "Legler L et al. · Circulation",
-     "id": "71ac720868ef"
-    },
-    {
-     "title": "Metrnl Reduces Thrombosis and Acute Myocardial Injury Through Inhibition of Platelet Activation via CD36 Receptor Degradation",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42610276/",
-     "source": "Circulation",
-     "published": "2026-08-18T00:00:00+00:00",
-     "copete": "Miao ZW et al. · Circulation",
-     "id": "792fd434d8c8"
-    },
-    {
-     "title": "Effect of Semaglutide on the Inflammatory Biomarker High-Sensitivity CRP in Patients With Established Cardiovascular Disease and Overweight or Obesity in SELECT: A Prespecified Secondary Analysis",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42610271/",
-     "source": "Circulation",
-     "published": "2026-08-18T00:00:00+00:00",
-     "copete": "Plutzky J et al. · Circulation",
-     "id": "1afb5aba9aab"
+     "title": "Ischaemic heart disease beyond obstructive coronary stenoses: from prevention to treatment",
+     "link": "https://academic.oup.com/eurheartj/article/47/31/4169/8761243?rss=1",
+     "source": "European Heart Journal",
+     "published": "2026-08-14T00:00:00+00:00",
+     "copete": "For image description, please refer to the figure legend and surrounding text. For the podcast associated with this article, please visit https://academic.oup.com/eurheartj/pages/Podcasts .",
+     "id": "7d7e3022b040"
     }
    ]
   },
@@ -105,11 +89,19 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Batalla campal en pleno campo de juego: los fuertes incidentes entre los barras de Independiente Santa Fe y América de Cali",
+     "title": "Video: la furia de Pedro Troglio con el árbitro Viola y el \"tengo los huevos llenos con este pibe\"",
+     "link": "https://www.ole.com.ar/banfield/pedro-troglio-banfield-newells-enojo-felipe-viola-arbitro_0_xq2Eu8qvh4.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-23T02:20:07+00:00",
+     "copete": "El técnico de Banfield, molesto por la decisión del juez en el final, fue expulsado tras un intenso cruce verbal luego de la derrota frente a Newell's en Rosario.",
+     "id": "0a2afd3a03e0"
+    },
+    {
+     "title": "A días de la vuelta con River, la barra de Independiente Santa Fe tuvo una batalla campal y su equipo empató el clásico",
      "link": "https://www.ole.com.ar/futbol-internacional/america/independiente-santa-fe-america-cali-barras-river-conflicto-incidentes-pelea_0_ZOUz4zPOxm.html",
      "source": "Olé — River",
      "published": "2026-08-23T00:56:46+00:00",
-     "copete": "A días de visitar a River por la vuelta de la Copa Sudamericana, los hinchas de El Expreso Rojo tuvieron un tremendo enfrentamiento con uno de sus clásicos rivales.",
+     "copete": "De cara a su visita al Monumental por los octavos de la Copa Sudamericana, los hinchas de El Expreso Rojo tuvieron un tremendo enfrentamiento con uno de sus clásicos rivales.",
      "id": "3de6addb3c6f"
     },
     {
@@ -143,14 +135,6 @@
      "published": "2026-08-22T23:54:18+00:00",
      "copete": "Con los regresos de Montiel, Acuña y Driussi, Eduardo Coudet confeccionó la lista para recibir al Fortín.",
      "id": "c0fa5fc77243"
-    },
-    {
-     "title": "Newell's vs Banfield, hoy EN VIVO, por el Torneo Clausura: ¡gana la Lepra con gol de Cóccaro!",
-     "link": "https://www.ole.com.ar/futbol-primera/newells-banfield-torneo-clausura_0_rhY2awYoKR.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-22T23:01:24+00:00",
-     "copete": "El Zorro entró en el segundo tiempo y, de cabeza, la mandó a guardar. Seguilo en Olé.",
-     "id": "9b57c00bc60e"
     },
     {
      "title": "Montiel tiene el alta: ¿juega vs. Vélez o lo guardan?",
@@ -213,6 +197,13 @@
      "id": "d17933d43559"
     },
     {
+     "title": "NetBSD and my life (2005)",
+     "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-22T19:07:46+00:00",
+     "id": "16ad473b7deb"
+    },
+    {
      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
      "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
      "source": "Hacker News (100+ puntos)",
@@ -266,13 +257,6 @@
      "id": "491af05b0d4d"
     },
     {
-     "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-     "link": "https://quantumi.sh/public/labs.html",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-22T14:54:07+00:00",
-     "id": "32dc5360b273"
-    },
-    {
      "title": "Why We Fine-Tuned SigLip (And Why That’s Not Always the Right Call)",
      "link": "https://towardsdatascience.com/why-we-fine-tuned-siglip-and-why-thats-not-always-the-right-call/",
      "source": "Towards Data Science",
@@ -288,100 +272,98 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Ranking de YouTube en Colombia: la lista de los 10 videos musicales más reproducidos hoy",
-     "link": "https://www.infobae.com/tecno/2026/08/23/ranking-de-youtube-en-colombia-la-lista-de-los-10-videos-musicales-mas-reproducidos-hoy/",
-     "source": "Infobae",
-     "published": "2026-08-23T02:01:12+00:00",
-     "copete": "Tal es la popularidad de la plataforma de YouTube que se trata del segundo sitio más buscado sólo detrás del propio Google",
-     "id": "819cc453ebaa"
-    },
-    {
-     "title": "Huracán igualó ante Deportivo Riestra y se mantiene invicto de local por el Torneo Clausura",
-     "link": "https://www.infobae.com/deportes/2026/08/22/la-fecha-interzonal-del-torneo-clausura-continua-este-sabado-con-cuatro-partidos-todo-lo-que-hay-que-saber/",
-     "source": "Infobae",
-     "published": "2026-08-23T02:01:04+00:00",
-     "copete": "Luego del empate de Instituto con Atlético Tucumán, el Globo se enfrenta al Malevo y Newell’s juega contra Banfield",
-     "id": "406fe4ff73fd"
-    },
-    {
-     "title": "Un partido fue demorado por un enfrentamiento entre barrabravas en el campo de juego",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/un-partido-fue-demorado-por-un-enfrentamiento-entre-barrabravas-en-el-campo-de-juego-nid22082026/",
+     "title": "Hay alerta amarilla por frío extremo para este domingo 23 de agosto: las provincias afectadas",
+     "link": "https://www.lanacion.com.ar/sociedad/hay-alerta-amarilla-por-frio-extremo-para-este-domingo-23-de-agosto-las-provincias-afectadas-nid23082026/",
      "source": "La Nación",
-     "published": "2026-08-23T01:59:58+00:00",
-     "copete": "El incidente ocurrió en un cruce entre Independiente Santa Fe y América De Cali; los locales jugarán contra River este miércoles por la Sudamericana",
-     "id": "d4ad3ff7d8c9"
+     "published": "2026-08-23T03:15:00+00:00",
+     "copete": "El Servicio Meteorológico Nacional advirtió sobre temperaturas que pueden resultar peligrosas para los grupos de riesgo; en la Ciudad, la máxima de 13°C",
+     "id": "e9f121bc7796"
     },
     {
-     "title": "Inter Miami perdió con Toronto por la MLS y Lionel Messi hizo un gol para la estadística",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/lionel-messi-en-inter-miami-vs-toronto-en-vivo-nid22082026/",
+     "title": "La empatía, herramienta para ganar confianza",
+     "link": "https://www.lanacion.com.ar/editoriales/la-empatia-herramienta-para-ganar-confianza-nid23082026/",
      "source": "La Nación",
-     "published": "2026-08-23T01:53:25+00:00",
-     "copete": "El equipo visitante hizo historia y ganó por primera vez en Miami",
-     "id": "9f0eb42ccf08"
+     "published": "2026-08-23T03:10:00+00:00",
+     "copete": "Como bien afirmaba el expresidente de Brasil Fernando Henrique Cardoso: “Gobernar es explicar”",
+     "id": "f87c65e48927"
     },
     {
-     "title": "A pesar del gol de Messi, Inter Miami perdió 2-1 ante Toronto FC y acumula cinco partidos sin ganar",
-     "link": "https://www.infobae.com/deportes/2026/08/22/el-inter-miami-de-lionel-messi-recibira-a-toronto-fc-en-busca-de-volver-a-la-victoria-en-la-mls-hora-tv-y-formaciones/",
-     "source": "Infobae",
-     "published": "2026-08-23T01:52:53+00:00",
-     "copete": "La Pulga anotó el descuento de las Garzas, pero el equipo de Guillermo Hoyos se fue del Nu Stadium con las manos vacías tras sufrir los goles de Josh Sargeant y Derrick Etienne Jr. en un lapso de 151 segundos",
-     "id": "b70b48f61161"
+     "title": "Ida y vuelta",
+     "link": "https://www.lanacion.com.ar/lifestyle/ida-y-vuelta-nid23082026/",
+     "source": "La Nación",
+     "published": "2026-08-23T03:10:00+00:00",
+     "id": "9dec478bac48"
     },
     {
-     "title": "Apple Music sigue los pasos de Spotify y anuncia etiquetas para identificar música creada con IA",
-     "link": "https://www.infobae.com/tecno/2026/08/23/apple-music-sigue-los-pasos-de-spotify-y-anuncia-etiquetas-para-identificar-musica-creada-con-ia/",
+     "title": "Se vendió en $300 millones la mitad de un toro Angus y marcó un récord en el país en un espectacular remate",
+     "link": "https://www.lanacion.com.ar/economia/campo/alvaro-es-unico-se-vendio-en-300-millones-la-mitad-de-un-toro-angus-y-marco-un-record-en-el-pais-en-nid22082026/",
+     "source": "La Nación",
+     "published": "2026-08-23T03:09:49+00:00",
+     "copete": "El reproductor, de la Cabaña Santa Rosa, de la familia Bellocq, fue comprado por un consorcio de criadores y cabañeros de La Pampa en una puja que refleja el interés por la ganadería y la mejora genética",
+     "id": "d6c7e98c61bd"
+    },
+    {
+     "title": "¿Se animará Milei a dar un salto al vacío?",
+     "link": "https://www.lanacion.com.ar/opinion/se-animara-milei-a-dar-un-salto-al-vacio-nid23082026/",
+     "source": "La Nación",
+     "published": "2026-08-23T03:05:00+00:00",
+     "id": "55d15277a73c"
+    },
+    {
+     "title": "Cuatro pruebas caseras revelan si tu cuerpo envejece bien y ninguna requiere ir al gimnasio",
+     "link": "https://www.infobae.com/generacion-silver/2026/08/23/cuatro-pruebas-caseras-revelan-si-tu-cuerpo-envejece-bien-y-ninguna-requiere-ir-al-gimnasio/",
      "source": "Infobae",
-     "published": "2026-08-23T01:51:10+00:00",
-     "copete": "Las nuevas reglas de la plataforma también alcanzarán portadas de álbumes y videos musicales",
-     "id": "b867b2df1375"
+     "published": "2026-08-23T03:05:00+00:00",
+     "copete": "Un estudio con más de 13.000 participantes identificó los indicadores físicos que mejor predicen la longevidad y la independencia en adultos mayores de 60 años",
+     "id": "8945ec69d060"
+    },
+    {
+     "title": "A los 87 años, Pedro Luis Barcia fue incorporado a la orden Caballeros Granaderos de los Andes",
+     "link": "https://www.infobae.com/generacion-silver/2026/08/23/a-los-87-anos-pedro-luis-barcia-fue-incorporado-a-la-orden-caballeros-granaderos-de-los-andes/",
+     "source": "Infobae",
+     "published": "2026-08-23T03:03:00+00:00",
+     "copete": "“Por su significativo aporte al conocimiento del Libertador”, y en especial por su obra “Ideario de San Martín”, dice el comunidado. “Abuelo ¿vas a entrar a caballo?”, fue la pregunta de uno de sus nietos, según contó el distinguido…",
+     "id": "ba04149ad49e"
+    },
+    {
+     "title": "Ubisoft regala 13 juegos en sus versiones para PC: qué requisitos se deben cumplir",
+     "link": "https://www.infobae.com/tecno/2026/08/23/ubisoft-regala-13-juegos-en-sus-versiones-para-pc-que-requisitos-se-deben-cumplir/",
+     "source": "Infobae",
+     "published": "2026-08-23T03:01:21+00:00",
+     "copete": "La iniciativa abarca sagas populares como Assassin’s Creed, Far Cry y Rainbow Six",
+     "id": "51148039008a"
+    },
+    {
+     "title": "L-Gante recordó su relación con Wanda Nara y dejó la puerta abierta a un reencuentro: “Quizás tenga una oportunidad más”",
+     "link": "https://www.infobae.com/teleshow/2026/08/23/l-gante-recordo-su-relacion-con-wanda-nara-y-dejo-la-puerta-abierta-a-un-reencuentro-quizas-tenga-una-oportunidad-mas/",
+     "source": "Infobae",
+     "published": "2026-08-23T03:00:24+00:00",
+     "copete": "El cantante repasó sus vínculos amorosos, recordó su romance con la mediática y sorprendió con una frase que reavivó versiones de acercamiento",
+     "id": "f82b9a3a3f9c"
     },
     {
      "title": "Toque sutil tras una asistencia de De Paul: el gol de Messi que no alcanzó para evitar una nueva derrota del Inter Miami",
      "link": "https://www.infobae.com/deportes/2026/08/23/toque-sutil-tras-una-asistencia-de-de-paul-el-gol-de-messi-que-no-alcanzo-para-evitar-una-nueva-derrota-del-inter-miami/",
      "source": "Infobae",
-     "published": "2026-08-23T01:48:36+00:00",
+     "published": "2026-08-23T02:53:55+00:00",
      "copete": "El rosarino volvió a marcar con el equipo rosado, pero no fue suficiente. Toronto se impuso 2-1 en el Nu Stadium por la MLS",
      "id": "7ee7734c5ded"
     },
     {
-     "title": "Tiene 40 años: quién es el empresario que convenció a Sigman de invertir US$20 millones y busca revolucionar la construcción con un material de lujo",
-     "link": "https://www.lanacion.com.ar/economia/campo/tiene-40-anos-quien-es-el-empresario-que-convencio-a-sigman-a-invertir-us20-millones-y-busca-nid22082026/",
-     "source": "La Nación",
-     "published": "2026-08-23T01:33:59+00:00",
-     "copete": "Pablo Baldoma convenció a Insud a incursionar en la fabricación de paneles resistentes muy utilizados en el exterior; valoriza la madera",
-     "id": "dc1353f52657"
-    },
-    {
-     "title": "Nicolás Reinoso, ingeniero agrónomo: “Los vínculos se descartan porque tenemos la sensación de que las opciones son infinitas”",
-     "link": "https://www.lanacion.com.ar/salud/nicolas-reinoso-ingeniero-agronomo-los-vinculos-se-descartan-porque-tenemos-la-sensacion-de-que-las-nid22082026/",
-     "source": "La Nación",
-     "published": "2026-08-23T01:11:00+00:00",
-     "copete": "El especialista en innovación dejó su especialidad en la agronomía por un rato y profundizó sobre por qué es tan difícil encontrar pareja",
-     "id": "1a1088c599ae"
-    },
-    {
-     "title": "Horóscopo de hoy, domingo 23 de agosto: las predicciones para la salud, el amor y el dinero",
-     "link": "https://www.clarin.com/astrologia/horoscopo-hoy-domingo-23-agosto-predicciones-salud-amor-dinero_0_fMPnf0iLQq.html",
+     "title": "Facundo Arana se sinceró sobre su lucha para reconciliarse con María Susini: \"Lo estoy dando todo\"",
+     "link": "https://www.clarin.com/fama/facundo-arana-sincero-lucha-reconciliarse-maria-susini-dando_0_wph1Jn8shF.html",
      "source": "Clarín",
-     "published": "2026-08-23T01:05:16+00:00",
-     "copete": "Conocé qué dice el horóscopo hoy para los signos del zodiaco en este día de la semana.",
-     "id": "88f5a5d44351"
+     "published": "2026-08-23T02:48:41+00:00",
+     "copete": "El actor reveló su deseo de recomponer la relación con la madre de sus tres hijos. \"Cuando encontrás el amor, la peleas. Hay que pelear hasta lo último\", reflexionó.",
+     "id": "fc2be2720756"
     },
     {
-     "title": "El pueblito de California que perdió 2000 habitantes tras una decisión de Newsom y ahora lucha por sobrevivir",
-     "link": "https://www.lanacion.com.ar/estados-unidos/california/el-pueblito-de-california-que-perdio-2000-habitantes-tras-una-decision-de-newsom-y-ahora-lucha-por-nid22082026/",
-     "source": "La Nación",
-     "published": "2026-08-23T01:01:00+00:00",
-     "copete": "Descubre cómo Susanville, en California, perdió cerca de 2000 habitantes tras el cierre de una prisión estatal y qué hace para atraer empleos.",
-     "id": "042759b60b77"
-    },
-    {
-     "title": "Horóscopo Piscis de hoy, 23 de agosto de 2026: las predicciones para la salud, el amor y el dinero",
-     "link": "https://www.clarin.com/astrologia/horoscopo-piscis-hoy-23-agosto-2026-predicciones-salud-amor-dinero_0_vG7fq4VKLE.html",
+     "title": "Volcó un camión jaula con ganado en Rosario: algunas vacas pudieron escapar, pero hubo cinco detenidos por faenado",
+     "link": "https://www.clarin.com/sociedad/volco-camion-jaula-ganado-rosario-vacas-pudieron-escapar-detenidos-faenado_0_ZTF4enH8RH.html",
      "source": "Clarín",
-     "published": "2026-08-23T01:00:12+00:00",
-     "copete": "Enterate qué dice el horóscopo de hoy para los nacidos entre el 20 de febrero y el 20 de marzo en este día de la semana.",
-     "id": "5c41dcedf416"
+     "published": "2026-08-23T02:40:42+00:00",
+     "copete": "El siniestro vial se produjo durante la madrugada del viernes sobre Circunvalación, en zona sur. Varios de los animales quedaron sueltos sobre el asfalto. Fue el propio chofer el que llamó a la Policía al advertir que varias personas se…",
+     "id": "fc4d43a6edae"
     }
    ]
   },
@@ -390,6 +372,14 @@
    "title": "Internacional",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Especial BBC: los niños invisibles nacidos de crímenes de guerra",
+     "link": "https://www.bbc.com/mundo/articles/c5yevxyd21eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-23T02:26:22+00:00",
+     "copete": "Los bebés nacidos como consecuencia de una violación a menudo no pueden obtener un certificado de nacimiento, lo que conlleva problemas para toda la vida.",
+     "id": "758443724459"
+    },
     {
      "title": "Swedish sword attack victim was 17-year-old girl, police say",
      "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
@@ -461,14 +451,6 @@
      "published": "2026-08-22T15:44:35+00:00",
      "copete": "Ucrania golpea este sábado por primera vez unas instalaciones de Ozon, rival de Wildberries, los dos grandes minoristas en línea",
      "id": "d8245bf4a4e4"
-    },
-    {
-     "title": "Canadá igualará los aranceles estadounidenses \"dólar por dólar\" tras la ruptura de las negociaciones comerciales con el gobierno de Trump",
-     "link": "https://www.bbc.com/mundo/articles/cpd7dvg6jepo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-22T13:56:06+00:00",
-     "copete": "Un nuevo arancel del 50% sobre importaciones canadienses por valor de 20.000 millones de dólares entra en vigor tras el fracaso de última hora de las negociaciones comerciales.",
-     "id": "21f875ad5fc1"
     }
    ]
   }
@@ -478,6 +460,11 @@
    "section": "cardiologia",
    "feed": "Cardiology Trials",
    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+   "section": "cardiologia",
+   "feed": "Circulation (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "section": "cardiologia",

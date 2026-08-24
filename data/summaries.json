@@ -1,19 +1,10 @@
 {
- "generated_at": "2026-08-24T10:05:33Z",
+ "generated_at": "2026-08-24T22:05:12Z",
  "summaries": {
   "e77d6b7f90b1": {
    "resumen": "Cobertura de TCTMD sobre un estudio que muestra que la mortalidad asociada a la estenosis aórtica —el estrechamiento de la válvula aórtica del corazón— viene bajando con el tiempo, aunque persisten diferencias importantes entre subgrupos poblacionales. Vale la pena porque, más allá de la mejora global gracias al diagnóstico temprano y al reemplazo valvular aórtico percutáneo (TAVI, transcatheter aortic valve implantation), las brechas de acceso siguen determinando quién se beneficia realmente de esos avances.",
    "destacado": true,
    "analisis": "Diseño: nota de TCTMD que reporta, probablemente, un estudio observacional o de registro sobre tendencias temporales de mortalidad vinculada a la estenosis aórtica; no se pudo acceder al artículo original para precisar el diseño exacto, el período analizado ni el número de pacientes o centros.\nPoblación: pacientes con estenosis aórtica en la población general, con foco en subgrupos donde persisten las disparidades (posiblemente definidos por raza, sexo, nivel socioeconómico o región geográfica).\nIntervención: no aplica una intervención específica; se trata de un análisis de tendencias de mortalidad a lo largo del tiempo, no de un ensayo con comparador activo.\nResultados: no disponibles con precisión por falta de acceso al abstract; el título indica una reducción global de la mortalidad asociada a la estenosis aórtica con persistencia de disparidades entre subgrupos.\nLimitaciones: sin la fuente primaria no es posible evaluar el período cubierto, el ajuste por factores de confusión ni la magnitud real de las brechas reportadas.\nMensaje: refuerza que, pese a la mejora general en el manejo de la estenosis aórtica, persisten inequidades en el acceso o los resultados que ameritan atención específica en la práctica clínica diaria.\nNota: análisis sin acceso al abstract."
-  },
-  "5cec649befba": {
-   "resumen": "Columna de opinión de TCTMD (sección 'Beyond the Data') sobre cómo identificar poblaciones de alto riesgo cardiovascular y aplicar mejor las estrategias de prevención primaria. Vale la pena porque discute, desde la mirada de un experto, cómo trasladar la evidencia epidemiológica a decisiones concretas sobre a quién y cuándo tratar antes de que aparezca el primer evento cardiovascular.",
-   "destacado": false
-  },
-  "ac2829e527c1": {
-   "resumen": "Nota de TCTMD sobre la composición de los comités que dirigen los ensayos clínicos de cardiología estructural (por ejemplo, reemplazo valvular percutáneo): las mujeres siguen subrepresentadas en esos cargos de liderazgo. Vale la pena porque quién decide el diseño y la conducción de un ensayo también influye en qué preguntas se investigan y cómo se interpretan los resultados.",
-   "destacado": false,
-   "analisis": "Diseño: nota de TCTMD sobre un análisis, probablemente transversal, de la composición por sexo de los comités directivos (steering committees) de ensayos clínicos de cardiología estructural; no se pudo acceder al artículo original para precisar la cantidad de ensayos o comités relevados ni el período analizado.\nPoblación: comités de dirección y liderazgo de ensayos clínicos de intervenciones estructurales cardíacas (por ejemplo, reemplazo valvular aórtico transcatéter, reparación valvular percutánea).\nIntervención: no aplica; es un estudio descriptivo/observacional sobre representación de género, sin intervención terapéutica.\nResultados: no disponibles con precisión por falta de acceso al abstract; el título indica que la subrepresentación femenina persiste en estos comités.\nLimitaciones: sin la fuente primaria no es posible valorar la metodología de conteo, el período cubierto ni si se ajustó por especialidad o país de origen de los ensayos.\nMensaje: refuerza la necesidad de diversificar el liderazgo de los ensayos de cardiología estructural, lo que podría mejorar la relevancia de las preguntas de investigación para las pacientes mujeres.\nNota: análisis sin acceso al abstract."
   },
   "4a6f912100bd": {
    "resumen": "Artículo del Journal of the American College of Cardiology (JACC) que repasa el rol vigente de la miectomía septal quirúrgica en la miocardiopatía hipertrófica obstructiva sintomática, 65 años después de su primera descripción, e incluye las innovaciones técnicas recientes. Vale la pena porque, pese a la llegada de los inhibidores de la miosina cardíaca, la cirugía sigue siendo la opción definitiva en casos seleccionados y conviene tener actualizado el criterio de derivación.",
@@ -43,55 +34,66 @@
    "resumen": "Enlace de navegación de TCTMD que remite al listado completo de congresos y conferencias cubiertos por el sitio, sin una nota periodística propia. Vale la pena solo como acceso rápido a la agenda de eventos de cardiología intervencionista, no aporta contenido clínico nuevo por sí mismo.",
    "destacado": false
   },
-  "fc0f17557ab7": {
-   "resumen": "Comentario de Simon Willison sobre una nota del Financial Times que señala que, pese a la fuerte facturación de Anthropic (ingresos anualizados de unos USD 65.000 millones a julio), su modelo de inteligencia artificial más avanzado no logra atraer tantos usuarios frente a herramientas más baratas. Aporta contexto sobre el ecosistema de la inteligencia artificial generativa: entender qué modelos ganan tracción ayuda a elegir herramientas costo-efectivas para el propio trabajo de análisis de datos.",
-   "destacado": false
-  },
-  "0e890f2df398": {
-   "resumen": "Cita de Drew Breunig recogida por Simon Willison sobre cómo la salida del modelo Fable cambió una lógica instalada: antes parecía inútil invertir en mejorar el 'harness' (el entorno y las herramientas con que se usa un modelo) o la estrategia de contexto, porque el próximo modelo iba a tapar esos problemas igual; ahora sí vale la pena optimizarlos. Le sirve a un médico que arranca con inteligencia artificial para análisis de datos porque recuerda que cómo se arma la consulta y el contexto importa tanto como el modelo elegido.",
-   "destacado": false
-  },
-  "982365621376": {
-   "resumen": "Guía introductoria de Towards Data Science sobre el análisis de supervivencia y el modelo de riesgos proporcionales de Cox, con curvas de Kaplan-Meier y ejemplos de código en Python paso a paso. Le aporta especialmente a un médico que aprende análisis de datos porque el análisis de supervivencia es la herramienta estadística central de los ensayos clínicos cardiológicos que lee todos los días (mortalidad, tiempo hasta el evento, razones de riesgo).",
-   "destacado": true
-  },
-  "58b903da6998": {
-   "resumen": "Artículo de Towards Data Science sobre por qué, en sistemas de recuperación aumentada por generación (RAG, retrieval-augmented generation) que procesan carpetas con muchos documentos, conviene modelar las relaciones entre archivos como tablas en lugar de indexar cada PDF por separado. Le sirve a quien analiza datos clínicos porque ilustra cómo estructurar mejor conjuntos de historias clínicas o series de estudios en múltiples archivos antes de aplicarles herramientas de inteligencia artificial.",
-   "destacado": false
-  },
-  "f22a1df77f3f": {
-   "resumen": "Artículo de Towards Data Science que resume 28 experimentos de depuración de código con asistentes de inteligencia artificial y concluye que estos modelos fallan menos por la complejidad del problema que por falta de información de contexto. Le sirve a quien se inicia en programación para análisis de datos porque da una pista concreta: dar más contexto al pedirle ayuda a la inteligencia artificial reduce los errores más que simplificar la consulta.",
-   "destacado": false
-  },
-  "d191ca370d5a": {
-   "resumen": "Nota difundida en Hacker News (más de 100 puntos) sobre un usuario que le dio una tarea de ingeniería inversa a Qwen 3.8 27B, un modelo de lenguaje de código abierto, y la resolvió en 30 minutos. Le sirve a un médico que explora la inteligencia artificial para saber que hoy existen modelos livianos y gratuitos capaces de tareas técnicas complejas, sin depender siempre de los modelos pagos más grandes.",
-   "destacado": false
-  },
-  "525e0c69bb2a": {
-   "resumen": "Artículo técnico difundido en Hacker News (más de 100 puntos) sobre cómo compilar código 'al vuelo' (JIT, just-in-time) en microsegundos, una técnica de optimización de bajo nivel usada en motores de lenguajes de programación. Es un tema alejado de la práctica clínica diaria, pero da una idea de los límites de velocidad de los sistemas de cómputo sobre los que corren hoy las herramientas de análisis de datos.",
-   "destacado": false
-  },
-  "650ef088ec9d": {
-   "resumen": "Nota de historia de la computación difundida en Hacker News sobre el fin de la línea de procesadores AMD Athlon. Es una curiosidad de hardware sin aplicación directa al análisis de datos, más una nota de color tecnológico que un aporte concreto para quien recién se inicia en la disciplina.",
-   "destacado": false
-  },
-  "f2b75f70565e": {
-   "resumen": "Publicación en el foro r/datascience de Reddit donde un usuario presenta una herramienta propia para manejar delimitadores de coma en archivos de datos y pide devolución de la comunidad. Le sirve a quien está aprendiendo análisis de datos como ejemplo de un problema muy común y molesto —limpiar archivos CSV mal delimitados— y de las soluciones caseras que circulan en la comunidad.",
-   "destacado": false
-  },
   "cecaf044c0de": {
    "resumen": "Editorial de portada del European Heart Journal que presenta un número temático de insuficiencia cardíaca: repasa la segunda definición universal de la insuficiencia cardíaca, los niveles óptimos de potasio sérico, la fenotipificación de la hipertensión pulmonar, la amiloidosis cardíaca por transtiretina (ATTR, transthyretin amyloidosis) hereditaria y los desafíos del corazón artificial total. Vale la pena como mapa rápido de los temas que la revista prioriza este mes en insuficiencia cardíaca, aunque no reporta un estudio propio.",
    "destacado": false
   },
-  "c07ababe02eb": {
-   "resumen": "Hilo semanal fijo de la comunidad r/datascience en Reddit para quienes están entrando o haciendo la transición hacia la ciencia de datos, donde se concentran preguntas sobre formación, portfolios y primeros pasos laborales. Le sirve a un médico en transición hacia el análisis de datos como termómetro de las dudas y caminos más comunes entre quienes arrancan en la disciplina, aunque el contenido varía semana a semana según lo que pregunte la comunidad.",
+  "df44be67c672": {
+   "resumen": "Nota de TCTMD que anticipa los temas centrales del próximo congreso de la Sociedad Europea de Cardiología (ESC, European Society of Cardiology) 2026. Vale la pena como mapa rápido de qué áreas van a concentrar la atención de la comunidad cardiológica este año, aunque no reporta resultados de un estudio en particular.",
    "destacado": false
   },
-  "dd9b8a9aee7b": {
-   "resumen": "El exwing de Los Pumas Juan Imhoff analizó el presente del seleccionado argentino de rugby y consideró que el desafío que enfrenta el plantel actual es mucho más grande que el que tuvo su generación."
+  "10202f8fddd3": {
+   "resumen": "Columna de opinión de TCTMD (sección 'Beyond the Data') sobre el riesgo residual que persiste luego de una intervención coronaria percutánea (PCI, percutaneous coronary intervention), es decir, los eventos cardiovasculares que igual ocurren pese a haber resuelto la obstrucción con un stent o balón. Vale la pena porque discute, desde la mirada de un experto, qué otros factores además de la lesión tratada siguen determinando el pronóstico del paciente.",
+   "destacado": false
   },
-  "dc141bfe08a5": {
-   "resumen": "El velocista más rápido de la Argentina volvió a jugar al rugby seven y apunta a clasificar a los Juegos Olímpicos de Los Ángeles 2028."
+  "0036f024c556": {
+   "resumen": "Nota de BBC News, viralizada en Hacker News (foro de tecnología con más de 100 puntos), sobre el récord histórico de temperatura de los océanos. No es estrictamente un tema de ciencia de datos, pero vale la pena porque el monitoreo climático depende cada vez más de series temporales masivas y modelos predictivos, el mismo tipo de herramientas que se usan en el análisis de datos en general.",
+   "destacado": false
+  },
+  "2265a783ecfd": {
+   "resumen": "Artículo de Towards Data Science que explica cómo insertar lógica propia dentro del bucle agéntico de Codex (el asistente de programación de OpenAI) mediante 'hooks', puntos de enganche que permiten intervenir el proceso automático. Le sirve a quien programa con asistentes de inteligencia artificial para entender cómo personalizar y controlar mejor estas herramientas en sus propios flujos de análisis de datos.",
+   "destacado": false
+  },
+  "c20a4456d4f9": {
+   "resumen": "Proyecto difundido en Hacker News que recrea la ciudad de San Francisco completa como un videojuego navegable en el navegador. Es más una curiosidad de programación y visualización 3D que una herramienta de análisis de datos, pero ilustra el uso creativo de datos geoespaciales masivos para construir experiencias interactivas.",
+   "destacado": false
+  },
+  "a52500dc3f38": {
+   "resumen": "Publicación en el foro r/datascience de Reddit donde un analista junior cuenta su frustración por no tener colegas ni un analista senior de quien aprender en su trabajo. Le sirve a un médico en transición hacia el análisis de datos porque refleja un obstáculo común al empezar en la disciplina en soledad, y anima a buscar comunidad y mentoría por fuera del trabajo.",
+   "destacado": false
+  },
+  "dcd589e73886": {
+   "resumen": "Artículo de Towards Data Science que plantea diez posiciones sobre los sistemas de generación aumentada por recuperación (RAG, retrieval-augmented generation) a nivel empresarial que los tutoriales convencionales suelen pasar por alto. Le aporta a quien aprende análisis de datos una mirada más realista sobre cómo construir sistemas de inteligencia artificial que buscan información en documentos propios, más allá de los ejemplos simplificados típicos.",
+   "destacado": false
+  },
+  "a6d4702c6822": {
+   "resumen": "Nota de Simon Willison sobre la versión 0.27 del plugin llm-anthropic, que actualiza la compatibilidad con la nueva librería de Python de Anthropic (anthropic v1.0.0). Es una noticia técnica de mantenimiento de herramientas, útil para quien ya usa la línea de comandos 'llm' para experimentar con modelos de lenguaje desde Python.",
+   "destacado": false
+  },
+  "42f46d423de7": {
+   "resumen": "Artículo de opinión difundido en Hacker News que argumenta que la dependencia creciente de la inteligencia artificial para programar va a erosionar la pericia técnica de los desarrolladores. Le sirve a quien está aprendiendo análisis de datos con ayuda de inteligencia artificial como advertencia para no delegar por completo la comprensión del código que usa.",
+   "destacado": false
+  },
+  "b4708e8dda24": {
+   "resumen": "Nota difundida en Hacker News sobre los 25 años del protocolo abierto de mensajería Jabber/XMPP (Extensible Messaging and Presence Protocol) y su rol en la independencia digital frente a plataformas cerradas. Es un tema de historia de internet más que de análisis de datos, aunque ilustra el valor de los protocolos abiertos frente a los sistemas propietarios, un debate también presente en las herramientas de inteligencia artificial.",
+   "destacado": false
+  },
+  "2a98eafa640c": {
+   "resumen": "Artículo de Towards Data Science sobre un motor de inferencia para modelos de lenguaje (LLM, large language model) escrito en CUDA que respeta plazos físicos estrictos —por ejemplo, ciclos de control de robots de 33 milisegundos— descartando de la memoria caché la información menos relevante en lugar de la más antigua. Le sirve a quien se inicia en inteligencia artificial para entender que la gestión de memoria y de los tiempos de respuesta es tan crítica como la precisión del modelo en aplicaciones en tiempo real.",
+   "destacado": false
+  },
+  "1ad0dc4a9230": {
+   "resumen": "Guía práctica de KDnuggets sobre cómo usar modelos de lenguaje pequeños (SLM, small language models) de forma local, en la propia computadora, para proyectos personales. Le sirve especialmente a un médico que aprende análisis de datos porque muestra una vía más económica y privada —sin enviar información a servidores externos— para experimentar con inteligencia artificial, algo relevante al trabajar con datos clínicos.",
+   "destacado": true
+  },
+  "508a9ce0515f": {
+   "resumen": "El capitán de Los Pumas, Julián Montoya, considerado uno de los mejores hookers del mundo, habló sobre la importancia de enfocarse en la preparación más que en el resultado."
+  },
+  "694f37f83492": {
+   "resumen": "Tras su debut con Los Pumas, el jugador Moreno encaminaría su carrera hacia el rugby europeo."
+  },
+  "f43c4dc40938": {
+   "resumen": "Los Pumas afinan los últimos detalles en Jujuy de cara a su primer partido ante Australia."
   }
  }
 }

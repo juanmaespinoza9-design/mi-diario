@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T22:04:46Z",
+ "generated_at": "2026-08-24T10:05:33Z",
  "summaries": {
   "e77d6b7f90b1": {
    "resumen": "Cobertura de TCTMD sobre un estudio que muestra que la mortalidad asociada a la estenosis aórtica —el estrechamiento de la válvula aórtica del corazón— viene bajando con el tiempo, aunque persisten diferencias importantes entre subgrupos poblacionales. Vale la pena porque, más allá de la mejora global gracias al diagnóstico temprano y al reemplazo valvular aórtico percutáneo (TAVI, transcatheter aortic valve implantation), las brechas de acceso siguen determinando quién se beneficia realmente de esos avances.",
@@ -43,14 +43,6 @@
    "resumen": "Enlace de navegación de TCTMD que remite al listado completo de congresos y conferencias cubiertos por el sitio, sin una nota periodística propia. Vale la pena solo como acceso rápido a la agenda de eventos de cardiología intervencionista, no aporta contenido clínico nuevo por sí mismo.",
    "destacado": false
   },
-  "cded1185dafe": {
-   "resumen": "Publicación difundida en Hacker News (más de 100 puntos) que sostiene que la mejor forma de mejorar la escritura es simplemente leer mucho. Aporta poco a la ciencia de datos en sí, pero le sirve a un médico que aprende análisis de datos porque comunicar hallazgos con claridad —en informes, artículos o documentación de código— es una habilidad tan importante como el análisis mismo.",
-   "destacado": false
-  },
-  "7d7e3022b040": {
-   "resumen": "Revisión de estado del arte del European Heart Journal sobre la enfermedad isquémica cardíaca más allá de las estenosis coronarias obstructivas, es decir, la isquemia con arterias coronarias no obstructivas (INOCA, por sus siglas en inglés) causada por disfunción microvascular o vasoespasmo, repasando su diagnóstico y tratamiento. Vale la pena porque aborda un escenario cada vez más frecuente en el consultorio: pacientes con angina y coronariografía sin lesiones obstructivas relevantes que igual tienen enfermedad isquémica real.",
-   "destacado": false
-  },
   "fc0f17557ab7": {
    "resumen": "Comentario de Simon Willison sobre una nota del Financial Times que señala que, pese a la fuerte facturación de Anthropic (ingresos anualizados de unos USD 65.000 millones a julio), su modelo de inteligencia artificial más avanzado no logra atraer tantos usuarios frente a herramientas más baratas. Aporta contexto sobre el ecosistema de la inteligencia artificial generativa: entender qué modelos ganan tracción ayuda a elegir herramientas costo-efectivas para el propio trabajo de análisis de datos.",
    "destacado": false
@@ -87,11 +79,19 @@
    "resumen": "Publicación en el foro r/datascience de Reddit donde un usuario presenta una herramienta propia para manejar delimitadores de coma en archivos de datos y pide devolución de la comunidad. Le sirve a quien está aprendiendo análisis de datos como ejemplo de un problema muy común y molesto —limpiar archivos CSV mal delimitados— y de las soluciones caseras que circulan en la comunidad.",
    "destacado": false
   },
-  "adb6810945ee": {
-   "resumen": "El histórico wing habló del presente del seleccionado argentino de rugby y del tamaño del desafío que enfrenta el plantel actual."
+  "cecaf044c0de": {
+   "resumen": "Editorial de portada del European Heart Journal que presenta un número temático de insuficiencia cardíaca: repasa la segunda definición universal de la insuficiencia cardíaca, los niveles óptimos de potasio sérico, la fenotipificación de la hipertensión pulmonar, la amiloidosis cardíaca por transtiretina (ATTR, transthyretin amyloidosis) hereditaria y los desafíos del corazón artificial total. Vale la pena como mapa rápido de los temas que la revista prioriza este mes en insuficiencia cardíaca, aunque no reporta un estudio propio.",
+   "destacado": false
   },
-  "52c4b0e5b995": {
-   "resumen": "El velocista argentino volvió a jugar al rugby en las filas de Racing 92 tras su etapa en el atletismo."
+  "c07ababe02eb": {
+   "resumen": "Hilo semanal fijo de la comunidad r/datascience en Reddit para quienes están entrando o haciendo la transición hacia la ciencia de datos, donde se concentran preguntas sobre formación, portfolios y primeros pasos laborales. Le sirve a un médico en transición hacia el análisis de datos como termómetro de las dudas y caminos más comunes entre quienes arrancan en la disciplina, aunque el contenido varía semana a semana según lo que pregunte la comunidad.",
+   "destacado": false
+  },
+  "dd9b8a9aee7b": {
+   "resumen": "El exwing de Los Pumas Juan Imhoff analizó el presente del seleccionado argentino de rugby y consideró que el desafío que enfrenta el plantel actual es mucho más grande que el que tuvo su generación."
+  },
+  "dc141bfe08a5": {
+   "resumen": "El velocista más rápido de la Argentina volvió a jugar al rugby seven y apunta a clasificar a los Juegos Olímpicos de Los Ángeles 2028."
   }
  }
 }

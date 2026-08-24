@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T19:05:59.969986+00:00",
+ "generated_at": "2026-08-24T20:53:34.262655+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -50,30 +50,6 @@
      "id": "e77d6b7f90b1"
     },
     {
-     "title": "Case 10-2026: A 70-Year-Old Woman with a Racing Heart, Fatigue, and Dyspnea. Reply",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42617129/",
-     "source": "NEJM Cardiología",
-     "published": "2026-08-20T00:00:00+00:00",
-     "copete": "Khurshid SS et al. · The New England journal of medicine",
-     "id": "64c3c41cd6aa"
-    },
-    {
-     "title": "Case 10-2026: A 70-Year-Old Woman with a Racing Heart, Fatigue, and Dyspnea",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42617128/",
-     "source": "NEJM Cardiología",
-     "published": "2026-08-20T00:00:00+00:00",
-     "copete": "Ferreira D et al. · The New England journal of medicine",
-     "id": "04196dd38241"
-    },
-    {
-     "title": "Biologic Ventricular Assist Tissue in Heart Failure. Reply",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42617124/",
-     "source": "NEJM Cardiología",
-     "published": "2026-08-20T00:00:00+00:00",
-     "copete": "Zimmermann WH et al. · The New England journal of medicine",
-     "id": "d48e6bd50d59"
-    },
-    {
      "title": "Surgical Myectomy for Symptomatic Obstructive Hypertrophic Cardiomyopathy: Still Highly Relevant (and Innovating) After 65 Years",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42615957/",
      "source": "JACC",
@@ -96,6 +72,14 @@
      "published": "2026-08-19T00:00:00+00:00",
      "copete": "Krumholz HM et al. · Journal of the American College of Cardiology",
      "id": "e274e77b6116"
+    },
+    {
+     "title": "Cardiovascular Health Implications of Environmental Deregulation in the United States",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42615953/",
+     "source": "JACC",
+     "published": "2026-08-19T00:00:00+00:00",
+     "copete": "Rajagopalan S et al. · Journal of the American College of Cardiology",
+     "id": "b9609661894f"
     }
    ]
   },
@@ -104,6 +88,45 @@
    "title": "Deportes",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Argentina XV confirmó su plantel para el Américas Rugby Championship",
+     "link": "https://uar.com.ar/argentina-xv-confirmo-su-plantel-para-el-americas-rugby-championship/",
+     "source": "UAR",
+     "published": "2026-08-24T19:42:49+00:00",
+     "copete": "El seleccionado nacional ya tiene el plantel de 28 jugadores que representará al país en el regreso del Américas Rugby Championship, torneo continental que se disputará en Chile entre el 29 de agosto y el 6 de septiembre, con la…",
+     "id": "b033b43f3ffe"
+    },
+    {
+     "title": "Julian Montoya, capitán de Los Pumas y uno de los mejores hookers del mundo: “No podés controlar un resultado, pero sí podés controlar qué hacés o cómo te preparás”",
+     "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQUFlDa1o2YzdfSTFFdFB4cVVycnZzcDBWYlBzazhIYXY5am94dmtQVzVyb2NiOGd2eE1pQjUxTzA0VDVoSTI4RW1mUEJ4S1dWcGVXUWdXeDgyX080Tkozc2pPUHZGbnk1ak9WZ2k4anh5SUVObkRiUTd4eU9aYUd4eHNRS2dXUTZlc1RkWlN0b0Y3ZkZiS2h1M1M3YTgyR3F4dXJPeEVRZFVzbTFyQlppLVVWQld4N0xCTjBMdWl4WnJJZmxFQU9pRmY4bkVQb3p1dWFzRVl5RzZBbVpWTnpIeWdFREhJcko5a1lBUS1NMkhoZDR3ZWtRXzJYdDUtRF9Ic3JSdnRLeFJQT0hSODE5MkZKRmhLSFI4cjUxblpmd2tWdWp1SzNQdjk0ZUY?oc=5",
+     "source": "Canal26",
+     "published": "2026-08-24T19:42:03+00:00",
+     "id": "508a9ce0515f"
+    },
+    {
+     "title": "El Kun Agüero se mete en la política de Independiente: la lista que apoyará y cuál será su rol",
+     "link": "https://www.ole.com.ar/independiente/kunaguero-lucianonakis-independiente-afa_0_vkUjBokhx4.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-24T19:15:37+00:00",
+     "copete": "El ex delantero dio detalles de las charlas que mantuvo con vistas a las elecciones que habrá en el Rojo. \"Voy a estar involucrado y ayudando desde el lugar donde más pueda aportar\", dijo. Mirá.",
+     "id": "1d875ed423bb"
+    },
+    {
+     "title": "Puño apretado y felicidad: la reacción de Rodrigo De Paul al gol de Marcos Rojo en Racing",
+     "link": "https://www.ole.com.ar/racing/rodrigo-paul-reaccion-gol-marcos-rojo-racing-boca-torneo-clausura_0_kGpbWdQoub.html",
+     "source": "Olé — Primera",
+     "published": "2026-08-24T19:02:33+00:00",
+     "copete": "El defensor le convirtió a Boca y el Motorcito lo celebró en el Cilindro.",
+     "id": "393dd8d2f71d"
+    },
+    {
+     "title": "La reflexión que posteó Martínez Quarta: “Que hablen…”",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-lucas-martinez-quarta_0_KAttPbdn07.html",
+     "source": "Olé — River",
+     "published": "2026-08-24T18:59:57+00:00",
+     "copete": "Tras el empate ante Vélez, el defensor compartió un texto en sus redes.",
+     "id": "3d4e5a0ea15f"
+    },
     {
      "title": "Moretti se tiró flores por la venta de Gill: \"Lo trajimos de la B de Paraguay\" y la ironía con \"otro negociado que vino para la Reserva\"",
      "link": "https://www.ole.com.ar/san-lorenzo/san-lorenzo-orlando-gill-marcelo-moretti-tweet-venta-dijo-negociado-reserva_0_NpXxq4dspF.html",
@@ -129,11 +152,11 @@
      "id": "805feade1c5a"
     },
     {
-     "title": "La emocionante reflexión de un reconocido entrenador sobre Los Pumas y los argentinos: \"No se puede entrenar al corazón\"",
-     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQzdJcjgzd2JOOFRyb3BzS1JYbU83NzM4NGRuQTVhZUFIa3cyRENoUjhlbVVxaVA2VHd2cjI5ZFZYamJ0UEJGRmZ0akhGNzBKTWpCclhoRE9TMzB5dFhlR2xEalBwbk1HVEdGOE83YzdrdEhpdHo1OXdkSWhjaklPb3JyeDkwSGt4bVMxMkFUaTJraFp0aWJPMTNGVWlLWmJWV3JwT1ozMnNWSWxjZ0pKXzdEQnhKS2dlX3o5c214RnlzR19yVUlua2F2TkQzdnRHdi1MMW8wa1dtYkQ0Sm1yS1Q4TGlZcGNRQ1NNSUhKa3dUVjNTWEtlNzJVMlNYX2t0SVg3dmhB?oc=5",
-     "source": "ESPN Deportes",
-     "published": "2026-08-24T16:33:00+00:00",
-     "id": "4e5886e83d38"
+     "title": "Moreno, tras debutar en Los Pumas, tiene destino europeo",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUTV3QkYxc1UzeDA0all0RjVGUEVVN0lWQWxidWo4Q1QtNERiR21CYnJPX21HUGZTcFlpMmJFVVp4VTl1RVFyeXY5SXpjdFQ3dHZfTlBXOF9kc3JieHV6ZnJ3Qk1yU2VDQjZYNDB1QTBIcXRWSC1scUxNalRQLUZUcw?oc=5",
+     "source": "DeporTV",
+     "published": "2026-08-24T17:01:00+00:00",
+     "id": "694f37f83492"
     },
     {
      "title": "Los Pumas ajustan detalles en Jujuy antes del primer duelo con Australia",
@@ -141,14 +164,6 @@
      "source": "La Gaceta",
      "published": "2026-08-24T16:29:24+00:00",
      "id": "f43c4dc40938"
-    },
-    {
-     "title": "Alexander Medina, tras la derrota de Estudiantes: autocrítica y \"sensaciones de enojo\"",
-     "link": "https://www.ole.com.ar/estudiantes/alexander-cacique-medina-estudiantes-derrota-sarmiento-autocritica_0_EwoCBW4Fsl.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-24T16:28:37+00:00",
-     "copete": "Luego de la caída ante Sarmiento, el DT habló de lo que dejó el partido y puso el foco en la necesidad de recuperar el nivel.",
-     "id": "5201668a8500"
     },
     {
      "title": "El sugerente like de Juanfer Quintero contra Coudet",
@@ -175,14 +190,6 @@
      "id": "63f8c086ba16"
     },
     {
-     "title": "River, hoy EN VIVO: Vélez, Coudet, cambios vs. Santa Fe y últimas noticias de este lunes 24 de agosto",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-ultimas-noticias-vivo-lunes-24-agosto-coudet-velez-sudamericana-santa-fe_0_HIEhk4yGjv.html",
-     "source": "Olé — River",
-     "published": "2026-08-24T12:16:02+00:00",
-     "copete": "El Millonario igualó con el Fortín luego de ir ganando 2-0 y sumó otra decepción. El miércoles, a todo o nada en la Sudamericana.",
-     "id": "a9f851dd9e76"
-    },
-    {
      "title": "Comenzó el Campeonato Argentino Juvenil M17 2026",
      "link": "https://uar.com.ar/comenzo-el-campeonato-argentino-juvenil-m17-2026/",
      "source": "UAR",
@@ -198,12 +205,26 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Oceans hit highest temperature on record",
+     "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-24T19:19:08+00:00",
+     "id": "0036f024c556"
+    },
+    {
      "title": "Put Your Own Logic Inside the Codex Agentic Loop",
      "link": "https://towardsdatascience.com/put-your-own-logic-inside-the-codex-agentic-loop/",
      "source": "Towards Data Science",
      "published": "2026-08-24T18:00:00+00:00",
      "copete": "Understanding Codex hooks The post Put Your Own Logic Inside the Codex Agentic Loop appeared first on Towards Data Science .",
      "id": "2265a783ecfd"
+    },
+    {
+     "title": "The entire city of San Francisco as a video game",
+     "link": "https://sf.thijs.gg/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-24T17:05:38+00:00",
+     "id": "c20a4456d4f9"
     },
     {
      "title": "Feeling frustrated as a junior who has never worked with other analysts or had a senior analyst to learn from.",
@@ -221,6 +242,14 @@
      "id": "dcd589e73886"
     },
     {
+     "title": "llm-anthropic 0.27",
+     "link": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-08-24T16:27:04+00:00",
+     "copete": "Release: llm-anthropic 0.27 This release of the Anthropic plugin for LLM mainly provides compatibility with the recently released anthropic v1.0.0 Python library, which switches from httpx to httpx2 . OpenAI made the same change in their…",
+     "id": "a6d4702c6822"
+    },
+    {
      "title": "Coding expertise is going to collapse from AI reliance",
      "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
      "source": "Hacker News (100+ puntos)",
@@ -228,25 +257,11 @@
      "id": "42f46d423de7"
     },
     {
-     "title": "IPFS Maintainers Winding Down",
-     "link": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+     "title": "Jabber/XMPP: 25 Years of Digital Independence",
+     "link": "https://gultsch.de/posts/25-years-of-digital-independence/",
      "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-24T15:48:45+00:00",
-     "id": "bbad8620995c"
-    },
-    {
-     "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-     "link": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-24T15:28:04+00:00",
-     "id": "f34dd1b06c9b"
-    },
-    {
-     "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-     "link": "https://developers.openai.com/api/docs/pricing",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-24T15:22:43+00:00",
-     "id": "7a2032ac105c"
+     "published": "2026-08-24T15:51:31+00:00",
+     "id": "b4708e8dda24"
     },
     {
      "title": "Can an LLM Forget the Right Things?",
@@ -263,13 +278,6 @@
      "published": "2026-08-24T14:00:13+00:00",
      "copete": "A practical guide to running compact, privacy-preserving language models on your own hardware for faster, cheaper, and more controllable AI-powered applications.",
      "id": "1ad0dc4a9230"
-    },
-    {
-     "title": "I'm a \"data scientist\" but I don't do any data science.",
-     "link": "https://www.reddit.com/r/datascience/comments/1vx150x/im_a_data_scientist_but_i_dont_do_any_data_science/",
-     "source": "r/datascience",
-     "published": "2026-08-24T12:16:08+00:00",
-     "id": "bca438fb00e2"
     }
    ]
   },
@@ -279,100 +287,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "El gigante de Sudamérica que analiza dar un “golpe de efecto” con Icardi y los tres candidatos a suplirlo en el Galatasaray",
-     "link": "https://www.infobae.com/deportes/2026/08/24/el-gigante-de-sudamerica-que-analiza-dar-un-golpe-de-efecto-con-icardi-y-los-tres-candidatos-a-suplirlo-en-el-galatasaray/",
+     "title": "Las tres fantásticas asistencias de Dybala para el triunfo de la Roma sobre la Fiorentina de Mastantuono en el debut de la Serie A",
+     "link": "https://www.infobae.com/deportes/2026/08/24/las-tres-fantasticas-asistencias-de-dybala-para-el-triunfo-de-la-roma-sobre-la-fiorentina-de-mastantuono-en-el-debut-de-la-serie-a/",
      "source": "Infobae",
-     "published": "2026-08-24T19:01:40+00:00",
-     "copete": "El delantero argentino tiene la ficha en su poder a una semana del cierre del mercado de pases en Europa",
-     "id": "b70a3938480a"
+     "published": "2026-08-24T20:49:31+00:00",
+     "copete": "La Joya completó una sublime actuación en la goleada por 4-0 de la Loba sobre el Viola en el Estadio Olímpico. El ex River Plate fue titular en el cuadro visitante",
+     "id": "81976d63d4c8"
     },
     {
-     "title": "Quién es Carlos “Charlie” García, el productor mexicano que debuta como jurado de Popstars junto a Nicki Nicole y Ángela Torres",
-     "link": "https://www.lanacion.com.ar/espectaculos/quien-es-carlos-charlie-garcia-el-productor-mexicano-que-debuta-como-jurado-de-popstars-junto-a-nid21082026/",
-     "source": "La Nación",
-     "published": "2026-08-24T19:00:58+00:00",
-     "copete": "El ejecutivo de una renombrada discográfica; se sentará junto a las cantantes argentinas para evaluar a las participantes que aspiran a confirmar el nuevo grupo musical",
-     "id": "4e67780a6f47"
-    },
-    {
-     "title": "Candela Arizaga volvió a declarar ante la Justicia: cómo recuperó el celular que dejó en la casa de Facundo Moyano y la verdad sobre el supuesto paro cardíaco",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/08/24/candela-arizaga-volvio-a-declarar-ante-la-justicia-como-recupero-el-celular-que-dejo-en-la-casa-de-facundo-moyano-y-la-verdad-sobre-el-supuesto-paro-cardiaco/",
+     "title": "La sequía pone en riesgo hasta 8,000 empleos en el sur de Honduras",
+     "link": "https://www.infobae.com/honduras/2026/08/24/la-sequia-pone-en-riesgo-hasta-8000-empleos-en-el-sur-de-honduras/",
      "source": "Infobae",
-     "published": "2026-08-24T19:00:42+00:00",
-     "copete": "La joven amplió su testimonio para aclarar dos puntos de su primera declaración. Según pudo saber Infobae, explicó quién le devolvió el teléfono y rectificó lo que había dicho sobre el episodio de salud que sufrió tras el hecho",
-     "id": "1b10ee96c9cb"
+     "published": "2026-08-24T20:49:21+00:00",
+     "copete": "Carlos Zelaya advirtió que la caída de la agroindustria y la acuicultura puede afectar hasta 50.000 empleos y a las comunidades del sur de Honduras.",
+     "id": "43cef9d8822f"
     },
     {
-     "title": "Uno por uno: quiénes son los jurados de Popstars",
-     "link": "https://www.lanacion.com.ar/espectaculos/uno-por-uno-quienes-son-los-jurados-de-popstars-nid21082026/",
+     "title": "Las Leonas empataron 0 a 0 con Bélgica y se medirán en las semifinales del Mundial de hockey sobre césped ante Australia",
+     "link": "https://www.lanacion.com.ar/deportes/hockey/las-leonas-empataron-0-a-0-con-belgica-y-se-mediran-en-las-semifinales-del-mundial-de-hockey-sobre-nid24082026/",
      "source": "La Nación",
-     "published": "2026-08-24T19:00:24+00:00",
-     "copete": "Nicki Nicole, Ángela Torres y Carlos “Charlie” García serán los encargados de evaluar a las participantes que buscarán formar la nueva banda pop",
-     "id": "225889702f58"
+     "published": "2026-08-24T20:48:57+00:00",
+     "copete": "Con la igualdad, el equipo argentino eludirá a Países Bajos, que se enfrentará con las belgas en la otra semifinal",
+     "id": "a10de65f7ae4"
     },
     {
-     "title": "Redadas masivas: cámaras corporales y el modus operandi del ICE para detener migrantes en paradas de auto",
-     "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/redadas-masivas-camaras-corporales-y-el-modus-operandi-del-ice-para-detener-migrantes-en-paradas-de-nid24082026/",
+     "title": "ICE en Florida: el efecto dominó de las detenciones que ya se siente en cuatro condados de Tampa Bay",
+     "link": "https://www.lanacion.com.ar/estados-unidos/florida/ice-en-florida-el-efecto-domino-de-las-detenciones-que-ya-se-siente-en-cuatro-condados-de-tampa-bay-nid24082026/",
      "source": "La Nación",
-     "published": "2026-08-24T19:00:00+00:00",
-     "copete": "El Servicio de Inmigración y Control de Aduanas equipará a cada equipo de arresto con al menos un agente con cámara corporal, en el marco de la reactivación de los controles vehiculares en todo el país",
-     "id": "89a6e15f3b2d"
+     "published": "2026-08-24T20:48:48+00:00",
+     "copete": "Conoce cómo las detenciones del ICE en Florida afectan a familias de cuatro condados de Tampa Bay y elevan la demanda de alimentos y asistencia.",
+     "id": "c26e6dcc465b"
     },
     {
-     "title": "El costo de construcción sube menos que la inflación, pero acelera más fuerte que en 2025",
-     "link": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/el-costo-de-construccion-sube-menos-que-la-inflacion-pero-acelera-mas-fuerte-que-en-2025-nid24082026/",
+     "title": "Colesterol: los seis alimentos que ayudan a prevenirlo y en qué cantidades hay que consumirlos",
+     "link": "https://www.lanacion.com.ar/sociedad/colesterol-los-seis-alimentos-que-ayudan-a-prevenirlo-y-en-que-cantidades-hay-que-consumirlos-nid23082026/",
      "source": "La Nación",
-     "published": "2026-08-24T18:58:57+00:00",
-     "copete": "El costo de construir aumentó 17% en los primeros siete meses de 2026, por encima del 10,3% que acumulaba en igual período del año pasado",
-     "id": "0719bb4dcbf9"
+     "published": "2026-08-24T20:47:00+00:00",
+     "copete": "El cardiólogo Jorge Tartaglione visitó los estudios de LN+, donde además recomendó la ingesta de estatinas; cómo controlar los niveles y qué riesgos pueden reducirse con una dieta balanceada",
+     "id": "e166ddbe48ac"
     },
     {
-     "title": "Un avión que viajaba de Buenos Aires a Madrid aterrizó de emergencia en Brasil: hay 300 pasajeros varados",
-     "link": "https://www.lanacion.com.ar/sociedad/un-avion-que-viajaba-de-buenos-aires-a-madrid-aterrizo-de-emergencia-en-brasil-hay-300-pasajeros-nid24082026/",
+     "title": "Conrado Estol, neurólogo: “Dos tercios de las personas llegan y pasan sus últimos 10 años de vida en mal o muy mal estado de salud”",
+     "link": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-dos-tercios-de-las-personas-llegan-y-pasan-sus-ultimos-10-anos-de-vida-en-nid19082026/",
      "source": "La Nación",
-     "published": "2026-08-24T18:58:13+00:00",
-     "copete": "El vuelo afectado pertenece a Plus Ultra, una aerolínea española de bajo costo (low cost) que comenzó a operar en la Argentina en marzo de este año",
-     "id": "8adcdd5f48fa"
+     "published": "2026-08-24T20:46:00+00:00",
+     "copete": "En una entrevista exclusiva para LA NACION, el especialista detalló cómo alcanzar una longevidad saludable a través de cambios en el estilo de vida; advirtió sobre el manejo médico de la salud mental",
+     "id": "a8cc2519203f"
     },
     {
-     "title": "Apuestas online: uno de cada cuatro adolescentes ya apostó y crece la preocupación por el acceso temprano al juego",
-     "link": "https://www.infobae.com/sociedad/2026/08/24/apuestas-online-uno-de-cada-cuatro-adolescentes-ya-aposto-y-crece-la-preocupacion-por-el-acceso-temprano-al-juego/",
+     "title": "Dua Lipa revela los dos consejos que siguió para disfrutar su boda con Callum Turner",
+     "link": "https://www.infobae.com/entretenimiento/2026/08/24/dua-lipa-revela-los-dos-consejos-que-siguio-para-disfrutar-su-boda-con-callum-turner/",
      "source": "Infobae",
-     "published": "2026-08-24T18:56:52+00:00",
-     "copete": "Tras el caso de Jonathan Gómez, Daniela Blanco analizó en Infobae al Mediodía cómo el celular, la publicidad deportiva y la recompensa inmediata están naturalizando el juego y exponiendo a los jóvenes a sus consecuencias",
-     "id": "fe2af4bb5a00"
+     "published": "2026-08-24T20:45:15+00:00",
+     "copete": "La cantante contó cómo vivió los festejos en Palermo tras su ceremonia civil en Londres",
+     "id": "acb16ca72fb6"
     },
     {
-     "title": "El Gobierno permitió que el dólar mayorista supere los $1.500 por primera vez",
-     "link": "https://www.infobae.com/economia/2026/08/24/el-gobierno-permitio-que-el-dolar-mayorista-supere-los-1500-por-primera-vez/",
+     "title": "La logística detrás de los centros de datos que operan en el océano",
+     "link": "https://www.infobae.com/movant/2026/08/23/la-logistica-detras-de-los-centros-de-datos-que-operan-en-el-oceano/",
      "source": "Infobae",
-     "published": "2026-08-24T18:55:58+00:00",
-     "copete": "El tipo de cambio oficial alcanzó los $1.510, mientras que al público avanzó a $1.530 para la venta en el Banco Nación, también un récord",
-     "id": "a2a4aa897b23"
+     "published": "2026-08-24T20:44:59+00:00",
+     "copete": "Ensamblan las plataformas en plantas costeras, las remolcan a alta mar y eliminan el traslado de electricidad por cable submarino, cambiando por completo la cadena de abastecimiento habitual",
+     "id": "7c8765a2ec9a"
     },
     {
-     "title": "Ver Chelsea vs Fulham por la Premier League en Fútbol Libre infecta el dispositivo con virus y roba tus datos",
-     "link": "https://www.infobae.com/tecno/2026/08/24/ver-chelsea-vs-fulham-por-la-premier-league-en-futbol-libre-infecta-el-dispositivo-con-virus-y-roba-tus-datos/",
+     "title": "‘Spider-Man: Un nuevo dia’ llega a 2.220 millones y rompe el récord de Sony",
+     "link": "https://www.infobae.com/malditos-nerds/2026/08/24/spider-man-un-nuevo-dia-llega-a-2220-millones-y-rompe-el-record-de-sony/",
      "source": "Infobae",
-     "published": "2026-08-24T18:53:46+00:00",
-     "copete": "Buscar partidos en aplicaciones piratas deja expuestas las contraseñas a extraños y aumenta e riesgo de malware",
-     "id": "a248ef7b4ade"
+     "published": "2026-08-24T20:44:52+00:00",
+     "copete": "En Estados Unidos está a 3,4 millones de superar a Avengers: Endgame",
+     "id": "06d90d88e9bd"
     },
     {
-     "title": "Quiniela Nacional: resultado del sorteo de la Matutina de hoy, lunes 24 de agosto",
-     "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-nacional-resultado-sorteo-matutina-hoy-lunes-24-agosto_0_VKxvBBsjs9.html",
+     "title": "Dos fuertes terremotos afectaron a Costa Rica",
+     "link": "https://www.lanacion.com.ar/el-mundo/dos-fuertes-terremotos-afectaron-a-costa-rica-nid24082026/",
+     "source": "La Nación",
+     "published": "2026-08-24T20:40:21+00:00",
+     "copete": "Un movimiento telúrico de 5,4 grados, seguido de una fuerte réplica de similares características, impactó en la madrugada de este lunes la zona central de la ciudad capital de San José",
+     "id": "cad5ea6def72"
+    },
+    {
+     "title": "Luis Caputo destacó el récord de las exportaciones del campo en lo que va del año",
+     "link": "https://www.clarin.com/rural/luis-caputo-destaco-record-exportaciones-campo-va-ano_0_xbNUvnnujU.html",
      "source": "Clarín",
-     "published": "2026-08-24T18:33:13+00:00",
-     "copete": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
-     "id": "d548236f7732"
+     "published": "2026-08-24T20:05:13+00:00",
+     "copete": "Los envíos al exterior alcanzaron 74,3 millones de toneladas entre enero y julio, un 13% más que en el mismo período de 2025. En valores, sumaron US$ 32.507 millones, con un crecimiento interanual del 15%.",
+     "id": "0c0e8ce5de35"
     },
     {
-     "title": "Un antídoto contra la desidia de las élites",
-     "link": "https://www.clarin.com/opinion/antidoto-desidia-elites_0_joSCoMWZu4.html",
+     "title": "\"Saldar una deuda con miles de productores\": impulsan una Ley clave para controlar el vandalismo rural",
+     "link": "https://www.clarin.com/rural/saldar-deuda-miles-productores-impulsan-ley-clave-controlar-vandalismo-rural_0_KswM8Uhl4r.html",
      "source": "Clarín",
-     "published": "2026-08-24T18:33:12+00:00",
-     "copete": "La construcción de la marca es en realidad la excusa para sellar el compromiso de un país con el futuro. Es el proyecto de país, más allá de los gobiernos (que estos deben interpretar y seguir).",
-     "id": "14456e436953"
+     "published": "2026-08-24T19:53:01+00:00",
+     "copete": "El presidente de Confederaciones Rurales Argentinas (CRA), Carlos Castagnani, destacó que el Congreso tratará el proyecto presentado por la entidad. También planteó la necesidad de una nueva Ley de Semillas que incentive la innovación.",
+     "id": "06f9192a52d0"
     }
    ]
   },
@@ -382,10 +390,34 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Macron anuncia tres parques “como Disneyland” en París financiados por Arabia Saudí",
+     "link": "https://elpais.com/internacional/2026-08-24/macron-anuncia-tres-parques-como-disneyland-en-paris-financiados-por-arabia-saudi.html",
+     "source": "El País Internacional",
+     "published": "2026-08-24T19:41:00+00:00",
+     "copete": "El presidente francés recibe en visita oficial al príncipe heredero Mohamed Bin Salmán, con el que ha cerrado varios acuerdos comerciales con empresas como Aramco o Alstom",
+     "id": "3adc3d73e4a7"
+    },
+    {
+     "title": "Siria abandona después de 47 años el listado de EE UU de países que patrocinan el terrorismo",
+     "link": "https://elpais.com/internacional/2026-08-24/siria-abandona-despues-de-47-anos-el-listado-de-ee-uu-de-paises-que-patrocinan-el-terrorismo.html",
+     "source": "El País Internacional",
+     "published": "2026-08-24T19:21:03+00:00",
+     "copete": "El deshielo entre los dos enemigos tradicionales se produce después de que Al Shara visitara a Trump el año pasado",
+     "id": "28ea5179d6b4"
+    },
+    {
+     "title": "Dos cascos azules de la ONU mueren en una emboscada en Sudán del Sur",
+     "link": "https://elpais.com/internacional/2026-08-24/dos-cascos-azules-de-la-onu-mueren-en-una-emboscada-en-sudan-del-sur.html",
+     "source": "El País Internacional",
+     "published": "2026-08-24T19:17:38+00:00",
+     "copete": "El balance de víctimas mortales entre las fuerzas de paz de la organización se eleva a nueve en lo que va de año",
+     "id": "9738d6a5c7e0"
+    },
+    {
      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-24T18:39:53+00:00",
+     "published": "2026-08-24T19:12:35+00:00",
      "copete": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
      "id": "6655729cdf12"
     },
@@ -398,28 +430,12 @@
      "id": "5bc631978d97"
     },
     {
-     "title": "Medio siglo de sanciones estadounidenses infructuosas contra Irán",
-     "link": "https://elpais.com/internacional/2026-08-24/medio-siglo-de-sanciones-estadounidenses-infructuosas-contra-iran.html",
-     "source": "El País Internacional",
-     "published": "2026-08-24T18:23:41+00:00",
-     "copete": "Trump profundiza en la estrategia de asfixiar su economía por la vía coercitiva, pero el margen de acción cada vez es menor",
-     "id": "e77ac155258c"
-    },
-    {
      "title": "Mark Carney, el primer ministro de Canadá que desafía a Trump y acepta pelear en la guerra comercial con EE.UU.",
      "link": "https://www.bbc.com/mundo/articles/ceq85gq9n1lo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "published": "2026-08-24T17:45:03+00:00",
      "copete": "Canadá y EE.UU. están enfilados hacia una guerra comercial luego de que las negociaciones para un acuerdo definitivo no llegaran a buen puerto. El primer ministro canadiense tiene ahora que convencer a su población de asumir las…",
      "id": "a1d9a3a02380"
-    },
-    {
-     "title": "Estados Unidos da un ultimátum a cualquier país “lo suficientemente loco” como para seguir negociando con Irán",
-     "link": "https://elpais.com/internacional/2026-08-24/estados-unidos-da-un-ultimatum-a-cualquier-pais-lo-suficientemente-loco-como-para-seguir-negociando-con-iran.html",
-     "source": "El País Internacional",
-     "published": "2026-08-24T17:34:21+00:00",
-     "copete": "El secretario del Tesoro, Scott Bessent, no anuncia sanciones ni plazos concretos sino que opta por “un disparo de advertencia”, a los socios económicos de Teherán",
-     "id": "26a603059396"
     },
     {
      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
@@ -446,14 +462,6 @@
      "id": "54960f462dd2"
     },
     {
-     "title": "Grecia traslada una batería Patriot a Creta por la amenaza iraní a bases de EE UU en Europa",
-     "link": "https://elpais.com/internacional/2026-08-24/grecia-traslada-una-bateria-patriot-a-creta-por-la-amenaza-irani-a-bases-de-ee-uu-en-europa.html",
-     "source": "El País Internacional",
-     "published": "2026-08-24T15:26:11+00:00",
-     "copete": "Teherán cuenta con misiles balísticos con un alcance superior a los 2.000 kilómetros, capaces de golpear el sureste de Europa",
-     "id": "10053860dfab"
-    },
-    {
      "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
      "link": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
@@ -473,6 +481,11 @@
   {
    "section": "cardiologia",
    "feed": "Circulation (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "cardiologia",
+   "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]

@@ -1,14 +1,9 @@
 {
- "generated_at": "2026-08-24T22:05:12Z",
+ "generated_at": "2026-08-25T10:05:00Z",
  "summaries": {
-  "e77d6b7f90b1": {
-   "resumen": "Cobertura de TCTMD sobre un estudio que muestra que la mortalidad asociada a la estenosis aórtica —el estrechamiento de la válvula aórtica del corazón— viene bajando con el tiempo, aunque persisten diferencias importantes entre subgrupos poblacionales. Vale la pena porque, más allá de la mejora global gracias al diagnóstico temprano y al reemplazo valvular aórtico percutáneo (TAVI, transcatheter aortic valve implantation), las brechas de acceso siguen determinando quién se beneficia realmente de esos avances.",
-   "destacado": true,
-   "analisis": "Diseño: nota de TCTMD que reporta, probablemente, un estudio observacional o de registro sobre tendencias temporales de mortalidad vinculada a la estenosis aórtica; no se pudo acceder al artículo original para precisar el diseño exacto, el período analizado ni el número de pacientes o centros.\nPoblación: pacientes con estenosis aórtica en la población general, con foco en subgrupos donde persisten las disparidades (posiblemente definidos por raza, sexo, nivel socioeconómico o región geográfica).\nIntervención: no aplica una intervención específica; se trata de un análisis de tendencias de mortalidad a lo largo del tiempo, no de un ensayo con comparador activo.\nResultados: no disponibles con precisión por falta de acceso al abstract; el título indica una reducción global de la mortalidad asociada a la estenosis aórtica con persistencia de disparidades entre subgrupos.\nLimitaciones: sin la fuente primaria no es posible evaluar el período cubierto, el ajuste por factores de confusión ni la magnitud real de las brechas reportadas.\nMensaje: refuerza que, pese a la mejora general en el manejo de la estenosis aórtica, persisten inequidades en el acceso o los resultados que ameritan atención específica en la práctica clínica diaria.\nNota: análisis sin acceso al abstract."
-  },
   "4a6f912100bd": {
    "resumen": "Artículo del Journal of the American College of Cardiology (JACC) que repasa el rol vigente de la miectomía septal quirúrgica en la miocardiopatía hipertrófica obstructiva sintomática, 65 años después de su primera descripción, e incluye las innovaciones técnicas recientes. Vale la pena porque, pese a la llegada de los inhibidores de la miosina cardíaca, la cirugía sigue siendo la opción definitiva en casos seleccionados y conviene tener actualizado el criterio de derivación.",
-   "destacado": false,
+   "destacado": true,
    "analisis": "Diseño: Revisión/perspectiva del Journal of the American College of Cardiology (JACC) que repasa 65 años de experiencia con la miectomía septal quirúrgica en la miocardiopatía hipertrófica obstructiva sintomática; no se trata de un ensayo con diseño experimental propio, y sin acceso al abstract no se puede precisar si incluye series de casos o datos originales.\nPoblación: pacientes con miocardiopatía hipertrófica obstructiva sintomática candidatos a miectomía septal quirúrgica.\nIntervención: miectomía septal quirúrgica, contextualizada frente a alternativas como la ablación septal con alcohol y los inhibidores de la miosina cardíaca.\nResultados: no disponibles por falta de acceso al abstract.\nLimitaciones: al ser una revisión/perspectiva, no aporta datos originales prospectivos; sin la fuente primaria no se puede evaluar la evidencia citada.\nMensaje: refuerza que la miectomía sigue siendo el tratamiento de referencia en centros con experiencia para casos seleccionados, pese a la aparición de nuevas opciones farmacológicas.\nNota: análisis sin acceso al abstract."
   },
   "41b7a2bf08ad": {
@@ -25,37 +20,48 @@
    "destacado": false,
    "analisis": "Diseño: Artículo del Journal of the American College of Cardiology (JACC), posiblemente de tipo revisión o perspectiva con datos epidemiológicos, sobre las implicancias cardiovasculares de la desregulación ambiental en Estados Unidos; sin acceso al abstract no se puede precisar si incorpora un análisis de datos original o es puramente narrativo.\nPoblación: población general expuesta a cambios regulatorios ambientales (calidad del aire, del agua y del clima) en Estados Unidos.\nIntervención: no aplica una intervención clínica; analiza el impacto de decisiones de política pública (desregulación ambiental) sobre el riesgo cardiovascular poblacional.\nResultados: no disponibles con precisión por falta de acceso al abstract.\nLimitaciones: sin la fuente primaria no se puede evaluar la solidez metodológica de las estimaciones de riesgo ni el horizonte temporal considerado.\nMensaje: alerta sobre la exposición ambiental como factor de riesgo cardiovascular modificable a nivel poblacional, y sobre el costo sanitario potencial de retroceder en regulaciones de protección ambiental.\nNota: análisis sin acceso al abstract."
   },
-  "2198caf304db": {
-   "resumen": "Cobertura de TCTMD sobre datos del estudio AGENT IDE que confirman que preparar bien la lesión (angioplastia con balón antes de aplicar el fármaco) mejora los resultados del balón farmacoactivo (DCB, drug-coated balloon) cuando se trata la reestenosis intrastent (ISR, in-stent restenosis), es decir, el reangostamiento dentro de un stent ya colocado. Vale la pena porque el DCB se usa cada vez más para evitar poner \"stent sobre stent\", y esto ayuda a definir la técnica óptima antes de aplicarlo.",
-   "destacado": false,
-   "analisis": "Diseño: nota de TCTMD que reporta datos, probablemente de un análisis del estudio/registro AGENT IDE sobre balón farmacoactivo con paclitaxel para reestenosis intrastent; no se pudo acceder a la fuente original para precisar si se trata de un subanálisis, el número de pacientes o centros, ni el diseño exacto.\nPoblación: pacientes con reestenosis intrastent (ISR) tratados con balón farmacoactivo (DCB), comparando el resultado según se haya realizado o no una preparación adecuada de la lesión antes del DCB.\nIntervención: preparación de la lesión (por ejemplo, angioplastia con balón convencional o no complaciente, o aterectomía) previa al uso del balón farmacoactivo, comparada con un DCB aplicado sin esa preparación óptima.\nResultados: no disponibles con precisión por falta de acceso a la fuente primaria; el título indica que los datos confirman el beneficio de la preparación de la lesión antes del DCB.\nLimitaciones: sin la fuente primaria no es posible evaluar el tamaño de la muestra, el seguimiento, ni si el análisis fue preespecificado o post-hoc.\nMensaje: refuerza en la práctica que, antes de usar un balón farmacoactivo en reestenosis intrastent, conviene invertir en una preparación adecuada de la lesión para optimizar el resultado.\nNota: análisis sin acceso al abstract."
-  },
-  "d0e6ecb584ca": {
-   "resumen": "Enlace de navegación de TCTMD que remite al listado completo de congresos y conferencias cubiertos por el sitio, sin una nota periodística propia. Vale la pena solo como acceso rápido a la agenda de eventos de cardiología intervencionista, no aporta contenido clínico nuevo por sí mismo.",
-   "destacado": false
-  },
-  "cecaf044c0de": {
-   "resumen": "Editorial de portada del European Heart Journal que presenta un número temático de insuficiencia cardíaca: repasa la segunda definición universal de la insuficiencia cardíaca, los niveles óptimos de potasio sérico, la fenotipificación de la hipertensión pulmonar, la amiloidosis cardíaca por transtiretina (ATTR, transthyretin amyloidosis) hereditaria y los desafíos del corazón artificial total. Vale la pena como mapa rápido de los temas que la revista prioriza este mes en insuficiencia cardíaca, aunque no reporta un estudio propio.",
+  "9b4d55ab2d40": {
+   "resumen": "Resumen mensual de TCTMD con lo más relevante para el equipo de cardiología durante agosto de 2026: un repaso curado de las noticias, estudios y tendencias que marcaron el mes en cardiología intervencionista y clínica. Vale la pena como forma rápida de no perderse ningún hito importante del período sin rastrear cada nota por separado.",
    "destacado": false
   },
   "df44be67c672": {
    "resumen": "Nota de TCTMD que anticipa los temas centrales del próximo congreso de la Sociedad Europea de Cardiología (ESC, European Society of Cardiology) 2026. Vale la pena como mapa rápido de qué áreas van a concentrar la atención de la comunidad cardiológica este año, aunque no reporta resultados de un estudio en particular.",
    "destacado": false
   },
+  "ca23ab0e35b2": {
+   "resumen": "Masterclass de TCTMD centrada en los procedimientos de válvula-en-válvula por vía percutánea (TAVR, transcatheter aortic valve replacement) en pacientes con alto riesgo de oclusión coronaria, una de las complicaciones más temidas del reemplazo valvular aórtico transcatéter. Vale la pena porque revisa, con enfoque práctico, cómo anticipar y manejar ese riesgo en casos anatómicamente complejos.",
+   "destacado": false
+  },
   "10202f8fddd3": {
    "resumen": "Columna de opinión de TCTMD (sección 'Beyond the Data') sobre el riesgo residual que persiste luego de una intervención coronaria percutánea (PCI, percutaneous coronary intervention), es decir, los eventos cardiovasculares que igual ocurren pese a haber resuelto la obstrucción con un stent o balón. Vale la pena porque discute, desde la mirada de un experto, qué otros factores además de la lesión tratada siguen determinando el pronóstico del paciente.",
    "destacado": false
   },
-  "0036f024c556": {
-   "resumen": "Nota de BBC News, viralizada en Hacker News (foro de tecnología con más de 100 puntos), sobre el récord histórico de temperatura de los océanos. No es estrictamente un tema de ciencia de datos, pero vale la pena porque el monitoreo climático depende cada vez más de series temporales masivas y modelos predictivos, el mismo tipo de herramientas que se usan en el análisis de datos en general.",
+  "cecaf044c0de": {
+   "resumen": "Editorial de portada del European Heart Journal que presenta un número temático de insuficiencia cardíaca: repasa la segunda definición universal de la insuficiencia cardíaca, los niveles óptimos de potasio sérico, la fenotipificación de la hipertensión pulmonar, la amiloidosis cardíaca por transtiretina (ATTR, transthyretin amyloidosis) hereditaria y los desafíos del corazón artificial total. Vale la pena como mapa rápido de los temas que la revista prioriza este mes en insuficiencia cardíaca, aunque no reporta un estudio propio.",
+   "destacado": false
+  },
+  "d0e6ecb584ca": {
+   "resumen": "Enlace de navegación de TCTMD que remite al listado completo de congresos y conferencias cubiertos por el sitio, sin una nota periodística propia. Vale la pena solo como acceso rápido a la agenda de eventos de cardiología intervencionista, no aporta contenido clínico nuevo por sí mismo.",
+   "destacado": false
+  },
+  "f905a1beebe0": {
+   "resumen": "Thomson Reuters presentó su propio modelo de lenguaje de frontera (frontier model), un tipo de inteligencia artificial de última generación entrenado con sus bases de datos jurídicas y financieras propias. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo una organización con datos especializados puede construir un modelo propio en lugar de depender de los genéricos, algo pensable también en el ámbito clínico.",
+   "destacado": true
+  },
+  "c75e015ff81a": {
+   "resumen": "Ensayo de Paul Graham, cofundador de la aceleradora Y Combinator, sobre cómo deberían las universidades preparar a los futuros fundadores de empresas (founders). No es un tema de ciencia de datos en sentido estricto, pero puede resultar útil para quien piensa en aplicar el análisis de datos a un emprendimiento propio, ya que discute qué habilidades formativas realmente marcan la diferencia.",
+   "destacado": false
+  },
+  "6a63078b3dd9": {
+   "resumen": "Apple confirmó que las direcciones creadas con la función 'Ocultar mi correo' (Hide My Email) de iCloud+ seguirán funcionando bajo el dominio icloud.com. No es estrictamente un tema de ciencia de datos, pero toca de cerca la privacidad de datos personales, un principio que también aplica al manejo responsable de información clínica.",
+   "destacado": false
+  },
+  "f40a211fa8cf": {
+   "resumen": "Explicación interactiva y muy detallada sobre la Luna, publicada originalmente en 2024 y resurgida en Hacker News (foro de tecnología). No es un tema de ciencia de datos, pero es un buen ejemplo de visualización interactiva de información compleja, una habilidad transferible a la comunicación de datos clínicos.",
    "destacado": false
   },
   "2265a783ecfd": {
    "resumen": "Artículo de Towards Data Science que explica cómo insertar lógica propia dentro del bucle agéntico de Codex (el asistente de programación de OpenAI) mediante 'hooks', puntos de enganche que permiten intervenir el proceso automático. Le sirve a quien programa con asistentes de inteligencia artificial para entender cómo personalizar y controlar mejor estas herramientas en sus propios flujos de análisis de datos.",
-   "destacado": false
-  },
-  "c20a4456d4f9": {
-   "resumen": "Proyecto difundido en Hacker News que recrea la ciudad de San Francisco completa como un videojuego navegable en el navegador. Es más una curiosidad de programación y visualización 3D que una herramienta de análisis de datos, pero ilustra el uso creativo de datos geoespaciales masivos para construir experiencias interactivas.",
    "destacado": false
   },
   "a52500dc3f38": {
@@ -70,30 +76,22 @@
    "resumen": "Nota de Simon Willison sobre la versión 0.27 del plugin llm-anthropic, que actualiza la compatibilidad con la nueva librería de Python de Anthropic (anthropic v1.0.0). Es una noticia técnica de mantenimiento de herramientas, útil para quien ya usa la línea de comandos 'llm' para experimentar con modelos de lenguaje desde Python.",
    "destacado": false
   },
-  "42f46d423de7": {
-   "resumen": "Artículo de opinión difundido en Hacker News que argumenta que la dependencia creciente de la inteligencia artificial para programar va a erosionar la pericia técnica de los desarrolladores. Le sirve a quien está aprendiendo análisis de datos con ayuda de inteligencia artificial como advertencia para no delegar por completo la comprensión del código que usa.",
-   "destacado": false
-  },
-  "b4708e8dda24": {
-   "resumen": "Nota difundida en Hacker News sobre los 25 años del protocolo abierto de mensajería Jabber/XMPP (Extensible Messaging and Presence Protocol) y su rol en la independencia digital frente a plataformas cerradas. Es un tema de historia de internet más que de análisis de datos, aunque ilustra el valor de los protocolos abiertos frente a los sistemas propietarios, un debate también presente en las herramientas de inteligencia artificial.",
-   "destacado": false
-  },
   "2a98eafa640c": {
    "resumen": "Artículo de Towards Data Science sobre un motor de inferencia para modelos de lenguaje (LLM, large language model) escrito en CUDA que respeta plazos físicos estrictos —por ejemplo, ciclos de control de robots de 33 milisegundos— descartando de la memoria caché la información menos relevante en lugar de la más antigua. Le sirve a quien se inicia en inteligencia artificial para entender que la gestión de memoria y de los tiempos de respuesta es tan crítica como la precisión del modelo en aplicaciones en tiempo real.",
    "destacado": false
   },
   "1ad0dc4a9230": {
    "resumen": "Guía práctica de KDnuggets sobre cómo usar modelos de lenguaje pequeños (SLM, small language models) de forma local, en la propia computadora, para proyectos personales. Le sirve especialmente a un médico que aprende análisis de datos porque muestra una vía más económica y privada —sin enviar información a servidores externos— para experimentar con inteligencia artificial, algo relevante al trabajar con datos clínicos.",
-   "destacado": true
+   "destacado": false
   },
-  "508a9ce0515f": {
-   "resumen": "El capitán de Los Pumas, Julián Montoya, considerado uno de los mejores hookers del mundo, habló sobre la importancia de enfocarse en la preparación más que en el resultado."
+  "5defd7addd07": {
+   "resumen": "El jugador de Los Pumas Joaquín Moro habló de su objetivo de consolidarse como titular en cada partido de la selección argentina de rugby."
   },
-  "694f37f83492": {
-   "resumen": "Tras su debut con Los Pumas, el jugador Moreno encaminaría su carrera hacia el rugby europeo."
+  "17ac02b9efee": {
+   "resumen": "Un jugador que debutó con Los Pumas frente a los Springboks sudafricanos sonaría para continuar su carrera en el rugby inglés."
   },
-  "f43c4dc40938": {
-   "resumen": "Los Pumas afinan los últimos detalles en Jujuy de cara a su primer partido ante Australia."
+  "9ace3355d015": {
+   "resumen": "Los Pumas 7's realizan una concentración con características particulares de cara a los próximos compromisos del seleccionado de seven."
   }
  }
 }

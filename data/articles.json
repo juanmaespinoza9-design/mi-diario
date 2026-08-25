@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T03:16:03.993889+00:00",
+ "generated_at": "2026-08-25T04:59:16.092617+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -89,6 +89,13 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Jugó en Los Pumas ante Springboks y podría tener destino en Inglaterra",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWmdMcUhNUkxlWFBDbHJEV2h0ZGgwZ25aUFJSLWZxalc3YjhjMzBjZ0RTLUdtUkhsaVhKbGNwME14Nk9NX1pfbjF2SHpiV1lnRWpqTWRyN0Q5SnhEOHRuS3VXd0ZwX3pMd2xiWUtQQXp4cVhGTk9iSXhJSUYyeUpRMkloWjhWSVowNEY5LTd5MVd0Y2Y5LU9idWdGVzVTSHFkeVlFR1pwZkFrT0tVSXNjWGlMZmg0U3pUeDRhMGR6ZVFNZ3pTaHdvVk1LN0dETFpxdlBnVzA5S3ZXR2ZNQ3dYUG5oMW9TWW1CdDdvekZ0WDd4SU0?oc=5",
+     "source": "ESPN Ecuador",
+     "published": "2026-08-25T03:46:31+00:00",
+     "id": "17ac02b9efee"
+    },
+    {
      "title": "Los Pumas 7's y una concentración particular",
      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZUQwejVwQURqNU40Y0oxT0kxcVVlRXl5enZKV1B0TkRnaTJqWFA4VWEySXlCUmVTb05ub1p0NzRWcXVCMnUxZUFiLTdfcGMtekY2UkltenZUVUs1VzRHSThRNVVwRHd0cUpORTRobVVEaWs5T29jcHI3TlFRZzFoVWdFUXZxTVdVcjM0YXJvSS1sOVlySVpNanRkQlY2R00zS0poRnBnWXhGYXprdUZfdXh0cF9JWHlQMzNIMWxabWVweERxZFFJUTNUNHRXVzhUMnRheg?oc=5",
      "source": "ESPN República Dominicana",
@@ -143,13 +150,6 @@
      "id": "c9a95c1e14d2"
     },
     {
-     "title": "Los Pumas disfrutaron de Purmamarca",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbHA5UHBZT09jNjJ4eF8zd1BSdDFpSFREWFFjSDJFMEJmb2tORU9hY0RpUWlWUGM1MmRFM2N1ZXI3OHNOVk5NTlB6d2c2djkzbHI3VGV1SkJlem41ZHhfMDBzS3FPalpYcm5sVENfS2x6Q3VfTEt1ZkNVWTM2ZHI2aldMdm1MQ0U?oc=5",
-     "source": "Diario Pregon de Jujuy",
-     "published": "2026-08-24T23:38:25+00:00",
-     "id": "326bb06fa834"
-    },
-    {
      "title": "La banca de Jorge Brito a Julián Álvarez en medio de su tensa situación en el Atlético de Madrid: \"Siempre con vos\"",
      "link": "https://www.ole.com.ar/river-plate/banca-jorge-brito-julian-alvarez-medio-tensa-situacion-atletico-madrid_0_l2NnTzccJ3.html",
      "source": "Olé — River",
@@ -188,6 +188,34 @@
    "title": "Ciencia de datos e IA",
    "mode": "resumen",
    "items": [
+    {
+     "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+     "link": "https://developer.apple.com/news/?id=1ptvdtcm",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-24T22:13:40+00:00",
+     "id": "6a63078b3dd9"
+    },
+    {
+     "title": "Moon (2024)",
+     "link": "https://ciechanow.ski/moon/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-24T22:06:02+00:00",
+     "id": "f40a211fa8cf"
+    },
+    {
+     "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
+     "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-24T21:03:06+00:00",
+     "id": "876b079beb5e"
+    },
+    {
+     "title": "Oceans hit highest temperature on record",
+     "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-24T19:19:08+00:00",
+     "id": "0036f024c556"
+    },
     {
      "title": "Put Your Own Logic Inside the Codex Agentic Loop",
      "link": "https://towardsdatascience.com/put-your-own-logic-inside-the-codex-agentic-loop/",
@@ -234,37 +262,6 @@
      "published": "2026-08-24T14:00:13+00:00",
      "copete": "A practical guide to running compact, privacy-preserving language models on your own hardware for faster, cheaper, and more controllable AI-powered applications.",
      "id": "1ad0dc4a9230"
-    },
-    {
-     "title": "Build an End-to-End Data Science Project with Grok Build and Grok 4.6",
-     "link": "https://www.kdnuggets.com/build-an-end-to-end-data-science-project-with-grok-build-and-grok-4-6",
-     "source": "KDnuggets",
-     "published": "2026-08-24T12:00:06+00:00",
-     "copete": "Use Grok Build to create a production-ready data science workflow with EDA, scikit-learn, model training, FastAPI, API testing, and cloud deployment.",
-     "id": "811a225f6035"
-    },
-    {
-     "title": "Your executable is a SQLite database",
-     "link": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
-     "source": "Simon Willison (IA)",
-     "published": "2026-08-24T11:38:15+00:00",
-     "copete": "Your executable is a SQLite database Farid Zakaria describes a neat Linux pattern for creating a SQLite database file that can be directly used as an executable binary. The trick sets the SQLite file format's 4-byte application ID (68…",
-     "id": "45339259dc1e"
-    },
-    {
-     "title": "Weekly Entering & Transitioning - Thread 24 Aug, 2026 - 31 Aug, 2026",
-     "link": "https://www.reddit.com/r/datascience/comments/1vws6hn/weekly_entering_transitioning_thread_24_aug_2026/",
-     "source": "r/datascience",
-     "published": "2026-08-24T04:01:30+00:00",
-     "id": "c07ababe02eb"
-    },
-    {
-     "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
-     "link": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
-     "source": "Simon Willison (IA)",
-     "published": "2026-08-23T20:24:52+00:00",
-     "copete": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive A few interesting numbers in this FT story gathered from \"people with knowledge of the matter\": Anthropic's \"annualized revenue\" for July is up to $65bn - it was…",
-     "id": "fc0f17557ab7"
     }
    ]
   },
@@ -274,99 +271,99 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "El necesario rechazo a la corrupción",
-     "link": "https://www.lanacion.com.ar/opinion/el-necesario-rechazo-a-la-corrupcion-nid25082026/",
-     "source": "La Nación",
-     "published": "2026-08-25T03:15:00+00:00",
-     "copete": "Solo habrá paz social y progreso económico cuando los ciudadanos, sin importar el signo político, expresen con su voz y con su voto la intolerancia absoluta a la falta de honestidad y transparencia",
-     "id": "16796e4fce8c"
-    },
-    {
-     "title": "La agenda de la TV del martes: la magia de Federer, Copa Libertadores y los playoffs de la Champions League",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/la-agenda-de-la-tv-del-martes-la-magia-de-federer-copa-libertadores-y-los-playoffs-de-la-champions-nid24082026/",
-     "source": "La Nación",
-     "published": "2026-08-25T03:15:00+00:00",
-     "copete": "La actividad deportiva en la continuidad de la semana, disponible a través de las pantallas",
-     "id": "bd4a15e66dc5"
-    },
-    {
-     "title": "La quinta de Pilar: el laberinto que protege al poder",
-     "link": "https://www.lanacion.com.ar/editoriales/la-quinta-de-pilar-el-laberinto-que-protege-al-poder-nid25082026/",
-     "source": "La Nación",
-     "published": "2026-08-25T03:10:00+00:00",
-     "copete": "La Justicia debe actuar con independencia y celeridad ante las múltiples facetas del AFAgate; el paso del tiempo suele convertirse en una forma de impunidad",
-     "id": "28fef9a37cf2"
-    },
-    {
-     "title": "La Justicia también necesita compliance",
-     "link": "https://www.lanacion.com.ar/opinion/la-justicia-tambien-necesita-compliance-nid25082026/",
-     "source": "La Nación",
-     "published": "2026-08-25T03:05:00+00:00",
-     "copete": "El Poder Judicial evalúa los programas de integridad de las empresas, pero ya es tiempo de que diseñe el propio",
-     "id": "6e46d50fc6fc"
-    },
-    {
-     "title": "Quevedo y el dinosaurio",
-     "link": "https://www.lanacion.com.ar/opinion/quevedo-y-el-dinosaurio-nid25082026/",
-     "source": "La Nación",
-     "published": "2026-08-25T03:05:00+00:00",
-     "copete": "La historia de Gus pone ante nuestros ojos uno de los males de nuestro tiempo: la codicia",
-     "id": "92fa480f75df"
-    },
-    {
-     "title": "Enorme actuación de Di María: los dos goles en 10 minutos con los que Rosario Central remontó el partido ante Talleres en Córdoba",
-     "link": "https://www.infobae.com/deportes/2026/08/25/enorme-actuacion-de-di-maria-los-dos-goles-en-10-minutos-con-los-que-rosario-central-remonto-el-partido-ante-talleres-en-cordoba/",
+     "title": "Otorgaron el arresto domiciliario al comerciante que mató a un menor en Mar del Plata",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/08/25/otorgaron-el-arresto-domiciliario-al-comerciante-que-mato-a-un-menor-en-mar-del-plata/",
      "source": "Infobae",
-     "published": "2026-08-25T03:04:09+00:00",
-     "copete": "Fideo fue la figura del elenco rosarino en el Kempes cordobés. Aunque el Canalla comenzó 0-2, sus tantos permitieron rescatar un empate",
-     "id": "88b93faecb46"
+     "published": "2026-08-25T04:52:51+00:00",
+     "copete": "Ulises Cristiano fue beneficiado con la morigeración de la detención tras la audiencia realizada en Tribunales marplatenses",
+     "id": "01cf18d903a6"
     },
     {
-     "title": "Cómo aprovechar la semana de promociones de viajes para asegurar tarifas de vuelos internacionales y pagarlas después",
-     "link": "https://www.infobae.com/inhouse/2026/08/25/como-aprovechar-la-semana-de-promociones-de-viajes-para-asegurar-tarifas-de-vuelos-internacionales-y-pagarlas-despues/",
+     "title": "La renovada amenaza a los suministros mundiales de cereales",
+     "link": "https://www.infobae.com/economist/2026/08/25/la-renovada-amenaza-a-los-suministros-mundiales-de-cereales/",
      "source": "Infobae",
-     "published": "2026-08-25T03:01:00+00:00",
-     "copete": "Quienes buscan organizar su próximo viaje pueden acceder a ofertas que permiten fijar el valor del pasaje hoy y completar el pago en millas o pesos de manera gradual.",
-     "id": "ebc51f3101f4"
+     "published": "2026-08-25T04:49:08+00:00",
+     "copete": "A diferencia de 2022, tanto las exportaciones de Ucrania como las de Rusia están bajo ataque",
+     "id": "1f6eabc4a20c"
     },
     {
-     "title": "Cómo una marca de cocina nikkei acelera su crecimiento en la Argentina y la región",
-     "link": "https://www.infobae.com/inhouse/2026/08/25/como-una-marca-de-cocina-nikkei-acelera-su-crecimiento-en-la-argentina-y-la-region/",
+     "title": "Chile enviaría una nota de protesta a la Argentina a raíz de los dichos del jefe de la Fuerza Aérea sobre la soberanía de Magallanes",
+     "link": "https://www.lanacion.com.ar/el-mundo/chile-enviaria-una-nota-de-protesta-a-la-argentina-a-raiz-de-los-dichos-del-jefe-de-la-fuerza-aerea-nid25082026/",
+     "source": "La Nación",
+     "published": "2026-08-25T04:47:11+00:00",
+     "copete": "El Ministerio de Relaciones Exteriores chileno, Francisco Pérez Mackenna, cuestionó las recientes declaraciones de Gustavo Javier Valverde y afirmó: “El Estrecho es indiscutiblemente chileno”",
+     "id": "a1a0acc5e2b4"
+    },
+    {
+     "title": "“Merece ser contado”: navegaba con sus amigos a Florianópolis, pero naufragaron a poco de llegar y fue el único sobreviviente",
+     "link": "https://www.lanacion.com.ar/lifestyle/merece-ser-contado-navegaba-con-sus-amigos-a-florianopolis-pero-naufragaron-a-poco-de-llegar-y-fue-nid25082026/",
+     "source": "La Nación",
+     "published": "2026-08-25T04:45:00+00:00",
+     "copete": "Gustavo Mehl, Daniel Bastit y Alberto Bastit habían planeado el viaje minuciosamente; el 18 de julio de 2007, el viento les cambió el rumbo y las rocas cerca de los islotes de Brasil rompieron el barco",
+     "id": "1b8a226770e5"
+    },
+    {
+     "title": "Tras el aterrizaje de emergencia en Brasil, la aerolínea confirmó cuándo saldrá el vuelo de reemplazo a Madrid",
+     "link": "https://www.lanacion.com.ar/sociedad/tras-el-aterrizaje-de-emergencia-en-brasil-la-aerolinea-confirmo-cuando-saldra-el-vuelo-de-reemplazo-nid25082026/",
+     "source": "La Nación",
+     "published": "2026-08-25T04:34:05+00:00",
+     "copete": "Plus Ultra indicó que los casi 300 pasajeros varados en Natal partirán este martes a las 18.50; la empresa también informó que dispuso alojamiento y asistencia para los afectados",
+     "id": "451d1872382c"
+    },
+    {
+     "title": "Amazon anuncia cursos de computación en la nube e IA para estudiantes universitarios en América Latina",
+     "link": "https://www.infobae.com/tecno/2026/08/25/amazon-anuncia-cursos-de-computacion-en-la-nube-e-ia-para-estudiantes-universitarios-en-america-latina/",
      "source": "Infobae",
-     "published": "2026-08-25T03:01:00+00:00",
-     "copete": "Quilmes, Hudson y Luján en el Gran Buenos Aires, la Patagonia en el horizonte y Paraguay confirmado marcan el ritmo de expansión de una propuesta gastronómica que sigue conquistando paladares por la fusión y la frescura",
-     "id": "0e9fffeb897c"
+     "published": "2026-08-25T04:31:57+00:00",
+     "copete": "AWS Builder Center lanza un programa global con acceso a más de 900 cursos de tecnología sin costo",
+     "id": "78a894c5f1cb"
     },
     {
-     "title": "100.000 kilómetros en dos años: la travesía que buscó llevar una moto al límite",
-     "link": "https://www.infobae.com/inhouse/2026/08/25/100000-kilometros-en-dos-anos-la-travesia-que-busco-llevar-una-moto-al-limite/",
+     "title": "Panamá investiga la pérdida total del buque carguero que naufragó en India y dejó 22 desaparecidos",
+     "link": "https://www.infobae.com/panama/2026/08/25/panama-investiga-la-perdida-total-del-buque-carguero-que-naufrago-en-india/",
      "source": "Infobae",
-     "published": "2026-08-25T03:01:00+00:00",
-     "copete": "Un recorrido por Latinoamérica busca demostrar, en condiciones reales y a lo largo de una distancia inédita, las capacidades de un modelo que se abrió paso en un mercado cada vez más competitivo",
-     "id": "02df9decfa2a"
+     "published": "2026-08-25T04:31:50+00:00",
+     "copete": "La autoridad marítima coordina con el país surasiático y con el operador para aclarar las causas del hundimiento, mientras sigue el operativo para ubicar a 22 trabajadores desaparecidos y controlar riesgos de contaminación",
+     "id": "637ca6e83760"
     },
     {
-     "title": "El desafío de los cólicos en la infancia: cómo acompañar a bebés y familias",
-     "link": "https://www.infobae.com/sociedad/2026/08/25/el-desafio-de-los-colicos-en-la-infancia-como-acompanar-a-bebes-y-familias/",
+     "title": "Violento robo a una familia en Mar del Plata: los golpearon y amenazaron con cortarles la lengua",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/08/25/violento-robo-a-una-familia-en-mar-del-plata-los-golpearon-y-amenazaron-con-cortarles-la-lengua/",
      "source": "Infobae",
-     "published": "2026-08-25T03:01:00+00:00",
-     "id": "0d35f1c192f8"
+     "published": "2026-08-25T04:30:28+00:00",
+     "copete": "Los delincuentes los sorprendieron durante las primeras horas del lunes. Revisaron todas las habitaciones y hasta detrozaron parte del cielorraso para buscar dólares. Al padre de la familia lo “desfiguraron a golpes”. Hay un menor demorado",
+     "id": "f4bbfd5ec20e"
     },
     {
-     "title": "Algunos adultos en EEUU usan IA para asesoría financiera, pero pocos confían en ella, dice encuesta",
-     "link": "https://www.clarin.com/estados-unidos/algunos-adultos-en-eeuu-usan-ia-para-asesoria-financiera-pero-pocos-confian-en-ella-dice-encuesta_0_QD9slp7bDh.html",
+     "title": "Rosa Maria Raich, doctora en psicología: “Vemos 3.000 imágenes al día de cuerpos delgados, es muy difícil que con esta presión estética no te preocupes por tu peso o por tu dieta”",
+     "link": "https://www.clarin.com/internacional/rosa-maria-raich-doctora-psicologia-vemos-3000-imagenes-dia-cuerpos-delgados-dificil-presion-estetica-preocupes-peso-dieta_0_7UsclZ97Ky.html",
      "source": "Clarín",
-     "published": "2026-08-25T02:30:08+00:00",
-     "copete": "Aunque algunos adultos en EE.UU. usan IA para asesoría financiera, la confianza en estas herramientas es baja, según una encuesta reciente. La mayoría prefiere investigar en línea o consultar a asesores humanos, siendo el costo un factor…",
-     "id": "b94939681b4d"
+     "published": "2026-08-25T04:25:32+00:00",
+     "copete": "La psicóloga alerta del impacto que tienen las redes sociales y los nuevos ideales de delgadez extrema.",
+     "id": "65c3cd834fab"
     },
     {
-     "title": "Gran Hermano, Generación Dorada: quién fue eliminado, este lunes 24 de agosto",
-     "link": "https://www.clarin.com/fama/gran-hermano-generacion-dorada-eliminado-lunes-24-agosto_0_LxuCQ2cRAw.html",
+     "title": "\"La arquitectura de la impunidad diseñada por y para el poder\"",
+     "link": "https://www.clarin.com/cartas-al-pais/arquitectura-impunidad-disenada-poder_0_URivV2V8Mx.html",
      "source": "Clarín",
-     "published": "2026-08-25T02:25:30+00:00",
-     "copete": "Una nueva participante dejó el certamen por decisión del público. Ahora quedan apenas siete jugadoras en competencia en el reality, que ya está en su recta final.",
-     "id": "0b085daab09c"
+     "published": "2026-08-25T04:01:31+00:00",
+     "id": "fd15fb9a4713"
+    },
+    {
+     "title": "El viaje de Massa a Barbados no tuvo impacto puertas adentro del Frente Renovador",
+     "link": "https://www.lanacion.com.ar/politica/el-viaje-de-massa-a-barbados-no-tuvo-impacto-puertas-adentro-del-frente-renovador-nid25082026/",
+     "source": "La Nación",
+     "published": "2026-08-25T04:00:00+00:00",
+     "copete": "El exministro de Economía no recibió reproches en sus filas; la excursión caribeña se tomó con naturalidad por la relación amistosa que lo una con Francisco De Narváez",
+     "id": "5d4b16b0023f"
+    },
+    {
+     "title": "Recaudan fondos para abrir otra sede del Bellas Artes en un edificio del Estado",
+     "link": "https://www.lanacion.com.ar/cultura/recaudan-fondos-para-abrir-otra-sede-del-bellas-artes-en-un-edificio-del-estado-nid25082026/",
+     "source": "La Nación",
+     "published": "2026-08-25T03:48:03+00:00",
+     "copete": "La fiesta impulsada por la Asociación de Amigos del museo permitirá reacondicionar la nueva sede para exhibir obras guardadas; evalúan entre varias opciones cuál será la locación",
+     "id": "f573e1814ed2"
     }
    ]
   },
@@ -376,36 +373,68 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Songs created by AI banned from Australia's music charts",
+     "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-25T04:54:01+00:00",
+     "copete": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
+     "id": "fbf9a6df4ccc"
+    },
+    {
+     "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+     "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-25T03:50:06+00:00",
+     "copete": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
+     "id": "6655729cdf12"
+    },
+    {
+     "title": "\"Las mujeres tienen deficiencias intelectuales\": el exclusivo acceso de la BBC para ver cómo el Talibán gobierna Afganistán",
+     "link": "https://www.bbc.com/mundo/articles/cpveym9rpvjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-25T03:34:52+00:00",
+     "copete": "Cinco años después del regreso de los talibanes al poder, un equipo de periodistas ha seguido durante dos años a figuras destacadas del movimiento islamista mientras este transforma el país.",
+     "id": "2d038da267f5"
+    },
+    {
+     "title": "El fantasma de la guerra civil se cierne sobre Yemen en plena crisis del Golfo",
+     "link": "https://elpais.com/internacional/2026-08-25/el-fantasma-de-la-guerra-civil-se-cierne-sobre-yemen-en-plena-crisis-del-golfo.html",
+     "source": "El País Internacional",
+     "published": "2026-08-25T03:30:01+00:00",
+     "copete": "Las recientes hostilidades entre los rebeldes hutíes, aliados de Irán, y Arabia Saudí y el Gobierno yemení son la mayor escalada militar desde la tregua de 2022",
+     "id": "a915592c8edb"
+    },
+    {
+     "title": "Carta abierta de Sergio Ramírez al presidente Lula da Silva",
+     "link": "https://elpais.com/opinion/2026-08-25/carta-abierta-de-sergio-ramirez-al-presidente-lula-da-silva.html",
+     "source": "El País Internacional",
+     "published": "2026-08-25T03:30:01+00:00",
+     "copete": "Ortega ha suprimido las elecciones. No le niegue usted a Nicaragua el derecho a elegir libremente, el mismo que puede hacerlo presidente de Brasil por cuarta vez",
+     "id": "a9bf34350287"
+    },
+    {
+     "title": "Escuchar a Europa y forjar su futuro",
+     "link": "https://elpais.com/opinion/2026-08-25/escuchar-a-europa-y-forjar-su-futuro.html",
+     "source": "El País Internacional",
+     "published": "2026-08-25T03:30:01+00:00",
+     "copete": "Entre las decisiones fundamentales que tenemos que tomar, una destaca sobre las demás: alcanzar, antes de que acabe el año, un acuerdo sobre nuestro Presupuesto a largo plazo para 2028-2034",
+     "id": "74a00b91c42c"
+    },
+    {
+     "title": "NZ religious sect leader jailed over death of Chinese follower",
+     "link": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-25T03:07:34+00:00",
+     "copete": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.",
+     "id": "e901cc2be824"
+    },
+    {
      "title": "How Canada could hit back to hurt the US economy - and Trump",
      "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
      "published": "2026-08-25T02:49:22+00:00",
      "copete": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?",
      "id": "c9e6c2039253"
-    },
-    {
-     "title": "French tourist dies in Death Valley after car gets stuck in mud",
-     "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-25T02:08:57+00:00",
-     "copete": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
-     "id": "1212227fd667"
-    },
-    {
-     "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-     "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-25T01:48:24+00:00",
-     "copete": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
-     "id": "6c51db20726b"
-    },
-    {
-     "title": "US removes Syria from list of state sponsors of terrorism",
-     "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-25T00:17:25+00:00",
-     "copete": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
-     "id": "4ff6fd0394b8"
     },
     {
      "title": "Los océanos del planeta alcanzan la temperatura media más alta jamás registrada mientras El Niño se intensifica",
@@ -422,38 +451,6 @@
      "published": "2026-08-24T19:41:00+00:00",
      "copete": "El presidente francés recibe en visita oficial al príncipe heredero Mohamed Bin Salmán, con el que ha cerrado varios acuerdos comerciales con empresas como Aramco o Alstom",
      "id": "3adc3d73e4a7"
-    },
-    {
-     "title": "Siria abandona después de 47 años el listado de EE UU de países que patrocinan el terrorismo",
-     "link": "https://elpais.com/internacional/2026-08-24/siria-abandona-despues-de-47-anos-el-listado-de-ee-uu-de-paises-que-patrocinan-el-terrorismo.html",
-     "source": "El País Internacional",
-     "published": "2026-08-24T19:21:03+00:00",
-     "copete": "El deshielo entre los dos enemigos tradicionales se produce después de que Al Shara visitara a Trump el año pasado",
-     "id": "28ea5179d6b4"
-    },
-    {
-     "title": "Dos cascos azules de la ONU mueren en una emboscada en Sudán del Sur",
-     "link": "https://elpais.com/internacional/2026-08-24/dos-cascos-azules-de-la-onu-mueren-en-una-emboscada-en-sudan-del-sur.html",
-     "source": "El País Internacional",
-     "published": "2026-08-24T19:17:38+00:00",
-     "copete": "El balance de víctimas mortales entre las fuerzas de paz de la organización se eleva a nueve en lo que va de año",
-     "id": "9738d6a5c7e0"
-    },
-    {
-     "title": "Armenia acelera su acercamiento a la UE pese a la presión de Rusia",
-     "link": "https://elpais.com/internacional/2026-08-24/armenia-acelera-su-acercamiento-a-la-ue-pese-a-la-presion-de-rusia.html",
-     "source": "El País Internacional",
-     "published": "2026-08-24T18:31:01+00:00",
-     "copete": "El distanciamiento con Moscú abre interrogantes sobre las consecuencias económicas y políticas de abandonar progresivamente su órbita",
-     "id": "5bc631978d97"
-    },
-    {
-     "title": "Mark Carney, el primer ministro de Canadá que desafía a Trump y acepta pelear en la guerra comercial con EE.UU.",
-     "link": "https://www.bbc.com/mundo/articles/ceq85gq9n1lo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-24T17:45:03+00:00",
-     "copete": "Canadá y EE.UU. están enfilados hacia una guerra comercial luego de que las negociaciones para un acuerdo definitivo no llegaran a buen puerto. El primer ministro canadiense tiene ahora que convencer a su población de asumir las…",
-     "id": "a1d9a3a02380"
     }
    ]
   }
@@ -473,11 +470,6 @@
    "section": "cardiologia",
    "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "ciencia_datos",
-   "feed": "Hacker News (100+ puntos)",
-   "error": "<urlopen error timed out>"
   }
  ]
 }

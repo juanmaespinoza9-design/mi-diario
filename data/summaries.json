@@ -1,6 +1,33 @@
 {
- "generated_at": "2026-08-25T10:05:00Z",
+ "generated_at": "2026-08-25T22:05:02Z",
  "summaries": {
+  "06c0cc304b06": {
+   "resumen": "Nota de TCTMD sobre los beneficios de corregir la anemia con hierro intravenoso antes de una cirugía cardíaca. Vale la pena porque la anemia preoperatoria es un factor de riesgo conocido de más transfusiones y peores desenlaces, y esta es una intervención simple y de bajo costo que se puede aplicar en la evaluación prequirúrgica.",
+   "destacado": false,
+   "analisis": "Diseño: Nota periodística de TCTMD que reporta sobre un estudio (probablemente un ensayo clínico o un análisis observacional) que evalúa la corrección de la anemia con hierro intravenoso antes de la cirugía cardíaca; sin acceso al abstract no se puede precisar el diseño exacto, la aleatorización ni el número de centros o pacientes.\nPoblación: pacientes con anemia programados para cirugía cardíaca.\nIntervención: administración de hierro intravenoso preoperatorio para corregir la anemia, presumiblemente comparado contra no corrección o manejo estándar.\nResultados: no disponibles por falta de acceso al abstract.\nLimitaciones: sin la fuente primaria no se puede evaluar el tamaño muestral, el riesgo de sesgo ni la magnitud real del beneficio.\nMensaje: sugiere que corregir la anemia preoperatoria con hierro intravenoso podría mejorar los desenlaces de la cirugía cardíaca, un abordaje simple a considerar en la evaluación prequirúrgica.\nNota: análisis sin acceso al abstract."
+  },
+  "a3653f4a356f": {
+   "resumen": "Nota de TCTMD sobre un estudio que asocia las caídas de hemoglobina tras iniciar anticoagulantes orales (OAC, oral anticoagulants) con un mayor riesgo de diagnóstico posterior de cáncer. Vale la pena porque plantea usar esa caída de hemoglobina como una señal de alarma para buscar sangrado oculto y descartar una neoplasia.",
+   "destacado": false,
+   "analisis": "Diseño: Nota de TCTMD sobre un estudio, probablemente observacional o de cohorte, que evalúa la asociación entre la caída de la hemoglobina tras iniciar anticoagulación oral y el diagnóstico posterior de cáncer; sin el abstract no se puede precisar el diseño, el seguimiento ni el tamaño muestral.\nPoblación: pacientes que inician tratamiento con anticoagulantes orales.\nIntervención: no hay intervención activa; se analiza la caída de hemoglobina como marcador tras el inicio de la anticoagulación oral.\nResultados: no disponibles por falta de acceso al abstract.\nLimitaciones: sin la fuente primaria no se puede descartar causalidad inversa (que un cáncer oculto ya sangrante explique la caída de hemoglobina) ni evaluar el control de factores de confusión.\nMensaje: sugiere considerar la búsqueda activa de una neoplasia oculta ante una caída inexplicada de la hemoglobina luego de iniciar anticoagulación oral.\nNota: análisis sin acceso al abstract."
+  },
+  "763f4bdf2381": {
+   "resumen": "Entrevista de la serie 'Behind the Science' de TCTMD sobre la relación entre la fragilidad del paciente y la enfermedad de la válvula tricúspide. Vale la pena porque la fragilidad pesa cada vez más al decidir qué pacientes se benefician de una intervención tricuspídea, un área en pleno desarrollo.",
+   "destacado": false,
+   "analisis": "Diseño: Entrevista de la serie 'Behind the Science' de TCTMD que repasa el trasfondo de una investigación sobre fragilidad y enfermedad de la válvula tricúspide; el formato sugiere que discute un estudio puntual, pero sin acceso al abstract no se puede precisar su diseño.\nPoblación: pacientes con enfermedad de la válvula tricúspide, con foco en su estado de fragilidad.\nIntervención: no surge una intervención definida del título; probablemente evalúa cómo la fragilidad se asocia con los desenlaces o con la selección de pacientes para tratamiento tricuspídeo.\nResultados: no disponibles por falta de acceso al abstract.\nLimitaciones: sin la fuente primaria no se puede evaluar la metodología ni la magnitud de la asociación entre fragilidad y desenlaces.\nMensaje: refuerza la importancia de incorporar la evaluación de fragilidad al considerar el tratamiento de la enfermedad tricuspídea, ya que puede condicionar el pronóstico y la elección terapéutica.\nNota: análisis sin acceso al abstract."
+  },
+  "9b4d55ab2d40": {
+   "resumen": "Resumen mensual de TCTMD con lo más relevante para el equipo de cardiología durante agosto de 2026: un repaso curado de las noticias, estudios y tendencias que marcaron el mes en cardiología intervencionista y clínica. Vale la pena como forma rápida de no perderse ningún hito importante del período sin rastrear cada nota por separado.",
+   "destacado": false
+  },
+  "df44be67c672": {
+   "resumen": "Nota de TCTMD que anticipa los temas centrales del próximo congreso de la Sociedad Europea de Cardiología (ESC, European Society of Cardiology) 2026. Vale la pena como mapa rápido de qué áreas van a concentrar la atención de la comunidad cardiológica este año, aunque no reporta resultados de un estudio en particular.",
+   "destacado": false
+  },
+  "cecaf044c0de": {
+   "resumen": "Editorial de portada del European Heart Journal que presenta un número temático de insuficiencia cardíaca: repasa la segunda definición universal de la insuficiencia cardíaca, los niveles óptimos de potasio sérico, la fenotipificación de la hipertensión pulmonar, la amiloidosis cardíaca por transtiretina (ATTR, transthyretin amyloidosis) hereditaria y los desafíos del corazón artificial total. Vale la pena como mapa rápido de los temas que la revista prioriza este mes en insuficiencia cardíaca, aunque no reporta un estudio propio.",
+   "destacado": false
+  },
   "4a6f912100bd": {
    "resumen": "Artículo del Journal of the American College of Cardiology (JACC) que repasa el rol vigente de la miectomía septal quirúrgica en la miocardiopatía hipertrófica obstructiva sintomática, 65 años después de su primera descripción, e incluye las innovaciones técnicas recientes. Vale la pena porque, pese a la llegada de los inhibidores de la miosina cardíaca, la cirugía sigue siendo la opción definitiva en casos seleccionados y conviene tener actualizado el criterio de derivación.",
    "destacado": true,
@@ -20,78 +47,54 @@
    "destacado": false,
    "analisis": "Diseño: Artículo del Journal of the American College of Cardiology (JACC), posiblemente de tipo revisión o perspectiva con datos epidemiológicos, sobre las implicancias cardiovasculares de la desregulación ambiental en Estados Unidos; sin acceso al abstract no se puede precisar si incorpora un análisis de datos original o es puramente narrativo.\nPoblación: población general expuesta a cambios regulatorios ambientales (calidad del aire, del agua y del clima) en Estados Unidos.\nIntervención: no aplica una intervención clínica; analiza el impacto de decisiones de política pública (desregulación ambiental) sobre el riesgo cardiovascular poblacional.\nResultados: no disponibles con precisión por falta de acceso al abstract.\nLimitaciones: sin la fuente primaria no se puede evaluar la solidez metodológica de las estimaciones de riesgo ni el horizonte temporal considerado.\nMensaje: alerta sobre la exposición ambiental como factor de riesgo cardiovascular modificable a nivel poblacional, y sobre el costo sanitario potencial de retroceder en regulaciones de protección ambiental.\nNota: análisis sin acceso al abstract."
   },
-  "9b4d55ab2d40": {
-   "resumen": "Resumen mensual de TCTMD con lo más relevante para el equipo de cardiología durante agosto de 2026: un repaso curado de las noticias, estudios y tendencias que marcaron el mes en cardiología intervencionista y clínica. Vale la pena como forma rápida de no perderse ningún hito importante del período sin rastrear cada nota por separado.",
+  "8da5bb78e4d1": {
+   "resumen": "Publicación en el foro r/datascience de Reddit que anuncia un taller sobre cómo construir sistemas de generación aumentada por recuperación (RAG, retrieval-augmented generation) en producción usando modelos abiertos. Le sirve a quien aprende análisis de datos porque el RAG es una de las técnicas más usadas hoy para conectar un modelo de lenguaje con información propia, y ver cómo llevarla a producción con modelos abiertos evita depender de proveedores cerrados.",
    "destacado": false
   },
-  "df44be67c672": {
-   "resumen": "Nota de TCTMD que anticipa los temas centrales del próximo congreso de la Sociedad Europea de Cardiología (ESC, European Society of Cardiology) 2026. Vale la pena como mapa rápido de qué áreas van a concentrar la atención de la comunidad cardiológica este año, aunque no reporta resultados de un estudio en particular.",
+  "d6b60cf6031d": {
+   "resumen": "Noticia repercutida en Hacker News (foro de tecnología) sobre la muerte de la cantante country estadounidense Dolly Parton. No es un tema de ciencia de datos ni de inteligencia artificial, pero aparece en esta sección por haber sido una de las publicaciones más comentadas del día en esa comunidad.",
    "destacado": false
   },
-  "ca23ab0e35b2": {
-   "resumen": "Masterclass de TCTMD centrada en los procedimientos de válvula-en-válvula por vía percutánea (TAVR, transcatheter aortic valve replacement) en pacientes con alto riesgo de oclusión coronaria, una de las complicaciones más temidas del reemplazo valvular aórtico transcatéter. Vale la pena porque revisa, con enfoque práctico, cómo anticipar y manejar ese riesgo en casos anatómicamente complejos.",
+  "aa292b2fc91b": {
+   "resumen": "Anuncio en un grupo de desarrollo de Mozilla de que Firefox 157 habilitará por defecto el soporte del formato de imagen JPEG XL en todas las plataformas. No es ciencia de datos en sentido estricto, pero le interesa a quien maneja grandes volúmenes de imágenes porque JPEG XL promete mejor compresión con menor pérdida de calidad que los formatos actuales.",
    "destacado": false
   },
-  "10202f8fddd3": {
-   "resumen": "Columna de opinión de TCTMD (sección 'Beyond the Data') sobre el riesgo residual que persiste luego de una intervención coronaria percutánea (PCI, percutaneous coronary intervention), es decir, los eventos cardiovasculares que igual ocurren pese a haber resuelto la obstrucción con un stent o balón. Vale la pena porque discute, desde la mirada de un experto, qué otros factores además de la lesión tratada siguen determinando el pronóstico del paciente.",
+  "cbb0eea64d0f": {
+   "resumen": "Anuncio de Towards Data Science sobre el rediseño de su sitio web, ahora más rápido, y el lanzamiento de un nuevo portal para colaboradores. Es una noticia institucional del propio medio, sin contenido técnico nuevo, pero importa para quien sigue esa fuente porque cambia cómo se accede a sus artículos.",
    "destacado": false
   },
-  "cecaf044c0de": {
-   "resumen": "Editorial de portada del European Heart Journal que presenta un número temático de insuficiencia cardíaca: repasa la segunda definición universal de la insuficiencia cardíaca, los niveles óptimos de potasio sérico, la fenotipificación de la hipertensión pulmonar, la amiloidosis cardíaca por transtiretina (ATTR, transthyretin amyloidosis) hereditaria y los desafíos del corazón artificial total. Vale la pena como mapa rápido de los temas que la revista prioriza este mes en insuficiencia cardíaca, aunque no reporta un estudio propio.",
+  "9968150d9212": {
+   "resumen": "El proyecto Nitter, una interfaz alternativa y de código abierto para ver Twitter/X sin necesidad de cuenta, recibió una carta de cese y desistimiento que amenaza su continuidad. No es ciencia de datos en sentido estricto, pero afecta una herramienta que suele usarse para consultar o extraer datos públicos de esa red social.",
    "destacado": false
   },
-  "d0e6ecb584ca": {
-   "resumen": "Enlace de navegación de TCTMD que remite al listado completo de congresos y conferencias cubiertos por el sitio, sin una nota periodística propia. Vale la pena solo como acceso rápido a la agenda de eventos de cardiología intervencionista, no aporta contenido clínico nuevo por sí mismo.",
+  "ec5e1953f81d": {
+   "resumen": "Paper publicado en arXiv que propone que la singularidad de un agujero negro sería una superficie y no un punto, un replanteo teórico dentro de la física gravitacional. No es ciencia de datos, pero es un buen ejemplo de cómo revisar los supuestos de base de un modelo matemático puede cambiar radicalmente sus conclusiones, algo también aplicable al modelado estadístico.",
    "destacado": false
   },
-  "f905a1beebe0": {
-   "resumen": "Thomson Reuters presentó su propio modelo de lenguaje de frontera (frontier model), un tipo de inteligencia artificial de última generación entrenado con sus bases de datos jurídicas y financieras propias. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo una organización con datos especializados puede construir un modelo propio en lugar de depender de los genéricos, algo pensable también en el ámbito clínico.",
+  "22409b574be2": {
+   "resumen": "Artículo de KDnuggets sobre las preguntas de liderazgo en datos e inteligencia artificial que van a definir la próxima etapa de la inteligencia artificial en las empresas. Le sirve a quien aprende análisis de datos porque anticipa qué discusiones estratégicas, más allá de lo técnico, van a pedir los equipos de conducción a medida que la IA se integra en las organizaciones, incluidas las de salud.",
+   "destacado": false
+  },
+  "826945fb4c3e": {
+   "resumen": "Artículo de KDnuggets sobre las clases de datos (dataclasses) de Python, con usos que van más allá de reducir código repetitivo: campos personalizados, validación, atributos calculados, inmutabilidad y optimización de memoria. Le sirve a un médico que aprende análisis de datos porque las dataclasses son una herramienta simple para organizar y validar datos clínicos de forma prolija en Python.",
+   "destacado": false
+  },
+  "f0b0b354e485": {
+   "resumen": "Artículo de KDnuggets que prueba Kimi Agent, una familia de asistentes de inteligencia artificial agénticos, y explica por qué conviene entender bien qué variante se está evaluando antes de sacar conclusiones. Le sirve a quien empieza en inteligencia artificial para conocer otra alternativa de agente de IA más allá de las más conocidas, y para leer con cautela este tipo de pruebas informales.",
+   "destacado": false
+  },
+  "70df1b9b832d": {
+   "resumen": "Artículo de Towards Data Science que relata, en primera persona, los problemas de redes y configuración que aparecieron al migrar un flujo de datos (pipeline) en contenedores Docker desde una notebook local a Amazon Web Services (AWS). Le sirve mucho a un médico que aprende análisis de datos porque expone, con un caso real, los supuestos ocultos que funcionan 'en mi máquina' pero fallan al pasar a la nube, una lección clave para cualquiera que empiece a desplegar sus propios proyectos.",
    "destacado": true
   },
-  "c75e015ff81a": {
-   "resumen": "Ensayo de Paul Graham, cofundador de la aceleradora Y Combinator, sobre cómo deberían las universidades preparar a los futuros fundadores de empresas (founders). No es un tema de ciencia de datos en sentido estricto, pero puede resultar útil para quien piensa en aplicar el análisis de datos a un emprendimiento propio, ya que discute qué habilidades formativas realmente marcan la diferencia.",
-   "destacado": false
+  "97b9a336999a": {
+   "resumen": "El back que debutó hace poco con Los Pumas encara ahora un giro inesperado en su carrera: una transferencia al rugby inglés."
   },
-  "6a63078b3dd9": {
-   "resumen": "Apple confirmó que las direcciones creadas con la función 'Ocultar mi correo' (Hide My Email) de iCloud+ seguirán funcionando bajo el dominio icloud.com. No es estrictamente un tema de ciencia de datos, pero toca de cerca la privacidad de datos personales, un principio que también aplica al manejo responsable de información clínica.",
-   "destacado": false
+  "ced1f931b030": {
+   "resumen": "Los Pumas 7's recuperan a dos jugadores de experiencia y arrancan la preparación de cara a los Juegos Odesur de septiembre."
   },
-  "f40a211fa8cf": {
-   "resumen": "Explicación interactiva y muy detallada sobre la Luna, publicada originalmente en 2024 y resurgida en Hacker News (foro de tecnología). No es un tema de ciencia de datos, pero es un buen ejemplo de visualización interactiva de información compleja, una habilidad transferible a la comunicación de datos clínicos.",
-   "destacado": false
-  },
-  "2265a783ecfd": {
-   "resumen": "Artículo de Towards Data Science que explica cómo insertar lógica propia dentro del bucle agéntico de Codex (el asistente de programación de OpenAI) mediante 'hooks', puntos de enganche que permiten intervenir el proceso automático. Le sirve a quien programa con asistentes de inteligencia artificial para entender cómo personalizar y controlar mejor estas herramientas en sus propios flujos de análisis de datos.",
-   "destacado": false
-  },
-  "a52500dc3f38": {
-   "resumen": "Publicación en el foro r/datascience de Reddit donde un analista junior cuenta su frustración por no tener colegas ni un analista senior de quien aprender en su trabajo. Le sirve a un médico en transición hacia el análisis de datos porque refleja un obstáculo común al empezar en la disciplina en soledad, y anima a buscar comunidad y mentoría por fuera del trabajo.",
-   "destacado": false
-  },
-  "dcd589e73886": {
-   "resumen": "Artículo de Towards Data Science que plantea diez posiciones sobre los sistemas de generación aumentada por recuperación (RAG, retrieval-augmented generation) a nivel empresarial que los tutoriales convencionales suelen pasar por alto. Le aporta a quien aprende análisis de datos una mirada más realista sobre cómo construir sistemas de inteligencia artificial que buscan información en documentos propios, más allá de los ejemplos simplificados típicos.",
-   "destacado": false
-  },
-  "a6d4702c6822": {
-   "resumen": "Nota de Simon Willison sobre la versión 0.27 del plugin llm-anthropic, que actualiza la compatibilidad con la nueva librería de Python de Anthropic (anthropic v1.0.0). Es una noticia técnica de mantenimiento de herramientas, útil para quien ya usa la línea de comandos 'llm' para experimentar con modelos de lenguaje desde Python.",
-   "destacado": false
-  },
-  "2a98eafa640c": {
-   "resumen": "Artículo de Towards Data Science sobre un motor de inferencia para modelos de lenguaje (LLM, large language model) escrito en CUDA que respeta plazos físicos estrictos —por ejemplo, ciclos de control de robots de 33 milisegundos— descartando de la memoria caché la información menos relevante en lugar de la más antigua. Le sirve a quien se inicia en inteligencia artificial para entender que la gestión de memoria y de los tiempos de respuesta es tan crítica como la precisión del modelo en aplicaciones en tiempo real.",
-   "destacado": false
-  },
-  "1ad0dc4a9230": {
-   "resumen": "Guía práctica de KDnuggets sobre cómo usar modelos de lenguaje pequeños (SLM, small language models) de forma local, en la propia computadora, para proyectos personales. Le sirve especialmente a un médico que aprende análisis de datos porque muestra una vía más económica y privada —sin enviar información a servidores externos— para experimentar con inteligencia artificial, algo relevante al trabajar con datos clínicos.",
-   "destacado": false
-  },
-  "5defd7addd07": {
-   "resumen": "El jugador de Los Pumas Joaquín Moro habló de su objetivo de consolidarse como titular en cada partido de la selección argentina de rugby."
-  },
-  "17ac02b9efee": {
-   "resumen": "Un jugador que debutó con Los Pumas frente a los Springboks sudafricanos sonaría para continuar su carrera en el rugby inglés."
-  },
-  "9ace3355d015": {
-   "resumen": "Los Pumas 7's realizan una concentración con características particulares de cara a los próximos compromisos del seleccionado de seven."
+  "3fe2dd277071": {
+   "resumen": "Los Pumas se preparan para enfrentar a una Australia veloz y peligrosa en los test-matches que se jugarán en Jujuy y Mendoza."
   }
  }
 }

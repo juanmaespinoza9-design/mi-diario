@@ -1,10 +1,20 @@
 {
- "generated_at": "2026-08-26T10:07:08Z",
+ "generated_at": "2026-08-26T22:05:18Z",
  "summaries": {
+  "5fef18c6e81d": {
+   "resumen": "Nota de TCTMD sobre los estudios SAGA y SITE, que evaluaron si los pacientes añosos en prevención primaria pueden discontinuar el tratamiento con estatinas de forma segura. Vale la pena porque la desprescripción en adultos mayores es un tema creciente en la práctica: bajar la carga de medicación sin aumentar el riesgo cardiovascular es una pregunta que se hacen todos los días los equipos de cardiología geriátrica.",
+   "destacado": true,
+   "analisis": "Diseño: Nota periodística de TCTMD que resume los estudios SAGA y SITE sobre la discontinuación de estatinas en prevención primaria en pacientes añosos; sin acceso al abstract no se puede precisar si se trata de ensayos aleatorizados, ni su cantidad de centros o de pacientes.\nPoblación: pacientes de edad avanzada en prevención primaria cardiovascular (sin enfermedad coronaria establecida) bajo tratamiento con estatinas.\nIntervención: suspensión de la estatina comparada contra continuar el tratamiento.\nResultados: no disponibles por falta de acceso al abstract.\nLimitaciones: sin la fuente primaria no se puede evaluar el tamaño muestral, el tiempo de seguimiento ni la magnitud del riesgo cardiovascular asociado a la suspensión.\nMensaje: sugiere que en pacientes añosos seleccionados en prevención primaria, discontinuar la estatina podría ser una opción segura, un dato relevante para la desprescripción en geriatría cardiovascular.\nNota: análisis sin acceso al abstract."
+  },
   "06c0cc304b06": {
    "resumen": "Nota de TCTMD sobre los beneficios de corregir la anemia con hierro intravenoso antes de una cirugía cardíaca. Vale la pena porque la anemia preoperatoria es un factor de riesgo conocido de más transfusiones y peores desenlaces, y esta es una intervención simple y de bajo costo que se puede aplicar en la evaluación prequirúrgica.",
    "destacado": false,
    "analisis": "Diseño: Nota periodística de TCTMD que reporta sobre un estudio (probablemente un ensayo clínico o un análisis observacional) que evalúa la corrección de la anemia con hierro intravenoso antes de la cirugía cardíaca; sin acceso al abstract no se puede precisar el diseño exacto, la aleatorización ni el número de centros o pacientes.\nPoblación: pacientes con anemia programados para cirugía cardíaca.\nIntervención: administración de hierro intravenoso preoperatorio para corregir la anemia, presumiblemente comparado contra no corrección o manejo estándar.\nResultados: no disponibles por falta de acceso al abstract.\nLimitaciones: sin la fuente primaria no se puede evaluar el tamaño muestral, el riesgo de sesgo ni la magnitud real del beneficio.\nMensaje: sugiere que corregir la anemia preoperatoria con hierro intravenoso podría mejorar los desenlaces de la cirugía cardíaca, un abordaje simple a considerar en la evaluación prequirúrgica.\nNota: análisis sin acceso al abstract."
+  },
+  "f4632aca5cf1": {
+   "resumen": "Video breve de la serie \"SHJ Quick Takes\" de TCTMD que analiza si la revascularización coronaria completa importa en pacientes con enfermedad coronaria compleja de alto riesgo (CHIP, complex high-risk indicated PCI) que además se someten a un reemplazo valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation). Vale la pena porque es una decisión frecuente en la práctica: cada vez hay más pacientes añosos con enfermedad coronaria y aórtica combinadas, y no está claro si conviene revascularizar todo antes de la válvula.",
+   "destacado": false,
+   "analisis": "Diseño: Video/nota breve de TCTMD (formato \"Quick Takes\") que discute la evidencia sobre revascularización coronaria completa en pacientes con intervención coronaria percutánea de alto riesgo (CHIP, complex high-risk indicated PCI) que también reciben un reemplazo valvular aórtico transcatéter (TAVI); sin acceso al abstract no se puede precisar si se basa en un registro, un estudio observacional o una serie de casos.\nPoblación: pacientes con enfermedad coronaria compleja de alto riesgo candidatos a TAVI.\nIntervención: revascularización coronaria completa (CHIP) asociada al TAVI, frente a una estrategia de revascularización incompleta o conservadora.\nResultados: no disponibles por falta de acceso al abstract.\nLimitaciones: sin la fuente primaria no se puede evaluar el tamaño muestral, el diseño ni el riesgo de sesgo de selección entre pacientes revascularizados completa o incompletamente.\nMensaje: plantea que la decisión de revascularizar completamente antes o junto con el TAVI en pacientes con enfermedad coronaria compleja sigue siendo discutida y debe individualizarse.\nNota: análisis sin acceso al abstract."
   },
   "a3653f4a356f": {
    "resumen": "Nota de TCTMD sobre un estudio que asocia las caídas de hemoglobina tras iniciar anticoagulantes orales (OAC, oral anticoagulants) con un mayor riesgo de diagnóstico posterior de cáncer. Vale la pena porque plantea usar esa caída de hemoglobina como una señal de alarma para buscar sangrado oculto y descartar una neoplasia.",
@@ -16,9 +26,14 @@
    "destacado": false,
    "analisis": "Diseño: Entrevista de la serie 'Behind the Science' de TCTMD que repasa el trasfondo de una investigación sobre fragilidad y enfermedad de la válvula tricúspide; el formato sugiere que discute un estudio puntual, pero sin acceso al abstract no se puede precisar su diseño.\nPoblación: pacientes con enfermedad de la válvula tricúspide, con foco en su estado de fragilidad.\nIntervención: no surge una intervención definida del título; probablemente evalúa cómo la fragilidad se asocia con los desenlaces o con la selección de pacientes para tratamiento tricuspídeo.\nResultados: no disponibles por falta de acceso al abstract.\nLimitaciones: sin la fuente primaria no se puede evaluar la metodología ni la magnitud de la asociación entre fragilidad y desenlaces.\nMensaje: refuerza la importancia de incorporar la evaluación de fragilidad al considerar el tratamiento de la enfermedad tricuspídea, ya que puede condicionar el pronóstico y la elección terapéutica.\nNota: análisis sin acceso al abstract."
   },
-  "9b4d55ab2d40": {
-   "resumen": "Resumen mensual de TCTMD con lo más relevante para el equipo de cardiología durante agosto de 2026: un repaso curado de las noticias, estudios y tendencias que marcaron el mes en cardiología intervencionista y clínica. Vale la pena como forma rápida de no perderse ningún hito importante del período sin rastrear cada nota por separado.",
-   "destacado": false
+  "7c0f9e079fed": {
+   "resumen": "Perspectiva del Journal of the American College of Cardiology (JACC), a cargo de Bonaca MP y colaboradores, que reflexiona sobre los avances logrados en un área de la cardiología y plantea los próximos pasos a acelerar. Vale la pena como balance de hacia dónde debería apuntar la disciplina en el corto plazo, más allá del dato puntual de un estudio."
+  },
+  "8bb7229cbbfb": {
+   "resumen": "Perspectiva del Journal of the American College of Cardiology (JACC), a cargo de Fuster V y colaboradores, que reinterpreta cómo aplicar hoy los resultados del histórico ensayo FREEDOM sobre revascularización en pacientes diabéticos con enfermedad coronaria de múltiples vasos, a la luz de la evolución de la angioplastia coronaria (PCI, percutaneous coronary intervention) y la cirugía de revascularización. Vale la pena porque la elección entre cirugía y PCI en el paciente diabético multivaso sigue siendo una decisión frecuente en la práctica diaria."
+  },
+  "00c0b213b733": {
+   "resumen": "Editorial del Journal of the American College of Cardiology (JACC), a cargo de Krumholz HM y colaboradores, sobre los números silenciosos que explican el funcionamiento —y las tensiones— del sistema de salud estadounidense. Vale la pena como contexto para entender cómo los incentivos económicos moldean la práctica cardiológica, aun cuando el sistema de referencia sea distinto al argentino."
   },
   "cecaf044c0de": {
    "resumen": "Editorial de portada del European Heart Journal que presenta un número temático de insuficiencia cardíaca: repasa la segunda definición universal de la insuficiencia cardíaca, los niveles óptimos de potasio sérico, la fenotipificación de la hipertensión pulmonar, la amiloidosis cardíaca por transtiretina (ATTR, transthyretin amyloidosis) hereditaria y los desafíos del corazón artificial total. Vale la pena como mapa rápido de los temas que la revista prioriza este mes en insuficiencia cardíaca, aunque no reporta un estudio propio.",
@@ -26,31 +41,20 @@
   },
   "4a6f912100bd": {
    "resumen": "Artículo del Journal of the American College of Cardiology (JACC) que repasa el rol vigente de la miectomía septal quirúrgica en la miocardiopatía hipertrófica obstructiva sintomática, 65 años después de su primera descripción, e incluye las innovaciones técnicas recientes. Vale la pena porque, pese a la llegada de los inhibidores de la miosina cardíaca, la cirugía sigue siendo la opción definitiva en casos seleccionados y conviene tener actualizado el criterio de derivación.",
-   "destacado": true,
+   "destacado": false,
    "analisis": "Diseño: Revisión/perspectiva del Journal of the American College of Cardiology (JACC) que repasa 65 años de experiencia con la miectomía septal quirúrgica en la miocardiopatía hipertrófica obstructiva sintomática; no se trata de un ensayo con diseño experimental propio, y sin acceso al abstract no se puede precisar si incluye series de casos o datos originales.\nPoblación: pacientes con miocardiopatía hipertrófica obstructiva sintomática candidatos a miectomía septal quirúrgica.\nIntervención: miectomía septal quirúrgica, contextualizada frente a alternativas como la ablación septal con alcohol y los inhibidores de la miosina cardíaca.\nResultados: no disponibles por falta de acceso al abstract.\nLimitaciones: al ser una revisión/perspectiva, no aporta datos originales prospectivos; sin la fuente primaria no se puede evaluar la evidencia citada.\nMensaje: refuerza que la miectomía sigue siendo el tratamiento de referencia en centros con experiencia para casos seleccionados, pese a la aparición de nuevas opciones farmacológicas.\nNota: análisis sin acceso al abstract."
   },
-  "41b7a2bf08ad": {
-   "resumen": "Perspectiva del Journal of the American College of Cardiology (JACC) sobre la miocardiopatía hipertrófica: plantea que la enfermedad entra en una nueva era farmacológica gracias a los inhibidores de la miosina cardíaca, pero que además hoy tiene baja mortalidad y una expectativa de vida cercana a la de la población general cuando se trata bien. Vale la pena porque cambia el mensaje que se le da al paciente en el consultorio, de una enfermedad temida a una condición manejable a largo plazo.",
-   "destacado": false,
-   "analisis": "Diseño: Perspectiva editorial del Journal of the American College of Cardiology (JACC) sobre la evolución del abordaje de la miocardiopatía hipertrófica; no es un estudio original con diseño experimental propio.\nPoblación: pacientes con miocardiopatía hipertrófica, obstructiva y no obstructiva.\nIntervención: discute el rol de los inhibidores de la miosina cardíaca frente al abordaje histórico de la enfermedad.\nResultados: no disponibles por falta de acceso al abstract.\nLimitaciones: al tratarse de una perspectiva, no reporta datos propios ni permite verificar cifras de mortalidad citadas sin la fuente original.\nMensaje: sugiere replantear el pronóstico que se comunica al paciente, dado que la enfermedad hoy se asocia a baja mortalidad y buena expectativa de vida bajo tratamiento adecuado, sin restar valor a las nuevas terapias farmacológicas.\nNota: análisis sin acceso al abstract."
+  "60877f95ffe8": {
+   "resumen": "Hilo de la comunidad r/datascience donde varios profesionales comparten cómo lidiar con compañeros de trabajo poco profesionales dentro de un equipo de datos. Le sirve a quien se está formando en análisis de datos porque anticipa fricciones típicas de trabajar en equipos técnicos y ofrece estrategias concretas para manejarlas, más allá de lo puramente técnico."
   },
-  "e274e77b6116": {
-   "resumen": "Editorial del Journal of the American College of Cardiology (JACC), a cargo de Krumholz HM y colaboradores, que argumenta por qué la cardiología ambiental —el impacto de la contaminación del aire y otros factores ambientales sobre el sistema cardiovascular— merece un lugar central en la revista y en la práctica clínica. Vale la pena porque plantea la exposición ambiental como un factor de riesgo cardiovascular modificable a nivel poblacional, más allá de los factores clásicos.",
-   "destacado": false
+  "f7196001896a": {
+   "resumen": "Artículo de KDnuggets que repasa cinco formas distintas en que la inteligencia artificial está transformando el mercado laboral, desde automatizar tareas rutinarias hasta reducir la contratación de puestos de entrada. Le sirve a un médico que aprende análisis de datos porque ayuda a entender qué tipo de tareas son más vulnerables a la automatización y cuáles requieren todavía criterio humano."
   },
-  "b9609661894f": {
-   "resumen": "Artículo del Journal of the American College of Cardiology (JACC), a cargo de Rajagopalan S y colaboradores, que analiza las implicancias para la salud cardiovascular de la desregulación ambiental en Estados Unidos, es decir, el retroceso de normas de protección del aire, el agua y el clima. Vale la pena porque conecta decisiones de política pública con el riesgo cardiovascular poblacional, un ángulo poco habitual pero cada vez más relevante.",
-   "destacado": false,
-   "analisis": "Diseño: Artículo del Journal of the American College of Cardiology (JACC), posiblemente de tipo revisión o perspectiva con datos epidemiológicos, sobre las implicancias cardiovasculares de la desregulación ambiental en Estados Unidos; sin acceso al abstract no se puede precisar si incorpora un análisis de datos original o es puramente narrativo.\nPoblación: población general expuesta a cambios regulatorios ambientales (calidad del aire, del agua y del clima) en Estados Unidos.\nIntervención: no aplica una intervención clínica; analiza el impacto de decisiones de política pública (desregulación ambiental) sobre el riesgo cardiovascular poblacional.\nResultados: no disponibles con precisión por falta de acceso al abstract.\nLimitaciones: sin la fuente primaria no se puede evaluar la solidez metodológica de las estimaciones de riesgo ni el horizonte temporal considerado.\nMensaje: alerta sobre la exposición ambiental como factor de riesgo cardiovascular modificable a nivel poblacional, y sobre el costo sanitario potencial de retroceder en regulaciones de protección ambiental.\nNota: análisis sin acceso al abstract."
+  "ee0798251322": {
+   "resumen": "Artículo de KDnuggets con diez reglas prácticas para obtener mejores resultados al trabajar con agentes de inteligencia artificial que escriben código. Le sirve a quien aprende análisis de datos porque da pautas concretas para delegar con criterio tareas de programación y limpieza de datos a un asistente de IA, sin perder el control del resultado."
   },
-  "22409b574be2": {
-   "resumen": "Artículo de KDnuggets sobre las preguntas de liderazgo en datos e inteligencia artificial que van a definir la próxima etapa de la inteligencia artificial en las empresas. Le sirve a quien aprende análisis de datos porque anticipa qué discusiones estratégicas, más allá de lo técnico, van a pedir los equipos de conducción a medida que la IA se integra en las organizaciones, incluidas las de salud.",
-   "destacado": false
-  },
-  "f4632aca5cf1": {
-   "resumen": "Video breve de la serie \"SHJ Quick Takes\" de TCTMD que analiza si la revascularización coronaria completa importa en pacientes con enfermedad coronaria compleja de alto riesgo (CHIP, complex high-risk indicated PCI) que además se someten a un reemplazo valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation). Vale la pena porque es una decisión frecuente en la práctica: cada vez hay más pacientes añosos con enfermedad coronaria y aórtica combinadas, y no está claro si conviene revascularizar todo antes de la válvula.",
-   "destacado": false,
-   "analisis": "Diseño: Video/nota breve de TCTMD (formato \"Quick Takes\") que discute la evidencia sobre revascularización coronaria completa en pacientes con intervención coronaria percutánea de alto riesgo (CHIP, complex high-risk indicated PCI) que también reciben un reemplazo valvular aórtico transcatéter (TAVI); sin acceso al abstract no se puede precisar si se basa en un registro, un estudio observacional o una serie de casos.\nPoblación: pacientes con enfermedad coronaria compleja de alto riesgo candidatos a TAVI.\nIntervención: revascularización coronaria completa (CHIP) asociada al TAVI, frente a una estrategia de revascularización incompleta o conservadora.\nResultados: no disponibles por falta de acceso al abstract.\nLimitaciones: sin la fuente primaria no se puede evaluar el tamaño muestral, el diseño ni el riesgo de sesgo de selección entre pacientes revascularizados completa o incompletamente.\nMensaje: plantea que la decisión de revascularizar completamente antes o junto con el TAVI en pacientes con enfermedad coronaria compleja sigue siendo discutida y debe individualizarse.\nNota: análisis sin acceso al abstract."
+  "beceec211668": {
+   "resumen": "Artículo de Towards Data Science que explica, en términos honestos y sin marketing, cómo funciona realmente un reranker dentro de un sistema de RAG (generación aumentada por recuperación, retrieval-augmented generation), el mecanismo que usan muchos asistentes de IA para buscar información antes de responder. Le sirve a quien aprende análisis de datos porque desarma una pieza clave de las arquitecturas actuales de inteligencia artificial aplicadas a documentos, cada vez más usadas también en salud."
   },
   "fd22764b2430": {
    "resumen": "Artículo de Towards Data Science con consejos prácticos para trabajar de manera más eficiente con agentes de código como Claude Code al encarar muchas tareas de programación. Le sirve a un médico que aprende análisis de datos porque ofrece pautas concretas para delegar tareas repetitivas de limpieza y análisis de datos a un asistente de IA sin perder control ni calidad.",
@@ -64,38 +68,28 @@
    "resumen": "Artículo de Towards Data Science que explica, con una ecuación y un experimento, por qué el bosque aleatorio (random forest) necesita ese componente de azar al elegir variables en cada árbol, y por qué agregar más árboles sin esa aleatoriedad deja de mejorar el modelo. Le sirve a un médico que aprende análisis de datos porque el random forest es uno de los algoritmos más usados para clasificar o predecir con datos clínicos, y entender por qué funciona ayuda a usarlo con criterio y no como una caja negra.",
    "destacado": true
   },
-  "6255594eb17b": {
-   "resumen": "Artículo de Towards Data Science que cuestiona si la llamada \"IA agéntica\" es en realidad solo automatización disfrazada de diagramas de flujo, y plantea qué debería tener un agente para ser algo más que eso. Le sirve a quien aprende análisis de datos porque ayuda a distinguir el marketing de la funcionalidad real antes de incorporar agentes de IA a un flujo de trabajo.",
-   "destacado": false
-  },
-  "089a88c7a5ae": {
-   "resumen": "Publicación técnica, comentada en Hacker News, sobre la idea de hacer que los archivos ejecutables sean \"consultables\", es decir, que se les puedan hacer preguntas sobre su contenido o comportamiento como si fueran una base de datos. Le sirve a quien aprende análisis de datos porque muestra una forma distinta de pensar cómo indexar y explorar información estructurada, aplicable más allá del software.",
-   "destacado": false
-  },
   "f59c3acff0af": {
    "resumen": "Nota de Simon Willison sobre el comienzo de la migración del videojuego EVE Online, que corre desde 2003 sobre una versión especial de Python (Stackless Python), hacia Python 3. Le sirve a quien aprende análisis de datos porque es un caso real de cuánto puede complicarse mantener un sistema grande atado a una versión vieja de un lenguaje, algo para tener en cuenta al elegir herramientas para proyectos propios.",
    "destacado": false
   },
-  "788dfb2539c6": {
-   "resumen": "Artículo técnico, popular en Hacker News, que muestra cómo una función tan básica como str.lower() en Python puede generar una vulnerabilidad de seguridad en ciertos contextos, por el comportamiento particular de algunos caracteres Unicode al pasarlos a minúscula. Le sirve a quien aprende análisis de datos porque es un recordatorio de que hasta las operaciones más simples de limpieza de texto pueden tener efectos inesperados, algo relevante al procesar datos clínicos con nombres o textos libres.",
+  "22409b574be2": {
+   "resumen": "Artículo de KDnuggets sobre las preguntas de liderazgo en datos e inteligencia artificial que van a definir la próxima etapa de la inteligencia artificial en las empresas. Le sirve a quien aprende análisis de datos porque anticipa qué discusiones estratégicas, más allá de lo técnico, van a pedir los equipos de conducción a medida que la IA se integra en las organizaciones, incluidas las de salud.",
    "destacado": false
   },
-  "285e4c858631": {
-   "resumen": "Artículo técnico, destacado en Hacker News, que analiza fallas prácticas del estándar C2PA, pensado para certificar el origen de fotos tomadas con cámaras y así combatir las imágenes falsas generadas por inteligencia artificial. Le sirve a quien aprende análisis de datos porque toca un problema cada vez más relevante, la trazabilidad y confiabilidad de los datos (en este caso imágenes) usados para entrenar o validar modelos.",
-   "destacado": false
+  "a52500dc3f38": {
+   "resumen": "Hilo de la comunidad r/datascience donde un analista junior cuenta la frustración de no tener colegas ni un analista senior de quien aprender en su primer trabajo. Le sirve a quien está haciendo la transición hacia el análisis de datos porque refleja una situación común al empezar en el rubro y las respuestas aportan ideas para buscar mentoría fuera del propio equipo."
   },
-  "ebd8abd75cd5": {
-   "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) autorizó el primer dispositivo wearable que mide de forma continua y simultánea los niveles de cetonas y de glucosa en sangre. Le sirve a quien aprende análisis de datos porque este tipo de sensores genera series temporales de datos biométricos continuos, un insumo cada vez más común para modelos predictivos en salud metabólica y cardiovascular.",
-   "destacado": false
+  "19f62bb18060": {
+   "resumen": "Los Wallabies llegan a la serie ante Los Pumas con la mira puesta en el próximo Mundial, según repasa ESPN Uruguay."
   },
-  "faf5b301bdf3": {
-   "resumen": "Un repaso de cómo llega el seleccionado australiano de rugby al test-match ante Los Pumas que se juega en Jujuy."
+  "5a52acbf1e73": {
+   "resumen": "DeporTV analiza las posibles formaciones de Los Pumas para el partido del sábado ante Australia en Jujuy."
   },
-  "8c25fc9070cd": {
-   "resumen": "Sigue en marcha la venta de entradas para el partido de Los Pumas ante Australia en Jujuy."
+  "99cc4d1bd148": {
+   "resumen": "ESPN Colombia repasa todo el historial de enfrentamientos entre Los Pumas y Australia antes del partido en Jujuy."
   },
-  "3952b8ccefa8": {
-   "resumen": "El jugador tandilense Ignacio Díaz fue convocado a la concentración de Los Pumas 7's."
+  "205c685dd381": {
+   "resumen": "El debate por la ley de biocombustibles generó tensión en el Senado y la firma del dictamen quedó postergada una semana, según Infobae."
   }
  }
 }

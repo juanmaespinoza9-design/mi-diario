@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T22:05:02Z",
+ "generated_at": "2026-08-26T10:07:08Z",
  "summaries": {
   "06c0cc304b06": {
    "resumen": "Nota de TCTMD sobre los beneficios de corregir la anemia con hierro intravenoso antes de una cirugía cardíaca. Vale la pena porque la anemia preoperatoria es un factor de riesgo conocido de más transfusiones y peores desenlaces, y esta es una intervención simple y de bajo costo que se puede aplicar en la evaluación prequirúrgica.",
@@ -18,10 +18,6 @@
   },
   "9b4d55ab2d40": {
    "resumen": "Resumen mensual de TCTMD con lo más relevante para el equipo de cardiología durante agosto de 2026: un repaso curado de las noticias, estudios y tendencias que marcaron el mes en cardiología intervencionista y clínica. Vale la pena como forma rápida de no perderse ningún hito importante del período sin rastrear cada nota por separado.",
-   "destacado": false
-  },
-  "df44be67c672": {
-   "resumen": "Nota de TCTMD que anticipa los temas centrales del próximo congreso de la Sociedad Europea de Cardiología (ESC, European Society of Cardiology) 2026. Vale la pena como mapa rápido de qué áreas van a concentrar la atención de la comunidad cardiológica este año, aunque no reporta resultados de un estudio en particular.",
    "destacado": false
   },
   "cecaf044c0de": {
@@ -47,54 +43,59 @@
    "destacado": false,
    "analisis": "Diseño: Artículo del Journal of the American College of Cardiology (JACC), posiblemente de tipo revisión o perspectiva con datos epidemiológicos, sobre las implicancias cardiovasculares de la desregulación ambiental en Estados Unidos; sin acceso al abstract no se puede precisar si incorpora un análisis de datos original o es puramente narrativo.\nPoblación: población general expuesta a cambios regulatorios ambientales (calidad del aire, del agua y del clima) en Estados Unidos.\nIntervención: no aplica una intervención clínica; analiza el impacto de decisiones de política pública (desregulación ambiental) sobre el riesgo cardiovascular poblacional.\nResultados: no disponibles con precisión por falta de acceso al abstract.\nLimitaciones: sin la fuente primaria no se puede evaluar la solidez metodológica de las estimaciones de riesgo ni el horizonte temporal considerado.\nMensaje: alerta sobre la exposición ambiental como factor de riesgo cardiovascular modificable a nivel poblacional, y sobre el costo sanitario potencial de retroceder en regulaciones de protección ambiental.\nNota: análisis sin acceso al abstract."
   },
-  "8da5bb78e4d1": {
-   "resumen": "Publicación en el foro r/datascience de Reddit que anuncia un taller sobre cómo construir sistemas de generación aumentada por recuperación (RAG, retrieval-augmented generation) en producción usando modelos abiertos. Le sirve a quien aprende análisis de datos porque el RAG es una de las técnicas más usadas hoy para conectar un modelo de lenguaje con información propia, y ver cómo llevarla a producción con modelos abiertos evita depender de proveedores cerrados.",
-   "destacado": false
-  },
-  "d6b60cf6031d": {
-   "resumen": "Noticia repercutida en Hacker News (foro de tecnología) sobre la muerte de la cantante country estadounidense Dolly Parton. No es un tema de ciencia de datos ni de inteligencia artificial, pero aparece en esta sección por haber sido una de las publicaciones más comentadas del día en esa comunidad.",
-   "destacado": false
-  },
-  "aa292b2fc91b": {
-   "resumen": "Anuncio en un grupo de desarrollo de Mozilla de que Firefox 157 habilitará por defecto el soporte del formato de imagen JPEG XL en todas las plataformas. No es ciencia de datos en sentido estricto, pero le interesa a quien maneja grandes volúmenes de imágenes porque JPEG XL promete mejor compresión con menor pérdida de calidad que los formatos actuales.",
-   "destacado": false
-  },
-  "cbb0eea64d0f": {
-   "resumen": "Anuncio de Towards Data Science sobre el rediseño de su sitio web, ahora más rápido, y el lanzamiento de un nuevo portal para colaboradores. Es una noticia institucional del propio medio, sin contenido técnico nuevo, pero importa para quien sigue esa fuente porque cambia cómo se accede a sus artículos.",
-   "destacado": false
-  },
-  "9968150d9212": {
-   "resumen": "El proyecto Nitter, una interfaz alternativa y de código abierto para ver Twitter/X sin necesidad de cuenta, recibió una carta de cese y desistimiento que amenaza su continuidad. No es ciencia de datos en sentido estricto, pero afecta una herramienta que suele usarse para consultar o extraer datos públicos de esa red social.",
-   "destacado": false
-  },
-  "ec5e1953f81d": {
-   "resumen": "Paper publicado en arXiv que propone que la singularidad de un agujero negro sería una superficie y no un punto, un replanteo teórico dentro de la física gravitacional. No es ciencia de datos, pero es un buen ejemplo de cómo revisar los supuestos de base de un modelo matemático puede cambiar radicalmente sus conclusiones, algo también aplicable al modelado estadístico.",
-   "destacado": false
-  },
   "22409b574be2": {
    "resumen": "Artículo de KDnuggets sobre las preguntas de liderazgo en datos e inteligencia artificial que van a definir la próxima etapa de la inteligencia artificial en las empresas. Le sirve a quien aprende análisis de datos porque anticipa qué discusiones estratégicas, más allá de lo técnico, van a pedir los equipos de conducción a medida que la IA se integra en las organizaciones, incluidas las de salud.",
    "destacado": false
   },
-  "826945fb4c3e": {
-   "resumen": "Artículo de KDnuggets sobre las clases de datos (dataclasses) de Python, con usos que van más allá de reducir código repetitivo: campos personalizados, validación, atributos calculados, inmutabilidad y optimización de memoria. Le sirve a un médico que aprende análisis de datos porque las dataclasses son una herramienta simple para organizar y validar datos clínicos de forma prolija en Python.",
+  "f4632aca5cf1": {
+   "resumen": "Video breve de la serie \"SHJ Quick Takes\" de TCTMD que analiza si la revascularización coronaria completa importa en pacientes con enfermedad coronaria compleja de alto riesgo (CHIP, complex high-risk indicated PCI) que además se someten a un reemplazo valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation). Vale la pena porque es una decisión frecuente en la práctica: cada vez hay más pacientes añosos con enfermedad coronaria y aórtica combinadas, y no está claro si conviene revascularizar todo antes de la válvula.",
+   "destacado": false,
+   "analisis": "Diseño: Video/nota breve de TCTMD (formato \"Quick Takes\") que discute la evidencia sobre revascularización coronaria completa en pacientes con intervención coronaria percutánea de alto riesgo (CHIP, complex high-risk indicated PCI) que también reciben un reemplazo valvular aórtico transcatéter (TAVI); sin acceso al abstract no se puede precisar si se basa en un registro, un estudio observacional o una serie de casos.\nPoblación: pacientes con enfermedad coronaria compleja de alto riesgo candidatos a TAVI.\nIntervención: revascularización coronaria completa (CHIP) asociada al TAVI, frente a una estrategia de revascularización incompleta o conservadora.\nResultados: no disponibles por falta de acceso al abstract.\nLimitaciones: sin la fuente primaria no se puede evaluar el tamaño muestral, el diseño ni el riesgo de sesgo de selección entre pacientes revascularizados completa o incompletamente.\nMensaje: plantea que la decisión de revascularizar completamente antes o junto con el TAVI en pacientes con enfermedad coronaria compleja sigue siendo discutida y debe individualizarse.\nNota: análisis sin acceso al abstract."
+  },
+  "fd22764b2430": {
+   "resumen": "Artículo de Towards Data Science con consejos prácticos para trabajar de manera más eficiente con agentes de código como Claude Code al encarar muchas tareas de programación. Le sirve a un médico que aprende análisis de datos porque ofrece pautas concretas para delegar tareas repetitivas de limpieza y análisis de datos a un asistente de IA sin perder control ni calidad.",
    "destacado": false
   },
-  "f0b0b354e485": {
-   "resumen": "Artículo de KDnuggets que prueba Kimi Agent, una familia de asistentes de inteligencia artificial agénticos, y explica por qué conviene entender bien qué variante se está evaluando antes de sacar conclusiones. Le sirve a quien empieza en inteligencia artificial para conocer otra alternativa de agente de IA más allá de las más conocidas, y para leer con cautela este tipo de pruebas informales.",
+  "e7386291854e": {
+   "resumen": "Cita comentada por Simon Willison de las palabras de Paul Dix, que se asombra de que una inteligencia artificial haya escrito un millón de líneas de código y que, tras meses de refinamiento, ese software termine funcionando de forma confiable en millones de computadoras de desarrolladores. Le sirve a quien aprende análisis de datos porque ilustra, con un caso concreto, hasta dónde puede llegar hoy la programación asistida por IA cuando se la itera con cuidado.",
    "destacado": false
   },
-  "70df1b9b832d": {
-   "resumen": "Artículo de Towards Data Science que relata, en primera persona, los problemas de redes y configuración que aparecieron al migrar un flujo de datos (pipeline) en contenedores Docker desde una notebook local a Amazon Web Services (AWS). Le sirve mucho a un médico que aprende análisis de datos porque expone, con un caso real, los supuestos ocultos que funcionan 'en mi máquina' pero fallan al pasar a la nube, una lección clave para cualquiera que empiece a desplegar sus propios proyectos.",
+  "35ee55afd1a9": {
+   "resumen": "Artículo de Towards Data Science que explica, con una ecuación y un experimento, por qué el bosque aleatorio (random forest) necesita ese componente de azar al elegir variables en cada árbol, y por qué agregar más árboles sin esa aleatoriedad deja de mejorar el modelo. Le sirve a un médico que aprende análisis de datos porque el random forest es uno de los algoritmos más usados para clasificar o predecir con datos clínicos, y entender por qué funciona ayuda a usarlo con criterio y no como una caja negra.",
    "destacado": true
   },
-  "97b9a336999a": {
-   "resumen": "El back que debutó hace poco con Los Pumas encara ahora un giro inesperado en su carrera: una transferencia al rugby inglés."
+  "6255594eb17b": {
+   "resumen": "Artículo de Towards Data Science que cuestiona si la llamada \"IA agéntica\" es en realidad solo automatización disfrazada de diagramas de flujo, y plantea qué debería tener un agente para ser algo más que eso. Le sirve a quien aprende análisis de datos porque ayuda a distinguir el marketing de la funcionalidad real antes de incorporar agentes de IA a un flujo de trabajo.",
+   "destacado": false
   },
-  "ced1f931b030": {
-   "resumen": "Los Pumas 7's recuperan a dos jugadores de experiencia y arrancan la preparación de cara a los Juegos Odesur de septiembre."
+  "089a88c7a5ae": {
+   "resumen": "Publicación técnica, comentada en Hacker News, sobre la idea de hacer que los archivos ejecutables sean \"consultables\", es decir, que se les puedan hacer preguntas sobre su contenido o comportamiento como si fueran una base de datos. Le sirve a quien aprende análisis de datos porque muestra una forma distinta de pensar cómo indexar y explorar información estructurada, aplicable más allá del software.",
+   "destacado": false
   },
-  "3fe2dd277071": {
-   "resumen": "Los Pumas se preparan para enfrentar a una Australia veloz y peligrosa en los test-matches que se jugarán en Jujuy y Mendoza."
+  "f59c3acff0af": {
+   "resumen": "Nota de Simon Willison sobre el comienzo de la migración del videojuego EVE Online, que corre desde 2003 sobre una versión especial de Python (Stackless Python), hacia Python 3. Le sirve a quien aprende análisis de datos porque es un caso real de cuánto puede complicarse mantener un sistema grande atado a una versión vieja de un lenguaje, algo para tener en cuenta al elegir herramientas para proyectos propios.",
+   "destacado": false
+  },
+  "788dfb2539c6": {
+   "resumen": "Artículo técnico, popular en Hacker News, que muestra cómo una función tan básica como str.lower() en Python puede generar una vulnerabilidad de seguridad en ciertos contextos, por el comportamiento particular de algunos caracteres Unicode al pasarlos a minúscula. Le sirve a quien aprende análisis de datos porque es un recordatorio de que hasta las operaciones más simples de limpieza de texto pueden tener efectos inesperados, algo relevante al procesar datos clínicos con nombres o textos libres.",
+   "destacado": false
+  },
+  "285e4c858631": {
+   "resumen": "Artículo técnico, destacado en Hacker News, que analiza fallas prácticas del estándar C2PA, pensado para certificar el origen de fotos tomadas con cámaras y así combatir las imágenes falsas generadas por inteligencia artificial. Le sirve a quien aprende análisis de datos porque toca un problema cada vez más relevante, la trazabilidad y confiabilidad de los datos (en este caso imágenes) usados para entrenar o validar modelos.",
+   "destacado": false
+  },
+  "ebd8abd75cd5": {
+   "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) autorizó el primer dispositivo wearable que mide de forma continua y simultánea los niveles de cetonas y de glucosa en sangre. Le sirve a quien aprende análisis de datos porque este tipo de sensores genera series temporales de datos biométricos continuos, un insumo cada vez más común para modelos predictivos en salud metabólica y cardiovascular.",
+   "destacado": false
+  },
+  "faf5b301bdf3": {
+   "resumen": "Un repaso de cómo llega el seleccionado australiano de rugby al test-match ante Los Pumas que se juega en Jujuy."
+  },
+  "8c25fc9070cd": {
+   "resumen": "Sigue en marcha la venta de entradas para el partido de Los Pumas ante Australia en Jujuy."
+  },
+  "3952b8ccefa8": {
+   "resumen": "El jugador tandilense Ignacio Díaz fue convocado a la concentración de Los Pumas 7's."
   }
  }
 }

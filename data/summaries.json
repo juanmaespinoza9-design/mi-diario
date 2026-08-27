@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-27T10:06:00Z",
+ "generated_at": "2026-08-27T22:10:00Z",
  "summaries": {
   "5fef18c6e81d": {
    "resumen": "Nota de TCTMD sobre los estudios SAGA y SITE, que evaluaron si los pacientes añosos en prevención primaria pueden discontinuar el tratamiento con estatinas de forma segura. Vale la pena porque la desprescripción en adultos mayores es un tema creciente en la práctica: bajar la carga de medicación sin aumentar el riesgo cardiovascular es una pregunta que se hacen todos los días los equipos de cardiología geriátrica.",
@@ -10,11 +10,6 @@
    "resumen": "Nota de TCTMD sobre los beneficios de corregir la anemia con hierro intravenoso antes de una cirugía cardíaca. Vale la pena porque la anemia preoperatoria es un factor de riesgo conocido de más transfusiones y peores desenlaces, y esta es una intervención simple y de bajo costo que se puede aplicar en la evaluación prequirúrgica.",
    "destacado": false,
    "analisis": "Diseño: Nota periodística de TCTMD que reporta sobre un estudio (probablemente un ensayo clínico o un análisis observacional) que evalúa la corrección de la anemia con hierro intravenoso antes de la cirugía cardíaca; sin acceso al abstract no se puede precisar el diseño exacto, la aleatorización ni el número de centros o pacientes.\nPoblación: pacientes con anemia programados para cirugía cardíaca.\nIntervención: administración de hierro intravenoso preoperatorio para corregir la anemia, presumiblemente comparado contra no corrección o manejo estándar.\nResultados: no disponibles por falta de acceso al abstract.\nLimitaciones: sin la fuente primaria no se puede evaluar el tamaño muestral, el riesgo de sesgo ni la magnitud real del beneficio.\nMensaje: sugiere que corregir la anemia preoperatoria con hierro intravenoso podría mejorar los desenlaces de la cirugía cardíaca, un abordaje simple a considerar en la evaluación prequirúrgica.\nNota: análisis sin acceso al abstract."
-  },
-  "f4632aca5cf1": {
-   "resumen": "Video breve de la serie \"SHJ Quick Takes\" de TCTMD que analiza si la revascularización coronaria completa importa en pacientes con enfermedad coronaria compleja de alto riesgo (CHIP, complex high-risk indicated PCI) que además se someten a un reemplazo valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation). Vale la pena porque es una decisión frecuente en la práctica: cada vez hay más pacientes añosos con enfermedad coronaria y aórtica combinadas, y no está claro si conviene revascularizar todo antes de la válvula.",
-   "destacado": false,
-   "analisis": "Diseño: Video/nota breve de TCTMD (formato \"Quick Takes\") que discute la evidencia sobre revascularización coronaria completa en pacientes con intervención coronaria percutánea de alto riesgo (CHIP, complex high-risk indicated PCI) que también reciben un reemplazo valvular aórtico transcatéter (TAVI); sin acceso al abstract no se puede precisar si se basa en un registro, un estudio observacional o una serie de casos.\nPoblación: pacientes con enfermedad coronaria compleja de alto riesgo candidatos a TAVI.\nIntervención: revascularización coronaria completa (CHIP) asociada al TAVI, frente a una estrategia de revascularización incompleta o conservadora.\nResultados: no disponibles por falta de acceso al abstract.\nLimitaciones: sin la fuente primaria no se puede evaluar el tamaño muestral, el diseño ni el riesgo de sesgo de selección entre pacientes revascularizados completa o incompletamente.\nMensaje: plantea que la decisión de revascularizar completamente antes o junto con el TAVI en pacientes con enfermedad coronaria compleja sigue siendo discutida y debe individualizarse.\nNota: análisis sin acceso al abstract."
   },
   "46ffae71ade8": {
    "resumen": "Aviso de seguridad recogido por TCTMD sobre el retiro del sistema de neuroprotección transcarotídea ENROUTE por riesgo de separación de la punta del dispositivo durante el procedimiento. Vale la pena porque quienes realizan revascularización carotídea transcervical (TCAR, transcarotid artery revascularization) necesitan estar al tanto de las alertas de seguridad de los dispositivos que usan en la práctica diaria."
@@ -40,22 +35,6 @@
    "destacado": false,
    "analisis": "Diseño: Revisión/perspectiva del Journal of the American College of Cardiology (JACC) que repasa 65 años de experiencia con la miectomía septal quirúrgica en la miocardiopatía hipertrófica obstructiva sintomática; no se trata de un ensayo con diseño experimental propio, y sin acceso al abstract no se puede precisar si incluye series de casos o datos originales.\nPoblación: pacientes con miocardiopatía hipertrófica obstructiva sintomática candidatos a miectomía septal quirúrgica.\nIntervención: miectomía septal quirúrgica, contextualizada frente a alternativas como la ablación septal con alcohol y los inhibidores de la miosina cardíaca.\nResultados: no disponibles por falta de acceso al abstract.\nLimitaciones: al ser una revisión/perspectiva, no aporta datos originales prospectivos; sin la fuente primaria no se puede evaluar la evidencia citada.\nMensaje: refuerza que la miectomía sigue siendo el tratamiento de referencia en centros con experiencia para casos seleccionados, pese a la aparición de nuevas opciones farmacológicas.\nNota: análisis sin acceso al abstract."
   },
-  "aa5517e135dd": {
-   "resumen": "Repercusión en Hacker News del fallecimiento de la artista japonesa Yayoi Kusama, reportado por The New York Times. No aporta contenido de ciencia de datos, pero refleja qué temas generales captan la atención de la comunidad tecnológica ese día.",
-   "destacado": false
-  },
-  "fa7623ee1ba9": {
-   "resumen": "Repositorio de código abierto (OpenExecutive) creado como respuesta irónica a una empresa que despidió desarrolladores para reemplazarlos por inteligencia artificial: un \"CEO de IA\" también de código abierto. Le sirve a quien aprende análisis de datos porque ilustra, con humor, el debate actual sobre hasta dónde puede automatizarse el trabajo de decisión dentro de una organización.",
-   "destacado": false
-  },
-  "5bf92f9b1d01": {
-   "resumen": "Nvidia acordó adquirir Hugging Face, la plataforma más usada para compartir y descargar modelos y conjuntos de datos de inteligencia artificial de código abierto, por 13.000 millones de dólares. Le sirve a quien aprende análisis de datos porque Hugging Face es una herramienta central para conseguir modelos y datasets, y esta operación puede cambiar las condiciones de acceso a ese ecosistema.",
-   "destacado": true
-  },
-  "29e2bc91323a": {
-   "resumen": "Amazon anunció el cierre de Mechanical Turk, la plataforma de microtrabajo usada durante años para etiquetar datos y anotar conjuntos de datos con trabajo humano, a partir del 30 de septiembre. Le sirve a quien aprende análisis de datos porque marca el fin de una herramienta histórica para el etiquetado de datos, cada vez más reemplazada por anotación asistida por inteligencia artificial.",
-   "destacado": false
-  },
   "8f7e44d8fdff": {
    "resumen": "Simon Willison comenta el lanzamiento de Qwen3.8-Flash-Next, un nuevo modelo de pesos abiertos (open weights) del equipo Qwen, con arquitectura de mezcla de expertos (MoE, mixture of experts): tiene 125.000 millones de parámetros totales pero activa solo 6.000 millones por consulta, lo que lo hace liviano y rápido de correr. Le sirve a quien aprende análisis de datos porque muestra la tendencia hacia modelos grandes pero eficientes, ejecutables con menos recursos de cómputo.",
    "destacado": false
@@ -63,27 +42,47 @@
   "60877f95ffe8": {
    "resumen": "Hilo de la comunidad r/datascience donde varios profesionales comparten cómo lidiar con compañeros de trabajo poco profesionales dentro de un equipo de datos. Le sirve a quien se está formando en análisis de datos porque anticipa fricciones típicas de trabajar en equipos técnicos y ofrece estrategias concretas para manejarlas, más allá de lo puramente técnico."
   },
-  "f7196001896a": {
-   "resumen": "Artículo de KDnuggets que repasa cinco formas distintas en que la inteligencia artificial está transformando el mercado laboral, desde automatizar tareas rutinarias hasta reducir la contratación de puestos de entrada. Le sirve a un médico que aprende análisis de datos porque ayuda a entender qué tipo de tareas son más vulnerables a la automatización y cuáles requieren todavía criterio humano."
-  },
-  "ee0798251322": {
-   "resumen": "Artículo de KDnuggets con diez reglas prácticas para obtener mejores resultados al trabajar con agentes de inteligencia artificial que escriben código. Le sirve a quien aprende análisis de datos porque da pautas concretas para delegar con criterio tareas de programación y limpieza de datos a un asistente de IA, sin perder el control del resultado."
-  },
-  "beceec211668": {
-   "resumen": "Artículo de Towards Data Science que explica, en términos honestos y sin marketing, cómo funciona realmente un reranker dentro de un sistema de RAG (generación aumentada por recuperación, retrieval-augmented generation), el mecanismo que usan muchos asistentes de IA para buscar información antes de responder. Le sirve a quien aprende análisis de datos porque desarma una pieza clave de las arquitecturas actuales de inteligencia artificial aplicadas a documentos, cada vez más usadas también en salud."
-  },
-  "fd22764b2430": {
-   "resumen": "Artículo de Towards Data Science con consejos prácticos para trabajar de manera más eficiente con agentes de código como Claude Code al encarar muchas tareas de programación. Le sirve a un médico que aprende análisis de datos porque ofrece pautas concretas para delegar tareas repetitivas de limpieza y análisis de datos a un asistente de IA sin perder control ni calidad.",
+  "edf15f21d147": {
+   "resumen": "Aviso de seguridad de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) recogido por TCTMD sobre un problema en el sistema de purga del Impella, el dispositivo de asistencia ventricular percutánea de Abiomed usado en shock cardiogénico y procedimientos de alto riesgo. Vale la pena porque quienes indican o manejan el Impella en la práctica diaria necesitan estar al tanto de las alertas de seguridad que pueden afectar el funcionamiento del dispositivo.",
    "destacado": false
   },
-  "ef58060d1389": {
-   "resumen": "Los Pumas jugarán dos test matches amistosos frente a Australia, por fuera de cualquier torneo oficial."
+  "c18652d1ee8b": {
+   "resumen": "Un jugador que no era convocado a Los Pumas desde hace cinco años vuelve a tener su oportunidad en el seleccionado, de cara a la serie ante Australia."
   },
-  "dd60a102a97f": {
-   "resumen": "Los Pumas 7's y el seleccionado juvenil masculino de seven se concentran en Casa Pumas de cara a nuevas citas nacionales."
+  "a0ff766ed800": {
+   "resumen": "Un repaso al último antecedente entre Los Pumas y Australia, que terminó con un contundente triunfo argentino en Sídney."
   },
-  "84f37b9c592d": {
-   "resumen": "El jugador Agustín Fraga contó su entusiasmo por compartir plantel con un referente de Los Pumas, a quien sigue desde chico."
+  "abd24d2dded3": {
+   "resumen": "Artículo de Towards Data Science que explica el origen matemático de la función sigmoide, ligada al número e, y su rol central en las redes neuronales. Le sirve a un médico que aprende análisis de datos porque la sigmoide es la función que convierte un puntaje en una probabilidad, la base de la regresión logística y de las capas de activación usadas en modelos de riesgo clínico.",
+   "destacado": false
+  },
+  "d7a70c872dbd": {
+   "resumen": "Nota de la BBC recogida por Hacker News sobre la muerte de dos trabajadores aeroportuarios en Alemania por malaria, tras la sospecha de que un mosquito infectado llegó en un avión (la llamada \"malaria de aeropuerto\"). No aporta contenido de ciencia de datos, pero refleja qué temas generales captan la atención de la comunidad tecnológica ese día.",
+   "destacado": false
+  },
+  "0dcbe6606195": {
+   "resumen": "Cloudflare explica en su blog, recogido por Hacker News, cómo optimizó la caché de DNS de su resolver público 1.1.1.1 y logró ahorrar 100 terabytes de memoria. Le sirve a quien aprende análisis de datos porque es un caso concreto de optimización de estructuras de datos y uso eficiente de memoria a gran escala, un problema de ingeniería de datos relevante más allá del dominio específico de DNS.",
+   "destacado": false
+  },
+  "1c3395b6a7e6": {
+   "resumen": "Google presentó Gemini Omni 1.1 Flash, una nueva versión liviana y rápida de su modelo de inteligencia artificial multimodal para desarrolladores. Le sirve a quien aprende análisis de datos porque amplía el abanico de modelos disponibles para procesar texto, imagen y audio a bajo costo computacional.",
+   "destacado": false
+  },
+  "fb9c6fd5b42a": {
+   "resumen": "El autor entrenó seis modelos distintos para detección de fraude y descubrió que el de mejor métrica de evaluación no fue el elegido para producción, por la brecha entre las métricas académicas y las decisiones reales de negocio. Le sirve a quien aprende análisis de datos porque muestra, con un caso concreto, que la métrica más alta no siempre define el mejor modelo a implementar en la práctica.",
+   "destacado": true
+  },
+  "f609f1af6c8b": {
+   "resumen": "El autor argumenta que los modelos de lenguaje pequeños ya alcanzaron un nivel de calidad suficiente para reemplazar a los modelos grandes en muchas tareas cotidianas, con menor costo y latencia. Le sirve a quien aprende análisis de datos porque plantea que no siempre hace falta el modelo más grande y caro para resolver un problema, una consideración práctica a la hora de elegir qué herramienta de inteligencia artificial usar.",
+   "destacado": false
+  },
+  "c18a4ea29475": {
+   "resumen": "El artículo analiza cómo la inteligencia artificial agéntica (agentic AI, sistemas de IA que ejecutan tareas de forma autónoma) está reemplazando cada vez más pasos de la cadena de análisis de datos, pero identifica una habilidad humana que todavía no logra reemplazar. Le sirve a quien aprende análisis de datos porque ayuda a distinguir qué tareas conviene delegar a un agente de IA y cuáles siguen requiriendo criterio propio.",
+   "destacado": false
+  },
+  "f6009ac73446": {
+   "resumen": "El artículo de KDnuggets recopila los prompts (instrucciones de texto) que ingenieros de Google consideran indispensables en su trabajo diario con inteligencia artificial. Le sirve a quien aprende análisis de datos porque ofrece ejemplos concretos de cómo formular pedidos efectivos a un asistente de IA para tareas de programación y análisis.",
+   "destacado": false
   }
  }
 }

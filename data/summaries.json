@@ -1,22 +1,6 @@
 {
- "generated_at": "2026-08-27T22:10:00Z",
+ "generated_at": "2026-08-28T10:06:49Z",
  "summaries": {
-  "5fef18c6e81d": {
-   "resumen": "Nota de TCTMD sobre los estudios SAGA y SITE, que evaluaron si los pacientes añosos en prevención primaria pueden discontinuar el tratamiento con estatinas de forma segura. Vale la pena porque la desprescripción en adultos mayores es un tema creciente en la práctica: bajar la carga de medicación sin aumentar el riesgo cardiovascular es una pregunta que se hacen todos los días los equipos de cardiología geriátrica.",
-   "destacado": true,
-   "analisis": "Diseño: Nota periodística de TCTMD que resume los estudios SAGA y SITE sobre la discontinuación de estatinas en prevención primaria en pacientes añosos; sin acceso al abstract no se puede precisar si se trata de ensayos aleatorizados, ni su cantidad de centros o de pacientes.\nPoblación: pacientes de edad avanzada en prevención primaria cardiovascular (sin enfermedad coronaria establecida) bajo tratamiento con estatinas.\nIntervención: suspensión de la estatina comparada contra continuar el tratamiento.\nResultados: no disponibles por falta de acceso al abstract.\nLimitaciones: sin la fuente primaria no se puede evaluar el tamaño muestral, el tiempo de seguimiento ni la magnitud del riesgo cardiovascular asociado a la suspensión.\nMensaje: sugiere que en pacientes añosos seleccionados en prevención primaria, discontinuar la estatina podría ser una opción segura, un dato relevante para la desprescripción en geriatría cardiovascular.\nNota: análisis sin acceso al abstract."
-  },
-  "06c0cc304b06": {
-   "resumen": "Nota de TCTMD sobre los beneficios de corregir la anemia con hierro intravenoso antes de una cirugía cardíaca. Vale la pena porque la anemia preoperatoria es un factor de riesgo conocido de más transfusiones y peores desenlaces, y esta es una intervención simple y de bajo costo que se puede aplicar en la evaluación prequirúrgica.",
-   "destacado": false,
-   "analisis": "Diseño: Nota periodística de TCTMD que reporta sobre un estudio (probablemente un ensayo clínico o un análisis observacional) que evalúa la corrección de la anemia con hierro intravenoso antes de la cirugía cardíaca; sin acceso al abstract no se puede precisar el diseño exacto, la aleatorización ni el número de centros o pacientes.\nPoblación: pacientes con anemia programados para cirugía cardíaca.\nIntervención: administración de hierro intravenoso preoperatorio para corregir la anemia, presumiblemente comparado contra no corrección o manejo estándar.\nResultados: no disponibles por falta de acceso al abstract.\nLimitaciones: sin la fuente primaria no se puede evaluar el tamaño muestral, el riesgo de sesgo ni la magnitud real del beneficio.\nMensaje: sugiere que corregir la anemia preoperatoria con hierro intravenoso podría mejorar los desenlaces de la cirugía cardíaca, un abordaje simple a considerar en la evaluación prequirúrgica.\nNota: análisis sin acceso al abstract."
-  },
-  "46ffae71ade8": {
-   "resumen": "Aviso de seguridad recogido por TCTMD sobre el retiro del sistema de neuroprotección transcarotídea ENROUTE por riesgo de separación de la punta del dispositivo durante el procedimiento. Vale la pena porque quienes realizan revascularización carotídea transcervical (TCAR, transcarotid artery revascularization) necesitan estar al tanto de las alertas de seguridad de los dispositivos que usan en la práctica diaria."
-  },
-  "23dd6a59257d": {
-   "resumen": "Resumen mensual de TCTMD con las noticias más relevantes de cardiología de agosto de 2026. Vale la pena como repaso rápido de lo que marcó la agenda del mes en la especialidad, sin necesidad de rastrear cada nota por separado."
-  },
   "00c0b213b733": {
    "resumen": "Editorial del Journal of the American College of Cardiology (JACC), a cargo de Krumholz HM y colaboradores, sobre los números silenciosos que explican el funcionamiento —y las tensiones— del sistema de salud estadounidense. Vale la pena como contexto para entender cómo los incentivos económicos moldean la práctica cardiológica, aun cuando el sistema de referencia sea distinto al argentino."
   },
@@ -30,51 +14,21 @@
    "resumen": "Editorial de portada del European Heart Journal que presenta un número temático de insuficiencia cardíaca: repasa la segunda definición universal de la insuficiencia cardíaca, los niveles óptimos de potasio sérico, la fenotipificación de la hipertensión pulmonar, la amiloidosis cardíaca por transtiretina (ATTR, transthyretin amyloidosis) hereditaria y los desafíos del corazón artificial total. Vale la pena como mapa rápido de los temas que la revista prioriza este mes en insuficiencia cardíaca, aunque no reporta un estudio propio.",
    "destacado": false
   },
-  "4a6f912100bd": {
-   "resumen": "Artículo del Journal of the American College of Cardiology (JACC) que repasa el rol vigente de la miectomía septal quirúrgica en la miocardiopatía hipertrófica obstructiva sintomática, 65 años después de su primera descripción, e incluye las innovaciones técnicas recientes. Vale la pena porque, pese a la llegada de los inhibidores de la miosina cardíaca, la cirugía sigue siendo la opción definitiva en casos seleccionados y conviene tener actualizado el criterio de derivación.",
-   "destacado": false,
-   "analisis": "Diseño: Revisión/perspectiva del Journal of the American College of Cardiology (JACC) que repasa 65 años de experiencia con la miectomía septal quirúrgica en la miocardiopatía hipertrófica obstructiva sintomática; no se trata de un ensayo con diseño experimental propio, y sin acceso al abstract no se puede precisar si incluye series de casos o datos originales.\nPoblación: pacientes con miocardiopatía hipertrófica obstructiva sintomática candidatos a miectomía septal quirúrgica.\nIntervención: miectomía septal quirúrgica, contextualizada frente a alternativas como la ablación septal con alcohol y los inhibidores de la miosina cardíaca.\nResultados: no disponibles por falta de acceso al abstract.\nLimitaciones: al ser una revisión/perspectiva, no aporta datos originales prospectivos; sin la fuente primaria no se puede evaluar la evidencia citada.\nMensaje: refuerza que la miectomía sigue siendo el tratamiento de referencia en centros con experiencia para casos seleccionados, pese a la aparición de nuevas opciones farmacológicas.\nNota: análisis sin acceso al abstract."
-  },
   "8f7e44d8fdff": {
    "resumen": "Simon Willison comenta el lanzamiento de Qwen3.8-Flash-Next, un nuevo modelo de pesos abiertos (open weights) del equipo Qwen, con arquitectura de mezcla de expertos (MoE, mixture of experts): tiene 125.000 millones de parámetros totales pero activa solo 6.000 millones por consulta, lo que lo hace liviano y rápido de correr. Le sirve a quien aprende análisis de datos porque muestra la tendencia hacia modelos grandes pero eficientes, ejecutables con menos recursos de cómputo.",
    "destacado": false
-  },
-  "60877f95ffe8": {
-   "resumen": "Hilo de la comunidad r/datascience donde varios profesionales comparten cómo lidiar con compañeros de trabajo poco profesionales dentro de un equipo de datos. Le sirve a quien se está formando en análisis de datos porque anticipa fricciones típicas de trabajar en equipos técnicos y ofrece estrategias concretas para manejarlas, más allá de lo puramente técnico."
   },
   "edf15f21d147": {
    "resumen": "Aviso de seguridad de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) recogido por TCTMD sobre un problema en el sistema de purga del Impella, el dispositivo de asistencia ventricular percutánea de Abiomed usado en shock cardiogénico y procedimientos de alto riesgo. Vale la pena porque quienes indican o manejan el Impella en la práctica diaria necesitan estar al tanto de las alertas de seguridad que pueden afectar el funcionamiento del dispositivo.",
    "destacado": false
   },
-  "c18652d1ee8b": {
-   "resumen": "Un jugador que no era convocado a Los Pumas desde hace cinco años vuelve a tener su oportunidad en el seleccionado, de cara a la serie ante Australia."
-  },
-  "a0ff766ed800": {
-   "resumen": "Un repaso al último antecedente entre Los Pumas y Australia, que terminó con un contundente triunfo argentino en Sídney."
-  },
   "abd24d2dded3": {
    "resumen": "Artículo de Towards Data Science que explica el origen matemático de la función sigmoide, ligada al número e, y su rol central en las redes neuronales. Le sirve a un médico que aprende análisis de datos porque la sigmoide es la función que convierte un puntaje en una probabilidad, la base de la regresión logística y de las capas de activación usadas en modelos de riesgo clínico.",
-   "destacado": false
-  },
-  "d7a70c872dbd": {
-   "resumen": "Nota de la BBC recogida por Hacker News sobre la muerte de dos trabajadores aeroportuarios en Alemania por malaria, tras la sospecha de que un mosquito infectado llegó en un avión (la llamada \"malaria de aeropuerto\"). No aporta contenido de ciencia de datos, pero refleja qué temas generales captan la atención de la comunidad tecnológica ese día.",
-   "destacado": false
-  },
-  "0dcbe6606195": {
-   "resumen": "Cloudflare explica en su blog, recogido por Hacker News, cómo optimizó la caché de DNS de su resolver público 1.1.1.1 y logró ahorrar 100 terabytes de memoria. Le sirve a quien aprende análisis de datos porque es un caso concreto de optimización de estructuras de datos y uso eficiente de memoria a gran escala, un problema de ingeniería de datos relevante más allá del dominio específico de DNS.",
-   "destacado": false
-  },
-  "1c3395b6a7e6": {
-   "resumen": "Google presentó Gemini Omni 1.1 Flash, una nueva versión liviana y rápida de su modelo de inteligencia artificial multimodal para desarrolladores. Le sirve a quien aprende análisis de datos porque amplía el abanico de modelos disponibles para procesar texto, imagen y audio a bajo costo computacional.",
    "destacado": false
   },
   "fb9c6fd5b42a": {
    "resumen": "El autor entrenó seis modelos distintos para detección de fraude y descubrió que el de mejor métrica de evaluación no fue el elegido para producción, por la brecha entre las métricas académicas y las decisiones reales de negocio. Le sirve a quien aprende análisis de datos porque muestra, con un caso concreto, que la métrica más alta no siempre define el mejor modelo a implementar en la práctica.",
    "destacado": true
-  },
-  "f609f1af6c8b": {
-   "resumen": "El autor argumenta que los modelos de lenguaje pequeños ya alcanzaron un nivel de calidad suficiente para reemplazar a los modelos grandes en muchas tareas cotidianas, con menor costo y latencia. Le sirve a quien aprende análisis de datos porque plantea que no siempre hace falta el modelo más grande y caro para resolver un problema, una consideración práctica a la hora de elegir qué herramienta de inteligencia artificial usar.",
-   "destacado": false
   },
   "c18a4ea29475": {
    "resumen": "El artículo analiza cómo la inteligencia artificial agéntica (agentic AI, sistemas de IA que ejecutan tareas de forma autónoma) está reemplazando cada vez más pasos de la cadena de análisis de datos, pero identifica una habilidad humana que todavía no logra reemplazar. Le sirve a quien aprende análisis de datos porque ayuda a distinguir qué tareas conviene delegar a un agente de IA y cuáles siguen requiriendo criterio propio.",
@@ -83,6 +37,64 @@
   "f6009ac73446": {
    "resumen": "El artículo de KDnuggets recopila los prompts (instrucciones de texto) que ingenieros de Google consideran indispensables en su trabajo diario con inteligencia artificial. Le sirve a quien aprende análisis de datos porque ofrece ejemplos concretos de cómo formular pedidos efectivos a un asistente de IA para tareas de programación y análisis.",
    "destacado": false
+  },
+  "53dd9bff1879": {
+   "resumen": "Nota de TCTMD (formato \"Quick Takes\" de la Society for Cardiovascular Angiography and Interventions) sobre los resultados a largo plazo de la válvula aórtica transcatéter ACURATE neo, un dispositivo autoexpandible usado en el reemplazo valvular aórtico percutáneo (TAVI, transcatheter aortic valve implantation). Vale la pena porque la durabilidad a largo plazo sigue siendo un dato clave a la hora de elegir plataforma de TAVI, sobre todo en pacientes de menor riesgo y expectativa de vida más larga.",
+   "destacado": false,
+   "analisis": "Diseño: Nota/video breve de TCTMD (formato SHJ Quick Takes) que comenta datos de seguimiento a largo plazo de la plataforma ACURATE neo; sin acceso a la fuente original no se puede precisar si se trata de un registro, una cohorte o un subestudio de un ensayo, ni el número de centros o pacientes.\nPoblación: pacientes sometidos a reemplazo valvular aórtico percutáneo (TAVI) con la válvula autoexpandible ACURATE neo.\nIntervención: implante de la válvula ACURATE neo, con seguimiento a largo plazo.\nResultados: no disponibles por falta de acceso a la fuente original.\nLimitaciones: sin la fuente primaria no se puede evaluar el tamaño muestral, el tiempo real de seguimiento ni el riesgo de sesgo.\nMensaje: aporta más evidencia de durabilidad a largo plazo de una plataforma de TAVI ampliamente usada, un dato relevante para la selección de dispositivo en pacientes de menor riesgo quirúrgico.\nNota: análisis sin acceso al abstract."
+  },
+  "c87f178961be": {
+   "resumen": "Nota de TCTMD (serie \"Behind the Science\") sobre el vínculo entre la fragilidad y la enfermedad de la válvula tricúspide. Vale la pena porque la fragilidad es un factor cada vez más tenido en cuenta al decidir quién se beneficia de una intervención tricuspídea transcatéter, un campo en plena expansión.",
+   "destacado": false,
+   "analisis": "Diseño: Nota de divulgación científica de TCTMD (serie \"Behind the Science\") sobre la relación entre fragilidad y enfermedad de la válvula tricúspide; sin acceso a la fuente no se puede precisar si resume un estudio puntual o es una revisión general del tema, ni su diseño o número de pacientes.\nPoblación: pacientes con enfermedad valvular tricuspídea, con foco en el subgrupo de pacientes frágiles o añosos.\nIntervención: no especificada con precisión; probablemente evalúa el rol de la fragilidad en la selección para reparo o reemplazo tricuspídeo transcatéter.\nResultados: no disponibles por falta de acceso a la fuente original.\nLimitaciones: sin la fuente primaria no se puede evaluar la evidencia citada ni su nivel de calidad.\nMensaje: refuerza que la evaluación de la fragilidad debería integrarse a la toma de decisiones en la enfermedad tricuspídea, aunque sin datos cuantitativos verificables desde el título.\nNota: análisis sin acceso al abstract."
+  },
+  "a7835a8699b1": {
+   "resumen": "Nota de TCTMD (formato SHJ Quick Takes) sobre si la revascularización coronaria completa importa en pacientes con enfermedad coronaria compleja de alto riesgo (CHIP, complex high-risk indicated PCI) que además reciben un reemplazo valvular aórtico percutáneo (TAVI). Vale la pena porque la combinación de enfermedad coronaria compleja y estenosis aórtica severa es cada vez más frecuente y la estrategia de revascularización en ese contexto todavía no está saldada.",
+   "destacado": true,
+   "analisis": "Diseño: Nota/video de TCTMD (SHJ Quick Takes) que comenta datos sobre revascularización coronaria completa en pacientes con angioplastia compleja de alto riesgo (CHIP) combinada con TAVI; sin acceso a la fuente original no se puede precisar si proviene de un registro, una cohorte o un análisis secundario, ni su tamaño muestral.\nPoblación: pacientes con enfermedad coronaria compleja de alto riesgo candidatos a angioplastia (CHIP) que también requieren reemplazo valvular aórtico percutáneo por estenosis aórtica severa.\nIntervención: revascularización coronaria completa versus incompleta en el contexto periprocedimiento de TAVI.\nResultados: no disponibles por falta de acceso a la fuente original.\nLimitaciones: sin la fuente primaria no se puede evaluar el tamaño muestral, el ajuste por confundidores ni la magnitud del beneficio.\nMensaje: aporta evidencia a un debate abierto sobre si vale la pena completar la revascularización coronaria en pacientes que van a TAVI, con impacto directo en la planificación de estos casos complejos.\nNota: análisis sin acceso al abstract."
+  },
+  "e9567fd41f50": {
+   "resumen": "Nota de TCTMD (serie \"Behind the Science Flashback\") sobre los resultados a mediano plazo de la válvula aórtica transcatéter Navitor. Vale la pena como actualización de durabilidad de una plataforma de TAVI de generación más reciente, un dato que pesa en la elección de dispositivo.",
+   "destacado": false,
+   "analisis": "Diseño: Nota de TCTMD (serie \"Behind the Science Flashback\") que repasa datos de seguimiento a mediano plazo de la válvula Navitor; sin acceso a la fuente original no se puede precisar si se trata de un registro, un estudio prospectivo o un subanálisis, ni el número de centros o pacientes.\nPoblación: pacientes sometidos a reemplazo valvular aórtico percutáneo (TAVI) con la válvula autoexpandible Navitor.\nIntervención: implante de la válvula Navitor, con seguimiento a mediano plazo.\nResultados: no disponibles por falta de acceso a la fuente original.\nLimitaciones: sin la fuente primaria no se puede evaluar el tamaño muestral, la tasa de seguimiento perdido ni el riesgo de sesgo.\nMensaje: suma evidencia de durabilidad a mediano plazo de una plataforma de TAVI relativamente nueva, relevante para comparar su desempeño frente a otros dispositivos disponibles.\nNota: análisis sin acceso al abstract."
+  },
+  "64c3c41cd6aa": {
+   "resumen": "Réplica de los autores dentro del formato de Registros de Casos del Massachusetts General Hospital publicado en el New England Journal of Medicine (NEJM), sobre una mujer de 70 años con palpitaciones, fatiga y disnea. Vale la pena como cierre del intercambio académico que sigue a la discusión del caso clínico, útil para el razonamiento diagnóstico en arritmias e insuficiencia cardíaca.",
+   "destacado": false
+  },
+  "04196dd38241": {
+   "resumen": "Caso clínico de la clásica serie de Registros de Casos del Massachusetts General Hospital, publicada en el New England Journal of Medicine (NEJM), sobre una mujer de 70 años con taquicardia, fatiga y disnea. Vale la pena como ejercicio de razonamiento clínico estructurado, el formato educativo por excelencia de la revista para entrenar el diagnóstico diferencial en cardiología.",
+   "destacado": false
+  },
+  "d48e6bd50d59": {
+   "resumen": "Réplica de los autores a una carta sobre tejido biológico de asistencia ventricular en insuficiencia cardíaca, publicada en el New England Journal of Medicine (NEJM). Vale la pena como seguimiento del debate científico en torno a esta terapia experimental de soporte mecánico/biológico para el corazón insuficiente.",
+   "destacado": false
+  },
+  "bc4e85f2709a": {
+   "resumen": "El mantenedor de un proyecto de código abierto se queja de recibir cada vez más contribuciones generadas con inteligencia artificial de baja calidad (\"AI slop\"), enviadas solo para inflar el currículum de quien las manda. Le sirve a quien aprende análisis de datos como advertencia sobre los límites éticos y de calidad al usar asistentes de IA para generar código o análisis: la herramienta ayuda, pero no reemplaza la revisión crítica ni la responsabilidad de quien firma el trabajo.",
+   "destacado": false
+  },
+  "3ceeb5bddfd6": {
+   "resumen": "Un juez de Estados Unidos falló que la lista negra que la administración Trump aplicó contra Anthropic, la empresa detrás de Claude, fue ilegal. Le sirve a quien sigue el panorama de la inteligencia artificial como referencia del marco regulatorio y político en que se desarrollan estos modelos, aunque no aporta contenido técnico de análisis de datos.",
+   "destacado": false
+  },
+  "6f6843c5a98a": {
+   "resumen": "Simon Willison documenta cómo logró hacer fallar el modo automático de Claude Code con el modelo Opus 5, la herramienta de programación asistida por inteligencia artificial de Anthropic. Le sirve a quien aprende análisis de datos porque expone de forma práctica las limitaciones actuales de los agentes de IA autónomos al automatizar tareas de programación, útil para calibrar cuánta supervisión humana siguen necesitando.",
+   "destacado": false
+  },
+  "0fb288ec6876": {
+   "resumen": "Publicación en Hacker News de dos proyectos de código abierto que recrean con motores modernos los clásicos videojuegos Tie Fighter y X-Wing Alliance de Star Wars. No aporta contenido de análisis de datos ni de inteligencia artificial, pero refleja qué proyectos de ingeniería de software captan la atención de la comunidad tecnológica ese día.",
+   "destacado": false
+  },
+  "a1b02a6424f5": {
+   "resumen": "Publicación en Hacker News de un proyecto de código abierto que funciona como alternativa a OpenRouter: un enrutador que usa los datos de uso real para ir mejorando la selección de modelo de inteligencia artificial en cada consulta. Le sirve a quien aprende análisis de datos porque ilustra cómo el propio patrón de uso puede convertirse en una señal para optimizar decisiones automatizadas, un concepto de aprendizaje continuo aplicado a la elección de modelos.",
+   "destacado": false
+  },
+  "ec2e31ac4a78": {
+   "resumen": "Los jugadores de Los Pumas se ilusionan con el desafío ante Australia y destacan la experiencia de jugar de local en Jujuy, una sede poco habitual para el seleccionado."
+  },
+  "27890c234587": {
+   "resumen": "La selección australiana de rugby, los Wallabies, llegó a Jujuy para el partido de este sábado ante Los Pumas, el primero que el seleccionado argentino disputa en esa provincia."
   }
  }
 }

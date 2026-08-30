@@ -1,11 +1,32 @@
 {
- "generated_at": "2026-08-30T14:54:19.969963+00:00",
+ "generated_at": "2026-08-30T19:21:37.748027+00:00",
  "sections": [
   {
    "id": "cardiologia",
    "title": "Cardiología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Beyond the Data: A-CLOSE",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RelNURDVfbTNiYTc2eUxkREs5RU5naGpPOEtleEYxak1pbDRoR3A3SV9IV01ONXFQWHY0LXVmWk1HdExnWlNxc0FnNjd5cUlYMm44UkhRM2Uxd3gtUmVpUGExd1Zhcm8xUTlhS0RvV3dKWjQ?oc=5",
+     "source": "TCTMD",
+     "published": "2026-08-30T16:17:26+00:00",
+     "id": "476043b675ed"
+    },
+    {
+     "title": "TRIC-I-HF Scores Big Clinical Wins for TTVR in High-risk Patients",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbzRVeWhKZmZiZ0Zqa3pwd3JRY0NTOFRVNE9vTU9sVzU1eHNuUjFXeEc2bldteEV1V0xKUUFzY1BIOTBnclA1Z0RzaldBWWhRTDV4YWlHYXdTWUNkV2FPTlgwZ3d3N0VQeDhBQmdXSW9NWmdqOUF5T2tYS1k3RFhHNTFVamtQdVlGU2ZCdVJB?oc=5",
+     "source": "TCTMD",
+     "published": "2026-08-30T15:30:00+00:00",
+     "id": "ef22ef62e584"
+    },
+    {
+     "title": "AIR-STEMI: Angiography-Derived FFR Informs Complete PCI in STEMI",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdktCZXk3M0JtellGb283YjBjQ1Nwd2lFdVpxMlctRzlkU3lhT09md2RfZEJfelp3QnZNWUoxOEplWDlIN08xR2hPaTNPei1SbVBwdzRWRjYxUkF0Sl8zTlhhX1NlVmVPU0paYjlaYlZaNW5Eb0pIc0VBdkhCUmFHM0N6bFdlZjI1ck12Z1BOcmQ?oc=5",
+     "source": "TCTMD",
+     "published": "2026-08-30T15:10:00+00:00",
+     "id": "04a9e3a18740"
+    },
     {
      "title": "Beyond the Data: SWITCH-SWEDEHEART",
      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbGlpb1hFdkdZLWNFa2xtSmIxVS1lQ2dVVEVRd1RTVmFrVkpadUFoMG5jLXhmRG9ES0RHUmlrZmRpUFZJeUprZlJCNFNqSW9WdFEyUGNWSDhKNGxxdnhXRWR3bjQtaU5rVHgtb3VsNHAwYml6ZUl5dzZReVFPSlZGQg?oc=5",
@@ -21,57 +42,36 @@
      "id": "c877c87a6605"
     },
     {
-     "title": "Prasugrel by Default in ACS Patients Post-PCI Lowers Bleeding With No Ischemic Penalty",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXh1YVl1ZkN3WXRZM3M0cm5vOS0tU2YwU0ppWFZQNHAtcWFleGZlX2o5Z2NnbWdXV1hpS2xJQXJkeWFrZGxtQm9PQThHd05Id2w2ZDlsR0R5NXJJSEE1eWFHMmdVUjhpak5hRXhuUDZqNmFYSGVKRmlheHVyM1lLMjZMU002bWVrNkVxRFBjVTNMT0ZzdG9PZkdJTjEwQmJLNEZ1WQ?oc=5",
-     "source": "TCTMD",
-     "published": "2026-08-29T15:14:36+00:00",
-     "id": "d49fb530ff19"
-    },
-    {
-     "title": "STAREE: Statins Cut MACE Risk by 30% in Older Adults With No CVD History",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdTZzaDZLUVN3bTVmdUxvNXJ5TVpsamJ0LWpWZ1FQZW56MEJFVmk3UWx2VXBjZFEyNmJrZlhXbldVQmZSdkFwYV9sblNSTWx1bE9VV3hlMDdTekdGZDRfa2xnOEZuaW44RU1ncWZLZUYwZ0pYTVBHVWs1cVFpZU55VWhkSzRfYk1IT1ZnSzJhOA?oc=5",
-     "source": "TCTMD",
-     "published": "2026-08-29T13:00:00+00:00",
-     "id": "67682af1f686"
-    },
-    {
-     "title": "AMUNDSEN: Early PCSK9 Inhibition Provides Big Drop in LDL After Acute MI",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0FnMnZaTE9NNU5veHh6cDZJZXE0aHRsMVBWOVdtZDAzbHdGNmlNZk41dXBuYmhnZHFPRmVVVkJOa3ZJdEY3TnFqemlpZk1JcVF6SmZ5bmtoMFhhX2lJdzgxU2puT3FIbFhHUHVWMC1SR3ZKNGI0Vi0zdGR6NTQ0Nk04M1hKaVo5Y21CNjJIMzBqLWJVb0NrQ0ZDMA?oc=5",
-     "source": "TCTMD",
-     "published": "2026-08-29T09:49:00+00:00",
-     "id": "7d5ef588e1e8"
-    },
-    {
-     "title": "Risk of Myocarditis and Pericarditis With Bivalent RSV Prefusion F Protein-Based Vaccine: A Safety Analysis of the Extended DAN-RSV Trial",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42667277/",
+     "title": "Targeted Therapy for ATTR-CM Amidst a Rapidly Evolving Landscape: A Moving Goalpost?",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42669073/",
      "source": "JACC",
-     "published": "2026-08-29T00:00:00+00:00",
-     "copete": "Yafasov M et al. · Journal of the American College of Cardiology",
-     "id": "366ccd2ce4f7"
+     "published": "2026-08-30T00:00:00+00:00",
+     "copete": "Rushakoff JA et al. · Journal of the American College of Cardiology",
+     "id": "e5c84a6bffc9"
     },
     {
-     "title": "Cumulative Benefit With Evolocumab in Patients With No Prior Myocardial Infarction or Stroke in the VESALIUS-CV Study",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42663360/",
+     "title": "Combination Therapy in ATTR Cardiomyopathy: Hypothesis-Generating, Not Yet Practice-Changing",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42669072/",
      "source": "JACC",
-     "published": "2026-08-28T00:00:00+00:00",
-     "copete": "Nicolau JC et al. · Journal of the American College of Cardiology",
-     "id": "c41749f93eb0"
+     "published": "2026-08-30T00:00:00+00:00",
+     "copete": "Alexander KM et al. · Journal of the American College of Cardiology",
+     "id": "32e95279be19"
     },
     {
-     "title": "Low-Normal Hemoglobin Concentrations and Clinical Outcomes in Heart Failure",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42663359/",
+     "title": "Short-Term Anticoagulant Therapy and Subclinical Leaflet Thickening in Transcatheter Aortic Valves: The NOTION-4 Trial",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42669071/",
      "source": "JACC",
-     "published": "2026-08-28T00:00:00+00:00",
-     "copete": "Chimura M et al. · Journal of the American College of Cardiology",
-     "id": "5ce10cec64e7"
+     "published": "2026-08-30T00:00:00+00:00",
+     "copete": "Jørgensen TH et al. · Journal of the American College of Cardiology",
+     "id": "99fa4bff4d9a"
     },
     {
-     "title": "Transcatheter Aortic Valve Replacement or Medical Treatment for Paradoxical Low-Flow, Low-Gradient Aortic Valve Stenosis: REBOOT-PARADOX",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42663358/",
+     "title": "Effect of Vutrisiran According to Baseline Tafamidis Use in Transthyretin Amyloidosis With Cardiomyopathy: Insights From HELIOS-B",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42669070/",
      "source": "JACC",
-     "published": "2026-08-28T00:00:00+00:00",
-     "copete": "Mehilli J et al. · Journal of the American College of Cardiology",
-     "id": "2f53e1fe0c06"
+     "published": "2026-08-30T00:00:00+00:00",
+     "copete": "Hamatani Y et al. · Journal of the American College of Cardiology",
+     "id": "08db2cb24d64"
     },
     {
      "title": "Focus on heart failure: Second Universal Definition, optimal potassium levels, phenotyping of pulmonary hypertension, hereditary transthyretin amyloidosis, and the challenge of a total artificial heart",
@@ -89,65 +89,81 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Sampaoli tras otro negativo resultado en Talleres: \"Se está complicando más de lo que esperaba, la responsabilidad es mía\"",
-     "link": "https://www.ole.com.ar/talleres/talleres-sampaoli-central-cordoba-conferencia_0_WBDUl943ZJ.html",
+     "title": "Novedades en el plantel de Los Pumas: un referente es baja para la revancha ante Australia",
+     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOejVSNEJQc2hzRG1yaVgxOWNBOUF3SWtJbkp3c1loM0JDb1FlUDQyX3ZuMUxocDNOU2FtQnBqeVpubGdTYlhVR2NHMWt1UGtTeGFwT0Z4RHlKWVY2SkNTWkZnV3YzWnhrb0lXYkU1X2RPMG1HcnNaT012Z3l6T05SWEEzUXVVbHZOVVZya0kxODg0TXdQTHlCc1NCVXhzbmsyakNEanZCLUluSjRyVFluTVRabmo5MTVrMDl3WDlJQ3M2TlEwVWFWWEVUdHZFUmJoaGplQUliWlJ3ckc4WFlJdXdfVmhjYkZsN3pYaGJDUEV6akE1bDdPUlY5M3I2TV95T01hTw?oc=5",
+     "source": "ESPN Uruguay",
+     "published": "2026-08-30T19:15:54+00:00",
+     "id": "d88972ec33ab"
+    },
+    {
+     "title": "Argentinos va por la punta en la tabla anual ante el necesitado Aldosivi",
+     "link": "https://www.ole.com.ar/futbol-primera/partido-argentinos-juniors-aldosivi-clausura-fecha-7-tabla-anual_0_Grn9ZQF3zJ.html",
      "source": "Olé — Primera",
-     "published": "2026-08-30T14:33:30+00:00",
-     "copete": "Luego del 0-0 ante Central Córdoba, con una fuerte reprobación de los hinchas en el Kempes, el DT habló en conferencia de prensa. ¿Sigue?",
-     "id": "68c21bfa9969"
+     "published": "2026-08-30T19:01:31+00:00",
+     "copete": "El Bicho quiere seguir haciéndose fuerte en La Paternal, mientras el Tiburón busca su primer triunfo en el Clausura y puntos clave para escapar del fondo.",
+     "id": "fc58a877b749"
     },
     {
-     "title": "La curiosa frase de Almirón tras la derrota y los silbidos: \"No sé si será por el clásico...\"",
-     "link": "https://www.ole.com.ar/rosario-central/curiosa-frase-almiron-derrota-silbidos-clasico-rosario-central-newells_0_RqnxXGysJJ.html",
+     "title": "Por qué se repitió el penal de Almada, que luego anotó su primer gol en River",
+     "link": "https://www.ole.com.ar/futbol-primera/almada-gol-river-banfield-penal-repeticion_0_GeYutipEsn.html",
+     "source": "Olé — River",
+     "published": "2026-08-30T19:00:13+00:00",
+     "copete": "El Ruso Rodríguez le había adivinado la intención al 23 de River, que luego tuvo su revancha. ¿Qué pasó?",
+     "id": "ca905e9a64c9"
+    },
+    {
+     "title": "El golazo con el que River abrió la era Ponzio",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-leonardo-ponzio-sebastian-driussi_0_E0EdIiV6By.html",
+     "source": "Olé — River",
+     "published": "2026-08-30T18:42:47+00:00",
+     "copete": "Con una volea de Driussi, el CARP comenzó el interinato del León en Banfield.",
+     "id": "ad8f44020cb4"
+    },
+    {
+     "title": "Con Longoria, Di Carlo, Enzo y compañía,  la delegación de River que fue a Banfield",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-pablo-longoria-stefano-di-carlo_0_FE5sBdgM1j.html",
+     "source": "Olé — River",
+     "published": "2026-08-30T18:26:35+00:00",
+     "copete": "La cúpula dirigencial está acompañando al plantel que ahora encabeza Leonardo Ponzio.",
+     "id": "00a2618a5c36"
+    },
+    {
+     "title": "Los goles de Driussi y Almada y los mejores videos de Banfield - River",
+     "link": "https://www.ole.com.ar/futbol-primera/mejores-videos-banfield-river_0_FvdzWX7sDA.html",
+     "source": "Olé — River",
+     "published": "2026-08-30T18:26:11+00:00",
+     "copete": "Tras la eliminación por Sudamericana, el Millo, con Ponzio como DT, juega ante el Taladro en el Florencio Sola con presencia de ambas hinchadas.",
+     "id": "8c1f6d5b14a9"
+    },
+    {
+     "title": "Presión desde la torta: Ramón Díaz y otra indirecta a River",
+     "link": "https://www.ole.com.ar/river-plate/presion-torta-ramon-diaz-indirecta-river_0_pxxPenuqGj.html",
+     "source": "Olé — River",
+     "published": "2026-08-30T18:21:51+00:00",
+     "copete": "El Pelado está agazapado a la espera de un contacto. La relación con la CD actual no es buena: hace semanas hubo cruces de declaraciones que lo dejaron en evidencia. Pero en su cumple, ¿hubo un guiño?",
+     "id": "c1742863a609"
+    },
+    {
+     "title": "Sampaoli, fuera de Talleres: duró 81 días",
+     "link": "https://www.ole.com.ar/talleres/jorge-sampaoli-renuncia-talleres_0_hCLIKUmtB2.html",
      "source": "Olé — Primera",
-     "published": "2026-08-30T14:27:05+00:00",
-     "copete": "El entrenador de Rosario Central aseguró que la cercanía del duelo con Newell's pudo haber influido en el nivel vs. Gimnasia: \"Todos quieren llegar bien\".",
-     "id": "c6adb604f713"
+     "published": "2026-08-30T18:00:41+00:00",
+     "copete": "Con apenas una victoria en siete presentaciones, el ciclo de Sampa al frente de la T llegó a su fin.",
+     "id": "0fe6ff26b1a8"
     },
     {
-     "title": "Con presencia mendocina, Los Pumas cayeron frente a los Wallabies",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdDJHR3ZKRjZ4UFUzOVJ2Uy12WVJoUTJZR0NxMzFUSVJVaExFYlVUOGFiVHloOUhscWVvYnNjUTJnUXV3Y1N4ak9SWHBkVjNfVXdCeDhhVWhpa1FINnRDU2NFMjBQVG5LWGdfa3dNYXdPMHBrbDRTU0FreDd1MzZWRzBPakpaSVByRWxDWXRTcEwzTXc0SmFhaGVTWXRUY1JKSGtKMWRJVnljNFloeElxNDQxV1JybXJ3Tnd5VDhiMXIzeDRwOU41UHM5S09xSDBIeC1MLS1yRExQd9IB3wFBVV95cUxOUnVEUUtGQktWVE5ObHdmY3VGTml1U3V0TnRYRkNKTWhaSjZNX0JwODJjcERtMEtqcTFwZjdicjBmSGE0OVVNQzV2YVdnZkZFaFZwaGQwRXlNOF9hNGZpWEpIMGNMQjFkeDRNdW5GSW8yelJ6VnVQSzA4R3FKNlJyNUlWMlNXUG81c1p6czVfb1F1cFBpXzdvS2ZjUUpjYTNsdzFTRTljaDMxRjRHbEtXNW9YOHJNcTZvd1RYdmk3M2RtMWZlbUNoc3YtR0FUTW04THlielhhbDFqckdFS0I4?oc=5",
-     "source": "El Editor Mendoza",
-     "published": "2026-08-30T14:15:00+00:00",
-     "id": "7d0410ca3ae8"
+     "title": "Con presencia pilarense, Los Pumas no pudieron ante Australia",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSnhjT3pmSmZpNlJlMHFPODR3d3hTNXNBbHRWbVVEUGFDUnJFV1lpa2hUakFVbklwcTRJT0I1NWtabHVVN2F1UHVQN05PdjZVWi1yY192Nkc2NFZFY3NPYm0xMktqcm5zM28xTkFmT3ZVRnY2U2w2YWIwMXd4QUx5cWFXVEVkNmNSRWgtX1B5c1lNLUtPazBhaXB2X1RyR1l6czZVdmE3UdIBoAFBVV95cUxQY2NFZHk5STgxbURiZE9kbGtDMllhUGZUUlhJMTRzSmRndTBZOFhtU2Y5b3dRczlEbFR5YjlfR2swYVNFVFdvY1JZa2k1c1RMcThMWUpJN3ZTeHkxTFlEM3BmOFY2WkVhNWZGRzBsRGFUenNHNlV5b0F4T0E4Y2Y4VmlyckREaEl0eEM2NGJaNS1fdThtWlY0a0U0MEJXTGdy?oc=5",
+     "source": "diarioresumen.com.ar",
+     "published": "2026-08-30T17:08:50+00:00",
+     "id": "f2568bcb94a3"
     },
     {
-     "title": "Los Pumas coronaron un agosto de grandes eventos y fuerte movimiento turístico en Jujuy",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb1k2d0ZKVk5QTnJLeWVHTmZ5VllMWHoyaHZSS0V4RE5ZWVdrdG5HYWFRWGlWTkxSLUpKY1RrQlJRUEhreVlmWTdreGozTXBQLWh4S1Uxem4wU3hJbE9FcURacnMweVJ0eG0wTFdpZ2doZkNfTkRvT3NONEZQYXhsdVlrZE1PZTF0RXlxcUVzbTNhUkgzdkRKSHBuTkpULUtwMmFNQlRSRFg1bmVOT296OURwVzRQWTVHRGw3NExtbGRxNHdzZkHSAcYBQVVfeXFMUG9ZNndGSlZOUE5yS3llR05meVZZTFh6Mmh2UktFeEROWVlXa3RuR2FhUVhpVk5MUi1KSmNUa0JSUVBIa3lZZlk3a3hqM01wUC1oeEtVMXpuMFN4SWxPRXFEWnJzMHlSdHhtMExXaWdnaGZDX05Eb09zTjRGUGF4bHVZa2RNT2UxdEV5cXFFc20zYVJIM3ZESkhwbk5KVC1LcDJhTUJUUkRYNW5lTk9vejlEcFc0UFk1R0RsNzRMbWxkcTR3c2ZB?oc=5",
-     "source": "prensa.jujuy.gob.ar",
-     "published": "2026-08-30T13:47:00+00:00",
-     "id": "2297712a62a8"
-    },
-    {
-     "title": "Los Pumas volvieron a perder vs. Australia en Jujuy",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR2E1RnEtd2VaeU15cE4teXQ0YjRQUjd0cWZudWN2Z0xmaEhnOFFkaTE0cE1mWmVWSU9LOTZvb1UtOUlQM3lyR3BKZWVQNW42NVpRQUtsYi02XzNybDlQemVPNmFpTzBaQjhsVmlhcXNlSkp4c2MwaEpoSW9xYkFJV2RfdnBIOURQWGxhMGVhZ1ZBUVlIMWRRZTZhOEhjb1p2SlRVNHFGaWtNeHpD?oc=5",
-     "source": "LA17",
-     "published": "2026-08-30T13:00:00+00:00",
-     "id": "f2efb885dc45"
-    },
-    {
-     "title": "A qué hora juegan Banfield vs River y cómo ver hoy EN VIVO el Torneo Clausura",
-     "link": "https://www.ole.com.ar/futbol-primera/banfield-vs-river-vivo-torneo-clausura-hoy-hora-ver-tv-online-formaciones_0_Oz9JItcHmM.html",
-     "source": "Olé — River",
-     "published": "2026-08-30T12:12:04+00:00",
-     "copete": "Comienza un nuevo capítulo para el Millonario, ahora dirigido por Leo Ponzio, que visita al Taladro en busca de su segunda victoria en el campeonato. Seguilo en Olé.",
-     "id": "9f9fc4d68f8f"
-    },
-    {
-     "title": "River, a Banfield con un objetivo en el debut de Ponzio",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-leonardo-ponzio_0_Jg0ln9KchM.html",
-     "source": "Olé — River",
-     "published": "2026-08-30T10:23:16+00:00",
-     "copete": "Ya sin Coudet, el River de Leo va con lo mejor al Sola aunque también con la presión de tener que levantar.",
-     "id": "f71a8db4084f"
-    },
-    {
-     "title": "La primera lista del interinato de Ponzio para visitar a Banfield",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-banfield_0_NboaG5UDz4.html",
-     "source": "Olé — River",
-     "published": "2026-08-30T01:41:26+00:00",
-     "copete": "Los primeros 23 convocados del interinato que encabeza el León.",
-     "id": "a268751267f2"
+     "title": "El villamariense Boris Wenger marcó su primer try con Los Pumas (VIDEO)",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY255ZXFMQnlZekVpcy0wVW5IeWtfTlJ0NnBlTXppeDRsQXd5UFRtZGFmSU10VFhyRHJMeGRkZ3RVSDc0MFlZaEw3Z3hFZzRlemJtZzIxb082WVNOd3NMMjlZX1ZPMmFPTVhJTWhFbFEwOG5vSjc4QVZSTER1X0NVUElkSWNSNjJrUHdHUzdxQmxaNjF3V04tX1Y3ZGl3STNfSjFULVNQd3pkU2o1Y2NORGxJR1lDT05tNEtHejNWejRCZlV1VF90MkF2SzhoZXFPNHc?oc=5",
+     "source": "facebook",
+     "published": "2026-08-30T17:04:01+00:00",
+     "id": "a1b61e8fac87"
     },
     {
      "title": "LOS PUMAS NO PUDIERON ANTE AUSTRALIA EN JUJUY",
@@ -156,22 +172,6 @@
      "published": "2026-08-29T22:32:33+00:00",
      "copete": "Por la Copa VISA Galicia, Los Pumas cayeron ante Australia, 27 a 21, en el Estadio 23 de Agosto, ubicado en Jujuy. El equipo argentino recibía a los Wallabies luego de la derrota 17 a 10 ante Sudáfrica en el Estadio José Amalfitani, el…",
      "id": "c47ccdfccbbb"
-    },
-    {
-     "title": "La última visita de River a Banfield: cómo le fue y cuántos entrenadores pasaron",
-     "link": "https://www.ole.com.ar/river-plate/river-ultima-vez-visito-banfield-2023-demichelis_0_gNWuXn01Q4.html",
-     "source": "Olé — River",
-     "published": "2026-08-29T22:02:46+00:00",
-     "copete": "El Millonario enfrentará al Taladro en el Florencio Sola, un estadio donde no juega desde hace bastante tiempo.",
-     "id": "f28a6dac4a54"
-    },
-    {
-     "title": "La nueva polémica de Galarza Fonda que generó revuelo en Paraguay",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-olimpia-cerro-porteno-polemica-matias-galarza-fonda_0_fsbYXhx3hC.html",
-     "source": "Olé — River",
-     "published": "2026-08-29T19:59:07+00:00",
-     "copete": "El volante uruguayo recibió un permiso especial de parte del CARP para volver a su país y su estadía ya generó revuelo entre Olimpia y Cerro Porteño.",
-     "id": "92207f59789c"
     },
     {
      "title": "ARGENTINA XV GOLEÓ A PARAGUAY EN SU DEBUT EN EL AMÉRICAS RUGBY CHAMPIONSHIP",
@@ -197,6 +197,50 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "8 Tips for Writing Effective Agent Instructions",
+     "link": "https://towardsdatascience.com/8-tips-for-writing-effective-agent-instructions/",
+     "source": "Towards Data Science",
+     "published": "2026-08-30T17:00:02+00:00",
+     "copete": "Quick and simple tips to help you write better agent instructions The post 8 Tips for Writing Effective Agent Instructions appeared first on Towards Data Science .",
+     "id": "f65f889b4d2b"
+    },
+    {
+     "title": "Haiku R1/beta6 has been released",
+     "link": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-30T16:01:10+00:00",
+     "id": "e3b8bb2b25ab"
+    },
+    {
+     "title": "Omarchy: Any User Process Can Escalate to Root",
+     "link": "https://0xcc.io/posts/omarchy-root-creds/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-30T15:59:49+00:00",
+     "id": "53ff405eed5a"
+    },
+    {
+     "title": "European Commission Revives Push for Encryption Backdoors in ProtectEU Strategy",
+     "link": "https://reclaimthenet.org/eu-protecteu-strategy-encryption-backdoor-law-enforcement",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-30T15:12:40+00:00",
+     "id": "2de30eebda32"
+    },
+    {
+     "title": "Context Engineering Is Changing. Here’s What It Means for Data Scientists",
+     "link": "https://towardsdatascience.com/context-engineering-is-changing-heres-what-it-means-for-data-scientists/",
+     "source": "Towards Data Science",
+     "published": "2026-08-30T15:00:02+00:00",
+     "copete": "How to apply the latest context engineering guidelines to your day-to-day data science work The post Context Engineering Is Changing. Here’s What It Means for Data Scientists appeared first on Towards Data Science .",
+     "id": "098f1ea4587e"
+    },
+    {
+     "title": "Europe's summer drought is so extreme that desertification is a growing threat",
+     "link": "https://fortune.com/2026/08/29/europe-summer-drought-desertification-threat-rivers-fish/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-30T14:29:25+00:00",
+     "id": "bb588c772743"
+    },
+    {
      "title": "Noisy Text in RAG: Typos, OCR, and the Gap Classical Spell-Check Leaves",
      "link": "https://towardsdatascience.com/noisy-text-in-rag-typos-ocr-and-the-gap-classical-spell-check-leaves/",
      "source": "Towards Data Science",
@@ -212,34 +256,6 @@
      "id": "057a3165faea"
     },
     {
-     "title": "Brits would quite like their private messages to stay private",
-     "link": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-30T09:26:08+00:00",
-     "id": "73d0e8cb92e9"
-    },
-    {
-     "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-     "link": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-30T08:51:39+00:00",
-     "id": "ee5f9d54dd66"
-    },
-    {
-     "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-     "link": "https://arxiv.org/abs/1804.07389",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-30T08:23:26+00:00",
-     "id": "a651615e7911"
-    },
-    {
-     "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
-     "link": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-30T03:15:36+00:00",
-     "id": "23f76a751065"
-    },
-    {
      "title": "Introducing Hy4 Preview",
      "link": "https://simonwillison.net/2026/Aug/29/hy4/",
      "source": "Simon Willison (IA)",
@@ -253,22 +269,6 @@
      "source": "r/datascience",
      "published": "2026-08-29T20:04:25+00:00",
      "id": "9cf82ecabffc"
-    },
-    {
-     "title": "4 Claude Skills Every Data Scientist Needs in 2026",
-     "link": "https://towardsdatascience.com/4-claude-skills-every-data-scientist-needs-in-2026/",
-     "source": "Towards Data Science",
-     "published": "2026-08-29T17:00:02+00:00",
-     "copete": "Four skills worth adding to your workflow today if you don't want to be left behind The post 4 Claude Skills Every Data Scientist Needs in 2026 appeared first on Towards Data Science .",
-     "id": "21c87caf1970"
-    },
-    {
-     "title": "When to Use Claude Code and When to Use Codex",
-     "link": "https://towardsdatascience.com/when-to-use-claude-code-and-when-to-use-codex/",
-     "source": "Towards Data Science",
-     "published": "2026-08-29T15:00:01+00:00",
-     "copete": "Learn where which coding agent is best The post When to Use Claude Code and When to Use Codex appeared first on Towards Data Science .",
-     "id": "d074409de37f"
     }
    ]
   },
@@ -278,84 +278,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Un hombre fue asesinado durante una pelea en Hurlingham: detuvieron a dos hermanos",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/08/30/un-hombre-fue-asesinado-durante-una-pelea-en-hurlingham-detuvieron-a-dos-hermanos/",
+     "title": "En el debut de Leo Ponzio como entrenador, River Plate se impone sobre Banfield por la fecha 7 del Torneo Clausura",
+     "link": "https://www.infobae.com/deportes/2026/08/30/con-el-debut-de-leo-ponzio-como-entrenador-river-plate-jugara-ante-banfield-por-el-torneo-clausura-hora-tv-y-formaciones/",
      "source": "Infobae",
-     "published": "2026-08-30T14:50:51+00:00",
-     "copete": "La víctima, de 30 años, recibió una puñalada a la altura del corazón. El ataque quedó registrado por una cámara de seguridad",
-     "id": "4abf50aa7c54"
+     "published": "2026-08-30T19:19:23+00:00",
+     "copete": "Tras la eliminación en Copa Sudamericana y la salida de Coudet, el Millonario está obligado a ganar para acomodarse en la tabla. El partido en el Estadio Florencio Sola cuenta con parcialidades de ambos equipos. Driussi y Almada…",
+     "id": "f32a87ab5143"
     },
     {
-     "title": "Clima en Encarnación: cuál será la temperatura máxima y mínima este 30 de agosto",
-     "link": "https://www.infobae.com/noticias/2026/08/30/clima-en-encarnacion-cual-sera-la-temperatura-maxima-y-minima-este-30-de-agosto/",
+     "title": "La lupa sobre el primer gol de Thiago Almada en River Plate: por qué fue correcta la repetición del penal",
+     "link": "https://www.infobae.com/deportes/2026/08/30/la-lupa-sobre-el-primer-gol-de-thiago-almada-en-river-plate-por-que-fue-correcta-la-repeticion-del-penal/",
      "source": "Infobae",
-     "published": "2026-08-30T14:46:06+00:00",
-     "copete": "Durante el invierno en Paraguay la temperatura baja hasta los cero grados, siendo -7 grados el récord histórico, ocurrido en el año 2000",
-     "id": "1cd96a004a95"
+     "published": "2026-08-30T19:16:55+00:00",
+     "copete": "El mediocampista de la selección argentina anotó desde los 12 pasos ante Banfield en su segundo intento",
+     "id": "28968208da69"
     },
     {
-     "title": "Guerra Fría en la empresa: por qué la brecha entre comercial y logística destruye la rentabilidad",
-     "link": "https://www.infobae.com/movant/2026/08/30/guerra-fria-en-la-empresa-por-que-la-brecha-entre-comercial-y-logistica-destruye-la-rentabilidad/",
+     "title": "Brillante asistencia de Correa y definición de Driussi: así fue el primer gol de la era Ponzio en River Plate",
+     "link": "https://www.infobae.com/deportes/2026/08/30/brillante-asistencia-de-correa-y-definicion-de-driussi-asi-fue-el-primer-gol-de-la-era-ponzio-en-river-plate/",
      "source": "Infobae",
-     "published": "2026-08-30T14:45:00+00:00",
-     "copete": "Un análisis de las prácticas que permiten transformar esa disputa interna en procesos coordinados y sólidos, capaces de sostener entregas puntuales y proteger la rentabilidad futura del negocio",
-     "id": "e1f3b4896f99"
+     "published": "2026-08-30T19:13:32+00:00",
+     "copete": "El Millonario se adelantó en el marcador frente a Banfield con una buena jugada asociada. Minutos más tarde, Thiago Almada amplió la diferencia",
+     "id": "55b212cc8aac"
     },
     {
-     "title": "La furia de Wanda Nara al escuchar las anécdotas sexuales de Maxi López en Rusia: “Estabas casada conmigo”",
-     "link": "https://www.infobae.com/teleshow/2026/08/30/la-furia-de-wanda-nara-al-escuchar-las-anecdotas-sexuales-de-maxi-lopez-en-rusia-estabas-casada-conmigo/",
+     "title": "Con Charly García entre los homenajes, el FICPBA vuelve con estrenos y funciones gratuitas",
+     "link": "https://www.infobae.com/cultura/2026/08/30/con-charly-garcia-entre-los-homenajes-el-ficpba-vuelve-con-estrenos-y-funciones-gratuitas/",
      "source": "Infobae",
-     "published": "2026-08-30T14:39:34+00:00",
-     "copete": "Luego de las declaraciones del exfutbolista sobre los eventos privados a los que asistió mientras jugaba en aquel país, la empresaria le contestó a su manera",
-     "id": "98f067d38006"
+     "published": "2026-08-30T19:13:22+00:00",
+     "copete": "Del 2 al 9 de septiembre, el Festival Internacional de Cine de la Provincia de Buenos Aires tendrá su sede principal en La Plata y tendrá más de 100 pantallas en más de 60 municipios de la provincia",
+     "id": "ccecbc7599bc"
     },
     {
-     "title": "Otro resultado histórico para el hockey argentino: Los Leones superaron 2-1 a Países Bajos y ganaron el bronce en el Mundial",
-     "link": "https://www.infobae.com/deportes/2026/08/30/los-leones-buscaran-la-medalla-de-bronce-en-el-mundial-de-hockey-ante-paises-bajos/",
+     "title": "Violento asalto a un ex campeón de TC en su campo de Mar del Plata: lo golpearon, lo secuestraron y quemaron su camioneta",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/08/30/violento-asalto-a-un-ex-campeon-de-tc-en-su-campo-de-mar-del-plata-lo-golpearon-lo-secuestraron-y-quemaron-su-camioneta/",
      "source": "Infobae",
-     "published": "2026-08-30T14:33:09+00:00",
-     "copete": "El equipo de Lucas Rey venció al conjunto neerlandés y terminó en el podio de la Copa del Mundo por segunda vez en la historia",
-     "id": "82a56a47f455"
+     "published": "2026-08-30T19:12:00+00:00",
+     "copete": "Sucedió el viernes a la noche en la casa del Walter Hernández, ubicada en las afueras de Mar del Plata. Lo golpearon, le robaron un millón de pesos y lo obligaron a subir a su vehículo, que luego apareció incendiado",
+     "id": "8a0f8c986bb8"
     },
     {
-     "title": "Una nueva encuesta muestra una baja de Milei y advierte por la reelección",
-     "link": "https://www.clarin.com/politica/nueva-encuesta-muestra-baja-milei-advierte-reeleccion_0_VfjGNhybMG.html",
+     "title": "Sonia Díaz, coach: \"La mayoría de las personas no interrumpen porque sean maleducadas, sino porque su cerebro va más rápido que la conversación\"",
+     "link": "https://www.clarin.com/estados-unidos/sonia-diaz-coach-mayoria-personas-interrumpen-maleducadas-cerebro-va-rapido-conversacion_0_hIbJp5dipV.html",
      "source": "Clarín",
-     "published": "2026-08-30T14:26:15+00:00",
-     "copete": "Es el último estudio de RDT Consultores, una de las firmas que mejor anticipó el fenómeno libertario. Los números de intención para primera vuelta y los balotajes vs. Kicillof y Massa.",
-     "id": "1d0841babd85"
+     "published": "2026-08-30T18:40:56+00:00",
+     "copete": "La mentora especializada en comunicación consciente sostiene que interrumpir no siempre nace de una intención de imponerse. En una entrevista explicó cómo la anticipación puede sabotear incluso conversaciones amigables.",
+     "id": "281d3a0378ec"
     },
     {
-     "title": "Un emprendedor comenzó a fundir plástico desechado para convertirlo en paneles para paredes y techos; tres años después su empresa emergente construía viviendas en apenas 7 días y consiguió contratos para levantar 300 casas",
-     "link": "https://www.clarin.com/estados-unidos/emprendedor-comenzo-fundir-plastico-desechado-convertirlo-paneles-paredes-techos-anos-despues-empresa-emergente-construia-viviendas-apenas-7-dias-consiguio-contratos-levantar-300-casas_0_p5rzcAloqO.html",
+     "title": "Después de casi un año y tras la ayuda recibida, Caputo se reunirá con Bessent en un encuentro del G20 en Estados Unidos",
+     "link": "https://www.clarin.com/economia/despues-ano-ayuda-recibida-caputo-reunira-bessent-encuentro-g20-estados-unidos_0_9uHBbFsG1b.html",
      "source": "Clarín",
-     "published": "2026-08-30T14:10:54+00:00",
-     "copete": "Carlos Daniel González creó EcoDom para transformar botellas, juguetes y otros residuos en paneles para paredes y techos. Su crecimiento se convirtió en un modelo a seguir.",
-     "id": "a475fca7f2ba"
+     "published": "2026-08-30T18:33:20+00:00",
+     "copete": "El ministro de Economía y su equipo participarán de la cumbre de ministros de Finanzas y banqueros centrales del Grupo de los 20. Expectativa por un encuentro con la jefa del FMI.",
+     "id": "4e6e81a69b87"
     },
     {
-     "title": "Independiente vs Gimnasia de Mendoza por el Torneo Clausura 2026, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
-     "link": "https://www.clarin.com/deportes/independiente-vs-gimnasia-mendoza-torneo-clausura-2026-vivo-hora-juegan-formaciones-ver-partido_0_Tv5N2ZM5ub.html",
+     "title": "Entre 1997 y 2002 liberaron 1.541 alces en minas de carbón a cielo abierto; 25 años después la manada cuenta con unos 13.000 ejemplares de distinto origen genético en un terreno recuperado con pastizales",
+     "link": "https://www.clarin.com/estados-unidos/1997-2002-liberaron-1541-alces-minas-carbon-cielo-abierto-25-anos-despues-manada-cuenta-13000-ejemplares-distinto-origen-genetico-terreno-recuperado-pastizales_0_zg5jxqbsFE.html",
      "source": "Clarín",
-     "published": "2026-08-30T14:07:08+00:00",
-     "copete": "El Rojo y el Lobo chocan en Avellaneda por la séptima jornada del torneo. Con el arbitraje de Sebastián Zunino y Adrián Franklin en el VAR. Por ESPN Premium.",
-     "id": "4f123c99b815"
+     "published": "2026-08-30T18:28:56+00:00",
+     "copete": "El programa apuntaba a recuperar la especie que llevaba más de un siglo desaparecida en Kentucky, Estados Unidos, Las áreas modificadas por la minería terminaron ofreciendo extensos pastizales.",
+     "id": "d1464dedb4a7"
     },
     {
-     "title": "En 1924, Hollywood llevó 14 bisontes a la isla Catalina para una película; cuando el equipo de filmación se fue, los animales se quedaron y finalmente se multiplicaron hasta superar los 500",
-     "link": "https://www.clarin.com/estados-unidos/1924-hollywood-llevo-14-bisontes-isla-catalina-pelicula-equipo-filmacion-animales-quedaron-finalmente-multiplicaron-superar-500_0_k1J12wULYf.html",
+     "title": "Mary Shelley, autora de Frankenstein: \"Amo la vida, aunque no sea más que un cúmulo de angustias, y la defenderé\"",
+     "link": "https://www.clarin.com/internacional/mary-shelley-autora-frankenstein-amo-vida-cumulo-angustias-defendere_0_C4iyhIwuQ3.html",
      "source": "Clarín",
-     "published": "2026-08-30T14:02:54+00:00",
-     "copete": "En este lugar turístico todavía puede verse una pequeña manada, heredera de aquellos primeros ejemplares. La necesidad de introducir nuevos ejemplares para mantener la genética.",
-     "id": "7bdb0fa8f6bd"
+     "published": "2026-08-30T18:27:24+00:00",
+     "copete": "La escritora expresa esta frase, a través de uno de los personajes principales, en su libro más famoso. Qué significa y por qué tiene vigencia en la actualidad.",
+     "id": "9d16e6031872"
     },
     {
-     "title": "Barcelona cerró a Gabriel Jesus y Julián Alvarez se queda sin su destino preferido: Arsenal, que soltó al goleador brasileño, la única puerta que sigue abierta",
-     "link": "https://www.clarin.com/deportes/barcelona-cerro-gabriel-jesus-julian-alvarez-queda-destino-preferido-arsenal-solto-goleador-brasileno-unica-puerta-sigue-abierta_0_kKI52c9i08.html",
+     "title": "Désirée Popelka, psicóloga, sobre el amor y la Inteligencia Artificial: “Existe un potencial adictivo de las relaciones basadas en la IA. Se desarrolla una dependencia emocional del estímulo constante”",
+     "link": "https://www.clarin.com/internacional/desiree-popelka-psicologa-amor-inteligencia-artificial-existe-potencial-adictivo-relaciones-basadas-ia-desarrolla-dependencia-emocional-estimulo-constante_0_6Y2fxrSC1a.html",
      "source": "Clarín",
-     "published": "2026-08-30T14:00:58+00:00",
-     "copete": "El club catalán acordó la compra del ex City por 10 millones de euros más bonus después de no poder avanzar por el argentino. El Atlético no quiere vender al cordobés al los culés, pide 150 millones de euros por su pase y el mercado de…",
-     "id": "223c41da74a1"
+     "published": "2026-08-30T18:24:03+00:00",
+     "copete": "Las compañías virtuales ya no son una rareza y empiezan a ocupar un lugar en la vida afectiva de numerosas personas. Sin embargo, la especialista en salud mental advierte sobre el costo de una relación diseñada para evitar el rechazo, el…",
+     "id": "a0a368e53b22"
     }
    ]
   },
@@ -365,20 +365,68 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Iceland votes against restarting EU membership talks",
-     "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+     "title": "Nasa launches new space telescope able to see 100 times more than Hubble",
+     "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-30T14:45:05+00:00",
-     "copete": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
-     "id": "a3d0d3ca0dff"
+     "published": "2026-08-30T18:53:53+00:00",
+     "copete": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+     "id": "61d0db549830"
     },
     {
-     "title": "Canada installs large Lake Ontario sign in latest jab at US",
-     "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+     "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+     "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-30T14:25:43+00:00",
-     "copete": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
-     "id": "4dcd5aa8edee"
+     "published": "2026-08-30T18:31:17+00:00",
+     "copete": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+     "id": "80226a3cb4a8"
+    },
+    {
+     "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+     "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-30T17:49:31+00:00",
+     "copete": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
+     "id": "868f6bb6e2a9"
+    },
+    {
+     "title": "Al menos ocho muertos tras el naufragio de un barco con 267 personas frente al norte de Chipre",
+     "link": "https://elpais.com/internacional/2026-08-30/un-barco-con-unas-270-personas-a-bordo-vuelca-frente-al-norte-de-chipre.html",
+     "source": "El País Internacional",
+     "published": "2026-08-30T17:45:49+00:00",
+     "copete": "Las autoridades turcochipriotas emprenden una operación de búsqueda para rescatar a 17 personas que permanecen desaparecidas",
+     "id": "e8908f6836ca"
+    },
+    {
+     "title": "Google se pliega ante Trump y cambia el nombre del lago Ontario por el de América",
+     "link": "https://elpais.com/internacional/2026-08-30/google-se-pliega-ante-trump-y-cambia-el-nombre-del-lago-ontario-por-el-de-america.html",
+     "source": "El País Internacional",
+     "published": "2026-08-30T17:16:31+00:00",
+     "copete": "La compañía explica que sus usuarios en Estados Unidos verán el nombre impuesto por el republicano, los de Canadá el tradicional y los de fuera de ambos países visualizarán ambos",
+     "id": "7df89e0bf0e2"
+    },
+    {
+     "title": "Zambian opposition leader charged with treason",
+     "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-30T17:06:15+00:00",
+     "copete": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital.",
+     "id": "a864eedddc9c"
+    },
+    {
+     "title": "El no de Islandia debilita a la UE ante Trump y las fuerzas antieuropeas",
+     "link": "https://elpais.com/internacional/2026-08-30/el-no-de-islandia-debilita-a-la-ue-ante-trump-y-las-fuerzas-antieuropeas.html",
+     "source": "El País Internacional",
+     "published": "2026-08-30T16:15:14+00:00",
+     "copete": "Von der Leyen y Costa eluden pronunciarse públicamente, mientras los líderes ultras celebran un resultado que ven como un refuerzo de sus tesis",
+     "id": "bc98c410702c"
+    },
+    {
+     "title": "Por qué algunos restaurantes de EE.UU. están prohibiendo las propinas",
+     "link": "https://www.bbc.com/mundo/articles/cpvey94jk3ro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-30T15:04:43+00:00",
+     "copete": "Los pagos adicionales de los clientes a los meseros son fundamentales en los restaurantes estadounidense, pero algunos locales de comida consideran que son injustos.",
+     "id": "9c65a5d21dd8"
     },
     {
      "title": "Islandia cierra la puerta a la integración en la Unión Europea",
@@ -395,54 +443,6 @@
      "published": "2026-08-30T13:52:37+00:00",
      "copete": "El legendario fotógrafo Brassaï capturó algunas de las imágenes más célebres de la vida parisina de comienzos del siglo XX. Te presentamos una hermosa selección.",
      "id": "98364d2f0390"
-    },
-    {
-     "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-     "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-30T12:44:08+00:00",
-     "copete": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
-     "id": "868f6bb6e2a9"
-    },
-    {
-     "title": "El rescate de una niña de 5 años dos días después de la avalancha en Nepal",
-     "link": "https://www.bbc.com/mundo/articles/c62471p3xdlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-30T12:39:36+00:00",
-     "copete": "Manisha, de 5 años, se encuentra en estado estable, según ha informado a la BBC un responsable del Hospital Universitario de Katmandú.",
-     "id": "27168746bc46"
-    },
-    {
-     "title": "Nepal y Tíbet se enfrentan a una carrera contrarreloj en busca de más de 3.000 desaparecidos",
-     "link": "https://elpais.com/internacional/2026-08-30/nepal-y-tibet-se-enfrentan-a-una-carrera-contrarreloj-en-busca-de-mas-de-3000-desaparecidos.html",
-     "source": "El País Internacional",
-     "published": "2026-08-30T10:52:28+00:00",
-     "copete": "Las víctimas mortales suman ya más de 760 a los dos lados de la frontera. Hay dos españoles aún sin localizar, uno en Nepal y otro en Tíbet",
-     "id": "b418f472eab2"
-    },
-    {
-     "title": "\"No me apetece beber ni una gota más\": cómo las nuevas inyecciones para perder peso afectan al consumo de alcohol",
-     "link": "https://www.bbc.com/mundo/articles/cedjde06x92o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-30T10:46:16+00:00",
-     "copete": "Algunas personas que consumen medicamentos para bajar de peso afirman que sus antojos de alcohol desaparecieron o que sintieron náuseas al beber.",
-     "id": "254297a5d4ca"
-    },
-    {
-     "title": "Islandia rechaza por estrecho margen la posibilidad de adherirse a la UE en un referendo que marca la división en el país",
-     "link": "https://www.bbc.com/mundo/articles/c2dwx19gp8no?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-30T09:59:33+00:00",
-     "copete": "Según los informes preliminares, el 52,5% rechazó la propuesta del gobierno, mientras que el 47,5% la aprobó. La diferencia entre ambos fue de unos 9.500 votos.",
-     "id": "cc96cfb299ec"
-    },
-    {
-     "title": "Zambian opposition leader charged with treason",
-     "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-08-30T09:08:23+00:00",
-     "copete": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital.",
-     "id": "a864eedddc9c"
     }
    ]
   }

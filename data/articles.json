@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T05:47:37.718704+00:00",
+ "generated_at": "2026-08-31T14:07:34.697194+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -74,6 +74,22 @@
      "id": "08db2cb24d64"
     },
     {
+     "title": "Anticoagulation for Atrial Fibrillation with a Single Risk Factor for Stroke",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42663323/",
+     "source": "NEJM Cardiología",
+     "published": "2026-08-28T00:00:00+00:00",
+     "copete": "Kirchhof P et al. · The New England journal of medicine",
+     "id": "963d29e71e85"
+    },
+    {
+     "title": "Anticoagulation for Atrial Fibrillation with Intermediate Stroke Risk",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42663303/",
+     "source": "NEJM Cardiología",
+     "published": "2026-08-28T00:00:00+00:00",
+     "copete": "Kim D et al. · The New England journal of medicine",
+     "id": "13ffdebc7ed9"
+    },
+    {
      "title": "Focus on heart failure: Second Universal Definition, optimal potassium levels, phenotyping of pulmonary hypertension, hereditary transthyretin amyloidosis, and the challenge of a total artificial heart",
      "link": "https://academic.oup.com/eurheartj/article/47/32/4339/8768628?rss=1",
      "source": "European Heart Journal",
@@ -88,6 +104,45 @@
    "title": "Deportes",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Freitas se fue de River: \"Me tocó jugar en una posición que no era la mía\"",
+     "link": "https://www.ole.com.ar/river-plate/river-joaquin-freitas-venta-flamengo-jugue-posicion-coudet_0_Qs2mVOufsl.html",
+     "source": "Olé — River",
+     "published": "2026-08-31T13:08:46+00:00",
+     "copete": "El delantero fue vendido al Flamengo y habló antes de partir a Río de Janeiro. \"Le agradezco al club y a la gente\", dijo.",
+     "id": "a18065cdb060"
+    },
+    {
+     "title": "Berti, puntero de la anual con Independiente Rivadavia: pasó Racing y \"otra final\" con River",
+     "link": "https://www.ole.com.ar/independiente-rivadavia/torneoclausura2026-caracter-desafio-riverplate-triunfo-racing-alfredoberti-tablaanual-personalidad-independienterivadavia-copaargentina_0_4IW6LUR6Zi.html",
+     "source": "Olé — River",
+     "published": "2026-08-31T12:24:10+00:00",
+     "copete": "El DT valoró la victoria de local frente a la Academia, resaltó la personalidad de sus jugadores y ya puso la mira en la próxima prueba que tendrá la Lepra en Núñez.",
+     "id": "975bd593d8e7"
+    },
+    {
+     "title": "River, hoy EN VIVO: venta multimillonaria, Ponzio y últimas noticias de este lunes 31 de agosto",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-ultimas-noticias-vivo-lunes-31-agosto-freitas-ponzio-mercado-pases_0_PHHtwGw56m.html",
+     "source": "Olé — River",
+     "published": "2026-08-31T12:13:02+00:00",
+     "copete": "El nuevo DT se estrenó con triunfo y ya trabaja pensando en continuar con esta senda. En paralelo, Freitas firma en Flamengo.",
+     "id": "231538f3396c"
+    },
+    {
+     "title": "Mercado de pases: los refuerzos y bajas a horas del cierre definitivo",
+     "link": "https://www.ole.com.ar/futbol-primera/mercado-pases-2026-clausura-cierre-definitivo-refuerzos-bajas_0_5hTY80hKwT.html",
+     "source": "Olé — River",
+     "published": "2026-08-31T11:55:18+00:00",
+     "copete": "Ronaldo Martínez llegó a Vélez y Farías a San Lorenzo, mientras se van Freitas y el Changuito Zeballos. Todas las transferencias de esta ventana...",
+     "id": "3ecc53ca28a2"
+    },
+    {
+     "title": "Jujuy vivió una fiesta con Los Pumas: más de 20 mil personas y una pasión que no se apagó",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRzlCbzdwVTlvNXllYVJsWTRNNEdkR21QTk4zMEd5U3ZhdE5RWVZST0paV1lBV0tTdURuZ2d3ejF3b1ZYNzlQREtFYXBNaXVIZzlkV3BOcTdwdmhxOC0tSGRyQ2Q0alZaTW5NdWV6UFRueGlNeklTSWQzdks3RlFfdlllaDhHYXRPckdnOTdHdERaN0tNTnRpMlZLZGxRdVRtUE5TazhXN1FPUE9DZDMwbTNmS3Nfbmo1S0JrMG9wU3ZJZG9TblB5dUZQZlBRUVloQ2xJ?oc=5",
+     "source": "ESPN Ecuador",
+     "published": "2026-08-31T07:38:24+00:00",
+     "id": "e94acc6f050c"
+    },
     {
      "title": "Jujuy, sede de grandes eventos",
      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUVZiUnNFZXp2UnFiSjhhcWk5a0tkUkMzMnFNbEk4MHo3VG5NS21Oc2ZfSnQtZm9KaVpJZXA4a3prclFKamNxVmtuMzdMNXpnNmgwTE9JalNqSG5OdnJZdDRjNFl6aGFYbzFiNU4wT3FrdFdtNFJXbVlNVW5pb2ZDYkFRdy1wci1VM08w0gGQAUFVX3lxTE1zUjI1cmNDNTNfcDBjOXI5cVIwcWVsd2hEV0gxcEkwX28yR0xGd284RVU2U25jb1FBMWFubTdaZUFNUzNSTHROVVFNczV3VGhtakQ0U1dob05CcVVFZm9TbURZZXE3ME1mNE9wMWhRTk5XZ01UOElLNEJBMWZQdi1yQXcxYmNwVWZ1SU5KaVphOQ?oc=5",
@@ -111,75 +166,12 @@
      "id": "a60b3a2fecc0"
     },
     {
-     "title": "Novedades en el plantel de Los Pumas: un referente es baja para la revancha ante Australia",
-     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOemtPNFljR0NQT2pMWVNQdWJqU0sxWENJWk9uQzdFMjBmbkQtdjlsUEZHU2ttMkJ4Q3hodnBmRjhHX2xMcHpVTDZqM1lOYXFxaVZIcHJmeC1WSEEteXV2N0xRMFRia1E3LWQtcE00SmpRb2dnV1V3eGlPQ0pOM2ducHJ4ZVdwQWc1bGlSZWc3bFoyWjlac2ZiUUJSTFRTSDFoOGlTWDVhSUVWd1dsTjZUQnNBMVR3c05OR2RObUNySkQxZy12RkczM1B5cUd4N01XN0ZvME44STFsM2VGWFpOWER6bUxfNkVkSFM3aDZPNVB5bVpjZDROY3ZyczZuLWI5aXZMdw?oc=5",
-     "source": "ESPN Colombia",
-     "published": "2026-08-31T02:37:30+00:00",
-     "id": "eae79dc6ce6b"
-    },
-    {
-     "title": "Maxi Salas vs Racing: saludo cómplice con Maravilla Martínez y la \"influencia\" en el gol de Miljevic",
-     "link": "https://www.ole.com.ar/futbol-primera/maxi-salas-independiente-rivadavia-vs-racing-ex-companeros-maravilla-martinez-torneo-clausura_0_vDplMldJEa.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-31T01:56:50+00:00",
-     "copete": "En Mendoza, el delantero de Independiente Rivadavia vivió una noche especial frente a sus ex compañeros.",
-     "id": "b7949826aeca"
-    },
-    {
-     "title": "Aldosivi, en caída libre: a cuánto está de la peor racha sin victorias en la historia del fútbol argentino",
-     "link": "https://www.ole.com.ar/aldosivi/aldosivi-peor-racha-victorias-historia-futbol-argentino_0_4F5MIdBWv0.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-31T01:40:43+00:00",
-     "copete": "El Tiburón no pudo con Argentinos, llegó a 23 partidos consecutivos sin triunfos y no solo se complica fecha a fecha con el descenso, sino que se acerca a las peores marcas de clubes sin victorias en Primera.",
-     "id": "05dc30835bf7"
-    },
-    {
-     "title": "Video: el penal infantil de Racing que terminó desperdiciando Independiente Rivadavia",
-     "link": "https://www.ole.com.ar/futbol-primera/independienterivadavia-racing-penal-infantil-gonzaloescudero-alexarce-facundocambeses_0_Cf8GSl5WPf.html",
-     "source": "Olé — Primera",
-     "published": "2026-08-31T00:54:12+00:00",
-     "copete": "La Lepra mendocina tuvo la chance de abrir el partido ante la Academia por una insólita falta de Escudero a Bucca, a quien le sacó la camiseta. Mirá.",
-     "id": "2abe37d1c68f"
-    },
-    {
      "title": "La fecha 7 del Clausura: los resultados y posiciones de cada grupo",
      "link": "https://www.ole.com.ar/futbol-primera/torneo-clausura-tablas-posiciones-resultados-fecha7-playoffs_0_7HuyzpEaXC.html",
      "source": "Olé — River",
      "published": "2026-08-31T00:13:00+00:00",
      "copete": "River tuvo su desahogo ante Banfield, Argentinos ganó, Independiente sufrió una goleada ante Gimnasia (M) y Racing perdió en Mendoza. Cómo termina la jornada...",
      "id": "bc2a3863e806"
-    },
-    {
-     "title": "Video: las asistencias de Fabra y Juanfer Quintero en el DIM",
-     "link": "https://www.ole.com.ar/futbol-internacional/frankfabra-juanfernandoquintero-independientemedellin-dim_0_eoYEKDlFEo.html",
-     "source": "Olé — River",
-     "published": "2026-08-31T00:04:42+00:00",
-     "copete": "El ex lateral de Boca y el ex volante de River se lucieron en el triunfo de Independiente Medellín. La de JFQ fue desde 50 metros.",
-     "id": "6d5d18c9aa3f"
-    },
-    {
-     "title": "Fausto Vera, desde \"la primera vez que jugué de 5\" al valor de Otamendi: \"Un capitán que se hizo cargo de todo\"",
-     "link": "https://www.ole.com.ar/river-plate/river-vera-otamendi-ponzio-capitan_0_HJcICGHGny.html",
-     "source": "Olé — River",
-     "published": "2026-08-30T22:38:52+00:00",
-     "copete": "El volante central de River mostró satisfacción por su rendimiento como único cinco y destacó la importancia del líder del equipo y del plantel.",
-     "id": "159ce7e8ab3a"
-    },
-    {
-     "title": "La tabla anual: Independente Rivadavia puntero, Boca y Vélez pelean por la Libertadores y River en zona de Sudamericana",
-     "link": "https://www.ole.com.ar/futbol-primera/pelea-tabla-anual-lideres-boca-sudamericana-river-clasificacion-copas-libertadores_0_NVR1uUFJIp.html",
-     "source": "Olé — River",
-     "published": "2026-08-30T21:54:00+00:00",
-     "copete": "Con la clasificación a las copas, un título y un descenso en juego, los puntos de las 16 fechas de la fase regular del Clausura se suman a los cosechados en el Apertura.",
-     "id": "3d7a901ed7cf"
-    },
-    {
-     "title": "Así está la lucha por no descender en la Liga Profesional",
-     "link": "https://www.ole.com.ar/futbol-primera/lucha-descenso-clausura-apertura-liga-profesional-tabla-anual-promedios_0_CaNRicAYQj.html",
-     "source": "Olé — River",
-     "published": "2026-08-30T21:53:00+00:00",
-     "copete": "Al final de la temporada perderán la categoría dos equipos: uno por la tabla de promedios y el otro por la anual. Mirá cómo viene la mano en cada caso.",
-     "id": "3e95acb436b6"
     },
     {
      "title": "Chubut es el nuevo campeón del M16 Desarrollo Sur",
@@ -196,6 +188,14 @@
      "published": "2026-08-29T22:32:33+00:00",
      "copete": "Por la Copa VISA Galicia, Los Pumas cayeron ante Australia, 27 a 21, en el Estadio 23 de Agosto, ubicado en Jujuy. El equipo argentino recibía a los Wallabies luego de la derrota 17 a 10 ante Sudáfrica en el Estadio José Amalfitani, el…",
      "id": "c47ccdfccbbb"
+    },
+    {
+     "title": "ARGENTINA XV GOLEÓ A PARAGUAY EN SU DEBUT EN EL AMÉRICAS RUGBY CHAMPIONSHIP",
+     "link": "https://uar.com.ar/argentina-xv-goleo-a-paraguay-en-su-debut-en-el-americas-rugby-championship/",
+     "source": "UAR",
+     "published": "2026-08-29T19:34:26+00:00",
+     "copete": "Por la Fecha 1 del Américas Rugby Championship, Argentina XV superó sin inconvenientes a Paraguay y goleó 58-11 en un entretenido encuentro disputado en el Estadio CAP Acero de la ciudad de Talcahuano, Chile. El equipo dirigido por Álvaro…",
+     "id": "ee4ce6e91003"
     }
    ]
   },
@@ -205,78 +205,79 @@
    "mode": "resumen",
    "items": [
     {
-     "title": "Weekly Entering & Transitioning - Thread 31 Aug, 2026 - 07 Sep, 2026",
-     "link": "https://www.reddit.com/r/datascience/comments/1w32px6/weekly_entering_transitioning_thread_31_aug_2026/",
+     "title": "FAQ as RAG: When You Get to Design the Corpus",
+     "link": "https://towardsdatascience.com/faq-as-rag-when-you-get-to-design-the-corpus/",
+     "source": "Towards Data Science",
+     "published": "2026-08-31T14:00:02+00:00",
+     "copete": "Enterprise Document Intelligence [Vol.1 #B2] - The FAQ inverts every brick of the standard RAG pipeline. Parsing is trivial, retrieval doubles as a cache, and few-shot prompting becomes a retrieval problem too The post FAQ as RAG: When You…",
+     "id": "d21fb7ac73a9"
+    },
+    {
+     "title": "Speed Up LLM Inference with DSpark Speculative Decoding",
+     "link": "https://www.kdnuggets.com/speed-up-llm-inference-with-dspark-speculative-decoding",
+     "source": "KDnuggets",
+     "published": "2026-08-31T14:00:00+00:00",
+     "copete": "Learn how DSpark speculative decoding can improve local LLM generation speed using the same GPU, with Qwen3-8B, llama.cpp, and CUDA.",
+     "id": "2c4fe145da2c"
+    },
+    {
+     "title": "Why RAG Complexity Should Be Earned",
+     "link": "https://towardsdatascience.com/why-rag-complexity-should-be-earned/",
+     "source": "Towards Data Science",
+     "published": "2026-08-31T12:30:01+00:00",
+     "copete": "A framework for building RAG pipelines that introduces complexity in response to observed failure modes, from lexical and hybrid search to reranking and agentic information seeking The post Why RAG Complexity Should Be Earned appeared…",
+     "id": "f85000d76a1d"
+    },
+    {
+     "title": "7 Python Mistakes Beginners Make (And What to Do Instead)",
+     "link": "https://www.kdnuggets.com/7-python-mistakes-beginners-make-and-what-to-do-instead",
+     "source": "KDnuggets",
+     "published": "2026-08-31T12:00:34+00:00",
+     "copete": "It's about the mistakes that make a running program wrong. Below are seven of them. For each one you get the hidden cause, plus the first thing worth checking.",
+     "id": "c0ca67b4f033"
+    },
+    {
+     "title": "A CVE Dispute",
+     "link": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-31T11:13:17+00:00",
+     "id": "71cd36d171e0"
+    },
+    {
+     "title": "Join Kata - a new type to learn SQL",
+     "link": "https://www.reddit.com/r/datascience/comments/1w3ah75/join_kata_a_new_type_to_learn_sql/",
      "source": "r/datascience",
-     "published": "2026-08-31T04:01:12+00:00",
-     "id": "220ace2972d2"
+     "published": "2026-08-31T11:03:18+00:00",
+     "id": "70c9be21936a"
     },
     {
-     "title": "Understanding ChatGPT Work",
-     "link": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-31T01:28:22+00:00",
-     "id": "517370741c36"
-    },
-    {
-     "title": "“I just chose words carefully”",
-     "link": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-30T22:49:48+00:00",
-     "id": "8a01e72be812"
-    },
-    {
-     "title": "8 Tips for Writing Effective Agent Instructions",
-     "link": "https://towardsdatascience.com/8-tips-for-writing-effective-agent-instructions/",
+     "title": "AgentOps Is Not MLOps: What Breaks in Your Monitoring Stack When Agents Go to Production",
+     "link": "https://towardsdatascience.com/agentops-is-not-mlops-what-breaks-in-your-monitoring-stack-when-agents-go-to-production/",
      "source": "Towards Data Science",
-     "published": "2026-08-30T17:00:02+00:00",
-     "copete": "Quick and simple tips to help you write better agent instructions The post 8 Tips for Writing Effective Agent Instructions appeared first on Towards Data Science .",
-     "id": "f65f889b4d2b"
+     "published": "2026-08-31T11:00:01+00:00",
+     "copete": "The five MLOps monitoring assumptions agents break, and which inherited signals now pass failed runs as healthy. The post AgentOps Is Not MLOps: What Breaks in Your Monitoring Stack When Agents Go to Production appeared first on Towards…",
+     "id": "7bf9ce8b6696"
     },
     {
-     "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
-     "link": "https://komoroske.com/slime-mold/",
+     "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+     "link": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
      "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-30T16:03:17+00:00",
-     "id": "b89143fbd6df"
+     "published": "2026-08-31T09:59:05+00:00",
+     "id": "e3fae5e938db"
     },
     {
-     "title": "Haiku R1/beta6 has been released",
-     "link": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+     "title": "Breaking Claude Code Opus 5 Auto Mode",
+     "link": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
      "source": "Hacker News (100+ puntos)",
-     "published": "2026-08-30T16:01:10+00:00",
-     "id": "e3b8bb2b25ab"
+     "published": "2026-08-31T07:49:18+00:00",
+     "id": "e4fb3a34de49"
     },
     {
-     "title": "Context Engineering Is Changing. Here’s What It Means for Data Scientists",
-     "link": "https://towardsdatascience.com/context-engineering-is-changing-heres-what-it-means-for-data-scientists/",
-     "source": "Towards Data Science",
-     "published": "2026-08-30T15:00:02+00:00",
-     "copete": "How to apply the latest context engineering guidelines to your day-to-day data science work The post Context Engineering Is Changing. Here’s What It Means for Data Scientists appeared first on Towards Data Science .",
-     "id": "098f1ea4587e"
-    },
-    {
-     "title": "Noisy Text in RAG: Typos, OCR, and the Gap Classical Spell-Check Leaves",
-     "link": "https://towardsdatascience.com/noisy-text-in-rag-typos-ocr-and-the-gap-classical-spell-check-leaves/",
-     "source": "Towards Data Science",
-     "published": "2026-08-30T13:00:02+00:00",
-     "copete": "Enterprise Document Intelligence [Vol.1 #B1] - Three sources of one problem. User typos, fast-typing transcription noise, OCR character errors. Classical spell-check handles one of them. Embeddings carry the rest The post Noisy Text in…",
-     "id": "bd1d5a75803e"
-    },
-    {
-     "title": "What do I do as DS manager",
-     "link": "https://www.reddit.com/r/datascience/comments/1w2d07l/what_do_i_do_as_ds_manager/",
-     "source": "r/datascience",
-     "published": "2026-08-30T09:33:09+00:00",
-     "id": "057a3165faea"
-    },
-    {
-     "title": "Introducing Hy4 Preview",
-     "link": "https://simonwillison.net/2026/Aug/29/hy4/",
-     "source": "Simon Willison (IA)",
-     "published": "2026-08-29T23:53:13+00:00",
-     "copete": "Introducing Hy4 Preview New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB on Hugging Face . This is a big size increase from their…",
-     "id": "e99b0d4d4edf"
+     "title": "A 12TB Steam \"teraleak\" spills more than a decade of lost PC gaming history",
+     "link": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-08-31T06:10:44+00:00",
+     "id": "6034bfd30121"
     }
    ]
   },
@@ -286,83 +287,83 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "La Libertad Avanza sigue negociando un acuerdo electoral, mientras el PRO no descarta competir",
-     "link": "https://www.infobae.com/politica/2026/08/31/la-libertad-avanza-sigue-negociando-un-acuerdo-electoral-mientras-el-pro-no-descarta-competir/",
+     "title": "Gabriel Muntaabski: “Necesitamos equipos de salud que puedan hablar de los errores, de las dudas y de los riesgos”",
+     "link": "https://www.infobae.com/educacion/2026/08/31/gabriel-muntaabski-necesitamos-equipo-de-salud-que-puedan-hablar-de-los-errores-de-las-dudas-y-de-los-riesgos/",
      "source": "Infobae",
-     "published": "2026-08-31T05:45:57+00:00",
-     "copete": "Un sector del partido fundado por Mauricio Macri da señales de querer tener candidatos propios, a pesar de que sus autoridades vienen conversando con el oficialismo para ir juntos a las urnas",
-     "id": "b67581eef1a3"
+     "published": "2026-08-31T14:04:22+00:00",
+     "copete": "El secretario ejecutivo de CIN-ReNaSiC explica por qué la simulación clínica puede transformar la formación en salud, destaca el aprendizaje entre pares y analiza el desafío de extender el modelo MESAS a 19 universidades y más de 129.000…",
+     "id": "a484e646e691"
     },
     {
-     "title": "Una mujer con el cuello cortado en una oscura calle de los suburbios de Londres: el primer crimen de Jack el Destripador",
-     "link": "https://www.infobae.com/historias/2026/08/31/una-mujer-con-el-cuello-cortado-en-una-oscura-calle-de-los-suburbios-de-londres-el-primer-crimen-de-jack-el-destripador/",
+     "title": "De “Mulholland Drive” a “Birdman”: Naomi Watts será homenajeada por su carrera en San Sebastián",
+     "link": "https://www.infobae.com/cultura/2026/08/31/de-mulholland-drive-a-birdman-naomi-watts-sera-homenajeada-por-su-carrera-en-san-sebastian/",
      "source": "Infobae",
-     "published": "2026-08-31T05:44:58+00:00",
-     "copete": "En la madrugada del 31 de agosto de 1888, Mary Ann Nichols fue hallada acuchillada. Tenía 43 años y había pasado sus últimas horas buscando dinero para pagar una cama. Tenía el cuello cortado y el abdomen mutilado. La investigación…",
-     "id": "2ff671e5e6d7"
+     "published": "2026-08-31T14:03:21+00:00",
+     "copete": "La estrella de 57 años, con dos nominaciones al Óscar y una reciente candidatura al Emmy, recibirá uno de los reconocimientos más prestigiosos del certamen español en su próxima edición de septiembre",
+     "id": "b8914812a374"
     },
     {
-     "title": "Los aumentos que vienen en septiembre y los que todavía tienen que definirse",
-     "link": "https://www.infobae.com/economia/2026/08/31/los-aumentos-que-vienen-en-septiembre-y-los-que-todavia-tienen-que-definirse/",
+     "title": "La traductora de ‘La Odisea’ revela los secretos del oficio: “La literalidad trae sus propias distorsiones”",
+     "link": "https://www.infobae.com/cultura/2026/08/31/la-traductora-de-la-odisea-revela-los-secretos-del-oficio-el-literalismo-trae-sus-propias-distorsiones/",
      "source": "Infobae",
-     "published": "2026-08-31T05:44:20+00:00",
-     "copete": "El martes arranca un nuevo mes en donde ya se comunicaron incrementos en prepagas, transporte público, peajes y colegios. El Gobierno tiene que definir qué pasa con la tarifas",
-     "id": "449fd4a14341"
+     "published": "2026-08-31T14:01:23+00:00",
+     "copete": "Un nuevo libro de ensayos, Emily Wilson, célebre especialista en estudios clásicos, refleja su entusiasmo por la materia que aborda y la sorprendente variedad de sus referencias",
+     "id": "29286650b3b3"
     },
     {
-     "title": "Milei se muestra hiperactivo: reordena la tropa, retoma la agenda internacional y vuelve a recorrer el interior",
-     "link": "https://www.infobae.com/politica/2026/08/31/milei-se-muestra-hiperactivo-reordena-la-tropa-retoma-la-agenda-internacional-y-vuelve-a-recorrer-el-interior/",
+     "title": "G20 de Estados Unidos: comenzó el encuentro de ministros de Economía y Caputo se reunirá con el secretario del Tesoro, Scott Bessent",
+     "link": "https://www.infobae.com/economia/2026/08/31/g20-de-estados-unidos-comenzo-el-encuentro-de-ministros-de-economia-y-caputo-se-reunira-con-el-secretario-del-tesoro-scott-bessent/",
      "source": "Infobae",
-     "published": "2026-08-31T05:43:23+00:00",
-     "copete": "Tras el repliegue del último mes, el Presidente se muestra en actividad. La reunión de mesa política, el viaje a Chile y el desembarco en Misiones. La foto con la funcionaria de Trump y la llegada de los representantes del Vaticano",
-     "id": "312862e3f364"
+     "published": "2026-08-31T13:58:55+00:00",
+     "copete": "El jefe del Palacio de Hacienda además se reunirá con Kristalina Georgieva, directora gerente del FMI, y defenderá el programa de ajuste durante un debate sobre crecimiento global",
+     "id": "f59ce75451f5"
     },
     {
-     "title": "Mariano Navone le rompió a Novak Djokovic una racha de 20 años en Grand Slams: todos los triunfos argentinos ante la leyenda",
-     "link": "https://www.infobae.com/deportes/2026/08/31/mariano-navone-le-rompio-a-novak-djokovic-una-racha-de-20-anos-en-grand-slams-todos-los-triunfos-argentinos-ante-la-leyenda/",
+     "title": "Crimen económico y recuperación de activos: Argentina participó de un encuentro internacional de expertos en Cambridge",
+     "link": "https://www.infobae.com/politica/2026/08/31/crimen-economico-y-recuperacion-de-activos-argentina-participo-de-un-encuentro-internacional-de-expertos-en-cambridge/",
      "source": "Infobae",
-     "published": "2026-08-31T05:43:00+00:00",
-     "copete": "La Nave logró una histórica victoria ante el serbio en cinco sets, en la primera ronda del US Open",
-     "id": "0d9242b793d6"
+     "published": "2026-08-31T13:56:34+00:00",
+     "id": "f0b16fdd34e9"
     },
     {
-     "title": "Fernando Alonso, bicampeón de la Fórmula 1: \"El momento en que tenga que dejar de correr será una decisión muy dura y difícil de aceptar\"",
-     "link": "https://www.clarin.com/internacional/fernando-alonso-bicampeon-formula-1-momento-dejar-correr-decision-dura-dificil-aceptar_0_J3MHk2U350.html",
+     "title": "Siri Hustvedt: \"Me las he arreglado para no morir, ahora siento que hay un futuro\"",
+     "link": "https://www.clarin.com/cultura/siri-hustvedt-arreglado-morir-ahora-siento-futuro_0_QyFFSrzYhq.html",
      "source": "Clarín",
-     "published": "2026-08-31T05:01:01+00:00",
-     "copete": "El piloto español tiene actualmente 45 años y continúa compitiendo en la máxima categoría del automovilismo. A pesar de haber sido recientemente padre, ha dejado en claro que todavía no siente que haya llegado el momento de retirarse.",
-     "id": "6df5bded969d"
+     "published": "2026-08-31T13:01:06+00:00",
+     "copete": "La autora estadounidense a principios de mayo publicó Historias de fantasmas. Se trata del libro en el que se enfrenta al dolor por la muerte de Paul Auster, su pareja durante 43 años. En este diálogo, reflexiona sobre cómo afronta la vida…",
+     "id": "a4ce7e481fd4"
     },
     {
-     "title": "Clara Lago, 36 años, sobre su alimentación vegana: \"Mis imprescindibles son los puerros a la vinagreta con crema de kimchi, la crema de coliflor con setas de temporada y la fideuá\"",
-     "link": "https://www.clarin.com/internacional/clara-lago-36-anos-alimentacion-vegana-imprescindibles-puerros-vinagreta-crema-kimchi-crema-coliflor-setas-temporada-fideua_0_c27h5YCNVt.html",
+     "title": "Otra fecha negra de los arbitrajes: dos penales iguales con distinto criterio como avisó Troglio, un VAR que nunca llamó y dos jueces suspendidos en forma exprés",
+     "link": "https://www.clarin.com/deportes/fecha-negra-arbitrajes-penales-iguales-distinto-criterio-aviso-troglio-var-llamo-jueces-suspendidos-forma-expres_0_mZIduTdaeG.html",
      "source": "Clarín",
-     "published": "2026-08-31T04:29:01+00:00",
-     "copete": "La actriz adoptó el veganismo después de revisar el impacto ambiental de los alimentos de origen animal. Hoy combina esa elección con cocina casera, deporte y un restaurante de propuesta completamente vegetal.",
-     "id": "44de55711579"
+     "published": "2026-08-31T12:57:07+00:00",
+     "copete": "Rey Hilfer hizo repetir el penal de Almada en Banfield-River por invasión, pero horas después Carranza no hizo lo mismo tras el remate de Arce en Independiente Rivadavia-Racing ante una situación similar. La polémica entrada de Flores…",
+     "id": "8db1f7f0e4ff"
     },
     {
-     "title": "Prohíben la venta de un juguete infantil blando por riesgos para la salud: cuál es y por qué fue retirado del mercado",
-     "link": "https://www.clarin.com/sociedad/prohiben-venta-juguete-infantil-blando-riesgos-salud-retirado-mercado_0_PaEjqUIl7a.html",
+     "title": "Irán afirma que atacó bases de Estados Unidos en Emiratos y Jordania tras los bombardeos estadounidenses a la isla de Larak",
+     "link": "https://www.clarin.com/mundo/iran-afirma-ataco-bases-estados-unidos-emiratos-jordania-bombardeos-estadounidenses-isla-larak_0_O7Yajn8uDO.html",
      "source": "Clarín",
-     "published": "2026-08-31T04:24:15+00:00",
-     "copete": "La medida fue confirmada oficialmente mediante la Disposición 690/2026, publicada en el Boletín de este lunes. La prohibición alcanza a artículos tipo \"squishy\" o \"squeeze toy\" y se fundamenta en denuncias sobre la posible presencia de…",
-     "id": "8b315d90bb30"
+     "published": "2026-08-31T12:56:39+00:00",
+     "copete": "Teherán dijo que lanzó decenas de drones contra tropas y helicópteros estadounidenses estacionados en la base aérea de Al Minhad, en EAU. El Emirato negó que la base fuera alcanzada, pero confirmó que un dron iraní fue interceptado en sus…",
+     "id": "51da4893452e"
     },
     {
-     "title": "\"Al país le falta convertir todo lo que tiene en producción, trabajo y bienestar\"",
-     "link": "https://www.clarin.com/cartas-al-pais/pais-falta-convertir-produccion-trabajo-bienestar_0_yp4fHWtNcP.html",
+     "title": "Preocupación por el \"Súper Niño\": un sector golpeado alerta que las lluvias paralizarán la actividad",
+     "link": "https://www.clarin.com/economia/preocupacion-super-nino-sector-golpeado-alerta-lluvias-paralizaran-actividad_0_cITNNJogL1.html",
      "source": "Clarín",
-     "published": "2026-08-31T04:07:00+00:00",
-     "id": "1d7e8a778ac8"
+     "published": "2026-08-31T12:54:17+00:00",
+     "copete": "La construcción, que no termina de reactivar, ahora mira de reojo la posibilidad de un freno ante el pronóstico de lluvias intensas en los próximos meses. La obra pública vial está en su menor nivel en 30 años, un 80% por debajo de 2023.",
+     "id": "7dc2c2105399"
     },
     {
-     "title": "El fenómeno detrás de Han Kang: los libros indispensables para entender el \"boom\" cultural de Corea",
-     "link": "https://www.clarin.com/revista-n/fenomeno-detras-kang-libros-indispensables-entender-boom-cultural-corea_0_fDUvSSG7MY.html",
+     "title": "El Refugio, un oasis para visitantes de migrantes detenidos en un remoto centro de Georgia",
+     "link": "https://www.clarin.com/estados-unidos/el-refugio-un-oasis-para-visitantes-de-migrantes-detenidos-en-un-remoto-centro-de-georgia_0_xoYuJQJwY4.html",
      "source": "Clarín",
-     "published": "2026-08-31T03:54:57+00:00",
-     "copete": "Un recorrido por las publicaciones locales que exponen el lado más oscuro de la colonización japonesa y el machismo estructural en una península partida por la guerra. Del éxito de El Juego del Calamar y el K-pop al Nobel de Literatura…",
-     "id": "ed7d9d886759"
+     "published": "2026-08-31T12:50:12+00:00",
+     "copete": "En Lumpkin, un albergue solidario ofrece refugio a familias de migrantes detenidos en Stewart, brindando apoyo en momentos de reencuentro y despedida. El Refugio, sostenido por donaciones, no solo hospeda, sino que también proporciona…",
+     "id": "adebb8af2a62"
     }
    ]
   },
@@ -372,84 +373,84 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "\"Las conexiones entre India y México son más profundas y fascinantes que la coincidencia de la comida picante\"",
+     "link": "https://www.bbc.com/mundo/articles/c0qxe7xgn74o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-31T14:05:30+00:00",
+     "copete": "La escritora india Kiran Desai lleva décadas yendo a México y usando mucho de lo que ve en el país como fuente de sus premiadas novelas. En ellas, que exploran las tensiones del mundo globalizado, India y México terminan siendo países…",
+     "id": "e22d88e36e22"
+    },
+    {
      "title": "US and Iran trade strikes for first time in weeks",
      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-31T04:54:32+00:00",
-     "copete": "Iran says the attack on Larak Island, the first known US strikes since late July, killed two people and injured two others.",
+     "published": "2026-08-31T13:47:30+00:00",
+     "copete": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
      "id": "77c755dad93a"
     },
     {
-     "title": "En qué consiste el \"mayor acuerdo petrolero de la historia\" anunciado por EE.UU. y Venezuela, y por qué es tan polémico",
-     "link": "https://www.bbc.com/mundo/articles/c783xln84p1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-08-31T03:59:04+00:00",
-     "copete": "El acuerdo anunciado por Donald Trump y Delcy Rodriguez le otorga acceso a EE.UU. a campos con reservas probadas de 65.000 millones de barriles de crudo venezolano.",
-     "id": "6ca57cddd268"
-    },
-    {
-     "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
-     "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+     "title": "Man arrested after Swiss rave shooting that killed woman",
+     "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-31T03:56:15+00:00",
-     "copete": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
-     "id": "80226a3cb4a8"
+     "published": "2026-08-31T13:11:35+00:00",
+     "copete": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
+     "id": "cd10da348035"
     },
     {
-     "title": "La visita del jefe de la CIA a Moscú se envuelve en mentiras y medias verdades en plena ‘guerra’ del espionaje ruso en Europa",
-     "link": "https://elpais.com/internacional/2026-08-31/la-visita-del-jefe-de-la-cia-a-moscu-se-envuelve-en-mentiras-y-medias-verdades-en-plena-guerra-del-espionaje-ruso-en-europa.html",
-     "source": "El País Internacional",
-     "published": "2026-08-31T03:30:01+00:00",
-     "copete": "La reunión de John Ratcliffe con los jefes de la inteligencia rusa ha desatado todo tipo de conjeturas mientras aumenta la tensión por los sabotajes en Europa",
-     "id": "2bfbab961053"
-    },
-    {
-     "title": "El pueblo del Este en el que las dos Alemanias se dan la espalda",
-     "link": "https://elpais.com/internacional/2026-08-31/el-pueblo-del-este-en-el-que-las-dos-alemanias-se-dan-la-espalda.html",
-     "source": "El País Internacional",
-     "published": "2026-08-31T03:30:01+00:00",
-     "copete": "En Neuhardenberg se reúne el Gobierno federal desde hace más de 20 años, un municipio donde predomina la nostalgia por la RDA y la mayoría de la población vota a la extrema derecha",
-     "id": "41929580bf20"
-    },
-    {
-     "title": "El legado de odio de Mladic",
-     "link": "https://elpais.com/internacional/2026-08-31/el-legado-de-odio-de-mladic.html",
-     "source": "El País Internacional",
-     "published": "2026-08-31T03:30:01+00:00",
-     "copete": "El fallecido genocida serbobosnio fue el primero en formular postulados de orgullo de tribu y miedo a los que vienen de fuera que amenazan nuestra cultura",
-     "id": "d92aba3bded9"
-    },
-    {
-     "title": "EE UU e Irán intercambian ataques por primera vez desde julio",
-     "link": "https://elpais.com/internacional/2026-08-30/el-primer-ataque-de-ee-uu-a-iran-desde-julio-provoca-varios-muertos-y-heridos.html",
-     "source": "El País Internacional",
-     "published": "2026-08-31T01:57:20+00:00",
-     "copete": "Washington bombardea dos lanzaderas en la isla de Larak, que dice que suponían una amenaza en el estrecho de Ormuz, y Teherán responde con el lanzamiento de misiles a Jordania",
-     "id": "e323ed8e25da"
-    },
-    {
-     "title": "EE.UU. ataca lanzadores iraníes en la isla de Larek en el primer ataque en semanas",
-     "link": "https://www.bbc.com/mundo/articles/cly4e67lzpgo?at_medium=RSS&at_campaign=rss",
+     "title": "La carrera contrarreloj para salvar a más de 900 obreros de hidroeléctricas que se cree están atrapados en túneles tras la avalancha en Nepal y el Tíbet",
+     "link": "https://www.bbc.com/mundo/articles/c07lkdn73zyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-08-31T00:42:04+00:00",
-     "copete": "Irán afirma que el ataque causó la muerte de algunos civiles.",
-     "id": "3a673b1899eb"
+     "published": "2026-08-31T13:04:47+00:00",
+     "copete": "Los equipos de rescate han comenzado a realizar explosiones controladas para despejar las galerías donde se cree que podrían estar atrapados los obreros, informaron las autoridades.",
+     "id": "05dac4664ae0"
     },
     {
-     "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+     "title": "One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-08-30T23:52:27+00:00",
-     "copete": "\"It was a beautiful day - and then people were screaming,\" one hiker who was airlifted to safety tells the BBC.",
+     "published": "2026-08-31T12:55:25+00:00",
+     "copete": "\"It was a beautiful day - and then people were screaming,\" one hiker tells the BBC, as 15 people are missing.",
      "id": "a2ad7f2294c2"
     },
     {
-     "title": "\"¿Estamos solos en el universo?\": el enigma existencial que quiere resolver la NASA con el ultrapotente telescopio Roman",
-     "link": "https://www.bbc.com/mundo/articles/cpq09qxgev4o?at_medium=RSS&at_campaign=rss",
+     "title": "Trump publica un vídeo generado con IA en el que celebra la destrucción del gran centro exportador del petróleo de Irán",
+     "link": "https://elpais.com/internacional/2026-08-31/trump-publica-un-video-generado-con-ia-en-el-que-celebra-la-destruccion-del-gran-centro-exportador-del-petroleo-de-iran.html",
+     "source": "El País Internacional",
+     "published": "2026-08-31T12:19:40+00:00",
+     "copete": "Teherán califica de “ridículos” los mensajes del mandatario estadounidense sobre la ofensiva a la isla de Jarg y garantiza que responderá a cualquier agresión",
+     "id": "54bfbfe99648"
+    },
+    {
+     "title": "The jury's options in Lindsay Clancy's murder trial",
+     "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-08-31T11:53:21+00:00",
+     "copete": "Jurors have five options before them as they decide the fate of the former nurse charged with killing her three children.",
+     "id": "608a9487eb92"
+    },
+    {
+     "title": "La Secta Moon afronta su hora más difícil tras la condena a prisión en Corea del Sur de su máxima dirigente",
+     "link": "https://elpais.com/internacional/2026-08-31/la-secta-moon-afronta-su-hora-mas-dificil-tras-la-condena-a-prision-en-corea-del-sur-de-su-maxima-dirigente.html",
+     "source": "El País Internacional",
+     "published": "2026-08-31T11:11:39+00:00",
+     "copete": "Han Hak-ja, viuda del fundador de la Iglesia de la Unificación, estaba acusada de intentar influir en el Gobierno de Yoon Suk-yeol, el expresidente que decretó la ley marcial",
+     "id": "674e86f83a9b"
+    },
+    {
+     "title": "\"Un diagnóstico de alzhéimer no es el final para una persona\": el actor que padece la enfermedad e interpretará un difícil monólogo de Beckett en Londres",
+     "link": "https://www.bbc.com/mundo/articles/c7v4dn99v46o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-08-30T21:23:03+00:00",
-     "copete": "El telescopio de la agencia espacial estadounidense está iniciando una misión de varios años para crear un nuevo mapa del universo y aprender más sobre la energía oscura y los agujeros negros.",
-     "id": "9eeb7de35868"
+     "published": "2026-08-31T11:01:16+00:00",
+     "copete": "Peter Marinker se enfrenta en solitario a una de las obras más famosas de Samuel Beckett en un escenario londinense.",
+     "id": "c8d50d3885b8"
+    },
+    {
+     "title": "Me daban morfina para soportar el dolor hasta que los médicos descubrieron que tenía endometriosis a los 13 años",
+     "link": "https://www.bbc.com/mundo/articles/c5y5854gn1do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-08-31T09:44:42+00:00",
+     "copete": "La joven Grace siente que los médicos le restaron importancia a su dolor y quiere dar a conocer los síntomas para ayudar a otras chicas a evitar pasar por la misma experiencia.",
+     "id": "73285839a54a"
     }
    ]
   }
@@ -463,11 +464,6 @@
   {
    "section": "cardiologia",
    "feed": "Circulation (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "cardiologia",
-   "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]

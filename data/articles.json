@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T16:45:45.876072+00:00",
+ "generated_at": "2026-09-01T21:08:28.206143+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -7,43 +7,18 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Cardialogue: Impacts of Extreme Heat on CV Health",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMmxmWjl3ZUtFbURrRXFyYVpBRGl0UTNTbUtOV3Frdk9UenYteHZsTnpaYkdvVUpTS3FyYWdlSzlydEZndm5HVUtHSzJnaVYxakZTYTZuTjZQN2NHUXRjZDI1aWZIVXhucTR1RFhEVkNEdjJrZ0lNT252ZFJkci1tUHVvMmUyU0Q0eDhpWnFkc19WYjRORUE?oc=5",
+     "source": "TCTMD",
+     "published": "2026-09-01T16:12:00+00:00",
+     "id": "fb7cedd8e293"
+    },
+    {
      "title": "ACASA-TAVI and NOTION-4 Trials Give Mixed Messages on DOACs After TAVI",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaEhTSUJNQkg4RmkwOUVoY1JwbWliQzhCS09GdmRSeHkzeTcwQjVEc1VhUHFsNWtNV0ptQzhlSVlVWndiMnRDYXFuZXlzUTJMSlBUdEtaV0tFUlZlaU5PMkJjN0hxU1EtVWJIUjFfNHhPVUxldlU0Y09Wa3BNb1J6djREb1hnXzlLX1c2R3RwUkJPdnM0NGVOVVVn?oc=5",
      "source": "TCTMD",
      "published": "2026-09-01T12:49:30+00:00",
      "id": "ad52daf13daa"
-    },
-    {
-     "title": "Noninvasive Thrombus Imaging in Patients With Ischemic Stroke",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42677492/",
-     "source": "Circulation",
-     "published": "2026-09-01T00:00:00+00:00",
-     "copete": "Whittington B et al. · Circulation",
-     "id": "64de9d598ed2"
-    },
-    {
-     "title": "Pathology of Genetic Variants in Spontaneous Coronary Artery Dissection",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42677491/",
-     "source": "Circulation",
-     "published": "2026-09-01T00:00:00+00:00",
-     "copete": "Tanaka T et al. · Circulation",
-     "id": "46bb60588648"
-    },
-    {
-     "title": "PUS7-Mediated Pseudouridylation of TGFBI Drives Vascular Remodeling in Pulmonary Hypertension",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42677488/",
-     "source": "Circulation",
-     "published": "2026-09-01T00:00:00+00:00",
-     "copete": "Zhang J et al. · Circulation",
-     "id": "92e7a23c93ad"
-    },
-    {
-     "title": "Correlation Between EMS Agency Rates of Survival to Hospital Admission and Hospital Survival Outcomes for Cardiac Arrest",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42677481/",
-     "source": "Circulation",
-     "published": "2026-09-01T00:00:00+00:00",
-     "copete": "Attachaipanich T et al. · Circulation",
-     "id": "3952fab0965a"
     },
     {
      "title": "Cardialogue: Is AI Improving or Impairing Equity in Healthcare?",
@@ -65,13 +40,6 @@
      "source": "TCTMD",
      "published": "2026-08-31T14:36:56+00:00",
      "id": "eb0f10be0b3e"
-    },
-    {
-     "title": "CRHCP: Community-Based BP-Lowering Provides Lasting Positives at 7 Years",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU1lNVExyVjVtdmF6cGdDM3NFOGQ2Q1lodjBtcFEyRU9HdEN6czBhZWI3cjJqRFFjd1NRdU1LeWU1MWhBTmtSZF9oWld2akJPYVR6eFJTc1A0aHc2ZWV4anNVTC1TZk0tN0JhejE5WE1LZ1FETXpRcTFQMDhsM1RfUmh2bEJvblZMaE1EZmE4amFaek9IM19yX1Nqaw?oc=5",
-     "source": "TCTMD",
-     "published": "2026-08-31T14:06:03+00:00",
-     "id": "c13e815cb108"
     },
     {
      "title": "Protocol-Based Implementation of Early Intensive Lipid Management After Acute Coronary Syndrome: The BRIDGE Trial",
@@ -96,6 +64,22 @@
      "published": "2026-08-31T00:00:00+00:00",
      "copete": "Nissen SE et al. · Journal of the American College of Cardiology",
      "id": "f1c09edb37fc"
+    },
+    {
+     "title": "Targeted Therapy for ATTR-CM Amidst a Rapidly Evolving Landscape: A Moving Goalpost?",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42669073/",
+     "source": "JACC",
+     "published": "2026-08-30T00:00:00+00:00",
+     "copete": "Rushakoff JA et al. · Journal of the American College of Cardiology",
+     "id": "e5c84a6bffc9"
+    },
+    {
+     "title": "Focus on heart failure: Second Universal Definition, optimal potassium levels, phenotyping of pulmonary hypertension, hereditary transthyretin amyloidosis, and the challenge of a total artificial heart",
+     "link": "https://academic.oup.com/eurheartj/article/47/32/4339/8768628?rss=1",
+     "source": "European Heart Journal",
+     "published": "2026-08-24T00:00:00+00:00",
+     "copete": "For image description, please refer to the figure legend and surrounding text. For the podcast associated with this article, please visit https://academic.oup.com/eurheartj/pages/Podcasts .",
+     "id": "cecaf044c0de"
     }
    ]
   },
@@ -105,52 +89,67 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "¿Por qué se llama Presidente Perón la cancha de Racing?",
-     "link": "https://www.ole.com.ar/racing/llama-presidente-juan-domingo-peron-cancha-racing-cilindro-avellaneda-historia_0_ON9gyo6DjQ.html",
-     "source": "Olé — Primera",
-     "published": "2026-09-01T15:55:40+00:00",
-     "copete": "El Cilindro de Avellaneda fue inaugurado durante durante la primera presidencia peronista y, aunque el mito dice que el General era hincha, la historia cuenta otra versión.",
-     "id": "b42481b0d70e"
-    },
-    {
-     "title": "Supercopa Internacional: Rosario Central y Estudiantes ya tienen fecha, hora y estadio confirmado para la final",
-     "link": "https://www.ole.com.ar/futbol-primera/supercopainternacional-estudiantes-rosariocentral_0_6y22sfaJab.html",
-     "source": "Olé — Primera",
-     "published": "2026-09-01T15:18:28+00:00",
-     "copete": "El Canalla y el Pincha se enfrentarán el próximo 26 de septiembre en el Madre de Ciudades, en un partido que carga el morbo de aquel pasillo de espaldas en los octavos del Clausura 2025.",
-     "id": "387770994b5e"
-    },
-    {
-     "title": "\"Nos dijeron que no, la hicimos igual\": la particular camiseta amarilla y negra que sacó Racing",
-     "link": "https://www.ole.com.ar/racing/racing-camiseta-nueva-penarol-amarillo-negro-presentacion_0_WCIkCaoI76.html",
-     "source": "Olé — Primera",
-     "published": "2026-09-01T15:08:00+00:00",
-     "copete": "La Academia lanza una casaca histórica, evocando un pedido de 1904 que fue rechazado y bajo un particular lema.",
-     "id": "305cb4181e2c"
-    },
-    {
-     "title": "La presentación de Freitas en Flamengo: parche de la Libertadores, \"bienvenido, hermano\" y qué número usará",
-     "link": "https://www.ole.com.ar/river-plate/joaquin-freitas-presentacion-oficial-flamengo-parche-libertadores_0_ZjfXvH5TKa.html",
+     "title": "La cifra multimillonaria que recibirá River por la transferencia de Enzo Fernández",
+     "link": "https://www.ole.com.ar/river-plate/river-enzo-fernandez-ingreso-mecanismo-solidaridad-venta-transferencia-chelsea-manchester-city-millones_0_resLb9f6uw.html",
      "source": "Olé — River",
-     "published": "2026-09-01T14:59:45+00:00",
-     "copete": "El ex delantero de River se transformó de forma oficial en refuerzo del Mengao y les habló a sus nuevos hinchas.",
-     "id": "0813452273e1"
+     "published": "2026-09-01T20:43:17+00:00",
+     "copete": "En Núñez se verán muy beneficiados por el impactante traspaso del volante desde el Chelsea al Manchester City.",
+     "id": "2da9e0d95b06"
     },
     {
-     "title": "El gesto de un ex River con Martínez Quarta en medio de las críticas: \"Te banco siempre\"",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-lucas-martinez-quarta-nacho-fernandez_0_8esAENexmp.html",
+     "title": "El joven de River que sufrió una grave lesión y recibió un lindo gesto de sus compañeros",
+     "link": "https://www.ole.com.ar/river-plate/river-homenaje-costantini-reserva-jugadores-lesion_0_LCIdSzs065.html",
      "source": "Olé — River",
-     "published": "2026-09-01T14:01:02+00:00",
-     "copete": "En horas decisivas para el futuro del Chino, que podría salir de Núñez sobre el cierre del mercado, recibió un mimo de un viejo conocido.",
-     "id": "87b4d3e89f68"
+     "published": "2026-09-01T20:41:54+00:00",
+     "copete": "Luego de volver a sufrir una rotura del ligamento cruzado anterior, Giorgio Costantini fue homenajeado por el plantel de la Reserva y, además, realizó un posteo en sus redes sociales.",
+     "id": "8876b774f758"
     },
     {
-     "title": "Jugó en el fútbol argentino, fue al Mundial y es figura en México: quién es el central que sondeó River",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-willer-ditta-cruz-azul-mercado-pases_0_JMG9LPbP6N.html",
+     "title": "Oficial: De Felippe nuevo técnico de Talleres",
+     "link": "https://www.ole.com.ar/talleres/omardefelippe-talleres-jorgesampaoli-sanlorenzo-bidegain_0_xDWBsQtA3h.html",
+     "source": "Olé — Primera",
+     "published": "2026-09-01T20:36:10+00:00",
+     "copete": "El club cordobés confirmó a Omar como reemplazante de Jorge Sampaoli: debutará el próximo sábado ante San Lorenzo en el Nuevo Gasómetro.",
+     "id": "f5db356da7b3"
+    },
+    {
+     "title": "Cierra el mercado de pases: refuerzos y bajas de último momento",
+     "link": "https://www.ole.com.ar/futbol-primera/mercado-pases-2026-clausura-cierre-definitivo-refuerzos-bajas_0_5hTY80hKwT.html",
      "source": "Olé — River",
-     "published": "2026-09-01T12:57:59+00:00",
-     "copete": "Willer Ditta es el nombre que empezó a sonar en los pasillos del Monumental. La postura del Millonario y qué dicen desde Cruz Azul, su club.",
-     "id": "9f03d2e11032"
+     "published": "2026-09-01T20:00:00+00:00",
+     "copete": "Este miércoles cierra la ventana de transferencias en la Argentina: todos los movimientos, club por club.",
+     "id": "3ecc53ca28a2"
+    },
+    {
+     "title": "Los 23 de Argentina XV para enfrentar a Uruguay XV",
+     "link": "https://uar.com.ar/los-23-de-argentina-xv-para-enfrentar-a-uruguay-xv/",
+     "source": "UAR",
+     "published": "2026-09-01T18:46:29+00:00",
+     "copete": "El seleccionado nacional ya tiene equipo confirmado para enfrentar a Uruguay XV este miércoles 2 de septiembre, desde las 13:00 h (hora argentina), en la Escuela Militar de Santiago de Chile, por la segunda fecha del Américas Rugby…",
+     "id": "9250397b9fde"
+    },
+    {
+     "title": "A horas del cierre del mercado, la situación de los jugadores de River que siguen marginados",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-marginados-mercado-pases_0_yP7MqUuRsb.html",
+     "source": "Olé — River",
+     "published": "2026-09-01T18:40:19+00:00",
+     "copete": "Con Giuliano Galoppo rumbo a la MLS, todavía quedan tres jugadores que buscan salir del club.",
+     "id": "4dd08d64b17b"
+    },
+    {
+     "title": "Hay acuerdo entre Manchester City y Benfica por el préstamo de Echeverri",
+     "link": "https://www.ole.com.ar/futbol-internacional/claudio-echeverri-prestamo-acuerdo-manchester-city-benfica_0_Bt8b4KEsaA.html",
+     "source": "Olé — River",
+     "published": "2026-09-01T17:58:17+00:00",
+     "copete": "El Diablito será nuevo refuerzo del conjunto portugués después de haber pasado en los últimos 365 días por el conjunto inglés, el Leverkusen y Girona.",
+     "id": "0165e2ee6997"
+    },
+    {
+     "title": "Los Pumas juegan contra Australia el próximo sábado en el Malvinas Argentinas",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRkczb0FFd1Nuc1JUMmtRMU1acjNkS1BwR2N5ZlRiMXBiSnB4Ul8wWG5YYnExSDdudUNsWE5va3VYTHc1Ml9vR2FKZGJjSl9HR2tMVmM4anpyMXMwNDBzZ0VlaDk5N0QwN1NqLVc0Zml6c2E2UEFxVkIwWFQxWjFOZ0xMWUREdk1Dc3FlaHFhWTBhRU5jZTdvT1JPSlJwTHhZcFRuUzdTZjJpeEdiOVY1dXkxcVJ2ZmVnMm51ckNyVk1tb2t3Zjh1Y1ZPWkpoVjZtZFNjSA?oc=5",
+     "source": "MendoVoz",
+     "published": "2026-09-01T17:41:00+00:00",
+     "id": "43cfd842424d"
     },
     {
      "title": "Ex Wallabies calentaron la revancha ante Los Pumas en Mendoza: \"Vamos a ganar de nuevo\"",
@@ -160,34 +159,11 @@
      "id": "cb95c4eb0dd8"
     },
     {
-     "title": "Los Pumas ya están en Mendoza: la revancha con Australia, los mendocinos y todo lo que hay que saber",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeGdTdmtkV2lJRll3eWJnYXJCRHByRVJ0UHplM1hla2RLNVhobHg1V3RSNDZRZDRDMURpRnQ5cDJyWnFpMU52SlhKaVV5TFF1RmxjRWtkcFNDX3BBRnNBWDJNbDZ5a05rYVpDc25RUXYzQzBLQXE1MkM0Zm44RG1RTGxmTEhSX3RvSy1YYm1lOF9pYUZvSHpQVmUtRTZWeEQ2Y1lEOWl2bFRvYnQySXNNU3YxdFY4SGNocS1qbURuX3ZpRlNPamhiOEdKTzlRRTFOdklscUFWUUZOdlFlWHfSAeMBQVVfeXFMTlN0RzM2Yy1uTExzUEFHMVVpTzU1VUJ4OERueFhod3FMNk1zcjVQaGVQV3hUeXh0SXBKTXhDTFpmVU92dkt0NHgxWXNrMEhVcXFQMzNPTjloRHJVUVFIcW5kSFUtMkRpdW1fbXVzZUc2MVBUUEVkZDRYbHVrUDVTaGE3aWZKMXNEYnBDQmFmV01LU2NPenBQNVNjdC1mNjVDb1JTYUY1UlFlU2dpV1pjWThDWm1qTU5EV0NFQ0l2NEVaa2JpT2F6M0dyVmVoYWY2Z2ZsbmJzUWFuSi1VMy1YU1hRNjA?oc=5",
-     "source": "Sitio Andino",
-     "published": "2026-09-01T12:42:37+00:00",
-     "id": "4d7f5ae07487"
-    },
-    {
      "title": "Rugby: Los Pumas se esforzaron hasta el final pero no pudieron con Australia en Jujuy",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdERWanNneFEzUENPUkYyak5YVGNmbDNSaFdieFRaZjhFRmdDNlhMM1Y1X2h1SnNEaEtlbzJ3a245cTJnQTlYS2g1V3ZabTkzRFZienVIbDdGSmJrNU1lRkROaXMyN2U4MFJlZHg3bEZYbjdlS0NBeWJzbkJ0S3FZSDZXOHZFNkN1Q1lWaUhOZ2RCUkVCaXlRWkpRaDR6TG1vSWpqc2syS2hUUU1PeG1qM2pQVXJucHVIS2VkV3pWTXTSAcYBQVVfeXFMTWI2dFpDOVdqbzB1Z2IzTWtnazUtSm5rRHhKdlVpZjUta25FbE01elpudXNFeE51bXpQbUJxQlBjMWdwTTYzSTNPRVpXSUxkcEZ5Z3d5NUpNdXZjUWlVbHlFb2Mydk9DbWxwVEk4cG92VzFsYXotTVNWQzFHYUJVOXJxV3FOUm5lT3NzcDh4MlZLRkZrdU13dEp4NGNoUjB1VVBwcENtZHJiNG1OM3lzeDdhM0ZmblV5V3ktZFlZbDRRSWNDeUV3?oc=5",
      "source": "La Capital",
      "published": "2026-09-01T12:23:07+00:00",
      "id": "577f29bb73ca"
-    },
-    {
-     "title": "River, hoy EN VIVO: el futuro de Martínez Quarta, la búsqueda de un central y las noticias de este martes 1° de septiembre",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-vivo-ultimas-noticias-martes-1-septiembre_0_liqFVi9Q6w.html",
-     "source": "Olé — River",
-     "published": "2026-09-01T12:21:09+00:00",
-     "copete": "A la espera de una posible salida del Chino, el Millonario sigue activo en el mercado de pases. Mientras tanto, Ponzio ya piensa en Independiente Rivadavia.",
-     "id": "b986b27fde13"
-    },
-    {
-     "title": "D'Onofrio: \"No hay que tenerle miedo a Tapia\"",
-     "link": "https://www.ole.com.ar/futbol-primera/rodolfodonofrio-claudiotapia-riverplate-afa-fifagate-stefanodicarlo_0_rqN6EpEVKd.html",
-     "source": "Olé — River",
-     "published": "2026-09-01T01:51:44+00:00",
-     "copete": "El ex presidente de River reclamó \"coraje\" de la dirigencia para decirle al presidente de la AFA. Además, recordó que \"Blatter renunció\" después de que la delegación argentina no lo apoyó y reveló que en 2017 el club de Núñez votó en…",
-     "id": "0c129c4fdc0d"
     },
     {
      "title": "Chubut es el nuevo campeón del M16 Desarrollo Sur",
@@ -204,14 +180,6 @@
      "published": "2026-08-29T22:32:33+00:00",
      "copete": "Por la Copa VISA Galicia, Los Pumas cayeron ante Australia, 27 a 21, en el Estadio 23 de Agosto, ubicado en Jujuy. El equipo argentino recibía a los Wallabies luego de la derrota 17 a 10 ante Sudáfrica en el Estadio José Amalfitani, el…",
      "id": "c47ccdfccbbb"
-    },
-    {
-     "title": "ARGENTINA XV GOLEÓ A PARAGUAY EN SU DEBUT EN EL AMÉRICAS RUGBY CHAMPIONSHIP",
-     "link": "https://uar.com.ar/argentina-xv-goleo-a-paraguay-en-su-debut-en-el-americas-rugby-championship/",
-     "source": "UAR",
-     "published": "2026-08-29T19:34:26+00:00",
-     "copete": "Por la Fecha 1 del Américas Rugby Championship, Argentina XV superó sin inconvenientes a Paraguay y goleó 58-11 en un entretenido encuentro disputado en el Estadio CAP Acero de la ciudad de Talcahuano, Chile. El equipo dirigido por Álvaro…",
-     "id": "ee4ce6e91003"
     }
    ]
   },
@@ -220,6 +188,50 @@
    "title": "Ciencia de datos e IA",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Codex bundles LibreOffice",
+     "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-09-01T19:03:01+00:00",
+     "copete": "I was poking around in my ~/.cache/ folder using OmniDiskSweeper when I spotted something interesting. The OpenAI Codex desktop app (since rebranded to just ChatGPT) has 1.7GB of stuff in there in a folder called codex-primary-runtime …",
+     "id": "4060d5fb1d26"
+    },
+    {
+     "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+     "link": "https://danluu.com/zitron/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-09-01T18:35:15+00:00",
+     "id": "3b73faf3a995"
+    },
+    {
+     "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+     "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-09-01T17:53:53+00:00",
+     "id": "3df5fbd9b803"
+    },
+    {
+     "title": "The creator of Jujutsu has joined ERSC",
+     "link": "https://ersc.io/blog/martin-joins-ersc",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-09-01T17:46:21+00:00",
+     "id": "d640857d5a6b"
+    },
+    {
+     "title": "Quoting Tarn Adams",
+     "link": "https://simonwillison.net/2026/Sep/1/tarn-adams/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-09-01T17:01:11+00:00",
+     "copete": "They took the letters from me! I have to talk about dwarf behavior now. I can't even talk about dwarf AI. It doesn't exist. It's dwarf behavior , and they misbehave sometimes — Tarn Adams , co-creator of Dwarf Fortress Tags: ai …",
+     "id": "f632cad25f3c"
+    },
+    {
+     "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+     "link": "https://github.com/carloslfu/slotstream",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-09-01T16:42:46+00:00",
+     "id": "6c4c62438da1"
+    },
     {
      "title": "Your JSON Is Valid but Your Data Is Wrong: Five Failure Modes LLM Structured Outputs Won't Catch",
      "link": "https://towardsdatascience.com/your-json-is-valid-but-your-data-is-wrong-five-failure-modes-llm-structured-outputs-wont-catch/",
@@ -251,50 +263,6 @@
      "published": "2026-09-01T14:00:02+00:00",
      "copete": "The hidden assumptions behind the data we observe. The post What We Miss About Missing Values appeared first on Towards Data Science .",
      "id": "a0f5be82a00f"
-    },
-    {
-     "title": "At senior levels, where do you draw the line between Data Science, Data Engineering, and Platform ownership?",
-     "link": "https://www.reddit.com/r/datascience/comments/1w4c38i/at_senior_levels_where_do_you_draw_the_line/",
-     "source": "r/datascience",
-     "published": "2026-09-01T13:31:15+00:00",
-     "id": "ea70641633e6"
-    },
-    {
-     "title": "Beyond Point Predictions: A Practical Introduction to Bayesian Neural Networks",
-     "link": "https://towardsdatascience.com/beyond-point-predictions-a-practical-introduction-to-bayesian-neural-networks/",
-     "source": "Towards Data Science",
-     "published": "2026-09-01T12:30:02+00:00",
-     "copete": "More informed decision-making through uncertainty quantification The post Beyond Point Predictions: A Practical Introduction to Bayesian Neural Networks appeared first on Towards Data Science .",
-     "id": "12868ad8e9c8"
-    },
-    {
-     "title": "7 Common Python Mistakes to Avoid in AI Workflows",
-     "link": "https://www.kdnuggets.com/7-common-python-mistakes-to-avoid-in-ai-workflows",
-     "source": "KDnuggets",
-     "published": "2026-09-01T12:00:21+00:00",
-     "copete": "A clean run proves the process executed. It says nothing about what the pipeline learned, from which rows, in what state, or whether the saved result can be trusted anywhere else.",
-     "id": "deab4ab4bbfb"
-    },
-    {
-     "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
-     "link": "https://github.com/ankidroid/Anki-Android/issues/21656",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-09-01T10:11:02+00:00",
-     "id": "cb2a71b21583"
-    },
-    {
-     "title": "44% on ARC-AGI-1 in 67 cents",
-     "link": "https://mvakde.github.io/blog/44-on-arc-1/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-09-01T09:52:45+00:00",
-     "id": "ab514fb2d1d5"
-    },
-    {
-     "title": "Restroom Archive",
-     "link": "https://restroomarchive.com",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-09-01T03:23:48+00:00",
-     "id": "9873a12fbbcf"
     }
    ]
   },
@@ -304,84 +272,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "PlayStation 5 ahora tiene televisión gratis con más de 100 canales y programas: desde The Walking Dead hasta Death Note",
-     "link": "https://www.infobae.com/tecno/2026/09/01/playstation-5-ahora-tiene-television-gratis-con-mas-de-100-canales-y-programas-desde-the-walking-dead-hasta-death-note/",
+     "title": "Tras otra reunión de la mesa política, el Gobierno buscará tratar la reforma electoral desde el 15 de septiembre",
+     "link": "https://www.infobae.com/politica/2026/09/01/karina-milei-encabeza-una-nueva-reunion-de-mesa-politica-la-reforma-electoral-y-los-proximos-pasos-de-la-agenda-legislativa/",
      "source": "Infobae",
-     "published": "2026-09-01T16:40:50+00:00",
-     "copete": "Los usuarios pueden encontrar programación de películas, series, anime, deportes en vivo, noticias, clima y otros formatos",
-     "id": "e4a3995d17eb"
+     "published": "2026-09-01T21:03:57+00:00",
+     "copete": "En Balcarce 50 consideran que la eliminación de las elecciones PASO, herramientas con la que el peronismo podría ordenar su interna. Karina Milei encabezó el nuevo encuentro del Ejecutivo en Casa Rosada. Los detalles",
+     "id": "7a93f3a083dc"
     },
     {
-     "title": "Antes de reunirse con Caputo,  Bessent elogió al país: “Argentina está liderando una oportunidad histórica en el hemisferio occidental”",
-     "link": "https://www.infobae.com/economia/2026/09/01/g20-de-estados-unidos-luis-caputo-se-reune-con-scott-bessent-para-ratificar-la-alianza-estrategica-y-analizar-la-situacion-global/",
+     "title": "Euro hoy en Guatemala: cotización de cierre del 1 de septiembre",
+     "link": "https://www.infobae.com/noticias/2026/09/01/euro-hoy-en-guatemala-cotizacion-de-cierre-del-1-de-septiembre/",
      "source": "Infobae",
-     "published": "2026-09-01T16:39:06+00:00",
-     "copete": "El secretario del Tesoro y el jefe del Palacio de Hacienda se encontrarán a las 15 en el hotel Ommi Grove Park Inn, sede de la cumbre del G20, en un escenario internacional afectado por la crisis de Medio Oriente y su impacto en la…",
-     "id": "135d5868aa6b"
+     "published": "2026-09-01T21:01:56+00:00",
+     "copete": "Este fue el comportamiento de la principal moneda europea durante los últimos minutos antes del cierre de operaciones",
+     "id": "ea8d8efaade2"
     },
     {
-     "title": "LLA avanza con la estrategia de dilación para discapacidad y morosidad y crece la presión opositora para forzar una definición",
-     "link": "https://www.infobae.com/politica/2026/09/01/lla-avanza-con-la-estrategia-de-dilacion-para-discapacidad-y-morosidad-y-crece-la-presion-opositora-para-forzar-una-definicion/",
+     "title": "Dólar hoy en Canadá: cotización de cierre del 1 de septiembre",
+     "link": "https://www.infobae.com/noticias/2026/09/01/dolar-hoy-en-canada-cotizacion-de-cierre-del-1-de-septiembre/",
      "source": "Infobae",
-     "published": "2026-09-01T16:39:02+00:00",
-     "copete": "Con citaciones separadas y sin plenarios que permitan firmar un despacho, el oficialismo abre un trámite que, para varios bloques, busca ganar tiempo antes de la sesión especial del 9 de septiembre",
-     "id": "c105a38f6d01"
+     "published": "2026-09-01T21:01:38+00:00",
+     "copete": "Este fue el comportamiento de la divisa estadounidense durante los últimos minutos de la jornada",
+     "id": "001ba4a2fb1c"
     },
     {
-     "title": "Explosiones y enormes llamas durante el incendio de una fábrica de colchones en Panamá",
-     "link": "https://www.infobae.com/panama/2026/09/01/explosiones-y-enormes-llamas-durante-un-incendio-en-una-fabrica-de-colchones-en-panama/",
+     "title": "Las acciones argentinas subieron hasta 7% en Wall Street y el riesgo país quedó cerca de romper el piso de los 500 puntos",
+     "link": "https://www.infobae.com/economia/2026/09/01/las-acciones-argentinas-subieron-hasta-7-en-wall-street-y-el-riesgo-pais-quedo-cerca-de-romper-el-piso-de-los-500-puntos/",
      "source": "Infobae",
-     "published": "2026-09-01T16:36:46+00:00",
-     "copete": "La presencia de espuma y materiales combustibles favoreció la rápida propagación del fuego, cuyo origen todavía es investigado.",
-     "id": "0c33f4bad47c"
+     "published": "2026-09-01T21:00:36+00:00",
+     "copete": "El S&P Merval subió 0,5% y esquivo la tendencia bajista de Wall Street, donde impactó el salto de más de 5% en el precio del petróleo. El dólar subió a $1.535 en el Banco Nación y las reservas volvieron a superar los USD 50.000 millones",
+     "id": "3e9449f3284b"
     },
     {
-     "title": "Steam añade a su catálogo un juego de aventuras y plataformas en 3D para reclamar gratis",
-     "link": "https://www.infobae.com/tecno/2026/09/01/steam-anade-a-su-catalogo-un-juego-de-aventuras-y-plataformas-en-3d-para-reclamar-gratis/",
+     "title": "Un estudio del MIT explica por qué algunas células acumulan hierro en exceso",
+     "link": "https://www.infobae.com/salud/ciencia/2026/09/01/un-estudio-del-mit-explica-por-que-algunas-celulas-acumulan-hierro-en-exceso/",
      "source": "Infobae",
-     "published": "2026-09-01T16:36:36+00:00",
-     "copete": "La propuesta es una aventura de plataformas en 3D centrada en exploración, saltos de precisión y recolección de objetos, con niveles llenos de rutas alternativas y secretos",
-     "id": "c1a0ed226c54"
+     "published": "2026-09-01T21:00:15+00:00",
+     "copete": "Los investigadores identificaron el mecanismo que normalmente protege al organismo de ese metal cuando se vuelve dañino, un hallazgo que podría abrir nuevas vías de tratamiento contra el cáncer y una forma temprana de Parkinson",
+     "id": "6b2a023656ea"
     },
     {
-     "title": "Rey Mysterio, el luchador mexicano que desafió todos los pronósticos: “Decían que alguien como yo nunca llegaría a WWE”",
-     "link": "https://www.clarin.com/internacional/rey-mysterio-luchador-mexicano-desafio-pronosticos-decian-alguien-llegaria-wwe_0_KA1S6XyBhO.html",
+     "title": "Mamdani presenta un plan para alcanzar la equidad racial en Nueva York",
+     "link": "https://www.clarin.com/estados-unidos/mamdani-presenta-un-plan-para-alcanzar-la-equidad-racial-en-nueva-york_0_k25JZPT8VF.html",
      "source": "Clarín",
-     "published": "2026-09-01T16:12:06+00:00",
-     "copete": "Desde hace muchísimos años es uno de los grandes animadores de la lucha profesional. Mide y pesa mucho menos que la mayoría de sus rivales.",
-     "id": "5c5204046c62"
+     "published": "2026-09-01T20:40:38+00:00",
+     "copete": "Nueva York lanza un ambicioso plan para combatir desigualdades raciales, fijando objetivos en vivienda, empleo y justicia para el 2034. El proyecto incluye más de 200 metas, con seguimiento bianual, y busca mejorar salud, educación y…",
+     "id": "5ac8441dfbb0"
     },
     {
-     "title": "Oficial y confirmado por el IRS | El gobierno nacional puede embargar bienes, salarios, autos y cuentas bancarias de los contribuyentes que no respondan al aviso CP504",
-     "link": "https://www.clarin.com/estados-unidos/oficial-confirmado-irs-gobierno-nacional-puede-embargar-bienes-salarios-autos-cuentas-bancarias-contribuyentes-respondan-aviso-cp504_0_Efb1pQMRkA.html",
+     "title": "Dos astronautas concluyen un paseo espacial con problemas de movilidad en un traje",
+     "link": "https://www.clarin.com/estados-unidos/dos-astronautas-concluyen-un-paseo-espacial-con-problemas-de-movilidad-en-un-traje_0_8HBamcvOos.html",
      "source": "Clarín",
-     "published": "2026-09-01T16:10:12+00:00",
-     "copete": "Los contribuyentes que reciban esta notificación no deben desestimarla. Por qué es una instancia clave dentro del proceso de cobro de una deuda tributaria.",
-     "id": "c29c59ada99f"
+     "published": "2026-09-01T20:40:35+00:00",
+     "copete": "Dos astronautas completaron una caminata espacial para instalar un reflector y cambiar una cámara, aunque enfrentaron un contratiempo con un traje. La salida, que se extendió por casi siete horas, fue la tercera para Adenot y la séptima…",
+     "id": "78065c27c56b"
     },
     {
-     "title": "Cuba inicia ciclo escolar pese a limitaciones causadas por la crisis y el cerco petrolero",
-     "link": "https://www.clarin.com/estados-unidos/cuba-inicia-ciclo-escolar-pese-a-limitaciones-causadas-por-la-crisis-y-el-cerco-petrolero_0_jIt59GrePO.html",
+     "title": "Rosario y Julieta Ortega visitaron el pueblo natal de Palito en Tucumán: todas las fotos del nostálgico paseo",
+     "link": "https://www.clarin.com/fama/rosario-julieta-ortega-visitaron-pueblo-natal-palito-tucuman-todas-fotos-nostalgico-paseo_0_64fPUsySUx.html",
      "source": "Clarín",
-     "published": "2026-09-01T16:10:12+00:00",
-     "copete": "Un millón y medio de estudiantes inicia el curso escolar en Cuba, enfrentando apagones y escasez de recursos por el embargo petrolero. Padres y docentes realizan esfuerzos para mantener la educación pese a las dificultades, con apoyo…",
-     "id": "0b4514ba2d25"
+     "published": "2026-09-01T20:39:48+00:00",
+     "copete": "Las hijas del cantante recurrieron el lugar de nacimiento de su padre. El viaje se dio en el marco de la nueva gira del popular intérprete por el interior del país.",
+     "id": "cd7628a9ea82"
     },
     {
-     "title": "El ascenso de Marine Le Pen y el dilema francés: el populismo de derecha que seduce a ricos y pobres",
-     "link": "https://www.clarin.com/mundo/ascenso-marine-pen-dilema-frances-populismo-derecha-seduce-ricos-pobres_0_Nq6GkFoz36.html",
+     "title": "'El Aleph' de Borges llega al Teatro Colón en un nuevo ballet dirigido por Julio Bocca",
+     "link": "https://www.clarin.com/cultura/aleph-borges-llega-teatro-colon-nuevo-ballet-dirigido-julio-bocca_0_TgvtkreLSX.html",
      "source": "Clarín",
-     "published": "2026-09-01T16:08:43+00:00",
-     "copete": "Por cuarta vez, Marine Le Pen, de Agrupación Nacional va por la presidencia. Pese a una condenada por corrupción, los sondeos la ubican en primer lugar, con un mensaje que atrae a los descontentos de la política tradicional.",
-     "id": "9e0364f7ce99"
+     "published": "2026-09-01T20:37:40+00:00",
+     "copete": "El Ballet Estable del Teatro Colón llevará por primera vez al escenario una creación inspirada en uno de los cuentos más emblemáticos de Jorge Luis Borges. Tendrá coreografía de Goyo Montero, música original de Gustavo Santaolalla y una…",
+     "id": "71dcfb820d17"
     },
     {
-     "title": "Martín, hijo de Iker Casillas y Sara Carbonero: “Mi padre siempre me dice que la humildad es lo más importante. Y que en los penaltis, si me tengo que tirar a un lado, que lo haga bien”",
-     "link": "https://www.clarin.com/internacional/martin-hijo-iker-casillas-sara-carbonero-padre-siempre-dice-humildad-importante-penaltis-tirar-lado-haga-bien_0_uXIyfRaN4X.html",
+     "title": "Una escultura de 190 metros de altura que desafía al viento",
+     "link": "https://www.clarin.com/arq/arquitectura/escultura-190-metros-altura-desafia-viento_0_VqG6Anxlw4.html",
      "source": "Clarín",
-     "published": "2026-09-01T16:07:56+00:00",
-     "copete": "El adolescente de 12 años sigue los pasos de su padre y ya juega en las inferiores del Real Madrid. Sin embargo, tiene claro que quiere hacer su propia carrera.",
-     "id": "097e3e525bd2"
+     "published": "2026-09-01T20:37:36+00:00",
+     "copete": "Con 53 pisos y unidades completamente distintas, Harbour Tower redefine el horizonte de Puerto Madero. Alberga un penthouse dúplex que acaba de salir a la venta por uS$ 21 millones.",
+     "id": "bf364717282c"
     }
    ]
   },
@@ -391,84 +359,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Trump dice que la posición de EE.UU. sobre las Malvinas/Falklands está bajo revisión",
-     "link": "https://www.bbc.com/mundo/articles/cp93yrnv4xeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-01T16:36:26+00:00",
-     "copete": "Reino Unido respondió que los habitantes de las Islas Malvinas \"son británicos y tienen derecho a determinar su propio futuro\".",
-     "id": "1bd050f73dbd"
-    },
-    {
-     "title": "Trump says US position on Falklands 'one of many' under review",
-     "link": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-09-01T16:35:28+00:00",
-     "copete": "The UK says Falkland islanders \"are British with a right to determine their own future\".",
-     "id": "f3bb76bbe40a"
-    },
-    {
-     "title": "Pistol in a lake gives hope for French cold case",
-     "link": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-09-01T16:33:29+00:00",
-     "copete": "Saad al-Hilli was shot dead with his wife and mother-in-law while holidaying in eastern France in September 2012.",
-     "id": "f8870adb1678"
-    },
-    {
      "title": "Germany says Russia behind Leipzig airport drone attack",
      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-09-01T16:31:43+00:00",
+     "published": "2026-09-01T21:05:22+00:00",
      "copete": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
      "id": "10a1cf734426"
     },
     {
-     "title": "\"Una vez que presentas un país como mágico, es mucho más fácil destruirlo\"",
-     "link": "https://www.bbc.com/mundo/articles/c0qxe7xgn74o?at_medium=RSS&at_campaign=rss",
+     "title": "\"Que EE.UU. diga que es dueño de recursos en Venezuela puede generar resentimiento y las mismas razones por las que surgen los Hugo Chávez en América Latina\"",
+     "link": "https://www.bbc.com/mundo/articles/c4gqmz701vmo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-09-01T16:19:37+00:00",
-     "copete": "La escritora india Kiran Desai lleva décadas yendo a México y usando mucho de lo que ve en el país como fuente de sus premiadas novelas. En ellas, que exploran las tensiones del mundo globalizado, India y México terminan siendo países…",
-     "id": "e22d88e36e22"
+     "published": "2026-09-01T20:59:59+00:00",
+     "copete": "El politólogo Javier Corrales, que estudia desde hace años los hilos del poder en Venezuela, advierte en una entrevista que el acuerdo petrolero entre los gobiernos de Donald Trump y Delcy Rodríguez acarrea varios riesgos.",
+     "id": "6a501871cc68"
     },
     {
-     "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
+     "title": "US launches more strikes on Iran as state media reports explosions",
+     "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-09-01T16:11:18+00:00",
-     "copete": "Major efforts to rescue hydropower workers continue as Nepal's death toll exceeds 1,000.",
-     "id": "b4c36ef0729c"
+     "published": "2026-09-01T20:59:24+00:00",
+     "copete": "US Central Command accused Iran of targeting commercial shipping and American service members deployed in the region.",
+     "id": "eef742c7215c"
     },
     {
-     "title": "Cómo fueron los últimos minutos antes de que las inundaciones arrasaran la frontera entre Nepal y China",
-     "link": "https://www.bbc.com/mundo/articles/cqxv9xq7qy0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-01T15:44:20+00:00",
-     "copete": "Cientos de personas se encuentran desaparecidas de un paso fronterizo comercial vital entre Nepal y China tras las devastadoras inundaciones del Himalaya.",
-     "id": "e4ec05ba1dad"
-    },
-    {
-     "title": "Por qué han disminuido tan drásticamente las muertes por sobredosis de fentanilo en EE.UU.",
-     "link": "https://www.bbc.com/mundo/articles/cgjqv1p9n8lo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-01T14:45:39+00:00",
-     "copete": "Las cifras de muertes por fentanilo han caído en picado, pero las razones detrás de este fenómeno no están claras.",
-     "id": "e52da2ce47f4"
-    },
-    {
-     "title": "\"Estamos frente a problemas como el crecimiento de la IA para los cuales ni la derecha, ni la izquierda, ni el centro tienen soluciones\"",
-     "link": "https://www.bbc.com/mundo/articles/c1kx7l1xee7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-01T14:44:33+00:00",
-     "copete": "La distinguida cronista mexicana Alma Guillermoprieto reflexiona en una entrevista sobre la región que ha cubierto durante décadas y la violencia que sufre hoy por el narcotráfico y la \"guerra a las drogas\".",
-     "id": "982ded349fc1"
-    },
-    {
-     "title": "Starmer deja la política doméstica seis semanas después de su precipitada salida del poder",
-     "link": "https://elpais.com/internacional/2026-09-01/el-exprimer-ministro-britanico-keir-starmer-anuncia-que-dejara-su-escano-como-diputado.html",
+     "title": "Estados Unidos vuelve a bombardear Irán que responde con ataques contra sus efectivos en Jordania",
+     "link": "https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html",
      "source": "El País Internacional",
-     "published": "2026-09-01T14:10:32+00:00",
-     "copete": "Pese a su manifiesta intención de seguir como diputado, sigue los pasos de Blair o Cameron al abandonar casi inmediatamente el Parlamento",
-     "id": "db27d92719b6"
+     "published": "2026-09-01T20:42:07+00:00",
+     "copete": "Trump asegura que la negociación “es papel mojado” y Teherán responde con ataques contra una base estadounidense en Jordania",
+     "id": "770053970340"
+    },
+    {
+     "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
+     "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-09-01T20:24:28+00:00",
+     "copete": "The Israeli military says it carried out strikes in Gaza City during a raid by special forces to capture the head of Hamas's internal security service.",
+     "id": "1452b76e2d1a"
+    },
+    {
+     "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
+     "link": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-09-01T20:05:23+00:00",
+     "copete": "The Massachusetts mother is facing murder charges for killing her three children at their family home in 2023.",
+     "id": "8c82411987d8"
+    },
+    {
+     "title": "En qué consiste el \"mayor acuerdo petrolero de la historia\" anunciado por EE.UU. y Venezuela, y por qué es tan polémico",
+     "link": "https://www.bbc.com/mundo/articles/c783xln84p1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-09-01T19:23:44+00:00",
+     "copete": "El acuerdo anunciado por Donald Trump y Delcy Rodríguez le otorga acceso a EE.UU. a campos con reservas probadas de 65.000 millones de barriles de crudo venezolano.",
+     "id": "6ca57cddd268"
+    },
+    {
+     "title": "Burnham se estrena ante el Parlamento británico y promete “una política diferente”",
+     "link": "https://elpais.com/internacional/2026-09-01/burnham-se-estrena-ante-el-parlamento-britanico-y-promete-una-politica-diferente.html",
+     "source": "El País Internacional",
+     "published": "2026-09-01T18:11:37+00:00",
+     "copete": "Con un tono optimista pero sin medidas concretas, el primer ministro prevé más poder para las regiones y un mayor control público de los servicios clave",
+     "id": "d15ea67f6e69"
+    },
+    {
+     "title": "Alemania acusa a Rusia de un ataque con drones en el aeropuerto de Leipzig",
+     "link": "https://www.bbc.com/mundo/articles/c9dwey5qv1po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-09-01T17:39:35+00:00",
+     "copete": "El pasado 4 de agosto se descubrió un dron que transportaba un artefacto explosivo en el aeropuerto, cerca de aviones de carga ucranianos.",
+     "id": "7fcab20d5450"
+    },
+    {
+     "title": "La marcha del secretario del Ejército de Tierra descabeza una fuerza clave del Pentágono en plena guerra de Irán",
+     "link": "https://elpais.com/internacional/2026-09-01/el-secretario-del-ejercito-de-estados-unidos-dan-driscoll-dimite-por-los-despidos-en-la-cupula-de-las-fuerzas-armadas.html",
+     "source": "El País Internacional",
+     "published": "2026-09-01T17:00:57+00:00",
+     "copete": "La dimisión de Dan Driscoll llega después de meses de enfrentamientos con el secretario de Defensa, Pete Hegseth, y se suma a un largo elenco de salidas de altos mandos",
+     "id": "408f2a42b355"
     }
    ]
   }
@@ -478,6 +446,11 @@
    "section": "cardiologia",
    "feed": "Cardiology Trials",
    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+   "section": "cardiologia",
+   "feed": "Circulation (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "section": "cardiologia",

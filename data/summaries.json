@@ -1,100 +1,200 @@
 {
- "generated_at": "2026-08-28T10:06:49Z",
- "summaries": {
-  "00c0b213b733": {
-   "resumen": "Editorial del Journal of the American College of Cardiology (JACC), a cargo de Krumholz HM y colaboradores, sobre los números silenciosos que explican el funcionamiento —y las tensiones— del sistema de salud estadounidense. Vale la pena como contexto para entender cómo los incentivos económicos moldean la práctica cardiológica, aun cuando el sistema de referencia sea distinto al argentino."
-  },
-  "8bb7229cbbfb": {
-   "resumen": "Perspectiva del Journal of the American College of Cardiology (JACC), a cargo de Fuster V y colaboradores, que reinterpreta cómo aplicar hoy los resultados del histórico ensayo FREEDOM sobre revascularización en pacientes diabéticos con enfermedad coronaria de múltiples vasos, a la luz de la evolución de la angioplastia coronaria (PCI, percutaneous coronary intervention) y la cirugía de revascularización. Vale la pena porque la elección entre cirugía y PCI en el paciente diabético multivaso sigue siendo una decisión frecuente en la práctica diaria."
-  },
-  "7c0f9e079fed": {
-   "resumen": "Perspectiva del Journal of the American College of Cardiology (JACC), a cargo de Bonaca MP y colaboradores, que reflexiona sobre los avances logrados en un área de la cardiología y plantea los próximos pasos a acelerar. Vale la pena como balance de hacia dónde debería apuntar la disciplina en el corto plazo, más allá del dato puntual de un estudio."
-  },
-  "cecaf044c0de": {
-   "resumen": "Editorial de portada del European Heart Journal que presenta un número temático de insuficiencia cardíaca: repasa la segunda definición universal de la insuficiencia cardíaca, los niveles óptimos de potasio sérico, la fenotipificación de la hipertensión pulmonar, la amiloidosis cardíaca por transtiretina (ATTR, transthyretin amyloidosis) hereditaria y los desafíos del corazón artificial total. Vale la pena como mapa rápido de los temas que la revista prioriza este mes en insuficiencia cardíaca, aunque no reporta un estudio propio.",
-   "destacado": false
-  },
-  "8f7e44d8fdff": {
-   "resumen": "Simon Willison comenta el lanzamiento de Qwen3.8-Flash-Next, un nuevo modelo de pesos abiertos (open weights) del equipo Qwen, con arquitectura de mezcla de expertos (MoE, mixture of experts): tiene 125.000 millones de parámetros totales pero activa solo 6.000 millones por consulta, lo que lo hace liviano y rápido de correr. Le sirve a quien aprende análisis de datos porque muestra la tendencia hacia modelos grandes pero eficientes, ejecutables con menos recursos de cómputo.",
-   "destacado": false
-  },
-  "edf15f21d147": {
-   "resumen": "Aviso de seguridad de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) recogido por TCTMD sobre un problema en el sistema de purga del Impella, el dispositivo de asistencia ventricular percutánea de Abiomed usado en shock cardiogénico y procedimientos de alto riesgo. Vale la pena porque quienes indican o manejan el Impella en la práctica diaria necesitan estar al tanto de las alertas de seguridad que pueden afectar el funcionamiento del dispositivo.",
-   "destacado": false
-  },
-  "abd24d2dded3": {
-   "resumen": "Artículo de Towards Data Science que explica el origen matemático de la función sigmoide, ligada al número e, y su rol central en las redes neuronales. Le sirve a un médico que aprende análisis de datos porque la sigmoide es la función que convierte un puntaje en una probabilidad, la base de la regresión logística y de las capas de activación usadas en modelos de riesgo clínico.",
-   "destacado": false
-  },
-  "fb9c6fd5b42a": {
-   "resumen": "El autor entrenó seis modelos distintos para detección de fraude y descubrió que el de mejor métrica de evaluación no fue el elegido para producción, por la brecha entre las métricas académicas y las decisiones reales de negocio. Le sirve a quien aprende análisis de datos porque muestra, con un caso concreto, que la métrica más alta no siempre define el mejor modelo a implementar en la práctica.",
-   "destacado": true
-  },
-  "c18a4ea29475": {
-   "resumen": "El artículo analiza cómo la inteligencia artificial agéntica (agentic AI, sistemas de IA que ejecutan tareas de forma autónoma) está reemplazando cada vez más pasos de la cadena de análisis de datos, pero identifica una habilidad humana que todavía no logra reemplazar. Le sirve a quien aprende análisis de datos porque ayuda a distinguir qué tareas conviene delegar a un agente de IA y cuáles siguen requiriendo criterio propio.",
-   "destacado": false
-  },
-  "f6009ac73446": {
-   "resumen": "El artículo de KDnuggets recopila los prompts (instrucciones de texto) que ingenieros de Google consideran indispensables en su trabajo diario con inteligencia artificial. Le sirve a quien aprende análisis de datos porque ofrece ejemplos concretos de cómo formular pedidos efectivos a un asistente de IA para tareas de programación y análisis.",
-   "destacado": false
-  },
-  "53dd9bff1879": {
-   "resumen": "Nota de TCTMD (formato \"Quick Takes\" de la Society for Cardiovascular Angiography and Interventions) sobre los resultados a largo plazo de la válvula aórtica transcatéter ACURATE neo, un dispositivo autoexpandible usado en el reemplazo valvular aórtico percutáneo (TAVI, transcatheter aortic valve implantation). Vale la pena porque la durabilidad a largo plazo sigue siendo un dato clave a la hora de elegir plataforma de TAVI, sobre todo en pacientes de menor riesgo y expectativa de vida más larga.",
-   "destacado": false,
-   "analisis": "Diseño: Nota/video breve de TCTMD (formato SHJ Quick Takes) que comenta datos de seguimiento a largo plazo de la plataforma ACURATE neo; sin acceso a la fuente original no se puede precisar si se trata de un registro, una cohorte o un subestudio de un ensayo, ni el número de centros o pacientes.\nPoblación: pacientes sometidos a reemplazo valvular aórtico percutáneo (TAVI) con la válvula autoexpandible ACURATE neo.\nIntervención: implante de la válvula ACURATE neo, con seguimiento a largo plazo.\nResultados: no disponibles por falta de acceso a la fuente original.\nLimitaciones: sin la fuente primaria no se puede evaluar el tamaño muestral, el tiempo real de seguimiento ni el riesgo de sesgo.\nMensaje: aporta más evidencia de durabilidad a largo plazo de una plataforma de TAVI ampliamente usada, un dato relevante para la selección de dispositivo en pacientes de menor riesgo quirúrgico.\nNota: análisis sin acceso al abstract."
-  },
-  "c87f178961be": {
-   "resumen": "Nota de TCTMD (serie \"Behind the Science\") sobre el vínculo entre la fragilidad y la enfermedad de la válvula tricúspide. Vale la pena porque la fragilidad es un factor cada vez más tenido en cuenta al decidir quién se beneficia de una intervención tricuspídea transcatéter, un campo en plena expansión.",
-   "destacado": false,
-   "analisis": "Diseño: Nota de divulgación científica de TCTMD (serie \"Behind the Science\") sobre la relación entre fragilidad y enfermedad de la válvula tricúspide; sin acceso a la fuente no se puede precisar si resume un estudio puntual o es una revisión general del tema, ni su diseño o número de pacientes.\nPoblación: pacientes con enfermedad valvular tricuspídea, con foco en el subgrupo de pacientes frágiles o añosos.\nIntervención: no especificada con precisión; probablemente evalúa el rol de la fragilidad en la selección para reparo o reemplazo tricuspídeo transcatéter.\nResultados: no disponibles por falta de acceso a la fuente original.\nLimitaciones: sin la fuente primaria no se puede evaluar la evidencia citada ni su nivel de calidad.\nMensaje: refuerza que la evaluación de la fragilidad debería integrarse a la toma de decisiones en la enfermedad tricuspídea, aunque sin datos cuantitativos verificables desde el título.\nNota: análisis sin acceso al abstract."
-  },
-  "a7835a8699b1": {
-   "resumen": "Nota de TCTMD (formato SHJ Quick Takes) sobre si la revascularización coronaria completa importa en pacientes con enfermedad coronaria compleja de alto riesgo (CHIP, complex high-risk indicated PCI) que además reciben un reemplazo valvular aórtico percutáneo (TAVI). Vale la pena porque la combinación de enfermedad coronaria compleja y estenosis aórtica severa es cada vez más frecuente y la estrategia de revascularización en ese contexto todavía no está saldada.",
-   "destacado": true,
-   "analisis": "Diseño: Nota/video de TCTMD (SHJ Quick Takes) que comenta datos sobre revascularización coronaria completa en pacientes con angioplastia compleja de alto riesgo (CHIP) combinada con TAVI; sin acceso a la fuente original no se puede precisar si proviene de un registro, una cohorte o un análisis secundario, ni su tamaño muestral.\nPoblación: pacientes con enfermedad coronaria compleja de alto riesgo candidatos a angioplastia (CHIP) que también requieren reemplazo valvular aórtico percutáneo por estenosis aórtica severa.\nIntervención: revascularización coronaria completa versus incompleta en el contexto periprocedimiento de TAVI.\nResultados: no disponibles por falta de acceso a la fuente original.\nLimitaciones: sin la fuente primaria no se puede evaluar el tamaño muestral, el ajuste por confundidores ni la magnitud del beneficio.\nMensaje: aporta evidencia a un debate abierto sobre si vale la pena completar la revascularización coronaria en pacientes que van a TAVI, con impacto directo en la planificación de estos casos complejos.\nNota: análisis sin acceso al abstract."
-  },
-  "e9567fd41f50": {
-   "resumen": "Nota de TCTMD (serie \"Behind the Science Flashback\") sobre los resultados a mediano plazo de la válvula aórtica transcatéter Navitor. Vale la pena como actualización de durabilidad de una plataforma de TAVI de generación más reciente, un dato que pesa en la elección de dispositivo.",
-   "destacado": false,
-   "analisis": "Diseño: Nota de TCTMD (serie \"Behind the Science Flashback\") que repasa datos de seguimiento a mediano plazo de la válvula Navitor; sin acceso a la fuente original no se puede precisar si se trata de un registro, un estudio prospectivo o un subanálisis, ni el número de centros o pacientes.\nPoblación: pacientes sometidos a reemplazo valvular aórtico percutáneo (TAVI) con la válvula autoexpandible Navitor.\nIntervención: implante de la válvula Navitor, con seguimiento a mediano plazo.\nResultados: no disponibles por falta de acceso a la fuente original.\nLimitaciones: sin la fuente primaria no se puede evaluar el tamaño muestral, la tasa de seguimiento perdido ni el riesgo de sesgo.\nMensaje: suma evidencia de durabilidad a mediano plazo de una plataforma de TAVI relativamente nueva, relevante para comparar su desempeño frente a otros dispositivos disponibles.\nNota: análisis sin acceso al abstract."
-  },
-  "64c3c41cd6aa": {
-   "resumen": "Réplica de los autores dentro del formato de Registros de Casos del Massachusetts General Hospital publicado en el New England Journal of Medicine (NEJM), sobre una mujer de 70 años con palpitaciones, fatiga y disnea. Vale la pena como cierre del intercambio académico que sigue a la discusión del caso clínico, útil para el razonamiento diagnóstico en arritmias e insuficiencia cardíaca.",
-   "destacado": false
-  },
-  "04196dd38241": {
-   "resumen": "Caso clínico de la clásica serie de Registros de Casos del Massachusetts General Hospital, publicada en el New England Journal of Medicine (NEJM), sobre una mujer de 70 años con taquicardia, fatiga y disnea. Vale la pena como ejercicio de razonamiento clínico estructurado, el formato educativo por excelencia de la revista para entrenar el diagnóstico diferencial en cardiología.",
-   "destacado": false
-  },
-  "d48e6bd50d59": {
-   "resumen": "Réplica de los autores a una carta sobre tejido biológico de asistencia ventricular en insuficiencia cardíaca, publicada en el New England Journal of Medicine (NEJM). Vale la pena como seguimiento del debate científico en torno a esta terapia experimental de soporte mecánico/biológico para el corazón insuficiente.",
-   "destacado": false
-  },
-  "bc4e85f2709a": {
-   "resumen": "El mantenedor de un proyecto de código abierto se queja de recibir cada vez más contribuciones generadas con inteligencia artificial de baja calidad (\"AI slop\"), enviadas solo para inflar el currículum de quien las manda. Le sirve a quien aprende análisis de datos como advertencia sobre los límites éticos y de calidad al usar asistentes de IA para generar código o análisis: la herramienta ayuda, pero no reemplaza la revisión crítica ni la responsabilidad de quien firma el trabajo.",
-   "destacado": false
-  },
-  "3ceeb5bddfd6": {
-   "resumen": "Un juez de Estados Unidos falló que la lista negra que la administración Trump aplicó contra Anthropic, la empresa detrás de Claude, fue ilegal. Le sirve a quien sigue el panorama de la inteligencia artificial como referencia del marco regulatorio y político en que se desarrollan estos modelos, aunque no aporta contenido técnico de análisis de datos.",
-   "destacado": false
-  },
-  "6f6843c5a98a": {
-   "resumen": "Simon Willison documenta cómo logró hacer fallar el modo automático de Claude Code con el modelo Opus 5, la herramienta de programación asistida por inteligencia artificial de Anthropic. Le sirve a quien aprende análisis de datos porque expone de forma práctica las limitaciones actuales de los agentes de IA autónomos al automatizar tareas de programación, útil para calibrar cuánta supervisión humana siguen necesitando.",
-   "destacado": false
-  },
-  "0fb288ec6876": {
-   "resumen": "Publicación en Hacker News de dos proyectos de código abierto que recrean con motores modernos los clásicos videojuegos Tie Fighter y X-Wing Alliance de Star Wars. No aporta contenido de análisis de datos ni de inteligencia artificial, pero refleja qué proyectos de ingeniería de software captan la atención de la comunidad tecnológica ese día.",
-   "destacado": false
-  },
-  "a1b02a6424f5": {
-   "resumen": "Publicación en Hacker News de un proyecto de código abierto que funciona como alternativa a OpenRouter: un enrutador que usa los datos de uso real para ir mejorando la selección de modelo de inteligencia artificial en cada consulta. Le sirve a quien aprende análisis de datos porque ilustra cómo el propio patrón de uso puede convertirse en una señal para optimizar decisiones automatizadas, un concepto de aprendizaje continuo aplicado a la elección de modelos.",
-   "destacado": false
-  },
-  "ec2e31ac4a78": {
-   "resumen": "Los jugadores de Los Pumas se ilusionan con el desafío ante Australia y destacan la experiencia de jugar de local en Jujuy, una sede poco habitual para el seleccionado."
-  },
-  "27890c234587": {
-   "resumen": "La selección australiana de rugby, los Wallabies, llegó a Jujuy para el partido de este sábado ante Los Pumas, el primero que el seleccionado argentino disputa en esa provincia."
+  "generated_at": "2026-09-02T22:06:31Z",
+  "summaries": {
+    "e09a82c3a442": {
+      "resumen": "Recopilación de TCTMD (The Cardiovascular Research Foundation) con las diez notas de cardiología intervencionista más leídas de agosto. Es un buen termómetro mensual para detectar qué ensayos y controversias concentraron la atención de la comunidad de hemodinamia y cardiología estructural.",
+      "destacado": false
+    },
+    "171194a32187": {
+      "resumen": "TCTMD repasa el ensayo pivotal TRILUMINATE sobre reparación transcatéter de la válvula tricúspide, uno de los estudios que impulsó el desarrollo del intervencionismo estructural sobre esa válvula, hasta hace poco relegada frente a la mitral y la aórtica.",
+      "destacado": false,
+      "analisis": "Diseño: la nota de TCTMD repasa el ensayo pivotal TRILUMINATE; por el nombre se trata de un ensayo clínico que evaluó una intervención transcatéter sobre la válvula tricúspide. Sin el abstract original no se puede precisar aleatorización, cegamiento, cantidad de centros ni de pacientes.\nPoblación: pacientes con insuficiencia tricuspídea, según el foco temático del estudio; no es posible precisar gravedad ni criterios exactos de inclusión sin la fuente original.\nIntervención: reparación transcatéter de la válvula tricúspide, presumiblemente comparada con tratamiento médico (no confirmado desde el título de la nota).\nResultados: no informados en el título de la nota ni disponibles sin el abstract; no corresponde estimar cifras sin la fuente.\nLimitaciones: se trata de una nota periodística de divulgación y no del artículo original; sin abstract no es posible verificar metodología ni resultados.\nMensaje: la relevancia pasa por consolidar el intervencionismo estructural de la válvula tricúspide como área en desarrollo; el impacto clínico concreto requiere revisar la publicación original.\nNota: análisis sin acceso al abstract."
+    },
+    "38d89cb399db": {
+      "resumen": "Artículo del European Heart Journal (Revista Europea del Corazón) que revisa cómo los hallazgos de genética cardiovascular se están trasladando a la práctica clínica, desde la identificación de variantes de riesgo hasta la medicina de precisión en cardiología. Útil para entender hacia dónde va el diagnóstico genético en enfermedad cardiovascular.",
+      "destacado": false
+    },
+    "fb7cedd8e293": {
+      "resumen": "Episodio del podcast Cardialogue de TCTMD sobre el impacto del calor extremo en la salud cardiovascular, un tema cada vez más relevante por el cambio climático y su efecto en la carga de insuficiencia cardíaca y eventos coronarios.",
+      "destacado": false
+    },
+    "ad52daf13daa": {
+      "resumen": "TCTMD analiza los ensayos ACASA-TAVI y NOTION-4, que evaluaron el uso de anticoagulantes orales directos (DOAC, por sus siglas en inglés) después del reemplazo valvular aórtico transcatéter (TAVI). Los resultados de ambos estudios no fueron uniformes, lo que deja abierta la pregunta sobre el mejor esquema antitrombótico post-TAVI.",
+      "destacado": false,
+      "analisis": "Diseño: nota de TCTMD que compara dos ensayos clínicos, ACASA-TAVI y NOTION-4, sobre el uso de anticoagulantes orales directos después de un reemplazo valvular aórtico transcatéter. Sin los abstracts originales no se puede precisar aleatorización, cegamiento ni tamaño muestral de cada uno.\nPoblación: pacientes sometidos a TAVI, presumiblemente sin indicación previa de anticoagulación por otra causa (como fibrilación auricular), aunque no se puede confirmar sin la fuente.\nIntervención: anticoagulación oral directa versus antiagregación (u otro esquema estándar) luego de TAVI, comparando dos ensayos con diseños posiblemente distintos.\nResultados: no informados en el título ni disponibles sin los abstracts; el propio título anticipa 'mensajes mixtos', es decir, resultados no concordantes entre ambos ensayos, sin que se puedan precisar cifras.\nLimitaciones: comparar dos ensayos distintos desde una nota periodística, sin poder homogeneizar poblaciones ni definiciones de eventos entre ambos estudios.\nMensaje: la anticoagulación post-TAVI sigue sin una respuesta uniforme; la señal de 'mensajes mixtos' sugiere que todavía no hay un esquema antitrombótico único recomendable para todos los pacientes.\nNota: análisis sin acceso al abstract."
+    },
+    "c67fdcbe90b0": {
+      "resumen": "Artículo de JACC (Journal of the American College of Cardiology) que propone un sistema de alerta temprana climático-cardiovascular, pensado para anticipar picos de eventos cardíacos asociados a olas de calor o frío extremo. Se enmarca en la misma línea de investigación sobre clima y salud cardiovascular que el estudio sueco de esta edición.",
+      "destacado": false,
+      "analisis": "Diseño: propuesta conceptual publicada en JACC sobre un sistema de alerta temprana climático-cardiovascular; por el título no se puede establecer si incluye datos originales de un estudio poblacional o si es un marco teórico/metodológico.\nPoblación: no especificada en el título; el sistema propuesto aplicaría a poblaciones expuestas a variabilidad térmica extrema.\nIntervención: no aplica una intervención clínica clásica; se trataría del diseño de un sistema de vigilancia y alerta anticipada.\nResultados: no informados en el título ni disponibles sin el abstract.\nLimitaciones: sin el abstract no es posible confirmar si se trata de un estudio original, una revisión o una propuesta metodológica, lo que limita cualquier lectura crítica de validez o desempeño del sistema.\nMensaje: plantea la necesidad de anticipar el impacto cardiovascular del clima extremo con sistemas de vigilancia proactivos, en línea con la evidencia emergente sobre temperatura y eventos cardiovasculares.\nNota: análisis sin acceso al abstract."
+    },
+    "2d075d5ccc08": {
+      "resumen": "Estudio publicado en JACC que analiza, en un registro sueco, la relación entre olas de frío, olas de calor y temperaturas subóptimas con el riesgo de internación por insuficiencia cardíaca. Aporta evidencia poblacional concreta sobre cómo el clima extremo impacta en la carga de enfermedad cardiovascular.",
+      "destacado": false,
+      "analisis": "Diseño: estudio de cohorte o registro poblacional realizado en Suecia, según el título, que vincula datos de temperatura ambiental con hospitalizaciones por insuficiencia cardíaca; sin el abstract no se puede precisar el período analizado, el tamaño muestral ni el método estadístico.\nPoblación: habitantes de Suecia expuestos a distintas condiciones térmicas (olas de frío, olas de calor y temperatura no óptima), presumiblemente a partir de un registro nacional o regional.\nIntervención: no aplica en sentido estricto por tratarse de un estudio observacional; la 'exposición' analizada es la temperatura ambiental.\nResultados: no informados en el título ni disponibles sin el abstract; no corresponde estimar razones de riesgo sin la fuente original.\nLimitaciones: propio de los estudios ecológicos y de registro, el riesgo de factores de confusión no medidos (contaminación ambiental, humedad, acceso a salud) y la posible variabilidad estacional no capturada en el título.\nMensaje: refuerza que tanto el frío como el calor extremos —no solo el calor— son gatillos de descompensación de insuficiencia cardíaca, un dato relevante para la vigilancia epidemiológica y la prevención estacional.\nNota: análisis sin acceso al abstract."
+    },
+    "4b6e705d8b39": {
+      "resumen": "TCTMD repasa el ensayo AMUNDSEN en su serie 'Beyond the Data', que profundiza en el contexto y las implicancias prácticas de un estudio cardiovascular más allá de sus resultados numéricos.",
+      "destacado": false,
+      "analisis": "Diseño: nota de la serie 'Beyond the Data' de TCTMD que discute el ensayo AMUNDSEN; no se dispone de información sobre el diseño metodológico original (aleatorización, cegamiento, número de centros o de pacientes) sin acceso al artículo fuente.\nPoblación: no especificada en el título.\nIntervención: no especificada en el título.\nResultados: no informados en el título ni disponibles sin el abstract.\nLimitaciones: al ser una nota de discusión y contexto, y no el artículo original, sin abstract disponible no es posible una lectura crítica de metodología ni de resultados.\nMensaje: el formato 'Beyond the Data' suele aportar la mirada clínica práctica sobre cómo aplicar (o no) los hallazgos de un ensayo en la vida real; vale la pena revisar la nota completa para esa lectura cualitativa.\nNota: análisis sin acceso al abstract."
+    },
+    "dbfd1d410a99": {
+      "resumen": "Ensayo BRIDGE publicado en JACC, que evalúa la implementación protocolizada de manejo lipídico intensivo temprano después de un síndrome coronario agudo. Es un tema central para la práctica diaria: bajar el colesterol LDL rápido y de forma sistemática tras un infarto podría reducir eventos recurrentes.",
+      "destacado": true,
+      "analisis": "Diseño: ensayo clínico (BRIDGE Trial) publicado en JACC que evalúa la implementación protocolizada de manejo lipídico intensivo temprano; sin el abstract no se puede precisar si es aleatorizado, el número de centros ni de pacientes.\nPoblación: pacientes que cursaron un síndrome coronario agudo, candidatos a manejo lipídico intensivo temprano.\nIntervención: protocolo de manejo lipídico intensivo temprano (probablemente con estatinas de alta intensidad y/o terapias no estatínicas) versus el manejo estándar o no protocolizado.\nResultados: no informados en el título ni disponibles sin el abstract; no corresponde estimar reducción de LDL ni eventos sin la fuente original.\nLimitaciones: sin el abstract no se puede evaluar el riesgo de sesgos, el tiempo de seguimiento ni si los desenlaces reportados son clínicos duros o subrogados (nivel de colesterol LDL).\nMensaje: la implementación protocolizada del manejo lipídico intensivo temprano post-síndrome coronario agudo es una estrategia con potencial impacto en la práctica real, en línea con las guías que recomiendan bajar el LDL lo antes posible tras un evento agudo.\nNota: análisis sin acceso al abstract."
+    },
+    "4baac8f02ab5": {
+      "resumen": "Análisis secundario del ensayo DanGer Shock, publicado en JACC, que evalúa los costos hospitalarios asociados al uso de bombas de flujo microaxial (dispositivos de asistencia ventricular percutánea, como Impella) en el shock cardiogénico. Aporta la mirada económica a un tratamiento que ya mostró beneficio clínico en el ensayo original.",
+      "destacado": false,
+      "analisis": "Diseño: análisis secundario (de costos) del ensayo DanGer Shock, publicado en JACC; el estudio original fue un ensayo clínico aleatorizado que comparó bombas de flujo microaxial percutáneas contra el tratamiento estándar en shock cardiogénico. Sin el abstract de este análisis específico no se puede precisar la metodología de costeo empleada.\nPoblación: pacientes con shock cardiogénico incluidos originalmente en el ensayo DanGer Shock.\nIntervención: terapia con bomba de flujo microaxial (asistencia ventricular percutánea) versus tratamiento estándar, con foco en el costo hospitalario asociado a cada estrategia.\nResultados: no informados en el título ni disponibles sin el abstract; no corresponde estimar cifras de costo sin la fuente original.\nLimitaciones: los análisis de costos dependen fuertemente del sistema de salud y el esquema de facturación del país de origen (Dinamarca), lo que limita la extrapolación directa a otros sistemas sanitarios.\nMensaje: agrega la dimensión económica a un dispositivo con beneficio clínico ya demostrado, relevante para discusiones de costo-efectividad y asignación de recursos en unidades de cuidados críticos cardiovasculares.\nNota: análisis sin acceso al abstract."
+    },
+    "3e6570f9052d": {
+      "resumen": "Meta presentó la versión 1.3 de Muse Spark, uno de sus modelos de inteligencia artificial. Sirve como referencia rápida de hacia dónde avanza la competencia de modelos de IA, un contexto útil para entender qué herramientas podrían aplicarse en el futuro cercano al análisis de datos clínicos.",
+      "destacado": false
+    },
+    "fcff1692ca2a": {
+      "resumen": "El editor de imágenes Paint.NET lanzó una versión alpha que corre en Linux por primera vez. No es una herramienta de ciencia de datos en sí, pero es una buena señal de cómo el software libre en Linux sigue ganando terreno, el mismo entorno donde suelen correr la mayoría de los flujos de análisis de datos.",
+      "destacado": false
+    },
+    "8f3ab6280164": {
+      "resumen": "Actualización del plugin llm-gemini, que permite usar los modelos Gemini de Google desde la línea de comandos con la herramienta 'llm' de Simon Willison. Útil para quien está aprendiendo análisis de datos, porque simplifica probar modelos de lenguaje directamente desde scripts, sin escribir código de integración desde cero.",
+      "destacado": false
+    },
+    "a0627afd0ac1": {
+      "resumen": "Artículo de KDnuggets sobre cómo transformar el comportamiento de los usuarios en variables (features) útiles para modelos predictivos. Es una guía práctica de ingeniería de características, un paso clave en cualquier proyecto de análisis de datos, incluidos los aplicados a cohortes de pacientes.",
+      "destacado": false
+    },
+    "999bdd1f50e6": {
+      "resumen": "Nota de Towards Data Science sobre cómo evitar que las claves de identidad de una entidad (por ejemplo, un paciente o un producto) se desalineen con el tiempo dentro de un lago de datos, y por qué el emparejamiento difuso (fuzzy matching) deja de funcionar en esos casos. Muy relevante para quien arma bases clínicas: identificar correctamente a cada paciente entre distintas fuentes es un problema real y recurrente.",
+      "destacado": false
+    },
+    "31a63e18c7f4": {
+      "resumen": "Google lanzó Gemini 3.8 Flash y una variante 'Cyber' orientada a tareas de ciberseguridad. Sirve como referencia del ritmo de actualización de los modelos livianos de inteligencia artificial, cada vez más usados para análisis rápido y automatización de bajo costo.",
+      "destacado": false
+    },
+    "8012cf858374": {
+      "resumen": "The New York Times informa que Google evitó una fragmentación forzada de su negocio de tecnología publicitaria tras el litigio antimonopolio en Estados Unidos. Es una noticia de contexto regulatorio sobre una de las empresas que domina la infraestructura de datos e inteligencia artificial a nivel global.",
+      "destacado": false
+    },
+    "bbaa7e92c7f7": {
+      "resumen": "Simon Willison analiza cómo el nuevo mensaje de sistema (system prompt) de Claude está diseñado para evitar reproducir letras de canciones protegidas por derechos de autor. Es un buen ejemplo práctico de cómo los proveedores de inteligencia artificial ajustan el comportamiento de sus modelos mediante instrucciones, algo útil de entender para cualquiera que use IA como herramienta de trabajo.",
+      "destacado": false
+    },
+    "aa31b5d54404": {
+      "resumen": "KDnuggets presenta una librería de Python que acelera hasta 20 veces las tareas típicas de pandas, la herramienta más usada para manipular datos en ese lenguaje. Para un médico que está aprendiendo análisis de datos, es una alternativa concreta para que los mismos scripts corran mucho más rápido sin cambiar demasiado el código.",
+      "destacado": true
+    },
+    "5c92d5e8d5bb": {
+      "resumen": "Towards Data Science explica qué necesita un sistema de generación aumentada por recuperación (RAG, por sus siglas en inglés) para poder responder honestamente 'esto no está en el documento' en lugar de inventar una respuesta. Es clave para confiar en herramientas de IA aplicadas a buscar información en historias clínicas o literatura médica sin que alucinen datos.",
+      "destacado": false
+    },
+    "0756eca16c6f": {
+      "resumen": "Una fractura obliga a un cambio en el plantel de Los Pumas de cara a la revancha frente a Australia."
+    },
+    "bb44e7356b5a": {
+      "resumen": "Quedan dudas sobre si finalmente se cae el pase de Solari a Newell's Old Boys."
+    },
+    "e25ac7b07563": {
+      "resumen": "Aldosivi navega sin rumbo en el campeonato y Pipo Gorosito ya le bajó el pulgar a la situación del equipo."
+    },
+    "1df9a2f782e1": {
+      "resumen": "Independiente sorprendió con una serie de ventas insólitas en el cierre del mercado de pases."
+    },
+    "7435c98c9171": {
+      "resumen": "El fútbol argentino prepara un homenaje especial a Lionel Messi para la próxima fecha del torneo."
+    },
+    "275d78a2a30d": {
+      "resumen": "A los 15 años, Heraldo Fiorotto es el máximo goleador entre todas las categorías juveniles de River en la AFA."
+    },
+    "4dd08d64b17b": {
+      "resumen": "A horas del cierre del mercado en Argentina, sigue sin resolverse la situación de dos jugadores marginados en River."
+    },
+    "cc887f6458e8": {
+      "resumen": "Argentina XV le ganó a Uruguay XV en Santiago, según informó la Unión Argentina de Rugby (UAR)."
+    },
+    "5d14f058abc7": {
+      "resumen": "Matías Galarza Fonda pasó de estar marginado en River a ser compañero de Lionel Messi en el Inter Miami."
+    },
+    "e3674e702490": {
+      "resumen": "River retomó los entrenamientos con la atención puesta en la situación de Aníbal Moreno."
+    },
+    "0468f37fe1f0": {
+      "resumen": "La historia de hinchas mendocinos que volvieron a casa tras alentar a Los Pumas frente a Australia."
+    },
+    "0874df89fbb0": {
+      "resumen": "Un futbolista que pasó por River y Boca ahora jugará en la liga regional de Mendoza."
+    },
+    "5ca034a8ece8": {
+      "resumen": "Un jugador formado en Tucumán Rugby, con paso como titular en Tarucas, fue convocado a Los Pumas 7's."
+    },
+    "9250397b9fde": {
+      "resumen": "La Unión Argentina de Rugby (UAR) confirmó la lista de 23 convocados de Argentina XV para enfrentar a Uruguay XV."
+    },
+    "e89079e7997f": {
+      "resumen": "En Estados Unidos reportan escasez de la PlayStation 5 Pro justo antes del lanzamiento de GTA 6."
+    },
+    "8859a66118cc": {
+      "resumen": "Murió a los 79 años un reconocido médico que trabajó junto a René Favaloro y llevó su pasión por la investigación al campo."
+    },
+    "fe12b20cc9dc": {
+      "resumen": "El presidente de Honduras, Asfura, reafirmó su compromiso con el país y prometió acelerar medidas para fortalecer la seguridad."
+    },
+    "57f1d50e8989": {
+      "resumen": "Una pizza fueguina de centolla, pescada y cocida en agua de mar, compite por el título a la mejor pizza del mundo."
+    },
+    "b22da758a120": {
+      "resumen": "Elementa le compró a Molinos los activos industriales de Santa Clara y anunció una inversión de 100 millones de dólares."
+    },
+    "6d6187d3c8f1": {
+      "resumen": "Mary Austin recordó cómo reaccionó Freddie Mercury cuando escuchó 'Bohemian Rhapsody' por primera vez."
+    },
+    "e6de55e9b9e6": {
+      "resumen": "Se confirmó la fecha oficial del lanzamiento del iPhone 18 y cuándo empezará a venderse en Estados Unidos."
+    },
+    "100e425ee0cf": {
+      "resumen": "Una confesión empresaria poco habitual reabre el debate sobre si el Gobierno debería ajustar el rumbo económico."
+    },
+    "380b4ea5067f": {
+      "resumen": "El paso Cristo Redentor vuelve a cerrarse por la llegada de nuevas nevadas intensas."
+    },
+    "44bf4387e525": {
+      "resumen": "Especialistas alertan sobre el fenómeno 'Súper Niño' y su impacto en el patrón climático de la Argentina y el mundo hasta fin de año."
+    },
+    "6347533363fc": {
+      "resumen": "La Justicia ordenó la libertad de una mujer presa durante 13 años, en un fallo que reconoció el contexto de pobreza, violencia y vulnerabilidad."
+    },
+    "58aa3414587a": {
+      "resumen": "Se conocieron nuevos detalles del ataque sufrido por Toñi, la orca más longeva del Estrecho de Gibraltar."
+    },
+    "ccedae1703cd": {
+      "resumen": "Uber cerró de forma inmediata sus operaciones en Nigeria y Uganda."
+    },
+    "cd5bad42290d": {
+      "resumen": "El jurado del caso de Lindsay Clancy todavía no logra llegar a un veredicto unánime."
+    },
+    "db9b9e6501bf": {
+      "resumen": "Donald Trump sostuvo que Venezuela todavía no está en condiciones de ir a elecciones."
+    },
+    "b6c5af4368d4": {
+      "resumen": "Un empresario maltés fue absuelto de haber orquestado el asesinato de un reconocido periodista."
+    },
+    "5ff02e054c7c": {
+      "resumen": "Arabia Saudita afirmó que un ataque iraní contra un petrolero saudí mató a dos marineros filipinos."
+    },
+    "6fcb63f3de49": {
+      "resumen": "Cinco mil marines estadounidenses desembarcaron en Pattaya, la llamada 'ciudad del pecado' de Tailandia, tras más de ocho meses en alta mar."
+    },
+    "af0ad88c3667": {
+      "resumen": "Un 'incendio' en el mercado de bonos tiene en vilo a los líderes mundiales por su potencial impacto económico."
+    },
+    "dd087e6a985b": {
+      "resumen": "Chevron anunció que duplicará su presencia en Venezuela con una inversión de 7.000 millones de dólares."
+    },
+    "78407b5ab2f7": {
+      "resumen": "Kaja Kallas calificó el ataque fallido con drones en el aeropuerto de Leipzig como 'terrorismo de Estado'."
+    },
+    "76834959160a": {
+      "resumen": "Quién es Alejandro Betancourt, el polémico empresario venezolano detrás del acuerdo petrolero entre Estados Unidos y Venezuela."
+    }
   }
- }
 }

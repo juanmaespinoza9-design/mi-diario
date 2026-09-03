@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T22:06:31Z",
+  "generated_at": "2026-09-03T10:04:37Z",
   "summaries": {
     "e09a82c3a442": {
       "resumen": "Recopilación de TCTMD (The Cardiovascular Research Foundation) con las diez notas de cardiología intervencionista más leídas de agosto. Es un buen termómetro mensual para detectar qué ensayos y controversias concentraron la atención de la comunidad de hemodinamia y cardiología estructural.",
@@ -33,11 +33,6 @@
       "destacado": false,
       "analisis": "Diseño: estudio de cohorte o registro poblacional realizado en Suecia, según el título, que vincula datos de temperatura ambiental con hospitalizaciones por insuficiencia cardíaca; sin el abstract no se puede precisar el período analizado, el tamaño muestral ni el método estadístico.\nPoblación: habitantes de Suecia expuestos a distintas condiciones térmicas (olas de frío, olas de calor y temperatura no óptima), presumiblemente a partir de un registro nacional o regional.\nIntervención: no aplica en sentido estricto por tratarse de un estudio observacional; la 'exposición' analizada es la temperatura ambiental.\nResultados: no informados en el título ni disponibles sin el abstract; no corresponde estimar razones de riesgo sin la fuente original.\nLimitaciones: propio de los estudios ecológicos y de registro, el riesgo de factores de confusión no medidos (contaminación ambiental, humedad, acceso a salud) y la posible variabilidad estacional no capturada en el título.\nMensaje: refuerza que tanto el frío como el calor extremos —no solo el calor— son gatillos de descompensación de insuficiencia cardíaca, un dato relevante para la vigilancia epidemiológica y la prevención estacional.\nNota: análisis sin acceso al abstract."
     },
-    "4b6e705d8b39": {
-      "resumen": "TCTMD repasa el ensayo AMUNDSEN en su serie 'Beyond the Data', que profundiza en el contexto y las implicancias prácticas de un estudio cardiovascular más allá de sus resultados numéricos.",
-      "destacado": false,
-      "analisis": "Diseño: nota de la serie 'Beyond the Data' de TCTMD que discute el ensayo AMUNDSEN; no se dispone de información sobre el diseño metodológico original (aleatorización, cegamiento, número de centros o de pacientes) sin acceso al artículo fuente.\nPoblación: no especificada en el título.\nIntervención: no especificada en el título.\nResultados: no informados en el título ni disponibles sin el abstract.\nLimitaciones: al ser una nota de discusión y contexto, y no el artículo original, sin abstract disponible no es posible una lectura crítica de metodología ni de resultados.\nMensaje: el formato 'Beyond the Data' suele aportar la mirada clínica práctica sobre cómo aplicar (o no) los hallazgos de un ensayo en la vida real; vale la pena revisar la nota completa para esa lectura cualitativa.\nNota: análisis sin acceso al abstract."
-    },
     "dbfd1d410a99": {
       "resumen": "Ensayo BRIDGE publicado en JACC, que evalúa la implementación protocolizada de manejo lipídico intensivo temprano después de un síndrome coronario agudo. Es un tema central para la práctica diaria: bajar el colesterol LDL rápido y de forma sistemática tras un infarto podría reducir eventos recurrentes.",
       "destacado": true,
@@ -50,10 +45,6 @@
     },
     "3e6570f9052d": {
       "resumen": "Meta presentó la versión 1.3 de Muse Spark, uno de sus modelos de inteligencia artificial. Sirve como referencia rápida de hacia dónde avanza la competencia de modelos de IA, un contexto útil para entender qué herramientas podrían aplicarse en el futuro cercano al análisis de datos clínicos.",
-      "destacado": false
-    },
-    "fcff1692ca2a": {
-      "resumen": "El editor de imágenes Paint.NET lanzó una versión alpha que corre en Linux por primera vez. No es una herramienta de ciencia de datos en sí, pero es una buena señal de cómo el software libre en Linux sigue ganando terreno, el mismo entorno donde suelen correr la mayoría de los flujos de análisis de datos.",
       "destacado": false
     },
     "8f3ab6280164": {
@@ -72,10 +63,6 @@
       "resumen": "Google lanzó Gemini 3.8 Flash y una variante 'Cyber' orientada a tareas de ciberseguridad. Sirve como referencia del ritmo de actualización de los modelos livianos de inteligencia artificial, cada vez más usados para análisis rápido y automatización de bajo costo.",
       "destacado": false
     },
-    "8012cf858374": {
-      "resumen": "The New York Times informa que Google evitó una fragmentación forzada de su negocio de tecnología publicitaria tras el litigio antimonopolio en Estados Unidos. Es una noticia de contexto regulatorio sobre una de las empresas que domina la infraestructura de datos e inteligencia artificial a nivel global.",
-      "destacado": false
-    },
     "bbaa7e92c7f7": {
       "resumen": "Simon Willison analiza cómo el nuevo mensaje de sistema (system prompt) de Claude está diseñado para evitar reproducir letras de canciones protegidas por derechos de autor. Es un buen ejemplo práctico de cómo los proveedores de inteligencia artificial ajustan el comportamiento de sus modelos mediante instrucciones, algo útil de entender para cualquiera que use IA como herramienta de trabajo.",
       "destacado": false
@@ -88,113 +75,35 @@
       "resumen": "Towards Data Science explica qué necesita un sistema de generación aumentada por recuperación (RAG, por sus siglas en inglés) para poder responder honestamente 'esto no está en el documento' en lugar de inventar una respuesta. Es clave para confiar en herramientas de IA aplicadas a buscar información en historias clínicas o literatura médica sin que alucinen datos.",
       "destacado": false
     },
-    "0756eca16c6f": {
-      "resumen": "Una fractura obliga a un cambio en el plantel de Los Pumas de cara a la revancha frente a Australia."
-    },
-    "bb44e7356b5a": {
-      "resumen": "Quedan dudas sobre si finalmente se cae el pase de Solari a Newell's Old Boys."
-    },
-    "e25ac7b07563": {
-      "resumen": "Aldosivi navega sin rumbo en el campeonato y Pipo Gorosito ya le bajó el pulgar a la situación del equipo."
-    },
-    "1df9a2f782e1": {
-      "resumen": "Independiente sorprendió con una serie de ventas insólitas en el cierre del mercado de pases."
-    },
-    "7435c98c9171": {
-      "resumen": "El fútbol argentino prepara un homenaje especial a Lionel Messi para la próxima fecha del torneo."
-    },
-    "275d78a2a30d": {
-      "resumen": "A los 15 años, Heraldo Fiorotto es el máximo goleador entre todas las categorías juveniles de River en la AFA."
-    },
-    "4dd08d64b17b": {
-      "resumen": "A horas del cierre del mercado en Argentina, sigue sin resolverse la situación de dos jugadores marginados en River."
-    },
     "cc887f6458e8": {
       "resumen": "Argentina XV le ganó a Uruguay XV en Santiago, según informó la Unión Argentina de Rugby (UAR)."
-    },
-    "5d14f058abc7": {
-      "resumen": "Matías Galarza Fonda pasó de estar marginado en River a ser compañero de Lionel Messi en el Inter Miami."
-    },
-    "e3674e702490": {
-      "resumen": "River retomó los entrenamientos con la atención puesta en la situación de Aníbal Moreno."
     },
     "0468f37fe1f0": {
       "resumen": "La historia de hinchas mendocinos que volvieron a casa tras alentar a Los Pumas frente a Australia."
     },
-    "0874df89fbb0": {
-      "resumen": "Un futbolista que pasó por River y Boca ahora jugará en la liga regional de Mendoza."
-    },
-    "5ca034a8ece8": {
-      "resumen": "Un jugador formado en Tucumán Rugby, con paso como titular en Tarucas, fue convocado a Los Pumas 7's."
-    },
     "9250397b9fde": {
       "resumen": "La Unión Argentina de Rugby (UAR) confirmó la lista de 23 convocados de Argentina XV para enfrentar a Uruguay XV."
     },
-    "e89079e7997f": {
-      "resumen": "En Estados Unidos reportan escasez de la PlayStation 5 Pro justo antes del lanzamiento de GTA 6."
-    },
-    "8859a66118cc": {
-      "resumen": "Murió a los 79 años un reconocido médico que trabajó junto a René Favaloro y llevó su pasión por la investigación al campo."
-    },
-    "fe12b20cc9dc": {
-      "resumen": "El presidente de Honduras, Asfura, reafirmó su compromiso con el país y prometió acelerar medidas para fortalecer la seguridad."
-    },
-    "57f1d50e8989": {
-      "resumen": "Una pizza fueguina de centolla, pescada y cocida en agua de mar, compite por el título a la mejor pizza del mundo."
-    },
-    "b22da758a120": {
-      "resumen": "Elementa le compró a Molinos los activos industriales de Santa Clara y anunció una inversión de 100 millones de dólares."
-    },
-    "6d6187d3c8f1": {
-      "resumen": "Mary Austin recordó cómo reaccionó Freddie Mercury cuando escuchó 'Bohemian Rhapsody' por primera vez."
-    },
-    "e6de55e9b9e6": {
-      "resumen": "Se confirmó la fecha oficial del lanzamiento del iPhone 18 y cuándo empezará a venderse en Estados Unidos."
-    },
-    "100e425ee0cf": {
-      "resumen": "Una confesión empresaria poco habitual reabre el debate sobre si el Gobierno debería ajustar el rumbo económico."
-    },
-    "380b4ea5067f": {
-      "resumen": "El paso Cristo Redentor vuelve a cerrarse por la llegada de nuevas nevadas intensas."
-    },
-    "44bf4387e525": {
-      "resumen": "Especialistas alertan sobre el fenómeno 'Súper Niño' y su impacto en el patrón climático de la Argentina y el mundo hasta fin de año."
-    },
-    "6347533363fc": {
-      "resumen": "La Justicia ordenó la libertad de una mujer presa durante 13 años, en un fallo que reconoció el contexto de pobreza, violencia y vulnerabilidad."
-    },
-    "58aa3414587a": {
-      "resumen": "Se conocieron nuevos detalles del ataque sufrido por Toñi, la orca más longeva del Estrecho de Gibraltar."
-    },
-    "ccedae1703cd": {
-      "resumen": "Uber cerró de forma inmediata sus operaciones en Nigeria y Uganda."
-    },
-    "cd5bad42290d": {
-      "resumen": "El jurado del caso de Lindsay Clancy todavía no logra llegar a un veredicto unánime."
-    },
-    "db9b9e6501bf": {
-      "resumen": "Donald Trump sostuvo que Venezuela todavía no está en condiciones de ir a elecciones."
-    },
-    "b6c5af4368d4": {
-      "resumen": "Un empresario maltés fue absuelto de haber orquestado el asesinato de un reconocido periodista."
-    },
-    "5ff02e054c7c": {
-      "resumen": "Arabia Saudita afirmó que un ataque iraní contra un petrolero saudí mató a dos marineros filipinos."
-    },
-    "6fcb63f3de49": {
-      "resumen": "Cinco mil marines estadounidenses desembarcaron en Pattaya, la llamada 'ciudad del pecado' de Tailandia, tras más de ocho meses en alta mar."
-    },
-    "af0ad88c3667": {
-      "resumen": "Un 'incendio' en el mercado de bonos tiene en vilo a los líderes mundiales por su potencial impacto económico."
-    },
-    "dd087e6a985b": {
-      "resumen": "Chevron anunció que duplicará su presencia en Venezuela con una inversión de 7.000 millones de dólares."
-    },
-    "78407b5ab2f7": {
-      "resumen": "Kaja Kallas calificó el ataque fallido con drones en el aeropuerto de Leipzig como 'terrorismo de Estado'."
-    },
     "76834959160a": {
       "resumen": "Quién es Alejandro Betancourt, el polémico empresario venezolano detrás del acuerdo petrolero entre Estados Unidos y Venezuela."
+    },
+    "483f4a8196a9": {
+      "resumen": "Episodio del podcast Cardialogue de TCTMD (The Cardiovascular Research Foundation) que discute si la inteligencia artificial (IA) está mejorando o empeorando la equidad en el sistema de salud. Un tema cada vez más relevante a medida que los algoritmos de IA se incorporan a la toma de decisiones clínicas, con el riesgo de reproducir sesgos ya presentes en los datos con los que fueron entrenados.",
+      "destacado": false
+    },
+    "41f1261bfdcd": {
+      "resumen": "Publicación personal, destacada en Hacker News, que reflexiona sobre el deseo de llevar una vida más simple y rutinaria, comparándola con la de un personaje no jugable (NPC, por sus siglas en inglés) de un videojuego, frente a la presión de optimización constante de la cultura tecnológica. No es una herramienta técnica de ciencia de datos, pero sirve como mirada crítica sobre el ritmo de vida ligado a la tecnología, algo relevante para quien está migrando su carrera hacia el análisis de datos.",
+      "destacado": false
+    },
+    "57998d94242a": {
+      "resumen": "Repositorio de GitHub de PhiloLabs sobre Fable 5.1, un sistema de modelado de mundos (world modeling): un tipo de modelo de inteligencia artificial (IA) que aprende a simular y predecir cómo evoluciona un entorno a partir de datos. Este enfoque es la base de agentes de IA capaces de planificar sobre simulaciones, útil como referencia de hacia dónde avanza la IA más allá del entrenamiento supervisado clásico con el que suele empezar quien aprende análisis de datos.",
+      "destacado": false
+    },
+    "9ce975f3dea2": {
+      "resumen": "El wing de Los Pumas contó su ilusión de ganarle a los Wallabies y recordó la primera vez que vio a la Selección jugar en Mendoza."
+    },
+    "baa8c3fbc26f": {
+      "resumen": "El paso de Los Pumas por Jujuy dejó un balance positivo y proyectó a la provincia en el escenario internacional del rugby."
     }
   }
 }

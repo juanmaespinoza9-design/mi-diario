@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T10:04:37Z",
+  "generated_at": "2026-09-03T22:05:16Z",
   "summaries": {
     "e09a82c3a442": {
       "resumen": "Recopilación de TCTMD (The Cardiovascular Research Foundation) con las diez notas de cardiología intervencionista más leídas de agosto. Es un buen termómetro mensual para detectar qué ensayos y controversias concentraron la atención de la comunidad de hemodinamia y cardiología estructural.",
@@ -43,67 +43,64 @@
       "destacado": false,
       "analisis": "Diseño: análisis secundario (de costos) del ensayo DanGer Shock, publicado en JACC; el estudio original fue un ensayo clínico aleatorizado que comparó bombas de flujo microaxial percutáneas contra el tratamiento estándar en shock cardiogénico. Sin el abstract de este análisis específico no se puede precisar la metodología de costeo empleada.\nPoblación: pacientes con shock cardiogénico incluidos originalmente en el ensayo DanGer Shock.\nIntervención: terapia con bomba de flujo microaxial (asistencia ventricular percutánea) versus tratamiento estándar, con foco en el costo hospitalario asociado a cada estrategia.\nResultados: no informados en el título ni disponibles sin el abstract; no corresponde estimar cifras de costo sin la fuente original.\nLimitaciones: los análisis de costos dependen fuertemente del sistema de salud y el esquema de facturación del país de origen (Dinamarca), lo que limita la extrapolación directa a otros sistemas sanitarios.\nMensaje: agrega la dimensión económica a un dispositivo con beneficio clínico ya demostrado, relevante para discusiones de costo-efectividad y asignación de recursos en unidades de cuidados críticos cardiovasculares.\nNota: análisis sin acceso al abstract."
     },
-    "3e6570f9052d": {
-      "resumen": "Meta presentó la versión 1.3 de Muse Spark, uno de sus modelos de inteligencia artificial. Sirve como referencia rápida de hacia dónde avanza la competencia de modelos de IA, un contexto útil para entender qué herramientas podrían aplicarse en el futuro cercano al análisis de datos clínicos.",
-      "destacado": false
-    },
-    "8f3ab6280164": {
-      "resumen": "Actualización del plugin llm-gemini, que permite usar los modelos Gemini de Google desde la línea de comandos con la herramienta 'llm' de Simon Willison. Útil para quien está aprendiendo análisis de datos, porque simplifica probar modelos de lenguaje directamente desde scripts, sin escribir código de integración desde cero.",
-      "destacado": false
-    },
-    "a0627afd0ac1": {
-      "resumen": "Artículo de KDnuggets sobre cómo transformar el comportamiento de los usuarios en variables (features) útiles para modelos predictivos. Es una guía práctica de ingeniería de características, un paso clave en cualquier proyecto de análisis de datos, incluidos los aplicados a cohortes de pacientes.",
-      "destacado": false
-    },
-    "999bdd1f50e6": {
-      "resumen": "Nota de Towards Data Science sobre cómo evitar que las claves de identidad de una entidad (por ejemplo, un paciente o un producto) se desalineen con el tiempo dentro de un lago de datos, y por qué el emparejamiento difuso (fuzzy matching) deja de funcionar en esos casos. Muy relevante para quien arma bases clínicas: identificar correctamente a cada paciente entre distintas fuentes es un problema real y recurrente.",
-      "destacado": false
-    },
-    "31a63e18c7f4": {
-      "resumen": "Google lanzó Gemini 3.8 Flash y una variante 'Cyber' orientada a tareas de ciberseguridad. Sirve como referencia del ritmo de actualización de los modelos livianos de inteligencia artificial, cada vez más usados para análisis rápido y automatización de bajo costo.",
-      "destacado": false
-    },
-    "bbaa7e92c7f7": {
-      "resumen": "Simon Willison analiza cómo el nuevo mensaje de sistema (system prompt) de Claude está diseñado para evitar reproducir letras de canciones protegidas por derechos de autor. Es un buen ejemplo práctico de cómo los proveedores de inteligencia artificial ajustan el comportamiento de sus modelos mediante instrucciones, algo útil de entender para cualquiera que use IA como herramienta de trabajo.",
-      "destacado": false
-    },
-    "aa31b5d54404": {
-      "resumen": "KDnuggets presenta una librería de Python que acelera hasta 20 veces las tareas típicas de pandas, la herramienta más usada para manipular datos en ese lenguaje. Para un médico que está aprendiendo análisis de datos, es una alternativa concreta para que los mismos scripts corran mucho más rápido sin cambiar demasiado el código.",
-      "destacado": true
-    },
-    "5c92d5e8d5bb": {
-      "resumen": "Towards Data Science explica qué necesita un sistema de generación aumentada por recuperación (RAG, por sus siglas en inglés) para poder responder honestamente 'esto no está en el documento' en lugar de inventar una respuesta. Es clave para confiar en herramientas de IA aplicadas a buscar información en historias clínicas o literatura médica sin que alucinen datos.",
-      "destacado": false
-    },
     "cc887f6458e8": {
       "resumen": "Argentina XV le ganó a Uruguay XV en Santiago, según informó la Unión Argentina de Rugby (UAR)."
-    },
-    "0468f37fe1f0": {
-      "resumen": "La historia de hinchas mendocinos que volvieron a casa tras alentar a Los Pumas frente a Australia."
     },
     "9250397b9fde": {
       "resumen": "La Unión Argentina de Rugby (UAR) confirmó la lista de 23 convocados de Argentina XV para enfrentar a Uruguay XV."
     },
-    "76834959160a": {
-      "resumen": "Quién es Alejandro Betancourt, el polémico empresario venezolano detrás del acuerdo petrolero entre Estados Unidos y Venezuela."
-    },
-    "483f4a8196a9": {
-      "resumen": "Episodio del podcast Cardialogue de TCTMD (The Cardiovascular Research Foundation) que discute si la inteligencia artificial (IA) está mejorando o empeorando la equidad en el sistema de salud. Un tema cada vez más relevante a medida que los algoritmos de IA se incorporan a la toma de decisiones clínicas, con el riesgo de reproducir sesgos ya presentes en los datos con los que fueron entrenados.",
+    "b57d4a4cacaf": {
+      "resumen": "Simon Willison repasa el lanzamiento de GPT-6 Astra, el nuevo modelo de inteligencia artificial (IA) de OpenAI. Sirve para tomar el pulso al ritmo de mejoras de los modelos de lenguaje de gran escala (LLM, por sus siglas en inglés) que también se usan para asistir el análisis de datos.",
       "destacado": false
     },
-    "41f1261bfdcd": {
-      "resumen": "Publicación personal, destacada en Hacker News, que reflexiona sobre el deseo de llevar una vida más simple y rutinaria, comparándola con la de un personaje no jugable (NPC, por sus siglas en inglés) de un videojuego, frente a la presión de optimización constante de la cultura tecnológica. No es una herramienta técnica de ciencia de datos, pero sirve como mirada crítica sobre el ritmo de vida ligado a la tecnología, algo relevante para quien está migrando su carrera hacia el análisis de datos.",
+    "c59c597501ce": {
+      "resumen": "Hilo de Hacker News sobre el lanzamiento de GPT-6 Astra, el nuevo modelo de OpenAI, con la discusión y primeras impresiones de la comunidad técnica. Complementa la mirada más cruda y variada de usuarios que ya probaron el modelo.",
       "destacado": false
     },
-    "57998d94242a": {
-      "resumen": "Repositorio de GitHub de PhiloLabs sobre Fable 5.1, un sistema de modelado de mundos (world modeling): un tipo de modelo de inteligencia artificial (IA) que aprende a simular y predecir cómo evoluciona un entorno a partir de datos. Este enfoque es la base de agentes de IA capaces de planificar sobre simulaciones, útil como referencia de hacia dónde avanza la IA más allá del entrenamiento supervisado clásico con el que suele empezar quien aprende análisis de datos.",
+    "7e80672b84c6": {
+      "resumen": "Qwen 3.8 27B, un modelo de lenguaje abierto, ya está disponible en la infraestructura de Cerebras a 1500 tokens por segundo. Muestra cuánto está bajando la barrera de velocidad y costo para correr modelos de inteligencia artificial (IA) potentes, algo útil para quien quiera experimentar con análisis de datos sin depender de las grandes nubes.",
       "destacado": false
     },
-    "9ce975f3dea2": {
-      "resumen": "El wing de Los Pumas contó su ilusión de ganarle a los Wallabies y recordó la primera vez que vio a la Selección jugar en Mendoza."
+    "fd8b1907aa80": {
+      "resumen": "K2 Horizon es una familia conectada de seis modelos de inteligencia artificial (IA) de código abierto que se complementan entre sí. Ilustra la tendencia a combinar varios modelos especializados en vez de uno solo gigante, un enfoque cada vez más común en aplicaciones prácticas de ciencia de datos.",
+      "destacado": false
     },
-    "baa8c3fbc26f": {
-      "resumen": "El paso de Los Pumas por Jujuy dejó un balance positivo y proyectó a la provincia en el escenario internacional del rugby."
+    "4a2609e653a0": {
+      "resumen": "Towards Data Science cuenta la brecha típica entre un modelo que 'funciona' en pruebas y uno realmente útil en producción, con los ajustes de usabilidad que suelen faltar. Es una lección central para cualquiera que está aprendiendo análisis de datos: el desafío no termina cuando el modelo predice bien, sino cuando alguien lo puede usar de verdad.",
+      "destacado": true
+    },
+    "2d612f0c6e83": {
+      "resumen": "Hilo de Hacker News que discute por qué OpenAI, Claude (de Anthropic) y Grok (de xAI) se cayeron al mismo tiempo. Un buen recordatorio de que gran parte de la infraestructura de inteligencia artificial (IA) depende de proveedores de nube compartidos, con riesgo de fallas simultáneas.",
+      "destacado": false
+    },
+    "5968bf064be8": {
+      "resumen": "KDnuggets muestra cómo ChatGPT repitió los mismos errores al analizar tres conjuntos de datos distintos, evidenciando limitaciones sistemáticas de los modelos de lenguaje para el análisis exploratorio de datos. Útil como advertencia práctica para no delegar ciegamente el análisis estadístico a una inteligencia artificial (IA) generativa.",
+      "destacado": false
+    },
+    "9ca8d4c3c363": {
+      "resumen": "Towards Data Science explica por qué conviene preservar la estructura de las tablas dentro de un PDF en vez de aplanarlas a texto corrido, al armar un sistema de generación aumentada por recuperación (RAG, por sus siglas en inglés). Un tip técnico concreto para quien procese informes o guías clínicas en PDF con inteligencia artificial.",
+      "destacado": false
+    },
+    "50c4aaa46b45": {
+      "resumen": "Hilo del foro r/datascience sobre cómo se usan los modelos de lenguaje de gran escala (LLM) en modelado predictivo y detección de anomalías. Da un panorama práctico de casos de uso reales, útil para pensar aplicaciones similares en datos clínicos o de farmacovigilancia.",
+      "destacado": false
+    },
+    "93cb381eb595": {
+      "resumen": "Towards Data Science describe cómo construir un grafo de dependencias entre prompts (las instrucciones que se le dan a un modelo de inteligencia artificial) para detectar qué otras partes de un sistema hay que volver a testear cuando se cambia una sola instrucción. Una técnica valiosa para mantener la confiabilidad de flujos de trabajo basados en IA generativa.",
+      "destacado": false
+    },
+    "2998cca260ea": {
+      "resumen": "La Sociedad Europea de Cardiología (ESC) publicó su primera guía clínica dedicada específicamente a la rehabilitación cardíaca. Es relevante porque estandariza recomendaciones para un componente del tratamiento post-evento cardiovascular que históricamente estuvo subutilizado en la práctica diaria.",
+      "destacado": false
+    },
+    "a158d523f54a": {
+      "resumen": "ESPN repasa qué jugadores podrían debutar con Los Pumas en el partido ante los Wallabies en Mendoza."
+    },
+    "ff8a23bdc52f": {
+      "resumen": "Los Pumas confirmaron la formación, con cambios y debutantes, para el partido ante los Wallabies en Mendoza."
+    },
+    "bfadd2214ec5": {
+      "resumen": "Un análisis de cómo el resultado ante Australia moverá a Los Pumas en el ranking de la World Rugby."
     }
   }
 }

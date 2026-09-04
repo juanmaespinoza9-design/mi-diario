@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T22:05:16Z",
+  "generated_at": "2026-09-04T10:05:42Z",
   "summaries": {
     "e09a82c3a442": {
       "resumen": "Recopilación de TCTMD (The Cardiovascular Research Foundation) con las diez notas de cardiología intervencionista más leídas de agosto. Es un buen termómetro mensual para detectar qué ensayos y controversias concentraron la atención de la comunidad de hemodinamia y cardiología estructural.",
@@ -17,11 +17,6 @@
     "fb7cedd8e293": {
       "resumen": "Episodio del podcast Cardialogue de TCTMD sobre el impacto del calor extremo en la salud cardiovascular, un tema cada vez más relevante por el cambio climático y su efecto en la carga de insuficiencia cardíaca y eventos coronarios.",
       "destacado": false
-    },
-    "ad52daf13daa": {
-      "resumen": "TCTMD analiza los ensayos ACASA-TAVI y NOTION-4, que evaluaron el uso de anticoagulantes orales directos (DOAC, por sus siglas en inglés) después del reemplazo valvular aórtico transcatéter (TAVI). Los resultados de ambos estudios no fueron uniformes, lo que deja abierta la pregunta sobre el mejor esquema antitrombótico post-TAVI.",
-      "destacado": false,
-      "analisis": "Diseño: nota de TCTMD que compara dos ensayos clínicos, ACASA-TAVI y NOTION-4, sobre el uso de anticoagulantes orales directos después de un reemplazo valvular aórtico transcatéter. Sin los abstracts originales no se puede precisar aleatorización, cegamiento ni tamaño muestral de cada uno.\nPoblación: pacientes sometidos a TAVI, presumiblemente sin indicación previa de anticoagulación por otra causa (como fibrilación auricular), aunque no se puede confirmar sin la fuente.\nIntervención: anticoagulación oral directa versus antiagregación (u otro esquema estándar) luego de TAVI, comparando dos ensayos con diseños posiblemente distintos.\nResultados: no informados en el título ni disponibles sin los abstracts; el propio título anticipa 'mensajes mixtos', es decir, resultados no concordantes entre ambos ensayos, sin que se puedan precisar cifras.\nLimitaciones: comparar dos ensayos distintos desde una nota periodística, sin poder homogeneizar poblaciones ni definiciones de eventos entre ambos estudios.\nMensaje: la anticoagulación post-TAVI sigue sin una respuesta uniforme; la señal de 'mensajes mixtos' sugiere que todavía no hay un esquema antitrombótico único recomendable para todos los pacientes.\nNota: análisis sin acceso al abstract."
     },
     "c67fdcbe90b0": {
       "resumen": "Artículo de JACC (Journal of the American College of Cardiology) que propone un sistema de alerta temprana climático-cardiovascular, pensado para anticipar picos de eventos cardíacos asociados a olas de calor o frío extremo. Se enmarca en la misma línea de investigación sobre clima y salud cardiovascular que el estudio sueco de esta edición.",
@@ -46,9 +41,6 @@
     "cc887f6458e8": {
       "resumen": "Argentina XV le ganó a Uruguay XV en Santiago, según informó la Unión Argentina de Rugby (UAR)."
     },
-    "9250397b9fde": {
-      "resumen": "La Unión Argentina de Rugby (UAR) confirmó la lista de 23 convocados de Argentina XV para enfrentar a Uruguay XV."
-    },
     "b57d4a4cacaf": {
       "resumen": "Simon Willison repasa el lanzamiento de GPT-6 Astra, el nuevo modelo de inteligencia artificial (IA) de OpenAI. Sirve para tomar el pulso al ritmo de mejoras de los modelos de lenguaje de gran escala (LLM, por sus siglas en inglés) que también se usan para asistir el análisis de datos.",
       "destacado": false
@@ -57,21 +49,9 @@
       "resumen": "Hilo de Hacker News sobre el lanzamiento de GPT-6 Astra, el nuevo modelo de OpenAI, con la discusión y primeras impresiones de la comunidad técnica. Complementa la mirada más cruda y variada de usuarios que ya probaron el modelo.",
       "destacado": false
     },
-    "7e80672b84c6": {
-      "resumen": "Qwen 3.8 27B, un modelo de lenguaje abierto, ya está disponible en la infraestructura de Cerebras a 1500 tokens por segundo. Muestra cuánto está bajando la barrera de velocidad y costo para correr modelos de inteligencia artificial (IA) potentes, algo útil para quien quiera experimentar con análisis de datos sin depender de las grandes nubes.",
-      "destacado": false
-    },
-    "fd8b1907aa80": {
-      "resumen": "K2 Horizon es una familia conectada de seis modelos de inteligencia artificial (IA) de código abierto que se complementan entre sí. Ilustra la tendencia a combinar varios modelos especializados en vez de uno solo gigante, un enfoque cada vez más común en aplicaciones prácticas de ciencia de datos.",
-      "destacado": false
-    },
     "4a2609e653a0": {
       "resumen": "Towards Data Science cuenta la brecha típica entre un modelo que 'funciona' en pruebas y uno realmente útil en producción, con los ajustes de usabilidad que suelen faltar. Es una lección central para cualquiera que está aprendiendo análisis de datos: el desafío no termina cuando el modelo predice bien, sino cuando alguien lo puede usar de verdad.",
       "destacado": true
-    },
-    "2d612f0c6e83": {
-      "resumen": "Hilo de Hacker News que discute por qué OpenAI, Claude (de Anthropic) y Grok (de xAI) se cayeron al mismo tiempo. Un buen recordatorio de que gran parte de la infraestructura de inteligencia artificial (IA) depende de proveedores de nube compartidos, con riesgo de fallas simultáneas.",
-      "destacado": false
     },
     "5968bf064be8": {
       "resumen": "KDnuggets muestra cómo ChatGPT repitió los mismos errores al analizar tres conjuntos de datos distintos, evidenciando limitaciones sistemáticas de los modelos de lenguaje para el análisis exploratorio de datos. Útil como advertencia práctica para no delegar ciegamente el análisis estadístico a una inteligencia artificial (IA) generativa.",
@@ -85,22 +65,39 @@
       "resumen": "Hilo del foro r/datascience sobre cómo se usan los modelos de lenguaje de gran escala (LLM) en modelado predictivo y detección de anomalías. Da un panorama práctico de casos de uso reales, útil para pensar aplicaciones similares en datos clínicos o de farmacovigilancia.",
       "destacado": false
     },
-    "93cb381eb595": {
-      "resumen": "Towards Data Science describe cómo construir un grafo de dependencias entre prompts (las instrucciones que se le dan a un modelo de inteligencia artificial) para detectar qué otras partes de un sistema hay que volver a testear cuando se cambia una sola instrucción. Una técnica valiosa para mantener la confiabilidad de flujos de trabajo basados en IA generativa.",
-      "destacado": false
-    },
     "2998cca260ea": {
       "resumen": "La Sociedad Europea de Cardiología (ESC) publicó su primera guía clínica dedicada específicamente a la rehabilitación cardíaca. Es relevante porque estandariza recomendaciones para un componente del tratamiento post-evento cardiovascular que históricamente estuvo subutilizado en la práctica diaria.",
       "destacado": false
     },
-    "a158d523f54a": {
-      "resumen": "ESPN repasa qué jugadores podrían debutar con Los Pumas en el partido ante los Wallabies en Mendoza."
+    "54774ad5cf3b": {
+      "resumen": "El ensayo POPular ACE TAVI comparó el uso rutinario de protamina (droga que revierte el efecto anticoagulante de la heparina) contra su uso selectivo después de un reemplazo valvular aórtico transcatéter (TAVI, por sus siglas en inglés), y encontró menos sangrado menor con la estrategia rutinaria. Es un dato práctico para el manejo del acceso vascular en un procedimiento cada vez más frecuente en cardiología estructural.",
+      "destacado": false,
+      "analisis": "Diseño: por el nombre POPular ACE TAVI se trataría de un ensayo clínico aleatorizado que compara el uso rutinario versus selectivo de protamina tras el procedimiento; sin el abstract original no se puede precisar el cegamiento, la cantidad de centros ni el número de pacientes incluidos.\nPoblación: pacientes sometidos a reemplazo valvular aórtico transcatéter (TAVI), con acceso vascular percutáneo anticoagulado con heparina durante el procedimiento.\nIntervención: administración rutinaria de protamina para revertir la heparina al finalizar el procedimiento, comparada con su uso selectivo (solo ante sangrado o a criterio del operador).\nResultados: el título indica una reducción del sangrado menor con la estrategia de protamina rutinaria; no hay razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract, por lo que no corresponde estimarlos.\nLimitaciones: sin el abstract no se puede evaluar si el sangrado menor fue el desenlace principal o parte de un compuesto, ni el riesgo de sesgos del ensayo; el sangrado menor es un desenlace subrogado que no siempre se traduce en beneficio clínico duro.\nMensaje: sugiere que revertir la heparina de rutina con protamina tras TAVI podría reducir el sangrado menor en el sitio de acceso, un dato que podría simplificar el manejo posprocedimiento si se confirma con el resto de los desenlaces del ensayo.\nNota: análisis sin acceso al abstract."
     },
-    "ff8a23bdc52f": {
-      "resumen": "Los Pumas confirmaron la formación, con cambios y debutantes, para el partido ante los Wallabies en Mendoza."
+    "7ef0b71cd656": {
+      "resumen": "Hilo del foro r/datascience donde profesionales de ciencia de datos discuten cómo documentar y mostrar su proceso de trabajo, más allá del resultado final. Sirve para pensar cómo dejar trazabilidad de un análisis, algo tan relevante en ciencia de datos como en la historia clínica o un protocolo de investigación.",
+      "destacado": false
     },
-    "bfadd2214ec5": {
-      "resumen": "Un análisis de cómo el resultado ante Australia moverá a Los Pumas en el ranking de la World Rugby."
+    "3725772a5216": {
+      "resumen": "Un análisis de 17.000 corridas mide qué herramientas eligen en la práctica los agentes de inteligencia artificial (IA) para programar, como Claude, Codex y Cursor. Da una idea concreta de cómo estos asistentes de código toman decisiones autónomas, útil para entender el comportamiento real de la IA aplicada más allá del marketing.",
+      "destacado": false
+    },
+    "389074cdbd59": {
+      "resumen": "El blog de ARC Prize evalúa el desempeño de GPT-6 Astra, el nuevo modelo de OpenAI, en ARC-AGI-3, un banco de pruebas diseñado para medir razonamiento abstracto y no solo memorización. Es una referencia útil para entender qué tan lejos están los modelos de lenguaje de gran escala (LLM, por sus siglas en inglés) de un razonamiento general confiable.",
+      "destacado": false
+    },
+    "9c3ba4d60b69": {
+      "resumen": "Un blog técnico describe el impacto disruptivo que están teniendo las herramientas de inteligencia artificial (IA) generativa sobre las prácticas y el mercado laboral del desarrollo front-end web. Sirve como espejo de lo que podría pasar en otras disciplinas técnicas, incluido el análisis de datos, frente a la automatización con IA.",
+      "destacado": false
+    },
+    "83f7044bbc3d": {
+      "resumen": "El Top 14 de Francia arranca con más jugadores argentinos que nunca: un repaso de quiénes son los Pumas que jugarán esta temporada en la liga francesa."
+    },
+    "0ce8a65bb9c8": {
+      "resumen": "Los Pumas confirmaron la formación para enfrentar a los Wallabies en Mendoza, con cambios respecto al partido anterior y la inclusión de jugadores debutantes."
+    },
+    "f7efd2c40ff7": {
+      "resumen": "Los Pumas mueven el equipo de cara a la revancha ante Australia en Mendoza, tras el resultado del primer partido de la serie."
     }
   }
 }

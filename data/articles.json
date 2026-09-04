@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T04:44:28.114986+00:00",
+ "generated_at": "2026-09-04T11:29:10.319308+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -19,6 +19,14 @@
      "source": "TCTMD",
      "published": "2026-09-03T19:26:00+00:00",
      "id": "2998cca260ea"
+    },
+    {
+     "title": "Clinical Considerations for the Care of the Tactical Athlete With Cardiovascular Abnormalities: A Scientific Statement From the American College of Cardiology and the American Heart Association",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42693699/",
+     "source": "JACC",
+     "published": "2026-09-03T00:00:00+00:00",
+     "copete": "Dineen EH et al. · Journal of the American College of Cardiology",
+     "id": "75703c7b7545"
     },
     {
      "title": "TCTMD’s Top 10 Most Popular Stories for August 2026",
@@ -72,14 +80,6 @@
      "published": "2026-08-31T00:00:00+00:00",
      "copete": "Oyama K et al. · Journal of the American College of Cardiology",
      "id": "dbfd1d410a99"
-    },
-    {
-     "title": "Hospital Costs of Microaxial Flow Pump Therapy in Cardiogenic Shock: A DanGer Shock Trial Analysis",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42671369/",
-     "source": "JACC",
-     "published": "2026-08-31T00:00:00+00:00",
-     "copete": "Borregaard B et al. · Journal of the American College of Cardiology",
-     "id": "4baac8f02ab5"
     }
    ]
   },
@@ -89,18 +89,33 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "AFA desmintió que Conmebol haya enviado fondos para las obras del Estadio Único de La Plata",
+     "link": "https://www.ole.com.ar/informacion-general/afa-conmebol-estadio-unico-plata-fondos-comunicado_0_D835rHnedJ.html",
+     "source": "Olé — Primera",
+     "published": "2026-09-04T10:10:58+00:00",
+     "copete": "La Casa Madre salió al cruce por una \"mentira malintencionada que circula en algunos medios y redes sociales\". ¿Qué dijo?",
+     "id": "d5e95d954fad"
+    },
+    {
+     "title": "Rugby: Los Pumas se esforzaron hasta el final pero no pudieron con Australia en Jujuy",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdERWanNneFEzUENPUkYyak5YVGNmbDNSaFdieFRaZjhFRmdDNlhMM1Y1X2h1SnNEaEtlbzJ3a245cTJnQTlYS2g1V3ZabTkzRFZienVIbDdGSmJrNU1lRkROaXMyN2U4MFJlZHg3bEZYbjdlS0NBeWJzbkJ0S3FZSDZXOHZFNkN1Q1lWaUhOZ2RCUkVCaXlRWkpRaDR6TG1vSWpqc2syS2hUUU1PeG1qM2pQVXJucHVIS2VkV3pWTXTSAcYBQVVfeXFMTWI2dFpDOVdqbzB1Z2IzTWtnazUtSm5rRHhKdlVpZjUta25FbE01elpudXNFeE51bXpQbUJxQlBjMWdwTTYzSTNPRVpXSUxkcEZ5Z3d5NUpNdXZjUWlVbHlFb2Mydk9DbWxwVEk4cG92VzFsYXotTVNWQzFHYUJVOXJxV3FOUm5lT3NzcDh4MlZLRkZrdU13dEp4NGNoUjB1VVBwcENtZHJiNG1OM3lzeDdhM0ZmblV5V3ktZFlZbDRRSWNDeUV3?oc=5",
+     "source": "La Capital",
+     "published": "2026-09-04T06:16:00+00:00",
+     "id": "577f29bb73ca"
+    },
+    {
+     "title": "Ranking de World Rugby: ¿Cómo pueden quedar Los Pumas tras la revancha con los Wallabies en Mendoza?",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOTJfYTVZRnZSNUJaQnV5UjlWUHZwcGFmU3ZLbDNfbWthWGk5d1VhSUhMOUhHcTVZczk1dGJyLUl6LUV3S3BwRXZialZMclZyYlJxRkliMWJMR0tjZEhXZEpTNzdRV2szZG84d20wUW9EeEtJY0luQ2wzZWVubEdKOE0xNWdQRFVndk80RzI2bEdSSndlOEN6cDdUbTFrTUM5YXlYVWc3VmNrQzRfeXJkRF9pNktFUGxKRjd3b20tRnRuYVBDOVFEQ3VaSlRXMl9QVXNBVnNfeTFpTGlkNVVrVg?oc=5",
+     "source": "ESPN República Dominicana",
+     "published": "2026-09-04T05:41:10+00:00",
+     "id": "59a5124b3ddc"
+    },
+    {
      "title": "Con una mayor cantidad de Pumas, comienza el Top 14: quiénes son los argentinos que jugarán en la liga de Francia",
      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ0VpaXNUSmxiTXdmNE5WRTZEX212MHotUGNTOTRYdTRPbWt5SnVQeXdPN2EydXQwSFpraGNuS01JYklIbF9heWM2VnhJVlp2QzhfTVZLTURmQ3lhOUFDWkpWc2Q2OHc3dVlmR1pLM1hkUmlaRURTR05BZGoyZXRuUWxWVmFTeVZqVnVXck0wX1FIQzU3bW1OSGJSZFhYa0pyUHltM1d1R2hUM0lvMjc3M0FfTnNxMDMtNmUyYVpKazlEZ081Y0Q1LW55ZUlHQklnSlg3V1d3?oc=5",
      "source": "espn.com.pe",
      "published": "2026-09-04T02:35:16+00:00",
      "id": "83f7044bbc3d"
-    },
-    {
-     "title": "Con cambios y debutantes, la formación de Los Pumas para enfrentar a los Wallabies en Mendoza",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTFNEVEpJX1VPTk9Na0FFUzZTcmRzVGxOTVhNbFJhZXE4VXRGMDdhSThadWotbkZ6dkNEZnY5R1JxN3FPcDl5R3FjMVpjRGwzVFlsa0hqR3dORVFad0hnNl9CTXY2SlhZZ0JsVGNXU1dHS1k0QzloUlJIdzJuaDlCTmtyTVlURWg2TFgtcDNDdDJTZzdVbDdhWUtaakFBNEY3bjZKYWVYN29IQllTelFlZ1R2M3UwdnB2ODZzNzIxSWo4ZHNJNmMwbHRlcXdwRFFFODlCaUNUQkdwWmRIRldmZXo2Skxrdw?oc=5",
-     "source": "espn.com.pe",
-     "published": "2026-09-04T02:34:02+00:00",
-     "id": "0ce8a65bb9c8"
     },
     {
      "title": "Bertoni será candidato a presidente de Independiente",
@@ -125,21 +140,6 @@
      "published": "2026-09-03T23:54:18+00:00",
      "copete": "Agustín Módica, delantero de Gimnasia de Mendoza, sufrió una lesión muscular y es duda para el partido ante el Xeneize, del sábado próximo.",
      "id": "d18bd82a54ab"
-    },
-    {
-     "title": "Video: insólito blooper en Gimnasia de Mendoza vs Rosario Central por el Torneo de Reserva",
-     "link": "https://www.ole.com.ar/futbol-primera/video-insolito-blooper-reserva-rosario-central-gimnasia-mendoza-torneo-clausura-proyeccion_0_PS8fx9NF0j.html",
-     "source": "Olé — Primera",
-     "published": "2026-09-03T23:45:39+00:00",
-     "copete": "En el marco de la séptima fecha del Torneo Proyección Clausura, el arquero del Lobo Mendocino cometió un increíble error que terminó en gol del Canalla.",
-     "id": "21a6c69beb39"
-    },
-    {
-     "title": "Los Pumas cambian para la revancha ante Australia en Mendoza",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeFRscVhCOGtvd1pXZk5fQVIxaS1FQ1gtRjVQcVFydEZmWURIUnZrbWNyZ21ISXdmdWU0R2hfT1JmTERJU3lpaVp3TGJSMnRxRXE2WWZ4WlJJUS1PZXoyNW03NzFaMmctRDdUdUlXcHQwRXNPRVZyTWlvSlBMRm9JQi1oV1dnOTlfQ2EyZjJuQVEzUElKXzlfeWpR?oc=5",
-     "source": "La Reforma, General Pico",
-     "published": "2026-09-03T23:43:43+00:00",
-     "id": "f7efd2c40ff7"
     },
     {
      "title": "Armá tu 11 de River para recibir a Independiente Rivadavia por la fecha 8 del Clausura",
@@ -205,11 +205,27 @@
    "mode": "resumen",
    "items": [
     {
-     "title": "How do you guys \"show your work\"",
-     "link": "https://www.reddit.com/r/datascience/comments/1w6qtza/how_do_you_guys_show_your_work/",
-     "source": "r/datascience",
-     "published": "2026-09-04T01:47:19+00:00",
-     "id": "7ef0b71cd656"
+     "title": "How to Run 10+ Claude Code Sessions Without a Powerful Computer",
+     "link": "https://towardsdatascience.com/how-to-run-10-claude-code-sessions-without-a-powerful-computer/",
+     "source": "Towards Data Science",
+     "published": "2026-09-04T11:00:02+00:00",
+     "copete": "Learn how to run a lot of parallel coding agents without expensive, powerful hardware at home The post How to Run 10+ Claude Code Sessions Without a Powerful Computer appeared first on Towards Data Science .",
+     "id": "a1cb3a69cf91"
+    },
+    {
+     "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
+     "link": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-09-04T06:47:51+00:00",
+     "id": "a4fce062331a"
+    },
+    {
+     "title": "August newsletter is out",
+     "link": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-09-04T05:54:40+00:00",
+     "copete": "The August edition of my sponsors-only monthly newsletter is out. If you are a sponsor (or if you start a sponsorship now) you can access it here . This month: We got more details on OpenAl's accidental cyberattacks One-shotting Raccoon…",
+     "id": "a96ad2e8b680"
     },
     {
      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
@@ -225,13 +241,6 @@
      "published": "2026-09-03T20:18:41+00:00",
      "copete": "GPT‑6 Astra GPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as through the OpenAI API and AWS\" - I've not…",
      "id": "b57d4a4cacaf"
-    },
-    {
-     "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-     "link": "https://arcprize.org/blog/astra",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-09-03T19:45:00+00:00",
-     "id": "389074cdbd59"
     },
     {
      "title": "The asteroid currently hitting front end web development",
@@ -270,13 +279,6 @@
      "published": "2026-09-03T14:00:01+00:00",
      "copete": "Enterprise Document Intelligence [Vol.1 #B4] - A diagnostic and five composable operations, not a decision tree The post Tables in PDFs for RAG: Don’t Flatten the Grid appeared first on Towards Data Science .",
      "id": "9ca8d4c3c363"
-    },
-    {
-     "title": "How are LLMs used in predictive modeling and anomaly detection?",
-     "link": "https://www.reddit.com/r/datascience/comments/1w67e3p/how_are_llms_used_in_predictive_modeling_and/",
-     "source": "r/datascience",
-     "published": "2026-09-03T13:26:56+00:00",
-     "id": "50c4aaa46b45"
     }
    ]
   },
@@ -286,100 +288,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Condenaron a un hombre que abusó durante 40 años de 11 niñas de su familia y su entorno cercano",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/09/04/condenaron-a-un-hombre-que-abuso-durante-40-anos-de-11-ninas-de-su-familia-y-su-entorno-cercano/",
-     "source": "Infobae",
-     "published": "2026-09-04T04:30:43+00:00",
-     "copete": "El tribunal lo halló culpable por delitos contra todas las víctimas que eran niñas al momento de los hechos y por tenencia de material de abuso sexual infantil",
-     "id": "aa57bb636371"
-    },
-    {
-     "title": "Cómo evitar que te hackeen Instagram: ajustes de seguridad clave para proteger tu perfil",
-     "link": "https://www.infobae.com/tecno/2026/09/04/como-evitar-que-te-hackeen-instagram-ajustes-de-seguridad-clave-para-proteger-tu-perfil/",
-     "source": "Infobae",
-     "published": "2026-09-04T04:28:36+00:00",
-     "copete": "La seguridad de una cuenta no depende de un único paso, sino de la combinación de varios ajustes disponibles en la configuración de Meta",
-     "id": "c44af76011d5"
-    },
-    {
-     "title": "Javier Milei en cadena nacional por Malvinas, EN VIVO: “Hoy nuestra soberanía enfrenta un peligro concreto y urgente”, advirtió el Presidente",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-tension-con-los-industriales-y-los-preparativos-para-la-visita-nid03092026/",
+     "title": "Cuarto, cocina y baño en 1,9 m²: así es la “casa propia” a la que pueden acceder los jóvenes en Suecia",
+     "link": "https://www.lanacion.com.ar/propiedades/construccion-y-diseno/cuarto-cocina-y-bano-en-19-m-asi-es-la-casa-propia-a-la-que-pueden-acceder-los-jovenes-en-suecia-nid03092026/",
      "source": "La Nación",
-     "published": "2026-09-04T04:18:03+00:00",
-     "copete": "El mandatario brindó un mensaje por cadena nacional; convocatoria al Congreso y a toda la “dirigencia política, económica y social” del país",
-     "id": "40f359a99ebb"
+     "published": "2026-09-04T11:26:48+00:00",
+     "copete": "El 39% de los jóvenes en este país depende de sus padres para ingresar al mercado inmobiliario",
+     "id": "de23e4e4dbf6"
     },
     {
-     "title": "El gobernador de Tierra del Fuego respaldó el anuncio del Gobierno sobre Malvinas y pidió presupuesto y plazos",
-     "link": "https://www.infobae.com/politica/2026/09/04/el-gobernador-de-tierra-del-fuego-respaldo-el-anuncio-del-gobierno-sobre-malvinas-y-pidio-presupuesto-y-plazos/",
-     "source": "Infobae",
-     "published": "2026-09-04T04:13:53+00:00",
-     "copete": "En un mensaje en X, el mandatario fueguino destacó que “hay causas que están por encima de cualquier diferencia política” y reclamó que las definiciones nacionales se conviertan en medidas concretas, con financiamiento, calendario de…",
-     "id": "3bc9424155da"
-    },
-    {
-     "title": "Hijos de salvadoreños piden en Washington extender el TPS antes de su vencimiento",
-     "link": "https://www.infobae.com/el-salvador/2026/09/04/hijos-de-salvadorenos-piden-en-washington-extender-el-tps-antes-de-su-vencimiento/",
-     "source": "Infobae",
-     "published": "2026-09-04T04:13:51+00:00",
-     "copete": "Más de 170.000 personas podrían quedarse sin estatus migratorio temporal y sin permisos laborales en Estados Unidos si el Gobierno de Donald Trump no confirma una extensión antes del vencimiento previsto",
-     "id": "2bc66de6ee27"
-    },
-    {
-     "title": "Mario Pergolini reveló cómo nació su amistad con Iron Maiden: “El de las camisas feas”",
-     "link": "https://www.infobae.com/teleshow/2026/09/04/mario-pergolini-revelo-como-nacio-su-amistad-con-iron-maiden-el-de-las-camisas-feas/",
-     "source": "Infobae",
-     "published": "2026-09-04T04:01:22+00:00",
-     "copete": "El conductor repasó el origen de su vínculo con la banda británica y contó que su conexión más firme con Bruce Dickinson apareció gracias a una pasión compartida que fue clave para acercarse",
-     "id": "dd2e43a76d0f"
-    },
-    {
-     "title": "Cómo cultivar gírgolas y aprovechar todos sus beneficios",
-     "link": "https://www.lanacion.com.ar/revista-jardin/como-cultivar-girgolas-y-aprovechar-todos-sus-beneficios-nid04092026/",
+     "title": "Síndrome del “comprador arrepentido”: por qué tanta gente quiere vender su propiedad al año de comprarla",
+     "link": "https://www.lanacion.com.ar/propiedades/inversiones/sindrome-del-comprador-arrepentido-por-que-tanta-gente-quiere-vender-su-propiedad-al-ano-de-nid03092026/",
      "source": "La Nación",
-     "published": "2026-09-04T04:00:00+00:00",
-     "copete": "Paso a paso, qué condiciones requieren estos hongos para crecer, fructificar y ofrecer varias cosechas",
-     "id": "49187d2ebad9"
+     "published": "2026-09-04T11:26:05+00:00",
+     "copete": "Un fenómeno que encuentra explicación en un mercado inmobiliario que recupera profundidad, confianza y movilidad",
+     "id": "a09741976aef"
     },
     {
-     "title": "Queremos verlo todo: la ansiedad cambió para siempre nuestros consumos culturales",
-     "link": "https://www.clarin.com/revista-n/queremos-verlo-ansiedad-cambio-siempre-consumos-culturales_0_vhFWJOQeYA.html",
-     "source": "Clarín",
-     "published": "2026-09-04T03:46:11+00:00",
-     "copete": "En pocos años se modificaron las formas de ver películas, escuchar música, leer, informarse y salir. Del streaming al vinilo, del microteatro a las presentaciones de libros, la cultura argentina vive una paradoja: consumimos más contenido…",
-     "id": "13f205ae90dd"
+     "title": "Calidad del aire en Valparaíso este 4 de septiembre de 2026",
+     "link": "https://www.infobae.com/noticias/2026/09/04/calidad-del-aire-en-valparaiso-este-4-de-septiembre-de-2026/",
+     "source": "Infobae",
+     "published": "2026-09-04T11:24:17+00:00",
+     "copete": "Estas son las medidas que se aplican para el actual estado de la calidad del aire",
+     "id": "2a33bebbc154"
     },
     {
-     "title": "Clima hoy en Punta Lara, Buenos Aires: el pronóstico del tiempo para este viernes 4 septiembre de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-punta-lara-buenos-aires-pronostico-tiempo-viernes-4-septiembre-2026_0_iK9bhnPHU6.html",
-     "source": "Clarín",
-     "published": "2026-09-04T03:39:00+00:00",
-     "copete": "El SMN anticipa para este viernes temperaturas entre 5°C y 16°C. El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "1b5933fb9c2c"
+     "title": "Franco Colapinto afronta la primera práctica libre del Gran Premio de Italia",
+     "link": "https://www.infobae.com/deportes/2026/09/04/franco-colapinto-afrontara-las-primeras-practicas-libres-del-gran-premio-de-italia-hora-tv-y-todo-lo-que-hay-que-saber/",
+     "source": "Infobae",
+     "published": "2026-09-04T11:24:15+00:00",
+     "copete": "El piloto argentino de Alpine buscar volver a sumar en el mítico circuito de Monza",
+     "id": "915f8e958fbc"
     },
     {
-     "title": "Clima hoy en Maracay, Venezuela: el pronóstico del tiempo para este viernes 4 septiembre de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-maracay-venezuela-pronostico-tiempo-viernes-4-septiembre-2026_0_ECnWj0RGHx.html",
-     "source": "Clarín",
-     "published": "2026-09-04T03:38:38+00:00",
-     "copete": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "10a029b74ec4"
+     "title": "Purén: calidad del aire este 4 de septiembre de 2026",
+     "link": "https://www.infobae.com/noticias/2026/09/04/puren-calidad-del-aire-este-4-de-septiembre-de-2026/",
+     "source": "Infobae",
+     "published": "2026-09-04T11:24:00+00:00",
+     "copete": "El país tiene 8 de las 10 ciudades de Sudamérica con la peor calidad del aire, según IQ Air",
+     "id": "600233afb01f"
     },
     {
-     "title": "Clima hoy en Valencia, Carabobo, Venezuela: el pronóstico del tiempo para este viernes 4 septiembre de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-valencia-carabobo-venezuela-pronostico-tiempo-viernes-4-septiembre-2026_0_RHFBEQv2kS.html",
-     "source": "Clarín",
-     "published": "2026-09-04T03:38:37+00:00",
-     "copete": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "8be6e74e02dd"
+     "title": "Calidad del aire en Lota rural este 4 de septiembre de 2026",
+     "link": "https://www.infobae.com/noticias/2026/09/04/calidad-del-aire-en-lota-rural-este-4-de-septiembre-de-2026/",
+     "source": "Infobae",
+     "published": "2026-09-04T11:23:43+00:00",
+     "copete": "Estas son algunas sugerencias a considerar para el estado actual de la calidad del aire",
+     "id": "1e2b094a337b"
     },
     {
-     "title": "Clima hoy en Maracaibo, Venezuela: el pronóstico del tiempo para este viernes 4 septiembre de 2026",
-     "link": "https://www.clarin.com/informacion-general/clima-hoy-maracaibo-venezuela-pronostico-tiempo-viernes-4-septiembre-2026_0_4g53U9TJtP.html",
+     "title": "Franco Colapinto, en vivo: la primera práctica libre del Gran Premio de Italia de F1, minuto a minuto",
+     "link": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-vivo-nid04092026/",
+     "source": "La Nación",
+     "published": "2026-09-04T11:23:36+00:00",
+     "copete": "El piloto argentino inicia su fin de semana en el circuito de Monza, donde se desarrolla la decimotercera fecha de la máxima categoría",
+     "id": "521b104473c1"
+    },
+    {
+     "title": "Calidad del aire en Los Angeles Oriente este 4 de septiembre de 2026",
+     "link": "https://www.infobae.com/noticias/2026/09/04/calidad-del-aire-en-los-angeles-oriente-este-4-de-septiembre-de-2026/",
+     "source": "Infobae",
+     "published": "2026-09-04T11:23:26+00:00",
+     "copete": "Estos son algunos consejos a considerar para el estado actual de la calidad del aire",
+     "id": "237582932021"
+    },
+    {
+     "title": "Este edificio se construyó sobre el antiguo Muro de Berlín, parece un cubo futurista de cristal y sorprende con sus 13 puentes transparentes",
+     "link": "https://www.lanacion.com.ar/propiedades/este-edificio-se-construyo-sobre-el-antiguo-muro-de-berlin-parece-un-cubo-futurista-de-cristal-y-nid04092026/",
+     "source": "La Nación",
+     "published": "2026-09-04T11:18:28+00:00",
+     "copete": "Es el Axel Springer Campus, una obra monumental que alberga a una serie de empresas del poderoso grupo mediático alemán",
+     "id": "34e870af3ed4"
+    },
+    {
+     "title": "Reino Unido reaccionó a la cadena nacional de Javier Milei por Malvinas",
+     "link": "https://www.lanacion.com.ar/politica/reino-unido-reacciono-a-la-cadena-nacional-de-javier-milei-por-malvinas-nid04092026/",
+     "source": "La Nación",
+     "published": "2026-09-04T11:17:52+00:00",
+     "copete": "Desde el gobierno inglés aseguraron que las islas son británicas porque sus habitantes así lo eligen",
+     "id": "c828385bb64a"
+    },
+    {
+     "title": "Euro hoy en Venezuela: precio y cotización de la divisa este viernes 4 de septiembre de 2026",
+     "link": "https://www.clarin.com/economia/euro-hoy-en-venezuela-precio-y-cotizacion-de-la-divisa-este-viernes-4-de-septiembre-de-2026_0_Fru4IO3NX4.html",
      "source": "Clarín",
-     "published": "2026-09-04T03:38:37+00:00",
-     "copete": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-     "id": "f848aed716ba"
+     "published": "2026-09-04T10:45:12+00:00",
+     "copete": "Mirá la cotización del euro en Venezuela, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
+     "id": "135cc804ce64"
+    },
+    {
+     "title": "Euro hoy en Uruguay: precio y cotización de la divisa este viernes 4 de septiembre de 2026",
+     "link": "https://www.clarin.com/economia/euro-hoy-en-uruguay-precio-y-cotizacion-de-la-divisa-este-viernes-4-de-septiembre-de-2026_0_rqtLe5H2sd.html",
+     "source": "Clarín",
+     "published": "2026-09-04T10:45:11+00:00",
+     "copete": "Mirá la cotización del euro en Uruguay, su variación y los valores de referencia. Cómo es la tendencia de la moneda europea en lo que va del año.",
+     "id": "503b8b5968f1"
     }
    ]
   },
@@ -389,84 +391,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Argentina to sanction oil firms as tensions heighten in Falklands dispute with UK",
-     "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-09-04T04:39:26+00:00",
-     "copete": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-     "id": "f84bbd8c79cb"
-    },
-    {
-     "title": "Milei anuncia sanciones a petroleras en las Malvinas/Falklands y la construcción de una base naval en Tierra del Fuego",
-     "link": "https://www.bbc.com/mundo/articles/cvgypk9lx1no?at_medium=RSS&at_campaign=rss",
+     "title": "\"Es una sucesión de milagros\": el increíble rescate de dos trabajadores tras 9 días atrapados en un túnel por la avalancha en la frontera entre Nepal y Tíbet",
+     "link": "https://www.bbc.com/mundo/articles/cz9z5qdlgz3o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-09-04T04:31:14+00:00",
-     "copete": "Convencido de que Trump podría variar la posición de EE.UU. respecto a las islas, el mandatario argentino lanza un discurso reivindicativo sobre el archipiélago.",
-     "id": "d58a77e32e08"
+     "published": "2026-09-04T11:22:21+00:00",
+     "copete": "Dos obreros fueron rescatados con vida de una central hidroeléctrica en Nepal, más de una semana después de que una devastadora inundación arrasara la región del Himalaya.",
+     "id": "b9e1a3293279"
     },
     {
-     "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
-     "link": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
+     "title": "UK support for Falkland Islands 'unwavering', Number 10 says",
+     "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-09-04T04:06:41+00:00",
-     "copete": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
-     "id": "ce01a242b508"
+     "published": "2026-09-04T11:19:50+00:00",
+     "copete": "Downing Street's comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
+     "id": "f9841d4b31c5"
     },
     {
-     "title": "Las diferencias ideológicas entre Le Pen y Bardella amenazan a la ultraderecha",
-     "link": "https://elpais.com/internacional/2026-09-04/las-diferencias-ideologicas-entre-le-pen-y-bardella-amenazan-a-la-ultraderecha.html",
+     "title": "US diesel prices hit an all-time-high",
+     "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-09-04T10:52:56+00:00",
+     "copete": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
+     "id": "5f42fdde6dd5"
+    },
+    {
+     "title": "Trump ha entendido el futuro: los videojuegos y el campo de batalla de la política",
+     "link": "https://elpais.com/internacional/2026-09-04/trump-ha-entendido-el-futuro-los-videojuegos-y-el-campo-de-batalla-de-la-politica.html",
      "source": "El País Internacional",
-     "published": "2026-09-04T03:30:01+00:00",
-     "copete": "El delfín de la líder del RN, frustrado por no ser el candidato a las presidenciales, no oculta algunas discrepancias en temas como las jubilaciones o la prohibición del velo",
-     "id": "7c1a996b942b"
+     "published": "2026-09-04T10:46:44+00:00",
+     "copete": "La Casa Blanca convierte las políticas republicanas en juegos en su nueva plataforma digital",
+     "id": "1dc0ddcf75bf"
     },
     {
-     "title": "El Gobierno de Meloni ya es el más longevo de Italia, pero poco más puede celebrar",
-     "link": "https://elpais.com/internacional/2026-09-04/el-gobierno-de-meloni-ya-es-el-mas-longevo-de-italia-pero-poco-mas-puede-celebrar.html",
+     "title": "Noruega confisca un barco ruso en el Ártico a petición de Kiev",
+     "link": "https://elpais.com/internacional/2026-09-04/noruega-confisca-un-barco-ruso-en-el-artico-a-peticion-de-kiev.html",
      "source": "El País Internacional",
-     "published": "2026-09-04T03:30:01+00:00",
-     "copete": "La estabilidad es uno de los escasos logros de los que puede presumir la primera ministra, que festeja el récord en plena crisis por el ascenso de Futuro Nacional, la nueva fuerza de ultraderecha",
-     "id": "1f7cd0d75b4f"
+     "published": "2026-09-04T10:45:37+00:00",
+     "copete": "La justicia embarga el buque en el archipiélago de Svalbard para forzar el pago de una indemnización a la petrolera ucrania Naftogaz. Moscú denuncia un “acto de piratería”",
+     "id": "1aa6e7eeb659"
     },
     {
-     "title": "\"Me dijeron que jamás lo volvería a ver\": las más de 250.000 solteras que fueron forzadas a dar sus hijos en adopción a mediados del siglo pasado en Reino Unido",
-     "link": "https://www.bbc.com/mundo/articles/cqxv9e0d0jeo?at_medium=RSS&at_campaign=rss",
+     "title": "¿Panqueques de almendras, arándanos o alquitrán?: tarvu, el extraño ingrediente que los finlandeses no pueden dejar de comer",
+     "link": "https://www.bbc.com/mundo/articles/crl6k6lp9n9o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-09-04T03:21:55+00:00",
-     "copete": "Marion McMillan fue una de las aproximadamente 250.000 mujeres que se vieron obligadas a dar a sus bebés en adopción entre 1949 y 1976.",
-     "id": "3fbda6b5ceea"
+     "published": "2026-09-04T10:26:34+00:00",
+     "copete": "Este subproducto vegetal de aroma ahumado, que antaño se utilizaba para impermeabilizar embarcaciones y tratar infecciones, hoy en día sirve para aromatizar desde aguardientes hasta pan. Pero ¿a qué sabe?",
+     "id": "895be8507b2a"
     },
     {
-     "title": "Nepal says it will need billions in funding to rebuild after flash floods",
-     "link": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
+     "title": "Alemania investiga un posible nuevo sabotaje contra otra subestación eléctrica",
+     "link": "https://elpais.com/internacional/2026-09-04/alemania-investiga-un-posible-nuevo-sabotaje-contra-otra-subestacion-electrica.html",
+     "source": "El País Internacional",
+     "published": "2026-09-04T10:07:48+00:00",
+     "copete": "El incidente se suma a otros dos registrados esta semana que han puesto al país en alerta, en vísperas de unas elecciones regionales claves para la estabilidad del Gobierno",
+     "id": "e06ad658d3c5"
+    },
+    {
+     "title": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
+     "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-09-04T02:20:37+00:00",
-     "copete": "BBC South Asia correspondent Azadeh Moshiri is in Nepal where authorities are trying to begin rebuilding amid the debris.",
-     "id": "5921185e3481"
+     "published": "2026-09-04T10:00:18+00:00",
+     "copete": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+     "id": "4217cb2605bd"
     },
     {
-     "title": "Could robots be the future of theme parks?",
-     "link": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-09-04T02:02:02+00:00",
-     "copete": "Galaxy Robot Park is a 16,500-square-meter venue in South Korea, with attractions including humanoid robots dancing to K-pop hits.",
-     "id": "fe6fd087706f"
-    },
-    {
-     "title": "\"Un gobierno de transición como el de Delcy Rodríguez no debería tomar decisiones tan importantes como entregar el petróleo a EE.UU.\"",
-     "link": "https://www.bbc.com/mundo/articles/cy4zvelnynyo?at_medium=RSS&at_campaign=rss",
+     "title": "\"Hay amor desde el reproche y el ajuste de cuentas\": cómo trato de entender el suicidio de mi padre",
+     "link": "https://www.bbc.com/mundo/articles/ckgw2xeq3yxo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-09-03T21:01:19+00:00",
-     "copete": "Rafael Ramirez, el exhombre fuerte de Chávez en el sector petrolero, critica el acuerdo alcanzado por Delcy Rodríguez con Estados Unidos y cuestiona la cesión de una parte significativa de las reservas venezolanas.",
-     "id": "26370d68dae7"
+     "published": "2026-09-04T09:40:54+00:00",
+     "copete": "El escritor catalán Pol Guasch presenta esta memoria sobre su relación con su padre y un hecho que lo marcó cuando apenas tenía 15 años.",
+     "id": "d4983ec65f17"
     },
     {
-     "title": "EN VIDEO | La familia de osos que se baña varios días a la semana en nuestra piscina",
-     "link": "https://www.bbc.com/mundo/articles/cp3k4yjyn5qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-03T17:35:44+00:00",
-     "copete": "Las imágenes que han capturado Brian Gordon y Ricardo Martínez de los visitantes peludos que usan su piscina.",
-     "id": "a8d29b6c54f5"
+     "title": "Nepal rescata con vida a dos trabajadores de un túnel de una central hidroeléctrica nueve días después de la riada",
+     "link": "https://elpais.com/internacional/2026-09-04/nepal-rescata-con-vida-a-dos-trabajadores-de-un-tunel-de-una-central-hidroelectrica-nueve-dias-despues-de-la-riada.html",
+     "source": "El País Internacional",
+     "published": "2026-09-04T09:35:42+00:00",
+     "copete": "Las autoridades buscan en pasadizos subterráneos de seis plantas de ese tipo a hasta 150 supervivientes. La cifra total de muertos aumenta a más de 1.300",
+     "id": "9b934b33c608"
     }
    ]
   }

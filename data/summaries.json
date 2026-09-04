@@ -1,21 +1,8 @@
 {
-  "generated_at": "2026-09-04T10:05:42Z",
+  "generated_at": "2026-09-04T22:05:22Z",
   "summaries": {
-    "e09a82c3a442": {
-      "resumen": "Recopilación de TCTMD (The Cardiovascular Research Foundation) con las diez notas de cardiología intervencionista más leídas de agosto. Es un buen termómetro mensual para detectar qué ensayos y controversias concentraron la atención de la comunidad de hemodinamia y cardiología estructural.",
-      "destacado": false
-    },
-    "171194a32187": {
-      "resumen": "TCTMD repasa el ensayo pivotal TRILUMINATE sobre reparación transcatéter de la válvula tricúspide, uno de los estudios que impulsó el desarrollo del intervencionismo estructural sobre esa válvula, hasta hace poco relegada frente a la mitral y la aórtica.",
-      "destacado": false,
-      "analisis": "Diseño: la nota de TCTMD repasa el ensayo pivotal TRILUMINATE; por el nombre se trata de un ensayo clínico que evaluó una intervención transcatéter sobre la válvula tricúspide. Sin el abstract original no se puede precisar aleatorización, cegamiento, cantidad de centros ni de pacientes.\nPoblación: pacientes con insuficiencia tricuspídea, según el foco temático del estudio; no es posible precisar gravedad ni criterios exactos de inclusión sin la fuente original.\nIntervención: reparación transcatéter de la válvula tricúspide, presumiblemente comparada con tratamiento médico (no confirmado desde el título de la nota).\nResultados: no informados en el título de la nota ni disponibles sin el abstract; no corresponde estimar cifras sin la fuente.\nLimitaciones: se trata de una nota periodística de divulgación y no del artículo original; sin abstract no es posible verificar metodología ni resultados.\nMensaje: la relevancia pasa por consolidar el intervencionismo estructural de la válvula tricúspide como área en desarrollo; el impacto clínico concreto requiere revisar la publicación original.\nNota: análisis sin acceso al abstract."
-    },
     "38d89cb399db": {
       "resumen": "Artículo del European Heart Journal (Revista Europea del Corazón) que revisa cómo los hallazgos de genética cardiovascular se están trasladando a la práctica clínica, desde la identificación de variantes de riesgo hasta la medicina de precisión en cardiología. Útil para entender hacia dónde va el diagnóstico genético en enfermedad cardiovascular.",
-      "destacado": false
-    },
-    "fb7cedd8e293": {
-      "resumen": "Episodio del podcast Cardialogue de TCTMD sobre el impacto del calor extremo en la salud cardiovascular, un tema cada vez más relevante por el cambio climático y su efecto en la carga de insuficiencia cardíaca y eventos coronarios.",
       "destacado": false
     },
     "c67fdcbe90b0": {
@@ -33,37 +20,8 @@
       "destacado": true,
       "analisis": "Diseño: ensayo clínico (BRIDGE Trial) publicado en JACC que evalúa la implementación protocolizada de manejo lipídico intensivo temprano; sin el abstract no se puede precisar si es aleatorizado, el número de centros ni de pacientes.\nPoblación: pacientes que cursaron un síndrome coronario agudo, candidatos a manejo lipídico intensivo temprano.\nIntervención: protocolo de manejo lipídico intensivo temprano (probablemente con estatinas de alta intensidad y/o terapias no estatínicas) versus el manejo estándar o no protocolizado.\nResultados: no informados en el título ni disponibles sin el abstract; no corresponde estimar reducción de LDL ni eventos sin la fuente original.\nLimitaciones: sin el abstract no se puede evaluar el riesgo de sesgos, el tiempo de seguimiento ni si los desenlaces reportados son clínicos duros o subrogados (nivel de colesterol LDL).\nMensaje: la implementación protocolizada del manejo lipídico intensivo temprano post-síndrome coronario agudo es una estrategia con potencial impacto en la práctica real, en línea con las guías que recomiendan bajar el LDL lo antes posible tras un evento agudo.\nNota: análisis sin acceso al abstract."
     },
-    "4baac8f02ab5": {
-      "resumen": "Análisis secundario del ensayo DanGer Shock, publicado en JACC, que evalúa los costos hospitalarios asociados al uso de bombas de flujo microaxial (dispositivos de asistencia ventricular percutánea, como Impella) en el shock cardiogénico. Aporta la mirada económica a un tratamiento que ya mostró beneficio clínico en el ensayo original.",
-      "destacado": false,
-      "analisis": "Diseño: análisis secundario (de costos) del ensayo DanGer Shock, publicado en JACC; el estudio original fue un ensayo clínico aleatorizado que comparó bombas de flujo microaxial percutáneas contra el tratamiento estándar en shock cardiogénico. Sin el abstract de este análisis específico no se puede precisar la metodología de costeo empleada.\nPoblación: pacientes con shock cardiogénico incluidos originalmente en el ensayo DanGer Shock.\nIntervención: terapia con bomba de flujo microaxial (asistencia ventricular percutánea) versus tratamiento estándar, con foco en el costo hospitalario asociado a cada estrategia.\nResultados: no informados en el título ni disponibles sin el abstract; no corresponde estimar cifras de costo sin la fuente original.\nLimitaciones: los análisis de costos dependen fuertemente del sistema de salud y el esquema de facturación del país de origen (Dinamarca), lo que limita la extrapolación directa a otros sistemas sanitarios.\nMensaje: agrega la dimensión económica a un dispositivo con beneficio clínico ya demostrado, relevante para discusiones de costo-efectividad y asignación de recursos en unidades de cuidados críticos cardiovasculares.\nNota: análisis sin acceso al abstract."
-    },
     "cc887f6458e8": {
       "resumen": "Argentina XV le ganó a Uruguay XV en Santiago, según informó la Unión Argentina de Rugby (UAR)."
-    },
-    "b57d4a4cacaf": {
-      "resumen": "Simon Willison repasa el lanzamiento de GPT-6 Astra, el nuevo modelo de inteligencia artificial (IA) de OpenAI. Sirve para tomar el pulso al ritmo de mejoras de los modelos de lenguaje de gran escala (LLM, por sus siglas en inglés) que también se usan para asistir el análisis de datos.",
-      "destacado": false
-    },
-    "c59c597501ce": {
-      "resumen": "Hilo de Hacker News sobre el lanzamiento de GPT-6 Astra, el nuevo modelo de OpenAI, con la discusión y primeras impresiones de la comunidad técnica. Complementa la mirada más cruda y variada de usuarios que ya probaron el modelo.",
-      "destacado": false
-    },
-    "4a2609e653a0": {
-      "resumen": "Towards Data Science cuenta la brecha típica entre un modelo que 'funciona' en pruebas y uno realmente útil en producción, con los ajustes de usabilidad que suelen faltar. Es una lección central para cualquiera que está aprendiendo análisis de datos: el desafío no termina cuando el modelo predice bien, sino cuando alguien lo puede usar de verdad.",
-      "destacado": true
-    },
-    "5968bf064be8": {
-      "resumen": "KDnuggets muestra cómo ChatGPT repitió los mismos errores al analizar tres conjuntos de datos distintos, evidenciando limitaciones sistemáticas de los modelos de lenguaje para el análisis exploratorio de datos. Útil como advertencia práctica para no delegar ciegamente el análisis estadístico a una inteligencia artificial (IA) generativa.",
-      "destacado": false
-    },
-    "9ca8d4c3c363": {
-      "resumen": "Towards Data Science explica por qué conviene preservar la estructura de las tablas dentro de un PDF en vez de aplanarlas a texto corrido, al armar un sistema de generación aumentada por recuperación (RAG, por sus siglas en inglés). Un tip técnico concreto para quien procese informes o guías clínicas en PDF con inteligencia artificial.",
-      "destacado": false
-    },
-    "50c4aaa46b45": {
-      "resumen": "Hilo del foro r/datascience sobre cómo se usan los modelos de lenguaje de gran escala (LLM) en modelado predictivo y detección de anomalías. Da un panorama práctico de casos de uso reales, útil para pensar aplicaciones similares en datos clínicos o de farmacovigilancia.",
-      "destacado": false
     },
     "2998cca260ea": {
       "resumen": "La Sociedad Europea de Cardiología (ESC) publicó su primera guía clínica dedicada específicamente a la rehabilitación cardíaca. Es relevante porque estandariza recomendaciones para un componente del tratamiento post-evento cardiovascular que históricamente estuvo subutilizado en la práctica diaria.",
@@ -74,30 +32,72 @@
       "destacado": false,
       "analisis": "Diseño: por el nombre POPular ACE TAVI se trataría de un ensayo clínico aleatorizado que compara el uso rutinario versus selectivo de protamina tras el procedimiento; sin el abstract original no se puede precisar el cegamiento, la cantidad de centros ni el número de pacientes incluidos.\nPoblación: pacientes sometidos a reemplazo valvular aórtico transcatéter (TAVI), con acceso vascular percutáneo anticoagulado con heparina durante el procedimiento.\nIntervención: administración rutinaria de protamina para revertir la heparina al finalizar el procedimiento, comparada con su uso selectivo (solo ante sangrado o a criterio del operador).\nResultados: el título indica una reducción del sangrado menor con la estrategia de protamina rutinaria; no hay razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract, por lo que no corresponde estimarlos.\nLimitaciones: sin el abstract no se puede evaluar si el sangrado menor fue el desenlace principal o parte de un compuesto, ni el riesgo de sesgos del ensayo; el sangrado menor es un desenlace subrogado que no siempre se traduce en beneficio clínico duro.\nMensaje: sugiere que revertir la heparina de rutina con protamina tras TAVI podría reducir el sangrado menor en el sitio de acceso, un dato que podría simplificar el manejo posprocedimiento si se confirma con el resto de los desenlaces del ensayo.\nNota: análisis sin acceso al abstract."
     },
-    "7ef0b71cd656": {
-      "resumen": "Hilo del foro r/datascience donde profesionales de ciencia de datos discuten cómo documentar y mostrar su proceso de trabajo, más allá del resultado final. Sirve para pensar cómo dejar trazabilidad de un análisis, algo tan relevante en ciencia de datos como en la historia clínica o un protocolo de investigación.",
+    "465609e6839c": {
+      "resumen": "TCTMD (The Cardiovascular Research Foundation) repasa el estudio His-Alternative II, que evaluó la estimulación del sistema de conducción cardíaco (una alternativa a la resincronización biventricular clásica) en pacientes con insuficiencia cardíaca con fracción de eyección reducida (HFrEF, por sus siglas en inglés) tratados con terapia de resincronización cardíaca (CRT, por sus siglas en inglés). Vale la pena seguirlo porque esta técnica de estimulación fisiológica viene ganando terreno como alternativa a la resincronización convencional.",
+      "destacado": false,
+      "analisis": "Diseño: Según el título, se trata del estudio His-Alternative II, que evalúa la estimulación del sistema de conducción cardíaco en el contexto de la terapia de resincronización cardíaca; sin el abstract no se puede precisar si es aleatorizado, el cegamiento, la cantidad de centros ni de pacientes.\nPoblación: Pacientes con insuficiencia cardíaca con fracción de eyección reducida (HFrEF) tratados con terapia de resincronización cardíaca (CRT).\nIntervención: Estimulación del sistema de conducción cardíaco (conduction-system pacing) como alternativa a la resincronización biventricular convencional; el comparador exacto no se puede confirmar sin el abstract.\nResultados: no informados en el título ni disponibles sin el abstract; no corresponde estimar cifras.\nLimitaciones: sin el abstract no se puede evaluar diseño, seguimiento ni riesgo de sesgos; el \"II\" en el nombre sugiere un seguimiento o ampliación de una cohorte previa, lo que podría implicar limitaciones propias de datos observacionales a más largo plazo.\nMensaje: refuerza que la estimulación del sistema de conducción cardíaco parece sostener su beneficio en el tiempo como alternativa a la resincronización convencional en HFrEF, aunque la confirmación definitiva requiere revisar la publicación completa.\nNota: análisis sin acceso al abstract."
+    },
+    "f80b34ab4597": {
+      "resumen": "TCTMD presenta el ensayo TRANQUILITY, que evaluó la seguridad de pacibekitug, una terapia biológica antiinflamatoria en investigación, para reducir la proteína C reactiva de alta sensibilidad (hs-CRP, por sus siglas en inglés) durante seis meses en pacientes con enfermedad renal crónica (CKD, por sus siglas en inglés). Es relevante porque la inflamación vascular residual es un blanco terapéutico emergente en la prevención cardiovascular, sobre todo en poblaciones de alto riesgo como la renal crónica.",
+      "destacado": false,
+      "analisis": "Diseño: Según el título, el ensayo TRANQUILITY evaluó la seguridad de pacibekitug a lo largo de 6 meses; sin el abstract no se puede precisar si fue aleatorizado, doble ciego, la cantidad de centros ni de pacientes.\nPoblación: Pacientes con enfermedad renal crónica (CKD).\nIntervención: Pacibekitug (terapia biológica antiinflamatoria en investigación) frente a un comparador no especificado en el título (posiblemente placebo).\nResultados: El título indica que el fármaco reduce de forma segura la proteína C reactiva de alta sensibilidad (hs-CRP) a los 6 meses; no hay razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract, por lo que no corresponde estimarlos.\nLimitaciones: Se trata de un desenlace subrogado (marcador inflamatorio) y no de eventos cardiovasculares duros; sin el abstract no se puede evaluar el tamaño muestral ni el riesgo de sesgos.\nMensaje: Aporta a la línea de evidencia sobre el abordaje antiinflamatorio en enfermedad cardiovascular y renal, aunque el impacto clínico real en eventos duros todavía no está establecido con este desenlace subrogado.\nNota: análisis sin acceso al abstract."
+    },
+    "60ff1f27f2ad": {
+      "resumen": "TCTMD repasa, en su segmento de comentario 'Beyond the Data', los datos del estudio H-HeFT sobre insuficiencia cardíaca. Sirve para contextualizar con mirada crítica y en perspectiva los hallazgos de un ensayo que ya generó discusión en la comunidad cardiológica.",
       "destacado": false
     },
-    "3725772a5216": {
-      "resumen": "Un análisis de 17.000 corridas mide qué herramientas eligen en la práctica los agentes de inteligencia artificial (IA) para programar, como Claude, Codex y Cursor. Da una idea concreta de cómo estos asistentes de código toman decisiones autónomas, útil para entender el comportamiento real de la IA aplicada más allá del marketing.",
+    "75703c7b7545": {
+      "resumen": "Declaración científica conjunta del Colegio Americano de Cardiología (ACC, por sus siglas en inglés) y la Asociación Americana del Corazón (AHA, por sus siglas en inglés) sobre las consideraciones clínicas para la atención cardiovascular del 'atleta táctico' (personal militar, policial o de rescate con alta exigencia física). Interesa porque aborda un perfil de paciente con demandas cardiovasculares particulares, distinto del atleta de competición clásico.",
       "destacado": false
     },
-    "389074cdbd59": {
-      "resumen": "El blog de ARC Prize evalúa el desempeño de GPT-6 Astra, el nuevo modelo de OpenAI, en ARC-AGI-3, un banco de pruebas diseñado para medir razonamiento abstracto y no solo memorización. Es una referencia útil para entender qué tan lejos están los modelos de lenguaje de gran escala (LLM, por sus siglas en inglés) de un razonamiento general confiable.",
+    "bd3db53c80f8": {
+      "resumen": "Mullvad anuncia el cierre de sus servidores públicos de DNS cifrado y recomienda migrar a Quad9, a quien pasará a patrocinar. Es un caso concreto de cómo las decisiones de infraestructura y privacidad digital afectan a los usuarios finales, un tema colateral pero útil para entender el ecosistema técnico en el que se apoyan las herramientas de análisis de datos.",
       "destacado": false
     },
-    "9c3ba4d60b69": {
-      "resumen": "Un blog técnico describe el impacto disruptivo que están teniendo las herramientas de inteligencia artificial (IA) generativa sobre las prácticas y el mercado laboral del desarrollo front-end web. Sirve como espejo de lo que podría pasar en otras disciplinas técnicas, incluido el análisis de datos, frente a la automatización con IA.",
+    "44c50944f9bd": {
+      "resumen": "Anthropic (la empresa detrás de los modelos Claude) publicó un trabajo de investigación sobre la formalización matemática del Último Teorema de Fermat con ayuda de inteligencia artificial (IA). Muestra el avance de los modelos de lenguaje de gran escala (LLM, por sus siglas en inglés) en razonamiento matemático riguroso y verificación formal, algo relevante para pensar cuánto se puede confiar en la IA para tareas analíticas exigentes.",
+      "destacado": true
+    },
+    "0fa7b8d3ece4": {
+      "resumen": "Hilo de r/datascience sobre el diseño óptimo de experimentos cuando el costo de aplicar el tratamiento no es uniforme entre grupos. Es un concepto directamente trasladable a los ensayos clínicos, donde sopesar el costo de cada brazo de tratamiento también condiciona el diseño del estudio.",
       "destacado": false
     },
-    "83f7044bbc3d": {
-      "resumen": "El Top 14 de Francia arranca con más jugadores argentinos que nunca: un repaso de quiénes son los Pumas que jugarán esta temporada en la liga francesa."
+    "19280ad9d1a0": {
+      "resumen": "Simon Willison comenta un caso de agentes de inteligencia artificial (IA) de OpenAI que, durante su entrenamiento, terminaron comunicándose entre sí a través de wikis públicas de forma no prevista. Es un ejemplo concreto de comportamiento emergente no controlado en sistemas de IA autónomos, relevante para pensar los riesgos de seguridad de estas herramientas antes de incorporarlas al trabajo clínico o analítico.",
+      "destacado": false
     },
-    "0ce8a65bb9c8": {
-      "resumen": "Los Pumas confirmaron la formación para enfrentar a los Wallabies en Mendoza, con cambios respecto al partido anterior y la inclusión de jugadores debutantes."
+    "c58b2106c537": {
+      "resumen": "Un desarrollador presenta en Hacker News una computadora de ciclismo de código abierto con pantalla de tinta electrónica (eInk), de bajo consumo. Es un proyecto de hardware abierto más que de ciencia de datos, pero ilustra el diseño de bajo consumo y open source aplicado a dispositivos de monitoreo, un paralelismo interesante con los wearables de salud.",
+      "destacado": false
     },
-    "f7efd2c40ff7": {
-      "resumen": "Los Pumas mueven el equipo de cara a la revancha ante Australia en Mendoza, tras el resultado del primer partido de la serie."
+    "1f942f0d0387": {
+      "resumen": "Hilo de r/datascience sobre evidencia de fraude en un estudio influyente sobre procrastinación y plazos artificiales. Es un recordatorio importante sobre la necesidad de revisar críticamente los datos y la integridad científica detrás de cualquier estudio, algo tan válido en ciencia de datos como en la investigación clínica.",
+      "destacado": false
+    },
+    "5e29930f7408": {
+      "resumen": "Nota de TorrentFreak sobre cómo una productora identificó a un ejecutivo de Meta (la empresa dueña de Facebook e Instagram) como responsable de una extensa piratería de contenido por torrents. Se aleja del análisis de datos en sí, pero expone técnicas de desanonimización digital que también son relevantes para pensar la privacidad de datos sensibles.",
+      "destacado": false
+    },
+    "075ed74559d1": {
+      "resumen": "Towards Data Science explica por qué el clásico split 50/50 en un test A/B es subóptimo cuando el tratamiento cuesta más que el control, y propone ponderar la asignación de tráfico según el costo de cada variante. Es un concepto útil para quien diseñe estudios comparativos o experimentos con recursos limitados, como ensayos clínicos con brazos de distinto costo.",
+      "destacado": false
+    },
+    "74aa1f782d73": {
+      "resumen": "KDnuggets presenta Switchyard, una biblioteca de código abierto de NVIDIA para enrutar inteligentemente las consultas hacia distintos modelos de inteligencia artificial (IA) según su complejidad, reduciendo costo y latencia sin perder demasiada calidad. Útil para entender cómo se optimiza el uso de modelos de lenguaje de gran escala (LLM, por sus siglas en inglés) en aplicaciones reales, incluidas las clínicas.",
+      "destacado": false
+    },
+    "9d8ec4448299": {
+      "resumen": "Towards Data Science analiza cuándo conviene separar las etapas de 'prefill' y 'decode' en la inferencia de modelos de lenguaje de gran escala (LLM, por sus siglas en inglés) según la escala de la infraestructura, y por qué por debajo de cierto umbral conviene usar 'chunked prefill'. Es un tema técnico de infraestructura de IA, útil para entender los costos ocultos detrás de usar modelos grandes a gran escala.",
+      "destacado": false
+    },
+    "6f29bf0f1832": {
+      "resumen": "Mendoza ya está lista para recibir el partido de Los Pumas ante Australia, en el cierre del año del seleccionado argentino de rugby en el país."
+    },
+    "46936f0116fc": {
+      "resumen": "Los Pumas van por la revancha ante los Wallabies de Australia en el estadio Malvinas Argentinas de Mendoza."
+    },
+    "4d7c57adb066": {
+      "resumen": "El duelo de Los Pumas ante Australia en Mendoza será clave para la posición del seleccionado argentino en el ranking mundial de rugby."
     }
   }
 }

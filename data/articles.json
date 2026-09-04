@@ -1,11 +1,25 @@
 {
- "generated_at": "2026-09-03T21:08:33.423206+00:00",
+ "generated_at": "2026-09-04T00:10:27.691334+00:00",
  "sections": [
   {
    "id": "cardiologia",
    "title": "Cardiología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Routine Protamine Reduces Minor Bleeding Compared With Selective Use: POPular ACE TAVI",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT0JGWnpCWTZ2MmpTNlVvZ3h5bldjV3BRZDBZVWw3RkxYVkFPM0NyTW1JSEdZbEY0RjB1VGdhV19fRzlWaXF4U1JWTjZad2FkNGRvcHZkRU1zaGxZU2tZSHN3bnhTNVpRZW5SelVvYndsNkdzUmRudlBTZThMa1U4dGpHNjluRWRhNVZhdkJIMzA4TXNScGxyeXV1U0dlX3lCamRzdy1OT3BWVjg?oc=5",
+     "source": "TCTMD",
+     "published": "2026-09-03T20:59:49+00:00",
+     "id": "54774ad5cf3b"
+    },
+    {
+     "title": "Beyond the Data: NOTION-4",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuYXZORmoyMHZrdC1RXzBjTjZCU2hkUkw1RG9hSFNpWUg1MlZ0SzNfLW1rTXoxZTBQUGZkUzJXWV9JZkFlY3FHT0QtbFRBU0h3Z1BlREFhVDZ6aGNUUVkybEtjSnp0T0Z4a1l6TlNad2o4dHdx?oc=5",
+     "source": "TCTMD",
+     "published": "2026-09-03T19:53:43+00:00",
+     "id": "7d7e60677559"
+    },
     {
      "title": "ESC Introduces First Clinical Guideline for Cardiac Rehab",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYnNIa2gtVTVydzVPb0h5em9HRWtoTHQzMFRlZmhsZTNhRDRpR3ktUU5OX2FteTNrQi1lSUJOVng4dGRJSjdVNG5jSnI1WEszNEJPM3FmNGs2R0pOSnJ0V0tTNEJJaC1rbG9idFpzblFKYnExM2RDWEpoZzd6QVZjbkNkNjNBVnc?oc=5",
@@ -34,20 +48,6 @@
      "published": "2026-09-02T00:00:00+00:00",
      "copete": "For image description, please refer to the figure legend and surrounding text. For the podcast associated with this article, please visit https://academic.oup.com/eurheartj/pages/Podcasts .",
      "id": "38d89cb399db"
-    },
-    {
-     "title": "Cardialogue: Impacts of Extreme Heat on CV Health",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMmxmWjl3ZUtFbURrRXFyYVpBRGl0UTNTbUtOV3Frdk9UenYteHZsTnpaYkdvVUpTS3FyYWdlSzlydEZndm5HVUtHSzJnaVYxakZTYTZuTjZQN2NHUXRjZDI1aWZIVXhucTR1RFhEVkNEdjJrZ0lNT252ZFJkci1tUHVvMmUyU0Q0eDhpWnFkc19WYjRORUE?oc=5",
-     "source": "TCTMD",
-     "published": "2026-09-01T16:12:00+00:00",
-     "id": "fb7cedd8e293"
-    },
-    {
-     "title": "ACASA-TAVI and NOTION-4 Trials Give Mixed Messages on DOACs After TAVI",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaEhTSUJNQkg4RmkwOUVoY1JwbWliQzhCS09GdmRSeHkzeTcwQjVEc1VhUHFsNWtNV0ptQzhlSVlVWndiMnRDYXFuZXlzUTJMSlBUdEtaV0tFUlZlaU5PMkJjN0hxU1EtVWJIUjFfNHhPVUxldlU0Y09Wa3BNb1J6djREb1hnXzlLX1c2R3RwUkJPdnM0NGVOVVVn?oc=5",
-     "source": "TCTMD",
-     "published": "2026-09-01T12:49:30+00:00",
-     "id": "ad52daf13daa"
     },
     {
      "title": "From Observation to Anticipation in a Changing Climate: Building a Climate-Cardiovascular Early Warning System",
@@ -80,6 +80,22 @@
      "published": "2026-08-31T00:00:00+00:00",
      "copete": "Borregaard B et al. · Journal of the American College of Cardiology",
      "id": "4baac8f02ab5"
+    },
+    {
+     "title": "Timing of PCI in Patients Undergoing Transcatheter Aortic-Valve Implantation",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42670987/",
+     "source": "NEJM Cardiología",
+     "published": "2026-08-30T00:00:00+00:00",
+     "copete": "Stähli BE et al. · The New England journal of medicine",
+     "id": "f6c1df081c4c"
+    },
+    {
+     "title": "Pulmonary Denervation for Heart Failure-Related Pulmonary Hypertension",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42670986/",
+     "source": "NEJM Cardiología",
+     "published": "2026-08-30T00:00:00+00:00",
+     "copete": "Zhang H et al. · The New England journal of medicine",
+     "id": "048229cf621f"
     }
    ]
   },
@@ -89,34 +105,81 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "¿El rival de Boca pierde al goleador del Clausura?",
+     "link": "https://www.ole.com.ar/futbol-primera/agustinmodica-gimnasiademendoza-clausura-dariofranco-boca_0_HtvhNZgDJn.html",
+     "source": "Olé — Primera",
+     "published": "2026-09-03T23:54:18+00:00",
+     "copete": "Agustín Módica, delantero de Gimnasia de Mendoza, sufrió una lesión muscular y es duda para el partido ante el Xeneize, del sábado próximo.",
+     "id": "d18bd82a54ab"
+    },
+    {
+     "title": "Video: insólito blooper en Gimnasia de Mendoza vs Rosario Central por el Torneo de Reserva",
+     "link": "https://www.ole.com.ar/futbol-primera/video-insolito-blooper-reserva-rosario-central-gimnasia-mendoza-torneo-clausura-proyeccion_0_PS8fx9NF0j.html",
+     "source": "Olé — Primera",
+     "published": "2026-09-03T23:45:39+00:00",
+     "copete": "En el marco de la séptima fecha del Torneo Proyección Clausura, el arquero del Lobo Mendocino cometió un increíble error que terminó en gol del Canalla.",
+     "id": "21a6c69beb39"
+    },
+    {
+     "title": "Buena noticia para Los Pumas: el jugador que vuelve tras casi dos años por una grave lesión",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTVLOGZ5SDJ4bzlSNFIzUTRGZVBVdlRlT05JWjg0UGRPbDlUNkNfTFBjZzUzQnRXNzJSV2toaGZ2OFU4b0pCYzdNOXJQLWoxVzR1bWVQYnczUFNKVXloUXc2cG9qTU04aWpOZFpGUlh6VndhTXg4Z3ZlUGEwR0o2LUwyMXp1X0FCYkVXWFgyMlZTMkRSTGFQb2ZiNHF6aXNSa2p1YWczcUdpZmpFRU1Z?oc=5",
+     "source": "espn.com.co",
+     "published": "2026-09-03T23:41:18+00:00",
+     "id": "18a104bc8873"
+    },
+    {
+     "title": "Con una mayor cantidad de Pumas, comienza el Top 14: quiénes son los argentinos que jugarán en la liga de Francia",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeHhFWEFXb1l4eERvVzN1NlZHVDRqMjhpVkdvMVNnWXlnRHBqeXZxYk1CeHhSUlcxMzJqaThhTjBEMTRvUDlNTVR3N1BER2RJYWpUVGtFaFZHUVhHbXhmOVlSMDQ2MUthT2VYajYxZUZDMWZMbHlrQ3A5RDlqbnZ1SDh6amRpQW9EOWZPc3ZOZWlhcGkzeVRVTkk3WU1yUEZlaWxfaFI2R2VmVERJbXU1c3k1LTZnbFdRVUNhTGJ2U0ZuUHlTSFhOMHlaaWU5V1hoX2NsUTJn?oc=5",
+     "source": "espn.com.co",
+     "published": "2026-09-03T23:41:16+00:00",
+     "id": "12a655c2d9dd"
+    },
+    {
+     "title": "El monto que le entrará a Defensa por la venta de Enzo Fernández al Manchester City",
+     "link": "https://www.ole.com.ar/defensa-y-justicia/manchester-city-defensa-chelsea-ventatransaccion-fifa-solidaridad_0_Xp2FQ4e2p5.html",
+     "source": "Olé — Primera",
+     "published": "2026-09-03T23:27:10+00:00",
+     "copete": "El Halcón recibirá una suma luego del traspaso del volante del Chelsea al City, gracias al Mecanismo de Solidaridad de la FIFA.",
+     "id": "0a031c489e8d"
+    },
+    {
+     "title": "Los Pumas tienen equipo para la revancha ante Australia: la palabra de Contepomi y Matera",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZFJLUDZFdldpN2ZaVDRyS1hKWUpqeG9xbm9mbzJvNFA5SDRiRWhCYjBXd3RmTVVjMTNscnRfekF3Qm5GSnNDbERfSnY2R1REbmNwZzQ5MWZybWtCNUl1WDVGVWpXR2U3ZDZaN1dmb3RPTzRfSEdOcEp6WmdvUWstV0JZZjJKYTh4Z0YydDVrZ3BEVklFMTUtajJnRko1c0t6WHd3Z256SDdYM3dIdF80ckRvUkNuTnVJWi1GTkpldFdOY0YyQVJTc9IBzgFBVV95cUxPTDVEdkxUZzFFQUlVZnJpSWdxSGVUeGNaWmk4TmthNkU0MW9xTDN4NmNkemFxUXNXaE9SQ3lDUlB3REpDYkg1cWloQlJPcGQ5bm02cHk4eUlNWFJTZTh6Y01CeWZHeEZvQnF0Uno2RUszelVzLUxBdlluNHl0Q0Q1SDlIQXRPUkZSWmVCSnJhTzVrN2FOSFMzUXBROVZCUERReFBTTm8xanc4RENYX01RY1N5eXdCZUw5MnpUeERIdDBidktFb1dWS0JhVk9tdw?oc=5",
+     "source": "Sitio Andino",
+     "published": "2026-09-03T23:26:00+00:00",
+     "id": "bddaa8def8f7"
+    },
+    {
+     "title": "La Calculadora de Olé de la fecha 8 del Torneo Clausura: ¿qué se juega cada uno de los equipos?",
+     "link": "https://www.ole.com.ar/futbol-primera/calculadora-ole-fecha-8-torneo-clausura_0_mj2Gc9wAhm.html",
+     "source": "Olé — Primera",
+     "published": "2026-09-03T23:13:09+00:00",
+     "copete": "Se disputa una nueva jornada del campeonato y ponemos la lupa en el impacto que tendrá cada partido.",
+     "id": "9a80e6f4efee"
+    },
+    {
+     "title": "Armá tu 11 de River para recibir a Independiente Rivadavia por la fecha 8 del Clausura",
+     "link": "https://www.ole.com.ar/river-plate/river-arma-equipo-independiente-rivadavia-leonardoponzio_0_JU6cSWR631.html",
+     "source": "Olé — River",
+     "published": "2026-09-03T22:37:42+00:00",
+     "copete": "En Olé te invitamos a que seas Leonardo Ponzio por un rato. ¿Cuál sería tu equipo para que el CARP le gane a la Lepra mendocina?",
+     "id": "6bd6cc91c300"
+    },
+    {
+     "title": "El nuevo proyecto que inauguró Ángel Correa: \"Lo soñé durante mucho tiempo\"",
+     "link": "https://www.ole.com.ar/river-plate/river-angel-correa-club-padel-inauguro-espana-anuncio-redes-orgullo_0_aKkS1Z3Se6.html",
+     "source": "Olé — River",
+     "published": "2026-09-03T21:41:25+00:00",
+     "copete": "El #10 de River, más allá del fútbol: realizó un anuncio en sus redes que lo mantiene muy orgulloso.",
+     "id": "130f9c50098f"
+    },
+    {
      "title": "Alfredo Berti: \"Creería que Salas no va a jugar contra River\"",
      "link": "https://www.ole.com.ar/river-plate/river-maxi-salas-independiente-rivadavia-berti-clausula-prestamo_0_gzPxTi6p0y.html",
      "source": "Olé — River",
      "published": "2026-09-03T20:54:39+00:00",
      "copete": "El DT de Independiente Rivadavia ratificó que en el contrato del préstamo del correntino existe la cláusula que publicó Olé. Por eso, no cuenta con el punta para el domingo.",
      "id": "5c62d51141b5"
-    },
-    {
-     "title": "El insólito motivo que podría impedirle a Viera dirigir a Independiente",
-     "link": "https://www.ole.com.ar/independiente/independiente-jadson-viera-tecnico-habilitacion_0_OPeKaMcF22.html",
-     "source": "Olé — Primera",
-     "published": "2026-09-03T20:50:09+00:00",
-     "copete": "El entrenador del Rojo aún no está habilitado para dirigir al equipo el domingo contra Central Córdoba.",
-     "id": "94d5e7d395f9"
-    },
-    {
-     "title": "Quiénes son los jugadores que podrían hacer su debut con Los Pumas frente a los Wallabies en Mendoza",
-     "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOc3BocHYzbDIyekJ0bEgzRlQwdUkzX3lLcWg5VXRITTVfSlZuSmcyenlLM1Q2cTlJVG9YVXFpN1ByRGwwMWNYaHU1cUNVZUZ6b0xWVjgxdF9tbmtHMFVteWkwd2VrZmxZYnZicWpFdnVzSC1ZaEh1ZGQzQVU0MmpuZGluM1FnY1p6cUZjZXMyM2JQNlB2bUVDQ0xUUF9UZFBYTEhIdmxpZUd5VjN5a0tlWkd0T1hoanhTZEVvUm4taURCM3ZJdWVzRVZzY0V6YkJOSG5hOHYzZzh3TlZWSmlWbDNZS3BWR0NzVUVGMzZYRlhHVDdsSEhEZF9fRU1lWDg2MnMzNllJalFySDZvbkJkS2p4WQ?oc=5",
-     "source": "espn.com.ar",
-     "published": "2026-09-03T20:47:00+00:00",
-     "id": "a158d523f54a"
-    },
-    {
-     "title": "Con cambios y debutantes, la formación de Los Pumas para enfrentar a los Wallabies en Mendoza",
-     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRHZnSmdMcmlSSHkyQTJQMTFScm5rdlFFLUgzRGZIOGVyMkZkcUhGckRDbEUtSTlqN0syRW9XZWY4TFhpWjRFYm9VenB6ZkNJY29JT1B2VEl3MjRDNW1iRXhJSzVnTk1rY0RPaVFfTTgzb1NCMDBmQTBoN3Q1cHFlSS1LejBmRnk3NE03ZmU5M01ocjk0NkJPd241cWxtd2ZyNEFha1J1NG5LTUNsS3RtLU1MQ2hEYV9hTURpdDdpMlgwSlNWZUpZMEQ0YzMwdE9SVERvUDhmc29hMkdyQ3NHelFIa0Y3elRpVUZJdTd3?oc=5",
-     "source": "espndeportes.espn",
-     "published": "2026-09-03T20:47:00+00:00",
-     "id": "ff8a23bdc52f"
     },
     {
      "title": "LOS PUMAS CON EQUIPO CONFIRMADO PARA LA REVANCHA EN MENDOZA",
@@ -135,14 +198,6 @@
      "id": "69796eeff2c4"
     },
     {
-     "title": "Se acabó la búsqueda de Aldosivi: Javier Sanguinetti sería el nuevo técnico",
-     "link": "https://www.ole.com.ar/futbol-primera/javier-sanguinetti-nuevo-dt-entrenador-aldosivi_0_n2XyoPcN1U.html",
-     "source": "Olé — Primera",
-     "published": "2026-09-03T19:25:28+00:00",
-     "copete": "El Archu llegará este jueves a Mar del Plata para ponerse al frente del Tiburón, que necesita reaccionar cuanto antes tras la salida de Israel Damonte.",
-     "id": "102c10e2fcf7"
-    },
-    {
      "title": "La baja de peso de Independiente Rivadavia ante River que complica los planes de Berti",
      "link": "https://www.ole.com.ar/river-plate/river-plate-independiente-rivadavia-bajas-alfredo-berti_0_HdEERb7d6q.html",
      "source": "Olé — River",
@@ -151,43 +206,12 @@
      "id": "c15abda9d65f"
     },
     {
-     "title": "Los Pumas: cómo impactará en el ranking de la World Rugby el resultado ante Australia",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkxXWV82cXliaFEweDdEeXNpc1ZlYW5scUZUamEzcExiaW94eHpHUXNWeWtpOXJLWVJVaTJ3R3lWZFBYRkJFOF92ZzVPX21yUDI3Q29yTVd1bVllc3RjQVFQWnI2b1RLMkJndjdOVEtBNWFIcTVWWkRYSWlaNnhqOXRqVmMxRUxaV3FpdVdaeG5MNFN0cG5tU0VB?oc=5",
-     "source": "DeporTV",
-     "published": "2026-09-03T18:59:00+00:00",
-     "id": "bfadd2214ec5"
-    },
-    {
-     "title": "En qué puesto quedó River con sus u$s 68 millones gastados con respecto a los clubes del mundo",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-millones-gastados-refuerzos-mundo_0_YoxENkLycC.html",
-     "source": "Olé — River",
-     "published": "2026-09-03T18:12:00+00:00",
-     "copete": "El Millonario hizo un importante mercado de pases, superior a muchos equipos del Viejo Continente.",
-     "id": "4c3a05177d8c"
-    },
-    {
-     "title": "Oficial: Galarza Fonda, de marginado en River a compañero de Messi en Inter Miami",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-matias-galarza-fonda-futuro-estudiantes-cantilo_0_8nizh4Yba0.html",
-     "source": "Olé — River",
-     "published": "2026-09-03T17:35:00+00:00",
-     "copete": "El volante fue anunciado por las Garzas, donde jugará junto a Leo. Estudiantes también lo buscó sobre el cierre del mercado.",
-     "id": "5d14f058abc7"
-    },
-    {
      "title": "ARGENTINA XV SUPERÓ A URUGUAY XV EN SANTIAGO",
      "link": "https://uar.com.ar/argentina-xv-supero-a-uruguay-xv-en-santiago/",
      "source": "UAR",
      "published": "2026-09-02T18:29:51+00:00",
      "copete": "En el marco de la segunda fecha del Américas Rugby Championship, el seleccionado argentino fue superior a Los Teros y goleó 64 a 10 en el Estadio Escuela Militar, ubicado en Santiago de Chile. Este fue el segundo triunfo albiceleste en el…",
      "id": "cc887f6458e8"
-    },
-    {
-     "title": "Los 23 de Argentina XV para enfrentar a Uruguay XV",
-     "link": "https://uar.com.ar/los-23-de-argentina-xv-para-enfrentar-a-uruguay-xv/",
-     "source": "UAR",
-     "published": "2026-09-01T18:46:29+00:00",
-     "copete": "El seleccionado nacional ya tiene equipo confirmado para enfrentar a Uruguay XV este miércoles 2 de septiembre, desde las 13:00 h (hora argentina), en la Escuela Militar de Santiago de Chile, por la segunda fecha del Américas Rugby…",
-     "id": "9250397b9fde"
     }
    ]
   },
@@ -205,6 +229,13 @@
      "id": "b57d4a4cacaf"
     },
     {
+     "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+     "link": "https://arcprize.org/blog/astra",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-09-03T19:45:00+00:00",
+     "id": "389074cdbd59"
+    },
+    {
      "title": "GPT-6 Astra",
      "link": "https://openai.com/index/gpt-6-astra/",
      "source": "Hacker News (100+ puntos)",
@@ -219,11 +250,11 @@
      "id": "7e80672b84c6"
     },
     {
-     "title": "K2 Horizon: A connected fleet of six open models",
-     "link": "https://ifm.ai/blog/k2/",
+     "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+     "link": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
      "source": "Hacker News (100+ puntos)",
-     "published": "2026-09-03T15:36:43+00:00",
-     "id": "fd8b1907aa80"
+     "published": "2026-09-03T16:21:33+00:00",
+     "id": "1327db0da18d"
     },
     {
      "title": "My Model Worked Perfectly. Then I Tried to Make It Useful.",
@@ -232,13 +263,6 @@
      "published": "2026-09-03T15:30:01+00:00",
      "copete": "Turning a trained churn classifier into a FastAPI service that other software can actually call. The post My Model Worked Perfectly. Then I Tried to Make It Useful. appeared first on Towards Data Science .",
      "id": "4a2609e653a0"
-    },
-    {
-     "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
-     "link": "https://news.ycombinator.com/item?id=49551096",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-09-03T15:07:01+00:00",
-     "id": "2d612f0c6e83"
     },
     {
      "title": "I Asked ChatGPT to Analyze 3 Datasets. It Made the Same Mistakes Every Time",
@@ -279,100 +303,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "El riesgo país perforó los 500 puntos y cerró en su valor más bajo en poco más de dos semanas",
-     "link": "https://www.lanacion.com.ar/economia/el-riesgo-pais-perforo-los-500-puntos-y-cerro-en-su-valor-mas-bajo-en-poco-mas-de-dos-semanas-nid03092026/",
-     "source": "La Nación",
-     "published": "2026-09-03T21:06:58+00:00",
-     "copete": "El indicador elaborado por JP Morgan sostuvo una tendencia bajista en los primeros días de septiembre; retrocedió casi 20 unidades",
-     "id": "0b9b126f967a"
-    },
-    {
-     "title": "Murió un pasajero de 73 años durante un vuelo de Panamá a Mendoza",
-     "link": "https://www.lanacion.com.ar/sociedad/murio-un-pasajero-de-73-anos-durante-un-vuelo-de-panama-a-mendoza-nid03092026/",
-     "source": "La Nación",
-     "published": "2026-09-03T21:06:39+00:00",
-     "copete": "El hombre se descompensó horas después del despegue desde el aeropuerto de Tocumen y falleció pese a las maniobras de reanimación",
-     "id": "40b6bbb435c3"
-    },
-    {
-     "title": "Milei volvió de Chile y graba la cadena nacional por Malvinas acompañado por su Gabinete",
-     "link": "https://www.lanacion.com.ar/politica/milei-vuelve-de-chile-y-graba-la-cadena-nacional-por-malvinas-acompanado-por-su-gabinete-nid03092026/",
-     "source": "La Nación",
-     "published": "2026-09-03T21:06:38+00:00",
-     "copete": "Empezó a grabarse 17.20 y se emitirá el mensaje a las 21; duraría unos 20 minutos; también estaban Martín Menem, Patricia Bullrich, Karina Milei y el canciller Quirno; antes se reunió con un premio Nobel de Economía",
-     "id": "b774f44bd9d5"
-    },
-    {
-     "title": "Juicio por el caso Cuadernos: un empresario reconoció pedidos de coimas por parte de un organismo vial",
-     "link": "https://www.lanacion.com.ar/politica/juicio-por-el-caso-cuadernos-un-empresario-reconocio-pedidos-de-coimas-por-parte-de-un-organismo-nid03092026/",
-     "source": "La Nación",
-     "published": "2026-09-03T21:06:19+00:00",
-     "copete": "Jorge Stocker declaró como testigo y dijo que otro integrante de su empresa le contó sobre presiones que llegaban desde del OCCOVI que lideraba el funcionario Claudio Uberti",
-     "id": "acc549f5a65b"
-    },
-    {
-     "title": "El video viral de Lionel Messi con Antonela Roccuzzo y sus hijos tras el anuncio de su retiro de la Selección",
-     "link": "https://www.infobae.com/deportes/2026/09/03/el-video-viral-de-lionel-messi-con-antonela-roccuzzo-y-sus-hijos-tras-el-anuncio-de-su-retiro-de-la-seleccion/",
+     "title": "Dormir de día y trabajar de noche: cómo afecta el bienestar y qué herramientas recomiendan los expertos",
+     "link": "https://www.infobae.com/salud/2026/09/04/dormir-de-dia-y-trabajar-de-noche-como-afecta-el-bienestar-y-que-herramientas-recomiendan-los-expertos/",
      "source": "Infobae",
-     "published": "2026-09-03T21:05:45+00:00",
-     "copete": "El crack rosarino fue captado con su familia en una práctica de la Academia del Inter Miami. Su gesto con un fanático",
-     "id": "71806f379f23"
+     "published": "2026-09-04T00:05:59+00:00",
+     "copete": "Turnos nocturnos, de madrugada y rotativos obligan a personas a descansar en otros momentos. La ciencia y los especialistas indican métodos que mitigan los efectos negativos",
+     "id": "304aab66d6b2"
     },
     {
-     "title": "Neuquén confirmó un segundo caso de hantavirus y detectó transmisión humana",
-     "link": "https://www.infobae.com/salud/2026/09/03/neuquen-confirmo-un-segundo-caso-de-hantavirus-y-detecto-transmision-humana/",
+     "title": "El mensaje de un histórico del Atlético Madrid para Julián Álvarez: “El perdón no es con palabras, es con goles”",
+     "link": "https://www.infobae.com/deportes/2026/09/03/el-mensaje-de-un-historico-del-atletico-madrid-para-julian-alvarez-el-perdon-no-es-con-palabras-es-con-goles/",
      "source": "Infobae",
-     "published": "2026-09-03T21:04:53+00:00",
-     "copete": "El nuevo positivo corresponde a un contacto estrecho del joven de 26 años que murió semanas atrás en la Región del Pehuén. Permanece internado en Zapala y estable. Refuerzan la vigilancia epidemiológica para evitar nuevos contagios",
-     "id": "4dc1aeca8c7f"
+     "published": "2026-09-04T00:04:27+00:00",
+     "copete": "Paulo Futre apuntó contra el argentino, aunque luego lo alentó",
+     "id": "21270221f294"
     },
     {
-     "title": "El gobierno de Kicillof le pidió a Nación que declare feriado el día que el Papa León XIV dará su misa en Luján",
-     "link": "https://www.infobae.com/politica/2026/09/03/el-gobierno-de-kicillof-le-pidio-a-nacion-que-declare-feriado-el-dia-que-el-papa-leon-xiv-dara-su-misa-en-lujan/",
+     "title": "Los ojos de las abejas son más complejos de lo que se creía: qué tan precisos son",
+     "link": "https://www.infobae.com/salud/ciencia/2026/09/03/los-ojos-de-las-abejas-son-mas-complejos-de-lo-que-se-creia-que-tan-precisos-son/",
      "source": "Infobae",
-     "published": "2026-09-03T21:04:34+00:00",
-     "copete": "El gobernador recibió a autoridades eclesiásticas, intendentes, ministros y fuerzas de seguridad. Coordinaron lo que será la tradicional procesión a la basílica, además de la visita del sumo pontífice que estará en dos localidades de PBA",
-     "id": "1c2ba7af06ea"
+     "published": "2026-09-04T00:04:25+00:00",
+     "copete": "El análisis de cuatro especies distintas mostró que cada una presenta diferente tamaño de las lentes oculares y organización de las células fotorreceptoras, un patrón que llevó a los autores a descartar la existencia de una fórmula única…",
+     "id": "213563bff291"
     },
     {
-     "title": "El nuevo desafío de Mauro Zárate tras su retiro del fútbol: “El barrio te vuelve a abrazar”",
-     "link": "https://www.infobae.com/deportes/2026/09/03/el-nuevo-desafio-de-mauro-zarate-tras-su-retiro-del-futbol-el-barrio-te-vuelve-a-abrazar/",
+     "title": "Las enigmáticas imágenes que publicó Wanda Nara en sus historias y el guiño a Mauro Icardi",
+     "link": "https://www.infobae.com/teleshow/2026/09/04/las-enigmaticas-imagenes-que-publico-wanda-nara-en-sus-historias-y-el-guino-a-mauro-icardi/",
      "source": "Infobae",
-     "published": "2026-09-03T21:02:15+00:00",
-     "copete": "El ex jugador de Vélez y Boca, entre otros, se convirtió en refuerzo del club Haedo Futsal",
-     "id": "a023203caf9d"
+     "published": "2026-09-04T00:04:06+00:00",
+     "copete": "La conductora mostró una escena con velas, rosas y una camiseta en primer plano, una combinación que disparó todo tipo de lecturas",
+     "id": "6be09922e96d"
     },
     {
-     "title": "Primavera digital: las apps que deberías limpiar del celular en septiembre 2026",
-     "link": "https://www.lanacion.com.ar/tecnologia/primavera-digital-las-apps-que-deberias-limpiar-del-celular-en-septiembre-2026-nid03092026/",
+     "title": "Informe revela que los usuarios de Mac sufren más infecciones por malware que los de Windows",
+     "link": "https://www.infobae.com/tecno/2026/09/04/informe-revela-que-los-usuarios-de-mac-sufren-mas-infecciones-por-malware-que-los-de-windows/",
+     "source": "Infobae",
+     "published": "2026-09-04T00:04:05+00:00",
+     "copete": "El 12% de los usuarios del sistema operativo de Apple sufrió este tipo de ciberataque durante el último año",
+     "id": "a44130ca8c89"
+    },
+    {
+     "title": "Capturado por el FBI: hizo fraude con la green card, lo acusan de ser espía cubano y fue deportado desde Florida",
+     "link": "https://www.lanacion.com.ar/estados-unidos/florida/capturado-por-el-fbi-hizo-fraude-con-la-green-card-lo-acusan-de-ser-espia-cubano-y-fue-deportado-nid03092026/",
      "source": "La Nación",
-     "published": "2026-09-03T21:02:00+00:00",
-     "copete": "Ciertas aplicaciones que se descargan para ocasiones puntuales suelen quedar instaladas aunque ya no se utilicen; las recomendaciones",
-     "id": "92131d7c2431"
+     "published": "2026-09-04T00:04:00+00:00",
+     "copete": "Conoce quién es el migrante detenido y deportado en Florida que el ICE y el FBI señalan como espía cubano y acusan de fraude migratorio.",
+     "id": "f52b7e5aafe8"
     },
     {
-     "title": "Polémica en Tierra del Fuego: declararon a los conejos europeos sujetos de derechos, pese a ser una especie invasora",
-     "link": "https://www.infobae.com/sociedad/2026/09/03/polemica-en-tierra-del-fuego-declararon-a-los-conejos-europeos-sujetos-de-derechos-pese-a-ser-una-especie-invasora/",
-     "source": "Infobae",
-     "published": "2026-09-03T21:01:52+00:00",
-     "copete": "Los ejemplares liberados en 1936 se convirtieron en 30 millones en menos de dos décadas, según Parques Nacionales. En la provincia buscaban eliminarlos con gas fosfano, pero un fallo judicial los definió como seres sintientes con…",
-     "id": "5c77ca8c96cd"
+     "title": "Ricardo Darín recordó la final del mundo y apuntó contra los anti-Messi: “Que se queden tranquilos, ahora no va a jugar nunca más”",
+     "link": "https://www.lanacion.com.ar/espectaculos/ricardo-darin-recordo-la-final-del-mundo-y-apunto-contra-los-anti-messi-que-se-queden-tranquilos-nid02092026/",
+     "source": "La Nación",
+     "published": "2026-09-04T00:02:36+00:00",
+     "copete": "Tras conocerse la despedida de Lionel Messi de la selección argentina, el actor recordó el último partido del rosarino contra España y le agradeció por su perseverancia",
+     "id": "e39aeb6a8525"
     },
     {
-     "title": "La palabra del abogado de Alejandro Stoessel, en medio del conflicto con Tini: \"Es un tipo sumamente honesto\"",
-     "link": "https://www.clarin.com/fama/palabra-abogado-alejandro-stoessel-medio-conflicto-tini-tipo-sumamente-honesto_0_NSIBVUYRIB.html",
+     "title": "“Que impacte en la realidad”: la advertencia empresaria sobre la nueva economía argentina y cómo “evitar el péndulo” político",
+     "link": "https://www.lanacion.com.ar/economia/que-impacte-en-la-realidad-la-advertencia-empresaria-sobre-la-nueva-economia-argentina-y-como-evitar-nid03092026/",
+     "source": "La Nación",
+     "published": "2026-09-04T00:01:25+00:00",
+     "copete": "El mensaje atravesó la primera jornada del IAEF, donde empresarios y economistas destacaron los avances de la macro, pero marcaron las dificultades que todavía persisten en distintos sectores",
+     "id": "d59250389e84"
+    },
+    {
+     "title": "Nerea, albañila: “Me cuesta encontrar trabajo en la construcción y me rechazan por el simple hecho de ser mujer”",
+     "link": "https://www.lanacion.com.ar/lifestyle/nerea-albanila-me-cuesta-encontrar-trabajo-en-la-construccion-y-me-rechazan-por-el-simple-hecho-de-nid02092026/",
+     "source": "La Nación",
+     "published": "2026-09-04T00:01:03+00:00",
+     "copete": "Una joven que vive en Australia reveló cómo es trabajar en una obra de construcción y cuáles son los desafíos a los que debe enfrentarse",
+     "id": "3f802ac5c84a"
+    },
+    {
+     "title": "Felipe Isidro, profesor de educación física: “A partir de los 70 años, las piernas son mucho más importantes para tu salud de lo que crees”",
+     "link": "https://www.lanacion.com.ar/lifestyle/felipe-isidro-profesor-de-educacion-fisica-a-partir-de-los-70-anos-las-piernas-son-mucho-mas-nid02092026/",
+     "source": "La Nación",
+     "published": "2026-09-04T00:00:05+00:00",
+     "copete": "El experto analiza la fragilidad del tren inferior en la tercera edad; asegura que el entrenamiento de fuerza resulta un factor determinante para la autonomía doméstica",
+     "id": "ca57728d3bb0"
+    },
+    {
+     "title": "Influencers en el US Open: la nueva moda que irrita a los tenistas y pone en debate el futuro del tenis",
+     "link": "https://www.clarin.com/deportes/influencers-us-open-nueva-moda-irrita-tenistas-pone-debate-futuro-tenis_0_HNaHcfvx5d.html",
      "source": "Clarín",
-     "published": "2026-09-03T20:28:32+00:00",
-     "copete": "El letrado Agustín Rodríguez se pronunció sobre la disputa familiar. Horas después de que la cantante regresará a los escenarios, en el marco de su gira Futttura, en México.",
-     "id": "82ab82e6792f"
+     "published": "2026-09-03T23:33:48+00:00",
+     "copete": "Creadores de contenido interrumpieron partidos para grabar videos y sacarse fotos durante el Grand Slam de Nueva York. Naomi Osaka, Adrian Mannarino y Jessica Pegula cuestionaron el comportamiento de algunos espectadores. El torneo…",
+     "id": "097aaf1473c6"
     },
     {
-     "title": "Bowl de arroz, huevo y palta",
-     "link": "https://www.clarin.com/recetas/platos-principales/bowl-de-arroz-huevo-y-palta_7_HNXYKt4A8y.html",
+     "title": "Honduras confirma que Washington descarta la extensión del TPS para connacionales en EEUU",
+     "link": "https://www.clarin.com/estados-unidos/honduras-confirma-que-washington-descarta-la-extension-del-tps-para-connacionales-en-eeuu_0_dO0XV4DWAp.html",
      "source": "Clarín",
-     "published": "2026-09-03T20:26:45+00:00",
-     "copete": "Un bowl simple, fresco y completo, con arroz blanco como base, palta cremosa y un huevo cocido con la yema todavía líquida. Se termina con ciboulette, vegetales frescos y una lluvia de semillas que suma textura y sabor.",
-     "id": "f618d50a364b"
+     "published": "2026-09-03T23:30:14+00:00",
+     "copete": "Estados Unidos rechazó extender el TPS para hondureños, afectando a miles de migrantes. Honduras implementa un plan para facilitar retornos. La canciller hondureña enfatizó que la decisión no implica un retorno masivo inmediato ni un…",
+     "id": "8af3dca73b56"
     }
    ]
   },
@@ -382,11 +406,27 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Transplanted pig kidney works in US man's body for record 271 days",
+     "link": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-09-03T22:31:23+00:00",
+     "copete": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
+     "id": "e7a2e1182e71"
+    },
+    {
+     "title": "US investigating if missile hit Iran wedding, Vance says",
+     "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-09-03T22:19:59+00:00",
+     "copete": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
+     "id": "2f45761c5c5c"
+    },
+    {
      "title": "\"Un gobierno de transición como el de Delcy Rodríguez no debería tomar decisiones tan importantes como entregar el petróleo a EE.UU.\"",
      "link": "https://www.bbc.com/mundo/articles/cy4zvelnynyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
      "published": "2026-09-03T21:01:19+00:00",
-     "copete": "El exhombre fuerte de Chávez en el sector petrolero critica el acuerdo alcanzado por Delcy Rodríguez con Estados Unidos y cuestiona la cesión de una parte significativa de las reservas venezolanas.",
+     "copete": "Rafael Ramirez, el exhombre fuerte de Chávez en el sector petrolero, critica el acuerdo alcanzado por Delcy Rodríguez con Estados Unidos y cuestiona la cesión de una parte significativa de las reservas venezolanas.",
      "id": "26370d68dae7"
     },
     {
@@ -404,22 +444,6 @@
      "published": "2026-09-03T19:56:34+00:00",
      "copete": "South Asian correspondent Azadeh Moshiri is at the site of a tunnel where rescuers still hope to find survivors following the Nepal-Tibet floods.",
      "id": "eaa07ef31e32"
-    },
-    {
-     "title": "AI data centres are booming in Australia - but at what cost?",
-     "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-09-03T18:32:03+00:00",
-     "copete": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage.",
-     "id": "540584b1c826"
-    },
-    {
-     "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-     "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-09-03T18:04:34+00:00",
-     "copete": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
-     "id": "ca58672fbc86"
     },
     {
      "title": "EN VIDEO | La familia de osos que se baña varios días a la semana en nuestra piscina",
@@ -473,11 +497,6 @@
   {
    "section": "cardiologia",
    "feed": "Circulation (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "cardiologia",
-   "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]

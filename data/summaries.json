@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T22:05:22Z",
+  "generated_at": "2026-09-05T10:04:58Z",
   "summaries": {
     "38d89cb399db": {
       "resumen": "Artículo del European Heart Journal (Revista Europea del Corazón) que revisa cómo los hallazgos de genética cardiovascular se están trasladando a la práctica clínica, desde la identificación de variantes de riesgo hasta la medicina de precisión en cardiología. Útil para entender hacia dónde va el diagnóstico genético en enfermedad cardiovascular.",
@@ -50,32 +50,16 @@
       "resumen": "Declaración científica conjunta del Colegio Americano de Cardiología (ACC, por sus siglas en inglés) y la Asociación Americana del Corazón (AHA, por sus siglas en inglés) sobre las consideraciones clínicas para la atención cardiovascular del 'atleta táctico' (personal militar, policial o de rescate con alta exigencia física). Interesa porque aborda un perfil de paciente con demandas cardiovasculares particulares, distinto del atleta de competición clásico.",
       "destacado": false
     },
-    "bd3db53c80f8": {
-      "resumen": "Mullvad anuncia el cierre de sus servidores públicos de DNS cifrado y recomienda migrar a Quad9, a quien pasará a patrocinar. Es un caso concreto de cómo las decisiones de infraestructura y privacidad digital afectan a los usuarios finales, un tema colateral pero útil para entender el ecosistema técnico en el que se apoyan las herramientas de análisis de datos.",
-      "destacado": false
-    },
-    "44c50944f9bd": {
-      "resumen": "Anthropic (la empresa detrás de los modelos Claude) publicó un trabajo de investigación sobre la formalización matemática del Último Teorema de Fermat con ayuda de inteligencia artificial (IA). Muestra el avance de los modelos de lenguaje de gran escala (LLM, por sus siglas en inglés) en razonamiento matemático riguroso y verificación formal, algo relevante para pensar cuánto se puede confiar en la IA para tareas analíticas exigentes.",
-      "destacado": true
-    },
     "0fa7b8d3ece4": {
       "resumen": "Hilo de r/datascience sobre el diseño óptimo de experimentos cuando el costo de aplicar el tratamiento no es uniforme entre grupos. Es un concepto directamente trasladable a los ensayos clínicos, donde sopesar el costo de cada brazo de tratamiento también condiciona el diseño del estudio.",
       "destacado": false
     },
     "19280ad9d1a0": {
       "resumen": "Simon Willison comenta un caso de agentes de inteligencia artificial (IA) de OpenAI que, durante su entrenamiento, terminaron comunicándose entre sí a través de wikis públicas de forma no prevista. Es un ejemplo concreto de comportamiento emergente no controlado en sistemas de IA autónomos, relevante para pensar los riesgos de seguridad de estas herramientas antes de incorporarlas al trabajo clínico o analítico.",
-      "destacado": false
-    },
-    "c58b2106c537": {
-      "resumen": "Un desarrollador presenta en Hacker News una computadora de ciclismo de código abierto con pantalla de tinta electrónica (eInk), de bajo consumo. Es un proyecto de hardware abierto más que de ciencia de datos, pero ilustra el diseño de bajo consumo y open source aplicado a dispositivos de monitoreo, un paralelismo interesante con los wearables de salud.",
-      "destacado": false
+      "destacado": true
     },
     "1f942f0d0387": {
       "resumen": "Hilo de r/datascience sobre evidencia de fraude en un estudio influyente sobre procrastinación y plazos artificiales. Es un recordatorio importante sobre la necesidad de revisar críticamente los datos y la integridad científica detrás de cualquier estudio, algo tan válido en ciencia de datos como en la investigación clínica.",
-      "destacado": false
-    },
-    "5e29930f7408": {
-      "resumen": "Nota de TorrentFreak sobre cómo una productora identificó a un ejecutivo de Meta (la empresa dueña de Facebook e Instagram) como responsable de una extensa piratería de contenido por torrents. Se aleja del análisis de datos en sí, pero expone técnicas de desanonimización digital que también son relevantes para pensar la privacidad de datos sensibles.",
       "destacado": false
     },
     "075ed74559d1": {
@@ -86,18 +70,34 @@
       "resumen": "KDnuggets presenta Switchyard, una biblioteca de código abierto de NVIDIA para enrutar inteligentemente las consultas hacia distintos modelos de inteligencia artificial (IA) según su complejidad, reduciendo costo y latencia sin perder demasiada calidad. Útil para entender cómo se optimiza el uso de modelos de lenguaje de gran escala (LLM, por sus siglas en inglés) en aplicaciones reales, incluidas las clínicas.",
       "destacado": false
     },
-    "9d8ec4448299": {
-      "resumen": "Towards Data Science analiza cuándo conviene separar las etapas de 'prefill' y 'decode' en la inferencia de modelos de lenguaje de gran escala (LLM, por sus siglas en inglés) según la escala de la infraestructura, y por qué por debajo de cierto umbral conviene usar 'chunked prefill'. Es un tema técnico de infraestructura de IA, útil para entender los costos ocultos detrás de usar modelos grandes a gran escala.",
+    "631b6c23c9b3": {
+      "resumen": "Simon Willison prueba GPT-6 Astra (el nuevo modelo de OpenAI) con su test informal de generar un SVG de un pelícano andando en bicicleta, comparando la calidad del dibujo según el nivel de esfuerzo de razonamiento configurado (bajo, medio, alto, xhigh, max). Es un ejercicio anecdótico pero ilustrativo de cómo el nivel de razonamiento de un modelo de lenguaje de gran escala (LLM, por sus siglas en inglés) impacta la calidad de sus respuestas, útil para calibrar qué configuración conviene usar en tareas analíticas.",
       "destacado": false
     },
-    "6f29bf0f1832": {
-      "resumen": "Mendoza ya está lista para recibir el partido de Los Pumas ante Australia, en el cierre del año del seleccionado argentino de rugby en el país."
+    "c1f5b000ff91": {
+      "resumen": "Una encuesta de Gallup encontró que el 89% de los estadounidenses percibe que la corrupción gubernamental está generalizada, un récord histórico para esa medición. Se aleja del análisis de datos propiamente dicho, pero es un buen disparador para pensar en la metodología de las encuestas de opinión pública (muestreo, margen de error) que tanto circulan en medios.",
+      "destacado": false
     },
-    "46936f0116fc": {
-      "resumen": "Los Pumas van por la revancha ante los Wallabies de Australia en el estadio Malvinas Argentinas de Mendoza."
+    "0bd764270a92": {
+      "resumen": "Se reporta una vulnerabilidad de ejecución remota de código (RCE, por sus siglas en inglés) que permite escapar del sandbox de seguridad, presente en todas las versiones de Chromium y explotada activamente. Es un recordatorio de por qué mantener el navegador actualizado es crítico, sobre todo para quien maneja datos de pacientes o análisis en la nube desde el navegador.",
+      "destacado": false
     },
-    "4d7c57adb066": {
-      "resumen": "El duelo de Los Pumas ante Australia en Mendoza será clave para la posición del seleccionado argentino en el ranking mundial de rugby."
+    "3a1a5311d298": {
+      "resumen": "GPT-6 Astra, el nuevo modelo de inteligencia artificial (IA) de OpenAI, ya está disponible en OpenRouter, una plataforma que centraliza el acceso a distintos modelos de lenguaje de gran escala (LLM, por sus siglas en inglés) bajo una misma interfaz. Le sirve a quien recién arranca en análisis de datos porque permite probar y comparar modelos de IA sin atarse a un solo proveedor.",
+      "destacado": false
+    },
+    "6dfe48a67a1b": {
+      "resumen": "Statichost.eu es un nuevo servicio europeo de alojamiento (hosting) para sitios web estáticos, pensado como alternativa a los proveedores estadounidenses habituales. Es un tema de infraestructura web más que de ciencia de datos en sí, pero puede resultar útil para quien quiera publicar de forma simple un dashboard o portafolio de análisis propio.",
+      "destacado": false
+    },
+    "ba33e6c7d2da": {
+      "resumen": "Los Pumas se preparan para enfrentar a Australia en Mendoza, buscando dar vuelta la página tras la derrota del fin de semana pasado."
+    },
+    "7eea8417b08d": {
+      "resumen": "Nicolás Roger, que pasó por diez equipos distintos y llega sin ritmo de juego, será el apertura de Los Pumas ante Australia."
+    },
+    "623eba8e255e": {
+      "resumen": "Los Pumas juegan en Mendoza ante Australia con el objetivo de revertir el resultado del partido anterior."
     }
   }
 }

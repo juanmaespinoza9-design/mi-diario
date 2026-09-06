@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T10:04:00Z",
+  "generated_at": "2026-09-06T22:05:36Z",
   "summaries": {
     "38d89cb399db": {
       "resumen": "Artículo del European Heart Journal (Revista Europea del Corazón) que revisa cómo los hallazgos de genética cardiovascular se están trasladando a la práctica clínica, desde la identificación de variantes de riesgo hasta la medicina de precisión en cardiología. Útil para entender hacia dónde va el diagnóstico genético en enfermedad cardiovascular.",
@@ -43,64 +43,71 @@
       "resumen": "Declaración científica conjunta del Colegio Americano de Cardiología (ACC, por sus siglas en inglés) y la Asociación Americana del Corazón (AHA, por sus siglas en inglés) sobre las consideraciones clínicas para la atención cardiovascular del 'atleta táctico' (personal militar, policial o de rescate con alta exigencia física). Interesa porque aborda un perfil de paciente con demandas cardiovasculares particulares, distinto del atleta de competición clásico.",
       "destacado": false
     },
-    "631b6c23c9b3": {
-      "resumen": "Simon Willison prueba GPT-6 Astra (el nuevo modelo de OpenAI) con su test informal de generar un SVG de un pelícano andando en bicicleta, comparando la calidad del dibujo según el nivel de esfuerzo de razonamiento configurado (bajo, medio, alto, xhigh, max). Es un ejercicio anecdótico pero ilustrativo de cómo el nivel de razonamiento de un modelo de lenguaje de gran escala (LLM, por sus siglas en inglés) impacta la calidad de sus respuestas, útil para calibrar qué configuración conviene usar en tareas analíticas.",
-      "destacado": false
+    "f6c1df081c4c": {
+      "resumen": "Ensayo publicado en The New England Journal of Medicine (Revista de Medicina de Nueva Inglaterra) que evalúa el momento óptimo para realizar una angioplastia coronaria (intervención coronaria percutánea o PCI, por sus siglas en inglés) en pacientes que se someten a un reemplazo valvular aórtico transcatéter (TAVI, por sus siglas en inglés) y que además tienen enfermedad coronaria significativa. Es relevante porque en la práctica diaria hay dudas sobre si conviene resolver la coronaria antes, durante o después del implante valvular, y esa decisión afecta el riesgo periprocedimiento.",
+      "destacado": false,
+      "analisis": "Diseño: por el título se trataría de un ensayo clínico (probablemente aleatorizado, dada la publicación en The New England Journal of Medicine) que compara distintos momentos de realización de la intervención coronaria percutánea (PCI) respecto del reemplazo valvular aórtico transcatéter (TAVI); sin el abstract no se puede precisar el cegamiento, la cantidad de centros ni de pacientes.\nPoblación: pacientes con estenosis aórtica severa candidatos a TAVI que además presentan enfermedad coronaria obstructiva que requeriría revascularización.\nIntervención: comparación del momento de realización de la PCI (por ejemplo, antes, concomitante o después del TAVI) frente a una estrategia de referencia; el comparador exacto no puede confirmarse sin el abstract.\nResultados: no informados en el título ni disponibles sin el abstract; no corresponde estimar cifras.\nLimitaciones: sin el abstract no se puede evaluar el desenlace primario, el tiempo de seguimiento ni el riesgo de sesgos del ensayo.\nMensaje: de confirmarse una estrategia de timing superior, podría estandarizar una decisión que hoy queda en gran medida librada al criterio del operador en el manejo combinado de enfermedad coronaria y valvular aórtica.\nNota: análisis sin acceso al abstract."
     },
-    "1ec3daa5e7b5": {
-      "resumen": "Simon Willison cuenta cómo usó agentes de codificación con inteligencia artificial (IA) para controlar Blender (software de modelado y animación 3D) en macOS, generando scripts a demanda en lugar de operar la interfaz gráfica manualmente. Sirve como ejemplo concreto de cómo delegarle a un agente de IA tareas técnicas puntuales, algo trasladable a la automatización de análisis de datos o reportes.",
+    "048229cf621f": {
+      "resumen": "Ensayo publicado en The New England Journal of Medicine que evalúa la denervación pulmonar (un procedimiento percutáneo que interrumpe fibras nerviosas simpáticas de la arteria pulmonar) como tratamiento para la hipertensión pulmonar asociada a insuficiencia cardíaca. Interesa porque esta forma de hipertensión pulmonar tiene pocas opciones terapéuticas dirigidas y este abordaje intervencionista podría ofrecer una alternativa novedosa.",
+      "destacado": false,
+      "analisis": "Diseño: según el título, ensayo clínico (probablemente aleatorizado, por su publicación en The New England Journal of Medicine) que evalúa la denervación pulmonar percutánea; sin el abstract no se puede precisar el cegamiento, la cantidad de centros ni de pacientes.\nPoblación: pacientes con hipertensión pulmonar en el contexto de insuficiencia cardíaca; el título no permite confirmar si se trata de fracción de eyección reducida o preservada.\nIntervención: denervación pulmonar (procedimiento percutáneo sobre las fibras simpáticas de la arteria pulmonar) frente a un comparador no especificado en el título (posiblemente un procedimiento simulado o el tratamiento médico estándar).\nResultados: no informados en el título ni disponibles sin el abstract; no corresponde estimar cifras.\nLimitaciones: sin el abstract no se puede evaluar el desenlace primario (hemodinámico o clínico), el seguimiento ni el riesgo de sesgos del ensayo.\nMensaje: si los resultados son positivos, la denervación pulmonar podría sumarse como opción intervencionista para un subgrupo de insuficiencia cardíaca con hipertensión pulmonar asociada que hoy tiene alternativas terapéuticas limitadas.\nNota: análisis sin acceso al abstract."
+    },
+    "e09a82c3a442": {
+      "resumen": "TCTMD (The Cardiovascular Research Foundation) repasa las diez notas más leídas de agosto de 2026 en su sitio, un resumen de qué temas de cardiología intervencionista y estructural concentraron más atención de la comunidad ese mes. Sirve como termómetro rápido de tendencias, aunque no aporta datos originales propios.",
       "destacado": false
     },
     "ed09eff0b636": {
       "resumen": "Guía visual de Towards Data Science que explica por qué los modelos Transformer necesitan codificación posicional (positional encoding) para procesar series de tiempo, ya que por diseño no distinguen el orden temporal de los datos. Es un concepto clave para quien empieza a trabajar con series temporales, como señales fisiológicas o datos de seguimiento clínico a lo largo del tiempo.",
       "destacado": true
     },
-    "4d2984413f18": {
-      "resumen": "Towards Data Science describe cómo aplicar transferencia de aprendizaje (transfer learning) entre sistemas dinámicos usando modelos de orden reducido (ROM, por sus siglas en inglés), que simplifican sistemas complejos conservando su comportamiento esencial. Es útil para quien modela fenómenos que cambian en el tiempo, como la dinámica cardiovascular, con menos datos y menor costo computacional.",
-      "destacado": false
-    },
-    "90907b2cda20": {
-      "resumen": "Hilo de la comunidad r/datascience donde se debate cómo mantenerse actualizado ante la enorme cantidad de herramientas, papers y modelos nuevos que aparecen todo el tiempo. Le sirve a quien recién arranca en análisis de datos para ver qué estrategias y fuentes usan los profesionales del rubro para no quedarse atrás.",
-      "destacado": false
-    },
-    "e09a82c3a442": {
-      "resumen": "TCTMD (The Cardiovascular Research Foundation) repasa las diez notas más leídas de agosto de 2026 en su sitio, un resumen de qué temas de cardiología intervencionista y estructural concentraron más atención de la comunidad ese mes. Sirve como termómetro rápido de tendencias, aunque no aporta datos originales propios.",
-      "destacado": false
-    },
-    "fbaa403a36b2": {
-      "resumen": "Proyecto de código abierto que busca simplificar el autoalojamiento (self-hosting) de servicios en la nube, empaquetando herramientas para que cualquier persona sin conocimientos avanzados de infraestructura pueda correr sus propios servidores. Le sirve a quien está aprendiendo análisis de datos porque reduce la barrera técnica para montar entornos propios de trabajo con datos, sin depender de proveedores de nube pagos.",
-      "destacado": false
-    },
-    "5a28257a7646": {
-      "resumen": "Un análisis técnico muestra que Google Chrome sigue dando un trato preferencial a los dominios de Google al aplicar las configuraciones de privacidad de datos de sitios, pese a que en teoría deberían aplicarse por igual a todos. Le interesa a quien trabaja con datos porque ilustra cómo el control sobre los datos de usuario puede estar sesgado incluso en las herramientas que se supone lo protegen.",
-      "destacado": false
-    },
     "921e4d073b7d": {
       "resumen": "Simon Willison repasa el lanzamiento de GPT-6 Astra, el nuevo modelo de OpenAI orientado a desarrolladores, destacando mejoras en la atención al detalle y en la comprensión de consignas complejas frente a versiones previas. Le sirve a un médico que se está formando en análisis de datos para dimensionar qué tan rápido evolucionan los modelos de lenguaje de gran escala (LLM, por sus siglas en inglés) que puede usar como asistentes de programación o de análisis.",
       "destacado": false
     },
-    "b529fde1aac2": {
-      "resumen": "Bryan Cantrill, a partir del título de su publicación en el blog dtrace, plantea una reflexión sobre el creciente malestar de los lectores frente a los textos generados o asistidos por inteligencia artificial (IA) en el ámbito técnico. Le sirve a quien produce o consume análisis de datos para pensar en la transparencia que exige comunicar resultados cuando de por medio hay herramientas de IA.",
+    "20bde3d7222d": {
+      "resumen": "Simon Willison comparte una publicación de Terence Eden que expone estadísticas alarmantes sobre cómo el sistema de nombres de dominio (DNS, por sus siglas en inglés) —la infraestructura que traduce direcciones de internet en direcciones de red— es aprovechado masivamente por estafadores para registrar dominios fraudulentos. No es ciencia de datos en sentido estricto, pero es un recordatorio útil sobre los riesgos de seguridad y confianza en los datos que circulan en internet, algo relevante para quien analiza fuentes web.",
       "destacado": false
     },
-    "4c1db802f844": {
-      "resumen": "La empresa alemana Isar Aerospace logró poner en órbita su cohete Spectrum desde la base noruega de Andøya, el primer lanzamiento orbital exitoso de un cohete privado construido en Europa. No es ciencia de datos en sentido estricto, pero refleja el avance de la industria aeroespacial privada, un sector que genera grandes volúmenes de datos de telemetría para su propio análisis.",
+    "da53b7094d93": {
+      "resumen": "Nota que anuncia el cierre del proyecto o comunidad 'A/I' bajo el lema 'quedate humano', en lo que parece ser una crítica o reflexión sobre el uso excesivo de inteligencia artificial (IA). El título por sí solo no permite precisar más detalles, pero se enmarca en el debate creciente sobre los límites y el rol de la IA en el trabajo cotidiano.",
       "destacado": false
     },
-    "f2d4f67444fd": {
-      "resumen": "Los Pumas convirtieron un try con una jugada de pelota parada ensayada de antemano, que terminó con el apoyo de Mendy ante los Wallabies."
+    "882dfa062848": {
+      "resumen": "El proyecto Asahi Linux, que desarrolla soporte de Linux para computadoras Apple con procesadores propios (Apple Silicon), anunció soporte oficial para las Mac con chip M3, aunque con algunas salvedades. No es ciencia de datos en sí, pero interesa a quien arma su propio entorno de trabajo con datos en hardware Apple y busca alternativas a macOS.",
+      "destacado": false
     },
-    "72f371041fbf": {
-      "resumen": "Pablo Matera fue una de las grandes figuras de Los Pumas frente a los Wallabies y anotó dos tries en el partido."
+    "6aea9293bcd2": {
+      "resumen": "Towards Data Science explica cómo aplicar marca de agua a textos (text watermarking) en Python para detectar copias no autorizadas de un escrito, repasando tres familias de técnicas y qué tan bien resisten el copy-paste, la edición y la paráfrasis. Útil para quien produce contenido escrito con ayuda de modelos de lenguaje de gran escala (LLM, por sus siglas en inglés) y quiere entender cómo se rastrea la autoría de un texto.",
+      "destacado": false
     },
-    "5c93640028ce": {
-      "resumen": "Los Pumas no pasaron del empate frente a los Wallabies en su presentación en Mendoza, por el Rugby Championship."
+    "652de82a1473": {
+      "resumen": "Un usuario reporta en Mastodon una falla de seguridad en el cliente de torrents qBittorrent que le permitiría escapar del entorno aislado (sandbox) en el que debería ejecutarse. No es ciencia de datos en sentido estricto, pero es un recordatorio de que ni siquiera el aislamiento de procesos garantiza seguridad total, algo a tener en cuenta al correr código o modelos de terceros en la propia computadora.",
+      "destacado": false
     },
-    "296c6f656b8c": {
-      "resumen": "Una columna de opinión repasa los costos y los beneficios políticos de que Javier Milei ponga el eje discursivo en la causa Malvinas."
+    "e12d51380772": {
+      "resumen": "Towards Data Science muestra cómo aplicar el análisis discriminante lineal (LDA, por sus siglas en inglés), una técnica de reducción de dimensionalidad, sobre un conjunto de datos inmobiliarios para simplificar un problema de clasificación. Es una técnica clásica de aprendizaje automático (machine learning) muy útil para quien empieza a trabajar con datos con muchas variables y necesita simplificarlos sin perder poder predictivo.",
+      "destacado": false
     },
-    "721df09b6bb4": {
-      "resumen": "Una columna de opinión analiza los argumentos a favor y en contra que atraviesan el debate actual sobre la causa Malvinas."
+    "ee0ff3449867": {
+      "resumen": "Bryan Cantrill publica en su blog dtrace una reflexión titulada 'tu bragueta intelectual está abierta', una metáfora sobre exponer sin darse cuenta un error o un descuido de razonamiento propio. Sin más contexto que el título, funciona como una invitación genérica a la humildad intelectual y a revisar los propios supuestos al analizar datos o comunicar resultados.",
+      "destacado": false
+    },
+    "eed2e484f5d9": {
+      "resumen": "Simon Willison cita una reflexión de Zach Kehs sobre cómo, a diferencia de un edificio físico, el software puede acumular capas de indirección y complejidad sin un límite aparente antes de derrumbarse. Es una idea útil para quien programa análisis de datos: recuerda la importancia de cuidar la deuda técnica en scripts y flujos de trabajo (pipelines) que crecen con el tiempo.",
+      "destacado": false
+    },
+    "92dfe26df65e": {
+      "resumen": "Una columna analiza las conclusiones de una serie incómoda de Los Pumas, en el dilema entre priorizar el desarrollo de jugadores jóvenes o la máxima competencia."
+    },
+    "9e7b7d7ca846": {
+      "resumen": "Unas 28 mil personas presenciaron el partido de Los Pumas en Mendoza, que reafirmó su capacidad para organizar grandes eventos deportivos."
+    },
+    "9fd12f96779a": {
+      "resumen": "Un análisis repasa el impacto turístico y el beneficio económico para los clubes locales que dejó el partido de Los Pumas ante Australia en Mendoza."
+    },
+    "703cbb71262a": {
+      "resumen": "La actriz Susan Sarandon denunció en el Festival de Venecia que quedó afuera de proyectos cinematográficos por sus posturas críticas hacia Israel."
     }
   }
 }

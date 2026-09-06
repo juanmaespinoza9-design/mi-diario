@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T22:04:20Z",
+  "generated_at": "2026-09-06T10:04:00Z",
   "summaries": {
     "38d89cb399db": {
       "resumen": "Artículo del European Heart Journal (Revista Europea del Corazón) que revisa cómo los hallazgos de genética cardiovascular se están trasladando a la práctica clínica, desde la identificación de variantes de riesgo hasta la medicina de precisión en cardiología. Útil para entender hacia dónde va el diagnóstico genético en enfermedad cardiovascular.",
@@ -20,9 +20,6 @@
       "destacado": true,
       "analisis": "Diseño: ensayo clínico (BRIDGE Trial) publicado en JACC que evalúa la implementación protocolizada de manejo lipídico intensivo temprano; sin el abstract no se puede precisar si es aleatorizado, el número de centros ni de pacientes.\nPoblación: pacientes que cursaron un síndrome coronario agudo, candidatos a manejo lipídico intensivo temprano.\nIntervención: protocolo de manejo lipídico intensivo temprano (probablemente con estatinas de alta intensidad y/o terapias no estatínicas) versus el manejo estándar o no protocolizado.\nResultados: no informados en el título ni disponibles sin el abstract; no corresponde estimar reducción de LDL ni eventos sin la fuente original.\nLimitaciones: sin el abstract no se puede evaluar el riesgo de sesgos, el tiempo de seguimiento ni si los desenlaces reportados son clínicos duros o subrogados (nivel de colesterol LDL).\nMensaje: la implementación protocolizada del manejo lipídico intensivo temprano post-síndrome coronario agudo es una estrategia con potencial impacto en la práctica real, en línea con las guías que recomiendan bajar el LDL lo antes posible tras un evento agudo.\nNota: análisis sin acceso al abstract."
     },
-    "cc887f6458e8": {
-      "resumen": "Argentina XV le ganó a Uruguay XV en Santiago, según informó la Unión Argentina de Rugby (UAR)."
-    },
     "2998cca260ea": {
       "resumen": "La Sociedad Europea de Cardiología (ESC) publicó su primera guía clínica dedicada específicamente a la rehabilitación cardíaca. Es relevante porque estandariza recomendaciones para un componente del tratamiento post-evento cardiovascular que históricamente estuvo subutilizado en la práctica diaria.",
       "destacado": false
@@ -42,24 +39,12 @@
       "destacado": false,
       "analisis": "Diseño: Según el título, el ensayo TRANQUILITY evaluó la seguridad de pacibekitug a lo largo de 6 meses; sin el abstract no se puede precisar si fue aleatorizado, doble ciego, la cantidad de centros ni de pacientes.\nPoblación: Pacientes con enfermedad renal crónica (CKD).\nIntervención: Pacibekitug (terapia biológica antiinflamatoria en investigación) frente a un comparador no especificado en el título (posiblemente placebo).\nResultados: El título indica que el fármaco reduce de forma segura la proteína C reactiva de alta sensibilidad (hs-CRP) a los 6 meses; no hay razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract, por lo que no corresponde estimarlos.\nLimitaciones: Se trata de un desenlace subrogado (marcador inflamatorio) y no de eventos cardiovasculares duros; sin el abstract no se puede evaluar el tamaño muestral ni el riesgo de sesgos.\nMensaje: Aporta a la línea de evidencia sobre el abordaje antiinflamatorio en enfermedad cardiovascular y renal, aunque el impacto clínico real en eventos duros todavía no está establecido con este desenlace subrogado.\nNota: análisis sin acceso al abstract."
     },
-    "60ff1f27f2ad": {
-      "resumen": "TCTMD repasa, en su segmento de comentario 'Beyond the Data', los datos del estudio H-HeFT sobre insuficiencia cardíaca. Sirve para contextualizar con mirada crítica y en perspectiva los hallazgos de un ensayo que ya generó discusión en la comunidad cardiológica.",
-      "destacado": false
-    },
     "75703c7b7545": {
       "resumen": "Declaración científica conjunta del Colegio Americano de Cardiología (ACC, por sus siglas en inglés) y la Asociación Americana del Corazón (AHA, por sus siglas en inglés) sobre las consideraciones clínicas para la atención cardiovascular del 'atleta táctico' (personal militar, policial o de rescate con alta exigencia física). Interesa porque aborda un perfil de paciente con demandas cardiovasculares particulares, distinto del atleta de competición clásico.",
       "destacado": false
     },
-    "0fa7b8d3ece4": {
-      "resumen": "Hilo de r/datascience sobre el diseño óptimo de experimentos cuando el costo de aplicar el tratamiento no es uniforme entre grupos. Es un concepto directamente trasladable a los ensayos clínicos, donde sopesar el costo de cada brazo de tratamiento también condiciona el diseño del estudio.",
-      "destacado": false
-    },
     "631b6c23c9b3": {
       "resumen": "Simon Willison prueba GPT-6 Astra (el nuevo modelo de OpenAI) con su test informal de generar un SVG de un pelícano andando en bicicleta, comparando la calidad del dibujo según el nivel de esfuerzo de razonamiento configurado (bajo, medio, alto, xhigh, max). Es un ejercicio anecdótico pero ilustrativo de cómo el nivel de razonamiento de un modelo de lenguaje de gran escala (LLM, por sus siglas en inglés) impacta la calidad de sus respuestas, útil para calibrar qué configuración conviene usar en tareas analíticas.",
-      "destacado": false
-    },
-    "2115d34e5f4e": {
-      "resumen": "Los empleados de la Fundación Wikimedia votaron mayoritariamente a favor de formar un sindicato junto con la CWA (Communications Workers of America, un sindicato estadounidense de trabajadores de las comunicaciones). Es una noticia gremial, alejada del análisis de datos en sí, pero relevante porque Wikipedia y sus proyectos hermanos son una fuente masiva de datos abiertos usada para entrenar modelos de inteligencia artificial (IA).",
       "destacado": false
     },
     "1ec3daa5e7b5": {
@@ -70,14 +55,6 @@
       "resumen": "Guía visual de Towards Data Science que explica por qué los modelos Transformer necesitan codificación posicional (positional encoding) para procesar series de tiempo, ya que por diseño no distinguen el orden temporal de los datos. Es un concepto clave para quien empieza a trabajar con series temporales, como señales fisiológicas o datos de seguimiento clínico a lo largo del tiempo.",
       "destacado": true
     },
-    "eb91e0e02ae4": {
-      "resumen": "Podcast de ProPublica que reconstruye cómo 3M y DuPont ocultaron durante décadas la evidencia sobre el daño de los 'químicos eternos' (PFAS, sustancias per- y polifluoroalquiladas). No es análisis de datos en sentido estricto, pero es un caso de estudio sobre supresión de evidencia científica muy relevante para quien se está formando en farmacovigilancia.",
-      "destacado": false
-    },
-    "1adaa3d97a17": {
-      "resumen": "Artículo técnico sobre cómo armar una PC de bajo costo aprovechando el AMD BC-250, un chip excedente de la Xbox Series S que se consigue barato en el mercado de reventa. Es una nota de hardware más que de ciencia de datos, pero puede interesarle a quien busca cómputo económico para correr modelos de inteligencia artificial (IA) de forma local.",
-      "destacado": false
-    },
     "4d2984413f18": {
       "resumen": "Towards Data Science describe cómo aplicar transferencia de aprendizaje (transfer learning) entre sistemas dinámicos usando modelos de orden reducido (ROM, por sus siglas en inglés), que simplifican sistemas complejos conservando su comportamiento esencial. Es útil para quien modela fenómenos que cambian en el tiempo, como la dinámica cardiovascular, con menos datos y menor costo computacional.",
       "destacado": false
@@ -86,18 +63,44 @@
       "resumen": "Hilo de la comunidad r/datascience donde se debate cómo mantenerse actualizado ante la enorme cantidad de herramientas, papers y modelos nuevos que aparecen todo el tiempo. Le sirve a quien recién arranca en análisis de datos para ver qué estrategias y fuentes usan los profesionales del rubro para no quedarse atrás.",
       "destacado": false
     },
-    "40d7d24c82bd": {
-      "resumen": "El autor plantea que, a medida que la inteligencia artificial (IA) se encarga cada vez más de resolver incidentes técnicos, los ingenieros van perdiendo el conocimiento profundo de cómo funcionan sus propios sistemas. Es una reflexión trasladable a la medicina asistida por IA: automatizar el análisis no debería reemplazar la comprensión del razonamiento clínico o estadístico detrás de cada resultado.",
+    "e09a82c3a442": {
+      "resumen": "TCTMD (The Cardiovascular Research Foundation) repasa las diez notas más leídas de agosto de 2026 en su sitio, un resumen de qué temas de cardiología intervencionista y estructural concentraron más atención de la comunidad ese mes. Sirve como termómetro rápido de tendencias, aunque no aporta datos originales propios.",
       "destacado": false
     },
-    "57177d1c643f": {
-      "resumen": "Los detalles sobre por qué canal de TV se puede ver hoy el test match entre Los Pumas y Australia."
+    "fbaa403a36b2": {
+      "resumen": "Proyecto de código abierto que busca simplificar el autoalojamiento (self-hosting) de servicios en la nube, empaquetando herramientas para que cualquier persona sin conocimientos avanzados de infraestructura pueda correr sus propios servidores. Le sirve a quien está aprendiendo análisis de datos porque reduce la barrera técnica para montar entornos propios de trabajo con datos, sin depender de proveedores de nube pagos.",
+      "destacado": false
     },
-    "670309043500": {
-      "resumen": "Los Pumas se miden hoy ante Australia: el horario, la señal de TV y las formaciones confirmadas por ambos seleccionados."
+    "5a28257a7646": {
+      "resumen": "Un análisis técnico muestra que Google Chrome sigue dando un trato preferencial a los dominios de Google al aplicar las configuraciones de privacidad de datos de sitios, pese a que en teoría deberían aplicarse por igual a todos. Le interesa a quien trabaja con datos porque ilustra cómo el control sobre los datos de usuario puede estar sesgado incluso en las herramientas que se supone lo protegen.",
+      "destacado": false
     },
-    "c53e85f88b03": {
-      "resumen": "Una nota sobre cómo los valores y el método de trabajo de Los Pumas se toman como inspiración para emprendedores y empresarios de Mendoza."
+    "921e4d073b7d": {
+      "resumen": "Simon Willison repasa el lanzamiento de GPT-6 Astra, el nuevo modelo de OpenAI orientado a desarrolladores, destacando mejoras en la atención al detalle y en la comprensión de consignas complejas frente a versiones previas. Le sirve a un médico que se está formando en análisis de datos para dimensionar qué tan rápido evolucionan los modelos de lenguaje de gran escala (LLM, por sus siglas en inglés) que puede usar como asistentes de programación o de análisis.",
+      "destacado": false
+    },
+    "b529fde1aac2": {
+      "resumen": "Bryan Cantrill, a partir del título de su publicación en el blog dtrace, plantea una reflexión sobre el creciente malestar de los lectores frente a los textos generados o asistidos por inteligencia artificial (IA) en el ámbito técnico. Le sirve a quien produce o consume análisis de datos para pensar en la transparencia que exige comunicar resultados cuando de por medio hay herramientas de IA.",
+      "destacado": false
+    },
+    "4c1db802f844": {
+      "resumen": "La empresa alemana Isar Aerospace logró poner en órbita su cohete Spectrum desde la base noruega de Andøya, el primer lanzamiento orbital exitoso de un cohete privado construido en Europa. No es ciencia de datos en sentido estricto, pero refleja el avance de la industria aeroespacial privada, un sector que genera grandes volúmenes de datos de telemetría para su propio análisis.",
+      "destacado": false
+    },
+    "f2d4f67444fd": {
+      "resumen": "Los Pumas convirtieron un try con una jugada de pelota parada ensayada de antemano, que terminó con el apoyo de Mendy ante los Wallabies."
+    },
+    "72f371041fbf": {
+      "resumen": "Pablo Matera fue una de las grandes figuras de Los Pumas frente a los Wallabies y anotó dos tries en el partido."
+    },
+    "5c93640028ce": {
+      "resumen": "Los Pumas no pasaron del empate frente a los Wallabies en su presentación en Mendoza, por el Rugby Championship."
+    },
+    "296c6f656b8c": {
+      "resumen": "Una columna de opinión repasa los costos y los beneficios políticos de que Javier Milei ponga el eje discursivo en la causa Malvinas."
+    },
+    "721df09b6bb4": {
+      "resumen": "Una columna de opinión analiza los argumentos a favor y en contra que atraviesan el debate actual sobre la causa Malvinas."
     }
   }
 }

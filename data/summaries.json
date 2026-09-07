@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T22:05:36Z",
+  "generated_at": "2026-09-07T10:04:57Z",
   "summaries": {
     "38d89cb399db": {
       "resumen": "Artículo del European Heart Journal (Revista Europea del Corazón) que revisa cómo los hallazgos de genética cardiovascular se están trasladando a la práctica clínica, desde la identificación de variantes de riesgo hasta la medicina de precisión en cardiología. Útil para entender hacia dónde va el diagnóstico genético en enfermedad cardiovascular.",
@@ -43,71 +43,58 @@
       "resumen": "Declaración científica conjunta del Colegio Americano de Cardiología (ACC, por sus siglas en inglés) y la Asociación Americana del Corazón (AHA, por sus siglas en inglés) sobre las consideraciones clínicas para la atención cardiovascular del 'atleta táctico' (personal militar, policial o de rescate con alta exigencia física). Interesa porque aborda un perfil de paciente con demandas cardiovasculares particulares, distinto del atleta de competición clásico.",
       "destacado": false
     },
-    "f6c1df081c4c": {
-      "resumen": "Ensayo publicado en The New England Journal of Medicine (Revista de Medicina de Nueva Inglaterra) que evalúa el momento óptimo para realizar una angioplastia coronaria (intervención coronaria percutánea o PCI, por sus siglas en inglés) en pacientes que se someten a un reemplazo valvular aórtico transcatéter (TAVI, por sus siglas en inglés) y que además tienen enfermedad coronaria significativa. Es relevante porque en la práctica diaria hay dudas sobre si conviene resolver la coronaria antes, durante o después del implante valvular, y esa decisión afecta el riesgo periprocedimiento.",
-      "destacado": false,
-      "analisis": "Diseño: por el título se trataría de un ensayo clínico (probablemente aleatorizado, dada la publicación en The New England Journal of Medicine) que compara distintos momentos de realización de la intervención coronaria percutánea (PCI) respecto del reemplazo valvular aórtico transcatéter (TAVI); sin el abstract no se puede precisar el cegamiento, la cantidad de centros ni de pacientes.\nPoblación: pacientes con estenosis aórtica severa candidatos a TAVI que además presentan enfermedad coronaria obstructiva que requeriría revascularización.\nIntervención: comparación del momento de realización de la PCI (por ejemplo, antes, concomitante o después del TAVI) frente a una estrategia de referencia; el comparador exacto no puede confirmarse sin el abstract.\nResultados: no informados en el título ni disponibles sin el abstract; no corresponde estimar cifras.\nLimitaciones: sin el abstract no se puede evaluar el desenlace primario, el tiempo de seguimiento ni el riesgo de sesgos del ensayo.\nMensaje: de confirmarse una estrategia de timing superior, podría estandarizar una decisión que hoy queda en gran medida librada al criterio del operador en el manejo combinado de enfermedad coronaria y valvular aórtica.\nNota: análisis sin acceso al abstract."
-    },
-    "048229cf621f": {
-      "resumen": "Ensayo publicado en The New England Journal of Medicine que evalúa la denervación pulmonar (un procedimiento percutáneo que interrumpe fibras nerviosas simpáticas de la arteria pulmonar) como tratamiento para la hipertensión pulmonar asociada a insuficiencia cardíaca. Interesa porque esta forma de hipertensión pulmonar tiene pocas opciones terapéuticas dirigidas y este abordaje intervencionista podría ofrecer una alternativa novedosa.",
-      "destacado": false,
-      "analisis": "Diseño: según el título, ensayo clínico (probablemente aleatorizado, por su publicación en The New England Journal of Medicine) que evalúa la denervación pulmonar percutánea; sin el abstract no se puede precisar el cegamiento, la cantidad de centros ni de pacientes.\nPoblación: pacientes con hipertensión pulmonar en el contexto de insuficiencia cardíaca; el título no permite confirmar si se trata de fracción de eyección reducida o preservada.\nIntervención: denervación pulmonar (procedimiento percutáneo sobre las fibras simpáticas de la arteria pulmonar) frente a un comparador no especificado en el título (posiblemente un procedimiento simulado o el tratamiento médico estándar).\nResultados: no informados en el título ni disponibles sin el abstract; no corresponde estimar cifras.\nLimitaciones: sin el abstract no se puede evaluar el desenlace primario (hemodinámico o clínico), el seguimiento ni el riesgo de sesgos del ensayo.\nMensaje: si los resultados son positivos, la denervación pulmonar podría sumarse como opción intervencionista para un subgrupo de insuficiencia cardíaca con hipertensión pulmonar asociada que hoy tiene alternativas terapéuticas limitadas.\nNota: análisis sin acceso al abstract."
-    },
     "e09a82c3a442": {
       "resumen": "TCTMD (The Cardiovascular Research Foundation) repasa las diez notas más leídas de agosto de 2026 en su sitio, un resumen de qué temas de cardiología intervencionista y estructural concentraron más atención de la comunidad ese mes. Sirve como termómetro rápido de tendencias, aunque no aporta datos originales propios.",
-      "destacado": false
-    },
-    "ed09eff0b636": {
-      "resumen": "Guía visual de Towards Data Science que explica por qué los modelos Transformer necesitan codificación posicional (positional encoding) para procesar series de tiempo, ya que por diseño no distinguen el orden temporal de los datos. Es un concepto clave para quien empieza a trabajar con series temporales, como señales fisiológicas o datos de seguimiento clínico a lo largo del tiempo.",
-      "destacado": true
-    },
-    "921e4d073b7d": {
-      "resumen": "Simon Willison repasa el lanzamiento de GPT-6 Astra, el nuevo modelo de OpenAI orientado a desarrolladores, destacando mejoras en la atención al detalle y en la comprensión de consignas complejas frente a versiones previas. Le sirve a un médico que se está formando en análisis de datos para dimensionar qué tan rápido evolucionan los modelos de lenguaje de gran escala (LLM, por sus siglas en inglés) que puede usar como asistentes de programación o de análisis.",
       "destacado": false
     },
     "20bde3d7222d": {
       "resumen": "Simon Willison comparte una publicación de Terence Eden que expone estadísticas alarmantes sobre cómo el sistema de nombres de dominio (DNS, por sus siglas en inglés) —la infraestructura que traduce direcciones de internet en direcciones de red— es aprovechado masivamente por estafadores para registrar dominios fraudulentos. No es ciencia de datos en sentido estricto, pero es un recordatorio útil sobre los riesgos de seguridad y confianza en los datos que circulan en internet, algo relevante para quien analiza fuentes web.",
       "destacado": false
     },
-    "da53b7094d93": {
-      "resumen": "Nota que anuncia el cierre del proyecto o comunidad 'A/I' bajo el lema 'quedate humano', en lo que parece ser una crítica o reflexión sobre el uso excesivo de inteligencia artificial (IA). El título por sí solo no permite precisar más detalles, pero se enmarca en el debate creciente sobre los límites y el rol de la IA en el trabajo cotidiano.",
-      "destacado": false
-    },
-    "882dfa062848": {
-      "resumen": "El proyecto Asahi Linux, que desarrolla soporte de Linux para computadoras Apple con procesadores propios (Apple Silicon), anunció soporte oficial para las Mac con chip M3, aunque con algunas salvedades. No es ciencia de datos en sí, pero interesa a quien arma su propio entorno de trabajo con datos en hardware Apple y busca alternativas a macOS.",
-      "destacado": false
-    },
     "6aea9293bcd2": {
       "resumen": "Towards Data Science explica cómo aplicar marca de agua a textos (text watermarking) en Python para detectar copias no autorizadas de un escrito, repasando tres familias de técnicas y qué tan bien resisten el copy-paste, la edición y la paráfrasis. Útil para quien produce contenido escrito con ayuda de modelos de lenguaje de gran escala (LLM, por sus siglas en inglés) y quiere entender cómo se rastrea la autoría de un texto.",
-      "destacado": false
-    },
-    "652de82a1473": {
-      "resumen": "Un usuario reporta en Mastodon una falla de seguridad en el cliente de torrents qBittorrent que le permitiría escapar del entorno aislado (sandbox) en el que debería ejecutarse. No es ciencia de datos en sentido estricto, pero es un recordatorio de que ni siquiera el aislamiento de procesos garantiza seguridad total, algo a tener en cuenta al correr código o modelos de terceros en la propia computadora.",
       "destacado": false
     },
     "e12d51380772": {
       "resumen": "Towards Data Science muestra cómo aplicar el análisis discriminante lineal (LDA, por sus siglas en inglés), una técnica de reducción de dimensionalidad, sobre un conjunto de datos inmobiliarios para simplificar un problema de clasificación. Es una técnica clásica de aprendizaje automático (machine learning) muy útil para quien empieza a trabajar con datos con muchas variables y necesita simplificarlos sin perder poder predictivo.",
       "destacado": false
     },
-    "ee0ff3449867": {
-      "resumen": "Bryan Cantrill publica en su blog dtrace una reflexión titulada 'tu bragueta intelectual está abierta', una metáfora sobre exponer sin darse cuenta un error o un descuido de razonamiento propio. Sin más contexto que el título, funciona como una invitación genérica a la humildad intelectual y a revisar los propios supuestos al analizar datos o comunicar resultados.",
+    "b1b316ac8d64": {
+      "resumen": "Hilo semanal fijo de la comunidad r/datascience (Reddit) para preguntas de quienes están entrando o haciendo la transición hacia la ciencia de datos. No es un artículo técnico sino un espacio de consulta entre pares sobre currículums, primeros pasos y dudas de carrera. Sirve como termómetro de las inquietudes de quienes, como él, están migrando hacia el análisis de datos.",
       "destacado": false
     },
-    "eed2e484f5d9": {
-      "resumen": "Simon Willison cita una reflexión de Zach Kehs sobre cómo, a diferencia de un edificio físico, el software puede acumular capas de indirección y complejidad sin un límite aparente antes de derrumbarse. Es una idea útil para quien programa análisis de datos: recuerda la importancia de cuidar la deuda técnica en scripts y flujos de trabajo (pipelines) que crecen con el tiempo.",
+    "4f8847a86005": {
+      "resumen": "Simon Willison comenta el llamado 'día de la RSI' (autosuperación recursiva, del inglés Recursive Self-Improvement) en OpenAI, a partir de un ensayo del científico jefe Jakub Pachocki sobre cómo estos modelos empiezan a acelerar su propia investigación. Le sirve a quien se está formando en análisis de datos para entender hacia dónde avanza la frontera de la inteligencia artificial (IA) que ya usa como herramienta de trabajo.",
+      "destacado": true
+    },
+    "b8daa0a9e9fb": {
+      "resumen": "Un desarrollador construyó un intérprete de Python funcional en apenas 1024 bytes de código, un ejercicio de programación extrema que ilustra los fundamentos de cómo funciona por dentro un lenguaje interpretado. Es más una curiosidad técnica que una herramienta aplicada, pero ayuda a entender mejor el lenguaje Python que se usa a diario en análisis de datos.",
       "destacado": false
     },
-    "92dfe26df65e": {
-      "resumen": "Una columna analiza las conclusiones de una serie incómoda de Los Pumas, en el dilema entre priorizar el desarrollo de jugadores jóvenes o la máxima competencia."
+    "da78c093b571": {
+      "resumen": "El proyecto Anubis, una herramienta que protege sitios web del rastreo automatizado (scraping) de bots, cuenta cómo le llevó un año lograr incorporar WebAssembly, una tecnología que permite correr código de alto rendimiento dentro del navegador. Interesa más por el proceso de ingeniería de software que por la ciencia de datos en sí, aunque WebAssembly se usa cada vez más para acelerar cálculos pesados en el navegador.",
+      "destacado": false
     },
-    "9e7b7d7ca846": {
-      "resumen": "Unas 28 mil personas presenciaron el partido de Los Pumas en Mendoza, que reafirmó su capacidad para organizar grandes eventos deportivos."
+    "d240cb834695": {
+      "resumen": "GrapheneOS, un sistema operativo para celulares Android centrado en privacidad y seguridad, renovó sus aplicaciones por defecto y el portapapeles seguro. No es ciencia de datos en sentido estricto, pero es relevante para quien maneja datos sensibles —como información clínica— y quiere conocer opciones de hardware y software más seguras.",
+      "destacado": false
     },
-    "9fd12f96779a": {
-      "resumen": "Un análisis repasa el impacto turístico y el beneficio económico para los clubes locales que dejó el partido de Los Pumas ante Australia en Mendoza."
+    "e752bff20023": {
+      "resumen": "Nitter y XCancel, dos alternativas abiertas para leer Twitter/X sin depender de la plataforma oficial, retomaron el servicio tras recibir asesoramiento legal. Es una nota de nicho sobre herramientas de rastreo automatizado (scraping) y acceso a datos de redes sociales, útil para quien alguna vez necesite recolectar datos públicos de esa red.",
+      "destacado": false
     },
-    "703cbb71262a": {
-      "resumen": "La actriz Susan Sarandon denunció en el Festival de Venecia que quedó afuera de proyectos cinematográficos por sus posturas críticas hacia Israel."
+    "8321172b50dd": {
+      "resumen": "Simon Willison comenta un debate sobre la tentación de tirar todo abajo y arrancar de cero cuando la deuda técnica de un proyecto se vuelve abrumadora, y por qué esa estrategia rara vez funciona en la práctica. Es un aprendizaje útil para quien empieza a escribir código de análisis de datos: conviene refactorizar de a poco antes que reescribir todo de una vez.",
+      "destacado": false
+    },
+    "0cb025d17497": {
+      "resumen": "El jugador mendocino Isgró vivió con emoción especial su presentación con Los Pumas jugando de local en su provincia natal."
+    },
+    "c20e5296223c": {
+      "resumen": "La marca de cerveza sin alcohol Imperial acompañó a Los Pumas en Mendoza, apostando a una manera distinta de festejar el tradicional tercer tiempo del rugby."
+    },
+    "df9457c69fff": {
+      "resumen": "El wing argentino Ignacio Mendy volvió a mostrar su potencia física al anotar un try de fuerza con la camiseta de Los Pumas."
     }
   }
 }

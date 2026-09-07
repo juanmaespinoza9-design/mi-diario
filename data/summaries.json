@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T10:04:57Z",
+  "generated_at": "2026-09-07T22:05:25Z",
   "summaries": {
     "38d89cb399db": {
       "resumen": "Artículo del European Heart Journal (Revista Europea del Corazón) que revisa cómo los hallazgos de genética cardiovascular se están trasladando a la práctica clínica, desde la identificación de variantes de riesgo hasta la medicina de precisión en cardiología. Útil para entender hacia dónde va el diagnóstico genético en enfermedad cardiovascular.",
@@ -51,14 +51,6 @@
       "resumen": "Simon Willison comparte una publicación de Terence Eden que expone estadísticas alarmantes sobre cómo el sistema de nombres de dominio (DNS, por sus siglas en inglés) —la infraestructura que traduce direcciones de internet en direcciones de red— es aprovechado masivamente por estafadores para registrar dominios fraudulentos. No es ciencia de datos en sentido estricto, pero es un recordatorio útil sobre los riesgos de seguridad y confianza en los datos que circulan en internet, algo relevante para quien analiza fuentes web.",
       "destacado": false
     },
-    "6aea9293bcd2": {
-      "resumen": "Towards Data Science explica cómo aplicar marca de agua a textos (text watermarking) en Python para detectar copias no autorizadas de un escrito, repasando tres familias de técnicas y qué tan bien resisten el copy-paste, la edición y la paráfrasis. Útil para quien produce contenido escrito con ayuda de modelos de lenguaje de gran escala (LLM, por sus siglas en inglés) y quiere entender cómo se rastrea la autoría de un texto.",
-      "destacado": false
-    },
-    "e12d51380772": {
-      "resumen": "Towards Data Science muestra cómo aplicar el análisis discriminante lineal (LDA, por sus siglas en inglés), una técnica de reducción de dimensionalidad, sobre un conjunto de datos inmobiliarios para simplificar un problema de clasificación. Es una técnica clásica de aprendizaje automático (machine learning) muy útil para quien empieza a trabajar con datos con muchas variables y necesita simplificarlos sin perder poder predictivo.",
-      "destacado": false
-    },
     "b1b316ac8d64": {
       "resumen": "Hilo semanal fijo de la comunidad r/datascience (Reddit) para preguntas de quienes están entrando o haciendo la transición hacia la ciencia de datos. No es un artículo técnico sino un espacio de consulta entre pares sobre currículums, primeros pasos y dudas de carrera. Sirve como termómetro de las inquietudes de quienes, como él, están migrando hacia el análisis de datos.",
       "destacado": false
@@ -67,34 +59,42 @@
       "resumen": "Simon Willison comenta el llamado 'día de la RSI' (autosuperación recursiva, del inglés Recursive Self-Improvement) en OpenAI, a partir de un ensayo del científico jefe Jakub Pachocki sobre cómo estos modelos empiezan a acelerar su propia investigación. Le sirve a quien se está formando en análisis de datos para entender hacia dónde avanza la frontera de la inteligencia artificial (IA) que ya usa como herramienta de trabajo.",
       "destacado": true
     },
-    "b8daa0a9e9fb": {
-      "resumen": "Un desarrollador construyó un intérprete de Python funcional en apenas 1024 bytes de código, un ejercicio de programación extrema que ilustra los fundamentos de cómo funciona por dentro un lenguaje interpretado. Es más una curiosidad técnica que una herramienta aplicada, pero ayuda a entender mejor el lenguaje Python que se usa a diario en análisis de datos.",
+    "27b21518f2f6": {
+      "resumen": "Hilo de la comunidad r/datascience donde piden recomendaciones para arrancar con LangGraph, un framework de código abierto para construir flujos de trabajo con agentes basados en modelos de lenguaje de gran escala (LLM, por sus siglas en inglés). Sirve como puntapié para quien quiere pasar de usar un LLM suelto a orquestar agentes que encadenan tareas, algo cada vez más relevante en el armado de pipelines de análisis de datos.",
       "destacado": false
     },
-    "da78c093b571": {
-      "resumen": "El proyecto Anubis, una herramienta que protege sitios web del rastreo automatizado (scraping) de bots, cuenta cómo le llevó un año lograr incorporar WebAssembly, una tecnología que permite correr código de alto rendimiento dentro del navegador. Interesa más por el proceso de ingeniería de software que por la ciencia de datos en sí, aunque WebAssembly se usa cada vez más para acelerar cálculos pesados en el navegador.",
+    "fba9ff183617": {
+      "resumen": "Un mail histórico de Bill Gates mostrando su frustración al intentar instalar Windows Movie Maker en su propia computadora, rescatado por Hacker News. Es más una curiosidad de la cultura tecnológica que un aporte técnico, pero recuerda que hasta los máximos referentes de la informática se topan con software mal diseñado, algo con lo que cualquiera que use herramientas de análisis a diario se puede identificar.",
       "destacado": false
     },
-    "d240cb834695": {
-      "resumen": "GrapheneOS, un sistema operativo para celulares Android centrado en privacidad y seguridad, renovó sus aplicaciones por defecto y el portapapeles seguro. No es ciencia de datos en sentido estricto, pero es relevante para quien maneja datos sensibles —como información clínica— y quiere conocer opciones de hardware y software más seguras.",
+    "f8213cf09636": {
+      "resumen": "Relato en Towards Data Science de alguien que programó una aplicación completa 'a las apuradas' con ayuda de inteligencia artificial (vibe coding) en apenas dos horas, y terminó pagando 52 dólares en costos ocultos y arrepintiéndose al día siguiente. Es un buen contrapunto para quien está aprendiendo a programar con asistencia de IA: muestra los riesgos de no entender el código que genera un asistente antes de ponerlo a producir.",
       "destacado": false
     },
-    "e752bff20023": {
-      "resumen": "Nitter y XCancel, dos alternativas abiertas para leer Twitter/X sin depender de la plataforma oficial, retomaron el servicio tras recibir asesoramiento legal. Es una nota de nicho sobre herramientas de rastreo automatizado (scraping) y acceso a datos de redes sociales, útil para quien alguna vez necesite recolectar datos públicos de esa red.",
+    "f640cbd417db": {
+      "resumen": "Repositorio de bzip3, una herramienta de compresión de datos de código abierto que mejora la relación entre velocidad y tasa de compresión frente a algoritmos clásicos como bzip2. Puede resultar útil para quien maneja bases de datos clínicas o archivos pesados y necesita comprimirlos sin perder tiempo ni espacio de almacenamiento.",
       "destacado": false
     },
-    "8321172b50dd": {
-      "resumen": "Simon Willison comenta un debate sobre la tentación de tirar todo abajo y arrancar de cero cuando la deuda técnica de un proyecto se vuelve abrumadora, y por qué esa estrategia rara vez funciona en la práctica. Es un aprendizaje útil para quien empieza a escribir código de análisis de datos: conviene refactorizar de a poco antes que reescribir todo de una vez.",
+    "cd7a736bd89e": {
+      "resumen": "Relato personal en Hacker News sobre unas vacaciones dedicadas a 'desintoxicarse' del consumo compulsivo de contenido digital (brainrot, en la jerga de internet). Sin ser técnico, es un buen recordatorio para quien pasa horas frente a pantallas de código y datos: cuidar la atención también es parte de aprender bien una disciplina nueva.",
       "destacado": false
     },
-    "0cb025d17497": {
-      "resumen": "El jugador mendocino Isgró vivió con emoción especial su presentación con Los Pumas jugando de local en su provincia natal."
+    "d8a34bc7cc4f": {
+      "resumen": "Estudio publicado en PNAS Nexus sobre el diseño de mingitorios que minimizan las salpicaduras, aplicando principios de dinámica de fluidos. Es un ejemplo simpático de cómo el análisis cuantitativo y la modelización pueden resolver problemas cotidianos, aunque esté lejos de la cardiología o la práctica clínica.",
+      "destacado": false
     },
-    "c20e5296223c": {
-      "resumen": "La marca de cerveza sin alcohol Imperial acompañó a Los Pumas en Mendoza, apostando a una manera distinta de festejar el tradicional tercer tiempo del rugby."
+    "aa9c6400b486": {
+      "resumen": "Towards Data Science explica por qué los sistemas multiagente basados en inteligencia artificial (IA) pueden fallar en producción aunque hayan aprobado las pruebas de evaluación, y propone un patrón de 'vigilancia' (watchdog) en Python para detectar resultados que parecen correctos pero no lo son. Es un aporte concreto para quien empieza a construir sistemas de IA y necesita saber cómo validar sus resultados más allá de la evaluación inicial.",
+      "destacado": false
     },
-    "df9457c69fff": {
-      "resumen": "El wing argentino Ignacio Mendy volvió a mostrar su potencia física al anotar un try de fuerza con la camiseta de Los Pumas."
+    "bff3f30a1743": {
+      "resumen": "La prensa internacional resaltó a los jugadores de Los Pumas que más se destacaron en el partido ante los Wallabies."
+    },
+    "deda2536b5ef": {
+      "resumen": "Después de la serie ante los Wallabies, Los Pumas ya piensan en el Nations Championship: cuándo y dónde será su próximo compromiso."
+    },
+    "cb8802c6fd80": {
+      "resumen": "Se conocieron nuevos detalles de la pelea previa al crimen del ex jugador de Los Pumas Federico Martín Aramburu."
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T22:05:25Z",
+  "generated_at": "2026-09-08T10:05:12Z",
   "summaries": {
     "38d89cb399db": {
       "resumen": "Artículo del European Heart Journal (Revista Europea del Corazón) que revisa cómo los hallazgos de genética cardiovascular se están trasladando a la práctica clínica, desde la identificación de variantes de riesgo hasta la medicina de precisión en cardiología. Útil para entender hacia dónde va el diagnóstico genético en enfermedad cardiovascular.",
@@ -20,81 +20,52 @@
       "destacado": true,
       "analisis": "Diseño: ensayo clínico (BRIDGE Trial) publicado en JACC que evalúa la implementación protocolizada de manejo lipídico intensivo temprano; sin el abstract no se puede precisar si es aleatorizado, el número de centros ni de pacientes.\nPoblación: pacientes que cursaron un síndrome coronario agudo, candidatos a manejo lipídico intensivo temprano.\nIntervención: protocolo de manejo lipídico intensivo temprano (probablemente con estatinas de alta intensidad y/o terapias no estatínicas) versus el manejo estándar o no protocolizado.\nResultados: no informados en el título ni disponibles sin el abstract; no corresponde estimar reducción de LDL ni eventos sin la fuente original.\nLimitaciones: sin el abstract no se puede evaluar el riesgo de sesgos, el tiempo de seguimiento ni si los desenlaces reportados son clínicos duros o subrogados (nivel de colesterol LDL).\nMensaje: la implementación protocolizada del manejo lipídico intensivo temprano post-síndrome coronario agudo es una estrategia con potencial impacto en la práctica real, en línea con las guías que recomiendan bajar el LDL lo antes posible tras un evento agudo.\nNota: análisis sin acceso al abstract."
     },
-    "2998cca260ea": {
-      "resumen": "La Sociedad Europea de Cardiología (ESC) publicó su primera guía clínica dedicada específicamente a la rehabilitación cardíaca. Es relevante porque estandariza recomendaciones para un componente del tratamiento post-evento cardiovascular que históricamente estuvo subutilizado en la práctica diaria.",
-      "destacado": false
-    },
-    "54774ad5cf3b": {
-      "resumen": "El ensayo POPular ACE TAVI comparó el uso rutinario de protamina (droga que revierte el efecto anticoagulante de la heparina) contra su uso selectivo después de un reemplazo valvular aórtico transcatéter (TAVI, por sus siglas en inglés), y encontró menos sangrado menor con la estrategia rutinaria. Es un dato práctico para el manejo del acceso vascular en un procedimiento cada vez más frecuente en cardiología estructural.",
-      "destacado": false,
-      "analisis": "Diseño: por el nombre POPular ACE TAVI se trataría de un ensayo clínico aleatorizado que compara el uso rutinario versus selectivo de protamina tras el procedimiento; sin el abstract original no se puede precisar el cegamiento, la cantidad de centros ni el número de pacientes incluidos.\nPoblación: pacientes sometidos a reemplazo valvular aórtico transcatéter (TAVI), con acceso vascular percutáneo anticoagulado con heparina durante el procedimiento.\nIntervención: administración rutinaria de protamina para revertir la heparina al finalizar el procedimiento, comparada con su uso selectivo (solo ante sangrado o a criterio del operador).\nResultados: el título indica una reducción del sangrado menor con la estrategia de protamina rutinaria; no hay razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract, por lo que no corresponde estimarlos.\nLimitaciones: sin el abstract no se puede evaluar si el sangrado menor fue el desenlace principal o parte de un compuesto, ni el riesgo de sesgos del ensayo; el sangrado menor es un desenlace subrogado que no siempre se traduce en beneficio clínico duro.\nMensaje: sugiere que revertir la heparina de rutina con protamina tras TAVI podría reducir el sangrado menor en el sitio de acceso, un dato que podría simplificar el manejo posprocedimiento si se confirma con el resto de los desenlaces del ensayo.\nNota: análisis sin acceso al abstract."
-    },
-    "465609e6839c": {
-      "resumen": "TCTMD (The Cardiovascular Research Foundation) repasa el estudio His-Alternative II, que evaluó la estimulación del sistema de conducción cardíaco (una alternativa a la resincronización biventricular clásica) en pacientes con insuficiencia cardíaca con fracción de eyección reducida (HFrEF, por sus siglas en inglés) tratados con terapia de resincronización cardíaca (CRT, por sus siglas en inglés). Vale la pena seguirlo porque esta técnica de estimulación fisiológica viene ganando terreno como alternativa a la resincronización convencional.",
-      "destacado": false,
-      "analisis": "Diseño: Según el título, se trata del estudio His-Alternative II, que evalúa la estimulación del sistema de conducción cardíaco en el contexto de la terapia de resincronización cardíaca; sin el abstract no se puede precisar si es aleatorizado, el cegamiento, la cantidad de centros ni de pacientes.\nPoblación: Pacientes con insuficiencia cardíaca con fracción de eyección reducida (HFrEF) tratados con terapia de resincronización cardíaca (CRT).\nIntervención: Estimulación del sistema de conducción cardíaco (conduction-system pacing) como alternativa a la resincronización biventricular convencional; el comparador exacto no se puede confirmar sin el abstract.\nResultados: no informados en el título ni disponibles sin el abstract; no corresponde estimar cifras.\nLimitaciones: sin el abstract no se puede evaluar diseño, seguimiento ni riesgo de sesgos; el \"II\" en el nombre sugiere un seguimiento o ampliación de una cohorte previa, lo que podría implicar limitaciones propias de datos observacionales a más largo plazo.\nMensaje: refuerza que la estimulación del sistema de conducción cardíaco parece sostener su beneficio en el tiempo como alternativa a la resincronización convencional en HFrEF, aunque la confirmación definitiva requiere revisar la publicación completa.\nNota: análisis sin acceso al abstract."
-    },
-    "f80b34ab4597": {
-      "resumen": "TCTMD presenta el ensayo TRANQUILITY, que evaluó la seguridad de pacibekitug, una terapia biológica antiinflamatoria en investigación, para reducir la proteína C reactiva de alta sensibilidad (hs-CRP, por sus siglas en inglés) durante seis meses en pacientes con enfermedad renal crónica (CKD, por sus siglas en inglés). Es relevante porque la inflamación vascular residual es un blanco terapéutico emergente en la prevención cardiovascular, sobre todo en poblaciones de alto riesgo como la renal crónica.",
-      "destacado": false,
-      "analisis": "Diseño: Según el título, el ensayo TRANQUILITY evaluó la seguridad de pacibekitug a lo largo de 6 meses; sin el abstract no se puede precisar si fue aleatorizado, doble ciego, la cantidad de centros ni de pacientes.\nPoblación: Pacientes con enfermedad renal crónica (CKD).\nIntervención: Pacibekitug (terapia biológica antiinflamatoria en investigación) frente a un comparador no especificado en el título (posiblemente placebo).\nResultados: El título indica que el fármaco reduce de forma segura la proteína C reactiva de alta sensibilidad (hs-CRP) a los 6 meses; no hay razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract, por lo que no corresponde estimarlos.\nLimitaciones: Se trata de un desenlace subrogado (marcador inflamatorio) y no de eventos cardiovasculares duros; sin el abstract no se puede evaluar el tamaño muestral ni el riesgo de sesgos.\nMensaje: Aporta a la línea de evidencia sobre el abordaje antiinflamatorio en enfermedad cardiovascular y renal, aunque el impacto clínico real en eventos duros todavía no está establecido con este desenlace subrogado.\nNota: análisis sin acceso al abstract."
-    },
     "75703c7b7545": {
       "resumen": "Declaración científica conjunta del Colegio Americano de Cardiología (ACC, por sus siglas en inglés) y la Asociación Americana del Corazón (AHA, por sus siglas en inglés) sobre las consideraciones clínicas para la atención cardiovascular del 'atleta táctico' (personal militar, policial o de rescate con alta exigencia física). Interesa porque aborda un perfil de paciente con demandas cardiovasculares particulares, distinto del atleta de competición clásico.",
       "destacado": false
     },
-    "e09a82c3a442": {
-      "resumen": "TCTMD (The Cardiovascular Research Foundation) repasa las diez notas más leídas de agosto de 2026 en su sitio, un resumen de qué temas de cardiología intervencionista y estructural concentraron más atención de la comunidad ese mes. Sirve como termómetro rápido de tendencias, aunque no aporta datos originales propios.",
-      "destacado": false
-    },
-    "20bde3d7222d": {
-      "resumen": "Simon Willison comparte una publicación de Terence Eden que expone estadísticas alarmantes sobre cómo el sistema de nombres de dominio (DNS, por sus siglas en inglés) —la infraestructura que traduce direcciones de internet en direcciones de red— es aprovechado masivamente por estafadores para registrar dominios fraudulentos. No es ciencia de datos en sentido estricto, pero es un recordatorio útil sobre los riesgos de seguridad y confianza en los datos que circulan en internet, algo relevante para quien analiza fuentes web.",
-      "destacado": false
-    },
-    "b1b316ac8d64": {
-      "resumen": "Hilo semanal fijo de la comunidad r/datascience (Reddit) para preguntas de quienes están entrando o haciendo la transición hacia la ciencia de datos. No es un artículo técnico sino un espacio de consulta entre pares sobre currículums, primeros pasos y dudas de carrera. Sirve como termómetro de las inquietudes de quienes, como él, están migrando hacia el análisis de datos.",
-      "destacado": false
-    },
-    "4f8847a86005": {
-      "resumen": "Simon Willison comenta el llamado 'día de la RSI' (autosuperación recursiva, del inglés Recursive Self-Improvement) en OpenAI, a partir de un ensayo del científico jefe Jakub Pachocki sobre cómo estos modelos empiezan a acelerar su propia investigación. Le sirve a quien se está formando en análisis de datos para entender hacia dónde avanza la frontera de la inteligencia artificial (IA) que ya usa como herramienta de trabajo.",
-      "destacado": true
-    },
     "27b21518f2f6": {
       "resumen": "Hilo de la comunidad r/datascience donde piden recomendaciones para arrancar con LangGraph, un framework de código abierto para construir flujos de trabajo con agentes basados en modelos de lenguaje de gran escala (LLM, por sus siglas en inglés). Sirve como puntapié para quien quiere pasar de usar un LLM suelto a orquestar agentes que encadenan tareas, algo cada vez más relevante en el armado de pipelines de análisis de datos.",
-      "destacado": false
-    },
-    "fba9ff183617": {
-      "resumen": "Un mail histórico de Bill Gates mostrando su frustración al intentar instalar Windows Movie Maker en su propia computadora, rescatado por Hacker News. Es más una curiosidad de la cultura tecnológica que un aporte técnico, pero recuerda que hasta los máximos referentes de la informática se topan con software mal diseñado, algo con lo que cualquiera que use herramientas de análisis a diario se puede identificar.",
       "destacado": false
     },
     "f8213cf09636": {
       "resumen": "Relato en Towards Data Science de alguien que programó una aplicación completa 'a las apuradas' con ayuda de inteligencia artificial (vibe coding) en apenas dos horas, y terminó pagando 52 dólares en costos ocultos y arrepintiéndose al día siguiente. Es un buen contrapunto para quien está aprendiendo a programar con asistencia de IA: muestra los riesgos de no entender el código que genera un asistente antes de ponerlo a producir.",
       "destacado": false
     },
-    "f640cbd417db": {
-      "resumen": "Repositorio de bzip3, una herramienta de compresión de datos de código abierto que mejora la relación entre velocidad y tasa de compresión frente a algoritmos clásicos como bzip2. Puede resultar útil para quien maneja bases de datos clínicas o archivos pesados y necesita comprimirlos sin perder tiempo ni espacio de almacenamiento.",
-      "destacado": false
-    },
-    "cd7a736bd89e": {
-      "resumen": "Relato personal en Hacker News sobre unas vacaciones dedicadas a 'desintoxicarse' del consumo compulsivo de contenido digital (brainrot, en la jerga de internet). Sin ser técnico, es un buen recordatorio para quien pasa horas frente a pantallas de código y datos: cuidar la atención también es parte de aprender bien una disciplina nueva.",
-      "destacado": false
-    },
-    "d8a34bc7cc4f": {
-      "resumen": "Estudio publicado en PNAS Nexus sobre el diseño de mingitorios que minimizan las salpicaduras, aplicando principios de dinámica de fluidos. Es un ejemplo simpático de cómo el análisis cuantitativo y la modelización pueden resolver problemas cotidianos, aunque esté lejos de la cardiología o la práctica clínica.",
-      "destacado": false
-    },
     "aa9c6400b486": {
       "resumen": "Towards Data Science explica por qué los sistemas multiagente basados en inteligencia artificial (IA) pueden fallar en producción aunque hayan aprobado las pruebas de evaluación, y propone un patrón de 'vigilancia' (watchdog) en Python para detectar resultados que parecen correctos pero no lo son. Es un aporte concreto para quien empieza a construir sistemas de IA y necesita saber cómo validar sus resultados más allá de la evaluación inicial.",
       "destacado": false
     },
-    "bff3f30a1743": {
-      "resumen": "La prensa internacional resaltó a los jugadores de Los Pumas que más se destacaron en el partido ante los Wallabies."
+    "a744dbb8ef59": {
+      "resumen": "Jellyfin es un servidor de streaming multimedia gratuito y de código abierto, alternativo a Plex, para organizar y ver series, películas y música desde tu propia infraestructura. La versión 12.0 es una actualización mayor del proyecto. No es una herramienta de análisis de datos en sí, pero sirve como ejemplo de software autoalojado (self-hosted) y de cómo se sostiene en el tiempo un proyecto de código abierto grande.",
+      "destacado": false
     },
-    "deda2536b5ef": {
-      "resumen": "Después de la serie ante los Wallabies, Los Pumas ya piensan en el Nations Championship: cuándo y dónde será su próximo compromiso."
+    "7dca434f16ba": {
+      "resumen": "Un investigador logró factorizar las claves criptográficas RSA (algoritmo de cifrado de clave pública) de una autoridad certificadora de los años 90, usando el poder de cómputo actual. Muestra en la práctica cómo el avance de la capacidad de procesamiento vuelve inseguros estándares que en su momento se consideraban robustos. Para quien arranca en análisis de datos es un buen recordatorio de que los métodos numéricos y de seguridad tienen una vida útil limitada.",
+      "destacado": false
     },
-    "cb8802c6fd80": {
-      "resumen": "Se conocieron nuevos detalles de la pelea previa al crimen del ex jugador de Los Pumas Federico Martín Aramburu."
+    "276c6225db64": {
+      "resumen": "Nueva versión de \"llm\", la herramienta de línea de comandos y biblioteca de Python creada por Simon Willison para interactuar con modelos de lenguaje grande (LLM, por sus siglas en inglés) de distintos proveedores desde la terminal. Permite automatizar consultas, comparar modelos y encadenar prompts sin depender de una interfaz web. Es una herramienta concreta y de bajo umbral de entrada para un médico que está aprendiendo análisis de datos y quiere sumar inteligencia artificial a su flujo de trabajo.",
+      "destacado": true
+    },
+    "1e6d810ba1d3": {
+      "resumen": "TALA es un lenguaje y herramienta de código abierto, recién liberada, para generar diagramas a partir de texto plano, en la línea de D2. Facilita crear diagramas técnicos (arquitecturas, flujos, relaciones entre datos) escribiendo código simple en lugar de dibujar a mano. Documentar pipelines y flujos de trabajo con diagramas reproducibles es una habilidad tan útil como programar para quien está aprendiendo análisis de datos.",
+      "destacado": false
+    },
+    "315af994e13a": {
+      "resumen": "Simon Willison escribe sobre los rastreadores web (crawlers) que usan las empresas de inteligencia artificial para recolectar contenido de internet y entrenar o alimentar sus modelos, y los problemas que generan en los sitios que visitan (sobrecarga de tráfico, falta de permisos). Le sirve a un médico en formación de datos para entender de dónde sale la información con la que se entrenan los modelos de inteligencia artificial que usa a diario, y qué controversias hay detrás.",
+      "destacado": false
+    },
+    "b392e0204486": {
+      "resumen": "Cita comentada de Jakub Pachocki, científico jefe de OpenAI, recogida por Simon Willison, sobre el rumbo técnico o las capacidades de los modelos de inteligencia artificial más recientes. Este tipo de posteos condensa en pocas líneas hacia dónde va la discusión técnica de punta en inteligencia artificial, útil para quien quiere seguir el estado del arte sin leer papers completos.",
+      "destacado": false
+    },
+    "8b5f7f93181f": {
+      "resumen": "Publicación en Hacker News de una reconstrucción del código fuente de Stuxnet, el gusano informático que en 2010 saboteó centrifugadoras nucleares iraníes y es considerado la primera ciberarma conocida. Para alguien que se forma en análisis de datos y sistemas es un caso de estudio histórico sobre seguridad informática, control de procesos industriales y el uso de software como herramienta geopolítica.",
+      "destacado": false
+    },
+    "ddf3f3b10ef8": {
+      "resumen": "Carta de un lector publicada en Clarín que se pregunta por qué la Argentina no apuesta a desarrollar su red ferroviaria."
     }
   }
 }

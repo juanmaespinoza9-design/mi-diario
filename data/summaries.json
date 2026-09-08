@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T10:05:12Z",
+  "generated_at": "2026-09-08T22:05:35Z",
   "summaries": {
     "38d89cb399db": {
       "resumen": "Artículo del European Heart Journal (Revista Europea del Corazón) que revisa cómo los hallazgos de genética cardiovascular se están trasladando a la práctica clínica, desde la identificación de variantes de riesgo hasta la medicina de precisión en cardiología. Útil para entender hacia dónde va el diagnóstico genético en enfermedad cardiovascular.",
@@ -24,48 +24,79 @@
       "resumen": "Declaración científica conjunta del Colegio Americano de Cardiología (ACC, por sus siglas en inglés) y la Asociación Americana del Corazón (AHA, por sus siglas en inglés) sobre las consideraciones clínicas para la atención cardiovascular del 'atleta táctico' (personal militar, policial o de rescate con alta exigencia física). Interesa porque aborda un perfil de paciente con demandas cardiovasculares particulares, distinto del atleta de competición clásico.",
       "destacado": false
     },
-    "27b21518f2f6": {
-      "resumen": "Hilo de la comunidad r/datascience donde piden recomendaciones para arrancar con LangGraph, un framework de código abierto para construir flujos de trabajo con agentes basados en modelos de lenguaje de gran escala (LLM, por sus siglas en inglés). Sirve como puntapié para quien quiere pasar de usar un LLM suelto a orquestar agentes que encadenan tareas, algo cada vez más relevante en el armado de pipelines de análisis de datos.",
+    "5c9fb25cd9ee": {
+      "resumen": "Ensayo clínico TIME-HF que evalúa un modelo de atención liderado por enfermería para optimizar el tratamiento de pacientes con insuficiencia cardíaca con fracción de eyección reducida (HFrEF, por sus siglas en inglés). Interesa porque la titulación de las cuatro familias de fármacos que mejoran la sobrevida en HFrEF suele quedar incompleta en la práctica real, y este modelo de enfermería especializada podría cerrar esa brecha.",
+      "destacado": false,
+      "analisis": "Diseño: ensayo clínico (TIME-HF) que compara un modelo de atención liderado por personal de enfermería frente al seguimiento convencional; el título no permite precisar aleatorización, número de centros ni de pacientes.\nPoblación: pacientes con insuficiencia cardíaca con fracción de eyección reducida (HFrEF), presumiblemente ambulatorios en seguimiento post-alta o en tratamiento crónico.\nIntervención: modelo de atención y titulación de tratamiento liderado por enfermería especializada versus el manejo médico habitual.\nResultados: no informados en el título ni disponibles sin el abstract; no corresponde estimar diferencias en desenlaces sin la fuente original.\nLimitaciones: sin el abstract no se puede evaluar el riesgo de sesgos, el tiempo de seguimiento ni si el desenlace principal fue clínico (mortalidad, internaciones) o de proceso (dosis alcanzadas de tratamiento).\nMensaje: refuerza la idea de que modelos de atención centrados en enfermería pueden ayudar a alcanzar las dosis objetivo de los tratamientos que modifican pronóstico en insuficiencia cardíaca, un problema frecuente en la práctica real.\nNota: análisis sin acceso al abstract."
+    },
+    "de507ba76b27": {
+      "resumen": "Resultados de línea de base (\"top-line\") del ensayo Lp(a)HORIZON con pelacarsen, un oligonucleótido antisentido diseñado para reducir la lipoproteína(a) —Lp(a)—, un factor de riesgo cardiovascular hereditario para el que hasta ahora no hay tratamiento específico aprobado. El título adelanta que los resultados no confirmaron el beneficio esperado, algo relevante porque es uno de los ensayos cardiovasculares más esperados de los últimos años.",
+      "destacado": false,
+      "analisis": "Diseño: ensayo clínico de fase 3 (Lp(a)HORIZON), presumiblemente aleatorizado, doble ciego y multicéntrico, según el desarrollo habitual de este tipo de programas; el título no precisa el número exacto de centros ni de pacientes.\nPoblación: pacientes con enfermedad cardiovascular aterosclerótica y niveles elevados de lipoproteína(a), un factor de riesgo genético independiente del colesterol LDL.\nIntervención: pelacarsen, oligonucleótido antisentido que reduce la síntesis hepática de lipoproteína(a), comparado contra placebo.\nResultados: el título indica que los resultados de línea de base (\"top-line\") \"dashed hopes\" (frustraron las expectativas), lo que sugiere que no se alcanzó una reducción significativa de eventos cardiovasculares mayores pese a bajar la Lp(a); no hay cifras concretas (razones de riesgo, intervalos de confianza) disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede confirmar si el fracaso fue del criterio de valoración principal completo o de un componente, ni el grado de reducción de Lp(a) alcanzado.\nMensaje: si se confirma, sería un golpe importante para la hipótesis de que bajar farmacológicamente la lipoproteína(a) reduce eventos cardiovasculares, y obligaría a revisar el desarrollo de otras moléculas de la misma clase.\nNota: análisis sin acceso al abstract."
+    },
+    "465609e6839c": {
+      "resumen": "Estudio His-Alternative II sobre estimulación del sistema de conducción (estimulación hisiana o de rama izquierda) como alternativa a la resincronización biventricular clásica en pacientes con insuficiencia cardíaca con fracción de eyección reducida (HFrEF) que reciben terapia de resincronización cardíaca (CRT, por sus siglas en inglés). Importa porque la estimulación del sistema de conducción es una técnica en ascenso que busca una activación eléctrica más fisiológica del corazón.",
+      "destacado": false,
+      "analisis": "Diseño: estudio (His-Alternative II) que evalúa el desempeño a mediano/largo plazo de la estimulación del sistema de conducción en pacientes con terapia de resincronización cardíaca; el título no permite establecer si es aleatorizado o un registro observacional, ni el número de centros y pacientes.\nPoblación: pacientes con insuficiencia cardíaca con fracción de eyección reducida (HFrEF) tratados con terapia de resincronización cardíaca (CRT).\nIntervención: estimulación del sistema de conducción (hisiana o de rama izquierda) frente a la resincronización biventricular convencional.\nResultados: el título indica que la técnica \"se sostiene bien\" (\"holds up well\") en el tiempo, sin cifras concretas de respuesta ecocardiográfica, eventos clínicos o complicaciones del electrodo disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede valorar el tiempo de seguimiento, la tasa de éxito del implante ni el riesgo de sesgo de selección si no es aleatorizado.\nMensaje: suma evidencia a favor de la durabilidad de la estimulación del sistema de conducción como alternativa a la resincronización biventricular clásica, una tendencia que viene consolidándose en electrofisiología.\nNota: análisis sin acceso al abstract."
+    },
+    "f80b34ab4597": {
+      "resumen": "Ensayo TRANQUILITY sobre pacibekitug, un fármaco antiinflamatorio, que evalúa su capacidad de reducir de forma segura la proteína C reactiva de alta sensibilidad (hs-CRP, por sus siglas en inglés) a lo largo de seis meses en pacientes con enfermedad renal crónica (ERC). Es relevante porque la inflamación vascular es un blanco terapéutico cada vez más estudiado en prevención cardiovascular, sobre todo en poblaciones de alto riesgo como la renal crónica.",
+      "destacado": false,
+      "analisis": "Diseño: ensayo clínico (TRANQUILITY), probablemente de fase 2, que evalúa seguridad y eficacia bioquímica de pacibekitug a 6 meses; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: pacientes con enfermedad renal crónica (ERC), una población con alto riesgo cardiovascular residual e inflamación crónica de bajo grado.\nIntervención: pacibekitug (fármaco dirigido a la vía inflamatoria) frente a placebo o comparador, con seguimiento a 6 meses.\nResultados: el título reporta reducción segura de la proteína C reactiva de alta sensibilidad (hs-CRP) a 6 meses; no hay valores numéricos, intervalos de confianza ni tasas de eventos adversos disponibles sin el abstract.\nLimitaciones: es un desenlace subrogado (bioquímico) y no clínico; sin el abstract no se puede evaluar el tamaño del efecto ni la seguridad a largo plazo.\nMensaje: si se confirma el perfil de seguridad y el efecto antiinflamatorio, pacibekitug podría avanzar hacia ensayos de mayor tamaño con desenlaces cardiovasculares duros en pacientes renales crónicos, en línea con la hipótesis inflamatoria de la aterosclerosis.\nNota: análisis sin acceso al abstract."
+    },
+    "54774ad5cf3b": {
+      "resumen": "Ensayo POPular ACE TAVI que compara el uso rutinario de protamina (para revertir la heparina) contra su uso selectivo en pacientes sometidos a implante percutáneo de válvula aórtica (TAVI, por sus siglas en inglés), con foco en el sangrado menor periprocedimiento. Le importa a cualquier hemodinamista o cardiólogo clínico porque el manejo de la anticoagulación durante el TAVI es una decisión práctica de todos los días.",
+      "destacado": false,
+      "analisis": "Diseño: ensayo clínico (POPular ACE TAVI), presumiblemente aleatorizado, que compara dos estrategias de manejo de la reversión de heparina; el título no especifica cegamiento, número de centros ni de pacientes.\nPoblación: pacientes sometidos a implante percutáneo de válvula aórtica (TAVI, transcatheter aortic valve implantation).\nIntervención: administración rutinaria de protamina post-procedimiento versus uso selectivo (solo ante sangrado o indicación puntual).\nResultados: el título indica que la estrategia rutinaria \"reduce el sangrado menor\" comparada con el uso selectivo; no hay cifras de incidencia, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: el desenlace destacado en el título es sangrado menor, de menor relevancia clínica que el sangrado mayor o los eventos vasculares; sin el abstract no se puede evaluar el efecto sobre estos desenlaces más duros.\nMensaje: podría respaldar la reversión rutinaria de heparina con protamina tras el TAVI para reducir complicaciones hemorrágicas menores, aunque el impacto en sangrado mayor y eventos clínicos relevantes queda por confirmar.\nNota: análisis sin acceso al abstract."
+    },
+    "bee62d297216": {
+      "resumen": "Meta presenta Muse, su agente de inteligencia artificial (IA) personal, con sus funciones y capacidades. Le sirve a un médico que aprende análisis de datos para entender hacia dónde avanzan los asistentes de IA de las grandes tecnológicas: de responder preguntas sueltas a ejecutar tareas completas de forma autónoma en nombre del usuario.",
       "destacado": false
     },
-    "f8213cf09636": {
-      "resumen": "Relato en Towards Data Science de alguien que programó una aplicación completa 'a las apuradas' con ayuda de inteligencia artificial (vibe coding) en apenas dos horas, y terminó pagando 52 dólares en costos ocultos y arrepintiéndose al día siguiente. Es un buen contrapunto para quien está aprendiendo a programar con asistencia de IA: muestra los riesgos de no entender el código que genera un asistente antes de ponerlo a producir.",
+    "1be89b22ecb5": {
+      "resumen": "OpenAI presenta ChatGPT Images 2.5, una nueva versión de su modelo de generación de imágenes. Es útil para quien está incorporando herramientas de inteligencia artificial (IA) al trabajo diario, ya sea para ilustrar presentaciones o materiales de divulgación médica, y para entender el ritmo de mejora de estos modelos generativos.",
       "destacado": false
     },
-    "aa9c6400b486": {
-      "resumen": "Towards Data Science explica por qué los sistemas multiagente basados en inteligencia artificial (IA) pueden fallar en producción aunque hayan aprobado las pruebas de evaluación, y propone un patrón de 'vigilancia' (watchdog) en Python para detectar resultados que parecen correctos pero no lo son. Es un aporte concreto para quien empieza a construir sistemas de IA y necesita saber cómo validar sus resultados más allá de la evaluación inicial.",
+    "a8d124ed0acf": {
+      "resumen": "Cobertura en vivo de la BBC sobre la cancelación de vuelos en aeropuertos del Reino Unido por una falla en el sistema de control de tráfico aéreo (ATC, por sus siglas en inglés). Ganó lugar en la comunidad tecnológica de Hacker News como caso de estudio sobre la fragilidad de los sistemas informáticos críticos, algo comparable a lo que puede pasar con los sistemas digitales en salud cuando fallan.",
       "destacado": false
     },
-    "a744dbb8ef59": {
-      "resumen": "Jellyfin es un servidor de streaming multimedia gratuito y de código abierto, alternativo a Plex, para organizar y ver series, películas y música desde tu propia infraestructura. La versión 12.0 es una actualización mayor del proyecto. No es una herramienta de análisis de datos en sí, pero sirve como ejemplo de software autoalojado (self-hosted) y de cómo se sostiene en el tiempo un proyecto de código abierto grande.",
+    "d391b5a2844c": {
+      "resumen": "Primeras impresiones de un usuario sobre GPT-6 Astra, el nuevo modelo de frontera de OpenAI, con consejos prácticos para sacarle provecho. Sirve como guía rápida para quien recién empieza a usar modelos de lenguaje de gran escala (LLM, por sus siglas en inglés) en tareas de análisis y quiere aprovechar mejor sus capacidades.",
       "destacado": false
     },
-    "7dca434f16ba": {
-      "resumen": "Un investigador logró factorizar las claves criptográficas RSA (algoritmo de cifrado de clave pública) de una autoridad certificadora de los años 90, usando el poder de cómputo actual. Muestra en la práctica cómo el avance de la capacidad de procesamiento vuelve inseguros estándares que en su momento se consideraban robustos. Para quien arranca en análisis de datos es un buen recordatorio de que los métodos numéricos y de seguridad tienen una vida útil limitada.",
-      "destacado": false
-    },
-    "276c6225db64": {
-      "resumen": "Nueva versión de \"llm\", la herramienta de línea de comandos y biblioteca de Python creada por Simon Willison para interactuar con modelos de lenguaje grande (LLM, por sus siglas en inglés) de distintos proveedores desde la terminal. Permite automatizar consultas, comparar modelos y encadenar prompts sin depender de una interfaz web. Es una herramienta concreta y de bajo umbral de entrada para un médico que está aprendiendo análisis de datos y quiere sumar inteligencia artificial a su flujo de trabajo.",
+    "ec8de82d4d7c": {
+      "resumen": "Manual de validación de modelos de inteligencia artificial generativa (GenAI) con lecciones tomadas del sector bancario, que repasa qué prácticas de control de calidad se mantienen y cuáles cambian frente a los modelos tradicionales. Es particularmente valioso para un médico en formación de datos porque el rigor de validación bancario —una industria muy regulada— es un buen espejo para pensar cómo auditar modelos aplicados a salud.",
       "destacado": true
     },
-    "1e6d810ba1d3": {
-      "resumen": "TALA es un lenguaje y herramienta de código abierto, recién liberada, para generar diagramas a partir de texto plano, en la línea de D2. Facilita crear diagramas técnicos (arquitecturas, flujos, relaciones entre datos) escribiendo código simple en lugar de dibujar a mano. Documentar pipelines y flujos de trabajo con diagramas reproducibles es una habilidad tan útil como programar para quien está aprendiendo análisis de datos.",
+    "00a664604728": {
+      "resumen": "Guía introductoria sobre \"modelos de mundo\" (world models), sistemas de inteligencia artificial que aprenden a simular cómo funciona el entorno para predecir consecuencias de acciones, explicada con ejemplos en Python. Ofrece una puerta de entrada accesible a un concepto de IA cada vez más citado, útil para quien está dando sus primeros pasos en programación aplicada a datos.",
       "destacado": false
     },
-    "315af994e13a": {
-      "resumen": "Simon Willison escribe sobre los rastreadores web (crawlers) que usan las empresas de inteligencia artificial para recolectar contenido de internet y entrenar o alimentar sus modelos, y los problemas que generan en los sitios que visitan (sobrecarga de tráfico, falta de permisos). Le sirve a un médico en formación de datos para entender de dónde sale la información con la que se entrenan los modelos de inteligencia artificial que usa a diario, y qué controversias hay detrás.",
+    "f2802beee000": {
+      "resumen": "OpenAI publica un desarrollo sobre el problema del milenio de Navier-Stokes, una de las ecuaciones fundamentales de la dinámica de fluidos cuya resolución general es uno de los siete problemas del milenio del Instituto Clay. Interesa como ejemplo de cómo la inteligencia artificial empieza a aportar en matemática pura y modelado físico, un área con métodos afines a los que usa el análisis de datos.",
       "destacado": false
     },
-    "b392e0204486": {
-      "resumen": "Cita comentada de Jakub Pachocki, científico jefe de OpenAI, recogida por Simon Willison, sobre el rumbo técnico o las capacidades de los modelos de inteligencia artificial más recientes. Este tipo de posteos condensa en pocas líneas hacia dónde va la discusión técnica de punta en inteligencia artificial, útil para quien quiere seguir el estado del arte sin leer papers completos.",
+    "6f8ab09d8a1b": {
+      "resumen": "Un usuario de la comunidad r/datascience comparte un paquete de R para imputar datos faltantes del censo de Estados Unidos usando ajuste proporcional iterativo (\"iterative proportional fitting\") sobre los márgenes disponibles. Es un ejemplo concreto de una técnica estadística clásica de imputación, útil para quien está aprendiendo a manejar datos incompletos en R.",
       "destacado": false
     },
-    "8b5f7f93181f": {
-      "resumen": "Publicación en Hacker News de una reconstrucción del código fuente de Stuxnet, el gusano informático que en 2010 saboteó centrifugadoras nucleares iraníes y es considerado la primera ciberarma conocida. Para alguien que se forma en análisis de datos y sistemas es un caso de estudio histórico sobre seguridad informática, control de procesos industriales y el uso de software como herramienta geopolítica.",
+    "4c8b3e9ba891": {
+      "resumen": "Repaso de la evolución de los sistemas de recuperación de información: de la generación aumentada por recuperación (RAG, por sus siglas en inglés) hacia arquitecturas de inteligencia artificial (IA) agéntica para sistemas empresariales, contado por alguien que atravesó las tres generaciones. Ayuda a entender, en términos simples, por qué las empresas están pasando de simples buscadores con IA a agentes que ejecutan tareas completas.",
       "destacado": false
     },
-    "ddf3f3b10ef8": {
-      "resumen": "Carta de un lector publicada en Clarín que se pregunta por qué la Argentina no apuesta a desarrollar su red ferroviaria."
+    "faff1f640170": {
+      "resumen": "Análisis sobre si ArrowJS es la interfaz de usuario adecuada para la \"era agéntica\", en la que agentes de inteligencia artificial (IA) escriben cada vez más código. Sirve para asomarse a cómo cambia el desarrollo de interfaces cuando quien programa buena parte del código ya no es una persona sino un agente de IA.",
+      "destacado": false
+    },
+    "6286e3f1727e": {
+      "resumen": "El jugador de Los Pumas que se afianzó como titular tras la serie ante Sudáfrica y Australia."
+    },
+    "d1145442602f": {
+      "resumen": "El principal acusado por el crimen del ex Puma Federico Martín Aramburu declaró en el juicio que disparó en legítima defensa."
+    },
+    "080838d37203": {
+      "resumen": "Un repaso cronológico del crimen de Federico Aramburu, el hecho que conmocionó al rugby argentino."
     }
   }
 }

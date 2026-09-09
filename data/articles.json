@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T11:34:47.878826+00:00",
+ "generated_at": "2026-09-09T16:45:49.188438+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -7,47 +7,71 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "TAVI PCI: Fixing the Aortic Valve Before the Coronaries Can Be a Valid Option",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMUZ3UTA1dUxfQlBkOG5CR0lpUFREMTFvX25qdEFnYlRFSGpIQkI0SGlIRU9xaFlwTkxFRTkyYVA3NjBMbVRzb2t4RmVNbGtkUnNqQ3dibDFSaFIzUFhRem9WSHZLZlI2REtCVERabnBsLUk3bFZsd0hSNkFycjN5dDU4VzVTbUZEZmFGbHRHMA?oc=5",
+     "source": "TCTMD",
+     "published": "2026-09-09T15:29:38+00:00",
+     "id": "ff95ce85a38b"
+    },
+    {
      "title": "Nurse-Led Care Model Optimizes Outcomes in HFrEF: TIME-HF",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWUdfQWNCODRZLUdhX0x0ZmJyblN6TXpMUThzbG15OTFDellvckhCZkxGVkppY3VudXQ2a3F4LUtHdHk4aHZRQlQ4dEtoak9EZkhobTFTYnRJanlTZUYxNGdrTjVnVF8xeWxhMEVqel90QjZIWS1YU2psSHFWZExkTC1SeXA4WVU?oc=5",
-     "source": "tctmd",
+     "source": "TCTMD",
      "published": "2026-09-08T20:17:15+00:00",
      "id": "5c9fb25cd9ee"
     },
     {
      "title": "Lp(a)HORIZON: Top-line Results Dash Hopes for Pelacarsen",
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY2tEUllIbWgxemk0NkZfZDBETEdsOTJZc2ZUcXRzOFZqNGxkdm5WTnRmQVdRZV9lWktrVWRpNVZTVHI1dmRyZ0tiV2ppWlc2TWtRWGJBMUVyOHB4ZWllZV9HeWJCNXlsNDd0WkNZWWp1LTVtNUJBYVRaNDJ2NXVaZTJn?oc=5",
-     "source": "tctmd",
+     "source": "TCTMD",
      "published": "2026-09-08T15:26:12+00:00",
      "id": "de507ba76b27"
     },
     {
+     "title": "REPLY: Heterogeneous Value of a Multicondition Cardiovascular PRS Panel",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42714049/",
+     "source": "JACC",
+     "published": "2026-09-08T00:00:00+00:00",
+     "copete": "Patel AP et al. · Journal of the American College of Cardiology",
+     "id": "b32cccecc124"
+    },
+    {
+     "title": "Heterogeneous Value of a Multicondition Cardiovascular PRS Panel",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42714048/",
+     "source": "JACC",
+     "published": "2026-09-08T00:00:00+00:00",
+     "copete": "Wang Y et al. · Journal of the American College of Cardiology",
+     "id": "c0fa2f59df30"
+    },
+    {
+     "title": "Genetic Variation in Hypoplastic Left Heart Syndrome Heart Failure Outcomes: A Layer of Risk to Stressed Myocardium",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42714047/",
+     "source": "JACC",
+     "published": "2026-09-08T00:00:00+00:00",
+     "copete": "Wilsbacher LD et al. · Journal of the American College of Cardiology",
+     "id": "ae80342e458c"
+    },
+    {
+     "title": "Genetic Determinants of Early Heart Failure in Hypoplastic Left Heart Syndrome: A Prospective NC-DEFINE Study",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42714046/",
+     "source": "JACC",
+     "published": "2026-09-08T00:00:00+00:00",
+     "copete": "Balint BN et al. · Journal of the American College of Cardiology",
+     "id": "ebc96bbeab63"
+    },
+    {
      "title": "His-Alternative II: Conduction-System Pacing Holds Up Well in CRT-Treated HFrEF",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONEJ4eU4zMVNiWXVFdnlvbE9vSjJBT19YXzhWX1JBQzJFbzhBS2M0NlNHUXAxOVhwT1pfR2UxZTFEcDUyNmNGZ1otMk9wa1VzdjJXSHFCd0xTVXJZb25VaWMwam5GTDRUTXlnOFIxM1dHTV9UWW56Sk16SVdYeXdsaWxzMHQ1X1R3STB1Zl9hSUgxZS1rMmc4T2IxdWlzalpK?oc=5",
-     "source": "tctmd",
+     "source": "TCTMD",
      "published": "2026-09-04T20:37:28+00:00",
      "id": "465609e6839c"
     },
     {
      "title": "TRANQUILITY: Pacibekitug Safely Lowers hs-CRP Through 6 Months in CKD Patients",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSms1YWJjRnF3Ui1MS3FaZTRKQzFLTWFCenE4alY1QkZMSDRiVmtydUNRU1pPS0V6aFN1Znk5Ny00b2RTX2RYY0ViVkpVa0RTNzl0TVlVRENpcVlaS1RqSXFwT3hKVGgteVlTYXJRU3FpWDMwaFB2WFgyUE05M1JrTUt2UnZVYV9IOF9rZ3hQeXFxQ3Z1WWhZSXZpc3hGTGNWSXFz?oc=5",
-     "source": "tctmd",
+     "source": "TCTMD",
      "published": "2026-09-04T16:22:15+00:00",
      "id": "f80b34ab4597"
-    },
-    {
-     "title": "Routine Protamine Reduces Minor Bleeding Compared With Selective Use: POPular ACE TAVI",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT0JGWnpCWTZ2MmpTNlVvZ3h5bldjV3BRZDBZVWw3RkxYVkFPM0NyTW1JSEdZbEY0RjB1VGdhV19fRzlWaXF4U1JWTjZad2FkNGRvcHZkRU1zaGxZU2tZSHN3bnhTNVpRZW5SelVvYndsNkdzUmRudlBTZThMa1U4dGpHNjluRWRhNVZhdkJIMzA4TXNScGxyeXV1U0dlX3lCamRzdy1OT3BWVjg?oc=5",
-     "source": "tctmd",
-     "published": "2026-09-03T20:59:49+00:00",
-     "id": "54774ad5cf3b"
-    },
-    {
-     "title": "Clinical Considerations for the Care of the Tactical Athlete With Cardiovascular Abnormalities: A Scientific Statement From the American College of Cardiology and the American Heart Association",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42693699/",
-     "source": "JACC",
-     "published": "2026-09-03T00:00:00+00:00",
-     "copete": "Dineen EH et al. · Journal of the American College of Cardiology",
-     "id": "75703c7b7545"
     },
     {
      "title": "Cardiovascular genetics: from mechanisms to clinical applications",
@@ -56,46 +80,6 @@
      "published": "2026-09-02T00:00:00+00:00",
      "copete": "For image description, please refer to the figure legend and surrounding text. For the podcast associated with this article, please visit https://academic.oup.com/eurheartj/pages/Podcasts .",
      "id": "38d89cb399db"
-    },
-    {
-     "title": "From Observation to Anticipation in a Changing Climate: Building a Climate-Cardiovascular Early Warning System",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42683968/",
-     "source": "JACC",
-     "published": "2026-09-01T00:00:00+00:00",
-     "copete": "Li T et al. · Journal of the American College of Cardiology",
-     "id": "c67fdcbe90b0"
-    },
-    {
-     "title": "Cold Spells, Heat Waves, and Nonoptimal Air Temperature and Risk of Heart Failure Hospitalization in Sweden",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42683967/",
-     "source": "JACC",
-     "published": "2026-09-01T00:00:00+00:00",
-     "copete": "Ni W et al. · Journal of the American College of Cardiology",
-     "id": "2d075d5ccc08"
-    },
-    {
-     "title": "Protocol-Based Implementation of Early Intensive Lipid Management After Acute Coronary Syndrome: The BRIDGE Trial",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42671370/",
-     "source": "JACC",
-     "published": "2026-08-31T00:00:00+00:00",
-     "copete": "Oyama K et al. · Journal of the American College of Cardiology",
-     "id": "dbfd1d410a99"
-    },
-    {
-     "title": "Timing of PCI in Patients Undergoing Transcatheter Aortic-Valve Implantation",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42670987/",
-     "source": "NEJM Cardiología",
-     "published": "2026-08-30T00:00:00+00:00",
-     "copete": "Stähli BE et al. · The New England journal of medicine",
-     "id": "f6c1df081c4c"
-    },
-    {
-     "title": "Pulmonary Denervation for Heart Failure-Related Pulmonary Hypertension",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42670986/",
-     "source": "NEJM Cardiología",
-     "published": "2026-08-30T00:00:00+00:00",
-     "copete": "Zhang H et al. · The New England journal of medicine",
-     "id": "048229cf621f"
     }
    ]
   },
@@ -105,11 +89,58 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Con un argentino, World Rugby confirmó las cinco leyendas que se unirán al Salón de la Fama",
-     "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNWlUzUTRiSHM3Q2JDZmlwNE81YmNJbmstN19ROXZpNER6NzgyYmtuLXdYbjBIN3dRTGlXOVhYN1lVbVNSaURyc0FFVzVvV3NYQl9rQ1AxX1N1OGdGZnVLR3V5anVCRUFpSmZSeTBvR1VBaWVfRVpNd1JmMDhGNkZwVmdBS3VJN09ncm1RZVQyakN6Ym9vc3ZTUkJDMF82NGNSdkFON2cxVWkxUTFYWmhkZEtVTm9nX1hhY3lWRk9qS1RnS2h4bFlWeEFRczliSmF3NDhYa1RoaDduYjVwbUxCcmlRWVFZRmR1UElJb2ppSVdhblRjWFdnWUQyU0JpYkNmWDVuVm1FYzlac1pVTi1yanJBa1VCbFhXS1JkMkEyYl9pbjN2NTE5cFhURm9SY1A4?oc=5",
+     "title": "El fixture de Los Pumas 7's y Las Yaguaretés en los Juegos Odesur",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPREY3d0E2V01Md1U1WGt3XzJnUW9YNnh1UkZRbjhHUC05TjhDVWVwc2F6NkEtclBySW5xcG5yeWlBTTlXNTVHU3pGaEluVTY0X1Naa0NWMmRGa003UmtoNmxzTURJOXl2amdvXzNXY1ptcXdfZ2FUeGdQOTlCLWdLZVdhM1hpbi1fMUVKd1V5MTRWaVdBaDQ2bVFpVlZkeE9ESGdOMkVFOFpKempYT3UzMUlzRXEwNDJfcFRDclI5VUNmVVZtLWc?oc=5",
+     "source": "ESPN Chile",
+     "published": "2026-09-09T16:07:30+00:00",
+     "id": "a3413c1edb55"
+    },
+    {
+     "title": "Van con todo: Los Pumas 7's y Las Yaguaretés confirmaron sus planteles para los Juegos Odesur",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTmwtamdkeGctLTNjS2JXZW1COFVQbzdhR01ZODl0WFp4b3lBR1o3cWhzMzJuS0NkTGkyY043MTBhWnpubEhHNE83dEx0eWl6R09DaHZVWTgzdXRaRnZRQ3puc3Nodk9KV0U5S0xrZG9HSjQ0Y3F5RjlpN3ZrTE9uaHJ5MkVnSEZYY0hzanJ1NHR5eXliTS10UGNRaTl6M3R6MnJZemVaU0NHaXpfb1gwdm1HcmxXQk9leURSVQ?oc=5",
      "source": "ESPN Argentina",
-     "published": "2026-09-09T10:31:00+00:00",
-     "id": "3d382760b616"
+     "published": "2026-09-09T15:42:00+00:00",
+     "id": "1244e39d42d0"
+    },
+    {
+     "title": "El marginado de River que está a detalles de arreglar su salida de Cantilo",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-fabricio-bustos-salida-cantilo-marginados_0_LcmaOKZImo.html",
+     "source": "Olé — River",
+     "published": "2026-09-09T15:38:00+00:00",
+     "copete": "Fabricio Bustos avanza en su desvinculación. De esta manera, quedaría Matías Viña como único borrado.",
+     "id": "4b8fd575d98b"
+    },
+    {
+     "title": "El dato que entusiasma a Ponzio y hace cuánto que no se repite en River",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-leonardo-ponzio-ultima-vez-repitio-equipo-veces_0_tGwblxN7TV.html",
+     "source": "Olé — River",
+     "published": "2026-09-09T14:11:00+00:00",
+     "copete": "Con el Clausura como única competencia en el calendario, el León aprovecha las semanas largas para buscar sostener una formación ganadora. ¿Repetirá en Tucumán?",
+     "id": "9e9879ec555e"
+    },
+    {
+     "title": "Los Pumas 7’s y Las Yaguaretés ya tienen sus planteles confirmados para los Juegos Odesur",
+     "link": "https://uar.com.ar/los-pumas-7s-y-las-yaguaretes-ya-tienen-sus-planteles-confirmados-para-los-juegos-odesur/",
+     "source": "UAR",
+     "published": "2026-09-09T13:27:48+00:00",
+     "copete": "Con la mira puesta en Rosario, sede del rugby en los Juegos Odesur Santa Fe 2026, los seleccionados argentinos de seven masculino y femenino ya tienen definidos a los planteles que representarán a Los Pumas 7’s y a Las Yaguaretés en la…",
+     "id": "cb27ac87330f"
+    },
+    {
+     "title": "Fue uno de los borrados de River y recibió otra mala noticia: \"No está en nuestros planes...\"",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-kendry-paez-marginado-frase-xabi-alonso-chelsea_0_8kKPrCm8yu.html",
+     "source": "Olé — River",
+     "published": "2026-09-09T12:56:37+00:00",
+     "copete": "El futbolista se fue del Millonario por la puerta de atrás y con los principales mercados cerrados su futuro es una incógnita.",
+     "id": "9b8c129e4b2f"
+    },
+    {
+     "title": "River, hoy EN VIVO: la vuelta a las prácticas, cómo está Moreno y últimas noticias del miércoles 9 de septiembre",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-vivo-miercoles-9-septiembre-ultimas-noticias_0_rIEXL0oRxJ.html",
+     "source": "Olé — River",
+     "published": "2026-09-09T12:30:00+00:00",
+     "copete": "El plantel de Leonardo Ponzio retoma los entrenamientos pensando en el duelo de este sábado ante Atlético Tucumán.",
+     "id": "bc4109f561b3"
     },
     {
      "title": "El River de los campeones del mundo arranca el Mundial",
@@ -118,76 +149,6 @@
      "published": "2026-09-09T10:00:03+00:00",
      "copete": "Ocho partidos lo separan del gran objetivo de volver a la Libertadores: ¿Cuántos puntos debe sacar?",
      "id": "d02d62213eac"
-    },
-    {
-     "title": "Correa, el Ángel de la recuperación futbolística de River",
-     "link": "https://www.ole.com.ar/river-plate/river-correa-estrella-ponzio-figura-clausura_0_n0asPOJJMf.html",
-     "source": "Olé — River",
-     "published": "2026-09-09T00:46:08+00:00",
-     "copete": "A pesar de no haber sido el refuerzo estrella, el #10 de River aportó el talento, el desequilibrio y la agresividad ofensiva que necesitaba el equipo.",
-     "id": "dea91e59903a"
-    },
-    {
-     "title": "Agónico empate de la Reserva ante Aldosivi para mantener la punta y el invicto",
-     "link": "https://www.ole.com.ar/river-plate/river-reserva-invicto-aldosivi-proyeccion_0_lnlxbtOc9q.html",
-     "source": "Olé — River",
-     "published": "2026-09-09T00:33:48+00:00",
-     "copete": "El equipo juvenil de River festejó el 2-2 en la última jugada del partido de este martes en el Camp porque sigue sin perder y en la cima del grupo A.",
-     "id": "8e658338de92"
-    },
-    {
-     "title": "¿Ponzio pone el mismo 11 por tercera vez?",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-leonardo-ponzio_0_NIeNVLkmvi.html",
-     "source": "Olé — River",
-     "published": "2026-09-08T23:48:48+00:00",
-     "copete": "Ponzio analiza el equipo en una visita de riesgo a Tucumán: a la espera de Aníbal Moreno, se prevé que otra vez repita el 11",
-     "id": "5dc642f6e86b"
-    },
-    {
-     "title": "Ángel Correa es un jugador de Play Station",
-     "link": "https://www.ole.com.ar/opinion/river-plate-angel-correa_0_0ho9IMXKZ6.html",
-     "source": "Olé — River",
-     "published": "2026-09-08T23:29:47+00:00",
-     "copete": "Todo parece posible cuando Angelito está en su prime: desde que llegó a River ha sido un jugador distinto.",
-     "id": "6f403417d94f"
-    },
-    {
-     "title": "La intimidad de los primeros días de trabajo de Insua en San Lorenzo",
-     "link": "https://www.ole.com.ar/san-lorenzo/san-lorenzo-insua-ciclo-entrenador-primeros-dias-detalles-intimidad-cambio-esquema-equipo_0_n3IX8q2NVa.html",
-     "source": "Olé — Primera",
-     "published": "2026-09-08T23:18:01+00:00",
-     "copete": "El Gallego metió jornadas de larga duración en sus dos primeros días. Las primeras conclusiones, qué busca mejorar en lo inmediato y el cambio táctico que se viene...",
-     "id": "2f9ef0a17786"
-    },
-    {
-     "title": "Gariano vuelve a dirigir a River tras no cobrarle el penal a Correa vs. Tigre",
-     "link": "https://www.ole.com.ar/river-plate/river-arbitro-penal-correa-tigre-gariano-polemica-atletico-tucuman_0_qNNL6xmnmK.html",
-     "source": "Olé — Primera",
-     "published": "2026-09-08T22:33:26+00:00",
-     "copete": "Andrés Gariano será el árbitro en la visita de River ante Atlético Tucumán. Y su designación reflota el recuerdo del error de este juez en Victoria.",
-     "id": "4e5ad42b2ea6"
-    },
-    {
-     "title": "\"Somos los que estamos\": el mensaje del plantel de Independiente tras el desmantelamiento",
-     "link": "https://www.ole.com.ar/independiente/independiente-centralcordoba-gustavoquinteros-jadsonviera_0_oF8p9na69D.html",
-     "source": "Olé — Primera",
-     "published": "2026-09-08T22:09:05+00:00",
-     "copete": "Los jugadores del Rojo cerraron filas luego de una dura semana y se unieron para afrontar la recta final del Torneo Clausura. Mirá.",
-     "id": "bf249701ad67"
-    },
-    {
-     "title": "Video: el emotivo recibimiento a Mateo Soler tras su debut en Los Pumas",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ1M0cFY2Q1dsenJ0NnlHX0xUVVdrOU94SmlCRHRPZUV1ZG1fUFNPdS00bndXUVRiQTRSbTVDajBPRjByTW10Ny1oUGVvaDg5X1I2bWEtSUpVcENmYjJLY3JJaXpuZ1BvbnAzSjAzWG1fZVRRbXpabWtGdFU3ZEhYN0FoaWFRcXFFY0ZZVUVNcnNVRWhVNEHSAZsBQVVfeXFMTzdYZG92MHRlZUNOWjBBZkNJbTlrRFUyQlZNZ3MtNTlsMXhwb1UtYW83M2JiU29xUmhsVE4xNzE1UGpNN3o1UzNFZ1FzMEVrY0RGWVNtOHZhZGh5YVEtM1Eyakk1c0xyVXZJdUpYUEUzRlotT2xnQXVuczBxbDk2OTJia3VCWW5PS3prdEJ6NDhGdjc0anJlRmFacGM?oc=5",
-     "source": "Olé",
-     "published": "2026-09-08T21:38:21+00:00",
-     "id": "2b70955f5386"
-    },
-    {
-     "title": "\"Llegó para quedarse\": qué jugador de Los Pumas ganó protagonismo luego de la serie ante Sudáfrica y Australia",
-     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOX0I0SXVoMlprVU9USlE0RExGRmNCZF9xSGNoQ1VWU1FkU2hqMHNfRkd2MjhxbDNYR0c0MWgxV2pOSjRQeF83SUxTb1JHSFA5M0diS1cyWHgwcEVCUzFzblBlY2VLcktJVi16UnViNWVhNXBKOXRwR09GdmxsRUhzb0ZDdk5jYVBiZWFnZkhUemFxaGRLZW1CQkFhMW5wM3Jhdi0xbnpMd1BzVGY1MldGeHhSS0ZDbVM3d01zOUtyQUVHRTRaQTE5cl9CRjFIZ2REbWJKWDliVl9Rd2VVZm1DWHFtWHg0ZE5JZVU4NHFwNGRVeUxGM3ZRQ2FSSGdPeTM1Rzg3dFR5NA?oc=5",
-     "source": "ESPN Ecuador",
-     "published": "2026-09-08T21:22:30+00:00",
-     "id": "3c9ea7f59a63"
     },
     {
      "title": "Argentina XV cayó ante Chile en la definición del Américas Rugby Championship",
@@ -205,6 +166,67 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Getting started with dbt",
+     "link": "https://towardsdatascience.com/getting-started-with-dbt/",
+     "source": "Towards Data Science",
+     "published": "2026-09-09T15:30:01+00:00",
+     "copete": "A practical guide to building, testing, and documenting SQL transformations The post Getting started with dbt appeared first on Towards Data Science .",
+     "id": "bd26d7de7a9c"
+    },
+    {
+     "title": "Build an AI Data Analyst That Thinks Like a Senior Analyst",
+     "link": "https://www.kdnuggets.com/build-an-ai-data-analyst-that-thinks-like-a-senior-analyst",
+     "source": "KDnuggets",
+     "published": "2026-09-09T14:00:50+00:00",
+     "copete": "A six-stage pipeline that checks its numbers before calling anything an answer.",
+     "id": "da4ea584a0d7"
+    },
+    {
+     "title": "The Symmetry That Breaks Neural Network Averaging",
+     "link": "https://towardsdatascience.com/the-symmetry-that-breaks-neural-network-averaging/",
+     "source": "Towards Data Science",
+     "published": "2026-09-09T14:00:02+00:00",
+     "copete": "Understanding permutation symmetry in deep learning, and what it means for weight averaging and model merging The post The Symmetry That Breaks Neural Network Averaging appeared first on Towards Data Science .",
+     "id": "bea4e625dc78"
+    },
+    {
+     "title": "Tailwind Labs is joining Shopify",
+     "link": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-09-09T13:27:11+00:00",
+     "id": "8ef59f4ca466"
+    },
+    {
+     "title": "When One Process Becomes Too Much: Splitting a Pipeline into MCP Services",
+     "link": "https://towardsdatascience.com/when-one-process-becomes-too-much-splitting-a-pipeline-into-mcp-services/",
+     "source": "Towards Data Science",
+     "published": "2026-09-09T12:30:02+00:00",
+     "copete": "How we split a tightly coupled Python pipeline into independently deployable services The post When One Process Becomes Too Much: Splitting a Pipeline into MCP Services appeared first on Towards Data Science .",
+     "id": "5bbf6ba19bc7"
+    },
+    {
+     "title": "7 Approaches to Efficient LLM Training on Limited Hardware",
+     "link": "https://www.kdnuggets.com/7-approaches-to-efficient-llm-training-on-limited-hardware",
+     "source": "KDnuggets",
+     "published": "2026-09-09T12:00:50+00:00",
+     "copete": "Learn seven engineering techniques to train large language models on consumer GPUs without running out of memory.",
+     "id": "fcbfcc498ef6"
+    },
+    {
+     "title": "I advertise malicious software on Google Ads",
+     "link": "https://xlii.space/eng/malicious-software-on-google-ads/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-09-09T11:43:21+00:00",
+     "id": "b1b1b45912eb"
+    },
+    {
+     "title": "Desert Ant Labs: local, fast models that run on device",
+     "link": "https://desertant.com/blog/introducing-desert-ant-labs/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-09-09T11:39:46+00:00",
+     "id": "3a4d107cf67f"
+    },
+    {
      "title": "Should I make the move from data science to product owner",
      "link": "https://www.reddit.com/r/datascience/comments/1wbiy5p/should_i_make_the_move_from_data_science_to/",
      "source": "r/datascience",
@@ -212,72 +234,11 @@
      "id": "0aa70117a76f"
     },
     {
-     "title": "10 Statistical Traps We Often Overlook",
-     "link": "https://towardsdatascience.com/10-statistical-traps-we-often-overlook/",
-     "source": "Towards Data Science",
-     "published": "2026-09-09T11:00:02+00:00",
-     "copete": "Statistical thinking beyond formulas The post 10 Statistical Traps We Often Overlook appeared first on Towards Data Science .",
-     "id": "ea6e6cf35dc0"
-    },
-    {
-     "title": "“Tweet” and the bird logo apparently enter the public domain",
-     "link": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
+     "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+     "link": "https://news.ycombinator.com/item?id=49624603",
      "source": "Hacker News (100+ puntos)",
-     "published": "2026-09-09T06:02:07+00:00",
-     "id": "7ecadce2fe16"
-    },
-    {
-     "title": "Quoting Terence Tao",
-     "link": "https://simonwillison.net/2026/Sep/9/terence-tao/",
-     "source": "Simon Willison (IA)",
-     "published": "2026-09-09T00:20:17+00:00",
-     "copete": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce. [...] We have now seen that even the rumor of…",
-     "id": "e4e4ee3b55ca"
-    },
-    {
-     "title": "On the Navier–Stokes Millennium Prize Problem",
-     "link": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
-     "source": "Simon Willison (IA)",
-     "published": "2026-09-08T23:55:12+00:00",
-     "copete": "On the Navier–Stokes Millennium Prize Problem Impressive result from OpenAI, who used an unreleased model to produce a resolution to the Navier–Stokes existence and smoothness problem , one of the seven Millennium Prize Problems that have…",
-     "id": "5a4baff754f8"
-    },
-    {
-     "title": "Introducing ChatGPT Images 2.5",
-     "link": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
-     "source": "Simon Willison (IA)",
-     "published": "2026-09-08T22:46:33+00:00",
-     "copete": "Introducing ChatGPT Images 2.5 OpenAI's image generation models are apparently used \"more than 3 billion images across ChatGPT Images and the GPT‑Image models in the API\". This latest release improves their instruction-following ability…",
-     "id": "756e8711be7c"
-    },
-    {
-     "title": "A Topological Picture Book, Rendered",
-     "link": "https://e-infinity.space/picture-book/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-09-08T22:28:14+00:00",
-     "id": "a01aa439069f"
-    },
-    {
-     "title": "Large language models develop novel social biases through adaptive exploration",
-     "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-09-08T21:47:38+00:00",
-     "id": "ecaca716c338"
-    },
-    {
-     "title": "How to build a printer",
-     "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-09-08T21:22:11+00:00",
-     "id": "3f7faa570ce6"
-    },
-    {
-     "title": "How to Maximize GPT-6 Astra",
-     "link": "https://towardsdatascience.com/how-to-maximize-gpt-6-astra/",
-     "source": "Towards Data Science",
-     "published": "2026-09-08T18:00:35+00:00",
-     "copete": "My first impressions of OpenAI's new frontier model The post How to Maximize GPT-6 Astra appeared first on Towards Data Science .",
-     "id": "d391b5a2844c"
+     "published": "2026-09-09T11:19:26+00:00",
+     "id": "ba08af0c3b2d"
     }
    ]
   },
@@ -287,100 +248,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "El Vaticano reunirá a sindicatos, empresas y movimientos populares en una nueva cumbre con León XIV",
-     "link": "https://www.infobae.com/politica/2026/09/09/el-vaticano-reunira-a-sindicatos-empresas-y-movimientos-populares-en-una-nueva-cumbre-con-leon-xiv/",
+     "title": "El riesgo oculto detrás del trend de los años 80 en ChatGPT: Lo que jamás se debe mostrar en la foto",
+     "link": "https://www.infobae.com/tecno/2026/09/09/el-riesgo-oculto-detras-del-trend-de-los-anos-80-en-chatgpt-lo-que-jamas-se-debe-mostrar-en-la-foto/",
      "source": "Infobae",
-     "published": "2026-09-09T11:28:16+00:00",
-     "copete": "La convocatoria se realizará del 10 al 12 de septiembre en Roma y prevé debates Norte-Sur sobre inteligencia artificial, empleo, cuidados, adicciones, transición energética y protección de los territorios, con participación de organismos…",
-     "id": "901ec484ae2a"
+     "published": "2026-09-09T16:41:14+00:00",
+     "copete": "Antes de utilizar la herramienta conviene revisar fachadas, espejos, ventanas, escritorios y objetos secundarios capaces de identificar ubicaciones, personas, empresas o actividades cotidianas",
+     "id": "3f0055949037"
     },
     {
-     "title": "Epilepsia en América Latina: los avances que permiten tratamientos más precisos y por qué el diagnóstico temprano resulta determinante",
-     "link": "https://www.infobae.com/salud/ciencia/2026/09/09/epilepsia-los-avances-que-permiten-tratamientos-mas-precisos-y-por-que-el-diagnostico-temprano-resulta-determinante-para-los-pacientes/",
+     "title": "Vino de Nueva York para termiar su tesis, abrió un bar donde le devolvían platos picantes y hoy se los piden en su nuevo restaurante de Recoleta: “La gastronomía argentina evolucionó muy rápido”",
+     "link": "https://www.lanacion.com.ar/que-sale/iggy-james-cocinero-neoyorquino-que-abrio-un-bar-de-verano-y-un-restaurante-en-buenos-aires-la-nid08092026/",
+     "source": "La Nación",
+     "published": "2026-09-09T16:40:44+00:00",
+     "copete": "El gastronómico reconstruye el camino que lo llevó de estudiar economía política a abrir Dimi y Ámbar, explica cómo diseñó una carta entre Francia y la Argentina y analiza la evolución del paladar porteño",
+     "id": "7ea0d63f86f4"
+    },
+    {
+     "title": "“Nunca había tenido ansiedad en mi vida”: Gwyneth Paltrow habló de los episodios que comenzaron con los cambios hormonales",
+     "link": "https://www.infobae.com/entretenimiento/2026/09/09/nunca-habia-tenido-ansiedad-en-mi-vida-gwyneth-paltrow-hablo-de-los-episodios-que-comenzaron-con-los-cambios-hormonales/",
      "source": "Infobae",
-     "published": "2026-09-09T11:25:34+00:00",
-     "copete": "Detectarla a tiempo mejora la calidad de vida, ayuda a controlar episodios y reduce secuelas cognitivas, emocionales y familiares, según remarcan neurólogos de la región",
-     "id": "bc061c579b89"
+     "published": "2026-09-09T16:38:16+00:00",
+     "copete": "En una charla con el pódcast Friends Keep Secrets, la actriz contó que comenzó a experimentar episodios durante el último año y explicó cómo intenta controlarlos con meditación y ejercicios de respiración",
+     "id": "c9fd41eca4e1"
     },
     {
-     "title": "Noticias del Uscis: validez del permiso de trabajo EAD para salvadoreños y el TPS al 9 de septiembre",
-     "link": "https://www.lanacion.com.ar/estados-unidos/migraciones/noticias-del-uscis-validez-del-permiso-de-trabajo-ead-para-salvadorenos-y-el-tps-al-9-de-septiembre-nid08092026/",
-     "source": "La Nación",
-     "published": "2026-09-09T11:25:33+00:00",
-     "copete": "El Uscis recordó que la extensión temporal de los permisos de trabajo (EAD) para beneficiarios salvadoreños del TPS vence el 9 de septiembre. Conoce quiénes mantienen la autorización para trabajar, qué indica el comunicado oficial y cuáles…",
-     "id": "3d1eef74f2a1"
-    },
-    {
-     "title": "De qué murió Chiche Gelblung",
-     "link": "https://www.lanacion.com.ar/espectaculos/de-que-murio-chiche-gelblung-nid09092026/",
-     "source": "La Nación",
-     "published": "2026-09-09T11:24:59+00:00",
-     "copete": "El periodista falleció a los 82 años; estaba internado en el sanatorio Los Arcos; la noticia se confirmó este miércoles",
-     "id": "9e633941ab9a"
-    },
-    {
-     "title": "Murió Chiche Gelblung, el periodista que soñaba con viajar a la luna y vivir 200 años",
-     "link": "https://www.infobae.com/teleshow/2026/09/09/murio-chiche-gelblung-el-periodista-que-sonaba-con-viajar-a-la-luna-y-vivir-200-anos/",
+     "title": "La oposición forzó al oficialismo en Diputados a tratar los proyectos de morosidad y discapacidad",
+     "link": "https://www.infobae.com/politica/2026/09/09/la-oposicion-forzo-al-oficialismo-en-diputados-a-tratar-los-proyectos-de-morosidad-y-discapacidad/",
      "source": "Infobae",
-     "published": "2026-09-09T11:24:49+00:00",
-     "copete": "Polémico, brillante y disruptivo, se destacó en gráfica, radio y televisión. Su dura infancia, su gran amor por Cristina Seoane y su trayectoria profesional. A los 82 años, se fue un grande del periodismo",
-     "id": "21e21fd93370"
+     "published": "2026-09-09T16:38:06+00:00",
+     "copete": "La solicitud impulsada por Juan Marino reunió 249 adhesiones y ningún rechazo, luego de que no prosperara la habilitación para abordar la extensión de la emergencia sin despacho previo en comisiones",
+     "id": "0b96ffb3e8cd"
     },
     {
-     "title": "Estatus de la calidad del aire en Coquimbo este 9 de septiembre de 2026",
-     "link": "https://www.infobae.com/noticias/2026/09/09/estatus-de-la-calidad-del-aire-en-coquimbo-este-9-de-septiembre-de-2026/",
+     "title": "Murió Chiche Gelblung, EN VIVO: reacciones y mensajes de despedida al histórico periodista y conductor",
+     "link": "https://www.lanacion.com.ar/espectaculos/murio-chiche-gelblung-en-vivo-reacciones-y-mensajes-de-despedida-al-historico-periodista-y-conductor-nid09092026/",
+     "source": "La Nación",
+     "published": "2026-09-09T16:37:42+00:00",
+     "copete": "El emblemático cronista y escritor falleció este miércoles a los 82 años tras permanecer internado varios días en terapia intensiva",
+     "id": "2ad7cc847f50"
+    },
+    {
+     "title": "Cómo frenar la humedad de cimientos sin obras costosas ni consumo eléctrico",
+     "link": "https://www.infobae.com/sociedad/2026/09/09/como-frenar-la-humedad-de-cimientos-sin-obras-costosas-ni-consumo-electrico/",
      "source": "Infobae",
-     "published": "2026-09-09T11:24:23+00:00",
-     "copete": "Estas son algunas sugerencias a considerar para el estado actual de la calidad del aire",
-     "id": "b9e403b386d7"
+     "published": "2026-09-09T16:37:37+00:00",
+     "copete": "Un nuevo sistema suizo que revierte la humedad ascendente que suele generar daños y manchas en zócalos y paredes ya se puede conseguir en la Argentina",
+     "id": "de8e8a6b2729"
     },
     {
-     "title": "Estatus de la calidad del aire en Romeral este 9 de septiembre de 2026",
-     "link": "https://www.infobae.com/noticias/2026/09/09/estatus-de-la-calidad-del-aire-en-romeral-este-9-de-septiembre-de-2026/",
+     "title": "Hígado graso: cuál es la dieta más eficaz para tratarlo y el endulzante que hay que evitar",
+     "link": "https://www.lanacion.com.ar/sociedad/higado-graso-cual-es-la-dieta-mas-eficaz-para-tratarlo-y-el-endulzante-que-hay-que-evitar-nid07092026/",
+     "source": "La Nación",
+     "published": "2026-09-09T16:37:24+00:00",
+     "copete": "Cuenta con antioxidantes, fibras, cereales, omega 3 y es baja en azúcares; por otro lado, Jorge Tartaglione detalló en LN+ que esta afección silenciosa, además de una dieta balanceada, requiere un seguimiento médico cuidadoso; los riesgos…",
+     "id": "86b44a6c58a2"
+    },
+    {
+     "title": "Los psiquiatras coinciden: la clave de la vida es aprender a establecer límites y renunciar sin culpa a mandatos permanentes",
+     "link": "https://www.lanacion.com.ar/sociedad/marian-rojas-estape-psiquiatra-espanola-y-su-frase-sobre-el-autocuidado-la-clave-de-la-vida-es-nid04092026/",
+     "source": "La Nación",
+     "published": "2026-09-09T16:37:20+00:00",
+     "copete": "La española Marian Rojas Estapé reflexionó sobre la dificultad para aceptar que no siempre es posible responder a todas las exigencias; cómo elegir qué necesita mayor atención en cada etapa",
+     "id": "5103f913c953"
+    },
+    {
+     "title": "Jorge Tartaglione, médico, sobre el uso del microondas: “Hay que tratar de no meter cosas de plástico porque tienen microplásticos que impactan en nuestro organismo”",
+     "link": "https://www.lanacion.com.ar/sociedad/jorge-tartaglione-medico-sobre-el-uso-del-microondas-hay-que-tratar-de-no-meter-cosas-de-plastico-nid07092026/",
+     "source": "La Nación",
+     "published": "2026-09-09T16:37:16+00:00",
+     "copete": "El especialista explicó en LN+ cuál es el recipiente más adecuado para calentar alimentos; qué dijo sobre los productos identificados como aptos para microondas",
+     "id": "44b000b5d816"
+    },
+    {
+     "title": "La broma de Ángel Di María tras la expectativa sobre su futuro que generó su conferencia de prensa: “Me quieren retirar”",
+     "link": "https://www.infobae.com/deportes/2026/09/09/expectativa-en-rosario-central-por-la-conferencia-que-brindara-angel-di-maria-tras-el-clasico/",
      "source": "Infobae",
-     "published": "2026-09-09T11:24:07+00:00",
-     "copete": "El Sistema de Información Nacional de Calidad del Aire (Sinca) contempla cinco fases: bueno, regular, alerta, pre-emergencia y emergencia",
-     "id": "df8e087393d1"
+     "published": "2026-09-09T16:34:21+00:00",
+     "copete": "El Fideo aseguró que seguirá jugando más tiempo en el Canalla pese a los rumores de su continuidad",
+     "id": "1f22d1bd7fa2"
     },
     {
-     "title": "Murió Chiche Gelblung a los 82 años: el periodista se encontraba en terapia intensiva",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/murio-chiche-gelblung-a-los-82-anos-se-encontraba-en-terapia-intensiva-nid09092026/",
-     "source": "La Nación",
-     "published": "2026-09-09T11:23:35+00:00",
-     "copete": "Estaba internado en el sanatorio Los Arcos de Palermo Chico por problemas respiratorios desde comienzos de esta semana",
-     "id": "2a70e9c61924"
-    },
-    {
-     "title": "Adiós al sueño americano: “Ya no quiero vivir en Estados Unidos, prefiero pedir asilo en Europa y llevarme a toda mi familia”",
-     "link": "https://www.lanacion.com.ar/estados-unidos/adios-al-sueno-americano-yo-ya-no-quiero-vivir-en-ee-uu-prefiero-pedir-asilo-en-europa-y-llevarme-a-nid08092026/",
-     "source": "La Nación",
-     "published": "2026-09-09T11:21:37+00:00",
-     "copete": "Adiós al sueño americano: un venezolano deportado a Liberia asegura que buscará asilo en Europa tras meses bajo custodia en Estados Unidos.",
-     "id": "56ec9e1d238c"
-    },
-    {
-     "title": "Murió Chiche Gelblung, un periodista que siempre caminó por la cornisa",
-     "link": "https://www.lanacion.com.ar/espectaculos/personajes/murio-chiche-gelblung-un-periodista-que-siempre-camino-por-la-cornisa-nid09092026/",
-     "source": "La Nación",
-     "published": "2026-09-09T11:21:32+00:00",
-     "copete": "Llevó a la TV y la radio la impronta que lo había catapultado a la fama en gráfica, en títulos como Gente y La Semana, donde fue cronista, corresponsal de guerra y luego director; no había tema, por pueril o insólito que fuera, que no…",
-     "id": "de18a4a3c9c1"
-    },
-    {
-     "title": "Egipto prevé construir un centro de datos de IA de 1.000 millones de dólares con Nvidia",
-     "link": "https://www.clarin.com/estados-unidos/egipto-preve-construir-un-centro-de-datos-de-ia-de-1-000-millones-de-dolares-con-nvidia_0_fJCYEVpwww.html",
+     "title": "Buscan voluntarios para vivir gratis en California por cuatro meses: ofrecen alojamiento y solo 30 horas de trabajo por semana",
+     "link": "https://www.clarin.com/estados-unidos/buscan-voluntarios-vivir-gratis-california-meses-ofrecen-alojamiento-solo-30-horas-trabajo-semana_0_NuOwANFpU0.html",
      "source": "Clarín",
-     "published": "2026-09-09T11:00:13+00:00",
-     "copete": "Egipto planea su primer centro de datos de IA con una inversión de 1.000 millones, usando tecnología de un líder mundial en procesadores gráficos. La iniciativa busca posicionar al país como un eje regional de infraestructura digital, en…",
-     "id": "b47717a27da6"
+     "published": "2026-09-09T16:33:47+00:00",
+     "copete": "La propuesta incluye contacto con turistas, charlas sobre un lugar histórico y el alojamiento gratis en un departamento a pocos minutos a pie.",
+     "id": "0d75b8eb3a01"
     },
     {
-     "title": "Pensar proyectos antes de el mercado quiera crear demanda",
-     "link": "https://www.clarin.com/arq/inmobiliario/pensar-proyectos-mercado-quiera-crear-demanda_0_jPPxZRL7iq.html",
+     "title": "EEUU registra en 2026 su verano más caluroso hasta ahora",
+     "link": "https://www.clarin.com/estados-unidos/eeuu-registra-en-2026-su-verano-mas-caluroso-hasta-ahora_0_0IrNmgDowZ.html",
      "source": "Clarín",
-     "published": "2026-09-09T11:00:03+00:00",
-     "copete": "Si bien hay tendencias globales, a la hora de desarrollar importan los contextos locales. En el real estate, el verdadero desafío no es seguir la demanda, es animarse a crearla.",
-     "id": "e219c4c82fe3"
+     "published": "2026-09-09T16:30:24+00:00",
+     "copete": "El territorio continental de EE.UU. vivió su verano más cálido registrado, con un promedio de 23,6°C, superando marcas de 1936 y 2021. Este fenómeno se vincula al cambio climático causado por actividades humanas, destacándose la quema de…",
+     "id": "0cdac473d708"
     }
    ]
   },
@@ -390,84 +351,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
-     "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
+     "title": "Mother demands answers, weeks after black woman found hanging from Mississippi tree",
+     "link": "https://www.bbc.co.uk/news/articles/ckgwydke178o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-09-09T11:29:59+00:00",
-     "copete": "The International Atomic Energy Agency's says the facility is cause for \"serious concern\".",
-     "id": "6a16f3a532c9"
+     "published": "2026-09-09T16:33:49+00:00",
+     "copete": "Her demands for information about what happened to Tasia Fortune have been echoed by shocked locals.",
+     "id": "12871f4d78ce"
     },
     {
-     "title": "EE UU e Irán intercambian ataques aéreos contra barcos en el estrecho de Ormuz en una de las mayores escaladas de la guerra",
-     "link": "https://elpais.com/internacional/2026-09-09/estados-unidos-asegura-haber-destruido-cinco-petroleros-iranies.html",
-     "source": "El País Internacional",
-     "published": "2026-09-09T11:11:50+00:00",
-     "copete": "El mando estadounidense afirma que ha hundido cinco cargueros iraníes. Teherán responde con bombardeos a bases estadounidenses en Jordania",
-     "id": "ea32a5b85302"
+     "title": "Europe's royalty pay respects to King Harald V in Norway",
+     "link": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-09-09T16:30:28+00:00",
+     "copete": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
+     "id": "bdf4e5874f44"
     },
     {
-     "title": "Cómo Scarlett y Fabiana lograron celebrar el primer matrimonio homosexual en Bolivia, un país donde no está legalizado",
-     "link": "https://www.bbc.com/mundo/articles/ckgwdekl698o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-09T11:06:38+00:00",
-     "copete": "Tardaron 4 años en poder casarse, aunque el matrimonio entre personas del mismo sexo no ha sido legalizado en Bolivia.",
-     "id": "85eeecdcbebb"
-    },
-    {
-     "title": "Russia and Ukraine exchange strikes as two killed at Moldova border",
+     "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
      "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-09-09T10:59:18+00:00",
-     "copete": "Meanwhile, four people, including a child, were killed in the southern Russian city of Novorossiysk.",
+     "published": "2026-09-09T16:01:54+00:00",
+     "copete": "Three deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
      "id": "54e80567fdca"
     },
     {
-     "title": "Los misteriosos bosques de manglar capturados en 13 impactantes imágenes",
-     "link": "https://www.bbc.com/mundo/articles/c4g7987x2reo?at_medium=RSS&at_campaign=rss",
+     "title": "La responsabilidad política de Netanyahu en los ataques de Hamás centra el debate preelectoral en Israel",
+     "link": "https://elpais.com/internacional/2026-09-09/la-responsabilidad-politica-de-netanyahu-en-el-ataque-de-hamas-centra-el-debate-preelectoral-en-israel.html",
+     "source": "El País Internacional",
+     "published": "2026-09-09T16:00:58+00:00",
+     "copete": "El aviso emiratí sobre los inminentes atentados, desvelado el martes por ‘Haaretz’, sacude la política israelí a un mes de las elecciones. La oposición reprocha al primer ministro haber ignorado las advertencias",
+     "id": "ffc7a116e40f"
+    },
+    {
+     "title": "25 años del 11-S: la agonía de los familiares de las víctimas de los peores atentados de la historia de EE.UU.",
+     "link": "https://www.bbc.com/mundo/articles/c1mvpng28epo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-09-09T10:31:58+00:00",
-     "copete": "Árboles misteriosos, tigres al acecho y comportamientos de caza poco comunes de los delfines han sido algunos de los temas destacados en los Mangrove Photography Awards (Premios de Fotografía de Manglares) 2026.",
-     "id": "d11295e63647"
+     "published": "2026-09-09T15:33:32+00:00",
+     "copete": "A medida que se acerca el 25 aniversario de los ataques del 11 de septiembre de 2001, continúa la espera para que el presunto autor intelectual de los atentados sea llevado ante la justicia.",
+     "id": "4b0395541f94"
     },
     {
-     "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
-     "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-09-09T10:20:40+00:00",
-     "copete": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
-     "id": "0e9b96493399"
+     "title": "Merz acusa a la extrema derecha de querer llevar a cabo “una limpieza étnica” en Alemania",
+     "link": "https://elpais.com/internacional/2026-09-09/merz-acusa-a-la-extrema-derecha-de-querer-llevar-a-cabo-una-limpieza-etnica-en-alemania.html",
+     "source": "El País Internacional",
+     "published": "2026-09-09T15:25:40+00:00",
+     "copete": "La líder de AfD, Alice Weidel, exige en el Bundestag la deportación inmediata de “más de un millón de refugiados”",
+     "id": "d3f9ce16857c"
     },
     {
-     "title": "Family of killed teen call for death penalty in D4vd trial",
-     "link": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-09-09T09:58:48+00:00",
-     "copete": "The parents of Celeste Rivas Hernandez say execution \"would be perfect\" if D4vd is found guilty.",
-     "id": "4e1570963746"
-    },
-    {
-     "title": "4 ejercicios que ayudan a fortalecer las muñecas, una de las articulaciones más afectadas por la vida moderna",
-     "link": "https://www.bbc.com/mundo/articles/cn8m1erdd5do?at_medium=RSS&at_campaign=rss",
+     "title": "\"Una fuerza destructiva\": el duro ataque del canciller Merz a AfD tras la primera gran victoria electoral del partido de ultraderecha en Alemania",
+     "link": "https://www.bbc.com/mundo/articles/cy0zq18n2k1o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-09-09T09:50:03+00:00",
-     "copete": "Desde teclear hasta sostener una taza de café, unas muñecas funcionales son esenciales para la vida cotidiana.",
-     "id": "6874f99b61c8"
+     "published": "2026-09-09T15:09:30+00:00",
+     "copete": "El cancillar alemán se enfrentó a la líder de la AfD, Alice Weidel, afirmando que su política migratoria equivale a una \"limpieza étnica\" de trabajadores cualificados.",
+     "id": "59d47ec38ff5"
     },
     {
-     "title": "Trump regaló más de 38.000 euros en efectivo a Natalie Harp y a dos colaboradoras más",
+     "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+     "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-09-09T15:01:58+00:00",
+     "copete": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
+     "id": "70549b4c0290"
+    },
+    {
+     "title": "Trump entregó 116.000 euros en efectivo a tres de sus más cercanas asesoras, entre ellas Natalie Harp",
      "link": "https://elpais.com/internacional/2026-09-09/trump-regalo-mas-de-38000-euros-en-efectivo-a-natalie-harp-y-a-dos-colaboradoras-mas.html",
      "source": "El País Internacional",
-     "published": "2026-09-09T08:23:50+00:00",
-     "copete": "La ley federal prohíbe remuneraciones complementarias al salario de empleados públicos. La Casa Blanca asegura que el presidente republicano tiene costumbre de hacer ese tipo de obsequios en Navidad",
+     "published": "2026-09-09T13:33:55+00:00",
+     "copete": "La ley prohíbe remuneraciones complementarias a los empleados públicos, pero la Casa Blanca se escuda en la supuesta costumbre del republicano de hacer ese tipo de obsequios en Navidad",
      "id": "a51a04f083dc"
     },
     {
-     "title": "\"¿Qué haces cuando los colonos empiezan a disparar contra tus hijos?\": la preocupación de padres palestinos por el aumento de los ataques a escuelas",
-     "link": "https://www.bbc.com/mundo/articles/c07ld7zd092o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-09T04:03:45+00:00",
-     "copete": "Seis personas, entre ellas tres alumnos de la escuela, han muerto este año en al Mughayyir, en medio de una oleada de violencia de los colonos contra los palestinos.",
-     "id": "856b3ada850a"
+     "title": "El presidente de Serbia convoca elecciones anticipadas forzado por casi dos años de protestas estudiantiles",
+     "link": "https://elpais.com/internacional/2026-09-09/el-presidente-de-serbia-convoca-elecciones-anticipadas-tras-casi-dos-anos-de-protestas-estudiantiles.html",
+     "source": "El País Internacional",
+     "published": "2026-09-09T12:00:52+00:00",
+     "copete": "Aleksandar Vucic disuelve el Parlamento y se postula a los comicios, previstos para el 25 de octubre, como aspirante a primer ministro. Los universitarios, en las calles desde el derrumbe de la estación de Novi Sad, ultiman su lista de…",
+     "id": "e7426f314f0c"
     }
    ]
   }
@@ -481,6 +442,11 @@
   {
    "section": "cardiologia",
    "feed": "Circulation (PubMed)",
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "cardiologia",
+   "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   }
  ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T22:05:35Z",
+  "generated_at": "2026-09-09T10:04:05Z",
   "summaries": {
     "38d89cb399db": {
       "resumen": "Artículo del European Heart Journal (Revista Europea del Corazón) que revisa cómo los hallazgos de genética cardiovascular se están trasladando a la práctica clínica, desde la identificación de variantes de riesgo hasta la medicina de precisión en cardiología. Útil para entender hacia dónde va el diagnóstico genético en enfermedad cardiovascular.",
@@ -49,18 +49,6 @@
       "destacado": false,
       "analisis": "Diseño: ensayo clínico (POPular ACE TAVI), presumiblemente aleatorizado, que compara dos estrategias de manejo de la reversión de heparina; el título no especifica cegamiento, número de centros ni de pacientes.\nPoblación: pacientes sometidos a implante percutáneo de válvula aórtica (TAVI, transcatheter aortic valve implantation).\nIntervención: administración rutinaria de protamina post-procedimiento versus uso selectivo (solo ante sangrado o indicación puntual).\nResultados: el título indica que la estrategia rutinaria \"reduce el sangrado menor\" comparada con el uso selectivo; no hay cifras de incidencia, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: el desenlace destacado en el título es sangrado menor, de menor relevancia clínica que el sangrado mayor o los eventos vasculares; sin el abstract no se puede evaluar el efecto sobre estos desenlaces más duros.\nMensaje: podría respaldar la reversión rutinaria de heparina con protamina tras el TAVI para reducir complicaciones hemorrágicas menores, aunque el impacto en sangrado mayor y eventos clínicos relevantes queda por confirmar.\nNota: análisis sin acceso al abstract."
     },
-    "bee62d297216": {
-      "resumen": "Meta presenta Muse, su agente de inteligencia artificial (IA) personal, con sus funciones y capacidades. Le sirve a un médico que aprende análisis de datos para entender hacia dónde avanzan los asistentes de IA de las grandes tecnológicas: de responder preguntas sueltas a ejecutar tareas completas de forma autónoma en nombre del usuario.",
-      "destacado": false
-    },
-    "1be89b22ecb5": {
-      "resumen": "OpenAI presenta ChatGPT Images 2.5, una nueva versión de su modelo de generación de imágenes. Es útil para quien está incorporando herramientas de inteligencia artificial (IA) al trabajo diario, ya sea para ilustrar presentaciones o materiales de divulgación médica, y para entender el ritmo de mejora de estos modelos generativos.",
-      "destacado": false
-    },
-    "a8d124ed0acf": {
-      "resumen": "Cobertura en vivo de la BBC sobre la cancelación de vuelos en aeropuertos del Reino Unido por una falla en el sistema de control de tráfico aéreo (ATC, por sus siglas en inglés). Ganó lugar en la comunidad tecnológica de Hacker News como caso de estudio sobre la fragilidad de los sistemas informáticos críticos, algo comparable a lo que puede pasar con los sistemas digitales en salud cuando fallan.",
-      "destacado": false
-    },
     "d391b5a2844c": {
       "resumen": "Primeras impresiones de un usuario sobre GPT-6 Astra, el nuevo modelo de frontera de OpenAI, con consejos prácticos para sacarle provecho. Sirve como guía rápida para quien recién empieza a usar modelos de lenguaje de gran escala (LLM, por sus siglas en inglés) en tareas de análisis y quiere aprovechar mejor sus capacidades.",
       "destacado": false
@@ -73,30 +61,39 @@
       "resumen": "Guía introductoria sobre \"modelos de mundo\" (world models), sistemas de inteligencia artificial que aprenden a simular cómo funciona el entorno para predecir consecuencias de acciones, explicada con ejemplos en Python. Ofrece una puerta de entrada accesible a un concepto de IA cada vez más citado, útil para quien está dando sus primeros pasos en programación aplicada a datos.",
       "destacado": false
     },
-    "f2802beee000": {
-      "resumen": "OpenAI publica un desarrollo sobre el problema del milenio de Navier-Stokes, una de las ecuaciones fundamentales de la dinámica de fluidos cuya resolución general es uno de los siete problemas del milenio del Instituto Clay. Interesa como ejemplo de cómo la inteligencia artificial empieza a aportar en matemática pura y modelado físico, un área con métodos afines a los que usa el análisis de datos.",
+    "7b8a094a5fd5": {
+      "resumen": "Hilo de X (Twitter) que se viralizó en Hacker News, donde una persona cuenta por qué renunció a Anthropic, la empresa detrás de los modelos Claude. Sirve para tomarle el pulso al clima interno de los laboratorios de inteligencia artificial (IA) líderes, más allá del relato oficial de estas compañías.",
       "destacado": false
     },
-    "6f8ab09d8a1b": {
-      "resumen": "Un usuario de la comunidad r/datascience comparte un paquete de R para imputar datos faltantes del censo de Estados Unidos usando ajuste proporcional iterativo (\"iterative proportional fitting\") sobre los márgenes disponibles. Es un ejemplo concreto de una técnica estadística clásica de imputación, útil para quien está aprendiendo a manejar datos incompletos en R.",
+    "e4e4ee3b55ca": {
+      "resumen": "Simon Willison cita al matemático Terence Tao, quien advierte que los problemas matemáticos abiertos y \"fructíferos\" se están agotando a un ritmo no renovable a medida que la inteligencia artificial (IA) los va resolviendo. Interesa porque plantea, desde las matemáticas puras, el mismo dilema que empieza a discutirse en otras disciplinas: qué pasa cuando la IA agota más rápido de lo que la comunidad científica puede generar nuevas preguntas.",
       "destacado": false
     },
-    "4c8b3e9ba891": {
-      "resumen": "Repaso de la evolución de los sistemas de recuperación de información: de la generación aumentada por recuperación (RAG, por sus siglas en inglés) hacia arquitecturas de inteligencia artificial (IA) agéntica para sistemas empresariales, contado por alguien que atravesó las tres generaciones. Ayuda a entender, en términos simples, por qué las empresas están pasando de simples buscadores con IA a agentes que ejecutan tareas completas.",
+    "5a4baff754f8": {
+      "resumen": "OpenAI utilizó un modelo aún no publicado para producir una resolución del problema de existencia y suavidad de las ecuaciones de Navier-Stokes, uno de los siete Problemas del Milenio del Instituto Clay, que rigen el comportamiento de los fluidos. Es un ejemplo llamativo de cómo la inteligencia artificial (IA) empieza a incursionar en matemática pura de altísima complejidad, más allá de las tareas de programación o lenguaje natural.",
       "destacado": false
     },
-    "faff1f640170": {
-      "resumen": "Análisis sobre si ArrowJS es la interfaz de usuario adecuada para la \"era agéntica\", en la que agentes de inteligencia artificial (IA) escriben cada vez más código. Sirve para asomarse a cómo cambia el desarrollo de interfaces cuando quien programa buena parte del código ya no es una persona sino un agente de IA.",
+    "756e8711be7c": {
+      "resumen": "OpenAI presenta ChatGPT Images 2.5, una nueva versión de su modelo de generación de imágenes que ya se usa para crear más de 3.000 millones de imágenes entre ChatGPT y la interfaz de programación de aplicaciones (API, por sus siglas en inglés) GPT-Image. La mejora principal es que sigue instrucciones con más precisión, algo útil para quien quiera generar figuras o material gráfico de divulgación con IA.",
       "destacado": false
     },
-    "6286e3f1727e": {
-      "resumen": "El jugador de Los Pumas que se afianzó como titular tras la serie ante Sudáfrica y Australia."
+    "ecaca716c338": {
+      "resumen": "Estudio académico (publicado en OpenReview) que muestra cómo los modelos de lenguaje de gran escala (LLM, por sus siglas en inglés) pueden desarrollar sesgos sociales nuevos, no presentes en sus datos de entrenamiento, a partir de una \"exploración adaptativa\" durante su uso o su proceso de aprendizaje. Le interesa a quien trabaja con IA aplicada porque advierte que los sesgos no son solo un problema de los datos de origen, sino que pueden emerger dinámicamente del propio comportamiento del modelo.",
+      "destacado": false
     },
-    "d1145442602f": {
-      "resumen": "El principal acusado por el crimen del ex Puma Federico Martín Aramburu declaró en el juicio que disparó en legítima defensa."
+    "3f7faa570ce6": {
+      "resumen": "Relato personal y técnico, popular en Hacker News, sobre el proceso (frustrante) de armar una impresora desde cero. Aporta poco de análisis de datos en sí, pero es un buen ejemplo de la cultura \"hazlo vos mismo\" de la comunidad tecnológica y de lo distinto que es el hardware físico frente al software, donde iterar es mucho más costoso.",
+      "destacado": false
     },
-    "080838d37203": {
-      "resumen": "Un repaso cronológico del crimen de Federico Aramburu, el hecho que conmocionó al rugby argentino."
+    "38ad840aa31f": {
+      "resumen": "Publicación original de Terence Tao en Mathstodon (la misma que retoma Simon Willison en otra nota de esta edición) donde plantea que los problemas matemáticos abiertos se están \"minando\" de forma no renovable a medida que la inteligencia artificial (IA) los resuelve cada vez más rápido. Vale la pena leerlo junto con la nota de Willison para ver cómo distintas comunidades técnicas reaccionan a la misma idea.",
+      "destacado": false
+    },
+    "2b70955f5386": {
+      "resumen": "Un video muestra la emotiva bienvenida que le dieron a Mateo Soler después de su debut con la camiseta de Los Pumas."
+    },
+    "3c9ea7f59a63": {
+      "resumen": "Un jugador de Los Pumas se afianzó como una pieza clave del equipo tras su buen nivel en la serie ante Sudáfrica y Australia."
     }
   }
 }

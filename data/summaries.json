@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T22:06:19Z",
+  "generated_at": "2026-09-10T10:04:06Z",
   "summaries": {
     "38d89cb399db": {
       "resumen": "Artículo del European Heart Journal (Revista Europea del Corazón) que revisa cómo los hallazgos de genética cardiovascular se están trasladando a la práctica clínica, desde la identificación de variantes de riesgo hasta la medicina de precisión en cardiología. Útil para entender hacia dónde va el diagnóstico genético en enfermedad cardiovascular.",
@@ -9,11 +9,6 @@
       "resumen": "Ensayo clínico TIME-HF que evalúa un modelo de atención liderado por enfermería para optimizar el tratamiento de pacientes con insuficiencia cardíaca con fracción de eyección reducida (HFrEF, por sus siglas en inglés). Interesa porque la titulación de las cuatro familias de fármacos que mejoran la sobrevida en HFrEF suele quedar incompleta en la práctica real, y este modelo de enfermería especializada podría cerrar esa brecha.",
       "destacado": false,
       "analisis": "Diseño: ensayo clínico (TIME-HF) que compara un modelo de atención liderado por personal de enfermería frente al seguimiento convencional; el título no permite precisar aleatorización, número de centros ni de pacientes.\nPoblación: pacientes con insuficiencia cardíaca con fracción de eyección reducida (HFrEF), presumiblemente ambulatorios en seguimiento post-alta o en tratamiento crónico.\nIntervención: modelo de atención y titulación de tratamiento liderado por enfermería especializada versus el manejo médico habitual.\nResultados: no informados en el título ni disponibles sin el abstract; no corresponde estimar diferencias en desenlaces sin la fuente original.\nLimitaciones: sin el abstract no se puede evaluar el riesgo de sesgos, el tiempo de seguimiento ni si el desenlace principal fue clínico (mortalidad, internaciones) o de proceso (dosis alcanzadas de tratamiento).\nMensaje: refuerza la idea de que modelos de atención centrados en enfermería pueden ayudar a alcanzar las dosis objetivo de los tratamientos que modifican pronóstico en insuficiencia cardíaca, un problema frecuente en la práctica real.\nNota: análisis sin acceso al abstract."
-    },
-    "de507ba76b27": {
-      "resumen": "Resultados de línea de base (\"top-line\") del ensayo Lp(a)HORIZON con pelacarsen, un oligonucleótido antisentido diseñado para reducir la lipoproteína(a) —Lp(a)—, un factor de riesgo cardiovascular hereditario para el que hasta ahora no hay tratamiento específico aprobado. El título adelanta que los resultados no confirmaron el beneficio esperado, algo relevante porque es uno de los ensayos cardiovasculares más esperados de los últimos años.",
-      "destacado": false,
-      "analisis": "Diseño: ensayo clínico de fase 3 (Lp(a)HORIZON), presumiblemente aleatorizado, doble ciego y multicéntrico, según el desarrollo habitual de este tipo de programas; el título no precisa el número exacto de centros ni de pacientes.\nPoblación: pacientes con enfermedad cardiovascular aterosclerótica y niveles elevados de lipoproteína(a), un factor de riesgo genético independiente del colesterol LDL.\nIntervención: pelacarsen, oligonucleótido antisentido que reduce la síntesis hepática de lipoproteína(a), comparado contra placebo.\nResultados: el título indica que los resultados de línea de base (\"top-line\") \"dashed hopes\" (frustraron las expectativas), lo que sugiere que no se alcanzó una reducción significativa de eventos cardiovasculares mayores pese a bajar la Lp(a); no hay cifras concretas (razones de riesgo, intervalos de confianza) disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede confirmar si el fracaso fue del criterio de valoración principal completo o de un componente, ni el grado de reducción de Lp(a) alcanzado.\nMensaje: si se confirma, sería un golpe importante para la hipótesis de que bajar farmacológicamente la lipoproteína(a) reduce eventos cardiovasculares, y obligaría a revisar el desarrollo de otras moléculas de la misma clase.\nNota: análisis sin acceso al abstract."
     },
     "a8588ddee2d6": {
       "resumen": "Evolocumab (anticuerpo monoclonal inhibidor de PCSK9, proproteína convertasa subtilisina/kexina tipo 9) ya había demostrado reducir eventos cardiovasculares al bajar el colesterol LDL; el ensayo VESALIUS-CV ahora reporta que también reduciría la mortalidad por cualquier causa. Es un dato relevante porque pocos hipolipemiantes lograron demostrar impacto en la mortalidad total y no solo en eventos cardiovasculares.",
@@ -50,18 +45,6 @@
       "resumen": "Apple presentó el iPhone Duo, su primer teléfono con diseño plegable, una nota de producto que llegó a los temas más comentados de Hacker News. No aporta contenido de análisis de datos, pero refleja el interés de la comunidad tecnológica por el hardware de consumo, cuyos sensores también empujan innovaciones aprovechables en el monitoreo de salud.",
       "destacado": false
     },
-    "9b78cef408b4": {
-      "resumen": "Apple presentó el Apple Watch Series 12 con un sistema de sensado de salud renovado. Interesa doblemente: como fuente creciente de datos biométricos de uso masivo (frecuencia cardíaca, oxigenación, posible detección de arritmias) y como ejemplo de dispositivo vestible (wearable) cuyos datos un médico con formación en análisis de datos podría eventualmente aprender a interpretar o validar.",
-      "destacado": false
-    },
-    "4c5cced9cba3": {
-      "resumen": "Apple lanzó los AirPods 5 con cancelación de ruido activa de tipo \"open-ear\" (oído abierto). Es una nota de producto de consumo con poco aporte directo al análisis de datos, aunque refleja cómo los sensores de audio embebidos también empiezan a explorarse como fuente de señales biométricas.",
-      "destacado": false
-    },
-    "07e6d6658c80": {
-      "resumen": "Apple presentó el iPhone 18 Pro y el iPhone 18 Pro Max, su nueva línea de gama alta. Es una noticia de producto de consumo sin aporte directo al análisis de datos, incluida aquí por haber sido uno de los temas más discutidos en Hacker News.",
-      "destacado": false
-    },
     "bd26d7de7a9c": {
       "resumen": "Guía práctica de introducción a dbt (data build tool), la herramienta más usada hoy para construir, testear y documentar transformaciones de datos en SQL dentro de un flujo de análisis. Es una habilidad de base muy demandada para quien quiera pasar de analizar datos sueltos a mantener flujos de datos (pipelines) ordenados y reproducibles.",
       "destacado": false
@@ -74,22 +57,37 @@
       "resumen": "Artículo de Towards Data Science sobre la simetría de permutación en redes neuronales profundas y cómo complica el promediado o la fusión de pesos entre distintos modelos entrenados. Es un tema más técnico de aprendizaje profundo, útil para entender por qué combinar modelos de inteligencia artificial (IA) no es tan simple como promediar sus parámetros.",
       "destacado": false
     },
-    "5bbf6ba19bc7": {
-      "resumen": "Artículo de Towards Data Science que cuenta cómo se dividió un proceso de datos (pipeline) en Python, demasiado acoplado, en servicios independientes usando el protocolo MCP (Model Context Protocol). Sirve como caso práctico de buenas prácticas de arquitectura de datos para quien recién empieza a construir flujos de trabajo más allá de un script único.",
-      "destacado": false
-    },
-    "fcbfcc498ef6": {
-      "resumen": "Artículo de KDnuggets que repasa siete técnicas de ingeniería para entrenar modelos de lenguaje de gran escala (LLM, large language model) en placas de video (GPU) de uso doméstico, sin quedarse sin memoria. Es una introducción práctica a las limitaciones de cómputo que cualquiera que quiera experimentar con inteligencia artificial (IA) por su cuenta va a encontrar tarde o temprano.",
-      "destacado": false
-    },
     "0b905ee4dde1": {
       "resumen": "En los Juegos Odesur en Rosario, el seleccionado argentino de rugby buscará el oro, la clasificación olímpica y acercarse un paso más a Los Ángeles 2028."
     },
-    "c2388be146f6": {
-      "resumen": "World Rugby detalló cómo será el camino clasificatorio rumbo a los Juegos Olímpicos de Los Ángeles 2028."
+    "c2af6d1ca6e1": {
+      "resumen": "Episodio de una serie de entrevistas de TCTMD con la cardióloga intervencionista Mirvat Alasnag sobre representación y conexión global dentro de la cardiología. Es contenido de opinión y trayectoria profesional, no un estudio, pero da panorama sobre la diversidad y el trabajo en red de la especialidad a nivel mundial."
     },
-    "acd8e94e3416": {
-      "resumen": "Se conoció el cronograma de partidos de Los Pumas 7's y Las Yaguaretés en los Juegos Odesur."
+    "8c0d9de43541": {
+      "resumen": "Publicación de Hacker News con un simulador interactivo que muestra cómo se vería el mundo si la velocidad de la luz fuera de apenas 5 km/h, para visualizar efectos relativistas como la contracción del espacio y la dilatación del tiempo. Es divulgación de física más que ciencia de datos, pero ejemplifica cómo una buena visualización interactiva vuelve intuitivo un concepto abstracto, algo aplicable a la comunicación de hallazgos de datos.",
+      "destacado": false
+    },
+    "c4865e8c92f1": {
+      "resumen": "Entrada breve del blog de Simon Willison, referente en inteligencia artificial (IA), que cita y comenta una investigación vinculada a IA sin más detalle disponible desde el título. Vale la pena seguirla por la calidad habitual del autor para filtrar señal del ruido en las novedades de IA aplicada.",
+      "destacado": false
+    },
+    "2f963b15bf85": {
+      "resumen": ".blend URL Viewer, herramienta comentada en el blog de Simon Willison para visualizar archivos .blend (de Blender, el programa de modelado 3D) directamente desde una URL, sin abrir el programa. Es una nota de herramientas técnicas más que de análisis de datos, pero ilustra el patrón creciente de visores livianos basados en navegador para inspeccionar archivos pesados.",
+      "destacado": false
+    },
+    "7a49a5e9191c": {
+      "resumen": "El directorio de Automattic, la empresa detrás de WordPress, forzó una licencia al CEO Matt Mullenweg tras conflictos internos de gobierno corporativo. Es noticia de gestión empresarial del mundo tech, con aporte indirecto para quien sigue el ecosistema de herramientas de código abierto que también se usan en proyectos de datos.",
+      "destacado": false
+    },
+    "da46f20b6117": {
+      "resumen": "Los trabajadores del estudio de videojuegos Blizzard lograron un contrato sindical histórico, un hito laboral en la industria tecnológica. No aporta herramientas de análisis de datos, pero refleja tendencias de organización laboral en el sector tech que también podrían llegar a los equipos de datos e inteligencia artificial (IA).",
+      "destacado": false
+    },
+    "c9125fd07ea8": {
+      "resumen": "Los Pumas 7's disfrutan la chance de jugar como locales, con el envión extra que da competir ante su gente."
+    },
+    "9e9be3e6fcb5": {
+      "resumen": "Tres jugadores tucumanos integran los planteles de Los Pumas 7's y Las Yaguaretés para los Juegos Odesur, con el detalle de quiénes son y cuándo debutan."
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:04:06Z",
+  "generated_at": "2026-09-10T22:04:41Z",
   "summaries": {
     "38d89cb399db": {
       "resumen": "Artículo del European Heart Journal (Revista Europea del Corazón) que revisa cómo los hallazgos de genética cardiovascular se están trasladando a la práctica clínica, desde la identificación de variantes de riesgo hasta la medicina de precisión en cardiología. Útil para entender hacia dónde va el diagnóstico genético en enfermedad cardiovascular.",
@@ -16,7 +16,8 @@
       "analisis": "Diseño: ensayo clínico de fase 3 (VESALIUS-CV), presumiblemente aleatorizado, doble ciego, multicéntrico y de gran escala, según el desarrollo habitual de los programas con inhibidores de PCSK9; el título no permite precisar el número exacto de centros ni de pacientes.\nPoblación: pacientes con enfermedad cardiovascular aterosclerótica y niveles elevados de colesterol LDL pese a tratamiento hipolipemiante de base.\nIntervención: evolocumab (anticuerpo monoclonal inhibidor de PCSK9) versus placebo, ambos sumados al tratamiento estándar con estatinas.\nResultados: el título indica una reducción de la mortalidad por cualquier causa \"más allá\" de los eventos cardiovasculares clásicos; no hay razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar la magnitud del efecto, el tiempo de seguimiento ni si la reducción de mortalidad alcanzó significación estadística prespecificada o es un hallazgo secundario/exploratorio.\nMensaje: si se confirma con los datos completos, sería un espaldarazo fuerte para la inhibición de PCSK9 en prevención cardiovascular, al sumar impacto en mortalidad total a los ya conocidos beneficios en eventos cardiovasculares.\nNota: análisis sin acceso al abstract."
     },
     "3147067164c5": {
-      "resumen": "La agencia reguladora estadounidense (FDA, Administración de Alimentos y Medicamentos) autorizó el primer modelo de inteligencia artificial (IA) que interpreta electrocardiogramas (ECG) para detectar infarto agudo de miocardio. Marca un paso concreto hacia la incorporación de IA como apoyo diagnóstico en la guardia, en una tarea donde el tiempo puerta-balón es crítico."
+      "resumen": "La agencia reguladora estadounidense (FDA, Administración de Alimentos y Medicamentos) autorizó el primer modelo de inteligencia artificial (IA) que interpreta electrocardiogramas (ECG) para detectar infarto agudo de miocardio. Marca un paso concreto hacia la incorporación de IA como apoyo diagnóstico en la guardia, en una tarea donde el tiempo puerta-balón es crítico.",
+      "destacado": false
     },
     "ff95ce85a38b": {
       "resumen": "En pacientes que necesitan tanto un reemplazo valvular aórtico percutáneo (TAVI, implante percutáneo de válvula aórtica) como una angioplastia coronaria (PCI, intervención coronaria percutánea), resolver primero la válvula y después las coronarias parecería ser una secuencia válida. Interesa porque el orden de estos dos procedimientos en pacientes con enfermedad valvular y coronaria concomitante es una decisión frecuente sin consenso claro.",
@@ -24,47 +25,28 @@
       "analisis": "Diseño: estudio (probablemente un registro o ensayo comparativo) que evalúa la secuencia de procedimientos en pacientes con enfermedad aórtica y coronaria concomitante; el título no permite precisar si es aleatorizado, el número de centros ni de pacientes.\nPoblación: pacientes con estenosis aórtica severa candidatos a TAVI (implante percutáneo de válvula aórtica) que además presentan enfermedad coronaria significativa candidata a PCI (intervención coronaria percutánea).\nIntervención: estrategia de resolver primero la válvula aórtica (TAVI) y luego las coronarias (PCI) versus la secuencia inversa u otras estrategias de manejo combinado.\nResultados: no informados en el título ni disponibles sin el abstract; no corresponde estimar tasas de eventos o complicaciones sin la fuente original.\nLimitaciones: sin el abstract no se puede evaluar el riesgo de sesgo de selección (por qué se eligió una secuencia u otra en cada paciente), el tiempo de seguimiento ni los desenlaces duros considerados.\nMensaje: aporta a la discusión práctica sobre el orden óptimo de intervención en pacientes con enfermedad valvular y coronaria simultánea, un escenario cada vez más frecuente en la población añosa.\nNota: análisis sin acceso al abstract."
     },
     "b32cccecc124": {
-      "resumen": "Réplica de los autores originales en JACC (Journal of the American College of Cardiology) al comentario recibido sobre su estudio de un panel de puntuación de riesgo poligénico (PRS, polygenic risk score) para múltiples enfermedades cardiovasculares. Es un intercambio de correspondencia científica que profundiza el debate sobre la utilidad clínica desigual de estos paneles genéticos según la enfermedad."
+      "resumen": "Réplica de los autores originales en JACC (Journal of the American College of Cardiology) al comentario recibido sobre su estudio de un panel de puntuación de riesgo poligénico (PRS, polygenic risk score) para múltiples enfermedades cardiovasculares. Es un intercambio de correspondencia científica que profundiza el debate sobre la utilidad clínica desigual de estos paneles genéticos según la enfermedad.",
+      "destacado": false
     },
     "c0fa2f59df30": {
-      "resumen": "Carta científica publicada en JACC (Journal of the American College of Cardiology) que cuestiona el valor desigual de un panel de puntuación de riesgo poligénico (PRS, polygenic risk score) según la enfermedad cardiovascular evaluada. Da origen a la réplica de los autores originales incluida en esta misma edición."
+      "resumen": "Carta científica publicada en JACC (Journal of the American College of Cardiology) que cuestiona el valor desigual de un panel de puntuación de riesgo poligénico (PRS, polygenic risk score) según la enfermedad cardiovascular evaluada. Da origen a la réplica de los autores originales incluida en esta misma edición.",
+      "destacado": false
     },
     "ae80342e458c": {
-      "resumen": "Editorial de JACC (Journal of the American College of Cardiology) que comenta el estudio NC-DEFINE sobre determinantes genéticos de insuficiencia cardíaca temprana en el síndrome de corazón izquierdo hipoplásico, una cardiopatía congénita compleja de un solo ventrículo. Contextualiza por qué la variación genética sumaría una capa de riesgo adicional sobre un miocardio ya sometido a sobrecarga hemodinámica."
+      "resumen": "Editorial de JACC (Journal of the American College of Cardiology) que comenta el estudio NC-DEFINE sobre determinantes genéticos de insuficiencia cardíaca temprana en el síndrome de corazón izquierdo hipoplásico, una cardiopatía congénita compleja de un solo ventrículo. Contextualiza por qué la variación genética sumaría una capa de riesgo adicional sobre un miocardio ya sometido a sobrecarga hemodinámica.",
+      "destacado": false
     },
     "ebc96bbeab63": {
       "resumen": "Estudio prospectivo (NC-DEFINE) publicado en JACC que investiga qué determinantes genéticos se asocian al desarrollo temprano de insuficiencia cardíaca en niños con síndrome de corazón izquierdo hipoplásico, una cardiopatía congénita de un solo ventrículo con pronóstico reservado. Aporta evidencia para identificar precozmente a los pacientes con mayor riesgo genético de descompensación.",
       "destacado": false,
       "analisis": "Diseño: estudio de cohorte prospectivo (NC-DEFINE) publicado en JACC; el título no permite precisar el número de centros ni de pacientes incluidos.\nPoblación: niños con síndrome de corazón izquierdo hipoplásico (cardiopatía congénita compleja de fisiología univentricular) seguidos prospectivamente para evaluar el desarrollo de insuficiencia cardíaca temprana.\nIntervención: no aplica una intervención terapéutica; se trata de un estudio de asociación genética (variantes genéticas) con el desenlace clínico de insuficiencia cardíaca temprana.\nResultados: no informados en el título ni disponibles sin el abstract; no corresponde estimar razones de riesgo ni valores de p sin la fuente original.\nLimitaciones: sin el abstract no se puede evaluar el tamaño muestral, el método de secuenciación genética utilizado ni el tiempo de seguimiento.\nMensaje: sienta las bases para incorporar la evaluación genética como parte de la estratificación de riesgo en el síndrome de corazón izquierdo hipoplásico, una población pediátrica de alto riesgo donde identificar tempranamente a quienes progresarán a insuficiencia cardíaca podría cambiar el seguimiento clínico.\nNota: análisis sin acceso al abstract."
     },
+    "c2af6d1ca6e1": {
+      "resumen": "Episodio de una serie de entrevistas de TCTMD con la cardióloga intervencionista Mirvat Alasnag sobre representación y conexión global dentro de la cardiología. Es contenido de opinión y trayectoria profesional, no un estudio, pero da panorama sobre la diversidad y el trabajo en red de la especialidad a nivel mundial.",
+      "destacado": false
+    },
     "b974c161dec4": {
       "resumen": "Hilo de Reddit en la comunidad r/datascience donde alguien pide recomendaciones de modelos de supervivencia o de tiempo hasta el evento (TTE, time-to-event) que sean fáciles de explicarle a un gerente de producto sin formación técnica. Le sirve a un médico que se inicia en análisis de datos porque el análisis de supervivencia es el mismo marco estadístico que se usa en estudios clínicos de mortalidad o recurrencia de eventos.",
-      "destacado": false
-    },
-    "da868ab08df1": {
-      "resumen": "Apple presentó el iPhone Duo, su primer teléfono con diseño plegable, una nota de producto que llegó a los temas más comentados de Hacker News. No aporta contenido de análisis de datos, pero refleja el interés de la comunidad tecnológica por el hardware de consumo, cuyos sensores también empujan innovaciones aprovechables en el monitoreo de salud.",
-      "destacado": false
-    },
-    "bd26d7de7a9c": {
-      "resumen": "Guía práctica de introducción a dbt (data build tool), la herramienta más usada hoy para construir, testear y documentar transformaciones de datos en SQL dentro de un flujo de análisis. Es una habilidad de base muy demandada para quien quiera pasar de analizar datos sueltos a mantener flujos de datos (pipelines) ordenados y reproducibles.",
-      "destacado": false
-    },
-    "da4ea584a0d7": {
-      "resumen": "Artículo de KDnuggets que propone un flujo de trabajo de seis etapas para construir un \"analista de datos\" basado en inteligencia artificial (IA) que verifica sus propios cálculos antes de dar una respuesta. Útil para quien está aprendiendo análisis de datos porque plantea buenas prácticas de validación que también aplican al trabajo manual, no solo al automatizado.",
-      "destacado": true
-    },
-    "bea4e625dc78": {
-      "resumen": "Artículo de Towards Data Science sobre la simetría de permutación en redes neuronales profundas y cómo complica el promediado o la fusión de pesos entre distintos modelos entrenados. Es un tema más técnico de aprendizaje profundo, útil para entender por qué combinar modelos de inteligencia artificial (IA) no es tan simple como promediar sus parámetros.",
-      "destacado": false
-    },
-    "0b905ee4dde1": {
-      "resumen": "En los Juegos Odesur en Rosario, el seleccionado argentino de rugby buscará el oro, la clasificación olímpica y acercarse un paso más a Los Ángeles 2028."
-    },
-    "c2af6d1ca6e1": {
-      "resumen": "Episodio de una serie de entrevistas de TCTMD con la cardióloga intervencionista Mirvat Alasnag sobre representación y conexión global dentro de la cardiología. Es contenido de opinión y trayectoria profesional, no un estudio, pero da panorama sobre la diversidad y el trabajo en red de la especialidad a nivel mundial."
-    },
-    "8c0d9de43541": {
-      "resumen": "Publicación de Hacker News con un simulador interactivo que muestra cómo se vería el mundo si la velocidad de la luz fuera de apenas 5 km/h, para visualizar efectos relativistas como la contracción del espacio y la dilatación del tiempo. Es divulgación de física más que ciencia de datos, pero ejemplifica cómo una buena visualización interactiva vuelve intuitivo un concepto abstracto, algo aplicable a la comunicación de hallazgos de datos.",
       "destacado": false
     },
     "c4865e8c92f1": {
@@ -75,19 +57,39 @@
       "resumen": ".blend URL Viewer, herramienta comentada en el blog de Simon Willison para visualizar archivos .blend (de Blender, el programa de modelado 3D) directamente desde una URL, sin abrir el programa. Es una nota de herramientas técnicas más que de análisis de datos, pero ilustra el patrón creciente de visores livianos basados en navegador para inspeccionar archivos pesados.",
       "destacado": false
     },
-    "7a49a5e9191c": {
-      "resumen": "El directorio de Automattic, la empresa detrás de WordPress, forzó una licencia al CEO Matt Mullenweg tras conflictos internos de gobierno corporativo. Es noticia de gestión empresarial del mundo tech, con aporte indirecto para quien sigue el ecosistema de herramientas de código abierto que también se usan en proyectos de datos.",
+    "7e78d193a935": {
+      "resumen": "Forgejo, el software libre para alojar repositorios Git (bifurcación de Gitea), tuvo que parchear una vulnerabilidad crítica de ejecución remota de código (RCE, remote code execution) en su versión 16.0.3 y anteriores. Le sirve a un médico que arma su propio entorno de análisis de datos porque recuerda que mantener actualizada la infraestructura de código (aunque sea de uso personal o de investigación) es tan importante como el análisis en sí.",
       "destacado": false
     },
-    "da46f20b6117": {
-      "resumen": "Los trabajadores del estudio de videojuegos Blizzard lograron un contrato sindical histórico, un hito laboral en la industria tecnológica. No aporta herramientas de análisis de datos, pero refleja tendencias de organización laboral en el sector tech que también podrían llegar a los equipos de datos e inteligencia artificial (IA).",
+    "25a7e89934c3": {
+      "resumen": "Un informe analiza cómo las grandes empresas tecnológicas de Silicon Valley están profundizando sus lazos con el complejo militar-industrial, incorporando inteligencia artificial (IA) a contratos de defensa. Da contexto sobre hacia dónde se dirige buena parte de la inversión en IA y por qué las discusiones éticas sobre el uso de estas herramientas no son solo teóricas.",
       "destacado": false
     },
-    "c9125fd07ea8": {
-      "resumen": "Los Pumas 7's disfrutan la chance de jugar como locales, con el envión extra que da competir ante su gente."
+    "17adfa586ca5": {
+      "resumen": "PlanetScale (empresa de bases de datos MySQL en la nube) presentó Neki, un nuevo producto de su plataforma, aunque el título no adelanta el detalle técnico. Para alguien que da sus primeros pasos en análisis de datos vale la pena seguir estas novedades porque la capa de base de datos que elige un equipo condiciona después qué tan fácil es extraer y analizar la información.",
+      "destacado": false
     },
-    "9e9be3e6fcb5": {
-      "resumen": "Tres jugadores tucumanos integran los planteles de Los Pumas 7's y Las Yaguaretés para los Juegos Odesur, con el detalle de quiénes son y cuándo debutan."
+    "196d0c8980fa": {
+      "resumen": "Artículo de Towards Data Science con consejos para comunicarse mejor con Claude Code y otros agentes de programación asistidos por inteligencia artificial (IA), de forma de transmitirles la intención real detrás de un pedido y no solo instrucciones literales. Útil para un médico que empieza a programar porque mejora el rendimiento real que se obtiene de estas herramientas en el día a día.",
+      "destacado": false
+    },
+    "69669daef825": {
+      "resumen": "Cognition (la empresa detrás del agente de programación Devin) lanzó SWE-2, un nuevo modelo que compite directamente con Fable 5.1 y GPT-Astra en tareas de desarrollo de software. Sirve para dimensionar qué tan rápido avanza la competencia entre modelos de lenguaje de gran escala (LLM, large language model) aplicados a programación, un ecosistema que también empieza a usarse para análisis de datos clínicos.",
+      "destacado": false
+    },
+    "5c90fa717c1e": {
+      "resumen": "El artículo plantea que SHAP (SHapley Additive exPlanations, una técnica estándar de explicabilidad de modelos de inteligencia artificial), pensada para modelos que hacen una predicción puntual, no alcanza para explicar el comportamiento de agentes autónomos de IA que encadenan varias decisiones, como en la detección de fraude. Le interesa a un médico que estudia análisis de datos porque la interpretabilidad de los modelos —entender por qué una IA decide algo— es una discusión central también en aplicaciones clínicas de IA.",
+      "destacado": true
+    },
+    "b0090e274ff1": {
+      "resumen": "Propone reemplazar la asignación fija de un mismo modelo de lenguaje de gran escala (LLM, large language model) para todas las tareas por un enrutamiento adaptativo que elige, tarea por tarea, el modelo más barato que resuelve bien el trabajo dentro de un sistema con varios agentes de IA. Es un concepto práctico para quien está aprendiendo ciencia de datos y quiere usar IA de forma más eficiente y económica en sus propios proyectos.",
+      "destacado": false
+    },
+    "65012c06f86a": {
+      "resumen": "Arranca la Pacific Nations Cup 2026, el torneo de rugby que reúne a dos futuros rivales de Los Pumas: quiénes juegan, cómo es el formato de competencia y dónde seguirlo."
+    },
+    "319ce7e6b4d8": {
+      "resumen": "Un medio británico dejó mal parados a Los Pumas en un ranking de selecciones de rugby, y la decisión desató polémica y repercusión en las redes sociales."
     }
   }
 }

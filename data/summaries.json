@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-10T22:04:41Z",
+  "generated_at": "2026-09-11T10:05:42Z",
   "summaries": {
-    "38d89cb399db": {
-      "resumen": "Artículo del European Heart Journal (Revista Europea del Corazón) que revisa cómo los hallazgos de genética cardiovascular se están trasladando a la práctica clínica, desde la identificación de variantes de riesgo hasta la medicina de precisión en cardiología. Útil para entender hacia dónde va el diagnóstico genético en enfermedad cardiovascular.",
-      "destacado": false
-    },
-    "5c9fb25cd9ee": {
-      "resumen": "Ensayo clínico TIME-HF que evalúa un modelo de atención liderado por enfermería para optimizar el tratamiento de pacientes con insuficiencia cardíaca con fracción de eyección reducida (HFrEF, por sus siglas en inglés). Interesa porque la titulación de las cuatro familias de fármacos que mejoran la sobrevida en HFrEF suele quedar incompleta en la práctica real, y este modelo de enfermería especializada podría cerrar esa brecha.",
+    "edc9193ad5cb": {
+      "resumen": "Nueva evidencia sobre un fármaco dirigido contra la APOC3 (apolipoproteína C-III), una proteína clave en el metabolismo de los triglicéridos, que mostraría beneficios en pacientes con hipertrigliceridemia severa. Interesa porque este cuadro eleva el riesgo de pancreatitis aguda y las opciones terapéuticas más allá de los fibratos y el aceite de pescado todavía son limitadas.",
       "destacado": false,
-      "analisis": "Diseño: ensayo clínico (TIME-HF) que compara un modelo de atención liderado por personal de enfermería frente al seguimiento convencional; el título no permite precisar aleatorización, número de centros ni de pacientes.\nPoblación: pacientes con insuficiencia cardíaca con fracción de eyección reducida (HFrEF), presumiblemente ambulatorios en seguimiento post-alta o en tratamiento crónico.\nIntervención: modelo de atención y titulación de tratamiento liderado por enfermería especializada versus el manejo médico habitual.\nResultados: no informados en el título ni disponibles sin el abstract; no corresponde estimar diferencias en desenlaces sin la fuente original.\nLimitaciones: sin el abstract no se puede evaluar el riesgo de sesgos, el tiempo de seguimiento ni si el desenlace principal fue clínico (mortalidad, internaciones) o de proceso (dosis alcanzadas de tratamiento).\nMensaje: refuerza la idea de que modelos de atención centrados en enfermería pueden ayudar a alcanzar las dosis objetivo de los tratamientos que modifican pronóstico en insuficiencia cardíaca, un problema frecuente en la práctica real.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: el título no especifica el tipo de estudio (ensayo clínico, análisis de subgrupo u otro); se trata de una nota de tctmd sobre resultados presentados, probablemente en un congreso de cardiología.\nPoblación: pacientes con hipertrigliceridemia severa, cuadro asociado a mayor riesgo de pancreatitis aguda y eventos cardiovasculares.\nIntervención: un fármaco dirigido contra la APOC3 (apolipoproteína C-III), en la línea de terapias como olezarsen o plozasiran, frente a un comparador no especificado en el título.\nResultados: el título solo indica \"beneficios\" sin cifras; no hay reducción porcentual de triglicéridos, razones de riesgo ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar el tamaño de la muestra, si el diseño fue aleatorizado ni el tiempo de seguimiento.\nMensaje: se suma a la familia de terapias dirigidas contra la APOC3 que buscan tratar la hipertrigliceridemia severa cuando fibratos y aceite de pescado resultan insuficientes.\nNota: análisis sin acceso al abstract."
+    },
+    "8cb615c1328e": {
+      "resumen": "Nota de tctmd sobre la durabilidad de las válvulas biológicas (bioprótesis) desde una mirada multidisciplinaria, que reúne a cirugía cardíaca, cardiología intervencionista e imágenes. Sirve para entender cómo distintas especialidades abordan en conjunto el seguimiento a largo plazo de los reemplazos valvulares.",
+      "destacado": false
     },
     "a8588ddee2d6": {
       "resumen": "Evolocumab (anticuerpo monoclonal inhibidor de PCSK9, proproteína convertasa subtilisina/kexina tipo 9) ya había demostrado reducir eventos cardiovasculares al bajar el colesterol LDL; el ensayo VESALIUS-CV ahora reporta que también reduciría la mortalidad por cualquier causa. Es un dato relevante porque pocos hipolipemiantes lograron demostrar impacto en la mortalidad total y no solo en eventos cardiovasculares.",
@@ -19,10 +19,9 @@
       "resumen": "La agencia reguladora estadounidense (FDA, Administración de Alimentos y Medicamentos) autorizó el primer modelo de inteligencia artificial (IA) que interpreta electrocardiogramas (ECG) para detectar infarto agudo de miocardio. Marca un paso concreto hacia la incorporación de IA como apoyo diagnóstico en la guardia, en una tarea donde el tiempo puerta-balón es crítico.",
       "destacado": false
     },
-    "ff95ce85a38b": {
-      "resumen": "En pacientes que necesitan tanto un reemplazo valvular aórtico percutáneo (TAVI, implante percutáneo de válvula aórtica) como una angioplastia coronaria (PCI, intervención coronaria percutánea), resolver primero la válvula y después las coronarias parecería ser una secuencia válida. Interesa porque el orden de estos dos procedimientos en pacientes con enfermedad valvular y coronaria concomitante es una decisión frecuente sin consenso claro.",
-      "destacado": false,
-      "analisis": "Diseño: estudio (probablemente un registro o ensayo comparativo) que evalúa la secuencia de procedimientos en pacientes con enfermedad aórtica y coronaria concomitante; el título no permite precisar si es aleatorizado, el número de centros ni de pacientes.\nPoblación: pacientes con estenosis aórtica severa candidatos a TAVI (implante percutáneo de válvula aórtica) que además presentan enfermedad coronaria significativa candidata a PCI (intervención coronaria percutánea).\nIntervención: estrategia de resolver primero la válvula aórtica (TAVI) y luego las coronarias (PCI) versus la secuencia inversa u otras estrategias de manejo combinado.\nResultados: no informados en el título ni disponibles sin el abstract; no corresponde estimar tasas de eventos o complicaciones sin la fuente original.\nLimitaciones: sin el abstract no se puede evaluar el riesgo de sesgo de selección (por qué se eligió una secuencia u otra en cada paciente), el tiempo de seguimiento ni los desenlaces duros considerados.\nMensaje: aporta a la discusión práctica sobre el orden óptimo de intervención en pacientes con enfermedad valvular y coronaria simultánea, un escenario cada vez más frecuente en la población añosa.\nNota: análisis sin acceso al abstract."
+    "c2af6d1ca6e1": {
+      "resumen": "Episodio de una serie de entrevistas de TCTMD con la cardióloga intervencionista Mirvat Alasnag sobre representación y conexión global dentro de la cardiología. Es contenido de opinión y trayectoria profesional, no un estudio, pero da panorama sobre la diversidad y el trabajo en red de la especialidad a nivel mundial.",
+      "destacado": false
     },
     "b32cccecc124": {
       "resumen": "Réplica de los autores originales en JACC (Journal of the American College of Cardiology) al comentario recibido sobre su estudio de un panel de puntuación de riesgo poligénico (PRS, polygenic risk score) para múltiples enfermedades cardiovasculares. Es un intercambio de correspondencia científica que profundiza el debate sobre la utilidad clínica desigual de estos paneles genéticos según la enfermedad.",
@@ -41,55 +40,58 @@
       "destacado": false,
       "analisis": "Diseño: estudio de cohorte prospectivo (NC-DEFINE) publicado en JACC; el título no permite precisar el número de centros ni de pacientes incluidos.\nPoblación: niños con síndrome de corazón izquierdo hipoplásico (cardiopatía congénita compleja de fisiología univentricular) seguidos prospectivamente para evaluar el desarrollo de insuficiencia cardíaca temprana.\nIntervención: no aplica una intervención terapéutica; se trata de un estudio de asociación genética (variantes genéticas) con el desenlace clínico de insuficiencia cardíaca temprana.\nResultados: no informados en el título ni disponibles sin el abstract; no corresponde estimar razones de riesgo ni valores de p sin la fuente original.\nLimitaciones: sin el abstract no se puede evaluar el tamaño muestral, el método de secuenciación genética utilizado ni el tiempo de seguimiento.\nMensaje: sienta las bases para incorporar la evaluación genética como parte de la estratificación de riesgo en el síndrome de corazón izquierdo hipoplásico, una población pediátrica de alto riesgo donde identificar tempranamente a quienes progresarán a insuficiencia cardíaca podría cambiar el seguimiento clínico.\nNota: análisis sin acceso al abstract."
     },
-    "c2af6d1ca6e1": {
-      "resumen": "Episodio de una serie de entrevistas de TCTMD con la cardióloga intervencionista Mirvat Alasnag sobre representación y conexión global dentro de la cardiología. Es contenido de opinión y trayectoria profesional, no un estudio, pero da panorama sobre la diversidad y el trabajo en red de la especialidad a nivel mundial.",
+    "38d89cb399db": {
+      "resumen": "Artículo del European Heart Journal (Revista Europea del Corazón) que revisa cómo los hallazgos de genética cardiovascular se están trasladando a la práctica clínica, desde la identificación de variantes de riesgo hasta la medicina de precisión en cardiología. Útil para entender hacia dónde va el diagnóstico genético en enfermedad cardiovascular.",
       "destacado": false
     },
-    "b974c161dec4": {
-      "resumen": "Hilo de Reddit en la comunidad r/datascience donde alguien pide recomendaciones de modelos de supervivencia o de tiempo hasta el evento (TTE, time-to-event) que sean fáciles de explicarle a un gerente de producto sin formación técnica. Le sirve a un médico que se inicia en análisis de datos porque el análisis de supervivencia es el mismo marco estadístico que se usa en estudios clínicos de mortalidad o recurrencia de eventos.",
+    "0bea6aa8e9e7": {
+      "resumen": "Datasette (herramienta de código abierto para explorar y publicar datos tabulares) lanzó parches de seguridad para sus versiones alfa 1.0a39 y estable 0.65.4. Vale la pena tenerlo en cuenta si se usa Datasette para publicar o compartir bases de datos propias, aunque sea con fines de investigación personal.",
       "destacado": false
     },
-    "c4865e8c92f1": {
-      "resumen": "Entrada breve del blog de Simon Willison, referente en inteligencia artificial (IA), que cita y comenta una investigación vinculada a IA sin más detalle disponible desde el título. Vale la pena seguirla por la calidad habitual del autor para filtrar señal del ruido en las novedades de IA aplicada.",
+    "0a4249c49402": {
+      "resumen": "Un estudiante mexicano de 16 años desarrolló un extintor acústico que usa ondas de sonido para apagar incendios en segundos. Es una nota de innovación tecnológica más que de ciencia de datos, pero ilustra cómo la física aplicada con ingenio puede resolver problemas cotidianos con recursos simples.",
       "destacado": false
     },
-    "2f963b15bf85": {
-      "resumen": ".blend URL Viewer, herramienta comentada en el blog de Simon Willison para visualizar archivos .blend (de Blender, el programa de modelado 3D) directamente desde una URL, sin abrir el programa. Es una nota de herramientas técnicas más que de análisis de datos, pero ilustra el patrón creciente de visores livianos basados en navegador para inspeccionar archivos pesados.",
+    "6bbeb126525f": {
+      "resumen": "Google acordó comprar la mitad de la electricidad de una central nuclear en Finlandia para abastecer sus centros de datos. Da contexto sobre el costo energético creciente de la inteligencia artificial (IA) y por qué las grandes tecnológicas empiezan a asegurarse fuentes de energía estables y de baja emisión.",
       "destacado": false
     },
-    "7e78d193a935": {
-      "resumen": "Forgejo, el software libre para alojar repositorios Git (bifurcación de Gitea), tuvo que parchear una vulnerabilidad crítica de ejecución remota de código (RCE, remote code execution) en su versión 16.0.3 y anteriores. Le sirve a un médico que arma su propio entorno de análisis de datos porque recuerda que mantener actualizada la infraestructura de código (aunque sea de uso personal o de investigación) es tan importante como el análisis en sí.",
+    "346c4c630b23": {
+      "resumen": "trynix.dev permite correr cualquier paquete de Nix (gestor de paquetes reproducible) directamente en el navegador, usando una máquina virtual Linux vía WebAssembly. Útil para probar herramientas de análisis de datos sin instalar nada en la propia computadora.",
       "destacado": false
     },
-    "25a7e89934c3": {
-      "resumen": "Un informe analiza cómo las grandes empresas tecnológicas de Silicon Valley están profundizando sus lazos con el complejo militar-industrial, incorporando inteligencia artificial (IA) a contratos de defensa. Da contexto sobre hacia dónde se dirige buena parte de la inversión en IA y por qué las discusiones éticas sobre el uso de estas herramientas no son solo teóricas.",
+    "8548ae32b0a6": {
+      "resumen": "Shopify decidió volver a desarrollar sus apps móviles en Swift y Kotlin nativos, abandonando React Native, por los límites de rendimiento y mantenimiento que encontraron. Aporta una lección práctica sobre cuándo conviene simplificar la pila tecnológica en lugar de sumar capas de abstracción, algo aplicable también a proyectos propios de análisis de datos.",
       "destacado": false
     },
-    "17adfa586ca5": {
-      "resumen": "PlanetScale (empresa de bases de datos MySQL en la nube) presentó Neki, un nuevo producto de su plataforma, aunque el título no adelanta el detalle técnico. Para alguien que da sus primeros pasos en análisis de datos vale la pena seguir estas novedades porque la capa de base de datos que elige un equipo condiciona después qué tan fácil es extraer y analizar la información.",
+    "cf1d2b81fef8": {
+      "resumen": "OpenAI publicó la documentación de su API de agentes, pensada para construir sistemas de inteligencia artificial (IA) que encadenan varias herramientas y decisiones de forma autónoma. Le sirve a un médico que aprende análisis de datos porque estos agentes cada vez se usan más para automatizar tareas de limpieza, exploración y reporte de datos.",
       "destacado": false
+    },
+    "a223619074e5": {
+      "resumen": "Un investigador describe \"Deathray\", una forma simple en que un sitio web no confiable puede congelar una Mac con solo cargarse en el navegador. Interesa como recordatorio de que hasta el software cotidiano tiene vulnerabilidades inesperadas, algo relevante para cualquiera que maneje datos sensibles desde su computadora.",
+      "destacado": false
+    },
+    "18aec1bbde66": {
+      "resumen": "Repaso de Abacus AI, una plataforma que combina en un solo lugar el acceso a distintos modelos de inteligencia artificial (IA) y herramientas de automatización, pensada como alternativa a pagar por varias suscripciones separadas. Puede servir de referencia para un médico que evalúa qué herramientas de IA convienen para sus propios proyectos de análisis de datos.",
+      "destacado": false
+    },
+    "08bf1cb21309": {
+      "resumen": "Guía resumida de KDnuggets sobre ingeniería de variables (feature engineering) usando Scikit-Learn (biblioteca de aprendizaje automático en Python), con foco en armar los pasos dentro de un Pipeline para evitar fugas de información entre el entrenamiento y la evaluación del modelo. Es un recurso concreto y aplicable para quien está dando sus primeros pasos en análisis de datos con Python.",
+      "destacado": true
     },
     "196d0c8980fa": {
       "resumen": "Artículo de Towards Data Science con consejos para comunicarse mejor con Claude Code y otros agentes de programación asistidos por inteligencia artificial (IA), de forma de transmitirles la intención real detrás de un pedido y no solo instrucciones literales. Útil para un médico que empieza a programar porque mejora el rendimiento real que se obtiene de estas herramientas en el día a día.",
       "destacado": false
     },
-    "69669daef825": {
-      "resumen": "Cognition (la empresa detrás del agente de programación Devin) lanzó SWE-2, un nuevo modelo que compite directamente con Fable 5.1 y GPT-Astra en tareas de desarrollo de software. Sirve para dimensionar qué tan rápido avanza la competencia entre modelos de lenguaje de gran escala (LLM, large language model) aplicados a programación, un ecosistema que también empieza a usarse para análisis de datos clínicos.",
-      "destacado": false
+    "d491c9956591": {
+      "resumen": "Una nueva pericia sobre las armas usadas en el crimen del exjugador de Los Pumas Federico Aramburu reveló que se dispararon diez tiros en solo ocho segundos."
     },
-    "5c90fa717c1e": {
-      "resumen": "El artículo plantea que SHAP (SHapley Additive exPlanations, una técnica estándar de explicabilidad de modelos de inteligencia artificial), pensada para modelos que hacen una predicción puntual, no alcanza para explicar el comportamiento de agentes autónomos de IA que encadenan varias decisiones, como en la detección de fraude. Le interesa a un médico que estudia análisis de datos porque la interpretabilidad de los modelos —entender por qué una IA decide algo— es una discusión central también en aplicaciones clínicas de IA.",
-      "destacado": true
-    },
-    "b0090e274ff1": {
-      "resumen": "Propone reemplazar la asignación fija de un mismo modelo de lenguaje de gran escala (LLM, large language model) para todas las tareas por un enrutamiento adaptativo que elige, tarea por tarea, el modelo más barato que resuelve bien el trabajo dentro de un sistema con varios agentes de IA. Es un concepto práctico para quien está aprendiendo ciencia de datos y quiere usar IA de forma más eficiente y económica en sus propios proyectos.",
-      "destacado": false
+    "4e04f5c25008": {
+      "resumen": "La frase de un investigador judicial —que vaciar el cargador de un arma equivale a querer matar— generó fuertes reacciones entre los acusados por el crimen de Federico Aramburu."
     },
     "65012c06f86a": {
       "resumen": "Arranca la Pacific Nations Cup 2026, el torneo de rugby que reúne a dos futuros rivales de Los Pumas: quiénes juegan, cómo es el formato de competencia y dónde seguirlo."
-    },
-    "319ce7e6b4d8": {
-      "resumen": "Un medio británico dejó mal parados a Los Pumas en un ranking de selecciones de rugby, y la decisión desató polémica y repercusión en las redes sociales."
     }
   }
 }

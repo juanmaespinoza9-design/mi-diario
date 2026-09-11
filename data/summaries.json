@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T10:05:42Z",
+  "generated_at": "2026-09-11T22:04:59Z",
   "summaries": {
     "edc9193ad5cb": {
       "resumen": "Nueva evidencia sobre un fármaco dirigido contra la APOC3 (apolipoproteína C-III), una proteína clave en el metabolismo de los triglicéridos, que mostraría beneficios en pacientes con hipertrigliceridemia severa. Interesa porque este cuadro eleva el riesgo de pancreatitis aguda y las opciones terapéuticas más allá de los fibratos y el aceite de pescado todavía son limitadas.",
@@ -8,19 +8,6 @@
     },
     "8cb615c1328e": {
       "resumen": "Nota de tctmd sobre la durabilidad de las válvulas biológicas (bioprótesis) desde una mirada multidisciplinaria, que reúne a cirugía cardíaca, cardiología intervencionista e imágenes. Sirve para entender cómo distintas especialidades abordan en conjunto el seguimiento a largo plazo de los reemplazos valvulares.",
-      "destacado": false
-    },
-    "a8588ddee2d6": {
-      "resumen": "Evolocumab (anticuerpo monoclonal inhibidor de PCSK9, proproteína convertasa subtilisina/kexina tipo 9) ya había demostrado reducir eventos cardiovasculares al bajar el colesterol LDL; el ensayo VESALIUS-CV ahora reporta que también reduciría la mortalidad por cualquier causa. Es un dato relevante porque pocos hipolipemiantes lograron demostrar impacto en la mortalidad total y no solo en eventos cardiovasculares.",
-      "destacado": true,
-      "analisis": "Diseño: ensayo clínico de fase 3 (VESALIUS-CV), presumiblemente aleatorizado, doble ciego, multicéntrico y de gran escala, según el desarrollo habitual de los programas con inhibidores de PCSK9; el título no permite precisar el número exacto de centros ni de pacientes.\nPoblación: pacientes con enfermedad cardiovascular aterosclerótica y niveles elevados de colesterol LDL pese a tratamiento hipolipemiante de base.\nIntervención: evolocumab (anticuerpo monoclonal inhibidor de PCSK9) versus placebo, ambos sumados al tratamiento estándar con estatinas.\nResultados: el título indica una reducción de la mortalidad por cualquier causa \"más allá\" de los eventos cardiovasculares clásicos; no hay razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar la magnitud del efecto, el tiempo de seguimiento ni si la reducción de mortalidad alcanzó significación estadística prespecificada o es un hallazgo secundario/exploratorio.\nMensaje: si se confirma con los datos completos, sería un espaldarazo fuerte para la inhibición de PCSK9 en prevención cardiovascular, al sumar impacto en mortalidad total a los ya conocidos beneficios en eventos cardiovasculares.\nNota: análisis sin acceso al abstract."
-    },
-    "3147067164c5": {
-      "resumen": "La agencia reguladora estadounidense (FDA, Administración de Alimentos y Medicamentos) autorizó el primer modelo de inteligencia artificial (IA) que interpreta electrocardiogramas (ECG) para detectar infarto agudo de miocardio. Marca un paso concreto hacia la incorporación de IA como apoyo diagnóstico en la guardia, en una tarea donde el tiempo puerta-balón es crítico.",
-      "destacado": false
-    },
-    "c2af6d1ca6e1": {
-      "resumen": "Episodio de una serie de entrevistas de TCTMD con la cardióloga intervencionista Mirvat Alasnag sobre representación y conexión global dentro de la cardiología. Es contenido de opinión y trayectoria profesional, no un estudio, pero da panorama sobre la diversidad y el trabajo en red de la especialidad a nivel mundial.",
       "destacado": false
     },
     "b32cccecc124": {
@@ -44,54 +31,68 @@
       "resumen": "Artículo del European Heart Journal (Revista Europea del Corazón) que revisa cómo los hallazgos de genética cardiovascular se están trasladando a la práctica clínica, desde la identificación de variantes de riesgo hasta la medicina de precisión en cardiología. Útil para entender hacia dónde va el diagnóstico genético en enfermedad cardiovascular.",
       "destacado": false
     },
-    "0bea6aa8e9e7": {
-      "resumen": "Datasette (herramienta de código abierto para explorar y publicar datos tabulares) lanzó parches de seguridad para sus versiones alfa 1.0a39 y estable 0.65.4. Vale la pena tenerlo en cuenta si se usa Datasette para publicar o compartir bases de datos propias, aunque sea con fines de investigación personal.",
+    "1d9c94872845": {
+      "resumen": "TCTMD (The Cardiovascular Research Foundation) presentó en el Congreso de la Sociedad Europea de Cardiología (ESC) 2026 la quinta definición universal de infarto agudo de miocardio (IAM), el documento de consenso que fija los criterios diagnósticos usados en todo el mundo. Vale la pena mirarlo porque cada actualización redefine qué pacientes entran (o quedan afuera) de las estadísticas y los ensayos clínicos de IAM.",
       "destacado": false
     },
-    "0a4249c49402": {
-      "resumen": "Un estudiante mexicano de 16 años desarrolló un extintor acústico que usa ondas de sonido para apagar incendios en segundos. Es una nota de innovación tecnológica más que de ciencia de datos, pero ilustra cómo la física aplicada con ingenio puede resolver problemas cotidianos con recursos simples.",
+    "7db144536cea": {
+      "resumen": "El registro CLOSURE-AF muestra que los peores resultados asociados al cierre percutáneo de la orejuela auricular izquierda (LAAO, left atrial appendage occlusion) —el dispositivo que reemplaza a los anticoagulantes en pacientes con fibrilación auricular que no pueden tomarlos— estarían impulsados en gran parte por peores desenlaces en mujeres. Importa porque pone sobre la mesa una posible brecha de sexo en la seguridad o eficacia de un procedimiento cada vez más usado.",
+      "destacado": false,
+      "analisis": "Diseño: TCTMD reporta datos del registro CLOSURE-AF sobre cierre percutáneo de la orejuela auricular izquierda (LAAO); el título no permite precisar si es un registro multicéntrico, un análisis de subgrupo o el diseño exacto, ni el número de centros o pacientes.\nPoblación: pacientes con fibrilación auricular no valvular sometidos a cierre percutáneo de la orejuela auricular izquierda como alternativa a la anticoagulación crónica; no se especifican en el título los criterios de inclusión o exclusión.\nIntervención: cierre percutáneo de la orejuela auricular izquierda (LAAO); el título sugiere una comparación de resultados según sexo (varones versus mujeres) más que frente a un comparador terapéutico distinto.\nResultados: el título indica que los peores resultados globales estarían \"impulsados\" por peores desenlaces en mujeres, sin cifras de eventos, razones de riesgo ni valor de p disponibles.\nLimitaciones: sin el abstract no se puede evaluar el tamaño de la muestra, el tipo de eventos considerados (sangrado, ACV, mortalidad) ni si el análisis por sexo estaba preespecificado o es exploratorio.\nMensaje: sugiere que el sexo podría ser una variable relevante al seleccionar y hacer seguimiento de pacientes para cierre de orejuela, y amerita confirmación con datos ajustados antes de cambiar la práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "8114d38a396a": {
+      "resumen": "Los Centros de Servicios de Medicare y Medicaid (CMS, Centers for Medicare & Medicaid Services) de Estados Unidos finalizaron la actualización esperada de la cobertura nacional para el implante valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation). Es una noticia regulatoria, no un estudio clínico, pero define qué pacientes tendrán acceso financiado al procedimiento y puede anticipar tendencias de cobertura en otros sistemas de salud.",
       "destacado": false
     },
-    "6bbeb126525f": {
-      "resumen": "Google acordó comprar la mitad de la electricidad de una central nuclear en Finlandia para abastecer sus centros de datos. Da contexto sobre el costo energético creciente de la inteligencia artificial (IA) y por qué las grandes tecnológicas empiezan a asegurarse fuentes de energía estables y de baja emisión.",
-      "destacado": false
+    "3079a60d98cd": {
+      "resumen": "Ensayo clínico publicado en el New England Journal of Medicine (NEJM) que evalúa una estrategia de revascularización completa guiada por angiografía coronaria funcional (una forma de evaluar la severidad fisiológica de las lesiones, no solo su aspecto anatómico) en pacientes con infarto agudo de miocardio con elevación del segmento ST (IAMCEST o STEMI). Interesa porque el manejo de las lesiones no culpables en el STEMI sigue siendo un tema de debate activo en cardiología intervencionista.",
+      "destacado": true,
+      "analisis": "Diseño: ensayo clínico publicado en el New England Journal of Medicine (NEJM); por el nombre y la revista es esperable que sea aleatorizado y multicéntrico, pero el título no permite precisar el número de centros, de pacientes ni si fue doble ciego (difícil de cegar en un estudio de estrategia invasiva).\nPoblación: pacientes con infarto agudo de miocardio con elevación del segmento ST (IAMCEST o STEMI) que presentan lesiones coronarias adicionales a la responsable del evento (enfermedad multivaso); el título no detalla otros criterios de inclusión o exclusión.\nIntervención: revascularización completa de las lesiones no culpables guiada por angiografía coronaria funcional (evaluación fisiológica de la severidad de cada lesión) frente a una estrategia de comparación no especificada en el título (posiblemente revascularización guiada solo por angiografía anatómica o tratamiento conservador de las lesiones no culpables).\nResultados: no informados en el título; sin el abstract no se pueden citar razones de riesgo, intervalos de confianza ni valor de p del criterio de valoración principal.\nLimitaciones: sin el abstract no se puede evaluar el tamaño muestral, el tiempo de seguimiento ni la definición exacta del criterio de valoración principal.\nMensaje: se suma a la evidencia sobre cómo decidir el tratamiento de las lesiones no culpables en el STEMI, un punto de manejo con impacto directo en la práctica diaria de hemodinamia; el cambio concreto para la práctica dependerá de los resultados numéricos, no disponibles en el título.\nNota: análisis sin acceso al abstract."
     },
-    "346c4c630b23": {
-      "resumen": "trynix.dev permite correr cualquier paquete de Nix (gestor de paquetes reproducible) directamente en el navegador, usando una máquina virtual Linux vía WebAssembly. Útil para probar herramientas de análisis de datos sin instalar nada en la propia computadora.",
-      "destacado": false
+    "f6c1df081c4c": {
+      "resumen": "Ensayo clínico del New England Journal of Medicine (NEJM) sobre el momento óptimo para realizar la angioplastia coronaria (PCI, percutaneous coronary intervention) en pacientes que van a un implante valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation) y además tienen enfermedad coronaria. Le interesa a cualquier cardiólogo intervencionista porque resuelve un dilema frecuente: ¿revascularizar antes, durante o después del TAVI?",
+      "destacado": false,
+      "analisis": "Diseño: ensayo clínico publicado en el New England Journal of Medicine (NEJM); se espera que sea aleatorizado y multicéntrico dado el tipo de pregunta clínica, pero el título no precisa el número de centros, de pacientes ni si hubo cegamiento.\nPoblación: pacientes con estenosis aórtica severa candidatos a implante valvular aórtico transcatéter (TAVI) que además presentan enfermedad coronaria significativa concomitante; el título no especifica otros criterios de inclusión o exclusión.\nIntervención: comparación de distintos momentos para realizar la angioplastia coronaria (PCI) en relación con el TAVI (por ejemplo, antes versus después del implante); el título no aclara los brazos exactos del estudio.\nResultados: no informados en el título; sin el abstract no hay razones de riesgo, intervalos de confianza ni valor de p disponibles para el criterio de valoración principal.\nLimitaciones: sin el abstract no se puede evaluar el tamaño muestral, la definición del criterio de valoración principal ni el tiempo de seguimiento.\nMensaje: aporta evidencia para estandarizar una decisión de manejo muy frecuente en las heart teams (equipos multidisciplinarios de patología valvular estructural), aunque el cambio concreto en la práctica dependerá de los resultados numéricos, no disponibles en el título.\nNota: análisis sin acceso al abstract."
     },
-    "8548ae32b0a6": {
-      "resumen": "Shopify decidió volver a desarrollar sus apps móviles en Swift y Kotlin nativos, abandonando React Native, por los límites de rendimiento y mantenimiento que encontraron. Aporta una lección práctica sobre cuándo conviene simplificar la pila tecnológica en lugar de sumar capas de abstracción, algo aplicable también a proyectos propios de análisis de datos.",
-      "destacado": false
+    "a1d46136dc91": {
+      "resumen": "Hilo de la comunidad r/datascience donde se pregunta cómo manejar variables de confusión (cofound o confounding variables), es decir, factores que distorsionan la relación entre una exposición y un resultado si no se los controla en el análisis. Es útil para un médico que aprende análisis de datos porque el ajuste por confundidores es exactamente el mismo problema que ya conoce de la investigación clínica, solo que aplicado con herramientas estadísticas y de programación."
     },
-    "cf1d2b81fef8": {
-      "resumen": "OpenAI publicó la documentación de su API de agentes, pensada para construir sistemas de inteligencia artificial (IA) que encadenan varias herramientas y decisiones de forma autónoma. Le sirve a un médico que aprende análisis de datos porque estos agentes cada vez se usan más para automatizar tareas de limpieza, exploración y reporte de datos.",
-      "destacado": false
+    "4a6a3c5a059e": {
+      "resumen": "Hacker News difunde que la Agencia de Protección Ambiental de Estados Unidos (EPA, Environmental Protection Agency) planea eliminar reglas de revisión pública sobre la contaminación generada por los centros de datos (data centers). Le sirve a quien se mete en ciencia de datos e inteligencia artificial para dimensionar el costo ambiental y regulatorio detrás de la infraestructura que sostiene a los modelos de IA que usa a diario."
     },
-    "a223619074e5": {
-      "resumen": "Un investigador describe \"Deathray\", una forma simple en que un sitio web no confiable puede congelar una Mac con solo cargarse en el navegador. Interesa como recordatorio de que hasta el software cotidiano tiene vulnerabilidades inesperadas, algo relevante para cualquiera que maneje datos sensibles desde su computadora.",
-      "destacado": false
+    "3369a7745ac2": {
+      "resumen": "Simon Willison (desarrollador y divulgador especializado en inteligencia artificial) cita un comentario de Boris Cherny, creador de Claude Code, la herramienta de programación asistida por IA de Anthropic. Interesa porque son opiniones directas de quienes construyen los agentes de IA que cada vez más se usan también para analizar datos, no solo para programar."
     },
-    "18aec1bbde66": {
-      "resumen": "Repaso de Abacus AI, una plataforma que combina en un solo lugar el acceso a distintos modelos de inteligencia artificial (IA) y herramientas de automatización, pensada como alternativa a pagar por varias suscripciones separadas. Puede servir de referencia para un médico que evalúa qué herramientas de IA convienen para sus propios proyectos de análisis de datos.",
-      "destacado": false
+    "3f3cc1b7224e": {
+      "resumen": "Nota en Hacker News sobre un caso de desalineación (misalignment) de la inteligencia artificial al resolver problemas de matemática, es decir, cuando el modelo llega a una respuesta por un camino que no refleja un razonamiento genuino o correcto. Es relevante para quien empieza en ciencia de datos porque recuerda que los resultados de un modelo de IA siempre deben verificarse, sobre todo en tareas cuantitativas."
     },
-    "08bf1cb21309": {
-      "resumen": "Guía resumida de KDnuggets sobre ingeniería de variables (feature engineering) usando Scikit-Learn (biblioteca de aprendizaje automático en Python), con foco en armar los pasos dentro de un Pipeline para evitar fugas de información entre el entrenamiento y la evaluación del modelo. Es un recurso concreto y aplicable para quien está dando sus primeros pasos en análisis de datos con Python.",
+    "3dd6e7839988": {
+      "resumen": "Hacker News vuelve sobre el caso Room 641A, el cuarto secreto de una central telefónica de AT&T en San Francisco usado para el espionaje masivo de comunicaciones por parte de la Agencia de Seguridad Nacional (NSA) de Estados Unidos. Sirve como contexto histórico sobre vigilancia y recolección masiva de datos, un debate ético que también atraviesa el uso actual de grandes bases de datos para entrenar inteligencia artificial."
+    },
+    "b8e61897c6ce": {
+      "resumen": "Simon Willison cita el archivo security.txt de Hugging Face (la plataforma más usada para compartir modelos de inteligencia artificial), un estándar donde las organizaciones publican cómo reportarles vulnerabilidades de seguridad. Le aporta a un médico en formación de datos una noción básica de buenas prácticas de seguridad informática en el ecosistema de IA que probablemente vaya a usar."
+    },
+    "c4863f29fc2b": {
+      "resumen": "Hacker News comparte el Global Glacier Extinction Explorer, una herramienta interactiva de visualización de datos sobre el retroceso de los glaciares a nivel mundial. Es un buen ejemplo práctico de cómo comunicar datos científicos complejos con visualizaciones claras, una habilidad directamente aplicable a la presentación de datos clínicos o epidemiológicos."
+    },
+    "b4780394b581": {
+      "resumen": "Artículo de Towards Data Science que plantea que los agentes de codificación con inteligencia artificial no necesitan un historial de conversación más largo, sino \"continuidad de intención\": mantener claro el objetivo original a lo largo de toda la tarea. Le sirve a un médico que aprende análisis de datos porque explica, en criollo, por qué a veces los asistentes de IA se desvían cuando una consulta o un análisis se extiende demasiado."
+    },
+    "68c9d57c259d": {
+      "resumen": "Simon Willison comenta la \"depreciación suave\" (soft-deprecating) de la función re.match() del lenguaje Python, es decir, que sin eliminarla se empieza a recomendar no usarla a favor de alternativas más claras (como re.search() con anclas). Es un detalle técnico útil para quien está aprendiendo Python para análisis de datos, ya que las expresiones regulares (patrones para buscar texto) aparecen todo el tiempo al limpiar datos."
+    },
+    "a0d51ea2c979": {
+      "resumen": "Guía de KDnuggets pensada para principiantes que explica cómo pasar de código Python desordenado (\"spaghetti code\") a código limpio, con buenas prácticas de organización, nombres claros y funciones reutilizables. Es un recurso ideal para un médico que recién arranca con Python, porque ordenar el código desde el principio evita errores difíciles de rastrear más adelante en un análisis.",
       "destacado": true
     },
-    "196d0c8980fa": {
-      "resumen": "Artículo de Towards Data Science con consejos para comunicarse mejor con Claude Code y otros agentes de programación asistidos por inteligencia artificial (IA), de forma de transmitirles la intención real detrás de un pedido y no solo instrucciones literales. Útil para un médico que empieza a programar porque mejora el rendimiento real que se obtiene de estas herramientas en el día a día.",
-      "destacado": false
+    "3a1aae346258": {
+      "resumen": "Eduardo Bello volvió a jugar al rugby después de casi dos años afuera de las canchas y lo vive como una revancha personal."
     },
-    "d491c9956591": {
-      "resumen": "Una nueva pericia sobre las armas usadas en el crimen del exjugador de Los Pumas Federico Aramburu reveló que se dispararon diez tiros en solo ocho segundos."
+    "6e94ae8f64c0": {
+      "resumen": "A pura emoción, Mateo Soler repasa su camino hasta el debut en Los Pumas: los amigos, el club Tala y los consejos de su papá."
     },
-    "4e04f5c25008": {
-      "resumen": "La frase de un investigador judicial —que vaciar el cargador de un arma equivale a querer matar— generó fuertes reacciones entre los acusados por el crimen de Federico Aramburu."
-    },
-    "65012c06f86a": {
-      "resumen": "Arranca la Pacific Nations Cup 2026, el torneo de rugby que reúne a dos futuros rivales de Los Pumas: quiénes juegan, cómo es el formato de competencia y dónde seguirlo."
+    "99416dd724fe": {
+      "resumen": "Joel Sclavi se recuperó de su lesión y va por su debut en el nuevo equipo, otra buena noticia para Los Pumas."
     }
   }
 }

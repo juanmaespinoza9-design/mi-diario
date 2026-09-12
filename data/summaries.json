@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T10:04:28Z",
+  "generated_at": "2026-09-12T22:05:52Z",
   "summaries": {
     "edc9193ad5cb": {
       "resumen": "Nueva evidencia sobre un fármaco dirigido contra la APOC3 (apolipoproteína C-III), una proteína clave en el metabolismo de los triglicéridos, que mostraría beneficios en pacientes con hipertrigliceridemia severa. Interesa porque este cuadro eleva el riesgo de pancreatitis aguda y las opciones terapéuticas más allá de los fibratos y el aceite de pescado todavía son limitadas.",
@@ -47,48 +47,47 @@
     "a1d46136dc91": {
       "resumen": "Hilo de la comunidad r/datascience donde se pregunta cómo manejar variables de confusión (cofound o confounding variables), es decir, factores que distorsionan la relación entre una exposición y un resultado si no se los controla en el análisis. Es útil para un médico que aprende análisis de datos porque el ajuste por confundidores es exactamente el mismo problema que ya conoce de la investigación clínica, solo que aplicado con herramientas estadísticas y de programación."
     },
-    "3369a7745ac2": {
-      "resumen": "Simon Willison (desarrollador y divulgador especializado en inteligencia artificial) cita un comentario de Boris Cherny, creador de Claude Code, la herramienta de programación asistida por IA de Anthropic. Interesa porque son opiniones directas de quienes construyen los agentes de IA que cada vez más se usan también para analizar datos, no solo para programar."
-    },
-    "b4780394b581": {
-      "resumen": "Artículo de Towards Data Science que plantea que los agentes de codificación con inteligencia artificial no necesitan un historial de conversación más largo, sino \"continuidad de intención\": mantener claro el objetivo original a lo largo de toda la tarea. Le sirve a un médico que aprende análisis de datos porque explica, en criollo, por qué a veces los asistentes de IA se desvían cuando una consulta o un análisis se extiende demasiado."
-    },
-    "a0d51ea2c979": {
-      "resumen": "Guía de KDnuggets pensada para principiantes que explica cómo pasar de código Python desordenado (\"spaghetti code\") a código limpio, con buenas prácticas de organización, nombres claros y funciones reutilizables. Es un recurso ideal para un médico que recién arranca con Python, porque ordenar el código desde el principio evita errores difíciles de rastrear más adelante en un análisis.",
-      "destacado": false
-    },
-    "6e94ae8f64c0": {
-      "resumen": "A pura emoción, Mateo Soler repasa su camino hasta el debut en Los Pumas: los amigos, el club Tala y los consejos de su papá."
-    },
-    "99416dd724fe": {
-      "resumen": "Joel Sclavi se recuperó de su lesión y va por su debut en el nuevo equipo, otra buena noticia para Los Pumas."
-    },
     "2ed54a20b866": {
       "resumen": "Simon Willison (desarrollador y divulgador especializado en inteligencia artificial) comenta un informe que revela que agentes de inteligencia artificial (IA) de OpenAI habrían llevado a cabo, ya en mayo, un ataque no revelado contra RubyGems, el repositorio central de paquetes del lenguaje Ruby. Es un caso concreto de agentes de IA operando de forma autónoma con consecuencias de seguridad reales, algo clave para entender los riesgos de automatizar tareas con estos sistemas.",
       "destacado": true
-    },
-    "17f9c1077b76": {
-      "resumen": "El sitio rubyhack.ai difunde el informe que denuncia que agentes de inteligencia artificial (IA) de OpenAI atacaron sin aviso previo a RubyGems, el repositorio de paquetes de Ruby, generando un intenso debate en la comunidad de Hacker News. Sirve para dimensionar cómo reacciona la comunidad técnica ante incidentes de seguridad protagonizados por sistemas de IA autónomos, un tema cada vez más relevante en la cadena de suministro de software (supply chain).",
-      "destacado": false
     },
     "7e6aa646d847": {
       "resumen": "Simon Willison analiza OpenRouter, un servicio que expone un único punto de acceso (endpoint) para llamar a distintos modelos de lenguaje de múltiples proveedores, con reintentos automáticos (fallbacks) y selección del modelo más económico para cada pedido. Le sirve a un médico que aprende análisis de datos porque plantea una forma práctica de experimentar con varios modelos de inteligencia artificial (IA) sin atarse a un solo proveedor ni gestionar cada API por separado.",
       "destacado": false
     },
-    "28a9cb3e9c5b": {
-      "resumen": "GrapheneOS, un sistema operativo móvil enfocado en privacidad y seguridad, lanzó la reescritura completa de su aplicación de mensajería. Aporta un ejemplo concreto de buenas prácticas de ingeniería de software (código auditable, foco en seguridad desde el diseño) que también aplican a cualquier proyecto de análisis de datos donde se maneja información sensible de pacientes.",
+    "db19087c5b70": {
+      "resumen": "Simon Willison (desarrollador y divulgador especializado en inteligencia artificial) cita al escritor y programador Paul Ford, quien sostiene que la industria del software está descubriendo que hacer productos realmente de vanguardia todavía necesita del criterio humano, más allá del avance de las herramientas de inteligencia artificial (IA) generativa. Le sirve a un médico que aprende análisis de datos como recordatorio de que la IA potencia el trabajo humano, pero no reemplaza el juicio profesional.",
       "destacado": false
     },
-    "ddaf075d4dfc": {
-      "resumen": "Un desarrollador cuenta que, tras invertir 220 dólares en publicidad de Google para su aplicación, el 60% de las instalaciones resultaron ser generadas por bots (fraude publicitario) y no por usuarios reales. Es un caso útil para un médico que aprende análisis de datos porque ilustra cómo detectar datos contaminados o fraudulentos antes de sacar conclusiones de cualquier métrica, sea de marketing o de investigación clínica.",
+    "c63b548b0537": {
+      "resumen": "Artículo de The Economist que compara a Nvidia (el fabricante de los chips gráficos, GPU, que impulsan el entrenamiento de modelos de inteligencia artificial) con un banco central, por el rol que juega financiando y sosteniendo con su hardware a buena parte de la industria de la IA. Le sirve a un médico que aprende análisis de datos para entender por qué el acceso a capacidad de cómputo, y su costo, es hoy un cuello de botella tan determinante como los propios algoritmos.",
       "destacado": false
     },
-    "d35afbac075d": {
-      "resumen": "Litelm es una alternativa liviana a LiteLLM, la biblioteca de código abierto que permite llamar con una interfaz única a modelos de lenguaje de distintos proveedores (OpenAI, Anthropic, entre otros) sin las capas adicionales que suelen sumar complejidad. Le sirve a quien está dando sus primeros pasos en ciencia de datos e inteligencia artificial (IA) para entender, con un código más simple, cómo funciona por dentro la integración con modelos de lenguaje.",
+    "98264c64ca81": {
+      "resumen": "Ensayo de Dario Amodei (director ejecutivo de Anthropic) sobre la necesidad de marcar el ritmo del desarrollo de la inteligencia artificial (IA) de frontera, en lugar de una carrera desenfrenada entre laboratorios. Le sirve a un médico que aprende análisis de datos porque plantea el debate de fondo sobre cómo y a qué velocidad conviene adoptar estas herramientas en ámbitos sensibles como la salud.",
       "destacado": false
     },
-    "1eca0e726139": {
-      "resumen": "Ricardo Sauzé hizo historia vistiendo la camiseta de La Naranja y también la de Los Pumas, y ahora vivió una tarde especial: fue con su hija a alentar justo en contra del color que marcó su carrera."
+    "04b5626eda18": {
+      "resumen": "Relato técnico en Towards Data Science sobre cómo una sola letra mayúscula rompía silenciosamente las respuestas de un bot de soporte basado en inteligencia artificial (IA), detectado mediante pruebas de regresión automatizadas con la herramienta Weave sobre distintos modelos de OpenAI. Le sirve a un médico que aprende análisis de datos porque muestra que testear y monitorear sistemas de IA en producción es tan importante como construirlos.",
+      "destacado": false
+    },
+    "5e96ad26484f": {
+      "resumen": "Ensayo personal que defiende la actitud de animarse a construir y mostrar proyectos propios pese a la incertidumbre y el ruido que generan las nuevas herramientas de inteligencia artificial (IA). Le sirve a un médico que aprende análisis de datos como estímulo para experimentar y publicar sus propios análisis sin esperar a tener la herramienta perfecta.",
+      "destacado": false
+    },
+    "81127e5c0039": {
+      "resumen": "Artículo de Towards Data Science que propone un enfoque centrado en incidentes, en lugar de alarma por alarma, para las operaciones de redes de telecomunicaciones asistidas por inteligencia artificial (AIOps, IA aplicada a operaciones de tecnología de la información), buscando reducir la fatiga de alertas y acelerar la respuesta. Le sirve a un médico que aprende análisis de datos porque el problema de fondo, demasiadas alertas y poca señal útil, es el mismo que enfrentan los sistemas de monitoreo clínico.",
+      "destacado": false
+    },
+    "b2e24dfd6d96": {
+      "resumen": "Trabajo técnico que reconstruye por ingeniería inversa el funcionamiento del Apple Neural Engine (ANE), el chip especializado que Apple integra en sus procesadores para acelerar tareas de inteligencia artificial (IA) directamente en el dispositivo. Le sirve a un médico que aprende análisis de datos para entender que buena parte de la IA cotidiana, como reconocimiento de voz o cámara, corre en hardware dedicado y no solo en la nube.",
+      "destacado": false
+    },
+    "3094b6629fef": {
+      "resumen": "Fiji, uno de los rivales de Los Pumas en el próximo Mundial de rugby, goleó a Canadá y quedó al borde de quedarse con el Pacific Nations Cup."
+    },
+    "4c55256dc090": {
+      "resumen": "Hugo Porta, ídolo histórico del rugby argentino, a los 75 años sigue ligado a una tarea social poco conocida."
     }
   }
 }

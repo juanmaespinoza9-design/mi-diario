@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T10:05:31Z",
+  "generated_at": "2026-09-13T22:04:36Z",
   "summaries": {
     "edc9193ad5cb": {
       "resumen": "Nueva evidencia sobre un fármaco dirigido contra la APOC3 (apolipoproteína C-III), una proteína clave en el metabolismo de los triglicéridos, que mostraría beneficios en pacientes con hipertrigliceridemia severa. Interesa porque este cuadro eleva el riesgo de pancreatitis aguda y las opciones terapéuticas más allá de los fibratos y el aceite de pescado todavía son limitadas.",
@@ -44,23 +44,12 @@
       "resumen": "Los Centros de Servicios de Medicare y Medicaid (CMS, Centers for Medicare & Medicaid Services) de Estados Unidos finalizaron la actualización esperada de la cobertura nacional para el implante valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation). Es una noticia regulatoria, no un estudio clínico, pero define qué pacientes tendrán acceso financiado al procedimiento y puede anticipar tendencias de cobertura en otros sistemas de salud.",
       "destacado": false
     },
-    "a1d46136dc91": {
-      "resumen": "Hilo de la comunidad r/datascience donde se pregunta cómo manejar variables de confusión (cofound o confounding variables), es decir, factores que distorsionan la relación entre una exposición y un resultado si no se los controla en el análisis. Es útil para un médico que aprende análisis de datos porque el ajuste por confundidores es exactamente el mismo problema que ya conoce de la investigación clínica, solo que aplicado con herramientas estadísticas y de programación."
-    },
     "db19087c5b70": {
       "resumen": "Simon Willison (desarrollador y divulgador especializado en inteligencia artificial) cita al escritor y programador Paul Ford, quien sostiene que la industria del software está descubriendo que hacer productos realmente de vanguardia todavía necesita del criterio humano, más allá del avance de las herramientas de inteligencia artificial (IA) generativa. Le sirve a un médico que aprende análisis de datos como recordatorio de que la IA potencia el trabajo humano, pero no reemplaza el juicio profesional.",
       "destacado": false
     },
     "04b5626eda18": {
       "resumen": "Relato técnico en Towards Data Science sobre cómo una sola letra mayúscula rompía silenciosamente las respuestas de un bot de soporte basado en inteligencia artificial (IA), detectado mediante pruebas de regresión automatizadas con la herramienta Weave sobre distintos modelos de OpenAI. Le sirve a un médico que aprende análisis de datos porque muestra que testear y monitorear sistemas de IA en producción es tan importante como construirlos.",
-      "destacado": false
-    },
-    "81127e5c0039": {
-      "resumen": "Artículo de Towards Data Science que propone un enfoque centrado en incidentes, en lugar de alarma por alarma, para las operaciones de redes de telecomunicaciones asistidas por inteligencia artificial (AIOps, IA aplicada a operaciones de tecnología de la información), buscando reducir la fatiga de alertas y acelerar la respuesta. Le sirve a un médico que aprende análisis de datos porque el problema de fondo, demasiadas alertas y poca señal útil, es el mismo que enfrentan los sistemas de monitoreo clínico.",
-      "destacado": false
-    },
-    "cd984f7c5be3": {
-      "resumen": "Ensayo publicado en xeiaso.net, muy comentado en Hacker News, que ironiza sobre el doble estándar de quienes piden frenar el desarrollo de la inteligencia artificial (IA) mientras siguen usándola y compitiendo con ella. Le sirve a un médico que aprende análisis de datos para tomar con espíritu crítico los discursos sobre \"pausar la IA\" y pensar en los incentivos de quien los pronuncia.",
       "destacado": false
     },
     "3f37b0a02f79": {
@@ -71,26 +60,38 @@
       "resumen": "Publicación personal de Simon Willison (más conocido como divulgador de inteligencia artificial) sobre el avistamiento de un pelícano californiano en el muelle de Pacifica, California, cerrado al público desde junio por una grieta estructural. No tiene relación con inteligencia artificial ni ciencia de datos; se incluye porque proviene del mismo blog que sigue el diario.",
       "destacado": false
     },
-    "16316487dc98": {
-      "resumen": "Presentación de Real-SWE, un nuevo banco de pruebas (benchmark) que evalúa modelos de inteligencia artificial (IA) para programación sobre bases de código reales y privadas de empresas, en lugar de repositorios públicos que los modelos pudieron haber visto durante su entrenamiento. Le sirve a un médico que aprende análisis de datos para entender por qué medir el desempeño real de la IA es más difícil de lo que parece, y por qué conviene desconfiar de benchmarks que puedan estar contaminados con datos de entrenamiento.",
+    "003ff6da8e6d": {
+      "resumen": "Publicación personal, muy comentada en Hacker News (comunidad de tecnología), en la que el autor relata sentirse blanco de un ciberataque atribuido a Tesla, la automotriz de Elon Musk. Sin acceso al texto completo no se pueden confirmar los detalles técnicos ni las acusaciones; se incluye por la repercusión que generó en la comunidad. Para un médico que aprende análisis de datos, sirve como recordatorio de tomar con cautela las afirmaciones virales sobre seguridad informática hasta verificar la fuente primaria.",
       "destacado": false
     },
-    "cec523332601": {
-      "resumen": "Video muy comentado en Hacker News en el que, según su título, la empresa LG acusa a un medio o creador de contenido de difundir \"noticias falsas\". Sin acceso al video no se puede precisar el tema de fondo ni si involucra productos de inteligencia artificial de la compañía; se incluye por la repercusión que generó en la comunidad tecnológica.",
+    "978198e2ed46": {
+      "resumen": "Nota viral en Hacker News sobre un supuesto desabastecimiento global de aceite de motor que llevaría a Costco (cadena de supermercados mayoristas) a racionar su venta. El título no permite confirmar causas ni magnitud del faltante. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo circulan afirmaciones sobre escasez de insumos sin datos duros que las respalden, algo a chequear siempre con fuentes primarias antes de sacar conclusiones.",
       "destacado": false
     },
-    "84a732ab6cd0": {
-      "resumen": "Reporte técnico, difundido en Mastodon y muy discutido en Hacker News, que documenta que el cliente de Zoom para Linux lee de forma proactiva todo lo que se copia al portapapeles del sistema (X11), incluso sin pegarlo dentro de la aplicación. Le sirve a un médico que aprende análisis de datos como recordatorio de revisar qué datos recolectan las herramientas de uso diario, sobre todo si se maneja información sensible de pacientes.",
+    "ef9f4296e998": {
+      "resumen": "Artículo muy comentado en Hacker News que cuestiona por qué Google seguiría mostrando anuncios de baja calidad o fraudulentos pese a sus sistemas automatizados de moderación. Le sirve a un médico que aprende análisis de datos porque expone las limitaciones reales de los algoritmos de clasificación y moderación a gran escala, un problema análogo al de cualquier sistema de detección automática que debe filtrar señal de ruido.",
       "destacado": false
     },
-    "e09a73de2bfb": {
-      "resumen": "La mirada de Escalante sobre los dos jugadores de Los Pumas presentes en Yerba Buena y la confirmación del regreso de Emiliano Boffelli a la convocatoria."
+    "4e3f293e3094": {
+      "resumen": "David Sacks (empresario e inversor, actual zar de inteligencia artificial y criptomonedas de la Casa Blanca) sostuvo en la red social X que empresas como OpenAI y Anthropic no necesitarían regulaciones estatales para autolimitar el desarrollo de sus modelos de frontera (los sistemas de inteligencia artificial más avanzados de cada compañía). Le sirve a un médico que aprende análisis de datos para seguir el debate político sobre cómo y quién debería regular el avance de la inteligencia artificial (IA).",
+      "destacado": false
     },
-    "cc5e2200933e": {
-      "resumen": "Un tumulto y un pedido de disculpas a la tribuna marcaron el tenso final del partido de Emiliano Boffelli ante Tucumán Rugby."
+    "5f4ac7f7d91b": {
+      "resumen": "Artículo de Towards Data Science que relata, paso a paso, todo lo que se rompe al intentar llevar a producción un modelo de predicción de abandono de clientes (churn) mediante un endpoint FastAPI, desde que \"funciona en la compu\" hasta que queda disponible para que otros lo consuman. Le sirve mucho a un médico que aprende análisis de datos porque muestra que entrenar un modelo es solo la mitad del trabajo: la otra mitad es la ingeniería para que sea usable de forma confiable.",
+      "destacado": false
     },
-    "07c30a9f47cd": {
-      "resumen": "Luciano González tuvo un debut irregular en el Ultimate Sevens de Los Pumas 7's: convirtió un try, pero una lesión encendió las alarmas."
+    "6b58a41407d6": {
+      "resumen": "Guía práctica de Towards Data Science sobre cómo estimar el verdadero efecto de una funcionalidad de inteligencia artificial (IA) de adopción voluntaria (opt-in) cuando nadie aleatorizó quién la usa, evitando confundir la mejora observada con un simple efecto de selección (que los usuarios más comprometidos sean justamente los que la eligen). Le sirve directamente a un médico que aprende análisis de datos porque es el mismo problema de causalidad e inferencia que aparece al evaluar cualquier intervención no aleatorizada en la práctica clínica.",
+      "destacado": false
+    },
+    "2a6cad3045ad": {
+      "resumen": "Guía con los días, horarios y la forma de seguir por TV la participación de Los Pumas 7's y Las Yaguaretés en los Juegos Suramericanos."
+    },
+    "4297e1622d16": {
+      "resumen": "Un jugador de Los Pumas volvió a la cancha tras recuperarse de una lesión y marcó un try en su regreso."
+    },
+    "7fcb7f522491": {
+      "resumen": "Un repaso de cómo les fue a Los Pumas 7's y a Las Yaguaretés en su participación en los Juegos Suramericanos."
     }
   }
 }

@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-09-14T13:02:52.619384+00:00",
+ "generated_at": "2026-09-14T19:29:17.161861+00:00",
  "sections": [
   {
    "id": "cardiologia",
    "title": "Cardiología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "On Record: AI's Imprint on Medical Education",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWmhfSlhscE9OakZaUjB1d1h6cU9ZMGVxd0VDVWRTN3VMUmZKMnp5OUhfM3BqUTNZb3c5RFRsdU1hQ3ZydTJKSWt6QkdEQVJycldEd0VyRXc4QVRkc1BlcE03emVMOXprUEt3WkxLNXUxcUFMc1ppTXJIUC14QUJFbVVQTTBPd3Ftd3diUkZR?oc=5",
+     "source": "TCTMD",
+     "published": "2026-09-14T15:18:21+00:00",
+     "id": "d12762c74b25"
+    },
     {
      "title": "Fifth Universal Definition of MI Unveiled at ESC 2026",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83UmhxaXp6aEZYSDVjUE1Pa3J1UEVJY2JLRkJsdnBTWWx0Y0dQZ1N0SlpRNmZpb0ZfQzc0MWJ3dzBGOXZMazRtdWdNa2hvbWQ4eHFWMHJmc3FlRzZfRlRIdmZGdXB2eXB3SHFPSWdKM2pSc29qU1o3Z05kdmNEX28?oc=5",
@@ -33,13 +40,6 @@
      "source": "TCTMD",
      "published": "2026-09-10T20:48:49+00:00",
      "id": "edc9193ad5cb"
-    },
-    {
-     "title": "Bioprosthetic Valve Durability: A Multi-Disciplinary Approach",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMXJNVE9JODNXNk00UVZZeDlnSWRqaU5BYjR3S1lQSmJyQWMtbTd3STI1UEI2YTlicC1pYVdELUxucU5mU3JhRU9ybUxPUWxvLUhfd25kM3Q1WFFzSDRQZ0M2aWo0bFRnemFoRE5Hc0x0VkpxbFViUnVXbUo5RzFVRUpsbHJ1eG9INTJJVkZnQQ?oc=5",
-     "source": "TCTMD",
-     "published": "2026-09-10T19:39:50+00:00",
-     "id": "8cb615c1328e"
     },
     {
      "title": "REPLY: Heterogeneous Value of a Multicondition Cardiovascular PRS Panel",
@@ -89,81 +89,89 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "¡Atentos, Los Pumas! Uno de sus rivales en el Mundial llegó un acuerdo para potenciar a sus jugadores",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcmN3LW5VdUtyRlFqSXRyTFh0NTR5aEhhdms2VVFYSHFQWU41UjZvVTQ0M0VrMjVXUHQ2N0hZLURrZVl6NW1OTGctZGR6UjQteWd6dkZNMXdscWFPWGFySU03TkQ0N2RiTl8yZjROUlp1VHJjTkxlaUhJNG5yX1JhSTZxdWExWi1XcmJENE1yN1dKVFZnWm56a3ExalJGY0JMVDZxVlBXQ0g2MEVQeU9EcHIwb3JsbERw?oc=5",
+     "source": "ESPN Argentina",
+     "published": "2026-09-14T18:54:00+00:00",
+     "id": "41e9f4ea2157"
+    },
+    {
+     "title": "A paso de León: la evolución de River en las dos tablas desde la asunción de Ponzio",
+     "link": "https://www.ole.com.ar/river-plate/river-leonardo-ponzio-tabla-zona-anual-avance-coudet-puntos-puestos-subio_0_fEFGAJtEEQ.html",
+     "source": "Olé — River",
+     "published": "2026-09-14T17:36:23+00:00",
+     "copete": "El nuevo ciclo arrancó con tres victorias clave para reposicionarse tanto en la zona como en la anual. Ahora, el escenario de Libertadores no es tan utópico...",
+     "id": "f8f7a711be49"
+    },
+    {
+     "title": "Video: un hincha de Racing le pidió la renuncia a Vojvoda",
+     "link": "https://www.ole.com.ar/racing/racing-juan-pablo-vojvoda-hincha-conferencia-prensa-huracan_0_7X2We1WBd1.html",
+     "source": "Olé — Primera",
+     "published": "2026-09-14T17:20:39+00:00",
+     "copete": "Se viven tiempos turbulentos en la Academia. Mientras el entrenador hablaba en conferencia de prensa, un fanático exigió su salida en cancha de Huracán. Mirá.",
+     "id": "488e082a0ee7"
+    },
+    {
+     "title": "“Fue un crimen de odio”: el testimonio de la madre de Federico Martín Aramburú en el juicio | 14 de",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM2Z0M1pIYmcyVm80bjI0ZllGSmtOR1dqdFZLZDdSeWgyOERGUW02ZFdxaWhVR19YUVFHMmZKNHdyaXA5OEs4dl84dkhhU0lKR1FGN0Z2UllfcHZrRXFTSDFsTFBJMnBxOHVwZUJ3MVNSR2hBNk12NzlhNmFiQ2RzQWo4dmE0bFJTMTloUDR2dHpYYUZOX1pfUHNRblQ2dTlseGJtbW1PWnJaWXE1RU8tMUNnYzJPcVQwM1I0eE1yaG9URlhO0gHKAUFVX3lxTE0yQkRfMERPdVdwTUp1N1V3WmIyN0tfWkZmTU5aTkNLdTBJY2NHdHd5ZFAxRFFKYmpIakNQSDB5S1ludGtTUEFRU05udnB4MHNJb294NUU4MWd1QVRqMGdYY3h5ZHpLTTFudW9PN1dqaTd5MUw5alFSbHlHSDNvMEpvZjZUYXpITVZwR2hSRDJvWTJjUU92OGRhYVhMYTA3VFhEcG84Sm9wSWNyMFRKNlVNcE5nOGJUT0pVd1ZrX1NRelM3LUJ1SjBRYlE?oc=5",
+     "source": "Hoy Día Córdoba",
+     "published": "2026-09-14T16:30:14+00:00",
+     "id": "0c5f9c48d738"
+    },
+    {
+     "title": "Miramón apuntó contra Martínez Beligoy tras el empate de Gimnasia: \"Siempre nos pasa lo mismo con los árbitros\"",
+     "link": "https://www.ole.com.ar/gimnasia-y-esgrima/ignacio-miramon-belogoy-gimnasia-argentinos-empate-aaaj-arbitraje_0_jCk6zmhAyQ.html",
+     "source": "Olé — Primera",
+     "published": "2026-09-14T16:11:11+00:00",
+     "copete": "El mediocampista del Lobo cuestionó el arbitraje y lamentó los puntos que dejaron en La Paternal.",
+     "id": "e3f46913fc20"
+    },
+    {
+     "title": "Facundo Isa no baja los brazos y espera su oportunidad en Los Pumas: “Ya no tengo demasiado contacto” | 14",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTWp3YWY5cFU1ajdPeXhkekJxaXMySldRTEFza0NVZHRNZHJMaVJaLTJPd3JVTHBMblQyd2NFdUdURFVHaTZnbHVwOU5IZnpocVA1MUZEeGNNeVJsRWtkamxscXZyci1ubGFRZkxoakI3Tl93TUJreDJWaHZ6WEVEdlI1Ui14enhUcWtBalR0aDdkUUJVMVg2cE9ZcU96Q25oNnBOM2gwbHpoOXhrbDNaT2R0S0tJdjNpNVBIMEJXZFlyVENxZzR0cmFRbDhnb3ZqTnfSAdcBQVVfeXFMTWVLUFpZcXVqcVE1aDZtOG92UDRnVWlvZ3FjalJTUjNHOUN4b2FuNWN0Rml5QVlfQkFUSnIxR2pFeDBZdUV2NkZfZElmSG9TZTBKdWJXeGZEUE5RUTZ0aFZaNklzZDhCdVFKYUNlUU9ZdmxnWWdTc2xZR2xjSlpMZkhIVk5mUk94RGRVektkVjNfUUktZ2hxZ3Q5M3NVZEtPMGRFc2pacmxWYmgyRkMyUk1fVFBtQmtKbE9CeUloVWR3WkdjUEo5R1R5OHpDV2FsWGtvdGpvMnM?oc=5",
+     "source": "Hoy Día Córdoba",
+     "published": "2026-09-14T16:09:00+00:00",
+     "id": "2d10655060a0"
+    },
+    {
+     "title": "Racing en crisis: reunión clave con Vojvoda para definir su futuro",
+     "link": "https://www.ole.com.ar/futbol-primera/racing-milito-vojvoda-torneo-clausura-coudet_0_N5Zb7AsOkJ.html",
+     "source": "Olé — Primera",
+     "published": "2026-09-14T15:12:59+00:00",
+     "copete": "La dirigencia mantendrá esta tarde un cónclave con el técnico, muy debilitado por el pésimo momento deportivo. Le darían \"apoyo\", pero con margen hasta Boca en dos semanas. Coudet, Zubeldía y Beccacece están libres, pero...",
+     "id": "a6a29eddb8a1"
+    },
+    {
+     "title": "River jugó otro amistoso: cómo salió y quién anotó el gol decisivo",
+     "link": "https://www.ole.com.ar/river-plate/river-ponzio-amistoso-estudiantes-ba-suplentes-atletico-tucuman-goles-resultado_0_fQmCSiBrxW.html",
+     "source": "Olé — River",
+     "published": "2026-09-14T14:47:57+00:00",
+     "copete": "En la vuelta a los entrenamientos, Ponzio les dio rodaje a los jugadores que no habían jugado el sábado. Los detalles del partido informal vs. Estudiantes (BA).",
+     "id": "05ba0c17a92f"
+    },
+    {
+     "title": "El audio del VAR que salvó a Arambarri de la roja vs. Atlético Tucumán: \"Primero juega el balón...\"",
+     "link": "https://www.ole.com.ar/river-plate/river-atletico-tucuman-mauro-arambarri-patada-audio-var-arbitro-beligoy_0_CX5pOpj4r0.html",
+     "source": "Olé — River",
+     "published": "2026-09-14T13:55:16+00:00",
+     "copete": "Se dio a conocer la comunicación entre el árbitro y los encargados de la tecnología en una de las polémicas del último partido de River.",
+     "id": "482f7cb22061"
+    },
+    {
+     "title": "Por qué se le viene un partido clave al River de Ponzio",
+     "link": "https://www.ole.com.ar/river-plate/river-leonardo-ponzio-entrenador-equipo-huracan-tabla-anual-zona-clasificacion-copas-libertadores_0_d69FElo2g0.html",
+     "source": "Olé — River",
+     "published": "2026-09-14T13:02:40+00:00",
+     "copete": "El León, firme como DT y con un arranque ideal, buscará ahora que su equipo pueda dar un salto clave en ambas tablas.",
+     "id": "705a278a0295"
+    },
+    {
      "title": "River, hoy EN VIVO: un amistoso, Ponzio y últimas noticias de este lunes 14 de septiembre",
      "link": "https://www.ole.com.ar/river-plate/river-plate-ultimas-noticias-hoy-vivo-lunes-14-septiembre-ponzio-amistoso_0_8FOs82FsMb.html",
      "source": "Olé — River",
      "published": "2026-09-14T12:19:48+00:00",
      "copete": "El DT arranca otra semana importante en su gestión: el sábado, su equipo recibe a Huracán.",
      "id": "e89004390748"
-    },
-    {
-     "title": "Los Pumas fueron ninguneados en un ranking británico y las redes explotaron",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNjZxTU94b3VaV29rNVRSM1JMV0FJSmZXb3k0NExFZ296R0Mydzlmc0VWQ1pQdWQ2dGp6ME5yZHR5eUlvWWc2ODB0cEoyeFIxenBjaGpMRFhnMVBUNVFDUjM0RWs0aXB1X2NRMTR5ZXRfUnR5ZlZCd3hFQkJtTUMtMU0tdzI5ZzJ3eWVCYUNodW9QSV9fbGN0NTlOQi1MZnN3a29OUzFCN3JmOXQ0anBpWmJkNWNKNmV3MG9QRTBmX0Y4Mko1NHfSAcsBQVVfeXFMTmxIMmZXMy1lVG9mLVlkTy1Qa21WR3Y1ZVdIOW9zalMxOGlVNFUwNUl2dkdZeTIya3huOE0yTXR1Tzg3ODl5dmlQM1hxdDY1NEVGRTl5dFY1dHRXcmduamtSaHRsaUlUMFZYOG4zbmN1eFNoQlJJT0xXcTVLNGU2VzRkOU1lQ1c3RWJXOE04YzVneTU5T09ieGpERUwyTHdSMGhfemt0QTV4MWdiVGlDODY3MXZsNUI0WEhaN0NPVUdTR3c4M3NtZEllV0E?oc=5",
-     "source": "Uno Entre Rios",
-     "published": "2026-09-14T11:26:29+00:00",
-     "id": "e90696249fb4"
-    },
-    {
-     "title": "“Fue un crimen de odio”: el desgarrador testimonio de la madre del exrugbier Federico Martín Aramburú en el juicio por su asesinato",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZk9IWnB0UEVrdGlTYmJNcWs3MnJQSi1WbVY1Q3RpNW5RZW04bFoxWVhFVTUzZW9zN0FVUGpPUk9KV3ZFSkgwVGFyVVIwMUlWMm50OE9HT0tETTNVdHRrUkl3RDhhTko0Rmx3Uk1WRkRsUG5weGVkWnphNEJrSVRNeC0xWTluc0U5cmhWZm9hNWN1bXcwZ1loZlRRVWFYODBsR09KYjdMX0dvOGo3UzFmNUxvZnQwQm0tQXh5Rmk2clAxd2dHZENRNllQdDg3VWdtT25SRlBWemxrNk1aWHVhSHJzc0lEX3ozMXhkR9IBgAJBVV95cUxPQ2NzbU9NbXZkWUVkTENER3B6dHlZdHBvSi1fYXJjcU5SUVlNQVVxR20zeVpDTk9ROXlUUC1KcE54SEpGSHBYdDFtaG5VN3RYaHFOb1d4M1U1eUF5QWlHUEFtWkFLQVd1cWZMaWU4ZlZmSGsyVE5YUEk1M2pfeGpOc3JFQTFKUXYtMjBZSTdWX3JVUzVMTXlmNVpTd1d0REtZWWc3TFdSb20wZHozX2hwbHJZcVJmQURmQkZrTnNtd2NvMUVBQ1hUWnRzWDZydWV4VjJqcEVaN3JvUm5yN01hSks4N3NpSXZvN0I0cXE1MWcta09hM19sNl81NlR3YXBt?oc=5",
-     "source": "tn.com.ar",
-     "published": "2026-09-14T10:11:13+00:00",
-     "id": "ce039c6de17d"
-    },
-    {
-     "title": "Los Pumas 7's y Las Yaguaretés: días, horarios y cómo ver los Juegos Suramericanos",
-     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNTV3eVQySDVjOEVaRGlTM0xwbGJBVEh3cGFvLUVfWWRCLVZMOGxReVp6aEFmX1A3VDFwcEZIc1g5M05BRER5Rl9DMTVTUXY5RkR6NlN4WF9ub2VGcUZGSE9ycXVhbkpwbVdUZS1ZdGdyRXFPM0x2SzRBWGpIcTNveENVZG5UZnRLRkw4QnBsS3FEbDNIMGp6SEtUZy0teVZSUGQzSzYza2RVX1RQcGMxdkttRWQ5ajN0OWRWZ3pEcTRfNHh2bmZiMGxtcklhUHppa0MzV1NNdXoxQnRZaDMzdjJoaVNMRHY4U19lUGZoRHZXbU9YQzRGVQ?oc=5",
-     "source": "ESPN Colombia",
-     "published": "2026-09-14T06:32:23+00:00",
-     "id": "99bf8a3b24c9"
-    },
-    {
-     "title": "El uno por uno de la derrota de Racing ante Huracán",
-     "link": "https://www.ole.com.ar/racing/racing-huracan_0_yfu0vAmJnd.html",
-     "source": "Olé — Primera",
-     "published": "2026-09-14T03:03:02+00:00",
-     "copete": "La Academia perdió con Huracán, llegó a ocho partidos sin triunfos y sigue último en la Zona B. Acá, los puntajes de todos los protagonistas del equipo de Vojvoda.",
-     "id": "65e6d738ebd0"
-    },
-    {
-     "title": "Maravilla Martínez, tras otra derrota de Racing: \"Ya no hay palabras para esto\"",
-     "link": "https://www.ole.com.ar/racing/maravilla-martinez-derrota-racing-huracan_0_MYRtf3hrnp.html",
-     "source": "Olé — Primera",
-     "published": "2026-09-14T02:53:49+00:00",
-     "copete": "La Academia cayó 2-1 contra Huracán y el capitán repitió las mismas palabras que Rojo la fecha pasada: \"Da vergüenza esta situación\".",
-     "id": "12dd05eaad6e"
-    },
-    {
-     "title": "La tabla anual: Independiente Rivadavia puntero, Boca se acerca a Libertadores y River en Sudamericana",
-     "link": "https://www.ole.com.ar/futbol-primera/tabla-anual-clasificacion-copas-libertadores-sudamericana-descenso-puntero-boca-river_0_muHRN2UZGC.html",
-     "source": "Olé — River",
-     "published": "2026-09-14T02:28:00+00:00",
-     "copete": "Con la clasificación a las copas, un título y un descenso en juego, los puntos de las 16 fechas de la fase regular del Clausura se suman a los cosechados en el Apertura.",
-     "id": "50cd47e0d4ed"
-    },
-    {
-     "title": "La fecha 9 del Clausura: resultados y posiciones",
-     "link": "https://www.ole.com.ar/futbol-primera/fecha-9-clausura-2026-resultados-posiciones_0_KlmFSBPdVs.html",
-     "source": "Olé — River",
-     "published": "2026-09-14T02:22:00+00:00",
-     "copete": "El domingo cerró con el triunfo de Huracán por 2-1 sobre Racing. La acción de esta novena jornada culminará el lunes con tres partidos.",
-     "id": "100404736dda"
-    },
-    {
-     "title": "Ecuador anunció a Gallardo: el mensaje de bienvenida con frase riverplatense",
-     "link": "https://www.ole.com.ar/futbol-internacional/marcelogallardo-ecuador-tecnico-seleccionnacional-bienvenida_0_1gB7Fd6ysh.html",
-     "source": "Olé — River",
-     "published": "2026-09-14T00:28:58+00:00",
-     "copete": "\"Que la gente crea, porque tiene con qué creer\", fue una de las frases con las que la Federación presentó al Muñeco. Mirá el video del presidente de la Federación.",
-     "id": "f059b1766b85"
-    },
-    {
-     "title": "Video: Jaime volvió a lucirse con otro gol para Peñarol",
-     "link": "https://www.ole.com.ar/futbol-internacional/cristianleoneljaime-penarol-albion-germanpezzella-diegoaguirre_0_iYrg67OSOj.html",
-     "source": "Olé — River",
-     "published": "2026-09-13T23:52:59+00:00",
-     "copete": "El volante ofensivo que pertenece a River marcó con una muy buena definición el 1 a 0 frente a Albion en el Centenario. Además, metió un caño en la jugada del 2 a 0.",
-     "id": "52a9eacb03d0"
     },
     {
      "title": "Buenos Aires, tricampeón en el M16 Desarrollo Norte",
@@ -197,20 +205,63 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "When to Use One Model and When to Use a Team of Agents",
+     "link": "https://towardsdatascience.com/when-to-use-one-model-and-when-to-use-a-team-of-agents/",
+     "source": "Towards Data Science",
+     "published": "2026-09-14T17:52:20+00:00",
+     "copete": "When Codex is the right shape for the problem, when Claude Code is, and how I split 5 specialist agents between them on dense AI capacity work. The post When to Use One Model and When to Use a Team of Agents appeared first on Towards Data…",
+     "id": "431de4f40215"
+    },
+    {
+     "title": "iOS 27, iPadOS 27, and macOS 27",
+     "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-09-14T17:50:29+00:00",
+     "id": "8479535e9fb6"
+    },
+    {
+     "title": "Steam Frame starts at $1059",
+     "link": "https://store.steampowered.com/hardware/steamframe",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-09-14T17:27:55+00:00",
+     "id": "ea38292b932e"
+    },
+    {
+     "title": "Pion, an agent designed to run any company autonomously",
+     "link": "https://andonlabs.com/blog/why-we-built-pion",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-09-14T17:16:06+00:00",
+     "id": "310d4fd0496b"
+    },
+    {
+     "title": "Using fake-data simulation to see what a study can actually detect",
+     "link": "https://www.reddit.com/r/datascience/comments/1wg8855/using_fakedata_simulation_to_see_what_a_study_can/",
+     "source": "r/datascience",
+     "published": "2026-09-14T16:27:31+00:00",
+     "id": "cb1a759a519a"
+    },
+    {
+     "title": "Distributed Systems Classics (2017)",
+     "link": "https://nvartolomei.com/dist-sys-classics/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-09-14T16:02:01+00:00",
+     "id": "050c752fcd3f"
+    },
+    {
+     "title": "Quoting Laurie Voss",
+     "link": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-09-14T14:34:29+00:00",
+     "copete": "The cost of writing code collapsed, and the cost of reviewing, fixing and operating it is following, and I'm assuming it gets there. What's left of making software is finding out what people actually want, defining it precisely, and making…",
+     "id": "affb45ca605e"
+    },
+    {
      "title": "Graph Engineering for AI Agents: From Prompts and Loops to Workflows",
      "link": "https://towardsdatascience.com/graph-engineering-for-ai-agents-from-prompts-and-loops-to-workflows/",
      "source": "Towards Data Science",
      "published": "2026-09-14T12:30:01+00:00",
      "copete": "A viral debate over loops versus graphs points to a bigger shift in how we build AI systems. Here’s what graph engineering actually means, how it differs from prompt, context, and loop engineering, and why it matters. The post Graph…",
      "id": "e298e75f94d9"
-    },
-    {
-     "title": "Why DeepSeek-V4.1-Flash Is Such an Exciting Open Model Release",
-     "link": "https://www.kdnuggets.com/why-deepseek-v4-1-flash-is-such-an-exciting-open-model-release",
-     "source": "KDnuggets",
-     "published": "2026-09-14T12:00:09+00:00",
-     "copete": "DeepSeek-V4.1-Flash shows how Causal Encoder-Decoder architecture, MoE, KV cache compression, CSA2, cheaper prefill, and efficient decoding can make powerful open-source AI models far more efficient to run.",
-     "id": "7757ed6f8542"
     },
     {
      "title": "From Static to Dynamic Skills: A Different Model for Agent Knowledge",
@@ -226,53 +277,6 @@
      "source": "r/datascience",
      "published": "2026-09-14T08:50:06+00:00",
      "id": "1b5d2b5ba634"
-    },
-    {
-     "title": "Weekly Entering & Transitioning - Thread 14 Sep, 2026 - 21 Sep, 2026",
-     "link": "https://www.reddit.com/r/datascience/comments/1wfsve7/weekly_entering_transitioning_thread_14_sep_2026/",
-     "source": "r/datascience",
-     "published": "2026-09-14T04:01:14+00:00",
-     "id": "d34290c85b12"
-    },
-    {
-     "title": "commit-rewriter 0.1",
-     "link": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
-     "source": "Simon Willison (IA)",
-     "published": "2026-09-14T00:28:10+00:00",
-     "copete": "Release: commit-rewriter 0.1 I built this little web app the other day to help edit the commit messages for the Datasette security releases . The initial commits were full of coding agent cruft and references to issue IDs from our private…",
-     "id": "2e88014063fe"
-    },
-    {
-     "title": "shot-scraper 1.12",
-     "link": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
-     "source": "Simon Willison (IA)",
-     "published": "2026-09-13T23:58:14+00:00",
-     "copete": "Release: shot-scraper 1.12 I've added WebP support to my shot-scraper screenshot automation tool. You can now take a WebP screenshot of a web page like this: shot-scraper https://simonwillison.net -o screenshot.webp --quality 80 The…",
-     "id": "39d900722912"
-    },
-    {
-     "title": "Your Model Isn't Done Until Someone Else Can Call It",
-     "link": "https://towardsdatascience.com/your-model-isnt-done-until-someone-else-can-call-it/",
-     "source": "Towards Data Science",
-     "published": "2026-09-13T15:00:01+00:00",
-     "copete": "Building a FastAPI endpoint for churn prediction, and everything that broke between \"it runs\" and \"it's live The post Your Model Isn't Done Until Someone Else Can Call It appeared first on Towards Data Science .",
-     "id": "5f4ac7f7d91b"
-    },
-    {
-     "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
-     "link": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
-     "source": "Simon Willison (IA)",
-     "published": "2026-09-12T23:56:42+00:00",
-     "copete": "Here's a neat thing I had ChatGPT Work with GPT-6 Astra (Max) do this morning: I live at <my address>. Figure out 5K and 10K running routes from me that loop from my house. Use OSM data. It worked for 27 minutes and produced exactly what…",
-     "id": "3f37b0a02f79"
-    },
-    {
-     "title": "From Spaghetti Code to Clean Python: A Beginner’s Guide",
-     "link": "https://www.kdnuggets.com/from-spaghetti-code-to-clean-python-a-beginners-guide",
-     "source": "KDnuggets",
-     "published": "2026-09-11T14:00:10+00:00",
-     "copete": "Learn how to refactor messy Python code into clean, maintainable functions.",
-     "id": "a0d51ea2c979"
     }
    ]
   },
@@ -282,99 +286,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "A dos años del asesinato de Juan López, la ONU advierte: “El verdadero homenaje es esclarecer el crimen y corregir las fallas que lo permitieron”",
-     "link": "https://www.infobae.com/honduras/2026/09/14/a-dos-anos-del-asesinato-de-juan-lopez-la-onu-advierte-el-verdadero-homenaje-es-esclarecer-el-crimen-y-corregir-las-fallas-que-lo-permitieron/",
-     "source": "Infobae",
-     "published": "2026-09-14T12:55:02+00:00",
-     "copete": "La Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos en Honduras sostiene que las medidas de protección no fueron implementadas adecuadamente y advierte que se debe abordar las alertas ignoradas, las fallas…",
-     "id": "ee9ab4b3f567"
-    },
-    {
-     "title": "Paul Auster, escritor estadounidense: “El mundo ha ido de horror en horror, pero los seres humanos seguimos existiendo, enamorándonos y hallando alegría”",
-     "link": "https://www.infobae.com/cultura/2026/09/14/paul-auster-escritor-estadounidense-el-mundo-ha-ido-de-horror-en-horror-pero-los-seres-humanos-seguimos-existiendo-enamorandonos-y-hallando-alegria/",
-     "source": "Infobae",
-     "published": "2026-09-14T12:54:31+00:00",
-     "copete": "Tras los atentados a las Torres Gemelas y el inicio de la guerra de Irak, el gran autor neoyorquino abandonó transitoriamente sus laberintos policiales para firmar una novela que funcionó como un manifiesto de supervivencia espiritual…",
-     "id": "c8f1d3c5b73a"
-    },
-    {
-     "title": "Caen las acciones de empresas de inteligencia artificial tras el llamado de sus líderes a frenar el desarrollo",
-     "link": "https://www.lanacion.com.ar/el-mundo/se-desploman-las-acciones-de-empresas-de-inteligencia-artificial-tras-el-llamado-de-sus-lideres-a-nid14092026/",
+     "title": "Un delincuente escapaba de la Policía en Mar del Plata, se tiró de un balcón y terminó rompiéndose la espalda",
+     "link": "https://www.lanacion.com.ar/seguridad/un-delincuente-escapaba-de-la-policia-en-mar-del-plata-se-tiro-de-un-balcon-y-termino-rompiendose-la-nid14092026/",
      "source": "La Nación",
-     "published": "2026-09-14T12:52:26+00:00",
-     "copete": "En medio de crecientes temores por los riesgos de esta tecnología, se sintieron en los mercados globales las primeras reacciones",
-     "id": "929f2c63c706"
+     "published": "2026-09-14T19:25:29+00:00",
+     "copete": "El incidente, que culminó con el ladrón siendo rescatado tuvo lugar el domingo por la mañana y quedó registrado por una cámara de seguridad instalada en un edificio",
+     "id": "0c4f53f47755"
     },
     {
-     "title": "El sector privado registrado despidió a casi 46.000 trabajadores en el primer semestre del año",
-     "link": "https://www.infobae.com/economia/2026/09/14/el-sector-privado-registrado-despidio-a-casi-46-mil-trabajadores-en-el-primer-semestre-del-ano/",
+     "title": "Milei reúne a los legisladores de su espacio para impulsar su agenda parlamentaria",
+     "link": "https://www.lanacion.com.ar/politica/milei-reune-a-los-legisladores-de-su-espacio-para-impulsar-su-agenda-parlamentaria-nid14092026/",
+     "source": "La Nación",
+     "published": "2026-09-14T19:25:14+00:00",
+     "copete": "El debate sobre un libro de economía, el Presupuesto 2027, la suspensión de las PASO y el proyecto de ley por Malvinas serían tres de los ejes del encuentro",
+     "id": "38ecdb895a89"
+    },
+    {
+     "title": "Sueños Compartidos: absolvieron a Julio De Vido y condenaron en suspenso a José López y los hermanos Schoklender",
+     "link": "https://www.infobae.com/judiciales/2026/09/14/suenos-compartidos-absolvieron-a-julio-de-vido-y-condenaron-en-suspenso-a-jose-lopez-y-los-hermanos-schoklender/",
      "source": "Infobae",
-     "published": "2026-09-14T12:49:58+00:00",
-     "copete": "Los rubros más golpeados por la caída de la actividad son los más intensivos en empleo. No se espera una recuperación para lo que resta del año",
-     "id": "0500a7bc7b9a"
+     "published": "2026-09-14T19:24:43+00:00",
+     "copete": "El TOF 5 los consideró penalmente responsables del delito de administración fraudulenta. Con este veredicto, el ex secretario de Obras Públicas suma cinco sentencias en su contra. En esta causa se investigó el desvío de $206.438.454,05…",
+     "id": "082ff17f6d9a"
     },
     {
-     "title": "El ex contador de los Kirchner les suelta la mano a Máximo y Cristina: cree que \"se debe pagar por lo hecho\"",
-     "link": "https://www.clarin.com/politica/ex-contador-kirchner-suelta-mano-maximo-cristina-cree-debe-pagar-hecho_0_g1RugO7xDk.html",
+     "title": "Incendio en Recoleta: se prendió fuego un departamento de un edificio en avenida Callao y Quintana",
+     "link": "https://www.lanacion.com.ar/sociedad/incendio-en-recoleta-se-prendio-fuego-un-departamento-de-un-edificio-en-avenida-callao-y-quintana-nid14092026/",
+     "source": "La Nación",
+     "published": "2026-09-14T19:23:20+00:00",
+     "copete": "Cuatro personas fueron atendidas en el lugar y otra debió ser trasladada al Hospital Rivadavia, informó el SAME; el incendio habría comenzado en el living de la unidad afectada",
+     "id": "5e5627b8ebf8"
+    },
+    {
+     "title": "Polémica en una competencia de Hyrox: sufrió una incontinencia intestinal y siguió hasta ganar",
+     "link": "https://www.lanacion.com.ar/deportes/polemica-en-una-competencia-de-hyrox-sufrio-una-incontinencia-intestinal-y-siguio-hasta-ganar-nid14092026/",
+     "source": "La Nación",
+     "published": "2026-09-14T19:22:49+00:00",
+     "copete": "La atleta australiana Joanna Wietrzyk siguió adelante hasta completar el recorrido y coronarse campeona; los organizadores anunciaron que harán cambios en el reglamento",
+     "id": "607d288bd146"
+    },
+    {
+     "title": "El gobierno de Neuquén le otorgó la personería jurídica a una comunidad mapuche que se resiste a un desalojo",
+     "link": "https://www.lanacion.com.ar/politica/el-gobierno-de-neuquen-le-otorgo-la-personeria-juridica-a-una-comunidad-mapuche-que-se-resiste-a-un-nid14092026/",
+     "source": "La Nación",
+     "published": "2026-09-14T19:22:42+00:00",
+     "copete": "El Estado provincial validó un reclamo histórico de la comunidad Melo, que mantiene su disputa por tierras en Villa La Angostura",
+     "id": "77854b040127"
+    },
+    {
+     "title": "Nalua Studio revive ‘Gley Lancer: Overdrive’ con un remake previsto para 2027",
+     "link": "https://www.infobae.com/malditos-nerds/2026/09/14/nalua-studio-revive-gley-lancer-overdrive-con-un-remake-previsto-para-2027/",
+     "source": "Infobae",
+     "published": "2026-09-14T19:22:00+00:00",
+     "copete": "La nueva versión reconstruirá desde cero las 11 fases del juego de 1992 e incorporará mecánicas, gráficos, música y modos inéditos",
+     "id": "c84e24f1012f"
+    },
+    {
+     "title": "La Justicia confirmó el secuestro de más de 20 vehículos en una megacausa por casinos virtuales y lavado de dinero",
+     "link": "https://www.infobae.com/judiciales/2026/09/14/la-justicia-confirmo-el-secuestro-de-mas-de-20-vehiculos-en-una-megacausa-por-casinos-virtuales-y-lavado-de-dinero/",
+     "source": "Infobae",
+     "published": "2026-09-14T19:20:42+00:00",
+     "copete": "Roberto Javier Zuco, señalado como líder de la organización, reclamó la devolución de la flota ante la Cámara Federal de Casación Penal. Los coches quedarán a disposición de la Corte Suprema",
+     "id": "7952ffd28031"
+    },
+    {
+     "title": "Video: atropelló a una inspectora de tránsito, se fugó y terminó detenida tras una intensa persecución",
+     "link": "https://www.infobae.com/sociedad/2026/09/14/video-atropello-a-una-inspectora-de-transito-se-fugo-y-termino-detenida-tras-una-intensa-persecucion/",
+     "source": "Infobae",
+     "published": "2026-09-14T19:18:25+00:00",
+     "copete": "La mujer manejaba una moto cuando había sido detenida durante un operativo. Fue aprehendida en General Pacheco y dio positivo tanto de alcoholemia como de THC",
+     "id": "1e53db41dbcd"
+    },
+    {
+     "title": "Migraña: cómo es el test gratuito que mide días perdidos y la caída de productividad",
+     "link": "https://www.infobae.com/salud/ciencia/2026/09/14/migrana-como-es-el-test-gratuito-que-mide-dias-perdidos-y-la-caida-de-productividad/",
+     "source": "Infobae",
+     "published": "2026-09-14T19:16:46+00:00",
+     "copete": "El cuestionario de siete preguntas releva ausencias laborales, rendimiento reducido, tareas domésticas postergadas y actividades sociales canceladas durante los últimos tres meses",
+     "id": "730e7a905544"
+    },
+    {
+     "title": "Un exintendente propone crear una “Policía Militar del conurbano” para combatir la inseguridad y el narcotráfico en Provincia de Buenos Aires",
+     "link": "https://www.clarin.com/politica/exintendente-propone-crear-policia-militar-conurbano-combatir-inseguridad-narcotrafico-provincia-buenos-aires_0_n8nAeIESnU.html",
      "source": "Clarín",
-     "published": "2026-09-14T12:49:58+00:00",
-     "copete": "Está acusado por lavado de activos, por las causas Hotesur y Los Sauces, junto a la expresidenta y su hijo. Se define con sus íntimos como un \"muerto civil\" y acepta su responsabilidad en el caso.",
-     "id": "83fb0fbe23c5"
+     "published": "2026-09-14T19:03:36+00:00",
+     "copete": "Joaquín De la Torre, de San Miguel, dice que es la única receta que puede funcionar. “No es el Ejército prestado, ni Gendarmería prestada”. “Hay que hacer explotar este sistema”, manifestó el exministro de Gobierno bonaerense. Pide que sea…",
+     "id": "3da7a601f79c"
     },
     {
-     "title": "“Matar a los maestros” y “la única manera de sentir el calor de una mujer es tomarla por la fuerza”, los mensajes que detectó el FBI en ChatGPT",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/09/13/ademas-de-quilmes-las-amenazas-detectadas-en-plataformas-de-ia-que-pusieron-en-alerta-al-fbi/",
-     "source": "Infobae",
-     "published": "2026-09-14T12:49:30+00:00",
-     "copete": "En solo dos semanas, la PFA recibió 9 reportes similares al del adolescente que fue acusado de planear una masacre escolar con ayuda de la inteligencia artificial",
-     "id": "4545eac9abeb"
-    },
-    {
-     "title": "Briatore llenó de elogios a Colapinto por su actuación en Madrid: “Hizo un trabajo magnífico el fin de semana”",
-     "link": "https://www.lanacion.com.ar/deportes/automovilismo/briatore-lleno-de-elogios-a-colapinto-por-su-actuacion-en-madrid-hizo-un-trabajo-magnifico-el-fin-de-nid13092026/",
-     "source": "La Nación",
-     "published": "2026-09-14T12:48:48+00:00",
-     "copete": "El piloto argentino de 23 años terminó séptimo en el circuito de Madring y sumó seis puntos para el equipo francés, que se mantiene sexto en el Mundial de Constructores con 68 unidades",
-     "id": "0d22053b761c"
-    },
-    {
-     "title": "Se hicieron cargo de una empresa que no tenía fondos en la caja, soportaron varias inundaciones y cambiaron para sobrevivir",
-     "link": "https://www.lanacion.com.ar/economia/campo/se-hicieron-cargo-de-una-empresa-que-no-tenia-fondos-en-la-caja-soportaron-varias-inundaciones-y-nid14092026/",
-     "source": "La Nación",
-     "published": "2026-09-14T12:48:01+00:00",
-     "copete": "En Bolívar, los hermanos Claudia y Marcelo Paladino llevaron adelante medidas defensivas, diversificación en campos alquilados y agregado de valor con actividades no agropecuarias",
-     "id": "4ef7dc5edfe5"
-    },
-    {
-     "title": "Lamine Yamal se diferenció de la candidatura de Kylian Mbappé al Balón de Oro: “Somos los mejores, pero lo merezco yo”",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/lamine-yamal-se-diferencio-de-la-candidatura-de-kylian-mbappe-al-balon-de-oro-somos-los-mejores-pero-nid13092026/",
-     "source": "La Nación",
-     "published": "2026-09-14T12:45:42+00:00",
-     "copete": "El talentoso español habló con Jorge Valdano y dio los argumentos por los que piensa que es el mejor futbolista del mundo",
-     "id": "a3275c6d76ac"
-    },
-    {
-     "title": "“Todo destruido”: así quedó el edificio de 13 pisos que se incendió en pleno Recoleta",
-     "link": "https://www.lanacion.com.ar/sociedad/todo-destruido-asi-quedo-el-edificio-de-13-pisos-que-se-incendio-en-pleno-recoleta-nid14092026/",
-     "source": "La Nación",
-     "published": "2026-09-14T12:45:26+00:00",
-     "id": "93f9fe002484"
-    },
-    {
-     "title": "Anticiparse en lugar de reaccionar: el nuevo desafío logístico de la moda",
-     "link": "https://www.infobae.com/movant/2026/09/14/anticiparse-en-lugar-de-reaccionar-el-nuevo-desafio-logistico-de-la-moda/",
-     "source": "Infobae",
-     "published": "2026-09-14T12:45:00+00:00",
-     "copete": "Pablo Zaninetti, profesional en logística, cuenta cómo la industria de la moda gestiona devoluciones, canales de venta y equipos de trabajo con una mirada cada vez más predictiva y menos reactiva",
-     "id": "92e4b30e92d7"
-    },
-    {
-     "title": "¿Por qué los oligarcas tecnológicos están dispuestos a arriesgarse al apocalipsis?",
-     "link": "https://www.clarin.com/new-york-times-international-weekly/oligarcas-tecnologicos-dispuestos-arriesgarse-apocalipsis_0_nUw6pXgm1R.html",
+     "title": "Joel Álvarez, luchador español en la UFC, 33 años: \"Si no hay fecha de combates es cuando como cachopos, que mi abuela me dijo que hay que comer de todo\"",
+     "link": "https://www.clarin.com/internacional/joel-alvarez-luchador-espanol-ufc-33-anos-fecha-combates-cachopos-abuela-dijo-comer_0_FwnsNWlzDo.html",
      "source": "Clarín",
-     "published": "2026-09-14T12:40:18+00:00",
-     "copete": "La extraña nueva teología de Silicon Valley.",
-     "id": "8979768ac182"
+     "published": "2026-09-14T19:01:22+00:00",
+     "copete": "El peleador asturiano tiene una intensa rutina diaria. Sus últimos dos choques en la empresa fueron derrotas.",
+     "id": "4904b8d1b652"
     }
    ]
   },
@@ -384,84 +389,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Los nacionalistas de Escocia, Gales e Irlanda del Norte se unen para impulsar su independencia del Reino Unido",
-     "link": "https://elpais.com/internacional/2026-09-14/los-nacionalistas-de-escocia-gales-e-irlanda-del-norte-se-unen-para-impulsar-su-independencia-del-reino-unido.html",
-     "source": "El País Internacional",
-     "published": "2026-09-14T12:35:46+00:00",
-     "copete": "Los líderes firman un manifiesto en el que reclaman a Londres que comience a preparar las reformas constitucionales",
-     "id": "653a556ad368"
+     "title": "Por qué preocupa que la IA pueda amenazar a la humanidad y qué tan real es",
+     "link": "https://www.bbc.com/mundo/articles/cqkg0dvwm99vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-09-14T19:00:29+00:00",
+     "copete": "Los llamados a la regulación de la IA aumentan a medida que investigadores y directivos preocupados emiten advertencias inquietantes sobre el potencial de esta tecnología.",
+     "id": "ef26dc5b5567"
     },
     {
-     "title": "\"El tiempo de Westminster se acaba\": los líderes de Escocia, Irlanda del Norte y Gales se unen para reclamar su derecho de independencia de Reino Unido",
+     "title": "¿Por qué la ultraderecha baja en Suecia mientras avanza en Europa?",
+     "link": "https://elpais.com/internacional/2026-09-14/por-que-la-ultraderecha-baja-en-suecia-mientras-avanza-en-europa.html",
+     "source": "El País Internacional",
+     "published": "2026-09-14T17:51:21+00:00",
+     "copete": "El retroceso de Demócratas Suecos por primera vez en cuatro décadas, después de que conservadores y democristianos asumieran parte de su discurso, acerca la victoria al bloque de centroizquierda",
+     "id": "0828990d4e61"
+    },
+    {
+     "title": "“Duermo en Francia, pero vivo en Guatemala”: tres exiliados reclaman a Europa más implicación en Centroamérica",
+     "link": "https://elpais.com/internacional/2026-09-14/duermo-en-francia-pero-vivo-en-guatemala-tres-exiliados-reclaman-a-europa-mas-implicacion-en-centroamerica.html",
+     "source": "El País Internacional",
+     "published": "2026-09-14T17:39:26+00:00",
+     "copete": "España se ha convertido en uno de los principales destinos europeos del exilio político de la región, pero sus protagonistas discrepan sobre cuánto debe implicarse la UE y qué instrumentos debe utilizar",
+     "id": "1d007b84ec34"
+    },
+    {
+     "title": "El Ártico se convierte en una frontera estratégica de la UE",
+     "link": "https://elpais.com/internacional/2026-09-14/el-artico-se-convierte-en-una-frontera-estrategica-de-la-ue.html",
+     "source": "El País Internacional",
+     "published": "2026-09-14T17:08:01+00:00",
+     "copete": "Una docena de países europeos instan a Bruselas a garantizar “de forma colectiva” la seguridad en una región amenazada por los intereses de Rusia, China y hasta Estados Unidos",
+     "id": "5990a082d4ff"
+    },
+    {
+     "title": "Polonia localiza y recupera del mar Báltico un “dron militar”",
+     "link": "https://elpais.com/internacional/2026-09-14/polonia-localiza-y-recupera-del-mar-baltico-un-dron-militar.html",
+     "source": "El País Internacional",
+     "published": "2026-09-14T16:59:41+00:00",
+     "copete": "El ministro de Defensa afirma que “cada vez más datos indican que los rusos probablemente perdieron” la aeronave de tipo Gerbera",
+     "id": "3b1528868a76"
+    },
+    {
+     "title": "Los líderes de Escocia, Irlanda del Norte y Gales se unen para reclamar su derecho de independencia de Reino Unido",
      "link": "https://www.bbc.com/mundo/articles/cqzjz0pjedxro?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-09-14T12:24:43+00:00",
-     "copete": "Los líderes de Plaid Cymru, el SNP y el Sinn Féin afirman que el gobierno británico debería prepararse para una reforma constitucional.",
+     "published": "2026-09-14T16:51:10+00:00",
+     "copete": "Los líderes de los partidos nacionalistas de Gales, Escocia e Irlanda del Norte -Plaid Cymru, SNP y Sinn Féin- afirman que el gobierno británico debería prepararse para una reforma constitucional.",
      "id": "d38c40c0c32f"
     },
     {
-     "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-     "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+     "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
+     "link": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-09-14T12:18:13+00:00",
-     "copete": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
-     "id": "5923a3a276c9"
+     "published": "2026-09-14T16:48:10+00:00",
+     "copete": "DHS inspectors say they found the immigration-detention centre violated basic standards for hygiene, medical care, food and safety.",
+     "id": "04ee9d4dcb27"
     },
     {
-     "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
-     "link": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
+     "title": "Africa's richest man launches continent's biggest share sale",
+     "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-09-14T11:35:08+00:00",
-     "copete": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.",
-     "id": "c7fd767f02b3"
+     "published": "2026-09-14T16:23:42+00:00",
+     "copete": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
+     "id": "44f6d4e46c4b"
     },
     {
-     "title": "China criticises idea it is in 'malicious competition' over AI",
-     "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-09-14T11:31:39+00:00",
-     "copete": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
-     "id": "ec2360c82e20"
-    },
-    {
-     "title": "Thousands demand end to violence in Mexican cartel hotspot",
-     "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-09-14T11:28:36+00:00",
-     "copete": "The city has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
-     "id": "3d0ec1f05864"
-    },
-    {
-     "title": "Por qué volvió la tensión entre Argentina e Inglaterra por Malvinas/Falklands 44 años después de la guerra",
-     "link": "https://www.bbc.com/mundo/articles/czrz6d153mxo?at_medium=RSS&at_campaign=rss",
+     "title": "China rechaza la idea de que está en una \"competencia maliciosa\" con EE.UU. por el control de la IA",
+     "link": "https://www.bbc.com/mundo/articles/c95y4jd0ygddo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-09-14T10:59:01+00:00",
-     "copete": "El debate sobre la soberanía de las islas gana intensidad con comentarios ambiguos de Trump y varios intereses internacionales en juego.",
-     "id": "5176752430db"
+     "published": "2026-09-14T16:09:54+00:00",
+     "copete": "Esto se produce tras los llamamientos del director ejecutivo de Anthropic para que se desacelere el desarrollo de la IA, pero de una manera que impida que China tome la delantera en la carrera.",
+     "id": "fe72eaf45a71"
     },
     {
-     "title": "\"Estuve a semanas de casarme con un violador en serie. Mis seres queridos me salvaron la vida\"",
-     "link": "https://www.bbc.com/mundo/articles/c5yelx5l880o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-14T10:43:23+00:00",
-     "copete": "La mujer le contó a la BBC cómo su familia y amigos enviaron pruebas cruciales a la policía, lo que condujo a la detención del violador.",
-     "id": "53d1af19e3c1"
-    },
-    {
-     "title": "El partido de extrema derecha AfD triplica sus votos en unas elecciones municipales en Alemania",
-     "link": "https://elpais.com/internacional/2026-09-14/el-partido-de-extrema-derecha-afd-triplica-sus-votos-en-unas-elecciones-municipales-en-alemania.html",
-     "source": "El País Internacional",
-     "published": "2026-09-14T09:55:12+00:00",
-     "copete": "La CDU de Merz pierde terreno, pero vuelve a vencer en las localidades del Estado de Baja Sajonia, lo que da un respiro al canciller",
-     "id": "616a0f2600bb"
-    },
-    {
-     "title": "Cómo los hombres pueden ayudar a las mujeres a compartir la \"carga mental\" de llevar un hogar",
-     "link": "https://www.bbc.com/mundo/articles/c0re1elv79xo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-14T09:50:45+00:00",
-     "copete": "La planificación y organización de las tareas domésticas suelen recaer de manera desproporcionada en las madres. A continuación, te ofrecemos algunos consejos para contribuir a una distribución más equitativa de esta carga.",
-     "id": "ca0f61170b1e"
+     "title": "Flash flooding interrupts half-marathon, submerges cars",
+     "link": "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-09-14T15:01:28+00:00",
+     "copete": "Parts of New York, New Jersey and Connecticut were hit by flash flooding, leading to water rescues, stranded motorists and half-marathon runners battling the floodwaters.",
+     "id": "f50266b2b240"
     }
    ]
   }
@@ -484,8 +489,8 @@
   },
   {
    "section": "ciencia_datos",
-   "feed": "Hacker News (100+ puntos)",
-   "error": "<urlopen error timed out>"
+   "feed": "KDnuggets",
+   "error": "HTTP Error 403: Forbidden"
   }
  ]
 }

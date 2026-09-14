@@ -1,14 +1,10 @@
 {
-  "generated_at": "2026-09-14T10:06:40Z",
+  "generated_at": "2026-09-14T22:05:01Z",
   "summaries": {
     "edc9193ad5cb": {
       "resumen": "Nueva evidencia sobre un fármaco dirigido contra la APOC3 (apolipoproteína C-III), una proteína clave en el metabolismo de los triglicéridos, que mostraría beneficios en pacientes con hipertrigliceridemia severa. Interesa porque este cuadro eleva el riesgo de pancreatitis aguda y las opciones terapéuticas más allá de los fibratos y el aceite de pescado todavía son limitadas.",
       "destacado": false,
       "analisis": "Diseño: el título no especifica el tipo de estudio (ensayo clínico, análisis de subgrupo u otro); se trata de una nota de tctmd sobre resultados presentados, probablemente en un congreso de cardiología.\nPoblación: pacientes con hipertrigliceridemia severa, cuadro asociado a mayor riesgo de pancreatitis aguda y eventos cardiovasculares.\nIntervención: un fármaco dirigido contra la APOC3 (apolipoproteína C-III), en la línea de terapias como olezarsen o plozasiran, frente a un comparador no especificado en el título.\nResultados: el título solo indica \"beneficios\" sin cifras; no hay reducción porcentual de triglicéridos, razones de riesgo ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar el tamaño de la muestra, si el diseño fue aleatorizado ni el tiempo de seguimiento.\nMensaje: se suma a la familia de terapias dirigidas contra la APOC3 que buscan tratar la hipertrigliceridemia severa cuando fibratos y aceite de pescado resultan insuficientes.\nNota: análisis sin acceso al abstract."
-    },
-    "8cb615c1328e": {
-      "resumen": "Nota de tctmd sobre la durabilidad de las válvulas biológicas (bioprótesis) desde una mirada multidisciplinaria, que reúne a cirugía cardíaca, cardiología intervencionista e imágenes. Sirve para entender cómo distintas especialidades abordan en conjunto el seguimiento a largo plazo de los reemplazos valvulares.",
-      "destacado": false
     },
     "b32cccecc124": {
       "resumen": "Réplica de los autores originales en JACC (Journal of the American College of Cardiology) al comentario recibido sobre su estudio de un panel de puntuación de riesgo poligénico (PRS, polygenic risk score) para múltiples enfermedades cardiovasculares. Es un intercambio de correspondencia científica que profundiza el debate sobre la utilidad clínica desigual de estos paneles genéticos según la enfermedad.",
@@ -45,54 +41,58 @@
       "resumen": "Los Centros de Servicios de Medicare y Medicaid (CMS, Centers for Medicare & Medicaid Services) de Estados Unidos finalizaron la actualización esperada de la cobertura nacional para el implante valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation). Es una noticia regulatoria, no un estudio clínico, pero define qué pacientes tendrán acceso financiado al procedimiento y puede anticipar tendencias de cobertura en otros sistemas de salud.",
       "destacado": false
     },
-    "3f37b0a02f79": {
-      "resumen": "Simon Willison (desarrollador y divulgador especializado en inteligencia artificial) cuenta cómo usó ChatGPT Work con el modelo GPT-6 Astra para generar recorridos de running de 5 y 10 kilómetros cerca de su casa a partir de datos abiertos de OpenStreetMap (OSM), con el agente trabajando de forma autónoma durante casi media hora. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de un agente de inteligencia artificial (IA) resolviendo de punta a punta una tarea con datos geográficos públicos.",
+    "d12762c74b25": {
+      "resumen": "Nota de TCTMD (The Cardiovascular Research Foundation) que repasa cómo la inteligencia artificial (IA) ya deja huella en la formación médica, desde herramientas de IA incorporadas a la currícula hasta cambios en la forma de enseñar y evaluar a los residentes. Vale la pena mirarlo porque la manera de formar médicos, y en particular cardiólogos en formación, está cambiando más rápido que los propios programas de posgrado.",
+      "destacado": false
+    },
+    "431de4f40215": {
+      "resumen": "Artículo de Towards Data Science sobre cuándo conviene resolver una tarea con un solo modelo de inteligencia artificial (IA) y cuándo conviene repartirla entre varios agentes especializados, con un ejemplo real de cómo el autor dividió cinco agentes entre dos herramientas de IA para un trabajo pesado de capacidad. Le sirve a un médico que aprende análisis de datos porque da un criterio práctico para decidir cuándo automatizar una tarea de punta a punta y cuándo conviene dividirla en partes más chicas y controlables.",
+      "destacado": false
+    },
+    "8479535e9fb6": {
+      "resumen": "Apple lanzó las nuevas versiones de sus sistemas operativos, iOS 27, iPadOS 27 y macOS 27, que suelen incorporar mejoras vinculadas a inteligencia artificial (IA) integrada en el sistema. Le sirve a quien aprende análisis de datos como recordatorio de hacia dónde va la infraestructura de cómputo cotidiana sobre la que cada vez corren más herramientas de IA.",
+      "destacado": false
+    },
+    "ea38292b932e": {
+      "resumen": "Valve presentó el precio de Steam Frame, su nuevo visor de realidad virtual independiente, que arranca en 1059 dólares. Tiene relevancia indirecta para quien aprende análisis de datos porque estos dispositivos generan grandes volúmenes de datos de sensores (posición, mirada, movimiento) que después se procesan con las mismas técnicas de ciencia de datos.",
+      "destacado": false
+    },
+    "310d4fd0496b": {
+      "resumen": "Andon Labs presentó a Pion, un agente de inteligencia artificial (IA) diseñado para operar una empresa de forma autónoma, tomando decisiones de negocio sin intervención humana constante. Le sirve a un médico que aprende análisis de datos como caso límite de hasta dónde se plantea llevar la autonomía de los agentes de IA, más allá de tareas puntuales de análisis.",
+      "destacado": false
+    },
+    "cb1a759a519a": {
+      "resumen": "Publicación de r/datascience (comunidad de Reddit sobre ciencia de datos) que explica cómo simular datos ficticios (fake-data simulation) para estimar de antemano qué efectos es capaz de detectar un estudio, antes de recolectar los datos reales. Le sirve mucho a un médico que aprende análisis de datos porque es exactamente la lógica de un cálculo de poder estadístico aplicado a su propio diseño de investigación.",
       "destacado": true
     },
-    "ef9f4296e998": {
-      "resumen": "Artículo muy comentado en Hacker News que cuestiona por qué Google seguiría mostrando anuncios de baja calidad o fraudulentos pese a sus sistemas automatizados de moderación. Le sirve a un médico que aprende análisis de datos porque expone las limitaciones reales de los algoritmos de clasificación y moderación a gran escala, un problema análogo al de cualquier sistema de detección automática que debe filtrar señal de ruido.",
+    "050c752fcd3f": {
+      "resumen": "Recopilación de artículos clásicos sobre sistemas distribuidos (arquitecturas donde varias computadoras cooperan para resolver una tarea), muy comentada en Hacker News. Le sirve a quien aprende análisis de datos como base teórica para entender cómo se procesan y almacenan grandes volúmenes de datos clínicos cuando ya no entran en una sola máquina.",
       "destacado": false
     },
-    "5f4ac7f7d91b": {
-      "resumen": "Artículo de Towards Data Science que relata, paso a paso, todo lo que se rompe al intentar llevar a producción un modelo de predicción de abandono de clientes (churn) mediante un endpoint FastAPI, desde que \"funciona en la compu\" hasta que queda disponible para que otros lo consuman. Le sirve mucho a un médico que aprende análisis de datos porque muestra que entrenar un modelo es solo la mitad del trabajo: la otra mitad es la ingeniería para que sea usable de forma confiable.",
+    "affb45ca605e": {
+      "resumen": "Simon Willison (desarrollador y divulgador de inteligencia artificial) cita a Laurie Voss sobre cómo el costo de escribir código se derrumbó gracias a la IA, y cómo el costo de revisar, corregir y operar ese código sería el próximo en bajar. Le sirve a un médico que aprende análisis de datos porque plantea que lo difícil ya no es programar el análisis, sino definir bien qué pregunta responder y validar que el resultado sea correcto.",
       "destacado": false
     },
-    "6b58a41407d6": {
-      "resumen": "Guía práctica de Towards Data Science sobre cómo estimar el verdadero efecto de una funcionalidad de inteligencia artificial (IA) de adopción voluntaria (opt-in) cuando nadie aleatorizó quién la usa, evitando confundir la mejora observada con un simple efecto de selección (que los usuarios más comprometidos sean justamente los que la eligen). Le sirve directamente a un médico que aprende análisis de datos porque es el mismo problema de causalidad e inferencia que aparece al evaluar cualquier intervención no aleatorizada en la práctica clínica.",
+    "e298e75f94d9": {
+      "resumen": "Artículo de Towards Data Science que explica la llamada \"ingeniería de grafos\" para agentes de inteligencia artificial (IA): en vez de encadenar instrucciones (prompts) o bucles simples, se modela el flujo de trabajo del agente como un grafo de pasos y decisiones. Le sirve a un médico que aprende análisis de datos porque muestra una forma más prolija y controlable de automatizar tareas de varios pasos, como las que aparecen al limpiar y analizar datos clínicos.",
       "destacado": false
     },
-    "7fcb7f522491": {
-      "resumen": "Un repaso de cómo les fue a Los Pumas 7's y a Las Yaguaretés en su participación en los Juegos Suramericanos."
-    },
-    "d34290c85b12": {
-      "resumen": "Hilo semanal fijo de r/datascience (comunidad de Reddit sobre ciencia de datos) para quienes están entrando o haciendo una transición de carrera hacia el análisis de datos, con preguntas sobre estudios, portfolios y primeros pasos. Le sirve a un médico que está migrando hacia esta disciplina porque agrupa en un solo lugar las dudas típicas de quienes vienen de otras profesiones y buscan orientación práctica sobre cómo arrancar.",
+    "483fc8a3c462": {
+      "resumen": "Artículo de Towards Data Science que discute si las \"habilidades\" (skills) de un agente de inteligencia artificial (IA) deberían ser archivos fijos que se cargan una vez, o artefactos que se construyen y actualizan de forma dinámica. Le sirve a quien aprende análisis de datos porque plantea cómo mantener organizado y actualizado el conocimiento que un agente usa para ayudar en tareas repetidas de análisis.",
       "destacado": false
     },
-    "2e88014063fe": {
-      "resumen": "Simon Willison (desarrollador y divulgador de inteligencia artificial) presentó commit-rewriter 0.1, una pequeña aplicación web que armó para reescribir mensajes de commit de Git antes de publicar código, después de notar que estaban llenos de referencias internas y de \"ruido\" generado por agentes de código automatizados. Es un ejemplo concreto de cómo usar inteligencia artificial (IA) para prolijar el historial de versiones, algo útil para cualquiera que aprenda a documentar y compartir su propio código de análisis de datos.",
+    "1b5d2b5ba634": {
+      "resumen": "Consulta técnica en r/datascience sobre cómo clasificar objetos a partir de nubes de puntos (point cloud) generadas por radar, un tipo de dato tridimensional disperso típico de sensores de radar y lidar. Le sirve a quien aprende análisis de datos como ejemplo de clasificación aplicada a datos espaciales complejos, más allá de las tablas y series de tiempo habituales en medicina.",
       "destacado": false
     },
-    "39d900722912": {
-      "resumen": "Nueva versión (1.12) de shot-scraper, la herramienta de línea de comandos de Simon Willison para automatizar capturas de pantalla de páginas web, que ahora suma soporte para el formato de imagen WebP. Le sirve a quien recién arranca en análisis de datos porque muestra cómo automatizar screenshots de dashboards o reportes web sin depender de clics manuales.",
-      "destacado": false
+    "41e9f4ea2157": {
+      "resumen": "Uno de los rivales de Los Pumas en el próximo Mundial cerró un acuerdo para reforzar la preparación de sus jugadores de cara al torneo."
     },
-    "4827a6903f84": {
-      "resumen": "Signal (aplicación de mensajería cifrada) anunció que su registro sin número de teléfono usará pruebas de conocimiento cero (zero-knowledge proofs), una técnica criptográfica que permite demostrar que se cumple una condición sin revelar los datos subyacentes. Le interesa a quien trabaja con datos porque es un caso real de cómo proteger información sensible —directamente aplicable a datos de salud— sin sacrificar la funcionalidad del sistema.",
-      "destacado": false
+    "0c5f9c48d738": {
+      "resumen": "La madre de Federico Martín Aramburú declaró en el juicio por su crimen y lo calificó como un hecho de odio."
     },
-    "0fa77dcd1de2": {
-      "resumen": "Fable 5.1 (modelo de inteligencia artificial) resolvió el Cyphral Distich, un cifrado que llevaba 370 años sin descifrarse, según reportó Hacker News (comunidad de noticias de tecnología). Muestra hasta dónde llega la capacidad de razonamiento y reconocimiento de patrones de los modelos de lenguaje actuales, una habilidad emparentada con la que se necesita para destapar patrones ocultos en datos clínicos o epidemiológicos.",
-      "destacado": false
-    },
-    "97e14b967a5d": {
-      "resumen": "Hilo mensual de Hacker News (comunidad de noticias de tecnología) donde los usuarios comparten en qué proyectos están trabajando durante septiembre de 2026. Le sirve a quien está aprendiendo análisis de datos como vidriera informal de proyectos en curso, ideas y herramientas que circulan en la comunidad tech.",
-      "destacado": false
-    },
-    "330e10f1ef14": {
-      "resumen": "Un jugador de Los Pumas volvió a la actividad tras recuperarse de una lesión y marcó un try en su regreso a la cancha."
-    },
-    "4dcc59b6a53b": {
-      "resumen": "Guía con los días, los horarios y la forma de seguir por TV la participación de Los Pumas 7's y Las Yaguaretés en los Juegos Suramericanos."
+    "2d10655060a0": {
+      "resumen": "El tercera línea Facundo Isa dice que no pierde las esperanzas de volver a Los Pumas, aunque reconoce que hoy tiene poco contacto con el equipo."
     }
   }
 }

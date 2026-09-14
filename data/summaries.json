@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T22:04:36Z",
+  "generated_at": "2026-09-14T10:06:40Z",
   "summaries": {
     "edc9193ad5cb": {
       "resumen": "Nueva evidencia sobre un fármaco dirigido contra la APOC3 (apolipoproteína C-III), una proteína clave en el metabolismo de los triglicéridos, que mostraría beneficios en pacientes con hipertrigliceridemia severa. Interesa porque este cuadro eleva el riesgo de pancreatitis aguda y las opciones terapéuticas más allá de los fibratos y el aceite de pescado todavía son limitadas.",
@@ -16,7 +16,8 @@
     },
     "c0fa2f59df30": {
       "resumen": "Carta científica publicada en JACC (Journal of the American College of Cardiology) que cuestiona el valor desigual de un panel de puntuación de riesgo poligénico (PRS, polygenic risk score) según la enfermedad cardiovascular evaluada. Da origen a la réplica de los autores originales incluida en esta misma edición.",
-      "destacado": false
+      "destacado": false,
+      "analisis": "Diseño: carta de investigación (research letter) publicada en JACC (Journal of the American College of Cardiology); por el formato de carta probablemente reporta el análisis de una cohorte ya existente más que un ensayo aleatorizado nuevo; el título no permite precisar el número de centros ni de pacientes incluidos.\nPoblación: sujetos evaluados con un panel de puntuación de riesgo poligénico (PRS, polygenic risk score) que cubre múltiples enfermedades cardiovasculares; el título no detalla los criterios de inclusión ni exclusión.\nIntervención: no hay intervención terapéutica; se trata de la aplicación y validación del panel de PRS multienfermedad, sin comparador farmacológico.\nResultados: el título indica que el valor del panel sería \"heterogéneo\" según la condición cardiovascular evaluada, es decir, el desempeño predictivo no sería uniforme entre enfermedades; no hay cifras, áreas bajo la curva, razones de riesgo ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar el tamaño de la cohorte, la ascendencia genética de la población estudiada ni las métricas de discriminación utilizadas para cada enfermedad.\nMensaje: advierte que no todos los paneles de riesgo poligénico multienfermedad rinden igual para cada condición cardiovascular, lo que exige cautela antes de aplicarlos de manera uniforme en la práctica clínica; motivó una réplica de los autores originales que profundiza el debate.\nNota: análisis sin acceso al abstract."
     },
     "ae80342e458c": {
       "resumen": "Editorial de JACC (Journal of the American College of Cardiology) que comenta el estudio NC-DEFINE sobre determinantes genéticos de insuficiencia cardíaca temprana en el síndrome de corazón izquierdo hipoplásico, una cardiopatía congénita compleja de un solo ventrículo. Contextualiza por qué la variación genética sumaría una capa de riesgo adicional sobre un miocardio ya sometido a sobrecarga hemodinámica.",
@@ -44,36 +45,12 @@
       "resumen": "Los Centros de Servicios de Medicare y Medicaid (CMS, Centers for Medicare & Medicaid Services) de Estados Unidos finalizaron la actualización esperada de la cobertura nacional para el implante valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation). Es una noticia regulatoria, no un estudio clínico, pero define qué pacientes tendrán acceso financiado al procedimiento y puede anticipar tendencias de cobertura en otros sistemas de salud.",
       "destacado": false
     },
-    "db19087c5b70": {
-      "resumen": "Simon Willison (desarrollador y divulgador especializado en inteligencia artificial) cita al escritor y programador Paul Ford, quien sostiene que la industria del software está descubriendo que hacer productos realmente de vanguardia todavía necesita del criterio humano, más allá del avance de las herramientas de inteligencia artificial (IA) generativa. Le sirve a un médico que aprende análisis de datos como recordatorio de que la IA potencia el trabajo humano, pero no reemplaza el juicio profesional.",
-      "destacado": false
-    },
-    "04b5626eda18": {
-      "resumen": "Relato técnico en Towards Data Science sobre cómo una sola letra mayúscula rompía silenciosamente las respuestas de un bot de soporte basado en inteligencia artificial (IA), detectado mediante pruebas de regresión automatizadas con la herramienta Weave sobre distintos modelos de OpenAI. Le sirve a un médico que aprende análisis de datos porque muestra que testear y monitorear sistemas de IA en producción es tan importante como construirlos.",
-      "destacado": false
-    },
     "3f37b0a02f79": {
       "resumen": "Simon Willison (desarrollador y divulgador especializado en inteligencia artificial) cuenta cómo usó ChatGPT Work con el modelo GPT-6 Astra para generar recorridos de running de 5 y 10 kilómetros cerca de su casa a partir de datos abiertos de OpenStreetMap (OSM), con el agente trabajando de forma autónoma durante casi media hora. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de un agente de inteligencia artificial (IA) resolviendo de punta a punta una tarea con datos geográficos públicos.",
       "destacado": true
     },
-    "86c07f5a7551": {
-      "resumen": "Publicación personal de Simon Willison (más conocido como divulgador de inteligencia artificial) sobre el avistamiento de un pelícano californiano en el muelle de Pacifica, California, cerrado al público desde junio por una grieta estructural. No tiene relación con inteligencia artificial ni ciencia de datos; se incluye porque proviene del mismo blog que sigue el diario.",
-      "destacado": false
-    },
-    "003ff6da8e6d": {
-      "resumen": "Publicación personal, muy comentada en Hacker News (comunidad de tecnología), en la que el autor relata sentirse blanco de un ciberataque atribuido a Tesla, la automotriz de Elon Musk. Sin acceso al texto completo no se pueden confirmar los detalles técnicos ni las acusaciones; se incluye por la repercusión que generó en la comunidad. Para un médico que aprende análisis de datos, sirve como recordatorio de tomar con cautela las afirmaciones virales sobre seguridad informática hasta verificar la fuente primaria.",
-      "destacado": false
-    },
-    "978198e2ed46": {
-      "resumen": "Nota viral en Hacker News sobre un supuesto desabastecimiento global de aceite de motor que llevaría a Costco (cadena de supermercados mayoristas) a racionar su venta. El título no permite confirmar causas ni magnitud del faltante. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo circulan afirmaciones sobre escasez de insumos sin datos duros que las respalden, algo a chequear siempre con fuentes primarias antes de sacar conclusiones.",
-      "destacado": false
-    },
     "ef9f4296e998": {
       "resumen": "Artículo muy comentado en Hacker News que cuestiona por qué Google seguiría mostrando anuncios de baja calidad o fraudulentos pese a sus sistemas automatizados de moderación. Le sirve a un médico que aprende análisis de datos porque expone las limitaciones reales de los algoritmos de clasificación y moderación a gran escala, un problema análogo al de cualquier sistema de detección automática que debe filtrar señal de ruido.",
-      "destacado": false
-    },
-    "4e3f293e3094": {
-      "resumen": "David Sacks (empresario e inversor, actual zar de inteligencia artificial y criptomonedas de la Casa Blanca) sostuvo en la red social X que empresas como OpenAI y Anthropic no necesitarían regulaciones estatales para autolimitar el desarrollo de sus modelos de frontera (los sistemas de inteligencia artificial más avanzados de cada compañía). Le sirve a un médico que aprende análisis de datos para seguir el debate político sobre cómo y quién debería regular el avance de la inteligencia artificial (IA).",
       "destacado": false
     },
     "5f4ac7f7d91b": {
@@ -84,14 +61,38 @@
       "resumen": "Guía práctica de Towards Data Science sobre cómo estimar el verdadero efecto de una funcionalidad de inteligencia artificial (IA) de adopción voluntaria (opt-in) cuando nadie aleatorizó quién la usa, evitando confundir la mejora observada con un simple efecto de selección (que los usuarios más comprometidos sean justamente los que la eligen). Le sirve directamente a un médico que aprende análisis de datos porque es el mismo problema de causalidad e inferencia que aparece al evaluar cualquier intervención no aleatorizada en la práctica clínica.",
       "destacado": false
     },
-    "2a6cad3045ad": {
-      "resumen": "Guía con los días, horarios y la forma de seguir por TV la participación de Los Pumas 7's y Las Yaguaretés en los Juegos Suramericanos."
-    },
-    "4297e1622d16": {
-      "resumen": "Un jugador de Los Pumas volvió a la cancha tras recuperarse de una lesión y marcó un try en su regreso."
-    },
     "7fcb7f522491": {
       "resumen": "Un repaso de cómo les fue a Los Pumas 7's y a Las Yaguaretés en su participación en los Juegos Suramericanos."
+    },
+    "d34290c85b12": {
+      "resumen": "Hilo semanal fijo de r/datascience (comunidad de Reddit sobre ciencia de datos) para quienes están entrando o haciendo una transición de carrera hacia el análisis de datos, con preguntas sobre estudios, portfolios y primeros pasos. Le sirve a un médico que está migrando hacia esta disciplina porque agrupa en un solo lugar las dudas típicas de quienes vienen de otras profesiones y buscan orientación práctica sobre cómo arrancar.",
+      "destacado": false
+    },
+    "2e88014063fe": {
+      "resumen": "Simon Willison (desarrollador y divulgador de inteligencia artificial) presentó commit-rewriter 0.1, una pequeña aplicación web que armó para reescribir mensajes de commit de Git antes de publicar código, después de notar que estaban llenos de referencias internas y de \"ruido\" generado por agentes de código automatizados. Es un ejemplo concreto de cómo usar inteligencia artificial (IA) para prolijar el historial de versiones, algo útil para cualquiera que aprenda a documentar y compartir su propio código de análisis de datos.",
+      "destacado": false
+    },
+    "39d900722912": {
+      "resumen": "Nueva versión (1.12) de shot-scraper, la herramienta de línea de comandos de Simon Willison para automatizar capturas de pantalla de páginas web, que ahora suma soporte para el formato de imagen WebP. Le sirve a quien recién arranca en análisis de datos porque muestra cómo automatizar screenshots de dashboards o reportes web sin depender de clics manuales.",
+      "destacado": false
+    },
+    "4827a6903f84": {
+      "resumen": "Signal (aplicación de mensajería cifrada) anunció que su registro sin número de teléfono usará pruebas de conocimiento cero (zero-knowledge proofs), una técnica criptográfica que permite demostrar que se cumple una condición sin revelar los datos subyacentes. Le interesa a quien trabaja con datos porque es un caso real de cómo proteger información sensible —directamente aplicable a datos de salud— sin sacrificar la funcionalidad del sistema.",
+      "destacado": false
+    },
+    "0fa77dcd1de2": {
+      "resumen": "Fable 5.1 (modelo de inteligencia artificial) resolvió el Cyphral Distich, un cifrado que llevaba 370 años sin descifrarse, según reportó Hacker News (comunidad de noticias de tecnología). Muestra hasta dónde llega la capacidad de razonamiento y reconocimiento de patrones de los modelos de lenguaje actuales, una habilidad emparentada con la que se necesita para destapar patrones ocultos en datos clínicos o epidemiológicos.",
+      "destacado": false
+    },
+    "97e14b967a5d": {
+      "resumen": "Hilo mensual de Hacker News (comunidad de noticias de tecnología) donde los usuarios comparten en qué proyectos están trabajando durante septiembre de 2026. Le sirve a quien está aprendiendo análisis de datos como vidriera informal de proyectos en curso, ideas y herramientas que circulan en la comunidad tech.",
+      "destacado": false
+    },
+    "330e10f1ef14": {
+      "resumen": "Un jugador de Los Pumas volvió a la actividad tras recuperarse de una lesión y marcó un try en su regreso a la cancha."
+    },
+    "4dcc59b6a53b": {
+      "resumen": "Guía con los días, los horarios y la forma de seguir por TV la participación de Los Pumas 7's y Las Yaguaretés en los Juegos Suramericanos."
     }
   }
 }

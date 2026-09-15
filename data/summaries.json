@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-09-14T22:05:01Z",
+  "generated_at": "2026-09-15T10:05:03Z",
   "summaries": {
-    "edc9193ad5cb": {
-      "resumen": "Nueva evidencia sobre un fármaco dirigido contra la APOC3 (apolipoproteína C-III), una proteína clave en el metabolismo de los triglicéridos, que mostraría beneficios en pacientes con hipertrigliceridemia severa. Interesa porque este cuadro eleva el riesgo de pancreatitis aguda y las opciones terapéuticas más allá de los fibratos y el aceite de pescado todavía son limitadas.",
-      "destacado": false,
-      "analisis": "Diseño: el título no especifica el tipo de estudio (ensayo clínico, análisis de subgrupo u otro); se trata de una nota de tctmd sobre resultados presentados, probablemente en un congreso de cardiología.\nPoblación: pacientes con hipertrigliceridemia severa, cuadro asociado a mayor riesgo de pancreatitis aguda y eventos cardiovasculares.\nIntervención: un fármaco dirigido contra la APOC3 (apolipoproteína C-III), en la línea de terapias como olezarsen o plozasiran, frente a un comparador no especificado en el título.\nResultados: el título solo indica \"beneficios\" sin cifras; no hay reducción porcentual de triglicéridos, razones de riesgo ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar el tamaño de la muestra, si el diseño fue aleatorizado ni el tiempo de seguimiento.\nMensaje: se suma a la familia de terapias dirigidas contra la APOC3 que buscan tratar la hipertrigliceridemia severa cuando fibratos y aceite de pescado resultan insuficientes.\nNota: análisis sin acceso al abstract."
-    },
     "b32cccecc124": {
       "resumen": "Réplica de los autores originales en JACC (Journal of the American College of Cardiology) al comentario recibido sobre su estudio de un panel de puntuación de riesgo poligénico (PRS, polygenic risk score) para múltiples enfermedades cardiovasculares. Es un intercambio de correspondencia científica que profundiza el debate sobre la utilidad clínica desigual de estos paneles genéticos según la enfermedad.",
       "destacado": false
@@ -41,10 +36,6 @@
       "resumen": "Los Centros de Servicios de Medicare y Medicaid (CMS, Centers for Medicare & Medicaid Services) de Estados Unidos finalizaron la actualización esperada de la cobertura nacional para el implante valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation). Es una noticia regulatoria, no un estudio clínico, pero define qué pacientes tendrán acceso financiado al procedimiento y puede anticipar tendencias de cobertura en otros sistemas de salud.",
       "destacado": false
     },
-    "d12762c74b25": {
-      "resumen": "Nota de TCTMD (The Cardiovascular Research Foundation) que repasa cómo la inteligencia artificial (IA) ya deja huella en la formación médica, desde herramientas de IA incorporadas a la currícula hasta cambios en la forma de enseñar y evaluar a los residentes. Vale la pena mirarlo porque la manera de formar médicos, y en particular cardiólogos en formación, está cambiando más rápido que los propios programas de posgrado.",
-      "destacado": false
-    },
     "431de4f40215": {
       "resumen": "Artículo de Towards Data Science sobre cuándo conviene resolver una tarea con un solo modelo de inteligencia artificial (IA) y cuándo conviene repartirla entre varios agentes especializados, con un ejemplo real de cómo el autor dividió cinco agentes entre dos herramientas de IA para un trabajo pesado de capacidad. Le sirve a un médico que aprende análisis de datos porque da un criterio práctico para decidir cuándo automatizar una tarea de punta a punta y cuándo conviene dividirla en partes más chicas y controlables.",
       "destacado": false
@@ -57,42 +48,61 @@
       "resumen": "Valve presentó el precio de Steam Frame, su nuevo visor de realidad virtual independiente, que arranca en 1059 dólares. Tiene relevancia indirecta para quien aprende análisis de datos porque estos dispositivos generan grandes volúmenes de datos de sensores (posición, mirada, movimiento) que después se procesan con las mismas técnicas de ciencia de datos.",
       "destacado": false
     },
-    "310d4fd0496b": {
-      "resumen": "Andon Labs presentó a Pion, un agente de inteligencia artificial (IA) diseñado para operar una empresa de forma autónoma, tomando decisiones de negocio sin intervención humana constante. Le sirve a un médico que aprende análisis de datos como caso límite de hasta dónde se plantea llevar la autonomía de los agentes de IA, más allá de tareas puntuales de análisis.",
-      "destacado": false
-    },
     "cb1a759a519a": {
       "resumen": "Publicación de r/datascience (comunidad de Reddit sobre ciencia de datos) que explica cómo simular datos ficticios (fake-data simulation) para estimar de antemano qué efectos es capaz de detectar un estudio, antes de recolectar los datos reales. Le sirve mucho a un médico que aprende análisis de datos porque es exactamente la lógica de un cálculo de poder estadístico aplicado a su propio diseño de investigación.",
       "destacado": true
     },
-    "050c752fcd3f": {
-      "resumen": "Recopilación de artículos clásicos sobre sistemas distribuidos (arquitecturas donde varias computadoras cooperan para resolver una tarea), muy comentada en Hacker News. Le sirve a quien aprende análisis de datos como base teórica para entender cómo se procesan y almacenan grandes volúmenes de datos clínicos cuando ya no entran en una sola máquina.",
-      "destacado": false
-    },
-    "affb45ca605e": {
-      "resumen": "Simon Willison (desarrollador y divulgador de inteligencia artificial) cita a Laurie Voss sobre cómo el costo de escribir código se derrumbó gracias a la IA, y cómo el costo de revisar, corregir y operar ese código sería el próximo en bajar. Le sirve a un médico que aprende análisis de datos porque plantea que lo difícil ya no es programar el análisis, sino definir bien qué pregunta responder y validar que el resultado sea correcto.",
-      "destacado": false
-    },
-    "e298e75f94d9": {
-      "resumen": "Artículo de Towards Data Science que explica la llamada \"ingeniería de grafos\" para agentes de inteligencia artificial (IA): en vez de encadenar instrucciones (prompts) o bucles simples, se modela el flujo de trabajo del agente como un grafo de pasos y decisiones. Le sirve a un médico que aprende análisis de datos porque muestra una forma más prolija y controlable de automatizar tareas de varios pasos, como las que aparecen al limpiar y analizar datos clínicos.",
-      "destacado": false
-    },
-    "483fc8a3c462": {
-      "resumen": "Artículo de Towards Data Science que discute si las \"habilidades\" (skills) de un agente de inteligencia artificial (IA) deberían ser archivos fijos que se cargan una vez, o artefactos que se construyen y actualizan de forma dinámica. Le sirve a quien aprende análisis de datos porque plantea cómo mantener organizado y actualizado el conocimiento que un agente usa para ayudar en tareas repetidas de análisis.",
-      "destacado": false
-    },
-    "1b5d2b5ba634": {
-      "resumen": "Consulta técnica en r/datascience sobre cómo clasificar objetos a partir de nubes de puntos (point cloud) generadas por radar, un tipo de dato tridimensional disperso típico de sensores de radar y lidar. Le sirve a quien aprende análisis de datos como ejemplo de clasificación aplicada a datos espaciales complejos, más allá de las tablas y series de tiempo habituales en medicina.",
-      "destacado": false
-    },
     "41e9f4ea2157": {
       "resumen": "Uno de los rivales de Los Pumas en el próximo Mundial cerró un acuerdo para reforzar la preparación de sus jugadores de cara al torneo."
     },
-    "0c5f9c48d738": {
-      "resumen": "La madre de Federico Martín Aramburú declaró en el juicio por su crimen y lo calificó como un hecho de odio."
+    "479e909e1c1f": {
+      "resumen": "TCTMD (The Cardiovascular Research Foundation) resume la actualizacion de la guia de la Sociedad Europea de Cardiologia (ESC) sobre insuficiencia cardiaca, presentada en el Congreso ESC 2026, que segun la nota introduce cambios importantes respecto de la version previa. Vale la pena mirarla porque las guias de la ESC son una referencia internacional que orienta el diagnostico y el tratamiento de la insuficiencia cardiaca en la practica diaria.",
+      "destacado": false
     },
-    "2d10655060a0": {
-      "resumen": "El tercera línea Facundo Isa dice que no pierde las esperanzas de volver a Los Pumas, aunque reconoce que hoy tiene poco contacto con el equipo."
+    "c166e8ae328a": {
+      "resumen": "El estudio PRAGUE-26, presentado por TCTMD, evaluo la trombolisis dirigida por cateter (administracion local de un farmaco fibrinolitico a traves de un cateter posicionado en la arteria pulmonar) en pacientes con tromboembolismo pulmonar (TEP) de riesgo intermedio-alto. Segun lo informado, la tecnica resultaria beneficiosa en este grupo, que hoy se maneja con anticoagulacion sola o trombolisis sistemica segun el caso.",
+      "destacado": false,
+      "analisis": "Diseno: TCTMD reporta los resultados del ensayo PRAGUE-26 sobre trombolisis dirigida por cateter en tromboembolismo pulmonar (TEP); el titulo no permite precisar si es un ensayo aleatorizado, el numero de centros ni de pacientes incluidos.\nPoblacion: pacientes con TEP de riesgo intermedio-alto (con disfuncion del ventriculo derecho pero sin inestabilidad hemodinamica franca); el titulo no detalla criterios de inclusion o exclusion especificos.\nIntervencion: trombolisis dirigida por cateter (catheter-directed thrombolysis), probablemente comparada con el tratamiento estandar de anticoagulacion sola; el titulo no especifica el comparador exacto.\nResultados: el titulo indica un beneficio de la trombolisis dirigida por cateter en este grupo de riesgo intermedio-alto, sin cifras de eventos, razones de riesgo ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar el tamano muestral, el criterio de valoracion principal exacto ni el riesgo de sangrado asociado, que es la principal preocupacion con cualquier estrategia trombolitica.\nMensaje: de confirmarse, sumaria evidencia a favor de la trombolisis dirigida por cateter como alternativa a la anticoagulacion sola en el TEP de riesgo intermedio-alto, un escenario donde todavia no hay consenso uniforme sobre la mejor estrategia de reperfusion.\nNota: analisis sin acceso al abstract."
+    },
+    "3079a60d98cd": {
+      "resumen": "Ensayo publicado en The New England Journal of Medicine que evalua la revascularizacion completa guiada por angiografia coronaria funcional (una tecnica que estima la significancia funcional de cada lesion a partir de las imagenes angiograficas, sin necesidad de un alambre de presion) en pacientes con infarto agudo de miocardio con elevacion del segmento ST (IAMCEST) y enfermedad multivaso. Interesa porque discute como decidir que lesiones no culpables tratar ademas de la arteria responsable del infarto.",
+      "destacado": false,
+      "analisis": "Diseno: ensayo publicado en The New England Journal of Medicine (autores: Biscaglia S et al.); por el formato de la revista es probable que se trate de un ensayo clinico aleatorizado, pero el titulo no permite precisar el numero de centros, el cegamiento ni el tamano de la muestra.\nPoblacion: pacientes con infarto agudo de miocardio con elevacion del segmento ST (IAMCEST) y enfermedad coronaria multivaso, candidatos a revascularizacion completa ademas de la arteria culpable; el titulo no detalla otros criterios de inclusion o exclusion.\nIntervencion: revascularizacion completa guiada por angiografia coronaria funcional (estimacion funcional de las lesiones no culpables a partir de la angiografia, sin alambre de presion), frente a un comparador no especificado en el titulo (probablemente angiografia convencional o revascularizacion solo de la lesion culpable).\nResultados: no informados en el titulo ni disponibles sin el abstract; no corresponde estimar razones de riesgo ni valores de p sin la fuente original.\nLimitaciones: sin el abstract no se puede evaluar el criterio de valoracion principal, el tiempo de seguimiento ni la reproducibilidad de la angiografia funcional entre operadores.\nMensaje: de confirmarse, ofreceria una alternativa mas simple y accesible (sin alambre de presion) para decidir que lesiones no culpables tratar en el IAMCEST multivaso, un area donde ya se sabe que la revascularizacion completa reduce eventos pero todavia se discute como seleccionar mejor las lesiones.\nNota: analisis sin acceso al abstract."
+    },
+    "f6c1df081c4c": {
+      "resumen": "Ensayo publicado en The New England Journal of Medicine que compara distintos momentos para realizar la angioplastia coronaria (PCI, percutaneous coronary intervention) en pacientes que van a un implante valvular aortico transcateter (TAVI, transcatheter aortic-valve implantation) y tienen enfermedad coronaria asociada. Importa porque en la practica todavia no esta claro si conviene tratar primero la coronaria, primero la valvula, o hacerlo en el mismo procedimiento.",
+      "destacado": false,
+      "analisis": "Diseno: ensayo publicado en The New England Journal of Medicine (autores: Stahli BE et al.); el titulo sugiere una comparacion de estrategias de momento (timing) de la angioplastia coronaria (PCI) respecto del TAVI, pero no permite precisar si es aleatorizado, el numero de centros ni el tamano de la muestra.\nPoblacion: pacientes con estenosis aortica grave sometidos a TAVI que ademas presentan enfermedad coronaria significativa candidata a PCI; el titulo no detalla otros criterios de inclusion o exclusion.\nIntervencion: distintas estrategias de momento para la PCI en relacion con el TAVI (por ejemplo antes, despues o en el mismo procedimiento), aunque el titulo no especifica exactamente que brazos se compararon.\nResultados: no informados en el titulo ni disponibles sin el abstract; no corresponde estimar razones de riesgo ni valores de p sin la fuente original.\nLimitaciones: sin el abstract no se puede evaluar el criterio de valoracion principal, el tiempo de seguimiento ni el perfil de riesgo basal de los pacientes incluidos.\nMensaje: busca resolver una pregunta frecuente en la practica de los equipos cardiologicos (heart teams): cuando conviene tratar la enfermedad coronaria asociada en pacientes que van a TAVI, con impacto directo en la logistica y el riesgo periprocedimiento.\nNota: analisis sin acceso al abstract."
+    },
+    "da04cac6dcb8": {
+      "resumen": "Publicacion compartida en Hacker News sobre como disenar graficos pensados para mostrarse dentro de una conversacion de chat con inteligencia artificial (IA), en lugar del formato tradicional de panel o dashboard. Le sirve a un medico que aprende analisis de datos porque anticipa una forma distinta de consumir visualizaciones: generadas al vuelo por un asistente de IA en respuesta a una pregunta puntual.",
+      "destacado": false
+    },
+    "bed1156254a4": {
+      "resumen": "Simon Willison comenta la reaccion del ingeniero Bryan Cantrill a un comentario de un exempleado de Anthropic sobre el temor extendido entre investigadores de inteligencia artificial (IA) respecto de los riesgos existenciales de la tecnologia. Mas que una herramienta tecnica, aporta contexto sobre el clima de opinion y los debates eticos que atraviesan a la industria de la IA en la que tambien se apoya quien se forma en analisis de datos.",
+      "destacado": false
+    },
+    "dcbc9a79c4e9": {
+      "resumen": "Fallo de la Corte de Apelaciones del Noveno Circuito de Estados Unidos en la disputa legal entre Amazon y Perplexity, empresa de inteligencia artificial (IA) que ofrece busqueda y respuestas automatizadas. Le sirve a quien se forma en ciencia de datos e IA porque este tipo de litigios empieza a marcar los limites legales de los agentes automatizados que navegan y compran en nombre del usuario.",
+      "destacado": false
+    },
+    "ab6c92e802c9": {
+      "resumen": "Hilo de la comunidad r/datascience (foro de Reddit sobre ciencia de datos) donde alguien pregunta por recursos para gestionar datos de forma recurrente y organizacional, ya que la mayoria de los consejos disponibles estan pensados para proyectos puntuales y aislados. Le sirve a un medico que aprende analisis de datos porque plantea justamente el desafio de sostener el trabajo con datos en el tiempo, mas alla de un analisis unico.",
+      "destacado": false
+    },
+    "263391f1136f": {
+      "resumen": "Simon Willison comparte en su blog cuales fueron los articulos que mas influyeron en su forma de pensar sobre tecnologia, empezando por 'la ley de las abstracciones con fugas' (The Law of Leaky Abstractions) de Joel Spolsky. Le sirve a quien aprende analisis de datos como puerta de entrada a ideas clasicas sobre como razonar frente a las herramientas y los sistemas que se usan sin entenderlos del todo.",
+      "destacado": false
+    },
+    "b5c7d49ff465": {
+      "resumen": "Articulo de Towards Data Science, primero de una serie sobre pronostico probabilistico de senales fisicas, que explica por que el error cuadratico medio (MSE, mean squared error) puede dar una falsa sensacion de buen ajuste en un modelo predictivo. Le sirve a un medico que aprende analisis de datos porque advierte sobre una metrica muy usada y sus limitaciones a la hora de evaluar modelos de pronostico.",
+      "destacado": false
+    },
+    "976e34d3ee09": {
+      "resumen": "Un exjugador historico de Los Pumas declaro de forma conmovedora en el juicio que investiga el crimen de Federico Aramburu."
+    },
+    "e9f83ec0de01": {
+      "resumen": "Felipe Contepomi fue reconocido con una distincion importante en Irlanda por su trayectoria en el rugby."
     }
   }
 }

@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-09-16T00:30:40.915938+00:00",
+ "generated_at": "2026-09-16T07:46:03.649691+00:00",
  "sections": [
   {
    "id": "cardiologia",
    "title": "Cardiología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Focus on the many facets of cardio-oncology",
+     "link": "https://academic.oup.com/eurheartj/article/47/35/4853/8795242?rss=1",
+     "source": "European Heart Journal",
+     "published": "2026-09-16T00:00:00+00:00",
+     "copete": "For image description, please refer to the figure legend and surrounding text. For the podcast associated with this article, please visit https://academic.oup.com/eurheartj/pages/Podcasts .",
+     "id": "a12225a1aea9"
+    },
     {
      "title": "ESC Recommends CKD Testing in All Patients With CVD",
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tTWhwMkJZQVBud1g5RG5hSnN1cG5EOHh4YnFvQ0JKVDN2d2Juazg2TkVSeVpDNEg4UGpzeWkwN0tpb3BYR1lfM01vUWNPRDlGOVZnU0k3WnZUd3l3T0pHVU42TllDOTREcHl2UUhRMmVLNTUtbGxzeVR3?oc=5",
@@ -72,14 +80,6 @@
      "published": "2026-09-08T00:00:00+00:00",
      "copete": "Wang Y et al. · Journal of the American College of Cardiology",
      "id": "c0fa2f59df30"
-    },
-    {
-     "title": "Cardiovascular genetics: from mechanisms to clinical applications",
-     "link": "https://academic.oup.com/eurheartj/article/47/33/4539/8776707?rss=1",
-     "source": "European Heart Journal",
-     "published": "2026-09-02T00:00:00+00:00",
-     "copete": "For image description, please refer to the figure legend and surrounding text. For the podcast associated with this article, please visit https://academic.oup.com/eurheartj/pages/Podcasts .",
-     "id": "38d89cb399db"
     }
    ]
   },
@@ -88,6 +88,22 @@
    "title": "Deportes",
    "mode": "titulares",
    "items": [
+    {
+     "title": "Tres horas y una historia increíble: por qué Colidio no puede jugar contra Boca",
+     "link": "https://www.ole.com.ar/futbol-internacional/sudamericana/facundo-colidio-vasco-da-gama-boca-copa-sudamericana-semifinal-inscripto-jugar-habilitado_0_YscbQUaLKG.html",
+     "source": "Olé — River",
+     "published": "2026-09-16T02:33:15+00:00",
+     "copete": "El delantero, que dejó River en este mercado, no está habilitado para jugar con Vasco da Gama para la Sudamericana. La trastienda.",
+     "id": "3717678b9cd3"
+    },
+    {
+     "title": "Boca va por todo: con la Sudamericana en la mira, los cinco títulos que puede ganar en 2026",
+     "link": "https://www.ole.com.ar/boca-juniors/boca-va-titulos-puede-ganar-2026-clausura-sudamericana-copa-argentina-trofeo-campeones_0_CieS3L3t6P.html",
+     "source": "Olé — Primera",
+     "published": "2026-09-16T02:32:19+00:00",
+     "copete": "El Xeneize ya está entre los cuatro mejores del torneo continental y no afloja. Sigue con vida en la Copa Argentina y la lucha en el plano local. El equipo del Vasco se ilusiona con un cierre de año histórico.",
+     "id": "456f9ca1c30a"
+    },
     {
      "title": "Las claves del Instituto puntero: mucho peso ofensivo, una defensa sólida y Alex Luna como estrella",
      "link": "https://www.ole.com.ar/instituto/instituto-diego-flores-torneo-clausura-alex-luna-defensa-ofensiva-puntero-zona_0_BKlnSV5y5m.html",
@@ -121,19 +137,19 @@
      "id": "d692f1e4e912"
     },
     {
+     "title": "Facundo Isa y su ausencia en Los Pumas: “Ya no tengo demasiado contacto”",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkoyY0hUQ0duX0FCUF85MFdYcW01TFVWT05BY1lvZklWRHlFZHVkWU52c2FScGI4b295cFdGME1OWjZnQWdYeVp0QmRLSHlXNklqd2Z2Q0JZejA2eDUxSVpkRXVxM21jYkZ0OUlSeDlDNWpwanlydThvZE1ySTQyN1k4OHJQcTd5WWhsc1BFcll0Vkh5MDJiZk1xbVpSM01oZEQxV3dHQWpCQQ?oc=5",
+     "source": "Info del Estero",
+     "published": "2026-09-15T22:15:07+00:00",
+     "id": "f52a94056020"
+    },
+    {
      "title": "Árbitros de la décima: Arasa, tras el escándalo con Vélez, en San Lorenzo - Boca",
      "link": "https://www.ole.com.ar/futbol-primera/nazarenoarasa-sanlorenzo-boca-afa-federicobeligoy_0_EnPCXNodWy.html",
      "source": "Olé — River",
      "published": "2026-09-15T22:13:34+00:00",
      "copete": "El referí, que había sido parado dos fechas atrás por la AFA por anular mal un gol del Fortín, fue elegido para el clásico del Ciclón contra el Xeneize. Facundo Tello estará en River-Huracán.",
      "id": "fe77a39af191"
-    },
-    {
-     "title": "Facundo Isa y su ausencia en Los Pumas: “Ya no tengo demasiado contacto”",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkoyY0hUQ0duX0FCUF85MFdYcW01TFVWT05BY1lvZklWRHlFZHVkWU52c2FScGI4b295cFdGME1OWjZnQWdYeVp0QmRLSHlXNklqd2Z2Q0JZejA2eDUxSVpkRXVxM21jYkZ0OUlSeDlDNWpwanlydThvZE1ySTQyN1k4OHJQcTd5WWhsc1BFcll0Vkh5MDJiZk1xbVpSM01oZEQxV3dHQWpCQQ?oc=5",
-     "source": "Info del Estero",
-     "published": "2026-09-15T21:55:28+00:00",
-     "id": "f52a94056020"
     },
     {
      "title": "La Reserva de River empató con un refuerzo de Primera antes del superclásico",
@@ -144,26 +160,18 @@
      "id": "e9cff230b6c1"
     },
     {
-     "title": "La dura crítica de Viña a River en su presentación en Cruzeiro: ''Hay gente allí que no está a la altura''",
-     "link": "https://www.ole.com.ar/river-plate/river-matias-vina-critica-dijo-cruzeiro_0_lMDq9PsmJN.html",
-     "source": "Olé — River",
-     "published": "2026-09-15T21:06:05+00:00",
-     "copete": "Tras su llegada al club brasileño, el uruguayo se refirió a la situación que le tocó vivir en Núñez al haber sido uno de los marginados en Cantilo.",
-     "id": "dc89be853da4"
-    },
-    {
-     "title": "Super Rugby Pacific 2027: fixture y fechas confirmadas, con argentinos y Michael Cheika como entrenador",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeld4TmJjYUI0ZUFrdkF6SFhScUh4elllYmpzZ2xfcXBmMHdFenMyRzVJcm5lcWNrSVJaT1BZdVcwQXFmR1lzM1dfdGx6V3JnWmRUUUtObFJIZXJmY25rY1RfS3ZqSGFYaW9qNzNZOHJueGpaaU5NaXEtSkxZWkd4emxLNUtxRGdxbjl5T2VuNkk5Z3MtY3Z2RTU2NXV4cXAxbWxHNmQwdTl6Q3gyS2xjV0tZd28xTHhHN2hzaUh5LWdqc2x0RFdlcDFEeEhVcnFBbE9nSVdEY25TZw?oc=5",
-     "source": "ESPN Chile",
-     "published": "2026-09-15T20:18:56+00:00",
-     "id": "0ba2910d55ea"
-    },
-    {
      "title": "El estremecedor relato del amigo de Aramburu sobre la madrugada del asesinato del exjugador de Los Pumas",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPU3liMUR6OVNPbjM1cDNjUnBhcFBMOWExeXppeWEyUUtRdVBONDFhNHNIRmwxWWhuZVZwTlpCMVExSEF5WVVSb04wX0FqNU9qTjNHTDRWSGJ0X0VrNlcyb3lYQ3pLN1FlR1ZOdnA1dmtCdDVxMHZZOGRwMzJobU9UcHZGLTUzZ0NnVlBERlBfV1FrYXhIa0hsRlFLUnh2cjlKRnJQREpwcWo0bnROVXFFcmtRSTdHVjg?oc=5",
      "source": "TyC Sports",
      "published": "2026-09-15T17:14:03+00:00",
      "id": "3c61d7afcf11"
+    },
+    {
+     "title": "\"Prefería que esté con nosotros\": Gómez Cora y la ausencia de Luciano González en el plantel de Los Pumas 7's",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRVhfYTRTcDU4dUdGdVcxWWxkMGRGc2VzWGxlSmJZcGJUOUNQSVc1Z2RPNHMtTUpCc1luNlhNUm9oTjhFWXc0NGpYT1NNQWhidHFSUXljTjJWSWpveGVLVXpnQXdMNlBIQzViVHNnN3cyMzNucW82UVhHMXdRVWJwdnoxNzhGLVpkZTFmMmdSSmNTZnEzRDFWYWZBLVcwZ3pIMkZXUWxOLVAtNmNJOU52UXpkRlpTTDhISm45di1ic1p1WV8wRURTOGlVbzNkY0V2TFJEWG1PVDBBdDI2WnJiYkRLOW1uVTJqQ2lkY2ZxWDg?oc=5",
+     "source": "espn.cl",
+     "published": "2026-09-15T13:44:47+00:00",
+     "id": "1deca60c4b8a"
     },
     {
      "title": "Buenos Aires, tricampeón en el M16 Desarrollo Norte",
@@ -181,6 +189,20 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "Apple Reference Image: A New Approach for Verified Photography",
+     "link": "https://security.apple.com/blog/apple-reference-image/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-09-16T02:07:31+00:00",
+     "id": "faddb36e8fb1"
+    },
+    {
+     "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+     "link": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-09-15T22:50:55+00:00",
+     "id": "c8c78a6631bd"
+    },
+    {
      "title": "Gemini Live audio",
      "link": "https://simonwillison.net/2026/Sep/15/gemini-live/",
      "source": "Simon Willison (IA)",
@@ -196,25 +218,11 @@
      "id": "417161780727"
     },
     {
-     "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-     "link": "https://codyho.dev/blog/gpu-driver/",
+     "title": "Jean-Pierre Serre turns 100",
+     "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
      "source": "Hacker News (100+ puntos)",
-     "published": "2026-09-15T19:30:03+00:00",
-     "id": "877aa0bdf011"
-    },
-    {
-     "title": "Introducing System One Models and Jev",
-     "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-09-15T19:25:03+00:00",
-     "id": "642a1494ec3f"
-    },
-    {
-     "title": "Chopping up books when they're physically too big",
-     "link": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-09-15T18:45:31+00:00",
-     "id": "f93cd24f2b1e"
+     "published": "2026-09-15T20:57:18+00:00",
+     "id": "9ae97785780a"
     },
     {
      "title": "Orchestration and Execution: How JONI Approaches the Agent Layer",
@@ -262,100 +270,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Los seis futbolistas que jugaron el último Mundial con Argentina y no fueron convocados por Scaloni",
-     "link": "https://www.infobae.com/deportes/2026/09/16/los-seis-futbolistas-que-jugaron-el-ultimo-mundial-con-argentina-y-no-fueron-convocados-por-scaloni/",
-     "source": "Infobae",
-     "published": "2026-09-16T00:28:53+00:00",
-     "copete": "El entrenador dio a conocer los nombres que participarán de los amistosos ante Bolivia, Burkina Faso y Benín",
-     "id": "5229462168d9"
-    },
-    {
-     "title": "Tras el cambio de juez, cómo sigue la causa por el crimen del empresario en Misiones: el exsuegro aún no pudo ser indagado",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/09/16/tras-el-cambio-de-juez-como-sigue-la-causa-por-el-crimen-del-empresario-en-misiones-el-exsuegro-aun-no-pudo-ser-indagado/",
-     "source": "Infobae",
-     "published": "2026-09-16T00:26:02+00:00",
-     "copete": "La causa pasó al Juzgado de Instrucción Nº2 de Eldorado después del apartamiento del magistrado que intervenía. La Justicia ordenó evaluar el estado de salud de Ángel Ramón Zalazar mientras espera los resultados de testimonios, peritajes y…",
-     "id": "40a26363347d"
-    },
-    {
-     "title": "¿Cuál es la “prueba nueva” y qué cambia en el frente internacional? Claves del anuncio de los abogados de Cristina Kirchner",
-     "link": "https://www.lanacion.com.ar/politica/cual-es-la-prueba-nueva-y-que-cambia-en-el-frente-internacional-claves-del-anuncio-de-los-abogados-nid15092026/",
+     "title": "Javier Milei y sus medidas, en vivo: Caputo defendió el rumbo económico y dijo que el Presidente tiene “coraje”",
+     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-caputo-defendio-el-rumbo-economico-y-dijo-que-el-presidente-tiene-nid16092026/",
      "source": "La Nación",
-     "published": "2026-09-16T00:25:53+00:00",
-     "copete": "La expresidenta tiene una condena firme, pero su defensa acudió a un comité de la ONU; hoy, sus abogados comunicaron que presentarán un estudio pericial que relativizaría el peso de Lázaro Báez en la obra pública",
-     "id": "7df3619ca1b0"
+     "published": "2026-09-16T07:20:00+00:00",
+     "copete": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
+     "id": "86926a082de9"
     },
     {
-     "title": "Boca Juniors y San Pablo definen en Brasil el pase a las semifinales de la Copa Sudamericana",
-     "link": "https://www.infobae.com/deportes/2026/09/15/boca-juniors-y-san-pablo-definiran-en-brasil-el-pase-a-las-semifinales-de-la-copa-sudamericana-hora-tv-y-formaciones/",
+     "title": "Atraparon a un hombre que intentó hablar con su ex, ella se negó y la chocó con su moto en Chaco",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/09/16/atraparon-a-un-hombre-que-intento-hablar-con-su-ex-ella-se-nego-y-la-choco-en-chaco/",
      "source": "Infobae",
-     "published": "2026-09-16T00:24:21+00:00",
-     "copete": "El equipo del Vasco Arruabarrena ganó 1-0 en la ida en La Bombonera y ahora debe mantener la ventaja en el mítico Morumbí. Transmite DSports",
-     "id": "17676835d6e3"
+     "published": "2026-09-16T07:12:16+00:00",
+     "copete": "Una mujer de 34 años aseguró que su expareja la interceptó mientras manejaba una motocicleta, provocó su caída y escapó en la localidad de Fontana",
+     "id": "b7f09fcef8fe"
     },
     {
-     "title": "Micaela Lopetegui y Valentina Longo: un podio histórico para el patín artístico en los Juegos Suramericanos 2026",
-     "link": "https://www.lanacion.com.ar/deportes/juegos-olimpicos/micaela-lopetegui-y-valentina-longo-un-podio-historico-para-el-patin-artistico-en-los-juegos-nid15092026/",
+     "title": "Gabriel Rolón: “Creemos que decidimos cuando en realidad solo estamos cumpliendo un mandato inconsciente que no nos deja ninguna elección”",
+     "link": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-creemos-que-decidimos-cuando-en-realidad-solo-estamos-cumpliendo-un-mandato-nid16092026/",
      "source": "La Nación",
-     "published": "2026-09-16T00:23:07+00:00",
-     "copete": "Las argentinas se colgaron las medallas de plata y bronce en el programa libre; las dos coincidieron en que tuvieron que mirar a sus “niñas interiores”",
-     "id": "65a2498ba689"
+     "published": "2026-09-16T07:00:00+00:00",
+     "copete": "En una entrevista exclusiva para LN+, el psicoanalista y escritor reflexionó sobre la naturaleza humana y propuso una mirada cruda sobre el amor, la muerte y la persistencia de los mandatos sociales",
+     "id": "9f0e3643373e"
     },
     {
-     "title": "Se conocieron imágenes de la violenta pelea entre el intendente de un pueblo de Neuquén y su antecesor",
-     "link": "https://www.infobae.com/sociedad/2026/09/16/se-conocieron-imagenes-de-la-violenta-pelea-entre-el-intendente-de-un-pueblo-de-neuquen-y-su-antecesor/",
-     "source": "Infobae",
-     "published": "2026-09-16T00:20:32+00:00",
-     "copete": "El hecho ocurrió en una mesa de trabajo en la localidad de Pilo Lil, donde el ex presidente de la Comisión de Fomento sacó un cuchillo durante una discusión",
-     "id": "5470d5326c98"
-    },
-    {
-     "title": "Ver Sao Paulo vs. Boca Juniors por Copa Sudamericana en Fútbol Libre o Pirlo TV: por qué es peligroso",
-     "link": "https://www.infobae.com/tecno/2026/09/16/ver-sao-paulo-vs-boca-juniors-por-copa-sudamericana-en-futbol-libre-o-pirlo-tv-por-que-es-peligroso/",
-     "source": "Infobae",
-     "published": "2026-09-16T00:19:38+00:00",
-     "copete": "Los sitios de streaming pirata financian sus servidores mediante publicidad maliciosa, un modelo conocido como malvertising",
-     "id": "197a379f7be0"
-    },
-    {
-     "title": "En Texas: oficiales de la CBP revisaron un cargamento de repollos y lo que encontraron adentro les sorprendió",
-     "link": "https://www.lanacion.com.ar/estados-unidos/texas/en-texas-oficiales-de-la-cbp-revisaron-un-cargamento-de-repollos-y-lo-que-encontraron-adentro-les-nid15092026/",
-     "source": "La Nación",
-     "published": "2026-09-16T00:19:00+00:00",
-     "copete": "Descubre cómo un cargamento de repollos en Texas ocultaba más de 2000 libras de metanfetamina y qué agencias participaron del operativo.",
-     "id": "c2b43fa612fc"
-    },
-    {
-     "title": "Tres jugadores de Real Madrid taparon los mensajes de una remera que se exhibió en solidaridad con Ceuta",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/tres-jugadores-de-real-madrid-taparon-los-mensajes-de-una-remera-que-se-exhibio-en-solidaridad-con-nid15092026/",
-     "source": "La Nación",
-     "published": "2026-09-16T00:16:35+00:00",
-     "copete": "Se trata de una medida impulsada por LaLiga que es opcional para los equipos; Kylian Mbappé, Vinícius Junior e Ibrahima Konaté usaron la prenda por la mitad",
-     "id": "9771e421578a"
-    },
-    {
-     "title": "Ramón Díaz, dueño de Los Ramones, logró su primer Gran Campeón Macho Angus: “Es una coronación hermosa”",
-     "link": "https://www.lanacion.com.ar/economia/campo/ramon-diaz-dueno-de-los-ramones-logro-su-primer-gran-campeon-macho-angus-es-una-coronacion-hermosa-nid15092026/",
-     "source": "La Nación",
-     "published": "2026-09-16T00:12:27+00:00",
-     "copete": "La cabaña familiar se impuso en la exposición de Gualeguaychú con el RP 93, un toro nacido en el establecimiento y con muy buenos datos productivos",
-     "id": "2895a22e94a4"
-    },
-    {
-     "title": "Un búho que se enganchó con una red y sufrió múltiples lesiones volvió a la naturaleza tras un proceso de rehabilitación: \"Logró una recuperación increíble\"",
-     "link": "https://www.clarin.com/internacional/buho-engancho-red-sufrio-multiples-lesiones-volvio-naturaleza-proceso-rehabilitacion-logro-recuperacion-increible_0_3K3WFph2zB.html",
+     "title": "Cita del día, de la escritora Ursula K. Le Guin: “Es bueno tener un destino al que dirigirse; pero al final, lo que importa es el viaje”",
+     "link": "https://www.clarin.com/estados-unidos/cita-dia-escritora-ursula-k-guin-bueno-tener-destino-dirigirse-final-importa-viaje_0_zooaVD9H7o.html",
      "source": "Clarín",
-     "published": "2026-09-15T23:52:09+00:00",
-     "copete": "Un ave rapaz fue rescatada, rehabilitada y devuelta a su hábitat natural. El caso sucedió en Estados Unidos.",
-     "id": "0dd32adffc30"
+     "published": "2026-09-16T06:55:42+00:00",
+     "copete": "Cuál es la lección detrás de estas palabras, que provienen del libro más popular y celebrado de la autora estadounidense.",
+     "id": "0d51e10cf2ee"
     },
     {
-     "title": "Franco Colapinto reveló la curiosa regla sexual que debe cumplir antes de una carrera de Fórmula 1",
-     "link": "https://www.clarin.com/deportes/franco-colapinto-revelo-curiosa-regla-sexual-debe-cumplir-carrera-formula-1_0_3bHdASBhm3.html",
+     "title": "Amenazó a dos hombres con difundir sus fotos íntimas y la condenaron a cinco años de prisión",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/09/16/amenazo-a-dos-hombres-con-difundir-sus-fotos-intimas-y-la-condenaron-a-cinco-anos-de-prision/",
+     "source": "Infobae",
+     "published": "2026-09-16T06:52:04+00:00",
+     "copete": "La acusada exigió pagos a cambio de no difundir material privado enviado durante redes sociales. La Justicia de Bahía Blanca la declaró responsable de extorsión",
+     "id": "8c71aa3fa780"
+    },
+    {
+     "title": "Condenaron a un hombre por abuso sexual y violencia de género contra su expareja en Santa Fe",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/09/16/condenaron-a-un-hombre-por-abuso-sexual-y-violencia-de-genero-contra-su-expareja-en-santa-fe/",
+     "source": "Infobae",
+     "published": "2026-09-16T06:49:55+00:00",
+     "copete": "Los hechos ocurrieron en Las Garzas, departamento General Obligado. La sentencia incluyó una pena de seis años y siete meses de cárcel para un hombre de 44 años",
+     "id": "89cea4bb6014"
+    },
+    {
+     "title": "Balacera en Neuquén: cayó el segundo acusado por el crimen de un hombre",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/09/16/balacera-en-neuquen-cayo-el-segundo-acusado-por-el-crimen-de-un-hombre/",
+     "source": "Infobae",
+     "published": "2026-09-16T06:49:21+00:00",
+     "copete": "El acusado había permanecido un mes evadido tras el ataque a balazos contra una vivienda del barrio Don Bosco, que dejó un muerto y un herido",
+     "id": "1d27eaaf3cbf"
+    },
+    {
+     "title": "Prohibieron el ingreso a eventos deportivos a 9 personas por la detección de tickets falsos",
+     "link": "https://www.infobae.com/sociedad/2026/09/16/prohibieron-el-ingreso-a-eventos-deportivos-a-9-personas-por-la-deteccion-de-tickets-falsos/",
+     "source": "Infobae",
+     "published": "2026-09-16T06:48:33+00:00",
+     "copete": "La Policía detectó tickets apócrifos en un acceso al estadio de Newell’s Old Boys. Nueve personas quedaron excluidas de espectáculos deportivos durante 18 meses",
+     "id": "0ddf59691c99"
+    },
+    {
+     "title": "Un helicóptero de un canal de noticias se estrelló mientras cubría un choque y hay al menos tres muertos",
+     "link": "https://www.clarin.com/internacional/helicoptero-canal-noticias-estrello-cubria-choque-muertos_0_jCwY04IzxP.html",
      "source": "Clarín",
-     "published": "2026-09-15T23:45:06+00:00",
-     "copete": "El piloto argentino visitó “La Revuelta”, el popular programa de David Broncano en la TVE de España. Desde la particular exigencia que tiene durante los fines de semana de carrera hasta su llegada a la Fórmula 1, el pelo y el esfuerzo de…",
-     "id": "5c6effa81fec"
+     "published": "2026-09-16T06:29:11+00:00",
+     "copete": "La aeronave sobrevolaba una zona de Los Ángeles donde había ocurrido un accidente entre un colectivo y una camioneta cuando se precipitó sobre un estacionamiento. Las autoridades confirmaron que una de las víctimas fatales estaba en…",
+     "id": "39b97a4d7951"
+    },
+    {
+     "title": "La guerra de Irán subió los precios, ahora la disputa EEUU-Canadá añade presión a pequeñas empresas",
+     "link": "https://www.clarin.com/estados-unidos/la-guerra-de-iran-subio-los-precios-ahora-la-disputa-eeuu-canada-anade-presion-a-pequenas-empresas_0_a5efWA5hFs.html",
+     "source": "Clarín",
+     "published": "2026-09-16T06:10:10+00:00",
+     "copete": "El conflicto comercial entre Estados Unidos y Canadá impacta severamente a pequeñas empresas, con aranceles que afectan ventas y costos operativos. Empresas de ambos lados de la frontera sufren por el aumento de precios y restricciones…",
+     "id": "bf25831a06af"
+    },
+    {
+     "title": "Virgilio Antón, alcalde de un diminuto municipio de Cuenca, busca trabajadores: \"Necesitamos fontaneros, albañiles, electricistas y carpinteros\"",
+     "link": "https://www.clarin.com/internacional/virgilio-anton-alcalde-diminuto-municipio-cuenca-busca-trabajadores-necesitamos-fontaneros-albaniles-electricistas-carpinteros_0_oO7hCw6HLL.html",
+     "source": "Clarín",
+     "published": "2026-09-16T06:01:42+00:00",
+     "copete": "El mandatario publicó un video en el que insta a la gente de ciudad a mudarse a Santa Cruz de Moya. Cuáles son las ventajas, según él, de vivir en una localidad pequeña.",
+     "id": "415743b02687"
+    },
+    {
+     "title": "Adiós histórico a Harald. El luto impecable de Máxima, la emoción del yerno chamán y el llanto de una futura reina",
+     "link": "https://www.lanacion.com.ar/revista-hola/adios-historico-a-harald-el-luto-impecable-de-maxima-la-emocion-del-yerno-chaman-y-el-llanto-de-una-nid16092026/",
+     "source": "La Nación",
+     "published": "2026-09-16T06:00:00+00:00",
+     "copete": "Representantes de once Casas Reales, más de veinte líderes mundiales y una multitud se unieron a la familia real en un cortejo sin precedentes en Oslo",
+     "id": "0c7aebc55b04"
     }
    ]
   },
@@ -365,84 +373,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Quién es el empresario colombiano Alex Saab, aliado y supuesto testaferro de Nicolás Maduro que se declaró culpable de lavado de dinero en EE.UU.",
-     "link": "https://www.bbc.com/mundo/articles/c4gvnw3gv4vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-15T22:51:00+00:00",
-     "copete": "El empresario colombiano, a quien Maduro llegó a nombrar ministro de Industria, se declaró culpable ante una corte federal de Florida en un caso que implica millones de dólares de fondos públicos venezolanos.",
-     "id": "0b909b22bddb"
-    },
-    {
-     "title": "Five takeaways from Canada's push to woo the world's richest investors",
-     "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
+     "title": "Three killed after LA news helicopter crashes while covering deadly bus collision",
+     "link": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-09-15T22:46:20+00:00",
-     "copete": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US - takeaways from the first Canada Investment Summit.",
-     "id": "327c785d75e1"
+     "published": "2026-09-16T07:00:58+00:00",
+     "copete": "The NBCLA news helicopter was flying near the scene of a fatal bus crash.",
+     "id": "d01c93a6b3ec"
     },
     {
-     "title": "Finneas y todos los demás teloneros de Ed Sheeran abandonan su gira en apoyo al rapero Macklemore",
-     "link": "https://www.bbc.com/mundo/articles/c617jx24xwe0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-15T21:55:38+00:00",
-     "copete": "El rapero estadounidense fue duramente criticado por grupos judíos tras hacer comentarios a favor de los palestinos como telonero de los conciertos de Ed Sheeran en EE.UU.",
-     "id": "eaa481a18734"
-    },
-    {
-     "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-     "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+     "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+     "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-09-15T21:07:13+00:00",
-     "copete": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
-     "id": "9c657c0b5de7"
+     "published": "2026-09-16T06:57:32+00:00",
+     "copete": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+     "id": "b17f30d54901"
     },
     {
-     "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-     "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+     "title": "US limits visas for South African officials over alleged anti-white discrimination",
+     "link": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-09-15T20:34:12+00:00",
-     "copete": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
-     "id": "83c9ff637cd4"
+     "published": "2026-09-16T06:12:04+00:00",
+     "copete": "Secretary of State Marco Rubio says South Africa has not addressed US concerns over racial inequality.",
+     "id": "aa07e0c326bb"
     },
     {
-     "title": "Nigeria arrests alleged Mexican drug kingpin at international airport",
-     "link": "https://www.bbc.co.uk/news/articles/crq8j4k99w39o?at_medium=RSS&at_campaign=rss",
+     "title": "Runaway horse captured by police on motorbikes",
+     "link": "https://www.bbc.co.uk/news/videos/cmzezj8gr224o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-09-15T18:49:45+00:00",
-     "copete": "Arturo Carrera Loaiza denies allegations he was involved in meth production, the Nigerian authorities say.",
-     "id": "c7395909926c"
+     "published": "2026-09-16T05:57:23+00:00",
+     "copete": "The unharmed horse escaped from its owner before the start of a parade in New Mexico",
+     "id": "f9466bf52f4c"
     },
     {
-     "title": "Von der Leyen busca una salida para una UE asediada por varios frentes",
-     "link": "https://elpais.com/internacional/2026-09-15/von-der-leyen-busca-una-salida-para-una-ue-asediada-por-varios-frentes.html",
+     "title": "Trump pierde en el Supremo la batalla del voto por correo, pero sigue su guerra para subvertir las ‘midterms’",
+     "link": "https://elpais.com/us/2026-09-16/trump-pierde-en-el-supremo-la-batalla-del-voto-por-correo-pero-sigue-su-guerra-para-subvertir-las-midterms.html",
      "source": "El País Internacional",
-     "published": "2026-09-15T18:46:08+00:00",
-     "copete": "La presidenta de la Comisión Europea pronuncia este miércoles en la Eurocámara el discurso que inaugura un curso político clave",
-     "id": "ab2996e86d59"
+     "published": "2026-09-16T04:00:00+00:00",
+     "copete": "El fallo supone un revés para el plan del Gobierno de influir en los comicios a base de amenazas a funcionarios, presiones a los Estados y colocación de negacionistas electorales en puestos clave",
+     "id": "0700d19fa88f"
     },
     {
-     "title": "Por qué las principales petroleras de EE.UU. no participan en el \"mayor acuerdo de la historia\" firmado por los gobiernos de Trump y Delcy Rodríguez",
-     "link": "https://www.bbc.com/mundo/articles/ck1l6rypgg80o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-15T18:28:49+00:00",
-     "copete": "Para el acuerdo petrolero con Venezuela, el gobierno de EE.UU. está trabajando con una empresa poco conocida, en lugar de con gigantes energéticos como ExxonMobil. ¿Por qué ocurre esto?",
-     "id": "5cd45ac31433"
+     "title": "El acta de nacimiento del ‘R3’, el nuevo jefe del Cartel Jalisco, revela datos inéditos sobre sus orígenes en California",
+     "link": "https://elpais.com/us/2026-09-16/el-acta-de-nacimiento-del-r3-el-nuevo-jefe-del-cartel-jalisco-revela-datos-ineditos-sobre-sus-origenes-en-california.html",
+     "source": "El País Internacional",
+     "published": "2026-09-16T04:00:00+00:00",
+     "copete": "Tras la muerte del Mencho, su hijastro Juan Carlos Valencia González pasó a ser el nuevo líder del cartel y el fugitivo más buscado de la DEA. Nació en un centro privado en un suburbio a unos 50 kilómetros al sur de Los Ángeles",
+     "id": "0944fb46af9f"
     },
     {
-     "title": "El empresario colombiano Alex Saab, aliado clave de Maduro, se declara culpable de lavado de dinero y entregará US$195 millones a EE.UU.",
-     "link": "https://www.bbc.com/mundo/articles/ckq63vy5647zo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-15T18:17:43+00:00",
-     "copete": "Saab, quien llegó a ser ministro del gobierno de Maduro, cambió su declaración anterior de \"no culpable\" a \"culpable\" en un tribunal de Miami, tras un acuerdo con la Fiscalía.",
-     "id": "0e1b6220e8d4"
+     "title": "El entramado digital que ofrece trabajo en Rusia y te manda a la guerra de Ucrania",
+     "link": "https://elpais.com/internacional/2026-09-16/el-entramado-digital-que-ofrece-trabajo-en-rusia-y-te-manda-a-la-guerra-de-ucrania.html",
+     "source": "El País Internacional",
+     "published": "2026-09-16T03:30:01+00:00",
+     "copete": "La red Code for Africa revela las conexiones de las cuatro grandes marcas que reclutan a jóvenes mediante engaño con servidores y plataformas occidentales",
+     "id": "cda427ebbe63"
     },
     {
-     "title": "Cuál es el riesgo de una IA \"rebelde\"",
-     "link": "https://www.bbc.com/mundo/articles/cvde0xl6le5no?at_medium=RSS&at_campaign=rss",
+     "title": "El velo retrocede en Irán, pero el sistema resiste: “Nosotras ya hemos demostrado que podemos luchar”",
+     "link": "https://elpais.com/internacional/2026-09-16/el-velo-retrocede-en-iran-pero-el-sistema-resiste-nosotras-ya-hemos-demostrado-que-podemos-luchar.html",
+     "source": "El País Internacional",
+     "published": "2026-09-16T03:30:01+00:00",
+     "copete": "Cuatro años después de que la joven Mahsa Amini se convirtiera en un símbolo tras morir bajo custodia policial, se respira más libertad en las calles, aunque las leyes no han cambiado y muchas activistas siguen silenciadas",
+     "id": "c8a116fcbbcf"
+    },
+    {
+     "title": "Como la hostilidad de Trump está empujando a Canadá a acercarse a la Unión Europea",
+     "link": "https://www.bbc.com/mundo/articles/cm74kwqnep7zo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-09-15T17:46:17+00:00",
-     "copete": "Las advertencias sobre los peligros potenciales de la IA han impulsado llamados a la acción coordinada para desacelerar el desarrollo de esta tecnología.",
-     "id": "bb97f814f744"
+     "published": "2026-09-16T02:06:42+00:00",
+     "copete": "El primer ministro canadiense viaja esta semana a Estrasburgo en busca de una \"alianza única\" con la UE.",
+     "id": "f15caf4855c5"
+    },
+    {
+     "title": "Le dijo a ChatGPT que quería asesinar a su hijo de 8 años y luego fue arrestado por la policía",
+     "link": "https://www.bbc.com/mundo/articles/cxnvlg14e1p8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-09-16T00:52:50+00:00",
+     "copete": "Este caso plantea interrogantes sobre qué debería ocurrir cuando los chatbots identifican una amenaza potencial antes de que se haya cometido un delito.",
+     "id": "e1aafce33518"
     }
    ]
   }

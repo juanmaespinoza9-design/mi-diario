@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-09-15T22:04:47Z",
+  "generated_at": "2026-09-16T10:04:16Z",
   "summaries": {
     "7218b95b109d": {
       "resumen": "La Sociedad Europea de Cardiología (ESC) ahora recomienda testear la función renal —para detectar enfermedad renal crónica (ERC)— en todos los pacientes con enfermedad cardiovascular (ECV), dado el vínculo estrecho entre el corazón y el riñón. Vale la pena mirarlo porque cambia la rutina de estudios complementarios en cualquier paciente cardiológico, más allá de los que ya tienen diabetes o hipertensión.",
       "destacado": false
     },
     "d3fd8b727d73": {
-      "resumen": "Editorial o perspectiva de JACC (Journal of the American College of Cardiology, autores Madanchi M et al.) que discute estrategias para prevenir la obstrucción microvascular durante la angioplastia coronaria primaria (PCI, percutaneous coronary intervention) en el infarto agudo de miocardio. Interesa porque la obstrucción microvascular es una de las principales razones por las que, pese a abrir la arteria a tiempo, el daño al músculo cardíaco persiste."
+      "resumen": "Editorial o perspectiva de JACC (Journal of the American College of Cardiology, autores Madanchi M et al.) que discute estrategias para prevenir la obstrucción microvascular durante la angioplastia coronaria primaria (PCI, percutaneous coronary intervention) en el infarto agudo de miocardio. Interesa porque la obstrucción microvascular es una de las principales razones por las que, pese a abrir la arteria a tiempo, el daño al músculo cardíaco persiste.",
+      "analisis": "Diseño: por el formato del título (pregunta retórica, \"Back to a CLEAN Slate?\") y la publicación en JACC (Journal of the American College of Cardiology), parece tratarse de un editorial o perspectiva que comenta un estudio o estrategia llamada \"CLEAN\" sobre prevención de la obstrucción microvascular; el título no permite confirmar si describe un ensayo aleatorizado nuevo ni precisar número de centros o pacientes.\nPoblación: pacientes sometidos a intervención coronaria percutánea (PCI, percutaneous coronary intervention) primaria por infarto agudo de miocardio; el título no detalla criterios de inclusión o exclusión.\nIntervención: estrategias para prevenir la obstrucción microvascular durante la PCI primaria, aparentemente vinculadas a un abordaje o protocolo denominado \"CLEAN\"; no se especifica el comparador en el título.\nResultados: no hay cifras, razones de riesgo ni valor de p disponibles en el título.\nLimitaciones: sin el abstract no se puede confirmar si es un editorial, una revisión o el reporte original de un estudio, ni evaluar diseño, tamaño muestral o validez de los hallazgos.\nMensaje: aporta una mirada actualizada sobre cómo prevenir el daño microvascular pese a la reperfusión exitosa de la arteria en el infarto, un problema todavía no resuelto en la práctica.\nNota: análisis sin acceso al abstract."
     },
     "c33ce6d99cad": {
       "resumen": "Editorial de JACC (Journal of the American College of Cardiology, autores Krumholz HM et al.) que reflexiona sobre la distancia entre la evidencia demostrada en los ensayos clínicos y su aplicación real dentro del sistema de salud. Aporta una mirada crítica sobre por qué cuesta tanto que un hallazgo científico probado se traduzca en cambios efectivos de la práctica clínica cotidiana."
@@ -38,22 +39,6 @@
       "destacado": false,
       "analisis": "Diseño: carta de investigación (research letter) publicada en JACC (Journal of the American College of Cardiology); por el formato de carta probablemente reporta el análisis de una cohorte ya existente más que un ensayo aleatorizado nuevo; el título no permite precisar el número de centros ni de pacientes incluidos.\nPoblación: sujetos evaluados con un panel de puntuación de riesgo poligénico (PRS, polygenic risk score) que cubre múltiples enfermedades cardiovasculares; el título no detalla los criterios de inclusión ni exclusión.\nIntervención: no hay intervención terapéutica; se trata de la aplicación y validación del panel de PRS multienfermedad, sin comparador farmacológico.\nResultados: el título indica que el valor del panel sería \"heterogéneo\" según la condición cardiovascular evaluada, es decir, el desempeño predictivo no sería uniforme entre enfermedades; no hay cifras, áreas bajo la curva, razones de riesgo ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar el tamaño de la cohorte, la ascendencia genética de la población estudiada ni las métricas de discriminación utilizadas para cada enfermedad.\nMensaje: advierte que no todos los paneles de riesgo poligénico multienfermedad rinden igual para cada condición cardiovascular, lo que exige cautela antes de aplicarlos de manera uniforme en la práctica clínica; motivó una réplica de los autores originales que profundiza el debate.\nNota: análisis sin acceso al abstract."
     },
-    "38d89cb399db": {
-      "resumen": "Artículo del European Heart Journal (Revista Europea del Corazón) que revisa cómo los hallazgos de genética cardiovascular se están trasladando a la práctica clínica, desde la identificación de variantes de riesgo hasta la medicina de precisión en cardiología. Útil para entender hacia dónde va el diagnóstico genético en enfermedad cardiovascular.",
-      "destacado": false
-    },
-    "642a1494ec3f": {
-      "resumen": "Publicación en el blog de Typesafe.ai, compartida en Hacker News, que presenta \"System One Models\" y \"Jev\", una propuesta de modelos de inteligencia artificial (IA) inspirada en el pensamiento rápido e intuitivo, en contraposición al razonamiento explícito paso a paso. Le sirve a quien aprende análisis de datos para seguir la discusión sobre arquitecturas alternativas a los grandes modelos de lenguaje (LLM, large language model) basados en razonamiento deliberado."
-    },
-    "685a03460968": {
-      "resumen": "Investigadores de seguridad de Strix relatan cómo lograron acceso de administrador al repositorio de producción en GitHub de Baseten (una plataforma de despliegue de modelos de inteligencia artificial) en apenas 25 minutos, aprovechando una cadena de fallas de configuración. Le sirve a un médico que aprende análisis de datos porque expone lo frágil que puede ser la cadena de suministro de software (supply chain) incluso en empresas de IA, algo a tener en cuenta si algún día despliega sus propios modelos o pipelines."
-    },
-    "bf9170b14f20": {
-      "resumen": "El blog oficial de Internet Archive (el proyecto detrás de Wayback Machine, el archivo histórico de páginas web) publicó una actualización sobre el acceso a su servicio, en el contexto de restricciones o cambios técnicos recientes. Le sirve a quien trabaja con datos porque Wayback Machine es una fuente habitual para reconstruir series históricas de información publicada en internet cuando no hay otro registro disponible."
-    },
-    "25434a8963f7": {
-      "resumen": "Google presentó Gemini 3.8 Live y Gemini 3.8 Live Extended Thinking, nuevas versiones de su modelo de inteligencia artificial (IA) orientadas a interacción en tiempo real y a un modo de razonamiento extendido antes de responder. Le sirve a quien aprende análisis de datos para conocer las capacidades más recientes disponibles en la familia Gemini, una alternativa a los modelos de Anthropic y OpenAI para tareas de análisis y automatización."
-    },
     "8839e0db6e89": {
       "resumen": "Artículo de KDnuggets que describe cómo JONI, una plataforma de agentes de inteligencia artificial (IA), aborda la capa de orquestación y ejecución mediante entornos de ejecución persistentes (runtimes), enrutamiento entre varios modelos y capacidades de acción más allá de la simple generación de texto. Le sirve a un médico que aprende análisis de datos para entender cómo se diseñan sistemas de agentes de IA confiables más allá de un simple chatbot."
     },
@@ -70,17 +55,33 @@
     "270f11b70f4a": {
       "resumen": "Artículo de KDnuggets sobre Google Opal, una herramienta sin código (no-code) de Google Labs que permite convertir instrucciones en lenguaje natural en pequeñas aplicaciones de inteligencia artificial (IA) funcionales, construida sobre un framework interno llamado Breadboard. Le sirve a un médico que aprende análisis de datos porque muestra una vía accesible para automatizar tareas repetitivas sin necesidad de programar desde cero."
     },
-    "fcfe623de0bd": {
-      "resumen": "Artículo de Towards Data Science con recomendaciones para mantener un diseño visual consistente en aplicaciones desarrolladas con Claude Code, la herramienta de programación asistida por inteligencia artificial (IA) de Anthropic. Le sirve a quien aprende análisis de datos y quiere que sus tableros o aplicaciones de visualización se vean prolijos y profesionales sin ser diseñador."
-    },
     "3c61d7afcf11": {
       "resumen": "Un amigo cercano de Federico Aramburu brindó un testimonio conmovedor sobre las horas previas al crimen del exjugador de Los Pumas."
     },
-    "976e34d3ee09": {
-      "resumen": "Un exjugador historico de Los Pumas declaro de forma conmovedora en el juicio que investiga el crimen de Federico Aramburu."
+    "a12225a1aea9": {
+      "resumen": "Editorial de apertura del European Heart Journal (Revista Europea del Corazón) que presenta un número especial dedicado a la cardio-oncología, la subespecialidad que estudia el daño cardiovascular derivado de los tratamientos oncológicos. Sirve como mapa de ese número para quien quiera ubicarse en los principales temas que aborda.",
+      "destacado": false
     },
-    "e9f83ec0de01": {
-      "resumen": "Felipe Contepomi fue reconocido con una distincion importante en Irlanda por su trayectoria en el rugby."
+    "faddb36e8fb1": {
+      "resumen": "Apple publicó \"Apple Reference Image\", un nuevo esquema para verificar que una fotografía es auténtica y no generada o alterada por inteligencia artificial (IA), agregando metadatos criptográficos de origen a la imagen. Le interesa a quien trabaja con datos porque la procedencia verificable de imágenes va a ser cada vez más relevante para confiar en fuentes visuales en la era de la IA generativa."
+    },
+    "c8c78a6631bd": {
+      "resumen": "Un desarrollador recreó la tarjeta gráfica Voodoo (3dfx) y una PC gamer de fines de los 90 usando una FPGA (field-programmable gate array, un chip reconfigurable por hardware). Es un proyecto de ingeniería retro más que de ciencia de datos, pero ilustra bien cómo se puede emular hardware complejo a nivel de circuito, algo útil para entender los límites entre software y hardware."
+    },
+    "500c6bf99a81": {
+      "resumen": "Simon Willison comenta el lanzamiento de Gemini Live Audio, los nuevos modelos de Google para conversación de voz a voz (speech-to-speech) en tiempo real, comparables a la familia \"Live\" de OpenAI. Le sirve a quien aprende análisis de datos porque muestra hacia dónde avanza la interacción por voz con modelos de inteligencia artificial (IA), una interfaz cada vez más relevante para aplicaciones clínicas y de atención al paciente."
+    },
+    "417161780727": {
+      "resumen": "La empresa alemana de defensa Rheinmetall liberó como código abierto el protocolo de su sistema de armas conectadas \"Battlesuite\". Tiene poca relación directa con la práctica médica, pero es un ejemplo de cómo hasta la industria de defensa adopta estándares abiertos de conectividad, un patrón que también se ve en el intercambio de datos en salud."
+    },
+    "9ae97785780a": {
+      "resumen": "Nota biográfica con motivo de los 100 años de Jean-Pierre Serre, uno de los matemáticos más influyentes del siglo XX (Medalla Fields y Premio Abel). No es ciencia de datos aplicada, pero repasa la obra de un referente cuyas herramientas matemáticas —topología y álgebra— sostienen buena parte de los métodos estadísticos y de aprendizaje automático que se usan hoy."
+    },
+    "f52a94056020": {
+      "resumen": "El tercera línea Facundo Isa habló sobre su ausencia en la convocatoria de Los Pumas y reconoció que ya casi no tiene contacto con el cuerpo técnico."
+    },
+    "1deca60c4b8a": {
+      "resumen": "Nicolás Gómez Cora, entrenador de Los Pumas 7's, explicó por qué hubiera preferido contar con Luciano González en el plantel pese a su ausencia."
     }
   }
 }

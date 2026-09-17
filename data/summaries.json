@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T22:04:59Z",
+  "generated_at": "2026-09-17T10:05:10Z",
   "summaries": {
     "7218b95b109d": {
       "resumen": "La Sociedad Europea de Cardiología (ESC) ahora recomienda testear la función renal —para detectar enfermedad renal crónica (ERC)— en todos los pacientes con enfermedad cardiovascular (ECV), dado el vínculo estrecho entre el corazón y el riñón. Vale la pena mirarlo porque cambia la rutina de estudios complementarios en cualquier paciente cardiológico, más allá de los que ya tienen diabetes o hipertensión.",
@@ -28,10 +28,6 @@
       "resumen": "TCTMD reporta que las ecuaciones PREVENT (Predicting Risk of cardiovascular disease EVENTs), la calculadora de riesgo cardiovascular de la American Heart Association, ya están integradas en Epic, uno de los sistemas de historia clínica electrónica (EHR, electronic health record) más usados en Estados Unidos. Importa porque facilita que el cálculo de riesgo se use de rutina en la consulta, sin pasos extra para el médico.",
       "destacado": false
     },
-    "d12762c74b25": {
-      "resumen": "TCTMD explora cómo la inteligencia artificial (IA) está dejando su huella en la formación de nuevos médicos, desde el estudio de grado hasta la práctica clínica supervisada. Le interesa a quien forma parte de un sistema de residencias porque plantea qué habilidades hay que enseñar distinto en la era de la IA.",
-      "destacado": false
-    },
     "130e61105c2e": {
       "resumen": "Perspectiva de JACC (Journal of the American College of Cardiology) sobre el control de la presión arterial a nivel poblacional, que plantea que bajarla en toda una comunidad exige un esfuerzo conjunto —sistema de salud, políticas públicas y atención primaria— y no solo la prescripción individual de antihipertensivos. Vale la pena mirarla porque la hipertensión arterial sigue siendo el principal factor de riesgo cardiovascular modificable a nivel mundial.",
       "destacado": false,
@@ -46,24 +42,8 @@
       "resumen": "Hilo de la comunidad r/datascience (foro de Reddit sobre ciencia de datos) que advierte sobre el \"broadcasting silencioso\": cuando una operación entre arreglos de distinta forma en librerías como NumPy o pandas se ejecuta sin error pero da un resultado incorrecto. Le sirve mucho a un médico que aprende análisis de datos porque es un error común, difícil de detectar, que puede invalidar cálculos sin ningún aviso.",
       "destacado": false
     },
-    "2a70d59635a9": {
-      "resumen": "Publicación destacada en Hacker News sobre el entrenamiento de un modelo de inteligencia artificial (IA) de 4.000 millones de parámetros (4B) capaz de generar planes de consulta (query plans) para bases de datos un 81% más rápidos que el optimizador nativo de PostgreSQL. Le interesa a quien aprende análisis de datos porque muestra cómo la IA empieza a optimizar tareas técnicas de bases de datos que antes dependían solo de reglas fijas.",
-      "destacado": true
-    },
-    "9741c847e95d": {
-      "resumen": "Artículo técnico (de 2022, resurgido en Hacker News) del blog de código abierto de Google que describe una implementación vectorizada y portable de Quicksort, el algoritmo de ordenamiento clásico, optimizada para aprovechar instrucciones SIMD (Single Instruction, Multiple Data) del procesador. Le sirve a quien aprende análisis de datos para entender cómo se logran las mejoras de rendimiento \"por debajo\" de las funciones de ordenamiento que usa todos los días en pandas o NumPy.",
-      "destacado": false
-    },
     "d86c6da463d5": {
       "resumen": "Simon Willison comenta la unificación de Claude Cowork (el modo orientado a equipos de trabajo) y el chat convencional de Claude en una sola experiencia. Le sirve a un médico que aprende análisis de datos porque simplifica cómo se accede a estas herramientas de inteligencia artificial (IA) para tareas colaborativas de análisis y redacción.",
-      "destacado": false
-    },
-    "fc651ee7288f": {
-      "resumen": "Simon Willison recoge y comenta una declaración de Mustafa Suleyman, director de inteligencia artificial (IA) de Microsoft, sobre el estado o el rumbo de la IA. Vale la pena mirarlo como termómetro de por dónde piensan las grandes empresas tecnológicas que va la industria de la IA en el corto plazo.",
-      "destacado": false
-    },
-    "6013dae34b05": {
-      "resumen": "Publicación en Hacker News que reúne pequeños trucos de programación, atajos y buenas prácticas del día a día de quien escribe código. Le sirve a un médico que está aprendiendo a programar para análisis de datos porque son mejoras concretas y de bajo esfuerzo para escribir código más prolijo y menos propenso a errores.",
       "destacado": false
     },
     "fb723c590c24": {
@@ -74,22 +54,43 @@
       "resumen": "Artículo de Towards Data Science que explica en detalle el mismo problema del \"broadcasting silencioso\" en librerías de cálculo numérico como NumPy: al operar entre arreglos de formas compatibles pero mal alineadas, el resultado se calcula igual pero queda equivocado, sin ningún aviso. Vale la pena mirarlo junto con la discusión de Reddit sobre el mismo tema porque enseña a chequear activamente las dimensiones de los datos antes de confiar en un resultado.",
       "destacado": false
     },
-    "3410f2b2c8ba": {
-      "resumen": "KDnuggets publica una chuleta (cheat sheet) sobre los \"estimadores\" de Scikit-LLM, una librería que integra grandes modelos de lenguaje (LLM, large language model) con la interfaz clásica de scikit-learn para tareas de aprendizaje automático. Le sirve a quien aprende análisis de datos porque permite usar modelos de lenguaje con la misma lógica de \"entrenar y predecir\" que ya conoce de scikit-learn.",
+    "c166e8ae328a": {
+      "resumen": "TCTMD (The Cardiovascular Research Foundation) reporta los resultados del ensayo PRAGUE-26, que evaluó la trombólisis dirigida por catéter (catheter-directed thrombolysis, liberación del fármaco fibrinolítico directamente en la arteria pulmonar mediante un catéter) en pacientes con tromboembolismo pulmonar (TEP) de riesgo intermedio-alto, con resultado favorable para esta estrategia. Vale la pena mirarlo porque el TEP de riesgo intermedio-alto es una zona gris de la práctica donde todavía se discute si conviene escalar el tratamiento más allá de la anticoagulación sola.",
+      "destacado": false,
+      "analisis": "Diseño: por el nombre \"PRAGUE-26\" y la cobertura de TCTMD, se trata de un ensayo clínico que compara la trombólisis dirigida por catéter contra un comparador; el título no permite precisar aleatorización, cegamiento, número de centros ni de pacientes incluidos.\nPoblación: pacientes con tromboembolismo pulmonar (TEP) de riesgo intermedio-alto (disfunción del ventrículo derecho sin inestabilidad hemodinámica franca); el título no detalla otros criterios de inclusión o exclusión.\nIntervención: trombólisis dirigida por catéter frente a un comparador no especificado en el título, presumiblemente anticoagulación estándar sola.\nResultados: no hay cifras, razones de riesgo ni valor de p disponibles en el título; solo se indica que la intervención resultó \"beneficiosa\".\nLimitaciones: sin el abstract no se puede confirmar el criterio de valoración principal, el tamaño muestral, ni el riesgo de sangrado asociado a la trombólisis, un aspecto crítico de esta estrategia.\nMensaje: de confirmarse, respalda un rol más activo de la trombólisis dirigida por catéter en el TEP de riesgo intermedio-alto, un escenario donde hoy la conducta terapéutica es heterogénea entre centros.\nNota: análisis sin acceso al abstract."
+    },
+    "1990b508cd2f": {
+      "resumen": "Investigación técnica publicada en Hacker News sobre cómo se recuperaron las claves criptográficas de firma usadas en los códigos de barras de las licencias de conducir de Estados Unidos, pensadas para validar su autenticidad. Le sirve a quien aprende análisis de datos porque muestra, en un caso concreto, cómo una implementación débil de criptografía puede comprometer un sistema de verificación de identidad.",
       "destacado": false
     },
-    "c876f3e802d1": {
-      "resumen": "Artículo de Towards Data Science que explica el \"impuesto\" de la caché de clave-valor (KV cache, key-value cache), la memoria que los modelos de lenguaje grandes (LLM) necesitan para no recalcular todo el contexto en cada paso, y por qué termina siendo el cuello de botella de memoria antes que el de cómputo puro en los servidores de inferencia. Le sirve a quien aprende sobre IA para entender por qué correr o alquilar estos modelos es tan caro en memoria, más allá de la potencia de cálculo.",
+    "738877fde756": {
+      "resumen": "Simon Willison anuncia la versión 1.0a40 de Datasette, su herramienta de código abierto para explorar, consultar y publicar bases de datos SQLite en la web sin escribir código. Le sirve a un médico que aprende análisis de datos porque es una forma simple de convertir una planilla o base de datos propia en algo consultable y compartible online.",
       "destacado": false
     },
-    "6c89d5cb32a2": {
-      "resumen": "Los Pumas y su entrenador Felipe Contepomi encadenaron diez días de buenas noticias para la selección argentina de rugby."
+    "2105625f58a4": {
+      "resumen": "Simon Willison publica también la versión 0.65.5, una actualización de mantenimiento de la rama estable de Datasette, la herramienta para explorar y publicar bases de datos SQLite. Vale la pena mirarla junto con la anterior para quien ya usa o piensa incorporar Datasette en su flujo de trabajo con datos.",
+      "destacado": false
     },
-    "d5d28b6ae2c6": {
-      "resumen": "Un repaso al calendario de partidos que Los Pumas disputarán próximamente en su gira por Europa."
+    "f7533cfa40f3": {
+      "resumen": "OpenSpec es un framework liviano y configurable para escribir especificaciones estructuradas que guíen a los agentes de inteligencia artificial (IA) antes de que generen código, en lugar de darles instrucciones ambiguas. Le sirve a quien aprende análisis de datos y usa asistentes de IA para programar porque ordena el proceso de pedirle cambios de código a un agente y reduce errores por consignas poco claras.",
+      "destacado": false
     },
-    "288fc80e7b49": {
-      "resumen": "El apertura Tomás Albornoz terminó de cumplir su sanción disciplinaria y ya está habilitado para volver a jugar en Francia."
+    "8230bbfb30d6": {
+      "resumen": "Un análisis publicado en Hacker News que mide cuánto influye el \"harness\" —el entorno y las herramientas que rodean a un agente de inteligencia artificial (IA), más allá del modelo de lenguaje que usa— en su desempeño real para tareas de programación. Le interesa a quien aprende análisis de datos y usa agentes de IA para codear porque muestra que la herramienta con la que se lo integra importa tanto como el modelo elegido.",
+      "destacado": false
+    },
+    "6c3aabdc873f": {
+      "resumen": "Paper de arXiv que propone una técnica para reducir aún más el tamaño de los modelos de lenguaje grandes (LLM, large language model) ternarios —aquellos cuyos parámetros solo toman tres valores posibles— por debajo de la barrera teórica de 1.58 bits por parámetro. Le sirve a quien aprende sobre inteligencia artificial (IA) para entender las técnicas de compresión que permiten correr modelos cada vez más livianos con menos recursos de cómputo.",
+      "destacado": true
+    },
+    "efdd7c3c17c4": {
+      "resumen": "Un repaso de las buenas noticias que encadenó la selección argentina de rugby, Los Pumas, en los últimos diez días bajo la conducción de Felipe Contepomi."
+    },
+    "2951d2bfa2e5": {
+      "resumen": "El futbolista Soler contó cómo hizo para seguir compitiendo al máximo nivel después de recibir el diagnóstico de diabetes."
+    },
+    "cd4f56f81de6": {
+      "resumen": "Especialistas centroamericanos advierten que el régimen de Nicaragua avanza con rapidez hacia una sucesión de poder de carácter dinástico."
     }
   }
 }

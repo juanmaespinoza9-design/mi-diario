@@ -1,19 +1,39 @@
 {
-  "generated_at": "2026-09-18T10:04:38Z",
+  "generated_at": "2026-09-18T22:04:28Z",
   "summaries": {
-    "d3fd8b727d73": {
-      "resumen": "Editorial o perspectiva de JACC (Journal of the American College of Cardiology, autores Madanchi M et al.) que discute estrategias para prevenir la obstrucción microvascular durante la angioplastia coronaria primaria (PCI, percutaneous coronary intervention) en el infarto agudo de miocardio. Interesa porque la obstrucción microvascular es una de las principales razones por las que, pese a abrir la arteria a tiempo, el daño al músculo cardíaco persiste.",
-      "analisis": "Diseño: por el formato del título (pregunta retórica, \"Back to a CLEAN Slate?\") y la publicación en JACC (Journal of the American College of Cardiology), parece tratarse de un editorial o perspectiva que comenta un estudio o estrategia llamada \"CLEAN\" sobre prevención de la obstrucción microvascular; el título no permite confirmar si describe un ensayo aleatorizado nuevo ni precisar número de centros o pacientes.\nPoblación: pacientes sometidos a intervención coronaria percutánea (PCI, percutaneous coronary intervention) primaria por infarto agudo de miocardio; el título no detalla criterios de inclusión o exclusión.\nIntervención: estrategias para prevenir la obstrucción microvascular durante la PCI primaria, aparentemente vinculadas a un abordaje o protocolo denominado \"CLEAN\"; no se especifica el comparador en el título.\nResultados: no hay cifras, razones de riesgo ni valor de p disponibles en el título.\nLimitaciones: sin el abstract no se puede confirmar si es un editorial, una revisión o el reporte original de un estudio, ni evaluar diseño, tamaño muestral o validez de los hallazgos.\nMensaje: aporta una mirada actualizada sobre cómo prevenir el daño microvascular pese a la reperfusión exitosa de la arteria en el infarto, un problema todavía no resuelto en la práctica.\nNota: análisis sin acceso al abstract."
+    "1c9841ae2878": {
+      "resumen": "La Sociedad de Angiografía e Intervenciones Cardiovasculares (SCAI, Society for Cardiovascular Angiography and Interventions) volvió a cuestionar a la Junta Americana de Medicina Interna (ABIM, American Board of Internal Medicine), esta vez por los requisitos de volumen de procedimientos exigidos para mantener la certificación en cardiología intervencionista. Vale la pena seguirlo porque exigencias de volumen muy rígidas pueden dejar afuera a operadores idóneos de centros más chicos, un debate que también resuena en la formación de residentes.",
+      "destacado": false
     },
-    "c33ce6d99cad": {
-      "resumen": "Editorial de JACC (Journal of the American College of Cardiology, autores Krumholz HM et al.) que reflexiona sobre la distancia entre la evidencia demostrada en los ensayos clínicos y su aplicación real dentro del sistema de salud. Aporta una mirada crítica sobre por qué cuesta tanto que un hallazgo científico probado se traduzca en cambios efectivos de la práctica clínica cotidiana."
+    "5e5c778b56bb": {
+      "resumen": "Nota de TCTMD (The Cardiovascular Research Foundation) sobre cómo la atención cardiológica se está corriendo de los grandes centros de alta complejidad hacia modelos más descentralizados, con telemedicina y atención ambulatoria. Interesa porque anticipa hacia dónde puede evolucionar la práctica cardiológica en los próximos años, más allá del hospital de referencia.",
+      "destacado": false
+    },
+    "1d212570b9dd": {
+      "resumen": "TCTMD (The Cardiovascular Research Foundation) reporta un estudio internacional que muestra que los cardiodesfibriladores implantables (ICD, implantable cardioverter-defibrillator) son eficaces para prevenir la muerte súbita en pacientes con miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy), la principal causa estructural de esa complicación en jóvenes y deportistas. Vale la pena mirarlo porque respalda ampliar el umbral de indicación del ICD en HCM, una decisión hoy apoyada en scores de riesgo con margen de incertidumbre.",
+      "destacado": false,
+      "analisis": "Diseño: por el título (\"Global Study\") y la cobertura de TCTMD (The Cardiovascular Research Foundation), parece tratarse de un estudio internacional, probablemente un registro multicéntrico, sobre el uso de cardiodesfibriladores implantables (ICD) en miocardiopatía hipertrófica (HCM); el título no permite precisar si hubo aleatorización, cegamiento, ni el número exacto de centros o pacientes.\nPoblación: pacientes con miocardiopatía hipertrófica (HCM) considerados en riesgo de muerte súbita cardíaca, candidatos a prevención primaria o secundaria con ICD; el título no detalla otros criterios de inclusión o exclusión.\nIntervención: implante de ICD para prevención de muerte súbita en HCM; no se especifica un grupo comparador (podría tratarse de una cohorte observacional sin grupo control).\nResultados: no hay cifras, tasas de descargas apropiadas, razones de riesgo ni valor de p disponibles en el título.\nLimitaciones: sin el abstract no se puede evaluar el diseño exacto (observacional vs. aleatorizado), el sesgo de selección de quienes ya tenían indicación de ICD, ni el tiempo de seguimiento.\nMensaje: de confirmarse el beneficio a gran escala, refuerza el rol del ICD como estrategia eficaz de prevención de muerte súbita en HCM, aunque no resuelve por sí solo a quién indicarlo con los scores de riesgo actuales.\nNota: análisis sin acceso al abstract."
+    },
+    "a793bcb185f9": {
+      "resumen": "TCTMD difunde los resultados de un registro que describe una carga elevada de enfermedad cardiovascular aterosclerótica (ASCVD, atherosclerotic cardiovascular disease) en la población árabe-estadounidense, un grupo históricamente poco representado en las estadísticas de salud cardiovascular de Estados Unidos. Vale la pena mirarlo porque visibiliza un subgrupo étnico con riesgo cardiovascular particular que suele quedar diluido dentro de categorías raciales más amplias.",
+      "destacado": false,
+      "analisis": "Diseño: registro (según el título, \"Registry\"), probablemente de base poblacional o de una cohorte clínica, que caracteriza la prevalencia y carga de enfermedad cardiovascular aterosclerótica (ASCVD) en árabes-estadounidenses; el título no permite precisar el número de centros, el tamaño de la muestra ni si hubo comparación formal con otros grupos étnicos.\nPoblación: personas de ascendencia árabe residentes en Estados Unidos, un grupo que en los registros oficiales suele clasificarse dentro de la categoría \"blanca\", lo que puede subestimar su riesgo real; el título no detalla otros criterios de inclusión o exclusión.\nIntervención: no aplica (estudio observacional descriptivo, sin intervención ni comparador terapéutico).\nResultados: no hay cifras de prevalencia, razones de riesgo ni valor de p disponibles en el título.\nLimitaciones: sin el abstract no se puede evaluar la fuente de los datos (autorreporte vs. historia clínica), el tamaño muestral ni el ajuste por factores de confusión socioeconómicos.\nMensaje: alerta sobre la necesidad de desagregar los datos étnicos para identificar poblaciones de alto riesgo cardiovascular que hoy pasan desapercibidas dentro de categorías raciales amplias.\nNota: análisis sin acceso al abstract."
+    },
+    "3a421bb1235a": {
+      "resumen": "Entrevista de TCTMD (The Cardiovascular Research Foundation) al cardiólogo Haider Warraich sobre el desarrollo de herramientas de inteligencia artificial (IA) \"agéntica\" —sistemas capaces de ejecutar tareas de forma autónoma— aplicadas a la enfermedad cardiovascular (CVD, cardiovascular disease). Vale la pena mirarla porque conecta la cardiología clínica con el análisis de datos y la IA, dos mundos cada vez más entrelazados en la práctica médica.",
+      "destacado": false
     },
     "a12225a1aea9": {
       "resumen": "Editorial de apertura del European Heart Journal (Revista Europea del Corazón) que presenta un número especial dedicado a la cardio-oncología, la subespecialidad que estudia el daño cardiovascular derivado de los tratamientos oncológicos. Sirve como mapa de ese número para quien quiera ubicarse en los principales temas que aborda.",
       "destacado": false
     },
-    "ee5e49cd4d8e": {
-      "resumen": "TCTMD reporta que las ecuaciones PREVENT (Predicting Risk of cardiovascular disease EVENTs), la calculadora de riesgo cardiovascular de la American Heart Association, ya están integradas en Epic, uno de los sistemas de historia clínica electrónica (EHR, electronic health record) más usados en Estados Unidos. Importa porque facilita que el cálculo de riesgo se use de rutina en la consulta, sin pasos extra para el médico.",
+    "d3fd8b727d73": {
+      "resumen": "Editorial o perspectiva de JACC (Journal of the American College of Cardiology, autores Madanchi M et al.) que discute estrategias para prevenir la obstrucción microvascular durante la angioplastia coronaria primaria (PCI, percutaneous coronary intervention) en el infarto agudo de miocardio. Interesa porque la obstrucción microvascular es una de las principales razones por las que, pese a abrir la arteria a tiempo, el daño al músculo cardíaco persiste.",
+      "destacado": false,
+      "analisis": "Diseño: por el formato del título (pregunta retórica, \"Back to a CLEAN Slate?\") y la publicación en JACC (Journal of the American College of Cardiology), parece tratarse de un editorial o perspectiva que comenta un estudio o estrategia llamada \"CLEAN\" sobre prevención de la obstrucción microvascular; el título no permite confirmar si describe un ensayo aleatorizado nuevo ni precisar número de centros o pacientes.\nPoblación: pacientes sometidos a intervención coronaria percutánea (PCI, percutaneous coronary intervention) primaria por infarto agudo de miocardio; el título no detalla criterios de inclusión o exclusión.\nIntervención: estrategias para prevenir la obstrucción microvascular durante la PCI primaria, aparentemente vinculadas a un abordaje o protocolo denominado \"CLEAN\"; no se especifica el comparador en el título.\nResultados: no hay cifras, razones de riesgo ni valor de p disponibles en el título.\nLimitaciones: sin el abstract no se puede confirmar si es un editorial, una revisión o el reporte original de un estudio, ni evaluar diseño, tamaño muestral o validez de los hallazgos.\nMensaje: aporta una mirada actualizada sobre cómo prevenir el daño microvascular pese a la reperfusión exitosa de la arteria en el infarto, un problema todavía no resuelto en la práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "c33ce6d99cad": {
+      "resumen": "Editorial de JACC (Journal of the American College of Cardiology, autores Krumholz HM et al.) que reflexiona sobre la distancia entre la evidencia demostrada en los ensayos clínicos y su aplicación real dentro del sistema de salud. Aporta una mirada crítica sobre por qué cuesta tanto que un hallazgo científico probado se traduzca en cambios efectivos de la práctica clínica cotidiana.",
       "destacado": false
     },
     "130e61105c2e": {
@@ -26,73 +46,54 @@
       "destacado": true,
       "analisis": "Diseño: metaanálisis actualizado publicado en JACC (Journal of the American College of Cardiology) que combina datos de múltiples ensayos clínicos aleatorizados sobre intervención coronaria percutánea (PCI) guiada por imagen intracoronaria; el título no permite precisar cuántos estudios ni cuántos pacientes en total incorpora esta actualización.\nPoblación: pacientes sometidos a PCI (angioplastia con colocación de stent), en general con lesiones coronarias complejas, donde la guía por imagen suele aportar más valor; el título no detalla criterios de inclusión o exclusión específicos.\nIntervención: PCI guiada por imagen intracoronaria (ecografía intravascular [IVUS, intravascular ultrasound] o tomografía de coherencia óptica [OCT, optical coherence tomography]) frente a PCI guiada solo por angiografía convencional.\nResultados: no hay cifras, razones de riesgo ni valor de p disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede evaluar la heterogeneidad entre los ensayos incluidos, el criterio de valoración principal exacto (mortalidad, infarto, revascularización del vaso tratado) ni el seguimiento promedio.\nMensaje: de confirmarse el beneficio, respalda el uso más sistemático de la guía por imagen intracoronaria durante la angioplastia, una práctica todavía heterogénea entre centros y operadores.\nNota: análisis sin acceso al abstract."
     },
-    "1d212570b9dd": {
-      "resumen": "TCTMD (The Cardiovascular Research Foundation) reporta un estudio internacional que muestra que los cardiodesfibriladores implantables (ICD, implantable cardioverter-defibrillator) son eficaces para prevenir la muerte súbita en pacientes con miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy), la principal causa estructural de esa complicación en jóvenes y deportistas. Vale la pena mirarlo porque respalda ampliar el umbral de indicación del ICD en HCM, una decisión hoy apoyada en scores de riesgo con margen de incertidumbre.",
-      "destacado": false,
-      "analisis": "Diseño: por el título (\"Global Study\") y la cobertura de TCTMD (The Cardiovascular Research Foundation), parece tratarse de un estudio internacional, probablemente un registro multicéntrico, sobre el uso de cardiodesfibriladores implantables (ICD) en miocardiopatía hipertrófica (HCM); el título no permite precisar si hubo aleatorización, cegamiento, ni el número exacto de centros o pacientes.\nPoblación: pacientes con miocardiopatía hipertrófica (HCM) considerados en riesgo de muerte súbita cardíaca, candidatos a prevención primaria o secundaria con ICD; el título no detalla otros criterios de inclusión o exclusión.\nIntervención: implante de ICD para prevención de muerte súbita en HCM; no se especifica un grupo comparador (podría tratarse de una cohorte observacional sin grupo control).\nResultados: no hay cifras, tasas de descargas apropiadas, razones de riesgo ni valor de p disponibles en el título.\nLimitaciones: sin el abstract no se puede evaluar el diseño exacto (observacional vs. aleatorizado), el sesgo de selección de quienes ya tenían indicación de ICD, ni el tiempo de seguimiento.\nMensaje: de confirmarse el beneficio a gran escala, refuerza el rol del ICD como estrategia eficaz de prevención de muerte súbita en HCM, aunque no resuelve por sí solo a quién indicarlo con los scores de riesgo actuales.\nNota: análisis sin acceso al abstract."
-    },
-    "a793bcb185f9": {
-      "resumen": "TCTMD difunde los resultados de un registro que describe una carga elevada de enfermedad cardiovascular aterosclerótica (ASCVD, atherosclerotic cardiovascular disease) en la población árabe-estadounidense, un grupo históricamente poco representado en las estadísticas de salud cardiovascular de Estados Unidos. Vale la pena mirarlo porque visibiliza un subgrupo étnico con riesgo cardiovascular particular que suele quedar diluido dentro de categorías raciales más amplias.",
-      "destacado": false,
-      "analisis": "Diseño: registro (según el título, \"Registry\"), probablemente de base poblacional o de una cohorte clínica, que caracteriza la prevalencia y carga de enfermedad cardiovascular aterosclerótica (ASCVD) en árabes-estadounidenses; el título no permite precisar el número de centros, el tamaño de la muestra ni si hubo comparación formal con otros grupos étnicos.\nPoblación: personas de ascendencia árabe residentes en Estados Unidos, un grupo que en los registros oficiales suele clasificarse dentro de la categoría \"blanca\", lo que puede subestimar su riesgo real; el título no detalla otros criterios de inclusión o exclusión.\nIntervención: no aplica (estudio observacional descriptivo, sin intervención ni comparador terapéutico).\nResultados: no hay cifras de prevalencia, razones de riesgo ni valor de p disponibles en el título.\nLimitaciones: sin el abstract no se puede evaluar la fuente de los datos (autorreporte vs. historia clínica), el tamaño muestral ni el ajuste por factores de confusión socioeconómicos.\nMensaje: alerta sobre la necesidad de desagregar los datos étnicos para identificar poblaciones de alto riesgo cardiovascular que hoy pasan desapercibidas dentro de categorías raciales amplias.\nNota: análisis sin acceso al abstract."
-    },
-    "d68edab4732c": {
-      "resumen": "TCTMD repasa el ensayo FAME 3 (Fractional flow reserve versus Angiography for Multivessel Evaluation 3), que comparó la angioplastia coronaria guiada por reserva de flujo fraccional (FFR, fractional flow reserve) contra la cirugía de revascularización miocárdica (CABG, coronary artery bypass graft) en pacientes con enfermedad de tres vasos. Vale la pena revisarlo porque es uno de los estudios de referencia que definen si la angioplastia guiada por fisiología puede reemplazar a la cirugía en la enfermedad coronaria multivaso compleja.",
-      "destacado": false,
-      "analisis": "Diseño: el título identifica directamente el ensayo FAME 3 (Fractional flow reserve versus Angiography for Multivessel Evaluation 3), un ensayo clínico aleatorizado multicéntrico internacional que comparó la angioplastia coronaria percutánea (PCI, percutaneous coronary intervention) guiada por reserva de flujo fraccional (FFR) frente a la cirugía de revascularización miocárdica (CABG) en enfermedad coronaria de tres vasos; el título de esta nota puntual no permite precisar si repasa los resultados iniciales o un seguimiento a más largo plazo.\nPoblación: pacientes con enfermedad coronaria de tres vasos sin afectación significativa del tronco de la coronaria izquierda, candidatos tanto a PCI como a CABG; el título no detalla otros criterios de inclusión o exclusión.\nIntervención: PCI guiada por FFR frente a CABG.\nResultados: no hay cifras, razones de riesgo ni valor de p disponibles en el título de esta nota; los resultados ya publicados de FAME 3 mostraron en general una tendencia desfavorable a la PCI frente a la CABG en el criterio combinado de eventos mayores, pero esta cobertura puntual no permite confirmar a qué corte de seguimiento se refiere.\nLimitaciones: sin el abstract no se puede confirmar el horizonte temporal que cubre esta nota, el tamaño muestral exacto ni si actualiza datos previos del mismo ensayo.\nMensaje: FAME 3 es uno de los pilares de evidencia que sostienen que, en enfermedad de tres vasos, la cirugía sigue siendo la estrategia de referencia frente a la angioplastia guiada por fisiología, aunque la elección final sigue dependiendo del Heart Team y del perfil de riesgo quirúrgico del paciente.\nNota: análisis sin acceso al abstract."
-    },
-    "2f269a03d10a": {
-      "resumen": "Simon Willison describe cómo los resúmenes de compactación (compaction summaries) que usan los agentes de inteligencia artificial (IA) para \"recordar\" una conversación larga pueden terminar generando ellos mismos instrucciones parásitas (prompt injections), sin que nadie las haya puesto ahí a propósito. Le sirve a un médico que aprende análisis de datos y usa asistentes de IA porque explica un modo de falla sutil de estas herramientas que puede llevarlas a actuar mal sin aviso.",
+    "0789abb96b12": {
+      "resumen": "Corea del Sur elevó hasta el 10% de la facturación las multas por filtraciones de datos personales, uno de los esquemas sancionatorios más duros del mundo en la materia. Le sirve a quien trabaja con datos porque marca una tendencia regulatoria global hacia una protección de datos cada vez más estricta, algo relevante también para el manejo de datos clínicos.",
       "destacado": false
     },
-    "d245bc006bc1": {
-      "resumen": "Hilo de la comunidad r/datascience (foro de Reddit sobre ciencia de datos) que explica por qué el análisis de varianza (ANOVA, analysis of variance), un método clásico para comparar promedios entre grupos, quedó en gran parte absorbido por los modelos jerárquicos (o multinivel), más flexibles para datos de encuestas y diseños complejos. Le sirve a un médico que aprende análisis de datos porque actualiza un concepto estadístico muy usado en investigación clínica hacia herramientas más modernas.",
+    "e3a679911242": {
+      "resumen": "Simon Willison compara a quienes hoy se desentienden de los modelos de lenguaje de gran escala (LLM, large language model) con un genetista que ignorara un Jurassic Park recién inaugurado. Le sirve a quien aprende análisis de datos porque es un recordatorio de que vale la pena prestarle atención a esta tecnología, esté uno entusiasmado o escéptico.",
       "destacado": false
     },
-    "b099256c0f2f": {
-      "resumen": "Artículo de Towards Data Science que explica paso a paso cómo armar un \"data lakehouse\" (una arquitectura que combina la flexibilidad de un data lake con las capacidades de consulta de una base de datos) usando DuckDB, un motor de base de datos analítica liviano, junto con DuckLake, su extensión para formato de tablas tipo lakehouse. Le sirve a un médico que aprende análisis de datos porque muestra, con herramientas gratuitas y livianas, cómo organizar grandes volúmenes de datos propios para analizarlos después.",
+    "beaede86e124": {
+      "resumen": "Claude Code, la herramienta de programación asistida por inteligencia artificial (IA) de Anthropic, suma soporte para AGENTS.md, un archivo de configuración que ya usan otras herramientas de agentes de IA para darles instrucciones. Le sirve a quien aprende análisis de datos porque estos archivos son cada vez más el modo estándar de guiar a los asistentes de IA que ayudan a programar y analizar datos.",
       "destacado": false
     },
-    "7218b95b109d": {
-      "resumen": "TCTMD (The Cardiovascular Research Foundation) informa que la Sociedad Europea de Cardiología (ESC) recomienda testear la función renal para detectar enfermedad renal crónica (ERC) en todos los pacientes con enfermedad cardiovascular (ECV), dada la fuerte interacción entre ambos órganos (eje cardiorrenal). Vale la pena mirarlo porque el cribado sistemático de ERC en la consulta cardiológica todavía no es práctica habitual pese a su fuerte impacto pronóstico.",
+    "1704ec300ffe": {
+      "resumen": "Android 17 es la primera versión desde la 3.x que agrega nuevas interfaces de programación (API, application programming interface) sin publicar antes el código en el Proyecto de Código Abierto de Android (AOSP, Android Open Source Project). Le sirve a quien aprende análisis de datos porque ilustra una tendencia hacia menos apertura en plataformas que hasta ahora eran de referencia como código abierto.",
       "destacado": false
     },
-    "39b208522bb5": {
-      "resumen": "Relato técnico, con buena repercusión en Hacker News, sobre vulnerabilidades de seguridad encontradas en sistemas de OpenAI. Le sirve a quien aprende análisis de datos e inteligencia artificial (IA) porque ilustra riesgos reales de seguridad en las plataformas de IA que cualquier usuario técnico debería tener presentes.",
+    "023ab82b7113": {
+      "resumen": "Un tribunal de apelaciones de Estados Unidos confirmó que los agentes fronterizos pueden revisar celulares sin orden judicial ni sospecha razonable. Le sirve a quien maneja datos porque es un recordatorio concreto de los límites, o la falta de ellos, a la privacidad de la información personal almacenada en los dispositivos.",
       "destacado": false
     },
-    "acc67ef32e42": {
-      "resumen": "Simon Willison difunde una alerta de seguridad sobre una campaña dirigida contra desarrolladores prominentes del lenguaje Rust (\"Rustaceans\") y responsables de paquetes (\"crates\") populares. Le sirve a quien aprende análisis de datos porque recuerda que las herramientas y librerías de código abierto que se usan a diario también pueden ser blanco de ataques dirigidos.",
+    "176ec7b3e8f0": {
+      "resumen": "El ejército de Estados Unidos estuvo cerca de un incidente grave tras basarse en un reporte de inteligencia con información inventada (\"alucinada\") por un sistema de inteligencia artificial (IA). Le sirve a quien aprende análisis de datos porque es un caso real y de alto impacto sobre por qué nunca hay que tomar la salida de una IA como un hecho sin verificarla.",
       "destacado": false
     },
-    "e4addcf48f06": {
-      "resumen": "Simon Willison comparte la mirada de Thomas Ptacek sobre usar los modelos de lenguaje de gran escala (LLM, large language model) como correctores de estilo y no como asistentes que escriben por uno. Le sirve a quien aprende análisis de datos porque plantea un límite claro para el uso responsable de la inteligencia artificial (IA) generativa en la escritura técnica.",
+    "517b76d54ac3": {
+      "resumen": "Hilo de la comunidad r/datascience (foro de Reddit sobre ciencia de datos) donde profesionales que cambiaron de trabajo en el último año cuentan cómo les está yendo. Le sirve a quien está en transición hacia el análisis de datos porque ofrece testimonios de primera mano sobre el mercado laboral real del sector.",
       "destacado": false
     },
-    "3195ca010f5c": {
-      "resumen": "Anuncio del lanzamiento de Qwen 3.8 Omni Flash, un nuevo modelo de inteligencia artificial (IA) multimodal (texto, imagen y audio) de la familia Qwen. Le sirve a quien aprende análisis de datos porque amplía el panorama de modelos abiertos disponibles para experimentar sin depender de un único proveedor.",
-      "destacado": false
-    },
-    "4a65016fd02f": {
-      "resumen": "Presentación de Bonsai 2 27B, una técnica de compresión que reduce un modelo de inteligencia artificial (IA) de 27 mil millones de parámetros a una fracción de su tamaño original con pérdida mínima de calidad. Le sirve a quien aprende análisis de datos porque muestra cómo correr IA potente con muchos menos recursos de cómputo.",
+    "58a13e8d9249": {
+      "resumen": "Towards Data Science explica cómo detectar cuando un agente de programación con inteligencia artificial (IA) entrega una aplicación que \"funciona\" pero no hace lo que realmente se pidió, sin necesidad de leer el código generado. Le sirve especialmente a quien aprende análisis de datos usando asistentes de IA, porque da una forma concreta de verificar resultados en vez de confiar a ciegas en la herramienta.",
       "destacado": true
     },
-    "1ede27ee916d": {
-      "resumen": "KDnuggets analiza en detalle qué contiene un resultado de búsqueda típico consumido por un agente de inteligencia artificial (IA), y cómo convertirlo a formato Markdown puede reducir hasta un 74% el uso de tokens (las unidades de texto que procesa un modelo de lenguaje). Le sirve a quien aprende análisis de datos porque es un ejemplo concreto de cómo optimizar costos y contexto al integrar IA con fuentes de datos externas.",
+    "fc55e6480f4e": {
+      "resumen": "Simon Willison comparte una reflexión sobre el proceso creativo detrás de la película \"¿Quién engañó a Roger Rabbit?\" (1988), de Robert Zemeckis. Nota más de cultura que de datos, pero vale una mirada rápida como curiosidad del autor de un blog de referencia en inteligencia artificial (IA).",
       "destacado": false
     },
-    "f8068057b07e": {
-      "resumen": "KDnuggets repasa las fortalezas y límites reales de ChatGPT Work, la versión de ChatGPT orientada a entornos laborales. Le sirve a quien aprende análisis de datos porque ayuda a evaluar con criterio si estas herramientas de inteligencia artificial (IA) aportan valor genuino en el trabajo diario, más allá del marketing.",
+    "1079d6d4113b": {
+      "resumen": "Towards Data Science cuenta que fijar la versión de un modelo de inteligencia artificial (IA) no alcanza para evitar sorpresas, porque el proveedor igual puede discontinuarlo y obligar a rehacer pruebas y ajustes. Le sirve a quien aprende análisis de datos porque anticipa un costo oculto de usar IA en producción: el mantenimiento constante frente a cambios que uno no controla.",
       "destacado": false
     },
-    "392c1cdcc2f9": {
-      "resumen": "Un repaso del calendario y los próximos partidos de Los Pumas en el Rugby Championship."
+    "a70dd073fa6b": {
+      "resumen": "Un próximo rival de Los Pumas cerró un amistoso ante los Springboks de cara a la Copa del Mundo 2027."
     },
-    "207c3b518d1c": {
-      "resumen": "La agenda de competencias del viernes 18 en los XIII Juegos Suramericanos, con el debut de Los Pumas 7 entre los platos fuertes."
+    "663d0a2a7615": {
+      "resumen": "La historia del \"Tumba\" Molina, el primer tucumano en jugar un Mundial con Los Pumas."
     },
-    "39b92921c575": {
-      "resumen": "Días, horarios y dónde ver en vivo a Los Pumas 7's y a Las Yaguaretés en los Juegos Suramericanos."
+    "739af4c7f150": {
+      "resumen": "Vuelven varios jugadores y hay numerosos Pumas en cancha en la tercera fecha del Top 14 francés."
     }
   }
 }

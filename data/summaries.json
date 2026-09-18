@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:06:36Z",
+  "generated_at": "2026-09-18T10:04:38Z",
   "summaries": {
     "d3fd8b727d73": {
       "resumen": "Editorial o perspectiva de JACC (Journal of the American College of Cardiology, autores Madanchi M et al.) que discute estrategias para prevenir la obstrucción microvascular durante la angioplastia coronaria primaria (PCI, percutaneous coronary intervention) en el infarto agudo de miocardio. Interesa porque la obstrucción microvascular es una de las principales razones por las que, pese a abrir la arteria a tiempo, el daño al músculo cardíaco persiste.",
@@ -10,10 +10,6 @@
     },
     "a12225a1aea9": {
       "resumen": "Editorial de apertura del European Heart Journal (Revista Europea del Corazón) que presenta un número especial dedicado a la cardio-oncología, la subespecialidad que estudia el daño cardiovascular derivado de los tratamientos oncológicos. Sirve como mapa de ese número para quien quiera ubicarse en los principales temas que aborda.",
-      "destacado": false
-    },
-    "3a421bb1235a": {
-      "resumen": "Entrevista de TCTMD (The Cardiovascular Research Foundation) al cardiólogo Haider Warraich sobre el desarrollo de herramientas de inteligencia artificial (IA) agéntica —sistemas capaces de ejecutar tareas de forma autónoma, no solo responder preguntas— aplicadas a la enfermedad cardiovascular (CVD, cardiovascular disease). Vale la pena mirarla porque anticipa hacia dónde va la IA en cardiología, más allá de los modelos predictivos clásicos.",
       "destacado": false
     },
     "ee5e49cd4d8e": {
@@ -49,50 +45,54 @@
       "resumen": "Simon Willison describe cómo los resúmenes de compactación (compaction summaries) que usan los agentes de inteligencia artificial (IA) para \"recordar\" una conversación larga pueden terminar generando ellos mismos instrucciones parásitas (prompt injections), sin que nadie las haya puesto ahí a propósito. Le sirve a un médico que aprende análisis de datos y usa asistentes de IA porque explica un modo de falla sutil de estas herramientas que puede llevarlas a actuar mal sin aviso.",
       "destacado": false
     },
-    "01e6418dc113": {
-      "resumen": "OpenAI presenta Astra, una herramienta de inteligencia artificial (IA) agéntica pensada específicamente para el trabajo legal, capaz de ejecutar tareas como investigación y redacción de documentos de forma más autónoma. Le sirve a un médico que aprende análisis de datos porque muestra, en otra profesión regulada como la abogacía, el mismo patrón de adopción de IA agéntica que empieza a llegar a la medicina.",
-      "destacado": false
-    },
-    "c5d5be5687ed": {
-      "resumen": "Publicación de opinión en el blog de Jan Schaumann (netmeister.org), muy comentada en Hacker News, que según su título reflexiona con tono crítico sobre cierto clima de exageración o pérdida de perspectiva en la industria tecnológica actual. Le sirve a quien aprende análisis de datos porque invita a mantener una mirada escéptica frente al entusiasmo desmedido con nuevas tecnologías, incluida la inteligencia artificial (IA).",
-      "destacado": false
-    },
-    "bf5dba8048fd": {
-      "resumen": "Hister es un motor de búsqueda privado, publicado en GitHub, que indexa localmente las páginas web que visitás y los archivos que guardás, sin depender de servicios en la nube. Le sirve a un médico que aprende análisis de datos porque ofrece una forma de organizar y volver a encontrar su propia información (notas, papers, planillas) sin exponerla a terceros.",
-      "destacado": false
-    },
     "d245bc006bc1": {
       "resumen": "Hilo de la comunidad r/datascience (foro de Reddit sobre ciencia de datos) que explica por qué el análisis de varianza (ANOVA, analysis of variance), un método clásico para comparar promedios entre grupos, quedó en gran parte absorbido por los modelos jerárquicos (o multinivel), más flexibles para datos de encuestas y diseños complejos. Le sirve a un médico que aprende análisis de datos porque actualiza un concepto estadístico muy usado en investigación clínica hacia herramientas más modernas.",
-      "destacado": false
-    },
-    "24e336d6c0a3": {
-      "resumen": "CrowdSec, una plataforma abierta de detección colaborativa de amenazas informáticas, confirmó una filtración de parte de su código fuente y publicó un comunicado explicando el alcance del incidente. Le sirve a quien aprende análisis de datos y usa herramientas de código abierto porque es un recordatorio concreto de los riesgos de seguridad que también corren estos proyectos.",
       "destacado": false
     },
     "b099256c0f2f": {
       "resumen": "Artículo de Towards Data Science que explica paso a paso cómo armar un \"data lakehouse\" (una arquitectura que combina la flexibilidad de un data lake con las capacidades de consulta de una base de datos) usando DuckDB, un motor de base de datos analítica liviano, junto con DuckLake, su extensión para formato de tablas tipo lakehouse. Le sirve a un médico que aprende análisis de datos porque muestra, con herramientas gratuitas y livianas, cómo organizar grandes volúmenes de datos propios para analizarlos después.",
       "destacado": false
     },
-    "bc64601dcda6": {
-      "resumen": "Un ingeniero de datos en Towards Data Science cuenta cómo construyó un sistema multiagente de inteligencia artificial (IA) para automatizar el análisis de series de tiempo interrumpidas (ITSA, interrupted time series analysis), un método estadístico muy usado para medir el efecto de una intervención o política a lo largo del tiempo. Le sirve especialmente a un médico que aprende análisis de datos porque el ITSA es una técnica habitual para evaluar el impacto de intervenciones sanitarias (por ejemplo, un cambio de guía clínica o una campaña de vacunación).",
+    "7218b95b109d": {
+      "resumen": "TCTMD (The Cardiovascular Research Foundation) informa que la Sociedad Europea de Cardiología (ESC) recomienda testear la función renal para detectar enfermedad renal crónica (ERC) en todos los pacientes con enfermedad cardiovascular (ECV), dada la fuerte interacción entre ambos órganos (eje cardiorrenal). Vale la pena mirarlo porque el cribado sistemático de ERC en la consulta cardiológica todavía no es práctica habitual pese a su fuerte impacto pronóstico.",
+      "destacado": false
+    },
+    "39b208522bb5": {
+      "resumen": "Relato técnico, con buena repercusión en Hacker News, sobre vulnerabilidades de seguridad encontradas en sistemas de OpenAI. Le sirve a quien aprende análisis de datos e inteligencia artificial (IA) porque ilustra riesgos reales de seguridad en las plataformas de IA que cualquier usuario técnico debería tener presentes.",
+      "destacado": false
+    },
+    "acc67ef32e42": {
+      "resumen": "Simon Willison difunde una alerta de seguridad sobre una campaña dirigida contra desarrolladores prominentes del lenguaje Rust (\"Rustaceans\") y responsables de paquetes (\"crates\") populares. Le sirve a quien aprende análisis de datos porque recuerda que las herramientas y librerías de código abierto que se usan a diario también pueden ser blanco de ataques dirigidos.",
+      "destacado": false
+    },
+    "e4addcf48f06": {
+      "resumen": "Simon Willison comparte la mirada de Thomas Ptacek sobre usar los modelos de lenguaje de gran escala (LLM, large language model) como correctores de estilo y no como asistentes que escriben por uno. Le sirve a quien aprende análisis de datos porque plantea un límite claro para el uso responsable de la inteligencia artificial (IA) generativa en la escritura técnica.",
+      "destacado": false
+    },
+    "3195ca010f5c": {
+      "resumen": "Anuncio del lanzamiento de Qwen 3.8 Omni Flash, un nuevo modelo de inteligencia artificial (IA) multimodal (texto, imagen y audio) de la familia Qwen. Le sirve a quien aprende análisis de datos porque amplía el panorama de modelos abiertos disponibles para experimentar sin depender de un único proveedor.",
+      "destacado": false
+    },
+    "4a65016fd02f": {
+      "resumen": "Presentación de Bonsai 2 27B, una técnica de compresión que reduce un modelo de inteligencia artificial (IA) de 27 mil millones de parámetros a una fracción de su tamaño original con pérdida mínima de calidad. Le sirve a quien aprende análisis de datos porque muestra cómo correr IA potente con muchos menos recursos de cómputo.",
       "destacado": true
     },
-    "93ad0e4b18ca": {
-      "resumen": "Publicación en r/datascience que promociona una serie de talleres gratuitos en vivo sobre cómo construir \"analistas de inteligencia artificial (IA)\" bien hechos, con foco en dominar primero los fundamentos antes de automatizar el análisis de datos. Le sirve a un médico que recién empieza en análisis de datos porque insiste en una idea clave: la IA no reemplaza entender las bases estadísticas y de datos, sino que se apoya en ellas.",
+    "1ede27ee916d": {
+      "resumen": "KDnuggets analiza en detalle qué contiene un resultado de búsqueda típico consumido por un agente de inteligencia artificial (IA), y cómo convertirlo a formato Markdown puede reducir hasta un 74% el uso de tokens (las unidades de texto que procesa un modelo de lenguaje). Le sirve a quien aprende análisis de datos porque es un ejemplo concreto de cómo optimizar costos y contexto al integrar IA con fuentes de datos externas.",
       "destacado": false
     },
-    "6cfa371b5d1f": {
-      "resumen": "Artículo de Towards Data Science que contrasta dos formas de pensar la estadística: la bayesiana, que trata la probabilidad como un grado de creencia que se actualiza con nueva evidencia, frente a la frecuentista, la que suele enseñarse primero y en la que se apoyan el valor de p y los intervalos de confianza clásicos. Le sirve mucho a un médico que aprende análisis de datos porque aclara una confusión frecuente al interpretar resultados de estudios clínicos.",
+    "f8068057b07e": {
+      "resumen": "KDnuggets repasa las fortalezas y límites reales de ChatGPT Work, la versión de ChatGPT orientada a entornos laborales. Le sirve a quien aprende análisis de datos porque ayuda a evaluar con criterio si estas herramientas de inteligencia artificial (IA) aportan valor genuino en el trabajo diario, más allá del marketing.",
       "destacado": false
     },
-    "2e6c9ab0cbc4": {
-      "resumen": "Los Pumas 7, el seleccionado argentino de rugby seven, debutan este viernes en un torneo disputado en el Hipódromo."
+    "392c1cdcc2f9": {
+      "resumen": "Un repaso del calendario y los próximos partidos de Los Pumas en el Rugby Championship."
     },
-    "ee06926d28a4": {
-      "resumen": "Un repaso de qué jugadores ya están recuperados de sus lesiones y en condiciones de volver a ser convocados a Los Pumas."
+    "207c3b518d1c": {
+      "resumen": "La agenda de competencias del viernes 18 en los XIII Juegos Suramericanos, con el debut de Los Pumas 7 entre los platos fuertes."
     },
-    "71d503aac1c9": {
-      "resumen": "Chocobares dio detalles de la lesión que lo dejó afuera de la última convocatoria de Los Pumas."
+    "39b92921c575": {
+      "resumen": "Días, horarios y dónde ver en vivo a Los Pumas 7's y a Las Yaguaretés en los Juegos Suramericanos."
     }
   }
 }

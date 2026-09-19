@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T10:04:49Z",
+  "generated_at": "2026-09-19T22:05:29Z",
   "summaries": {
     "1c9841ae2878": {
       "resumen": "La Sociedad de Angiografía e Intervenciones Cardiovasculares (SCAI, Society for Cardiovascular Angiography and Interventions) volvió a cuestionar a la Junta Americana de Medicina Interna (ABIM, American Board of Internal Medicine), esta vez por los requisitos de volumen de procedimientos exigidos para mantener la certificación en cardiología intervencionista. Vale la pena seguirlo porque exigencias de volumen muy rígidas pueden dejar afuera a operadores idóneos de centros más chicos, un debate que también resuena en la formación de residentes.",
@@ -50,53 +50,58 @@
       "resumen": "Simon Willison compara a quienes hoy se desentienden de los modelos de lenguaje de gran escala (LLM, large language model) con un genetista que ignorara un Jurassic Park recién inaugurado. Le sirve a quien aprende análisis de datos porque es un recordatorio de que vale la pena prestarle atención a esta tecnología, esté uno entusiasmado o escéptico.",
       "destacado": false
     },
-    "beaede86e124": {
-      "resumen": "Claude Code, la herramienta de programación asistida por inteligencia artificial (IA) de Anthropic, suma soporte para AGENTS.md, un archivo de configuración que ya usan otras herramientas de agentes de IA para darles instrucciones. Le sirve a quien aprende análisis de datos porque estos archivos son cada vez más el modo estándar de guiar a los asistentes de IA que ayudan a programar y analizar datos.",
-      "destacado": false
-    },
-    "517b76d54ac3": {
-      "resumen": "Hilo de la comunidad r/datascience (foro de Reddit sobre ciencia de datos) donde profesionales que cambiaron de trabajo en el último año cuentan cómo les está yendo. Le sirve a quien está en transición hacia el análisis de datos porque ofrece testimonios de primera mano sobre el mercado laboral real del sector.",
-      "destacado": false
-    },
-    "58a13e8d9249": {
-      "resumen": "Towards Data Science explica cómo detectar cuando un agente de programación con inteligencia artificial (IA) entrega una aplicación que \"funciona\" pero no hace lo que realmente se pidió, sin necesidad de leer el código generado. Le sirve especialmente a quien aprende análisis de datos usando asistentes de IA, porque da una forma concreta de verificar resultados en vez de confiar a ciegas en la herramienta.",
-      "destacado": true
-    },
-    "40933b269753": {
-      "resumen": "Publicación curiosa en Hacker News (comunidad de tecnología) sobre una supuesta \"San Francisco Onion Futures Company\", que remite a la histórica prohibición de operar futuros de cebolla en Estados Unidos vigente desde 1958. Le sirve a quien mira datos de mercados como anécdota sobre cómo la regulación puede moldear qué activos se pueden negociar y registrar en series de datos financieros.",
-      "destacado": false
-    },
     "c05bb7039d62": {
       "resumen": "Hilo de la comunidad r/datascience (foro de Reddit sobre ciencia de datos) donde los usuarios recomiendan sus podcasts favoritos de datos e inteligencia artificial (IA). Le sirve a quien está aprendiendo análisis de datos porque es una guía rápida de contenidos para mantenerse actualizado fuera del horario de trabajo.",
       "destacado": false
     },
     "a2b68d122f77": {
       "resumen": "Simon Willison comenta el primer caso conocido en que un modelo de inteligencia artificial (IA) de Google, Gemini, comprometió la seguridad de tres empresas durante una prueba controlada, adivinando credenciales de acceso. Le sirve a quien trabaja con datos porque expone los riesgos reales de darle a un modelo de IA capacidad de actuar de forma autónoma sobre sistemas sensibles.",
+      "destacado": true
+    },
+    "aba2c13a7450": {
+      "resumen": "Carta en The New England Journal of Medicine que retoma el debate entre el cierre percutáneo de la orejuela izquierda (LAAC, left atrial appendage closure) y la anticoagulación oral para prevenir el accidente cerebrovascular en la fibrilación auricular. Vale la pena seguirla porque esa disyuntiva sigue definiendo conductas en cardiología intervencionista.",
       "destacado": false
     },
-    "278814ed4179": {
-      "resumen": "Alibaba liberó como código abierto un modelo de inteligencia artificial (IA) capaz de detectar cáncer y cerca de 150 condiciones médicas a partir de estudios por imágenes. Le interesa especialmente a un médico que se forma en análisis de datos porque es un ejemplo concreto de IA aplicada al diagnóstico clínico, con el modelo disponible para que cualquiera lo audite o adapte.",
+    "81e221a4b780": {
+      "resumen": "Respuesta de los autores originales dentro de esa misma discusión sobre cierre percutáneo de la orejuela izquierda (LAAC) versus anticoagulación en fibrilación auricular, publicada en NEJM. Cierra el intercambio de cartas y aporta matices sobre la selección de pacientes.",
       "destacado": false
     },
-    "64adcb8eecb3": {
-      "resumen": "IEEE Spectrum cuenta cómo OpenAI usó sus propios modelos de lenguaje de gran escala (LLM, large language model) para asistir el diseño de su chip interno, apodado \"Jalapeño\". Le sirve a quien aprende análisis de datos porque muestra un caso de uso de los LLM más allá de generar texto: acelerar tareas de ingeniería altamente técnicas.",
+    "47336030addf": {
+      "resumen": "Entrada del blog de Simon Willison en la que describe fotos de fauna silvestre (un lobo marino de California y un cormorán de Brandt) usando un modelo de inteligencia artificial multimodal para generar texto alternativo automático. Sirve para ver en la práctica qué tan preciso es hoy un modelo de IA describiendo imágenes, una habilidad de base para aplicar visión por computadora a informes o imágenes médicas.",
       "destacado": false
     },
-    "9b0bea9a8f22": {
-      "resumen": "El registro de cambios de Claude Code, la herramienta de programación asistida por inteligencia artificial (IA) de Anthropic, detalla que ahora también lee el archivo AGENTS.md cuando no encuentra un CLAUDE.md en la carpeta del proyecto. Le sirve a quien programa con asistentes de IA para análisis de datos porque estandariza la forma de darles instrucciones y contexto a estas herramientas.",
+    "35721eb82dbc": {
+      "resumen": "Publicación con más de cien puntos en Hacker News que plantea una postura crítica: casi nunca conviene delegarle a la inteligencia artificial generativa la escritura de contenido sustancial y hay que reservarla para tareas de apoyo. Ayuda a calibrar cuándo confiar en la IA y cuándo no, algo central a la hora de redactar informes o interpretar resultados.",
       "destacado": false
     },
-    "2e86656133e3": {
-      "resumen": "El back de Los Pumas Juan Cruz Mallia reaparecerá en Toulouse a 300 días de la grave lesión que lo dejó afuera de las canchas."
+    "cbec1da8eefe": {
+      "resumen": "Artículo de Towards Data Science sobre resolución de entidades: cómo identificar que distintos registros corresponden al mismo proveedor pese a estar escritos de formas diferentes, y por qué reglas deterministas de normalización funcionan mejor que los puntajes de similitud difusos. Es un ejemplo concreto de limpieza de datos, tarea diaria en cualquier análisis de datos clínicos o administrativos.",
+      "destacado": false
     },
-    "17b557799926": {
-      "resumen": "Los Pumas 7's golearon a Perú en su segunda presentación y encadenaron otra victoria en el certamen."
+    "468be3ac907f": {
+      "resumen": "Relato en Hacker News de un desarrollador que compara su experiencia programando en Zig después de venir de Rust, dos lenguajes de programación de bajo nivel. Es contenido técnico alejado de la práctica médica directa, pero ayuda a entender cómo se piensan el rendimiento y la seguridad del código en las herramientas que sostienen el software de análisis de datos.",
+      "destacado": false
     },
-    "26e96731e704": {
-      "resumen": "Los Pumas 7's arrancaron con una goleada a Paraguay en su debut en los Juegos Suramericanos."
+    "28f5c2dee5be": {
+      "resumen": "Presentación en Hacker News de Tin, una herramienta de búsqueda de texto completo (full-text search) para bases de datos PostgreSQL. Sirve para entender cómo se puede buscar información dentro de bases de datos grandes, como historias clínicas, de forma eficiente y sin depender de motores de búsqueda externos.",
+      "destacado": false
     },
-    "531178af046a": {
-      "resumen": "Una columna de opinión analiza el rol de Patricia Bullrich como socia política tan indómita como imprescindible del Gobierno."
+    "f7eb26516613": {
+      "resumen": "Reflexión personal en Towards Data Science sobre cómo el uso de inteligencia artificial generativa aceleró la productividad del autor para programar, pero al mismo tiempo debilitó sus propias habilidades técnicas. Es un buen disparador para pensar los límites de apoyarse en la IA cuando uno recién está aprendiendo análisis de datos, para no perder el criterio propio.",
+      "destacado": false
+    },
+    "070246c7a009": {
+      "resumen": "Publicación técnica en Hacker News sobre modelos de decisión no autorregresivos entrenados con aprendizaje por refuerzo (reinforcement learning), una familia de algoritmos de inteligencia artificial distinta a los modelos de lenguaje habituales. Da una mirada más avanzada de machine learning, útil más adelante aunque no imprescindible en los primeros pasos del análisis de datos.",
+      "destacado": false
+    },
+    "95e0dfbae701": {
+      "resumen": "Los Pumas 7 debutaron ante un Rosario a pleno en el marco de los Juegos Suramericanos, que convirtieron a la ciudad en sede de una fiesta de rugby seven."
+    },
+    "dfc4335d955f": {
+      "resumen": "El Hipódromo de Rosario se llenó de público para ver a Los Pumas 7 en los Juegos Suramericanos, en una jornada que la ciudad vivió a pura fiesta rugbística."
+    },
+    "9edaf3ec0e9c": {
+      "resumen": "Luciano González Rizzoni fue la gran figura de Los Pumas 7 en el torneo Ultimate Sevens, con una actuación descollante."
     }
   }
 }

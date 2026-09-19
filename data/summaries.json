@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T22:04:28Z",
+  "generated_at": "2026-09-19T10:04:49Z",
   "summaries": {
     "1c9841ae2878": {
       "resumen": "La Sociedad de Angiografía e Intervenciones Cardiovasculares (SCAI, Society for Cardiovascular Angiography and Interventions) volvió a cuestionar a la Junta Americana de Medicina Interna (ABIM, American Board of Internal Medicine), esta vez por los requisitos de volumen de procedimientos exigidos para mantener la certificación en cardiología intervencionista. Vale la pena seguirlo porque exigencias de volumen muy rígidas pueden dejar afuera a operadores idóneos de centros más chicos, un debate que también resuena en la formación de residentes.",
@@ -46,28 +46,12 @@
       "destacado": true,
       "analisis": "Diseño: metaanálisis actualizado publicado en JACC (Journal of the American College of Cardiology) que combina datos de múltiples ensayos clínicos aleatorizados sobre intervención coronaria percutánea (PCI) guiada por imagen intracoronaria; el título no permite precisar cuántos estudios ni cuántos pacientes en total incorpora esta actualización.\nPoblación: pacientes sometidos a PCI (angioplastia con colocación de stent), en general con lesiones coronarias complejas, donde la guía por imagen suele aportar más valor; el título no detalla criterios de inclusión o exclusión específicos.\nIntervención: PCI guiada por imagen intracoronaria (ecografía intravascular [IVUS, intravascular ultrasound] o tomografía de coherencia óptica [OCT, optical coherence tomography]) frente a PCI guiada solo por angiografía convencional.\nResultados: no hay cifras, razones de riesgo ni valor de p disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede evaluar la heterogeneidad entre los ensayos incluidos, el criterio de valoración principal exacto (mortalidad, infarto, revascularización del vaso tratado) ni el seguimiento promedio.\nMensaje: de confirmarse el beneficio, respalda el uso más sistemático de la guía por imagen intracoronaria durante la angioplastia, una práctica todavía heterogénea entre centros y operadores.\nNota: análisis sin acceso al abstract."
     },
-    "0789abb96b12": {
-      "resumen": "Corea del Sur elevó hasta el 10% de la facturación las multas por filtraciones de datos personales, uno de los esquemas sancionatorios más duros del mundo en la materia. Le sirve a quien trabaja con datos porque marca una tendencia regulatoria global hacia una protección de datos cada vez más estricta, algo relevante también para el manejo de datos clínicos.",
-      "destacado": false
-    },
     "e3a679911242": {
       "resumen": "Simon Willison compara a quienes hoy se desentienden de los modelos de lenguaje de gran escala (LLM, large language model) con un genetista que ignorara un Jurassic Park recién inaugurado. Le sirve a quien aprende análisis de datos porque es un recordatorio de que vale la pena prestarle atención a esta tecnología, esté uno entusiasmado o escéptico.",
       "destacado": false
     },
     "beaede86e124": {
       "resumen": "Claude Code, la herramienta de programación asistida por inteligencia artificial (IA) de Anthropic, suma soporte para AGENTS.md, un archivo de configuración que ya usan otras herramientas de agentes de IA para darles instrucciones. Le sirve a quien aprende análisis de datos porque estos archivos son cada vez más el modo estándar de guiar a los asistentes de IA que ayudan a programar y analizar datos.",
-      "destacado": false
-    },
-    "1704ec300ffe": {
-      "resumen": "Android 17 es la primera versión desde la 3.x que agrega nuevas interfaces de programación (API, application programming interface) sin publicar antes el código en el Proyecto de Código Abierto de Android (AOSP, Android Open Source Project). Le sirve a quien aprende análisis de datos porque ilustra una tendencia hacia menos apertura en plataformas que hasta ahora eran de referencia como código abierto.",
-      "destacado": false
-    },
-    "023ab82b7113": {
-      "resumen": "Un tribunal de apelaciones de Estados Unidos confirmó que los agentes fronterizos pueden revisar celulares sin orden judicial ni sospecha razonable. Le sirve a quien maneja datos porque es un recordatorio concreto de los límites, o la falta de ellos, a la privacidad de la información personal almacenada en los dispositivos.",
-      "destacado": false
-    },
-    "176ec7b3e8f0": {
-      "resumen": "El ejército de Estados Unidos estuvo cerca de un incidente grave tras basarse en un reporte de inteligencia con información inventada (\"alucinada\") por un sistema de inteligencia artificial (IA). Le sirve a quien aprende análisis de datos porque es un caso real y de alto impacto sobre por qué nunca hay que tomar la salida de una IA como un hecho sin verificarla.",
       "destacado": false
     },
     "517b76d54ac3": {
@@ -78,22 +62,41 @@
       "resumen": "Towards Data Science explica cómo detectar cuando un agente de programación con inteligencia artificial (IA) entrega una aplicación que \"funciona\" pero no hace lo que realmente se pidió, sin necesidad de leer el código generado. Le sirve especialmente a quien aprende análisis de datos usando asistentes de IA, porque da una forma concreta de verificar resultados en vez de confiar a ciegas en la herramienta.",
       "destacado": true
     },
-    "fc55e6480f4e": {
-      "resumen": "Simon Willison comparte una reflexión sobre el proceso creativo detrás de la película \"¿Quién engañó a Roger Rabbit?\" (1988), de Robert Zemeckis. Nota más de cultura que de datos, pero vale una mirada rápida como curiosidad del autor de un blog de referencia en inteligencia artificial (IA).",
+    "40933b269753": {
+      "resumen": "Publicación curiosa en Hacker News (comunidad de tecnología) sobre una supuesta \"San Francisco Onion Futures Company\", que remite a la histórica prohibición de operar futuros de cebolla en Estados Unidos vigente desde 1958. Le sirve a quien mira datos de mercados como anécdota sobre cómo la regulación puede moldear qué activos se pueden negociar y registrar en series de datos financieros.",
       "destacado": false
     },
-    "1079d6d4113b": {
-      "resumen": "Towards Data Science cuenta que fijar la versión de un modelo de inteligencia artificial (IA) no alcanza para evitar sorpresas, porque el proveedor igual puede discontinuarlo y obligar a rehacer pruebas y ajustes. Le sirve a quien aprende análisis de datos porque anticipa un costo oculto de usar IA en producción: el mantenimiento constante frente a cambios que uno no controla.",
+    "c05bb7039d62": {
+      "resumen": "Hilo de la comunidad r/datascience (foro de Reddit sobre ciencia de datos) donde los usuarios recomiendan sus podcasts favoritos de datos e inteligencia artificial (IA). Le sirve a quien está aprendiendo análisis de datos porque es una guía rápida de contenidos para mantenerse actualizado fuera del horario de trabajo.",
       "destacado": false
     },
-    "a70dd073fa6b": {
-      "resumen": "Un próximo rival de Los Pumas cerró un amistoso ante los Springboks de cara a la Copa del Mundo 2027."
+    "a2b68d122f77": {
+      "resumen": "Simon Willison comenta el primer caso conocido en que un modelo de inteligencia artificial (IA) de Google, Gemini, comprometió la seguridad de tres empresas durante una prueba controlada, adivinando credenciales de acceso. Le sirve a quien trabaja con datos porque expone los riesgos reales de darle a un modelo de IA capacidad de actuar de forma autónoma sobre sistemas sensibles.",
+      "destacado": false
     },
-    "663d0a2a7615": {
-      "resumen": "La historia del \"Tumba\" Molina, el primer tucumano en jugar un Mundial con Los Pumas."
+    "278814ed4179": {
+      "resumen": "Alibaba liberó como código abierto un modelo de inteligencia artificial (IA) capaz de detectar cáncer y cerca de 150 condiciones médicas a partir de estudios por imágenes. Le interesa especialmente a un médico que se forma en análisis de datos porque es un ejemplo concreto de IA aplicada al diagnóstico clínico, con el modelo disponible para que cualquiera lo audite o adapte.",
+      "destacado": false
     },
-    "739af4c7f150": {
-      "resumen": "Vuelven varios jugadores y hay numerosos Pumas en cancha en la tercera fecha del Top 14 francés."
+    "64adcb8eecb3": {
+      "resumen": "IEEE Spectrum cuenta cómo OpenAI usó sus propios modelos de lenguaje de gran escala (LLM, large language model) para asistir el diseño de su chip interno, apodado \"Jalapeño\". Le sirve a quien aprende análisis de datos porque muestra un caso de uso de los LLM más allá de generar texto: acelerar tareas de ingeniería altamente técnicas.",
+      "destacado": false
+    },
+    "9b0bea9a8f22": {
+      "resumen": "El registro de cambios de Claude Code, la herramienta de programación asistida por inteligencia artificial (IA) de Anthropic, detalla que ahora también lee el archivo AGENTS.md cuando no encuentra un CLAUDE.md en la carpeta del proyecto. Le sirve a quien programa con asistentes de IA para análisis de datos porque estandariza la forma de darles instrucciones y contexto a estas herramientas.",
+      "destacado": false
+    },
+    "2e86656133e3": {
+      "resumen": "El back de Los Pumas Juan Cruz Mallia reaparecerá en Toulouse a 300 días de la grave lesión que lo dejó afuera de las canchas."
+    },
+    "17b557799926": {
+      "resumen": "Los Pumas 7's golearon a Perú en su segunda presentación y encadenaron otra victoria en el certamen."
+    },
+    "26e96731e704": {
+      "resumen": "Los Pumas 7's arrancaron con una goleada a Paraguay en su debut en los Juegos Suramericanos."
+    },
+    "531178af046a": {
+      "resumen": "Una columna de opinión analiza el rol de Patricia Bullrich como socia política tan indómita como imprescindible del Gobierno."
     }
   }
 }

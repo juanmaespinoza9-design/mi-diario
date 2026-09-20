@@ -1,28 +1,6 @@
 {
-  "generated_at": "2026-09-19T22:05:29Z",
+  "generated_at": "2026-09-20T10:03:26Z",
   "summaries": {
-    "1c9841ae2878": {
-      "resumen": "La Sociedad de Angiografía e Intervenciones Cardiovasculares (SCAI, Society for Cardiovascular Angiography and Interventions) volvió a cuestionar a la Junta Americana de Medicina Interna (ABIM, American Board of Internal Medicine), esta vez por los requisitos de volumen de procedimientos exigidos para mantener la certificación en cardiología intervencionista. Vale la pena seguirlo porque exigencias de volumen muy rígidas pueden dejar afuera a operadores idóneos de centros más chicos, un debate que también resuena en la formación de residentes.",
-      "destacado": false
-    },
-    "5e5c778b56bb": {
-      "resumen": "Nota de TCTMD (The Cardiovascular Research Foundation) sobre cómo la atención cardiológica se está corriendo de los grandes centros de alta complejidad hacia modelos más descentralizados, con telemedicina y atención ambulatoria. Interesa porque anticipa hacia dónde puede evolucionar la práctica cardiológica en los próximos años, más allá del hospital de referencia.",
-      "destacado": false
-    },
-    "1d212570b9dd": {
-      "resumen": "TCTMD (The Cardiovascular Research Foundation) reporta un estudio internacional que muestra que los cardiodesfibriladores implantables (ICD, implantable cardioverter-defibrillator) son eficaces para prevenir la muerte súbita en pacientes con miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy), la principal causa estructural de esa complicación en jóvenes y deportistas. Vale la pena mirarlo porque respalda ampliar el umbral de indicación del ICD en HCM, una decisión hoy apoyada en scores de riesgo con margen de incertidumbre.",
-      "destacado": false,
-      "analisis": "Diseño: por el título (\"Global Study\") y la cobertura de TCTMD (The Cardiovascular Research Foundation), parece tratarse de un estudio internacional, probablemente un registro multicéntrico, sobre el uso de cardiodesfibriladores implantables (ICD) en miocardiopatía hipertrófica (HCM); el título no permite precisar si hubo aleatorización, cegamiento, ni el número exacto de centros o pacientes.\nPoblación: pacientes con miocardiopatía hipertrófica (HCM) considerados en riesgo de muerte súbita cardíaca, candidatos a prevención primaria o secundaria con ICD; el título no detalla otros criterios de inclusión o exclusión.\nIntervención: implante de ICD para prevención de muerte súbita en HCM; no se especifica un grupo comparador (podría tratarse de una cohorte observacional sin grupo control).\nResultados: no hay cifras, tasas de descargas apropiadas, razones de riesgo ni valor de p disponibles en el título.\nLimitaciones: sin el abstract no se puede evaluar el diseño exacto (observacional vs. aleatorizado), el sesgo de selección de quienes ya tenían indicación de ICD, ni el tiempo de seguimiento.\nMensaje: de confirmarse el beneficio a gran escala, refuerza el rol del ICD como estrategia eficaz de prevención de muerte súbita en HCM, aunque no resuelve por sí solo a quién indicarlo con los scores de riesgo actuales.\nNota: análisis sin acceso al abstract."
-    },
-    "a793bcb185f9": {
-      "resumen": "TCTMD difunde los resultados de un registro que describe una carga elevada de enfermedad cardiovascular aterosclerótica (ASCVD, atherosclerotic cardiovascular disease) en la población árabe-estadounidense, un grupo históricamente poco representado en las estadísticas de salud cardiovascular de Estados Unidos. Vale la pena mirarlo porque visibiliza un subgrupo étnico con riesgo cardiovascular particular que suele quedar diluido dentro de categorías raciales más amplias.",
-      "destacado": false,
-      "analisis": "Diseño: registro (según el título, \"Registry\"), probablemente de base poblacional o de una cohorte clínica, que caracteriza la prevalencia y carga de enfermedad cardiovascular aterosclerótica (ASCVD) en árabes-estadounidenses; el título no permite precisar el número de centros, el tamaño de la muestra ni si hubo comparación formal con otros grupos étnicos.\nPoblación: personas de ascendencia árabe residentes en Estados Unidos, un grupo que en los registros oficiales suele clasificarse dentro de la categoría \"blanca\", lo que puede subestimar su riesgo real; el título no detalla otros criterios de inclusión o exclusión.\nIntervención: no aplica (estudio observacional descriptivo, sin intervención ni comparador terapéutico).\nResultados: no hay cifras de prevalencia, razones de riesgo ni valor de p disponibles en el título.\nLimitaciones: sin el abstract no se puede evaluar la fuente de los datos (autorreporte vs. historia clínica), el tamaño muestral ni el ajuste por factores de confusión socioeconómicos.\nMensaje: alerta sobre la necesidad de desagregar los datos étnicos para identificar poblaciones de alto riesgo cardiovascular que hoy pasan desapercibidas dentro de categorías raciales amplias.\nNota: análisis sin acceso al abstract."
-    },
-    "3a421bb1235a": {
-      "resumen": "Entrevista de TCTMD (The Cardiovascular Research Foundation) al cardiólogo Haider Warraich sobre el desarrollo de herramientas de inteligencia artificial (IA) \"agéntica\" —sistemas capaces de ejecutar tareas de forma autónoma— aplicadas a la enfermedad cardiovascular (CVD, cardiovascular disease). Vale la pena mirarla porque conecta la cardiología clínica con el análisis de datos y la IA, dos mundos cada vez más entrelazados en la práctica médica.",
-      "destacado": false
-    },
     "a12225a1aea9": {
       "resumen": "Editorial de apertura del European Heart Journal (Revista Europea del Corazón) que presenta un número especial dedicado a la cardio-oncología, la subespecialidad que estudia el daño cardiovascular derivado de los tratamientos oncológicos. Sirve como mapa de ese número para quien quiera ubicarse en los principales temas que aborda.",
       "destacado": false
@@ -46,10 +24,6 @@
       "destacado": true,
       "analisis": "Diseño: metaanálisis actualizado publicado en JACC (Journal of the American College of Cardiology) que combina datos de múltiples ensayos clínicos aleatorizados sobre intervención coronaria percutánea (PCI) guiada por imagen intracoronaria; el título no permite precisar cuántos estudios ni cuántos pacientes en total incorpora esta actualización.\nPoblación: pacientes sometidos a PCI (angioplastia con colocación de stent), en general con lesiones coronarias complejas, donde la guía por imagen suele aportar más valor; el título no detalla criterios de inclusión o exclusión específicos.\nIntervención: PCI guiada por imagen intracoronaria (ecografía intravascular [IVUS, intravascular ultrasound] o tomografía de coherencia óptica [OCT, optical coherence tomography]) frente a PCI guiada solo por angiografía convencional.\nResultados: no hay cifras, razones de riesgo ni valor de p disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede evaluar la heterogeneidad entre los ensayos incluidos, el criterio de valoración principal exacto (mortalidad, infarto, revascularización del vaso tratado) ni el seguimiento promedio.\nMensaje: de confirmarse el beneficio, respalda el uso más sistemático de la guía por imagen intracoronaria durante la angioplastia, una práctica todavía heterogénea entre centros y operadores.\nNota: análisis sin acceso al abstract."
     },
-    "e3a679911242": {
-      "resumen": "Simon Willison compara a quienes hoy se desentienden de los modelos de lenguaje de gran escala (LLM, large language model) con un genetista que ignorara un Jurassic Park recién inaugurado. Le sirve a quien aprende análisis de datos porque es un recordatorio de que vale la pena prestarle atención a esta tecnología, esté uno entusiasmado o escéptico.",
-      "destacado": false
-    },
     "c05bb7039d62": {
       "resumen": "Hilo de la comunidad r/datascience (foro de Reddit sobre ciencia de datos) donde los usuarios recomiendan sus podcasts favoritos de datos e inteligencia artificial (IA). Le sirve a quien está aprendiendo análisis de datos porque es una guía rápida de contenidos para mantenerse actualizado fuera del horario de trabajo.",
       "destacado": false
@@ -58,50 +32,37 @@
       "resumen": "Simon Willison comenta el primer caso conocido en que un modelo de inteligencia artificial (IA) de Google, Gemini, comprometió la seguridad de tres empresas durante una prueba controlada, adivinando credenciales de acceso. Le sirve a quien trabaja con datos porque expone los riesgos reales de darle a un modelo de IA capacidad de actuar de forma autónoma sobre sistemas sensibles.",
       "destacado": true
     },
-    "aba2c13a7450": {
-      "resumen": "Carta en The New England Journal of Medicine que retoma el debate entre el cierre percutáneo de la orejuela izquierda (LAAC, left atrial appendage closure) y la anticoagulación oral para prevenir el accidente cerebrovascular en la fibrilación auricular. Vale la pena seguirla porque esa disyuntiva sigue definiendo conductas en cardiología intervencionista.",
-      "destacado": false
-    },
-    "81e221a4b780": {
-      "resumen": "Respuesta de los autores originales dentro de esa misma discusión sobre cierre percutáneo de la orejuela izquierda (LAAC) versus anticoagulación en fibrilación auricular, publicada en NEJM. Cierra el intercambio de cartas y aporta matices sobre la selección de pacientes.",
-      "destacado": false
-    },
     "47336030addf": {
       "resumen": "Entrada del blog de Simon Willison en la que describe fotos de fauna silvestre (un lobo marino de California y un cormorán de Brandt) usando un modelo de inteligencia artificial multimodal para generar texto alternativo automático. Sirve para ver en la práctica qué tan preciso es hoy un modelo de IA describiendo imágenes, una habilidad de base para aplicar visión por computadora a informes o imágenes médicas.",
-      "destacado": false
-    },
-    "35721eb82dbc": {
-      "resumen": "Publicación con más de cien puntos en Hacker News que plantea una postura crítica: casi nunca conviene delegarle a la inteligencia artificial generativa la escritura de contenido sustancial y hay que reservarla para tareas de apoyo. Ayuda a calibrar cuándo confiar en la IA y cuándo no, algo central a la hora de redactar informes o interpretar resultados.",
       "destacado": false
     },
     "cbec1da8eefe": {
       "resumen": "Artículo de Towards Data Science sobre resolución de entidades: cómo identificar que distintos registros corresponden al mismo proveedor pese a estar escritos de formas diferentes, y por qué reglas deterministas de normalización funcionan mejor que los puntajes de similitud difusos. Es un ejemplo concreto de limpieza de datos, tarea diaria en cualquier análisis de datos clínicos o administrativos.",
       "destacado": false
     },
-    "468be3ac907f": {
-      "resumen": "Relato en Hacker News de un desarrollador que compara su experiencia programando en Zig después de venir de Rust, dos lenguajes de programación de bajo nivel. Es contenido técnico alejado de la práctica médica directa, pero ayuda a entender cómo se piensan el rendimiento y la seguridad del código en las herramientas que sostienen el software de análisis de datos.",
-      "destacado": false
-    },
-    "28f5c2dee5be": {
-      "resumen": "Presentación en Hacker News de Tin, una herramienta de búsqueda de texto completo (full-text search) para bases de datos PostgreSQL. Sirve para entender cómo se puede buscar información dentro de bases de datos grandes, como historias clínicas, de forma eficiente y sin depender de motores de búsqueda externos.",
-      "destacado": false
-    },
     "f7eb26516613": {
       "resumen": "Reflexión personal en Towards Data Science sobre cómo el uso de inteligencia artificial generativa aceleró la productividad del autor para programar, pero al mismo tiempo debilitó sus propias habilidades técnicas. Es un buen disparador para pensar los límites de apoyarse en la IA cuando uno recién está aprendiendo análisis de datos, para no perder el criterio propio.",
       "destacado": false
     },
-    "070246c7a009": {
-      "resumen": "Publicación técnica en Hacker News sobre modelos de decisión no autorregresivos entrenados con aprendizaje por refuerzo (reinforcement learning), una familia de algoritmos de inteligencia artificial distinta a los modelos de lenguaje habituales. Da una mirada más avanzada de machine learning, útil más adelante aunque no imprescindible en los primeros pasos del análisis de datos.",
+    "226ab3d1533d": {
+      "resumen": "Sitio dedicado al riesgo de \"exfiltración de pesos\": que alguien copie o robe los parámetros entrenados (weights) de un modelo de inteligencia artificial (IA) propietario. Le interesa a quien aprende análisis de datos porque toca la seguridad de los modelos de IA, un tema cada vez más relevante a medida que se despliegan sistemas entrenados con datos sensibles, incluidos los clínicos.",
       "destacado": false
     },
-    "95e0dfbae701": {
-      "resumen": "Los Pumas 7 debutaron ante un Rosario a pleno en el marco de los Juegos Suramericanos, que convirtieron a la ciudad en sede de una fiesta de rugby seven."
+    "e6d56593e98f": {
+      "resumen": "Entrada de blog que explica con detalle la regla del inglés para elegir \"a\" o \"an\" según el sonido (no la letra) con que empieza la palabra siguiente. Le sirve a quien procesa texto en inglés para análisis de datos o lee papers en ese idioma, como recordatorio de una regla gramatical que a veces falla incluso en la escritura automática.",
+      "destacado": false
     },
-    "dfc4335d955f": {
-      "resumen": "El Hipódromo de Rosario se llenó de público para ver a Los Pumas 7 en los Juegos Suramericanos, en una jornada que la ciudad vivió a pura fiesta rugbística."
+    "4e988b15bf54": {
+      "resumen": "Guía de instalación de OONI (Open Observatory of Network Interference), una herramienta de código abierto que permite medir censura de internet desde la propia conexión y aportar los datos a una base colaborativa global. Le sirve a quien aprende análisis de datos como ejemplo de recolección de datos abiertos hecha por voluntarios y de cómo se documenta y comparte un dataset ciudadano.",
+      "destacado": false
     },
-    "9edaf3ec0e9c": {
-      "resumen": "Luciano González Rizzoni fue la gran figura de Los Pumas 7 en el torneo Ultimate Sevens, con una actuación descollante."
+    "35fff0c66d51": {
+      "resumen": "Simon Willison presenta la versión 1.0 de datasette-auth-github, un plugin que agrega autenticación con cuentas de GitHub a Datasette, su herramienta de código abierto para explorar y publicar bases de datos. Le sirve a quien aprende análisis de datos porque Datasette es una vía simple para convertir una base de datos propia en un panel consultable y ahora protegido por login.",
+      "destacado": false
+    },
+    "275fa6ee6f42": {
+      "resumen": "Comparación técnica del desempeño de tres sistemas de archivos con journaling y snapshots (Btrfs, ZFS y bcachefs) bajo cargas de trabajo reales, en lugar de los benchmarks clásicos que suelen omitir ese tipo de pruebas. Le sirve a quien aprende análisis de datos porque el sistema de archivos elegido para guardar bases y datasets grandes impacta directamente en la velocidad de lectura y escritura de los proyectos.",
+      "destacado": false
     }
   }
 }

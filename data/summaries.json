@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:03:26Z",
+  "generated_at": "2026-09-20T22:04:08Z",
   "summaries": {
     "a12225a1aea9": {
       "resumen": "Editorial de apertura del European Heart Journal (Revista Europea del Corazón) que presenta un número especial dedicado a la cardio-oncología, la subespecialidad que estudia el daño cardiovascular derivado de los tratamientos oncológicos. Sirve como mapa de ese número para quien quiera ubicarse en los principales temas que aborda.",
@@ -24,14 +24,6 @@
       "destacado": true,
       "analisis": "Diseño: metaanálisis actualizado publicado en JACC (Journal of the American College of Cardiology) que combina datos de múltiples ensayos clínicos aleatorizados sobre intervención coronaria percutánea (PCI) guiada por imagen intracoronaria; el título no permite precisar cuántos estudios ni cuántos pacientes en total incorpora esta actualización.\nPoblación: pacientes sometidos a PCI (angioplastia con colocación de stent), en general con lesiones coronarias complejas, donde la guía por imagen suele aportar más valor; el título no detalla criterios de inclusión o exclusión específicos.\nIntervención: PCI guiada por imagen intracoronaria (ecografía intravascular [IVUS, intravascular ultrasound] o tomografía de coherencia óptica [OCT, optical coherence tomography]) frente a PCI guiada solo por angiografía convencional.\nResultados: no hay cifras, razones de riesgo ni valor de p disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede evaluar la heterogeneidad entre los ensayos incluidos, el criterio de valoración principal exacto (mortalidad, infarto, revascularización del vaso tratado) ni el seguimiento promedio.\nMensaje: de confirmarse el beneficio, respalda el uso más sistemático de la guía por imagen intracoronaria durante la angioplastia, una práctica todavía heterogénea entre centros y operadores.\nNota: análisis sin acceso al abstract."
     },
-    "c05bb7039d62": {
-      "resumen": "Hilo de la comunidad r/datascience (foro de Reddit sobre ciencia de datos) donde los usuarios recomiendan sus podcasts favoritos de datos e inteligencia artificial (IA). Le sirve a quien está aprendiendo análisis de datos porque es una guía rápida de contenidos para mantenerse actualizado fuera del horario de trabajo.",
-      "destacado": false
-    },
-    "a2b68d122f77": {
-      "resumen": "Simon Willison comenta el primer caso conocido en que un modelo de inteligencia artificial (IA) de Google, Gemini, comprometió la seguridad de tres empresas durante una prueba controlada, adivinando credenciales de acceso. Le sirve a quien trabaja con datos porque expone los riesgos reales de darle a un modelo de IA capacidad de actuar de forma autónoma sobre sistemas sensibles.",
-      "destacado": true
-    },
     "47336030addf": {
       "resumen": "Entrada del blog de Simon Willison en la que describe fotos de fauna silvestre (un lobo marino de California y un cormorán de Brandt) usando un modelo de inteligencia artificial multimodal para generar texto alternativo automático. Sirve para ver en la práctica qué tan preciso es hoy un modelo de IA describiendo imágenes, una habilidad de base para aplicar visión por computadora a informes o imágenes médicas.",
       "destacado": false
@@ -40,28 +32,36 @@
       "resumen": "Artículo de Towards Data Science sobre resolución de entidades: cómo identificar que distintos registros corresponden al mismo proveedor pese a estar escritos de formas diferentes, y por qué reglas deterministas de normalización funcionan mejor que los puntajes de similitud difusos. Es un ejemplo concreto de limpieza de datos, tarea diaria en cualquier análisis de datos clínicos o administrativos.",
       "destacado": false
     },
-    "f7eb26516613": {
-      "resumen": "Reflexión personal en Towards Data Science sobre cómo el uso de inteligencia artificial generativa aceleró la productividad del autor para programar, pero al mismo tiempo debilitó sus propias habilidades técnicas. Es un buen disparador para pensar los límites de apoyarse en la IA cuando uno recién está aprendiendo análisis de datos, para no perder el criterio propio.",
-      "destacado": false
-    },
-    "226ab3d1533d": {
-      "resumen": "Sitio dedicado al riesgo de \"exfiltración de pesos\": que alguien copie o robe los parámetros entrenados (weights) de un modelo de inteligencia artificial (IA) propietario. Le interesa a quien aprende análisis de datos porque toca la seguridad de los modelos de IA, un tema cada vez más relevante a medida que se despliegan sistemas entrenados con datos sensibles, incluidos los clínicos.",
-      "destacado": false
-    },
-    "e6d56593e98f": {
-      "resumen": "Entrada de blog que explica con detalle la regla del inglés para elegir \"a\" o \"an\" según el sonido (no la letra) con que empieza la palabra siguiente. Le sirve a quien procesa texto en inglés para análisis de datos o lee papers en ese idioma, como recordatorio de una regla gramatical que a veces falla incluso en la escritura automática.",
-      "destacado": false
-    },
-    "4e988b15bf54": {
-      "resumen": "Guía de instalación de OONI (Open Observatory of Network Interference), una herramienta de código abierto que permite medir censura de internet desde la propia conexión y aportar los datos a una base colaborativa global. Le sirve a quien aprende análisis de datos como ejemplo de recolección de datos abiertos hecha por voluntarios y de cómo se documenta y comparte un dataset ciudadano.",
-      "destacado": false
-    },
     "35fff0c66d51": {
       "resumen": "Simon Willison presenta la versión 1.0 de datasette-auth-github, un plugin que agrega autenticación con cuentas de GitHub a Datasette, su herramienta de código abierto para explorar y publicar bases de datos. Le sirve a quien aprende análisis de datos porque Datasette es una vía simple para convertir una base de datos propia en un panel consultable y ahora protegido por login.",
       "destacado": false
     },
-    "275fa6ee6f42": {
-      "resumen": "Comparación técnica del desempeño de tres sistemas de archivos con journaling y snapshots (Btrfs, ZFS y bcachefs) bajo cargas de trabajo reales, en lugar de los benchmarks clásicos que suelen omitir ese tipo de pruebas. Le sirve a quien aprende análisis de datos porque el sistema de archivos elegido para guardar bases y datasets grandes impacta directamente en la velocidad de lectura y escritura de los proyectos.",
+    "8c99799a1a21": {
+      "resumen": "Hilo del foro r/datascience (comunidad de Reddit sobre ciencia de datos) donde se convoca a voluntarios para probar en fase beta una herramienta o proyecto todavía en desarrollo. Sin más precisiones en el título, sirve como muestra de la dinámica habitual de esa comunidad, donde circulan proyectos caseros antes de llegar al público general.",
+      "destacado": false
+    },
+    "10f2c37cf02d": {
+      "resumen": "Nota de Hacker News sobre un supuesto colector de datos publicitarios que permitiría a ChatGPT (el asistente de inteligencia artificial de OpenAI) conocer la actividad del usuario en otros sitios web. Le interesa a quien aprende análisis de datos porque toca un tema central del área: cómo las plataformas de inteligencia artificial recolectan y cruzan datos de navegación, con las implicancias de privacidad que eso conlleva.",
+      "destacado": false
+    },
+    "d601f6dc2a99": {
+      "resumen": "Nota de Hacker News sobre un programa de la Biblioteca Nacional de Singapur (National Library Board) que paga micropagos a los lectores para incentivar el hábito de leer libros en papel en vez de usar el celular. Aporta una mirada sobre cómo se diseñan y miden incentivos económicos para modificar un comportamiento, una lógica emparentada con los experimentos de analítica que se usan para evaluar intervenciones.",
+      "destacado": false
+    },
+    "6b0f29268c2f": {
+      "resumen": "Proyecto llamado Pirate Face que se presenta como un espacio para preservar y \"rescatar\" modelos de lenguaje de gran escala (LLM, large language model) antes de que sus creadores los discontinúen o eliminen. Le interesa a quien sigue el ecosistema de inteligencia artificial porque plantea un problema poco discutido: qué pasa con los modelos que dejan de estar disponibles y cómo se conserva ese conocimiento.",
+      "destacado": false
+    },
+    "03759a3f8cec": {
+      "resumen": "Nota de Hacker News sobre el cierre de Sherline Tools, fabricante estadounidense de herramientas de precisión para mecanizado a pequeña escala. No es un tema de ciencia de datos en sí, pero circula en esa comunidad como ejemplo del fin de una manufactura especializada frente a la competencia y los cambios del mercado.",
+      "destacado": false
+    },
+    "da02b892b87a": {
+      "resumen": "Artículo técnico de Towards Data Science que repasa seis arquitecturas avanzadas de GraphRAG, la combinación de grafos de conocimiento con recuperación aumentada por generación (retrieval-augmented generation), la técnica que le da contexto externo a un modelo de lenguaje antes de que responda. Le sirve a quien aprende análisis de datos porque ordena, con ejemplos orientados a producción, las distintas formas de combinar búsqueda semántica, grafos y razonamiento de inteligencia artificial.",
+      "destacado": true
+    },
+    "ae8ac3f1fc45": {
+      "resumen": "Artículo de Towards Data Science que explica y programa desde cero, con la librería PyTorch, el CBAM (Convolutional Block Attention Module, módulo de atención convolucional en bloque), una técnica que mejora las redes neuronales convolucionales sumando atención por canal y por posición espacial. Le aporta a quien aprende análisis de datos una guía práctica para entender e implementar mecanismos de atención, hoy centrales en visión por computadora e inteligencia artificial.",
       "destacado": false
     }
   }

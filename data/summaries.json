@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:04:33Z",
+  "generated_at": "2026-09-21T22:03:54Z",
   "summaries": {
     "a12225a1aea9": {
       "resumen": "Editorial de apertura del European Heart Journal (Revista Europea del Corazón) que presenta un número especial dedicado a la cardio-oncología, la subespecialidad que estudia el daño cardiovascular derivado de los tratamientos oncológicos. Sirve como mapa de ese número para quien quiera ubicarse en los principales temas que aborda.",
@@ -24,18 +24,6 @@
       "destacado": true,
       "analisis": "Diseño: metaanálisis actualizado publicado en JACC (Journal of the American College of Cardiology) que combina datos de múltiples ensayos clínicos aleatorizados sobre intervención coronaria percutánea (PCI) guiada por imagen intracoronaria; el título no permite precisar cuántos estudios ni cuántos pacientes en total incorpora esta actualización.\nPoblación: pacientes sometidos a PCI (angioplastia con colocación de stent), en general con lesiones coronarias complejas, donde la guía por imagen suele aportar más valor; el título no detalla criterios de inclusión o exclusión específicos.\nIntervención: PCI guiada por imagen intracoronaria (ecografía intravascular [IVUS, intravascular ultrasound] o tomografía de coherencia óptica [OCT, optical coherence tomography]) frente a PCI guiada solo por angiografía convencional.\nResultados: no hay cifras, razones de riesgo ni valor de p disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede evaluar la heterogeneidad entre los ensayos incluidos, el criterio de valoración principal exacto (mortalidad, infarto, revascularización del vaso tratado) ni el seguimiento promedio.\nMensaje: de confirmarse el beneficio, respalda el uso más sistemático de la guía por imagen intracoronaria durante la angioplastia, una práctica todavía heterogénea entre centros y operadores.\nNota: análisis sin acceso al abstract."
     },
-    "8c99799a1a21": {
-      "resumen": "Hilo del foro r/datascience (comunidad de Reddit sobre ciencia de datos) donde se convoca a voluntarios para probar en fase beta una herramienta o proyecto todavía en desarrollo. Sin más precisiones en el título, sirve como muestra de la dinámica habitual de esa comunidad, donde circulan proyectos caseros antes de llegar al público general.",
-      "destacado": false
-    },
-    "da02b892b87a": {
-      "resumen": "Artículo técnico de Towards Data Science que repasa seis arquitecturas avanzadas de GraphRAG, la combinación de grafos de conocimiento con recuperación aumentada por generación (retrieval-augmented generation), la técnica que le da contexto externo a un modelo de lenguaje antes de que responda. Le sirve a quien aprende análisis de datos porque ordena, con ejemplos orientados a producción, las distintas formas de combinar búsqueda semántica, grafos y razonamiento de inteligencia artificial.",
-      "destacado": true
-    },
-    "ae8ac3f1fc45": {
-      "resumen": "Artículo de Towards Data Science que explica y programa desde cero, con la librería PyTorch, el CBAM (Convolutional Block Attention Module, módulo de atención convolucional en bloque), una técnica que mejora las redes neuronales convolucionales sumando atención por canal y por posición espacial. Le aporta a quien aprende análisis de datos una guía práctica para entender e implementar mecanismos de atención, hoy centrales en visión por computadora e inteligencia artificial.",
-      "destacado": false
-    },
     "a793bcb185f9": {
       "resumen": "Nota de TCTMD sobre un registro que analiza la carga de enfermedad cardiovascular aterosclerótica (ASCVD, atherosclerotic cardiovascular disease) en la comunidad árabe-estadounidense, un grupo históricamente poco caracterizado en los estudios epidemiológicos de Estados Unidos. Vale la pena mirarlo porque visibiliza disparidades de riesgo cardiovascular en un subgrupo poblacional específico, algo relevante para pensar la estratificación de riesgo más allá de las categorías étnicas habituales.",
       "destacado": false,
@@ -58,45 +46,78 @@
       "destacado": false,
       "analisis": "Diseño: según el título, se trata de un estudio internacional (global study) que evalúa el desempeño de los cardiodesfibriladores implantables (ICD, implantable cardioverter-defibrillator); por tratarse de una nota de TCTMD sobre un estudio ya reportado, probablemente corresponda a un registro multicéntrico más que a un ensayo aleatorizado, aunque el título no permite confirmarlo ni precisar el número de centros o pacientes.\nPoblación: pacientes con miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy) con indicación de prevención de muerte súbita; el título no detalla los criterios de riesgo utilizados para la selección ni los criterios de exclusión.\nIntervención: implante de un cardiodesfibrilador implantable (ICD) como estrategia de prevención de muerte súbita; el título no especifica un grupo comparador (por ejemplo, pacientes de riesgo similar sin ICD).\nResultados: el título indica un resultado favorable (\"Success\") en la prevención de muerte súbita, pero no hay cifras, razones de riesgo, tasas de eventos ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar el diseño exacto, el seguimiento, la tasa de descargas apropiadas frente a inapropiadas del dispositivo, ni las complicaciones asociadas al implante.\nMensaje: refuerza el rol del ICD en la prevención de muerte súbita en miocardiopatía hipertrófica en pacientes seleccionados, aunque la decisión de implante sigue dependiendo de una estratificación de riesgo individualizada.\nNota: análisis sin acceso al abstract."
     },
-    "8db79723e7ad": {
-      "resumen": "Artículo de Hacker News que repasa qué pasó con el archivo de documentos filtrados por Edward Snowden, el ex contratista de inteligencia estadounidense, y cómo se conservó, organizó y dio acceso a ese enorme volumen de información clasificada. Le sirve a quien aprende análisis de datos porque expone los desafíos reales de curar, indexar y preservar un archivo masivo y sensible a lo largo del tiempo.",
-      "destacado": false
+    "7a6e8b4d0807": {
+      "resumen": "Nota de Forbes sobre la decisión de Amazon de bloquear a Muse, el nuevo agente de compras con inteligencia artificial de Meta, para que no opere dentro de amazon.com. Le sirve a un médico que aprende análisis de datos porque ilustra la fricción real entre plataformas de comercio electrónico y los agentes autónomos de inteligencia artificial que navegan la web en nombre de un usuario."
     },
-    "65d33ceab168": {
-      "resumen": "Artículo de Hacker News sobre la jerarquía del dinero, un concepto de economía monetaria que ordena los distintos tipos de activos según su grado de aceptación y liquidez, desde el efectivo hasta instrumentos financieros más complejos. Le aporta a un médico que se forma en análisis de datos un marco conceptual útil para entender series económicas y financieras antes de modelarlas.",
-      "destacado": false
+    "09131d9cd421": {
+      "resumen": "Hilo de la red social X (antes Twitter) que reporta una caída en la mediana del \"pensamiento\" o razonamiento del modelo de lenguaje Fable 5 durante agosto. Al ser un comentario suelto sin detalle metodológico, sirve sobre todo como ejemplo de cómo la comunidad técnica monitorea de forma informal cambios de comportamiento en los modelos de inteligencia artificial entre versiones."
     },
-    "ea087dc9487c": {
-      "resumen": "Presentación de AX, un orquestador de agentes de inteligencia artificial de código abierto desarrollado por Google, pensado para coordinar múltiples agentes autónomos que ejecutan tareas encadenadas. Le sirve a quien aprende análisis de datos porque muestra hacia dónde evoluciona la infraestructura de inteligencia artificial: de modelos que responden preguntas sueltas a sistemas que orquestan flujos de trabajo completos.",
-      "destacado": false
+    "c80870d3d73f": {
+      "resumen": "Artículo de KDnuggets que analiza qué es realmente Jev, el sistema de TypeSafe AI, separando lo que aporta de novedoso de la exageración mediática que lo rodea. Le sirve a quien aprende análisis de datos como ejercicio de lectura crítica frente al marketing habitual de las nuevas herramientas de inteligencia artificial."
     },
-    "58936e6359cb": {
-      "resumen": "Artículo de Hacker News sobre la historia de la letra W, considerada la más singular del alfabeto latino por su origen tardío como combinación de dos \"V\" o \"U\". Es una nota de divulgación lingüística sin relación directa con el análisis de datos, incluida porque circuló entre lo más comentado de esa comunidad.",
-      "destacado": false
+    "81104d8861cf": {
+      "resumen": "Anuncio oficial de xAI sobre el lanzamiento de Grok 4.7, una nueva versión de su modelo de lenguaje de gran escala (LLM, large language model). Le sirve a quien aprende análisis de datos para seguir el ritmo de actualizaciones de los modelos comerciales disponibles, aunque el anuncio en sí no detalla mejoras específicas."
     },
-    "54ed4b673b9e": {
-      "resumen": "Simon Willison presenta la versión 0.1 de llm-keys-ui, un plugin para gestionar claves de acceso a modelos de lenguaje de gran escala (LLM, large language model) cuando se ejecutan agentes de programación en distintas máquinas controladas de forma remota. Le sirve a quien aprende análisis de datos e inteligencia artificial como ejemplo concreto de la infraestructura necesaria para administrar credenciales al trabajar con múltiples proveedores de modelos.",
-      "destacado": false
+    "e7b74415e860": {
+      "resumen": "Artículo de Towards Data Science que compara Jev, el modelo de TypeSafe AI, con un modelo de OpenAI en tareas de clasificación de intención (identificar qué quiere lograr un usuario a partir de su texto). Le aporta a un médico que aprende análisis de datos un caso concreto de cómo se comparan y evalúan distintos modelos de inteligencia artificial frente a una misma tarea."
     },
-    "13af854ab8b9": {
-      "resumen": "Hilo semanal fijo del foro r/datascience (comunidad de Reddit sobre ciencia de datos) donde quienes están empezando o cambiando de carrera hacia el análisis de datos comparten dudas y piden consejo. Sirve como termómetro de las preguntas más frecuentes de quienes se inician en el área, un punto de referencia útil para alguien que está transicionando desde la medicina.",
-      "destacado": false
+    "dfd00f6ab151": {
+      "resumen": "Artículo técnico, cuyo título juega con el nombre del paper fundacional de los transformers (\"Attention Is All You Need\"), que profundiza sobre el mecanismo de atención en las redes neuronales usadas por los modelos de lenguaje. Le sirve a quien aprende análisis de datos e inteligencia artificial para entender mejor el componente central que le permite a estos modelos ponderar qué partes de un texto son relevantes."
     },
-    "3db7829d04e1": {
-      "resumen": "Simon Willison cita un comentario anónimo, firmado con el seudónimo \"voxium\", de alguien que a las dos semanas de empezar en una nueva empresa describe que allí todo el trabajo -desde las especificaciones hasta el código, las pruebas y los tickets- lo genera Claude Code, el asistente de programación de Anthropic. Le interesa a quien aprende análisis de datos porque es un testimonio de primera mano sobre cómo la inteligencia artificial agéntica ya está reorganizando el trabajo técnico dentro de algunas empresas.",
-      "destacado": false
+    "b4c011886568": {
+      "resumen": "Tutorial de KDnuggets que enseña, paso a paso, a convertir un script de Python en un agente de inteligencia artificial usando el kit de desarrollo de agentes de OpenAI (OpenAI Agents SDK), con llamadas a herramientas (tool calling) y funciones específicas. Le sirve directamente a un médico que está aprendiendo análisis de datos porque es una guía práctica y concreta para dar el salto de escribir scripts sueltos a automatizar flujos de trabajo de varios pasos.",
+      "destacado": true
     },
-    "4652e79a998a": {
-      "resumen": "Quién es Sebastián Dubuc, el jugador que se destaca como encargado de convertir tries en la selección argentina de rugby seven, Los Pumas 7's, en los Juegos Suramericanos."
+    "e4120553229f": {
+      "resumen": "Artículo de Towards Data Science sobre GPT-6 Astra, el modelo de OpenAI que alcanzó el nivel más alto de riesgo de ciberseguridad definido por la propia empresa, y por qué esto importa menos por lo que Astra puede hacer y más porque otros modelos no fueron evaluados con el mismo rigor. Le sirve a quien aprende análisis de datos para entender los marcos de evaluación de riesgo que empiezan a acompañar a los modelos de inteligencia artificial más potentes."
     },
-    "6c82e4d0e9c2": {
-      "resumen": "Toda la información sobre la participación de las selecciones argentinas de rugby seven, Los Pumas 7's y Las Yaguaretés, en los Juegos Suramericanos 2026: resultados, próximos partidos, sede y rivales."
+    "34326265fab7": {
+      "resumen": "Artículo de Towards Data Science que parte de la oferta de Google de 10 millones de dólares por los datos de una aerolínea en quiebra para explicar cómo una organización puede estimar el valor económico de sus propios datos operativos. Le aporta a un médico que aprende análisis de datos un marco conceptual concreto para pensar el valor de la información que se genera en su propio ámbito de trabajo."
     },
-    "1cbbf662b4f7": {
-      "resumen": "Se suspendió una jornada de competencia de Los Pumas 7's y Las Yaguaretés en los Juegos Suramericanos, lo que obliga a definir de otra manera cómo se reparten las medallas."
+    "39b79aa7f116": {
+      "resumen": "Artículo de KDnuggets con tres trucos de Polars, la librería de manipulación de datos escrita en Rust, para aprovechar su motor de ejecución en paralelo y su optimizador de consultas y así acelerar el procesamiento de datos tabulares. Le sirve a quien aprende análisis de datos como guía práctica para escribir código más eficiente al trabajar con conjuntos de datos grandes."
     },
-    "8971012f1d56": {
-      "resumen": "Una columna de opinión en Clarín plantea que el Estado argentino recauda impuestos elevados pero brinda servicios y prestaciones insuficientes a cambio."
+    "b75dde516ef1": {
+      "resumen": "El técnico de Argentinos Juniors, Nicolás Diez, cuestionó el trazado de líneas del VAR (asistencia arbitral por video) que anuló un gol de su equipo en la derrota ante Rosario Central."
+    },
+    "b0a0ae73b1a3": {
+      "resumen": "Antes del clásico ante Boca, el delantero de Racing Lautaro Díaz recordó un gol de Lautaro Martínez en la Bombonera mientras espera su debut en el Superclásico."
+    },
+    "9d7aeb5e643c": {
+      "resumen": "El Seven Masculino Juvenil de rugby realiza una nueva concentración en Buenos Aires como parte de su preparación rumbo a los Juegos Olímpicos de la Juventud Dakar 2026."
+    },
+    "4f7aaf69bc64": {
+      "resumen": "El lateral de Huracán Lucas Blondel, autor del gol ante River, salió a defender a su pareja, Morena Beltrán, tras un comentario de un periodista deportivo que consideró injusto."
+    },
+    "94241a80d872": {
+      "resumen": "River difundió un nuevo video que muestra el avance de la obra de techado del estadio Monumental."
+    },
+    "c9ad23cc93cf": {
+      "resumen": "Trascendió que un funcionario argentino le llevaría al papa León XIV una camiseta de River con el número 14 durante su visita a la Argentina."
+    },
+    "5786f529a647": {
+      "resumen": "En el juicio por el homicidio del exjugador de Los Pumas Federico Martín Aramburú, el principal acusado declaró ante la Justicia y explicó por qué le disparó."
+    },
+    "673349a4df03": {
+      "resumen": "Marcos Galperin habló sin filtros de sus comienzos, de su pasión por el rugby y de por qué, a su juicio, Mercado Libre no creció tanto como esperaba."
+    },
+    "d5843be102f0": {
+      "resumen": "Los Pumas 7's y Las Yaguaretés definen hoy las medallas de rugby seven en los Juegos Suramericanos."
+    },
+    "b08bfde2ef6d": {
+      "resumen": "River hace cálculos con la tabla anual: necesitaría ganar cinco de los partidos que le quedan y perder a lo sumo uno para asegurarse un lugar en la próxima Copa Libertadores."
+    },
+    "c6bbf9969b0e": {
+      "resumen": "La derrota de River ante Huracán le hizo perder la chance de descontar posiciones en la tabla anual, clave para clasificar a la Copa Libertadores 2027."
+    },
+    "eb6c09e0bd89": {
+      "resumen": "Repaso jugador por jugador de los 20 futbolistas argentinos convocados a la Fecha FIFA, con seis arqueros y representantes de trece equipos de la Liga Profesional."
+    },
+    "669efbcd4bbd": {
+      "resumen": "Por el mal tiempo, Los Pumas 7's y Las Yaguaretés jugarán este lunes las finales de los Juegos Suramericanos, luego de que se suspendieran las actividades al aire libre."
+    },
+    "1daab240bc75": {
+      "resumen": "Se disputó la segunda fecha del Campeonato Argentino Juvenil M17 de rugby, un torneo clave para la formación de los jugadores más jóvenes del país."
     }
   }
 }

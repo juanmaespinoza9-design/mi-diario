@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T22:04:08Z",
+  "generated_at": "2026-09-21T10:04:33Z",
   "summaries": {
     "a12225a1aea9": {
       "resumen": "Editorial de apertura del European Heart Journal (Revista Europea del Corazón) que presenta un número especial dedicado a la cardio-oncología, la subespecialidad que estudia el daño cardiovascular derivado de los tratamientos oncológicos. Sirve como mapa de ese número para quien quiera ubicarse en los principales temas que aborda.",
@@ -24,36 +24,8 @@
       "destacado": true,
       "analisis": "Diseño: metaanálisis actualizado publicado en JACC (Journal of the American College of Cardiology) que combina datos de múltiples ensayos clínicos aleatorizados sobre intervención coronaria percutánea (PCI) guiada por imagen intracoronaria; el título no permite precisar cuántos estudios ni cuántos pacientes en total incorpora esta actualización.\nPoblación: pacientes sometidos a PCI (angioplastia con colocación de stent), en general con lesiones coronarias complejas, donde la guía por imagen suele aportar más valor; el título no detalla criterios de inclusión o exclusión específicos.\nIntervención: PCI guiada por imagen intracoronaria (ecografía intravascular [IVUS, intravascular ultrasound] o tomografía de coherencia óptica [OCT, optical coherence tomography]) frente a PCI guiada solo por angiografía convencional.\nResultados: no hay cifras, razones de riesgo ni valor de p disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede evaluar la heterogeneidad entre los ensayos incluidos, el criterio de valoración principal exacto (mortalidad, infarto, revascularización del vaso tratado) ni el seguimiento promedio.\nMensaje: de confirmarse el beneficio, respalda el uso más sistemático de la guía por imagen intracoronaria durante la angioplastia, una práctica todavía heterogénea entre centros y operadores.\nNota: análisis sin acceso al abstract."
     },
-    "47336030addf": {
-      "resumen": "Entrada del blog de Simon Willison en la que describe fotos de fauna silvestre (un lobo marino de California y un cormorán de Brandt) usando un modelo de inteligencia artificial multimodal para generar texto alternativo automático. Sirve para ver en la práctica qué tan preciso es hoy un modelo de IA describiendo imágenes, una habilidad de base para aplicar visión por computadora a informes o imágenes médicas.",
-      "destacado": false
-    },
-    "cbec1da8eefe": {
-      "resumen": "Artículo de Towards Data Science sobre resolución de entidades: cómo identificar que distintos registros corresponden al mismo proveedor pese a estar escritos de formas diferentes, y por qué reglas deterministas de normalización funcionan mejor que los puntajes de similitud difusos. Es un ejemplo concreto de limpieza de datos, tarea diaria en cualquier análisis de datos clínicos o administrativos.",
-      "destacado": false
-    },
-    "35fff0c66d51": {
-      "resumen": "Simon Willison presenta la versión 1.0 de datasette-auth-github, un plugin que agrega autenticación con cuentas de GitHub a Datasette, su herramienta de código abierto para explorar y publicar bases de datos. Le sirve a quien aprende análisis de datos porque Datasette es una vía simple para convertir una base de datos propia en un panel consultable y ahora protegido por login.",
-      "destacado": false
-    },
     "8c99799a1a21": {
       "resumen": "Hilo del foro r/datascience (comunidad de Reddit sobre ciencia de datos) donde se convoca a voluntarios para probar en fase beta una herramienta o proyecto todavía en desarrollo. Sin más precisiones en el título, sirve como muestra de la dinámica habitual de esa comunidad, donde circulan proyectos caseros antes de llegar al público general.",
-      "destacado": false
-    },
-    "10f2c37cf02d": {
-      "resumen": "Nota de Hacker News sobre un supuesto colector de datos publicitarios que permitiría a ChatGPT (el asistente de inteligencia artificial de OpenAI) conocer la actividad del usuario en otros sitios web. Le interesa a quien aprende análisis de datos porque toca un tema central del área: cómo las plataformas de inteligencia artificial recolectan y cruzan datos de navegación, con las implicancias de privacidad que eso conlleva.",
-      "destacado": false
-    },
-    "d601f6dc2a99": {
-      "resumen": "Nota de Hacker News sobre un programa de la Biblioteca Nacional de Singapur (National Library Board) que paga micropagos a los lectores para incentivar el hábito de leer libros en papel en vez de usar el celular. Aporta una mirada sobre cómo se diseñan y miden incentivos económicos para modificar un comportamiento, una lógica emparentada con los experimentos de analítica que se usan para evaluar intervenciones.",
-      "destacado": false
-    },
-    "6b0f29268c2f": {
-      "resumen": "Proyecto llamado Pirate Face que se presenta como un espacio para preservar y \"rescatar\" modelos de lenguaje de gran escala (LLM, large language model) antes de que sus creadores los discontinúen o eliminen. Le interesa a quien sigue el ecosistema de inteligencia artificial porque plantea un problema poco discutido: qué pasa con los modelos que dejan de estar disponibles y cómo se conserva ese conocimiento.",
-      "destacado": false
-    },
-    "03759a3f8cec": {
-      "resumen": "Nota de Hacker News sobre el cierre de Sherline Tools, fabricante estadounidense de herramientas de precisión para mecanizado a pequeña escala. No es un tema de ciencia de datos en sí, pero circula en esa comunidad como ejemplo del fin de una manufactura especializada frente a la competencia y los cambios del mercado.",
       "destacado": false
     },
     "da02b892b87a": {
@@ -63,6 +35,68 @@
     "ae8ac3f1fc45": {
       "resumen": "Artículo de Towards Data Science que explica y programa desde cero, con la librería PyTorch, el CBAM (Convolutional Block Attention Module, módulo de atención convolucional en bloque), una técnica que mejora las redes neuronales convolucionales sumando atención por canal y por posición espacial. Le aporta a quien aprende análisis de datos una guía práctica para entender e implementar mecanismos de atención, hoy centrales en visión por computadora e inteligencia artificial.",
       "destacado": false
+    },
+    "a793bcb185f9": {
+      "resumen": "Nota de TCTMD sobre un registro que analiza la carga de enfermedad cardiovascular aterosclerótica (ASCVD, atherosclerotic cardiovascular disease) en la comunidad árabe-estadounidense, un grupo históricamente poco caracterizado en los estudios epidemiológicos de Estados Unidos. Vale la pena mirarlo porque visibiliza disparidades de riesgo cardiovascular en un subgrupo poblacional específico, algo relevante para pensar la estratificación de riesgo más allá de las categorías étnicas habituales.",
+      "destacado": false,
+      "analisis": "Diseño: por el título, se trata de un registro observacional que caracteriza la carga de enfermedad cardiovascular aterosclerótica (ASCVD, atherosclerotic cardiovascular disease); la nota de TCTMD no permite precisar si es prospectivo o retrospectivo, ni el número de centros o pacientes incluidos.\nPoblación: personas de origen árabe residentes en Estados Unidos (Arab Americans); el título no detalla criterios de inclusión o exclusión ni el rango etario.\nIntervención: no aplica una intervención propiamente dicha; se trata de un estudio descriptivo de prevalencia y carga de factores de riesgo cardiovascular, sin comparador definido en el título.\nResultados: no hay cifras, razones de riesgo ni valor de p disponibles en el título.\nLimitaciones: sin el abstract no se puede evaluar el tamaño muestral, la fuente de los datos ni si hubo ajuste por factores socioeconómicos u otras variables de confusión.\nMensaje: aporta evidencia sobre un subgrupo poco estudiado, lo que podría justificar estrategias de detección y prevención cardiovascular más dirigidas en esta comunidad.\nNota: análisis sin acceso al abstract."
+    },
+    "1c9841ae2878": {
+      "resumen": "Nota de TCTMD sobre un nuevo cruce entre la SCAI (Society for Cardiovascular Angiography and Interventions) y la ABIM (American Board of Internal Medicine, la junta que certifica a los especialistas en medicina interna en Estados Unidos) por las exigencias de volumen de procedimientos para mantener la certificación en cardiología intervencionista. Interesa porque toca un debate de fondo sobre cómo se mide la competencia de un operador: por cantidad de procedimientos o por resultados clínicos.",
+      "destacado": false
+    },
+    "5e5c778b56bb": {
+      "resumen": "Artículo de TCTMD que explora hacia dónde se está moviendo la práctica de la cardiología más allá de los grandes centros hospitalarios, con la atención cardiovascular ambulatoria y descentralizada ganando terreno. Vale la pena mirarlo porque plantea cambios estructurales en el modelo de atención que impactan tanto en la formación como en la carrera de los cardiólogos jóvenes.",
+      "destacado": false
+    },
+    "3a421bb1235a": {
+      "resumen": "Entrevista de TCTMD al cardiólogo e investigador Haider Warraich sobre el desarrollo de herramientas de inteligencia artificial agéntica (agentic AI, sistemas capaces de ejecutar tareas de forma autónoma) aplicadas a la enfermedad cardiovascular (CVD, cardiovascular disease). Interesa porque anticipa cómo la inteligencia artificial podría pasar de asistir en el diagnóstico a intervenir activamente en la toma de decisiones clínicas.",
+      "destacado": false
+    },
+    "1d212570b9dd": {
+      "resumen": "Nota de TCTMD sobre un estudio internacional que evalúa la eficacia de los cardiodesfibriladores implantables (ICD, implantable cardioverter-defibrillator) para prevenir la muerte súbita en pacientes con miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy), la principal causa de muerte súbita cardíaca en jóvenes y deportistas. Vale la pena mirarlo porque aporta datos a gran escala sobre una indicación de prevención donde la selección del paciente sigue siendo un desafío.",
+      "destacado": false,
+      "analisis": "Diseño: según el título, se trata de un estudio internacional (global study) que evalúa el desempeño de los cardiodesfibriladores implantables (ICD, implantable cardioverter-defibrillator); por tratarse de una nota de TCTMD sobre un estudio ya reportado, probablemente corresponda a un registro multicéntrico más que a un ensayo aleatorizado, aunque el título no permite confirmarlo ni precisar el número de centros o pacientes.\nPoblación: pacientes con miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy) con indicación de prevención de muerte súbita; el título no detalla los criterios de riesgo utilizados para la selección ni los criterios de exclusión.\nIntervención: implante de un cardiodesfibrilador implantable (ICD) como estrategia de prevención de muerte súbita; el título no especifica un grupo comparador (por ejemplo, pacientes de riesgo similar sin ICD).\nResultados: el título indica un resultado favorable (\"Success\") en la prevención de muerte súbita, pero no hay cifras, razones de riesgo, tasas de eventos ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar el diseño exacto, el seguimiento, la tasa de descargas apropiadas frente a inapropiadas del dispositivo, ni las complicaciones asociadas al implante.\nMensaje: refuerza el rol del ICD en la prevención de muerte súbita en miocardiopatía hipertrófica en pacientes seleccionados, aunque la decisión de implante sigue dependiendo de una estratificación de riesgo individualizada.\nNota: análisis sin acceso al abstract."
+    },
+    "8db79723e7ad": {
+      "resumen": "Artículo de Hacker News que repasa qué pasó con el archivo de documentos filtrados por Edward Snowden, el ex contratista de inteligencia estadounidense, y cómo se conservó, organizó y dio acceso a ese enorme volumen de información clasificada. Le sirve a quien aprende análisis de datos porque expone los desafíos reales de curar, indexar y preservar un archivo masivo y sensible a lo largo del tiempo.",
+      "destacado": false
+    },
+    "65d33ceab168": {
+      "resumen": "Artículo de Hacker News sobre la jerarquía del dinero, un concepto de economía monetaria que ordena los distintos tipos de activos según su grado de aceptación y liquidez, desde el efectivo hasta instrumentos financieros más complejos. Le aporta a un médico que se forma en análisis de datos un marco conceptual útil para entender series económicas y financieras antes de modelarlas.",
+      "destacado": false
+    },
+    "ea087dc9487c": {
+      "resumen": "Presentación de AX, un orquestador de agentes de inteligencia artificial de código abierto desarrollado por Google, pensado para coordinar múltiples agentes autónomos que ejecutan tareas encadenadas. Le sirve a quien aprende análisis de datos porque muestra hacia dónde evoluciona la infraestructura de inteligencia artificial: de modelos que responden preguntas sueltas a sistemas que orquestan flujos de trabajo completos.",
+      "destacado": false
+    },
+    "58936e6359cb": {
+      "resumen": "Artículo de Hacker News sobre la historia de la letra W, considerada la más singular del alfabeto latino por su origen tardío como combinación de dos \"V\" o \"U\". Es una nota de divulgación lingüística sin relación directa con el análisis de datos, incluida porque circuló entre lo más comentado de esa comunidad.",
+      "destacado": false
+    },
+    "54ed4b673b9e": {
+      "resumen": "Simon Willison presenta la versión 0.1 de llm-keys-ui, un plugin para gestionar claves de acceso a modelos de lenguaje de gran escala (LLM, large language model) cuando se ejecutan agentes de programación en distintas máquinas controladas de forma remota. Le sirve a quien aprende análisis de datos e inteligencia artificial como ejemplo concreto de la infraestructura necesaria para administrar credenciales al trabajar con múltiples proveedores de modelos.",
+      "destacado": false
+    },
+    "13af854ab8b9": {
+      "resumen": "Hilo semanal fijo del foro r/datascience (comunidad de Reddit sobre ciencia de datos) donde quienes están empezando o cambiando de carrera hacia el análisis de datos comparten dudas y piden consejo. Sirve como termómetro de las preguntas más frecuentes de quienes se inician en el área, un punto de referencia útil para alguien que está transicionando desde la medicina.",
+      "destacado": false
+    },
+    "3db7829d04e1": {
+      "resumen": "Simon Willison cita un comentario anónimo, firmado con el seudónimo \"voxium\", de alguien que a las dos semanas de empezar en una nueva empresa describe que allí todo el trabajo -desde las especificaciones hasta el código, las pruebas y los tickets- lo genera Claude Code, el asistente de programación de Anthropic. Le interesa a quien aprende análisis de datos porque es un testimonio de primera mano sobre cómo la inteligencia artificial agéntica ya está reorganizando el trabajo técnico dentro de algunas empresas.",
+      "destacado": false
+    },
+    "4652e79a998a": {
+      "resumen": "Quién es Sebastián Dubuc, el jugador que se destaca como encargado de convertir tries en la selección argentina de rugby seven, Los Pumas 7's, en los Juegos Suramericanos."
+    },
+    "6c82e4d0e9c2": {
+      "resumen": "Toda la información sobre la participación de las selecciones argentinas de rugby seven, Los Pumas 7's y Las Yaguaretés, en los Juegos Suramericanos 2026: resultados, próximos partidos, sede y rivales."
+    },
+    "1cbbf662b4f7": {
+      "resumen": "Se suspendió una jornada de competencia de Los Pumas 7's y Las Yaguaretés en los Juegos Suramericanos, lo que obliga a definir de otra manera cómo se reparten las medallas."
+    },
+    "8971012f1d56": {
+      "resumen": "Una columna de opinión en Clarín plantea que el Estado argentino recauda impuestos elevados pero brinda servicios y prestaciones insuficientes a cambio."
     }
   }
 }

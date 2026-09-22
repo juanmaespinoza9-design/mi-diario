@@ -1,10 +1,6 @@
 {
-  "generated_at": "2026-09-21T22:03:54Z",
+  "generated_at": "2026-09-22T10:06:24Z",
   "summaries": {
-    "a12225a1aea9": {
-      "resumen": "Editorial de apertura del European Heart Journal (Revista Europea del Corazón) que presenta un número especial dedicado a la cardio-oncología, la subespecialidad que estudia el daño cardiovascular derivado de los tratamientos oncológicos. Sirve como mapa de ese número para quien quiera ubicarse en los principales temas que aborda.",
-      "destacado": false
-    },
     "d3fd8b727d73": {
       "resumen": "Editorial o perspectiva de JACC (Journal of the American College of Cardiology, autores Madanchi M et al.) que discute estrategias para prevenir la obstrucción microvascular durante la angioplastia coronaria primaria (PCI, percutaneous coronary intervention) en el infarto agudo de miocardio. Interesa porque la obstrucción microvascular es una de las principales razones por las que, pese a abrir la arteria a tiempo, el daño al músculo cardíaco persiste.",
       "destacado": false,
@@ -24,11 +20,6 @@
       "destacado": true,
       "analisis": "Diseño: metaanálisis actualizado publicado en JACC (Journal of the American College of Cardiology) que combina datos de múltiples ensayos clínicos aleatorizados sobre intervención coronaria percutánea (PCI) guiada por imagen intracoronaria; el título no permite precisar cuántos estudios ni cuántos pacientes en total incorpora esta actualización.\nPoblación: pacientes sometidos a PCI (angioplastia con colocación de stent), en general con lesiones coronarias complejas, donde la guía por imagen suele aportar más valor; el título no detalla criterios de inclusión o exclusión específicos.\nIntervención: PCI guiada por imagen intracoronaria (ecografía intravascular [IVUS, intravascular ultrasound] o tomografía de coherencia óptica [OCT, optical coherence tomography]) frente a PCI guiada solo por angiografía convencional.\nResultados: no hay cifras, razones de riesgo ni valor de p disponibles sin el abstract completo.\nLimitaciones: sin el abstract no se puede evaluar la heterogeneidad entre los ensayos incluidos, el criterio de valoración principal exacto (mortalidad, infarto, revascularización del vaso tratado) ni el seguimiento promedio.\nMensaje: de confirmarse el beneficio, respalda el uso más sistemático de la guía por imagen intracoronaria durante la angioplastia, una práctica todavía heterogénea entre centros y operadores.\nNota: análisis sin acceso al abstract."
     },
-    "a793bcb185f9": {
-      "resumen": "Nota de TCTMD sobre un registro que analiza la carga de enfermedad cardiovascular aterosclerótica (ASCVD, atherosclerotic cardiovascular disease) en la comunidad árabe-estadounidense, un grupo históricamente poco caracterizado en los estudios epidemiológicos de Estados Unidos. Vale la pena mirarlo porque visibiliza disparidades de riesgo cardiovascular en un subgrupo poblacional específico, algo relevante para pensar la estratificación de riesgo más allá de las categorías étnicas habituales.",
-      "destacado": false,
-      "analisis": "Diseño: por el título, se trata de un registro observacional que caracteriza la carga de enfermedad cardiovascular aterosclerótica (ASCVD, atherosclerotic cardiovascular disease); la nota de TCTMD no permite precisar si es prospectivo o retrospectivo, ni el número de centros o pacientes incluidos.\nPoblación: personas de origen árabe residentes en Estados Unidos (Arab Americans); el título no detalla criterios de inclusión o exclusión ni el rango etario.\nIntervención: no aplica una intervención propiamente dicha; se trata de un estudio descriptivo de prevalencia y carga de factores de riesgo cardiovascular, sin comparador definido en el título.\nResultados: no hay cifras, razones de riesgo ni valor de p disponibles en el título.\nLimitaciones: sin el abstract no se puede evaluar el tamaño muestral, la fuente de los datos ni si hubo ajuste por factores socioeconómicos u otras variables de confusión.\nMensaje: aporta evidencia sobre un subgrupo poco estudiado, lo que podría justificar estrategias de detección y prevención cardiovascular más dirigidas en esta comunidad.\nNota: análisis sin acceso al abstract."
-    },
     "1c9841ae2878": {
       "resumen": "Nota de TCTMD sobre un nuevo cruce entre la SCAI (Society for Cardiovascular Angiography and Interventions) y la ABIM (American Board of Internal Medicine, la junta que certifica a los especialistas en medicina interna en Estados Unidos) por las exigencias de volumen de procedimientos para mantener la certificación en cardiología intervencionista. Interesa porque toca un debate de fondo sobre cómo se mide la competencia de un operador: por cantidad de procedimientos o por resultados clínicos.",
       "destacado": false
@@ -37,32 +28,16 @@
       "resumen": "Artículo de TCTMD que explora hacia dónde se está moviendo la práctica de la cardiología más allá de los grandes centros hospitalarios, con la atención cardiovascular ambulatoria y descentralizada ganando terreno. Vale la pena mirarlo porque plantea cambios estructurales en el modelo de atención que impactan tanto en la formación como en la carrera de los cardiólogos jóvenes.",
       "destacado": false
     },
-    "3a421bb1235a": {
-      "resumen": "Entrevista de TCTMD al cardiólogo e investigador Haider Warraich sobre el desarrollo de herramientas de inteligencia artificial agéntica (agentic AI, sistemas capaces de ejecutar tareas de forma autónoma) aplicadas a la enfermedad cardiovascular (CVD, cardiovascular disease). Interesa porque anticipa cómo la inteligencia artificial podría pasar de asistir en el diagnóstico a intervenir activamente en la toma de decisiones clínicas.",
-      "destacado": false
-    },
     "1d212570b9dd": {
       "resumen": "Nota de TCTMD sobre un estudio internacional que evalúa la eficacia de los cardiodesfibriladores implantables (ICD, implantable cardioverter-defibrillator) para prevenir la muerte súbita en pacientes con miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy), la principal causa de muerte súbita cardíaca en jóvenes y deportistas. Vale la pena mirarlo porque aporta datos a gran escala sobre una indicación de prevención donde la selección del paciente sigue siendo un desafío.",
       "destacado": false,
       "analisis": "Diseño: según el título, se trata de un estudio internacional (global study) que evalúa el desempeño de los cardiodesfibriladores implantables (ICD, implantable cardioverter-defibrillator); por tratarse de una nota de TCTMD sobre un estudio ya reportado, probablemente corresponda a un registro multicéntrico más que a un ensayo aleatorizado, aunque el título no permite confirmarlo ni precisar el número de centros o pacientes.\nPoblación: pacientes con miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy) con indicación de prevención de muerte súbita; el título no detalla los criterios de riesgo utilizados para la selección ni los criterios de exclusión.\nIntervención: implante de un cardiodesfibrilador implantable (ICD) como estrategia de prevención de muerte súbita; el título no especifica un grupo comparador (por ejemplo, pacientes de riesgo similar sin ICD).\nResultados: el título indica un resultado favorable (\"Success\") en la prevención de muerte súbita, pero no hay cifras, razones de riesgo, tasas de eventos ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar el diseño exacto, el seguimiento, la tasa de descargas apropiadas frente a inapropiadas del dispositivo, ni las complicaciones asociadas al implante.\nMensaje: refuerza el rol del ICD en la prevención de muerte súbita en miocardiopatía hipertrófica en pacientes seleccionados, aunque la decisión de implante sigue dependiendo de una estratificación de riesgo individualizada.\nNota: análisis sin acceso al abstract."
     },
-    "7a6e8b4d0807": {
-      "resumen": "Nota de Forbes sobre la decisión de Amazon de bloquear a Muse, el nuevo agente de compras con inteligencia artificial de Meta, para que no opere dentro de amazon.com. Le sirve a un médico que aprende análisis de datos porque ilustra la fricción real entre plataformas de comercio electrónico y los agentes autónomos de inteligencia artificial que navegan la web en nombre de un usuario."
-    },
-    "09131d9cd421": {
-      "resumen": "Hilo de la red social X (antes Twitter) que reporta una caída en la mediana del \"pensamiento\" o razonamiento del modelo de lenguaje Fable 5 durante agosto. Al ser un comentario suelto sin detalle metodológico, sirve sobre todo como ejemplo de cómo la comunidad técnica monitorea de forma informal cambios de comportamiento en los modelos de inteligencia artificial entre versiones."
-    },
     "c80870d3d73f": {
       "resumen": "Artículo de KDnuggets que analiza qué es realmente Jev, el sistema de TypeSafe AI, separando lo que aporta de novedoso de la exageración mediática que lo rodea. Le sirve a quien aprende análisis de datos como ejercicio de lectura crítica frente al marketing habitual de las nuevas herramientas de inteligencia artificial."
     },
-    "81104d8861cf": {
-      "resumen": "Anuncio oficial de xAI sobre el lanzamiento de Grok 4.7, una nueva versión de su modelo de lenguaje de gran escala (LLM, large language model). Le sirve a quien aprende análisis de datos para seguir el ritmo de actualizaciones de los modelos comerciales disponibles, aunque el anuncio en sí no detalla mejoras específicas."
-    },
     "e7b74415e860": {
       "resumen": "Artículo de Towards Data Science que compara Jev, el modelo de TypeSafe AI, con un modelo de OpenAI en tareas de clasificación de intención (identificar qué quiere lograr un usuario a partir de su texto). Le aporta a un médico que aprende análisis de datos un caso concreto de cómo se comparan y evalúan distintos modelos de inteligencia artificial frente a una misma tarea."
-    },
-    "dfd00f6ab151": {
-      "resumen": "Artículo técnico, cuyo título juega con el nombre del paper fundacional de los transformers (\"Attention Is All You Need\"), que profundiza sobre el mecanismo de atención en las redes neuronales usadas por los modelos de lenguaje. Le sirve a quien aprende análisis de datos e inteligencia artificial para entender mejor el componente central que le permite a estos modelos ponderar qué partes de un texto son relevantes."
     },
     "b4c011886568": {
       "resumen": "Tutorial de KDnuggets que enseña, paso a paso, a convertir un script de Python en un agente de inteligencia artificial usando el kit de desarrollo de agentes de OpenAI (OpenAI Agents SDK), con llamadas a herramientas (tool calling) y funciones específicas. Le sirve directamente a un médico que está aprendiendo análisis de datos porque es una guía práctica y concreta para dar el salto de escribir scripts sueltos a automatizar flujos de trabajo de varios pasos.",
@@ -71,53 +46,51 @@
     "e4120553229f": {
       "resumen": "Artículo de Towards Data Science sobre GPT-6 Astra, el modelo de OpenAI que alcanzó el nivel más alto de riesgo de ciberseguridad definido por la propia empresa, y por qué esto importa menos por lo que Astra puede hacer y más porque otros modelos no fueron evaluados con el mismo rigor. Le sirve a quien aprende análisis de datos para entender los marcos de evaluación de riesgo que empiezan a acompañar a los modelos de inteligencia artificial más potentes."
     },
-    "34326265fab7": {
-      "resumen": "Artículo de Towards Data Science que parte de la oferta de Google de 10 millones de dólares por los datos de una aerolínea en quiebra para explicar cómo una organización puede estimar el valor económico de sus propios datos operativos. Le aporta a un médico que aprende análisis de datos un marco conceptual concreto para pensar el valor de la información que se genera en su propio ámbito de trabajo."
-    },
-    "39b79aa7f116": {
-      "resumen": "Artículo de KDnuggets con tres trucos de Polars, la librería de manipulación de datos escrita en Rust, para aprovechar su motor de ejecución en paralelo y su optimizador de consultas y así acelerar el procesamiento de datos tabulares. Le sirve a quien aprende análisis de datos como guía práctica para escribir código más eficiente al trabajar con conjuntos de datos grandes."
-    },
-    "b75dde516ef1": {
-      "resumen": "El técnico de Argentinos Juniors, Nicolás Diez, cuestionó el trazado de líneas del VAR (asistencia arbitral por video) que anuló un gol de su equipo en la derrota ante Rosario Central."
-    },
-    "b0a0ae73b1a3": {
-      "resumen": "Antes del clásico ante Boca, el delantero de Racing Lautaro Díaz recordó un gol de Lautaro Martínez en la Bombonera mientras espera su debut en el Superclásico."
-    },
     "9d7aeb5e643c": {
       "resumen": "El Seven Masculino Juvenil de rugby realiza una nueva concentración en Buenos Aires como parte de su preparación rumbo a los Juegos Olímpicos de la Juventud Dakar 2026."
-    },
-    "4f7aaf69bc64": {
-      "resumen": "El lateral de Huracán Lucas Blondel, autor del gol ante River, salió a defender a su pareja, Morena Beltrán, tras un comentario de un periodista deportivo que consideró injusto."
-    },
-    "94241a80d872": {
-      "resumen": "River difundió un nuevo video que muestra el avance de la obra de techado del estadio Monumental."
-    },
-    "c9ad23cc93cf": {
-      "resumen": "Trascendió que un funcionario argentino le llevaría al papa León XIV una camiseta de River con el número 14 durante su visita a la Argentina."
-    },
-    "5786f529a647": {
-      "resumen": "En el juicio por el homicidio del exjugador de Los Pumas Federico Martín Aramburú, el principal acusado declaró ante la Justicia y explicó por qué le disparó."
-    },
-    "673349a4df03": {
-      "resumen": "Marcos Galperin habló sin filtros de sus comienzos, de su pasión por el rugby y de por qué, a su juicio, Mercado Libre no creció tanto como esperaba."
-    },
-    "d5843be102f0": {
-      "resumen": "Los Pumas 7's y Las Yaguaretés definen hoy las medallas de rugby seven en los Juegos Suramericanos."
-    },
-    "b08bfde2ef6d": {
-      "resumen": "River hace cálculos con la tabla anual: necesitaría ganar cinco de los partidos que le quedan y perder a lo sumo uno para asegurarse un lugar en la próxima Copa Libertadores."
-    },
-    "c6bbf9969b0e": {
-      "resumen": "La derrota de River ante Huracán le hizo perder la chance de descontar posiciones en la tabla anual, clave para clasificar a la Copa Libertadores 2027."
-    },
-    "eb6c09e0bd89": {
-      "resumen": "Repaso jugador por jugador de los 20 futbolistas argentinos convocados a la Fecha FIFA, con seis arqueros y representantes de trece equipos de la Liga Profesional."
     },
     "669efbcd4bbd": {
       "resumen": "Por el mal tiempo, Los Pumas 7's y Las Yaguaretés jugarán este lunes las finales de los Juegos Suramericanos, luego de que se suspendieran las actividades al aire libre."
     },
-    "1daab240bc75": {
-      "resumen": "Se disputó la segunda fecha del Campeonato Argentino Juvenil M17 de rugby, un torneo clave para la formación de los jugadores más jóvenes del país."
+    "da93a6b1e3b6": {
+      "resumen": "Revisión publicada en el European Heart Journal (Revista Europea del Corazón) sobre la relación entre la fibrilación auricular (FA), la arritmia sostenida más frecuente en la práctica clínica, y la muerte súbita cardíaca. Repasa los mecanismos fisiopatológicos que las vinculan, el manejo actual y los nuevos blancos terapéuticos en investigación. Vale la pena mirarla como puesta al día de un vínculo -FA y muerte súbita- todavía no saldado del todo en la literatura.",
+      "destacado": false
+    },
+    "2b23cc2a3a26": {
+      "resumen": "Nota de TCTMD sobre la tendencia en Estados Unidos al aumento de trasplantes cardíacos con corazones donados tras muerte circulatoria (DCD, donation after circulatory death), una fuente de órganos antes poco usada en trasplante cardíaco. Reporta que, pese a ese crecimiento, los resultados clínicos se mantuvieron estables. Interesa porque el DCD podría ampliar el pool de donantes en un contexto de escasez crónica de órganos para trasplante.",
+      "destacado": false,
+      "analisis": "Diseño: por el título, se trata de un análisis de tendencias o registro sobre resultados de trasplante cardíaco con donación tras muerte circulatoria (DCD, donation after circulatory death) en Estados Unidos; la nota de TCTMD no permite precisar si es un registro nacional (como el de la UNOS/OPTN), el período analizado ni el número de centros o pacientes.\nPoblación: receptores de trasplante cardíaco en Estados Unidos que recibieron injertos de donantes DCD; el título no detalla criterios de inclusión o exclusión.\nIntervención: no hay una intervención comparativa aleatorizada; se trata de un análisis observacional de una práctica (el trasplante con corazones DCD) en expansión, probablemente comparada contra trasplantes con donación tras muerte encefálica (DBD, donation after brain death).\nResultados: el título indica que los resultados se mantuvieron \"estables\" (steady) pese al aumento del volumen de trasplantes DCD, pero no hay cifras de supervivencia, razones de riesgo ni valor de p disponibles en el título.\nLimitaciones: sin el abstract no se puede evaluar el diseño exacto, el seguimiento, ni si hubo ajuste por factores de confusión entre los receptores de injertos DCD y DBD.\nMensaje: si se confirma que los resultados no empeoran, respalda seguir ampliando el uso de corazones DCD como estrategia para aumentar la disponibilidad de órganos para trasplante cardíaco.\nNota: análisis sin acceso al abstract."
+    },
+    "d71559db4878": {
+      "resumen": "Nota de TCTMD sobre la aprobación por parte de la FDA (Food and Drug Administration, la agencia regulatoria de medicamentos y dispositivos de Estados Unidos) del balón liberador de fármaco Selution SLR para el tratamiento de la reestenosis intra-stent coronaria. Interesa porque suma una alternativa a los balones farmacológicos ya disponibles para tratar stents que se vuelven a obstruir, una situación frecuente en la práctica intervencionista.",
+      "destacado": false
+    },
+    "d6f8e7e98973": {
+      "resumen": "Artículo de Hacker News sobre el concepto de \"spymarks\", una alternativa a las marcas de agua (watermarks) tradicionales para identificar contenido generado por inteligencia artificial, pensada para ser más difícil de detectar y remover. Le sirve a quien aprende análisis de datos para entender los mecanismos técnicos que se están explorando para rastrear el origen de un texto o imagen generados por IA."
+    },
+    "950ba7627636": {
+      "resumen": "Artículo de Hacker News que plantea el cansancio y la desconfianza que genera leer textos escritos (o reescritos) por inteligencia artificial sin que el autor lo aclare. Le aporta a un médico que aprende análisis de datos una reflexión sobre la transparencia necesaria al usar estas herramientas para comunicar, algo relevante también en la escritura científica y clínica."
+    },
+    "65539846fc8f": {
+      "resumen": "Anuncio de Xiaomi sobre MiMo v2.6, una nueva versión de su modelo de lenguaje de gran escala (LLM, large language model) de código abierto. Le sirve a quien aprende análisis de datos para seguir el ritmo de lanzamientos de modelos abiertos, una alternativa a los modelos comerciales cerrados para experimentar sin costo."
+    },
+    "044ae0d836d8": {
+      "resumen": "Explicador visual e interactivo de Hacker News sobre la arquitectura transformer, el diseño de red neuronal detrás de los modelos de lenguaje modernos como los que usan ChatGPT o Claude. Le sirve a un médico que aprende análisis de datos como introducción intuitiva y gráfica a un tema técnico que suele explicarse solo con fórmulas."
+    },
+    "ff3a1364a89f": {
+      "resumen": "Nota de Simon Willison sobre la disponibilidad general de Cloudflare Python Workers, que permite correr código Python directamente en la infraestructura de borde (edge) de Cloudflare sin gestionar servidores. Le sirve a quien aprende análisis de datos como una opción simple y de bajo costo para desplegar scripts o pequeñas aplicaciones de Python accesibles desde internet."
+    },
+    "fa51eb11f397": {
+      "resumen": "Las selecciones argentinas de rugby seven, Los Pumas 7's y Las Yaguaretés, se consagraron campeonas y ganaron la medalla dorada en los Juegos Suramericanos."
+    },
+    "118fc8c95515": {
+      "resumen": "Los Pumas 7's y Las Yaguaretés se quedaron con el oro en rugby seven en los Juegos Suramericanos Santa Fe 2026, según cordobaxv.com.ar."
+    },
+    "5dc9d282a9b2": {
+      "resumen": "Con jugadores tucumanos entre los protagonistas, Los Pumas 7's y Las Yaguaretés conquistaron el oro en rugby seven en los Juegos Suramericanos, según La Gaceta."
+    },
+    "c079d2e63304": {
+      "resumen": "Nota de Simon Willison sobre Jev, el modelo de TypeSafe AI que estrena una nueva categoría de modelos de lenguaje llamados \"System One\" (o \"modelos de decisión\", como prefiere llamarlos Maggie Appleton), pensados para tomar decisiones rápidas en lugar de razonar paso a paso. Le sirve a quien aprende análisis de datos para conocer una variante de arquitectura distinta a los modelos de lenguaje habituales y el debate sobre cómo nombrarla."
     }
   }
 }

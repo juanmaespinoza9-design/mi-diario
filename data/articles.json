@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-09-22T17:04:04.850435+00:00",
+ "generated_at": "2026-09-22T21:29:00.169183+00:00",
  "sections": [
   {
    "id": "cardiologia",
    "title": "Cardiología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "‘Moderate’ Agreement Between AI and Heart Team for Complex CAD Decisions",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZjFnYXJ5QVZEQm14RmJURXBxTnZUSUdQTlJURVo4Y2E2NWNyQlRHYkZMRElhS002YUhka0o2cmNBRWUzSXpwdThnaEI0eFM0VHhzYTEwZEZzT1dxb083NWstYXFmSlFnYlVpZXZsbk5Lc19wLTNfaThZLTd6a1ZtZk1oSDg2Sm5vaE1aeG5vdXRwUjQ1TXl4Vg?oc=5",
+     "source": "TCTMD",
+     "published": "2026-09-22T19:57:49+00:00",
+     "id": "52d7b6449bd7"
+    },
     {
      "title": "September 2026 Dispatch for the CV Team",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TQ2FHdEx4NjRhVmZndXdSR2M1THdTU1NkMElNTkV5QmhDa3UzXzVQV0JONTJLYTBkaDh4LWtsTGE5b1ZHX19LUkhsN3FWSEtBSExyaVBsWTNFZjRENzFPUkVoaWdpajc1WHc?oc=5",
@@ -20,6 +27,38 @@
      "published": "2026-09-22T00:00:00+00:00",
      "copete": "For image description, please refer to the figure legend and surrounding text.",
      "id": "da93a6b1e3b6"
+    },
+    {
+     "title": "Sotatercept Improves Right Heart Mechanics Despite Reduced Myocardial Contractility in Pulmonary Arterial Hypertension: A Prospective Exercise Hemodynamic Study",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42770225/",
+     "source": "Circulation",
+     "published": "2026-09-22T00:00:00+00:00",
+     "copete": "Reddy YNV et al. · Circulation",
+     "id": "6ce85e1dd0d2"
+    },
+    {
+     "title": "Real-World Experience With the Extravascular Implantable Cardioverter Defibrillator Through 1 Year: The Enlighten Post Approval Registry Study",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42770223/",
+     "source": "Circulation",
+     "published": "2026-09-22T00:00:00+00:00",
+     "copete": "Boersma LVA et al. · Circulation",
+     "id": "36dc4f6aa782"
+    },
+    {
+     "title": "Prognostic Value of Coronary Computed Tomography Angiography-Derived Fractional Flow Reserve From a Large Nationwide Cohort",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42770221/",
+     "source": "Circulation",
+     "published": "2026-09-22T00:00:00+00:00",
+     "copete": "Bell JS et al. · Circulation",
+     "id": "13b68b9daf8a"
+    },
+    {
+     "title": "Novel mTORC1 Booster LAPTM4A Potentiates Pathological Cardiac Hypertrophy",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42770220/",
+     "source": "Circulation",
+     "published": "2026-09-22T00:00:00+00:00",
+     "copete": "Hu Y et al. · Circulation",
+     "id": "4ccd92fa9e5b"
     },
     {
      "title": "Outcomes Steady as Hearts Donated After Circulatory Death Rise in the US",
@@ -43,13 +82,6 @@
      "id": "1c9841ae2878"
     },
     {
-     "title": "Beyond Big Hospitals: Where Cardiology Is Headed Next",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS29TNkljVW56ZHB2Z0hTT2ljUkxVWjNkVjVJUHQwYlBCNlNGZnBlcEZmQ1BHSmU1d1dqTVdoSEowdTQ0Mmp3Q0RSY0FqQm0wYmRtTDJlY09kdnhGZW1yM01WUy1yb2ZwWHlFWmNTek1nSDlxN2xnLUZuRjJkdXI1RzBR?oc=5",
-     "source": "TCTMD",
-     "published": "2026-09-18T15:05:05+00:00",
-     "id": "5e5c778b56bb"
-    },
-    {
      "title": "Preventing Microvascular Obstruction During Primary PCI: Back to a CLEAN Slate?",
      "link": "https://pubmed.ncbi.nlm.nih.gov/42742627/",
      "source": "JACC",
@@ -64,22 +96,6 @@
      "published": "2026-09-15T00:00:00+00:00",
      "copete": "Krumholz HM et al. · Journal of the American College of Cardiology",
      "id": "c33ce6d99cad"
-    },
-    {
-     "title": "Population-Wide Blood Pressure Control: It Takes a Village",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42747373/",
-     "source": "JACC",
-     "published": "2026-09-10T00:00:00+00:00",
-     "copete": "Wu Y et al. · Journal of the American College of Cardiology",
-     "id": "130e61105c2e"
-    },
-    {
-     "title": "Intracoronary Imaging-Guided Percutaneous Coronary Intervention: An Updated Meta-Analysis of Randomized Trials",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42747372/",
-     "source": "JACC",
-     "published": "2026-09-10T00:00:00+00:00",
-     "copete": "Bangalore S et al. · Journal of the American College of Cardiology",
-     "id": "34bbbd7c0b74"
     }
    ]
   },
@@ -89,28 +105,68 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "La propuesta de torneos que presentó River en AFA: baja gradual y ¿cuántos equipos?",
+     "link": "https://www.ole.com.ar/river-plate/river-comite-ejecutivo-afa-cantidad-equipos-torneo-presentacion-20_0_G7NOhH2GIp.html",
+     "source": "Olé — River",
+     "published": "2026-09-22T21:07:25+00:00",
+     "copete": "El club expuso un documento \"crítico\" en el Comité Ejecutivo de la AFA y uno de sus puntos era el formato de competencias. Qué dijo Di Carlo en su momento.",
+     "id": "7b093f1e6551"
+    },
+    {
+     "title": "Los dos jugadores de River que avanzan con su recuperación en el predio de la AFA",
+     "link": "https://www.ole.com.ar/river-plate/river-seleccion-afa-almada-andrada-lesiones_0_e9PkM3J2U5.html",
+     "source": "Olé — River",
+     "published": "2026-09-22T20:55:46+00:00",
+     "copete": "Los futbolistas del equipo de Ponzio que se lesionaron ante Huracán iniciaron su rehabilitación con la Selección de Lionel Scaloni para la fecha FIFA.",
+     "id": "5e95c6f7e8ec"
+    },
+    {
+     "title": "Jadson Viera: del \"estamos en un gigante\" al compromiso del plantel",
+     "link": "https://www.ole.com.ar/independiente/jadsonviera-independiente-torneoclausura-playoffs_0_FDazH1gYWx.html",
+     "source": "Olé — Primera",
+     "published": "2026-09-22T20:29:31+00:00",
+     "copete": "El entrenador de Independiente habló sobre los lesionados, la etapa de definición del campeonato y su vínculo con el equipo. Mirá qué dijo.",
+     "id": "f842801beedd"
+    },
+    {
+     "title": "El mapa del fútbol argentino 2027, con ocho títulos en juego",
+     "link": "https://www.ole.com.ar/futbol-primera/mapa-futbol-argentino-2027-titulos-juego-recopa-campeones-torneo_0_GXAqghUacy.html",
+     "source": "Olé — Primera",
+     "published": "2026-09-22T19:31:55+00:00",
+     "copete": "La nueva Recopa de Campeones se sumaría a un calendario que mantendrá la estructura de torneos cortos, tabla anual, Copa Argentina y finales nacionales.",
+     "id": "4e9f43e1a254"
+    },
+    {
+     "title": "Las semifinales de los playoffs de la Liga Profesional se jugarán en cancha neutral desde 2027",
+     "link": "https://www.ole.com.ar/futbol-primera/cancha-neutral-semifinales-playoffs-liga-profesional-futbol-argentina-2027_0_j8IcwS6Cca.html",
+     "source": "Olé — Primera",
+     "published": "2026-09-22T19:27:17+00:00",
+     "copete": "En la reunión del Comité Ejecutivo de la LPF se aprobó la medida para que haya público de ambos equipos no solo en la final.",
+     "id": "2646ecca3ce5"
+    },
+    {
+     "title": "Así juega Leo Ponzio al polo: “Es cerebral y lee muy bien el juego”",
+     "link": "https://www.ole.com.ar/river-plate/leo-ponzio-jugador-polo_0_Dc9uT1QdF5.html",
+     "source": "Olé — River",
+     "published": "2026-09-22T18:18:40+00:00",
+     "copete": "El DT de River encontró en los caballos su cable a tierra y llegó a competir oficialmente tras dejar el fútbol. Franco Gai, dirigente de la Asociación Argentino de Polo y compañero de Leo en el equipo Las Rosas, le contó a Olé cómo juega…",
+     "id": "05225d4b011a"
+    },
+    {
+     "title": "River volvió a la AFA: cuál fue la respuesta del Comité Ejecutivo al pedido de reformas",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-comite-ejecutivo-liga-profesional-respuesta-pedido-reformas-afa_0_yphYqZZkXc.html",
+     "source": "Olé — River",
+     "published": "2026-09-22T18:01:00+00:00",
+     "copete": "El club de Núñez formó parte del encuentro de la Liga Profesional en Ezeiza y presentó seis puntos fundamentales.",
+     "id": "86a04716a267"
+    },
+    {
      "title": "Está en semis del Suramericano, le hizo un golazo a la Argentina y River tiene prioridad de compra",
      "link": "https://www.ole.com.ar/river-plate/river-plate-prioridad-compra-pedro-zarza-paraguay-juegos-suramericanos_0_NTqd6Gvx3P.html",
      "source": "Olé — River",
      "published": "2026-09-22T16:43:47+00:00",
      "copete": "El atacante juega en la selección de Paraguay y forma parte de un acuerdo entre el Millonario y Olimpia, dueño de su pase.",
      "id": "2a97dd1029f4"
-    },
-    {
-     "title": "La definición clave de Vojvoda para el clásico de Racing con Boca",
-     "link": "https://www.ole.com.ar/racing/racing-boc-vojvoda_0_8U8MgQd0IY.html",
-     "source": "Olé — Primera",
-     "published": "2026-09-22T15:32:39+00:00",
-     "copete": "Ya con Cannavo a disposición, el DT decidirá si mantiene la línea de tres/cinco que venció a Sarmiento o si regresa a los cuatro en el fondo ante el Xeneize por la Copa Argentina.",
-     "id": "542f6dd755bd"
-    },
-    {
-     "title": "La gran noticia con la que River empezó el parate por la fecha FIFA",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-leonardo-ponzio-torneo-clausura-playoffs_0_WoUpUI0q2u.html",
-     "source": "Olé — River",
-     "published": "2026-09-22T15:19:00+00:00",
-     "copete": "El cierre de la fecha 10 del Torneo Clausura le hizo un guiño al equipo de Leonardo Ponzio.",
-     "id": "98e899d3ba2d"
     },
     {
      "title": "Pedro De Haro, oro en rugby 7: «Desde que nos enteramos de los Juegos en Rosario, estoy pensando en este momento»",
@@ -123,39 +179,15 @@
      "title": "Los Pumas 7s y Las Yaguaretés, campeones en los Juegos Suramericanos 2026",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IYmhvMXU4bkp4bEg2NjJJRG5BcTEzenNyMHlOY1psaV9GOXdtSEdTVWtvY0hTZGRKcUI2bURmVnhIczREbHBNMkJPVXFla1F0ZFluNU14YkdSanBVT05HcDdyaElXT0NfQnE4VWx4SnVCVVBLOGthQnhYVFNjVGc?oc=5",
      "source": "617 News",
-     "published": "2026-09-22T15:00:06+00:00",
+     "published": "2026-09-22T14:59:40+00:00",
      "id": "22db0da48cb0"
     },
     {
      "title": "\"Festejamos sus títulos como los nuestros\": elogios de Los Pumas 7's a Las Yaguaretés por el Oro en los Juegos Suramericanos",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcnlqTUhLNHZiTHNOOWlKR3F6elo5STdzbUdqV0pQWEM1V0tEcVVhM1dXc0V1WW1HaVFIQjZ6d1NOSmtCTC05aWFSRHpEYmVMc3FPeEZBbFpQdWZRUnJaNkZVY1BnREJOSjhNcHRwaXJjUVEwd3hiSHpUTmtyLXRDb0RqSzluY2QzOUZOaDhFRG1GWm0yUzlCaGNVanQ5b3hpWGh3N0FkZmlXRkRBY1g4OFIzclNQOFRWUWowb0JoWHp6bWczU2NES1RkdzBTdjctS01QREhB?oc=5",
-     "source": "ESPN Deportes",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRkhuNmIycVh1SXRmOHhJbEhpRlpnRXg1eGZNVENfMHBkWEtuWWpCWDZ6cUVmcUU5YzA5YU10cGV5TzcxeXA2c0dCM2lhbUwwY3hUUmFuaG8yOVhLTjlzYzVLSGJsZk1OVzdjSEdDem8tdmpGXzNZOXFDM0pkVUNLU0lTYTZWUUtDeG1YeWwwMlo4eDQ3VmtEZ3dzekR2aU1vZHktWkxWZE9hU1lsQnFkMXBFR0IwV2VEVmltVDhObnNxWHlvX0hIU3Yxd3dFdw?oc=5",
+     "source": "ESPN Argentina",
      "published": "2026-09-22T14:58:00+00:00",
-     "id": "8afb0413d570"
-    },
-    {
-     "title": "El pedido especial de Prestianni a Otamendi y su guiño a River: \"Uno no sabe lo que puede pasar\"",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-gianluca-prestianni-hincha-camiseta-nicolas-otamendi_0_KddEhZPn3W.html",
-     "source": "Olé — River",
-     "published": "2026-09-22T14:15:00+00:00",
-     "copete": "Convocado por Scaloni a la Selección, el atacante de Benfica habló sobre su vínculo con el defensor y no descartó ponerse la banda roja a futuro.",
-     "id": "bf35fd57d423"
-    },
-    {
-     "title": "La banca de Demichelis a Ponzio y el lamento por la salida de Coudet: \"Me dolió...\"",
-     "link": "https://www.ole.com.ar/river-plate/martin-demichelis-river-plate-ponzio-coudet_0_Nv9yTKzb2J.html",
-     "source": "Olé — River",
-     "published": "2026-09-22T13:05:00+00:00",
-     "copete": "El ex entrenador millonario regresó al país y habló sobre el anterior ciclo del Chacho y el nuevo que comenzó Leo.",
-     "id": "7386d3b31a60"
-    },
-    {
-     "title": "River, hoy EN VIVO: la vuelta a la AFA, el plan de Ponzio para la fecha FIFA y las noticias del martes 22 de septiembre",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-vivo-martes-22-septiembre-ultimas-noticias-afa-comite-ejecutivo-ponzio_0_cp8Krjga4Q.html",
-     "source": "Olé — River",
-     "published": "2026-09-22T12:12:28+00:00",
-     "copete": "Di Carlo cambió su postura y el club vuelve a participar del Comité Ejecutivo de la AFA, con pedidos de reformas fundamentales.",
-     "id": "95bca6e04721"
+     "id": "bbffb53c1e3d"
     },
     {
      "title": "Los Pumas 7’s y Las Yaguaretés, de oro en Rosario",
@@ -189,11 +221,40 @@
    "mode": "resumen",
    "items": [
     {
-     "title": "Claude Opus 5.5",
-     "link": "https://www.anthropic.com/claude-opus-5-5",
+     "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
+     "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
      "source": "Hacker News (100+ puntos)",
-     "published": "2026-09-22T16:27:30+00:00",
-     "id": "0c90c73c08cf"
+     "published": "2026-09-22T19:03:38+00:00",
+     "id": "64bb0df64d4d"
+    },
+    {
+     "title": "Quoting @therealcornpop",
+     "link": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-09-22T18:03:21+00:00",
+     "copete": "Hey, you know it's like super obvious if you're using AI to write your scripts for TikTok and YouTube, right? [...] It's not just the general AI-isms of \"it's not X, it's Y\", or the rule of three, or the really weird broken staccato-like…",
+     "id": "df9ee5d27afc"
+    },
+    {
+     "title": "GPT-6 Sol and Luna",
+     "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-09-22T18:00:34+00:00",
+     "id": "dfc615803e71"
+    },
+    {
+     "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+     "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-09-22T17:46:02+00:00",
+     "id": "b3a229745acf"
+    },
+    {
+     "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
+     "link": "https://grapheneos.social/@GrapheneOS/117299954135808210",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-09-22T17:12:51+00:00",
+     "id": "dc6c07b74f75"
     },
     {
      "title": "llm-typesafe 0.1a0",
@@ -212,25 +273,12 @@
      "id": "a4212258486e"
     },
     {
-     "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8GB",
-     "link": "https://mouse.dev/blog/muse-runtime-export/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-09-22T15:25:12+00:00",
-     "id": "08083993fd8e"
-    },
-    {
-     "title": "OpenAI is well positioned to fast-follow Jev",
-     "link": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-09-22T14:42:59+00:00",
-     "id": "dfd1d2a423f9"
-    },
-    {
-     "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
-     "link": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-09-22T14:30:12+00:00",
-     "id": "400c8e1fb368"
+     "title": "Bravely AI Browsing with Leo",
+     "link": "https://www.kdnuggets.com/bravely-ai-browsing-with-leo",
+     "source": "KDnuggets",
+     "published": "2026-09-22T14:00:29+00:00",
+     "copete": "Learn about private AI browsing for data professionals.",
+     "id": "d25c3e420dc1"
     },
     {
      "title": "Build a Speaker-Recognition App with Claude Code",
@@ -246,22 +294,6 @@
      "source": "r/datascience",
      "published": "2026-09-22T13:10:46+00:00",
      "id": "b9be0febca6d"
-    },
-    {
-     "title": "4 Ways to Use AI on a PhD Thesis",
-     "link": "https://towardsdatascience.com/4-ways-to-use-ai-on-a-phd-thesis/",
-     "source": "Towards Data Science",
-     "published": "2026-09-22T12:30:01+00:00",
-     "copete": "Finding citations, consolidating code, fact-checking and preparing for the defence The post 4 Ways to Use AI on a PhD Thesis appeared first on Towards Data Science .",
-     "id": "dd88c3fa8ba2"
-    },
-    {
-     "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
-     "link": "https://simonwillison.net/2026/Sep/21/jev/",
-     "source": "Simon Willison (IA)",
-     "published": "2026-09-21T23:09:20+00:00",
-     "copete": "Last week TypeSafe AI unveiled Jev , their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"decision models\" is a better name for these). Jev is an interesting variant…",
-     "id": "c079d2e63304"
     }
    ]
   },
@@ -271,100 +303,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Donald Trump, sobre Irán: “¿Los arrastro al infierno sin posibilidad de supervivencia?\"",
-     "link": "https://www.lanacion.com.ar/el-mundo/donald-trump-sobre-iran-los-arrastro-al-infierno-sin-posibilidad-de-supervivencia-nid22092026/",
-     "source": "La Nación",
-     "published": "2026-09-22T17:01:28+00:00",
-     "copete": "El mandatario estadounidense brindó un discurso ante la Asamblea General; la guerra en Medio Oriente muestra signos de un posible agravamiento y afecta la circulación de petróleo y gas",
-     "id": "2722556fbce3"
-    },
-    {
-     "title": "Seis F-16 llegan a la Argentina: cómo será el traslado desde Dinamarca hasta Río Cuarto",
-     "link": "https://www.infobae.com/politica/2026/09/22/seis-f-16-llegan-a-la-argentina-como-sera-el-traslado-desde-dinamarca-hasta-rio-cuarto/",
+     "title": "Casación confirmó la prescripción en tres casos de la causa por trata y servidumbre contra miembros del Opus Dei",
+     "link": "https://www.infobae.com/judiciales/2026/09/22/casacion-confirmo-la-prescripcion-en-tres-casos-de-la-causa-por-trata-y-servidumbre-contra-miembros-del-opus-dei/",
      "source": "Infobae",
-     "published": "2026-09-22T17:00:57+00:00",
-     "copete": "La formación hará escalas en España, las Islas Canarias y Brasil antes de completar el último tramo hacia Córdoba, con apoyo de aeronaves de Estados Unidos para el cruce del Atlántico",
-     "id": "ee7385900132"
+     "published": "2026-09-22T21:24:21+00:00",
+     "copete": "La Sala IV rechazó por mayoría los recursos de la Fiscalía y de una de las querellantes y mantuvo el sobreseimiento de Gabriel Dondo respecto de tres mujeres. Mariano Borinsky votó en disidencia y pidió que la investigación continuara",
+     "id": "bd0ecb35fd54"
     },
     {
-     "title": "Del cine a la vida real: Christian Bale inauguró un complejo de viviendas para evitar que hermanos en adopción sean separados",
-     "link": "https://www.lanacion.com.ar/espectaculos/del-cine-a-la-vida-real-christian-bale-inauguro-un-complejo-de-viviendas-para-evitar-que-los-nid22092026/",
+     "title": "Las Leonas lograron el oro en los Suramericanos, en otra página de gloria de su historia",
+     "link": "https://www.lanacion.com.ar/deportes/hockey/las-leonas-lograron-el-oro-en-los-suramericanos-en-otra-pagina-de-gloria-de-su-historia-nid22092026/",
      "source": "La Nación",
-     "published": "2026-09-22T17:00:35+00:00",
-     "copete": "Después de 18 años de trabajo y 22 millones de dólares de financiación, el ganador del Oscar y su esposa Sibi Blazic le dieron luz verde al proyecto Together California para que los niños se mantengan unidos",
-     "id": "94ae7610ddfb"
+     "published": "2026-09-22T21:24:02+00:00",
+     "copete": "La selección femenina consiguió el tetracampeonato, luego de la goleada sobre Chile",
+     "id": "e0ca7fd14c5f"
     },
     {
-     "title": "Mariela, docente argentina que emigró a Italia a los 50 años: “Los sueldos están entre 1.200 y 1.600 euros y los alquileres en 700”",
-     "link": "https://www.infobae.com/sociedad/2026/09/22/mariela-docente-argentina-que-emigro-a-italia-a-los-50-anos-los-sueldos-estan-entre-1200-y-1600-euros-y-los-alquileres-en-700/",
+     "title": "El campo argentino va por otro récord: proyectan 157,9 millones de toneladas de granos para la nueva campaña",
+     "link": "https://www.infobae.com/revista-chacra/2026/09/22/el-campo-argentino-va-por-otro-record-proyectan-1579-millones-de-toneladas-de-granos-para-la-nueva-campana/",
      "source": "Infobae",
-     "published": "2026-09-22T17:00:00+00:00",
-     "copete": "Después de que sus tres hijos se instalaran en Europa, decidió realizar sola el proceso administrativo y adaptarse a ocupaciones distintas mientras avanza con la validación de sus estudios",
-     "id": "adf24ccdfa81"
+     "published": "2026-09-22T21:23:25+00:00",
+     "copete": "Menos retenciones y mayores exportaciones marcan el inicio de la campaña gruesa 2026/27",
+     "id": "132730715bdb"
     },
     {
-     "title": "La chicharrita retrocede por el clima, pero advierten que no hay que bajar la guardia",
-     "link": "https://www.infobae.com/revista-chacra/2026/09/22/la-chicharrita-retrocede-por-el-clima-pero-advierten-que-no-hay-que-bajar-la-guardia/",
+     "title": "Misión del FMI en la Argentina: cómo se posiciona el Gobierno ante la meta de reservas que nunca se cumplió sin un “perdón”",
+     "link": "https://www.infobae.com/economia/2026/09/22/mision-del-fmi-en-la-argentina-como-se-posiciona-el-gobierno-ante-la-meta-de-reservas-que-nunca-se-cumplio-sin-un-perdon/",
      "source": "Infobae",
-     "published": "2026-09-22T17:00:00+00:00",
-     "copete": "La plaga volvió a disminuir en todo el país, aunque el monitoreo y el control de los maíces “guachos” siguen siendo claves",
-     "id": "b7cd2085023c"
+     "published": "2026-09-22T21:23:04+00:00",
+     "copete": "El equipo técnico del organismo se encuentra en la Argentina para evaluar la evolución del programa. El debate se concentra en la diferencia entre las compras de divisas y la exigencia de recomponer activos netos antes de diciembre",
+     "id": "17e63e21bcd0"
     },
     {
-     "title": "Alejandra Gils Carbó, exprocuradora de Cristina Kirchner, comenzó a ser juzgada la compra del edificio",
-     "link": "https://www.infobae.com/judiciales/2026/09/22/alejandra-gils-carbo-exprocuradora-de-cristina-kirchner-comenzo-a-ser-juzgada-la-compra-del-edificio/",
+     "title": "El incómodo reencuentro de Graciela Alfano con Matías Alé: \"No lo reconocí\"",
+     "link": "https://www.infobae.com/teleshow/2026/09/22/el-incomodo-reencuentro-de-graciela-alfano-con-matias-ale-no-lo-reconoci/",
      "source": "Infobae",
-     "published": "2026-09-22T16:59:14+00:00",
-     "copete": "La exfuncionaria está procesada por las irregularidades en la adquisición de un inmueble para la Procuración General de la Nación con beneficio desmedido a intermediarios y a una inmobiliaria",
-     "id": "418a0330ea9b"
+     "published": "2026-09-22T21:22:13+00:00",
+     "copete": "La expareja estuvo presente en la Cena Solidaria 2026, el evento a beneficio de la Casa Garrahan, y fueron los protagonistas de un inesperado momento",
+     "id": "da3aa6b81353"
     },
     {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 22 de septiembre, minuto a minuto",
-     "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid22092026/",
+     "title": "Jornada financiera: cayeron los bonos argentinos y el riesgo país tocó un máximo en casi cinco meses",
+     "link": "https://www.infobae.com/economia/2026/09/22/jornada-financiera-cayeron-los-bonos-argentinos-y-el-riesgo-pais-toco-un-maximo-en-casi-cinco-meses/",
+     "source": "Infobae",
+     "published": "2026-09-22T21:21:17+00:00",
+     "copete": "Los títulos públicos en dólares perdieron 0,9% en promedio. El indicador de JP Morgan avanzó a los 555 puntos básicos. El S&P Merval quedó neutro y el petróleo cayó por quinta rueda consecutiva. El dólar siguió a $1.535 en el Banco Nación",
+     "id": "664093887a5e"
+    },
+    {
+     "title": "El Gobierno rechazó la decisión de Reino Unido de extender por cinco años las licencias petroleras en las Malvinas",
+     "link": "https://www.lanacion.com.ar/politica/el-gobierno-rechazo-la-decision-de-reino-unido-de-extender-por-cinco-anos-las-licencias-petroleras-nid22092026/",
      "source": "La Nación",
-     "published": "2026-09-22T16:57:16+00:00",
-     "copete": "La divisa oficial opera a $1535 para la venta en el Banco Nación; el dólar blue cotiza a $1555 para esa operación; qué pasa con el MEP y el CCL",
-     "id": "676a653079e4"
+     "published": "2026-09-22T21:20:55+00:00",
+     "copete": "El canciller Pablo Quirno anunció que la administración presentó una nota formal de protesta a la embajada británica en la Argentina; habló de un “acto ilícito”",
+     "id": "3163c62c4d4e"
     },
     {
-     "title": "La profunda reflexión de Martín Bossi: “El humor cambió porque bajó la inteligencia de la gente”",
-     "link": "https://www.infobae.com/teleshow/2026/09/22/la-profunda-reflexion-de-martin-bossi-el-humor-cambio-porque-bajo-la-inteligencia-de-la-gente/",
-     "source": "Infobae",
-     "published": "2026-09-22T16:54:00+00:00",
-     "copete": "El actor estuvo invitado en Infobae a las Nueva para hablar de su nueva serie, sin embargo, la conversación derivó en un profundo análisis",
-     "id": "5c9a40ba2548"
-    },
-    {
-     "title": "Toledo vende activos y busca un comprador",
-     "link": "https://www.lanacion.com.ar/economia/negocios/toledo-vende-activos-y-busca-un-comprador-nid22092026/",
+     "title": "Oficial y confirmado: el Uscis reabre el portal para pagar la tarifa anual de asilo después de la fecha límite",
+     "link": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/oficial-y-confirmado-el-uscis-reabre-el-portal-para-pagar-la-tarifa-anual-de-asilo-despues-de-la-nid22092026/",
      "source": "La Nación",
-     "published": "2026-09-22T16:51:31+00:00",
-     "copete": "La histórica cadena marplatense ya se desprendió de tres locales en la ciudad y negocia una salida que podría incluir la venta total o parcial de la empresa",
-     "id": "272296d0317d"
+     "published": "2026-09-22T21:20:23+00:00",
+     "copete": "Consulta cómo pagar la tarifa anual de asilo de US$102 tras la reapertura del portal del Uscis y qué casos pueden abonar el cargo fuera de plazo.",
+     "id": "dd82318c7cb0"
     },
     {
-     "title": "Plazo fijo: cuál es la tasa de interés banco por banco este martes 22 de septiembre",
-     "link": "https://www.lanacion.com.ar/economia/plazo-fijo-cual-es-la-tasa-de-interes-banco-por-banco-este-martes-22-de-septiembre-nid22092026/",
+     "title": "Generador de prompts: la frase para crear fotos profesionales con IA",
+     "link": "https://www.lanacion.com.ar/tecnologia/generador-de-prompts-la-frase-para-crear-fotos-profesionales-con-ia-nid22092026/",
      "source": "La Nación",
-     "published": "2026-09-22T16:50:50+00:00",
-     "copete": "El Banco Central de la República Argentina (BCRA) permite a los ahorristas conocer el rendimiento de estos instrumentos de inversión en pesos con una tabla comparativa de tasas",
-     "id": "4e2db28f7175"
+     "published": "2026-09-22T21:19:00+00:00",
+     "copete": "La herramienta permite crear imágenes desde cero o transformar fotografías existentes con una simple instrucción; las recomendaciones para lograrlo",
+     "id": "ea9933b7725b"
     },
     {
-     "title": "Gustavo Santaolalla celebró los 25 años de \"Ronroco\" en el Teatro Colón con un concierto conmovedor: una pócima contra los males del mundo",
-     "link": "https://www.clarin.com/espectaculos/gustavo-santaolalla-celebro-25-anos-ronroco-teatro-colon-concierto-conmovedor-pocima-males-mundo_0_Ow5AAwKbDH.html",
+     "title": "Parece simple, pero exige técnica: “En un plato de carne cruda no hay dónde esconder el producto”",
+     "link": "https://www.lanacion.com.ar/que-sale/parece-simple-pero-exige-tecnica-en-un-plato-de-carne-cruda-no-hay-donde-esconder-el-producto-nid22092026/",
+     "source": "La Nación",
+     "published": "2026-09-22T21:16:04+00:00",
+     "copete": "Carne o pescado, cuchillo y condimentos medidos; cocineros explican qué decisiones técnicas definen el resultado y por qué el equilibrio importa desde la materia prima hasta el servicio",
+     "id": "1e8aedb93ccb"
+    },
+    {
+     "title": "PISA ya fue ¿y ahora qué hacemos?",
+     "link": "https://www.clarin.com/opinion/pisa-ahora-hacemos_0_qCQOq4oDEo.html",
      "source": "Clarín",
-     "published": "2026-09-22T16:39:02+00:00",
-     "copete": "El multipremiado músico argentino, ganador de dos Oscar, festejó las bodas plata de uno de sus mejores trabajos discográficos. La intimidad de una noche en la que los delicados sonidos convirtieron la prestigiosa sala en un espacio con…",
-     "id": "b4eff34c5309"
+     "published": "2026-09-22T20:43:55+00:00",
+     "copete": "La noticia, con los puntajes, ya pasó. Ahora, la agenda incluye cómo recuperar la atención, enseñar a pensar críticamente y fortalecer la alianza entre docentes y familias.",
+     "id": "abca240c2b95"
     },
     {
-     "title": "Un exasesor de Milei invertirá US$ 1.000 millones en Uruguay para levantar una ciudad que tendrá el foco en la IA",
-     "link": "https://www.clarin.com/economia/exasesor-milei-invertira-us-1000-millones-uruguay-levantar-ciudad-foco-ia_0_1DYVFpE1rv.html",
+     "title": "Zelenski, dispuesto a parar ataques contra infraestructura rusa si Moscú hace lo mismo",
+     "link": "https://www.clarin.com/estados-unidos/zelenski-dispuesto-a-parar-ataques-contra-infraestructura-rusa-si-moscu-hace-lo-mismo_0_gngsolZmuq.html",
      "source": "Clarín",
-     "published": "2026-09-22T16:39:01+00:00",
-     "copete": "Se trata de Eduardo Bastitta, que está al frente de Praxis, una red internacional de emprendedores, inversores y referentes tecnológicos, y que construirá su primera sede física en ese país. El proyecto contempla la llegada de los primeros…",
-     "id": "14e07c1fb45b"
+     "published": "2026-09-22T20:40:26+00:00",
+     "copete": "Zelenski se mostró dispuesto a cesar ataques a infraestructura rusa si Moscú detiene sus bombardeos en Ucrania, tras dialogar con Trump en la ONU. Trump aseguró que un acuerdo entre Rusia y Ucrania es posible pronto, mientras Washington y…",
+     "id": "9fc36b12b59d"
     }
    ]
   },
@@ -374,84 +406,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Revelan la causa de la muerte de la actriz Hayden Panettiere",
-     "link": "https://www.bbc.com/mundo/articles/cm5yezpwn6pno?at_medium=RSS&at_campaign=rss",
+     "title": "How Ceuta, football and Israel are shaping Morocco's election",
+     "link": "https://www.bbc.co.uk/news/articles/c8r4v7n6py97o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-09-22T20:59:00+00:00",
+     "copete": "Young voters are being courted with football slogans, promises of jobs and anti-Israel rallying calls.",
+     "id": "e6381dd067b3"
+    },
+    {
+     "title": "Qué contempla el acuerdo sobre Groenlandia firmado por EE.UU. y Dinamarca tras meses de amenazas de Trump",
+     "link": "https://www.bbc.com/mundo/articles/cvzez9yz6766o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-09-22T17:00:59+00:00",
-     "copete": "Según la oficina forense, una mezcla letal de drogas causó la muerte de la actriz de 36 años.",
-     "id": "7f766261985d"
+     "published": "2026-09-22T20:32:26+00:00",
+     "copete": "El acuerdo de defensa firmado en la Asamblea General de la ONU también reafirma la soberanía de Dinamarca sobre su territorio ártico semiautónomo.",
+     "id": "d63336fd5c1d"
     },
     {
-     "title": "Cyclist who dressed as man to avoid Taliban wins silver medal",
-     "link": "https://www.bbc.co.uk/sport/cycling/articles/c63eqyvdndwdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-09-22T16:57:55+00:00",
-     "copete": "Afghan cyclist Fariba Hashimi wins silver in the women's road race at the Asian Games, having fled oppression in her home country to pursue a sporting dream.",
-     "id": "17815563709b"
-    },
-    {
-     "title": "Top South African policeman charged with sexual offences",
-     "link": "https://www.bbc.co.uk/news/articles/cwjdvgx77n0zo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-09-22T16:54:41+00:00",
-     "copete": "Shadrack Sibiya, who has made no comment, is alleged to have groomed a 16-year-old and raped an 18-year-old.",
-     "id": "24d7afce15cb"
-    },
-    {
-     "title": "La UE saca de la lista de sanciones a dos grandes oligarcas por las presiones de Francia y Luxemburgo",
-     "link": "https://elpais.com/internacional/2026-09-22/la-ue-saca-de-la-lista-de-sanciones-a-dos-grandes-oligarcas-por-las-presiones-de-francia-y-luxemburgo.html",
-     "source": "El País Internacional",
-     "published": "2026-09-22T16:50:36+00:00",
-     "copete": "El club comunitario descongelará los activos del magnate Alisher Usmanov y de Mijail Fridman, vinculado a los supermercados Dia",
-     "id": "f100866489d8"
-    },
-    {
-     "title": "El huracán Polo alcanza la categoría 5 en tiempo récord y amenaza las costas de México",
-     "link": "https://www.bbc.com/mundo/articles/c3n07v5wr0rqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-22T16:41:31+00:00",
-     "copete": "Polo se fortaleció en pocas horas hasta la máxima categoría en la escala Saffir-Simpson. Su trayectoria prevista marca un avance paralelo a las costas de México, pero generará lluvias en algunas regiones.",
-     "id": "bf8fe57ae66b"
-    },
-    {
-     "title": "Father admits causing death of his son in Cyprus hotel fall",
-     "link": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-09-22T15:52:35+00:00",
-     "copete": "The two-year-old boy fell from the window of a hotel in Cyprus in July, a Paphos court hears.",
-     "id": "0e615139535d"
-    },
-    {
-     "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
-     "link": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-09-22T15:17:37+00:00",
-     "copete": "The death of the child star - who had fentanyl, Xanax, a muscle relaxant and antipsychotic medication in her system - was ruled an accident.",
-     "id": "73d369c43acc"
-    },
-    {
-     "title": "Por qué las guacamayas rojas dejan morir a sus crías y cómo una científica peruana intenta salvarlas",
-     "link": "https://www.bbc.com/mundo/articles/c6wyzg18vw05o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-09-22T13:05:45+00:00",
-     "copete": "Aunque parezca un método de crianza brutal fue, en su momento, una estrategia de supervivencia.",
-     "id": "64e6fd745ff7"
-    },
-    {
-     "title": "Los hutíes prosiguen su avance en Yemen y acarician el control total del estrecho de Bab el Mandeb",
-     "link": "https://elpais.com/internacional/2026-09-22/los-huties-prosiguen-su-avance-en-yemen-y-acarician-el-control-total-del-estrecho-de-bab-el-mandeb.html",
-     "source": "El País Internacional",
-     "published": "2026-09-22T12:24:46+00:00",
-     "copete": "Pese a los recientes ataques contra Riad y sus instalaciones petroleras, Arabia Saudí promete retomar los envíos de crudo desde Yanbu mientras recibe el apoyo de países occidentales",
-     "id": "4c79ce71bd45"
-    },
-    {
-     "title": "Irán se muestra dispuesto a reabrir Ormuz si Trump afloja la presión militar y levanta su bloqueo",
+     "title": "El ministro de Exteriores de Irán y los enviados de Trump se reúnen en la ONU",
      "link": "https://elpais.com/internacional/2026-09-22/iran-se-muestra-dispuesto-a-reabrir-ormuz-si-trump-afloja-la-presion-militar-y-levanta-su-bloqueo.html",
      "source": "El País Internacional",
-     "published": "2026-09-22T11:31:55+00:00",
-     "copete": "El anuncio de la delegación de Teherán a la Asamblea de la ONU presiona a la baja el precio del petróleo, que cae por debajo de los 100 dólares",
+     "published": "2026-09-22T20:16:19+00:00",
+     "copete": "Trump ha descrito el encuentro como “muy bueno”, mientras amenaza con “aniquilar” al país enemigo",
      "id": "59d751945da3"
+    },
+    {
+     "title": "Clavicular: acusan de violación ante una corte de EE.UU. al controvertido influencer de \"looksmaxxing\"",
+     "link": "https://www.bbc.com/mundo/articles/c3dx075j0qpjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-09-22T20:09:56+00:00",
+     "copete": "Las autoridades alegan que Braden Peters drogó a una mujer antes de agredirla en mayo de 2025. Él niega los cargos.",
+     "id": "c64ff65d5a15"
+    },
+    {
+     "title": "La ONU denuncia desapariciones forzadas y muertes bajo custodia en Nicaragua",
+     "link": "https://www.bbc.com/mundo/articles/cm3rey8217lpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-09-22T19:57:40+00:00",
+     "copete": "El informe documenta 161 desapariciones forzadas desde 2018, incluidas 29 personas cuyo paradero sigue sin conocerse, y responsabiliza al Estado de ocho muertes bajo custodia.",
+     "id": "9c6fcad7e559"
+    },
+    {
+     "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+     "link": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-09-22T19:47:44+00:00",
+     "copete": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
+     "id": "aef0925d54ae"
+    },
+    {
+     "title": "What is the White House pool and why is it in a row with Trump?",
+     "link": "https://www.bbc.co.uk/news/articles/c8dx5dy5rzz2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-09-22T19:25:16+00:00",
+     "copete": "The White House press pool is at the centre of a major row between President Donald Trump and TV networks. What is it?",
+     "id": "d09ddef848a5"
+    },
+    {
+     "title": "Trump amenaza con aniquilar Irán en un discurso en la Asamblea General de la ONU con tintes electorales",
+     "link": "https://elpais.com/internacional/2026-09-22/trump-amenaza-con-aniquilar-iran-en-un-discurso-en-la-asamblea-general-de-la-onu-con-tintes-electorales.html",
+     "source": "El País Internacional",
+     "published": "2026-09-22T19:21:05+00:00",
+     "copete": "El presidente de EE UU dice que la guerra terminará tras las elecciones de noviembre, un nuevo plazo para un conflicto que se alarga ya siete meses pese a su promesa de que sería muy corto",
+     "id": "edb9cbf94706"
+    },
+    {
+     "title": "Guinea Ecuatorial declara terrorista el principal grupo de oposición y pone precio a la cabeza de sus líderes exiliados",
+     "link": "https://elpais.com/internacional/2026-09-22/guinea-ecuatorial-declara-terrorista-el-principal-grupo-de-oposicion-y-pone-precio-a-la-cabeza-de-sus-lideres-exiliados.html",
+     "source": "El País Internacional",
+     "published": "2026-09-22T19:09:36+00:00",
+     "copete": "Para uno de los disidentes, el régimen de Obiang quiere deshacerse de los opositores antes de las próximas elecciones: “Cualquier persona puede dispararme un tiro”",
+     "id": "8c125f6d97a3"
+    },
+    {
+     "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+     "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-09-22T19:06:06+00:00",
+     "copete": "Alisher Usmanov and Mikhail Fridman both have close ties to President Putin, and Kyiv said the move sent Moscow the wrong signals.",
+     "id": "50f60bf3e3c7"
     }
    ]
   }
@@ -464,18 +496,8 @@
   },
   {
    "section": "cardiologia",
-   "feed": "Circulation (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "cardiologia",
    "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "ciencia_datos",
-   "feed": "KDnuggets",
-   "error": "HTTP Error 403: Forbidden"
   }
  ]
 }

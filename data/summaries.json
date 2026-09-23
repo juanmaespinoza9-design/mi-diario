@@ -1,14 +1,10 @@
 {
-  "generated_at": "2026-09-23T10:07:59Z",
+  "generated_at": "2026-09-23T22:06:55Z",
   "summaries": {
     "d3fd8b727d73": {
       "resumen": "Editorial o perspectiva de JACC (Journal of the American College of Cardiology, autores Madanchi M et al.) que discute estrategias para prevenir la obstrucción microvascular durante la angioplastia coronaria primaria (PCI, percutaneous coronary intervention) en el infarto agudo de miocardio. Interesa porque la obstrucción microvascular es una de las principales razones por las que, pese a abrir la arteria a tiempo, el daño al músculo cardíaco persiste.",
       "destacado": false,
       "analisis": "Diseño: por el formato del título (pregunta retórica, \"Back to a CLEAN Slate?\") y la publicación en JACC (Journal of the American College of Cardiology), parece tratarse de un editorial o perspectiva que comenta un estudio o estrategia llamada \"CLEAN\" sobre prevención de la obstrucción microvascular; el título no permite confirmar si describe un ensayo aleatorizado nuevo ni precisar número de centros o pacientes.\nPoblación: pacientes sometidos a intervención coronaria percutánea (PCI, percutaneous coronary intervention) primaria por infarto agudo de miocardio; el título no detalla criterios de inclusión o exclusión.\nIntervención: estrategias para prevenir la obstrucción microvascular durante la PCI primaria, aparentemente vinculadas a un abordaje o protocolo denominado \"CLEAN\"; no se especifica el comparador en el título.\nResultados: no hay cifras, razones de riesgo ni valor de p disponibles en el título.\nLimitaciones: sin el abstract no se puede confirmar si es un editorial, una revisión o el reporte original de un estudio, ni evaluar diseño, tamaño muestral o validez de los hallazgos.\nMensaje: aporta una mirada actualizada sobre cómo prevenir el daño microvascular pese a la reperfusión exitosa de la arteria en el infarto, un problema todavía no resuelto en la práctica.\nNota: análisis sin acceso al abstract."
-    },
-    "c33ce6d99cad": {
-      "resumen": "Editorial de JACC (Journal of the American College of Cardiology, autores Krumholz HM et al.) que reflexiona sobre la distancia entre la evidencia demostrada en los ensayos clínicos y su aplicación real dentro del sistema de salud. Aporta una mirada crítica sobre por qué cuesta tanto que un hallazgo científico probado se traduzca en cambios efectivos de la práctica clínica cotidiana.",
-      "destacado": false
     },
     "1c9841ae2878": {
       "resumen": "Nota de TCTMD sobre un nuevo cruce entre la SCAI (Society for Cardiovascular Angiography and Interventions) y la ABIM (American Board of Internal Medicine, la junta que certifica a los especialistas en medicina interna en Estados Unidos) por las exigencias de volumen de procedimientos para mantener la certificación en cardiología intervencionista. Interesa porque toca un debate de fondo sobre cómo se mide la competencia de un operador: por cantidad de procedimientos o por resultados clínicos.",
@@ -16,9 +12,6 @@
     },
     "9d7aeb5e643c": {
       "resumen": "El Seven Masculino Juvenil de rugby realiza una nueva concentración en Buenos Aires como parte de su preparación rumbo a los Juegos Olímpicos de la Juventud Dakar 2026."
-    },
-    "669efbcd4bbd": {
-      "resumen": "Por el mal tiempo, Los Pumas 7's y Las Yaguaretés jugarán este lunes las finales de los Juegos Suramericanos, luego de que se suspendieran las actividades al aire libre."
     },
     "da93a6b1e3b6": {
       "resumen": "Revisión publicada en el European Heart Journal (Revista Europea del Corazón) sobre la relación entre la fibrilación auricular (FA), la arritmia sostenida más frecuente en la práctica clínica, y la muerte súbita cardíaca. Repasa los mecanismos fisiopatológicos que las vinculan, el manejo actual y los nuevos blancos terapéuticos en investigación. Vale la pena mirarla como puesta al día de un vínculo -FA y muerte súbita- todavía no saldado del todo en la literatura.",
@@ -42,64 +35,64 @@
       "resumen": "Boletín mensual (dispatch) de TCTMD dirigido al equipo de cardiología (CV team) con las novedades más relevantes de septiembre 2026 para la práctica cardiovascular. Vale la pena mirarlo como resumen rápido de la actualidad del mes en cardiología intervencionista y clínica.",
       "destacado": false
     },
-    "a4212258486e": {
-      "resumen": "Artículo de Towards Data Science que propone armar un conjunto de pruebas adversariales (adversarial test set) para encontrar, antes que los usuarios, las fallas de recuperación de información en un sistema de generación aumentada por recuperación (RAG, retrieval-augmented generation). Le sirve mucho a un médico que aprende análisis de datos porque enseña a testear de forma proactiva un tipo de sistema de IA cada vez más usado para consultar documentos y literatura.",
-      "destacado": true
-    },
-    "d25c3e420dc1": {
-      "resumen": "Artículo de KDnuggets sobre la navegación web asistida por inteligencia artificial con foco en la privacidad, a través del asistente Leo del navegador Brave. Le sirve a quien aprende análisis de datos para conocer opciones de navegación con IA que cuidan la privacidad de la información consultada, algo relevante al trabajar con datos sensibles.",
-      "destacado": false
-    },
-    "f12388a00474": {
-      "resumen": "Tutorial de Towards Data Science que enseña, paso a paso, a construir una aplicación de reconocimiento de hablante (speaker recognition, identificar quién habla en un audio) usando Claude Code como asistente de programación. Le sirve directamente a un médico que aprende análisis de datos porque muestra de forma concreta cómo usar un asistente de IA para programar una herramienta útil sin ser un desarrollador experto.",
-      "destacado": false
-    },
-    "22db0da48cb0": {
-      "resumen": "Los Pumas 7s y Las Yaguaretés se consagraron campeones de rugby seven en los Juegos Suramericanos 2026."
-    },
-    "bbffb53c1e3d": {
-      "resumen": "Los Pumas 7's celebraron públicamente el título dorado de Las Yaguaretés en los Juegos Suramericanos, destacando la hermandad entre ambos seleccionados."
-    },
-    "130e61105c2e": {
-      "resumen": "Artículo de JACC (Journal of the American College of Cardiology) sobre el control poblacional de la presión arterial, en un formato que sugiere un comentario editorial: plantea que bajar la hipertensión arterial a nivel de toda una comunidad requiere articular varios actores del sistema de salud, no solo al cardiólogo en el consultorio. Vale la pena mirarlo porque la hipertensión arterial sigue siendo el principal factor de riesgo cardiovascular modificable y su control poblacional es prioridad de salud pública.",
-      "destacado": false,
-      "analisis": "Diseño: por el título, probablemente un editorial o comentario que discute estrategias poblacionales de control de la presión arterial; no se puede precisar sin el abstract si describe un estudio original (por ejemplo, un programa comunitario o un registro) o si acompaña a otro artículo del mismo número de JACC.\nPoblación: no especificada en el título; presumiblemente hace referencia a poblaciones generales o comunidades con seguimiento de presión arterial en el sistema de salud.\nIntervención: no se puede determinar con certeza desde el título si evalúa una intervención específica (por ejemplo, programas de detección y tratamiento comunitario) o si es un análisis conceptual sobre el abordaje poblacional de la hipertensión.\nResultados: no disponibles sin el abstract.\nLimitaciones: la principal limitación de este análisis es la falta de acceso al texto completo, que impide confirmar el diseño real y los hallazgos concretos.\nMensaje: refuerza la idea de que el control de la presión arterial a gran escala exige un enfoque de sistema de salud (atención primaria, políticas públicas, tamizaje comunitario) más allá de la consulta individual con el cardiólogo.\nNota: análisis sin acceso al abstract."
-    },
-    "34bbbd7c0b74": {
-      "resumen": "Metaanálisis publicado en JACC (Journal of the American College of Cardiology) que actualiza la evidencia de ensayos clínicos aleatorizados sobre el uso de imagen intracoronaria (ecografía intravascular o tomografía de coherencia óptica) para guiar la angioplastia coronaria. Es un tema central en cardiología intervencionista porque varios estudios recientes sugieren que guiar el implante de stents con imagen mejora los resultados frente a la angiografía sola.",
-      "destacado": true,
-      "analisis": "Diseño: metaanálisis actualizado de ensayos clínicos aleatorizados (randomized controlled trials); el título no especifica el número exacto de estudios ni de pacientes incluidos, ni si el análisis se hizo con datos a nivel de estudio o de paciente individual.\nPoblación: pacientes sometidos a intervención coronaria percutánea (angioplastia con stent); el título no detalla el tipo de lesión (compleja, tronco, multivaso) ni los criterios de inclusión y exclusión de los ensayos originales.\nIntervención: implante de stent guiado por imagen intracoronaria (ecografía intravascular o tomografía de coherencia óptica) frente a guía angiográfica convencional.\nResultados: no hay razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract; el título solo indica que se trata de una actualización de la evidencia previa.\nLimitaciones: los metaanálisis de ensayos heterogéneos pueden mezclar distintas modalidades de imagen (ecografía intravascular vs. tomografía de coherencia óptica) y distintos criterios de optimización del stent, lo que puede diluir el efecto real; también dependen de la calidad y el seguimiento de los ensayos originales.\nMensaje: si confirma el beneficio de la guía por imagen, refuerza una tendencia ya presente en las guías europeas y americanas hacia adoptar la imagen intracoronaria como estándar en intervenciones complejas, aunque el acceso y el costo siguen siendo una barrera en la práctica real fuera de centros de alto volumen.\nNota: análisis sin acceso al abstract."
-    },
     "75e3d066fe17": {
       "resumen": "Simon Willison anuncia un encuentro presencial en San Francisco sobre 'ingeniería agéntica' (agentic engineering), la disciplina de diseñar sistemas de inteligencia artificial que ejecutan tareas de forma autónoma encadenando pasos y herramientas. Le sirve a un médico que se está formando en análisis de datos para tomar el pulso de hacia dónde va la comunidad de desarrolladores de IA, aunque el contenido concreto recién se conocerá en el evento.",
-      "destacado": false
-    },
-    "15a959b26c4a": {
-      "resumen": "Post del blog de Waymo (la empresa de autos autónomos de Google) sobre un programa de recompensas por usar transporte público, discutido en Hacker News. No es estrictamente ciencia de datos, pero ilustra cómo una empresa de inteligencia artificial aplicada a vehículos autónomos diversifica su producto hacia la movilidad urbana; sirve más como caso de negocio que como técnica de análisis.",
       "destacado": false
     },
     "f526d7679022": {
       "resumen": "Simon Willison repasa los lanzamientos de los nuevos modelos de lenguaje Claude Opus 5.5 (de Anthropic) y GPT-6 Sol y GPT-6 Luna (de OpenAI), en medio de una nueva guerra de precios entre proveedores de inteligencia artificial. Le sirve a un médico que aprende análisis de datos para elegir qué modelo conviene según costo y capacidad a la hora de programar o analizar información con IA.",
       "destacado": false
     },
-    "ee8f28d7bbe3": {
-      "resumen": "Nota de nostalgia técnica sobre FoxPro, el viejo sistema de gestión de bases de datos que Microsoft discontinuó en 2007, ahora revivido por un proyecto independiente. Tiene valor más histórico que práctico, pero ayuda a entender de dónde vienen muchas ideas de las bases de datos relacionales que hoy se usan en análisis de datos.",
-      "destacado": false
-    },
-    "f9da3b4b56b2": {
-      "resumen": "Proyecto de código abierto que permite escribir aplicaciones nativas de escritorio usando TypeScript y hojas de estilo CSS en lugar de los lenguajes propios de cada plataforma. Es más relevante para desarrollo de software que para análisis de datos, pero puede servirle a un médico que programa sus propias herramientas para armar interfaces simples sin aprender un lenguaje distinto por sistema operativo.",
-      "destacado": false
-    },
-    "721431c4f023": {
-      "resumen": "Obscura es una red privada virtual (VPN) diseñada con una arquitectura que impide técnicamente que la propia empresa registre la actividad de navegación del usuario. No es una herramienta de análisis de datos, pero es relevante para quien maneja datos sensibles, como historias clínicas, y quiere entender mejor las opciones de privacidad disponibles.",
-      "destacado": false
-    },
     "0ec1b9d73021": {
       "resumen": "Nueva versión (0.36) de 'llm', la herramienta de línea de comandos de Simon Willison para interactuar con distintos modelos de lenguaje desde la terminal. Le sirve a un médico que aprende análisis de datos porque es una forma simple y gratuita de probar y comparar modelos de inteligencia artificial sin escribir código complejo.",
       "destacado": false
     },
-    "9def33d611be": {
-      "resumen": "Los seleccionados argentinos de rugby seven masculino (Los Pumas 7s) y femenino (Las Yaguaretés) ganaron dos medallas de oro."
+    "7e3cf82e5917": {
+      "resumen": "Perspectiva de JACC (Journal of the American College of Cardiology, la revista del Colegio Americano de Cardiología) firmada por Krumholz HM et al. que reflexiona sobre el valor real del mentoring (acompañamiento y guía de referentes seniors) en la formación de cardiólogos jóvenes. Vale la pena mirarla porque pone en palabras algo que se vive todos los días en la residencia pero rara vez se mide: cuánto rinde, en términos de carrera y de calidad de atención, invertir tiempo en formar a los que vienen atrás.",
+      "destacado": false
+    },
+    "6204849f954f": {
+      "resumen": "Documento de posición o llamado a la acción de JACC (Journal of the American College of Cardiology), firmado por Fudim M et al., sobre el manejo del síndrome de taquicardia postural ortostática (POTS, postural orthostatic tachycardia syndrome), un trastorno del sistema nervioso autónomo que genera taquicardia y otros síntomas al pararse. Interesa porque plantea que la cardiología tiene que involucrarse más activamente en el diagnóstico y tratamiento de una entidad hoy dispersa entre varias especialidades.",
+      "destacado": false
+    },
+    "bd4f55b288cd": {
+      "resumen": "Comentario editorial de JACC (Journal of the American College of Cardiology), firmado por Peng AW et al., sobre el estudio VESALIUS-CV, que evaluó bajar más intensamente el colesterol LDL (lipoproteína de baja densidad) en etapas más tempranas del continuo de enfermedad aterosclerótica. Le interesa a cualquier cardiólogo clínico porque toca una pregunta central en prevención cardiovascular: cuánto antes y cuánto más agresivo conviene tratar el colesterol.",
+      "destacado": true,
+      "analisis": "Diseño: por el título y el formato editorial (\"Cross the Road Early\"), este artículo de JACC (Journal of the American College of Cardiology) parece ser un comentario o editorial que discute los resultados del estudio VESALIUS-CV; no queda claro desde el título si VESALIUS-CV es en sí un ensayo clínico aleatorizado, un análisis de subgrupos o un estudio observacional, ni el número de centros o pacientes involucrados.\nPoblación: pacientes ubicados en distintos puntos del continuo de la enfermedad aterosclerótica (desde prevención primaria hasta enfermedad establecida), presumiblemente con hipercolesterolemia o riesgo cardiovascular elevado; el título no detalla criterios de inclusión o exclusión.\nIntervención: tratamiento hipolipemiante más intensivo (reducción más agresiva del colesterol LDL) iniciado en etapas más tempranas del continuo aterosclerótico, frente a un abordaje más tardío o menos intensivo.\nResultados: el título plantea a favor de \"cruzar el camino antes\", es decir, tratar más temprano y con mayor intensidad, pero no hay razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: al ser aparentemente un comentario editorial sobre el estudio VESALIUS-CV y no el artículo original, no permite evaluar por sí mismo el diseño metodológico, el tamaño muestral ni la robustez estadística de los hallazgos que comenta.\nMensaje: refuerza la tendencia en prevención cardiovascular hacia el concepto de \"cuanto antes mejor\" para el control del colesterol LDL a lo largo de toda la vida, aunque llevarlo a la práctica -tratar más agresivo y más temprano- depende de definir bien en qué pacientes y con qué umbral de riesgo conviene hacerlo.\nNota: análisis sin acceso al abstract."
+    },
+    "165a1b2dcb60": {
+      "resumen": "Artículo de Towards Data Science que reproduce desde cero, en NumPy y con gradientes derivados a mano, el experimento de 'Toy Models of Superposition' de Anthropic, que estudia cómo una red neuronal pequeña comprime más información de la que tiene lugar para representar. Le sirve a un médico que aprende análisis de datos porque baja a tierra, con un ejemplo mínimo y reproducible, cómo funciona por dentro una red neuronal cuando tiene que representar más variables de las que sus parámetros permiten.",
+      "destacado": false
+    },
+    "2bbd4da8914b": {
+      "resumen": "Anuncio de Google sobre Gemini 3.8 text-to-speech, una nueva función de conversión de texto a voz dentro de su familia de modelos Gemini, discutido en Hacker News. Le sirve a un médico que aprende análisis de datos como referencia de hacia dónde avanzan las herramientas de inteligencia artificial generativa aplicadas a voz, algo relevante por ejemplo para dictado clínico o generación de resúmenes hablados.",
+      "destacado": false
+    },
+    "f8d9a221b9a4": {
+      "resumen": "Relato en Hacker News sobre la restauración artesanal del reloj de la estación de policía de Portobello, un caso de ingeniería mecánica y no de ciencia de datos. Su valor para un médico que aprende análisis de datos es más anecdótico que técnico: ilustra el mismo espíritu de resolución de problemas paso a paso que se aplica al debug de código o de modelos.",
+      "destacado": false
+    },
+    "18c511d8742e": {
+      "resumen": "Nota de Hacker News sobre GPT-6 Astra, una variante de modelo de lenguaje que habría sumado la capacidad de conducir un auto, evaluada en una plataforma de benchmark de manejo. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo se está extendiendo la inteligencia artificial generativa hacia tareas de percepción y control en el mundo físico, más allá del texto.",
+      "destacado": false
+    },
+    "b5a850df8aaa": {
+      "resumen": "El concejo municipal de Seattle votó prohibir el 'surveillance pricing' (fijación de precios basada en datos personales de vigilancia) en la venta de alimentos, según reporta Consumer Reports vía Hacker News. Le sirve a un médico que aprende análisis de datos porque muestra el debate regulatorio creciente sobre el uso de datos personales para discriminar precios, un tema cada vez más cercano a la ética del manejo de datos en cualquier ámbito, incluido el de salud.",
+      "destacado": false
+    },
+    "072c997b6042": {
+      "resumen": "Artículo de Towards Data Science que recorre, paso a paso, cómo un texto se transforma en vectores numéricos: desde TF-IDF (frecuencia de término - frecuencia inversa de documento) hasta el espacio vectorial y la clasificación de texto. Le sirve mucho a un médico que aprende análisis de datos porque explica de forma didáctica una de las bases del procesamiento de lenguaje natural, útil por ejemplo para analizar historias clínicas o textos médicos.",
+      "destacado": true
+    },
+    "9d0c01073e9a": {
+      "resumen": "Artículo de Towards Data Science sobre GRPO (Group Relative Policy Optimization), una técnica de aprendizaje por refuerzo con recompensas verificables usada para entrenar modelos de lenguaje pequeños, con ejemplos prácticos usando Unsloth. Le sirve a un médico que aprende análisis de datos para entender uno de los métodos actuales de ajuste fino de modelos de IA, cada vez más accesible incluso sin infraestructura de cómputo grande.",
+      "destacado": false
+    },
+    "1d06216580a7": {
+      "resumen": "El fiscal presentó su alegato final en el juicio por el crimen del ex jugador de Los Pumas Federico Martín Aramburu, con una contundente acusación contra los imputados."
+    },
+    "aa18e609d3e6": {
+      "resumen": "Francia perderá a un jugador de peso para el amistoso de noviembre ante Los Pumas, según ESPN Argentina."
     }
   }
 }

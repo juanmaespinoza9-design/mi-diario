@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T22:30:00Z",
+  "generated_at": "2026-09-23T10:07:59Z",
   "summaries": {
     "d3fd8b727d73": {
       "resumen": "Editorial o perspectiva de JACC (Journal of the American College of Cardiology, autores Madanchi M et al.) que discute estrategias para prevenir la obstrucción microvascular durante la angioplastia coronaria primaria (PCI, percutaneous coronary intervention) en el infarto agudo de miocardio. Interesa porque la obstrucción microvascular es una de las principales razones por las que, pese a abrir la arteria a tiempo, el daño al músculo cardíaco persiste.",
@@ -42,50 +42,6 @@
       "resumen": "Boletín mensual (dispatch) de TCTMD dirigido al equipo de cardiología (CV team) con las novedades más relevantes de septiembre 2026 para la práctica cardiovascular. Vale la pena mirarlo como resumen rápido de la actualidad del mes en cardiología intervencionista y clínica.",
       "destacado": false
     },
-    "6ce85e1dd0d2": {
-      "resumen": "Estudio hemodinámico prospectivo con prueba de esfuerzo, publicado en Circulation, que evalúa el efecto del sotatercept (fármaco que actúa sobre la vía de la activina, aprobado para la hipertensión arterial pulmonar) sobre la mecánica del corazón derecho. Vale la pena mirarlo porque el sotatercept es una de las terapias más nuevas y prometedoras en hipertensión arterial pulmonar (HAP), y este estudio explora cómo mejora la función del ventrículo derecho pese a reducir la contractilidad del miocardio.",
-      "destacado": true,
-      "analisis": "Diseño: estudio hemodinámico prospectivo con prueba de esfuerzo (exercise hemodynamic study), publicado en Circulation; el título no permite precisar si incluyó un grupo control, el número de pacientes ni si fue aleatorizado o de un solo brazo (probablemente un estudio de mecanismo/fisiopatología, no un ensayo de eficacia clínica de gran escala).\nPoblación: pacientes con hipertensión arterial pulmonar (HAP); el título no detalla criterios de inclusión o exclusión ni la clase funcional de los pacientes.\nIntervención: tratamiento con sotatercept (proteína de fusión que actúa sobre la vía de la activina/TGF-beta), evaluado mediante estudio hemodinámico invasivo durante el ejercicio; el título no especifica un comparador (podría tratarse de un diseño antes-después).\nResultados: el título reporta mejoría en la mecánica del ventrículo derecho pese a una reducción de la contractilidad miocárdica, pero no hay cifras de presión pulmonar, resistencia vascular ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar el tamaño muestral, el tiempo de seguimiento ni si el hallazgo de \"contractilidad reducida\" tiene relevancia clínica o es compensado por otros mecanismos.\nMensaje: aporta un mecanismo fisiopatológico plausible para el beneficio clínico del sotatercept en HAP, aunque el hallazgo de menor contractilidad miocárdica amerita seguimiento para confirmar que no tenga impacto negativo a largo plazo.\nNota: análisis sin acceso al abstract."
-    },
-    "36dc4f6aa782": {
-      "resumen": "Registro poscomercialización (post approval registry) publicado en Circulation que reporta la experiencia real a un año con el cardiodesfibrilador implantable extravascular (un dispositivo cuyo electrodo se coloca fuera de las venas y del corazón). Interesa porque aporta datos de \"vida real\" sobre seguridad y eficacia de una tecnología relativamente nueva que busca reducir las complicaciones vasculares de los desfibriladores tradicionales.",
-      "destacado": false,
-      "analisis": "Diseño: registro poscomercialización (post approval registry), multicéntrico según su nombre (\"Enlighten\"), con seguimiento a 1 año; el título no permite precisar el número exacto de centros ni de pacientes incluidos.\nPoblación: pacientes con indicación de cardiodesfibrilador implantable que recibieron un dispositivo extravascular (electrodo colocado fuera del sistema venoso y cardíaco); el título no detalla criterios de inclusión o exclusión.\nIntervención: implante del cardiodesfibrilador implantable extravascular en la práctica real (real-world), sin grupo comparador explícito en el título (podría compararse contra series históricas de desfibriladores transvenosos o subcutáneos).\nResultados: no hay cifras de eventos, complicaciones, tasa de choques apropiados/inapropiados ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar la tasa de complicaciones a un año, el diseño exacto del registro (prospectivo/retrospectivo) ni si hubo pérdida de seguimiento relevante.\nMensaje: aporta datos de seguridad y desempeño en la práctica real de una tecnología nueva que busca reducir las complicaciones asociadas al electrodo transvenoso tradicional.\nNota: análisis sin acceso al abstract."
-    },
-    "13b68b9daf8a": {
-      "resumen": "Estudio de cohorte nacional a gran escala, publicado en Circulation, que evalúa el valor pronóstico de la reserva de flujo fraccional derivada de la angiografía coronaria por tomografía computarizada (angio-TC coronaria), un método no invasivo para estimar la severidad funcional de una lesión coronaria. Vale la pena mirarlo porque podría reforzar el rol de esta técnica no invasiva para decidir qué lesiones coronarias ameritan una intervención.",
-      "destacado": false,
-      "analisis": "Diseño: estudio de cohorte observacional de gran escala (large nationwide cohort), publicado en Circulation; el título no permite precisar si fue prospectivo o retrospectivo, ni el número exacto de centros o pacientes incluidos.\nPoblación: pacientes sometidos a angiografía coronaria por tomografía computarizada (angio-TC coronaria) con reserva de flujo fraccional derivada por este método; el título no detalla los criterios de inclusión o exclusión.\nIntervención: no hay una intervención terapéutica; se trata de un estudio pronóstico que evalúa el valor predictivo de la reserva de flujo fraccional derivada por angio-TC sobre eventos clínicos, probablemente comparado contra la angiografía coronaria por TC sola (sin evaluación funcional).\nResultados: no hay cifras de razones de riesgo, áreas bajo la curva ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar el tiempo de seguimiento, la tasa de eventos duros (muerte, infarto) ni el ajuste por factores de confusión propio de un estudio de cohorte observacional.\nMensaje: de confirmarse su valor pronóstico, respalda incorporar esta herramienta no invasiva para estratificar el riesgo y guiar decisiones de revascularización coronaria.\nNota: análisis sin acceso al abstract."
-    },
-    "4ccd92fa9e5b": {
-      "resumen": "Estudio básico publicado en Circulation que identifica a la proteína LAPTM4A como potenciadora de la vía mTORC1 (complejo 1 del blanco de rapamicina en mamíferos, un regulador central del crecimiento celular) y favorece la hipertrofia cardíaca patológica, es decir el engrosamiento anormal del músculo cardíaco que puede derivar en insuficiencia cardíaca. Interesa porque abre una potencial diana terapéutica nueva para frenar el remodelado cardíaco antes de que progrese a insuficiencia cardíaca.",
-      "destacado": false,
-      "analisis": "Diseño: estudio básico/experimental (probablemente en modelos celulares y/o animales, a juzgar por el término \"novel booster\" y el mecanismo molecular descrito), publicado en Circulation; no es un ensayo clínico en humanos, por lo que no aplican centros ni pacientes.\nPoblación: modelos experimentales de hipertrofia cardíaca patológica; el título no detalla la especie ni el modelo exacto utilizado.\nIntervención: manipulación (sobreexpresión o inhibición) de la proteína LAPTM4A y su efecto sobre la vía mTORC1 en el desarrollo de hipertrofia cardíaca patológica; no hay comparador farmacológico clínico.\nResultados: el título indica que LAPTM4A \"potencia\" la hipertrofia cardíaca patológica actuando como activador de mTORC1, pero no hay cifras cuantitativas disponibles sin el abstract.\nLimitaciones: al ser investigación básica, sus hallazgos no son directamente extrapolables a pacientes; sin el abstract no se puede evaluar la robustez del modelo ni si se probaron estrategias de bloqueo con impacto funcional.\nMensaje: identifica un mecanismo molecular novedoso que podría convertirse, a futuro, en una diana terapéutica para frenar la hipertrofia cardíaca patológica, aunque la traducción a la práctica clínica todavía está lejos.\nNota: análisis sin acceso al abstract."
-    },
-    "64bb0df64d4d": {
-      "resumen": "Investigación de Bloomberg, replicada en Hacker News, sobre cómo la dependencia excesiva (overreliance) en sistemas de inteligencia artificial (IA) para el análisis de objetivos militares habría contribuido, según el Pentágono, a un ataque con misiles que impactó una escuela en Irán. Le sirve a quien aprende análisis de datos como caso testigo de los riesgos de delegar decisiones críticas en modelos de IA sin supervisión humana adecuada.",
-      "destacado": false
-    },
-    "df9ee5d27afc": {
-      "resumen": "Publicación breve de Simon Willison (referente en inteligencia artificial aplicada) que retoma una crítica sobre los \"AI-ismos\": las muletillas y patrones de escritura repetitivos y reconocibles que delatan un texto generado por IA usado sin edición. Le sirve a un médico que aprende análisis de datos para afinar el ojo crítico frente a textos generados por estas herramientas, algo útil también al redactar informes o artículos propios.",
-      "destacado": false
-    },
-    "dfc615803e71": {
-      "resumen": "Anuncio de OpenAI sobre GPT-6 Sol y Luna, la nueva generación de sus modelos de lenguaje de gran escala (LLM, large language model). Le sirve a quien aprende análisis de datos para estar al tanto de las capacidades de la última generación de modelos, que eventualmente podrá usar como herramienta de trabajo.",
-      "destacado": false
-    },
-    "b3a229745acf": {
-      "resumen": "Nota de 404 Media, replicada en Hacker News, sobre un grupo de hackers que asegura haber vulnerado sistemas del FBI (Buró Federal de Investigaciones de Estados Unidos) y obtenido datos de todos sus empleados. Le sirve a quien aprende análisis de datos como recordatorio de la importancia de la seguridad informática al manejar bases de datos sensibles, incluso en instituciones con altos estándares de protección.",
-      "destacado": false
-    },
-    "dc6c07b74f75": {
-      "resumen": "Anuncio del proyecto GrapheneOS (sistema operativo móvil enfocado en privacidad y seguridad, basado en Android) sobre la posibilidad de que en 2027 se vendan dispositivos con este sistema preinstalado de fábrica. Le sirve a quien aprende análisis de datos como referencia de alternativas de sistemas operativos móviles con foco en la privacidad de los datos personales.",
-      "destacado": false
-    },
-    "7528f5f11fc6": {
-      "resumen": "Simon Willison presenta llm-typesafe, un nuevo complemento (plugin) para su herramienta de línea de comandos \"llm\" que agrega soporte para el modelo Jev de TypeSafe AI. Le sirve a quien aprende análisis de datos como ejemplo práctico de cómo se integran nuevos modelos de inteligencia artificial a herramientas ya existentes mediante complementos.",
-      "destacado": false
-    },
     "a4212258486e": {
       "resumen": "Artículo de Towards Data Science que propone armar un conjunto de pruebas adversariales (adversarial test set) para encontrar, antes que los usuarios, las fallas de recuperación de información en un sistema de generación aumentada por recuperación (RAG, retrieval-augmented generation). Le sirve mucho a un médico que aprende análisis de datos porque enseña a testear de forma proactiva un tipo de sistema de IA cada vez más usado para consultar documentos y literatura.",
       "destacado": true
@@ -98,18 +54,52 @@
       "resumen": "Tutorial de Towards Data Science que enseña, paso a paso, a construir una aplicación de reconocimiento de hablante (speaker recognition, identificar quién habla en un audio) usando Claude Code como asistente de programación. Le sirve directamente a un médico que aprende análisis de datos porque muestra de forma concreta cómo usar un asistente de IA para programar una herramienta útil sin ser un desarrollador experto.",
       "destacado": false
     },
-    "b9be0febca6d": {
-      "resumen": "Publicación en el foro r/datascience de Reddit sobre FlexViz, una herramienta que permite explorar de forma interactiva mil millones de puntos de datos con tiempos de respuesta de apenas 0,25 segundos. Le sirve a quien aprende análisis de datos como referencia de herramientas de visualización pensadas para conjuntos de datos masivos, muy por encima de lo que manejan las planillas de cálculo habituales.",
-      "destacado": false
-    },
-    "0fb2e641b0f1": {
-      "resumen": "Pedro De Haro, medalla dorada en rugby seven en los Juegos Suramericanos, contó que piensa en ese momento desde que se enteró de que la competencia se disputaría en Rosario."
-    },
     "22db0da48cb0": {
-      "resumen": "Los Pumas 7's y Las Yaguaretés se consagraron campeones de rugby seven en los Juegos Suramericanos 2026."
+      "resumen": "Los Pumas 7s y Las Yaguaretés se consagraron campeones de rugby seven en los Juegos Suramericanos 2026."
     },
     "bbffb53c1e3d": {
-      "resumen": "Los Pumas 7's celebraron el oro de Las Yaguaretés en rugby seven en los Juegos Suramericanos y dijeron que festejan sus títulos como propios."
+      "resumen": "Los Pumas 7's celebraron públicamente el título dorado de Las Yaguaretés en los Juegos Suramericanos, destacando la hermandad entre ambos seleccionados."
+    },
+    "130e61105c2e": {
+      "resumen": "Artículo de JACC (Journal of the American College of Cardiology) sobre el control poblacional de la presión arterial, en un formato que sugiere un comentario editorial: plantea que bajar la hipertensión arterial a nivel de toda una comunidad requiere articular varios actores del sistema de salud, no solo al cardiólogo en el consultorio. Vale la pena mirarlo porque la hipertensión arterial sigue siendo el principal factor de riesgo cardiovascular modificable y su control poblacional es prioridad de salud pública.",
+      "destacado": false,
+      "analisis": "Diseño: por el título, probablemente un editorial o comentario que discute estrategias poblacionales de control de la presión arterial; no se puede precisar sin el abstract si describe un estudio original (por ejemplo, un programa comunitario o un registro) o si acompaña a otro artículo del mismo número de JACC.\nPoblación: no especificada en el título; presumiblemente hace referencia a poblaciones generales o comunidades con seguimiento de presión arterial en el sistema de salud.\nIntervención: no se puede determinar con certeza desde el título si evalúa una intervención específica (por ejemplo, programas de detección y tratamiento comunitario) o si es un análisis conceptual sobre el abordaje poblacional de la hipertensión.\nResultados: no disponibles sin el abstract.\nLimitaciones: la principal limitación de este análisis es la falta de acceso al texto completo, que impide confirmar el diseño real y los hallazgos concretos.\nMensaje: refuerza la idea de que el control de la presión arterial a gran escala exige un enfoque de sistema de salud (atención primaria, políticas públicas, tamizaje comunitario) más allá de la consulta individual con el cardiólogo.\nNota: análisis sin acceso al abstract."
+    },
+    "34bbbd7c0b74": {
+      "resumen": "Metaanálisis publicado en JACC (Journal of the American College of Cardiology) que actualiza la evidencia de ensayos clínicos aleatorizados sobre el uso de imagen intracoronaria (ecografía intravascular o tomografía de coherencia óptica) para guiar la angioplastia coronaria. Es un tema central en cardiología intervencionista porque varios estudios recientes sugieren que guiar el implante de stents con imagen mejora los resultados frente a la angiografía sola.",
+      "destacado": true,
+      "analisis": "Diseño: metaanálisis actualizado de ensayos clínicos aleatorizados (randomized controlled trials); el título no especifica el número exacto de estudios ni de pacientes incluidos, ni si el análisis se hizo con datos a nivel de estudio o de paciente individual.\nPoblación: pacientes sometidos a intervención coronaria percutánea (angioplastia con stent); el título no detalla el tipo de lesión (compleja, tronco, multivaso) ni los criterios de inclusión y exclusión de los ensayos originales.\nIntervención: implante de stent guiado por imagen intracoronaria (ecografía intravascular o tomografía de coherencia óptica) frente a guía angiográfica convencional.\nResultados: no hay razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract; el título solo indica que se trata de una actualización de la evidencia previa.\nLimitaciones: los metaanálisis de ensayos heterogéneos pueden mezclar distintas modalidades de imagen (ecografía intravascular vs. tomografía de coherencia óptica) y distintos criterios de optimización del stent, lo que puede diluir el efecto real; también dependen de la calidad y el seguimiento de los ensayos originales.\nMensaje: si confirma el beneficio de la guía por imagen, refuerza una tendencia ya presente en las guías europeas y americanas hacia adoptar la imagen intracoronaria como estándar en intervenciones complejas, aunque el acceso y el costo siguen siendo una barrera en la práctica real fuera de centros de alto volumen.\nNota: análisis sin acceso al abstract."
+    },
+    "75e3d066fe17": {
+      "resumen": "Simon Willison anuncia un encuentro presencial en San Francisco sobre 'ingeniería agéntica' (agentic engineering), la disciplina de diseñar sistemas de inteligencia artificial que ejecutan tareas de forma autónoma encadenando pasos y herramientas. Le sirve a un médico que se está formando en análisis de datos para tomar el pulso de hacia dónde va la comunidad de desarrolladores de IA, aunque el contenido concreto recién se conocerá en el evento.",
+      "destacado": false
+    },
+    "15a959b26c4a": {
+      "resumen": "Post del blog de Waymo (la empresa de autos autónomos de Google) sobre un programa de recompensas por usar transporte público, discutido en Hacker News. No es estrictamente ciencia de datos, pero ilustra cómo una empresa de inteligencia artificial aplicada a vehículos autónomos diversifica su producto hacia la movilidad urbana; sirve más como caso de negocio que como técnica de análisis.",
+      "destacado": false
+    },
+    "f526d7679022": {
+      "resumen": "Simon Willison repasa los lanzamientos de los nuevos modelos de lenguaje Claude Opus 5.5 (de Anthropic) y GPT-6 Sol y GPT-6 Luna (de OpenAI), en medio de una nueva guerra de precios entre proveedores de inteligencia artificial. Le sirve a un médico que aprende análisis de datos para elegir qué modelo conviene según costo y capacidad a la hora de programar o analizar información con IA.",
+      "destacado": false
+    },
+    "ee8f28d7bbe3": {
+      "resumen": "Nota de nostalgia técnica sobre FoxPro, el viejo sistema de gestión de bases de datos que Microsoft discontinuó en 2007, ahora revivido por un proyecto independiente. Tiene valor más histórico que práctico, pero ayuda a entender de dónde vienen muchas ideas de las bases de datos relacionales que hoy se usan en análisis de datos.",
+      "destacado": false
+    },
+    "f9da3b4b56b2": {
+      "resumen": "Proyecto de código abierto que permite escribir aplicaciones nativas de escritorio usando TypeScript y hojas de estilo CSS en lugar de los lenguajes propios de cada plataforma. Es más relevante para desarrollo de software que para análisis de datos, pero puede servirle a un médico que programa sus propias herramientas para armar interfaces simples sin aprender un lenguaje distinto por sistema operativo.",
+      "destacado": false
+    },
+    "721431c4f023": {
+      "resumen": "Obscura es una red privada virtual (VPN) diseñada con una arquitectura que impide técnicamente que la propia empresa registre la actividad de navegación del usuario. No es una herramienta de análisis de datos, pero es relevante para quien maneja datos sensibles, como historias clínicas, y quiere entender mejor las opciones de privacidad disponibles.",
+      "destacado": false
+    },
+    "0ec1b9d73021": {
+      "resumen": "Nueva versión (0.36) de 'llm', la herramienta de línea de comandos de Simon Willison para interactuar con distintos modelos de lenguaje desde la terminal. Le sirve a un médico que aprende análisis de datos porque es una forma simple y gratuita de probar y comparar modelos de inteligencia artificial sin escribir código complejo.",
+      "destacado": false
+    },
+    "9def33d611be": {
+      "resumen": "Los seleccionados argentinos de rugby seven masculino (Los Pumas 7s) y femenino (Las Yaguaretés) ganaron dos medallas de oro."
     }
   }
 }

@@ -1,14 +1,10 @@
 {
-  "generated_at": "2026-09-23T22:06:55Z",
+  "generated_at": "2026-09-24T10:09:04Z",
   "summaries": {
     "d3fd8b727d73": {
       "resumen": "Editorial o perspectiva de JACC (Journal of the American College of Cardiology, autores Madanchi M et al.) que discute estrategias para prevenir la obstrucción microvascular durante la angioplastia coronaria primaria (PCI, percutaneous coronary intervention) en el infarto agudo de miocardio. Interesa porque la obstrucción microvascular es una de las principales razones por las que, pese a abrir la arteria a tiempo, el daño al músculo cardíaco persiste.",
       "destacado": false,
       "analisis": "Diseño: por el formato del título (pregunta retórica, \"Back to a CLEAN Slate?\") y la publicación en JACC (Journal of the American College of Cardiology), parece tratarse de un editorial o perspectiva que comenta un estudio o estrategia llamada \"CLEAN\" sobre prevención de la obstrucción microvascular; el título no permite confirmar si describe un ensayo aleatorizado nuevo ni precisar número de centros o pacientes.\nPoblación: pacientes sometidos a intervención coronaria percutánea (PCI, percutaneous coronary intervention) primaria por infarto agudo de miocardio; el título no detalla criterios de inclusión o exclusión.\nIntervención: estrategias para prevenir la obstrucción microvascular durante la PCI primaria, aparentemente vinculadas a un abordaje o protocolo denominado \"CLEAN\"; no se especifica el comparador en el título.\nResultados: no hay cifras, razones de riesgo ni valor de p disponibles en el título.\nLimitaciones: sin el abstract no se puede confirmar si es un editorial, una revisión o el reporte original de un estudio, ni evaluar diseño, tamaño muestral o validez de los hallazgos.\nMensaje: aporta una mirada actualizada sobre cómo prevenir el daño microvascular pese a la reperfusión exitosa de la arteria en el infarto, un problema todavía no resuelto en la práctica.\nNota: análisis sin acceso al abstract."
-    },
-    "1c9841ae2878": {
-      "resumen": "Nota de TCTMD sobre un nuevo cruce entre la SCAI (Society for Cardiovascular Angiography and Interventions) y la ABIM (American Board of Internal Medicine, la junta que certifica a los especialistas en medicina interna en Estados Unidos) por las exigencias de volumen de procedimientos para mantener la certificación en cardiología intervencionista. Interesa porque toca un debate de fondo sobre cómo se mide la competencia de un operador: por cantidad de procedimientos o por resultados clínicos.",
-      "destacado": false
     },
     "9d7aeb5e643c": {
       "resumen": "El Seven Masculino Juvenil de rugby realiza una nueva concentración en Buenos Aires como parte de su preparación rumbo a los Juegos Olímpicos de la Juventud Dakar 2026."
@@ -35,18 +31,6 @@
       "resumen": "Boletín mensual (dispatch) de TCTMD dirigido al equipo de cardiología (CV team) con las novedades más relevantes de septiembre 2026 para la práctica cardiovascular. Vale la pena mirarlo como resumen rápido de la actualidad del mes en cardiología intervencionista y clínica.",
       "destacado": false
     },
-    "75e3d066fe17": {
-      "resumen": "Simon Willison anuncia un encuentro presencial en San Francisco sobre 'ingeniería agéntica' (agentic engineering), la disciplina de diseñar sistemas de inteligencia artificial que ejecutan tareas de forma autónoma encadenando pasos y herramientas. Le sirve a un médico que se está formando en análisis de datos para tomar el pulso de hacia dónde va la comunidad de desarrolladores de IA, aunque el contenido concreto recién se conocerá en el evento.",
-      "destacado": false
-    },
-    "f526d7679022": {
-      "resumen": "Simon Willison repasa los lanzamientos de los nuevos modelos de lenguaje Claude Opus 5.5 (de Anthropic) y GPT-6 Sol y GPT-6 Luna (de OpenAI), en medio de una nueva guerra de precios entre proveedores de inteligencia artificial. Le sirve a un médico que aprende análisis de datos para elegir qué modelo conviene según costo y capacidad a la hora de programar o analizar información con IA.",
-      "destacado": false
-    },
-    "0ec1b9d73021": {
-      "resumen": "Nueva versión (0.36) de 'llm', la herramienta de línea de comandos de Simon Willison para interactuar con distintos modelos de lenguaje desde la terminal. Le sirve a un médico que aprende análisis de datos porque es una forma simple y gratuita de probar y comparar modelos de inteligencia artificial sin escribir código complejo.",
-      "destacado": false
-    },
     "7e3cf82e5917": {
       "resumen": "Perspectiva de JACC (Journal of the American College of Cardiology, la revista del Colegio Americano de Cardiología) firmada por Krumholz HM et al. que reflexiona sobre el valor real del mentoring (acompañamiento y guía de referentes seniors) en la formación de cardiólogos jóvenes. Vale la pena mirarla porque pone en palabras algo que se vive todos los días en la residencia pero rara vez se mide: cuánto rinde, en términos de carrera y de calidad de atención, invertir tiempo en formar a los que vienen atrás.",
       "destacado": false
@@ -62,37 +46,65 @@
     },
     "165a1b2dcb60": {
       "resumen": "Artículo de Towards Data Science que reproduce desde cero, en NumPy y con gradientes derivados a mano, el experimento de 'Toy Models of Superposition' de Anthropic, que estudia cómo una red neuronal pequeña comprime más información de la que tiene lugar para representar. Le sirve a un médico que aprende análisis de datos porque baja a tierra, con un ejemplo mínimo y reproducible, cómo funciona por dentro una red neuronal cuando tiene que representar más variables de las que sus parámetros permiten.",
-      "destacado": false
-    },
-    "2bbd4da8914b": {
-      "resumen": "Anuncio de Google sobre Gemini 3.8 text-to-speech, una nueva función de conversión de texto a voz dentro de su familia de modelos Gemini, discutido en Hacker News. Le sirve a un médico que aprende análisis de datos como referencia de hacia dónde avanzan las herramientas de inteligencia artificial generativa aplicadas a voz, algo relevante por ejemplo para dictado clínico o generación de resúmenes hablados.",
-      "destacado": false
-    },
-    "f8d9a221b9a4": {
-      "resumen": "Relato en Hacker News sobre la restauración artesanal del reloj de la estación de policía de Portobello, un caso de ingeniería mecánica y no de ciencia de datos. Su valor para un médico que aprende análisis de datos es más anecdótico que técnico: ilustra el mismo espíritu de resolución de problemas paso a paso que se aplica al debug de código o de modelos.",
-      "destacado": false
-    },
-    "18c511d8742e": {
-      "resumen": "Nota de Hacker News sobre GPT-6 Astra, una variante de modelo de lenguaje que habría sumado la capacidad de conducir un auto, evaluada en una plataforma de benchmark de manejo. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo se está extendiendo la inteligencia artificial generativa hacia tareas de percepción y control en el mundo físico, más allá del texto.",
-      "destacado": false
-    },
-    "b5a850df8aaa": {
-      "resumen": "El concejo municipal de Seattle votó prohibir el 'surveillance pricing' (fijación de precios basada en datos personales de vigilancia) en la venta de alimentos, según reporta Consumer Reports vía Hacker News. Le sirve a un médico que aprende análisis de datos porque muestra el debate regulatorio creciente sobre el uso de datos personales para discriminar precios, un tema cada vez más cercano a la ética del manejo de datos en cualquier ámbito, incluido el de salud.",
-      "destacado": false
-    },
-    "072c997b6042": {
-      "resumen": "Artículo de Towards Data Science que recorre, paso a paso, cómo un texto se transforma en vectores numéricos: desde TF-IDF (frecuencia de término - frecuencia inversa de documento) hasta el espacio vectorial y la clasificación de texto. Le sirve mucho a un médico que aprende análisis de datos porque explica de forma didáctica una de las bases del procesamiento de lenguaje natural, útil por ejemplo para analizar historias clínicas o textos médicos.",
       "destacado": true
-    },
-    "9d0c01073e9a": {
-      "resumen": "Artículo de Towards Data Science sobre GRPO (Group Relative Policy Optimization), una técnica de aprendizaje por refuerzo con recompensas verificables usada para entrenar modelos de lenguaje pequeños, con ejemplos prácticos usando Unsloth. Le sirve a un médico que aprende análisis de datos para entender uno de los métodos actuales de ajuste fino de modelos de IA, cada vez más accesible incluso sin infraestructura de cómputo grande.",
-      "destacado": false
     },
     "1d06216580a7": {
       "resumen": "El fiscal presentó su alegato final en el juicio por el crimen del ex jugador de Los Pumas Federico Martín Aramburu, con una contundente acusación contra los imputados."
     },
     "aa18e609d3e6": {
       "resumen": "Francia perderá a un jugador de peso para el amistoso de noviembre ante Los Pumas, según ESPN Argentina."
+    },
+    "2ce5fe379cd5": {
+      "resumen": "Nota de TCTMD sobre un metaanálisis que encontró más eventos de accidente cerebrovascular (ACV), sobre todo de tipo isquémico, en pacientes tratados con cierre percutáneo de la orejuela auricular izquierda (LAAO, left atrial appendage occlusion) en comparación con el tratamiento médico (anticoagulación) para prevenir el ACV en fibrilación auricular. Interesa porque cuestiona, con evidencia acumulada, la seguridad de una técnica cada vez más usada como alternativa a la anticoagulación crónica.",
+      "destacado": false,
+      "analisis": "Diseño: por el título, se trata de un metaanálisis (agregación estadística de varios estudios) que compara el cierre percutáneo de la orejuela auricular izquierda (LAAO, left atrial appendage occlusion) con el tratamiento médico (anticoagulación) en pacientes con fibrilación auricular; la nota de TCTMD no permite precisar cuántos estudios ni cuántos pacientes se incluyeron, ni si se limitó a ensayos aleatorizados o también sumó registros observacionales.\nPoblación: pacientes con fibrilación auricular candidatos a prevención de accidente cerebrovascular (ACV) mediante LAAO o anticoagulación; el título no detalla criterios de inclusión o exclusión.\nIntervención: cierre percutáneo de la orejuela auricular izquierda (LAAO) frente a tratamiento médico (anticoagulación oral) para prevención de ACV.\nResultados: el título indica mayor número de ACV, en particular de tipo isquémico, con LAAO respecto al tratamiento médico, pero no hay razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar la heterogeneidad entre los estudios incluidos, el riesgo de sesgo de los datos observacionales que suelen mezclarse en este tipo de metaanálisis, ni si hubo ajuste por diferencias basales entre los grupos comparados.\nMensaje: si se confirma, este hallazgo obliga a repensar con cautela la indicación de LAAO en pacientes que podrían tolerar anticoagulación, en un momento en que la técnica se expande rápidamente en la práctica clínica.\nNota: análisis sin acceso al abstract."
+    },
+    "81e221a4b780": {
+      "resumen": "Réplica de los autores en la sección de correspondencia del New England Journal of Medicine (NEJM) en respuesta a una carta sobre un estudio que comparó el cierre de la orejuela auricular izquierda con la anticoagulación en fibrilación auricular. Vale la pena mirarla porque estas idas y vueltas entre lectores y autores suelen afinar detalles metodológicos o de interpretación que no quedan claros en el artículo original.",
+      "destacado": false
+    },
+    "aba2c13a7450": {
+      "resumen": "Carta de lectores publicada en el New England Journal of Medicine (NEJM) que comenta o cuestiona un estudio previo sobre cierre de la orejuela auricular izquierda versus anticoagulación en fibrilación auricular. Interesa porque este tipo de correspondencia suele señalar limitaciones metodológicas o interpretaciones alternativas que enriquecen la lectura crítica del estudio original.",
+      "destacado": false
+    },
+    "2886d8572f92": {
+      "resumen": "Investigación periodística que denuncia que funcionarios de Estados Unidos estarían etiquetando a críticos de la inteligencia artificial (IA) como \"agentes extranjeros\", discutida en Hacker News. Le sirve a un médico que aprende análisis de datos como contexto sobre las tensiones políticas y regulatorias que rodean el desarrollo de la IA, más allá de los aspectos puramente técnicos.",
+      "destacado": false
+    },
+    "6b5eff58280f": {
+      "resumen": "Página de producto de Meta que presenta sus nuevos anteojos de realidad virtual (VR, virtual reality), comentada en Hacker News. Aporta poco de forma directa a un médico que aprende análisis de datos, salvo como referencia del avance de dispositivos de hardware inmersivo que a futuro podrían generar nuevas fuentes de datos biométricos o de comportamiento.",
+      "destacado": false
+    },
+    "b8a00fb73adf": {
+      "resumen": "ArXiv, el repositorio de preprints científicos más usado en física, matemática, informática e inteligencia artificial (IA), consiguió compromisos de financiamiento plurianual para sostenerse como organización sin fines de lucro independiente. Le sirve a un médico que aprende análisis de datos porque ArXiv es una fuente clave y gratuita para seguir de cerca los avances metodológicos en IA y aprendizaje automático antes de su publicación formal.",
+      "destacado": false
+    },
+    "4de1641fc6e4": {
+      "resumen": "Qualcomm anuncia soporte de Linux para su nueva serie de procesadores Snapdragon X2, pensados para computadoras con funciones de inteligencia artificial (IA) agéntica integradas. Le sirve a un médico que aprende análisis de datos como referencia de hacia dónde avanza el hardware de las computadoras personales, cada vez más orientado a correr modelos de IA de forma local.",
+      "destacado": false
+    },
+    "25f5a1acf4b5": {
+      "resumen": "Hilo de la comunidad r/datascience donde se pide consejo para prepararse para entrevistas laborales centradas en estadística aplicada a ciencia de datos. Le sirve directamente a un médico en transición hacia el análisis de datos porque recopila, de primera mano, qué temas estadísticos se evalúan realmente en los procesos de selección del rubro.",
+      "destacado": false
+    },
+    "e9c1ddde4585": {
+      "resumen": "Simon Willison prueba el nuevo playground de texto a voz (TTS, text-to-speech) de Gemini 3.8 de Google, que lanzó dos modelos con una biblioteca de más de 2.000 voces y la posibilidad de crear voces personalizadas. Le sirve a un médico que aprende análisis de datos porque este tipo de herramientas de conversión de texto a voz tiene aplicación directa en dictado clínico y en la generación de resúmenes hablados a partir de datos o informes.",
+      "destacado": false
+    },
+    "ba339dfd75be": {
+      "resumen": "Simon Willison explica, con ejemplos interactivos generados con inteligencia artificial (IA), qué son los \"shadow roots\" en CSS, una técnica de encapsulamiento de estilos en páginas web. Aporta poco de forma directa al análisis de datos médico, pero sirve como ejemplo práctico de cómo usar IA generativa para crear material didáctico interactivo.",
+      "destacado": false
+    },
+    "9b45e7371e5c": {
+      "resumen": "Guía compartida en r/datascience sobre cómo identificar el \"teatro\" de inteligencia artificial (IA) y aprendizaje automático (ML, machine learning) en las organizaciones: proyectos impulsados más por presión ejecutiva y moda que por un problema real de datos. Le sirve mucho a un médico que aprende análisis de datos porque ayuda a distinguir, en su propia institución, un proyecto de IA con sustento real de uno cosmético.",
+      "destacado": false
+    },
+    "fb5352afc212": {
+      "resumen": "Artículo de KDnuggets que reúne, con fuentes verificables, todos los detalles técnicos del lanzamiento de Claude Opus 5.5 (de Anthropic): capacidades, documentación de la plataforma y ficha técnica del sistema. Le sirve a un médico que aprende análisis de datos para conocer de forma ordenada qué puede y qué no puede hacer uno de los modelos de lenguaje más recientes antes de usarlo en sus propios análisis.",
+      "destacado": false
+    },
+    "4a570c006cd8": {
+      "resumen": "Una denuncia señala un presunto pase millonario de 400 millones de pesos vinculado a Los Pumas, que pone bajo sospecha el manejo económico del rugby argentino."
     }
   }
 }

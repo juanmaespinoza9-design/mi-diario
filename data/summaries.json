@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T22:06:54Z",
+  "generated_at": "2026-09-25T10:08:34Z",
   "summaries": {
     "d3fd8b727d73": {
       "resumen": "Editorial o perspectiva de JACC (Journal of the American College of Cardiology, autores Madanchi M et al.) que discute estrategias para prevenir la obstrucción microvascular durante la angioplastia coronaria primaria (PCI, percutaneous coronary intervention) en el infarto agudo de miocardio. Interesa porque la obstrucción microvascular es una de las principales razones por las que, pese a abrir la arteria a tiempo, el daño al músculo cardíaco persiste.",
@@ -9,11 +9,6 @@
     "da93a6b1e3b6": {
       "resumen": "Revisión publicada en el European Heart Journal (Revista Europea del Corazón) sobre la relación entre la fibrilación auricular (FA), la arritmia sostenida más frecuente en la práctica clínica, y la muerte súbita cardíaca. Repasa los mecanismos fisiopatológicos que las vinculan, el manejo actual y los nuevos blancos terapéuticos en investigación. Vale la pena mirarla como puesta al día de un vínculo -FA y muerte súbita- todavía no saldado del todo en la literatura.",
       "destacado": false
-    },
-    "2b23cc2a3a26": {
-      "resumen": "Nota de TCTMD sobre la tendencia en Estados Unidos al aumento de trasplantes cardíacos con corazones donados tras muerte circulatoria (DCD, donation after circulatory death), una fuente de órganos antes poco usada en trasplante cardíaco. Reporta que, pese a ese crecimiento, los resultados clínicos se mantuvieron estables. Interesa porque el DCD podría ampliar el pool de donantes en un contexto de escasez crónica de órganos para trasplante.",
-      "destacado": false,
-      "analisis": "Diseño: por el título, se trata de un análisis de tendencias o registro sobre resultados de trasplante cardíaco con donación tras muerte circulatoria (DCD, donation after circulatory death) en Estados Unidos; la nota de TCTMD no permite precisar si es un registro nacional (como el de la UNOS/OPTN), el período analizado ni el número de centros o pacientes.\nPoblación: receptores de trasplante cardíaco en Estados Unidos que recibieron injertos de donantes DCD; el título no detalla criterios de inclusión o exclusión.\nIntervención: no hay una intervención comparativa aleatorizada; se trata de un análisis observacional de una práctica (el trasplante con corazones DCD) en expansión, probablemente comparada contra trasplantes con donación tras muerte encefálica (DBD, donation after brain death).\nResultados: el título indica que los resultados se mantuvieron \"estables\" (steady) pese al aumento del volumen de trasplantes DCD, pero no hay cifras de supervivencia, razones de riesgo ni valor de p disponibles en el título.\nLimitaciones: sin el abstract no se puede evaluar el diseño exacto, el seguimiento, ni si hubo ajuste por factores de confusión entre los receptores de injertos DCD y DBD.\nMensaje: si se confirma que los resultados no empeoran, respalda seguir ampliando el uso de corazones DCD como estrategia para aumentar la disponibilidad de órganos para trasplante cardíaco.\nNota: análisis sin acceso al abstract."
     },
     "52d7b6449bd7": {
       "resumen": "Nota de TCTMD sobre un estudio que comparó las recomendaciones de un sistema de inteligencia artificial (IA) con las decisiones del \"heart team\" (equipo multidisciplinario que define la estrategia de revascularización) para casos de enfermedad coronaria compleja, y encontró una concordancia \"moderada\" entre ambos. Interesa porque toca el rol creciente -y todavía limitado- de la IA como apoyo en decisiones complejas de revascularización coronaria.",
@@ -54,28 +49,12 @@
       "resumen": "Nueva versión alfa (1.0a41) de Datasette, la herramienta de código abierto de Simon Willison para explorar y publicar bases de datos SQLite (Structured Query Language, formato liviano de base de datos) en la web. Suma soporte para OpenTelemetry (estándar abierto para monitorear el funcionamiento de sistemas de software) y unifica sus ventanas modales en un solo componente. Le sirve a un médico que aprende análisis de datos porque Datasette permite compartir y consultar datasets propios de forma simple y gratuita, sin montar un servidor complejo.",
       "destacado": false
     },
-    "6ab9f2e6cc66": {
-      "resumen": "Estudio publicado en iScience (revista del grupo Cell) que muestra que la captación de creatina por parte de las células del sistema inmune potencia su capacidad antitumoral. Sin ser estrictamente de ciencia de datos, aporta como ejemplo del tipo de hallazgos básicos de inmunometabolismo que circulan y se discuten en foros como Hacker News, útil para mantenerse al tanto de tendencias de investigación biomédica por fuera de la cardiología.",
-      "destacado": false
-    },
     "9e7b2be1633d": {
       "resumen": "Hilo de la comunidad r/datascience donde profesionales que trabajan en el sector público en roles de ciencia de datos comparten su experiencia laboral. Le sirve a un médico en transición hacia el análisis de datos como testimonio de primera mano sobre cómo es trabajar con datos dentro de organismos estatales, una salida laboral posible por fuera del sector privado o académico.",
       "destacado": false
     },
-    "185ddb0abcfc": {
-      "resumen": "Presentación en Hacker News de Whiteboard, un entorno de desarrollo integrado (IDE, integrated development environment) de código abierto, parte de la camada Y Combinator invierno 2026, pensado para diseñar software de forma más reflexiva antes de escribir código. Le sirve a un médico que aprende análisis de datos como introducción a herramientas que promueven planificar la arquitectura de un proyecto de datos antes de programarlo, algo poco habitual en quienes recién empiezan a programar.",
-      "destacado": false
-    },
-    "6e8691490283": {
-      "resumen": "Artículo de divulgación que repasa por qué el hígado tiene una capacidad de regeneración inusualmente alta comparado con otros órganos. No es estrictamente de ciencia de datos, pero circula en Hacker News como lectura de divulgación científica de alto nivel, interesante para un cardiólogo por su cruce con la fisiología y la biología comparada.",
-      "destacado": false
-    },
     "cf49f19d79a9": {
       "resumen": "Artículo de Towards Data Science con consejos prácticos para aprovechar mejor las suscripciones a agentes de codificación con inteligencia artificial (IA), como Claude Code o GitHub Copilot. Le sirve a un médico que aprende análisis de datos porque estos agentes son cada vez más la forma de escribir y depurar código de análisis, y sacarles el jugo ahorra tiempo y dinero en el aprendizaje.",
-      "destacado": false
-    },
-    "50c0b912a0ed": {
-      "resumen": "Lanzamiento de F-Droid 2.0, la nueva versión de la tienda de aplicaciones de código abierto para Android. Aporta poco de forma directa al análisis de datos, pero le sirve a un médico que aprende ciencia de datos como referencia del ecosistema de software libre en el que también circulan herramientas de análisis y visualización de datos para dispositivos móviles.",
       "destacado": false
     },
     "25b2fb65a0eb": {
@@ -86,14 +65,34 @@
       "resumen": "Artículo de Towards Data Science que argumenta que la recuperación de información (RAG, retrieval-augmented generation) no alcanza para garantizar que una inteligencia artificial (IA) diga la verdad, y propone diseñar sistemas de IA que puedan demostrar sus propias afirmaciones con evidencia trazable. Le sirve mucho a un médico que aprende análisis de datos porque la confiabilidad de las respuestas de la IA es central para usarla en contextos clínicos o de investigación, donde una afirmación sin respaldo puede ser peligrosa.",
       "destacado": true
     },
-    "fa6be82fa712": {
-      "resumen": "Con figuras de Los Pumas 7's en su plantel, el equipo Sol Feroz se consagró campeón del torneo Ultimate Sevens disputado en Londres."
+    "030691058497": {
+      "resumen": "Segmento \"replay\" (resumen en formato audio o video) de TCTMD que retoma la pregunta de por qué -y para qué- incorporar la inteligencia artificial (IA) a la práctica cardiológica diaria. Vale la pena mirarlo más como termómetro del debate de la comunidad cardiológica sobre la IA que como una investigación original.",
+      "destacado": false
     },
-    "5f5d6260e0c2": {
-      "resumen": "Comienza una nueva edición del United Rugby Championship con jugadores de Los Pumas en cancha, el debut de un campeón del mundo con Pampas y el regreso esperado de una figura."
+    "6a77c3e51947": {
+      "resumen": "Presentación en Hacker News de Koi.rest, un sitio minimalista que muestra peces virtuales nadando como ejercicio breve de pausa y relajación visual. No aporta herramientas de análisis de datos, pero sirve como muestra del tipo de proyecto personal simple que circula en esa comunidad de tecnología.",
+      "destacado": false
     },
-    "5d9637eb62b3": {
-      "resumen": "Andrés Bordoy dejó de formar parte del cuerpo técnico de Los Pumas, en un cambio dentro del staff del seleccionado argentino de rugby."
+    "33c8282a4c07": {
+      "resumen": "Artículo de un blog de economía que analiza cómo California intenta retener o gravar una riqueza que, a diferencia de otros activos, puede directamente mudarse de estado: personas y empresas. Le sirve a un médico que aprende análisis de datos como ejemplo de razonamiento con datos económicos y migratorios aplicado a política tributaria.",
+      "destacado": false
+    },
+    "e3359762ea69": {
+      "resumen": "Nota de Hacker News sobre LaunchVideo.io, una herramienta que usa el modelo de inteligencia artificial (IA) Opus 5.5, de Anthropic, para generar videos explicativos de forma automática. Le sirve a un médico que aprende análisis de datos porque muestra un uso concreto de IA generativa más allá del texto, para comunicar resultados o conceptos técnicos en formato audiovisual.",
+      "destacado": false
+    },
+    "c5fac7cbc569": {
+      "resumen": "Reporte técnico de una vulnerabilidad de tipo XSS (cross-site scripting, inyección de código en páginas web) hallada en la herramienta ansi2html, que permitió tomar control de cuentas de SourceHut a través de los registros (logs) de compilación. Le sirve a un médico que aprende análisis de datos como recordatorio de que cualquier herramienta que muestre texto sin depurar -incluidos notebooks o tableros propios- puede ser una puerta de entrada para un ataque.",
+      "destacado": false
+    },
+    "1464080a348f": {
+      "resumen": "Felipe Contepomi decidió separar a Andrés Bordoy del cuerpo técnico de Los Pumas."
+    },
+    "b99affc28cab": {
+      "resumen": "Crece la causa judicial por los fondos públicos que se destinaron a organizar el partido de Los Pumas en Mendoza."
+    },
+    "3818500aea29": {
+      "resumen": "A un año del Mundial, Los Pumas confirmaron una salida inesperada en su cuerpo técnico por decisión de Felipe Contepomi."
     }
   }
 }

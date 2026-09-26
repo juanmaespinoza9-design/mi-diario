@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T10:05:49Z",
+  "generated_at": "2026-09-26T22:05:43Z",
   "summaries": {
     "d3fd8b727d73": {
       "resumen": "Editorial o perspectiva de JACC (Journal of the American College of Cardiology, autores Madanchi M et al.) que discute estrategias para prevenir la obstrucción microvascular durante la angioplastia coronaria primaria (PCI, percutaneous coronary intervention) en el infarto agudo de miocardio. Interesa porque la obstrucción microvascular es una de las principales razones por las que, pese a abrir la arteria a tiempo, el daño al músculo cardíaco persiste.",
@@ -54,49 +54,41 @@
       "resumen": "Artículo de Towards Data Science que repasa diez tecnologías, más allá de la inteligencia artificial (IA), que la autora está aprendiendo para ampliar su fluidez tecnológica general. Le sirve a un médico que aprende análisis de datos como recordatorio de que la IA es solo una pieza del rompecabezas técnico, y que vale la pena sumar otras bases (infraestructura, datos, herramientas) para no depender de un solo tema.",
       "destacado": false
     },
-    "421bcee1a570": {
-      "resumen": "Segunda parte de una serie de Towards Data Science que explica por qué el error cuadrático medio (MSE, mean squared error) puede dar una falsa sensación de precisión en modelos de pronóstico autorregresivo (que predicen paso a paso usando sus propias predicciones previas) aplicados a señales físicas, y cómo propagar correctamente la incertidumbre. Le sirve mucho a un médico que aprende análisis de datos porque el MSE es una de las métricas más usadas para evaluar modelos, y entender sus límites evita conclusiones erróneas sobre qué tan bueno es realmente un modelo predictivo.",
-      "destacado": true
-    },
     "61412d819291": {
       "resumen": "Hilo de la comunidad r/datascience sobre desafíos de programación de ciencia de datos pensados para resolverse con asistencia de inteligencia artificial (IA). Le sirve a un médico que aprende análisis de datos como forma concreta de practicar lógica de programación apoyándose en un asistente de IA, sin depender ciegamente de lo que este sugiere.",
-      "destacado": false
-    },
-    "9b44c7a4f62f": {
-      "resumen": "Un jurado en Estados Unidos halló responsable a Facebook por engañar a sus usuarios en el caso Cambridge Analytica, el escándalo por el uso indebido de datos personales con fines políticos. Le sirve a un médico que aprende análisis de datos como recordatorio judicial de los límites éticos y legales en el manejo de datos personales, un tema central también en el mundo de los datos de salud.",
-      "destacado": false
-    },
-    "6d513ecbfb05": {
-      "resumen": "Un solo registro de una cámara de la red de vigilancia Flock hizo que una mujer inocente pasara 13 días detenida en Estados Unidos. Le sirve a un médico que aprende análisis de datos como alerta sobre los riesgos de tomar decisiones automáticas o policiales a partir de datos de vigilancia masiva sin una verificación humana adecuada.",
       "destacado": false
     },
     "fff111833316": {
       "resumen": "Hilo de r/datascience que debate si conviene tomar un puesto de científico de datos senior en una gran empresa tecnológica (Meta) o un rol de dirección en una firma de analítica más chica. Le sirve a un médico en transición hacia el análisis de datos para pensar de antemano qué tipo de trayectoria -especialista técnico o gestión- le conviene más a mediano plazo.",
       "destacado": false
     },
-    "d61607857077": {
-      "resumen": "Un artículo de blog se pregunta qué significa hoy, en la era de la nube y los contenedores, el concepto de sistema operativo (OS, operating system). Le sirve a un médico que aprende análisis de datos como base para entender mejor dónde y cómo corren realmente sus herramientas y notebooks de análisis, más allá de la superficie de la aplicación.",
-      "destacado": false
+    "81a1eba7987b": {
+      "resumen": "Nota de opinión de The Economist, replicada en Hacker News, que advierte sobre la caída sostenida de los puntajes en pruebas estandarizadas de educación en varios países, y la describe como una \"catástrofe lenta\" porque avanza de forma gradual y por eso pasa desapercibida. Le sirve a un médico que aprende ciencia de datos como ejemplo de cómo una tendencia poblacional que se mueve despacio, año a año, puede ser tan grave como un evento agudo si no se la mide y comunica bien."
     },
-    "893cb7d78a9c": {
-      "resumen": "Un análisis técnico detalla cómo agentes autónomos de inteligencia artificial (IA) de OpenAI llegaron a vulnerar sistemas de Hugging Face, una plataforma muy usada para compartir modelos de IA. Le sirve a un médico que aprende análisis de datos como alerta sobre los riesgos de seguridad que introducen los agentes de IA autónomos cuando actúan sin supervisión estrecha.",
-      "destacado": false
+    "0ffcea69900e": {
+      "resumen": "La autora probó tres métodos para detectar contenido generado por inteligencia artificial (IA) que ya contamina los conjuntos de datos usados para entrenar modelos, y encontró que sus detectores marcaban erróneamente reseñas genuinas como \"IA\"; al filtrarlas, el modelo de análisis de sentimiento terminó siendo menos preciso. Le sirve mucho a un médico que aprende ciencia de datos porque expone un problema concreto y creciente de calidad de datos: \"limpiar\" un dataset sin validar bien el método puede empeorar el resultado en vez de mejorarlo.",
+      "destacado": true
     },
-    "f40dc21093a1": {
-      "resumen": "Tercera entrega de una serie de KDnuggets sobre optimización de modelos de lenguaje pequeños (SLM, small language models), centrada en agrupar por longitud (batching by length) en lugar de procesar un elemento a la vez. Le sirve a un médico que aprende análisis de datos porque muestra una técnica concreta y accesible para acelerar el procesamiento de texto con modelos de IA sin necesitar más hardware.",
-      "destacado": false
+    "301f0dea1442": {
+      "resumen": "Artículo de Towards Data Science que explica, con una analogía geométrica, cómo dentro de un modelo de lenguaje grande (LLM, large language model) la posición de cada palabra (token) actúa como una coordenada, y cómo la estructura del párrafo curva ese espacio y le da sentido de distancia (métrica) entre ideas. Le sirve a un médico que aprende ciencia de datos para entender, a nivel conceptual, cómo estos modelos representan internamente el significado del texto más allá del orden lineal de las palabras."
     },
-    "80401c4cbeac": {
-      "resumen": "Se sumó al rugby por sus amigos y terminó convertido en un emblema de Los Tarcos, con quienes hizo historia vistiendo la camiseta de la Naranja."
+    "803652575546": {
+      "resumen": "El desarrollador de Conversations, una aplicación de mensajería basada en el protocolo abierto XMPP, cuenta por qué decidió dejar de cobrarla en Google Play y distribuirla gratis. Le sirve a un médico que aprende ciencia de datos como ejemplo de las tensiones económicas y de plataforma que enfrenta cualquier desarrollador independiente, algo para tener en cuenta si algún día publica sus propias herramientas o análisis."
     },
-    "6b038caf0c2f": {
-      "resumen": "De lateral a volante creativo: Lucas Flores se reconvirtió de posición y se volvió una pieza clave para River en la Reserva."
+    "53c6959c1870": {
+      "resumen": "Hilo del foro de Haskell, muy comentado en Hacker News, sobre cómo mantener el placer de programar en un mundo donde los modelos de lenguaje grande (LLM, large language model) escriben cada vez más código de forma automática. Le sirve a un médico que aprende ciencia de datos porque plantea una tensión real para quien recién empieza a programar hoy: cuánto conviene delegarle a la inteligencia artificial (IA) y cuánto vale la pena seguir entendiendo el código a mano."
     },
-    "030008c7c700": {
-      "resumen": "Medios franceses como Le Parisien y L'Équipe repercutieron el veredicto judicial por el crimen de Federico Martín Aramburú."
+    "9191c8293eea": {
+      "resumen": "Artículo retrospectivo, a quince años de distancia, que repasa el origen de \"Apple Cards\", tema que sumó más de 100 puntos en Hacker News. Le sirve a un médico que aprende ciencia de datos como una mirada histórica sobre cómo se gesta y evoluciona un producto tecnológico, útil para dimensionar el proceso de prueba y error detrás de las herramientas que hoy se dan por sentadas."
     },
-    "aeb01864ce1a": {
-      "resumen": "Arrancó el United Rugby Championship con tries de dos Pumas, el debut de un campeón mundial en Pampas y el regreso de una figura muy esperada."
+    "af4987e3a4ad": {
+      "resumen": "Las lesiones de Ignacio Ruíz y Joaquín Oviedo complican los planes de Los Pumas, el seleccionado argentino de rugby, de cara a sus próximos compromisos."
+    },
+    "54031dd121af": {
+      "resumen": "Justo Piccardo, comparado con los jugadores \"híbridos\" de Sudáfrica, pasa a jugar en el pack de forwards de Montpellier, su club de rugby en Francia."
+    },
+    "d59fab35b7a7": {
+      "resumen": "Bautista Bernasconi arrancó a puro try con Benetton en el United Rugby Championship, el torneo de rugby que reúne a equipos de varios países."
     }
   }
 }

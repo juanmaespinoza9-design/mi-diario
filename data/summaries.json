@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T22:07:59Z",
+  "generated_at": "2026-09-28T10:06:43Z",
   "summaries": {
     "da93a6b1e3b6": {
       "resumen": "Revisión publicada en el European Heart Journal (Revista Europea del Corazón) sobre la relación entre la fibrilación auricular (FA), la arritmia sostenida más frecuente en la práctica clínica, y la muerte súbita cardíaca. Repasa los mecanismos fisiopatológicos que las vinculan, el manejo actual y los nuevos blancos terapéuticos en investigación. Vale la pena mirarla como puesta al día de un vínculo -FA y muerte súbita- todavía no saldado del todo en la literatura.",
@@ -46,53 +46,54 @@
       "destacado": false,
       "analisis": "Diseño: por el título (\"Back to a CLEAN Slate?\"), se trata de un comentario editorial de JACC que discute una estrategia o ensayo para prevenir la obstrucción microvascular durante la angioplastia primaria; no queda claro desde el título si es aleatorizado, el cegamiento, ni el número de centros o pacientes.\nPoblación: pacientes con infarto agudo de miocardio sometidos a angioplastia primaria (primary PCI, percutaneous coronary intervention); el título no detalla criterios de inclusión o exclusión.\nIntervención: una estrategia para prevenir la obstrucción microvascular durante la angioplastia primaria (por ejemplo, infusión intracoronaria de algún agente protector), frente a la atención convencional; el título no especifica el tipo de intervención.\nResultados: el título no aporta cifras de eficacia; no hay razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar el tamaño muestral, el criterio de valoración principal (por ejemplo, resonancia magnética cardíaca o electrocardiograma) ni el seguimiento clínico.\nMensaje: si la estrategia demuestra beneficio, podría sumar una herramienta más para reducir el daño microvascular durante el infarto, un factor clave en el pronóstico a largo plazo tras la angioplastia primaria.\nNota: análisis sin acceso al abstract."
     },
-    "4aa8cdc749d3": {
-      "resumen": "Artículo de opinión, replicado en Hacker News, que argumenta que no existen agentes de inteligencia artificial (IA) verdaderamente \"rebeldes\": cuando un sistema de IA actúa mal, la causa suele estar en cómo fue diseñado, entrenado o supervisado por personas, y no en una voluntad propia de la máquina. Le sirve a un médico que aprende análisis de datos para pensar con sentido crítico la responsabilidad humana detrás de cualquier falla de un sistema automatizado, en vez de atribuirla a la tecnología en sí misma.",
-      "destacado": false
-    },
     "d2d2c78c0754": {
       "resumen": "Hilo de r/datascience sobre una nueva funcionalidad de DuckDB, un motor de bases de datos liviano muy usado en análisis de datos, que permite consultar directamente conjuntos de datos alojados en Hugging Face (una plataforma popular para compartir datasets y modelos de inteligencia artificial) sin necesidad de descargarlos primero. Le sirve a un médico que aprende ciencia de datos porque simplifica el acceso y la exploración de datasets públicos para practicar análisis, ahorrando pasos de descarga y almacenamiento.",
-      "destacado": false
-    },
-    "f94c0a1e56c7": {
-      "resumen": "Ensayo, replicado en Hacker News, que reflexiona sobre cómo la sociedad se está acostumbrando a aceptar fallas de sistemas complejos (incluidos los basados en inteligencia artificial) sin exigir una explicación clara de por qué ocurrieron. Le sirve a un médico que aprende análisis de datos como invitación a no conformarse con resultados de un modelo que \"funcionan\" sin entender por qué, algo especialmente riesgoso cuando esos modelos se aplican a decisiones clínicas.",
       "destacado": false
     },
     "a59b19b6530a": {
       "resumen": "Artículo de Towards Data Science que presenta GraphRAG (una variante de RAG, retrieval-augmented generation o generación aumentada por recuperación, que usa grafos de conocimiento) combinado con un enfoque de decisiones calibradas y rápidas, para separar las decisiones repetitivas sobre el grafo del razonamiento más complejo de un modelo de lenguaje grande. Le sirve a un médico que aprende ciencia de datos para entender cómo escalar sistemas de recuperación de información sobre grandes bases de conocimiento sin saturar al modelo de IA con cada decisión menor.",
       "destacado": false
     },
-    "b9995e163582": {
-      "resumen": "Nota, replicada en Hacker News, sobre un caso en el que NeoVim (una variante del editor de texto Vim) terminó borrando archivos de deshacer (undo) de los usuarios, y lo que eso revela sobre la falta de cuidado de algunos proyectos de software con los datos de quienes los usan. Le sirve a un médico que aprende análisis de datos como recordatorio de la importancia de los respaldos (backups) y del manejo cuidadoso de los datos propios y de los pacientes al trabajar con cualquier herramienta de software.",
-      "destacado": false
-    },
-    "bc5da742d312": {
-      "resumen": "Nota del New York Times, replicada en Hacker News, sobre un hallazgo científico logrado en la habitación de un motel de bajo costo que aporta pistas sobre el origen de la vida. Aunque no es estrictamente de ciencia de datos, le sirve a un médico en formación en análisis de datos como recordatorio de que los grandes hallazgos científicos muchas veces surgen de recursos modestos y de la curiosidad, y no solo de infraestructura costosa.",
-      "destacado": false
-    },
-    "d182100db696": {
-      "resumen": "Artículo de Towards Data Science que plantea que cada límite o capa que se agrega a la arquitectura de un sistema de software elimina señales de las que dependen las herramientas automatizadas, incluidos los agentes de inteligencia artificial, por lo que los problemas de estos agentes suelen ser de diseño estructural y no de búsqueda o de modelo. Le sirve a un médico que aprende ciencia de datos para entender que la calidad de un sistema de IA depende tanto del diseño de la arquitectura de datos como del modelo que se use.",
-      "destacado": false
-    },
-    "ffc80d14a58c": {
-      "resumen": "Simon Willison relata que, en el cierre de su charla en el WeAreDevelopers World Congress North America, armó como demostración una herramienta a la que llamó \"Kākāpō Party\", inspirada en la temporada récord de cría de kākāpō (un ave no voladora de Nueva Zelanda) de 2026. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo se puede construir rápidamente una demo de una herramienta de inteligencia artificial (IA) a partir de un dato o tema curioso, para ilustrar conceptos técnicos de forma memorable."
-    },
-    "0ffcea69900e": {
-      "resumen": "La autora probó tres métodos para detectar contenido generado por inteligencia artificial (IA) que ya contamina los conjuntos de datos usados para entrenar modelos, y encontró que sus detectores marcaban erróneamente reseñas genuinas como \"IA\"; al filtrarlas, el modelo de análisis de sentimiento terminó siendo menos preciso. Le sirve mucho a un médico que aprende ciencia de datos porque expone un problema concreto y creciente de calidad de datos: \"limpiar\" un dataset sin validar bien el método puede empeorar el resultado en vez de mejorarlo.",
-      "destacado": true
-    },
-    "61412d819291": {
-      "resumen": "Hilo de la comunidad r/datascience sobre desafíos de programación de ciencia de datos pensados para resolverse con asistencia de inteligencia artificial (IA). Le sirve a un médico que aprende análisis de datos como forma concreta de practicar lógica de programación apoyándose en un asistente de IA, sin depender ciegamente de lo que este sugiere.",
-      "destacado": false
-    },
-    "d59fab35b7a7": {
-      "resumen": "Bernasconi arrancó con gol de try su temporada en Benetton, en el debut del equipo italiano en el United Rugby Championship, el torneo que reúne a franquicias de varios países."
-    },
     "af4987e3a4ad": {
       "resumen": "Las lesiones de Ignacio Ruíz y Joaquín Oviedo complican los planes de Los Pumas, el seleccionado argentino de rugby, de cara a sus próximos compromisos."
     },
-    "8743e544423b": {
-      "resumen": "A la manera de Sudáfrica, Los Pumas también cuentan con su propio jugador \"híbrido\": Justo Piccardo, que pasa a integrar el pack de forwards de Montpellier, su club de rugby en Francia."
+    "d9b996a0a2aa": {
+      "resumen": "El Centro Nacional de Rugby quedaría inaugurado antes de que termine el año, respetando el cronograma de obra previsto."
+    },
+    "3b62b8c29967": {
+      "resumen": "A la manera de Sudáfrica, Los Pumas también tienen su jugador \"híbrido\": Justo Piccardo pasa a sumarse al pack de forwards en Montpellier, su club en Francia."
+    },
+    "00e0e3a4ad2d": {
+      "resumen": "Simon Willison comparte un relato real sobre \"Muse\", un agente de inteligencia artificial (IA) que gestionaba la coordinación de una entrega y respondió automáticamente \"Sí, estoy acá\" cuando en realidad no había nadie, dejando al repartidor esperando y furioso. Sirve como caso de estudio sobre los riesgos de delegar tareas del mundo real a agentes autónomos sin supervisión: la IA puede sonar segura y estar completamente equivocada, algo para tener presente si algún día se piensa en usar agentes en tareas clínicas o administrativas.",
+      "destacado": false
+    },
+    "f4c03c048044": {
+      "resumen": "Hilo semanal fijo de la comunidad r/datascience para quienes están entrando o haciendo la transición hacia la ciencia de datos, donde se comparten dudas sobre formación, portfolios y primeros pasos laborales. Le sirve a un médico que está migrando hacia el análisis de datos como termómetro de las preguntas típicas de quien recién arranca y como espacio para resolver dudas puntuales.",
+      "destacado": false
+    },
+    "0dc955c86c2b": {
+      "resumen": "Publicación difundida en Hacker News (con más de 100 puntos) que narra, en primera persona, una historia ligada a acciones de Nvidia por un valor de mil millones de dólares. Aunque no es un tema técnico de ciencia de datos, refleja el boom bursátil asociado a la inteligencia artificial (IA) y a sus fabricantes de hardware, un contexto útil para entender por qué hoy se invierte tanto en esa industria.",
+      "destacado": false
+    },
+    "558841854585": {
+      "resumen": "Simon Willison repasa, en un video de su charla de cierre en el WeAreDevelopers World Congress North America, los principales hitos del año en los modelos de lenguaje grande (LLM, large language model), armando una cronología de lo más relevante ocurrido en 2026. Le sirve a un médico que aprende ciencia de datos como resumen ordenado del estado del arte en inteligencia artificial (IA) generativa, sin tener que rastrear cada novedad por separado.",
+      "destacado": true
+    },
+    "4cfa73e20de3": {
+      "resumen": "Comentario de Simon Willison sobre un debate de Hacker News acerca de Amazon S3 (Simple Storage Service, el servicio de almacenamiento en la nube de Amazon), donde señala que, a diferencia de otros años, el precio por gigabyte no bajó en una década completa. Le sirve a un médico que aprende ciencia de datos para entender cómo se comportan los costos de infraestructura de almacenamiento en la nube, algo relevante a la hora de planificar proyectos que manejan grandes volúmenes de datos.",
+      "destacado": false
+    },
+    "c90beaa345be": {
+      "resumen": "Publicación popular en Hacker News que se pregunta, con tono crítico, en qué momento Google se volvió una experiencia \"rara\" de usar, en referencia a los cambios recientes en su buscador y sus productos. Le sirve a un médico que aprende ciencia de datos como disparador para pensar de forma crítica cómo la incorporación de inteligencia artificial (IA) a los buscadores está cambiando la manera de encontrar información confiable.",
+      "destacado": false
+    },
+    "97f7725daf42": {
+      "resumen": "Artículo difundido en Hacker News sobre cómo alojar un sitio propio (self-hosting) dentro de la red Tor, conocida como \"dark web\", en lugar de depender de proveedores de hosting comerciales. Le sirve a un médico que aprende ciencia de datos como introducción a conceptos de infraestructura, privacidad y control sobre los propios datos y servicios, útiles a la hora de decidir dónde y cómo alojar proyectos personales.",
+      "destacado": false
+    },
+    "e7cec350da66": {
+      "resumen": "Proyecto presentado en la sección \"Show HN\" de Hacker News: un sitio que genera, directamente en el navegador, escenas nocturnas de ciudades en pixel art acompañadas de música lofi generada algorítmicamente. Le sirve a un médico que aprende ciencia de datos como ejemplo accesible de generación creativa con algoritmos, corriendo enteramente del lado del cliente sin necesidad de servidores potentes.",
+      "destacado": false
     }
   }
 }

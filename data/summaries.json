@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-09-29T10:07:55Z",
+  "generated_at": "2026-09-29T22:08:27Z",
   "summaries": {
-    "f167bcc8587c": {
-      "resumen": "Revisión histórica publicada en Circulation que recorre la evolución del abordaje de la pericarditis (inflamación del pericardio, la membrana que envuelve al corazón), desde las primeras descripciones clínicas hasta los tratamientos biológicos actuales. Vale la pena mirarla como marco conceptual para entender por qué el manejo de la pericarditis recurrente cambió tanto en la última década.",
-      "destacado": false
-    },
-    "0b8eaa7bf5fe": {
-      "resumen": "Revisión de Circulation sobre los hallazgos por imágenes (ecocardiograma, resonancia magnética cardíaca, centellograma con pirofosfato) característicos de la amiloidosis cardíaca por transtiretina hereditaria (ATTR-h, enfermedad por depósito de una proteína mal plegada en el corazón). Interesa porque el diagnóstico por imágenes es clave para detectar tempranamente esta entidad, hoy con tratamiento específico disponible.",
-      "destacado": false
-    },
-    "8f1a7b10dad1": {
-      "resumen": "Nueva guía conjunta de las principales sociedades cardiológicas americanas (AHA/ACC y otras) sobre el manejo cardiovascular perioperatorio en cirugía no cardíaca, es decir, cómo evaluar y cuidar el corazón de un paciente que va a una cirugía de otro tipo. Vale la pena tenerla a mano como referencia actualizada para la evaluación de riesgo cardiovascular prequirúrgico, una tarea habitual en la práctica clínica diaria.",
-      "destacado": false
-    },
-    "dbebca39f041": {
-      "resumen": "Editorial de Circulation que analiza los avances logrados y los desafíos pendientes en materia de seguridad de la ablación por campo pulsado (PFA, pulsed field ablation), una técnica relativamente nueva para tratar la fibrilación auricular mediante energía eléctrica en lugar de frío o calor. Interesa porque pone en perspectiva crítica una tecnología que se está adoptando muy rápido en la práctica diaria.",
-      "destacado": false
-    },
     "fd80fe9cadc2": {
       "resumen": "Segmento \"Quick Takes\" de TCTMD sobre cómo está cambiando la carga de las amputaciones mayores de miembros inferiores, una complicación grave de la enfermedad arterial periférica. Vale la pena mirarlo porque la enfermedad vascular periférica es un terreno cada vez más compartido entre cardiología, cirugía vascular y diabetología.",
       "destacado": false,
@@ -53,51 +37,57 @@
       "destacado": false,
       "analisis": "Diseño: por el título, se trata de un seguimiento a muy largo plazo (15 años) de una cohorte o extensión de un ensayo/registro de cierre percutáneo de foramen oval permeable (PFO, patent foramen ovale); TCTMD no permite precisar si corresponde a la extensión de un ensayo aleatorizado puntual (como RESPECT, REDUCE o Gore CARDIOFORM), ni el número de centros o de pacientes incluidos.\nPoblación: pacientes con antecedente de accidente cerebrovascular (ACV) criptogénico (sin causa identificada) y PFO documentado, sometidos años atrás a cierre percutáneo del defecto; el título no detalla criterios de inclusión o exclusión.\nIntervención: cierre percutáneo de PFO con dispositivo oclusor, evaluado en el muy largo plazo; el título no menciona un grupo comparador explícito (tratamiento médico solo) para este seguimiento extendido.\nResultados: el título señala tasas \"bajas\" de ACV recurrente a 15 años, pero no hay cifras, razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar la tasa de seguimiento efectivo a tan largo plazo (pérdida de pacientes), si existió un grupo control contemporáneo, ni si los datos provienen de un ensayo aleatorizado o de un registro observacional.\nMensaje: si se confirma, refuerza la durabilidad a largo plazo del beneficio del cierre de PFO para prevenir la recurrencia de ACV criptogénico, un dato relevante para decisiones que hoy se toman en pacientes jóvenes con expectativa de vida larga.\nNota: análisis sin acceso al abstract."
     },
-    "fac69221532b": {
-      "resumen": "Proyecto de nostalgia tecnológica difundido en Hacker News (con más de 100 puntos): un simulador de sala de chat estilo 1996 conectado a \"escritorios web\" que imitan Windows 95 y System 7, el sistema operativo clásico de Apple. Le sirve a un médico que aprende ciencia de datos apenas como curiosidad sobre proyectos recreativos de la comunidad tech, sin aporte directo a herramientas de análisis.",
-      "destacado": false
+    "81e221a4b780": {
+      "resumen": "Carta de respuesta (Reply) en la sección de correspondencia del New England Journal of Medicine, firmada por Doshi SK et al., dentro de un intercambio de cartas sobre el cierre percutáneo de la orejuela auricular izquierda (procedimiento que sella una cavidad del corazón donde suelen formarse coágulos en la fibrilación auricular) frente a la anticoagulación. Vale la pena mirarla como termómetro del debate académico que sigue abierto sobre esta indicación."
     },
-    "eb196f136f9e": {
-      "resumen": "Hilo de la comunidad r/datascience sobre cómo mejorar la capacidad de identificar oportunidades de A/B testing (comparación controlada entre dos versiones de un producto o proceso para medir el efecto de un cambio) dentro de una organización. Le sirve a un médico que aprende ciencia de datos porque el A/B testing es la misma lógica del ensayo clínico aleatorizado aplicada a productos y decisiones de negocio, un buen puente conceptual entre ambos mundos.",
-      "destacado": false
+    "aba2c13a7450": {
+      "resumen": "Carta a la redacción del New England Journal of Medicine, firmada por Arora S et al., que cuestiona o comenta hallazgos sobre el cierre percutáneo de la orejuela auricular izquierda versus la anticoagulación en fibrilación auricular. Interesa porque es parte del mismo debate que alimenta el metaanálisis de TCTMD sobre más accidentes cerebrovasculares con esta técnica."
     },
-    "2d52fce20760": {
-      "resumen": "Simon Willison, referente en inteligencia artificial (IA), comenta el lanzamiento de Claude Sonnet 5.5, el nuevo modelo de lenguaje grande (LLM, large language model) de Anthropic, que según la compañía corre más de 30% más rápido y cuesta hasta 30% menos que su predecesor manteniendo o mejorando el rendimiento en los benchmarks. Le sirve a un médico que aprende ciencia de datos para estar al tanto de mejoras concretas en una de las herramientas de IA más usadas para asistir análisis de datos y programación.",
+    "bd4f55b288cd": {
+      "resumen": "Editorial de JACC (Journal of the American College of Cardiology), firmado por Peng AW et al., que comenta los resultados del ensayo VESALIUS-CV sobre bajar el colesterol LDL (lipoproteína de baja densidad, el \"colesterol malo\") de forma más intensiva y más temprana a lo largo de todo el espectro de la enfermedad aterosclerótica. Vale la pena mirarlo porque discute si conviene adelantar el tratamiento hipolipemiante intensivo incluso antes de que aparezca un evento cardiovascular."
+    },
+    "d3fd8b727d73": {
+      "resumen": "Editorial de JACC, firmado por Madanchi M et al., que discute estrategias para prevenir la obstrucción microvascular (el taponamiento de los vasos más pequeños del corazón) durante la angioplastia primaria en el infarto agudo de miocardio, a propósito de los datos del estudio CLEAN. Interesa porque la obstrucción microvascular es una de las causas de que, aun destapando la arteria a tiempo, el daño al músculo cardíaco persista."
+    },
+    "525aa2473f92": {
+      "resumen": "Hilo de la comunidad r/datascience sobre errores al intentar comprimir datos dispersos (sparse data, matrices con muchos valores en cero o vacíos) en Python. Le sirve a un médico que aprende ciencia de datos como caso práctico de resolución de problemas, ya que los datasets clínicos con muchas variables categóricas suelen generar este mismo tipo de estructuras dispersas."
+    },
+    "2f5ad75c3c6d": {
+      "resumen": "Artículo de Towards Data Science que mide, con pruebas concretas de rendimiento en tres tipos de consultas SQL, qué pasa cuando se compactan 1.000 archivos chicos de Apache Iceberg (un formato de tablas para manejar grandes volúmenes de datos) en solo 6 archivos grandes. Le sirve a un médico que aprende ciencia de datos como introducción práctica a cómo se organiza y optimiza el almacenamiento de bases de datos de gran escala, algo relevante si en el futuro trabaja con registros clínicos masivos."
+    },
+    "ed7f5ebcb283": {
+      "resumen": "Nota difundida en Hacker News sobre fallas y errores (\"buggy mess\") en Golden Gate, una función experimental de macOS. No aporta herramientas de ciencia de datos, pero le puede servir a un médico que aprende análisis de datos como termómetro de cómo la comunidad tech evalúa la calidad de un software recién lanzado."
+    },
+    "22c3214225c8": {
+      "resumen": "Artículo de Towards Data Science que sostiene que la inteligencia artificial no solo hizo más rápidos a los científicos de datos, sino que amplió el alcance de su trabajo, dándoles más responsabilidad sobre el juicio profesional y la toma de decisiones. Le sirve mucho a un médico en transición hacia la ciencia de datos porque anticipa cómo puede transformarse su propio rol a medida que incorpore herramientas de inteligencia artificial en el análisis.",
       "destacado": true
     },
-    "5e33c235053c": {
-      "resumen": "Proyecto de código abierto difundido en Hacker News que presenta \"Jeff\", un modelo de decisión pequeño (0,8 mil millones de parámetros) compatible con el formato \"Jev\", entrenable en una computadora hogareña y capaz de responder en unos 30 milisegundos. Le sirve a un médico que aprende ciencia de datos como ejemplo de la tendencia hacia modelos de inteligencia artificial livianos, rápidos y entrenables sin infraestructura de gran escala.",
-      "destacado": false
+    "93f13470f13a": {
+      "resumen": "Artículo de Towards Data Science que cuestiona la tendencia a resolver cualquier tarea de decisión o clasificación con modelos \"decoder-only\" (la arquitectura típica detrás de los modelos de lenguaje grande, LLM), aunque no sea la herramienta más simple o eficiente para el problema. Le sirve a un médico que aprende ciencia de datos para elegir la técnica más adecuada según el problema, en lugar de usar un modelo generativo grande por default."
     },
-    "a7a3b674e644": {
-      "resumen": "Anuncio difundido en Hacker News sobre la incorporación de World Labs, una empresa de inteligencia artificial enfocada en modelos de mundo (world models, sistemas que aprenden a simular y razonar sobre el entorno físico), a AMD, el fabricante de procesadores y placas de video. Le sirve a un médico que aprende ciencia de datos para seguir el movimiento de talento y tecnología de IA entre empresas, que anticipa hacia dónde se dirige la próxima generación de herramientas.",
-      "destacado": false
+    "757cecc43dc7": {
+      "resumen": "Nota de KDnuggets sobre SuperWhisper s1-mini, un modelo de inteligencia artificial de 600 millones de parámetros diseñado específicamente para transcribir voz a texto. Le sirve a un médico que aprende ciencia de datos porque este tipo de modelos livianos y especializados podría aplicarse a digitalizar historias clínicas dictadas o notas de consulta sin necesitar infraestructura pesada."
     },
-    "dd4ff024e415": {
-      "resumen": "Nota difundida en Hacker News sobre la caída de la demanda de vino en Estados Unidos, que golpea a los productores de uva de California. No aporta herramientas de ciencia de datos, pero le puede interesar a un médico que aprende análisis de datos como caso real de una tendencia de consumo que podría estudiarse con series temporales y datos de mercado.",
-      "destacado": false
+    "f6300592734e": {
+      "resumen": "Nota de IEEE Spectrum sobre cómo Delhi logró bajar las pérdidas de electricidad de la red del 50% al 5%, apoyándose en buena medida en monitoreo y análisis de datos de consumo. No es ciencia de datos aplicada a la salud, pero ejemplifica cómo el análisis de datos sobre infraestructura puede lograr mejoras drásticas de eficiencia."
     },
-    "c94a110c6c4a": {
-      "resumen": "Simon Willison, referente en inteligencia artificial (IA), cita un testimonio -aparentemente de una empresa desarrolladora de modelos- que reconoce lo sorpresivo y repentino que fue el salto de capacidades de sus sistemas en tareas de ciberseguridad ofensiva, coordinación tipo \"enjambre\" (swarming, varios agentes de IA actuando en conjunto) y uso de foros online, al punto de obligar a repensar la postura de seguridad. Le sirve a un médico que aprende ciencia de datos como recordatorio de que las capacidades de la IA pueden crecer más rápido de lo previsto, algo para tener presente antes de confiar en estos sistemas para tareas sensibles.",
-      "destacado": false
+    "4b5ac64aecfc": {
+      "resumen": "Nota sobre un estudio epidemiológico global que estima que 1 de cada 8 casos de cáncer en el mundo es atribuible a infecciones (virus, bacterias o parásitos). Le sirve a un médico que aprende ciencia de datos como ejemplo de estimación de fracción atribuible poblacional, un concepto estadístico central en epidemiología y farmacovigilancia."
     },
-    "00f6a7849afd": {
-      "resumen": "Artículo de Towards Data Science que presenta \"Guided Merge Sort\", una variante optimizada del algoritmo de ordenamiento por mezcla (merge sort) que combina lo mejor del mezclado clásico y del mezclado múltiple (multi-way merge sort), usando el operador \"goto\" como pieza clave de la solución. Le sirve a un médico que aprende ciencia de datos para entender a fondo cómo funcionan y se optimizan los algoritmos de ordenamiento, una base del procesamiento eficiente de datos.",
-      "destacado": false
+    "520d46423935": {
+      "resumen": "Nota de KDnuggets que recomienda cinco cursos gratuitos para aprender ingeniería de inteligencia artificial: fundamentos de modelos de lenguaje grande (LLM), generación aumentada por recuperación (RAG, retrieval-augmented generation), MLOps, ajuste fino (fine-tuning) y despliegue de modelos. Le sirve directamente a un médico que se está formando en ciencia de datos como hoja de ruta concreta de estudio."
     },
-    "81f035972105": {
-      "resumen": "Nota de KDnuggets que compara dos modelos de transcripción de audio a texto basados en inteligencia artificial (IA): Gemini 3.5 Transcribe, de Google, y GPT-Transcribe, de OpenAI, con un caso de uso real, código de ejemplo para ambos y una comparación de las métricas más relevantes. Le sirve a un médico que aprende ciencia de datos como guía práctica para elegir una herramienta de transcripción automática, útil por ejemplo para digitalizar historias clínicas dictadas o notas de consulta.",
-      "destacado": false
+    "9d35c805fb61": {
+      "resumen": "Nota sobre un ensayo de reconocimiento facial en vivo en estaciones de tren del Reino Unido que escaneó 500.000 rostros sin generar arrestos y con un solo falso positivo. Le sirve a un médico que aprende ciencia de datos como caso real para pensar en métricas de rendimiento de modelos de clasificación (sensibilidad, especificidad, tasa de falsos positivos) aplicadas fuera del ámbito médico."
     },
-    "5a1d9d92fc89": {
-      "resumen": "Artículo de Towards Data Science que explica cómo transformar un modelo de lenguaje grande (LLM, large language model) de código abierto -en este caso, uno pequeño de la familia Qwen- en un clasificador de texto rápido y de un solo paso (single-pass), reemplazando su \"cabezal\" de modelado de lenguaje por uno de clasificación (denominado \"JEV\" en el artículo, sin que el título aclare la sigla). Le sirve a un médico que aprende ciencia de datos como tutorial concreto para reutilizar modelos de IA ya entrenados y adaptarlos a tareas más simples y económicas de correr, como clasificar textos clínicos.",
-      "destacado": false
+    "eb362c2831ff": {
+      "resumen": "Un repaso por el presente de los rugbiers santiagueños que lograron dar el salto hasta Los Pumas."
     },
-    "eca49dfe251d": {
-      "resumen": "Ayerza, Carossio y Fernández Gill analizaron la importancia del scrum de Los Pumas y coincidieron en que la clave pasa por el empoderamiento de los cinco delanteros de la primera línea y segunda línea."
+    "bbf14070cec1": {
+      "resumen": "Se confirmaron las fechas y sedes del Rugby Championship 2027, que arrancará con un Los Pumas-Australia."
     },
-    "629c731a4e83": {
-      "resumen": "Argentina XV arrancó una concentración con talento tucumano y jugadores de Los Pumas invitados, de cara a su próxima gira por Europa."
+    "9d95aab0448a": {
+      "resumen": "Tobías Wade dejará el rugby local para sumarse a Zebre Parma, en Italia, sin resignar su sueño de vestir la camiseta de Los Pumas."
     }
   }
 }

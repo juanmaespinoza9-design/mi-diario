@@ -1,44 +1,21 @@
 {
-  "generated_at": "2026-09-30T10:07:29Z",
+  "generated_at": "2026-09-30T22:06:19Z",
   "summaries": {
-    "fd80fe9cadc2": {
-      "resumen": "Segmento \"Quick Takes\" de TCTMD sobre cómo está cambiando la carga de las amputaciones mayores de miembros inferiores, una complicación grave de la enfermedad arterial periférica. Vale la pena mirarlo porque la enfermedad vascular periférica es un terreno cada vez más compartido entre cardiología, cirugía vascular y diabetología.",
-      "destacado": false,
-      "analisis": "Diseño: por el título (\"Quick Takes\"), se trata de un segmento breve de TCTMD que resume hallazgos sobre la carga (burden) de las amputaciones mayores de miembros inferiores; no se puede precisar si se basa en un estudio poblacional, un registro administrativo o una cohorte, ni el número de pacientes o el período analizado.\nPoblación: pacientes con enfermedad arterial periférica avanzada que requirieron amputación mayor de un miembro inferior; el título no detalla criterios de inclusión.\nIntervención: no hay una intervención terapéutica puntual; parece un análisis descriptivo de tendencias epidemiológicas en el tiempo.\nResultados: el título habla de un cambio (\"shifting\") en la carga de amputaciones, pero no hay tasas, razones de riesgo ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar la fuente de datos, el riesgo de sesgos de registro ni si hubo ajuste por factores de confusión como diabetes o tabaquismo.\nMensaje: si confirma un cambio en la carga de amputaciones, aporta información relevante para priorizar la prevención y el diagnóstico precoz de la enfermedad arterial periférica.\nNota: análisis sin acceso al abstract."
-    },
-    "8a8d28582f19": {
-      "resumen": "Nota de TCTMD sobre un estudio que sugiere que combinar distintas técnicas de imagen (multimodalidad) permitiría estratificar mejor el riesgo de eventos cardiovasculares mayores (MACE, major adverse cardiovascular events) en pacientes con miocarditis, la inflamación del músculo cardíaco. Interesa porque la miocarditis tiene un pronóstico muy variable y hoy cuesta identificar de entrada a los pacientes de mayor riesgo.",
-      "destacado": false,
-      "analisis": "Diseño: por el título, parece un estudio de cohorte (probablemente observacional) que evalúa el valor pronóstico de la imagen multimodal en miocarditis; TCTMD no permite precisar si fue uni o multicéntrico, ni el número de pacientes incluidos.\nPoblación: pacientes con diagnóstico de miocarditis (inflamación del músculo cardíaco) evaluados con distintas técnicas de imagen; el título no detalla criterios de inclusión o exclusión.\nIntervención: no hay una intervención terapéutica; se compara el valor pronóstico de combinar varias modalidades de imagen (por ejemplo, ecocardiograma y resonancia magnética cardíaca) frente al uso de una sola técnica.\nResultados: el título indica que la imagen multimodal \"podría estratificar mejor\" el riesgo de MACE, pero no hay razones de riesgo, áreas bajo la curva ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar el tamaño de la muestra, el tiempo de seguimiento ni si el modelo de riesgo se validó en una cohorte independiente.\nMensaje: si se confirma, respalda un rol más activo de la imagen multimodal para identificar tempranamente a los pacientes con miocarditis de mayor riesgo de complicaciones.\nNota: análisis sin acceso al abstract."
-    },
-    "da93a6b1e3b6": {
-      "resumen": "Revisión publicada en el European Heart Journal (Revista Europea del Corazón) sobre la relación entre la fibrilación auricular (FA), la arritmia sostenida más frecuente en la práctica clínica, y la muerte súbita cardíaca. Repasa los mecanismos fisiopatológicos que las vinculan, el manejo actual y los nuevos blancos terapéuticos en investigación. Vale la pena mirarla como puesta al día de un vínculo -FA y muerte súbita- todavía no saldado del todo en la literatura.",
+    "2f515a3e6471": {
+      "resumen": "Recopilación mensual de TCTMD (The Cardiovascular Research Foundation) con las diez notas más leídas de septiembre 2026. Sirve como termómetro rápido de qué temas de intervencionismo cardiovascular concentraron la atención de la comunidad médica ese mes.",
       "destacado": false
     },
-    "7e3cf82e5917": {
-      "resumen": "Perspectiva de JACC (Journal of the American College of Cardiology, la revista del Colegio Americano de Cardiología) firmada por Krumholz HM et al. que reflexiona sobre el valor real del mentoring (acompañamiento y guía de referentes seniors) en la formación de cardiólogos jóvenes. Vale la pena mirarla porque pone en palabras algo que se vive todos los días en la residencia pero rara vez se mide: cuánto rinde, en términos de carrera y de calidad de atención, invertir tiempo en formar a los que vienen atrás.",
+    "c810a91924c9": {
+      "resumen": "Transmisión en vivo de TCTMD de un reemplazo valvular tricuspídeo percutáneo (TTVR, transcatheter tricuspid valve replacement) con el dispositivo Lux Valve, realizado en el Montreal Heart Institute. Vale la pena mirarlo porque el reemplazo tricuspídeo percutáneo todavía es una técnica en expansión y ver el procedimiento en vivo ayuda a entender su curva de aprendizaje.",
       "destacado": false
     },
-    "6204849f954f": {
-      "resumen": "Documento de posición o llamado a la acción de JACC (Journal of the American College of Cardiology), firmado por Fudim M et al., sobre el manejo del síndrome de taquicardia postural ortostática (POTS, postural orthostatic tachycardia syndrome), un trastorno del sistema nervioso autónomo que genera taquicardia y otros síntomas al pararse. Interesa porque plantea que la cardiología tiene que involucrarse más activamente en el diagnóstico y tratamiento de una entidad hoy dispersa entre varias especialidades.",
+    "ce01c7714ef6": {
+      "resumen": "Repaso mensual de TCTMD con las noticias más relevantes de cardiología de septiembre 2026. Útil para tener un pantallazo rápido de la agenda del mes en la especialidad.",
       "destacado": false
     },
-    "0ca6fafa6bbc": {
-      "resumen": "Nota de TCTMD sobre el seguimiento a 15 años de pacientes a quienes se les cerró percutáneamente un foramen oval permeable (PFO, patent foramen ovale, comunicación entre las aurículas presente desde el nacimiento) tras un accidente cerebrovascular (ACV) criptogénico, es decir, de causa no aclarada. Interesa porque confirma, a muy largo plazo, la durabilidad del beneficio de una práctica hoy habitual en pacientes jóvenes con ACV sin causa evidente.",
-      "destacado": true,
-      "analisis": "Diseño: por el título, se trata de un seguimiento a muy largo plazo (15 años) de una cohorte o extensión de un ensayo/registro de cierre percutáneo de foramen oval permeable (PFO, patent foramen ovale); TCTMD no permite precisar si corresponde a la extensión de un ensayo aleatorizado puntual (como RESPECT, REDUCE o Gore CARDIOFORM), ni el número de centros o de pacientes incluidos.\nPoblación: pacientes con antecedente de accidente cerebrovascular (ACV) criptogénico (sin causa identificada) y PFO documentado, sometidos años atrás a cierre percutáneo del defecto; el título no detalla criterios de inclusión o exclusión.\nIntervención: cierre percutáneo de PFO con dispositivo oclusor, evaluado en el muy largo plazo; el título no menciona un grupo comparador explícito (tratamiento médico solo) para este seguimiento extendido.\nResultados: el título señala tasas \"bajas\" de ACV recurrente a 15 años, pero no hay cifras, razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar la tasa de seguimiento efectivo a tan largo plazo (pérdida de pacientes), si existió un grupo control contemporáneo, ni si los datos provienen de un ensayo aleatorizado o de un registro observacional.\nMensaje: si se confirma, refuerza la durabilidad a largo plazo del beneficio del cierre de PFO para prevenir la recurrencia de ACV criptogénico, un dato relevante para decisiones que hoy se toman en pacientes jóvenes con expectativa de vida larga.\nNota: análisis sin acceso al abstract."
-    },
-    "bd4f55b288cd": {
-      "resumen": "Editorial de JACC (Journal of the American College of Cardiology), firmado por Peng AW et al., que comenta los resultados del ensayo VESALIUS-CV sobre bajar el colesterol LDL (lipoproteína de baja densidad, el \"colesterol malo\") de forma más intensiva y más temprana a lo largo de todo el espectro de la enfermedad aterosclerótica. Vale la pena mirarlo porque discute si conviene adelantar el tratamiento hipolipemiante intensivo incluso antes de que aparezca un evento cardiovascular."
-    },
-    "d3fd8b727d73": {
-      "resumen": "Editorial de JACC, firmado por Madanchi M et al., que discute estrategias para prevenir la obstrucción microvascular (el taponamiento de los vasos más pequeños del corazón) durante la angioplastia primaria en el infarto agudo de miocardio, a propósito de los datos del estudio CLEAN. Interesa porque la obstrucción microvascular es una de las causas de que, aun destapando la arteria a tiempo, el daño al músculo cardíaco persista."
-    },
-    "525aa2473f92": {
-      "resumen": "Hilo de la comunidad r/datascience sobre errores al intentar comprimir datos dispersos (sparse data, matrices con muchos valores en cero o vacíos) en Python. Le sirve a un médico que aprende ciencia de datos como caso práctico de resolución de problemas, ya que los datasets clínicos con muchas variables categóricas suelen generar este mismo tipo de estructuras dispersas."
-    },
-    "2f5ad75c3c6d": {
-      "resumen": "Artículo de Towards Data Science que mide, con pruebas concretas de rendimiento en tres tipos de consultas SQL, qué pasa cuando se compactan 1.000 archivos chicos de Apache Iceberg (un formato de tablas para manejar grandes volúmenes de datos) en solo 6 archivos grandes. Le sirve a un médico que aprende ciencia de datos como introducción práctica a cómo se organiza y optimiza el almacenamiento de bases de datos de gran escala, algo relevante si en el futuro trabaja con registros clínicos masivos."
+    "4b631a5208db": {
+      "resumen": "Declaración científica 2026 del ACC (American College of Cardiology, Colegio Americano de Cardiología) sobre el rol de la nutrición en la prevención y el manejo de la enfermedad cardiovascular, publicada en JACC. Vale la pena mirarla porque actualiza las recomendaciones dietéticas basadas en evidencia que se trasladan directamente a la consulta diaria.",
+      "destacado": false
     },
     "e93e636e9dcb": {
       "resumen": "Nota de TCTMD sobre un informe de la Heart Failure Society of America (HFSA, Sociedad Americana de Insuficiencia Cardíaca) que señala que las clínicas especializadas en insuficiencia cardíaca no están ubicadas donde más se las necesita. Vale la pena mirarlo porque pone en evidencia una brecha de acceso geográfico a la atención especializada de una enfermedad de alta carga y mortalidad.",
@@ -50,58 +27,70 @@
       "destacado": false,
       "analisis": "Diseño: por el título (\"Quick Takes\"), es un segmento breve de TCTMD que resume hallazgos sobre inequidades en la atención cardiovascular (CVD, cardiovascular disease) de la población hispana/latina; no se puede precisar si se basa en un estudio poblacional, una encuesta o un registro, ni el tamaño de la muestra.\nPoblación: personas de origen hispano/latino en Estados Unidos con enfermedad cardiovascular o en riesgo de padecerla; el título no detalla criterios de inclusión.\nIntervención: no hay una intervención puntual; parece un análisis descriptivo de disparidades en el acceso y la calidad de atención.\nResultados: el título habla de \"brechas\" (gaps) en la atención, pero no hay tasas, razones de riesgo ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar la fuente de datos, el riesgo de sesgo de selección ni si hubo ajuste por factores socioeconómicos o de acceso al sistema de salud.\nMensaje: si se confirma, refuerza la necesidad de estrategias específicas para cerrar las brechas de atención cardiovascular en la población hispana/latina, tanto en Estados Unidos como en otros países con poblaciones migrantes similares.\nNota: análisis sin acceso al abstract."
     },
+    "ed764c41965f": {
+      "resumen": "Artículo de perspectiva en JACC (Journal of the American College of Cardiology) que plantea dejar atrás el concepto tradicional de \"clearance cardiológico\" preoperatorio a favor de una evaluación de riesgo cardiovascular centrada en el paciente. Interesa porque cuestiona una práctica muy instalada en las interconsultas prequirúrgicas.",
+      "destacado": false
+    },
+    "f80155baf6a1": {
+      "resumen": "Nueva guía conjunta 2026 de la AHA (American Heart Association) y el ACC (American College of Cardiology), junto a otras ocho sociedades, sobre el manejo cardiovascular perioperatorio en cirugía no cardíaca. Es un documento clave porque actualiza el estándar de evaluación y conducta con el paciente cardiópata que va a cirugía.",
+      "destacado": true
+    },
+    "c7965ca27152": {
+      "resumen": "Artículo de JACC (Journal of the American College of Cardiology) que analiza el rol de las intervenciones sobre el sistema linfático para tratar la enteropatía perdedora de proteínas, una complicación infrecuente pero grave vinculada a ciertas cardiopatías congénitas. Vale la pena mirarlo porque plantea si esta terapia es una alternativa prometedora o un recurso de último recurso.",
+      "destacado": false
+    },
+    "da93a6b1e3b6": {
+      "resumen": "Revisión publicada en el European Heart Journal (Revista Europea del Corazón) sobre la relación entre la fibrilación auricular (FA), la arritmia sostenida más frecuente en la práctica clínica, y la muerte súbita cardíaca. Repasa los mecanismos fisiopatológicos que las vinculan, el manejo actual y los nuevos blancos terapéuticos en investigación. Vale la pena mirarla como puesta al día de un vínculo -FA y muerte súbita- todavía no saldado del todo en la literatura.",
+      "destacado": false
+    },
+    "6f542f47043f": {
+      "resumen": "El jugador de Los Pumas 7s Martiniano Arrieta habló tras consagrarse campeón y destacó lo que significa jugar en Argentina con el apoyo de su familia y amigos cerca."
+    },
+    "229bc179a6bd": {
+      "resumen": "El capitán de Los Pumas, Pablo Matera, se refirió al objetivo del Mundial 2027 y al próximo desafío del equipo en el Nations Championship de noviembre."
+    },
+    "e0b585030c36": {
+      "resumen": "Repaso de los nombres que suenan como candidatos para reemplazar a Andrés Bordoy en el cuerpo técnico de Los Pumas."
+    },
+    "589f178da769": {
+      "resumen": "Hilo de la comunidad r/datascience sobre clasificación de objetos combinando múltiples barridos de radar sobre el dataset RadarScenes. Le sirve a un médico que aprende ciencia de datos como ejemplo de cómo aprovechar información temporal repetida de un sensor para mejorar una clasificación, un enfoque trasladable al análisis de señales biomédicas seriadas.",
+      "destacado": false
+    },
+    "1ddd79459766": {
+      "resumen": "Hilo de r/datascience donde profesionales comparten su experiencia especializándose en datos geoespaciales. Le sirve a un médico que aprende análisis de datos porque el análisis geoespacial es cada vez más relevante en epidemiología, por ejemplo para mapear brotes o el acceso a centros de salud.",
+      "destacado": false
+    },
+    "317396e5ea0b": {
+      "resumen": "Artículo de Towards Data Science sobre cómo la forma de representar los mismos datos puede cambiar la interpretación que se hace de ellos. Le sirve a un médico que aprende ciencia de datos porque advierte sobre un riesgo central al comunicar resultados clínicos: elegir mal el gráfico puede sesgar la lectura de la evidencia.",
+      "destacado": false
+    },
+    "09f54a7fb5d1": {
+      "resumen": "Repaso histórico de IEEE Spectrum sobre el desarrollo de la terminal Bloomberg, una de las plataformas de datos financieros más influyentes. Le sirve a un médico que aprende ciencia de datos como caso de estudio de cómo se diseñó un sistema pionero para presentar datos complejos de forma rápida y usable.",
+      "destacado": false
+    },
+    "0760036a0dc9": {
+      "resumen": "Nota de KDnuggets sobre agentes de inteligencia artificial de OpenAI que llegaron a una propuesta de solución para un problema matemático mayor en 88 horas, y el debate sobre qué cuenta realmente como un descubrimiento hecho por inteligencia artificial. Le sirve a un médico que aprende ciencia de datos para entender los límites y el debate actual sobre la autoría y validez de los hallazgos generados por IA.",
+      "destacado": false
+    },
+    "9d1713366e29": {
+      "resumen": "Artículo de Towards Data Science que sostiene que, aunque los agentes de inteligencia artificial liberan tiempo para el análisis, la capacidad de generar insight (comprensión útil de los datos) sigue siendo lo que más vale, y que las prácticas de revisión deben adaptarse a ese cambio. Le sirve mucho a un médico que aprende ciencia de datos porque plantea cómo aprovechar la IA sin perder rigor crítico sobre los propios resultados.",
+      "destacado": true
+    },
+    "0590de448e2d": {
+      "resumen": "Tutorial de Towards Data Science sobre cómo resolver conflictos al anidar medidas en DAX (el lenguaje de fórmulas de Power BI) cuando se sobreescribe un filtro ya aplicado. Le sirve a un médico que aprende ciencia de datos como guía práctica para construir reportes e indicadores en Power BI sin errores de cálculo.",
+      "destacado": false
+    },
+    "00c138f13897": {
+      "resumen": "Guía rápida de KDnuggets sobre Ollama, una herramienta para instalar y correr modelos de lenguaje localmente en la propia computadora sin depender de servicios en la nube. Le sirve a un médico que aprende ciencia de datos porque es una puerta de entrada práctica para experimentar con inteligencia artificial preservando la privacidad de los datos, algo clave en el ámbito clínico.",
+      "destacado": false
+    },
+    "2e3d5dcc0b0c": {
+      "resumen": "Entrada de blog que discute cuándo conviene o no usar el protocolo MCP (Model Context Protocol), el estándar que permite conectar modelos de inteligencia artificial con herramientas externas. Le sirve a un médico que aprende ciencia de datos para entender los criterios prácticos detrás de una tecnología cada vez más presente en las herramientas de IA que podría llegar a usar.",
+      "destacado": false
+    },
     "bf2e738d2e1a": {
       "resumen": "Proyecto de Hacker News (Livenerf) que monitorea en tiempo real si el modelo de inteligencia artificial Opus 5.5, de Anthropic, perdió calidad de respuesta con el tiempo, un fenómeno que la comunidad llama \"nerfeo\". Le sirve a un médico que aprende ciencia de datos porque ilustra cómo evaluar de forma continua y objetiva el desempeño de un modelo de lenguaje en producción, algo clave si en el futuro depende de herramientas de inteligencia artificial para su trabajo.",
       "destacado": false
-    },
-    "6cd102f752db": {
-      "resumen": "Entrada del blog de Simon Willison que cita al \"Frontier Red Team\" (equipo de seguridad de frontera) de Anthropic, dedicado a evaluar riesgos de mal uso de sus modelos de inteligencia artificial. Le sirve a un médico que aprende ciencia de datos para entender cómo las empresas de inteligencia artificial evalúan y mitigan riesgos antes de liberar un modelo, un criterio útil al elegir qué herramientas de IA usar en un contexto clínico.",
-      "destacado": false
-    },
-    "9448793ea837": {
-      "resumen": "Nota de Hacker News sobre el cierre, por parte de inspectores postales de Estados Unidos, de un sitio que vendía etiquetas de franqueo falsificadas. Le sirve a un médico que aprende ciencia de datos como ejemplo de detección de fraude mediante análisis de patrones de datos, una técnica trasladable a la detección de irregularidades en facturación o prescripciones en el sistema de salud.",
-      "destacado": false
-    },
-    "21009051c68b": {
-      "resumen": "Proyecto de visualización en tiempo real del sistema solar que representa 526.000 asteroides y todos los satélites rastreados. Le sirve a un médico que aprende ciencia de datos como ejemplo de cómo visualizar grandes volúmenes de datos posicionales de forma interactiva y comprensible, una habilidad aplicable a paneles de seguimiento de pacientes o de indicadores clínicos.",
-      "destacado": false
-    },
-    "147ef720989f": {
-      "resumen": "Entrada del blog de Simon Willison sobre GPT 6.1 Sol, un nuevo modelo de inteligencia artificial que promete un desempeño cercano al de los modelos de referencia (\"Astra\") a una quinta parte del costo. Le sirve a un médico que aprende ciencia de datos porque la relación costo-desempeño es un criterio central para decidir qué modelo de inteligencia artificial conviene usar en un proyecto real.",
-      "destacado": false
-    },
-    "a6e8f9e0cedd": {
-      "resumen": "Nota de Hacker News sobre cómo la contaminación lumínica global está haciendo que cada vez menos personas experimenten la oscuridad natural. No es ciencia de datos aplicada a la salud, pero le sirve a un médico que aprende análisis de datos como ejemplo del uso de datos satelitales para medir un fenómeno ambiental a escala planetaria.",
-      "destacado": false
-    },
-    "5069f45a0c14": {
-      "resumen": "Tutorial de KDnuggets que explica cómo usar inteligencia artificial para convertir datos de Excel directamente en presentaciones de PowerPoint. Le sirve mucho a un médico que aprende ciencia de datos porque automatiza una tarea habitual -convertir resultados de análisis en informes visuales- que hoy insume tiempo manual.",
-      "destacado": true
-    },
-    "3bd3ec89a48c": {
-      "resumen": "Cobertura en vivo de Simon Willison sobre el DevDay 2026 de OpenAI, el evento anual donde la compañía presenta sus novedades técnicas y de producto. Le sirve a un médico que aprende ciencia de datos para mantenerse al tanto de las herramientas de inteligencia artificial que probablemente vaya a usar o encontrar en el corto plazo.",
-      "destacado": false
-    },
-    "8c95933c0545": {
-      "resumen": "Los Pumas arrancarán su participación en el Rugby Championship 2027 en julio, con Australia como primer rival."
-    },
-    "c7a3c3c96212": {
-      "resumen": "Se confirmó el calendario 2027 de Los Pumas, que incluye su hoja de ruta hacia el próximo Mundial de rugby."
-    },
-    "1e2abac98ad2": {
-      "resumen": "El entrenador Felipe Contepomi evalúa distintos candidatos para cubrir la salida de Andrés Bordoy del cuerpo técnico de Los Pumas."
-    },
-    "229ef2da41b8": {
-      "resumen": "Un estudio asocia el trastorno por déficit de atención e hiperactividad (TDAH) y el autismo con mayor probabilidad de desarrollar diabetes tipo 2 a edades tempranas."
-    },
-    "2bc75f417b44": {
-      "resumen": "El estrés sostenido en el tiempo no solo afecta el bienestar emocional, sino que también podría deteriorar la memoria."
-    },
-    "80f2f95176bf": {
-      "resumen": "Un repaso de los tratamientos sin respaldo científico a los que suelen recurrir las personas con pérdida de visión."
-    },
-    "cb1610c44b76": {
-      "resumen": "Un spray nasal mostró aliviar rápido el dolor en niños atendidos en guardias de urgencias."
     }
   }
 }

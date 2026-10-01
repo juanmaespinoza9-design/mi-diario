@@ -1,6 +1,10 @@
 {
-  "generated_at": "2026-09-30T22:06:19Z",
+  "generated_at": "2026-10-01T10:05:59Z",
   "summaries": {
+    "64c812aaed04": {
+      "resumen": "Surmodics adquirió la unidad de negocio Alta Biomed, lo que amplía su oferta de tecnología de superficies hemocompatibles (que reducen la formación de coágulos en contacto con dispositivos médicos) y de testeo analítico para la industria de dispositivos cardiovasculares. Es una noticia más corporativa que clínica, pero vale la pena tenerla en el radar porque este tipo de tecnología de recubrimientos termina incidiendo en la seguridad de catéteres, stents y otros dispositivos de uso diario.",
+      "destacado": false
+    },
     "2f515a3e6471": {
       "resumen": "Recopilación mensual de TCTMD (The Cardiovascular Research Foundation) con las diez notas más leídas de septiembre 2026. Sirve como termómetro rápido de qué temas de intervencionismo cardiovascular concentraron la atención de la comunidad médica ese mes.",
       "destacado": false
@@ -22,11 +26,6 @@
       "destacado": false,
       "analisis": "Diseño: por el título, se trata de un informe (probablemente un análisis ecológico o geográfico) de la Heart Failure Society of America (HFSA) que compara la ubicación de clínicas especializadas en insuficiencia cardíaca con la necesidad poblacional; TCTMD no permite precisar la metodología exacta, la fuente de datos ni el período analizado.\nPoblación: población general de Estados Unidos con riesgo o diagnóstico de insuficiencia cardíaca, comparada según la disponibilidad de clínicas especializadas en su área geográfica.\nIntervención: no hay una intervención terapéutica; es un análisis de distribución geográfica de recursos asistenciales frente a la carga de enfermedad.\nResultados: el título indica que las clínicas \"faltan donde más se necesitan\", pero no hay cifras, proporciones ni valor de p disponibles sin el informe completo.\nLimitaciones: sin el informe completo no se puede evaluar la fuente de los datos de necesidad poblacional, si se ajustó por factores socioeconómicos, ni la definición operativa de \"clínica especializada\".\nMensaje: si se confirma, respalda la necesidad de planificar la expansión de clínicas de insuficiencia cardíaca según criterios de equidad y carga de enfermedad, y no solo de demanda de mercado.\nNota: análisis sin acceso al abstract."
     },
-    "b64535363748": {
-      "resumen": "Segmento \"Quick Takes\" de TCTMD sobre las brechas en la atención cardiovascular de la población hispana/latina. Vale la pena mirarlo porque complementa, desde una nota breve, el problema de equidad en salud cardiovascular que ya señaló la declaración de la American Heart Association sobre el mismo tema.",
-      "destacado": false,
-      "analisis": "Diseño: por el título (\"Quick Takes\"), es un segmento breve de TCTMD que resume hallazgos sobre inequidades en la atención cardiovascular (CVD, cardiovascular disease) de la población hispana/latina; no se puede precisar si se basa en un estudio poblacional, una encuesta o un registro, ni el tamaño de la muestra.\nPoblación: personas de origen hispano/latino en Estados Unidos con enfermedad cardiovascular o en riesgo de padecerla; el título no detalla criterios de inclusión.\nIntervención: no hay una intervención puntual; parece un análisis descriptivo de disparidades en el acceso y la calidad de atención.\nResultados: el título habla de \"brechas\" (gaps) en la atención, pero no hay tasas, razones de riesgo ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar la fuente de datos, el riesgo de sesgo de selección ni si hubo ajuste por factores socioeconómicos o de acceso al sistema de salud.\nMensaje: si se confirma, refuerza la necesidad de estrategias específicas para cerrar las brechas de atención cardiovascular en la población hispana/latina, tanto en Estados Unidos como en otros países con poblaciones migrantes similares.\nNota: análisis sin acceso al abstract."
-    },
     "ed764c41965f": {
       "resumen": "Artículo de perspectiva en JACC (Journal of the American College of Cardiology) que plantea dejar atrás el concepto tradicional de \"clearance cardiológico\" preoperatorio a favor de una evaluación de riesgo cardiovascular centrada en el paciente. Interesa porque cuestiona una práctica muy instalada en las interconsultas prequirúrgicas.",
       "destacado": false
@@ -46,11 +45,31 @@
     "6f542f47043f": {
       "resumen": "El jugador de Los Pumas 7s Martiniano Arrieta habló tras consagrarse campeón y destacó lo que significa jugar en Argentina con el apoyo de su familia y amigos cerca."
     },
-    "229bc179a6bd": {
-      "resumen": "El capitán de Los Pumas, Pablo Matera, se refirió al objetivo del Mundial 2027 y al próximo desafío del equipo en el Nations Championship de noviembre."
+    "4686aae02a8d": {
+      "resumen": "La Unión Argentina de Rugby confirmó el plantel de Los Pumas 7s que representará al país en los Juegos Olímpicos de la Juventud."
     },
-    "e0b585030c36": {
-      "resumen": "Repaso de los nombres que suenan como candidatos para reemplazar a Andrés Bordoy en el cuerpo técnico de Los Pumas."
+    "445abe694a02": {
+      "resumen": "Los Pumas Seven serán parte de los festejos deportivos del verano en Mar del Plata, según adelantó el Diario La Capital."
+    },
+    "f26a8f58f670": {
+      "resumen": "56k.rip es un sitio que recrea la experiencia de navegar por internet en 1996 con un módem dial-up de 56k, con la lentitud de carga y los sonidos de conexión de la época. No es ciencia de datos en sí, pero sirve como recordatorio tangible de cuánto pesan la latencia y el ancho de banda en la experiencia de usuario, algo para tener presente al diseñar tableros o aplicaciones de datos que se van a usar con conexiones lentas.",
+      "destacado": false
+    },
+    "aa61e9fcbdd3": {
+      "resumen": "Artículo de The Space Review que repasa la historia de URSALA, RAQUEL y FARRAH, satélites espía estadounidenses que permanecieron en secreto durante décadas. Le aporta a un médico que aprende ciencia de datos una mirada sobre cómo se gestionó y desclasificó información sensible a largo plazo, un tema afín a la gobernanza de datos sensibles, como los datos clínicos.",
+      "destacado": false
+    },
+    "562470c22e28": {
+      "resumen": "Simon Willison cuenta su visita al Museo de la Ciudad de Nueva York para ver \"He Built This City\", una maqueta de la ciudad hecha en balsa y cartón por Joe Macken a lo largo de 21 años. Para un médico que aprende ciencia de datos, el valor está en el paralelismo con cualquier proyecto de análisis de largo aliento: la acumulación paciente de detalle y la revisión constante son las que terminan dando una representación fiel de la realidad.",
+      "destacado": false
+    },
+    "975f57653267": {
+      "resumen": "Google presentó Gemini 4 Argon, la nueva versión de su familia de modelos de inteligencia artificial. Le sirve a un médico que aprende ciencia de datos porque estos modelos de lenguaje de gran escala son cada vez más la puerta de entrada para analizar datos, programar y automatizar tareas sin necesitar dominar en profundidad un lenguaje de programación.",
+      "destacado": false
+    },
+    "7b8aef4d2a36": {
+      "resumen": "Halfspace es un entorno de desarrollo experimental para modelado 3D sólido basado en campos de distancia con signo (SDF, signed distance fields), una forma de representar geometrías mediante funciones matemáticas en vez de mallas. Le sirve a un médico que aprende ciencia de datos como ejemplo de cómo representar formas complejas con funciones matemáticas, una lógica emparentada con el procesamiento de imágenes médicas volumétricas.",
+      "destacado": false
     },
     "589f178da769": {
       "resumen": "Hilo de la comunidad r/datascience sobre clasificación de objetos combinando múltiples barridos de radar sobre el dataset RadarScenes. Le sirve a un médico que aprende ciencia de datos como ejemplo de cómo aprovechar información temporal repetida de un sensor para mejorar una clasificación, un enfoque trasladable al análisis de señales biomédicas seriadas.",
@@ -64,10 +83,6 @@
       "resumen": "Artículo de Towards Data Science sobre cómo la forma de representar los mismos datos puede cambiar la interpretación que se hace de ellos. Le sirve a un médico que aprende ciencia de datos porque advierte sobre un riesgo central al comunicar resultados clínicos: elegir mal el gráfico puede sesgar la lectura de la evidencia.",
       "destacado": false
     },
-    "09f54a7fb5d1": {
-      "resumen": "Repaso histórico de IEEE Spectrum sobre el desarrollo de la terminal Bloomberg, una de las plataformas de datos financieros más influyentes. Le sirve a un médico que aprende ciencia de datos como caso de estudio de cómo se diseñó un sistema pionero para presentar datos complejos de forma rápida y usable.",
-      "destacado": false
-    },
     "0760036a0dc9": {
       "resumen": "Nota de KDnuggets sobre agentes de inteligencia artificial de OpenAI que llegaron a una propuesta de solución para un problema matemático mayor en 88 horas, y el debate sobre qué cuenta realmente como un descubrimiento hecho por inteligencia artificial. Le sirve a un médico que aprende ciencia de datos para entender los límites y el debate actual sobre la autoría y validez de los hallazgos generados por IA.",
       "destacado": false
@@ -75,22 +90,6 @@
     "9d1713366e29": {
       "resumen": "Artículo de Towards Data Science que sostiene que, aunque los agentes de inteligencia artificial liberan tiempo para el análisis, la capacidad de generar insight (comprensión útil de los datos) sigue siendo lo que más vale, y que las prácticas de revisión deben adaptarse a ese cambio. Le sirve mucho a un médico que aprende ciencia de datos porque plantea cómo aprovechar la IA sin perder rigor crítico sobre los propios resultados.",
       "destacado": true
-    },
-    "0590de448e2d": {
-      "resumen": "Tutorial de Towards Data Science sobre cómo resolver conflictos al anidar medidas en DAX (el lenguaje de fórmulas de Power BI) cuando se sobreescribe un filtro ya aplicado. Le sirve a un médico que aprende ciencia de datos como guía práctica para construir reportes e indicadores en Power BI sin errores de cálculo.",
-      "destacado": false
-    },
-    "00c138f13897": {
-      "resumen": "Guía rápida de KDnuggets sobre Ollama, una herramienta para instalar y correr modelos de lenguaje localmente en la propia computadora sin depender de servicios en la nube. Le sirve a un médico que aprende ciencia de datos porque es una puerta de entrada práctica para experimentar con inteligencia artificial preservando la privacidad de los datos, algo clave en el ámbito clínico.",
-      "destacado": false
-    },
-    "2e3d5dcc0b0c": {
-      "resumen": "Entrada de blog que discute cuándo conviene o no usar el protocolo MCP (Model Context Protocol), el estándar que permite conectar modelos de inteligencia artificial con herramientas externas. Le sirve a un médico que aprende ciencia de datos para entender los criterios prácticos detrás de una tecnología cada vez más presente en las herramientas de IA que podría llegar a usar.",
-      "destacado": false
-    },
-    "bf2e738d2e1a": {
-      "resumen": "Proyecto de Hacker News (Livenerf) que monitorea en tiempo real si el modelo de inteligencia artificial Opus 5.5, de Anthropic, perdió calidad de respuesta con el tiempo, un fenómeno que la comunidad llama \"nerfeo\". Le sirve a un médico que aprende ciencia de datos porque ilustra cómo evaluar de forma continua y objetiva el desempeño de un modelo de lenguaje en producción, algo clave si en el futuro depende de herramientas de inteligencia artificial para su trabajo.",
-      "destacado": false
     }
   }
 }

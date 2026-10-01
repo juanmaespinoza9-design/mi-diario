@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T10:05:59Z",
+  "generated_at": "2026-10-01T22:08:09Z",
   "summaries": {
     "64c812aaed04": {
       "resumen": "Surmodics adquirió la unidad de negocio Alta Biomed, lo que amplía su oferta de tecnología de superficies hemocompatibles (que reducen la formación de coágulos en contacto con dispositivos médicos) y de testeo analítico para la industria de dispositivos cardiovasculares. Es una noticia más corporativa que clínica, pero vale la pena tenerla en el radar porque este tipo de tecnología de recubrimientos termina incidiendo en la seguridad de catéteres, stents y otros dispositivos de uso diario.",
@@ -13,18 +13,9 @@
       "resumen": "Transmisión en vivo de TCTMD de un reemplazo valvular tricuspídeo percutáneo (TTVR, transcatheter tricuspid valve replacement) con el dispositivo Lux Valve, realizado en el Montreal Heart Institute. Vale la pena mirarlo porque el reemplazo tricuspídeo percutáneo todavía es una técnica en expansión y ver el procedimiento en vivo ayuda a entender su curva de aprendizaje.",
       "destacado": false
     },
-    "ce01c7714ef6": {
-      "resumen": "Repaso mensual de TCTMD con las noticias más relevantes de cardiología de septiembre 2026. Útil para tener un pantallazo rápido de la agenda del mes en la especialidad.",
-      "destacado": false
-    },
     "4b631a5208db": {
       "resumen": "Declaración científica 2026 del ACC (American College of Cardiology, Colegio Americano de Cardiología) sobre el rol de la nutrición en la prevención y el manejo de la enfermedad cardiovascular, publicada en JACC. Vale la pena mirarla porque actualiza las recomendaciones dietéticas basadas en evidencia que se trasladan directamente a la consulta diaria.",
       "destacado": false
-    },
-    "e93e636e9dcb": {
-      "resumen": "Nota de TCTMD sobre un informe de la Heart Failure Society of America (HFSA, Sociedad Americana de Insuficiencia Cardíaca) que señala que las clínicas especializadas en insuficiencia cardíaca no están ubicadas donde más se las necesita. Vale la pena mirarlo porque pone en evidencia una brecha de acceso geográfico a la atención especializada de una enfermedad de alta carga y mortalidad.",
-      "destacado": false,
-      "analisis": "Diseño: por el título, se trata de un informe (probablemente un análisis ecológico o geográfico) de la Heart Failure Society of America (HFSA) que compara la ubicación de clínicas especializadas en insuficiencia cardíaca con la necesidad poblacional; TCTMD no permite precisar la metodología exacta, la fuente de datos ni el período analizado.\nPoblación: población general de Estados Unidos con riesgo o diagnóstico de insuficiencia cardíaca, comparada según la disponibilidad de clínicas especializadas en su área geográfica.\nIntervención: no hay una intervención terapéutica; es un análisis de distribución geográfica de recursos asistenciales frente a la carga de enfermedad.\nResultados: el título indica que las clínicas \"faltan donde más se necesitan\", pero no hay cifras, proporciones ni valor de p disponibles sin el informe completo.\nLimitaciones: sin el informe completo no se puede evaluar la fuente de los datos de necesidad poblacional, si se ajustó por factores socioeconómicos, ni la definición operativa de \"clínica especializada\".\nMensaje: si se confirma, respalda la necesidad de planificar la expansión de clínicas de insuficiencia cardíaca según criterios de equidad y carga de enfermedad, y no solo de demanda de mercado.\nNota: análisis sin acceso al abstract."
     },
     "ed764c41965f": {
       "resumen": "Artículo de perspectiva en JACC (Journal of the American College of Cardiology) que plantea dejar atrás el concepto tradicional de \"clearance cardiológico\" preoperatorio a favor de una evaluación de riesgo cardiovascular centrada en el paciente. Interesa porque cuestiona una práctica muy instalada en las interconsultas prequirúrgicas.",
@@ -32,7 +23,7 @@
     },
     "f80155baf6a1": {
       "resumen": "Nueva guía conjunta 2026 de la AHA (American Heart Association) y el ACC (American College of Cardiology), junto a otras ocho sociedades, sobre el manejo cardiovascular perioperatorio en cirugía no cardíaca. Es un documento clave porque actualiza el estándar de evaluación y conducta con el paciente cardiópata que va a cirugía.",
-      "destacado": true
+      "destacado": false
     },
     "c7965ca27152": {
       "resumen": "Artículo de JACC (Journal of the American College of Cardiology) que analiza el rol de las intervenciones sobre el sistema linfático para tratar la enteropatía perdedora de proteínas, una complicación infrecuente pero grave vinculada a ciertas cardiopatías congénitas. Vale la pena mirarlo porque plantea si esta terapia es una alternativa prometedora o un recurso de último recurso.",
@@ -42,54 +33,63 @@
       "resumen": "Revisión publicada en el European Heart Journal (Revista Europea del Corazón) sobre la relación entre la fibrilación auricular (FA), la arritmia sostenida más frecuente en la práctica clínica, y la muerte súbita cardíaca. Repasa los mecanismos fisiopatológicos que las vinculan, el manejo actual y los nuevos blancos terapéuticos en investigación. Vale la pena mirarla como puesta al día de un vínculo -FA y muerte súbita- todavía no saldado del todo en la literatura.",
       "destacado": false
     },
-    "6f542f47043f": {
-      "resumen": "El jugador de Los Pumas 7s Martiniano Arrieta habló tras consagrarse campeón y destacó lo que significa jugar en Argentina con el apoyo de su familia y amigos cerca."
-    },
-    "4686aae02a8d": {
-      "resumen": "La Unión Argentina de Rugby confirmó el plantel de Los Pumas 7s que representará al país en los Juegos Olímpicos de la Juventud."
-    },
-    "445abe694a02": {
-      "resumen": "Los Pumas Seven serán parte de los festejos deportivos del verano en Mar del Plata, según adelantó el Diario La Capital."
-    },
-    "f26a8f58f670": {
-      "resumen": "56k.rip es un sitio que recrea la experiencia de navegar por internet en 1996 con un módem dial-up de 56k, con la lentitud de carga y los sonidos de conexión de la época. No es ciencia de datos en sí, pero sirve como recordatorio tangible de cuánto pesan la latencia y el ancho de banda en la experiencia de usuario, algo para tener presente al diseñar tableros o aplicaciones de datos que se van a usar con conexiones lentas.",
-      "destacado": false
-    },
-    "aa61e9fcbdd3": {
-      "resumen": "Artículo de The Space Review que repasa la historia de URSALA, RAQUEL y FARRAH, satélites espía estadounidenses que permanecieron en secreto durante décadas. Le aporta a un médico que aprende ciencia de datos una mirada sobre cómo se gestionó y desclasificó información sensible a largo plazo, un tema afín a la gobernanza de datos sensibles, como los datos clínicos.",
-      "destacado": false
-    },
     "562470c22e28": {
       "resumen": "Simon Willison cuenta su visita al Museo de la Ciudad de Nueva York para ver \"He Built This City\", una maqueta de la ciudad hecha en balsa y cartón por Joe Macken a lo largo de 21 años. Para un médico que aprende ciencia de datos, el valor está en el paralelismo con cualquier proyecto de análisis de largo aliento: la acumulación paciente de detalle y la revisión constante son las que terminan dando una representación fiel de la realidad.",
-      "destacado": false
-    },
-    "975f57653267": {
-      "resumen": "Google presentó Gemini 4 Argon, la nueva versión de su familia de modelos de inteligencia artificial. Le sirve a un médico que aprende ciencia de datos porque estos modelos de lenguaje de gran escala son cada vez más la puerta de entrada para analizar datos, programar y automatizar tareas sin necesitar dominar en profundidad un lenguaje de programación.",
-      "destacado": false
-    },
-    "7b8aef4d2a36": {
-      "resumen": "Halfspace es un entorno de desarrollo experimental para modelado 3D sólido basado en campos de distancia con signo (SDF, signed distance fields), una forma de representar geometrías mediante funciones matemáticas en vez de mallas. Le sirve a un médico que aprende ciencia de datos como ejemplo de cómo representar formas complejas con funciones matemáticas, una lógica emparentada con el procesamiento de imágenes médicas volumétricas.",
       "destacado": false
     },
     "589f178da769": {
       "resumen": "Hilo de la comunidad r/datascience sobre clasificación de objetos combinando múltiples barridos de radar sobre el dataset RadarScenes. Le sirve a un médico que aprende ciencia de datos como ejemplo de cómo aprovechar información temporal repetida de un sensor para mejorar una clasificación, un enfoque trasladable al análisis de señales biomédicas seriadas.",
       "destacado": false
     },
-    "1ddd79459766": {
-      "resumen": "Hilo de r/datascience donde profesionales comparten su experiencia especializándose en datos geoespaciales. Le sirve a un médico que aprende análisis de datos porque el análisis geoespacial es cada vez más relevante en epidemiología, por ejemplo para mapear brotes o el acceso a centros de salud.",
+    "4b4cf7192456": {
+      "resumen": "CREST-2 es un ensayo clínico que compara la revascularización carotídea (endarterectomía o colocación de stent) sumada a tratamiento médico intensivo, contra el tratamiento médico intensivo solo, en pacientes con estenosis carotídea asintomática severa. Esta nueva entrega de datos refuerza que la revascularización no mejora el desempeño cognitivo de los pacientes, un hallazgo relevante porque parte de la justificación histórica para operar lesiones asintomáticas incluía supuestos beneficios cognitivos. Vale la pena mirarlo porque cuestiona la indicación de revascularizar carótidas asintomáticas por fuera de la prevención del accidente cerebrovascular.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico aleatorizado (CREST-2), con dos cohortes paralelas (endarterectomía + tratamiento médico intensivo vs. stent + tratamiento médico intensivo, cada una comparada contra tratamiento médico intensivo solo); el título no permite precisar centros, tamaño muestral exacto ni cegamiento.\nPoblación: pacientes con estenosis carotídea asintomática significativa; no se detallan en el título los criterios exactos de inclusión/exclusión.\nIntervención: revascularización carotídea (endarterectomía o stent) sumada a tratamiento médico intensivo, comparada contra tratamiento médico intensivo solo.\nResultados: la nota indica ausencia de beneficio cognitivo de la revascularización frente al tratamiento médico intensivo solo; no hay razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar el tamaño muestral, el seguimiento ni la batería neuropsicológica usada para medir cognición.\nMensaje: refuerza que, en estenosis carotídea asintomática, el tratamiento médico intensivo solo logra resultados cognitivos comparables a la revascularización, lo que debería hacer repensar indicaciones quirúrgicas basadas en supuestos beneficios cognitivos.\nNota: análisis sin acceso al abstract."
+    },
+    "b91d39aca85a": {
+      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) amplió la indicación de mavacamten, un inhibidor de la miosina cardíaca, para incluir a pacientes pediátricos con miocardiopatía hipertrófica obstructiva (HCM, hypertrophic cardiomyopathy). Vale la pena mirarlo porque hasta ahora el fármaco estaba aprobado solo para adultos, y esta ampliación abre una opción de tratamiento médico para una población pediátrica donde las alternativas no quirúrgicas son limitadas.",
       "destacado": false
     },
-    "317396e5ea0b": {
-      "resumen": "Artículo de Towards Data Science sobre cómo la forma de representar los mismos datos puede cambiar la interpretación que se hace de ellos. Le sirve a un médico que aprende ciencia de datos porque advierte sobre un riesgo central al comunicar resultados clínicos: elegir mal el gráfico puede sesgar la lectura de la evidencia.",
+    "ba6ad1e1876f": {
+      "resumen": "Felipe Contepomi, head coach de Los Pumas, evaluó el proceso del equipo a un año del Mundial de Rugby 2027 y aseguró que van por el camino correcto."
+    },
+    "8c8b5c9c3536": {
+      "resumen": "Guía con los horarios para seguir desde Argentina los partidos de Los Pumas en la gira por Australia 2027."
+    },
+    "ec12e2581e1b": {
+      "resumen": "Felipe Contepomi repasó el presente de Los Pumas a un año del Mundial de Rugby 2027 y afirmó que el equipo transita el camino correcto."
+    },
+    "ebb2d7850d0e": {
+      "resumen": "Cloudflare presentó Clef, una plataforma de código abierto para modelos de decisión y ajuste fino mediante aprendizaje por refuerzo (RL, reinforcement learning). Le sirve a un médico que aprende ciencia de datos porque ejemplifica cómo entrenar modelos orientados a tomar decisiones, y no solo a predecir, algo aplicable a sistemas de apoyo a decisiones clínicas.",
       "destacado": false
     },
-    "0760036a0dc9": {
-      "resumen": "Nota de KDnuggets sobre agentes de inteligencia artificial de OpenAI que llegaron a una propuesta de solución para un problema matemático mayor en 88 horas, y el debate sobre qué cuenta realmente como un descubrimiento hecho por inteligencia artificial. Le sirve a un médico que aprende ciencia de datos para entender los límites y el debate actual sobre la autoría y validez de los hallazgos generados por IA.",
+    "a4d5be1f0220": {
+      "resumen": "El blog de Turbopuffer argumenta que las bases de datos vectoriales dedicadas están perdiendo sentido frente a motores de búsqueda híbridos que combinan búsqueda vectorial y tradicional. Le sirve a un médico que aprende ciencia de datos porque la búsqueda vectorial, usada para recuperar información similar como historias clínicas parecidas, es una pieza clave de los sistemas de inteligencia artificial generativa con los que va a interactuar cada vez más.",
       "destacado": false
     },
-    "9d1713366e29": {
-      "resumen": "Artículo de Towards Data Science que sostiene que, aunque los agentes de inteligencia artificial liberan tiempo para el análisis, la capacidad de generar insight (comprensión útil de los datos) sigue siendo lo que más vale, y que las prácticas de revisión deben adaptarse a ese cambio. Le sirve mucho a un médico que aprende ciencia de datos porque plantea cómo aprovechar la IA sin perder rigor crítico sobre los propios resultados.",
+    "ac69f2367e00": {
+      "resumen": "Un artículo de opinión de Techrights plantea que Red Hat, la empresa detrás de distribuciones de Linux muy usadas en infraestructura de cómputo científico, estaría perdiendo peso dentro de IBM. Le aporta a un médico que aprende ciencia de datos contexto sobre la salud del ecosistema de software de código abierto sobre el que corren muchas herramientas de análisis de datos, aunque conviene leerlo con cautela por el tono crítico del sitio.",
+      "destacado": false
+    },
+    "1577ae1d5341": {
+      "resumen": "El artículo compara autoencoders, redes neuronales para comprimir datos, con el análisis de componentes principales (PCA, principal component analysis), una técnica estadística clásica de reducción de dimensionalidad, y muestra que incluso diseñando la prueba a favor de los autoencoders, el PCA iguala o supera su desempeño en el benchmark elegido. Le sirve a un médico que aprende ciencia de datos como recordatorio de que las técnicas estadísticas clásicas y más simples siguen siendo una opción sólida y más interpretable frente a métodos de aprendizaje profundo más complejos.",
+      "destacado": false
+    },
+    "8ca2633994ab": {
+      "resumen": "Figma restringió el acceso a su protocolo MCP (Model Context Protocol, el estándar que usan los asistentes de inteligencia artificial para conectarse a herramientas externas) a una lista de clientes autorizados, lo que dejó afuera al asistente Pi. Le sirve a un médico que aprende ciencia de datos para entender que las conexiones entre modelos de IA y herramientas externas dependen de permisos que las empresas pueden restringir en cualquier momento.",
+      "destacado": false
+    },
+    "e12bc6f6e8ce": {
+      "resumen": "El autor analiza un agente de búsqueda de departamentos basado en un modelo de lenguaje, usando trazas registradas con Weights & Biases Weave, y logra reducir la cantidad de llamadas al modelo sin perder calidad en los resultados. Le sirve mucho a un médico que aprende ciencia de datos porque ilustra un método concreto para optimizar el costo y la velocidad de un agente de inteligencia artificial sin resignar precisión, algo aplicable a cualquier flujo de trabajo clínico automatizado.",
       "destacado": true
+    },
+    "d0a65bfd64ae": {
+      "resumen": "El artículo repasa la historia de la función de activación ReLU (unidad lineal rectificada) en redes neuronales y cómo su adopción se basó en resultados empíricos más que en una justificación biológica estricta. Le sirve a un médico que aprende ciencia de datos para entender que los modelos de inteligencia artificial inspirados en el cerebro son aproximaciones prácticas y no representaciones fieles de la neurobiología real.",
+      "destacado": false
+    },
+    "4fb3caa1bad2": {
+      "resumen": "Simon Willison cita una reflexión del criptógrafo Matthew Green sobre cómo agentes de inteligencia artificial que se comunican entre sí podrían propagar instrucciones maliciosas igual que un gusano informático. Le sirve a un médico que aprende ciencia de datos porque anticipa riesgos de seguridad propios de los sistemas multiagente de inteligencia artificial, cada vez más usados para automatizar tareas, incluidas las de análisis de datos.",
+      "destacado": false
     }
   }
 }

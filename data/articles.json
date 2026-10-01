@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T06:09:29.481872+00:00",
+ "generated_at": "2026-10-01T13:32:30.829818+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -74,12 +74,28 @@
      "id": "c7965ca27152"
     },
     {
-     "title": "Atrial fibrillation and sudden cardiac death: mechanisms, management, and new therapeutic targets",
-     "link": "https://academic.oup.com/eurheartj/article/47/36/5043/8824290?rss=1",
-     "source": "European Heart Journal",
-     "published": "2026-09-22T00:00:00+00:00",
-     "copete": "For image description, please refer to the figure legend and surrounding text.",
-     "id": "da93a6b1e3b6"
+     "title": "Epigenome-Wide Association Study of Abdominal Aortic Aneurysm Identifies Central Role for Inflammatory Pathways",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42808173/",
+     "source": "Circulation",
+     "published": "2026-09-29T00:00:00+00:00",
+     "copete": "Yuan S et al. · Circulation",
+     "id": "e9e0cf7520d5"
+    },
+    {
+     "title": "The Association Between Hospital Comprehensive Stroke Center Designation Status and Stroke Rate Reporting in the Society of Thoracic Surgeons/American College of Cardiology Transcatheter Valve Therapy Registry After Transcatheter Aortic Valve Replacement: Implications for Hospital Performance Assessment",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42808167/",
+     "source": "Circulation",
+     "published": "2026-09-29T00:00:00+00:00",
+     "copete": "Deeb GM et al. · Circulation",
+     "id": "faa810ad34ae"
+    },
+    {
+     "title": "Identification of Secreted Modular Calcium-Binding Protein 1 as a Novel Endogenous Protective Molecule Against Acute Myocardial Infarction-Induced Cardiac Rupture",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42808155/",
+     "source": "Circulation",
+     "published": "2026-09-29T00:00:00+00:00",
+     "copete": "Gong W et al. · Circulation",
+     "id": "d18d6867a6c1"
     }
    ]
   },
@@ -88,6 +104,45 @@
    "title": "Deportes",
    "mode": "titulares",
    "items": [
+    {
+     "title": "En datos: el déficit de River que Ponzio busca corregir",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-leonardo-ponzio_0_p1fkPuSZCa.html",
+     "source": "Olé — River",
+     "published": "2026-10-01T13:11:37+00:00",
+     "copete": "En la temporada, River es el equipo que más ocasiones claras de gol falló: un margen de error que deberá disminuir de cara a partidos decisivos.",
+     "id": "6b83c5fe748e"
+    },
+    {
+     "title": "Vuelve el Nacional de Clubes Femenino",
+     "link": "https://uar.com.ar/vuelve-el-nacional-de-clubes-femenino/",
+     "source": "UAR",
+     "published": "2026-10-01T13:11:12+00:00",
+     "copete": "El rugby de clubes tendrá su máxima cita en la rama femenina con el Nacional de Clubes Femenino, que se desarrollará el viernes 2 y domingo 4 de octubre en las instalaciones de Carlos Paz Rugby Club, en Córdoba. Más de 380 jugadoras…",
+     "id": "3b45aa5c3544"
+    },
+    {
+     "title": "Tras ser desafectado de Selección: ¿cómo evoluciona Andrada en su regreso a River?",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-tobias-andrada_0_XeRQJSUgvD.html",
+     "source": "Olé — River",
+     "published": "2026-10-01T12:42:39+00:00",
+     "copete": "El joven ya dio vuelta la página y puso el foco en los próximos desafíos que tiene River.",
+     "id": "ead73576bcea"
+    },
+    {
+     "title": "Los Pumas en Australia 2027: cuándo juegan y a qué hora verlos desde Argentina",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPempnLW1hY0ExME5GTi0wX0MzZFBLdTBOS2dDNk1ldTBjbUN3Q3dwRXg5N0hRWTAyUE9paEZXRW5fNFVhOFRCRnQ2ak9peDRob0lsS0FtWHp5WlVIVVdzcTh1TDB6eldyU25vX1JIdWV5YV9jQnVqcXZOZWtQeDNxcThsbzVlTnFGa2RPR0JzSlRCbUdDYXNNcDJvRENpVm1vby1NSGt3?oc=5",
+     "source": "Cordoba XV",
+     "published": "2026-10-01T12:23:01+00:00",
+     "id": "8c8b5c9c3536"
+    },
+    {
+     "title": "River, hoy EN VIVO: cómo sigue la puesta a punto en el Camp y otras noticias del jueves 1 de octubre",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-entrenamiento-ponzio_0_KRR7EuzWO0.html",
+     "source": "Olé — River",
+     "published": "2026-10-01T12:14:01+00:00",
+     "copete": "Sigue el trabajo pensando en las próximas fechas post fecha FIFA.",
+     "id": "9c767138a4d2"
+    },
     {
      "title": "Los Pumas 7s ya tienen plantel para los Juegos Olímpicos de la Juventud",
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOE5pOXNKZUw3cXVXajAzaVdHZUpWbDc0S2phak1vdTYtb1A4ZFZIN0tHZWZKRVZsbkQ5cnlOS1Jic080QzAyVjktUTNWZnp4YTNaUDlLWVFrY2w5RVVTazdZNUpJYjNiWnZEckNqbkdRbWY3RlJ6Umx0ZFdiT3YtTG4yN1ZnQ2Z1SzVRbGFYWF9lYW9xZDd0XzVXY1FNQ3FoU1lTN29FcFNDUDF4?oc=5",
@@ -151,51 +206,12 @@
      "id": "5d9860c99caa"
     },
     {
-     "title": "El plan de Ponzio en River durante el receso: darle pelota a todos los jugadores del plantel",
-     "link": "https://www.ole.com.ar/river-plate/river-ponzio-jugadores-receso-fecha-fifa_0_7Vwf5RPb4R.html",
-     "source": "Olé — River",
-     "published": "2026-09-30T21:58:50+00:00",
-     "copete": "Aprovechando por la fecha FIFA, el DT se enfoca en que todos los futbolistas mantengan rodaje e intensidad de juego con ejercicios técnicos y tácticos.",
-     "id": "40e4fedebaff"
-    },
-    {
-     "title": "River, con todo en juego: las cuentas para cerrar 2026 y meterse en la Libertadores 2027",
-     "link": "https://www.ole.com.ar/river-plate/river-copa-libertadores-2027-cupos-clasificarse_0_N3eBZ7r0la.html",
-     "source": "Olé — River",
-     "published": "2026-09-30T20:44:02+00:00",
-     "copete": "Al equipo de Ponzio le quedan partidos decisivos para definir cómo termina un año muy flojo y qué competencia internacional disputará el año próximo.",
-     "id": "a7dec8d68f49"
-    },
-    {
-     "title": "A la espera de Santiago Beltrán, el arquero que firmó su renovación con River",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-ezequiel-centurion-renovacion-contrato-santiago-beltran_0_yED7H1MZLZ.html",
-     "source": "Olé — River",
-     "published": "2026-09-30T20:03:00+00:00",
-     "copete": "Ezequiel Centurión llegó a un acuerdo para extender su vínculo en Núñez. Acá, los detalles.",
-     "id": "fc7de0eee1a1"
-    },
-    {
-     "title": "Martiniano Arrieta, tras el oro con Los Pumas 7s: “Jugar en Argentina y sentir la banca de tu familia y amigos es un plus increíble”",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbVRJZXZfU09NVDhGRzVRQVRxUVZEYTFjYnJfMDBXd290emFwZ2hULTNtcmVOX01sWGNFbGNRM21HUW1HMjE5T0UyNldoYkk2YUNieElOTkNDRl9ZVU4zbzhMWDJTTDFDVzZIc3NrWmI0bkNwc3lvbEZ6UkZVb3Fwdm8tSkR4TGhoUEozamgtZlZKem52WUJnenlibTZveHZTLTJyVjhQN2czd1hkS29CVXcwUVF0V3JFZ3lsVk52Tl9iRmIzTXhOdmlVRTZTNmQyTEpyY1ZXUm1GOHh0SWFOU2pUcTR1cjRM0gHuAUFVX3lxTFBYNmdwN3RVNUo2VUhhaF9SMGhwcVZFVTRVT24wWk5pZ1ZFcGR3R0dEWVhLbl9yVnhmM1VOcG5Jc1Azc1k3Y0Z5MnNzNlE1NzhibFMtNmxlVnlvTDVNU2tDUkxVZjhvU0FsakE3MHI1anBwd3FDS1o1bjg0WHE2aEZldzVNSUM1NllhQmo5ZGlpTExWQlpwLTlOempLSU5pSzgyQ2UzRG52V2pDbkhNcUFaY3F2aWxwczBHTE5FN2R5ZXlpeTV6c3lLTVk0aEZ4S05VR1ZwdnM3MUlMNmF5RjlvcjFjS2xUZDNaR2hWaWc?oc=5",
-     "source": "La Gaceta",
-     "published": "2026-09-30T15:59:55+00:00",
-     "id": "6f542f47043f"
-    },
-    {
      "title": "Tala y Jockey de Rosario definirán al gran campeón del Torneo del Interior Copa Zurich 2026",
      "link": "https://uar.com.ar/tala-y-jockey-de-rosario-definiran-al-gran-campeon-del-torneo-del-interior-copa-zurich-2026/",
      "source": "UAR",
      "published": "2026-09-30T14:12:16+00:00",
      "copete": "Este sábado, desde las 16:00 h, Tala RC recibirá a Jockey Club de Rosario en lo que será la gran final del Torneo del Interior Copa Zurich 2026. Ambos conjuntos llegan con un antecedente en común: saben lo que es coronarse como el mejor…",
      "id": "bc6133e178a2"
-    },
-    {
-     "title": "El Seven Masculino Juvenil ya tiene plantel para defender el oro en Dakar 2026",
-     "link": "https://uar.com.ar/el-seven-masculino-juvenil-ya-tiene-plantel-para-defender-el-oro-en-dakar-2026/",
-     "source": "UAR",
-     "published": "2026-09-29T20:31:22+00:00",
-     "copete": "Del 31 de octubre al 13 de noviembre, Dakar, Senegal, será sede de los Juegos Olímpicos de la Juventud 2026. El rugby seven volverá a ser parte del programa (del 1° al 3 de noviembre), con Argentina como campeón defensor. Doce jugadores…",
-     "id": "9cd4d0d870a7"
     }
    ]
   },
@@ -204,6 +220,52 @@
    "title": "Ciencia de datos e IA",
    "mode": "resumen",
    "items": [
+    {
+     "title": "What the ReLU Revolution Revealed About Biological Plausibility",
+     "link": "https://towardsdatascience.com/what-the-relu-revolution-revealed-about-biological-plausibility/",
+     "source": "Towards Data Science",
+     "published": "2026-10-01T12:30:01+00:00",
+     "copete": "The activation function was never a fixed biological commitment but a working hypothesis revised under empirical pressure. The post What the ReLU Revolution Revealed About Biological Plausibility appeared first on Towards Data Science .",
+     "id": "d0a65bfd64ae"
+    },
+    {
+     "title": "10 Python One-Liners That Will Make Your Code Cleaner and Faster",
+     "link": "https://www.kdnuggets.com/10-python-one-liners-that-will-make-your-code-cleaner-and-faster",
+     "source": "KDnuggets",
+     "published": "2026-10-01T12:00:14+00:00",
+     "copete": "Get work done, and have seconds added back to your life since you won't be writing second, third or — *gasp!* — fourth line follow-ups to your impeccable typed line numero uno.",
+     "id": "d32c99fd8138"
+    },
+    {
+     "title": "Returning from vacation? The government can search your phone without a warrant",
+     "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-10-01T11:13:59+00:00",
+     "id": "042e190492d6"
+    },
+    {
+     "title": "Your AI Bill Is a Toll Booth. Stop Paying Twice.",
+     "link": "https://towardsdatascience.com/your-ai-bill-is-a-toll-booth-stop-paying-twice/",
+     "source": "Towards Data Science",
+     "published": "2026-10-01T11:00:01+00:00",
+     "copete": "The budget nobody saw coming The post Your AI Bill Is a Toll Booth. Stop Paying Twice. appeared first on Towards Data Science .",
+     "id": "31b04f65ec44"
+    },
+    {
+     "title": "StreetComplete on iOS is now in public beta",
+     "link": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-10-01T10:59:57+00:00",
+     "id": "f7c3330b4cdd"
+    },
+    {
+     "title": "Quoting Matthew Green",
+     "link": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-10-01T06:29:01+00:00",
+     "copete": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave…",
+     "id": "4fb3caa1bad2"
+    },
     {
      "title": "56k.rip – the 1996 dial-up internet experience",
      "link": "https://56k.rip/",
@@ -227,56 +289,11 @@
      "id": "562470c22e28"
     },
     {
-     "title": "Gemini 4 Argon",
-     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-09-30T20:04:37+00:00",
-     "id": "975f57653267"
-    },
-    {
-     "title": "Halfspace experimental IDE for solid modeling with distance fields",
-     "link": "https://www.mattkeeter.com/projects/halfspace/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-09-30T19:44:37+00:00",
-     "id": "7b8aef4d2a36"
-    },
-    {
      "title": "Multi scan radar object classification on RadarScenes",
      "link": "https://www.reddit.com/r/datascience/comments/1wuc5j5/multi_scan_radar_object_classification_on/",
      "source": "r/datascience",
      "published": "2026-09-30T18:06:28+00:00",
      "id": "589f178da769"
-    },
-    {
-     "title": "Anyone specialize in geospatial data?",
-     "link": "https://www.reddit.com/r/datascience/comments/1wuapd4/anyone_specialize_in_geospatial_data/",
-     "source": "r/datascience",
-     "published": "2026-09-30T17:12:49+00:00",
-     "id": "1ddd79459766"
-    },
-    {
-     "title": "How Many Stories Can Your Data Tell?",
-     "link": "https://towardsdatascience.com/how-many-stories-can-your-data-tell/",
-     "source": "Towards Data Science",
-     "published": "2026-09-30T15:30:02+00:00",
-     "copete": "How the way we represent data can change what we think the data is saying The post How Many Stories Can Your Data Tell? appeared first on Towards Data Science .",
-     "id": "317396e5ea0b"
-    },
-    {
-     "title": "Did AI Just Solve One of Mathematics’ Biggest Problems?",
-     "link": "https://www.kdnuggets.com/did-ai-just-solve-one-of-mathematics-biggest-problems",
-     "source": "KDnuggets",
-     "published": "2026-09-30T14:00:26+00:00",
-     "copete": "OpenAI’s agents reached a proposed solution in 88 hours. But the human research that came before, and the controversy that followed, raise a harder question: what actually counts as an AI discovery?",
-     "id": "0760036a0dc9"
-    },
-    {
-     "title": "Insight Is Still the Currency of Data Science",
-     "link": "https://towardsdatascience.com/insight-is-still-the-currency-of-data-science/",
-     "source": "Towards Data Science",
-     "published": "2026-09-30T14:00:02+00:00",
-     "copete": "Coding agents give us more time for discovery and our review practices should follow the analysis The post Insight Is Still the Currency of Data Science appeared first on Towards Data Science .",
-     "id": "9d1713366e29"
     }
    ]
   },
@@ -286,99 +303,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "El Salvador: Asamblea Legislativa recibe proyecto presupuestario de USD 12,421 millones para el ejercicio 2027",
-     "link": "https://www.infobae.com/el-salvador/2026/10/01/el-salvador-asamblea-legislativa-recibe-proyecto-presupuestario-de-usd-12421-millones-para-el-ejercicio-2027/",
+     "title": "Comenzaron las obras para transformar un predio ferroviario de Villa Urquiza en un nuevo parque",
+     "link": "https://www.lanacion.com.ar/sociedad/comenzaron-las-obras-para-transformar-un-predio-ferroviario-de-villa-urquiza-en-un-nuevo-parque-nid01102026/",
+     "source": "La Nación",
+     "published": "2026-10-01T13:25:47+00:00",
+     "copete": "La intervención sumará 5920 metros cuadrados de superficie verde junto a la estación Juan Manuel de Rosas; el terreno estuvo ocupado hasta este año por canchas de fútbol con la concesión vencida",
+     "id": "46c5789d1eb9"
+    },
+    {
+     "title": "El laberinto sindical de los árbitros: gremios enfrentados, cargos cruzados y un poder que se mezcla con la AFA",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/el-laberinto-sindical-de-los-arbitros-gremios-enfrentados-cargos-cruzados-y-un-poder-que-se-mezcla-nid01102026/",
+     "source": "La Nación",
+     "published": "2026-10-01T13:24:10+00:00",
+     "copete": "Federico Beligoy conduce la AAA, el Sadra quedó marginado y la UADA nació bajo el ala de Pablo Toviggino",
+     "id": "628304f56f64"
+    },
+    {
+     "title": "Juicio de los Cuadernos: las imágenes de los allanamientos a las casas de CFK en Santa Cruz",
+     "link": "https://www.infobae.com/judiciales/2026/10/01/juicio-de-los-cuadernos-declaran-mas-testigos-de-allanamientos-y-procedimientos/",
      "source": "Infobae",
-     "published": "2026-10-01T06:04:19+00:00",
-     "copete": "La iniciativa presupuestaria de Hacienda contempla USD 12,421 millones, un aumento de USD 1,865 millones frente a los recursos aprobados para 2026, lo que representa una aumento del 17.7%.",
-     "id": "1eafbd25984b"
+     "published": "2026-10-01T13:23:39+00:00",
+     "copete": "En la audiencia se exhibieron fotos de las cajas fuertes tomadas en la casa de la ex presidenta en Rio Gallegos y filmaciones de la casa en Calafate. El Tribunal la juzga por supuestos sobornos en la obra pública nacional entre 2003 y 2015",
+     "id": "41bb8e87cb65"
     },
     {
-     "title": "Tiene 18 años, es heredero de una dinastía política y se consolida como cantante: “Amo la música desde que tengo memoria”",
-     "link": "https://www.lanacion.com.ar/revista-hola/tiene-18-anos-heredero-de-una-dinastia-politica-se-consolida-como-cantante-amo-la-musica-desde-que-nid01102026/",
+     "title": "Elecciones Brasil 2026, EN VIVO: Lula vs. Bolsonaro Jr.  y las últimas noticias hoy",
+     "link": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-lula-vs-bolsonaro-jr-y-las-ultimas-noticias-hoy-nid01102026/",
      "source": "La Nación",
-     "published": "2026-10-01T06:00:00+00:00",
-     "copete": "Conocido como Xav, sin apellido, el hijo mayor de Justin Trudeau es una estrella emergente del R&B canadiense",
-     "id": "35c26b15e91d"
+     "published": "2026-10-01T13:23:14+00:00",
+     "copete": "Los últimos sondeos de intención de voto marcan un panorama reñido entre Flavio Bolsonaro e Luiz Inácio “Lula” da Silva; los comicios tendrán lugar el domingo 4 de octubre",
+     "id": "78bd1913d539"
     },
     {
-     "title": "Texas aumenta desde el 1° de octubre un pago de hasta US$1314 semanales para algunos trabajadores",
-     "link": "https://www.lanacion.com.ar/estados-unidos/texas/texas-aumenta-desde-el-1-de-octubre-un-pago-de-hasta-us1314-semanales-para-algunos-trabajadores-nid01102026/",
+     "title": "Netanyahu afirma que el copiloto omaní de Flydubai fue sometido a un “adoctrinamiento islamista radical”",
+     "link": "https://www.lanacion.com.ar/el-mundo/netanyahu-afirma-que-el-copiloto-omani-de-flydubai-fue-sometido-a-un-adoctrinamiento-islamista-nid01102026/",
      "source": "La Nación",
-     "published": "2026-10-01T06:00:00+00:00",
-     "copete": "Conoce los nuevos topes de compensación laboral en Texas desde el 1° de octubre y quiénes pueden recibir hasta US$1314 por semana.",
-     "id": "6cc1ed119fa3"
+     "published": "2026-10-01T13:23:14+00:00",
+     "copete": "Emiratos investiga si hubo una motivación terrorista y funcionarios israelíes buscan esclarecer posibles fallas de seguridad;",
+     "id": "07622d7790b3"
     },
     {
-     "title": "Corría desorientada por la ruta 16, cuando un matrimonio la vio desde el auto: “Tenía el cuerpo cubierto de tumores”",
-     "link": "https://www.lanacion.com.ar/lifestyle/corria-desorientada-por-la-ruta-16-cuando-un-matrimonio-la-vio-desde-el-auto-tenia-el-cuerpo-nid01102026/",
-     "source": "La Nación",
-     "published": "2026-10-01T06:00:00+00:00",
-     "copete": "La encontraron con una soga atada al cuello y en un estado de delgadez extrema; la historia de su rescate y recuperación",
-     "id": "5183d6b2b4f4"
-    },
-    {
-     "title": "Revista Lugares 366. Octubre 2026.",
-     "link": "https://www.lanacion.com.ar/revista-lugares/tapas/revista-lugares-366-octubre-2026-nid01102026/",
-     "source": "La Nación",
-     "published": "2026-10-01T06:00:00+00:00",
-     "id": "3b41b06d5b66"
-    },
-    {
-     "title": "Aseguran que Christa Pike sobrevivió a dos inyecciones letales durante su ejecución en Tennessee",
-     "link": "https://www.lanacion.com.ar/estados-unidos/aseguran-que-christa-pike-sobrevivio-a-dos-inyecciones-letales-durante-su-ejecucion-en-tennessee-nid01102026/",
-     "source": "La Nación",
-     "published": "2026-10-01T05:57:05+00:00",
-     "copete": "Testigos del procedimiento informaron que la mujer aún se encuentra con vida; el proceso había sido detenido horas antes por un tribunal pero ratificado por la Corte Suprema de EE.UU.",
-     "id": "0a7cd49874f8"
-    },
-    {
-     "title": "Pidieron nuevas pruebas de ADN para identificar al quinto responsable del crimen de Natalia Melmann",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/10/01/pidieron-nuevas-pruebas-de-adn-para-identificar-al-quinto-responsable-del-crimen-de-natalia-melmann/",
+     "title": "Se tensa el vínculo entre Argentina y Reino Unido por Malvinas: los próximos pasos en la disputa por el petróleo",
+     "link": "https://www.infobae.com/politica/2026/10/01/se-tensa-el-vinculo-entre-argentina-y-reino-unido-por-malvinas-los-proximos-pasos-en-la-disputa-por-el-petroleo/",
      "source": "Infobae",
-     "published": "2026-10-01T05:50:28+00:00",
-     "copete": "La familia de la adolescente asesinada en Miramar solicitó extracciones de sangre a dos ex oficiales para cotejarlas con un perfil genético que aún no fue identificado",
-     "id": "4df75a3f6ef3"
+     "published": "2026-10-01T13:22:20+00:00",
+     "copete": "Londres convocó el miércoles a la embajadora argentina, Mariana Plaza, y advirtió que la ofensiva de Buenos Aires daña la relación bilateral. Rockhopper confirmó que extraerá crudo en 2028 a pesar del pedido de sanciones",
+     "id": "509e86916fd7"
     },
     {
-     "title": "Falla la primera ejecución de una mujer en dos siglos en Tennessee, dicen sus abogados",
-     "link": "https://www.clarin.com/estados-unidos/falla-la-primera-ejecucion-de-una-mujer-en-dos-siglos-en-tennessee-dicen-sus-abogados_0_LYjLCm7ZA7.html",
-     "source": "Clarín",
-     "published": "2026-10-01T05:40:09+00:00",
-     "copete": "La ejecución de una mujer en Tennessee falló tras la inyección letal; fue trasladada a un hospital al ser vista respirando y roncando. La Corte Suprema permitió el procedimiento, pese a las fallas denunciadas por el equipo de defensa, que…",
-     "id": "a7aecafd933c"
+     "title": "Javier Milei y sus medidas, EN VIVO: habló en París de sus políticas económicas y dijo que “la comparación es demoledora”",
+     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-la-argentina-va-a-estar-en-el-cuarto-lugar-de-los-paises-que-mas-nid01102026/",
+     "source": "La Nación",
+     "published": "2026-10-01T13:22:11+00:00",
+     "copete": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
+     "id": "3bb4c6dd9da6"
     },
     {
-     "title": "Imputaron a siete personas por formar parte de una banda narco dirigida por un preso desde el penal de Ezeiza",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/10/01/imputaron-a-siete-personas-por-formar-parte-de-una-banda-narco-dirigida-por-un-preso-desde-el-penal-de-ezeiza/",
+     "title": "Horror en Berazategui: encontraron muerta a una nena de 11 años y detuvieron a cuatro familiares",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/10/01/investigan-la-muerte-de-una-nena-de-11-anos-en-berazategui-detuvieron-a-cuatro-familiares-tras-conocerse-el-resultado-de-la-autopsia/",
      "source": "Infobae",
-     "published": "2026-10-01T05:40:06+00:00",
-     "copete": "La investigación apunta a cuatro hermanas y tres hombres. La actividad narco sucedió en Rosario, Roldán, Funes, Carcarañá, Villa Gobernador Gálvez y Junín",
-     "id": "940c423806b8"
+     "published": "2026-10-01T13:21:08+00:00",
+     "copete": "La menor fue hallada ahorcada en su casa. El examen forense detectó lesiones compatibles con golpes en distintas partes de la espalda, signos de hemorragia interna y posibles indicios de abuso sexual",
+     "id": "a9b0c11b3d11"
     },
     {
-     "title": "María Eugenia Vidal: \"El PRO es la mejor opción para no tener que elegir entre Milei y Kicillof\"",
-     "link": "https://www.clarin.com/politica/maria-eugenia-vidal-pro-mejor-opcion-tener-elegir-milei-kicillof_0_5ZQbg0FG9e.html",
-     "source": "Clarín",
-     "published": "2026-10-01T05:32:23+00:00",
-     "copete": "Referente del macrismo, la ex gobernadora bonaerense plantea que el partido tiene que ir con un candidato propio a las elecciones. Alterna críticas con elogios a la gestión del Gobierno y admite que se fue demasiado rápido de la política…",
-     "id": "a119959ca268"
+     "title": "La emoción de una senadora peronista por asumir la vicepresidencia interina de la Nación: “Me siento honrada”",
+     "link": "https://www.infobae.com/politica/2026/10/01/la-emocion-de-una-senadora-peronista-por-asumir-la-vicepresidencia-interina-de-la-nacion-me-siento-honrada/",
+     "source": "Infobae",
+     "published": "2026-10-01T13:21:08+00:00",
+     "copete": "Se trata de Carolina Moisés, del bloque Convicción Federal, quien reemplaza a Victoria Villarruel hasta su regreso del Foro Parlamentario Iberoamericano en Madrid. Entre 2019 y 2023, fue diputada nacional dentro del Frente de Todos",
+     "id": "a4f49838fc3a"
     },
     {
-     "title": "Elaine, a los 102 años, vende la casa donde vivió durante siete décadas: “Hay que pasar página”",
-     "link": "https://www.clarin.com/internacional/elaine-102-anos-vende-casa-vivio-decadas-pasar-pagina_0_53p0XKGNBM.html",
-     "source": "Clarín",
-     "published": "2026-10-01T05:31:26+00:00",
-     "copete": "La australiana construyó la vivienda junto a su marido en 1956 y permaneció allí durante unos 70 años. La propiedad recibió varias ofertas y encontró comprador en apenas dos semanas, pero el precio final no fue revelado.",
-     "id": "91004422530f"
+     "title": "Dólar hoy: a cuánto operan todas las cotizaciones minuto a minuto este jueves 1 de octubre",
+     "link": "https://www.infobae.com/economia/2026/10/01/dolar-hoy-a-cuanto-operan-todas-las-cotizaciones-minuto-a-minuto-este-jueves-1-de-octubre/",
+     "source": "Infobae",
+     "published": "2026-10-01T13:20:36+00:00",
+     "copete": "El billete al público es ofrecido a $1.540 para la venta en el Banco Nación. El blue se paga a $1.560. El BCRA compró menos de USD 500 millones en septiembre",
+     "id": "22a0b00eccd2"
     },
     {
-     "title": "Gavin Sheets pega jonrón como emergente y Padres barren a Cachorros en serie de comodines",
-     "link": "https://www.clarin.com/estados-unidos/gavin-sheets-pega-jonron-como-emergente-y-padres-barren-a-cachorros-en-serie-de-comodines_0_ji64louZeA.html",
+     "title": "Malvinas: el Gobierno defendió el pedido de arbitraje por las islas tras la convocatoria del Reino Unido a la embajadora argentina en Londres",
+     "link": "https://www.clarin.com/politica/malvinas-gobierno-defendio-pedido-arbitraje-islas-convocatoria-reino-unido-embajadora-argentina-londres_0_j5C8JlMpln.html",
      "source": "Clarín",
-     "published": "2026-10-01T05:30:04+00:00",
-     "copete": "San Diego avanza tras barrer a Chicago con un sólido pitcheo y bateo oportuno, destacando el jonrón de Sheets. Bogaerts y Salas también brillaron. Los Padres, con una racha impresionante, se medirán a Milwaukee tras vencer a los líderes en…",
-     "id": "9e32a10ca23e"
+     "published": "2026-10-01T13:02:52+00:00",
+     "copete": "A través de un comunicado, la Cancillería sostuvo que Argentina actuó en el marco de los procedimientos previstos por un tratado del que ambos países son parte. El gobierno británico había acusado a la Argentina de “socavar” a los isleños…",
+     "id": "1c28f906b2ae"
+    },
+    {
+     "title": "Gerardo Montoya, autor argenmex: “Hay mucha falta de palabra entre los hombres”",
+     "link": "https://www.clarin.com/cultura/gerardo-montoya-autor-argenmex-mucha-falta-palabra-hombres_0_X0zEAKBUc5.html",
+     "source": "Clarín",
+     "published": "2026-10-01T13:01:35+00:00",
+     "copete": "El escritor mexicano radicado en Buenos Aires mezcla en sus poemas registros de México, Argentina y el lenguaje digital. Esa contaminación lingüística acompaña una reflexión sobre identidad, migración y pertenencia. La paternidad aparece…",
+     "id": "02a595df158e"
     }
    ]
   },
@@ -388,84 +406,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
-     "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+     "title": "Netanyahu insinúa un posible papel de Irán en el incidente del vuelo a Tel Aviv",
+     "link": "https://elpais.com/internacional/2026-10-01/netanyahu-insinua-un-posible-papel-de-iran-en-el-incidente-del-vuelo-a-tel-aviv.html",
+     "source": "El País Internacional",
+     "published": "2026-10-01T13:15:32+00:00",
+     "copete": "Israel participará en el interrogatorio del piloto que acuchilló a otro y “posiblemente” en la investigación abierta por Emiratos Árabes Unidos",
+     "id": "fe9012e23adb"
+    },
+    {
+     "title": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
+     "link": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-10-01T05:34:41+00:00",
-     "copete": "Her lawyer says Pike is being \"provided life-saving measures\" after two syringes of pentobarbital.",
-     "id": "4cb6451c6afd"
+     "published": "2026-10-01T13:13:33+00:00",
+     "copete": "Chivayo was known for his lavish lifestyle, close ties to African presidents and lucrative government contracts.",
+     "id": "befff2c783f4"
     },
     {
-     "title": "Cómo España pasó de construir más casas de las que necesitaba a enfrentar una grave crisis de vivienda",
-     "link": "https://www.bbc.com/mundo/articles/c3y0zx01evpjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-10-01T05:22:21+00:00",
-     "copete": "Para muchos expertos, la crisis financiera de 2008, que provocó la desaparición de numerosas empresas constructoras, está en el origen del déficit de vivienda que hoy sufre el país, junto con el aumento de la población.",
-     "id": "837ed9fe0775"
+     "title": "Cautela y silencio en los países del Golfo tras el “incidente” en el vuelo de Flydubai con destino a Israel",
+     "link": "https://elpais.com/internacional/2026-10-01/cautela-y-silencio-en-los-paises-del-golfo-tras-el-incidente-en-el-vuelo-de-flydubai-con-destino-a-israel.html",
+     "source": "El País Internacional",
+     "published": "2026-10-01T13:12:35+00:00",
+     "copete": "La Fiscalía de Emiratos Árabes Unidos investigará si la agresión de uno de los pilotos tuvo un “trasfondo terrorista” y pide no difundir “información no comprobada”",
+     "id": "93e6c8b1e789"
     },
     {
-     "title": "Christa Pike sobrevive a dos dosis de inyección letal durante su ejecución y se encuentra hospitalizada en Tennessee",
-     "link": "https://www.bbc.com/mundo/articles/c6vgygpp3eqlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-10-01T04:59:59+00:00",
-     "copete": "Según el equipo legal de Pike, ella estaba en una \"innecesaria agonía\". La mujer de 50 años llevaba tres décadas en el corredor de la muerte por un brutal asesinato.",
-     "id": "76e35717a57d"
-    },
-    {
-     "title": "La Corte Suprema de EE.UU. autoriza la ejecución de la condenada a muerte por asesinato Christa Pike, pero la mujer sobrevive a las inyecciones letales",
-     "link": "https://www.bbc.com/mundo/articles/cmx2zrrqqx92o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-10-01T04:02:06+00:00",
-     "copete": "La mujer fue llevada a la sala de ejecuciones, pero luego de la aplicación de dos dosis de inyección letal, la mujer seguía respirando y fue trasladada a un hospital, según sus abogados.",
-     "id": "e6d9e454e92d"
-    },
-    {
-     "title": "Plummeting Israel flight like 'rollercoaster', says passenger",
-     "link": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo?at_medium=RSS&at_campaign=rss",
+     "title": "What happened in failed execution of Christa Pike - and what next?",
+     "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-10-01T03:52:20+00:00",
-     "copete": "An aeroplane flying to Israel fell 17,000ft (5,200m) in less than two minutes before it was diverted.",
-     "id": "d45ae520586f"
+     "published": "2026-10-01T12:51:14+00:00",
+     "copete": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+     "id": "d8a9ee221324"
     },
     {
-     "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
-     "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+     "title": "Por qué arrestaron al fiscal general en Bolivia días después de que EE.UU. le quitara la visa (y qué casos investigaba)",
+     "link": "https://www.bbc.com/mundo/articles/cwlyky680kg8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-10-01T12:44:03+00:00",
+     "copete": "Roger Mariaca había estado al frente de casos de narcotráfico recientemente. EE.UU. lo acusa de recibir sobornos y socavar la autoridad del gobierno.",
+     "id": "e6057d5d58e4"
+    },
+    {
+     "title": "Explosions heard in Ethiopia's capital after drone flights banned",
+     "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-10-01T03:43:06+00:00",
-     "copete": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
-     "id": "58fca97d859e"
+     "published": "2026-10-01T12:38:55+00:00",
+     "copete": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
+     "id": "c71415943cda"
     },
     {
-     "title": "La sombra del antisemitismo regresa al Reagrupamiento Nacional con el escándalo de los mensajes de Bardella",
-     "link": "https://elpais.com/internacional/2026-10-01/la-sombra-del-antisemitismo-regresa-al-reagrupamiento-nacional-con-el-escandalo-de-los-mensajes-de-bardella.html",
+     "title": "Christa Pike sigue con vida tras recibir dos inyecciones letales en Tennessee",
+     "link": "https://elpais.com/us/2026-09-30/el-tribunal-supremo-permite-la-ejecucion-de-christa-pike-en-tennessee.html",
      "source": "El País Internacional",
-     "published": "2026-10-01T03:30:01+00:00",
-     "copete": "El presidente del partido ultraderechista se enfrenta a la condena pública tras una investigación periodística que revela comentarios contra los judíos",
-     "id": "a8fed2a9d7b8"
+     "published": "2026-10-01T12:36:00+00:00",
+     "copete": "Pike ha sido trasladada al hospital para recibir “medidas salvavidas”. El gobernador ha suspendido las ejecuciones restantes en el estado para lo que queda de año",
+     "id": "f862a6a92f07"
     },
     {
-     "title": "Algo se mueve en Ormuz: el tránsito de petroleros roza las cifras preguerra",
-     "link": "https://elpais.com/internacional/2026-10-01/algo-se-mueve-en-ormuz-el-transito-de-petroleros-roza-las-cifras-preguerra.html",
-     "source": "El País Internacional",
-     "published": "2026-10-01T03:30:01+00:00",
-     "copete": "El flujo de crudo por esta arteria clave de la energía mundial se recupera con fuerza, pero los ataques a buques continúan e impiden que el precio del crudo descienda",
-     "id": "8aa2897b14fe"
+     "title": "Watch: Why are students protesting at schools in France?",
+     "link": "https://www.bbc.co.uk/news/videos/cwy8z8rney97o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-01T12:31:18+00:00",
+     "copete": "The BBC's Hugh Schofield is in Paris as a wave of school protests over overcrowded classes and teacher shortages spreads across France.",
+     "id": "f78a271d03e4"
     },
     {
-     "title": "Al Shabab atrapa a Somalia en una crisis perpetua",
-     "link": "https://elpais.com/internacional/2026-10-01/al-shabab-atrapa-a-somalia-en-una-crisis-perpetua.html",
-     "source": "El País Internacional",
-     "published": "2026-10-01T03:30:01+00:00",
-     "copete": "Los terroristas afiliados a Al Qaeda llevan dos décadas poniendo en jaque al gobierno local, que ve cómo la falta de fondos internacionales amenaza la misión antiterrorista de la Unión Africana en medio de una gran crisis humanitaria",
-     "id": "43632f96ca19"
+     "title": "El piloto indio apuñalado en un vuelo con destino a Israel al que califican de héroe",
+     "link": "https://www.bbc.com/mundo/articles/cq0lrl6z5rw1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-10-01T11:34:07+00:00",
+     "copete": "Smit Machchhar fue atacado por otro piloto a bordo del vuelo de Flydubai con destino a Tel Aviv. Ahora se recupera en un hospital en Arabia Saudita.",
+     "id": "948587ce4b08"
     },
     {
-     "title": "Japón refuerza alianzas militares en el Pacífico mientras Trump suaviza el tono con Pekín",
-     "link": "https://elpais.com/internacional/2026-10-01/japon-refuerza-alianzas-militares-en-el-pacifico-mientras-trump-suaviza-el-tono-con-pekin.html",
-     "source": "El País Internacional",
-     "published": "2026-10-01T03:30:01+00:00",
-     "copete": "Tokio afianza acuerdos de defensa con Australia e India frente a lo que considera incursiones en su territorio de China y Rusia",
-     "id": "64daf62729b4"
+     "title": "El profesor que causa furor entre los adolescentes chinos (y la razón de su éxito)",
+     "link": "https://www.bbc.com/mundo/articles/c6z9z8p4xxg2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-10-01T11:01:24+00:00",
+     "copete": "Xiang cree que dos factores han exacerbado la ansiedad de la Generación Z: el mercado inmobiliario y el sistema de educación superior.",
+     "id": "4207cc8b21a1"
     }
    ]
   }
@@ -475,11 +493,6 @@
    "section": "cardiologia",
    "feed": "Cardiology Trials",
    "error": "HTTP Error 403: Forbidden"
-  },
-  {
-   "section": "cardiologia",
-   "feed": "Circulation (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "section": "cardiologia",

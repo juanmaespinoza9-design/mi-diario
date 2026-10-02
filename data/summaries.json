@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:08:09Z",
+  "generated_at": "2026-10-02T10:06:12Z",
   "summaries": {
     "64c812aaed04": {
       "resumen": "Surmodics adquirió la unidad de negocio Alta Biomed, lo que amplía su oferta de tecnología de superficies hemocompatibles (que reducen la formación de coágulos en contacto con dispositivos médicos) y de testeo analítico para la industria de dispositivos cardiovasculares. Es una noticia más corporativa que clínica, pero vale la pena tenerla en el radar porque este tipo de tecnología de recubrimientos termina incidiendo en la seguridad de catéteres, stents y otros dispositivos de uso diario.",
@@ -33,14 +33,6 @@
       "resumen": "Revisión publicada en el European Heart Journal (Revista Europea del Corazón) sobre la relación entre la fibrilación auricular (FA), la arritmia sostenida más frecuente en la práctica clínica, y la muerte súbita cardíaca. Repasa los mecanismos fisiopatológicos que las vinculan, el manejo actual y los nuevos blancos terapéuticos en investigación. Vale la pena mirarla como puesta al día de un vínculo -FA y muerte súbita- todavía no saldado del todo en la literatura.",
       "destacado": false
     },
-    "562470c22e28": {
-      "resumen": "Simon Willison cuenta su visita al Museo de la Ciudad de Nueva York para ver \"He Built This City\", una maqueta de la ciudad hecha en balsa y cartón por Joe Macken a lo largo de 21 años. Para un médico que aprende ciencia de datos, el valor está en el paralelismo con cualquier proyecto de análisis de largo aliento: la acumulación paciente de detalle y la revisión constante son las que terminan dando una representación fiel de la realidad.",
-      "destacado": false
-    },
-    "589f178da769": {
-      "resumen": "Hilo de la comunidad r/datascience sobre clasificación de objetos combinando múltiples barridos de radar sobre el dataset RadarScenes. Le sirve a un médico que aprende ciencia de datos como ejemplo de cómo aprovechar información temporal repetida de un sensor para mejorar una clasificación, un enfoque trasladable al análisis de señales biomédicas seriadas.",
-      "destacado": false
-    },
     "4b4cf7192456": {
       "resumen": "CREST-2 es un ensayo clínico que compara la revascularización carotídea (endarterectomía o colocación de stent) sumada a tratamiento médico intensivo, contra el tratamiento médico intensivo solo, en pacientes con estenosis carotídea asintomática severa. Esta nueva entrega de datos refuerza que la revascularización no mejora el desempeño cognitivo de los pacientes, un hallazgo relevante porque parte de la justificación histórica para operar lesiones asintomáticas incluía supuestos beneficios cognitivos. Vale la pena mirarlo porque cuestiona la indicación de revascularizar carótidas asintomáticas por fuera de la prevención del accidente cerebrovascular.",
       "destacado": true,
@@ -50,33 +42,8 @@
       "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) amplió la indicación de mavacamten, un inhibidor de la miosina cardíaca, para incluir a pacientes pediátricos con miocardiopatía hipertrófica obstructiva (HCM, hypertrophic cardiomyopathy). Vale la pena mirarlo porque hasta ahora el fármaco estaba aprobado solo para adultos, y esta ampliación abre una opción de tratamiento médico para una población pediátrica donde las alternativas no quirúrgicas son limitadas.",
       "destacado": false
     },
-    "ba6ad1e1876f": {
-      "resumen": "Felipe Contepomi, head coach de Los Pumas, evaluó el proceso del equipo a un año del Mundial de Rugby 2027 y aseguró que van por el camino correcto."
-    },
-    "8c8b5c9c3536": {
-      "resumen": "Guía con los horarios para seguir desde Argentina los partidos de Los Pumas en la gira por Australia 2027."
-    },
-    "ec12e2581e1b": {
-      "resumen": "Felipe Contepomi repasó el presente de Los Pumas a un año del Mundial de Rugby 2027 y afirmó que el equipo transita el camino correcto."
-    },
-    "ebb2d7850d0e": {
-      "resumen": "Cloudflare presentó Clef, una plataforma de código abierto para modelos de decisión y ajuste fino mediante aprendizaje por refuerzo (RL, reinforcement learning). Le sirve a un médico que aprende ciencia de datos porque ejemplifica cómo entrenar modelos orientados a tomar decisiones, y no solo a predecir, algo aplicable a sistemas de apoyo a decisiones clínicas.",
-      "destacado": false
-    },
-    "a4d5be1f0220": {
-      "resumen": "El blog de Turbopuffer argumenta que las bases de datos vectoriales dedicadas están perdiendo sentido frente a motores de búsqueda híbridos que combinan búsqueda vectorial y tradicional. Le sirve a un médico que aprende ciencia de datos porque la búsqueda vectorial, usada para recuperar información similar como historias clínicas parecidas, es una pieza clave de los sistemas de inteligencia artificial generativa con los que va a interactuar cada vez más.",
-      "destacado": false
-    },
-    "ac69f2367e00": {
-      "resumen": "Un artículo de opinión de Techrights plantea que Red Hat, la empresa detrás de distribuciones de Linux muy usadas en infraestructura de cómputo científico, estaría perdiendo peso dentro de IBM. Le aporta a un médico que aprende ciencia de datos contexto sobre la salud del ecosistema de software de código abierto sobre el que corren muchas herramientas de análisis de datos, aunque conviene leerlo con cautela por el tono crítico del sitio.",
-      "destacado": false
-    },
     "1577ae1d5341": {
       "resumen": "El artículo compara autoencoders, redes neuronales para comprimir datos, con el análisis de componentes principales (PCA, principal component analysis), una técnica estadística clásica de reducción de dimensionalidad, y muestra que incluso diseñando la prueba a favor de los autoencoders, el PCA iguala o supera su desempeño en el benchmark elegido. Le sirve a un médico que aprende ciencia de datos como recordatorio de que las técnicas estadísticas clásicas y más simples siguen siendo una opción sólida y más interpretable frente a métodos de aprendizaje profundo más complejos.",
-      "destacado": false
-    },
-    "8ca2633994ab": {
-      "resumen": "Figma restringió el acceso a su protocolo MCP (Model Context Protocol, el estándar que usan los asistentes de inteligencia artificial para conectarse a herramientas externas) a una lista de clientes autorizados, lo que dejó afuera al asistente Pi. Le sirve a un médico que aprende ciencia de datos para entender que las conexiones entre modelos de IA y herramientas externas dependen de permisos que las empresas pueden restringir en cualquier momento.",
       "destacado": false
     },
     "e12bc6f6e8ce": {
@@ -87,9 +54,39 @@
       "resumen": "El artículo repasa la historia de la función de activación ReLU (unidad lineal rectificada) en redes neuronales y cómo su adopción se basó en resultados empíricos más que en una justificación biológica estricta. Le sirve a un médico que aprende ciencia de datos para entender que los modelos de inteligencia artificial inspirados en el cerebro son aproximaciones prácticas y no representaciones fieles de la neurobiología real.",
       "destacado": false
     },
-    "4fb3caa1bad2": {
-      "resumen": "Simon Willison cita una reflexión del criptógrafo Matthew Green sobre cómo agentes de inteligencia artificial que se comunican entre sí podrían propagar instrucciones maliciosas igual que un gusano informático. Le sirve a un médico que aprende ciencia de datos porque anticipa riesgos de seguridad propios de los sistemas multiagente de inteligencia artificial, cada vez más usados para automatizar tareas, incluidas las de análisis de datos.",
+    "381e020f7b06": {
+      "resumen": "Se identificaron varias vulnerabilidades de seguridad en el kernel (núcleo) de Linux, el sistema operativo que corre la gran mayoría de los servidores donde se procesan datos y se entrenan modelos de inteligencia artificial. No es ciencia de datos en sí, pero a un médico que empieza a manejar infraestructura de cómputo le conviene tener presente que la seguridad del sistema operativo de base condiciona la integridad y la confidencialidad de cualquier dato clínico que se analice sobre esa infraestructura.",
       "destacado": false
+    },
+    "c69dce2def45": {
+      "resumen": "Ensayo que usa a Sapo y Sepo (Frog and Toad), los personajes de los clásicos cuentos infantiles, como metáfora para reflexionar sobre el ritmo al que crecen las capacidades de los sistemas de inteligencia artificial. Le aporta a un médico que aprende ciencia de datos una mirada más filosófica sobre hacia dónde va esta tecnología que ya empieza a usar en su trabajo diario.",
+      "destacado": false
+    },
+    "6da2086c3232": {
+      "resumen": "El autor relata cómo usó Opus 5.5, un modelo de inteligencia artificial de Anthropic, para rastrear textos históricos digitalizados y encontrar un nuevo registro de un testigo ocular del dodo, el ave extinta. Le sirve a un médico que aprende ciencia de datos como ejemplo concreto de cómo un modelo de lenguaje grande (LLM, large language model) puede acelerar la búsqueda y el cruce de información dentro de grandes volúmenes de texto, algo trasladable a la revisión de historias clínicas o de literatura médica.",
+      "destacado": false
+    },
+    "1f9ad68eb044": {
+      "resumen": "Automatic Transmission es un estudio académico de la Universidad Northeastern que analiza qué datos personales recolectan y comparten los autos conectados a internet. Le sirve a un médico que aprende ciencia de datos porque ejemplifica una metodología de auditoría de privacidad de datos aplicable a cualquier dispositivo conectado, incluidos los equipos médicos y los wearables que generan datos de salud.",
+      "destacado": false
+    },
+    "e20df2e704e0": {
+      "resumen": "BrowserAct es una herramienta de inteligencia artificial que arma scrapers web (programas que extraen datos de sitios) a partir de instrucciones en lenguaje natural, para convertir páginas en una fuente de datos actualizada de forma continua. Le sirve a un médico que aprende ciencia de datos porque simplifica una tarea técnica -la extracción de datos de la web- que suele ser una barrera de entrada para armar sus propios conjuntos de datos.",
+      "destacado": false
+    },
+    "56d4e02c14aa": {
+      "resumen": "Docling es una herramienta de código abierto que convierte documentos con formatos inconsistentes (PDF, escaneos, informes) en una representación estructurada única que puede procesarse de forma confiable tanto por personas como por sistemas de inteligencia artificial. Le sirve mucho a un médico que aprende ciencia de datos porque buena parte de la información clínica vive en documentos no estructurados -informes, historias clínicas, estudios- y esa es justamente la clase de problema que hay que resolver antes de poder analizarlos.",
+      "destacado": false
+    },
+    "d768cc1366e0": {
+      "resumen": "Marimo es un notebook (cuaderno de código) reactivo de Python que permite hacer análisis de datos interactivo con Pandas y Altair, y convertirlo fácilmente en un panel (dashboard) compartible. Le sirve a un médico que aprende ciencia de datos como alternativa a Jupyter, con la ventaja de que al cambiar una celda se recalculan automáticamente todas las que dependen de ella, lo que reduce errores de ejecución fuera de orden.",
+      "destacado": false
+    },
+    "8f5cc0fd69ba": {
+      "resumen": "Felipe Contepomi explicó que la salida de Andrés Bordoy del cuerpo técnico de Los Pumas respondió a una decisión exclusivamente técnica."
+    },
+    "9669c423e417": {
+      "resumen": "Arranca la segunda fecha del United Rugby Championship, con varios jugadores de Los Pumas presentes en las canchas."
     }
   }
 }

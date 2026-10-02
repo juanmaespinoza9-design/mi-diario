@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T10:06:12Z",
+  "generated_at": "2026-10-02T22:08:52Z",
   "summaries": {
     "64c812aaed04": {
       "resumen": "Surmodics adquirió la unidad de negocio Alta Biomed, lo que amplía su oferta de tecnología de superficies hemocompatibles (que reducen la formación de coágulos en contacto con dispositivos médicos) y de testeo analítico para la industria de dispositivos cardiovasculares. Es una noticia más corporativa que clínica, pero vale la pena tenerla en el radar porque este tipo de tecnología de recubrimientos termina incidiendo en la seguridad de catéteres, stents y otros dispositivos de uso diario.",
@@ -7,10 +7,6 @@
     },
     "2f515a3e6471": {
       "resumen": "Recopilación mensual de TCTMD (The Cardiovascular Research Foundation) con las diez notas más leídas de septiembre 2026. Sirve como termómetro rápido de qué temas de intervencionismo cardiovascular concentraron la atención de la comunidad médica ese mes.",
-      "destacado": false
-    },
-    "c810a91924c9": {
-      "resumen": "Transmisión en vivo de TCTMD de un reemplazo valvular tricuspídeo percutáneo (TTVR, transcatheter tricuspid valve replacement) con el dispositivo Lux Valve, realizado en el Montreal Heart Institute. Vale la pena mirarlo porque el reemplazo tricuspídeo percutáneo todavía es una técnica en expansión y ver el procedimiento en vivo ayuda a entender su curva de aprendizaje.",
       "destacado": false
     },
     "4b631a5208db": {
@@ -29,10 +25,6 @@
       "resumen": "Artículo de JACC (Journal of the American College of Cardiology) que analiza el rol de las intervenciones sobre el sistema linfático para tratar la enteropatía perdedora de proteínas, una complicación infrecuente pero grave vinculada a ciertas cardiopatías congénitas. Vale la pena mirarlo porque plantea si esta terapia es una alternativa prometedora o un recurso de último recurso.",
       "destacado": false
     },
-    "da93a6b1e3b6": {
-      "resumen": "Revisión publicada en el European Heart Journal (Revista Europea del Corazón) sobre la relación entre la fibrilación auricular (FA), la arritmia sostenida más frecuente en la práctica clínica, y la muerte súbita cardíaca. Repasa los mecanismos fisiopatológicos que las vinculan, el manejo actual y los nuevos blancos terapéuticos en investigación. Vale la pena mirarla como puesta al día de un vínculo -FA y muerte súbita- todavía no saldado del todo en la literatura.",
-      "destacado": false
-    },
     "4b4cf7192456": {
       "resumen": "CREST-2 es un ensayo clínico que compara la revascularización carotídea (endarterectomía o colocación de stent) sumada a tratamiento médico intensivo, contra el tratamiento médico intensivo solo, en pacientes con estenosis carotídea asintomática severa. Esta nueva entrega de datos refuerza que la revascularización no mejora el desempeño cognitivo de los pacientes, un hallazgo relevante porque parte de la justificación histórica para operar lesiones asintomáticas incluía supuestos beneficios cognitivos. Vale la pena mirarlo porque cuestiona la indicación de revascularizar carótidas asintomáticas por fuera de la prevención del accidente cerebrovascular.",
       "destacado": true,
@@ -42,51 +34,72 @@
       "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) amplió la indicación de mavacamten, un inhibidor de la miosina cardíaca, para incluir a pacientes pediátricos con miocardiopatía hipertrófica obstructiva (HCM, hypertrophic cardiomyopathy). Vale la pena mirarlo porque hasta ahora el fármaco estaba aprobado solo para adultos, y esta ampliación abre una opción de tratamiento médico para una población pediátrica donde las alternativas no quirúrgicas son limitadas.",
       "destacado": false
     },
-    "1577ae1d5341": {
-      "resumen": "El artículo compara autoencoders, redes neuronales para comprimir datos, con el análisis de componentes principales (PCA, principal component analysis), una técnica estadística clásica de reducción de dimensionalidad, y muestra que incluso diseñando la prueba a favor de los autoencoders, el PCA iguala o supera su desempeño en el benchmark elegido. Le sirve a un médico que aprende ciencia de datos como recordatorio de que las técnicas estadísticas clásicas y más simples siguen siendo una opción sólida y más interpretable frente a métodos de aprendizaje profundo más complejos.",
-      "destacado": false
-    },
-    "e12bc6f6e8ce": {
-      "resumen": "El autor analiza un agente de búsqueda de departamentos basado en un modelo de lenguaje, usando trazas registradas con Weights & Biases Weave, y logra reducir la cantidad de llamadas al modelo sin perder calidad en los resultados. Le sirve mucho a un médico que aprende ciencia de datos porque ilustra un método concreto para optimizar el costo y la velocidad de un agente de inteligencia artificial sin resignar precisión, algo aplicable a cualquier flujo de trabajo clínico automatizado.",
-      "destacado": true
-    },
-    "d0a65bfd64ae": {
-      "resumen": "El artículo repasa la historia de la función de activación ReLU (unidad lineal rectificada) en redes neuronales y cómo su adopción se basó en resultados empíricos más que en una justificación biológica estricta. Le sirve a un médico que aprende ciencia de datos para entender que los modelos de inteligencia artificial inspirados en el cerebro son aproximaciones prácticas y no representaciones fieles de la neurobiología real.",
-      "destacado": false
-    },
-    "381e020f7b06": {
-      "resumen": "Se identificaron varias vulnerabilidades de seguridad en el kernel (núcleo) de Linux, el sistema operativo que corre la gran mayoría de los servidores donde se procesan datos y se entrenan modelos de inteligencia artificial. No es ciencia de datos en sí, pero a un médico que empieza a manejar infraestructura de cómputo le conviene tener presente que la seguridad del sistema operativo de base condiciona la integridad y la confidencialidad de cualquier dato clínico que se analice sobre esa infraestructura.",
-      "destacado": false
-    },
-    "c69dce2def45": {
-      "resumen": "Ensayo que usa a Sapo y Sepo (Frog and Toad), los personajes de los clásicos cuentos infantiles, como metáfora para reflexionar sobre el ritmo al que crecen las capacidades de los sistemas de inteligencia artificial. Le aporta a un médico que aprende ciencia de datos una mirada más filosófica sobre hacia dónde va esta tecnología que ya empieza a usar en su trabajo diario.",
-      "destacado": false
-    },
-    "6da2086c3232": {
-      "resumen": "El autor relata cómo usó Opus 5.5, un modelo de inteligencia artificial de Anthropic, para rastrear textos históricos digitalizados y encontrar un nuevo registro de un testigo ocular del dodo, el ave extinta. Le sirve a un médico que aprende ciencia de datos como ejemplo concreto de cómo un modelo de lenguaje grande (LLM, large language model) puede acelerar la búsqueda y el cruce de información dentro de grandes volúmenes de texto, algo trasladable a la revisión de historias clínicas o de literatura médica.",
-      "destacado": false
-    },
-    "1f9ad68eb044": {
-      "resumen": "Automatic Transmission es un estudio académico de la Universidad Northeastern que analiza qué datos personales recolectan y comparten los autos conectados a internet. Le sirve a un médico que aprende ciencia de datos porque ejemplifica una metodología de auditoría de privacidad de datos aplicable a cualquier dispositivo conectado, incluidos los equipos médicos y los wearables que generan datos de salud.",
-      "destacado": false
-    },
-    "e20df2e704e0": {
-      "resumen": "BrowserAct es una herramienta de inteligencia artificial que arma scrapers web (programas que extraen datos de sitios) a partir de instrucciones en lenguaje natural, para convertir páginas en una fuente de datos actualizada de forma continua. Le sirve a un médico que aprende ciencia de datos porque simplifica una tarea técnica -la extracción de datos de la web- que suele ser una barrera de entrada para armar sus propios conjuntos de datos.",
-      "destacado": false
-    },
-    "56d4e02c14aa": {
-      "resumen": "Docling es una herramienta de código abierto que convierte documentos con formatos inconsistentes (PDF, escaneos, informes) en una representación estructurada única que puede procesarse de forma confiable tanto por personas como por sistemas de inteligencia artificial. Le sirve mucho a un médico que aprende ciencia de datos porque buena parte de la información clínica vive en documentos no estructurados -informes, historias clínicas, estudios- y esa es justamente la clase de problema que hay que resolver antes de poder analizarlos.",
-      "destacado": false
-    },
-    "d768cc1366e0": {
-      "resumen": "Marimo es un notebook (cuaderno de código) reactivo de Python que permite hacer análisis de datos interactivo con Pandas y Altair, y convertirlo fácilmente en un panel (dashboard) compartible. Le sirve a un médico que aprende ciencia de datos como alternativa a Jupyter, con la ventaja de que al cambiar una celda se recalculan automáticamente todas las que dependen de ella, lo que reduce errores de ejecución fuera de orden.",
-      "destacado": false
-    },
     "8f5cc0fd69ba": {
       "resumen": "Felipe Contepomi explicó que la salida de Andrés Bordoy del cuerpo técnico de Los Pumas respondió a una decisión exclusivamente técnica."
     },
-    "9669c423e417": {
-      "resumen": "Arranca la segunda fecha del United Rugby Championship, con varios jugadores de Los Pumas presentes en las canchas."
+    "2c6ed77db8a6": {
+      "resumen": "Nota de TCTMD (The Cardiovascular Research Foundation) que resume la nueva declaración científica 2026 del ACC (American College of Cardiology, Colegio Americano de Cardiología) sobre la importancia de la alimentación saludable en la prevención y el manejo de la enfermedad cardiovascular (CVD, cardiovascular disease). Vale la pena mirarla como resumen rápido del mismo documento que se publicó en JACC, para tener los puntos clave sin leer el texto completo.",
+      "destacado": false
+    },
+    "bab5e8cb802e": {
+      "resumen": "Declaración científica de la American Heart Association (AHA, Asociación Americana del Corazón) publicada en Circulation sobre el impacto del tratamiento antitrombótico insuficiente (subdosificado o discontinuado sin justificación) en los resultados adversos de los pacientes. Vale la pena mirarla porque sistematiza la evidencia sobre un problema frecuente en la práctica diaria: la subdosificación o la suspensión injustificada de antiagregantes y anticoagulantes.",
+      "destacado": false
+    },
+    "e9e0cf7520d5": {
+      "resumen": "Estudio de asociación de todo el epigenoma (EWAS, epigenome-wide association study), publicado en Circulation, que identifica un rol central de las vías inflamatorias en el aneurisma de aorta abdominal (AAA, abdominal aortic aneurysm). Vale la pena mirarlo porque aporta evidencia epigenética -cambios químicos que regulan la expresión génica sin alterar el ADN- sobre los mecanismos inflamatorios que podrían convertirse en nuevos blancos terapéuticos o biomarcadores para esta enfermedad.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio de asociación de todo el epigenoma (EWAS); el título no permite precisar si es de corte transversal o longitudinal, ni el número de centros (no aplica cegamiento en este tipo de diseño observacional).\nPoblación: pacientes con aneurisma de aorta abdominal (AAA) comparados presumiblemente con controles sin AAA; el título no detalla los criterios exactos de inclusión/exclusión ni el tamaño muestral.\nIntervención: no aplica (estudio observacional de asociación epigenética, sin intervención ni comparador terapéutico).\nResultados: el título indica que se identificó un rol central de las vías inflamatorias; no hay razones de riesgo, valores de p ni loci específicos disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar el tamaño muestral, la población estudiada (ancestría, edad) ni si los hallazgos epigenéticos fueron validados en una cohorte independiente.\nMensaje: refuerza a la inflamación como mecanismo central en la fisiopatología del AAA, lo que podría abrir la puerta a biomarcadores epigenéticos o terapias dirigidas, aunque todavía sin impacto directo en la práctica clínica actual.\nNota: análisis sin acceso al abstract."
+    },
+    "faa810ad34ae": {
+      "resumen": "Estudio que analiza, a partir del registro STS/ACC TVT (Society of Thoracic Surgeons/American College of Cardiology Transcatheter Valve Therapy Registry), la asociación entre la designación de un hospital como centro integral de accidente cerebrovascular (comprehensive stroke center) y la forma en que se reporta la tasa de ictus tras el reemplazo valvular aórtico transcatéter (TAVR, transcatheter aortic valve replacement). Vale la pena mirarlo porque pone en duda si comparar la calidad de los distintos centros de TAVR por su tasa de ictus reportada es válido cuando esa designación puede influir en qué eventos se detectan y se registran.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio de registro (análisis del STS/ACC TVT Registry, registro multicéntrico de Estados Unidos); el título no precisa el período analizado, el número exacto de centros ni el ajuste estadístico empleado.\nPoblación: pacientes sometidos a reemplazo valvular aórtico transcatéter (TAVR) incluidos en el registro STS/ACC TVT, estratificados según si el hospital tratante está designado como centro integral de accidente cerebrovascular; no se detallan en el título los criterios de inclusión/exclusión.\nIntervención: no hay una intervención comparada en sentido estricto; se compara la tasa de ictus reportada entre hospitales con y sin designación de centro integral de stroke tras el mismo procedimiento (TAVR).\nResultados: el título plantea una asociación entre la designación del hospital y la tasa de ictus reportada, con implicancias para la evaluación de desempeño hospitalario; no hay razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar si la diferencia responde a mejor detección diagnóstica (sesgo de detección) en los centros de stroke, a diferencias reales de riesgo de los pacientes o a diferencias en la calidad del cuidado.\nMensaje: advierte que comparar la calidad de los programas de TAVR por tasa de ictus reportada puede ser engañoso si no se tiene en cuenta la capacidad diagnóstica de cada hospital, algo que debería considerarse en los sistemas públicos de evaluación de desempeño como el TVT Registry.\nNota: análisis sin acceso al abstract."
+    },
+    "787852720cd9": {
+      "resumen": "Estudio de simulación publicado en el foro r/datascience que muestra cómo un efecto no lineal entre dos variables, al sumarle error de medición en la variable independiente (x), termina pareciendo casi lineal en los datos observados. Le sirve a un médico que aprende ciencia de datos como advertencia de que una relación que se ve lineal en un gráfico puede estar escondiendo una relación real no lineal, distorsionada por errores de medición típicos de los datos clínicos.",
+      "destacado": false
+    },
+    "4cd65891f614": {
+      "resumen": "Supabase, una plataforma de base de datos y backend como servicio muy usada para prototipar aplicaciones rápido, anunció la adquisición de Turso, otra empresa de bases de datos. Le sirve a un médico que aprende ciencia de datos como noticia de consolidación en la industria de bases de datos, la infraestructura que suele usarse para almacenar y servir datos clínicos en proyectos propios.",
+      "destacado": false
+    },
+    "610216a787fc": {
+      "resumen": "Hoja de referencia (cheat sheet) de KDnuggets con los fundamentos de Python orientados a la ingeniería de datos. Le sirve a un médico que recién empieza con ciencia de datos como material de consulta rápida para repasar sintaxis y conceptos básicos del lenguaje de programación más usado en análisis de datos.",
+      "destacado": false
+    },
+    "ae73629daeb1": {
+      "resumen": "Artículo de KDnuggets que analiza el rol de \"forward deployed engineer\" (ingeniero desplegado en el cliente), un perfil técnico que se instala en la empresa del cliente para implementar soluciones de inteligencia artificial a medida, y se pregunta si es una profesión genuinamente nueva o consultoría tradicional con otro nombre. Le sirve a un médico que aprende ciencia de datos para entender la oferta laboral que está surgiendo alrededor de la implementación práctica de inteligencia artificial en organizaciones.",
+      "destacado": false
+    },
+    "c8d6ca0fb18e": {
+      "resumen": "Ensayo de 1973 escrito por Paul Halmos sobre la vida y la leyenda del matemático John von Neumann, uno de los padres de la computación moderna. Le aporta a un médico que aprende ciencia de datos un poco de contexto histórico sobre los orígenes intelectuales de la computación y la estadística que hoy sostienen al análisis de datos.",
+      "destacado": false
+    },
+    "5f9dacb5e24b": {
+      "resumen": "Artículo de Towards Data Science que ubica el ciclo de vida de desarrollo de agentes de inteligencia artificial dentro del proceso más amplio de construcción de software. Le sirve a un médico que aprende ciencia de datos para entender en qué etapa conviene planificar, probar y mantener un agente de inteligencia artificial antes de llevarlo a un flujo de trabajo real.",
+      "destacado": false
+    },
+    "d664fdf3883a": {
+      "resumen": "Artículo de KDnuggets que repasa cinco técnicas probadas para comprimir tokens (las unidades mínimas de texto que procesa un modelo de lenguaje) y optimizar las instrucciones (prompts) que se le dan a un modelo de inteligencia artificial. Le sirve a un médico que aprende ciencia de datos porque reducir tokens achica el costo y el tiempo de respuesta al usar modelos de lenguaje en tareas como resumir historias clínicas o literatura médica.",
+      "destacado": false
+    },
+    "684d12600894": {
+      "resumen": "Artículo de Towards Data Science que explica cómo construir un \"control plane\" (plano de control), la capa de software que coordina, supervisa y limita lo que pueden hacer varios agentes de inteligencia artificial en producción. Le sirve a un médico que aprende ciencia de datos para entender qué infraestructura hace falta para que un sistema de agentes de inteligencia artificial funcione de forma segura y controlada, más allá de un prototipo simple.",
+      "destacado": true
+    },
+    "214d19844698": {
+      "resumen": "Hilo de la comunidad r/datascience donde sus miembros comparten cómo estudian de manera eficiente para mantenerse actualizados en el campo de la ciencia de datos. Le sirve a un médico que está aprendiendo la disciplina como fuente de estrategias de estudio y recursos recomendados por gente que ya trabaja en el rubro.",
+      "destacado": false
+    },
+    "f7114bca7c80": {
+      "resumen": "Proyecto mostrado en Hacker News en el que le dieron a Opus 5.5, un modelo de inteligencia artificial de Anthropic, un lienzo de pintura simulado para que genere imágenes trazo por trazo. Le sirve a un médico que aprende ciencia de datos como ejemplo curioso de cómo se pueden poner a prueba las capacidades visuales y motoras simuladas de un modelo de lenguaje grande (LLM, large language model) fuera de las tareas de texto habituales.",
+      "destacado": false
+    },
+    "dcaf518b3de3": {
+      "resumen": "Felipe Contepomi se refirió a quién va a reemplazar a Andrés Bordoy en el cuerpo técnico de Los Pumas."
+    },
+    "9f81e644411e": {
+      "resumen": "Arranca la segunda fecha del United Rugby Championship con varios jugadores de Los Pumas en acción."
     }
   }
 }

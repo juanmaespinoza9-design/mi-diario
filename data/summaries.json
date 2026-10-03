@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T10:07:48Z",
+  "generated_at": "2026-10-03T22:06:43Z",
   "summaries": {
     "4b631a5208db": {
       "resumen": "Declaración científica 2026 del ACC (American College of Cardiology, Colegio Americano de Cardiología) sobre el rol de la nutrición en la prevención y el manejo de la enfermedad cardiovascular, publicada en JACC. Vale la pena mirarla porque actualiza las recomendaciones dietéticas basadas en evidencia que se trasladan directamente a la consulta diaria.",
@@ -42,18 +42,6 @@
       "resumen": "Artículo de KDnuggets que analiza el rol de \"forward deployed engineer\" (ingeniero desplegado en el cliente), un perfil técnico que se instala en la empresa del cliente para implementar soluciones de inteligencia artificial a medida, y se pregunta si es una profesión genuinamente nueva o consultoría tradicional con otro nombre. Le sirve a un médico que aprende ciencia de datos para entender la oferta laboral que está surgiendo alrededor de la implementación práctica de inteligencia artificial en organizaciones.",
       "destacado": false
     },
-    "5f9dacb5e24b": {
-      "resumen": "Artículo de Towards Data Science que ubica el ciclo de vida de desarrollo de agentes de inteligencia artificial dentro del proceso más amplio de construcción de software. Le sirve a un médico que aprende ciencia de datos para entender en qué etapa conviene planificar, probar y mantener un agente de inteligencia artificial antes de llevarlo a un flujo de trabajo real.",
-      "destacado": false
-    },
-    "d664fdf3883a": {
-      "resumen": "Artículo de KDnuggets que repasa cinco técnicas probadas para comprimir tokens (las unidades mínimas de texto que procesa un modelo de lenguaje) y optimizar las instrucciones (prompts) que se le dan a un modelo de inteligencia artificial. Le sirve a un médico que aprende ciencia de datos porque reducir tokens achica el costo y el tiempo de respuesta al usar modelos de lenguaje en tareas como resumir historias clínicas o literatura médica.",
-      "destacado": false
-    },
-    "684d12600894": {
-      "resumen": "Artículo de Towards Data Science que explica cómo construir un \"control plane\" (plano de control), la capa de software que coordina, supervisa y limita lo que pueden hacer varios agentes de inteligencia artificial en producción. Le sirve a un médico que aprende ciencia de datos para entender qué infraestructura hace falta para que un sistema de agentes de inteligencia artificial funcione de forma segura y controlada, más allá de un prototipo simple.",
-      "destacado": true
-    },
     "b2a61edabd94": {
       "resumen": "Dos estudios observacionales nuevos aportan datos sobre el vínculo entre la terapia de reemplazo hormonal (TRH) en la menopausia y el riesgo cardiovascular. El tema sigue generando debate desde el estudio Women's Health Initiative (WHI), que en su momento desalentó el uso amplio de la TRH. Vale la pena mirarlo porque puede afinar en qué momento y en qué pacientes conviene indicarla.",
       "destacado": false,
@@ -67,30 +55,53 @@
       "resumen": "Revisión publicada en European Heart Journal sobre el vínculo entre la fibrilación auricular y la muerte cardíaca súbita: repasa mecanismos fisiopatológicos, manejo clínico y nuevos blancos terapéuticos en investigación. Sirve para actualizar el marco conceptual de una asociación que en la práctica diaria suele subestimarse.",
       "destacado": false
     },
-    "37ad16bccc5b": {
-      "resumen": "Hilo de Hacker News sobre Newgrounds, una de las comunidades online más antiguas para compartir juegos, música y arte hechos por usuarios. No es ciencia de datos en sí, pero sirve como recordatorio de cómo sobreviven comunidades creativas independientes frente a las plataformas dominadas por algoritmos de recomendación.",
+    "81e221a4b780": {
+      "resumen": "Réplica de los autores dentro de un intercambio de cartas en el NEJM (New England Journal of Medicine) sobre el cierre percutáneo de la orejuela izquierda frente a la anticoagulación en fibrilación auricular. Vale la pena mirarlo porque discute puntos finos de un tema con impacto directo en la prevención del accidente cerebrovascular (ACV) en pacientes con fibrilación auricular.",
       "destacado": false
     },
-    "d75c3bd95bfc": {
-      "resumen": "Artículo que repasa de forma crítica la larga lista de factores a los que distintos estudios atribuyeron un mayor riesgo de cáncer, muchos con evidencia débil o contradictoria. Le sirve a un médico que se inicia en análisis de datos para entender por qué una asociación estadística (correlación) no siempre implica causalidad, y cómo el tamaño del efecto y la calidad del estudio cambian la interpretación.",
+    "aba2c13a7450": {
+      "resumen": "Carta al editor del NEJM (New England Journal of Medicine) que cuestiona o comenta los resultados de un estudio sobre cierre percutáneo de la orejuela izquierda versus anticoagulación en fibrilación auricular (a la que responde la réplica del ítem anterior). Sirve para asomarse al debate metodológico sobre esta estrategia de prevención del accidente cerebrovascular (ACV) en fibrilación auricular.",
       "destacado": false
     },
-    "daaf020a11e6": {
-      "resumen": "Apple actualizó los requisitos de permisos de \"acceso completo al disco\" en macOS, lo que afecta a herramientas que leen archivos del sistema, incluidas muchas usadas para análisis de datos y desarrollo. Conviene conocerlo si se trabaja con notebooks, bases de datos locales o scripts que necesitan acceder a carpetas protegidas en una Mac.",
+    "07e47d057675": {
+      "resumen": "Artículo clínico publicado en Cambridge, con repercusión en Hacker News, sobre la dificultad de diferenciar el trastorno por déficit de atención e hiperactividad (TDAH), el autismo y el trauma complejo en el diagnóstico infantil. No es ciencia de datos en sentido estricto, pero le aporta a un médico que estudia análisis de datos un buen ejemplo de diagnóstico diferencial complejo con categorías clínicas superpuestas.",
       "destacado": false
     },
-    "001fe0e44261": {
-      "resumen": "Presentación de los \"gadgets\" de Muse, una plataforma de generación de video con inteligencia artificial que empaqueta sus modelos en mini-herramientas listas para usar. Es un ejemplo de cómo la inteligencia artificial generativa se está empaquetando en productos simples, una tendencia a seguir para quien evalúa qué herramientas de IA aplicada incorporar al trabajo clínico o de análisis.",
+    "49f39eb86655": {
+      "resumen": "Proyecto interactivo publicado en Hacker News que simula cómo maniobrar una nave usando asistencia gravitatoria alrededor de distintos cuerpos celestes. No aporta herramientas de análisis de datos, pero sirve como ejemplo entretenido de simulación física interactiva corriendo en el navegador.",
+      "destacado": false
+    },
+    "6615bd5e0f11": {
+      "resumen": "Informe técnico (tech report) de Aleph Alpha sobre Kolibri, un nuevo modelo o sistema de inteligencia artificial de un proveedor europeo. Le sirve a un médico que aprende ciencia de datos para seguir el desarrollo de modelos de IA (inteligencia artificial) por fuera de los grandes jugadores estadounidenses habituales.",
+      "destacado": false
+    },
+    "b63ecfe68a1a": {
+      "resumen": "Presentación de FTL, un nuevo sistema operativo (OS) pensado específicamente para entornos de nube (cloud computing). No es ciencia de datos en sentido estricto, pero le sirve a un médico que trabaja con infraestructura de análisis de datos para entender hacia dónde evoluciona la base técnica sobre la que corren los modelos y los flujos de procesamiento de datos.",
+      "destacado": false
+    },
+    "fd3584f423f9": {
+      "resumen": "Artículo de Towards Data Science que propone cómo medir el potencial creativo de los agentes basados en modelos de lenguaje extenso (LLM, large language model), es decir, su capacidad de generar ideas genuinamente nuevas y no solo repetir patrones aprendidos. Le sirve a un médico que aprende ciencia de datos para entender los límites actuales de la inteligencia artificial generativa aplicada a la investigación o al diagnóstico asistido.",
+      "destacado": false
+    },
+    "6f2b97dedacf": {
+      "resumen": "Tutorial de Towards Data Science que muestra cómo construir, con PyTorch, una red neuronal informada por la física (PINN, physics-informed neural network) para resolver un problema inverso de las ecuaciones de Navier-Stokes, recuperando el flujo sanguíneo, la viscosidad y el estrés de corte en la pared (wall shear stress) de una arteria estrechada a partir de mediciones de velocidad ruidosas. Le sirve especialmente a un cardiólogo que aprende ciencia de datos porque combina modelado hemodinámico con aprendizaje automático (machine learning) aplicado directamente a un problema vascular.",
+      "destacado": true
+    },
+    "da9bc33d3feb": {
+      "resumen": "Nota de color del blog de Simon Willison sobre un kiosco temático de dinosaurios en una estación de subte de Nueva York. No tiene relación con inteligencia artificial ni ciencia de datos pese a aparecer en esta sección; se incluye solo como curiosidad del feed.",
       "destacado": false
     },
     "eff1aa12dfa0": {
       "resumen": "La historia de un exjugador que enfrentó a Los Pumas y hoy maneja camiones hasta 12 horas por día para sostener a su familia."
     },
-    "f56843faaa7c": {
-      "resumen": "Bautista Bernasconi, hooker de Los Pumas, anotó dos tries y fue figura en la victoria de Benetton por el United Rugby Championship."
+    "05f001d7c45f": {
+      "resumen": "Un repaso por las razones detrás del crecimiento de Salta como semillero de jugadores para el rugby argentino."
     },
-    "0f76195979fb": {
-      "resumen": "De la pileta al scrum y de ahí a los escenarios: la historia de Omar Hasan, que jugó tres Mundiales con Los Pumas antes de dedicarse a la actuación."
+    "3e38a04c934d": {
+      "resumen": "El hooker de Los Pumas Bautista Bernasconi anotó dos tries y fue figura en la victoria de Benetton por el United Rugby Championship."
+    },
+    "3b45aa5c3544": {
+      "resumen": "Arrancó en Carlos Paz, Córdoba, el Nacional de Clubes Femenino de rugby, con más de 380 jugadoras en competencia."
     }
   }
 }

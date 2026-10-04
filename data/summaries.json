@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T22:06:43Z",
+  "generated_at": "2026-10-04T10:06:06Z",
   "summaries": {
     "4b631a5208db": {
       "resumen": "Declaración científica 2026 del ACC (American College of Cardiology, Colegio Americano de Cardiología) sobre el rol de la nutrición en la prevención y el manejo de la enfermedad cardiovascular, publicada en JACC. Vale la pena mirarla porque actualiza las recomendaciones dietéticas basadas en evidencia que se trasladan directamente a la consulta diaria.",
@@ -11,23 +11,10 @@
     },
     "f80155baf6a1": {
       "resumen": "Nueva guía conjunta 2026 de la AHA (American Heart Association) y el ACC (American College of Cardiology), junto a otras ocho sociedades, sobre el manejo cardiovascular perioperatorio en cirugía no cardíaca. Es un documento clave porque actualiza el estándar de evaluación y conducta con el paciente cardiópata que va a cirugía.",
-      "destacado": false
+      "destacado": true
     },
     "c7965ca27152": {
       "resumen": "Artículo de JACC (Journal of the American College of Cardiology) que analiza el rol de las intervenciones sobre el sistema linfático para tratar la enteropatía perdedora de proteínas, una complicación infrecuente pero grave vinculada a ciertas cardiopatías congénitas. Vale la pena mirarlo porque plantea si esta terapia es una alternativa prometedora o un recurso de último recurso.",
-      "destacado": false
-    },
-    "4b4cf7192456": {
-      "resumen": "CREST-2 es un ensayo clínico que compara la revascularización carotídea (endarterectomía o colocación de stent) sumada a tratamiento médico intensivo, contra el tratamiento médico intensivo solo, en pacientes con estenosis carotídea asintomática severa. Esta nueva entrega de datos refuerza que la revascularización no mejora el desempeño cognitivo de los pacientes, un hallazgo relevante porque parte de la justificación histórica para operar lesiones asintomáticas incluía supuestos beneficios cognitivos. Vale la pena mirarlo porque cuestiona la indicación de revascularizar carótidas asintomáticas por fuera de la prevención del accidente cerebrovascular.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico aleatorizado (CREST-2), con dos cohortes paralelas (endarterectomía + tratamiento médico intensivo vs. stent + tratamiento médico intensivo, cada una comparada contra tratamiento médico intensivo solo); el título no permite precisar centros, tamaño muestral exacto ni cegamiento.\nPoblación: pacientes con estenosis carotídea asintomática significativa; no se detallan en el título los criterios exactos de inclusión/exclusión.\nIntervención: revascularización carotídea (endarterectomía o stent) sumada a tratamiento médico intensivo, comparada contra tratamiento médico intensivo solo.\nResultados: la nota indica ausencia de beneficio cognitivo de la revascularización frente al tratamiento médico intensivo solo; no hay razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: sin el abstract no se puede evaluar el tamaño muestral, el seguimiento ni la batería neuropsicológica usada para medir cognición.\nMensaje: refuerza que, en estenosis carotídea asintomática, el tratamiento médico intensivo solo logra resultados cognitivos comparables a la revascularización, lo que debería hacer repensar indicaciones quirúrgicas basadas en supuestos beneficios cognitivos.\nNota: análisis sin acceso al abstract."
-    },
-    "b91d39aca85a": {
-      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) amplió la indicación de mavacamten, un inhibidor de la miosina cardíaca, para incluir a pacientes pediátricos con miocardiopatía hipertrófica obstructiva (HCM, hypertrophic cardiomyopathy). Vale la pena mirarlo porque hasta ahora el fármaco estaba aprobado solo para adultos, y esta ampliación abre una opción de tratamiento médico para una población pediátrica donde las alternativas no quirúrgicas son limitadas.",
-      "destacado": false
-    },
-    "2c6ed77db8a6": {
-      "resumen": "Nota de TCTMD (The Cardiovascular Research Foundation) que resume la nueva declaración científica 2026 del ACC (American College of Cardiology, Colegio Americano de Cardiología) sobre la importancia de la alimentación saludable en la prevención y el manejo de la enfermedad cardiovascular (CVD, cardiovascular disease). Vale la pena mirarla como resumen rápido del mismo documento que se publicó en JACC, para tener los puntos clave sin leer el texto completo.",
       "destacado": false
     },
     "787852720cd9": {
@@ -38,45 +25,8 @@
       "resumen": "Hoja de referencia (cheat sheet) de KDnuggets con los fundamentos de Python orientados a la ingeniería de datos. Le sirve a un médico que recién empieza con ciencia de datos como material de consulta rápida para repasar sintaxis y conceptos básicos del lenguaje de programación más usado en análisis de datos.",
       "destacado": false
     },
-    "ae73629daeb1": {
-      "resumen": "Artículo de KDnuggets que analiza el rol de \"forward deployed engineer\" (ingeniero desplegado en el cliente), un perfil técnico que se instala en la empresa del cliente para implementar soluciones de inteligencia artificial a medida, y se pregunta si es una profesión genuinamente nueva o consultoría tradicional con otro nombre. Le sirve a un médico que aprende ciencia de datos para entender la oferta laboral que está surgiendo alrededor de la implementación práctica de inteligencia artificial en organizaciones.",
-      "destacado": false
-    },
-    "b2a61edabd94": {
-      "resumen": "Dos estudios observacionales nuevos aportan datos sobre el vínculo entre la terapia de reemplazo hormonal (TRH) en la menopausia y el riesgo cardiovascular. El tema sigue generando debate desde el estudio Women's Health Initiative (WHI), que en su momento desalentó el uso amplio de la TRH. Vale la pena mirarlo porque puede afinar en qué momento y en qué pacientes conviene indicarla.",
-      "destacado": false,
-      "analisis": "Diseño: Nota periodística (TCTMD) que resume dos estudios observacionales sobre terapia de reemplazo hormonal (TRH) y riesgo cardiovascular; no es un ensayo aleatorizado.\nPoblación: Mujeres en la menopausia o posmenopausia que recibieron TRH, comparadas con quienes no la recibieron, según cada estudio observacional citado.\nIntervención: Uso de terapia de reemplazo hormonal (estrógenos solos o combinados con progestágenos) versus no uso.\nResultados: No disponibles en el título ni en la nota; no se accedió a los abstracts de los estudios originales.\nLimitaciones: Diseño observacional (riesgo de sesgo de confusión y de indicación por prescripción), heterogeneidad entre los dos estudios citados, y la nota es secundaria, no un análisis primario de datos.\nMensaje: Reabre el debate posterior al estudio WHI sobre la \"ventana de oportunidad\" para iniciar la TRH y su impacto cardiovascular; no modifica por sí solo las recomendaciones vigentes.\nNota: análisis sin acceso al abstract."
-    },
-    "d3a29c72702f": {
-      "resumen": "La FDA (Administración de Alimentos y Medicamentos de Estados Unidos) aprobó la primera válvula pulmonar expandible para pacientes pediátricos con enfermedad de la válvula pulmonar. El dispositivo se puede dilatar a medida que el chico crece, lo que evitaría reintervenciones tempranas. Es relevante para el seguimiento de cardiopatías congénitas en pediatría.",
-      "destacado": false
-    },
     "da93a6b1e3b6": {
       "resumen": "Revisión publicada en European Heart Journal sobre el vínculo entre la fibrilación auricular y la muerte cardíaca súbita: repasa mecanismos fisiopatológicos, manejo clínico y nuevos blancos terapéuticos en investigación. Sirve para actualizar el marco conceptual de una asociación que en la práctica diaria suele subestimarse.",
-      "destacado": false
-    },
-    "81e221a4b780": {
-      "resumen": "Réplica de los autores dentro de un intercambio de cartas en el NEJM (New England Journal of Medicine) sobre el cierre percutáneo de la orejuela izquierda frente a la anticoagulación en fibrilación auricular. Vale la pena mirarlo porque discute puntos finos de un tema con impacto directo en la prevención del accidente cerebrovascular (ACV) en pacientes con fibrilación auricular.",
-      "destacado": false
-    },
-    "aba2c13a7450": {
-      "resumen": "Carta al editor del NEJM (New England Journal of Medicine) que cuestiona o comenta los resultados de un estudio sobre cierre percutáneo de la orejuela izquierda versus anticoagulación en fibrilación auricular (a la que responde la réplica del ítem anterior). Sirve para asomarse al debate metodológico sobre esta estrategia de prevención del accidente cerebrovascular (ACV) en fibrilación auricular.",
-      "destacado": false
-    },
-    "07e47d057675": {
-      "resumen": "Artículo clínico publicado en Cambridge, con repercusión en Hacker News, sobre la dificultad de diferenciar el trastorno por déficit de atención e hiperactividad (TDAH), el autismo y el trauma complejo en el diagnóstico infantil. No es ciencia de datos en sentido estricto, pero le aporta a un médico que estudia análisis de datos un buen ejemplo de diagnóstico diferencial complejo con categorías clínicas superpuestas.",
-      "destacado": false
-    },
-    "49f39eb86655": {
-      "resumen": "Proyecto interactivo publicado en Hacker News que simula cómo maniobrar una nave usando asistencia gravitatoria alrededor de distintos cuerpos celestes. No aporta herramientas de análisis de datos, pero sirve como ejemplo entretenido de simulación física interactiva corriendo en el navegador.",
-      "destacado": false
-    },
-    "6615bd5e0f11": {
-      "resumen": "Informe técnico (tech report) de Aleph Alpha sobre Kolibri, un nuevo modelo o sistema de inteligencia artificial de un proveedor europeo. Le sirve a un médico que aprende ciencia de datos para seguir el desarrollo de modelos de IA (inteligencia artificial) por fuera de los grandes jugadores estadounidenses habituales.",
-      "destacado": false
-    },
-    "b63ecfe68a1a": {
-      "resumen": "Presentación de FTL, un nuevo sistema operativo (OS) pensado específicamente para entornos de nube (cloud computing). No es ciencia de datos en sentido estricto, pero le sirve a un médico que trabaja con infraestructura de análisis de datos para entender hacia dónde evoluciona la base técnica sobre la que corren los modelos y los flujos de procesamiento de datos.",
       "destacado": false
     },
     "fd3584f423f9": {
@@ -91,17 +41,28 @@
       "resumen": "Nota de color del blog de Simon Willison sobre un kiosco temático de dinosaurios en una estación de subte de Nueva York. No tiene relación con inteligencia artificial ni ciencia de datos pese a aparecer en esta sección; se incluye solo como curiosidad del feed.",
       "destacado": false
     },
-    "eff1aa12dfa0": {
-      "resumen": "La historia de un exjugador que enfrentó a Los Pumas y hoy maneja camiones hasta 12 horas por día para sostener a su familia."
-    },
-    "05f001d7c45f": {
-      "resumen": "Un repaso por las razones detrás del crecimiento de Salta como semillero de jugadores para el rugby argentino."
-    },
-    "3e38a04c934d": {
-      "resumen": "El hooker de Los Pumas Bautista Bernasconi anotó dos tries y fue figura en la victoria de Benetton por el United Rugby Championship."
-    },
     "3b45aa5c3544": {
       "resumen": "Arrancó en Carlos Paz, Córdoba, el Nacional de Clubes Femenino de rugby, con más de 380 jugadoras en competencia."
+    },
+    "6419cdc1f601": {
+      "resumen": "Ensayo publicado en Hacker News (comunidad de noticias tecnológicas) que indaga por qué los desarrolladores siguen eligiendo frameworks pesados en vez de usar directamente las APIs nativas del navegador —la \"plataforma web\"— pese a que esta mejoró mucho en los últimos años. Le sirve a un médico que aprende análisis de datos porque ilustra una tensión general en tecnología (simplicidad nativa versus comodidad de frameworks) que también aparece al elegir herramientas de ciencia de datos.",
+      "destacado": false
+    },
+    "ee1071d66dee": {
+      "resumen": "Publicación en Hacker News que informa la muerte de Bob Cringely, seudónimo del periodista tecnológico Robert X. Cringely, conocido por documentar la historia de Silicon Valley y la industria informática. No aporta herramientas técnicas, pero funciona como referencia cultural sobre quiénes narraron la historia de la computación que hoy sostiene a la inteligencia artificial y la ciencia de datos.",
+      "destacado": false
+    },
+    "5a3f1f4a82c5": {
+      "resumen": "Simon Willison, desarrollador y divulgador de inteligencia artificial, plantea que a medida que se generalizan los agentes de inteligencia artificial que ejecutan tareas y gastan dinero en nombre del usuario (por ejemplo, llamando a servicios de pago), va a hacer falta que por defecto tengan topes duros de gasto para evitar facturas descontroladas. Le sirve a un médico que empieza a automatizar tareas con inteligencia artificial para entender un riesgo práctico y poco discutido: perder el control del costo cuando un agente actúa de forma autónoma.",
+      "destacado": false
+    },
+    "4956a5acae88": {
+      "resumen": "Adelanto del newsletter mensual para sponsors de Simon Willison correspondiente a septiembre, que resume temas del mes como nuevos modelos de la familia Fable, una guerra de precios entre proveedores de inteligencia artificial y curiosidades de gráficos 3D. Le sirve a un médico que sigue el campo de la inteligencia artificial como termómetro rápido de las novedades más comentadas del mes, aunque el contenido completo queda detrás de la suscripción paga.",
+      "destacado": false
+    },
+    "fba68aebf2d4": {
+      "resumen": "Posteo personal en un blog, con repercusión en Hacker News, donde el autor enumera en tono de humor las razones por las que nunca se convirtió en paramédico (EMT, emergency medical technician, técnico en emergencias médicas). No tiene contenido de ciencia de datos ni de inteligencia artificial; se incluye en el diario solo como curiosidad del feed de tecnología.",
+      "destacado": false
     }
   }
 }

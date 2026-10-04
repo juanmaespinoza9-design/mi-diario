@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T10:06:06Z",
+  "generated_at": "2026-10-04T22:08:11Z",
   "summaries": {
     "4b631a5208db": {
       "resumen": "Declaración científica 2026 del ACC (American College of Cardiology, Colegio Americano de Cardiología) sobre el rol de la nutrición en la prevención y el manejo de la enfermedad cardiovascular, publicada en JACC. Vale la pena mirarla porque actualiza las recomendaciones dietéticas basadas en evidencia que se trasladan directamente a la consulta diaria.",
@@ -11,18 +11,10 @@
     },
     "f80155baf6a1": {
       "resumen": "Nueva guía conjunta 2026 de la AHA (American Heart Association) y el ACC (American College of Cardiology), junto a otras ocho sociedades, sobre el manejo cardiovascular perioperatorio en cirugía no cardíaca. Es un documento clave porque actualiza el estándar de evaluación y conducta con el paciente cardiópata que va a cirugía.",
-      "destacado": true
+      "destacado": false
     },
     "c7965ca27152": {
       "resumen": "Artículo de JACC (Journal of the American College of Cardiology) que analiza el rol de las intervenciones sobre el sistema linfático para tratar la enteropatía perdedora de proteínas, una complicación infrecuente pero grave vinculada a ciertas cardiopatías congénitas. Vale la pena mirarlo porque plantea si esta terapia es una alternativa prometedora o un recurso de último recurso.",
-      "destacado": false
-    },
-    "787852720cd9": {
-      "resumen": "Estudio de simulación publicado en el foro r/datascience que muestra cómo un efecto no lineal entre dos variables, al sumarle error de medición en la variable independiente (x), termina pareciendo casi lineal en los datos observados. Le sirve a un médico que aprende ciencia de datos como advertencia de que una relación que se ve lineal en un gráfico puede estar escondiendo una relación real no lineal, distorsionada por errores de medición típicos de los datos clínicos.",
-      "destacado": false
-    },
-    "610216a787fc": {
-      "resumen": "Hoja de referencia (cheat sheet) de KDnuggets con los fundamentos de Python orientados a la ingeniería de datos. Le sirve a un médico que recién empieza con ciencia de datos como material de consulta rápida para repasar sintaxis y conceptos básicos del lenguaje de programación más usado en análisis de datos.",
       "destacado": false
     },
     "da93a6b1e3b6": {
@@ -32,17 +24,6 @@
     "fd3584f423f9": {
       "resumen": "Artículo de Towards Data Science que propone cómo medir el potencial creativo de los agentes basados en modelos de lenguaje extenso (LLM, large language model), es decir, su capacidad de generar ideas genuinamente nuevas y no solo repetir patrones aprendidos. Le sirve a un médico que aprende ciencia de datos para entender los límites actuales de la inteligencia artificial generativa aplicada a la investigación o al diagnóstico asistido.",
       "destacado": false
-    },
-    "6f2b97dedacf": {
-      "resumen": "Tutorial de Towards Data Science que muestra cómo construir, con PyTorch, una red neuronal informada por la física (PINN, physics-informed neural network) para resolver un problema inverso de las ecuaciones de Navier-Stokes, recuperando el flujo sanguíneo, la viscosidad y el estrés de corte en la pared (wall shear stress) de una arteria estrechada a partir de mediciones de velocidad ruidosas. Le sirve especialmente a un cardiólogo que aprende ciencia de datos porque combina modelado hemodinámico con aprendizaje automático (machine learning) aplicado directamente a un problema vascular.",
-      "destacado": true
-    },
-    "da9bc33d3feb": {
-      "resumen": "Nota de color del blog de Simon Willison sobre un kiosco temático de dinosaurios en una estación de subte de Nueva York. No tiene relación con inteligencia artificial ni ciencia de datos pese a aparecer en esta sección; se incluye solo como curiosidad del feed.",
-      "destacado": false
-    },
-    "3b45aa5c3544": {
-      "resumen": "Arrancó en Carlos Paz, Córdoba, el Nacional de Clubes Femenino de rugby, con más de 380 jugadoras en competencia."
     },
     "6419cdc1f601": {
       "resumen": "Ensayo publicado en Hacker News (comunidad de noticias tecnológicas) que indaga por qué los desarrolladores siguen eligiendo frameworks pesados en vez de usar directamente las APIs nativas del navegador —la \"plataforma web\"— pese a que esta mejoró mucho en los últimos años. Le sirve a un médico que aprende análisis de datos porque ilustra una tensión general en tecnología (simplicidad nativa versus comodidad de frameworks) que también aparece al elegir herramientas de ciencia de datos.",
@@ -60,9 +41,61 @@
       "resumen": "Adelanto del newsletter mensual para sponsors de Simon Willison correspondiente a septiembre, que resume temas del mes como nuevos modelos de la familia Fable, una guerra de precios entre proveedores de inteligencia artificial y curiosidades de gráficos 3D. Le sirve a un médico que sigue el campo de la inteligencia artificial como termómetro rápido de las novedades más comentadas del mes, aunque el contenido completo queda detrás de la suscripción paga.",
       "destacado": false
     },
-    "fba68aebf2d4": {
-      "resumen": "Posteo personal en un blog, con repercusión en Hacker News, donde el autor enumera en tono de humor las razones por las que nunca se convirtió en paramédico (EMT, emergency medical technician, técnico en emergencias médicas). No tiene contenido de ciencia de datos ni de inteligencia artificial; se incluye en el diario solo como curiosidad del feed de tecnología.",
+    "b2a61edabd94": {
+      "resumen": "TCTMD repasa dos estudios observacionales sobre terapia de reemplazo hormonal (TRH) en la menopausia y el riesgo cardiovascular. Vale la pena mirarlo porque el uso de TRH en la práctica ginecológica y cardiológica sigue generando dudas desde los resultados del Women's Health Initiative, y la evidencia observacional reciente ayuda a matizar ese debate.",
+      "destacado": false,
+      "analisis": "Diseño: Nota periodística de TCTMD que resume dos estudios observacionales (no ensayos aleatorizados); el título no especifica tamaño muestral ni número de centros.\nPoblación: No se detalla en el título; presumiblemente mujeres en la transición menopáusica o posmenopáusicas evaluadas por exposición a terapia de reemplazo hormonal.\nIntervención: Terapia de reemplazo hormonal (TRH) para síntomas de la menopausia, comparada con no uso de TRH.\nResultados: No disponibles en esta nota; el título solo indica que los estudios \"aportan información\" sobre el vínculo entre TRH y riesgo cardiovascular, sin cifras.\nLimitaciones: Diseño observacional con riesgo de confusión residual y de sesgo de indicación saludable (las mujeres que inician TRH suelen ser más sanas), ambos típicos en estudios sobre hormonas y riesgo cardiovascular.\nMensaje: Dato a seguir de cerca pero sin asociación causal firme por el diseño observacional; no cambia por sí solo la indicación de TRH en la consulta.\nNota: análisis sin acceso al abstract."
+    },
+    "d3a29c72702f": {
+      "resumen": "La FDA (Food and Drug Administration, agencia regulatoria de medicamentos y dispositivos de EE.UU.) aprobó la primera válvula pulmonar expandible para pacientes pediátricos con enfermedad de la válvula pulmonar. Importa porque estos chicos necesitan reintervenciones a medida que crecen, y una válvula expandible podría reducir el número de cirugías o procedimientos percutáneos a lo largo de la infancia.",
       "destacado": false
+    },
+    "2c6ed77db8a6": {
+      "resumen": "El ACC (American College of Cardiology, Colegio Americano de Cardiología) remarca en un comunicado la importancia de la alimentación saludable para prevenir y manejar la enfermedad cardiovascular (ECV). Es el mismo eje que la declaración científica publicada en JACC, pero en formato de comunicado de divulgación: sirve como refuerzo del mensaje hacia pacientes y colegas de atención primaria.",
+      "destacado": false
+    },
+    "4b4cf7192456": {
+      "resumen": "TCTMD reporta nuevos datos del estudio CREST-2 que no muestran beneficio cognitivo de la revascularización carotídea (angioplastia con stent o cirugía) frente al tratamiento médico intensivo en pacientes con estenosis carotídea asintomática. Es relevante porque CREST-2 es uno de los ensayos más grandes y esperados para definir el rol de la revascularización carotídea en la era del tratamiento médico moderno.",
+      "destacado": true,
+      "analisis": "Diseño: Nuevo análisis del ensayo CREST-2 (Carotid Revascularization and Medical Management for Asymptomatic Carotid Stenosis Trial), un ensayo clínico aleatorizado multicéntrico; esta nota de TCTMD reporta específicamente el desenlace cognitivo, sin precisar en el título el número de centros ni de pacientes aleatorizados.\nPoblación: Pacientes con estenosis carotídea asintomática significativa, la población históricamente evaluada en CREST-2.\nIntervención: Revascularización carotídea (stent carotídeo o endarterectomía) sumada a tratamiento médico intensivo, comparada con tratamiento médico intensivo solo.\nResultados: El título indica que \"no hay beneficio cognitivo\" de la revascularización frente al tratamiento médico, pero no se dispone de las cifras exactas (diferencias en puntajes cognitivos, intervalos de confianza o valor de p) sin el texto completo.\nLimitaciones: Sin el artículo completo no se puede evaluar el poder estadístico del desenlace cognitivo (secundario en el diseño original), ni el tiempo de seguimiento ni la tasa de eventos periprocedimiento.\nMensaje: Refuerza que, al menos en el plano cognitivo, la revascularización carotídea no agrega beneficio sobre el tratamiento médico intensivo actual en la estenosis asintomática, dato que pesa a favor de una indicación más selectiva de la revascularización.\nNota: análisis sin acceso al abstract."
+    },
+    "b91d39aca85a": {
+      "resumen": "La FDA amplió la indicación del mavacamtén a pacientes pediátricos con miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy) obstructiva. Importa porque hasta ahora este inhibidor de la miosina cardíaca estaba aprobado solo para adultos, y abre una alternativa farmacológica a la miectomía o la ablación septal en chicos con obstrucción sintomática.",
+      "destacado": false
+    },
+    "81e221a4b780": {
+      "resumen": "Respuesta de los autores a una carta sobre el cierre percutáneo de la orejuela auricular izquierda (OAI) versus la anticoagulación en fibrilación auricular, publicada en el New England Journal of Medicine. Cierra el intercambio defendiendo la interpretación original de los datos del ensayo frente a las objeciones planteadas.",
+      "destacado": false
+    },
+    "aba2c13a7450": {
+      "resumen": "Carta a la redacción del New England Journal of Medicine que discute un ensayo sobre el cierre percutáneo de la orejuela auricular izquierda (OAI) frente a la anticoagulación oral para prevenir eventos embólicos en la fibrilación auricular. Vale la pena seguirlo porque el debate entre cierre de la OAI y anticoagulación sigue vigente en la práctica diaria, sobre todo en pacientes con alto riesgo de sangrado.",
+      "destacado": false
+    },
+    "3547fd3340a5": {
+      "resumen": "Hilo de la comunidad r/datascience en Reddit donde se discute cómo es, en la práctica, el proceso para pedir y conseguir infraestructura de nube (cloud) en una empresa para proyectos de ciencia de datos. Le sirve a un médico que está armando su perfil de análisis de datos para entender la logística organizacional (permisos, presupuestos, equipos de IT) detrás de un proyecto de datos, más allá de la parte puramente analítica.",
+      "destacado": false
+    },
+    "9964b3d11b94": {
+      "resumen": "Artículo de Towards Data Science sobre cómo gobernar agentes de inteligencia artificial (sistemas que ejecutan tareas de forma autónoma), proponiendo marcos de control, auditoría y límites de actuación. Le sirve a un médico que aprende ciencia de datos porque anticipa los riesgos de usar agentes de inteligencia artificial en entornos sensibles, como el análisis de datos clínicos, donde la trazabilidad y el control son críticos.",
+      "destacado": true
+    },
+    "bca476fd3463": {
+      "resumen": "Proyecto de GitHub, destacado en Hacker News, que permite correr el modelo de lenguaje Qwen 3.8 Flash Next (de 125 mil millones de parámetros) en una placa de video de consumo (RTX 4090) a 100 tokens por segundo. Le sirve a un médico que aprende ciencia de datos porque muestra que ya es viable ejecutar modelos de inteligencia artificial grandes en hardware accesible, sin depender de servicios pagos en la nube.",
+      "destacado": false
+    },
+    "95a991f04383": {
+      "resumen": "Artículo de Towards Data Science que explica la \"maldición de la reversión\" (reversal curse): un modelo de lenguaje extenso (LLM, large language model) que aprendió que \"A es B\" muchas veces no puede inferir que \"B es A\". Le sirve a un médico que aprende ciencia de datos para entender una limitación conceptual de la inteligencia artificial generativa, útil para no sobreestimar su capacidad de razonamiento lógico al aplicarla a tareas clínicas o de investigación.",
+      "destacado": false
+    },
+    "f896e86c6f5d": {
+      "resumen": "Proyecto de GitHub, con repercusión en Hacker News, que logra acelerar hasta el doble la compilación y verificación de código en Rust al emitir metadatos de forma temprana durante el proceso de build. Le sirve a un médico que aprende ciencia de datos como ejemplo de optimización de herramientas de desarrollo, aunque Rust no sea el lenguaje más habitual en análisis de datos (donde predominan Python y R).",
+      "destacado": false
+    },
+    "8e13f60d08f7": {
+      "resumen": "Un rival de Los Pumas sumaría un refuerzo de alto perfil de cara al Mundial de Rugby 2027."
+    },
+    "8a56cc7e3a47": {
+      "resumen": "Los Pumas ostentan una marca histórica que solo tres potencias del rugby mundial superaron en los últimos cinco Mundiales."
     }
   }
 }

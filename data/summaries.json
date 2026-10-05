@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T10:06:12Z",
+  "generated_at": "2026-10-05T22:07:19Z",
   "summaries": {
     "104f8deaf383": {
       "resumen": "Revisión publicada en European Heart Journal sobre la circulación coronaria: repasa su fisiopatología, las herramientas de imagen disponibles para evaluarla y el rol de las intervenciones preventivas. Vale la pena mirarla porque actualiza el marco conceptual de la enfermedad coronaria más allá de la obstrucción epicárdica, incorporando el estudio de la microcirculación.",
@@ -43,54 +43,54 @@
       "resumen": "La FDA amplió la indicación del mavacamtén a pacientes pediátricos con miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy) obstructiva. Importa porque hasta ahora este inhibidor de la miosina cardíaca estaba aprobado solo para adultos, y abre una alternativa farmacológica a la miectomía o la ablación septal en chicos con obstrucción sintomática.",
       "destacado": false
     },
-    "9911ae53b8f3": {
-      "resumen": "Un rival de Los Pumas sumaría un refuerzo de lujo de cara al Mundial de Rugby 2027."
+    "9a289a959e8f": {
+      "resumen": "Artículo técnico de Towards Data Science que explica el algoritmo SIFT (Scale Invariant Feature Transform, transformada de características invariante a la escala), una técnica clásica de visión por computadora para encontrar y hacer coincidir puntos característicos de una imagen aunque cambien el tamaño, la rotación o el ángulo de toma. Le sirve a un médico que aprende ciencia de datos como introducción a los fundamentos del reconocimiento de imágenes, base conceptual de aplicaciones como el análisis automatizado de estudios por imágenes.",
+      "destacado": false
     },
-    "b4fb5f571fc4": {
-      "resumen": "Los Pumas sostienen una marca que en los últimos cinco Mundiales de Rugby solo lograron superar tres potencias del rugby mundial."
+    "b07b4f92b1da": {
+      "resumen": "KDnuggets explica Meta Muse, el nuevo agente de inteligencia artificial de Meta (la empresa de Facebook e Instagram) que se suma a la carrera de los grandes agentes de IA capaces de ejecutar tareas de forma autónoma. Le sirve a un médico que sigue el campo de la inteligencia artificial para entender hacia dónde avanzan las grandes tecnológicas con estos asistentes y qué funciones ofrecen frente a otros agentes ya conocidos.",
+      "destacado": true
     },
-    "26055e9e6a4e": {
-      "resumen": "Un repaso de los partidos que Los Pumas todavía deben disputar antes de arrancar su participación en el Mundial de Rugby 2027."
+    "a641cc00db60": {
+      "resumen": "Hilo de Hacker News sobre GrapheneOS (sistema operativo Android centrado en privacidad y seguridad) que podría no certificar al nuevo Google Pixel 11 porque todavía no cumple sus estándares de seguridad de hardware. No es ciencia de datos, pero le interesa a un médico que maneja datos sensibles de pacientes como recordatorio de que la seguridad del hardware donde corren las aplicaciones también es parte de la cadena de protección de la información.",
+      "destacado": false
+    },
+    "7e98d94ed8a4": {
+      "resumen": "KDnuggets repasa tres trucos prácticos de Statsmodels, una librería de Python, para el análisis y el pronóstico de series de tiempo. Le sirve mucho a un médico que está aprendiendo análisis de datos porque son herramientas aplicables directamente, por ejemplo, para modelar tendencias epidemiológicas o de farmacovigilancia a lo largo del tiempo.",
+      "destacado": false
+    },
+    "d3814b02c18c": {
+      "resumen": "La empresa alemana de robótica industrial RobCo alcanzó una valuación de 1.000 millones de dólares (estatus de \"unicornio\"), reflejo del boom inversor en automatización y robótica en Europa. No es estrictamente ciencia de datos, pero le sirve a un médico que sigue el ecosistema de inteligencia artificial para calibrar hacia dónde fluye el capital de riesgo en tecnología aplicada.",
+      "destacado": false
+    },
+    "45c36e2fb15e": {
+      "resumen": "Towards Data Science explica cómo armar un enrutador de modelos (model router), un componente que decide automáticamente qué modelo de inteligencia artificial usar para cada consulta según costo y confiabilidad, usando la herramienta Jev. Le sirve a un médico que experimenta con distintos modelos de IA para entender cómo optimizar costos sin perder calidad de respuesta, algo útil al automatizar tareas de análisis de datos.",
+      "destacado": false
+    },
+    "6877981f8072": {
+      "resumen": "Cloudflare lanzó una API (interfaz de programación de aplicaciones) de búsqueda web pensada para que agentes de inteligencia artificial puedan buscar información actualizada en internet de forma programática. Le sirve a un médico que está aprendiendo a construir aplicaciones de datos porque es una pieza más de la infraestructura que hoy permite conectar modelos de lenguaje con información en tiempo real.",
+      "destacado": false
+    },
+    "44eed4c66426": {
+      "resumen": "Columna de Stratechery sobre la estrategia de Apple y el lugar de la cultura \"hacker\" (de modificar y abrir los dispositivos) en el futuro de sus productos. No es ciencia de datos, pero le sirve a un médico que usa tecnología como contexto sobre la tensión entre plataformas cerradas y comunidades que buscan más control sobre su propio hardware y software.",
+      "destacado": false
     },
     "fea1ff6bac6b": {
       "resumen": "Hilo semanal de la comunidad r/datascience en Reddit donde quienes están entrando o haciendo una transición de carrera hacia la ciencia de datos hacen preguntas y comparten experiencias. Le sirve a un médico que se está formando en análisis de datos como termómetro de las dudas más frecuentes de quienes vienen de otras disciplinas.",
-      "destacado": false
-    },
-    "d3a209133190": {
-      "resumen": "Nota sobre la muerte de un trabajador de un laboratorio en Irkutsk (Rusia) por peste, que dejó a casi 200 personas bajo observación sanitaria. No es un tema de ciencia de datos, pero para un médico vinculado a farmacovigilancia es relevante por lo que expone sobre bioseguridad de laboratorio y vigilancia epidemiológica ante un evento infrecuente.",
-      "destacado": false
-    },
-    "3e614448e216": {
-      "resumen": "Los pilotos de Fórmula 1 se quejaron en Baréin por una falla de software que los dejó sin control de ciertas funciones del auto durante la carrera. Más que de ciencia de datos, es un recordatorio de cómo un error de software puede tener consecuencias de seguridad en sistemas críticos, algo también válido para el software que se usa en investigación clínica.",
-      "destacado": false
-    },
-    "c540ec3cafcf": {
-      "resumen": "Tutorial técnico sobre cómo armar túneles HTTP propios usando SSH y Nginx, sin depender de servicios de terceros como ngrok. Le sirve a un médico que aprende análisis de datos porque muestra una alternativa simple y gratuita para exponer temporalmente un panel o una aplicación de datos corriendo en su propia computadora.",
-      "destacado": false
-    },
-    "fb514e83ae1c": {
-      "resumen": "Proyecto de GitHub que explica cómo desactivar por completo Apple Intelligence (la capa de inteligencia artificial de Apple) en macOS 27 para recuperar espacio de disco. Le sirve a un médico que usa herramientas de inteligencia artificial como ejemplo concreto del costo de almacenamiento que tienen los modelos de IA integrados en el sistema operativo.",
       "destacado": false
     },
     "3547fd3340a5": {
       "resumen": "Hilo de la comunidad r/datascience en Reddit donde se discute cómo es, en la práctica, el proceso para pedir y conseguir infraestructura de nube (cloud) en una empresa para proyectos de ciencia de datos. Le sirve a un médico que está armando su perfil de análisis de datos para entender la logística organizacional (permisos, presupuestos, equipos de IT) detrás de un proyecto de datos, más allá de la parte puramente analítica.",
       "destacado": false
     },
-    "9964b3d11b94": {
-      "resumen": "Artículo de Towards Data Science sobre cómo gobernar agentes de inteligencia artificial (sistemas que ejecutan tareas de forma autónoma), proponiendo marcos de control, auditoría y límites de actuación. Le sirve a un médico que aprende ciencia de datos porque anticipa los riesgos de usar agentes de inteligencia artificial en entornos sensibles, como el análisis de datos clínicos, donde la trazabilidad y el control son críticos.",
-      "destacado": true
+    "470546e569f3": {
+      "resumen": "Repaso de la fecha europea de los argentinos que juegan afuera: un récord de puntos de Urdapilleta, varios tries convertidos y el debut de un juvenil de 18 años en el Top 14 francés."
     },
-    "95a991f04383": {
-      "resumen": "Artículo de Towards Data Science que explica la \"maldición de la reversión\" (reversal curse): un modelo de lenguaje extenso (LLM, large language model) que aprendió que \"A es B\" muchas veces no puede inferir que \"B es A\". Le sirve a un médico que aprende ciencia de datos para entender una limitación conceptual de la inteligencia artificial generativa, útil para no sobreestimar su capacidad de razonamiento lógico al aplicarla a tareas clínicas o de investigación.",
-      "destacado": false
+    "af206d6d6f78": {
+      "resumen": "La prensa británica evaluó a Los Pumas de cara al Mundial de Rugby de Australia 2027 y concluyó que el talento del plantel está a la altura, aunque remarcó otros puntos por mejorar."
     },
-    "5a3f1f4a82c5": {
-      "resumen": "Simon Willison, desarrollador y divulgador de inteligencia artificial, plantea que a medida que se generalizan los agentes de inteligencia artificial que ejecutan tareas y gastan dinero en nombre del usuario (por ejemplo, llamando a servicios de pago), va a hacer falta que por defecto tengan topes duros de gasto para evitar facturas descontroladas. Le sirve a un médico que empieza a automatizar tareas con inteligencia artificial para entender un riesgo práctico y poco discutido: perder el control del costo cuando un agente actúa de forma autónoma.",
-      "destacado": false
-    },
-    "4956a5acae88": {
-      "resumen": "Adelanto del newsletter mensual para sponsors de Simon Willison correspondiente a septiembre, que resume temas del mes como nuevos modelos de la familia Fable, una guerra de precios entre proveedores de inteligencia artificial y curiosidades de gráficos 3D. Le sirve a un médico que sigue el campo de la inteligencia artificial como termómetro rápido de las novedades más comentadas del mes, aunque el contenido completo queda detrás de la suscripción paga.",
-      "destacado": false
+    "e3b41683545d": {
+      "resumen": "Los Pumas ostentan una marca estadística de los últimos cinco Mundiales de Rugby que solamente tres selecciones top del mundo lograron superar."
     }
   }
 }

@@ -1,6 +1,10 @@
 {
-  "generated_at": "2026-10-04T22:08:11Z",
+  "generated_at": "2026-10-05T10:06:12Z",
   "summaries": {
+    "104f8deaf383": {
+      "resumen": "Revisión publicada en European Heart Journal sobre la circulación coronaria: repasa su fisiopatología, las herramientas de imagen disponibles para evaluarla y el rol de las intervenciones preventivas. Vale la pena mirarla porque actualiza el marco conceptual de la enfermedad coronaria más allá de la obstrucción epicárdica, incorporando el estudio de la microcirculación.",
+      "destacado": false
+    },
     "4b631a5208db": {
       "resumen": "Declaración científica 2026 del ACC (American College of Cardiology, Colegio Americano de Cardiología) sobre el rol de la nutrición en la prevención y el manejo de la enfermedad cardiovascular, publicada en JACC. Vale la pena mirarla porque actualiza las recomendaciones dietéticas basadas en evidencia que se trasladan directamente a la consulta diaria.",
       "destacado": false
@@ -15,30 +19,6 @@
     },
     "c7965ca27152": {
       "resumen": "Artículo de JACC (Journal of the American College of Cardiology) que analiza el rol de las intervenciones sobre el sistema linfático para tratar la enteropatía perdedora de proteínas, una complicación infrecuente pero grave vinculada a ciertas cardiopatías congénitas. Vale la pena mirarlo porque plantea si esta terapia es una alternativa prometedora o un recurso de último recurso.",
-      "destacado": false
-    },
-    "da93a6b1e3b6": {
-      "resumen": "Revisión publicada en European Heart Journal sobre el vínculo entre la fibrilación auricular y la muerte cardíaca súbita: repasa mecanismos fisiopatológicos, manejo clínico y nuevos blancos terapéuticos en investigación. Sirve para actualizar el marco conceptual de una asociación que en la práctica diaria suele subestimarse.",
-      "destacado": false
-    },
-    "fd3584f423f9": {
-      "resumen": "Artículo de Towards Data Science que propone cómo medir el potencial creativo de los agentes basados en modelos de lenguaje extenso (LLM, large language model), es decir, su capacidad de generar ideas genuinamente nuevas y no solo repetir patrones aprendidos. Le sirve a un médico que aprende ciencia de datos para entender los límites actuales de la inteligencia artificial generativa aplicada a la investigación o al diagnóstico asistido.",
-      "destacado": false
-    },
-    "6419cdc1f601": {
-      "resumen": "Ensayo publicado en Hacker News (comunidad de noticias tecnológicas) que indaga por qué los desarrolladores siguen eligiendo frameworks pesados en vez de usar directamente las APIs nativas del navegador —la \"plataforma web\"— pese a que esta mejoró mucho en los últimos años. Le sirve a un médico que aprende análisis de datos porque ilustra una tensión general en tecnología (simplicidad nativa versus comodidad de frameworks) que también aparece al elegir herramientas de ciencia de datos.",
-      "destacado": false
-    },
-    "ee1071d66dee": {
-      "resumen": "Publicación en Hacker News que informa la muerte de Bob Cringely, seudónimo del periodista tecnológico Robert X. Cringely, conocido por documentar la historia de Silicon Valley y la industria informática. No aporta herramientas técnicas, pero funciona como referencia cultural sobre quiénes narraron la historia de la computación que hoy sostiene a la inteligencia artificial y la ciencia de datos.",
-      "destacado": false
-    },
-    "5a3f1f4a82c5": {
-      "resumen": "Simon Willison, desarrollador y divulgador de inteligencia artificial, plantea que a medida que se generalizan los agentes de inteligencia artificial que ejecutan tareas y gastan dinero en nombre del usuario (por ejemplo, llamando a servicios de pago), va a hacer falta que por defecto tengan topes duros de gasto para evitar facturas descontroladas. Le sirve a un médico que empieza a automatizar tareas con inteligencia artificial para entender un riesgo práctico y poco discutido: perder el control del costo cuando un agente actúa de forma autónoma.",
-      "destacado": false
-    },
-    "4956a5acae88": {
-      "resumen": "Adelanto del newsletter mensual para sponsors de Simon Willison correspondiente a septiembre, que resume temas del mes como nuevos modelos de la familia Fable, una guerra de precios entre proveedores de inteligencia artificial y curiosidades de gráficos 3D. Le sirve a un médico que sigue el campo de la inteligencia artificial como termómetro rápido de las novedades más comentadas del mes, aunque el contenido completo queda detrás de la suscripción paga.",
       "destacado": false
     },
     "b2a61edabd94": {
@@ -63,12 +43,33 @@
       "resumen": "La FDA amplió la indicación del mavacamtén a pacientes pediátricos con miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy) obstructiva. Importa porque hasta ahora este inhibidor de la miosina cardíaca estaba aprobado solo para adultos, y abre una alternativa farmacológica a la miectomía o la ablación septal en chicos con obstrucción sintomática.",
       "destacado": false
     },
-    "81e221a4b780": {
-      "resumen": "Respuesta de los autores a una carta sobre el cierre percutáneo de la orejuela auricular izquierda (OAI) versus la anticoagulación en fibrilación auricular, publicada en el New England Journal of Medicine. Cierra el intercambio defendiendo la interpretación original de los datos del ensayo frente a las objeciones planteadas.",
+    "9911ae53b8f3": {
+      "resumen": "Un rival de Los Pumas sumaría un refuerzo de lujo de cara al Mundial de Rugby 2027."
+    },
+    "b4fb5f571fc4": {
+      "resumen": "Los Pumas sostienen una marca que en los últimos cinco Mundiales de Rugby solo lograron superar tres potencias del rugby mundial."
+    },
+    "26055e9e6a4e": {
+      "resumen": "Un repaso de los partidos que Los Pumas todavía deben disputar antes de arrancar su participación en el Mundial de Rugby 2027."
+    },
+    "fea1ff6bac6b": {
+      "resumen": "Hilo semanal de la comunidad r/datascience en Reddit donde quienes están entrando o haciendo una transición de carrera hacia la ciencia de datos hacen preguntas y comparten experiencias. Le sirve a un médico que se está formando en análisis de datos como termómetro de las dudas más frecuentes de quienes vienen de otras disciplinas.",
       "destacado": false
     },
-    "aba2c13a7450": {
-      "resumen": "Carta a la redacción del New England Journal of Medicine que discute un ensayo sobre el cierre percutáneo de la orejuela auricular izquierda (OAI) frente a la anticoagulación oral para prevenir eventos embólicos en la fibrilación auricular. Vale la pena seguirlo porque el debate entre cierre de la OAI y anticoagulación sigue vigente en la práctica diaria, sobre todo en pacientes con alto riesgo de sangrado.",
+    "d3a209133190": {
+      "resumen": "Nota sobre la muerte de un trabajador de un laboratorio en Irkutsk (Rusia) por peste, que dejó a casi 200 personas bajo observación sanitaria. No es un tema de ciencia de datos, pero para un médico vinculado a farmacovigilancia es relevante por lo que expone sobre bioseguridad de laboratorio y vigilancia epidemiológica ante un evento infrecuente.",
+      "destacado": false
+    },
+    "3e614448e216": {
+      "resumen": "Los pilotos de Fórmula 1 se quejaron en Baréin por una falla de software que los dejó sin control de ciertas funciones del auto durante la carrera. Más que de ciencia de datos, es un recordatorio de cómo un error de software puede tener consecuencias de seguridad en sistemas críticos, algo también válido para el software que se usa en investigación clínica.",
+      "destacado": false
+    },
+    "c540ec3cafcf": {
+      "resumen": "Tutorial técnico sobre cómo armar túneles HTTP propios usando SSH y Nginx, sin depender de servicios de terceros como ngrok. Le sirve a un médico que aprende análisis de datos porque muestra una alternativa simple y gratuita para exponer temporalmente un panel o una aplicación de datos corriendo en su propia computadora.",
+      "destacado": false
+    },
+    "fb514e83ae1c": {
+      "resumen": "Proyecto de GitHub que explica cómo desactivar por completo Apple Intelligence (la capa de inteligencia artificial de Apple) en macOS 27 para recuperar espacio de disco. Le sirve a un médico que usa herramientas de inteligencia artificial como ejemplo concreto del costo de almacenamiento que tienen los modelos de IA integrados en el sistema operativo.",
       "destacado": false
     },
     "3547fd3340a5": {
@@ -79,23 +80,17 @@
       "resumen": "Artículo de Towards Data Science sobre cómo gobernar agentes de inteligencia artificial (sistemas que ejecutan tareas de forma autónoma), proponiendo marcos de control, auditoría y límites de actuación. Le sirve a un médico que aprende ciencia de datos porque anticipa los riesgos de usar agentes de inteligencia artificial en entornos sensibles, como el análisis de datos clínicos, donde la trazabilidad y el control son críticos.",
       "destacado": true
     },
-    "bca476fd3463": {
-      "resumen": "Proyecto de GitHub, destacado en Hacker News, que permite correr el modelo de lenguaje Qwen 3.8 Flash Next (de 125 mil millones de parámetros) en una placa de video de consumo (RTX 4090) a 100 tokens por segundo. Le sirve a un médico que aprende ciencia de datos porque muestra que ya es viable ejecutar modelos de inteligencia artificial grandes en hardware accesible, sin depender de servicios pagos en la nube.",
-      "destacado": false
-    },
     "95a991f04383": {
       "resumen": "Artículo de Towards Data Science que explica la \"maldición de la reversión\" (reversal curse): un modelo de lenguaje extenso (LLM, large language model) que aprendió que \"A es B\" muchas veces no puede inferir que \"B es A\". Le sirve a un médico que aprende ciencia de datos para entender una limitación conceptual de la inteligencia artificial generativa, útil para no sobreestimar su capacidad de razonamiento lógico al aplicarla a tareas clínicas o de investigación.",
       "destacado": false
     },
-    "f896e86c6f5d": {
-      "resumen": "Proyecto de GitHub, con repercusión en Hacker News, que logra acelerar hasta el doble la compilación y verificación de código en Rust al emitir metadatos de forma temprana durante el proceso de build. Le sirve a un médico que aprende ciencia de datos como ejemplo de optimización de herramientas de desarrollo, aunque Rust no sea el lenguaje más habitual en análisis de datos (donde predominan Python y R).",
+    "5a3f1f4a82c5": {
+      "resumen": "Simon Willison, desarrollador y divulgador de inteligencia artificial, plantea que a medida que se generalizan los agentes de inteligencia artificial que ejecutan tareas y gastan dinero en nombre del usuario (por ejemplo, llamando a servicios de pago), va a hacer falta que por defecto tengan topes duros de gasto para evitar facturas descontroladas. Le sirve a un médico que empieza a automatizar tareas con inteligencia artificial para entender un riesgo práctico y poco discutido: perder el control del costo cuando un agente actúa de forma autónoma.",
       "destacado": false
     },
-    "8e13f60d08f7": {
-      "resumen": "Un rival de Los Pumas sumaría un refuerzo de alto perfil de cara al Mundial de Rugby 2027."
-    },
-    "8a56cc7e3a47": {
-      "resumen": "Los Pumas ostentan una marca histórica que solo tres potencias del rugby mundial superaron en los últimos cinco Mundiales."
+    "4956a5acae88": {
+      "resumen": "Adelanto del newsletter mensual para sponsors de Simon Willison correspondiente a septiembre, que resume temas del mes como nuevos modelos de la familia Fable, una guerra de precios entre proveedores de inteligencia artificial y curiosidades de gráficos 3D. Le sirve a un médico que sigue el campo de la inteligencia artificial como termómetro rápido de las novedades más comentadas del mes, aunque el contenido completo queda detrás de la suscripción paga.",
+      "destacado": false
     }
   }
 }

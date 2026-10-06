@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T10:08:14Z",
+  "generated_at": "2026-10-06T22:07:11Z",
   "summaries": {
     "104f8deaf383": {
       "resumen": "Revisión publicada en European Heart Journal sobre la circulación coronaria: repasa su fisiopatología, las herramientas de imagen disponibles para evaluarla y el rol de las intervenciones preventivas. Vale la pena mirarla porque actualiza el marco conceptual de la enfermedad coronaria más allá de la obstrucción epicárdica, incorporando el estudio de la microcirculación.",
@@ -22,30 +22,6 @@
       "destacado": true,
       "analisis": "Diseño: Nota periodística de TCTMD que resume dos estudios observacionales (no ensayos aleatorizados); el título no especifica tamaño muestral ni número de centros.\nPoblación: No se detalla en el título; presumiblemente mujeres en la transición menopáusica o posmenopáusicas evaluadas por exposición a terapia de reemplazo hormonal.\nIntervención: Terapia de reemplazo hormonal (TRH) para síntomas de la menopausia, comparada con no uso de TRH.\nResultados: No disponibles en esta nota; el título solo indica que los estudios \"aportan información\" sobre el vínculo entre TRH y riesgo cardiovascular, sin cifras.\nLimitaciones: Diseño observacional con riesgo de confusión residual y de sesgo de indicación saludable (las mujeres que inician TRH suelen ser más sanas), ambos típicos en estudios sobre hormonas y riesgo cardiovascular.\nMensaje: Dato a seguir de cerca pero sin asociación causal firme por el diseño observacional; no cambia por sí solo la indicación de TRH en la consulta.\nNota: análisis sin acceso al abstract."
     },
-    "d3a29c72702f": {
-      "resumen": "La FDA (Food and Drug Administration, agencia regulatoria de medicamentos y dispositivos de EE.UU.) aprobó la primera válvula pulmonar expandible para pacientes pediátricos con enfermedad de la válvula pulmonar. Importa porque estos chicos necesitan reintervenciones a medida que crecen, y una válvula expandible podría reducir el número de cirugías o procedimientos percutáneos a lo largo de la infancia.",
-      "destacado": false
-    },
-    "9a289a959e8f": {
-      "resumen": "Artículo técnico de Towards Data Science que explica el algoritmo SIFT (Scale Invariant Feature Transform, transformada de características invariante a la escala), una técnica clásica de visión por computadora para encontrar y hacer coincidir puntos característicos de una imagen aunque cambien el tamaño, la rotación o el ángulo de toma. Le sirve a un médico que aprende ciencia de datos como introducción a los fundamentos del reconocimiento de imágenes, base conceptual de aplicaciones como el análisis automatizado de estudios por imágenes.",
-      "destacado": false
-    },
-    "b07b4f92b1da": {
-      "resumen": "KDnuggets explica Meta Muse, el nuevo agente de inteligencia artificial de Meta (la empresa de Facebook e Instagram) que se suma a la carrera de los grandes agentes de IA capaces de ejecutar tareas de forma autónoma. Le sirve a un médico que sigue el campo de la inteligencia artificial para entender hacia dónde avanzan las grandes tecnológicas con estos asistentes y qué funciones ofrecen frente a otros agentes ya conocidos.",
-      "destacado": true
-    },
-    "7e98d94ed8a4": {
-      "resumen": "KDnuggets repasa tres trucos prácticos de Statsmodels, una librería de Python, para el análisis y el pronóstico de series de tiempo. Le sirve mucho a un médico que está aprendiendo análisis de datos porque son herramientas aplicables directamente, por ejemplo, para modelar tendencias epidemiológicas o de farmacovigilancia a lo largo del tiempo.",
-      "destacado": false
-    },
-    "45c36e2fb15e": {
-      "resumen": "Towards Data Science explica cómo armar un enrutador de modelos (model router), un componente que decide automáticamente qué modelo de inteligencia artificial usar para cada consulta según costo y confiabilidad, usando la herramienta Jev. Le sirve a un médico que experimenta con distintos modelos de IA para entender cómo optimizar costos sin perder calidad de respuesta, algo útil al automatizar tareas de análisis de datos.",
-      "destacado": false
-    },
-    "fea1ff6bac6b": {
-      "resumen": "Hilo semanal de la comunidad r/datascience en Reddit donde quienes están entrando o haciendo una transición de carrera hacia la ciencia de datos hacen preguntas y comparten experiencias. Le sirve a un médico que se está formando en análisis de datos como termómetro de las dudas más frecuentes de quienes vienen de otras disciplinas.",
-      "destacado": false
-    },
     "65894a9a3ace": {
       "resumen": "TCTMD (plataforma de noticias en cardiología intervencionista) adelanta la agenda del congreso EACTS 2026 (European Association for Cardio-Thoracic Surgery, Asociación Europea de Cirugía Cardiotorácica) en Barcelona. Vale la pena seguirlo porque suele traer los datos más nuevos en cirugía cardíaca y valvular estructural que luego bajan a la práctica.",
       "destacado": false
@@ -63,40 +39,59 @@
       "resumen": "Nuevo documento de consenso de expertos 2026 del ACC (American College of Cardiology, Colegio Americano de Cardiología) sobre el manejo de la hipertensión arterial resistente, publicado en JACC (Journal of the American College of Cardiology). Vale la pena mirarlo porque ordena en un algoritmo práctico los pasos diagnósticos y terapéuticos para esta forma de hipertensión difícil de controlar.",
       "destacado": false
     },
-    "5dba9a1449b9": {
-      "resumen": "Hacker News discute un ensayo que defiende a Common Lisp (lenguaje de programación de los años 80, poco usado hoy) como la mejor opción actual para programar. No es ciencia de datos en sí, pero le sirve a un médico que programa para pensar qué hace productivo a un lenguaje más allá de la moda, algo útil al elegir herramientas para análisis de datos.",
+    "9f783a7330cd": {
+      "resumen": "TCTMD (plataforma de noticias en cardiología intervencionista) resume un estudio según el cual los adultos de 60 años con peor desempeño en pruebas cognitivas tienen mayor riesgo futuro de accidente cerebrovascular (ACV). Vale la pena mirarlo porque sugiere que el deterioro cognitivo temprano podría funcionar como marcador de riesgo vascular, útil para estratificar pacientes antes de que aparezca el evento.",
+      "destacado": false,
+      "analisis": "Diseño: Nota de TCTMD que resume aparentemente un estudio de cohorte poblacional que relacionó los puntajes de pruebas cognitivas en la sexta década de vida con la incidencia posterior de accidente cerebrovascular (ACV); el título no precisa número de centros, de pacientes ni tiempo de seguimiento.\nPoblación: No especificada en el título; presumiblemente adultos de alrededor de 60 años sin antecedente de ACV al momento de la evaluación cognitiva basal.\nIntervención: No aplica (estudio observacional que compara personas con bajo rendimiento cognitivo frente a quienes tienen mejor rendimiento).\nResultados: El título solo indica que un peor puntaje cognitivo \"predice\" mayor riesgo de ACV, sin cifras de riesgo relativo, intervalos de confianza ni valor de p disponibles en esta nota.\nLimitaciones: Riesgo de confusión por factores vasculares compartidos (hipertensión, diabetes, fibrilación auricular) que explican tanto el deterioro cognitivo como el riesgo de ACV, y posible causalidad inversa si existía enfermedad cerebrovascular subclínica al momento de la evaluación.\nMensaje: Refuerza la idea de incorporar la evaluación cognitiva a la estratificación de riesgo vascular en la consulta, aunque no cambia por sí solo la conducta terapéutica sin más datos.\nNota: análisis sin acceso al abstract."
+    },
+    "b3ffaa721999": {
+      "resumen": "Simon Willison comenta en Hacker News el lanzamiento de EmbeddingGemma 2, un modelo de embeddings (representaciones numéricas de texto que permiten medir similitud semántica) publicado bajo licencia abierta Apache 2.0. Le sirve a un médico que aprende análisis de datos porque los embeddings son la base de sistemas de búsqueda semántica y clasificación de texto, y tener un modelo abierto y gratuito facilita experimentar sin depender de servicios pagos.",
       "destacado": false
     },
-    "ba410579b358": {
-      "resumen": "Hacker News comparte una nota sobre cómo la suba del precio del diésel llevó a la quiebra a 16 empresas de transporte de carga en Estados Unidos en solo un mes. No es ciencia de datos, pero ejemplifica cómo pequeños cambios en una variable (el precio de un insumo) pueden tener efectos rápidos y no lineales sobre un sistema, una lógica útil para quien analiza series económicas o de salud.",
+    "a651b0ec0b3d": {
+      "resumen": "Mistral AI presenta Mistral Large 4, un modelo de lenguaje de gran tamaño (LLM, large language model) con un billón de parámetros totales y 49.000 millones de parámetros activos, entrenado en infraestructura propia de la compañía. Le sirve a quien sigue la inteligencia artificial para entender la escala que están alcanzando los modelos abiertos y semiabiertos que compiten con los grandes jugadores como OpenAI o Google.",
       "destacado": false
     },
-    "16140ec435b0": {
-      "resumen": "Simon Willison cita a Felix Rieseberg sobre por qué la versión anterior de Cowork (herramienta de Anthropic) ejecutaba la inferencia del modelo en una máquina virtual en la nube en lugar de localmente, por razones de capacidad, seguridad y control de acceso a los datos. Le sirve a un médico que empieza a usar asistentes de inteligencia artificial para entender por qué estas herramientas suelen aislar la ejecución de código en entornos controlados, algo clave cuando se manejan datos sensibles de pacientes.",
+    "f5f88d08399f": {
+      "resumen": "Simon Willison explica cómo combinar Parseable (una plataforma de observabilidad de código abierto escrita en Rust) con Datasette (su herramienta para explorar datos tabulares) para analizar trazas de OpenTelemetry (un estándar para registrar el comportamiento de sistemas de software). Le sirve a un médico que aprende análisis de datos como ejemplo concreto de cómo explorar datos técnicos con herramientas simples y livianas, sin montar una infraestructura compleja.",
       "destacado": false
     },
-    "a2e22d7beb63": {
-      "resumen": "Nota humorística de Hacker News sobre un supuesto \"rediseño\" del sitio example.com, usado históricamente como dominio de referencia técnica en internet. Aporta poco a la ciencia de datos en sí, pero funciona como curiosidad sobre la cultura de los desarrolladores web.",
+    "afa978dfc20b": {
+      "resumen": "Towards Data Science propone un marco práctico para usar la inteligencia artificial como compañera de estudio a la hora de aprender temas nuevos. Le sirve a un médico en transición hacia el análisis de datos porque ofrece una estrategia concreta para aprovechar los asistentes de IA al estudiar estadística, programación o metodología de investigación.",
       "destacado": false
     },
-    "80dc4d7e0442": {
-      "resumen": "Hacker News reporta que ChatGPT (el asistente de inteligencia artificial de OpenAI) está agregando firmas reales de dibujantes a caricaturas falsas con estilo de la revista The New Yorker. Le sirve a un médico que usa inteligencia artificial generativa para entender los límites y riesgos de atribución y desinformación que estas herramientas todavía no resuelven bien.",
+    "6cc8c74a54ac": {
+      "resumen": "KDnuggets analiza quién termina pagando la construcción de los centros de datos necesarios para entrenar y correr modelos de inteligencia artificial, más allá de si se construyen o no. Le sirve a quien sigue el campo de la IA para entender las tensiones económicas de fondo detrás del auge de la inteligencia artificial, que determinan cuánto cuesta y seguirá costando usar estas herramientas.",
       "destacado": false
     },
-    "a4185db17f61": {
-      "resumen": "Medios británicos evaluaron a las selecciones del Seis Naciones y del Rugby Championship (torneo de rugby del hemisferio sur) pensando en el Mundial de Rugby 2027."
+    "dc9ef1a1e541": {
+      "resumen": "Tercera entrega de una serie de Towards Data Science sobre automatización de pruebas de software guiada por especificaciones (spec-driven test automation), en la que el autor discute una medición parcial hecha por un equipo de Google sobre su argumento original. Le aporta a un médico que programa una mirada sobre cómo validar rigurosamente herramientas automatizadas antes de confiar en sus resultados, un principio trasladable al control de calidad del análisis de datos clínicos.",
+      "destacado": false
     },
-    "7ff6acec0dc0": {
-      "resumen": "El estadio Martearena de Salta fue incluido entre las sedes propuestas para el Mundial de Rugby 2035 dentro de la candidatura conjunta sudamericana."
+    "a5e9bfd373c0": {
+      "resumen": "Hacker News destaca una actualización de Tapo, una librería escrita en Rust y Python, que ahora soporta el protocolo TPAP de TP-Link para controlar dispositivos domésticos inteligentes. No es ciencia de datos en sí, pero ejemplifica el trabajo de ingeniería necesario para integrar protocolos propietarios con herramientas de código abierto, algo frecuente al conectar fuentes de datos dispares.",
+      "destacado": false
     },
-    "be3647552936": {
-      "resumen": "Argentina presentó oficialmente su candidatura para ser sede del Mundial de Rugby 2035, con Santa Fe entre las provincias incluidas."
+    "65b10d5e370b": {
+      "resumen": "Hacker News discute el anuncio de Mistral Large 4, el nuevo modelo de lenguaje de gran escala (LLM) de Mistral AI con un billón de parámetros. Le sirve a quien sigue la inteligencia artificial para ver cómo recibe la comunidad técnica el lanzamiento de un competidor europeo frente a los modelos de OpenAI, Google y Anthropic.",
+      "destacado": false
     },
-    "d78b2e9a59c5": {
-      "resumen": "Una nueva clase de fármacos para adelgazar podría generar menos efectos secundarios que los agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1), la familia a la que pertenecen drogas como la semaglutida."
+    "2b7b3587e535": {
+      "resumen": "En el foro r/datascience de Reddit se discuten técnicas para elegir el modelo estadístico más adecuado cuando el objetivo es la inferencia causal (estimar el efecto real de una intervención) y no solo la predicción. Le sirve especialmente a un médico que aprende análisis de datos porque la inferencia causal es justamente lo que se necesita para evaluar, por ejemplo, el efecto de un tratamiento a partir de datos observacionales.",
+      "destacado": true
     },
-    "d4a504ba3494": {
-      "resumen": "TikTok se llenó de información falsa luego de que la FDA (agencia regulatoria de medicamentos de Estados Unidos) vinculara a un analgésico con el autismo."
+    "cf0054e0c680": {
+      "resumen": "Towards Data Science enseña, con un tutorial en PyTorch (una librería de Python para construir modelos de aprendizaje profundo) apto para principiantes, cómo usar dos copias de un mismo modelo de inteligencia artificial para mantener sincronizado un dron con la nube sin transmitir datos en forma constante, reduciendo el uso de datos en un 94%. Le sirve a un médico que aprende análisis de datos como ejemplo didáctico de \"modelos de mundo\" (world models) aplicados a un problema de eficiencia práctica.",
+      "destacado": false
+    },
+    "1f8490791571": {
+      "resumen": "Los capitanes de varias selecciones de rugby le dedicaron mensajes emotivos a Lionel Messi con motivo de su despedida de la Selección argentina."
+    },
+    "63badb507649": {
+      "resumen": "Figuras del rugby argentino se despidieron de Lionel Messi destacando el legado inspirador que deja en el deporte nacional."
+    },
+    "5073865a5d1c": {
+      "resumen": "ESPN Deportes repasa los horarios y los grupos de Los Pumas 7's y Las Yaguaretés para el Sudamericano de Seven de rugby."
     }
   }
 }

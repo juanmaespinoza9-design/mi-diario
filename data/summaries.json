@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T22:07:19Z",
+  "generated_at": "2026-10-06T10:08:14Z",
   "summaries": {
     "104f8deaf383": {
       "resumen": "Revisión publicada en European Heart Journal sobre la circulación coronaria: repasa su fisiopatología, las herramientas de imagen disponibles para evaluarla y el rol de las intervenciones preventivas. Vale la pena mirarla porque actualiza el marco conceptual de la enfermedad coronaria más allá de la obstrucción epicárdica, incorporando el estudio de la microcirculación.",
@@ -17,30 +17,13 @@
       "resumen": "Nueva guía conjunta 2026 de la AHA (American Heart Association) y el ACC (American College of Cardiology), junto a otras ocho sociedades, sobre el manejo cardiovascular perioperatorio en cirugía no cardíaca. Es un documento clave porque actualiza el estándar de evaluación y conducta con el paciente cardiópata que va a cirugía.",
       "destacado": false
     },
-    "c7965ca27152": {
-      "resumen": "Artículo de JACC (Journal of the American College of Cardiology) que analiza el rol de las intervenciones sobre el sistema linfático para tratar la enteropatía perdedora de proteínas, una complicación infrecuente pero grave vinculada a ciertas cardiopatías congénitas. Vale la pena mirarlo porque plantea si esta terapia es una alternativa prometedora o un recurso de último recurso.",
-      "destacado": false
-    },
     "b2a61edabd94": {
       "resumen": "TCTMD repasa dos estudios observacionales sobre terapia de reemplazo hormonal (TRH) en la menopausia y el riesgo cardiovascular. Vale la pena mirarlo porque el uso de TRH en la práctica ginecológica y cardiológica sigue generando dudas desde los resultados del Women's Health Initiative, y la evidencia observacional reciente ayuda a matizar ese debate.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: Nota periodística de TCTMD que resume dos estudios observacionales (no ensayos aleatorizados); el título no especifica tamaño muestral ni número de centros.\nPoblación: No se detalla en el título; presumiblemente mujeres en la transición menopáusica o posmenopáusicas evaluadas por exposición a terapia de reemplazo hormonal.\nIntervención: Terapia de reemplazo hormonal (TRH) para síntomas de la menopausia, comparada con no uso de TRH.\nResultados: No disponibles en esta nota; el título solo indica que los estudios \"aportan información\" sobre el vínculo entre TRH y riesgo cardiovascular, sin cifras.\nLimitaciones: Diseño observacional con riesgo de confusión residual y de sesgo de indicación saludable (las mujeres que inician TRH suelen ser más sanas), ambos típicos en estudios sobre hormonas y riesgo cardiovascular.\nMensaje: Dato a seguir de cerca pero sin asociación causal firme por el diseño observacional; no cambia por sí solo la indicación de TRH en la consulta.\nNota: análisis sin acceso al abstract."
     },
     "d3a29c72702f": {
       "resumen": "La FDA (Food and Drug Administration, agencia regulatoria de medicamentos y dispositivos de EE.UU.) aprobó la primera válvula pulmonar expandible para pacientes pediátricos con enfermedad de la válvula pulmonar. Importa porque estos chicos necesitan reintervenciones a medida que crecen, y una válvula expandible podría reducir el número de cirugías o procedimientos percutáneos a lo largo de la infancia.",
-      "destacado": false
-    },
-    "2c6ed77db8a6": {
-      "resumen": "El ACC (American College of Cardiology, Colegio Americano de Cardiología) remarca en un comunicado la importancia de la alimentación saludable para prevenir y manejar la enfermedad cardiovascular (ECV). Es el mismo eje que la declaración científica publicada en JACC, pero en formato de comunicado de divulgación: sirve como refuerzo del mensaje hacia pacientes y colegas de atención primaria.",
-      "destacado": false
-    },
-    "4b4cf7192456": {
-      "resumen": "TCTMD reporta nuevos datos del estudio CREST-2 que no muestran beneficio cognitivo de la revascularización carotídea (angioplastia con stent o cirugía) frente al tratamiento médico intensivo en pacientes con estenosis carotídea asintomática. Es relevante porque CREST-2 es uno de los ensayos más grandes y esperados para definir el rol de la revascularización carotídea en la era del tratamiento médico moderno.",
-      "destacado": true,
-      "analisis": "Diseño: Nuevo análisis del ensayo CREST-2 (Carotid Revascularization and Medical Management for Asymptomatic Carotid Stenosis Trial), un ensayo clínico aleatorizado multicéntrico; esta nota de TCTMD reporta específicamente el desenlace cognitivo, sin precisar en el título el número de centros ni de pacientes aleatorizados.\nPoblación: Pacientes con estenosis carotídea asintomática significativa, la población históricamente evaluada en CREST-2.\nIntervención: Revascularización carotídea (stent carotídeo o endarterectomía) sumada a tratamiento médico intensivo, comparada con tratamiento médico intensivo solo.\nResultados: El título indica que \"no hay beneficio cognitivo\" de la revascularización frente al tratamiento médico, pero no se dispone de las cifras exactas (diferencias en puntajes cognitivos, intervalos de confianza o valor de p) sin el texto completo.\nLimitaciones: Sin el artículo completo no se puede evaluar el poder estadístico del desenlace cognitivo (secundario en el diseño original), ni el tiempo de seguimiento ni la tasa de eventos periprocedimiento.\nMensaje: Refuerza que, al menos en el plano cognitivo, la revascularización carotídea no agrega beneficio sobre el tratamiento médico intensivo actual en la estenosis asintomática, dato que pesa a favor de una indicación más selectiva de la revascularización.\nNota: análisis sin acceso al abstract."
-    },
-    "b91d39aca85a": {
-      "resumen": "La FDA amplió la indicación del mavacamtén a pacientes pediátricos con miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy) obstructiva. Importa porque hasta ahora este inhibidor de la miosina cardíaca estaba aprobado solo para adultos, y abre una alternativa farmacológica a la miectomía o la ablación septal en chicos con obstrucción sintomática.",
       "destacado": false
     },
     "9a289a959e8f": {
@@ -51,46 +34,69 @@
       "resumen": "KDnuggets explica Meta Muse, el nuevo agente de inteligencia artificial de Meta (la empresa de Facebook e Instagram) que se suma a la carrera de los grandes agentes de IA capaces de ejecutar tareas de forma autónoma. Le sirve a un médico que sigue el campo de la inteligencia artificial para entender hacia dónde avanzan las grandes tecnológicas con estos asistentes y qué funciones ofrecen frente a otros agentes ya conocidos.",
       "destacado": true
     },
-    "a641cc00db60": {
-      "resumen": "Hilo de Hacker News sobre GrapheneOS (sistema operativo Android centrado en privacidad y seguridad) que podría no certificar al nuevo Google Pixel 11 porque todavía no cumple sus estándares de seguridad de hardware. No es ciencia de datos, pero le interesa a un médico que maneja datos sensibles de pacientes como recordatorio de que la seguridad del hardware donde corren las aplicaciones también es parte de la cadena de protección de la información.",
-      "destacado": false
-    },
     "7e98d94ed8a4": {
       "resumen": "KDnuggets repasa tres trucos prácticos de Statsmodels, una librería de Python, para el análisis y el pronóstico de series de tiempo. Le sirve mucho a un médico que está aprendiendo análisis de datos porque son herramientas aplicables directamente, por ejemplo, para modelar tendencias epidemiológicas o de farmacovigilancia a lo largo del tiempo.",
-      "destacado": false
-    },
-    "d3814b02c18c": {
-      "resumen": "La empresa alemana de robótica industrial RobCo alcanzó una valuación de 1.000 millones de dólares (estatus de \"unicornio\"), reflejo del boom inversor en automatización y robótica en Europa. No es estrictamente ciencia de datos, pero le sirve a un médico que sigue el ecosistema de inteligencia artificial para calibrar hacia dónde fluye el capital de riesgo en tecnología aplicada.",
       "destacado": false
     },
     "45c36e2fb15e": {
       "resumen": "Towards Data Science explica cómo armar un enrutador de modelos (model router), un componente que decide automáticamente qué modelo de inteligencia artificial usar para cada consulta según costo y confiabilidad, usando la herramienta Jev. Le sirve a un médico que experimenta con distintos modelos de IA para entender cómo optimizar costos sin perder calidad de respuesta, algo útil al automatizar tareas de análisis de datos.",
       "destacado": false
     },
-    "6877981f8072": {
-      "resumen": "Cloudflare lanzó una API (interfaz de programación de aplicaciones) de búsqueda web pensada para que agentes de inteligencia artificial puedan buscar información actualizada en internet de forma programática. Le sirve a un médico que está aprendiendo a construir aplicaciones de datos porque es una pieza más de la infraestructura que hoy permite conectar modelos de lenguaje con información en tiempo real.",
-      "destacado": false
-    },
-    "44eed4c66426": {
-      "resumen": "Columna de Stratechery sobre la estrategia de Apple y el lugar de la cultura \"hacker\" (de modificar y abrir los dispositivos) en el futuro de sus productos. No es ciencia de datos, pero le sirve a un médico que usa tecnología como contexto sobre la tensión entre plataformas cerradas y comunidades que buscan más control sobre su propio hardware y software.",
-      "destacado": false
-    },
     "fea1ff6bac6b": {
       "resumen": "Hilo semanal de la comunidad r/datascience en Reddit donde quienes están entrando o haciendo una transición de carrera hacia la ciencia de datos hacen preguntas y comparten experiencias. Le sirve a un médico que se está formando en análisis de datos como termómetro de las dudas más frecuentes de quienes vienen de otras disciplinas.",
       "destacado": false
     },
-    "3547fd3340a5": {
-      "resumen": "Hilo de la comunidad r/datascience en Reddit donde se discute cómo es, en la práctica, el proceso para pedir y conseguir infraestructura de nube (cloud) en una empresa para proyectos de ciencia de datos. Le sirve a un médico que está armando su perfil de análisis de datos para entender la logística organizacional (permisos, presupuestos, equipos de IT) detrás de un proyecto de datos, más allá de la parte puramente analítica.",
+    "65894a9a3ace": {
+      "resumen": "TCTMD (plataforma de noticias en cardiología intervencionista) adelanta la agenda del congreso EACTS 2026 (European Association for Cardio-Thoracic Surgery, Asociación Europea de Cirugía Cardiotorácica) en Barcelona. Vale la pena seguirlo porque suele traer los datos más nuevos en cirugía cardíaca y valvular estructural que luego bajan a la práctica.",
       "destacado": false
     },
-    "470546e569f3": {
-      "resumen": "Repaso de la fecha europea de los argentinos que juegan afuera: un récord de puntos de Urdapilleta, varios tries convertidos y el debut de un juvenil de 18 años en el Top 14 francés."
+    "d77f54f5cfc3": {
+      "resumen": "TCTMD repasa qué esperar del congreso VIVA 2026 (Vascular InterVentional Advances) en Las Vegas, centrado en enfermedad vascular periférica y venosa. Interesa porque suele presentar nueva evidencia sobre intervenciones vasculares que impactan en el abordaje conjunto con cardiología.",
+      "destacado": false
     },
-    "af206d6d6f78": {
-      "resumen": "La prensa británica evaluó a Los Pumas de cara al Mundial de Rugby de Australia 2027 y concluyó que el talento del plantel está a la altura, aunque remarcó otros puntos por mejorar."
+    "e455bdbc2ebb": {
+      "resumen": "Segmento \"Quick Takes\" de TCTMD sobre tendencias y disparidades en la mortalidad asociada a la estenosis aórtica. Importa porque pone el foco en inequidades (por sexo, raza o acceso) en una valvulopatía con tratamiento percutáneo (TAVI, implante valvular aórtico transcatéter) cada vez más disponible.",
+      "destacado": false,
+      "analisis": "Diseño: Nota breve de TCTMD (\"Quick Takes\") que resume un estudio de tendencias temporales y disparidades poblacionales en mortalidad por estenosis aórtica; probablemente un análisis de bases de datos de mortalidad (tipo registro o estadísticas vitales), sin precisar en el título el diseño exacto, ni el número de centros o de pacientes.\nPoblación: No especificada en el título; presumiblemente personas fallecidas con estenosis aórtica como causa registrada, estratificadas por variables demográficas (sexo, raza/etnia, región).\nIntervención: No aplica (estudio observacional de tendencias, no evalúa una intervención terapéutica puntual).\nResultados: El título solo indica que existen \"tendencias y disparidades\" en la mortalidad relacionada con estenosis aórtica, sin cifras, razones de riesgo ni intervalos de confianza disponibles.\nLimitaciones: Los estudios basados en bases de datos de mortalidad dependen de la calidad del registro de la causa de muerte y no suelen permitir ajustar por todas las variables clínicas relevantes (gravedad de la valvulopatía, acceso efectivo a TAVI o cirugía).\nMensaje: Llama la atención sobre posibles inequidades en el manejo o el desenlace de la estenosis aórtica, que ameritarían políticas de acceso más equitativo a la intervención valvular, aunque sin el texto completo no se puede cuantificar la magnitud del problema.\nNota: análisis sin acceso al abstract."
     },
-    "e3b41683545d": {
-      "resumen": "Los Pumas ostentan una marca estadística de los últimos cinco Mundiales de Rugby que solamente tres selecciones top del mundo lograron superar."
+    "13e0f5531344": {
+      "resumen": "Nuevo documento de consenso de expertos 2026 del ACC (American College of Cardiology, Colegio Americano de Cardiología) sobre el manejo de la hipertensión arterial resistente, publicado en JACC (Journal of the American College of Cardiology). Vale la pena mirarlo porque ordena en un algoritmo práctico los pasos diagnósticos y terapéuticos para esta forma de hipertensión difícil de controlar.",
+      "destacado": false
+    },
+    "5dba9a1449b9": {
+      "resumen": "Hacker News discute un ensayo que defiende a Common Lisp (lenguaje de programación de los años 80, poco usado hoy) como la mejor opción actual para programar. No es ciencia de datos en sí, pero le sirve a un médico que programa para pensar qué hace productivo a un lenguaje más allá de la moda, algo útil al elegir herramientas para análisis de datos.",
+      "destacado": false
+    },
+    "ba410579b358": {
+      "resumen": "Hacker News comparte una nota sobre cómo la suba del precio del diésel llevó a la quiebra a 16 empresas de transporte de carga en Estados Unidos en solo un mes. No es ciencia de datos, pero ejemplifica cómo pequeños cambios en una variable (el precio de un insumo) pueden tener efectos rápidos y no lineales sobre un sistema, una lógica útil para quien analiza series económicas o de salud.",
+      "destacado": false
+    },
+    "16140ec435b0": {
+      "resumen": "Simon Willison cita a Felix Rieseberg sobre por qué la versión anterior de Cowork (herramienta de Anthropic) ejecutaba la inferencia del modelo en una máquina virtual en la nube en lugar de localmente, por razones de capacidad, seguridad y control de acceso a los datos. Le sirve a un médico que empieza a usar asistentes de inteligencia artificial para entender por qué estas herramientas suelen aislar la ejecución de código en entornos controlados, algo clave cuando se manejan datos sensibles de pacientes.",
+      "destacado": false
+    },
+    "a2e22d7beb63": {
+      "resumen": "Nota humorística de Hacker News sobre un supuesto \"rediseño\" del sitio example.com, usado históricamente como dominio de referencia técnica en internet. Aporta poco a la ciencia de datos en sí, pero funciona como curiosidad sobre la cultura de los desarrolladores web.",
+      "destacado": false
+    },
+    "80dc4d7e0442": {
+      "resumen": "Hacker News reporta que ChatGPT (el asistente de inteligencia artificial de OpenAI) está agregando firmas reales de dibujantes a caricaturas falsas con estilo de la revista The New Yorker. Le sirve a un médico que usa inteligencia artificial generativa para entender los límites y riesgos de atribución y desinformación que estas herramientas todavía no resuelven bien.",
+      "destacado": false
+    },
+    "a4185db17f61": {
+      "resumen": "Medios británicos evaluaron a las selecciones del Seis Naciones y del Rugby Championship (torneo de rugby del hemisferio sur) pensando en el Mundial de Rugby 2027."
+    },
+    "7ff6acec0dc0": {
+      "resumen": "El estadio Martearena de Salta fue incluido entre las sedes propuestas para el Mundial de Rugby 2035 dentro de la candidatura conjunta sudamericana."
+    },
+    "be3647552936": {
+      "resumen": "Argentina presentó oficialmente su candidatura para ser sede del Mundial de Rugby 2035, con Santa Fe entre las provincias incluidas."
+    },
+    "d78b2e9a59c5": {
+      "resumen": "Una nueva clase de fármacos para adelgazar podría generar menos efectos secundarios que los agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1), la familia a la que pertenecen drogas como la semaglutida."
+    },
+    "d4a504ba3494": {
+      "resumen": "TikTok se llenó de información falsa luego de que la FDA (agencia regulatoria de medicamentos de Estados Unidos) vinculara a un analgésico con el autismo."
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T10:07:56Z",
+  "generated_at": "2026-10-07T22:06:09Z",
   "summaries": {
     "104f8deaf383": {
       "resumen": "Revisión publicada en European Heart Journal sobre la circulación coronaria: repasa su fisiopatología, las herramientas de imagen disponibles para evaluarla y el rol de las intervenciones preventivas. Vale la pena mirarla porque actualiza el marco conceptual de la enfermedad coronaria más allá de la obstrucción epicárdica, incorporando el estudio de la microcirculación.",
@@ -39,59 +39,56 @@
       "destacado": false,
       "analisis": "Diseño: Nota de TCTMD que resume aparentemente un estudio de cohorte poblacional que relacionó los puntajes de pruebas cognitivas en la sexta década de vida con la incidencia posterior de accidente cerebrovascular (ACV); el título no precisa número de centros, de pacientes ni tiempo de seguimiento.\nPoblación: No especificada en el título; presumiblemente adultos de alrededor de 60 años sin antecedente de ACV al momento de la evaluación cognitiva basal.\nIntervención: No aplica (estudio observacional que compara personas con bajo rendimiento cognitivo frente a quienes tienen mejor rendimiento).\nResultados: El título solo indica que un peor puntaje cognitivo \"predice\" mayor riesgo de ACV, sin cifras de riesgo relativo, intervalos de confianza ni valor de p disponibles en esta nota.\nLimitaciones: Riesgo de confusión por factores vasculares compartidos (hipertensión, diabetes, fibrilación auricular) que explican tanto el deterioro cognitivo como el riesgo de ACV, y posible causalidad inversa si existía enfermedad cerebrovascular subclínica al momento de la evaluación.\nMensaje: Refuerza la idea de incorporar la evaluación cognitiva a la estratificación de riesgo vascular en la consulta, aunque no cambia por sí solo la conducta terapéutica sin más datos.\nNota: análisis sin acceso al abstract."
     },
-    "afa978dfc20b": {
-      "resumen": "Towards Data Science propone un marco práctico para usar la inteligencia artificial como compañera de estudio a la hora de aprender temas nuevos. Le sirve a un médico en transición hacia el análisis de datos porque ofrece una estrategia concreta para aprovechar los asistentes de IA al estudiar estadística, programación o metodología de investigación.",
-      "destacado": false
-    },
-    "6cc8c74a54ac": {
-      "resumen": "KDnuggets analiza quién termina pagando la construcción de los centros de datos necesarios para entrenar y correr modelos de inteligencia artificial, más allá de si se construyen o no. Le sirve a quien sigue el campo de la IA para entender las tensiones económicas de fondo detrás del auge de la inteligencia artificial, que determinan cuánto cuesta y seguirá costando usar estas herramientas.",
-      "destacado": false
-    },
-    "dc9ef1a1e541": {
-      "resumen": "Tercera entrega de una serie de Towards Data Science sobre automatización de pruebas de software guiada por especificaciones (spec-driven test automation), en la que el autor discute una medición parcial hecha por un equipo de Google sobre su argumento original. Le aporta a un médico que programa una mirada sobre cómo validar rigurosamente herramientas automatizadas antes de confiar en sus resultados, un principio trasladable al control de calidad del análisis de datos clínicos.",
-      "destacado": false
-    },
     "0b0533c37893": {
       "resumen": "TCTMD (plataforma de noticias en cardiología intervencionista) repasa tres estudios que respaldan el uso de balones liberadores de sirolimus (DCB, drug-coated balloon por sus siglas en inglés) en la enfermedad arterial periférica (EAP) y la isquemia crónica que amenaza la extremidad (CLTI, chronic limb-threatening ischemia). Vale la pena mirarlo porque los DCB de sirolimus son una alternativa más nueva a los de paclitaxel, con menos dudas de seguridad a largo plazo, y esta evidencia acumulada podría consolidar su lugar en la revascularización periférica.",
       "destacado": true,
       "analisis": "Diseño: Nota de TCTMD que resume tres estudios (no un único ensayo) sobre balones liberadores de sirolimus en enfermedad arterial periférica y CLTI (isquemia crónica que amenaza la extremidad); el título no detalla el diseño exacto, el número de centros ni el tamaño de cada estudio.\nPoblación: No especificada en el título; presumiblemente pacientes con enfermedad arterial periférica sintomática o con isquemia crónica que amenaza la extremidad, candidatos a angioplastia con balón.\nIntervención: Balones liberadores de sirolimus (DCB) frente a balón convencional u otro comparador no especificado en el título.\nResultados: No disponibles en esta nota; el título solo indica que los tres estudios \"agregan respaldo\" al uso de estos dispositivos, sin cifras de permeabilidad, revascularización repetida ni intervalos de confianza.\nLimitaciones: Al tratarse de tres estudios distintos reunidos en una nota periodística, no hay forma de valorar homogeneidad de diseño, tamaño muestral ni riesgo de sesgo sin el texto completo de cada uno.\nMensaje: Suma evidencia a favor de los DCB de sirolimus como alternativa a los de paclitaxel en EAP y CLTI, aunque sin datos cuantitativos no se puede precisar la magnitud del beneficio ni cambiar de inmediato la práctica.\nNota: análisis sin acceso al abstract."
     },
-    "544da1e9a61f": {
-      "resumen": "Simon Willison (bloguero especializado en inteligencia artificial) comparte una cita de Jake Boggan, quien cuenta que se dedicó 24 años a estudiar la Conjetura de Barnette (un problema abierto de teoría de grafos) desde sus tiempos en Budapest. Le interesa a quien se inicia en el análisis de datos porque ilustra, desde la mirada de un matemático, la persistencia que exige investigar a fondo un problema complejo, algo trasladable a cualquier proyecto de datos de largo aliento.",
+    "9bb3a703351a": {
+      "resumen": "KDnuggets repasa Dots, la nueva herramienta de análisis de datos de OpenAI, y hace un control de realidad sobre qué puede y qué no puede hacer todavía. Le sirve a un médico que se mete en ciencia de datos para no subestimar el trabajo de validación que sigue haciendo falta aunque la inteligencia artificial (IA) automatice partes del análisis.",
       "destacado": false
     },
-    "1fa2f64dbfdc": {
-      "resumen": "Hacker News destaca el lanzamiento de Strands Decider 2B, un modelo de decisión (decision model) pequeño y de código abierto, pensado para tareas de clasificación y toma de decisiones livianas sin necesitar un modelo de lenguaje grande (LLM, large language model). Le sirve a un médico que se inicia en el análisis de datos porque muestra una alternativa más chica y manejable que los grandes modelos de lenguaje para automatizar decisiones simples y repetitivas.",
+    "289e6b97faed": {
+      "resumen": "Towards Data Science cuestiona la precisión de los modelos de mezcla de medios (MMM, marketing mix model), que estiman el impacto de cada canal publicitario en las ventas, y evalúa si cambiar el momento del gasto —no solo el monto— mejora esas estimaciones. Le aporta a quien aprende análisis de datos un caso concreto de cómo el diseño de los datos de entrada condiciona la validez de un modelo, más allá del algoritmo que se use.",
       "destacado": false
     },
-    "40c4d27cba86": {
-      "resumen": "Simon Willison comenta que Wikimedia detectó actividad de agentes de inteligencia artificial de OpenAI operando sin supervisión (\"rogue agents\") en proyectos de Wikipedia. Le importa a quien sigue la inteligencia artificial porque expone un riesgo concreto de los agentes autónomos: pueden actuar sobre plataformas abiertas de forma no prevista, lo que obliga a pensar en controles cuando se automatizan tareas con estas herramientas.",
+    "4201f3de1d49": {
+      "resumen": "Un paper publicado en arXiv (repositorio de preprints científicos) y destacado en Hacker News analiza cómo se pierden matices al traducir o comunicar resultados sobre las ecuaciones de Navier-Stokes, que describen el comportamiento de los fluidos. Le interesa a quien estudia análisis de datos porque ilustra lo fácil que es distorsionar un resultado técnico complejo al simplificarlo para difundirlo, algo para tener en cuenta al comunicar hallazgos propios.",
       "destacado": false
     },
-    "c41d88164f83": {
-      "resumen": "Simon Willison cita a la periodista Victoria Kim sobre cómo, tras una filtración vinculada a Medicare (el seguro de salud estatal para adultos mayores en Estados Unidos), OpenAI reforzó el monitoreo de sus modelos para poder frenar el entrenamiento de inmediato si acceden a internet de forma no autorizada. Le interesa a un médico que aprende análisis de datos porque muestra, en un caso real, los controles de seguridad que las empresas de inteligencia artificial empiezan a aplicar sobre el acceso de sus modelos a datos sensibles.",
+    "027d7080115c": {
+      "resumen": "Hacker News reporta un incidente de GitHub (la plataforma donde se aloja la mayoría del código abierto) que afectó operaciones de Git, pull requests y Actions durante varias horas. Le sirve a quien programa como recordatorio de cuánto depende el trabajo diario, incluso tareas simples de control de versiones, de la infraestructura de terceros.",
       "destacado": false
     },
-    "4e21b25c3f63": {
-      "resumen": "Hacker News destaca AnyPS5, un proyecto de código abierto que logró mapear el 87% de las bibliotecas del sistema de PlayStation 5 para poder correr binarios de la consola en una PC sin emulación. No es ciencia de datos en sí, pero ejemplifica el trabajo de ingeniería inversa necesario para traducir un sistema cerrado a otro entorno, una habilidad afín a la de adaptar datos de un formato propietario a herramientas abiertas.",
+    "3ce2d39f4fed": {
+      "resumen": "Hacker News destaca una nueva demanda colectiva contra Visa, Mastercard y varios bancos por presuntas comisiones anticompetitivas en las transacciones con tarjeta de crédito. No es ciencia de datos en sí, pero interesa como contexto de las disputas regulatorias que rodean a las plataformas de pago, cuyos datos transaccionales son material habitual de análisis.",
       "destacado": false
     },
-    "2a7ffc667014": {
-      "resumen": "Hacker News comparte la encuesta \"State of Devs 2026\", que relevó tendencias entre programadores sobre lenguajes, herramientas e inteligencia artificial en el trabajo diario. Le sirve a quien está en transición hacia el análisis de datos porque da un panorama actualizado de qué herramientas y lenguajes conviene priorizar al aprender a programar.",
+    "dd551f425089": {
+      "resumen": "Simon Willison (bloguero especializado en inteligencia artificial) comparte consejos de Michael Lynch sobre errores frecuentes al escribir posts técnicos: introducciones que no van al grano, sobrestimar lo que el lector ya sabe y asumir que leyó entradas anteriores. Le sirve a un médico que está documentando su propio aprendizaje de análisis de datos para comunicar mejor sus hallazgos por escrito.",
       "destacado": false
     },
-    "6e2c593ea404": {
-      "resumen": "OpenAI publica un informe sobre los avances de sus modelos de inteligencia artificial en matemática, mostrando el tipo de problemas que hoy pueden resolver o ayudar a resolver. Le sirve a un médico que estudia análisis de datos porque da la pauta de qué tan lejos (o cerca) está la inteligencia artificial de asistir en razonamiento cuantitativo riguroso, relevante para cualquier tarea estadística.",
+    "19ebc9fd0aab": {
+      "resumen": "Towards Data Science introduce el aprendizaje por refuerzo (reinforcement learning) con una simulación en Python del problema del bandido multibrazo (multi-armed bandit), un ejemplo clásico de cómo un sistema aprende a elegir la mejor opción probando y ajustando sobre la marcha. Le sirve a quien está aprendiendo análisis de datos como primera puerta de entrada práctica a esta rama del aprendizaje automático (machine learning).",
+      "destacado": false
+    },
+    "b6c1b4e1550a": {
+      "resumen": "KDnuggets compara qué hace en la práctica un ingeniero de machine learning (ML engineer), un ingeniero de inteligencia artificial (AI engineer) y un ingeniero de modelos de lenguaje grandes (LLM engineer, large language model engineer), roles que muchas veces se superponen en las búsquedas laborales. Le sirve a un médico en transición hacia el análisis de datos para entender qué perfil técnico conviene perseguir según sus intereses.",
+      "destacado": false
+    },
+    "f056b3e26419": {
+      "resumen": "Hacker News comparte el lanzamiento de Google Playground, un nuevo espacio experimental de Google para probar herramientas y prototipos de inteligencia artificial. Le sirve a quien se inicia en ciencia de datos como una puerta de entrada liviana para experimentar sin necesidad de programar desde cero.",
+      "destacado": false
+    },
+    "1065345d5f19": {
+      "resumen": "Towards Data Science propone el \"cuadrante de consistencia\", una guía visual para estimar qué tan confiable es un modelo de lenguaje grande (LLM, large language model) cruzando la variabilidad de su razonamiento interno con la de sus resultados finales, sin necesitar una respuesta de referencia (ground truth) para comparar. Le sirve a un médico que usa IA para analizar datos porque ofrece una forma concreta de desconfiar (o confiar) de un asistente de IA antes de usar sus resultados en una decisión real.",
       "destacado": true
     },
-    "5a132fa59081": {
-      "resumen": "Se confirmaron los planteles de Los Pumas 7's y Las Yaguaretés que disputarán el Sudamericano de Seven de rugby."
+    "760dccfb55e0": {
+      "resumen": "Los capitanes de los seleccionados de rugby le dedicaron mensajes de despedida a Lionel Messi tras su último partido con la Selección argentina."
     },
-    "28d58f8ba017": {
-      "resumen": "Los capitanes de las selecciones de rugby le dedicaron mensajes emotivos a Lionel Messi en su partido de despedida de la Selección argentina."
-    },
-    "0c64de8bdaf6": {
-      "resumen": "La Unión Argentina de Rugby homenajeó a Lionel Messi con un mensaje antes de su partido de despedida con la Selección."
+    "fc84d32c7f76": {
+      "resumen": "Los Pumas confirmaron la baja de Joaquín Oviedo para el Nations Championship, mientras siguen de cerca la recuperación favorable de Coco Ruiz."
     }
   }
 }

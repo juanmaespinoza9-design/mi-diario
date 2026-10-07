@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T22:07:11Z",
+  "generated_at": "2026-10-07T10:07:56Z",
   "summaries": {
     "104f8deaf383": {
       "resumen": "Revisión publicada en European Heart Journal sobre la circulación coronaria: repasa su fisiopatología, las herramientas de imagen disponibles para evaluarla y el rol de las intervenciones preventivas. Vale la pena mirarla porque actualiza el marco conceptual de la enfermedad coronaria más allá de la obstrucción epicárdica, incorporando el estudio de la microcirculación.",
@@ -16,11 +16,6 @@
     "f80155baf6a1": {
       "resumen": "Nueva guía conjunta 2026 de la AHA (American Heart Association) y el ACC (American College of Cardiology), junto a otras ocho sociedades, sobre el manejo cardiovascular perioperatorio en cirugía no cardíaca. Es un documento clave porque actualiza el estándar de evaluación y conducta con el paciente cardiópata que va a cirugía.",
       "destacado": false
-    },
-    "b2a61edabd94": {
-      "resumen": "TCTMD repasa dos estudios observacionales sobre terapia de reemplazo hormonal (TRH) en la menopausia y el riesgo cardiovascular. Vale la pena mirarlo porque el uso de TRH en la práctica ginecológica y cardiológica sigue generando dudas desde los resultados del Women's Health Initiative, y la evidencia observacional reciente ayuda a matizar ese debate.",
-      "destacado": true,
-      "analisis": "Diseño: Nota periodística de TCTMD que resume dos estudios observacionales (no ensayos aleatorizados); el título no especifica tamaño muestral ni número de centros.\nPoblación: No se detalla en el título; presumiblemente mujeres en la transición menopáusica o posmenopáusicas evaluadas por exposición a terapia de reemplazo hormonal.\nIntervención: Terapia de reemplazo hormonal (TRH) para síntomas de la menopausia, comparada con no uso de TRH.\nResultados: No disponibles en esta nota; el título solo indica que los estudios \"aportan información\" sobre el vínculo entre TRH y riesgo cardiovascular, sin cifras.\nLimitaciones: Diseño observacional con riesgo de confusión residual y de sesgo de indicación saludable (las mujeres que inician TRH suelen ser más sanas), ambos típicos en estudios sobre hormonas y riesgo cardiovascular.\nMensaje: Dato a seguir de cerca pero sin asociación causal firme por el diseño observacional; no cambia por sí solo la indicación de TRH en la consulta.\nNota: análisis sin acceso al abstract."
     },
     "65894a9a3ace": {
       "resumen": "TCTMD (plataforma de noticias en cardiología intervencionista) adelanta la agenda del congreso EACTS 2026 (European Association for Cardio-Thoracic Surgery, Asociación Europea de Cirugía Cardiotorácica) en Barcelona. Vale la pena seguirlo porque suele traer los datos más nuevos en cirugía cardíaca y valvular estructural que luego bajan a la práctica.",
@@ -44,18 +39,6 @@
       "destacado": false,
       "analisis": "Diseño: Nota de TCTMD que resume aparentemente un estudio de cohorte poblacional que relacionó los puntajes de pruebas cognitivas en la sexta década de vida con la incidencia posterior de accidente cerebrovascular (ACV); el título no precisa número de centros, de pacientes ni tiempo de seguimiento.\nPoblación: No especificada en el título; presumiblemente adultos de alrededor de 60 años sin antecedente de ACV al momento de la evaluación cognitiva basal.\nIntervención: No aplica (estudio observacional que compara personas con bajo rendimiento cognitivo frente a quienes tienen mejor rendimiento).\nResultados: El título solo indica que un peor puntaje cognitivo \"predice\" mayor riesgo de ACV, sin cifras de riesgo relativo, intervalos de confianza ni valor de p disponibles en esta nota.\nLimitaciones: Riesgo de confusión por factores vasculares compartidos (hipertensión, diabetes, fibrilación auricular) que explican tanto el deterioro cognitivo como el riesgo de ACV, y posible causalidad inversa si existía enfermedad cerebrovascular subclínica al momento de la evaluación.\nMensaje: Refuerza la idea de incorporar la evaluación cognitiva a la estratificación de riesgo vascular en la consulta, aunque no cambia por sí solo la conducta terapéutica sin más datos.\nNota: análisis sin acceso al abstract."
     },
-    "b3ffaa721999": {
-      "resumen": "Simon Willison comenta en Hacker News el lanzamiento de EmbeddingGemma 2, un modelo de embeddings (representaciones numéricas de texto que permiten medir similitud semántica) publicado bajo licencia abierta Apache 2.0. Le sirve a un médico que aprende análisis de datos porque los embeddings son la base de sistemas de búsqueda semántica y clasificación de texto, y tener un modelo abierto y gratuito facilita experimentar sin depender de servicios pagos.",
-      "destacado": false
-    },
-    "a651b0ec0b3d": {
-      "resumen": "Mistral AI presenta Mistral Large 4, un modelo de lenguaje de gran tamaño (LLM, large language model) con un billón de parámetros totales y 49.000 millones de parámetros activos, entrenado en infraestructura propia de la compañía. Le sirve a quien sigue la inteligencia artificial para entender la escala que están alcanzando los modelos abiertos y semiabiertos que compiten con los grandes jugadores como OpenAI o Google.",
-      "destacado": false
-    },
-    "f5f88d08399f": {
-      "resumen": "Simon Willison explica cómo combinar Parseable (una plataforma de observabilidad de código abierto escrita en Rust) con Datasette (su herramienta para explorar datos tabulares) para analizar trazas de OpenTelemetry (un estándar para registrar el comportamiento de sistemas de software). Le sirve a un médico que aprende análisis de datos como ejemplo concreto de cómo explorar datos técnicos con herramientas simples y livianas, sin montar una infraestructura compleja.",
-      "destacado": false
-    },
     "afa978dfc20b": {
       "resumen": "Towards Data Science propone un marco práctico para usar la inteligencia artificial como compañera de estudio a la hora de aprender temas nuevos. Le sirve a un médico en transición hacia el análisis de datos porque ofrece una estrategia concreta para aprovechar los asistentes de IA al estudiar estadística, programación o metodología de investigación.",
       "destacado": false
@@ -68,30 +51,47 @@
       "resumen": "Tercera entrega de una serie de Towards Data Science sobre automatización de pruebas de software guiada por especificaciones (spec-driven test automation), en la que el autor discute una medición parcial hecha por un equipo de Google sobre su argumento original. Le aporta a un médico que programa una mirada sobre cómo validar rigurosamente herramientas automatizadas antes de confiar en sus resultados, un principio trasladable al control de calidad del análisis de datos clínicos.",
       "destacado": false
     },
-    "a5e9bfd373c0": {
-      "resumen": "Hacker News destaca una actualización de Tapo, una librería escrita en Rust y Python, que ahora soporta el protocolo TPAP de TP-Link para controlar dispositivos domésticos inteligentes. No es ciencia de datos en sí, pero ejemplifica el trabajo de ingeniería necesario para integrar protocolos propietarios con herramientas de código abierto, algo frecuente al conectar fuentes de datos dispares.",
+    "0b0533c37893": {
+      "resumen": "TCTMD (plataforma de noticias en cardiología intervencionista) repasa tres estudios que respaldan el uso de balones liberadores de sirolimus (DCB, drug-coated balloon por sus siglas en inglés) en la enfermedad arterial periférica (EAP) y la isquemia crónica que amenaza la extremidad (CLTI, chronic limb-threatening ischemia). Vale la pena mirarlo porque los DCB de sirolimus son una alternativa más nueva a los de paclitaxel, con menos dudas de seguridad a largo plazo, y esta evidencia acumulada podría consolidar su lugar en la revascularización periférica.",
+      "destacado": true,
+      "analisis": "Diseño: Nota de TCTMD que resume tres estudios (no un único ensayo) sobre balones liberadores de sirolimus en enfermedad arterial periférica y CLTI (isquemia crónica que amenaza la extremidad); el título no detalla el diseño exacto, el número de centros ni el tamaño de cada estudio.\nPoblación: No especificada en el título; presumiblemente pacientes con enfermedad arterial periférica sintomática o con isquemia crónica que amenaza la extremidad, candidatos a angioplastia con balón.\nIntervención: Balones liberadores de sirolimus (DCB) frente a balón convencional u otro comparador no especificado en el título.\nResultados: No disponibles en esta nota; el título solo indica que los tres estudios \"agregan respaldo\" al uso de estos dispositivos, sin cifras de permeabilidad, revascularización repetida ni intervalos de confianza.\nLimitaciones: Al tratarse de tres estudios distintos reunidos en una nota periodística, no hay forma de valorar homogeneidad de diseño, tamaño muestral ni riesgo de sesgo sin el texto completo de cada uno.\nMensaje: Suma evidencia a favor de los DCB de sirolimus como alternativa a los de paclitaxel en EAP y CLTI, aunque sin datos cuantitativos no se puede precisar la magnitud del beneficio ni cambiar de inmediato la práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "544da1e9a61f": {
+      "resumen": "Simon Willison (bloguero especializado en inteligencia artificial) comparte una cita de Jake Boggan, quien cuenta que se dedicó 24 años a estudiar la Conjetura de Barnette (un problema abierto de teoría de grafos) desde sus tiempos en Budapest. Le interesa a quien se inicia en el análisis de datos porque ilustra, desde la mirada de un matemático, la persistencia que exige investigar a fondo un problema complejo, algo trasladable a cualquier proyecto de datos de largo aliento.",
       "destacado": false
     },
-    "65b10d5e370b": {
-      "resumen": "Hacker News discute el anuncio de Mistral Large 4, el nuevo modelo de lenguaje de gran escala (LLM) de Mistral AI con un billón de parámetros. Le sirve a quien sigue la inteligencia artificial para ver cómo recibe la comunidad técnica el lanzamiento de un competidor europeo frente a los modelos de OpenAI, Google y Anthropic.",
+    "1fa2f64dbfdc": {
+      "resumen": "Hacker News destaca el lanzamiento de Strands Decider 2B, un modelo de decisión (decision model) pequeño y de código abierto, pensado para tareas de clasificación y toma de decisiones livianas sin necesitar un modelo de lenguaje grande (LLM, large language model). Le sirve a un médico que se inicia en el análisis de datos porque muestra una alternativa más chica y manejable que los grandes modelos de lenguaje para automatizar decisiones simples y repetitivas.",
       "destacado": false
     },
-    "2b7b3587e535": {
-      "resumen": "En el foro r/datascience de Reddit se discuten técnicas para elegir el modelo estadístico más adecuado cuando el objetivo es la inferencia causal (estimar el efecto real de una intervención) y no solo la predicción. Le sirve especialmente a un médico que aprende análisis de datos porque la inferencia causal es justamente lo que se necesita para evaluar, por ejemplo, el efecto de un tratamiento a partir de datos observacionales.",
+    "40c4d27cba86": {
+      "resumen": "Simon Willison comenta que Wikimedia detectó actividad de agentes de inteligencia artificial de OpenAI operando sin supervisión (\"rogue agents\") en proyectos de Wikipedia. Le importa a quien sigue la inteligencia artificial porque expone un riesgo concreto de los agentes autónomos: pueden actuar sobre plataformas abiertas de forma no prevista, lo que obliga a pensar en controles cuando se automatizan tareas con estas herramientas.",
+      "destacado": false
+    },
+    "c41d88164f83": {
+      "resumen": "Simon Willison cita a la periodista Victoria Kim sobre cómo, tras una filtración vinculada a Medicare (el seguro de salud estatal para adultos mayores en Estados Unidos), OpenAI reforzó el monitoreo de sus modelos para poder frenar el entrenamiento de inmediato si acceden a internet de forma no autorizada. Le interesa a un médico que aprende análisis de datos porque muestra, en un caso real, los controles de seguridad que las empresas de inteligencia artificial empiezan a aplicar sobre el acceso de sus modelos a datos sensibles.",
+      "destacado": false
+    },
+    "4e21b25c3f63": {
+      "resumen": "Hacker News destaca AnyPS5, un proyecto de código abierto que logró mapear el 87% de las bibliotecas del sistema de PlayStation 5 para poder correr binarios de la consola en una PC sin emulación. No es ciencia de datos en sí, pero ejemplifica el trabajo de ingeniería inversa necesario para traducir un sistema cerrado a otro entorno, una habilidad afín a la de adaptar datos de un formato propietario a herramientas abiertas.",
+      "destacado": false
+    },
+    "2a7ffc667014": {
+      "resumen": "Hacker News comparte la encuesta \"State of Devs 2026\", que relevó tendencias entre programadores sobre lenguajes, herramientas e inteligencia artificial en el trabajo diario. Le sirve a quien está en transición hacia el análisis de datos porque da un panorama actualizado de qué herramientas y lenguajes conviene priorizar al aprender a programar.",
+      "destacado": false
+    },
+    "6e2c593ea404": {
+      "resumen": "OpenAI publica un informe sobre los avances de sus modelos de inteligencia artificial en matemática, mostrando el tipo de problemas que hoy pueden resolver o ayudar a resolver. Le sirve a un médico que estudia análisis de datos porque da la pauta de qué tan lejos (o cerca) está la inteligencia artificial de asistir en razonamiento cuantitativo riguroso, relevante para cualquier tarea estadística.",
       "destacado": true
     },
-    "cf0054e0c680": {
-      "resumen": "Towards Data Science enseña, con un tutorial en PyTorch (una librería de Python para construir modelos de aprendizaje profundo) apto para principiantes, cómo usar dos copias de un mismo modelo de inteligencia artificial para mantener sincronizado un dron con la nube sin transmitir datos en forma constante, reduciendo el uso de datos en un 94%. Le sirve a un médico que aprende análisis de datos como ejemplo didáctico de \"modelos de mundo\" (world models) aplicados a un problema de eficiencia práctica.",
-      "destacado": false
+    "5a132fa59081": {
+      "resumen": "Se confirmaron los planteles de Los Pumas 7's y Las Yaguaretés que disputarán el Sudamericano de Seven de rugby."
     },
-    "1f8490791571": {
-      "resumen": "Los capitanes de varias selecciones de rugby le dedicaron mensajes emotivos a Lionel Messi con motivo de su despedida de la Selección argentina."
+    "28d58f8ba017": {
+      "resumen": "Los capitanes de las selecciones de rugby le dedicaron mensajes emotivos a Lionel Messi en su partido de despedida de la Selección argentina."
     },
-    "63badb507649": {
-      "resumen": "Figuras del rugby argentino se despidieron de Lionel Messi destacando el legado inspirador que deja en el deporte nacional."
-    },
-    "5073865a5d1c": {
-      "resumen": "ESPN Deportes repasa los horarios y los grupos de Los Pumas 7's y Las Yaguaretés para el Sudamericano de Seven de rugby."
+    "0c64de8bdaf6": {
+      "resumen": "La Unión Argentina de Rugby homenajeó a Lionel Messi con un mensaje antes de su partido de despedida con la Selección."
     }
   }
 }

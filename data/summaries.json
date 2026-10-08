@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T10:08:12Z",
+  "generated_at": "2026-10-08T22:07:41Z",
   "summaries": {
     "104f8deaf383": {
       "resumen": "Revisión publicada en European Heart Journal sobre la circulación coronaria: repasa su fisiopatología, las herramientas de imagen disponibles para evaluarla y el rol de las intervenciones preventivas. Vale la pena mirarla porque actualiza el marco conceptual de la enfermedad coronaria más allá de la obstrucción epicárdica, incorporando el estudio de la microcirculación.",
@@ -7,10 +7,6 @@
     },
     "65894a9a3ace": {
       "resumen": "TCTMD (plataforma de noticias en cardiología intervencionista) adelanta la agenda del congreso EACTS 2026 (European Association for Cardio-Thoracic Surgery, Asociación Europea de Cirugía Cardiotorácica) en Barcelona. Vale la pena seguirlo porque suele traer los datos más nuevos en cirugía cardíaca y valvular estructural que luego bajan a la práctica.",
-      "destacado": false
-    },
-    "d77f54f5cfc3": {
-      "resumen": "TCTMD repasa qué esperar del congreso VIVA 2026 (Vascular InterVentional Advances) en Las Vegas, centrado en enfermedad vascular periférica y venosa. Interesa porque suele presentar nueva evidencia sobre intervenciones vasculares que impactan en el abordaje conjunto con cardiología.",
       "destacado": false
     },
     "13e0f5531344": {
@@ -26,22 +22,6 @@
       "resumen": "TCTMD (plataforma de noticias en cardiología intervencionista) repasa tres estudios que respaldan el uso de balones liberadores de sirolimus (DCB, drug-coated balloon por sus siglas en inglés) en la enfermedad arterial periférica (EAP) y la isquemia crónica que amenaza la extremidad (CLTI, chronic limb-threatening ischemia). Vale la pena mirarlo porque los DCB de sirolimus son una alternativa más nueva a los de paclitaxel, con menos dudas de seguridad a largo plazo, y esta evidencia acumulada podría consolidar su lugar en la revascularización periférica.",
       "destacado": true,
       "analisis": "Diseño: Nota de TCTMD que resume tres estudios (no un único ensayo) sobre balones liberadores de sirolimus en enfermedad arterial periférica y CLTI (isquemia crónica que amenaza la extremidad); el título no detalla el diseño exacto, el número de centros ni el tamaño de cada estudio.\nPoblación: No especificada en el título; presumiblemente pacientes con enfermedad arterial periférica sintomática o con isquemia crónica que amenaza la extremidad, candidatos a angioplastia con balón.\nIntervención: Balones liberadores de sirolimus (DCB) frente a balón convencional u otro comparador no especificado en el título.\nResultados: No disponibles en esta nota; el título solo indica que los tres estudios \"agregan respaldo\" al uso de estos dispositivos, sin cifras de permeabilidad, revascularización repetida ni intervalos de confianza.\nLimitaciones: Al tratarse de tres estudios distintos reunidos en una nota periodística, no hay forma de valorar homogeneidad de diseño, tamaño muestral ni riesgo de sesgo sin el texto completo de cada uno.\nMensaje: Suma evidencia a favor de los DCB de sirolimus como alternativa a los de paclitaxel en EAP y CLTI, aunque sin datos cuantitativos no se puede precisar la magnitud del beneficio ni cambiar de inmediato la práctica.\nNota: análisis sin acceso al abstract."
-    },
-    "9bb3a703351a": {
-      "resumen": "KDnuggets repasa Dots, la nueva herramienta de análisis de datos de OpenAI, y hace un control de realidad sobre qué puede y qué no puede hacer todavía. Le sirve a un médico que se mete en ciencia de datos para no subestimar el trabajo de validación que sigue haciendo falta aunque la inteligencia artificial (IA) automatice partes del análisis.",
-      "destacado": false
-    },
-    "289e6b97faed": {
-      "resumen": "Towards Data Science cuestiona la precisión de los modelos de mezcla de medios (MMM, marketing mix model), que estiman el impacto de cada canal publicitario en las ventas, y evalúa si cambiar el momento del gasto —no solo el monto— mejora esas estimaciones. Le aporta a quien aprende análisis de datos un caso concreto de cómo el diseño de los datos de entrada condiciona la validez de un modelo, más allá del algoritmo que se use.",
-      "destacado": true
-    },
-    "dd551f425089": {
-      "resumen": "Simon Willison (bloguero especializado en inteligencia artificial) comparte consejos de Michael Lynch sobre errores frecuentes al escribir posts técnicos: introducciones que no van al grano, sobrestimar lo que el lector ya sabe y asumir que leyó entradas anteriores. Le sirve a un médico que está documentando su propio aprendizaje de análisis de datos para comunicar mejor sus hallazgos por escrito.",
-      "destacado": false
-    },
-    "19ebc9fd0aab": {
-      "resumen": "Towards Data Science introduce el aprendizaje por refuerzo (reinforcement learning) con una simulación en Python del problema del bandido multibrazo (multi-armed bandit), un ejemplo clásico de cómo un sistema aprende a elegir la mejor opción probando y ajustando sobre la marcha. Le sirve a quien está aprendiendo análisis de datos como primera puerta de entrada práctica a esta rama del aprendizaje automático (machine learning).",
-      "destacado": false
     },
     "763ad44f5517": {
       "resumen": "Nota periodística que resume el documento de consenso del ACC (American College of Cardiology, Colegio Americano de Cardiología) sobre el manejo óptimo de la hipertensión arterial resistente, la que no se controla a pesar de usar tres o más antihipertensivos, incluido un diurético. Vale la pena mirarlo porque condensa en una guía práctica los pasos para descartar causas secundarias y escalonar el tratamiento, en línea con el documento de consenso que también aparece en esta edición.",
@@ -59,47 +39,59 @@
       "resumen": "Editorial o comentario sobre la FFR-CT (reserva de flujo fraccional calculada por tomografía computada, una forma no invasiva de evaluar si una lesión coronaria es funcionalmente significativa) que señala que, pese a sus avances, la técnica todavía no termina de reemplazar a la medición invasiva. Vale la pena mirarlo porque resume las limitaciones prácticas de una herramienta que promete reducir cateterismos diagnósticos.",
       "destacado": false
     },
-    "9366cdf883bc": {
-      "resumen": "Terence Tao, matemático reconocido, comenta en su cuenta de Mastodon el reciente anuncio de OpenAI sobre el desempeño de sus modelos en problemas matemáticos, y pone en contexto qué tan sólidos son esos logros. Le sirve a quien aprende análisis de datos para calibrar el entusiasmo mediático sobre la inteligencia artificial (IA) aplicada a matemáticas con la mirada crítica de un experto del campo.",
+    "91526e39eca4": {
+      "resumen": "TCTMD (plataforma de noticias en cardiología intervencionista) repasa los dispositivos Esprit y Motiv, dos stents bioabsorbibles (scaffolds que se disuelven con el tiempo) que estarían consolidándose en los procedimientos infrapatelares o por debajo de la rodilla (BTK, below-the-knee, por sus siglas en inglés) para la enfermedad arterial periférica. Vale la pena mirarlo porque los scaffolds bioabsorbibles buscan evitar dejar un cuerpo extraño metálico permanente en arterias pequeñas y de alto riesgo de reestenosis, un territorio donde las opciones actuales todavía son limitadas.",
+      "destacado": false,
+      "analisis": "Diseño: Nota de TCTMD que resume datos o resultados de seguimiento de los programas de los dispositivos Esprit BTK y Motiv, scaffolds bioabsorbibles para arterias infrapatelares; el título no precisa si se trata de un ensayo aleatorizado, un registro o un análisis combinado de ambos programas, ni el número de centros o pacientes.\nPoblación: No especificada en el título; presumiblemente pacientes con enfermedad arterial periférica avanzada o isquemia crónica que amenaza la extremidad (CLTI, chronic limb-threatening ischemia) con lesiones en arterias por debajo de la rodilla (BTK).\nIntervención: Implante de un scaffold bioabsorbible (Esprit o Motiv) en arterias infrapatelares, frente a angioplastia con balón u otro dispositivo metálico permanente como comparador habitual en este terreno.\nResultados: No disponibles en esta nota; el título solo transmite que ambos dispositivos \"están consolidándose\" (hit their stride), sin cifras de permeabilidad, salvataje de la extremidad ni intervalos de confianza.\nLimitaciones: Al ser una nota periodística y no el estudio original, no permite valorar el diseño, el tamaño muestral ni el riesgo de sesgo; además, los scaffolds bioabsorbibles en BTK todavía tienen seguimiento a largo plazo limitado.\nMensaje: Si los datos confirman buena performance, ampliaría las opciones de revascularización en un territorio donde el dispositivo metálico permanente es poco deseable, pero por ahora es una tendencia a seguir más que un cambio de práctica confirmado.\nNota: análisis sin acceso al abstract."
+    },
+    "f9a7f01f513e": {
+      "resumen": "Cactus Compute presentó Whistle, un modelo de reconocimiento de voz a texto (speech-to-text) que pesa apenas 16,9 MB y puede correr en el celular sin depender de la nube. Le sirve a un médico que se mete en análisis de datos porque muestra cómo la inteligencia artificial (IA) se está achicando para correr de forma local, algo útil para transcribir consultas o dictar notas clínicas sin subir información sensible a servidores externos.",
       "destacado": false
     },
-    "0f47a943c04a": {
-      "resumen": "Simon Willison, bloguero especializado en inteligencia artificial, cita una reflexión de Ben Affleck sobre el impacto de la IA generativa en la industria audiovisual. Le aporta a un médico que se mete en ciencia de datos una perspectiva externa sobre cómo la IA generativa ya está modificando industrias creativas, no solo la propia.",
+    "7bdbb68374d5": {
+      "resumen": "CNBC reporta que los ingresos anualizados de OpenAI resultaron unos 20.000 millones de dólares por debajo de lo que la empresa había dejado trascender, en medio de las enormes inversiones comprometidas con Nvidia, Oracle y CoreWeave. Para quien sigue el negocio de la inteligencia artificial (IA) es una señal de que la ecuación entre gasto en infraestructura e ingresos reales todavía no cierra, algo a tener en cuenta antes de depender de herramientas de IA que corren sobre esa infraestructura.",
       "destacado": false
     },
-    "ffaeefda6df4": {
-      "resumen": "Obituario de Margaret Hamilton, la ingeniera de software que lideró el desarrollo del sistema de guiado de a bordo del Apolo 11. Le sirve a quien estudia ciencia de datos para conocer a una de las pioneras que sentó las bases de la disciplina del software confiable en sistemas críticos.",
+    "f989bfc3fad0": {
+      "resumen": "Según Solar Power World, el almacenamiento en baterías con autonomía de 4 horas ya resulta más económico de instalar que las turbinas de gas en todo el mundo. No es estrictamente inteligencia artificial (IA), pero interesa a quien se forma en análisis de datos porque es un ejemplo de cómo el seguimiento de costos y curvas de aprendizaje tecnológico permite anticipar cambios estructurales en una industria, un razonamiento trasladable a la adopción de tecnología en medicina.",
       "destacado": false
     },
-    "6dcb3088ac59": {
-      "resumen": "Simon Willison analiza el lanzamiento de Claude Haiku 5.5, el modelo de lenguaje más liviano y rápido de Anthropic. Le sirve a un médico que usa inteligencia artificial (IA) para análisis de datos porque orienta sobre cuándo conviene un modelo chico y económico en vez de uno más grande para tareas cotidianas.",
+    "03612631701c": {
+      "resumen": "KDnuggets analiza cómo diseñar algoritmos de inteligencia artificial (IA) en empresas de forma que cumplan desde el inicio con los estándares regulatorios, en lugar de parchear el cumplimiento después. Le sirve a un médico que aprende análisis de datos porque esa lógica de \"cumplimiento por diseño\" es la misma que después va a necesitar al evaluar modelos de IA en salud, donde la regulación es cada vez más exigente.",
       "destacado": false
     },
-    "84698d91ebd6": {
-      "resumen": "Nota sobre Jonathan, la tortuga gigante que se confirmó como el animal terrestre más longevo registrado. Le interesa a quien estudia análisis de datos porque el caso muestra cómo se reconstruye y valida una edad extrema a partir de registros históricos fragmentarios, un ejercicio parecido al control de calidad de datos con el que se topa cualquier analista.",
+    "da10a2b45fa6": {
+      "resumen": "Towards Data Science propone una guía para mantener el juicio crítico frente al bombardeo de promesas sobre inteligencia artificial (IA) que hacen empresas y consultoras. Es útil para un médico que se forma en análisis de datos porque ayuda a distinguir qué herramientas de IA realmente agregan valor clínico o analítico de las que solo venden humo.",
       "destacado": false
     },
-    "f266a14dae3d": {
-      "resumen": "Entrada de blog que analiza en profundidad el patrón de programación \"subir los if y bajar los for\" (reorganizar las condicionales antes que los bucles), con su fundamento algebraico y sus límites. Le sirve a un médico que programa sus propios análisis porque es una guía concreta para escribir código de procesamiento de datos más legible y menos propenso a errores.",
+    "db7ddb6b79e6": {
+      "resumen": "Associated Press informa que el gobierno de Trump suspendió a Microsoft de un programa de visas H1B y de tramitación de residencia permanente (green card), en el marco de la disputa migratoria con el sector tecnológico. No es un tema de análisis de datos en sí, pero impacta indirectamente porque Microsoft es uno de los motores de la infraestructura de nube e inteligencia artificial (IA) que usan médicos e investigadores en todo el mundo.",
       "destacado": false
     },
-    "4093f85f14fb": {
-      "resumen": "Brett Robinson y Rob Kearney, dirigentes de World Rugby, opinaron sobre los cambios recientes en el reglamento del rugby."
+    "03eda16f97ac": {
+      "resumen": "Towards Data Science muestra cómo agentes de inteligencia artificial (IA) lograron escribir núcleos CUDA (el código que corre directamente en placas gráficas Nvidia) más rápidos que las versiones optimizadas a mano en PyTorch, una de las bibliotecas más usadas para entrenar modelos. Para un médico que aprende análisis de datos es una muestra de hasta dónde puede automatizarse la optimización técnica, aunque el detalle de bajo nivel exceda lo que necesita en el día a día.",
+      "destacado": false
     },
-    "634e5e95528f": {
-      "resumen": "World Rugby precisó las reglas sobre tackles peligrosos y sumó dos sanciones nuevas para esas infracciones."
+    "4c7e0b7707be": {
+      "resumen": "KDnuggets explica cómo armar agentes de inteligencia artificial (IA) usando Docker Agent, una herramienta que empaqueta y ejecuta esos agentes de forma reproducible. Le sirve a quien se inicia en análisis de datos porque Docker (una forma estándar de \"empaquetar\" programas para que corran igual en cualquier computadora) es una habilidad de base para poner en producción cualquier modelo o flujo de análisis, no solo agentes de IA.",
+      "destacado": false
     },
-    "c1cf998d5c1d": {
-      "resumen": "Las selecciones argentinas de rugby seven, Los Pumas 7s y Las Yaguaretés, van por la medalla de oro en el Sudamericano."
+    "10d470fe2b2a": {
+      "resumen": "Tercera entrega de una serie de Towards Data Science que cuestiona el uso del error cuadrático medio (MSE, mean squared error, la métrica más común para evaluar modelos) en series de tiempo, y presenta los modelos de difusión como alternativa para pronosticar. Es relevante para un médico que aprende análisis de datos porque las series de tiempo (evolución de signos vitales, laboratorios o indicadores epidemiológicos) son un tipo de dato clínico frecuente, y elegir mal la métrica de evaluación puede hacer parecer bueno a un modelo que en realidad predice mal.",
+      "destacado": false
     },
-    "4f3f8001210a": {
-      "resumen": "Expertos en salud advierten que la temporada de gripe se acerca y recomiendan vacunarse cuanto antes."
+    "d3f41bda4e97": {
+      "resumen": "KDnuggets reúne siete recursos para aprender sobre agentes de inteligencia artificial (IA) \"autoevolutivos\", es decir, sistemas que ajustan su propio comportamiento con la experiencia en lugar de quedar fijos tras el entrenamiento. Es un buen punto de partida para un médico en transición hacia el análisis de datos porque ofrece una hoja de ruta concreta de estudio, en vez de un paper aislado difícil de ubicar en contexto.",
+      "destacado": true
     },
-    "47e0ef6b6f27": {
-      "resumen": "Un informe vincula la fijación o tensión muscular crónica con problemas de salud sexual en varones."
+    "1af358eeefbb": {
+      "resumen": "Los Pumas suman una nueva baja que genera preocupación de cara al Nations Championship, mientras otros jugadores ya reaparecieron tras sus lesiones."
     },
-    "843f1b03dcee": {
-      "resumen": "Un estudio encontró que recibir paquetes de alimentos saludables ayudó a bajar de peso y a controlar la presión arterial a largo plazo."
+    "3052df1229eb": {
+      "resumen": "España aparece como uno de los países que compite con Argentina y el resto de Sudamérica en la carrera para ser sede del Mundial 2035."
+    },
+    "dab43d073365": {
+      "resumen": "Con el debut de un exjugador de CASI (Club Atlético San Isidro), los argentinos tuvieron participación destacada en la tercera fecha del United Rugby Championship."
     }
   }
 }

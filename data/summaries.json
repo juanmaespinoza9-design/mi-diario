@@ -1,20 +1,8 @@
 {
-  "generated_at": "2026-10-07T22:06:09Z",
+  "generated_at": "2026-10-08T10:08:12Z",
   "summaries": {
     "104f8deaf383": {
       "resumen": "Revisión publicada en European Heart Journal sobre la circulación coronaria: repasa su fisiopatología, las herramientas de imagen disponibles para evaluarla y el rol de las intervenciones preventivas. Vale la pena mirarla porque actualiza el marco conceptual de la enfermedad coronaria más allá de la obstrucción epicárdica, incorporando el estudio de la microcirculación.",
-      "destacado": false
-    },
-    "4b631a5208db": {
-      "resumen": "Declaración científica 2026 del ACC (American College of Cardiology, Colegio Americano de Cardiología) sobre el rol de la nutrición en la prevención y el manejo de la enfermedad cardiovascular, publicada en JACC. Vale la pena mirarla porque actualiza las recomendaciones dietéticas basadas en evidencia que se trasladan directamente a la consulta diaria.",
-      "destacado": false
-    },
-    "ed764c41965f": {
-      "resumen": "Artículo de perspectiva en JACC (Journal of the American College of Cardiology) que plantea dejar atrás el concepto tradicional de \"clearance cardiológico\" preoperatorio a favor de una evaluación de riesgo cardiovascular centrada en el paciente. Interesa porque cuestiona una práctica muy instalada en las interconsultas prequirúrgicas.",
-      "destacado": false
-    },
-    "f80155baf6a1": {
-      "resumen": "Nueva guía conjunta 2026 de la AHA (American Heart Association) y el ACC (American College of Cardiology), junto a otras ocho sociedades, sobre el manejo cardiovascular perioperatorio en cirugía no cardíaca. Es un documento clave porque actualiza el estándar de evaluación y conducta con el paciente cardiópata que va a cirugía.",
       "destacado": false
     },
     "65894a9a3ace": {
@@ -24,11 +12,6 @@
     "d77f54f5cfc3": {
       "resumen": "TCTMD repasa qué esperar del congreso VIVA 2026 (Vascular InterVentional Advances) en Las Vegas, centrado en enfermedad vascular periférica y venosa. Interesa porque suele presentar nueva evidencia sobre intervenciones vasculares que impactan en el abordaje conjunto con cardiología.",
       "destacado": false
-    },
-    "e455bdbc2ebb": {
-      "resumen": "Segmento \"Quick Takes\" de TCTMD sobre tendencias y disparidades en la mortalidad asociada a la estenosis aórtica. Importa porque pone el foco en inequidades (por sexo, raza o acceso) en una valvulopatía con tratamiento percutáneo (TAVI, implante valvular aórtico transcatéter) cada vez más disponible.",
-      "destacado": false,
-      "analisis": "Diseño: Nota breve de TCTMD (\"Quick Takes\") que resume un estudio de tendencias temporales y disparidades poblacionales en mortalidad por estenosis aórtica; probablemente un análisis de bases de datos de mortalidad (tipo registro o estadísticas vitales), sin precisar en el título el diseño exacto, ni el número de centros o de pacientes.\nPoblación: No especificada en el título; presumiblemente personas fallecidas con estenosis aórtica como causa registrada, estratificadas por variables demográficas (sexo, raza/etnia, región).\nIntervención: No aplica (estudio observacional de tendencias, no evalúa una intervención terapéutica puntual).\nResultados: El título solo indica que existen \"tendencias y disparidades\" en la mortalidad relacionada con estenosis aórtica, sin cifras, razones de riesgo ni intervalos de confianza disponibles.\nLimitaciones: Los estudios basados en bases de datos de mortalidad dependen de la calidad del registro de la causa de muerte y no suelen permitir ajustar por todas las variables clínicas relevantes (gravedad de la valvulopatía, acceso efectivo a TAVI o cirugía).\nMensaje: Llama la atención sobre posibles inequidades en el manejo o el desenlace de la estenosis aórtica, que ameritarían políticas de acceso más equitativo a la intervención valvular, aunque sin el texto completo no se puede cuantificar la magnitud del problema.\nNota: análisis sin acceso al abstract."
     },
     "13e0f5531344": {
       "resumen": "Nuevo documento de consenso de expertos 2026 del ACC (American College of Cardiology, Colegio Americano de Cardiología) sobre el manejo de la hipertensión arterial resistente, publicado en JACC (Journal of the American College of Cardiology). Vale la pena mirarlo porque ordena en un algoritmo práctico los pasos diagnósticos y terapéuticos para esta forma de hipertensión difícil de controlar.",
@@ -50,19 +33,7 @@
     },
     "289e6b97faed": {
       "resumen": "Towards Data Science cuestiona la precisión de los modelos de mezcla de medios (MMM, marketing mix model), que estiman el impacto de cada canal publicitario en las ventas, y evalúa si cambiar el momento del gasto —no solo el monto— mejora esas estimaciones. Le aporta a quien aprende análisis de datos un caso concreto de cómo el diseño de los datos de entrada condiciona la validez de un modelo, más allá del algoritmo que se use.",
-      "destacado": false
-    },
-    "4201f3de1d49": {
-      "resumen": "Un paper publicado en arXiv (repositorio de preprints científicos) y destacado en Hacker News analiza cómo se pierden matices al traducir o comunicar resultados sobre las ecuaciones de Navier-Stokes, que describen el comportamiento de los fluidos. Le interesa a quien estudia análisis de datos porque ilustra lo fácil que es distorsionar un resultado técnico complejo al simplificarlo para difundirlo, algo para tener en cuenta al comunicar hallazgos propios.",
-      "destacado": false
-    },
-    "027d7080115c": {
-      "resumen": "Hacker News reporta un incidente de GitHub (la plataforma donde se aloja la mayoría del código abierto) que afectó operaciones de Git, pull requests y Actions durante varias horas. Le sirve a quien programa como recordatorio de cuánto depende el trabajo diario, incluso tareas simples de control de versiones, de la infraestructura de terceros.",
-      "destacado": false
-    },
-    "3ce2d39f4fed": {
-      "resumen": "Hacker News destaca una nueva demanda colectiva contra Visa, Mastercard y varios bancos por presuntas comisiones anticompetitivas en las transacciones con tarjeta de crédito. No es ciencia de datos en sí, pero interesa como contexto de las disputas regulatorias que rodean a las plataformas de pago, cuyos datos transaccionales son material habitual de análisis.",
-      "destacado": false
+      "destacado": true
     },
     "dd551f425089": {
       "resumen": "Simon Willison (bloguero especializado en inteligencia artificial) comparte consejos de Michael Lynch sobre errores frecuentes al escribir posts técnicos: introducciones que no van al grano, sobrestimar lo que el lector ya sabe y asumir que leyó entradas anteriores. Le sirve a un médico que está documentando su propio aprendizaje de análisis de datos para comunicar mejor sus hallazgos por escrito.",
@@ -72,23 +43,63 @@
       "resumen": "Towards Data Science introduce el aprendizaje por refuerzo (reinforcement learning) con una simulación en Python del problema del bandido multibrazo (multi-armed bandit), un ejemplo clásico de cómo un sistema aprende a elegir la mejor opción probando y ajustando sobre la marcha. Le sirve a quien está aprendiendo análisis de datos como primera puerta de entrada práctica a esta rama del aprendizaje automático (machine learning).",
       "destacado": false
     },
-    "b6c1b4e1550a": {
-      "resumen": "KDnuggets compara qué hace en la práctica un ingeniero de machine learning (ML engineer), un ingeniero de inteligencia artificial (AI engineer) y un ingeniero de modelos de lenguaje grandes (LLM engineer, large language model engineer), roles que muchas veces se superponen en las búsquedas laborales. Le sirve a un médico en transición hacia el análisis de datos para entender qué perfil técnico conviene perseguir según sus intereses.",
+    "763ad44f5517": {
+      "resumen": "Nota periodística que resume el documento de consenso del ACC (American College of Cardiology, Colegio Americano de Cardiología) sobre el manejo óptimo de la hipertensión arterial resistente, la que no se controla a pesar de usar tres o más antihipertensivos, incluido un diurético. Vale la pena mirarlo porque condensa en una guía práctica los pasos para descartar causas secundarias y escalonar el tratamiento, en línea con el documento de consenso que también aparece en esta edición.",
       "destacado": false
     },
-    "f056b3e26419": {
-      "resumen": "Hacker News comparte el lanzamiento de Google Playground, un nuevo espacio experimental de Google para probar herramientas y prototipos de inteligencia artificial. Le sirve a quien se inicia en ciencia de datos como una puerta de entrada liviana para experimentar sin necesidad de programar desde cero.",
+    "03de61a8dada": {
+      "resumen": "Artículo de perspectiva, probablemente publicado en JACC (Journal of the American College of Cardiology), que propone pasar de simplemente mapear las disparidades en salud cardiovascular a intervenir con estrategias de precisión ajustadas a cada población. Interesa porque traza una agenda de investigación en equidad cardiovascular que va más allá de describir el problema.",
       "destacado": false
     },
-    "1065345d5f19": {
-      "resumen": "Towards Data Science propone el \"cuadrante de consistencia\", una guía visual para estimar qué tan confiable es un modelo de lenguaje grande (LLM, large language model) cruzando la variabilidad de su razonamiento interno con la de sus resultados finales, sin necesitar una respuesta de referencia (ground truth) para comparar. Le sirve a un médico que usa IA para analizar datos porque ofrece una forma concreta de desconfiar (o confiar) de un asistente de IA antes de usar sus resultados en una decisión real.",
-      "destacado": true
+    "02236c142216": {
+      "resumen": "Editorial de JACC (Journal of the American College of Cardiology) que explica por qué la revista no exige declarar el uso de inteligencia artificial (IA) en la redacción de manuscritos científicos. Vale la pena mirarlo porque anticipa un debate editorial sobre transparencia que va a cruzar a toda la medicina académica.",
+      "destacado": false
     },
-    "760dccfb55e0": {
-      "resumen": "Los capitanes de los seleccionados de rugby le dedicaron mensajes de despedida a Lionel Messi tras su último partido con la Selección argentina."
+    "2e8f2667b082": {
+      "resumen": "Editorial o comentario sobre la FFR-CT (reserva de flujo fraccional calculada por tomografía computada, una forma no invasiva de evaluar si una lesión coronaria es funcionalmente significativa) que señala que, pese a sus avances, la técnica todavía no termina de reemplazar a la medición invasiva. Vale la pena mirarlo porque resume las limitaciones prácticas de una herramienta que promete reducir cateterismos diagnósticos.",
+      "destacado": false
     },
-    "fc84d32c7f76": {
-      "resumen": "Los Pumas confirmaron la baja de Joaquín Oviedo para el Nations Championship, mientras siguen de cerca la recuperación favorable de Coco Ruiz."
+    "9366cdf883bc": {
+      "resumen": "Terence Tao, matemático reconocido, comenta en su cuenta de Mastodon el reciente anuncio de OpenAI sobre el desempeño de sus modelos en problemas matemáticos, y pone en contexto qué tan sólidos son esos logros. Le sirve a quien aprende análisis de datos para calibrar el entusiasmo mediático sobre la inteligencia artificial (IA) aplicada a matemáticas con la mirada crítica de un experto del campo.",
+      "destacado": false
+    },
+    "0f47a943c04a": {
+      "resumen": "Simon Willison, bloguero especializado en inteligencia artificial, cita una reflexión de Ben Affleck sobre el impacto de la IA generativa en la industria audiovisual. Le aporta a un médico que se mete en ciencia de datos una perspectiva externa sobre cómo la IA generativa ya está modificando industrias creativas, no solo la propia.",
+      "destacado": false
+    },
+    "ffaeefda6df4": {
+      "resumen": "Obituario de Margaret Hamilton, la ingeniera de software que lideró el desarrollo del sistema de guiado de a bordo del Apolo 11. Le sirve a quien estudia ciencia de datos para conocer a una de las pioneras que sentó las bases de la disciplina del software confiable en sistemas críticos.",
+      "destacado": false
+    },
+    "6dcb3088ac59": {
+      "resumen": "Simon Willison analiza el lanzamiento de Claude Haiku 5.5, el modelo de lenguaje más liviano y rápido de Anthropic. Le sirve a un médico que usa inteligencia artificial (IA) para análisis de datos porque orienta sobre cuándo conviene un modelo chico y económico en vez de uno más grande para tareas cotidianas.",
+      "destacado": false
+    },
+    "84698d91ebd6": {
+      "resumen": "Nota sobre Jonathan, la tortuga gigante que se confirmó como el animal terrestre más longevo registrado. Le interesa a quien estudia análisis de datos porque el caso muestra cómo se reconstruye y valida una edad extrema a partir de registros históricos fragmentarios, un ejercicio parecido al control de calidad de datos con el que se topa cualquier analista.",
+      "destacado": false
+    },
+    "f266a14dae3d": {
+      "resumen": "Entrada de blog que analiza en profundidad el patrón de programación \"subir los if y bajar los for\" (reorganizar las condicionales antes que los bucles), con su fundamento algebraico y sus límites. Le sirve a un médico que programa sus propios análisis porque es una guía concreta para escribir código de procesamiento de datos más legible y menos propenso a errores.",
+      "destacado": false
+    },
+    "4093f85f14fb": {
+      "resumen": "Brett Robinson y Rob Kearney, dirigentes de World Rugby, opinaron sobre los cambios recientes en el reglamento del rugby."
+    },
+    "634e5e95528f": {
+      "resumen": "World Rugby precisó las reglas sobre tackles peligrosos y sumó dos sanciones nuevas para esas infracciones."
+    },
+    "c1cf998d5c1d": {
+      "resumen": "Las selecciones argentinas de rugby seven, Los Pumas 7s y Las Yaguaretés, van por la medalla de oro en el Sudamericano."
+    },
+    "4f3f8001210a": {
+      "resumen": "Expertos en salud advierten que la temporada de gripe se acerca y recomiendan vacunarse cuanto antes."
+    },
+    "47e0ef6b6f27": {
+      "resumen": "Un informe vincula la fijación o tensión muscular crónica con problemas de salud sexual en varones."
+    },
+    "843f1b03dcee": {
+      "resumen": "Un estudio encontró que recibir paquetes de alimentos saludables ayudó a bajar de peso y a controlar la presión arterial a largo plazo."
     }
   }
 }

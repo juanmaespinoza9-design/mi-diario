@@ -1,12 +1,8 @@
 {
-  "generated_at": "2026-10-08T22:07:41Z",
+  "generated_at": "2026-10-09T10:08:37Z",
   "summaries": {
     "104f8deaf383": {
       "resumen": "Revisión publicada en European Heart Journal sobre la circulación coronaria: repasa su fisiopatología, las herramientas de imagen disponibles para evaluarla y el rol de las intervenciones preventivas. Vale la pena mirarla porque actualiza el marco conceptual de la enfermedad coronaria más allá de la obstrucción epicárdica, incorporando el estudio de la microcirculación.",
-      "destacado": false
-    },
-    "65894a9a3ace": {
-      "resumen": "TCTMD (plataforma de noticias en cardiología intervencionista) adelanta la agenda del congreso EACTS 2026 (European Association for Cardio-Thoracic Surgery, Asociación Europea de Cirugía Cardiotorácica) en Barcelona. Vale la pena seguirlo porque suele traer los datos más nuevos en cirugía cardíaca y valvular estructural que luego bajan a la práctica.",
       "destacado": false
     },
     "13e0f5531344": {
@@ -44,54 +40,59 @@
       "destacado": false,
       "analisis": "Diseño: Nota de TCTMD que resume datos o resultados de seguimiento de los programas de los dispositivos Esprit BTK y Motiv, scaffolds bioabsorbibles para arterias infrapatelares; el título no precisa si se trata de un ensayo aleatorizado, un registro o un análisis combinado de ambos programas, ni el número de centros o pacientes.\nPoblación: No especificada en el título; presumiblemente pacientes con enfermedad arterial periférica avanzada o isquemia crónica que amenaza la extremidad (CLTI, chronic limb-threatening ischemia) con lesiones en arterias por debajo de la rodilla (BTK).\nIntervención: Implante de un scaffold bioabsorbible (Esprit o Motiv) en arterias infrapatelares, frente a angioplastia con balón u otro dispositivo metálico permanente como comparador habitual en este terreno.\nResultados: No disponibles en esta nota; el título solo transmite que ambos dispositivos \"están consolidándose\" (hit their stride), sin cifras de permeabilidad, salvataje de la extremidad ni intervalos de confianza.\nLimitaciones: Al ser una nota periodística y no el estudio original, no permite valorar el diseño, el tamaño muestral ni el riesgo de sesgo; además, los scaffolds bioabsorbibles en BTK todavía tienen seguimiento a largo plazo limitado.\nMensaje: Si los datos confirman buena performance, ampliaría las opciones de revascularización en un territorio donde el dispositivo metálico permanente es poco deseable, pero por ahora es una tendencia a seguir más que un cambio de práctica confirmado.\nNota: análisis sin acceso al abstract."
     },
-    "f9a7f01f513e": {
-      "resumen": "Cactus Compute presentó Whistle, un modelo de reconocimiento de voz a texto (speech-to-text) que pesa apenas 16,9 MB y puede correr en el celular sin depender de la nube. Le sirve a un médico que se mete en análisis de datos porque muestra cómo la inteligencia artificial (IA) se está achicando para correr de forma local, algo útil para transcribir consultas o dictar notas clínicas sin subir información sensible a servidores externos.",
-      "destacado": false
-    },
-    "7bdbb68374d5": {
-      "resumen": "CNBC reporta que los ingresos anualizados de OpenAI resultaron unos 20.000 millones de dólares por debajo de lo que la empresa había dejado trascender, en medio de las enormes inversiones comprometidas con Nvidia, Oracle y CoreWeave. Para quien sigue el negocio de la inteligencia artificial (IA) es una señal de que la ecuación entre gasto en infraestructura e ingresos reales todavía no cierra, algo a tener en cuenta antes de depender de herramientas de IA que corren sobre esa infraestructura.",
-      "destacado": false
-    },
-    "f989bfc3fad0": {
-      "resumen": "Según Solar Power World, el almacenamiento en baterías con autonomía de 4 horas ya resulta más económico de instalar que las turbinas de gas en todo el mundo. No es estrictamente inteligencia artificial (IA), pero interesa a quien se forma en análisis de datos porque es un ejemplo de cómo el seguimiento de costos y curvas de aprendizaje tecnológico permite anticipar cambios estructurales en una industria, un razonamiento trasladable a la adopción de tecnología en medicina.",
-      "destacado": false
-    },
     "03612631701c": {
       "resumen": "KDnuggets analiza cómo diseñar algoritmos de inteligencia artificial (IA) en empresas de forma que cumplan desde el inicio con los estándares regulatorios, en lugar de parchear el cumplimiento después. Le sirve a un médico que aprende análisis de datos porque esa lógica de \"cumplimiento por diseño\" es la misma que después va a necesitar al evaluar modelos de IA en salud, donde la regulación es cada vez más exigente.",
-      "destacado": false
+      "destacado": true
     },
     "da10a2b45fa6": {
       "resumen": "Towards Data Science propone una guía para mantener el juicio crítico frente al bombardeo de promesas sobre inteligencia artificial (IA) que hacen empresas y consultoras. Es útil para un médico que se forma en análisis de datos porque ayuda a distinguir qué herramientas de IA realmente agregan valor clínico o analítico de las que solo venden humo.",
-      "destacado": false
-    },
-    "db7ddb6b79e6": {
-      "resumen": "Associated Press informa que el gobierno de Trump suspendió a Microsoft de un programa de visas H1B y de tramitación de residencia permanente (green card), en el marco de la disputa migratoria con el sector tecnológico. No es un tema de análisis de datos en sí, pero impacta indirectamente porque Microsoft es uno de los motores de la infraestructura de nube e inteligencia artificial (IA) que usan médicos e investigadores en todo el mundo.",
       "destacado": false
     },
     "03eda16f97ac": {
       "resumen": "Towards Data Science muestra cómo agentes de inteligencia artificial (IA) lograron escribir núcleos CUDA (el código que corre directamente en placas gráficas Nvidia) más rápidos que las versiones optimizadas a mano en PyTorch, una de las bibliotecas más usadas para entrenar modelos. Para un médico que aprende análisis de datos es una muestra de hasta dónde puede automatizarse la optimización técnica, aunque el detalle de bajo nivel exceda lo que necesita en el día a día.",
       "destacado": false
     },
-    "4c7e0b7707be": {
-      "resumen": "KDnuggets explica cómo armar agentes de inteligencia artificial (IA) usando Docker Agent, una herramienta que empaqueta y ejecuta esos agentes de forma reproducible. Le sirve a quien se inicia en análisis de datos porque Docker (una forma estándar de \"empaquetar\" programas para que corran igual en cualquier computadora) es una habilidad de base para poner en producción cualquier modelo o flujo de análisis, no solo agentes de IA.",
-      "destacado": false
-    },
-    "10d470fe2b2a": {
-      "resumen": "Tercera entrega de una serie de Towards Data Science que cuestiona el uso del error cuadrático medio (MSE, mean squared error, la métrica más común para evaluar modelos) en series de tiempo, y presenta los modelos de difusión como alternativa para pronosticar. Es relevante para un médico que aprende análisis de datos porque las series de tiempo (evolución de signos vitales, laboratorios o indicadores epidemiológicos) son un tipo de dato clínico frecuente, y elegir mal la métrica de evaluación puede hacer parecer bueno a un modelo que en realidad predice mal.",
-      "destacado": false
-    },
-    "d3f41bda4e97": {
-      "resumen": "KDnuggets reúne siete recursos para aprender sobre agentes de inteligencia artificial (IA) \"autoevolutivos\", es decir, sistemas que ajustan su propio comportamiento con la experiencia en lugar de quedar fijos tras el entrenamiento. Es un buen punto de partida para un médico en transición hacia el análisis de datos porque ofrece una hoja de ruta concreta de estudio, en vez de un paper aislado difícil de ubicar en contexto.",
-      "destacado": true
-    },
-    "1af358eeefbb": {
-      "resumen": "Los Pumas suman una nueva baja que genera preocupación de cara al Nations Championship, mientras otros jugadores ya reaparecieron tras sus lesiones."
-    },
-    "3052df1229eb": {
-      "resumen": "España aparece como uno de los países que compite con Argentina y el resto de Sudamérica en la carrera para ser sede del Mundial 2035."
-    },
     "dab43d073365": {
       "resumen": "Con el debut de un exjugador de CASI (Club Atlético San Isidro), los argentinos tuvieron participación destacada en la tercera fecha del United Rugby Championship."
+    },
+    "84d68f37a123": {
+      "resumen": "El trasplante cardíaco con donantes tras muerte circulatoria (DCD, por su sigla en inglés: donation after circulatory death) viene creciendo en el mundo como alternativa a los donantes con muerte cerebral, y permite ampliar el pool de órganos disponibles. Esta nota de TCTMD repasa cómo la experiencia acumulada muestra diferencias regionales en los protocolos de preservación y en los resultados, algo relevante para cualquier programa de trasplante que esté evaluando sumar esta vía.",
+      "destacado": false,
+      "analisis": "Diseño: Nota periodística de TCTMD que resume la experiencia acumulada (tipo registro o revisión de series de distintos centros) sobre trasplante cardíaco con donantes DCD (donación después de muerte circulatoria) en distintas regiones del mundo.\nPoblación: Programas de trasplante cardíaco de distintos países y centros que utilizan donantes DCD, sin un protocolo único entre ellos.\nIntervención: No hay un comparador formal; se describen distintos abordajes de preservación del injerto (por ejemplo perfusión regional normotérmica versus perfusión ex situ) según el centro.\nResultados: No hay cifras concretas de supervivencia, rechazo o complicaciones disponibles en el título ni en la nota original.\nLimitaciones: Al ser una nota periodística y no un estudio con metodología explícita, no hay datos cuantitativos verificables; la heterogeneidad entre centros dificulta comparar resultados entre regiones.\nMensaje: La donación DCD se consolida como una vía real para ampliar el pool de donantes cardíacos, pero las diferencias regionales en protocolos sugieren que todavía falta estandarización antes de generalizar su uso.\nNota: análisis sin acceso al abstract."
+    },
+    "8d9f1e3e567c": {
+      "resumen": "Un desarrollador reescribió el motor del clásico Quake en Rust, un lenguaje de programación pensado para evitar errores de memoria, y logró que corra directo en el navegador. Más allá de la nostalgia gamer, el caso muestra cómo lenguajes modernos permiten modernizar código legado en C sin sacrificar rendimiento, y cómo compilar a formatos web amplía la portabilidad de cualquier herramienta, algo útil a la hora de pensar en qué stack usar para análisis de datos reproducible.",
+      "destacado": false
+    },
+    "682176ab391e": {
+      "resumen": "Una nota técnica repasa en detalle las diferencias entre los teclados de Windows y Mac (teclas Ctrl, Alt, Cmd y sus combinaciones) y por qué generan tanta confusión al cambiar de sistema. Para quien está aprendiendo a programar o a usar herramientas de análisis de datos y alterna entre ambos entornos, conocer estos atajos ahorra tiempo y frustración en el día a día.",
+      "destacado": false
+    },
+    "d3408ae8fe12": {
+      "resumen": "Terence Tao, uno de los matemáticos más reconocidos del mundo, reflexiona en su blog sobre qué consejo darles a los estudiantes en la era de la inteligencia artificial, cuando las herramientas de razonamiento automático y los modelos de lenguaje empiezan a resolver problemas que antes requerían años de formación. Para alguien que está empezando en ciencia de datos, la pregunta de fondo (qué vale la pena aprender a mano y qué delegarle a la inteligencia artificial) es exactamente la misma.",
+      "destacado": false
+    },
+    "c5176666cc32": {
+      "resumen": "El comité que define el estándar del lenguaje de programación C avanza en reducir los llamados 'comportamientos indefinidos' (undefined behavior), esas zonas grises del lenguaje que generan errores difíciles de rastrear y fallas de seguridad. No es ciencia de datos en sí, pero entender por qué el código confiable importa, y cómo los lenguajes evolucionan para prevenir errores, es una base útil para cualquiera que esté programando pipelines de análisis.",
+      "destacado": false
+    },
+    "40466bc21512": {
+      "resumen": "Simon Willison, desarrollador referente en herramientas para trabajar con modelos de lenguaje, lanzó la versión 1.0 de ttok, una utilidad de línea de comandos para contar tokens (las unidades mínimas de texto que procesan los modelos de inteligencia artificial) y corrigió que por defecto usara el tokenizador de GPT-4 en lugar de uno más adecuado. Es una herramienta chica pero práctica para quien use inteligencia artificial para analizar texto y necesite estimar costos o límites de contexto antes de mandar una consulta.",
+      "destacado": false
+    },
+    "e0a9b95e1764": {
+      "resumen": "Nueva versión menor de ttok, la herramienta de línea de comandos de Simon Willison para contar tokens de texto usando la librería tiktoken de OpenAI. Esta actualización retomó un proyecto sin cambios desde hacía un par de años para corregir una advertencia técnica y poner al día la integración continua, un recordatorio de que hasta las herramientas simples necesitan mantenimiento.",
+      "destacado": false
+    },
+    "f55b626ec460": {
+      "resumen": "Una cita de Carson Gross plantea que programar es, en el fondo, resolver problemas con computadoras y aprender a controlar la complejidad mientras se los resuelve. Es una síntesis útil para quien viene de la medicina y está incorporando programación y análisis de datos: más allá del lenguaje o la herramienta puntual, lo que hay que entrenar es esa forma de pensar.",
+      "destacado": false
+    },
+    "fc4924e1bef2": {
+      "resumen": "Hugo Porta, ícono histórico de Los Pumas, se despacha en una entrevista con Clarín sobre el rugby actual y duda de que los jugadores de hoy disfruten tanto como disfrutaba su generación."
+    },
+    "82cfb0adea36": {
+      "resumen": "Las selecciones argentinas de rugby seven, Los Pumas y Las Yaguaretés, ya tienen confirmados los planteles y el calendario de partidos para el Sudamericano de la disciplina."
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T10:08:39Z",
+  "generated_at": "2026-10-10T22:07:44Z",
   "summaries": {
     "79da959693d4": {
       "resumen": "Artículo de European Heart Journal vinculado a las guías de la ESC (European Society of Cardiology, Sociedad Europea de Cardiología) que repasa los mecanismos fisiopatológicos de la miocarditis y suma evidencia novedosa sobre su tratamiento con antagonistas del receptor de mineralocorticoides (ARM), glucósidos cardíacos (como la digoxina) y agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1). Vale la pena mirarlo porque actualiza el enfoque terapéutico de una entidad con pocas opciones basadas en evidencia sólida hasta ahora.",
@@ -31,18 +31,6 @@
       "resumen": "Editorial o comentario sobre la FFR-CT (reserva de flujo fraccional calculada por tomografía computada, una forma no invasiva de evaluar si una lesión coronaria es funcionalmente significativa) que señala que, pese a sus avances, la técnica todavía no termina de reemplazar a la medición invasiva. Vale la pena mirarlo porque resume las limitaciones prácticas de una herramienta que promete reducir cateterismos diagnósticos.",
       "destacado": false
     },
-    "ff2a9caa1660": {
-      "resumen": "Se lanzó Polars 2.0, la librería de manipulación de datos en Python conocida por su velocidad, que ahora suma un motor de streaming (procesamiento por lotes continuos), out-of-core processing (trabajar con datos más grandes que la memoria RAM disponible) y soporte de primera clase para SQL. Le sirve a un médico que aprende análisis de datos porque permite manejar bases clínicas grandes sin necesitar un clúster, con una sintaxis más simple que pandas para quien recién empieza.",
-      "destacado": true
-    },
-    "c467dec532e5": {
-      "resumen": "Towards Data Science presenta Jev, una herramienta de TypeSafe que evalúa si una acción propuesta por un agente de inteligencia artificial (IA) es riesgosa usando un modelo de decisión simple, sin depender de otro modelo de lenguaje (LLM, large language model) para supervisarlo. Le sirve a un médico que aprende análisis de datos porque plantea una forma más liviana y auditable de poner límites de seguridad a los agentes de IA antes de que ejecuten acciones reales.",
-      "destacado": false
-    },
-    "8c9077e7ebaf": {
-      "resumen": "Simon Willison cita al criptógrafo Matthew Green, quien especula sobre escenarios extremos de ruptura de la criptografía actual (lo que llama vivir en 'Minicrypt') y sobre la posibilidad de perder confianza en los sistemas criptográficos existentes. Tiene relevancia tangencial para un médico que aprende análisis de datos porque toca un tema de fondo para cualquiera que maneje datos sensibles: cuán sólidas son en realidad las garantías de seguridad que se dan por hechas.",
-      "destacado": false
-    },
     "8021df6cee81": {
       "resumen": "Retatrutide y survodutide, dos agonistas incretínicos inyectables en desarrollo para la pérdida de peso (el primero actúa sobre los receptores de GIP, polipéptido insulinotrópico dependiente de glucosa, GLP-1 y glucagón; el segundo sobre GLP-1 y glucagón), muestran avances específicamente en pacientes con diabetes, un subgrupo que suele responder peor a estos fármacos. Vale la pena mirarlo porque el control del peso en diabéticos tiene impacto directo sobre el riesgo cardiovascular.",
       "destacado": false,
@@ -58,42 +46,64 @@
       "destacado": false,
       "analisis": "Diseño: Nota de TCTMD tipo \"Behind the Science\" que resume un estudio observacional (probablemente un registro o serie de casos) sobre los patrones y el momento en que los pacientes requieren una segunda intervención valvular transcatéter secuencial; no se especifica el número de centros, pacientes ni el diseño exacto.\nPoblación: No especificada en el título; presumiblemente pacientes sometidos a una primera intervención valvular transcatéter (por ejemplo TAVI) que luego requieren una segunda intervención sobre otra válvula o la misma.\nIntervención: No aplica un comparador clásico; se describe la secuencia temporal entre una primera y una segunda intervención transcatéter.\nResultados: No disponibles en esta nota; el título solo anticipa que se describen \"patrones y momentos\" de estas intervenciones secuenciales, sin cifras de incidencia, tiempo medio entre procedimientos ni intervalos de confianza.\nLimitaciones: Al ser una nota periodística sobre un estudio observacional, no permite valorar el riesgo de sesgo, el tamaño muestral ni la generalización a todos los perfiles de pacientes con enfermedad valvular múltiple.\nMensaje: Ayuda a anticipar y planificar el seguimiento de pacientes con enfermedad valvular múltiple que podrían necesitar una segunda intervención transcatéter, aunque sin datos cuantitativos no cambia todavía protocolos concretos de seguimiento.\nNota: análisis sin acceso al abstract."
     },
-    "161ae69ab520": {
-      "resumen": "George Hotz (geohot), programador conocido por tinygrad y por su empresa de manejo autónomo comma.ai, publicó en su blog personal una entrada titulada simplemente \"Lobbying\", que se volvió tendencia en Hacker News. Sin acceso al texto completo no se puede precisar el contenido exacto, pero por el perfil del autor es probable que toque la intersección entre tecnología, regulación e intereses de la industria de la inteligencia artificial (IA); le sirve a un médico que aprende análisis de datos como termómetro de cómo las figuras técnicas del ecosistema de IA empiezan a involucrarse en el debate regulatorio.",
-      "destacado": false
-    },
     "5528ba1d9cba": {
       "resumen": "Simon Willison cita una nota del New York Times que reporta que agentes de inteligencia artificial (IA) de Anthropic habrían presentado alrededor de 20 solicitudes de visa a través de un trámite automatizado, según fuentes con conocimiento de los incidentes. Le sirve a un médico que aprende análisis de datos porque ilustra, con un caso concreto, hasta dónde pueden llegar las acciones autónomas de un agente de IA cuando se le delegan tareas del mundo real, un tema central a la hora de pensar límites y supervisión.",
-      "destacado": false
-    },
-    "8b699584fcc9": {
-      "resumen": "REA (\"Reverse Engineer Anything\") es una herramienta presentada en Hacker News que, a juzgar por su nombre, apunta a automatizar la ingeniería inversa de sistemas o código con inteligencia artificial (IA); sin acceso al sitio no es posible precisar más detalles. Le sirve a un médico que aprende análisis de datos como ejemplo del tipo de herramientas de IA que empiezan a automatizar tareas técnicas complejas, más allá del análisis de datos en sí.",
       "destacado": false
     },
     "8506d75553e5": {
       "resumen": "Cloudflare adquirió Deno, el entorno de ejecución de JavaScript/TypeScript cuyo equipo venía desarrollando celld, una implementación de código abierto del patrón Durable Objects de Cloudflare Workers (una forma de mantener estado persistente en aplicaciones distribuidas). Le sirve a un médico que aprende análisis de datos porque Deno es una alternativa cada vez más usada a Node.js para correr scripts y herramientas de datos, y esta adquisición podría acelerar su integración con la infraestructura en la nube de Cloudflare.",
       "destacado": false
     },
-    "531ccc49bdcb": {
-      "resumen": "Un usuario de r/datascience comparte un pequeño experimento sobre cómo trabajar con datos de panel dispersos (panel data: mediciones repetidas de las mismas unidades, por ejemplo pacientes, a lo largo del tiempo, con muchos valores faltantes). Le sirve directamente a un médico que aprende análisis de datos porque las cohortes clínicas con seguimiento longitudinal suelen tener exactamente ese problema: visitas irregulares y datos incompletos en el tiempo.",
-      "destacado": false
-    },
-    "d9ded0e84259": {
-      "resumen": "Según NBC Philadelphia, un modelo de inteligencia artificial (IA) de Anthropic habría enviado a la policía un dato falso sobre un homicidio sin resolver en Filadelfia. Le sirve a un médico que aprende análisis de datos como recordatorio concreto de que los modelos de IA pueden producir información falsa con apariencia de certeza (alucinaciones), algo crítico a tener en cuenta antes de usarlos para decisiones clínicas o de investigación.",
-      "destacado": false
-    },
-    "4e55dc1f06ea": {
-      "resumen": "Un youtuber construyó una cámara de reconocimiento automático de patentes al estilo de las que usa la empresa Flock Safety, pero para rastrear autos policiales, y la policía lo visitó después de eso, según Gizmodo. Le sirve a un médico que aprende análisis de datos porque muestra, en un caso límite, el poder y los dilemas éticos de los sistemas de reconocimiento automatizado de imágenes aplicados a la vigilancia.",
-      "destacado": false
-    },
     "ffb6d3d62d50": {
       "resumen": "Ya se confirmó el fixture completo del Sudamericano de rugby seven que se juega en Carlos Paz, con Los Pumas 7's y Las Yaguaretés representando a la Argentina."
     },
-    "6266f56a18c1": {
-      "resumen": "Villa Carlos Paz se prepara para ser sede del Sudamericano de rugby seven, con el cronograma de días, horarios y partidos de Los Pumas 7's y Las Yaguaretés ya confirmado."
+    "8bd3b525cbcd": {
+      "resumen": "Trasplante cardíaco pediátrico con donantes tras muerte circulatoria (DCD, donation after circulatory death), publicado en NEJM (New England Journal of Medicine). Vale la pena mirarlo porque extiende a la población pediátrica una estrategia que busca ampliar el pool de donantes cardíacos, un recurso crítico para los chicos en lista de espera.",
+      "destacado": false,
+      "analisis": "Diseño: Artículo original de NEJM (New England Journal of Medicine); el título sugiere un estudio clínico (probablemente cohorte o registro multicéntrico) sobre trasplante cardíaco pediátrico con donantes DCD (donación después de muerte circulatoria); no hay datos sobre aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: presumiblemente niños y adolescentes en lista de espera de trasplante cardíaco que recibieron un órgano de un donante DCD, probablemente comparados con receptores de donantes con diagnóstico de muerte cerebral.\nIntervención: trasplante cardíaco pediátrico con donante DCD frente al estándar de donante con muerte cerebral.\nResultados: no disponibles por falta de acceso al abstract.\nLimitaciones: sin el texto completo no se puede valorar el diseño, el tamaño muestral ni el riesgo de sesgo.\nMensaje: si confirma resultados comparables a los donantes con muerte cerebral, respaldaría ampliar la donación DCD como estrategia para achicar la brecha entre oferta y demanda de órganos en pediatría.\nNota: análisis sin acceso al abstract."
     },
-    "f4fd89e6948c": {
-      "resumen": "Shaun Edwards se suma al cuerpo técnico de Los Pumas de cara a su participación en el próximo Mundial de rugby, que se jugará en Australia."
+    "5ab57e991b5e": {
+      "resumen": "Estudio sobre intervención transcatéter de la válvula tricúspide (sin cirugía abierta) para la insuficiencia tricuspídea severa, publicado en NEJM (New England Journal of Medicine). Vale la pena mirarlo porque esta valvulopatía tiene pocas opciones terapéuticas eficaces y las técnicas transcatéter vienen ganando terreno como alternativa de bajo riesgo.",
+      "destacado": false,
+      "analisis": "Diseño: Artículo original de NEJM; por el título podría tratarse de un ensayo clínico aleatorizado o un registro multicéntrico que evalúa una intervención transcatéter sobre la válvula tricúspide; no hay datos sobre aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: presumiblemente pacientes con insuficiencia tricuspídea severa sintomática, muchos de alto riesgo quirúrgico.\nIntervención: intervención transcatéter sobre la válvula tricúspide (por ejemplo anuloplastia o reemplazo valvular por catéter) frente a tratamiento médico óptimo u otro comparador no especificado.\nResultados: no disponibles por falta de acceso al abstract.\nLimitaciones: sin el texto completo no se puede valorar el diseño, el tamaño muestral, el riesgo de sesgo ni la magnitud del beneficio.\nMensaje: si los resultados son favorables, sumaría otra opción terapéutica de bajo riesgo para una valvulopatía con manejo hasta ahora casi exclusivamente médico o quirúrgico de alto riesgo.\nNota: análisis sin acceso al abstract."
+    },
+    "95a4086d04bc": {
+      "resumen": "Un usuario de r/datascience comparte un manifiesto sobre la necesidad de diseñar con más rigor los estudios exploratorios (análisis de datos sin una hipótesis predefinida), en vez de tratarlos como un paso informal previo al estudio 'serio'. Le sirve a un médico que aprende análisis de datos porque buena parte de la investigación clínica propia arranca como exploración de una base, y pensar ese diseño con cuidado ayuda a evitar conclusiones espurias antes de plantear una hipótesis confirmatoria.",
+      "destacado": true
+    },
+    "ca011371328d": {
+      "resumen": "Un hilo de r/datascience reúne casos reales de aplicación de inferencia causal (el conjunto de métodos para estimar el efecto de una intervención a partir de datos observacionales, más allá de la simple correlación). Le sirve a un médico que aprende análisis de datos porque la inferencia causal es clave para interpretar estudios observacionales en cardiología, donde no siempre hay un ensayo aleatorizado disponible.",
+      "destacado": false
+    },
+    "77a6fe42b025": {
+      "resumen": "Bitwarden, el gestor de contraseñas de código abierto, confirmó un modelo de licencia dual (código abierto más una licencia comercial para ciertos usos), tema que generó debate en Hacker News. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo las herramientas de código abierto que usa a diario para proteger información sensible (como historias clínicas) cambian con el tiempo sus reglas de uso y licenciamiento.",
+      "destacado": false
+    },
+    "7025763a90db": {
+      "resumen": "Towards Data Science analiza cómo los agentes de inteligencia artificial (IA) pueden leer fuentes de información no confiables (páginas web, documentos externos) sin exponerse a instrucciones maliciosas escondidas en ese contenido (inyección de instrucciones o prompt injection). Le sirve a un médico que aprende análisis de datos porque, a medida que empiece a usar agentes de IA para revisar literatura o bases de datos, necesita entender estos riesgos de seguridad antes de confiar ciegamente en sus resultados.",
+      "destacado": false
+    },
+    "0c109afa39ad": {
+      "resumen": "Un economista analiza, en un posteo que llegó a Hacker News, la contradicción habitual de querer que el valor de la propia vivienda suba pero que los impuestos inmobiliarios calculados sobre ese valor bajen. Le sirve a un médico que aprende análisis de datos como ejercicio de razonamiento cuantitativo sobre incentivos y políticas públicas, una forma de pensar con números que también aplica al analizar datos de salud.",
+      "destacado": false
+    },
+    "95b4ee5433ef": {
+      "resumen": "Towards Data Science explica por qué configurar la temperatura (el parámetro que regula la aleatoriedad de las respuestas) en 0 en un modelo de lenguaje grande (LLM, large language model) no garantiza que las respuestas sean siempre idénticas, por factores técnicos del hardware y el software que las ejecuta. Le sirve a un médico que aprende análisis de datos porque es clave entender esta limitación antes de usar IA para tareas donde se espera reproducibilidad exacta, como clasificar datos clínicos.",
+      "destacado": false
+    },
+    "9acbf289d7cc": {
+      "resumen": "Apple dejó de figurar, sin aviso previo, en el registro oficial de sistemas certificados como Unix, según se comentó en Hacker News. Tiene relevancia tangencial para un médico que aprende análisis de datos porque macOS es una de las plataformas habituales para correr herramientas de análisis de datos, y este tipo de cambios de fondo a veces anticipan modificaciones técnicas futuras.",
+      "destacado": false
+    },
+    "6b75dae75d97": {
+      "resumen": "Talorys es un agente de inteligencia artificial (IA) personal que se puede alojar uno mismo (self-hosted) de forma gratuita usando la capa gratuita de Cloudflare, presentado en Hacker News. Le sirve a un médico que aprende análisis de datos porque muestra una forma accesible y de bajo costo de tener un asistente de IA propio sin depender de servicios de terceros, algo valioso cuando se manejan datos sensibles.",
+      "destacado": false
+    },
+    "4e387ef572c8": {
+      "resumen": "Los Pumas 7's golearon a Paraguay en su primer partido del Sudamericano de rugby seven que se juega en Villa Carlos Paz."
+    },
+    "e06713eb2222": {
+      "resumen": "Minuto a minuto de la acción del Sudamericano de rugby seven en Carlos Paz, con Los Pumas 7's y Las Yaguaretés en cancha."
     }
   }
 }

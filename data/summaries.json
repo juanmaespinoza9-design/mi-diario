@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T10:06:37Z",
+  "generated_at": "2026-10-11T22:06:14Z",
   "summaries": {
     "79da959693d4": {
       "resumen": "Artículo de European Heart Journal vinculado a las guías de la ESC (European Society of Cardiology, Sociedad Europea de Cardiología) que repasa los mecanismos fisiopatológicos de la miocarditis y suma evidencia novedosa sobre su tratamiento con antagonistas del receptor de mineralocorticoides (ARM), glucósidos cardíacos (como la digoxina) y agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1). Vale la pena mirarlo porque actualiza el enfoque terapéutico de una entidad con pocas opciones basadas en evidencia sólida hasta ahora.",
@@ -41,59 +41,47 @@
       "destacado": true,
       "analisis": "Diseño: Nota de TCTMD sobre un análisis de registro (no aleatorizado) que compara los resultados de TAVI (implante percutáneo de válvula aórtica) y SAVR (reemplazo valvular aórtico quirúrgico) en la práctica real, contrastándolos con los hallazgos del ensayo aleatorizado DEDICATE-DZHK6; no se precisa el número de centros, pacientes del registro ni el período analizado.\nPoblación: Presumiblemente pacientes con estenosis aórtica severa sometidos a TAVI o SAVR en la práctica asistencial habitual, de perfil de riesgo similar al del ensayo DEDICATE-DZHK6 (pacientes añosos, riesgo quirúrgico bajo a intermedio).\nIntervención: TAVI frente a SAVR, comparando los resultados del registro con los del ensayo aleatorizado original.\nResultados: No disponibles en esta nota; el título solo indica que el análisis de registro \"atenúa\" la diferencia entre TAVI y SAVR observada en el ensayo DEDICATE-DZHK6, sin cifras de mortalidad, ACV (accidente cerebrovascular) ni intervalos de confianza.\nLimitaciones: Un registro no aleatorizado está sujeto a sesgo de selección (los pacientes no se asignan al azar entre TAVI y SAVR, sino por criterio clínico), lo que puede explicar por qué la diferencia del ensayo no se replica igual en la práctica real.\nMensaje: Sugiere que el beneficio de TAVI sobre SAVR visto en el ensayo aleatorizado podría ser menor en la práctica asistencial habitual, lo que invita a prudencia antes de extrapolar automáticamente los resultados de DEDICATE-DZHK6 a todos los pacientes.\nNota: análisis sin acceso al abstract."
     },
-    "0d6469bcf428": {
-      "resumen": "TCTMD (plataforma de noticias en cardiología intervencionista) repasa los patrones y el momento en que los pacientes terminan necesitando una segunda intervención valvular por catéter después de una primera. Vale la pena mirarlo porque ayuda a anticipar el seguimiento de pacientes con enfermedad valvular múltiple en la consulta.",
-      "destacado": false,
-      "analisis": "Diseño: Nota de TCTMD tipo \"Behind the Science\" que resume un estudio observacional (probablemente un registro o serie de casos) sobre los patrones y el momento en que los pacientes requieren una segunda intervención valvular transcatéter secuencial; no se especifica el número de centros, pacientes ni el diseño exacto.\nPoblación: No especificada en el título; presumiblemente pacientes sometidos a una primera intervención valvular transcatéter (por ejemplo TAVI) que luego requieren una segunda intervención sobre otra válvula o la misma.\nIntervención: No aplica un comparador clásico; se describe la secuencia temporal entre una primera y una segunda intervención transcatéter.\nResultados: No disponibles en esta nota; el título solo anticipa que se describen \"patrones y momentos\" de estas intervenciones secuenciales, sin cifras de incidencia, tiempo medio entre procedimientos ni intervalos de confianza.\nLimitaciones: Al ser una nota periodística sobre un estudio observacional, no permite valorar el riesgo de sesgo, el tamaño muestral ni la generalización a todos los perfiles de pacientes con enfermedad valvular múltiple.\nMensaje: Ayuda a anticipar y planificar el seguimiento de pacientes con enfermedad valvular múltiple que podrían necesitar una segunda intervención transcatéter, aunque sin datos cuantitativos no cambia todavía protocolos concretos de seguimiento.\nNota: análisis sin acceso al abstract."
-    },
-    "ffb6d3d62d50": {
-      "resumen": "Ya se confirmó el fixture completo del Sudamericano de rugby seven que se juega en Carlos Paz, con Los Pumas 7's y Las Yaguaretés representando a la Argentina."
-    },
     "95a4086d04bc": {
       "resumen": "Un usuario de r/datascience comparte un manifiesto sobre la necesidad de diseñar con más rigor los estudios exploratorios (análisis de datos sin una hipótesis predefinida), en vez de tratarlos como un paso informal previo al estudio 'serio'. Le sirve a un médico que aprende análisis de datos porque buena parte de la investigación clínica propia arranca como exploración de una base, y pensar ese diseño con cuidado ayuda a evitar conclusiones espurias antes de plantear una hipótesis confirmatoria.",
       "destacado": true
     },
-    "ca011371328d": {
-      "resumen": "Un hilo de r/datascience reúne casos reales de aplicación de inferencia causal (el conjunto de métodos para estimar el efecto de una intervención a partir de datos observacionales, más allá de la simple correlación). Le sirve a un médico que aprende análisis de datos porque la inferencia causal es clave para interpretar estudios observacionales en cardiología, donde no siempre hay un ensayo aleatorizado disponible.",
-      "destacado": false
-    },
-    "7025763a90db": {
-      "resumen": "Towards Data Science analiza cómo los agentes de inteligencia artificial (IA) pueden leer fuentes de información no confiables (páginas web, documentos externos) sin exponerse a instrucciones maliciosas escondidas en ese contenido (inyección de instrucciones o prompt injection). Le sirve a un médico que aprende análisis de datos porque, a medida que empiece a usar agentes de IA para revisar literatura o bases de datos, necesita entender estos riesgos de seguridad antes de confiar ciegamente en sus resultados.",
-      "destacado": false
-    },
-    "95b4ee5433ef": {
-      "resumen": "Towards Data Science explica por qué configurar la temperatura (el parámetro que regula la aleatoriedad de las respuestas) en 0 en un modelo de lenguaje grande (LLM, large language model) no garantiza que las respuestas sean siempre idénticas, por factores técnicos del hardware y el software que las ejecuta. Le sirve a un médico que aprende análisis de datos porque es clave entender esta limitación antes de usar IA para tareas donde se espera reproducibilidad exacta, como clasificar datos clínicos.",
-      "destacado": false
-    },
     "a786585932c3": {
       "resumen": "Simon Willison cuenta que el videojuego Dwarf Fortress, famoso por su complejidad, ahora usa control de versiones (el sistema que registra cambios en el código a lo largo del tiempo, como Git) en su propio desarrollo. Le sirve a un médico que aprende análisis de datos porque el control de versiones es una herramienta básica para llevar un historial ordenado y reproducible de scripts y análisis, no solo de código de videojuegos.",
-      "destacado": false
-    },
-    "b7af4faddbdb": {
-      "resumen": "Un usuario de Hacker News construyó WallHop, un reemplazo de 12ft.io (una herramienta que permitía esquivar paywalls de sitios de noticias) luego de que ese servicio dejara de funcionar. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de scraping web (extracción automatizada de contenido de páginas) y de las limitaciones éticas y técnicas de sortear restricciones de acceso.",
       "destacado": false
     },
     "ffe9771dd0f2": {
       "resumen": "Simon Willison reporta que Python 3.15.0 ya está disponible en actions/python-versions, el repositorio que usa GitHub Actions (el sistema de automatización de GitHub) para instalar versiones de Python en flujos de trabajo automatizados. Le sirve a un médico que aprende análisis de datos porque Python es el lenguaje más usado para análisis de datos, y conviene saber cuándo una nueva versión ya está lista para usarse en pipelines automatizados.",
       "destacado": false
     },
-    "abaf3a9de504": {
-      "resumen": "Un posteo en Hacker News explica cómo construir un modelo de decisión propio, es decir, un sistema simple para ponderar criterios y tomar decisiones de forma más estructurada que a ojo. Le sirve a un médico que aprende análisis de datos porque introduce, de forma accesible, la lógica detrás de los modelos de puntaje y decisión que también se usan en escalas de riesgo clínico.",
-      "destacado": false
+    "763ad44f5517": {
+      "resumen": "TCTMD (plataforma de noticias en cardiología intervencionista) resume el documento de consenso 2026 del ACC (American College of Cardiology, Colegio Americano de Cardiología) sobre el manejo óptimo de la hipertensión arterial resistente. Vale la pena mirarlo porque condensa en una guía práctica los pasos diagnósticos (confirmar adherencia y descartar causas secundarias) y terapéuticos para esta forma de hipertensión difícil de controlar."
     },
-    "1f4b55400949": {
-      "resumen": "Housing Over Pizza es un juego satírico de construcción de ciudades en el que, a diferencia de SimCity, la propia ciudad se resiste activamente a que el jugador construya viviendas, en referencia a las trabas reales a la construcción urbana (zonificación, audiencias vecinales). Le sirve a un médico que aprende análisis de datos como una forma lúdica de pensar en sistemas con múltiples actores e incentivos en conflicto, algo común también en los sistemas de salud.",
-      "destacado": false
+    "39827a99d9ed": {
+      "resumen": "Un usuario de r/datascience describe los cuatro tipos de estudios de caso (case studies) que suelen tomarse en las entrevistas de trabajo de ciencia de datos en 2026: de producto, técnicos, de análisis exploratorio y de diseño de experimentos. Le sirve a un médico que aprende análisis de datos porque anticipa qué tipo de evaluación práctica puede encontrar si busca reconvertirse laboralmente hacia ese campo."
     },
-    "611aad146f37": {
-      "resumen": "Según el Financial Times, Nvidia estaría en conversaciones para adquirir Reflection AI, una startup estadounidense que desarrolla modelos de inteligencia artificial (IA) de peso abierto (open weight, es decir, con los parámetros del modelo disponibles públicamente). Le sirve a un médico que aprende análisis de datos porque el mercado de modelos de IA abiertos frente a cerrados define qué herramientas va a poder usar, auditar y correr localmente a futuro.",
-      "destacado": false
+    "037b769ce222": {
+      "resumen": "Un posteo muy comentado en Hacker News sostiene que, aunque la inteligencia artificial (IA) generativa automatice buena parte del trabajo técnico, sigue siendo imprescindible pensar críticamente los problemas antes de delegarlos en una herramienta de IA. Le sirve a un médico que aprende análisis de datos como recordatorio de no delegar ciegamente el razonamiento estadístico o clínico en un asistente de IA sin revisar su lógica."
     },
-    "1769f1977c5d": {
-      "resumen": "Se conocieron todos los resultados de la jornada del Torneo Sudamericano de rugby seven que se disputa en Villa Carlos Paz, Córdoba."
+    "502c64386a2a": {
+      "resumen": "Hacker News difunde una investigación periodística según la cual nuevos documentos suman evidencia a la causa por presunto engaño climático contra ExxonMobil. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo el análisis documental y de grandes volúmenes de registros corporativos puede sostener (o refutar) una hipótesis en un litigio, una lógica cercana a la auditoría de datos."
     },
-    "dc3dc8c426b9": {
-      "resumen": "Los Pumas Sevens arrancaron con el pie derecho su participación en el Torneo Sudamericano."
+    "a389c86fcd7c": {
+      "resumen": "Towards Data Science presenta una guía práctica sobre la nueva API de Decisiones (Decisions API) de OpenAI, una herramienta pensada para que los modelos de lenguaje (LLM, large language model) tomen decisiones estructuradas en lugar de solo generar texto libre. Le sirve a un médico que aprende análisis de datos porque muestra cómo pasar de usar IA generativa para redactar a usarla para apoyar decisiones con criterios explícitos, algo cercano a los algoritmos de decisión clínica."
+    },
+    "0d8dcb1c8fdb": {
+      "resumen": "El matemático Terence Tao compartió en Caltech una presentación llamada \"Math 2.0\", sobre cómo las herramientas de inteligencia artificial (IA) y los asistentes de demostración formal están empezando a cambiar la forma de hacer y verificar matemática. Le sirve a un médico que aprende análisis de datos para entender hacia dónde avanza el uso de IA como colaborador en el razonamiento riguroso, no solo como generador de texto."
+    },
+    "3c939e9b14bb": {
+      "resumen": "Un artículo técnico explica que usar el símbolo tilde (~) en la variable de entorno PATH no siempre se expande al directorio HOME del usuario como uno esperaría, lo que puede generar errores silenciosos en scripts. Le sirve a un médico que aprende análisis de datos porque es un detalle concreto a tener en cuenta al escribir o depurar scripts y pipelines de análisis en la terminal."
+    },
+    "ef0138707a0c": {
+      "resumen": "Towards Data Science repasa seis patrones arquitectónicos avanzados para construir sistemas agénticos (agentic systems), es decir, programas basados en modelos de lenguaje grande (LLM) que planifican y ejecutan tareas de forma más o menos autónoma, más allá del esquema básico de razonar y actuar (ReAct). Le sirve a un médico que aprende análisis de datos porque anticipa cómo se están diseñando en la práctica los asistentes de IA confiables para tareas complejas, útil si en el futuro quiere automatizar partes de su flujo de análisis."
+    },
+    "37a29887b2cb": {
+      "resumen": "Argentina presentó, junto con Uruguay, Chile y Brasil, una candidatura conjunta para ser sede del Mundial de Rugby 2035."
+    },
+    "85c6d8407498": {
+      "resumen": "Los Pumas 7's vencieron a Chile y se metieron en la final del Sudamericano de rugby seven que se juega en Córdoba."
     }
   }
 }

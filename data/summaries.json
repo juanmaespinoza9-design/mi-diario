@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T10:07:16Z",
+  "generated_at": "2026-10-12T22:07:25Z",
   "summaries": {
     "79da959693d4": {
       "resumen": "Artículo de European Heart Journal vinculado a las guías de la ESC (European Society of Cardiology, Sociedad Europea de Cardiología) que repasa los mecanismos fisiopatológicos de la miocarditis y suma evidencia novedosa sobre su tratamiento con antagonistas del receptor de mineralocorticoides (ARM), glucósidos cardíacos (como la digoxina) y agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1). Vale la pena mirarlo porque actualiza el enfoque terapéutico de una entidad con pocas opciones basadas en evidencia sólida hasta ahora.",
@@ -9,11 +9,6 @@
       "resumen": "El trasplante cardíaco con donantes tras muerte circulatoria (DCD, por su sigla en inglés: donation after circulatory death) viene creciendo en el mundo como alternativa a los donantes con muerte cerebral, y permite ampliar el pool de órganos disponibles. Esta nota de TCTMD repasa cómo la experiencia acumulada muestra diferencias regionales en los protocolos de preservación y en los resultados, algo relevante para cualquier programa de trasplante que esté evaluando sumar esta vía.",
       "destacado": false,
       "analisis": "Diseño: Nota periodística de TCTMD que resume la experiencia acumulada (tipo registro o revisión de series de distintos centros) sobre trasplante cardíaco con donantes DCD (donación después de muerte circulatoria) en distintas regiones del mundo.\nPoblación: Programas de trasplante cardíaco de distintos países y centros que utilizan donantes DCD, sin un protocolo único entre ellos.\nIntervención: No hay un comparador formal; se describen distintos abordajes de preservación del injerto (por ejemplo perfusión regional normotérmica versus perfusión ex situ) según el centro.\nResultados: No hay cifras concretas de supervivencia, rechazo o complicaciones disponibles en el título ni en la nota original.\nLimitaciones: Al ser una nota periodística y no un estudio con metodología explícita, no hay datos cuantitativos verificables; la heterogeneidad entre centros dificulta comparar resultados entre regiones.\nMensaje: La donación DCD se consolida como una vía real para ampliar el pool de donantes cardíacos, pero las diferencias regionales en protocolos sugieren que todavía falta estandarización antes de generalizar su uso.\nNota: análisis sin acceso al abstract."
-    },
-    "91526e39eca4": {
-      "resumen": "TCTMD (plataforma de noticias en cardiología intervencionista) repasa los dispositivos Esprit y Motiv, dos stents bioabsorbibles (scaffolds que se disuelven con el tiempo) que estarían consolidándose en los procedimientos infrapatelares o por debajo de la rodilla (BTK, below-the-knee, por sus siglas en inglés) para la enfermedad arterial periférica. Vale la pena mirarlo porque los scaffolds bioabsorbibles buscan evitar dejar un cuerpo extraño metálico permanente en arterias pequeñas y de alto riesgo de reestenosis, un territorio donde las opciones actuales todavía son limitadas.",
-      "destacado": false,
-      "analisis": "Diseño: Nota de TCTMD que resume datos o resultados de seguimiento de los programas de los dispositivos Esprit BTK y Motiv, scaffolds bioabsorbibles para arterias infrapatelares; el título no precisa si se trata de un ensayo aleatorizado, un registro o un análisis combinado de ambos programas, ni el número de centros o pacientes.\nPoblación: No especificada en el título; presumiblemente pacientes con enfermedad arterial periférica avanzada o isquemia crónica que amenaza la extremidad (CLTI, chronic limb-threatening ischemia) con lesiones en arterias por debajo de la rodilla (BTK).\nIntervención: Implante de un scaffold bioabsorbible (Esprit o Motiv) en arterias infrapatelares, frente a angioplastia con balón u otro dispositivo metálico permanente como comparador habitual en este terreno.\nResultados: No disponibles en esta nota; el título solo transmite que ambos dispositivos \"están consolidándose\" (hit their stride), sin cifras de permeabilidad, salvataje de la extremidad ni intervalos de confianza.\nLimitaciones: Al ser una nota periodística y no el estudio original, no permite valorar el diseño, el tamaño muestral ni el riesgo de sesgo; además, los scaffolds bioabsorbibles en BTK todavía tienen seguimiento a largo plazo limitado.\nMensaje: Si los datos confirman buena performance, ampliaría las opciones de revascularización en un territorio donde el dispositivo metálico permanente es poco deseable, pero por ahora es una tendencia a seguir más que un cambio de práctica confirmado.\nNota: análisis sin acceso al abstract."
     },
     "03de61a8dada": {
       "resumen": "Artículo de perspectiva, probablemente publicado en JACC (Journal of the American College of Cardiology), que propone pasar de simplemente mapear las disparidades en salud cardiovascular a intervenir con estrategias de precisión ajustadas a cada población. Interesa porque traza una agenda de investigación en equidad cardiovascular que va más allá de describir el problema.",
@@ -49,47 +44,55 @@
       "resumen": "Simon Willison reporta que Python 3.15.0 ya está disponible en actions/python-versions, el repositorio que usa GitHub Actions (el sistema de automatización de GitHub) para instalar versiones de Python en flujos de trabajo automatizados. Le sirve a un médico que aprende análisis de datos porque Python es el lenguaje más usado para análisis de datos, y conviene saber cuándo una nueva versión ya está lista para usarse en pipelines automatizados.",
       "destacado": false
     },
-    "763ad44f5517": {
-      "resumen": "TCTMD (plataforma de noticias en cardiología intervencionista) resume el documento de consenso 2026 del ACC (American College of Cardiology, Colegio Americano de Cardiología) sobre el manejo óptimo de la hipertensión arterial resistente. Vale la pena mirarlo porque condensa en una guía práctica los pasos diagnósticos (confirmar adherencia y descartar causas secundarias) y terapéuticos para esta forma de hipertensión difícil de controlar."
-    },
-    "39827a99d9ed": {
-      "resumen": "Un usuario de r/datascience describe los cuatro tipos de estudios de caso (case studies) que suelen tomarse en las entrevistas de trabajo de ciencia de datos en 2026: de producto, técnicos, de análisis exploratorio y de diseño de experimentos. Le sirve a un médico que aprende análisis de datos porque anticipa qué tipo de evaluación práctica puede encontrar si busca reconvertirse laboralmente hacia ese campo."
-    },
     "a389c86fcd7c": {
-      "resumen": "Towards Data Science presenta una guía práctica sobre la nueva API de Decisiones (Decisions API) de OpenAI, una herramienta pensada para que los modelos de lenguaje (LLM, large language model) tomen decisiones estructuradas en lugar de solo generar texto libre. Le sirve a un médico que aprende análisis de datos porque muestra cómo pasar de usar IA generativa para redactar a usarla para apoyar decisiones con criterios explícitos, algo cercano a los algoritmos de decisión clínica."
-    },
-    "ef0138707a0c": {
-      "resumen": "Towards Data Science repasa seis patrones arquitectónicos avanzados para construir sistemas agénticos (agentic systems), es decir, programas basados en modelos de lenguaje grande (LLM) que planifican y ejecutan tareas de forma más o menos autónoma, más allá del esquema básico de razonar y actuar (ReAct). Le sirve a un médico que aprende análisis de datos porque anticipa cómo se están diseñando en la práctica los asistentes de IA confiables para tareas complejas, útil si en el futuro quiere automatizar partes de su flujo de análisis.",
-      "destacado": true
-    },
-    "ef3e3be51f6e": {
-      "resumen": "Cloudflare Radar (el panel público de métricas de tráfico de internet de Cloudflare) muestra que el tráfico de bots de Yandex (el buscador ruso) cayó un 99% tras un ataque a uno de sus centros de datos. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de cómo un dashboard de métricas en tiempo real permite detectar a simple vista una anomalía drástica en una serie temporal, algo aplicable a cualquier monitoreo de datos propio.",
-      "destacado": false
-    },
-    "2d26aa9c98fa": {
-      "resumen": "Hilo semanal fijo de r/datascience donde quienes están entrando o haciendo la transición hacia la ciencia de datos pueden hacer preguntas sobre carrera, estudios y primeros pasos. Le sirve a un médico que aprende análisis de datos porque es un espacio pensado justamente para alguien que viene de otra profesión y quiere reconvertirse, con preguntas frecuentes ya organizadas en un solo lugar.",
-      "destacado": false
-    },
-    "1e2da6b0b07c": {
-      "resumen": "Una nota de 2011 de American Scientist, recirculada en Hacker News, repasa qué pasó con la holografía, la técnica que prometía revolucionar el almacenamiento de datos y las pantallas tridimensionales y terminó con una adopción mucho más limitada que la esperada. Le sirve a un médico que aprende análisis de datos como recordatorio de que no toda tecnología con gran promesa inicial escala a uso masivo, una perspectiva útil para evaluar con escepticismo las promesas actuales sobre inteligencia artificial (IA).",
-      "destacado": false
-    },
-    "09279f7dec36": {
-      "resumen": "Un artículo técnico difundido en Hacker News explica que el \"fingerprinting\" (la identificación de un dispositivo por combinación única de características técnicas del navegador) está reemplazando a las cookies tradicionales como método de seguimiento de usuarios en la web. Le sirve a un médico que aprende análisis de datos para entender de dónde vienen y cómo se recolectan hoy los datos de comportamiento online, un tema central en privacidad de datos.",
-      "destacado": false
-    },
-    "1a24ba621aea": {
-      "resumen": "The Guardian reporta, vía Hacker News, que Google habría talado bosque en Finlandia sin cumplir con la evaluación de impacto ambiental requerida para construir un centro de datos. Le sirve a un médico que aprende análisis de datos como contrapunto necesario al entusiasmo por la inteligencia artificial (IA): el entrenamiento y uso de estos modelos tiene un costo físico y ambiental real en infraestructura, no es un recurso puramente abstracto.",
+      "resumen": "Towards Data Science presenta una guía práctica sobre la nueva API de Decisiones (Decisions API) de OpenAI, una herramienta pensada para que los modelos de lenguaje (LLM, large language model) tomen decisiones estructuradas en lugar de solo generar texto libre. Le sirve a un médico que aprende análisis de datos porque muestra cómo pasar de usar IA generativa para redactar a usarla para apoyar decisiones con criterios explícitos, algo cercano a los algoritmos de decisión clínica.",
       "destacado": false
     },
     "ffb6d3d62d50": {
       "resumen": "Un repaso a todos los resultados del Sudamericano de Seven, torneo en el que tanto Los Pumas 7's (masculino) como Las Yaguaretés (femenino) se consagraron campeones."
     },
-    "4bdd08b8d383": {
-      "resumen": "Los Pumas 7's se quedaron con el título del Sudamericano de rugby seven disputado en Carlos Paz."
+    "4e4731baf302": {
+      "resumen": "El ensayo PROMISE III evalúa la arterialización venosa profunda (un procedimiento que redirige flujo arterial hacia el sistema venoso para perfundir el pie en pacientes sin opción de revascularización convencional) en isquemia crónica que amenaza la extremidad, y reporta menos dolor al año de seguimiento. Vale la pena mirarlo porque es una alternativa a la amputación en pacientes sin lecho arterial para bypass o angioplastia.",
+      "destacado": false,
+      "analisis": "Diseño: Nota de TCTMD sobre el ensayo PROMISE III; el título no especifica si es aleatorizado, el número de centros ni de pacientes.\nPoblación: No especificada en el título; presumiblemente pacientes con isquemia crónica que amenaza la extremidad (CLTI, chronic limb-threatening ischemia) sin opción de revascularización arterial convencional.\nIntervención: Arterialización venosa profunda (deep vein arterialization), un procedimiento que redirige flujo arterial hacia el sistema venoso del pie; no se especifica comparador en el título.\nResultados: No disponibles en esta nota; el título solo indica reducción del dolor al año de seguimiento, sin cifras ni intervalos de confianza.\nLimitaciones: Al ser una nota periodística y no el estudio original, no se puede valorar el diseño, el tamaño muestral ni el riesgo de sesgo.\nMensaje: Si se confirma con más datos, ofrecería una alternativa a la amputación en pacientes sin lecho arterial para revascularización convencional, pero por ahora el beneficio reportado (menos dolor) es un criterio de valoración blando y debe confirmarse con desenlaces duros como salvataje de la extremidad.\nNota: análisis sin acceso al abstract."
     },
-    "a0479ced8718": {
-      "resumen": "Los seleccionados argentinos de rugby seven, Los Pumas 7's y Las Yaguaretés, se consagraron campeones sudamericanos."
+    "8e405952c7d5": {
+      "resumen": "Columna de opinión de un periodista de TCTMD que adelanta los siete temas que más le interesan del congreso TCT (Transcatheter Cardiovascular Therapeutics) 2026, el principal encuentro mundial de cardiología intervencionista. Vale la pena mirarlo como agenda anticipada de qué estudios y dispositivos van a marcar la discusión en los próximos meses.",
+      "destacado": false
+    },
+    "61c81a10bc74": {
+      "resumen": "KDnuggets compara ChatGPT, Claude y Gemini en tareas típicas de ciencia de datos (limpieza de datos, análisis exploratorio, visualización y código estadístico) para ver cuál rinde mejor en cada etapa del trabajo. Le sirve a un médico que se está formando en análisis de datos porque ayuda a elegir con criterio qué asistente de inteligencia artificial (IA) conviene usar según la tarea, en lugar de depender de uno solo por costumbre.",
+      "destacado": true
+    },
+    "e9eaf9fa7e26": {
+      "resumen": "Un usuario de r/datascience comparte benchmarks propios que comparan Jev, una herramienta nueva, contra ML/sklearn (scikit-learn, la biblioteca de aprendizaje automático más usada en Python). Le sirve a un médico que aprende análisis de datos para seguir de cerca si surgen alternativas que compitan en rendimiento con las herramientas estándar que ya está aprendiendo.",
+      "destacado": false
+    },
+    "ad755cb9b416": {
+      "resumen": "El autor relee su propia patente de IBM de 2016 sobre un sistema de feedback en tiempo real para conciertos y se da cuenta de que ya describía, sin llamarlo así, lo que hoy se conoce como un agente de inteligencia artificial (IA): un ciclo que percibe estímulos de distintos tipos, usa memoria para inferir y deja un humano en el circuito. Le sirve a un médico que aprende análisis de datos porque muestra con un ejemplo concreto qué componentes tiene un sistema agéntico, más allá de la etiqueta de moda.",
+      "destacado": false
+    },
+    "6b429388f7c4": {
+      "resumen": "KDnuggets selecciona diez modelos de Hugging Face (la plataforma más usada para compartir modelos de inteligencia artificial) que vale la pena conocer en 2026, abarcando texto, visión, audio y recuperación de información. Le sirve a un médico que aprende análisis de datos como mapa rápido de qué modelos probar según el tipo de dato con el que quiera trabajar, sin partir de cero.",
+      "destacado": false
+    },
+    "9315e9254be6": {
+      "resumen": "El autor diseñó una trampa para poner a prueba a modelos de inteligencia artificial (IA) que actúan como jueces de calidad de imágenes: varios modelos de visión ignoraron la imagen linda pero irrelevante, mientras que GPT-4o inventó respuestas y Claude repitió siempre la misma opción. Le sirve a un médico que aprende análisis de datos porque expone fallas reales al usar IA como evaluador automático, algo a tener en cuenta antes de confiar ciegamente en un modelo para validar resultados.",
+      "destacado": false
+    },
+    "00d7da5db797": {
+      "resumen": "El posteo sostiene que la mayoría de los llamados \"agentes de inteligencia artificial (IA)\" que se usan en producción en realidad funcionan como clasificadores con pasos adicionales, y que reconocerlo permite dar garantías estadísticas que un agente abierto no puede ofrecer. Le sirve a un médico que aprende análisis de datos porque ayuda a distinguir el marketing de IA de lo que realmente hay abajo, y a elegir la herramienta más simple y confiable para cada problema.",
+      "destacado": false
+    },
+    "5528ba1d9cba": {
+      "resumen": "Simon Willison cita una nota del New York Times según la cual agentes de inteligencia artificial (IA) de Anthropic habrían sido usados para completar de forma autónoma 20 solicitudes de visa, lo que generó cuestionamientos sobre el uso de estos agentes para interactuar con sistemas oficiales sin supervisión directa. Le sirve a un médico que aprende análisis de datos como ejemplo de los límites éticos y regulatorios que empiezan a chocar con la autonomía creciente de estos agentes.",
+      "destacado": false
+    },
+    "e57dff3a8d54": {
+      "resumen": "Los seleccionados argentinos de rugby seven, masculino y femenino, se consagraron campeones del Sudamericano disputado en las sierras cordobesas."
+    },
+    "16e0a00a8c9f": {
+      "resumen": "Con jugadores tucumanos en el plantel, Los Pumas 7's y Las Yaguaretés volvieron a consagrarse campeones del Sudamericano de rugby seven."
     }
   }
 }

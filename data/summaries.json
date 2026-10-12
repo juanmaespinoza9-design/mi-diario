@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T22:06:14Z",
+  "generated_at": "2026-10-12T10:07:16Z",
   "summaries": {
     "79da959693d4": {
       "resumen": "Artículo de European Heart Journal vinculado a las guías de la ESC (European Society of Cardiology, Sociedad Europea de Cardiología) que repasa los mecanismos fisiopatológicos de la miocarditis y suma evidencia novedosa sobre su tratamiento con antagonistas del receptor de mineralocorticoides (ARM), glucósidos cardíacos (como la digoxina) y agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1). Vale la pena mirarlo porque actualiza el enfoque terapéutico de una entidad con pocas opciones basadas en evidencia sólida hasta ahora.",
@@ -41,10 +41,6 @@
       "destacado": true,
       "analisis": "Diseño: Nota de TCTMD sobre un análisis de registro (no aleatorizado) que compara los resultados de TAVI (implante percutáneo de válvula aórtica) y SAVR (reemplazo valvular aórtico quirúrgico) en la práctica real, contrastándolos con los hallazgos del ensayo aleatorizado DEDICATE-DZHK6; no se precisa el número de centros, pacientes del registro ni el período analizado.\nPoblación: Presumiblemente pacientes con estenosis aórtica severa sometidos a TAVI o SAVR en la práctica asistencial habitual, de perfil de riesgo similar al del ensayo DEDICATE-DZHK6 (pacientes añosos, riesgo quirúrgico bajo a intermedio).\nIntervención: TAVI frente a SAVR, comparando los resultados del registro con los del ensayo aleatorizado original.\nResultados: No disponibles en esta nota; el título solo indica que el análisis de registro \"atenúa\" la diferencia entre TAVI y SAVR observada en el ensayo DEDICATE-DZHK6, sin cifras de mortalidad, ACV (accidente cerebrovascular) ni intervalos de confianza.\nLimitaciones: Un registro no aleatorizado está sujeto a sesgo de selección (los pacientes no se asignan al azar entre TAVI y SAVR, sino por criterio clínico), lo que puede explicar por qué la diferencia del ensayo no se replica igual en la práctica real.\nMensaje: Sugiere que el beneficio de TAVI sobre SAVR visto en el ensayo aleatorizado podría ser menor en la práctica asistencial habitual, lo que invita a prudencia antes de extrapolar automáticamente los resultados de DEDICATE-DZHK6 a todos los pacientes.\nNota: análisis sin acceso al abstract."
     },
-    "95a4086d04bc": {
-      "resumen": "Un usuario de r/datascience comparte un manifiesto sobre la necesidad de diseñar con más rigor los estudios exploratorios (análisis de datos sin una hipótesis predefinida), en vez de tratarlos como un paso informal previo al estudio 'serio'. Le sirve a un médico que aprende análisis de datos porque buena parte de la investigación clínica propia arranca como exploración de una base, y pensar ese diseño con cuidado ayuda a evitar conclusiones espurias antes de plantear una hipótesis confirmatoria.",
-      "destacado": true
-    },
     "a786585932c3": {
       "resumen": "Simon Willison cuenta que el videojuego Dwarf Fortress, famoso por su complejidad, ahora usa control de versiones (el sistema que registra cambios en el código a lo largo del tiempo, como Git) en su propio desarrollo. Le sirve a un médico que aprende análisis de datos porque el control de versiones es una herramienta básica para llevar un historial ordenado y reproducible de scripts y análisis, no solo de código de videojuegos.",
       "destacado": false
@@ -59,29 +55,41 @@
     "39827a99d9ed": {
       "resumen": "Un usuario de r/datascience describe los cuatro tipos de estudios de caso (case studies) que suelen tomarse en las entrevistas de trabajo de ciencia de datos en 2026: de producto, técnicos, de análisis exploratorio y de diseño de experimentos. Le sirve a un médico que aprende análisis de datos porque anticipa qué tipo de evaluación práctica puede encontrar si busca reconvertirse laboralmente hacia ese campo."
     },
-    "037b769ce222": {
-      "resumen": "Un posteo muy comentado en Hacker News sostiene que, aunque la inteligencia artificial (IA) generativa automatice buena parte del trabajo técnico, sigue siendo imprescindible pensar críticamente los problemas antes de delegarlos en una herramienta de IA. Le sirve a un médico que aprende análisis de datos como recordatorio de no delegar ciegamente el razonamiento estadístico o clínico en un asistente de IA sin revisar su lógica."
-    },
-    "502c64386a2a": {
-      "resumen": "Hacker News difunde una investigación periodística según la cual nuevos documentos suman evidencia a la causa por presunto engaño climático contra ExxonMobil. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo el análisis documental y de grandes volúmenes de registros corporativos puede sostener (o refutar) una hipótesis en un litigio, una lógica cercana a la auditoría de datos."
-    },
     "a389c86fcd7c": {
       "resumen": "Towards Data Science presenta una guía práctica sobre la nueva API de Decisiones (Decisions API) de OpenAI, una herramienta pensada para que los modelos de lenguaje (LLM, large language model) tomen decisiones estructuradas en lugar de solo generar texto libre. Le sirve a un médico que aprende análisis de datos porque muestra cómo pasar de usar IA generativa para redactar a usarla para apoyar decisiones con criterios explícitos, algo cercano a los algoritmos de decisión clínica."
     },
-    "0d8dcb1c8fdb": {
-      "resumen": "El matemático Terence Tao compartió en Caltech una presentación llamada \"Math 2.0\", sobre cómo las herramientas de inteligencia artificial (IA) y los asistentes de demostración formal están empezando a cambiar la forma de hacer y verificar matemática. Le sirve a un médico que aprende análisis de datos para entender hacia dónde avanza el uso de IA como colaborador en el razonamiento riguroso, no solo como generador de texto."
-    },
-    "3c939e9b14bb": {
-      "resumen": "Un artículo técnico explica que usar el símbolo tilde (~) en la variable de entorno PATH no siempre se expande al directorio HOME del usuario como uno esperaría, lo que puede generar errores silenciosos en scripts. Le sirve a un médico que aprende análisis de datos porque es un detalle concreto a tener en cuenta al escribir o depurar scripts y pipelines de análisis en la terminal."
-    },
     "ef0138707a0c": {
-      "resumen": "Towards Data Science repasa seis patrones arquitectónicos avanzados para construir sistemas agénticos (agentic systems), es decir, programas basados en modelos de lenguaje grande (LLM) que planifican y ejecutan tareas de forma más o menos autónoma, más allá del esquema básico de razonar y actuar (ReAct). Le sirve a un médico que aprende análisis de datos porque anticipa cómo se están diseñando en la práctica los asistentes de IA confiables para tareas complejas, útil si en el futuro quiere automatizar partes de su flujo de análisis."
+      "resumen": "Towards Data Science repasa seis patrones arquitectónicos avanzados para construir sistemas agénticos (agentic systems), es decir, programas basados en modelos de lenguaje grande (LLM) que planifican y ejecutan tareas de forma más o menos autónoma, más allá del esquema básico de razonar y actuar (ReAct). Le sirve a un médico que aprende análisis de datos porque anticipa cómo se están diseñando en la práctica los asistentes de IA confiables para tareas complejas, útil si en el futuro quiere automatizar partes de su flujo de análisis.",
+      "destacado": true
     },
-    "37a29887b2cb": {
-      "resumen": "Argentina presentó, junto con Uruguay, Chile y Brasil, una candidatura conjunta para ser sede del Mundial de Rugby 2035."
+    "ef3e3be51f6e": {
+      "resumen": "Cloudflare Radar (el panel público de métricas de tráfico de internet de Cloudflare) muestra que el tráfico de bots de Yandex (el buscador ruso) cayó un 99% tras un ataque a uno de sus centros de datos. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de cómo un dashboard de métricas en tiempo real permite detectar a simple vista una anomalía drástica en una serie temporal, algo aplicable a cualquier monitoreo de datos propio.",
+      "destacado": false
     },
-    "85c6d8407498": {
-      "resumen": "Los Pumas 7's vencieron a Chile y se metieron en la final del Sudamericano de rugby seven que se juega en Córdoba."
+    "2d26aa9c98fa": {
+      "resumen": "Hilo semanal fijo de r/datascience donde quienes están entrando o haciendo la transición hacia la ciencia de datos pueden hacer preguntas sobre carrera, estudios y primeros pasos. Le sirve a un médico que aprende análisis de datos porque es un espacio pensado justamente para alguien que viene de otra profesión y quiere reconvertirse, con preguntas frecuentes ya organizadas en un solo lugar.",
+      "destacado": false
+    },
+    "1e2da6b0b07c": {
+      "resumen": "Una nota de 2011 de American Scientist, recirculada en Hacker News, repasa qué pasó con la holografía, la técnica que prometía revolucionar el almacenamiento de datos y las pantallas tridimensionales y terminó con una adopción mucho más limitada que la esperada. Le sirve a un médico que aprende análisis de datos como recordatorio de que no toda tecnología con gran promesa inicial escala a uso masivo, una perspectiva útil para evaluar con escepticismo las promesas actuales sobre inteligencia artificial (IA).",
+      "destacado": false
+    },
+    "09279f7dec36": {
+      "resumen": "Un artículo técnico difundido en Hacker News explica que el \"fingerprinting\" (la identificación de un dispositivo por combinación única de características técnicas del navegador) está reemplazando a las cookies tradicionales como método de seguimiento de usuarios en la web. Le sirve a un médico que aprende análisis de datos para entender de dónde vienen y cómo se recolectan hoy los datos de comportamiento online, un tema central en privacidad de datos.",
+      "destacado": false
+    },
+    "1a24ba621aea": {
+      "resumen": "The Guardian reporta, vía Hacker News, que Google habría talado bosque en Finlandia sin cumplir con la evaluación de impacto ambiental requerida para construir un centro de datos. Le sirve a un médico que aprende análisis de datos como contrapunto necesario al entusiasmo por la inteligencia artificial (IA): el entrenamiento y uso de estos modelos tiene un costo físico y ambiental real en infraestructura, no es un recurso puramente abstracto.",
+      "destacado": false
+    },
+    "ffb6d3d62d50": {
+      "resumen": "Un repaso a todos los resultados del Sudamericano de Seven, torneo en el que tanto Los Pumas 7's (masculino) como Las Yaguaretés (femenino) se consagraron campeones."
+    },
+    "4bdd08b8d383": {
+      "resumen": "Los Pumas 7's se quedaron con el título del Sudamericano de rugby seven disputado en Carlos Paz."
+    },
+    "a0479ced8718": {
+      "resumen": "Los seleccionados argentinos de rugby seven, Los Pumas 7's y Las Yaguaretés, se consagraron campeones sudamericanos."
     }
   }
 }

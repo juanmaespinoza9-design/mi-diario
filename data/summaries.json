@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-10-12T22:07:25Z",
+  "generated_at": "2026-10-13T10:07:50Z",
   "summaries": {
     "79da959693d4": {
       "resumen": "Artículo de European Heart Journal vinculado a las guías de la ESC (European Society of Cardiology, Sociedad Europea de Cardiología) que repasa los mecanismos fisiopatológicos de la miocarditis y suma evidencia novedosa sobre su tratamiento con antagonistas del receptor de mineralocorticoides (ARM), glucósidos cardíacos (como la digoxina) y agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1). Vale la pena mirarlo porque actualiza el enfoque terapéutico de una entidad con pocas opciones basadas en evidencia sólida hasta ahora.",
       "destacado": false
-    },
-    "84d68f37a123": {
-      "resumen": "El trasplante cardíaco con donantes tras muerte circulatoria (DCD, por su sigla en inglés: donation after circulatory death) viene creciendo en el mundo como alternativa a los donantes con muerte cerebral, y permite ampliar el pool de órganos disponibles. Esta nota de TCTMD repasa cómo la experiencia acumulada muestra diferencias regionales en los protocolos de preservación y en los resultados, algo relevante para cualquier programa de trasplante que esté evaluando sumar esta vía.",
-      "destacado": false,
-      "analisis": "Diseño: Nota periodística de TCTMD que resume la experiencia acumulada (tipo registro o revisión de series de distintos centros) sobre trasplante cardíaco con donantes DCD (donación después de muerte circulatoria) en distintas regiones del mundo.\nPoblación: Programas de trasplante cardíaco de distintos países y centros que utilizan donantes DCD, sin un protocolo único entre ellos.\nIntervención: No hay un comparador formal; se describen distintos abordajes de preservación del injerto (por ejemplo perfusión regional normotérmica versus perfusión ex situ) según el centro.\nResultados: No hay cifras concretas de supervivencia, rechazo o complicaciones disponibles en el título ni en la nota original.\nLimitaciones: Al ser una nota periodística y no un estudio con metodología explícita, no hay datos cuantitativos verificables; la heterogeneidad entre centros dificulta comparar resultados entre regiones.\nMensaje: La donación DCD se consolida como una vía real para ampliar el pool de donantes cardíacos, pero las diferencias regionales en protocolos sugieren que todavía falta estandarización antes de generalizar su uso.\nNota: análisis sin acceso al abstract."
     },
     "03de61a8dada": {
       "resumen": "Artículo de perspectiva, probablemente publicado en JACC (Journal of the American College of Cardiology), que propone pasar de simplemente mapear las disparidades en salud cardiovascular a intervenir con estrategias de precisión ajustadas a cada población. Interesa porque traza una agenda de investigación en equidad cardiovascular que va más allá de describir el problema.",
@@ -31,26 +26,6 @@
       "destacado": false,
       "analisis": "Diseño: Nota de TCTMD que resume datos clínicos (probablemente de ensayos de fase 2 o 3) sobre dos agonistas incretínicos -retatrutide, agonista triple de los receptores de GIP (polipéptido insulinotrópico dependiente de glucosa), GLP-1 y glucagón, y survodutide, agonista dual de GLP-1 y glucagón- en la pérdida de peso de pacientes con diabetes; el título no especifica fase del ensayo, número de centros ni de pacientes.\nPoblación: No especificada en el título; presumiblemente adultos con diabetes tipo 2 y sobrepeso u obesidad.\nIntervención: Retatrutide o survodutide frente a placebo u otro comparador no especificado.\nResultados: No disponibles en esta nota; el título solo indica que ambos agentes \"hacen progresos\" en la pérdida de peso en este subgrupo, sin cifras de porcentaje de descenso de peso, HbA1c (hemoglobina glicosilada) ni intervalos de confianza.\nLimitaciones: Al ser una nota periodística sin el estudio original, no se puede valorar diseño, aleatorización ni riesgo de sesgo; la pérdida de peso en diabéticos suele ser menor que en no diabéticos, lo que condiciona la interpretación de ese progreso.\nMensaje: Si se confirma, ampliaría el arsenal terapéutico para el control de peso en diabéticos, un grupo que históricamente responde peor a estas terapias, pero sin datos cuantitativos no es posible estimar la magnitud real del beneficio.\nNota: análisis sin acceso al abstract."
     },
-    "5961aa04077f": {
-      "resumen": "Un análisis de registro de la vida real compara TAVI (implante percutáneo de válvula aórtica) y SAVR (cirugía de reemplazo valvular aórtico) y encuentra una diferencia más chica que la observada en el ensayo aleatorizado DEDICATE-DZHK6. Vale la pena mirarlo porque invita a tomar con cautela la extrapolación directa de los resultados de los grandes ensayos a la práctica clínica cotidiana.",
-      "destacado": true,
-      "analisis": "Diseño: Nota de TCTMD sobre un análisis de registro (no aleatorizado) que compara los resultados de TAVI (implante percutáneo de válvula aórtica) y SAVR (reemplazo valvular aórtico quirúrgico) en la práctica real, contrastándolos con los hallazgos del ensayo aleatorizado DEDICATE-DZHK6; no se precisa el número de centros, pacientes del registro ni el período analizado.\nPoblación: Presumiblemente pacientes con estenosis aórtica severa sometidos a TAVI o SAVR en la práctica asistencial habitual, de perfil de riesgo similar al del ensayo DEDICATE-DZHK6 (pacientes añosos, riesgo quirúrgico bajo a intermedio).\nIntervención: TAVI frente a SAVR, comparando los resultados del registro con los del ensayo aleatorizado original.\nResultados: No disponibles en esta nota; el título solo indica que el análisis de registro \"atenúa\" la diferencia entre TAVI y SAVR observada en el ensayo DEDICATE-DZHK6, sin cifras de mortalidad, ACV (accidente cerebrovascular) ni intervalos de confianza.\nLimitaciones: Un registro no aleatorizado está sujeto a sesgo de selección (los pacientes no se asignan al azar entre TAVI y SAVR, sino por criterio clínico), lo que puede explicar por qué la diferencia del ensayo no se replica igual en la práctica real.\nMensaje: Sugiere que el beneficio de TAVI sobre SAVR visto en el ensayo aleatorizado podría ser menor en la práctica asistencial habitual, lo que invita a prudencia antes de extrapolar automáticamente los resultados de DEDICATE-DZHK6 a todos los pacientes.\nNota: análisis sin acceso al abstract."
-    },
-    "a786585932c3": {
-      "resumen": "Simon Willison cuenta que el videojuego Dwarf Fortress, famoso por su complejidad, ahora usa control de versiones (el sistema que registra cambios en el código a lo largo del tiempo, como Git) en su propio desarrollo. Le sirve a un médico que aprende análisis de datos porque el control de versiones es una herramienta básica para llevar un historial ordenado y reproducible de scripts y análisis, no solo de código de videojuegos.",
-      "destacado": false
-    },
-    "ffe9771dd0f2": {
-      "resumen": "Simon Willison reporta que Python 3.15.0 ya está disponible en actions/python-versions, el repositorio que usa GitHub Actions (el sistema de automatización de GitHub) para instalar versiones de Python en flujos de trabajo automatizados. Le sirve a un médico que aprende análisis de datos porque Python es el lenguaje más usado para análisis de datos, y conviene saber cuándo una nueva versión ya está lista para usarse en pipelines automatizados.",
-      "destacado": false
-    },
-    "a389c86fcd7c": {
-      "resumen": "Towards Data Science presenta una guía práctica sobre la nueva API de Decisiones (Decisions API) de OpenAI, una herramienta pensada para que los modelos de lenguaje (LLM, large language model) tomen decisiones estructuradas en lugar de solo generar texto libre. Le sirve a un médico que aprende análisis de datos porque muestra cómo pasar de usar IA generativa para redactar a usarla para apoyar decisiones con criterios explícitos, algo cercano a los algoritmos de decisión clínica.",
-      "destacado": false
-    },
-    "ffb6d3d62d50": {
-      "resumen": "Un repaso a todos los resultados del Sudamericano de Seven, torneo en el que tanto Los Pumas 7's (masculino) como Las Yaguaretés (femenino) se consagraron campeones."
-    },
     "4e4731baf302": {
       "resumen": "El ensayo PROMISE III evalúa la arterialización venosa profunda (un procedimiento que redirige flujo arterial hacia el sistema venoso para perfundir el pie en pacientes sin opción de revascularización convencional) en isquemia crónica que amenaza la extremidad, y reporta menos dolor al año de seguimiento. Vale la pena mirarlo porque es una alternativa a la amputación en pacientes sin lecho arterial para bypass o angioplastia.",
       "destacado": false,
@@ -72,27 +47,52 @@
       "resumen": "El autor relee su propia patente de IBM de 2016 sobre un sistema de feedback en tiempo real para conciertos y se da cuenta de que ya describía, sin llamarlo así, lo que hoy se conoce como un agente de inteligencia artificial (IA): un ciclo que percibe estímulos de distintos tipos, usa memoria para inferir y deja un humano en el circuito. Le sirve a un médico que aprende análisis de datos porque muestra con un ejemplo concreto qué componentes tiene un sistema agéntico, más allá de la etiqueta de moda.",
       "destacado": false
     },
-    "6b429388f7c4": {
-      "resumen": "KDnuggets selecciona diez modelos de Hugging Face (la plataforma más usada para compartir modelos de inteligencia artificial) que vale la pena conocer en 2026, abarcando texto, visión, audio y recuperación de información. Le sirve a un médico que aprende análisis de datos como mapa rápido de qué modelos probar según el tipo de dato con el que quiera trabajar, sin partir de cero.",
+    "f92ac7742ea6": {
+      "resumen": "El ensayo VESALIUS-CV evaluó evolocumab (un anticuerpo monoclonal inhibidor de PCSK9, proproteína convertasa subtilisina/kexina tipo 9, que reduce el colesterol LDL) en pacientes con cirugía de revascularización miocárdica (CABG, coronary artery bypass graft) previa pero sin antecedente de infarto de miocardio (IM), y reportó una reducción de eventos cardiovasculares mayores (MACE, major adverse cardiovascular events). Vale la pena mirarlo porque extiende el beneficio de la terapia hipolipemiante intensiva a un subgrupo de pacientes coronarios crónicos que no suele estar representado en los grandes ensayos de prevención secundaria post-infarto.",
+      "destacado": true,
+      "analisis": "Diseño: Nota de TCTMD sobre el ensayo VESALIUS-CV; el título no especifica si es aleatorizado, doble ciego, el número de centros ni de pacientes.\nPoblación: Pacientes con cirugía de revascularización miocárdica (CABG) previa pero sin antecedente de infarto de miocardio (IM); no se detallan otros criterios de inclusión o exclusión en el título.\nIntervención: Evolocumab (inhibidor de PCSK9, proproteína convertasa subtilisina/kexina tipo 9) frente a un comparador no especificado (probablemente placebo sobre el tratamiento de base).\nResultados: No disponibles en esta nota; el título solo indica una reducción de eventos cardiovasculares mayores (MACE), sin cifras de razón de riesgo, intervalos de confianza ni valor de p.\nLimitaciones: Al ser una nota periodística y no el artículo original, no se puede valorar el diseño metodológico, el tamaño muestral ni el riesgo de sesgo; no hay datos cuantitativos para ponderar la magnitud real del beneficio.\nMensaje: Si se confirma con los datos completos, respaldaría extender la indicación de inhibidores de PCSK9 a pacientes coronarios crónicos post-CABG sin IM previo, un grupo de riesgo que hoy queda algo al margen de los ensayos clásicos de prevención secundaria.\nNota: análisis sin acceso al abstract."
+    },
+    "f26e06c3158a": {
+      "resumen": "Un estudio muestra que los pacientes rurales con aneurisma de aorta abdominal (AAA) reciben un seguimiento subóptimo antes y después de la reparación endovascular del aneurisma (EVAR, endovascular aneurysm repair), en comparación con los pacientes urbanos. Vale la pena mirarlo porque pone en evidencia una inequidad geográfica en el acceso a los controles necesarios para esta cirugía, con impacto potencial en las complicaciones a largo plazo.",
+      "destacado": false,
+      "analisis": "Diseño: Nota de TCTMD sobre un estudio (probablemente de registro o cohorte) que compara la calidad de la atención antes y después de la reparación endovascular del aneurisma (EVAR) entre pacientes rurales y urbanos con aneurisma de aorta abdominal (AAA); el título no especifica el número de centros, pacientes ni el diseño exacto.\nPoblación: Pacientes con aneurisma de aorta abdominal (AAA) sometidos a EVAR, estratificados según residencia rural o urbana.\nIntervención: No hay una intervención farmacológica o de dispositivo; se compara el proceso de atención (controles pre y posoperatorios) entre ambos grupos de residencia.\nResultados: No disponibles en esta nota; el título solo indica que la atención \"no es óptima\" para los pacientes rurales, sin cifras de adherencia a controles, complicaciones ni intervalos de confianza.\nLimitaciones: Al ser una nota periodística y no el estudio original, no se puede valorar el diseño, el tamaño muestral ni el ajuste por factores de confusión entre población rural y urbana.\nMensaje: Señala una brecha de acceso geográfico en el seguimiento de pacientes con AAA tratados con EVAR, lo que sugiere la necesidad de estrategias específicas de seguimiento a distancia o derivación para pacientes rurales.\nNota: análisis sin acceso al abstract."
+    },
+    "224c102190be": {
+      "resumen": "Un paper de investigación demuestra, con garantías formales, que un modelo de inteligencia artificial (IA) puede ocultar capacidades arbitrarias de manera demostrable, es decir, superar cualquier intento de auditoría externa sin dejar rastro detectable. Le sirve a un médico que aprende análisis de datos porque plantea un límite teórico serio a la confianza ciega en la transparencia de los modelos de IA que empiezan a usarse en la práctica clínica.",
       "destacado": false
     },
-    "9315e9254be6": {
-      "resumen": "El autor diseñó una trampa para poner a prueba a modelos de inteligencia artificial (IA) que actúan como jueces de calidad de imágenes: varios modelos de visión ignoraron la imagen linda pero irrelevante, mientras que GPT-4o inventó respuestas y Claude repitió siempre la misma opción. Le sirve a un médico que aprende análisis de datos porque expone fallas reales al usar IA como evaluador automático, algo a tener en cuenta antes de confiar ciegamente en un modelo para validar resultados.",
+    "9eb6e50af8e4": {
+      "resumen": "Investigadores lograron reprogramar células sanguíneas de un donante de 80 años en células madre (stem cells) cuya edad molecular, medida por relojes epigenéticos, resultó menor a 20 años. Aunque se publicó en una revista de biología del envejecimiento y no es estrictamente ciencia de datos, interesa porque este tipo de hallazgos se analiza con las mismas herramientas estadísticas y de aprendizaje automático que un médico en formación en análisis de datos está incorporando.",
       "destacado": false
     },
-    "00d7da5db797": {
-      "resumen": "El posteo sostiene que la mayoría de los llamados \"agentes de inteligencia artificial (IA)\" que se usan en producción en realidad funcionan como clasificadores con pasos adicionales, y que reconocerlo permite dar garantías estadísticas que un agente abierto no puede ofrecer. Le sirve a un médico que aprende análisis de datos porque ayuda a distinguir el marketing de IA de lo que realmente hay abajo, y a elegir la herramienta más simple y confiable para cada problema.",
+    "9ca2bcd34e54": {
+      "resumen": "Janas es un proyecto de código abierto que permite correr modelos de lenguaje grandes (LLM, large language model) más grandes que la memoria RAM disponible, transmitiendo los parámetros necesarios ('expertos', en modelos de mezcla de expertos) desde el disco de estado sólido (SSD) a medida que se usan. Le sirve a un médico que aprende análisis de datos porque muestra cómo correr modelos de IA potentes en hardware modesto, sin depender de servidores costosos.",
       "destacado": false
     },
-    "5528ba1d9cba": {
-      "resumen": "Simon Willison cita una nota del New York Times según la cual agentes de inteligencia artificial (IA) de Anthropic habrían sido usados para completar de forma autónoma 20 solicitudes de visa, lo que generó cuestionamientos sobre el uso de estos agentes para interactuar con sistemas oficiales sin supervisión directa. Le sirve a un médico que aprende análisis de datos como ejemplo de los límites éticos y regulatorios que empiezan a chocar con la autonomía creciente de estos agentes.",
+    "c41789c5590e": {
+      "resumen": "El autor argumenta que la inteligencia artificial (IA) generativa es una herramienta que, como cualquier otra, requiere habilidad para usarse bien, y que los resultados mediocres suelen reflejar un mal uso más que una limitación del modelo. Le sirve a un médico que aprende análisis de datos porque es un recordatorio práctico de que sacarle provecho a la IA exige desarrollar criterio propio, no solo hacer preguntas.",
       "destacado": false
     },
-    "e57dff3a8d54": {
-      "resumen": "Los seleccionados argentinos de rugby seven, masculino y femenino, se consagraron campeones del Sudamericano disputado en las sierras cordobesas."
+    "92f57cbc8464": {
+      "resumen": "Simon Willison repasa las novedades de Python 3.15, ya disponible, mientras despide el soporte de Python 3.10 y recién ahora empieza a usar funciones de Python 3.11 en sus propios proyectos. Le sirve a un médico que aprende análisis de datos porque Python es el lenguaje más usado en ciencia de datos, y conviene saber qué versiones conviene adoptar y cuáles ya quedaron obsoletas para mantener el entorno de trabajo actualizado.",
+      "destacado": false
     },
-    "16e0a00a8c9f": {
-      "resumen": "Con jugadores tucumanos en el plantel, Los Pumas 7's y Las Yaguaretés volvieron a consagrarse campeones del Sudamericano de rugby seven."
+    "77f4f8b2060f": {
+      "resumen": "KDnuggets analiza el fenómeno de los clones de software creados con inteligencia artificial (IA), como REA y ArtCraft, que logran recrear programas comerciales de Adobe y Microsoft mediante ingeniería inversa sin acceso al código original. Le sirve a un médico que aprende análisis de datos porque ilustra hasta qué punto la IA generativa ya puede reconstruir sistemas complejos a partir de su comportamiento observable, una capacidad con implicancias tanto técnicas como legales.",
+      "destacado": false
+    },
+    "93062c67d6f0": {
+      "resumen": "Simon Willison presenta web-edit, una herramienta pensada para editar archivos con datos sensibles (como credenciales) desde el navegador sin que esa información pase por un modelo de lenguaje (LLM). Le sirve a un médico que aprende análisis de datos porque muestra una práctica concreta de seguridad al trabajar con IA: evitar exponer datos sensibles al modelo cuando no es necesario que los vea.",
+      "destacado": false
+    },
+    "1a1954feb41c": {
+      "resumen": "Las Yaguaretés se consagraron campeonas con dos jugadoras entrerrianas como figuras del plantel."
+    },
+    "fb52b269c6a8": {
+      "resumen": "Los Pumas 7's y Las Yaguaretés lograron un doblete histórico que repercutió en todo el rugby sudamericano."
+    },
+    "d84fbcf7c567": {
+      "resumen": "Los Pumas 7s y Las Yaguaretés se coronaron campeones del Sudamericano de Seven disputado el 12 de octubre."
     }
   }
 }

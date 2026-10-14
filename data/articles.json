@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-10-14T18:43:35.634854+00:00",
+ "generated_at": "2026-10-14T23:18:47.022434+00:00",
  "sections": [
   {
    "id": "cardiologia",
    "title": "Cardiología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Early PCI Tied to Worse Outcomes in NSTEMI Patients With Stable HF",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQU9xSHhVb2lSc3JsR093S1dSUGdzeVVTOFFBNmtOV1JpS21Jc1QxMlQ0ZXFzYTcxOWUtbVEzbWY4YTFIcG9UWUhyZXk3ajhGbkk3a0Q1WF9HNHozank4eGt2bWpKbVFhMW1nenlnWGVBRmw1OHk5WV9TMmp5MUtVc0ZfbWc5eXh4d2c?oc=5",
+     "source": "TCTMD",
+     "published": "2026-10-14T19:29:17+00:00",
+     "id": "3bae74a956e6"
+    },
     {
      "title": "Viabahn VBX Stent Graft Gains FDA-Approved Indications in Complex Aortic Disease",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc3lnZG9FMFFISU9NbnFuNUNUcUlTMF9EaEFGUzVDWlNJRGNtTUl0QzZ4ZGw5aERCSjZHNTQ1WFVDNS16SjVZRGk2TzQ1cXZpWEJkVUhZRGlob3FyVENSN21lS2tQMmdvdjFCX1JvUDc1SW54OS1tUllhaEZuTGpxX2o4SVNZUGZnZEFUYnduTWlnV1NFQm80dUlMdF9RbmlrQWY0bXktVQ?oc=5",
@@ -19,6 +26,14 @@
      "source": "TCTMD",
      "published": "2026-10-14T15:18:30+00:00",
      "id": "bce6cf92d6a7"
+    },
+    {
+     "title": "Correction to: Development and Validation of the American Heart Association's PREVENT Equations",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42872321/",
+     "source": "Circulation",
+     "published": "2026-10-14T00:00:00+00:00",
+     "copete": "Khan SS et al. · Circulation",
+     "id": "a756a3c7d907"
     },
     {
      "title": "US Heart Failure Landscape Continues to Worsen: HF STATS 2026",
@@ -35,51 +50,52 @@
      "id": "bfe0c9385ac3"
     },
     {
-     "title": "Evolocumab Reduces MACE in Patients With Prior CABG But No MI: VESALIUS-CV",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRnRoajBrTkhuSFVmV3hwWHVLWUxXb3dFQ09FN0lGYklpNHo3S2owdlFFYUdRaGtuNEtvYlA4OWk3eUl5di1RSEVzcTlXWkw2N0F1YnNSTmJGd1FtenNOU1h1aHJMenpWSmZNLVJaVDlYQ09DX0h3b0xycDNtM3AyYmlrVWMzUFRLNGhkN2RGZE1hdw?oc=5",
-     "source": "TCTMD",
-     "published": "2026-10-12T17:40:28+00:00",
-     "id": "f92ac7742ea6"
-    },
-    {
-     "title": "ESC Guidelines, mechanisms of myocarditis, novel insights into treatment with mineralcorticoid receptor antagonists, cardiac glycosides, and GLP-1 receptor agonists",
-     "link": "https://academic.oup.com/eurheartj/article/47/38/5327/8898693?rss=1",
-     "source": "European Heart Journal",
-     "published": "2026-10-09T00:00:00+00:00",
-     "copete": "For image description, please refer to the figure legend and surrounding text.",
-     "id": "79da959693d4"
-    },
-    {
-     "title": "From Mapping Disparities to Precision in Cardiovascular Health Equity",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42841837/",
+     "title": "Making Sarcopenic Obesity Actionable for Heart Failure Prevention",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42872760/",
      "source": "JACC",
-     "published": "2026-10-07T00:00:00+00:00",
-     "copete": "Mehran R et al. · Journal of the American College of Cardiology",
-     "id": "03de61a8dada"
+     "published": "2026-10-13T00:00:00+00:00",
+     "copete": "Zhou X et al. · Journal of the American College of Cardiology",
+     "id": "869443fefcea"
     },
     {
-     "title": "AI in Medical Writing: Why JACC Does Not Require Disclosure",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42841557/",
+     "title": "Is the Sarcopenic Obesity Index a Pathophysiological Phenotype or Merely a Ratio?",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42872759/",
      "source": "JACC",
-     "published": "2026-10-06T00:00:00+00:00",
-     "copete": "Krumholz HM et al. · Journal of the American College of Cardiology",
-     "id": "02236c142216"
+     "published": "2026-10-13T00:00:00+00:00",
+     "copete": "Chen T et al. · Journal of the American College of Cardiology",
+     "id": "737c1eccf9e9"
     },
     {
-     "title": "Optimizing Blood Pressure Care in Patients With Resistant Hypertension: 2026 ACC Expert Consensus Decision Pathway: A Report of the American College of Cardiology Solution Set Oversight Committee",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42831847/",
+     "title": "Home Sweet Home: Redefining the Destination of Heart Failure Care",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42872758/",
      "source": "JACC",
-     "published": "2026-10-05T00:00:00+00:00",
-     "copete": "Davis LL et al. · Journal of the American College of Cardiology",
-     "id": "13e0f5531344"
+     "published": "2026-10-13T00:00:00+00:00",
+     "copete": "Gilotra NA et al. · Journal of the American College of Cardiology",
+     "id": "0644f0a8261c"
     },
     {
-     "title": "FFR(CT): So Close, Yet So Far",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42841838/",
+     "title": "Early Discharge Strategy Including Subcutaneous Furosemide in Hospitalized Heart Failure",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42872757/",
      "source": "JACC",
-     "published": "2026-09-28T00:00:00+00:00",
-     "copete": "Kadoya Y et al. · Journal of the American College of Cardiology",
-     "id": "2e8f2667b082"
+     "published": "2026-10-13T00:00:00+00:00",
+     "copete": "Campbell RT et al. · Journal of the American College of Cardiology",
+     "id": "47532228f037"
+    },
+    {
+     "title": "Multidisciplinary Approach to Antiplatelet Management in Coronary Syndromes: A Scientific Statement From the American Heart Association",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42866888/",
+     "source": "Circulation",
+     "published": "2026-10-13T00:00:00+00:00",
+     "copete": "Beavers CJ et al. · Circulation",
+     "id": "13f747337e12"
+    },
+    {
+     "title": "Dual Control of Low-Density Lipoprotein Cholesterol Levels by ANGPTL3 and ANGPTL8",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42866886/",
+     "source": "Circulation",
+     "published": "2026-10-13T00:00:00+00:00",
+     "copete": "Xu Y et al. · Circulation",
+     "id": "579fb02e981d"
     }
    ]
   },
@@ -89,33 +105,81 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "En un cruce clave por la clasificación a las copas, Gimnasia visita a Huracán",
+     "link": "https://www.ole.com.ar/futbol-primera/gimnasia-huracan-lp-torneo-clausura-reducido-anual-fecha-13_0_1ClcP5W35V.html",
+     "source": "Olé — Primera",
+     "published": "2026-10-14T23:00:13+00:00",
+     "copete": "Con la cima de la Zona B en juego y una tabla anual que arde, el Lobo visita al Globo en una cancha que, en el último tiempo, le fue más que esquiva.",
+     "id": "caafe5477a89"
+    },
+    {
+     "title": "Independiente se juega el futuro ante Racing: qué puede pasar con Viera despendiendo del escenario",
+     "link": "https://www.ole.com.ar/independiente/jadsonviera-independiente-racing-cilindro_0_m8d74z6Zop.html",
+     "source": "Olé — Primera",
+     "published": "2026-10-14T22:48:40+00:00",
+     "copete": "El técnico del Rojo no tendrá la continuidad asegurada en caso de sufrir una derrota en el clásico de Avellaneda.",
+     "id": "47e169767b1e"
+    },
+    {
+     "title": "Los errores defensivos de River en el partido ante Sarmiento",
+     "link": "https://www.ole.com.ar/futbol-primera/river-sarmiento-mejoresmomentos-videos-torneoclausura-fecha11_0_RYJuR1WIY1.html",
+     "source": "Olé — River",
+     "published": "2026-10-14T22:40:15+00:00",
+     "copete": "El CARP, que pierde ante el Verde, ya cometió varios errores en defensa que lo llevan a remar de atrás el resultado.",
+     "id": "11aa9d67a02f"
+    },
+    {
+     "title": "Unión, obligado a reaccionar: ¿qué necesita para meterse en los playoffs del Clausura?",
+     "link": "https://www.ole.com.ar/futbol-primera/union-clasificacion-octavosdefinal-torneoclausura_0_i3b9TFVAdR.html",
+     "source": "Olé — Primera",
+     "published": "2026-10-14T22:32:55+00:00",
+     "copete": "El Tatengue, que no gana hace cuatro partidos, está a cuatro puntos de la zona de clasificación y quedó obligado a cambiar la cara en este final de torneo.",
+     "id": "5f53855fe59c"
+    },
+    {
+     "title": "Video: el caótico ingreso de los hinchas de River al estadio de Sarmiento",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-caotico-ingreso-hinchas-estadio-sarmiento-junin_0_yKITgj2tHo.html",
+     "source": "Olé — River",
+     "published": "2026-10-14T22:17:00+00:00",
+     "copete": "En la previa del partido en Junín hubo corridas, empujones y muchos que lograron ingresar sin entrada.",
+     "id": "9201fdb2b9e6"
+    },
+    {
+     "title": "Sarmiento vs. River, EN VIVO: sorprendieron al Millonario y partido cuesta arriba",
+     "link": "https://www.ole.com.ar/futbol-primera/sarmiento-vs-river-vivo-dia-hora-juegan-ver-vivo-torneo-clausura-2026-hora-tv-fomaciones-mam-minuto-minuto_0_jd450kcfPq.html",
+     "source": "Olé — River",
+     "published": "2026-10-14T21:55:00+00:00",
+     "copete": "Con un gol de Julián Contrera, el Verde le gana bien al Millonario en Junín. El equipo de Ponzio va con todo por el empate. Seguilo en Olé.",
+     "id": "403882353e6a"
+    },
+    {
+     "title": "Operativo Beltrán: el plan de Fiorentina para tener en diciembre al arquero de River",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-interes-fiorentina-oferta-santiago-beltran_0_KtuE6M1ZtX.html",
+     "source": "Olé — River",
+     "published": "2026-10-14T21:25:00+00:00",
+     "copete": "La Viola busca a Santiago y en Núñez reconocen que ya hubo un contacto inicial entre los clubes.",
+     "id": "2d958fd7a1b7"
+    },
+    {
+     "title": "El SVNS 2 confirmó las fechas para Los Pumas y Las Yaguaretés",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYnJDQnBqRGtUWXUwdnNYVVMxMFpUSVJsYUtNVnFGMm1JYVU3dDk0UmdrbEkxTHMyWkpib01YYmczVHZmRnNadl9aLUxjWFo5cl91Wm4zM0hMU3pLVHphMkI5NTFfWnhXMUpaZFZOcFBvRF8xWDl6WnF5NHJyRjZtYnNsai1WOTZFOXVHbHdib25TVG9SQ0pWU0VYdjQ?oc=5",
+     "source": "GN Noticias",
+     "published": "2026-10-14T19:31:00+00:00",
+     "id": "38b0d98b6198"
+    },
+    {
+     "title": "Concentración de Menores de 19 años en Villa Carlos Paz",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbXRneVEzc0tjYjU4RmVaU000SE1oZTlKaEVvTlV5WnRSN1hTRWhhRGFlZ25xWmdQRUNyLVUtU2dmWEVDMVBVazdoR3kxbF9ya3A3TFdJTHphNm9iN2ZDMVppWE9jZnRGRWdyTHlvc3BRNHF5ellvbUYyNzROcHN3X3lFdDJSeXpzRV9fQ2pUZUQ3cXBaeFR2Rw?oc=5",
+     "source": "Rugby Champagne",
+     "published": "2026-10-14T16:32:00+00:00",
+     "id": "7f57b608c17e"
+    },
+    {
      "title": "Los Pumas sacuden al rugby inglés con la llegada de Shaun Edwards: “¿Qué?”",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeWFENV80dElQVVUxVUZXSWtQclpHeXdhNmdPSDlEcUpRMnlHOGs5UDBzQnFiSk5QV3BJSVY0TnJPT2dlSDlvWEJXWUJFMFFNcXVRaUI0Z0xpWjBfMDNvel9INEc3b1dGNE4xcWIxVnVrX21PcndCMko4d1FZYUpkdXRSZXBUT2xqazJMZ2U3dkJMYzJ3ZjFGWGRwRQ?oc=5",
      "source": "Cordoba XV",
      "published": "2026-10-14T15:44:39+00:00",
      "id": "be2d33fcfc02"
-    },
-    {
-     "title": "Los dos antecedentes de Facundo Tello en el Clásico de Avellaneda",
-     "link": "https://www.ole.com.ar/futbol-primera/antecedentes-facundo-tello-clasico-avellaneda-racing-independiente_0_lzcHbGEpvR.html",
-     "source": "Olé — Primera",
-     "published": "2026-10-14T15:07:38+00:00",
-     "copete": "El referí internacional dirigirá por tercera vez un partido oficial entre Racing e Independiente, aunque será su estreno en el Cilindro.",
-     "id": "9362fb757171"
-    },
-    {
-     "title": "Shaun Edwards, el hombre de acero que llega a los Pumas con su Blitz Defence para evitar tries fáciles",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcDRGWW5GMFpLRDFRMzk3TTVTTnNyb3lYd1Njb285R2daX3hkOGZsSEl2U2NoYWFjdVQxM3lReTFNYkM4M3A1b3EtNkhTNlY2UWhQMWdJLTlSbWlULURURUY1SVJtUlRKRldvOFRSVXZqcVZVSU9xR2hWd0pKZGRhZGtBVmxGTjVtMEhRMTdWS2o4a3dIa1B3NVN1VEpNbkxGZHNJcGhIOW1UVW90VnRQV1o4UGxsREhncXZaN2xfOG5IX3FEQ1IydjVwX2x2eWU4VkhDMHMxbExqSE9OQkNoeHZJZw?oc=5",
-     "source": "La Nación",
-     "published": "2026-10-14T14:53:00+00:00",
-     "id": "f9398264ee3e"
-    },
-    {
-     "title": "Un nuevo programa de Rugby Champagne Federal con invitados de lujo",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRXlGWTFQMEdxMDdLdFctVW9aTmk0SS02aVdZMDBFZThrNHA1VnJfWU1kdmhkNUxIb2FCTWpBOG05THBtNWFJXzNzbHVfX3lGLUJhZHktWlJkOGRyb0FJbVVnbFRLZVU5Z2ozak83anFPanBqUy11cnVid1h0MEpabEFLeEk1UkE4M1phM2YwclR4QUNhNXN0aVdtZVZoM3BjTTZQY3lwRmNqcTVIcno5WW5wSVU2d3VITXhJa0NabFhFZw?oc=5",
-     "source": "Rugby Champagne",
-     "published": "2026-10-14T14:38:40+00:00",
-     "id": "f8e553c4de81"
     },
     {
      "title": "Le ganó al River de Fillol y Merlo, pero nunca pudo repetirlo: el desafío histórico de Sarmiento",
@@ -126,68 +190,12 @@
      "id": "f69a4f612187"
     },
     {
-     "title": "Santi Sosa y una victoria especial por su pasado en River: \"Me puso contento ganar acá\"",
-     "link": "https://www.ole.com.ar/futbol-internacional/sudamericana/santi-sosa-victoria-especial-pasado-river-contento-ganar-aca-boca-bombonera-sudamericana-semi-vasco_0_FedmkY5KvM.html",
-     "source": "Olé — River",
-     "published": "2026-10-14T14:10:44+00:00",
-     "copete": "En charla con Olé, el argentino festejó el triunfazo de Vasco en la Bombonera, reconoció que \"se nota\" la ausencia de Paredes y pidió jugar la vuelta en el Maracaná.",
-     "id": "1853f85f974b"
-    },
-    {
-     "title": "A qué hora se juega Sarmiento vs. River y cómo ver hoy EN VIVO el Torneo Clausura",
-     "link": "https://www.ole.com.ar/futbol-primera/sarmiento-vs-river-vivo-dia-hora-juegan-ver-vivo-torneo-clausura-2026-hora-tv-fomaciones-mam-minuto-minuto_0_jd450kcfPq.html",
-     "source": "Olé — River",
-     "published": "2026-10-14T13:23:24+00:00",
-     "copete": "El Millonario de Ponzio visita al Verde en Junín por el duelo postergado de la 11° fecha del campeonato. Seguilo en Olé.",
-     "id": "403882353e6a"
-    },
-    {
-     "title": "De hacer delivery y pensar en el retiro a pelear el Clausura: Matías Borgogno, el arquero revelación de Defensa",
-     "link": "https://www.ole.com.ar/defensa-y-justicia/matias-borgogno-ole-entrevista-defensa-justicia_0_ZWon7TOQWy.html",
-     "source": "Olé — Primera",
-     "published": "2026-10-14T11:34:28+00:00",
-     "copete": "El cordobés charló a corazón abierto con Olé para recordar cómo fueron sus inicios en la pensión de Vélez, su ascenso con San Martín de San Juan, su paso por Platense y su presente en el Halcón, donde sueña con ser campeón.",
-     "id": "469bda5237dc"
-    },
-    {
-     "title": "Los memes tras la derrota de Boca ante Vasco da Gama",
-     "link": "https://www.ole.com.ar/futbol-internacional/sudamericana/boca-vascodagama-copasudamericana-bombonera-memes_0_CILL5sQLPY.html",
-     "source": "Olé — Primera",
-     "published": "2026-10-14T02:49:32+00:00",
-     "copete": "Las gastadas en la red social X luego del 1 a 0 del equipo carioca en la Bombonera explotaron. Mirá.",
-     "id": "d0a588e89b2e"
-    },
-    {
-     "title": "El último tren de River: todo lo que se juega contra Sarmiento",
-     "link": "https://www.ole.com.ar/river-plate/river-sarmiento-torneo-clausura-partido-hora-formacion-libertadores-anual-playoff-posicion-puntos_0_ZryH9sHRPp.html",
-     "source": "Olé — River",
-     "published": "2026-10-14T01:08:12+00:00",
-     "copete": "El equipo de Leonardo Ponzio va a Junín con la necesidad imperiosa de un triunfo para mantener viva la ilusión de la anual y meterse en playoffs.",
-     "id": "d0b68622813e"
-    },
-    {
-     "title": "Con un debutante y el regreso de Ortega, los 24 convocados de River para visitar a Sarmiento",
-     "link": "https://www.ole.com.ar/river-plate/river-leonardoponzio-sarmiento-santiagoespindola-franciscoortega_0_uKBEsUHpVN.html",
-     "source": "Olé — River",
-     "published": "2026-10-13T23:59:44+00:00",
-     "copete": "Ponzio apuesta por un volante juvenil de 18 años para sumarle frescura al equipo junto al atrevido y punzante Lautaro Pereyra: podría seguir en el 11.",
-     "id": "75f7d7f850ad"
-    },
-    {
      "title": "Concentración M19 en Carlos Paz",
      "link": "https://uar.com.ar/concentracion-m19-en-carlos-paz/",
      "source": "UAR",
      "published": "2026-10-13T20:16:44+00:00",
      "copete": "Tras ser sede del reciente Nacional de Clubes Femenino y el Sudamericano de Seven, Carlos Paz se prepara para recibir 40 jugadores M19 que se reunirán en una Concentración que se extenderá hasta el domingo 18 de octubre. El encuentro no…",
      "id": "fa0c3a91486b"
-    },
-    {
-     "title": "Los Pumas 7’s y Las Yaguaretés campeones sudamericanos",
-     "link": "https://uar.com.ar/los-pumas-7s-y-las-yaguaretes-campeones-sudamericanos/",
-     "source": "UAR",
-     "published": "2026-10-11T21:56:20+00:00",
-     "copete": "Una vez más el rugby argentino de Seven se hizo fuerte en la región. Tanto el seleccionado masculino, como también el femenino, se consagraron de manera invicta en el Sudamericano de Seven, esta vez disputado en el Carlos Paz Rugby Club de…",
-     "id": "99579c7b8127"
     }
    ]
   },
@@ -197,11 +205,32 @@
    "mode": "resumen",
    "items": [
     {
-     "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-     "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+     "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+     "link": "https://typesafe.ai/blog/jev-1-14",
      "source": "Hacker News (100+ puntos)",
-     "published": "2026-10-14T17:45:23+00:00",
-     "id": "1d15ef475cf5"
+     "published": "2026-10-14T21:11:03+00:00",
+     "id": "33ee12614553"
+    },
+    {
+     "title": "OpenCode 2.0",
+     "link": "https://anoma.ly/notes/opencode-2-0/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-10-14T20:48:24+00:00",
+     "id": "a4e6a72e3ac2"
+    },
+    {
+     "title": "Anthropic's Scion is heavily inspired by Mononoke",
+     "link": "https://sunshowers.io/posts/anthropic-mononoke/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-10-14T20:30:54+00:00",
+     "id": "e72a95f279e3"
+    },
+    {
+     "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+     "link": "https://blog.cloudflare.com/yandex-outage/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-10-14T20:29:13+00:00",
+     "id": "aad24f89887b"
     },
     {
      "title": "AI is mass decompiling games. That's both awesome and scary.",
@@ -212,26 +241,12 @@
      "id": "8560636ebc00"
     },
     {
-     "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
-     "link": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-10-14T16:24:11+00:00",
-     "id": "66cf47272c3c"
-    },
-    {
      "title": "Does Stacking Beat Your Best Model?",
      "link": "https://towardsdatascience.com/does-stacking-beat-your-best-model/",
      "source": "Towards Data Science",
      "published": "2026-10-14T15:30:00+00:00",
      "copete": "It only helps when your models make different mistakes. The post Does Stacking Beat Your Best Model? appeared first on Towards Data Science .",
      "id": "09349a5527db"
-    },
-    {
-     "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-     "link": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-10-14T14:38:55+00:00",
-     "id": "15d18554dbbc"
     },
     {
      "title": "How Do Word Embeddings Capture Relationships Between Words?",
@@ -242,14 +257,6 @@
      "id": "20256f21c6ce"
     },
     {
-     "title": "Few-Shot Text Classification with Scikit-LLM",
-     "link": "https://www.kdnuggets.com/few-shot-text-classification-with-scikit-llm",
-     "source": "KDnuggets",
-     "published": "2026-10-14T14:00:00+00:00",
-     "copete": "Leveraging Scikit-LLM for one of the simplest yet most practical text classification tasks utilized in the modern AI landscape: few-shot classification.",
-     "id": "0011929205a7"
-    },
-    {
      "title": "Voting on Features: Federated Feature Selection Without Sharing Data",
      "link": "https://towardsdatascience.com/voting-on-features-federated-feature-selection-without-sharing-data/",
      "source": "Towards Data Science",
@@ -258,19 +265,20 @@
      "id": "c21e580f3371"
     },
     {
-     "title": "5 Fun Projects for LLM Inference Engineering",
-     "link": "https://www.kdnuggets.com/5-fun-projects-for-llm-inference-engineering",
-     "source": "KDnuggets",
-     "published": "2026-10-14T12:00:00+00:00",
-     "copete": "Want to understand what makes LLMs fast? Build the systems yourself.",
-     "id": "99955ad1db33"
+     "title": "Redesigning source control at Anthropic",
+     "link": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-10-13T23:00:06+00:00",
+     "copete": "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In…",
+     "id": "fd83ae3d1e3e"
     },
     {
-     "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-     "link": "https://github.com/timescale/pg_vectorsearch",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-10-14T11:47:53+00:00",
-     "id": "be362ab16722"
+     "title": "llm-gemini 0.35",
+     "link": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-10-13T22:28:54+00:00",
+     "copete": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans . As…",
+     "id": "781a955ce352"
     }
    ]
   },
@@ -280,100 +288,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Juicio por la muerte de Maradona, en vivo: otro abogado pidió la absolución del psicólogo y Gianinna se puso a llorar",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/10/14/juicio-por-la-muerte-de-maradona-en-vivo-fernando-burlando-cierra-los-alegatos-y-adelanto-que-pedira-penas-altas/",
+     "title": "Las universidades dicen que la multa contra el Gobierno es “muy importante”, pero sostienen el reclamo",
+     "link": "https://www.infobae.com/politica/2026/10/14/en-la-previa-de-la-marcha-las-universidades-se-muestran-combativas-la-multa-al-gobierno-es-muy-importante/",
      "source": "Infobae",
-     "published": "2026-10-14T18:42:19+00:00",
-     "copete": "El abogado de Dalma y Gianinna será el último en exponer ante los jueces del TOC N°7 de San Isidro. Antes lo hará Pablo Jurado, letrado que representa a las hermanas de Diego",
-     "id": "52a510fb2622"
+     "published": "2026-10-14T23:11:26+00:00",
+     "copete": "Las casas de estudio se muestran firmes en la previa de la marcha de este jueves. Por su parte, en Casa Rosada buscarán apelar la decisión del juez que le impuso una sanción económica a Diego Santilli",
+     "id": "4852356b96f1"
     },
     {
-     "title": "Steam suma cuatro juegos gratis para PC con robos, puzles, simulación y combates",
-     "link": "https://www.infobae.com/tecno/2026/10/14/steam-suma-cuatro-juegos-gratis-para-pc-con-robos-puzles-simulacion-y-combates/",
-     "source": "Infobae",
-     "published": "2026-10-14T18:42:08+00:00",
-     "copete": "La selección reúne experiencias de sigilo, resolución, lógica incremental y lucha que funcionan tanto en solitario como mediante enfrentamientos locales o conexiones competitivas desde la misma biblioteca digital",
-     "id": "71f5966cd1df"
-    },
-    {
-     "title": "Salud mental: libertarios anunciaron un acuerdo con aliados y buscarán dictaminar mañana la nueva ley",
-     "link": "https://www.infobae.com/politica/2026/10/14/salud-mental-libertarios-anunciaron-un-acuerdo-con-aliados-y-buscaran-dictaminar-manana-la-nueva-ley/",
-     "source": "Infobae",
-     "published": "2026-10-14T18:42:08+00:00",
-     "copete": "La jefa del oficialismo en la Cámara alta, Patricia Bullrich, confirmó los lineamientos que adelantó Infobae el fin de semana pasado. En caso de lograr despacho, se intentaría ir al recinto en los próximos días",
-     "id": "7f8562318307"
-    },
-    {
-     "title": "El dólar operó estable a la espera de una licitación de deuda clave del Tesoro",
-     "link": "https://www.infobae.com/economia/2026/10/14/el-dolar-opero-estable-a-la-espera-de-una-licitacion-de-deuda-clave-del-tesoro/",
-     "source": "Infobae",
-     "published": "2026-10-14T18:41:54+00:00",
-     "copete": "La Secretaría de Finanzas procura extender plazos para después de las elecciones y renovar vencimientos por $4,9 billones. La divisa mayorista quedó a $1.513 y al público continuó a $1.535 en el Banco Nación",
-     "id": "981b14dbe82c"
-    },
-    {
-     "title": "“No puedo retirarme. Hablo en serio”: Sylvester Stallone bromeó sobre el costo de la boda de su hija Sophia con Michael Sheehan",
-     "link": "https://www.infobae.com/entretenimiento/2026/10/14/no-puedo-retirarme-hablo-en-serio-sylvester-stallone-bromeo-sobre-el-costo-de-la-boda-de-su-hija-sophia-con-michael-sheehan/",
-     "source": "Infobae",
-     "published": "2026-10-14T18:41:51+00:00",
-     "copete": "El artista elogió a su futuro yerno, quien solicitó permiso previo para formular la propuesta matrimonial",
-     "id": "c57232c40e97"
-    },
-    {
-     "title": "Javier Milei y sus medidas, EN VIVO: el Gobierno celebró el número de la inflación y dijo: “Es el camino”",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-celebro-el-numero-de-la-inflacion-y-dijo-es-el-camino-nid14102026/",
+     "title": "Lionel Messi en Inter Miami vs. New York City FC, en vivo por la MLS: horario, TV y formaciones",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/lionel-messi-en-inter-miami-vs-new-york-city-fc-en-vivo-nid14102026/",
      "source": "La Nación",
-     "published": "2026-10-14T18:40:00+00:00",
-     "copete": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "0500c26070a2"
+     "published": "2026-10-14T23:11:02+00:00",
+     "copete": "El equipo de la Florida recibe a los neoyorkinos con un objetivo claro",
+     "id": "96d4b85ec7f1"
     },
     {
-     "title": "La Justicia declaró la quiebra de Algodonera Avellaneda, una empresa vinculada a Vicentin",
-     "link": "https://www.lanacion.com.ar/economia/campo/la-justicia-declaro-la-quiebra-de-algodonera-avellaneda-una-empresa-vinculada-a-vicentin-nid14102026/",
+     "title": "Sarmiento vs. River, en vivo, por el Torneo Clausura: el minuto a minuto del partido",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/sarmiento-vs-river-en-vivo-por-el-torneo-clausura-nid14102026/",
      "source": "La Nación",
-     "published": "2026-10-14T18:37:01+00:00",
-     "copete": "El juez Fabián Lorenzini tomó la decisión luego de que no se presentaran interesados en hacerse cargo de la firma, que tiene unos 360 trabajadores y deudas millonarias; se analizará la posibilidad de mantener la producción mientras se…",
-     "id": "dc3af764626b"
+     "published": "2026-10-14T23:10:47+00:00",
+     "copete": "El Millonario visita al Verde en un partido pendiente de la fecha 11",
+     "id": "cab78b422892"
     },
     {
-     "title": "La Ciudad lanzó un plan de pagos para deudas de ABL y patentes con quitas de hasta el 100% en intereses",
-     "link": "https://www.lanacion.com.ar/economia/la-ciudad-lanzo-un-plan-de-pagos-para-deudas-de-abl-y-patentes-con-quitas-de-hasta-el-100-en-nid14102026/",
+     "title": "El Gobierno repone los límites a la venta de tierras para contener a sus aliados y desactivar la sesión opositora",
+     "link": "https://www.lanacion.com.ar/politica/el-gobierno-incluyo-un-capitulo-de-ley-de-tierras-en-el-proyecto-de-propiedad-privada-para-blindar-nid14102026/",
      "source": "La Nación",
-     "published": "2026-10-14T18:35:44+00:00",
-     "copete": "El programa de facilidades entra en vigencia el jueves y se extenderá hasta fin de año; el monto máximo por partida o tributo será de hasta $5.940.000",
-     "id": "6d9915aaf39a"
+     "published": "2026-10-14T23:10:15+00:00",
+     "copete": "El oficialismo en Diputados incluyó dos artículos en el proyecto de propiedad privada para dejar sin efecto la derogación de la normativa y blindar el DNU 70/23",
+     "id": "7e8bfa6b1488"
     },
     {
-     "title": "Quiniela de la Provincia: resultado del sorteo de la Matutina de hoy, miércoles 14 de octubre",
-     "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-matutina-hoy-miercoles-14-octubre_0_H7MkrspK0C.html",
+     "title": "Jorge dejó la oficina, armó un motorhome y lleva recorridos 27 mil kilómetros por la Argentina: “A veces se puede vivir con menos y valorar un poco más las cosas chicas y simples”",
+     "link": "https://www.lanacion.com.ar/lifestyle/jorge-dejo-la-oficina-armo-un-motorhome-y-lleva-recorridos-27-mil-kilometros-por-la-argentina-a-nid14102026/",
+     "source": "La Nación",
+     "published": "2026-10-14T23:09:58+00:00",
+     "copete": "De amplia trayectoria en el mundo de la publicidad, decidió cambiar su forma de trabajar y ver la vida de otra forma; “Gané salud y perspectiva”, señaló",
+     "id": "6043e131454a"
+    },
+    {
+     "title": "Preocupación por la salud de Denisse González: fue internada por cuarta vez en el año",
+     "link": "https://www.infobae.com/teleshow/2026/10/14/preocupacion-por-la-salud-de-denisse-gonzalez-fue-internada-por-cuarta-vez-en-el-ano/",
+     "source": "Infobae",
+     "published": "2026-10-14T23:09:16+00:00",
+     "copete": "La exparticipante de Gran Hermano contó que una nueva caída de plaquetas la llevó al hospital y pidió tiempo para priorizar su recuperación tras varios meses de controles médicos constantes",
+     "id": "cd1cf660e844"
+    },
+    {
+     "title": "River Plate pierde contra Sarmiento por el partido pendiente de la fecha 11 del Torneo Clausura",
+     "link": "https://www.infobae.com/deportes/2026/10/14/river-plate-visitara-a-sarmiento-en-busca-de-un-triunfo-que-lo-situe-en-zona-de-clasificacion-a-los-playoffs-del-clausura-hora-tv-y-formaciones/",
+     "source": "Infobae",
+     "published": "2026-10-14T23:09:10+00:00",
+     "copete": "El Millonario choca con el Verde en el estadio Eva Perón de Junín. Televisa TNT Sports",
+     "id": "e545960736fc"
+    },
+    {
+     "title": "La fórmula exacta para pedirle a la IA que haga resúmenes precisos de cualquier PDF o documento largo",
+     "link": "https://www.infobae.com/tecno/2026/10/14/la-formula-exacta-para-pedirle-a-la-ia-que-haga-resumenes-precisos-de-cualquier-pdf-o-documento-largo/",
+     "source": "Infobae",
+     "published": "2026-10-14T23:08:16+00:00",
+     "copete": "Cuando la solicitud es demasiado general, las herramientas de IA pueden omitir conceptos relevantes, simplificar explicaciones o dejar afuera fechas, cifras y argumentos",
+     "id": "dcc3ee9c296f"
+    },
+    {
+     "title": "En la Gala Hispana, Milei defenderá su  plan de ajuste económico y apoyará a Donald Trump",
+     "link": "https://www.infobae.com/politica/2026/10/14/en-la-gala-hispana-milei-defendera-su-plan-de-ajuste-economico-y-apoyara-a-donald-trump/",
+     "source": "Infobae",
+     "published": "2026-10-14T23:07:38+00:00",
+     "copete": "El presidente argentino recibirá en ese evento privado un reconocimiento a “su liderazgo global” y aprovechará la oportunidad para reivindicar la agenda política del líder republicano, que puede perder los comicios de medio término por el…",
+     "id": "5f72fc057890"
+    },
+    {
+     "title": "Thiago Príncipe tiene 14 años, construyó un tractor con piezas recuperadas y ahora quiere automatizarlo: “Sentí la innovación”",
+     "link": "https://www.lanacion.com.ar/economia/campo/thiago-principe-tiene-14-anos-construyo-un-tractor-con-piezas-recuperadas-y-ahora-quiere-nid14102026/",
+     "source": "La Nación",
+     "published": "2026-10-14T23:06:09+00:00",
+     "copete": "El adolescente vive en la zona rural de San Ambrosio, cerca de Río Cuarto; después de presentar su “tractoneta” en exposiciones, visitó la planta de CNH en Córdoba para conocer cómo se fabrican las máquinas agrícolas",
+     "id": "c0c2ddbcfe46"
+    },
+    {
+     "title": "Brad Pitt, actor de Hollywood de 62 años: “Por naturaleza, siempre estoy en movimiento, amigo. Mi teoría es: sé como un tiburón. Simplemente tienes que seguir moviéndote. No puedes detenerte”",
+     "link": "https://www.clarin.com/estados-unidos/brad-pitt-actor-hollywood-62-anos-naturaleza-siempre-movimiento-amigo-teoria-tiburon-simplemente-seguir-moviendote-puedes-detenerte_0_uqmbCL6UWY.html",
      "source": "Clarín",
-     "published": "2026-10-14T18:35:43+00:00",
-     "copete": "Conocé qué números salieron hoy a la cabeza y todo lo que necesitás saber. A cruzar los dedos.",
-     "id": "661fe833e44b"
+     "published": "2026-10-14T22:45:03+00:00",
+     "copete": "Ni el éxito ni el fracaso deberían convertirse en escollos profesionales o personales. Pero la acción, la búsqueda, puede ser el camino a una buena forma de vida.",
+     "id": "d53827c1fca9"
     },
     {
-     "title": "Edith Hermida habló de los rumores de romance con Sebastián Presta y lanzó una frase que llamó la atención",
-     "link": "https://www.clarin.com/fama/edith-hermida-hablo-rumores-romance-sebastian-presta-lanzo-frase-llamo-atencion_0_rgS52nqjLu.html",
+     "title": "Metrotel se queda con parte de los clientes de Telefónica y se convierte en el tercer operador de Argentina",
+     "link": "https://www.clarin.com/economia/metrotel-queda-parte-clientes-telefonica-convierte-tercer-operador-argentina_0_OeLm4j5GMp.html",
      "source": "Clarín",
-     "published": "2026-10-14T18:35:40+00:00",
-     "copete": "La conductora se refirió a la química con su compañero de \"MasterChef Celebrity\" y aseguró que él le coquetea. También reveló que el humorista habría intentado conquistar a Marixa Balli y recordó un consejo íntimo que recibió de Marcela…",
-     "id": "1c98a628a7e9"
-    },
-    {
-     "title": "Ucrania acusa a SpaceX de afectar la velocidad de sus drones y se encienden las alarmas por el apoyo de EE.UU.",
-     "link": "https://www.lanacion.com.ar/el-mundo/ucrania-acusa-a-spacex-de-afectar-la-velocidad-de-sus-drones-y-se-encienden-las-alarmas-por-el-apoyo-nid14102026/",
-     "source": "La Nación",
-     "published": "2026-10-14T18:35:26+00:00",
-     "copete": "El gobierno de Zelensky informó que la empresa de internet de Elon Musk de restringió los servicios de Starkink para el uso en el campo de batalla",
-     "id": "514e0055e0a8"
-    },
-    {
-     "title": "Oficial y confirmado por un estudio | La estimulación del nervio vago puede mejorar el aprendizaje motor a largo plazo",
-     "link": "https://www.clarin.com/estados-unidos/oficial-confirmado-estudio-estimulacion-nervio-vago-puede-mejorar-aprendizaje-motor-largo-plazo_0_WYjZwK66mv.html",
-     "source": "Clarín",
-     "published": "2026-10-14T18:35:01+00:00",
-     "copete": "Una investigación de la Universidad de Tohoku descubrió qué pasa al estimular el nervio vago después de practicar una tarea. El experimento señala un mecanismo inesperado.",
-     "id": "cf4c3b4a87be"
+     "published": "2026-10-14T22:40:24+00:00",
+     "copete": "• La firma concretó la incorporación de aproximadamente seis millones de usuarios móviles y 211.000 clientes de internet residencial por fibra óptica. • Operarán bajo la marca TUENTI.",
+     "id": "11ae95d32a45"
     }
    ]
   },
@@ -383,84 +391,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "What if you could turn off your algorithm? Australia is about to try",
-     "link": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-14T18:00:54+00:00",
-     "copete": "New legislation is being tabled in Australia's parliament on Thursday to force big tech to allow users to switch off algorithms which send them recommended content.",
-     "id": "19370bf04b57"
-    },
-    {
-     "title": "El “desastroso” estreno de la portavoz de la Casa Blanca provoca apuestas sobre su permanencia",
-     "link": "https://elpais.com/us/2026-10-14/el-desastroso-estreno-de-la-portavoz-de-la-casa-blanca-provoca-apuestas-sobre-su-permanencia.html",
-     "source": "El País Internacional",
-     "published": "2026-10-14T17:45:50+00:00",
-     "copete": "Los traspiés y la escasa fluidez de Katie Zacharia en su primera comparecencia se añaden a las sospechas sobre su currículum",
-     "id": "0cedc63c1bd3"
-    },
-    {
-     "title": "Enfrentamientos con la policía y el Ministerio de educación en llamas en el segundo día de protestas estudiantiles en Albania",
-     "link": "https://elpais.com/internacional/2026-10-14/enfrentamientos-con-la-policia-y-el-ministerio-de-educacion-en-llamas-en-el-segundo-dia-de-protestas-estudiantiles-en-albania.html",
-     "source": "El País Internacional",
-     "published": "2026-10-14T17:45:32+00:00",
-     "copete": "La manifestación en Tirana para exigir mejoras en el sistema educativo ha estado marcada este miércoles por los disturbios y la violencia",
-     "id": "d889040ae2b5"
-    },
-    {
-     "title": "Kenya confirms second Ebola case - a relative of the first victim",
-     "link": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-14T17:23:01+00:00",
-     "copete": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
-     "id": "ba8c90cbcaee"
-    },
-    {
-     "title": "Cómo un internet más lento afecta a Ucrania en el campo de batalla frente a Rusia",
-     "link": "https://www.bbc.com/mundo/articles/cq62yn458211o?at_medium=RSS&at_campaign=rss",
+     "title": "Qué son las ondas Kelvin detrás del oleaje destructivo que está afectando a las costas de México y el sur de California",
+     "link": "https://www.bbc.com/mundo/articles/cwx28rg0z8pyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-10-14T17:06:24+00:00",
-     "copete": "Starlink, el sistema de internet de Elon Musk, permite a Kyiv proteger el espacio aéreo ucraniano y guiar eficazmente los drones hacia objetivos rusos. Pero su velocidad se ha reducido y eso tiene consecuencias.",
-     "id": "cf82cae4bb51"
+     "published": "2026-10-14T22:52:20+00:00",
+     "copete": "Desde las exclusivas residencias frente a la playa en el sur de California hasta los populares hoteles y restaurantes a lo largo de la costa del Pacífico en México, el fuerte oleaje de las últimas semanas está causando graves destrozos.",
+     "id": "095d72113cc0"
     },
     {
-     "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
-     "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+     "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+     "link": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-10-14T16:47:32+00:00",
-     "copete": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
-     "id": "fad774142212"
+     "published": "2026-10-14T22:31:10+00:00",
+     "copete": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
+     "id": "32af9a22a73c"
     },
     {
-     "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
-     "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-14T15:56:57+00:00",
-     "copete": "It comes as the prime minister meets President Zelensky at Downing Street.",
-     "id": "779a1c17bfdc"
-    },
-    {
-     "title": "Qué beneficios tuvo para mi cuerpo (y mi bolsillo) comer más de 30 alimentos de origen vegetal durante la semana",
-     "link": "https://www.bbc.com/mundo/articles/c8ly0zd36dpwo?at_medium=RSS&at_campaign=rss",
+     "title": "Los médicos del Papa informan que camina y se recupera \"según lo previsto\" tras su cirugía por un cáncer de pulmón",
+     "link": "https://www.bbc.com/mundo/articles/cmvgxvdpwk30o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-10-14T15:49:41+00:00",
-     "copete": "El experimento fue tan fácil que superé mi objetivo sin darme cuenta y terminé consumiendo un total de 51 plantas. Aquí te cuento cómo lo hice.",
-     "id": "a2c290e48030"
+     "published": "2026-10-14T21:43:54+00:00",
+     "copete": "Al pontífice le diagnosticaron un adenocarcinoma tras una operación para extirparle un nódulo en un pulmón.",
+     "id": "93b5db58e14e"
     },
     {
-     "title": "Por qué las exportaciones de EE.UU. a Cuba alcanzaron un récord mientras Trump ejerce máxima presión sobre la isla",
+     "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+     "link": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-14T20:55:24+00:00",
+     "copete": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+     "id": "714d1f0b729f"
+    },
+    {
+     "title": "Why Zelensky's meeting with Burnham matters",
+     "link": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-14T20:41:03+00:00",
+     "copete": "Prime Minister Andy Burnham welcomed President Zelensky to Downing Street on Wednesday, as Ukraine's leader looks to shore up his European allies five years into Russia's war on Ukraine.",
+     "id": "ff4c841e83bf"
+    },
+    {
+     "title": "Student protesters attack government buildings in Tirana",
+     "link": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-14T20:29:05+00:00",
+     "copete": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.",
+     "id": "2eb83a2c23e7"
+    },
+    {
+     "title": "Por qué las exportaciones de EE.UU. a Cuba alcanzaron un máximo si el gobierno de Trump ha endurecido el embargo a la isla",
      "link": "https://www.bbc.com/mundo/articles/cxvgdp6l87qjo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-10-14T15:28:14+00:00",
+     "published": "2026-10-14T19:59:58+00:00",
      "copete": "EE.UU. vende sobre todo combustibles al sector privado de la isla, pero también autos, carnes y productos lácteos. Las exportaciones crecieron un 210% entre enero y agosto.",
      "id": "f14018254a6a"
     },
     {
-     "title": "Estados Unidos levanta sanciones contra Jorge Rodríguez, presidente de la Asamblea Nacional de Venezuela",
-     "link": "https://elpais.com/us/2026-10-14/estados-unidos-levanta-sanciones-contra-jorge-rodriguez-presidente-de-la-asamblea-nacional-de-venezuela.html",
+     "title": "El Reino Unido despliega la alfombra roja para arropar a Zelenski frente a Trump",
+     "link": "https://elpais.com/internacional/2026-10-14/el-reino-unido-despliega-la-alfombra-roja-para-arropar-a-zelenski-frente-a-trump.html",
      "source": "El País Internacional",
-     "published": "2026-10-14T15:21:31+00:00",
-     "copete": "El Tesoro elimina al hermano de la presidenta encargada del país sudamericano de la lista principal de nacionales especialmente designados",
-     "id": "f28eaa9bf095"
+     "published": "2026-10-14T19:48:40+00:00",
+     "copete": "“Tienes nuestro apoyo y eso no cambiará”, asegura Andy Burnham al presidente ucranio",
+     "id": "3a0fc85b43db"
+    },
+    {
+     "title": "El enfado de Ucrania con Starlink, la compañía de Elon Musk, por las restricciones a la velocidad de internet que afectan a su ejército en el campo de batalla",
+     "link": "https://www.bbc.com/mundo/articles/cq62yn458211o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-10-14T19:38:54+00:00",
+     "copete": "Starlink, el sistema de internet de Elon Musk, permite a Kyiv proteger el espacio aéreo ucraniano y guiar eficazmente los drones hacia objetivos rusos. Pero su velocidad se ha reducido y eso tiene consecuencias.",
+     "id": "cf82cae4bb51"
+    },
+    {
+     "title": "La impactante imagen de un migrante cubano sobre una pequeña balsa improvisada frente a la costa de Florida",
+     "link": "https://www.bbc.com/mundo/articles/c6n8dzg33xz2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-10-14T18:47:19+00:00",
+     "copete": "Las autoridades confirmaron que el hombre se encontraba sano y salvo y que fue trasladado a un buque guardacostas.",
+     "id": "9065b1126455"
     }
    ]
   }
@@ -473,13 +481,13 @@
   },
   {
    "section": "cardiologia",
-   "feed": "Circulation (PubMed)",
+   "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
   },
   {
-   "section": "cardiologia",
-   "feed": "NEJM Cardiología (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
+   "section": "ciencia_datos",
+   "feed": "KDnuggets",
+   "error": "HTTP Error 403: Forbidden"
   }
  ]
 }

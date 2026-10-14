@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T10:08:58Z",
+  "generated_at": "2026-10-14T22:07:06Z",
   "summaries": {
     "13d9d949a8b1": {
       "resumen": "Informe que resume los datos estadísticos más recientes de insuficiencia cardíaca (IC) en Estados Unidos, en el marco de la actualización anual de estadísticas de enfermedad cardíaca y accidente cerebrovascular que elabora la AHA (American Heart Association, Asociación Americana del Corazón). Vale la pena mirarlo porque confirma que la prevalencia, la mortalidad y los costos asociados a la IC siguen en aumento, reforzando que sigue siendo un problema de salud pública creciente.",
@@ -31,66 +31,67 @@
       "resumen": "Editorial o comentario sobre la FFR-CT (reserva de flujo fraccional calculada por tomografía computada, una forma no invasiva de evaluar si una lesión coronaria es funcionalmente significativa) que señala que, pese a sus avances, la técnica todavía no termina de reemplazar a la medición invasiva. Vale la pena mirarlo porque resume las limitaciones prácticas de una herramienta que promete reducir cateterismos diagnósticos.",
       "destacado": false
     },
-    "4e4731baf302": {
-      "resumen": "El ensayo PROMISE III evalúa la arterialización venosa profunda (un procedimiento que redirige flujo arterial hacia el sistema venoso para perfundir el pie en pacientes sin opción de revascularización convencional) en isquemia crónica que amenaza la extremidad, y reporta menos dolor al año de seguimiento. Vale la pena mirarlo porque es una alternativa a la amputación en pacientes sin lecho arterial para bypass o angioplastia.",
-      "destacado": false,
-      "analisis": "Diseño: Nota de TCTMD sobre el ensayo PROMISE III; el título no especifica si es aleatorizado, el número de centros ni de pacientes.\nPoblación: No especificada en el título; presumiblemente pacientes con isquemia crónica que amenaza la extremidad (CLTI, chronic limb-threatening ischemia) sin opción de revascularización arterial convencional.\nIntervención: Arterialización venosa profunda (deep vein arterialization), un procedimiento que redirige flujo arterial hacia el sistema venoso del pie; no se especifica comparador en el título.\nResultados: No disponibles en esta nota; el título solo indica reducción del dolor al año de seguimiento, sin cifras ni intervalos de confianza.\nLimitaciones: Al ser una nota periodística y no el estudio original, no se puede valorar el diseño, el tamaño muestral ni el riesgo de sesgo.\nMensaje: Si se confirma con más datos, ofrecería una alternativa a la amputación en pacientes sin lecho arterial para revascularización convencional, pero por ahora el beneficio reportado (menos dolor) es un criterio de valoración blando y debe confirmarse con desenlaces duros como salvataje de la extremidad.\nNota: análisis sin acceso al abstract."
-    },
     "f92ac7742ea6": {
       "resumen": "El ensayo VESALIUS-CV evaluó evolocumab (un anticuerpo monoclonal inhibidor de PCSK9, proproteína convertasa subtilisina/kexina tipo 9, que reduce el colesterol LDL) en pacientes con cirugía de revascularización miocárdica (CABG, coronary artery bypass graft) previa pero sin antecedente de infarto de miocardio (IM), y reportó una reducción de eventos cardiovasculares mayores (MACE, major adverse cardiovascular events). Vale la pena mirarlo porque extiende el beneficio de la terapia hipolipemiante intensiva a un subgrupo de pacientes coronarios crónicos que no suele estar representado en los grandes ensayos de prevención secundaria post-infarto.",
       "destacado": true,
       "analisis": "Diseño: Nota de TCTMD sobre el ensayo VESALIUS-CV; el título no especifica si es aleatorizado, doble ciego, el número de centros ni de pacientes.\nPoblación: Pacientes con cirugía de revascularización miocárdica (CABG) previa pero sin antecedente de infarto de miocardio (IM); no se detallan otros criterios de inclusión o exclusión en el título.\nIntervención: Evolocumab (inhibidor de PCSK9, proproteína convertasa subtilisina/kexina tipo 9) frente a un comparador no especificado (probablemente placebo sobre el tratamiento de base).\nResultados: No disponibles en esta nota; el título solo indica una reducción de eventos cardiovasculares mayores (MACE), sin cifras de razón de riesgo, intervalos de confianza ni valor de p.\nLimitaciones: Al ser una nota periodística y no el artículo original, no se puede valorar el diseño metodológico, el tamaño muestral ni el riesgo de sesgo; no hay datos cuantitativos para ponderar la magnitud real del beneficio.\nMensaje: Si se confirma con los datos completos, respaldaría extender la indicación de inhibidores de PCSK9 a pacientes coronarios crónicos post-CABG sin IM previo, un grupo de riesgo que hoy queda algo al margen de los ensayos clásicos de prevención secundaria.\nNota: análisis sin acceso al abstract."
     },
-    "f26e06c3158a": {
-      "resumen": "Un estudio muestra que los pacientes rurales con aneurisma de aorta abdominal (AAA) reciben un seguimiento subóptimo antes y después de la reparación endovascular del aneurisma (EVAR, endovascular aneurysm repair), en comparación con los pacientes urbanos. Vale la pena mirarlo porque pone en evidencia una inequidad geográfica en el acceso a los controles necesarios para esta cirugía, con impacto potencial en las complicaciones a largo plazo.",
-      "destacado": false,
-      "analisis": "Diseño: Nota de TCTMD sobre un estudio (probablemente de registro o cohorte) que compara la calidad de la atención antes y después de la reparación endovascular del aneurisma (EVAR) entre pacientes rurales y urbanos con aneurisma de aorta abdominal (AAA); el título no especifica el número de centros, pacientes ni el diseño exacto.\nPoblación: Pacientes con aneurisma de aorta abdominal (AAA) sometidos a EVAR, estratificados según residencia rural o urbana.\nIntervención: No hay una intervención farmacológica o de dispositivo; se compara el proceso de atención (controles pre y posoperatorios) entre ambos grupos de residencia.\nResultados: No disponibles en esta nota; el título solo indica que la atención \"no es óptima\" para los pacientes rurales, sin cifras de adherencia a controles, complicaciones ni intervalos de confianza.\nLimitaciones: Al ser una nota periodística y no el estudio original, no se puede valorar el diseño, el tamaño muestral ni el ajuste por factores de confusión entre población rural y urbana.\nMensaje: Señala una brecha de acceso geográfico en el seguimiento de pacientes con AAA tratados con EVAR, lo que sugiere la necesidad de estrategias específicas de seguimiento a distancia o derivación para pacientes rurales.\nNota: análisis sin acceso al abstract."
-    },
-    "306bce1b2a29": {
-      "resumen": "El artículo de Towards Data Science argumenta que los agentes de inteligencia artificial (IA) ya alcanzaron un buen nivel de autonomía, y que el desafío real ahora está en todo lo que los rodea: supervisión, infraestructura y control de calidad. Le sirve a un médico que aprende análisis de datos porque plantea que no alcanza con darle más autonomía a un agente de IA, sino que hay que construir buenos procesos alrededor para usarlo de forma confiable."
-    },
-    "743c66edcbc2": {
-      "resumen": "Un usuario de r/datascience argumenta que, en muchos análisis, el problema de fondo no es el tamaño de la muestra (N) sino el ruido o la variabilidad de los datos, por lo que aumentar N no siempre mejora la calidad de las conclusiones. Le sirve mucho a un médico que aprende estadística porque es un recordatorio clave para interpretar estudios: una muestra grande no corrige un diseño con alta variabilidad o una mala medición.",
-      "destacado": true
-    },
-    "59d356227941": {
-      "resumen": "Towards Data Science compara tres métodos de muestreo bayesiano -NUTS (No-U-Turn Sampler), Emcee (un muestreador de Monte Carlo por cadenas de Markov con invariancia afín) y nested sampling (muestreo anidado)- contra una solución exacta conocida, y muestra en qué condiciones cada uno falla. Le sirve a un médico que aprende análisis de datos porque la estadística bayesiana se usa cada vez más en investigación clínica, y entender las limitaciones de estos métodos ayuda a interpretar mejor los resultados de un análisis bayesiano."
-    },
-    "d7b6a0c76c3e": {
-      "resumen": "KDnuggets propone una hoja de ruta de cuatro niveles para dominar los sistemas de inteligencia artificial (IA) agéntica en 2026, desde ciclos cognitivos simples y memoria con estado hasta enjambres de múltiples agentes y observabilidad en producción. Le sirve a un médico que aprende análisis de datos como guía ordenada de qué conceptos ir incorporando a medida que avanza en el uso de agentes de IA para automatizar tareas."
-    },
-    "de04b7d40683": {
-      "resumen": "Un hilo de Hacker News cuenta que Google tarda tanto en publicar el código fuente de AOSP (Android Open Source Project, la base abierta de Android) que los desarrolladores terminan desensamblando las bibliotecas compiladas para poder reportar errores. Sirve para entender cuánto puede frenar la reproducibilidad y la transparencia en un proyecto de software la falta de acceso oportuno al código fuente, un problema similar al que enfrenta cualquiera que necesite auditar un modelo o un pipeline de datos sin la documentación completa.",
-      "destacado": false
-    },
-    "3377b94c710a": {
-      "resumen": "Es la página personal de Felix Rieseberg, un desarrollador de software conocido en el ecosistema de Electron y herramientas de escritorio, compartida en Hacker News. No aporta un dato técnico concreto para cardiología ni para ciencia de datos, pero da una idea de qué perfiles y trayectorias despiertan interés en la comunidad tech que también sigue de cerca el desarrollo de herramientas de inteligencia artificial.",
-      "destacado": false
-    },
-    "6bfaaf873eeb": {
-      "resumen": "Pulse Local es una aplicación de presupuesto personal para Mac cuyos modelos de inteligencia artificial (IA) corren enteramente en la computadora del usuario, sin enviar datos a servidores externos. Ilustra el concepto de IA local o 'on-device', relevante para quien analiza datos sensibles (como información clínica) y necesita entender alternativas que preservan la privacidad frente al uso de servicios de IA en la nube.",
-      "destacado": false
-    },
-    "be7f075ef243": {
-      "resumen": "La Grace Hopper Celebration (GHC), el evento más grande del mundo dedicado a mujeres en la informática, organizado por la fundación AnitaB.org, fue cancelada. Es una noticia institucional sobre diversidad en tecnología, con poco contenido técnico directo pero relevante como contexto del ecosistema de ciencia de datos e IA.",
-      "destacado": false
-    },
-    "781a955ce352": {
-      "resumen": "Se lanzó la versión 0.35 del plugin llm-gemini, que agrega soporte para el nuevo modelo Gemini 4 Argon de Google dentro de la herramienta de línea de comandos 'llm' creada por Simon Willison. Le sirve a quien está aprendiendo análisis de datos porque muestra cómo integrar y comparar distintos modelos de lenguaje (LLM, large language model o modelo de lenguaje de gran escala) desde una misma interfaz simple, sin necesidad de programar cada integración desde cero.",
-      "destacado": false
-    },
-    "fd83ae3d1e3e": {
-      "resumen": "Simon Willison repasa por qué Anthropic decidió rediseñar su propio sistema de control de versiones en lugar de seguir usando Git, a raíz del fuerte aumento en el ritmo de cambios de código que trajo la programación asistida por inteligencia artificial en los últimos meses. Le aporta a un médico que aprende análisis de datos una introducción a por qué el control de versiones (el registro ordenado de cambios en el código) se vuelve crítico cuando el volumen de trabajo crece, algo cada vez más relevante también para proyectos de análisis reproducible.",
-      "destacado": false
-    },
-    "69f32495504c": {
-      "resumen": "El histórico apertura de Los Pumas repasó recuerdos de su carrera y el legado del rugby argentino en una charla con CordobaXV Stream, de cara al camino hacia el Mundial 2027."
-    },
     "f8e553c4de81": {
       "resumen": "Rugby Champagne Federal estrena un nuevo programa con invitados de lujo del mundo del rugby."
     },
-    "34a98baf6e54": {
-      "resumen": "Quedaron confirmadas las fechas y las sedes del circuito SVNS 2 (la segunda división del certamen mundial de rugby seven) para la temporada 2027."
+    "bce6cf92d6a7": {
+      "resumen": "Episodio del podcast Rox Heart Radio de TCTMD que repasa qué esperar del próximo congreso científico de la AHA (American Heart Association, Asociación Americana del Corazón) 2026. Vale la pena mirarlo porque anticipa los temas y estudios que van a marcar la agenda cardiológica internacional en los próximos meses.",
+      "destacado": false
+    },
+    "9a4d1e167bfd": {
+      "resumen": "La FDA (Food and Drug Administration, agencia regulatoria de medicamentos y dispositivos de EE.UU.) amplió las indicaciones aprobadas para el stent graft Viabahn VBX, un dispositivo endovascular, en el tratamiento de enfermedad aórtica compleja. Vale la pena mirarlo porque suma una herramienta más al arsenal endovascular para lesiones aórticas que antes requerían abordajes quirúrgicos más complejos.",
+      "destacado": false
+    },
+    "1d15ef475cf5": {
+      "resumen": "El artículo de CSO Online plantea que los fallos de seguridad en agentes de inteligencia artificial (IA) no se deben a que la IA actúe de forma autónoma o impredecible, sino a que los laboratorios de IA de punta están descuidando medidas básicas de seguridad informática al desplegarlos. Le sirve a un médico que aprende análisis de datos porque recuerda que, antes de confiar tareas sensibles a un agente de IA, hay que aplicar los mismos controles que a cualquier sistema que maneja datos (como historias clínicas): permisos, validación de entradas y monitoreo.",
+      "destacado": false
+    },
+    "8560636ebc00": {
+      "resumen": "Simon Willison comenta cómo la inteligencia artificial (IA) está permitiendo descompilar en masa videojuegos antiguos, lo que habilita combinaciones creativas entre juegos existentes pero también dispara un boom de remakes y plantea dudas legales sobre propiedad intelectual. Para un médico que se forma en análisis de datos, ilustra el poder y los límites éticos de usar IA para transformar código o datos que originalmente no fueron pensados para reutilizarse.",
+      "destacado": false
+    },
+    "66cf47272c3c": {
+      "resumen": "La nota de The American Prospect describe un plan de 100 millones de dólares del ICE (Immigration and Customs Enforcement, agencia de control de inmigración de EE.UU.) para montar un programa de vigilancia doméstica masiva basado en el cruce de datos de múltiples fuentes. Le interesa a quien estudia análisis de datos porque muestra, en el extremo, a qué escala y con qué riesgos para la privacidad se puede aplicar el cruce de datos cuando no hay límites regulatorios claros.",
+      "destacado": false
+    },
+    "09349a5527db": {
+      "resumen": "El artículo de Towards Data Science explica que el \"stacking\" (combinar las predicciones de varios modelos de aprendizaje automático mediante un metamodelo) solo mejora el rendimiento cuando los modelos de base se equivocan en casos distintos entre sí. Le sirve a un médico que aprende análisis de datos porque es una lección práctica y accesible sobre cuándo vale la pena combinar modelos predictivos y cuándo es una complejidad innecesaria.",
+      "destacado": false
+    },
+    "20256f21c6ce": {
+      "resumen": "Towards Data Science explica de forma didáctica cómo los \"word embeddings\" (representaciones numéricas de palabras en un espacio vectorial) logran capturar relaciones de significado entre palabras a partir de cómo se usan en el lenguaje. Le aporta a un médico que empieza en análisis de datos una base conceptual clave para entender cómo funcionan por debajo los modelos de lenguaje que hoy se usan en herramientas de inteligencia artificial (IA).",
+      "destacado": false
+    },
+    "0011929205a7": {
+      "resumen": "KDnuggets muestra cómo usar Scikit-LLM, una librería que combina la sintaxis de scikit-learn con modelos de lenguaje de gran escala (LLM, large language model), para clasificar texto con pocos ejemplos de entrenamiento (\"few-shot\"). Le sirve a un médico que aprende análisis de datos porque es una forma simple de aplicar IA a tareas de clasificación de texto sin necesitar grandes volúmenes de datos etiquetados.",
+      "destacado": false
+    },
+    "c21e580f3371": {
+      "resumen": "Towards Data Science presenta un método de selección federada de variables (\"features\"), en el que hospitales, bancos o dispositivos distintos deciden en conjunto qué variables son más relevantes para un modelo votando sobre ellas, sin necesidad de compartir los datos originales (implementable con las herramientas NVIDIA FLARE y Flower). Le interesa especialmente a un médico que analiza datos clínicos porque resuelve un problema central en salud: colaborar entre instituciones sin exponer información sensible de pacientes.",
+      "destacado": true
+    },
+    "99955ad1db33": {
+      "resumen": "KDnuggets propone cinco proyectos prácticos para entender, construyéndolos uno mismo, qué hace rápida o lenta la inferencia de los modelos de lenguaje de gran escala (LLM, large language model). Le sirve a un médico que aprende análisis de datos para pasar de usar herramientas de inteligencia artificial (IA) como caja negra a entender, aunque sea de forma básica, cómo funcionan por dentro.",
+      "destacado": false
+    },
+    "be362ab16722": {
+      "resumen": "Se presenta pg_vectorsearch, un nuevo tipo de índice para bases de datos PostgreSQL que promete búsquedas por similitud vectorial más rápidas que los métodos habituales IVFFlat y HNSW (algoritmos ya usados en la extensión pgvector). Le sirve a un médico que aprende análisis de datos porque la búsqueda vectorial es la base de muchas aplicaciones de inteligencia artificial (IA) que buscan información similar en grandes volúmenes de texto o datos.",
+      "destacado": false
+    },
+    "15d18554dbbc": {
+      "resumen": "Reuters informa que ASML, el principal fabricante de equipos para producir chips de última generación, reportó pedidos más fuertes de lo esperado, lo que calma los temores de que el boom de inversión en inteligencia artificial (IA) esté perdiendo impulso. Le sirve a quien aprende análisis de datos para entender el lado económico e industrial detrás del auge de la IA: sin suficiente capacidad de cómputo, no hay forma de entrenar ni correr los modelos que hoy se usan a diario.",
+      "destacado": false
+    },
+    "f9398264ee3e": {
+      "resumen": "El nuevo entrenador de Los Pumas llega con su sistema Blitz Defence, pensado para presionar al rival y evitar tries fáciles."
+    },
+    "be2d33fcfc02": {
+      "resumen": "La incorporación de Shaun Edwards al cuerpo técnico de Los Pumas generó sorpresa y repercusión en el rugby inglés."
     }
   }
 }

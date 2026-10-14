@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:07:09Z",
+  "generated_at": "2026-10-14T10:08:58Z",
   "summaries": {
     "13d9d949a8b1": {
       "resumen": "Informe que resume los datos estadísticos más recientes de insuficiencia cardíaca (IC) en Estados Unidos, en el marco de la actualización anual de estadísticas de enfermedad cardíaca y accidente cerebrovascular que elabora la AHA (American Heart Association, Asociación Americana del Corazón). Vale la pena mirarlo porque confirma que la prevalencia, la mortalidad y los costos asociados a la IC siguen en aumento, reforzando que sigue siendo un problema de salud pública creciente.",
@@ -46,24 +46,12 @@
       "destacado": false,
       "analisis": "Diseño: Nota de TCTMD sobre un estudio (probablemente de registro o cohorte) que compara la calidad de la atención antes y después de la reparación endovascular del aneurisma (EVAR) entre pacientes rurales y urbanos con aneurisma de aorta abdominal (AAA); el título no especifica el número de centros, pacientes ni el diseño exacto.\nPoblación: Pacientes con aneurisma de aorta abdominal (AAA) sometidos a EVAR, estratificados según residencia rural o urbana.\nIntervención: No hay una intervención farmacológica o de dispositivo; se compara el proceso de atención (controles pre y posoperatorios) entre ambos grupos de residencia.\nResultados: No disponibles en esta nota; el título solo indica que la atención \"no es óptima\" para los pacientes rurales, sin cifras de adherencia a controles, complicaciones ni intervalos de confianza.\nLimitaciones: Al ser una nota periodística y no el estudio original, no se puede valorar el diseño, el tamaño muestral ni el ajuste por factores de confusión entre población rural y urbana.\nMensaje: Señala una brecha de acceso geográfico en el seguimiento de pacientes con AAA tratados con EVAR, lo que sugiere la necesidad de estrategias específicas de seguimiento a distancia o derivación para pacientes rurales.\nNota: análisis sin acceso al abstract."
     },
-    "01b0fbae59fa": {
-      "resumen": "Guitoro es un proyecto independiente publicado en Hacker News que convierte el teclado de la computadora en una guitarra virtual para tocar rasgueos online. No es ciencia de datos ni inteligencia artificial (IA) en sí mismo, pero funciona como ejemplo de una aplicación web interactiva simple y bien recibida por la comunidad técnica; para un médico que aprende análisis de datos sirve más como curiosidad sobre proyectos personales que como insumo técnico directo."
-    },
     "306bce1b2a29": {
       "resumen": "El artículo de Towards Data Science argumenta que los agentes de inteligencia artificial (IA) ya alcanzaron un buen nivel de autonomía, y que el desafío real ahora está en todo lo que los rodea: supervisión, infraestructura y control de calidad. Le sirve a un médico que aprende análisis de datos porque plantea que no alcanza con darle más autonomía a un agente de IA, sino que hay que construir buenos procesos alrededor para usarlo de forma confiable."
-    },
-    "c64515c7bf52": {
-      "resumen": "Google DeepMind presentó Gemini 4 Argon, una versión de su modelo de inteligencia artificial (IA) orientada a tareas de robótica. Le aporta a un médico en formación en análisis de datos porque muestra cómo los grandes modelos de lenguaje multimodales se extienden más allá del texto hacia el control físico de dispositivos, una tendencia que también puede llegar a aplicaciones médicas con sensores y dispositivos conectados."
     },
     "743c66edcbc2": {
       "resumen": "Un usuario de r/datascience argumenta que, en muchos análisis, el problema de fondo no es el tamaño de la muestra (N) sino el ruido o la variabilidad de los datos, por lo que aumentar N no siempre mejora la calidad de las conclusiones. Le sirve mucho a un médico que aprende estadística porque es un recordatorio clave para interpretar estudios: una muestra grande no corrige un diseño con alta variabilidad o una mala medición.",
       "destacado": true
-    },
-    "11ff46a9a047": {
-      "resumen": "Lanzamiento oficial de Gemini 4 Argon, la nueva versión del modelo de inteligencia artificial (IA) de Google DeepMind, según la publicación en el sitio de DeepMind. Le interesa a un médico que aprende análisis de datos porque estos modelos de lenguaje grandes (LLM, large language model) son cada vez más la base de las herramientas de IA que se usan para analizar datos y texto en el día a día."
-    },
-    "8c17f1f1ac30": {
-      "resumen": "Anthropic cuenta cómo rediseñó internamente su sistema de control de versiones de código (source control) para adaptarlo al trabajo con agentes de inteligencia artificial (IA) que escriben y modifican código de forma autónoma. Le sirve a un médico que aprende análisis de datos porque ilustra buenas prácticas de organización y trazabilidad del código, algo valioso al empezar a programar análisis reproducibles."
     },
     "59d356227941": {
       "resumen": "Towards Data Science compara tres métodos de muestreo bayesiano -NUTS (No-U-Turn Sampler), Emcee (un muestreador de Monte Carlo por cadenas de Markov con invariancia afín) y nested sampling (muestreo anidado)- contra una solución exacta conocida, y muestra en qué condiciones cada uno falla. Le sirve a un médico que aprende análisis de datos porque la estadística bayesiana se usa cada vez más en investigación clínica, y entender las limitaciones de estos métodos ayuda a interpretar mejor los resultados de un análisis bayesiano."
@@ -71,20 +59,38 @@
     "d7b6a0c76c3e": {
       "resumen": "KDnuggets propone una hoja de ruta de cuatro niveles para dominar los sistemas de inteligencia artificial (IA) agéntica en 2026, desde ciclos cognitivos simples y memoria con estado hasta enjambres de múltiples agentes y observabilidad en producción. Le sirve a un médico que aprende análisis de datos como guía ordenada de qué conceptos ir incorporando a medida que avanza en el uso de agentes de IA para automatizar tareas."
     },
-    "87e22abf54d8": {
-      "resumen": "Simon Willison cita a Geoffrey Huntley sobre la tensión entre escribir reglas fijas (como un archivo AGENTS.md) para que los agentes de inteligencia artificial (IA) sigan ciertas convenciones de código, y la alternativa de usar un hook de pre-commit que verifique automáticamente el código generado. Le sirve a un médico que aprende análisis de datos porque muestra una discusión práctica sobre cómo mantener disciplina y calidad cuando se delega trabajo de programación a un agente de IA."
+    "de04b7d40683": {
+      "resumen": "Un hilo de Hacker News cuenta que Google tarda tanto en publicar el código fuente de AOSP (Android Open Source Project, la base abierta de Android) que los desarrolladores terminan desensamblando las bibliotecas compiladas para poder reportar errores. Sirve para entender cuánto puede frenar la reproducibilidad y la transparencia en un proyecto de software la falta de acceso oportuno al código fuente, un problema similar al que enfrenta cualquiera que necesite auditar un modelo o un pipeline de datos sin la documentación completa.",
+      "destacado": false
     },
-    "c0245f794002": {
-      "resumen": "Un estudio con 50.400 corridas de agentes de inteligencia artificial (IA) que programan código en repositorios reales mide cuánto trabajo desperdician -turnos de más, cambios innecesarios- aun cuando terminan resolviendo la tarea. Le sirve a un médico que aprende análisis de datos porque ayuda a entender que un agente de IA puede \"funcionar\" y aun así ser ineficiente, algo para tener en cuenta al evaluar qué reglas o configuraciones conviene usar."
+    "3377b94c710a": {
+      "resumen": "Es la página personal de Felix Rieseberg, un desarrollador de software conocido en el ecosistema de Electron y herramientas de escritorio, compartida en Hacker News. No aporta un dato técnico concreto para cardiología ni para ciencia de datos, pero da una idea de qué perfiles y trayectorias despiertan interés en la comunidad tech que también sigue de cerca el desarrollo de herramientas de inteligencia artificial.",
+      "destacado": false
     },
-    "5a13681cb494": {
-      "resumen": "El nuevo cuerpo técnico de Los Pumas liderado por Felipe Contepomi, con staff de primer nivel internacional, ya tiene fecha confirmada para debutar rumbo al Mundial."
+    "6bfaaf873eeb": {
+      "resumen": "Pulse Local es una aplicación de presupuesto personal para Mac cuyos modelos de inteligencia artificial (IA) corren enteramente en la computadora del usuario, sin enviar datos a servidores externos. Ilustra el concepto de IA local o 'on-device', relevante para quien analiza datos sensibles (como información clínica) y necesita entender alternativas que preservan la privacidad frente al uso de servicios de IA en la nube.",
+      "destacado": false
     },
-    "677ad4cafb75": {
-      "resumen": "Una ex figura del rugby australiano podría sumarse como refuerzo de un rival mundialista de Los Pumas."
+    "be7f075ef243": {
+      "resumen": "La Grace Hopper Celebration (GHC), el evento más grande del mundo dedicado a mujeres en la informática, organizado por la fundación AnitaB.org, fue cancelada. Es una noticia institucional sobre diversidad en tecnología, con poco contenido técnico directo pero relevante como contexto del ecosistema de ciencia de datos e IA.",
+      "destacado": false
     },
-    "e6e3ac64a377": {
-      "resumen": "Fiji suma a un campeón del mundo para reforzarse de cara al Mundial de rugby de Australia 2027."
+    "781a955ce352": {
+      "resumen": "Se lanzó la versión 0.35 del plugin llm-gemini, que agrega soporte para el nuevo modelo Gemini 4 Argon de Google dentro de la herramienta de línea de comandos 'llm' creada por Simon Willison. Le sirve a quien está aprendiendo análisis de datos porque muestra cómo integrar y comparar distintos modelos de lenguaje (LLM, large language model o modelo de lenguaje de gran escala) desde una misma interfaz simple, sin necesidad de programar cada integración desde cero.",
+      "destacado": false
+    },
+    "fd83ae3d1e3e": {
+      "resumen": "Simon Willison repasa por qué Anthropic decidió rediseñar su propio sistema de control de versiones en lugar de seguir usando Git, a raíz del fuerte aumento en el ritmo de cambios de código que trajo la programación asistida por inteligencia artificial en los últimos meses. Le aporta a un médico que aprende análisis de datos una introducción a por qué el control de versiones (el registro ordenado de cambios en el código) se vuelve crítico cuando el volumen de trabajo crece, algo cada vez más relevante también para proyectos de análisis reproducible.",
+      "destacado": false
+    },
+    "69f32495504c": {
+      "resumen": "El histórico apertura de Los Pumas repasó recuerdos de su carrera y el legado del rugby argentino en una charla con CordobaXV Stream, de cara al camino hacia el Mundial 2027."
+    },
+    "f8e553c4de81": {
+      "resumen": "Rugby Champagne Federal estrena un nuevo programa con invitados de lujo del mundo del rugby."
+    },
+    "34a98baf6e54": {
+      "resumen": "Quedaron confirmadas las fechas y las sedes del circuito SVNS 2 (la segunda división del certamen mundial de rugby seven) para la temporada 2027."
     }
   }
 }

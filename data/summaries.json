@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T22:07:06Z",
+  "generated_at": "2026-10-15T10:07:39Z",
   "summaries": {
     "13d9d949a8b1": {
       "resumen": "Informe que resume los datos estadísticos más recientes de insuficiencia cardíaca (IC) en Estados Unidos, en el marco de la actualización anual de estadísticas de enfermedad cardíaca y accidente cerebrovascular que elabora la AHA (American Heart Association, Asociación Americana del Corazón). Vale la pena mirarlo porque confirma que la prevalencia, la mortalidad y los costos asociados a la IC siguen en aumento, reforzando que sigue siendo un problema de salud pública creciente.",
@@ -15,30 +15,6 @@
       "resumen": "Artículo de European Heart Journal vinculado a las guías de la ESC (European Society of Cardiology, Sociedad Europea de Cardiología) que repasa los mecanismos fisiopatológicos de la miocarditis y suma evidencia novedosa sobre su tratamiento con antagonistas del receptor de mineralocorticoides (ARM), glucósidos cardíacos (como la digoxina) y agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1). Vale la pena mirarlo porque actualiza el enfoque terapéutico de una entidad con pocas opciones basadas en evidencia sólida hasta ahora.",
       "destacado": false
     },
-    "03de61a8dada": {
-      "resumen": "Artículo de perspectiva, probablemente publicado en JACC (Journal of the American College of Cardiology), que propone pasar de simplemente mapear las disparidades en salud cardiovascular a intervenir con estrategias de precisión ajustadas a cada población. Interesa porque traza una agenda de investigación en equidad cardiovascular que va más allá de describir el problema.",
-      "destacado": false
-    },
-    "02236c142216": {
-      "resumen": "Editorial de JACC (Journal of the American College of Cardiology) que explica por qué la revista no exige declarar el uso de inteligencia artificial (IA) en la redacción de manuscritos científicos. Vale la pena mirarlo porque anticipa un debate editorial sobre transparencia que va a cruzar a toda la medicina académica.",
-      "destacado": false
-    },
-    "13e0f5531344": {
-      "resumen": "Nuevo documento de consenso de expertos 2026 del ACC (American College of Cardiology, Colegio Americano de Cardiología) sobre el manejo de la hipertensión arterial resistente, publicado en JACC (Journal of the American College of Cardiology). Vale la pena mirarlo porque ordena en un algoritmo práctico los pasos diagnósticos y terapéuticos para esta forma de hipertensión difícil de controlar.",
-      "destacado": false
-    },
-    "2e8f2667b082": {
-      "resumen": "Editorial o comentario sobre la FFR-CT (reserva de flujo fraccional calculada por tomografía computada, una forma no invasiva de evaluar si una lesión coronaria es funcionalmente significativa) que señala que, pese a sus avances, la técnica todavía no termina de reemplazar a la medición invasiva. Vale la pena mirarlo porque resume las limitaciones prácticas de una herramienta que promete reducir cateterismos diagnósticos.",
-      "destacado": false
-    },
-    "f92ac7742ea6": {
-      "resumen": "El ensayo VESALIUS-CV evaluó evolocumab (un anticuerpo monoclonal inhibidor de PCSK9, proproteína convertasa subtilisina/kexina tipo 9, que reduce el colesterol LDL) en pacientes con cirugía de revascularización miocárdica (CABG, coronary artery bypass graft) previa pero sin antecedente de infarto de miocardio (IM), y reportó una reducción de eventos cardiovasculares mayores (MACE, major adverse cardiovascular events). Vale la pena mirarlo porque extiende el beneficio de la terapia hipolipemiante intensiva a un subgrupo de pacientes coronarios crónicos que no suele estar representado en los grandes ensayos de prevención secundaria post-infarto.",
-      "destacado": true,
-      "analisis": "Diseño: Nota de TCTMD sobre el ensayo VESALIUS-CV; el título no especifica si es aleatorizado, doble ciego, el número de centros ni de pacientes.\nPoblación: Pacientes con cirugía de revascularización miocárdica (CABG) previa pero sin antecedente de infarto de miocardio (IM); no se detallan otros criterios de inclusión o exclusión en el título.\nIntervención: Evolocumab (inhibidor de PCSK9, proproteína convertasa subtilisina/kexina tipo 9) frente a un comparador no especificado (probablemente placebo sobre el tratamiento de base).\nResultados: No disponibles en esta nota; el título solo indica una reducción de eventos cardiovasculares mayores (MACE), sin cifras de razón de riesgo, intervalos de confianza ni valor de p.\nLimitaciones: Al ser una nota periodística y no el artículo original, no se puede valorar el diseño metodológico, el tamaño muestral ni el riesgo de sesgo; no hay datos cuantitativos para ponderar la magnitud real del beneficio.\nMensaje: Si se confirma con los datos completos, respaldaría extender la indicación de inhibidores de PCSK9 a pacientes coronarios crónicos post-CABG sin IM previo, un grupo de riesgo que hoy queda algo al margen de los ensayos clásicos de prevención secundaria.\nNota: análisis sin acceso al abstract."
-    },
-    "f8e553c4de81": {
-      "resumen": "Rugby Champagne Federal estrena un nuevo programa con invitados de lujo del mundo del rugby."
-    },
     "bce6cf92d6a7": {
       "resumen": "Episodio del podcast Rox Heart Radio de TCTMD que repasa qué esperar del próximo congreso científico de la AHA (American Heart Association, Asociación Americana del Corazón) 2026. Vale la pena mirarlo porque anticipa los temas y estudios que van a marcar la agenda cardiológica internacional en los próximos meses.",
       "destacado": false
@@ -47,16 +23,8 @@
       "resumen": "La FDA (Food and Drug Administration, agencia regulatoria de medicamentos y dispositivos de EE.UU.) amplió las indicaciones aprobadas para el stent graft Viabahn VBX, un dispositivo endovascular, en el tratamiento de enfermedad aórtica compleja. Vale la pena mirarlo porque suma una herramienta más al arsenal endovascular para lesiones aórticas que antes requerían abordajes quirúrgicos más complejos.",
       "destacado": false
     },
-    "1d15ef475cf5": {
-      "resumen": "El artículo de CSO Online plantea que los fallos de seguridad en agentes de inteligencia artificial (IA) no se deben a que la IA actúe de forma autónoma o impredecible, sino a que los laboratorios de IA de punta están descuidando medidas básicas de seguridad informática al desplegarlos. Le sirve a un médico que aprende análisis de datos porque recuerda que, antes de confiar tareas sensibles a un agente de IA, hay que aplicar los mismos controles que a cualquier sistema que maneja datos (como historias clínicas): permisos, validación de entradas y monitoreo.",
-      "destacado": false
-    },
     "8560636ebc00": {
       "resumen": "Simon Willison comenta cómo la inteligencia artificial (IA) está permitiendo descompilar en masa videojuegos antiguos, lo que habilita combinaciones creativas entre juegos existentes pero también dispara un boom de remakes y plantea dudas legales sobre propiedad intelectual. Para un médico que se forma en análisis de datos, ilustra el poder y los límites éticos de usar IA para transformar código o datos que originalmente no fueron pensados para reutilizarse.",
-      "destacado": false
-    },
-    "66cf47272c3c": {
-      "resumen": "La nota de The American Prospect describe un plan de 100 millones de dólares del ICE (Immigration and Customs Enforcement, agencia de control de inmigración de EE.UU.) para montar un programa de vigilancia doméstica masiva basado en el cruce de datos de múltiples fuentes. Le interesa a quien estudia análisis de datos porque muestra, en el extremo, a qué escala y con qué riesgos para la privacidad se puede aplicar el cruce de datos cuando no hay límites regulatorios claros.",
       "destacado": false
     },
     "09349a5527db": {
@@ -75,23 +43,57 @@
       "resumen": "Towards Data Science presenta un método de selección federada de variables (\"features\"), en el que hospitales, bancos o dispositivos distintos deciden en conjunto qué variables son más relevantes para un modelo votando sobre ellas, sin necesidad de compartir los datos originales (implementable con las herramientas NVIDIA FLARE y Flower). Le interesa especialmente a un médico que analiza datos clínicos porque resuelve un problema central en salud: colaborar entre instituciones sin exponer información sensible de pacientes.",
       "destacado": true
     },
-    "99955ad1db33": {
-      "resumen": "KDnuggets propone cinco proyectos prácticos para entender, construyéndolos uno mismo, qué hace rápida o lenta la inferencia de los modelos de lenguaje de gran escala (LLM, large language model). Le sirve a un médico que aprende análisis de datos para pasar de usar herramientas de inteligencia artificial (IA) como caja negra a entender, aunque sea de forma básica, cómo funcionan por dentro.",
+    "3bae74a956e6": {
+      "resumen": "Un estudio comparó la angioplastia coronaria percutánea (ACTP, intervención coronaria percutánea) temprana versus un abordaje más conservador en pacientes con infarto sin elevación del segmento ST (NSTEMI, non-ST-segment elevation myocardial infarction) que además tienen insuficiencia cardíaca (IC) estable, y encontró que la revascularización temprana se asoció a peores resultados. Vale la pena mirarlo porque cuestiona la práctica habitual de apurar la angioplastia en estos pacientes.",
+      "destacado": false,
+      "analisis": "Diseño: Nota de TCTMD sobre un estudio (probablemente observacional o un subanálisis de registro) que compara la intervención coronaria percutánea (ACTP) temprana contra un manejo más diferido en NSTEMI; el título no especifica si es aleatorizado, el número de centros ni de pacientes.\nPoblación: Pacientes con infarto agudo de miocardio sin elevación del segmento ST (NSTEMI) que además presentan insuficiencia cardíaca (IC) estable; no se detallan otros criterios de inclusión o exclusión.\nIntervención: Angioplastia coronaria percutánea (ACTP) temprana frente a un abordaje más diferido o conservador.\nResultados: No disponibles en esta nota; el título solo indica que la ACTP temprana se asoció a \"peores resultados\", sin cifras de razón de riesgo, intervalos de confianza ni valor de p.\nLimitaciones: Al ser una nota periodística y no el artículo original, no se puede descartar confusión por indicación (los pacientes llevados a revascularización temprana podrían ser más graves de entrada) ni valorar el tamaño muestral.\nMensaje: Si se confirma, invitaría a ser más cautos con la revascularización apurada en NSTEMI cuando coexiste insuficiencia cardíaca estable, priorizando primero la estabilización clínica; la asociación observada, de todos modos, no prueba causalidad.\nNota: análisis sin acceso al abstract."
+    },
+    "869443fefcea": {
+      "resumen": "Estudio de JACC (Journal of the American College of Cardiology) que busca convertir el concepto de obesidad sarcopénica (pérdida de masa muscular combinada con exceso de grasa corporal) en una herramienta práctica para predecir y prevenir la insuficiencia cardíaca (IC). Vale la pena mirarlo porque pone el foco en un fenotipo de riesgo que el índice de masa corporal (IMC) suele pasar por alto.",
+      "destacado": false,
+      "analisis": "Diseño: Artículo original de JACC (Journal of the American College of Cardiology) firmado por Zhou X et al.; por el título correspondería a un estudio de cohorte que evalúa la obesidad sarcopénica como factor de riesgo de insuficiencia cardíaca (IC); no se especifica en el título si es prospectivo o retrospectivo, ni el número de centros o pacientes.\nPoblación: Probablemente adultos de cohortes poblacionales o clínicas evaluados para obesidad sarcopénica (baja masa/función muscular más exceso de adiposidad) y riesgo de insuficiencia cardíaca incidente; no se detallan criterios de inclusión o exclusión en el título.\nIntervención: No aplica una intervención terapéutica; se trataría de un estudio de asociación/predicción entre un fenotipo (obesidad sarcopénica) y un desenlace (IC).\nResultados: No disponibles en esta nota; el título no aporta cifras de riesgo relativo, intervalos de confianza ni valor de p.\nLimitaciones: Sin acceso al cuerpo del artículo no se puede valorar la definición operativa de obesidad sarcopénica utilizada, el ajuste por factores de confusión ni el tiempo de seguimiento.\nMensaje: Remarca la importancia de evaluar la composición corporal, y no solo el peso o el índice de masa corporal, al estimar el riesgo de insuficiencia cardíaca, lo que podría justificar su tamizaje si se confirma en estudios prospectivos.\nNota: análisis sin acceso al abstract."
+    },
+    "737c1eccf9e9": {
+      "resumen": "Editorial de JACC (Journal of the American College of Cardiology) que discute si el índice de obesidad sarcopénica refleja un verdadero fenotipo fisiopatológico o es apenas un cociente matemático sin sustento biológico claro. Vale la pena mirarlo porque pone en perspectiva crítica el entusiasmo por este nuevo marcador de riesgo cardiovascular.",
       "destacado": false
     },
-    "be362ab16722": {
-      "resumen": "Se presenta pg_vectorsearch, un nuevo tipo de índice para bases de datos PostgreSQL que promete búsquedas por similitud vectorial más rápidas que los métodos habituales IVFFlat y HNSW (algoritmos ya usados en la extensión pgvector). Le sirve a un médico que aprende análisis de datos porque la búsqueda vectorial es la base de muchas aplicaciones de inteligencia artificial (IA) que buscan información similar en grandes volúmenes de texto o datos.",
+    "0644f0a8261c": {
+      "resumen": "Artículo de perspectiva de JACC (Journal of the American College of Cardiology) que plantea repensar el lugar donde se brinda la atención de la insuficiencia cardíaca (IC), poniendo el foco en el domicilio del paciente como destino de cuidado en lugar del hospital. Vale la pena mirarlo porque refleja la tendencia hacia modelos de atención más centrados en el hogar para una enfermedad crónica de alta carga asistencial.",
       "destacado": false
     },
-    "15d18554dbbc": {
-      "resumen": "Reuters informa que ASML, el principal fabricante de equipos para producir chips de última generación, reportó pedidos más fuertes de lo esperado, lo que calma los temores de que el boom de inversión en inteligencia artificial (IA) esté perdiendo impulso. Le sirve a quien aprende análisis de datos para entender el lado económico e industrial detrás del auge de la IA: sin suficiente capacidad de cómputo, no hay forma de entrenar ni correr los modelos que hoy se usan a diario.",
+    "47532228f037": {
+      "resumen": "Ensayo publicado en JACC (Journal of the American College of Cardiology) que evalúa una estrategia de alta hospitalaria temprana que incluye furosemida subcutánea (un diurético de asa administrado por vía subcutánea, en lugar de la intravenosa habitual) en pacientes internados por insuficiencia cardíaca (IC) descompensada. Vale la pena mirarlo porque explora una alternativa para acortar la estadía hospitalaria sin resignar el control de la congestión.",
+      "destacado": true,
+      "analisis": "Diseño: Artículo original de JACC (Journal of the American College of Cardiology) firmado por Campbell RT et al.; por el título correspondería a un ensayo clínico o estudio piloto que evalúa una estrategia de alta temprana con furosemida subcutánea en insuficiencia cardíaca (IC); no se especifica en el título si es aleatorizado, el número de centros ni de pacientes.\nPoblación: Pacientes hospitalizados por insuficiencia cardíaca (IC) descompensada, candidatos a continuar la diuresis de forma ambulatoria; no se detallan otros criterios de inclusión o exclusión en el título.\nIntervención: Estrategia de alta hospitalaria temprana con furosemida administrada por vía subcutánea, frente al manejo estándar con diurético intravenoso durante toda la internación.\nResultados: No disponibles en esta nota; el título no aporta cifras de reingresos, duración de la estadía, eventos adversos ni valor de p.\nLimitaciones: Sin acceso al cuerpo del artículo no se puede valorar el tamaño muestral, la seguridad de la vía subcutánea (irritación cutánea, biodisponibilidad) ni el seguimiento post-alta.\nMensaje: Si los resultados son favorables, esta estrategia podría permitir acortar internaciones por insuficiencia cardíaca sin sacrificar el control de la congestión, trasladando parte del tratamiento diurético al ámbito ambulatorio.\nNota: análisis sin acceso al abstract."
+    },
+    "c099e6f9efcc": {
+      "resumen": "Liquid AI presenta LFM2.5-24B-A2B, un nuevo modelo de lenguaje de gran escala (LLM, large language model) optimizado para correr rápido directamente en el dispositivo (on-device), pensado para agentes de inteligencia artificial (IA). Le sirve a un médico que aprende análisis de datos porque muestra la tendencia hacia modelos más chicos y eficientes que no dependen de la nube, lo que abarata y hace más privado el uso de IA con datos sensibles.",
       "destacado": false
     },
-    "f9398264ee3e": {
-      "resumen": "El nuevo entrenador de Los Pumas llega con su sistema Blitz Defence, pensado para presionar al rival y evitar tries fáciles."
+    "b618e518b0e7": {
+      "resumen": "Hacker News destaca \"Tiny Little Office\", un proyecto que, a juzgar por su nombre, propone una versión miniatura o simplificada de un entorno de oficina digital. Le puede interesar a quien aprende análisis de datos como ejemplo de cómo se exploran interfaces livianas y experimentales para el trabajo con datos, aunque conviene revisar la fuente original para conocer sus detalles concretos.",
+      "destacado": false
     },
-    "be2d33fcfc02": {
-      "resumen": "La incorporación de Shaun Edwards al cuerpo técnico de Los Pumas generó sorpresa y repercusión en el rugby inglés."
+    "bbc1e25e9e98": {
+      "resumen": "Simon Willison cuenta cómo generó \"Tree Appreciator\", un videojuego hecho con Three.js, pidiéndoselo directamente a Claude Opus 5.5 desde la app de chat del celular, sin usar el modo Claude Code. Le interesa a un médico que aprende análisis de datos porque es un ejemplo concreto de cuánto se puede construir hoy con instrucciones en lenguaje natural, sin necesidad de saber programar de antemano.",
+      "destacado": false
+    },
+    "33ee12614553": {
+      "resumen": "El blog de Typesafe.ai anuncia la versión 1.14.0 de Jev, que suma funciones experimentales descriptas como pensadas \"para soñadores\". Le sirve a quien aprende análisis de datos como una muestra más del ritmo acelerado de lanzamientos en el ecosistema de herramientas de inteligencia artificial (IA), aunque conviene explorar la fuente original para entender bien qué hace Jev.",
+      "destacado": false
+    },
+    "a4e6a72e3ac2": {
+      "resumen": "Se lanza la versión 2.0 de OpenCode, una herramienta de código abierto para programar asistido por inteligencia artificial (IA), que compite con otros agentes de código. Le interesa a un médico que aprende análisis de datos porque amplía las opciones gratuitas y de código abierto para incorporar asistentes de IA al propio flujo de trabajo de programación.",
+      "destacado": false
+    },
+    "0610f9e04264": {
+      "resumen": "Torneos de la Liga presenta una iniciativa de licencias comerciales pensada para potenciar los ingresos de la Unión Argentina de Rugby (UAR)."
+    },
+    "38b0d98b6198": {
+      "resumen": "Ya están confirmadas las fechas del SVNS 2 (Series Mundiales de Seven) en las que competirán Los Pumas 7s y Las Yaguaretés."
+    },
+    "7f57b608c17e": {
+      "resumen": "Villa Carlos Paz será sede de una concentración de la categoría Menores de 19 años de rugby."
     }
   }
 }

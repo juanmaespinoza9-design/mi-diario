@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-10-15T10:07:39Z",
+  "generated_at": "2026-10-15T22:07:32Z",
   "summaries": {
     "13d9d949a8b1": {
       "resumen": "Informe que resume los datos estadísticos más recientes de insuficiencia cardíaca (IC) en Estados Unidos, en el marco de la actualización anual de estadísticas de enfermedad cardíaca y accidente cerebrovascular que elabora la AHA (American Heart Association, Asociación Americana del Corazón). Vale la pena mirarlo porque confirma que la prevalencia, la mortalidad y los costos asociados a la IC siguen en aumento, reforzando que sigue siendo un problema de salud pública creciente.",
       "destacado": false,
       "analisis": "Diseño: Reporte estadístico anual (HF STATS 2026), parte de la actualización de estadísticas de enfermedad cardíaca y accidente cerebrovascular de la AHA (American Heart Association); no es un ensayo clínico sino una compilación de datos poblacionales de vigilancia epidemiológica; el título no especifica fuentes, número de registros ni período analizado.\nPoblación: Población general de Estados Unidos con diagnóstico de insuficiencia cardíaca (IC); no se detallan criterios de inclusión específicos.\nIntervención: No aplica; es un reporte descriptivo de tendencias, no un estudio de intervención.\nResultados: No disponibles en esta nota; el título solo indica que el panorama de la IC en EE.UU. \"sigue empeorando\", sin cifras de prevalencia, mortalidad ni costos.\nLimitaciones: Al ser una nota periodística y no el reporte original, no se pueden valorar las fuentes de datos, el método de estimación ni los intervalos de confianza; los datos poblacionales descriptivos no permiten inferir causalidad.\nMensaje: Refuerza que la insuficiencia cardíaca sigue siendo una carga sanitaria creciente en prevalencia y mortalidad, lo que subraya la necesidad de optimizar la prevención y el tratamiento basado en guías en la práctica diaria.\nNota: análisis sin acceso al abstract."
-    },
-    "bfe0c9385ac3": {
-      "resumen": "El ensayo BEAT-AF evaluó un parche transdérmico de amiodarona (un antiarrítmico clásico) para prevenir la fibrilación auricular (FA) posoperatoria luego de cirugía cardíaca, y no logró demostrar que reduzca su incidencia. Vale la pena mirarlo porque la FA posoperatoria es una complicación frecuente tras cirugía cardíaca, asociada a mayor estadía hospitalaria y riesgo de accidente cerebrovascular (ACV), y esta estrategia no invasiva no mostró el beneficio esperado.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico BEAT-AF, según nota de TCTMD; el título no especifica si fue aleatorizado, doble ciego, el número de centros ni de pacientes incluidos.\nPoblación: Pacientes sometidos a cirugía cardíaca (presumiblemente revascularización miocárdica o cirugía valvular), en riesgo de fibrilación auricular (FA) posoperatoria; no se detallan otros criterios de inclusión o exclusión en el título.\nIntervención: Parche transdérmico de amiodarona aplicado en el período perioperatorio, frente a placebo o manejo estándar (comparador no especificado en el título).\nResultados: No disponibles en esta nota; el título solo indica que el parche \"no previene\" la FA posoperatoria, sin cifras de incidencia, razón de riesgo ni intervalos de confianza.\nLimitaciones: Al ser una nota periodística y no el artículo original, no se puede valorar el diseño metodológico, el tamaño muestral, la dosis ni la adherencia al parche, factores que podrían explicar un resultado negativo.\nMensaje: Un resultado negativo no respalda el uso sistemático de amiodarona transdérmica como profilaxis de FA posoperatoria tras cirugía cardíaca, por lo que las estrategias ya validadas (betabloqueantes, amiodarona intravenosa u oral según guías) siguen siendo la referencia.\nNota: análisis sin acceso al abstract."
     },
     "79da959693d4": {
       "resumen": "Artículo de European Heart Journal vinculado a las guías de la ESC (European Society of Cardiology, Sociedad Europea de Cardiología) que repasa los mecanismos fisiopatológicos de la miocarditis y suma evidencia novedosa sobre su tratamiento con antagonistas del receptor de mineralocorticoides (ARM), glucósidos cardíacos (como la digoxina) y agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1). Vale la pena mirarlo porque actualiza el enfoque terapéutico de una entidad con pocas opciones basadas en evidencia sólida hasta ahora.",
@@ -21,27 +16,8 @@
     },
     "9a4d1e167bfd": {
       "resumen": "La FDA (Food and Drug Administration, agencia regulatoria de medicamentos y dispositivos de EE.UU.) amplió las indicaciones aprobadas para el stent graft Viabahn VBX, un dispositivo endovascular, en el tratamiento de enfermedad aórtica compleja. Vale la pena mirarlo porque suma una herramienta más al arsenal endovascular para lesiones aórticas que antes requerían abordajes quirúrgicos más complejos.",
-      "destacado": false
-    },
-    "8560636ebc00": {
-      "resumen": "Simon Willison comenta cómo la inteligencia artificial (IA) está permitiendo descompilar en masa videojuegos antiguos, lo que habilita combinaciones creativas entre juegos existentes pero también dispara un boom de remakes y plantea dudas legales sobre propiedad intelectual. Para un médico que se forma en análisis de datos, ilustra el poder y los límites éticos de usar IA para transformar código o datos que originalmente no fueron pensados para reutilizarse.",
-      "destacado": false
-    },
-    "09349a5527db": {
-      "resumen": "El artículo de Towards Data Science explica que el \"stacking\" (combinar las predicciones de varios modelos de aprendizaje automático mediante un metamodelo) solo mejora el rendimiento cuando los modelos de base se equivocan en casos distintos entre sí. Le sirve a un médico que aprende análisis de datos porque es una lección práctica y accesible sobre cuándo vale la pena combinar modelos predictivos y cuándo es una complejidad innecesaria.",
-      "destacado": false
-    },
-    "20256f21c6ce": {
-      "resumen": "Towards Data Science explica de forma didáctica cómo los \"word embeddings\" (representaciones numéricas de palabras en un espacio vectorial) logran capturar relaciones de significado entre palabras a partir de cómo se usan en el lenguaje. Le aporta a un médico que empieza en análisis de datos una base conceptual clave para entender cómo funcionan por debajo los modelos de lenguaje que hoy se usan en herramientas de inteligencia artificial (IA).",
-      "destacado": false
-    },
-    "0011929205a7": {
-      "resumen": "KDnuggets muestra cómo usar Scikit-LLM, una librería que combina la sintaxis de scikit-learn con modelos de lenguaje de gran escala (LLM, large language model), para clasificar texto con pocos ejemplos de entrenamiento (\"few-shot\"). Le sirve a un médico que aprende análisis de datos porque es una forma simple de aplicar IA a tareas de clasificación de texto sin necesitar grandes volúmenes de datos etiquetados.",
-      "destacado": false
-    },
-    "c21e580f3371": {
-      "resumen": "Towards Data Science presenta un método de selección federada de variables (\"features\"), en el que hospitales, bancos o dispositivos distintos deciden en conjunto qué variables son más relevantes para un modelo votando sobre ellas, sin necesidad de compartir los datos originales (implementable con las herramientas NVIDIA FLARE y Flower). Le interesa especialmente a un médico que analiza datos clínicos porque resuelve un problema central en salud: colaborar entre instituciones sin exponer información sensible de pacientes.",
-      "destacado": true
+      "destacado": false,
+      "analisis": "Diseño: Nota de TCTMD sobre la ampliación de indicaciones aprobadas por la FDA (Food and Drug Administration) para el stent graft Viabahn VBX, un dispositivo endovascular de cobertura (stent cubierto); por el título correspondería a una aprobación regulatoria basada en datos de estudios clínicos o de registro previos, no a un ensayo aleatorizado nuevo; no se especifican diseño, aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con enfermedad aórtica compleja (probablemente lesiones iliofemorales o aórticas que requieren reparación endovascular), candidatos a tratamiento con stent cubierto; no se detallan criterios de inclusión o exclusión en el título.\nIntervención: Implante del stent graft Viabahn VBX en las nuevas indicaciones aprobadas, sin comparador explícito (se trata de una ampliación regulatoria, no de un ensayo comparativo).\nResultados: No disponibles en esta nota; el título solo indica la aprobación de nuevas indicaciones, sin cifras de permeabilidad, complicaciones ni seguimiento.\nLimitaciones: Al ser una nota periodística sobre una decisión regulatoria, no se puede valorar la calidad de la evidencia que sustentó la aprobación, el tamaño muestral de los estudios pivotales ni el seguimiento a largo plazo.\nMensaje: Amplía las opciones endovasculares disponibles para enfermedad aórtica compleja, lo que podría evitar cirugías abiertas más invasivas en pacientes seleccionados, aunque la elección del dispositivo debe basarse en la anatomía y el perfil de riesgo individual.\nNota: análisis sin acceso al abstract."
     },
     "3bae74a956e6": {
       "resumen": "Un estudio comparó la angioplastia coronaria percutánea (ACTP, intervención coronaria percutánea) temprana versus un abordaje más conservador en pacientes con infarto sin elevación del segmento ST (NSTEMI, non-ST-segment elevation myocardial infarction) que además tienen insuficiencia cardíaca (IC) estable, y encontró que la revascularización temprana se asoció a peores resultados. Vale la pena mirarlo porque cuestiona la práctica habitual de apurar la angioplastia en estos pacientes.",
@@ -66,34 +42,58 @@
       "destacado": true,
       "analisis": "Diseño: Artículo original de JACC (Journal of the American College of Cardiology) firmado por Campbell RT et al.; por el título correspondería a un ensayo clínico o estudio piloto que evalúa una estrategia de alta temprana con furosemida subcutánea en insuficiencia cardíaca (IC); no se especifica en el título si es aleatorizado, el número de centros ni de pacientes.\nPoblación: Pacientes hospitalizados por insuficiencia cardíaca (IC) descompensada, candidatos a continuar la diuresis de forma ambulatoria; no se detallan otros criterios de inclusión o exclusión en el título.\nIntervención: Estrategia de alta hospitalaria temprana con furosemida administrada por vía subcutánea, frente al manejo estándar con diurético intravenoso durante toda la internación.\nResultados: No disponibles en esta nota; el título no aporta cifras de reingresos, duración de la estadía, eventos adversos ni valor de p.\nLimitaciones: Sin acceso al cuerpo del artículo no se puede valorar el tamaño muestral, la seguridad de la vía subcutánea (irritación cutánea, biodisponibilidad) ni el seguimiento post-alta.\nMensaje: Si los resultados son favorables, esta estrategia podría permitir acortar internaciones por insuficiencia cardíaca sin sacrificar el control de la congestión, trasladando parte del tratamiento diurético al ámbito ambulatorio.\nNota: análisis sin acceso al abstract."
     },
-    "c099e6f9efcc": {
-      "resumen": "Liquid AI presenta LFM2.5-24B-A2B, un nuevo modelo de lenguaje de gran escala (LLM, large language model) optimizado para correr rápido directamente en el dispositivo (on-device), pensado para agentes de inteligencia artificial (IA). Le sirve a un médico que aprende análisis de datos porque muestra la tendencia hacia modelos más chicos y eficientes que no dependen de la nube, lo que abarata y hace más privado el uso de IA con datos sensibles.",
+    "911ab8e2ae5d": {
+      "resumen": "Nota de TCTMD que repasa cómo el tamizaje (screening) sistemático, cambios legislativos y herramientas de inteligencia artificial (IA) podrían ayudar a cerrar las brechas de atención en la enfermedad arterial periférica (EAP, PAD por sus siglas en inglés), una patología subdiagnosticada y con acceso desigual a diagnóstico y tratamiento. Vale la pena mirarlo porque plantea un enfoque combinado (clínico, político y tecnológico) para un problema de salud pública que suele quedar relegado frente a la enfermedad coronaria.",
       "destacado": false
     },
-    "b618e518b0e7": {
-      "resumen": "Hacker News destaca \"Tiny Little Office\", un proyecto que, a juzgar por su nombre, propone una versión miniatura o simplificada de un entorno de oficina digital. Le puede interesar a quien aprende análisis de datos como ejemplo de cómo se exploran interfaces livianas y experimentales para el trabajo con datos, aunque conviene revisar la fuente original para conocer sus detalles concretos.",
+    "175dd15b0d07": {
+      "resumen": "Entrada reflexiva del matemático Terence Tao, muy comentada en Hacker News, que se pregunta cuál es el sentido último de hacer investigación matemática en un momento en que la inteligencia artificial (IA) empieza a asistir e incluso automatizar parte de las demostraciones de teoremas. Le aporta a un médico que aprende análisis de datos una mirada honesta sobre cómo la IA está corriendo el foco del trabajo intelectual en las ciencias cuantitativas, algo que también está pasando en medicina e investigación clínica.",
       "destacado": false
     },
-    "bbc1e25e9e98": {
-      "resumen": "Simon Willison cuenta cómo generó \"Tree Appreciator\", un videojuego hecho con Three.js, pidiéndoselo directamente a Claude Opus 5.5 desde la app de chat del celular, sin usar el modo Claude Code. Le interesa a un médico que aprende análisis de datos porque es un ejemplo concreto de cuánto se puede construir hoy con instrucciones en lenguaje natural, sin necesidad de saber programar de antemano.",
+    "08c79764230e": {
+      "resumen": "Simon Willison comparte un experimento curioso de inteligencia artificial (IA) generativa bautizado \"Chirp Pong\", en el que un modelo se usa para recrear o reinterpretar el clásico videojuego Pong a partir de sonidos o instrucciones simples. Le sirve a un médico que aprende análisis de datos como ejemplo liviano de cómo se prototipan ideas con IA generativa, aunque conviene revisar la fuente original para los detalles técnicos concretos.",
       "destacado": false
     },
-    "33ee12614553": {
-      "resumen": "El blog de Typesafe.ai anuncia la versión 1.14.0 de Jev, que suma funciones experimentales descriptas como pensadas \"para soñadores\". Le sirve a quien aprende análisis de datos como una muestra más del ritmo acelerado de lanzamientos en el ecosistema de herramientas de inteligencia artificial (IA), aunque conviene explorar la fuente original para entender bien qué hace Jev.",
+    "34bf133078de": {
+      "resumen": "El blog de investigación de Meta AI presenta \"Muse Spark Open\", aparentemente una versión abierta de su modelo generativo de mundos/juegos (la línea \"Muse\"), que permitiría a la comunidad acceder y experimentar con esta tecnología. Le interesa a un médico que aprende análisis de datos porque muestra la tendencia de las grandes compañías de IA a liberar modelos antes cerrados, ampliando el acceso a herramientas de punta; conviene revisar la fuente original para los detalles técnicos.",
       "destacado": false
     },
-    "a4e6a72e3ac2": {
-      "resumen": "Se lanza la versión 2.0 de OpenCode, una herramienta de código abierto para programar asistido por inteligencia artificial (IA), que compite con otros agentes de código. Le interesa a un médico que aprende análisis de datos porque amplía las opciones gratuitas y de código abierto para incorporar asistentes de IA al propio flujo de trabajo de programación.",
+    "e188260d71ee": {
+      "resumen": "KDnuggets publica una reseña crítica de Abacus AI, una plataforma de aprendizaje automático (machine learning) todo en uno, repasando sus principales críticas y lo que los usuarios deberían saber antes de adoptarla. Le sirve a un médico que aprende análisis de datos como una mirada honesta (no solo promocional) sobre las limitaciones reales de una herramienta de IA antes de invertir tiempo en aprenderla.",
       "destacado": false
     },
-    "0610f9e04264": {
-      "resumen": "Torneos de la Liga presenta una iniciativa de licencias comerciales pensada para potenciar los ingresos de la Unión Argentina de Rugby (UAR)."
+    "acc03d08e7b8": {
+      "resumen": "El blog de Zach Landes explora cómo responde Jev, un agente de inteligencia artificial (IA), ante el clásico dilema ético del \"problema del tranvía\", usado como forma de poner a prueba su razonamiento moral y su toma de decisiones. Le aporta a un médico que aprende análisis de datos una manera concreta de pensar cómo evaluar el comportamiento ético de los sistemas de IA antes de confiarles decisiones sensibles.",
+      "destacado": false
     },
-    "38b0d98b6198": {
-      "resumen": "Ya están confirmadas las fechas del SVNS 2 (Series Mundiales de Seven) en las que competirán Los Pumas 7s y Las Yaguaretés."
+    "a0d58fa52c7a": {
+      "resumen": "Krea presenta la versión 3 de su modelo de inteligencia artificial (IA) para generación de imágenes, diseñado específicamente para tareas de edición de imágenes a gran escala. Le sirve a un médico que aprende análisis de datos porque ilustra cómo los modelos generativos de imagen están evolucionando desde crear contenido nuevo hacia editar y modificar contenido existente de forma controlada.",
+      "destacado": false
     },
-    "7f57b608c17e": {
-      "resumen": "Villa Carlos Paz será sede de una concentración de la categoría Menores de 19 años de rugby."
+    "e95a3e663456": {
+      "resumen": "Towards Data Science compara siete modelos de decisión de código abierto (del estilo árboles de decisión o reglas, más tradicionales en aprendizaje automático) contra un modelo de lenguaje de gran escala (LLM, large language model) generativo, para tareas de toma de decisiones. Le sirve a un médico que aprende análisis de datos porque ayuda a elegir con criterio entre herramientas más simples e interpretables y modelos de IA generativa más potentes pero menos transparentes.",
+      "destacado": false
+    },
+    "b5dc15930746": {
+      "resumen": "Towards Data Science analiza qué implica para el campo de la ciencia de datos que OpenAI haya publicado 719 artículos (papers) de matemática, y qué tan aplicable es ese volumen de producción a problemas reales de análisis de datos. Le interesa a un médico que aprende análisis de datos porque ayuda a separar la investigación de frontera en IA de las herramientas y métodos que realmente se usan en el día a día de un analista.",
+      "destacado": true
+    },
+    "08efd672af08": {
+      "resumen": "KDnuggets enseña a construir aplicaciones de inteligencia artificial (IA) usando OGX, un servidor de API agéntico de código abierto que facilita conectar modelos de lenguaje con herramientas y flujos de trabajo automatizados. Le sirve a un médico que aprende análisis de datos porque es una guía práctica para empezar a construir sus propios agentes de IA sin depender de plataformas cerradas.",
+      "destacado": false
+    },
+    "6702d1aaf0af": {
+      "resumen": "Simon Willison difunde que Anthropic (la empresa detrás de Claude) comunicó a sus inversores un crecimiento de ingresos trimestrales de casi 50%, hasta 16.800 millones de dólares, de cara a una eventual salida a bolsa (oferta pública inicial, IPO). Le interesa a un médico que aprende análisis de datos porque refleja el ritmo de expansión comercial de la industria de la inteligencia artificial (IA) y el peso económico que están tomando estas compañías.",
+      "destacado": false
+    },
+    "2a1a56a16da8": {
+      "resumen": "Una leyenda del rugby argentino destacó la jerarquía del cuerpo técnico de Los Pumas tras la llegada de Edwards y Ledesma al staff."
+    },
+    "d18e07e8e663": {
+      "resumen": "Se analiza si una exfigura del rugby australiano podría convertirse en una amenaza para Los Pumas de cara al Mundial 2027."
+    },
+    "cd563b81ccc0": {
+      "resumen": "La insólita historia de un exjugador de Los Pumas que dejó atrás sus 115 kilos de rugby para dedicarse hoy a cantar ópera en Francia."
     }
   }
 }

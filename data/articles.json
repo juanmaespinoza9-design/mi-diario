@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T00:29:48.703747+00:00",
+ "generated_at": "2026-10-16T07:19:57.431506+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -12,6 +12,14 @@
      "source": "TCTMD",
      "published": "2026-10-15T18:27:31+00:00",
      "id": "911ab8e2ae5d"
+    },
+    {
+     "title": "Exercise Prescriptions for Cardiovascular Health in Adults: 2026 ACC Scientific Statement: A Report of the American College of Cardiology",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42878712/",
+     "source": "JACC",
+     "published": "2026-10-15T00:00:00+00:00",
+     "copete": "Myers J et al. · Journal of the American College of Cardiology",
+     "id": "deec5dd59dfd"
     },
     {
      "title": "Early PCI Tied to Worse Outcomes in NSTEMI Patients With Stable HF",
@@ -66,14 +74,6 @@
      "id": "0644f0a8261c"
     },
     {
-     "title": "Early Discharge Strategy Including Subcutaneous Furosemide in Hospitalized Heart Failure",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42872757/",
-     "source": "JACC",
-     "published": "2026-10-13T00:00:00+00:00",
-     "copete": "Campbell RT et al. · Journal of the American College of Cardiology",
-     "id": "47532228f037"
-    },
-    {
      "title": "ESC Guidelines, mechanisms of myocarditis, novel insights into treatment with mineralcorticoid receptor antagonists, cardiac glycosides, and GLP-1 receptor agonists",
      "link": "https://academic.oup.com/eurheartj/article/47/38/5327/8898693?rss=1",
      "source": "European Heart Journal",
@@ -89,36 +89,74 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "La balanza se destruyó en 30 pedazos",
+     "link": "https://www.ole.com.ar/opinion/liga-profesional-descenso-primera-nacional_0_RcY8dCByMR.html",
+     "source": "Olé — Primera",
+     "published": "2026-10-16T03:10:00+00:00",
+     "copete": "El fútbol argentino profundiza sus desigualdades con un torneo de 30 equipos, dos zonas y un sorteo que condiciona la pelea por el título y el descenso. Un sistema que beneficia a unos y perjudica a otros.",
+     "id": "814ac3f80d59"
+    },
+    {
+     "title": "Arruabarriesga: el Vasco sigue en el plan de ir por todo",
+     "link": "https://www.ole.com.ar/boca-juniors/rodolfoarruabarrena-leandroparedes-copasudamericana-vascodagama-boca-talleres_0_SeiT2fcrol.html",
+     "source": "Olé — Primera",
+     "published": "2026-10-16T02:15:23+00:00",
+     "copete": "El técnico de Boca resolvió cuidar poco en el partido de este viernes ante Talleres, pese a que deberá ir a Río de Janeiro a dar vuelta la serie frente a Vasco da Gama.",
+     "id": "61296c4dab47"
+    },
+    {
+     "title": "Video: la emoción de Nacho Fernández al recordar a Maradona",
+     "link": "https://www.ole.com.ar/gimnasia-y-esgrima/nacho-maradona-fernandez-gimnasia-huracan-gol-asistencia_0_LMrfsPrdUz.html",
+     "source": "Olé — Primera",
+     "published": "2026-10-16T01:36:26+00:00",
+     "copete": "El volante de Gimnasia, figura en el triunfo frente a Huracán, contó que besa el escudo porque tiene una foto del Diez. \"Desde el Cielo estará contento\", afirmó.",
+     "id": "7abb28e996bd"
+    },
+    {
+     "title": "Ex internacionales se educan en el camino hacia el Alto Rendimiento",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUTV1dzhNczltcktPZ1pSVE9OQVdNb3NMRzJrdGVsU2NEcEFnY1JpZnN2VFhJWVNrMF92X283dzhkOHdaRmpJRksxQU42aFFybUFSTFRhNUE5Yi1kQl9XTFlYNnZHaW1kUkNyVVNhbGJkR2FaT0pGRVFLMDZKeEJUUlB0dlluWC1mMUR3aFdPdFhXSkJXSWJEN0czNlgxOTQ5Q3FveEFkN3pBSnhXa2dsTDJiMVh4TnRh?oc=5",
+     "source": "Rugby Champagne",
+     "published": "2026-10-16T01:25:19+00:00",
+     "id": "fe30097f75ff"
+    },
+    {
+     "title": "Australia va por la revancha en la madrugada del sábado ante Nueva Zelanda",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONkVxMkRZMFd0NC1DREpGemUyd1ZIWXBLa1lYMG5IOHF6Q25SVG41Y1lRS1Z5Y2JSTUpIb2dYT3BDSmFZUndTUGZoWmVhTHJXQ2FPQWw4cUpjYlA4SUd6MlhDRVRFbnlUZFBMOGV1bjFxZk14UUtfX195RTM1ZTdhYkF1RTdIYlJHaTNqNW1fYmN1SFUzWlBlenp5WmlnUmtlY2hxaHlFTmdlSEJDaEp4T3ZELTVLc0JJTVJxLXNIQTBOXzk3b0xjbFNLNHBIMFVBZ2VFVQ?oc=5",
+     "source": "Rugby Champagne",
+     "published": "2026-10-16T01:25:15+00:00",
+     "id": "c1ff466a49e0"
+    },
+    {
+     "title": "Sin River, Racing ni San Lorenzo y con un clásico: así serían hoy los cruces de octavos del Clausura",
+     "link": "https://www.ole.com.ar/futbol-primera/cruces-playoffs-octavosdefinal-clausura-river-sanlorenzo_0_n4LXt81OJ6.html",
+     "source": "Olé — River",
+     "published": "2026-10-16T01:14:26+00:00",
+     "copete": "Con el inicio de la fecha 13, en Olé te contamos cómo serían los emparejamientos si hoy terminara la fase regular del torneo.",
+     "id": "55f383e7e4a6"
+    },
+    {
+     "title": "La tabla anual: quiénes están en zona de Copas",
+     "link": "https://www.ole.com.ar/futbol-primera/tablaanual-clasificacion-copas-torneoclausura-libertadores_0_CJssTGG9aP.html",
+     "source": "Olé — River",
+     "published": "2026-10-16T01:08:19+00:00",
+     "copete": "La fecha 13 ya está en juego, por lo que hay movimientos en la tabla anual. Acá, la pelea en la parte más alta.",
+     "id": "b24f614b13ac"
+    },
+    {
+     "title": "Arrancó la fecha 13: los resultados y posiciones del Torneo Clausura",
+     "link": "https://www.ole.com.ar/futbol-primera/torneoclausura-fecha13-resultados-posiciones-zonas-playoffs_0_dguLoKqEcH.html",
+     "source": "Olé — River",
+     "published": "2026-10-16T01:03:22+00:00",
+     "copete": "Gimnasia le ganó sobre el final a Huracán en el arranque de una nueva jornada del campeonato. Así sigue la fecha.",
+     "id": "1fa0c0b1c6f9"
+    },
+    {
      "title": "De la tierra de dos leyendas de River a convertirle un gol al Millo: la historia de Julián Contrera",
      "link": "https://www.ole.com.ar/futbol-primera/sarmientodejunin-river-juliancontrera-rufino-bernabeferreyra-amadeocarrizo_0_tRBmHWv3Xh.html",
      "source": "Olé — River",
      "published": "2026-10-15T23:59:09+00:00",
      "copete": "El mediocampista de Sarmiento tuvo su estreno goleador con la camiseta del Verde ante el equipo de Leo Ponzio, con la particularidad de haber nacido en la misma ciudad que dos ídolos riverplatenses.",
      "id": "84492de85eed"
-    },
-    {
-     "title": "Fuerte sanción de la AFA para Verón y sus compañeros por los incidentes en Santiago del Estero",
-     "link": "https://www.ole.com.ar/estudiantes/juansebastianveron-tribunaldedisciplina-afa-rosariocentral-trofeodecampeones-estudiantesdelaplata_0_YJdAeoMLzJ.html",
-     "source": "Olé — Primera",
-     "published": "2026-10-15T23:52:09+00:00",
-     "copete": "El presidente de Estudiantes, el vice Caiella y el director deportivo Marcos Angeleri recibieron tres meses de suspensión. Además, hubo multa al club.",
-     "id": "dd06fb6a7689"
-    },
-    {
-     "title": "Huracán enfrenta a Gimnasia ¡con un escenario atrás de uno de los arcos!",
-     "link": "https://www.ole.com.ar/futbol-primera/huracan-gimnasia-torneoclausura-escenario-ironmaiden_0_Nyeaz9ytzp.html",
-     "source": "Olé — Primera",
-     "published": "2026-10-15T23:20:03+00:00",
-     "copete": "El partido entre el Globo y el Lobo cuenta con un detalle que no pasa desapercibido: en una de las tribunas está armada la estructura para un recital que se hará en los próximos días.",
-     "id": "575725f02f8c"
-    },
-    {
-     "title": "Se juega una final en la Zona A: Instituto defiende la punta frente a Defensa y Justicia",
-     "link": "https://www.ole.com.ar/futbol-primera/defensa-justicia-insituto-torneo-clausura-fecha-13_0_nuDXuv056r.html",
-     "source": "Olé — Primera",
-     "published": "2026-10-15T23:03:06+00:00",
-     "copete": "El líder cordobés visita al escolta en Varela en una verdadera final por la punta de la Zona A, con apenas dos unidades de distancia entre ambos equipos.",
-     "id": "ebc2507eadc5"
     },
     {
      "title": "Así será el megaoperativo de seguridad para los visitantes de River en Córdoba vs. Belgrano",
@@ -129,49 +167,11 @@
      "id": "12369162dbf1"
     },
     {
-     "title": "Zielinski vs River: los antecedentes claves en la previa de otra final para Ponzio",
-     "link": "https://www.ole.com.ar/river-plate/river-belgrano-ruso-zielinski-partidos-historial_0_HZSK5pV8zf.html",
-     "source": "Olé — River",
-     "published": "2026-10-15T22:29:58+00:00",
-     "copete": "El domingo desde las 20:15 el Ruso tendrá la oportunidad de volver a amargar al Millonario en un partido importante.",
-     "id": "f1cd0d2e8047"
-    },
-    {
-     "title": "River, afuera de los playoffs y en la cornisa de la Copa Libertadores: las cuentas que hacen en Núñez",
-     "link": "https://www.ole.com.ar/river-plate/river-tabla-anual-zona-playoffs-libertadores-2027-puntos-necesita-clasificar_0_aIfFEnFAv3.html",
-     "source": "Olé — River",
-     "published": "2026-10-15T19:02:00+00:00",
-     "copete": "El equipo de Ponzio se quedó sin margen de error tanto en la anual como en el Clausura.",
-     "id": "c972af590715"
-    },
-    {
-     "title": "Expectativa en River por la evolución de Acuña: ¿llega al partido contra Belgrano?",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-marcos-acuna-tocado-belgrano_0_FKjWLB8MJt.html",
-     "source": "Olé — River",
-     "published": "2026-10-15T18:33:04+00:00",
-     "copete": "El lateral zurdo sufrió un fuerte pisotón en el empeine en Junín y continúa con dolor en la zona. Este jueves hizo trabajos regenerativos.",
-     "id": "a5e835de6c87"
-    },
-    {
      "title": "\"Los Pumas hoy tienen uno de los mejores staffs del mundo\": la contundente mirada de una leyenda tras las llegadas de Edwards y Ledesma",
      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMS1yWXBwd3E0cXdGTG1vVm0tdGpBdlN0LTc2QzZvYl8yZ1YzU1VZVXNyeFVOdVdBRHBnTXBURkxISlJsdDBZYjY5SXVxYWRESGZsSm1Ld1JISU0yVGVjZHB6cTdubm5iaENwN1Bya2VDNW5JWFBQalF4RXFJYTkyNEcxNkxWcEVZWjZjVElkOXJaVHh0YUhpRy1LSWw0V2J6MWttWUpMVzc4S2t2VEJfV2dSOFAtaU1tMUcyUUtHN0tELTc1VmdVclBIQTF2aEJlUy1Pd3oyZXU2RDVsVDJhckhNODZLc3dPNXdHag?oc=5",
      "source": "ESPN Argentina",
      "published": "2026-10-15T17:52:00+00:00",
      "id": "2a1a56a16da8"
-    },
-    {
-     "title": "¿Una exestrella de Australia puede convertirse en una amenaza para Los Pumas en el Mundial 2027?",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb3JYdGpFcGVxelBaMXhWemRHX18zNEhOQ2Zjd1ZBNmc4a1NjS2tyd3BaMThQQnM1RVpPQ3l4ejdWSzlGTTNFUVlicXZCUmdxaUUtUWZCQ2hxb1EybzJDcXZWQ1R1OVhIMktqeTU2dDhMQ2xMRk1EdzI4QUI3blZqdUlDMVVNX0QyM0h5UDBCYjJWLXZfb2ZrTWlUUkNHbE9ueWZmdmZyYll4Y2RHbzQtSlpsRnRGVExNU2hvbA?oc=5",
-     "source": "Cordoba XV",
-     "published": "2026-10-15T13:25:42+00:00",
-     "id": "d18e07e8e663"
-    },
-    {
-     "title": "Pesaba 115 kilos, jugaba en los Pumas y hoy canta ópera en Francia",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQTJhS3RqMlpCRGc1RGtLQmlORXVJYjBSRFNrWm1wVTRMV3k4ekhvSTVKLXYxUkJOaThSRjEzZXF3ZGVaVl9HWmY1QkVoVDJNMVhGZ3FRR1FjS0tTMEhmN1FOLTJEMmk4XzFyaDBYWC14TXRHOWQxeHhoQjdDaUYxQjZHV1F5RG15ZHBvUUJtYzRKc0hCRGdERkhseGwzNFk0?oc=5",
-     "source": "TyC Sports",
-     "published": "2026-10-15T12:47:06+00:00",
-     "id": "cd563b81ccc0"
     },
     {
      "title": "Concentración M19 en Carlos Paz",
@@ -189,18 +189,32 @@
    "mode": "resumen",
    "items": [
     {
-     "title": "What I Self-Host",
+     "title": "Any window from your Mac, on your iPhone and iPad",
+     "link": "https://github.com/Saffsanity/sill",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-10-16T01:43:17+00:00",
+     "id": "7a6f2da01b7a"
+    },
+    {
+     "title": "RPKI now protects 70% of internet routes",
+     "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-10-16T00:52:35+00:00",
+     "id": "4eea137244c4"
+    },
+    {
+     "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+     "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-10-15T23:37:42+00:00",
+     "id": "7e080edd95ec"
+    },
+    {
+     "title": "What I self-host",
      "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
      "source": "Hacker News (100+ puntos)",
      "published": "2026-10-15T20:23:25+00:00",
      "id": "cce7776caf6b"
-    },
-    {
-     "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-     "link": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-10-15T19:55:49+00:00",
-     "id": "6327bf4d2077"
     },
     {
      "title": "Chirp Pong",
@@ -209,20 +223,6 @@
      "published": "2026-10-15T19:47:52+00:00",
      "copete": "Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work! Build a…",
      "id": "08c79764230e"
-    },
-    {
-     "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
-     "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-10-15T19:21:38+00:00",
-     "id": "32a34d991661"
-    },
-    {
-     "title": "E Ink Kaleido 4",
-     "link": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-10-15T18:38:16+00:00",
-     "id": "e656cc51906e"
     },
     {
      "title": "Abacus AI Honest Review: Key Criticisms, Facts & What Users Should Know",
@@ -272,100 +272,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Holland Taylor revela por qué no quiere trabajar  junto a Sarah Paulson pese a tener más de dos décadas de relación",
-     "link": "https://www.infobae.com/entretenimiento/2026/10/16/holland-taylor-revela-por-que-no-quiere-trabajar-junto-a-sarah-paulson-pese-a-tener-mas-de-dos-decadas-de-relacion/",
-     "source": "Infobae",
-     "published": "2026-10-16T00:24:53+00:00",
-     "copete": "La actriz de The Morning Show explicó que ella y su pareja ya hablaron sobre la posibilidad de compartir pantalla, pero ninguna de las dos está convencida",
-     "id": "d3b0831b4a83"
-    },
-    {
-     "title": "Estudiantes vs. Flamengo, en vivo, por la Copa Libertadores: el minuto a minuto de la semifinal",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/estudiantes-vs-flamengo-en-vivo-por-la-copa-libertadores-nid15102026/",
+     "title": "Lance Knowling, chef: “Nunca guardo los aguacates en la nevera hasta que estén perfectamente maduros”",
+     "link": "https://www.lanacion.com.ar/lifestyle/lance-knowling-chef-nunca-guardo-los-aguacates-en-la-nevera-hasta-que-esten-perfectamente-maduros-nid16102026/",
      "source": "La Nación",
-     "published": "2026-10-16T00:22:38+00:00",
-     "copete": "En el estadio Uno de La Plata, el Pincha recibe al Mengão por el partido de ida de la serie",
-     "id": "421ce189ae18"
+     "published": "2026-10-16T07:11:00+00:00",
+     "copete": "El chef Lance Knowling explicó por qué nunca guarda los aguacates en la nevera antes de que estén maduros. Mira su truco de cocina.",
+     "id": "858c3b405425"
     },
     {
-     "title": "Estudiantes abre su llave de semifinales de Copa Libertadores ante Flamengo en La Plata: formaciones confirmadas",
-     "link": "https://www.infobae.com/deportes/2026/10/15/estudiantes-abre-su-llave-de-semifinales-de-copa-libertadores-ante-flamengo-en-la-plata-hora-tv-y-probables-formaciones/",
-     "source": "Infobae",
-     "published": "2026-10-16T00:22:31+00:00",
-     "copete": "El Pincha disputa el primer chico de semis ante el Fla. Se juega en Uno. Televisan Telefé, Fox Sports y Disney+",
-     "id": "4736c3f53e41"
-    },
-    {
-     "title": "Desde EEUU, Milei ratificó su apoyo a Israel, atacó a Irán y condenó la ola global de antisemitismo",
-     "link": "https://www.infobae.com/politica/2026/10/15/desde-eeuu-milei-ratifico-su-apoyo-a-israel-ataco-a-iran-y-condeno-la-ola-global-de-antisemitismo/",
-     "source": "Infobae",
-     "published": "2026-10-16T00:22:13+00:00",
-     "copete": "El Presidente encabezó un acto en la embajada argentina. Enfatizó su posición personal e ideológica contra el terrorismo y confirmó su alianza estratégica con la administración Trump. “Habrá tolerancia cero con el antisemitismo”, afirmó",
-     "id": "1bc5ea007729"
-    },
-    {
-     "title": "“Algo fuerte está cambiando en Argentina”: la frase de Galperin sobre los disturbios en el Congreso y la compra de reservas",
-     "link": "https://www.infobae.com/economia/2026/10/16/algo-fuerte-esta-cambiando-en-argentina-la-frase-de-galperin-sobre-los-disturbios-en-el-congreso-y-la-compra-de-reservas/",
-     "source": "Infobae",
-     "published": "2026-10-16T00:22:09+00:00",
-     "copete": "El empresario vinculó los incidentes en la Marcha Universitaria y el intento opositor contra el DNU 70/2023 con el avance de las tenencias del Banco Central",
-     "id": "36a0c26ae099"
-    },
-    {
-     "title": "Por falta de quorum, fracasó la sesión convocada por la oposición para voltear el DNU 70/23 de Milei",
-     "link": "https://www.lanacion.com.ar/politica/por-falta-de-quorum-fracaso-la-sesion-convocada-por-la-oposicion-para-voltear-el-dnu-7023-nid15102026/",
+     "title": "Javier Milei y sus medidas, EN VIVO: el FMI espera una “aceleración muy positiva de crecimiento económico para 2027″",
+     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-fmi-espera-una-aceleracion-muy-positiva-de-crecimiento-nid16102026/",
      "source": "La Nación",
-     "published": "2026-10-16T00:17:45+00:00",
-     "copete": "Los bloques críticos no lograron conseguir los avales necesarios para abrir el recinto; el oficialismo logró el apoyo clave de los gobernadores Pullaro, Jaldo y Sadir para bloquear el debate",
-     "id": "df21d1d30297"
+     "published": "2026-10-16T07:01:22+00:00",
+     "copete": "El minuto a minuto de las decisiones del mandatario, las reacciones de la oposición y las declaraciones de los funcionarios",
+     "id": "60cc91cc5048"
     },
     {
-     "title": "Graves incidentes entre los manifestantes y la policía durante la marcha universitaria en el Congreso",
-     "link": "https://www.lanacion.com.ar/sociedad/escala-el-conflicto-universitario-una-multitud-marcha-al-congreso-para-reclamar-financiamiento-y-nid15102026/",
-     "source": "La Nación",
-     "published": "2026-10-16T00:17:17+00:00",
-     "copete": "Hubo corridas, piedrazos y enfrentamientos; al menos diez personas resultaron heridas; las organizaciones convocantes cuestionaron el incumplimiento de la ley y advirtieron por la situación presupuestaria del sector",
-     "id": "eb930f1d6a76"
-    },
-    {
-     "title": "Se conoció qué hizo Juanse con el premio Martín Fierro de la Música que ganó",
-     "link": "https://www.infobae.com/teleshow/2026/10/16/se-conocio-que-hizo-juanse-con-el-premio-martin-fierro-de-la-musica-que-gano/",
-     "source": "Infobae",
-     "published": "2026-10-16T00:16:26+00:00",
-     "copete": "El líder de Ratones Paranoicos sorprendió tras la ceremonia: cuál fue el destino del galardón",
-     "id": "cf074c0f3a0e"
-    },
-    {
-     "title": "Thiago Príncipe tiene 14 años, construyó un tractor con piezas recuperadas y ahora quiere automatizarlo: “Sentí la innovación”",
-     "link": "https://www.lanacion.com.ar/economia/campo/thiago-principe-tiene-14-anos-construyo-un-tractor-con-piezas-recuperadas-y-ahora-quiere-nid14102026/",
-     "source": "La Nación",
-     "published": "2026-10-16T00:15:42+00:00",
-     "copete": "El adolescente vive en la zona rural de San Ambrosio, cerca de Río Cuarto; después de presentar su “tractoneta” en exposiciones, visitó la planta de CNH en Córdoba para conocer cómo se fabrican las máquinas agrícolas",
-     "id": "c0c2ddbcfe46"
-    },
-    {
-     "title": "Tragedia: un trabajador rural murió ahogado mientras rescataba vacas de una zona de campos inundados",
-     "link": "https://www.lanacion.com.ar/economia/campo/tragedia-un-trabajador-rural-murio-ahogado-mientras-rescataba-vacas-de-una-zona-de-campos-inundados-nid15102026/",
-     "source": "La Nación",
-     "published": "2026-10-16T00:09:26+00:00",
-     "copete": "Fue en Villa Ocampo, en el norte de Santa Fe, una de las regiones afectadas por el desborde del río Paraná",
-     "id": "d8e52d00f8b2"
-    },
-    {
-     "title": "Nueva promesa electoral de Lula: tras la reducción de la jornada laboral, quiere transporte público gratis los fines de semana",
-     "link": "https://www.clarin.com/mundo/nueva-promesa-electoral-lula-reduccion-jornada-laboral-quiere-transporte-publico-gratis-fines-semana_0_3oPc8BWA1f.html",
+     "title": "Dólar blue hoy: a cuánto cotiza este viernes 16 de octubre",
+     "link": "https://www.clarin.com/economia/dolar-blue-hoy-cotiza-viernes-16-octubre_0_SZfcXQl84D.html",
      "source": "Clarín",
-     "published": "2026-10-15T23:43:47+00:00",
-     "copete": "El presidente brasileño aseguró que la medida pretende que los trabajadores puedan pasear y \"ser felices\". Las encuestas siguen ubicándolo por detrás de Flavio Bolsonaro para el balotaje del domingo 25 de octubre.",
-     "id": "45de7c22491d"
+     "published": "2026-10-16T07:00:07+00:00",
+     "copete": "Mirá la cotización para la compra y venta del dólar blue hoy. La brecha con el dólar oficial.",
+     "id": "663f9888ac83"
     },
     {
-     "title": "EEUU revela ayuda multimillonaria para Comunidad del Caribe tras reunión con su presidente",
-     "link": "https://www.clarin.com/estados-unidos/eeuu-revela-ayuda-multimillonaria-para-comunidad-del-caribe-tras-reunion-con-su-presidente_0_srwrJoeVZK.html",
+     "title": "Noticias del DHS: el Uscis confirma cambios para los permisos de trabajo EAD, trámites de parole y TPS",
+     "link": "https://www.lanacion.com.ar/estados-unidos/visas-y-tramites/noticias-del-dhs-el-uscis-confirma-cambios-para-los-permisos-de-trabajo-ead-tramites-de-parole-y-tps-nid15102026/",
+     "source": "La Nación",
+     "published": "2026-10-16T06:54:00+00:00",
+     "copete": "Conoce las nuevas tarifas de Uscis para 2027, cuánto costarán los permisos de trabajo EAD, el parole y el TPS, y desde cuándo entrarán en vigor los cambios.",
+     "id": "6cb227d00805"
+    },
+    {
+     "title": "El cheque del IRS de hasta US$5100 dólares que recibirán familias que apliquen un formulario clave en EE.UU.",
+     "link": "https://www.lanacion.com.ar/estados-unidos/el-cheque-del-irs-de-hasta-us5100-dolares-que-recibiran-familias-que-apliquen-un-formulario-clave-en-nid15102026/",
+     "source": "La Nación",
+     "published": "2026-10-16T06:48:00+00:00",
+     "copete": "Conoce cómo solicitar al IRS hasta US$5100 en créditos reembolsables por hijos, qué requisitos deben cumplir las familias y qué formularios presentar.",
+     "id": "8d8f70edfe71"
+    },
+    {
+     "title": "El FMI ratificó su confianza en el crecimiento económico de la Argentina, pero advirtió sobre el mercado laboral",
+     "link": "https://www.lanacion.com.ar/economia/el-fmi-ratifico-su-confianza-en-el-crecimiento-economico-de-la-argentina-pero-advirtio-sobre-el-nid16102026/",
+     "source": "La Nación",
+     "published": "2026-10-16T06:46:04+00:00",
+     "copete": "En una conferencia de prensa sobre el Hemisferio Occidental, en Bangkok, referentes del organismo internacional analizaron la coyuntura del país de cara al 2027",
+     "id": "c36fa24f4266"
+    },
+    {
+     "title": "La ANMAT prohibió un dispositivo de depilación definitiva por irregularidades sanitarias",
+     "link": "https://www.infobae.com/sociedad/2026/10/16/la-anmat-prohibio-un-dispositivo-de-depilacion-definitiva-por-irregularidades-sanitarias/",
+     "source": "Infobae",
+     "published": "2026-10-16T06:41:36+00:00",
+     "copete": "La medida fue publicada en el Boletín Oficial esta madrugada. Además, el Gobierno impuso una restricción similar sobre una serie de insumos médicos de una firma específica, contra la que se inició un sumario",
+     "id": "cff3d978ecc2"
+    },
+    {
+     "title": "Detuvieron a dos ex policías tras ser baleados en un tiroteo en la megatoma de La Plata",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/10/16/detuvieron-a-dos-ex-policias-tras-ser-baleados-en-un-tiroteo-en-la-megatoma-de-la-plata/",
+     "source": "Infobae",
+     "published": "2026-10-16T06:32:22+00:00",
+     "copete": "Ambos están fuera de peligro y permanecen detenidos por decisión judicial, mientras los investigadores intentan reconstruir la secuencia del enfrentamiento y dar con quienes realizaron los disparos",
+     "id": "650a763a92c6"
+    },
+    {
+     "title": "Oficial y confirmado | California multará a los robotaxis que hagan esto",
+     "link": "https://www.clarin.com/estados-unidos/oficial-confirmado-california-multara-robotaxis-hagan_0_x92kmWFtMR.html",
      "source": "Clarín",
-     "published": "2026-10-15T23:40:09+00:00",
-     "copete": "EE.UU. destina más de 175 millones de dólares para mejorar infraestructuras digitales en el Caribe, fortaleciendo la conectividad y seguridad regional. Además, se invertirán 55 millones en seguridad y 11 millones en defensa para reforzar…",
-     "id": "fe52aaf8df2f"
+     "published": "2026-10-16T06:25:24+00:00",
+     "copete": "La ley firmada por Gavin Newsom establece nuevas obligaciones para las empresas de vehículos autónomos. Qué situaciones podrán generar sanciones.",
+     "id": "5f6322f838fd"
+    },
+    {
+     "title": "La psicología dice que durante las décadas de 1960 y 1970, muchos niños crecieron con una libertad cotidiana diferente de la que experimentan las nuevas generaciones. Volvían solos de la escuela, pasaban horas jugando sin supervisión directa y resolvían pequeños conflictos sin recurrir inmediatamente a sus padres",
+     "link": "https://www.clarin.com/estados-unidos/psicologia-dice-decadas-1960-1970-ninos-crecieron-libertad-cotidiana-diferente-experimentan-nuevas-generaciones-volvian-solos-escuela-pasaban-horas-jugando-supervision-directa-resolvian-pequenos-conflictos-recurrir-inmediatamente-padres_0_ArvBILtV3y.html",
+     "source": "Clarín",
+     "published": "2026-10-16T06:23:24+00:00",
+     "copete": "Por qué algunos niños que crecieron en los años 60 y 70 aprendieron a manejar sus emociones sin ayuda constante de los adultos: qué dice la psicología.",
+     "id": "2051a48629e1"
+    },
+    {
+     "title": "Investigan a un agente de tránsito de Córdoba por atacar a tiros una casa por una presunta deuda",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/10/16/investigan-a-un-agente-de-transito-de-cordoba-por-atacar-a-tiros-una-casa-por-una-presunta-deuda/",
+     "source": "Infobae",
+     "published": "2026-10-16T06:20:49+00:00",
+     "copete": "Un menor resultó herido luego de que dos personas en moto abrieran fuego. Minutos antes, una mujer se había presentado en la vivienda para exigir el pago de intereses. Sería la esposa del funcionario municipal",
+     "id": "30af316e5bd4"
+    },
+    {
+     "title": "Oficial y confirmado | Filadelfia anuncia una inversión de 2.000 millones de dólares para mejorar los aeropuertos de la ciudad",
+     "link": "https://www.clarin.com/estados-unidos/oficial-confirmado-filadelfia-anuncia-inversion-2000-millones-dolares-mejorar-aeropuertos-ciudad_0_mvDdVctOx2.html",
+     "source": "Clarín",
+     "published": "2026-10-16T06:19:24+00:00",
+     "copete": "Las obras incluyen la renovación de las terminales y la instalación de un sistema para detener a los aviones en una situación de emergencia.",
+     "id": "a49b9cb29c68"
     }
    ]
   },
@@ -375,84 +375,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Al menos 3 niños y un adulto mueren en un tiroteo en una escuela primaria de Oregón, según medios en EE.UU.",
+     "title": "Un adolescente de 16 años mata a al menos 3 niños y un maestro en un tiroteo en una escuela primaria de Oregón",
      "link": "https://www.bbc.com/mundo/articles/ckj0l9lrenq6o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-10-16T00:28:01+00:00",
+     "published": "2026-10-16T07:01:58+00:00",
      "copete": "El incidente ocurrió en la escuela Silver Rail de la localidad de Bend alrededor de las 13:00, hora local. El sospechoso fue abatido, indicó la policía.",
      "id": "ee80a25461da"
     },
     {
-     "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
-     "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+     "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+     "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-10-15T23:38:46+00:00",
-     "copete": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
-     "id": "76de81fb62e3"
+     "published": "2026-10-16T05:00:17+00:00",
+     "copete": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
+     "id": "3cb35e61d8ec"
     },
     {
-     "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
-     "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
+     "title": "They fled Russia, but the West sent them back",
+     "link": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-10-15T23:27:21+00:00",
-     "copete": "The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.",
-     "id": "e67f86ac6cb4"
+     "published": "2026-10-16T04:57:28+00:00",
+     "copete": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge.",
+     "id": "ef6ef22a07ad"
     },
     {
-     "title": "Are student protests being manipulated ahead of France's presidential election?",
-     "link": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
+     "title": "Three children and teacher killed in US primary school shooting",
+     "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-10-15T23:25:06+00:00",
-     "copete": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
-     "id": "08d3b66205a5"
+     "published": "2026-10-16T03:45:09+00:00",
+     "copete": "The suspect was shot dead by an armed bystander who followed him into the Oregon school, police said.",
+     "id": "ec13367c2ac3"
     },
     {
-     "title": "Letters with 'suspicious substances' sent to US senators and election offices",
-     "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-15T22:46:49+00:00",
-     "copete": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
-     "id": "38cb098b6aec"
-    },
-    {
-     "title": "Cuáles son las lecciones que dejó El Niño más catastrófico de la historia",
-     "link": "https://www.bbc.com/mundo/articles/cqzjx4lr224go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-10-15T20:52:51+00:00",
-     "copete": "En 1877, los efectos del fenómeno de El Niño dejaron unos 50 millones de muertos a nivel global.",
-     "id": "9573d958daa0"
-    },
-    {
-     "title": "Por qué la estafadora Elizabeth Holmes sigue causando fascinación en EE.UU.",
-     "link": "https://www.bbc.com/mundo/articles/c65yng81r7g4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-10-15T20:30:39+00:00",
-     "copete": "La creadora de Theranos, una compañía que prometía diagnósticos con una sola gota de sangre, es objeto de un nuevo documental.",
-     "id": "ba4b05f26b10"
-    },
-    {
-     "title": "La dura negociación sobre el presupuesto de la UE amenaza el acuerdo antes del superaño electoral en Europa",
-     "link": "https://elpais.com/internacional/2026-10-15/la-dura-negociacion-sobre-el-presupuesto-de-la-ue-amenaza-el-acuerdo-antes-del-superano-electoral-en-europa.html",
+     "title": "Trump regala a Putin un nuevo balón de oxígeno con el acuerdo sobre el diésel",
+     "link": "https://elpais.com/internacional/2026-10-16/trump-regala-a-putin-un-nuevo-balon-de-oxigeno-con-el-acuerdo-sobre-el-diesel.html",
      "source": "El País Internacional",
-     "published": "2026-10-15T19:26:51+00:00",
-     "copete": "El presidente del Consejo, António Costa, se hace cargo de una negociación con posiciones muy enconadas",
-     "id": "4bfe4eb5f1f5"
+     "published": "2026-10-16T03:45:01+00:00",
+     "copete": "El pacto, que apenas tendrá impacto en los precios, dinamita la posición común de Occidente y afloja la soga financiera al Kremlin",
+     "id": "a0df59fc2b09"
     },
     {
-     "title": "En fotos: así es la nueva megacárcel de máxima seguridad de Costa Rica que imita a la de Bukele en El Salvador",
-     "link": "https://www.bbc.com/mundo/articles/c5n49gplp8gmo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-10-15T18:01:35+00:00",
-     "copete": "El CACCO, de cinco módulos con 17 celdas de 90 m², albergará a 5.100 presos.",
-     "id": "c93a5c5b5de3"
+     "title": "Las anunciadas reformas en Senegal encallan en rivalidades internas y una deuda estratosférica",
+     "link": "https://elpais.com/internacional/2026-10-16/las-anunciadas-reformas-en-senegal-encallan-en-rivalidades-internas-y-una-deuda-estratosferica.html",
+     "source": "El País Internacional",
+     "published": "2026-10-16T03:45:01+00:00",
+     "copete": "El país votó masivamente por el cambio en 2024, pero su esperanza se ha desvanecido entre la subida de precios, los cortes de luz y la sombra de la parálisis institucional",
+     "id": "bbadb77045de"
     },
     {
-     "title": "\"Soy completamente inocente\": Nicolás Maduro y Cilia Flores se declaran no culpables de los nuevos cargos de tortura",
-     "link": "https://www.bbc.com/mundo/articles/cqzjx42ld8wpo?at_medium=RSS&at_campaign=rss",
+     "title": "Ucrania necesita usar los satélites de Starlink en la guerra, pero el Pentágono tiene el control",
+     "link": "https://elpais.com/internacional/2026-10-16/ucrania-necesita-usar-los-satelites-de-starlink-en-la-guerra-pero-el-pentagono-tiene-el-control.html",
+     "source": "El País Internacional",
+     "published": "2026-10-16T03:30:01+00:00",
+     "copete": "La información del sistema de comunicación de la empresa de Elon Musk permite a las fuerzas ucranias ser más certeras en las operaciones de interceptación de proyectiles rusos y en ataques en el frente. No hay alternativa europea semejante",
+     "id": "0a65652788da"
+    },
+    {
+     "title": "Carolyn Rodrigues-Birkett, candidata a liderar la ONU: “No elegir a una mujer sería un mensaje muy negativo para el mundo”",
+     "link": "https://elpais.com/internacional/2026-10-16/carolyn-rodrigues-birkett-candidata-a-liderar-la-onu-no-elegir-a-una-mujer-seria-un-mensaje-muy-negativo-para-el-mundo.html",
+     "source": "El País Internacional",
+     "published": "2026-10-16T03:30:01+00:00",
+     "copete": "La embajadora de Guyana pide que en la selección de secretario general se respete el turno de América Latina y que si surgen nuevos nombres se sometan al mismo escrutinio que han pasado los candidatos oficiales",
+     "id": "1255c157e65f"
+    },
+    {
+     "title": "Investigación BBC: el ejército de Israel no ha hecho públicos los resultados de cientos de pesquisas por muertos y heridos en Medio Oriente",
+     "link": "https://www.bbc.com/mundo/articles/c69wzgv94g11o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-10-15T17:41:22+00:00",
-     "copete": "El expresidente de Venezuela y su esposa rechazaron las nuevas acusaciones sobre conspiración para cometer torturas en una corte federal de Nueva York.",
-     "id": "24ac54f9ba72"
+     "published": "2026-10-16T03:01:58+00:00",
+     "copete": "BBC Verify ha identificado 254 incidentes de los últimos tres años que el ejército israelí ha declarado estar revisando tras haber sido acusado de causar daños, pero sin informar los resultados.",
+     "id": "be894ab3c33e"
+    },
+    {
+     "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+     "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-16T01:36:45+00:00",
+     "copete": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+     "id": "8e8aea70dcb1"
     }
    ]
   }

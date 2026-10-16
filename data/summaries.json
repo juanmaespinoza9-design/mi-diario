@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T22:07:32Z",
+  "generated_at": "2026-10-16T10:07:20Z",
   "summaries": {
     "13d9d949a8b1": {
       "resumen": "Informe que resume los datos estadísticos más recientes de insuficiencia cardíaca (IC) en Estados Unidos, en el marco de la actualización anual de estadísticas de enfermedad cardíaca y accidente cerebrovascular que elabora la AHA (American Heart Association, Asociación Americana del Corazón). Vale la pena mirarlo porque confirma que la prevalencia, la mortalidad y los costos asociados a la IC siguen en aumento, reforzando que sigue siendo un problema de salud pública creciente.",
@@ -21,7 +21,7 @@
     },
     "3bae74a956e6": {
       "resumen": "Un estudio comparó la angioplastia coronaria percutánea (ACTP, intervención coronaria percutánea) temprana versus un abordaje más conservador en pacientes con infarto sin elevación del segmento ST (NSTEMI, non-ST-segment elevation myocardial infarction) que además tienen insuficiencia cardíaca (IC) estable, y encontró que la revascularización temprana se asoció a peores resultados. Vale la pena mirarlo porque cuestiona la práctica habitual de apurar la angioplastia en estos pacientes.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: Nota de TCTMD sobre un estudio (probablemente observacional o un subanálisis de registro) que compara la intervención coronaria percutánea (ACTP) temprana contra un manejo más diferido en NSTEMI; el título no especifica si es aleatorizado, el número de centros ni de pacientes.\nPoblación: Pacientes con infarto agudo de miocardio sin elevación del segmento ST (NSTEMI) que además presentan insuficiencia cardíaca (IC) estable; no se detallan otros criterios de inclusión o exclusión.\nIntervención: Angioplastia coronaria percutánea (ACTP) temprana frente a un abordaje más diferido o conservador.\nResultados: No disponibles en esta nota; el título solo indica que la ACTP temprana se asoció a \"peores resultados\", sin cifras de razón de riesgo, intervalos de confianza ni valor de p.\nLimitaciones: Al ser una nota periodística y no el artículo original, no se puede descartar confusión por indicación (los pacientes llevados a revascularización temprana podrían ser más graves de entrada) ni valorar el tamaño muestral.\nMensaje: Si se confirma, invitaría a ser más cautos con la revascularización apurada en NSTEMI cuando coexiste insuficiencia cardíaca estable, priorizando primero la estabilización clínica; la asociación observada, de todos modos, no prueba causalidad.\nNota: análisis sin acceso al abstract."
     },
     "869443fefcea": {
@@ -37,37 +37,16 @@
       "resumen": "Artículo de perspectiva de JACC (Journal of the American College of Cardiology) que plantea repensar el lugar donde se brinda la atención de la insuficiencia cardíaca (IC), poniendo el foco en el domicilio del paciente como destino de cuidado en lugar del hospital. Vale la pena mirarlo porque refleja la tendencia hacia modelos de atención más centrados en el hogar para una enfermedad crónica de alta carga asistencial.",
       "destacado": false
     },
-    "47532228f037": {
-      "resumen": "Ensayo publicado en JACC (Journal of the American College of Cardiology) que evalúa una estrategia de alta hospitalaria temprana que incluye furosemida subcutánea (un diurético de asa administrado por vía subcutánea, en lugar de la intravenosa habitual) en pacientes internados por insuficiencia cardíaca (IC) descompensada. Vale la pena mirarlo porque explora una alternativa para acortar la estadía hospitalaria sin resignar el control de la congestión.",
-      "destacado": true,
-      "analisis": "Diseño: Artículo original de JACC (Journal of the American College of Cardiology) firmado por Campbell RT et al.; por el título correspondería a un ensayo clínico o estudio piloto que evalúa una estrategia de alta temprana con furosemida subcutánea en insuficiencia cardíaca (IC); no se especifica en el título si es aleatorizado, el número de centros ni de pacientes.\nPoblación: Pacientes hospitalizados por insuficiencia cardíaca (IC) descompensada, candidatos a continuar la diuresis de forma ambulatoria; no se detallan otros criterios de inclusión o exclusión en el título.\nIntervención: Estrategia de alta hospitalaria temprana con furosemida administrada por vía subcutánea, frente al manejo estándar con diurético intravenoso durante toda la internación.\nResultados: No disponibles en esta nota; el título no aporta cifras de reingresos, duración de la estadía, eventos adversos ni valor de p.\nLimitaciones: Sin acceso al cuerpo del artículo no se puede valorar el tamaño muestral, la seguridad de la vía subcutánea (irritación cutánea, biodisponibilidad) ni el seguimiento post-alta.\nMensaje: Si los resultados son favorables, esta estrategia podría permitir acortar internaciones por insuficiencia cardíaca sin sacrificar el control de la congestión, trasladando parte del tratamiento diurético al ámbito ambulatorio.\nNota: análisis sin acceso al abstract."
-    },
     "911ab8e2ae5d": {
       "resumen": "Nota de TCTMD que repasa cómo el tamizaje (screening) sistemático, cambios legislativos y herramientas de inteligencia artificial (IA) podrían ayudar a cerrar las brechas de atención en la enfermedad arterial periférica (EAP, PAD por sus siglas en inglés), una patología subdiagnosticada y con acceso desigual a diagnóstico y tratamiento. Vale la pena mirarlo porque plantea un enfoque combinado (clínico, político y tecnológico) para un problema de salud pública que suele quedar relegado frente a la enfermedad coronaria.",
-      "destacado": false
-    },
-    "175dd15b0d07": {
-      "resumen": "Entrada reflexiva del matemático Terence Tao, muy comentada en Hacker News, que se pregunta cuál es el sentido último de hacer investigación matemática en un momento en que la inteligencia artificial (IA) empieza a asistir e incluso automatizar parte de las demostraciones de teoremas. Le aporta a un médico que aprende análisis de datos una mirada honesta sobre cómo la IA está corriendo el foco del trabajo intelectual en las ciencias cuantitativas, algo que también está pasando en medicina e investigación clínica.",
       "destacado": false
     },
     "08c79764230e": {
       "resumen": "Simon Willison comparte un experimento curioso de inteligencia artificial (IA) generativa bautizado \"Chirp Pong\", en el que un modelo se usa para recrear o reinterpretar el clásico videojuego Pong a partir de sonidos o instrucciones simples. Le sirve a un médico que aprende análisis de datos como ejemplo liviano de cómo se prototipan ideas con IA generativa, aunque conviene revisar la fuente original para los detalles técnicos concretos.",
       "destacado": false
     },
-    "34bf133078de": {
-      "resumen": "El blog de investigación de Meta AI presenta \"Muse Spark Open\", aparentemente una versión abierta de su modelo generativo de mundos/juegos (la línea \"Muse\"), que permitiría a la comunidad acceder y experimentar con esta tecnología. Le interesa a un médico que aprende análisis de datos porque muestra la tendencia de las grandes compañías de IA a liberar modelos antes cerrados, ampliando el acceso a herramientas de punta; conviene revisar la fuente original para los detalles técnicos.",
-      "destacado": false
-    },
     "e188260d71ee": {
       "resumen": "KDnuggets publica una reseña crítica de Abacus AI, una plataforma de aprendizaje automático (machine learning) todo en uno, repasando sus principales críticas y lo que los usuarios deberían saber antes de adoptarla. Le sirve a un médico que aprende análisis de datos como una mirada honesta (no solo promocional) sobre las limitaciones reales de una herramienta de IA antes de invertir tiempo en aprenderla.",
-      "destacado": false
-    },
-    "acc03d08e7b8": {
-      "resumen": "El blog de Zach Landes explora cómo responde Jev, un agente de inteligencia artificial (IA), ante el clásico dilema ético del \"problema del tranvía\", usado como forma de poner a prueba su razonamiento moral y su toma de decisiones. Le aporta a un médico que aprende análisis de datos una manera concreta de pensar cómo evaluar el comportamiento ético de los sistemas de IA antes de confiarles decisiones sensibles.",
-      "destacado": false
-    },
-    "a0d58fa52c7a": {
-      "resumen": "Krea presenta la versión 3 de su modelo de inteligencia artificial (IA) para generación de imágenes, diseñado específicamente para tareas de edición de imágenes a gran escala. Le sirve a un médico que aprende análisis de datos porque ilustra cómo los modelos generativos de imagen están evolucionando desde crear contenido nuevo hacia editar y modificar contenido existente de forma controlada.",
       "destacado": false
     },
     "e95a3e663456": {
@@ -89,11 +68,31 @@
     "2a1a56a16da8": {
       "resumen": "Una leyenda del rugby argentino destacó la jerarquía del cuerpo técnico de Los Pumas tras la llegada de Edwards y Ledesma al staff."
     },
-    "d18e07e8e663": {
-      "resumen": "Se analiza si una exfigura del rugby australiano podría convertirse en una amenaza para Los Pumas de cara al Mundial 2027."
+    "deec5dd59dfd": {
+      "resumen": "Declaración científica 2026 del ACC (American College of Cardiology, Colegio Americano de Cardiología) que actualiza las recomendaciones de prescripción de ejercicio físico para la salud cardiovascular en adultos. Vale la pena mirarlo porque ordena, con base en evidencia, cómo dosificar la actividad física (tipo, intensidad, frecuencia) según el perfil de riesgo de cada paciente, algo que se indica mucho pero se prescribe poco en la práctica diaria.",
+      "destacado": false
     },
-    "cd563b81ccc0": {
-      "resumen": "La insólita historia de un exjugador de Los Pumas que dejó atrás sus 115 kilos de rugby para dedicarse hoy a cantar ópera en Francia."
+    "7a6f2da01b7a": {
+      "resumen": "Proyecto de código abierto en GitHub que permite transmitir cualquier ventana de una Mac a un iPhone o iPad, como una suerte de escritorio remoto liviano entre dispositivos Apple. Le sirve a un médico que aprende análisis de datos como ejemplo de herramientas de productividad que permiten seguir trabajando (por ejemplo, revisando notebooks o tableros de datos) desde distintos dispositivos sin depender de un único equipo.",
+      "destacado": false
+    },
+    "4eea137244c4": {
+      "resumen": "Blog técnico que repasa cómo el RPKI (Resource Public Key Infrastructure, infraestructura de claves públicas para rutas de internet) ya protege al 70% de las rutas de tráfico de internet, reduciendo el riesgo de secuestro de rutas (route hijacking). Le interesa a un médico que aprende análisis de datos porque es un recordatorio de que la infraestructura que sostiene la transmisión segura de datos, incluidos los de salud, sigue mejorando aunque todavía de forma incompleta.",
+      "destacado": false
+    },
+    "7e080edd95ec": {
+      "resumen": "Nota de Nieman Lab que advierte, según expertos consultados, que los nuevos términos comerciales de Meta habilitarían el scraping (recolección automatizada de datos) de sitios de noticias. Le sirve a un médico que aprende análisis de datos porque expone cómo las grandes empresas de inteligencia artificial (IA) consiguen los datos con los que entrenan sus modelos, y las tensiones legales y éticas que eso genera.",
+      "destacado": false
+    },
+    "cce7776caf6b": {
+      "resumen": "Entrada de blog personal que repasa qué servicios y aplicaciones el autor decidió autohospedar (self-host) en su propia infraestructura en lugar de depender de servicios en la nube de terceros. Le aporta a un médico que aprende análisis de datos una introducción práctica al autohospedaje como forma de tener más control sobre sus propios datos y herramientas de trabajo.",
+      "destacado": false
+    },
+    "fe30097f75ff": {
+      "resumen": "Exjugadores que pasaron por seleccionados nacionales se forman y capacitan en su camino hacia el Alto Rendimiento deportivo."
+    },
+    "c1ff466a49e0": {
+      "resumen": "Los Wallabies de Australia buscan la revancha ante los All Blacks de Nueva Zelanda en un test match que se juega en la madrugada argentina del sábado."
     }
   }
 }

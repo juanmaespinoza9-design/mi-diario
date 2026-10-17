@@ -1,10 +1,6 @@
 {
-  "generated_at": "2026-10-16T22:07:39Z",
+  "generated_at": "2026-10-17T10:05:22Z",
   "summaries": {
-    "79da959693d4": {
-      "resumen": "Artículo de European Heart Journal vinculado a las guías de la ESC (European Society of Cardiology, Sociedad Europea de Cardiología) que repasa los mecanismos fisiopatológicos de la miocarditis y suma evidencia novedosa sobre su tratamiento con antagonistas del receptor de mineralocorticoides (ARM), glucósidos cardíacos (como la digoxina) y agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1). Vale la pena mirarlo porque actualiza el enfoque terapéutico de una entidad con pocas opciones basadas en evidencia sólida hasta ahora.",
-      "destacado": false
-    },
     "3bae74a956e6": {
       "resumen": "Un estudio comparó la angioplastia coronaria percutánea (ACTP, intervención coronaria percutánea) temprana versus un abordaje más conservador en pacientes con infarto sin elevación del segmento ST (NSTEMI, non-ST-segment elevation myocardial infarction) que además tienen insuficiencia cardíaca (IC) estable, y encontró que la revascularización temprana se asoció a peores resultados. Vale la pena mirarlo porque cuestiona la práctica habitual de apurar la angioplastia en estos pacientes.",
       "destacado": true,
@@ -49,18 +45,6 @@
       "resumen": "El equipo de Claude Code (la herramienta de programación asistida por inteligencia artificial, IA, de Anthropic) cuenta cómo organiza internamente la revisión de código, combinando revisores humanos con agentes de IA. Le sirve a un médico que aprende análisis de datos porque muestra buenas prácticas de revisión aplicables a sus propios scripts o notebooks, y cómo la IA puede ayudar a detectar errores antes de confiar en un análisis.",
       "destacado": false
     },
-    "7a6a342eb958": {
-      "resumen": "Anthropic (la empresa detrás de Claude) publicó una investigación en la que usó a Claude para analizar e intentar reconstruir el origen histórico de las curvas ECDSA (Elliptic Curve Digital Signature Algorithm, algoritmo de firma digital basado en curvas elípticas), un tema con larga sospecha de haber sido elegido de forma no transparente. Le aporta a un médico que aprende análisis de datos un ejemplo de cómo la IA puede usarse como herramienta de investigación forense sobre datos técnicos complejos, más allá de la aplicación directa en salud.",
-      "destacado": false
-    },
-    "0342f39befa1": {
-      "resumen": "Un desarrollador logró correr modelos de lenguaje en formato GGUF (un formato liviano de almacenamiento para modelos de IA) de forma nativa en una PlayStation 5 con jailbreak, usando la librería llama.cpp. Le sirve a un médico que aprende análisis de datos como muestra curiosa de hasta qué punto se puede optimizar y llevar modelos de IA a hardware de bajo costo, útil para entender los límites de cómputo al experimentar con IA local.",
-      "destacado": false
-    },
-    "a0696e415e0e": {
-      "resumen": "Anthropic (la empresa detrás de Claude) recibió en junio la calificación crediticia más alta dentro de la categoría de bonos de alto rendimiento o especulativos (\"junk bonds\"), según un informe financiero. Le interesa a un médico que aprende análisis de datos porque es un indicador más del respaldo financiero y la escala económica que están alcanzando las empresas de IA, contexto útil para evaluar la estabilidad de las herramientas que vaya a adoptar.",
-      "destacado": false
-    },
     "033f0e1d7bef": {
       "resumen": "El autor construyó una herramienta llamada CodeOwnership para medir cuánto entiende realmente una persona del código que le generó una IA: se calificó con confianza 4 sobre 5 en un fragmento, pero después no pudo encontrar un error plantado adrede en 8 minutos. Le sirve a un médico que aprende análisis de datos como alerta concreta sobre el riesgo de confiar en código o análisis generados por IA sin revisarlos a fondo, algo crítico cuando los resultados pueden impactar decisiones clínicas.",
       "destacado": false
@@ -81,21 +65,46 @@
       "resumen": "KDnuggets recomienda cinco recursos para aprender sobre los \"world models\" (modelos de mundo), una línea de inteligencia artificial que intenta simular cómo funciona el entorno para predecir consecuencias, en lugar de solo generar texto o imágenes. Le interesa a un médico que aprende análisis de datos como puerta de entrada a una tendencia emergente de la IA que podría aplicarse más adelante a simular evoluciones clínicas o fisiológicas.",
       "destacado": false
     },
-    "e448320e5190": {
-      "resumen": "Un usuario de Reddit analizó seis años de hilos anuales donde la comunidad de ciencia de datos comparte sus salarios, para sacar conclusiones sobre tendencias de remuneración en el campo. Le sirve a un médico que aprende análisis de datos como ejemplo práctico de análisis de datos autogestionado (recolección, limpieza y visualización de datos propios) aplicado a una pregunta concreta, y como referencia de mercado si piensa reconvertirse profesionalmente.",
-      "destacado": false
-    },
     "389d48a61c29": {
       "resumen": "Veintinueve jugadores argentinos de Los Pumas disputan partidos en clubes europeos este fin de semana, una vidriera clave de cara a las próximas convocatorias de la selección."
     },
     "3d09a8526859": {
       "resumen": "Hugo Porta, histórica figura del rugby argentino, analiza el salto al profesionalismo de Los Pumas y qué distingue al estilo de juego nacional."
     },
-    "1d9f03f62c34": {
-      "resumen": "Un estudio advierte que el riesgo de desarrollar diabetes aumenta marcadamente durante los primeros meses de tratamiento con antipsicóticos."
+    "a756a3c7d907": {
+      "resumen": "Es una corrección formal al artículo original de las ecuaciones PREVENT de la American Heart Association (Asociación Estadounidense del Corazón), que estiman el riesgo cardiovascular a 10 y 30 años incorporando función renal y factores cardiometabólicos. No cambia las conclusiones centrales, pero conviene revisarla si usás esas ecuaciones en la práctica diaria, para aplicar la versión correcta de las fórmulas o tablas.",
+      "destacado": false
     },
-    "e3c359f3b9ba": {
-      "resumen": "Una investigación asocia el hábito de dormir siesta con un mayor riesgo de desarrollar demencia."
+    "13f747337e12": {
+      "resumen": "Declaración científica de la American Heart Association (Asociación Estadounidense del Corazón) sobre el manejo antiagregante en síndromes coronarios, con foco en un abordaje multidisciplinario entre cardiología, farmacia clínica y atención primaria para optimizar la adherencia y reducir sangrados. Sirve como documento de referencia para estandarizar conductas en la residencia, más que para cambiar la práctica a partir de un estudio puntual.",
+      "destacado": false
+    },
+    "579fb02e981d": {
+      "resumen": "Estudio traslacional de Circulation que explora cómo dos proteínas de la familia angiopoietin-like (ANGPTL3 y ANGPTL8) regulan en conjunto los niveles de colesterol LDL (lipoproteínas de baja densidad), un mecanismo relevante porque ANGPTL3 ya es blanco de terapias aprobadas para dislipidemias severas. Interesa porque podría abrir la puerta a nuevas combinaciones terapéuticas para el control lipídico.",
+      "destacado": false,
+      "analisis": "Diseño: Artículo original de Circulation firmado por Xu Y et al.; por el título correspondería a un estudio traslacional/mecanístico (probablemente con modelos animales y/o líneas celulares, posiblemente complementado con cohortes humanas) sobre la regulación del colesterol LDL (lipoproteínas de baja densidad) por ANGPTL3 y ANGPTL8; el título no especifica el diseño exacto ni el tamaño de la muestra.\nPoblación: No se especifica en el título; probablemente modelos preclínicos (animales o cultivos celulares) y, eventualmente, cohortes humanas para correlacionar los hallazgos mecanísticos con niveles de colesterol LDL.\nIntervención: No hay una intervención terapéutica evaluada en un ensayo; se trataría de un estudio de mecanismo biológico que caracteriza cómo ANGPTL3 y ANGPTL8 interactúan para modular el colesterol LDL.\nResultados: No disponibles en esta nota; el título solo indica que ambas proteínas ejercen un \"control dual\" sobre el colesterol LDL, sin cifras de efecto, intervalos de confianza ni valor de p.\nLimitaciones: Al no acceder al artículo completo, no se puede valorar si los hallazgos son extrapolables de modelos animales a humanos, ni precisar el mecanismo molecular propuesto.\nMensaje: Si se confirma el mecanismo, podría sentar las bases para estrategias combinadas (por ejemplo, con los inhibidores de ANGPTL3 ya disponibles) que apunten a esta vía dual para el control del colesterol LDL en dislipidemias de difícil manejo; por ahora es evidencia básica, lejos de la práctica clínica directa.\nNota: análisis sin acceso al abstract."
+    },
+    "8a2456bf6914": {
+      "resumen": "Hilo de Hacker News que retoma el concepto de \"Jihad Butleriano\" de la saga Dune —el rechazo radical a las máquinas pensantes— para discutir el rechazo creciente a la inteligencia artificial (IA) en ciertos círculos tecnológicos o sociales. Sirve para entender el debate cultural de fondo sobre los límites y riesgos de delegar decisiones en sistemas de IA, más allá de la discusión puramente técnica.",
+      "destacado": false
+    },
+    "e946af68fd7d": {
+      "resumen": "Cita de Simon Willison (desarrollador y bloguero referente en inteligencia artificial) sobre cómo cambia la revisión de código cuando gran parte lo escribe una IA: la pregunta relevante deja de ser \"¿un humano leyó el código?\" y pasa a ser \"¿qué podría salir mal y qué control, automático o humano, lo detecta?\". Aporta un marco práctico para decidir cuándo conviene una revisión automatizada y cuándo una humana en proyectos con código generado por IA.",
+      "destacado": false
+    },
+    "d0a00342ca12": {
+      "resumen": "Novedad en Hacker News sobre FLUX 3 \"Image Klein\", una variante de la familia de modelos de generación de imágenes FLUX. Funciona como puerta de entrada a los modelos generativos de imágenes, su arquitectura y sus posibles usos en investigación o comunicación científica, para quien recién arranca en ciencia de datos.",
+      "destacado": false
+    },
+    "7f14563d8df6": {
+      "resumen": "Artículo de Hacker News que reconstruye paso a paso, desde cero, la arquitectura \"transformer\" (el bloque básico detrás de los modelos de lenguaje que usan los asistentes de inteligencia artificial actuales), mostrando que su diseño surge de decisiones lógicas encadenadas y no de una genialidad inexplicable. Es un buen recurso para entender los fundamentos técnicos de las herramientas de IA que un médico en formación en análisis de datos probablemente ya esté usando.",
+      "destacado": false
+    },
+    "9cfc2ca5a941": {
+      "resumen": "Hugo Porta, histórico apertura de Los Pumas, elogió sin vueltas a los actuales aperturas del seleccionado argentino de rugby."
+    },
+    "98302b885e49": {
+      "resumen": "El presidente Javier Milei ajustó su discurso económico ante las dificultades que muestra la economía real."
     }
   }
 }

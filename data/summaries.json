@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T10:05:22Z",
+  "generated_at": "2026-10-17T22:04:10Z",
   "summaries": {
     "3bae74a956e6": {
       "resumen": "Un estudio comparó la angioplastia coronaria percutánea (ACTP, intervención coronaria percutánea) temprana versus un abordaje más conservador en pacientes con infarto sin elevación del segmento ST (NSTEMI, non-ST-segment elevation myocardial infarction) que además tienen insuficiencia cardíaca (IC) estable, y encontró que la revascularización temprana se asoció a peores resultados. Vale la pena mirarlo porque cuestiona la práctica habitual de apurar la angioplastia en estos pacientes.",
@@ -41,70 +41,58 @@
       "destacado": false,
       "analisis": "Diseño: Nota de TCTMD sobre un estudio (el título sugiere un ensayo clínico o un estudio piloto) que evalúa la inhibición del cotransportador sodio-glucosa tipo 2 (SGLT2) en pacientes con angina sin enfermedad coronaria obstructiva (ANOCA) y disfunción microvascular documentada; no se especifica en el título si fue aleatorizado, ciego, ni el número de centros o pacientes.\nPoblación: Pacientes con angina sin enfermedad coronaria obstructiva (ANOCA) y disfunción microvascular coronaria confirmada (por ejemplo, por reserva de flujo coronario o resistencia microvascular alteradas); no se detallan otros criterios de inclusión o exclusión.\nIntervención: Un inhibidor de SGLT2 frente a placebo o a la ausencia de esta intervención (no se especifica el fármaco ni el comparador exacto en el título).\nResultados: No disponibles en esta nota; el título solo califica los resultados como \"promisorios\" en la función microvascular o los síntomas, sin cifras de reserva de flujo coronario, puntajes de angina ni valor de p.\nLimitaciones: Al ser una nota periodística, no se puede valorar el tamaño muestral (probablemente pequeño, dado que se trata de una entidad de difícil reclutamiento), la duración del seguimiento ni si el estudio tuvo poder estadístico suficiente para desenlaces clínicos duros.\nMensaje: Si los hallazgos se confirman en estudios más grandes, los inhibidores de SGLT2 podrían sumarse al arsenal terapéutico para la disfunción microvascular en ANOCA, un escenario donde las opciones actuales son limitadas; por ahora, debe tomarse como evidencia preliminar.\nNota: análisis sin acceso al abstract."
     },
-    "9a7394432446": {
-      "resumen": "El equipo de Claude Code (la herramienta de programación asistida por inteligencia artificial, IA, de Anthropic) cuenta cómo organiza internamente la revisión de código, combinando revisores humanos con agentes de IA. Le sirve a un médico que aprende análisis de datos porque muestra buenas prácticas de revisión aplicables a sus propios scripts o notebooks, y cómo la IA puede ayudar a detectar errores antes de confiar en un análisis.",
-      "destacado": false
-    },
     "033f0e1d7bef": {
       "resumen": "El autor construyó una herramienta llamada CodeOwnership para medir cuánto entiende realmente una persona del código que le generó una IA: se calificó con confianza 4 sobre 5 en un fragmento, pero después no pudo encontrar un error plantado adrede en 8 minutos. Le sirve a un médico que aprende análisis de datos como alerta concreta sobre el riesgo de confiar en código o análisis generados por IA sin revisarlos a fondo, algo crítico cuando los resultados pueden impactar decisiones clínicas.",
-      "destacado": false
-    },
-    "7f37dfc02035": {
-      "resumen": "El autor desarrolló con Codex (herramienta de IA para programar) un verificador automático de afirmaciones para textos, pero esa herramienta encontró el pasaje correcto y aun así no detectó que la afirmación citada era errónea. Le aporta a un médico que aprende análisis de datos un ejemplo claro de los límites actuales de las verificaciones automatizadas basadas en reglas o IA, relevante si piensa usarlas para validar datos o reportes.",
       "destacado": false
     },
     "46691fbefe40": {
       "resumen": "KDnuggets compara dos enfoques de RAG (retrieval-augmented generation, generación aumentada por recuperación): el \"naive\" o ingenuo, que simplemente busca y pega información, contra el \"agéntico\", que razona sobre qué buscar y cómo combinar los resultados. Le sirve mucho a un médico que aprende análisis de datos porque es la base de cualquier sistema que quiera construir para consultar literatura médica o historias clínicas con IA de forma confiable, y ayuda a elegir el enfoque correcto según la complejidad de la tarea.",
       "destacado": true
     },
-    "830f6eca1cd4": {
-      "resumen": "Primera parte de una guía sobre cómo poner en producción (deployment) herramientas de ciencia de datos, es decir, lograr que el código que funciona en una computadora funcione en cualquier entorno. Le sirve a un médico que aprende análisis de datos porque es un paso que suele faltar en la formación informal: pasar de un análisis que corre \"en mi notebook\" a algo reproducible y compartible con colegas.",
-      "destacado": false
-    },
-    "a9f25aa91b73": {
-      "resumen": "KDnuggets recomienda cinco recursos para aprender sobre los \"world models\" (modelos de mundo), una línea de inteligencia artificial que intenta simular cómo funciona el entorno para predecir consecuencias, en lugar de solo generar texto o imágenes. Le interesa a un médico que aprende análisis de datos como puerta de entrada a una tendencia emergente de la IA que podría aplicarse más adelante a simular evoluciones clínicas o fisiológicas.",
-      "destacado": false
-    },
-    "389d48a61c29": {
-      "resumen": "Veintinueve jugadores argentinos de Los Pumas disputan partidos en clubes europeos este fin de semana, una vidriera clave de cara a las próximas convocatorias de la selección."
-    },
     "3d09a8526859": {
       "resumen": "Hugo Porta, histórica figura del rugby argentino, analiza el salto al profesionalismo de Los Pumas y qué distingue al estilo de juego nacional."
-    },
-    "a756a3c7d907": {
-      "resumen": "Es una corrección formal al artículo original de las ecuaciones PREVENT de la American Heart Association (Asociación Estadounidense del Corazón), que estiman el riesgo cardiovascular a 10 y 30 años incorporando función renal y factores cardiometabólicos. No cambia las conclusiones centrales, pero conviene revisarla si usás esas ecuaciones en la práctica diaria, para aplicar la versión correcta de las fórmulas o tablas.",
-      "destacado": false
-    },
-    "13f747337e12": {
-      "resumen": "Declaración científica de la American Heart Association (Asociación Estadounidense del Corazón) sobre el manejo antiagregante en síndromes coronarios, con foco en un abordaje multidisciplinario entre cardiología, farmacia clínica y atención primaria para optimizar la adherencia y reducir sangrados. Sirve como documento de referencia para estandarizar conductas en la residencia, más que para cambiar la práctica a partir de un estudio puntual.",
-      "destacado": false
-    },
-    "579fb02e981d": {
-      "resumen": "Estudio traslacional de Circulation que explora cómo dos proteínas de la familia angiopoietin-like (ANGPTL3 y ANGPTL8) regulan en conjunto los niveles de colesterol LDL (lipoproteínas de baja densidad), un mecanismo relevante porque ANGPTL3 ya es blanco de terapias aprobadas para dislipidemias severas. Interesa porque podría abrir la puerta a nuevas combinaciones terapéuticas para el control lipídico.",
-      "destacado": false,
-      "analisis": "Diseño: Artículo original de Circulation firmado por Xu Y et al.; por el título correspondería a un estudio traslacional/mecanístico (probablemente con modelos animales y/o líneas celulares, posiblemente complementado con cohortes humanas) sobre la regulación del colesterol LDL (lipoproteínas de baja densidad) por ANGPTL3 y ANGPTL8; el título no especifica el diseño exacto ni el tamaño de la muestra.\nPoblación: No se especifica en el título; probablemente modelos preclínicos (animales o cultivos celulares) y, eventualmente, cohortes humanas para correlacionar los hallazgos mecanísticos con niveles de colesterol LDL.\nIntervención: No hay una intervención terapéutica evaluada en un ensayo; se trataría de un estudio de mecanismo biológico que caracteriza cómo ANGPTL3 y ANGPTL8 interactúan para modular el colesterol LDL.\nResultados: No disponibles en esta nota; el título solo indica que ambas proteínas ejercen un \"control dual\" sobre el colesterol LDL, sin cifras de efecto, intervalos de confianza ni valor de p.\nLimitaciones: Al no acceder al artículo completo, no se puede valorar si los hallazgos son extrapolables de modelos animales a humanos, ni precisar el mecanismo molecular propuesto.\nMensaje: Si se confirma el mecanismo, podría sentar las bases para estrategias combinadas (por ejemplo, con los inhibidores de ANGPTL3 ya disponibles) que apunten a esta vía dual para el control del colesterol LDL en dislipidemias de difícil manejo; por ahora es evidencia básica, lejos de la práctica clínica directa.\nNota: análisis sin acceso al abstract."
-    },
-    "8a2456bf6914": {
-      "resumen": "Hilo de Hacker News que retoma el concepto de \"Jihad Butleriano\" de la saga Dune —el rechazo radical a las máquinas pensantes— para discutir el rechazo creciente a la inteligencia artificial (IA) en ciertos círculos tecnológicos o sociales. Sirve para entender el debate cultural de fondo sobre los límites y riesgos de delegar decisiones en sistemas de IA, más allá de la discusión puramente técnica.",
-      "destacado": false
     },
     "e946af68fd7d": {
       "resumen": "Cita de Simon Willison (desarrollador y bloguero referente en inteligencia artificial) sobre cómo cambia la revisión de código cuando gran parte lo escribe una IA: la pregunta relevante deja de ser \"¿un humano leyó el código?\" y pasa a ser \"¿qué podría salir mal y qué control, automático o humano, lo detecta?\". Aporta un marco práctico para decidir cuándo conviene una revisión automatizada y cuándo una humana en proyectos con código generado por IA.",
       "destacado": false
     },
-    "d0a00342ca12": {
-      "resumen": "Novedad en Hacker News sobre FLUX 3 \"Image Klein\", una variante de la familia de modelos de generación de imágenes FLUX. Funciona como puerta de entrada a los modelos generativos de imágenes, su arquitectura y sus posibles usos en investigación o comunicación científica, para quien recién arranca en ciencia de datos.",
+    "79da959693d4": {
+      "resumen": "Resumen de novedades de un número de European Heart Journal (Revista Europea del Corazón) que repasa, en conjunto, las guías de la ESC (European Society of Cardiology, Sociedad Europea de Cardiología), los mecanismos de la miocarditis (inflamación del músculo cardíaco) y datos nuevos sobre el tratamiento con antagonistas del receptor de mineralocorticoides, glucósidos cardíacos (como la digoxina) y agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1). Vale la pena mirarlo como mapa rápido de varios frentes de actualización en simultáneo, más que como un estudio puntual.",
       "destacado": false
     },
-    "7f14563d8df6": {
-      "resumen": "Artículo de Hacker News que reconstruye paso a paso, desde cero, la arquitectura \"transformer\" (el bloque básico detrás de los modelos de lenguaje que usan los asistentes de inteligencia artificial actuales), mostrando que su diseño surge de decisiones lógicas encadenadas y no de una genialidad inexplicable. Es un buen recurso para entender los fundamentos técnicos de las herramientas de IA que un médico en formación en análisis de datos probablemente ya esté usando.",
+    "ca4d3a09da4a": {
+      "resumen": "Los All Blacks de Nueva Zelanda volvieron a vencer a los Wallabies de Australia y se quedaron con la Bledisloe Cup, el trofeo que ambas selecciones disputan cada temporada."
+    },
+    "77c7a09c9f1b": {
+      "resumen": "La victoria de Nueva Zelanda sobre Australia achica la distancia con Sudáfrica en el ranking de World Rugby, un movimiento que también repercute en la posición de Los Pumas."
+    },
+    "0a77e3ded60e": {
+      "resumen": "Hilo de Reddit (r/datascience) sobre cómo automatizar la generación de reportes en Power BI (herramienta de inteligencia de negocios de Microsoft) para reducir el trabajo manual repetitivo de armar tableros. Le sirve a un médico que aprende análisis de datos porque muestra trucos de automatización aplicables a reportes periódicos, como los indicadores de un servicio o consultorio.",
       "destacado": false
     },
-    "9cfc2ca5a941": {
-      "resumen": "Hugo Porta, histórico apertura de Los Pumas, elogió sin vueltas a los actuales aperturas del seleccionado argentino de rugby."
+    "e89b6b0e6c92": {
+      "resumen": "Nota difundida por la Universidad de California sobre un estudio que sugiere que los agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1), usados para bajar de peso, podrían enlentecer el envejecimiento biológico medido con relojes epigenéticos (algoritmos que estiman la edad biológica a partir de datos moleculares). Le interesa a un médico que aprende análisis de datos porque esos \"relojes de edad biológica\" son un ejemplo concreto de modelos estadísticos aplicados a biomarcadores, aunque conviene leer el estudio original antes de sacar conclusiones clínicas.",
+      "destacado": false
     },
-    "98302b885e49": {
-      "resumen": "El presidente Javier Milei ajustó su discurso económico ante las dificultades que muestra la economía real."
+    "2bc979963aca": {
+      "resumen": "Nota de PV Magazine que reporta que, por primera vez, la generación de energía solar superó a la nuclear a nivel global, según datos de generación eléctrica. Tiene un interés tangencial para un médico que aprende análisis de datos como ejemplo de series de datos energéticos a gran escala, aunque el contenido en sí es de energía y no de ciencia de datos.",
+      "destacado": false
+    },
+    "63f0975b0b47": {
+      "resumen": "Nota curiosa, muy comentada en Hacker News, sobre cómo lograr que un trozo de pollo se vuelva translúcido usando el polvo saborizante de los Doritos, por un efecto de deshidratación de las fibras musculares. Tiene poco que ver con ciencia de datos; se incluye como curiosidad científica del día, sin aporte directo para el análisis de datos.",
+      "destacado": false
+    },
+    "aa368bf1a729": {
+      "resumen": "Artículo de Towards Data Science que señala que las guías de cuantización (quantization, técnica para reducir el tamaño de los modelos de inteligencia artificial) suelen omitir una métrica que depende del umbral de decisión elegido, y propone dos números para cubrir ese vacío. Le sirve a un médico que aprende análisis de datos porque introduce un concepto clave para evaluar si un modelo de IA comprimido sigue siendo confiable antes de usarlo en tareas sensibles.",
+      "destacado": false
+    },
+    "f36e38d1f2c6": {
+      "resumen": "Artículo de Towards Data Science sobre cómo la fuga de datos entre el conjunto de entrenamiento y el de prueba (que el mismo paciente aparezca en ambos) infla artificialmente el rendimiento de tres modelos de aprendizaje automático (machine learning) que analizan electroencefalogramas (EEG). Le sirve mucho a un médico que aprende análisis de datos porque es un error metodológico frecuente y fácil de cometer al trabajar con datos clínicos repetidos de los mismos pacientes.",
+      "destacado": false
+    },
+    "02dd33881573": {
+      "resumen": "Nota de Engadget sobre que MapQuest ahora muestra en sus mapas la ubicación de las cámaras de reconocimiento de patentes de la empresa Flock Safety, usadas por fuerzas de seguridad en Estados Unidos. Es un tema de privacidad y vigilancia tecnológica más que de ciencia de datos; se incluye por su repercusión en Hacker News, sin aporte directo para el análisis de datos.",
+      "destacado": false
     }
   }
 }

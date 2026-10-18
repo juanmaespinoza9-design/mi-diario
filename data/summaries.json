@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T10:05:52Z",
+  "generated_at": "2026-10-18T22:04:26Z",
   "summaries": {
     "3bae74a956e6": {
       "resumen": "Un estudio comparó la angioplastia coronaria percutánea (ACTP, intervención coronaria percutánea) temprana versus un abordaje más conservador en pacientes con infarto sin elevación del segmento ST (NSTEMI, non-ST-segment elevation myocardial infarction) que además tienen insuficiencia cardíaca (IC) estable, y encontró que la revascularización temprana se asoció a peores resultados. Vale la pena mirarlo porque cuestiona la práctica habitual de apurar la angioplastia en estos pacientes.",
@@ -59,48 +59,40 @@
       "resumen": "Artículo de Towards Data Science que señala que las guías de cuantización (quantization, técnica para reducir el tamaño de los modelos de inteligencia artificial) suelen omitir una métrica que depende del umbral de decisión elegido, y propone dos números para cubrir ese vacío. Le sirve a un médico que aprende análisis de datos porque introduce un concepto clave para evaluar si un modelo de IA comprimido sigue siendo confiable antes de usarlo en tareas sensibles.",
       "destacado": false
     },
-    "f36e38d1f2c6": {
-      "resumen": "Artículo de Towards Data Science sobre cómo la fuga de datos entre el conjunto de entrenamiento y el de prueba (que el mismo paciente aparezca en ambos) infla artificialmente el rendimiento de tres modelos de aprendizaje automático (machine learning) que analizan electroencefalogramas (EEG). Le sirve mucho a un médico que aprende análisis de datos porque es un error metodológico frecuente y fácil de cometer al trabajar con datos clínicos repetidos de los mismos pacientes.",
-      "destacado": true
-    },
-    "b1aba7b28dac": {
-      "resumen": "Carta de correspondencia publicada en NEJM (New England Journal of Medicine) que cuestiona o comenta los resultados de un estudio sobre la doble antiagregación plaquetaria (DAPT, dual antiplatelet therapy) prolongada en pacientes con enfermedad coronaria de múltiples vasos. Vale la pena mirarlo porque este tipo de intercambio entre lectores y autores suele poner en discusión matices metodológicos o de interpretación clínica que no quedan claros en el artículo original.",
-      "destacado": false
-    },
-    "d71170ac2310": {
-      "resumen": "Respuesta de los autores a la carta de correspondencia anterior sobre la doble antiagregación plaquetaria (DAPT) prolongada en enfermedad coronaria de múltiples vasos, publicada en NEJM (New England Journal of Medicine). Vale la pena mirarlo junto con la carta original porque cierra el debate aclarando o defendiendo la interpretación de los datos del estudio en cuestión.",
-      "destacado": false
-    },
     "c4265a6d3144": {
       "resumen": "Hilo de Reddit (r/datascience) donde se piden y comparten recursos para aprender sobre sistemas de recomendación (algoritmos que sugieren productos, contenidos o, en medicina, posibles diagnósticos o tratamientos según patrones de datos previos). Le sirve a un médico que aprende análisis de datos porque da una hoja de ruta de materiales introductorios sin tener que salir a buscarlos por su cuenta.",
-      "destacado": false
-    },
-    "1b57e911f336": {
-      "resumen": "Noticia de Hacker News sobre un proyecto de ley en el estado de Nueva York que obligaría a las empresas de videojuegos a garantizar la propiedad real del juego comprado (y no solo una licencia revocable), exigiendo además que sigan funcionando después de que termine el soporte oficial. No tiene relación directa con el análisis de datos, pero vale la pena mirarlo como ejemplo de cómo la regulación empieza a disputarle terreno a los modelos de software por licencia, algo que también atraviesa a herramientas de inteligencia artificial.",
       "destacado": false
     },
     "69ead926e689": {
       "resumen": "Nota técnica de Simon Willison sobre una forma de insertar y ejecutar contenido HTML o scripts de manera dinámica usando document.currentScript (una propiedad de JavaScript que identifica el script que se está ejecutando en ese momento), útil para widgets o salidas generadas sobre la marcha. Le sirve a un médico que aprende análisis de datos porque es la base técnica que usan muchas herramientas de inteligencia artificial para mostrar gráficos o reportes interactivos directamente en el navegador.",
       "destacado": false
     },
-    "0af03bbc6d14": {
-      "resumen": "Nota de Hacker News sobre la decisión de Chrome y Edge de discontinuar el soporte a XSLT (XSL Transformations, un lenguaje antiguo para transformar documentos XML), y qué funcionalidades dejarán de andar en la web como consecuencia. Le sirve de forma indirecta a un médico que aprende análisis de datos porque recuerda que los formatos y herramientas para procesar datos estructurados (como XML) también quedan obsoletos y conviene no depender de tecnologías en retirada.",
+    "1ee329673e19": {
+      "resumen": "Nota de Hacker News sobre cómo la actualización macOS 15.8.2 de Apple rompió el soporte de OpenGL (interfaz de programación gráfica usada por muchas aplicaciones científicas y de visualización). No aporta herramientas de análisis de datos en sí, pero le sirve a un médico que aprende análisis de datos como recordatorio de que las actualizaciones de sistema operativo pueden romper silenciosamente el software científico o de visualización que usa a diario.",
       "destacado": false
     },
-    "59f1f537529d": {
-      "resumen": "Reporte de un error en Hacker News sobre la aplicación de escritorio Codex (el asistente de programación con inteligencia artificial de OpenAI), que genera de forma continua archivos de volcado de memoria (crash dumps) de su módulo Crashpad aunque no se haya caído. Le sirve a un médico que aprende análisis de datos porque ilustra que incluso las herramientas de inteligencia artificial más usadas para programar tienen fallas de estabilidad que conviene conocer antes de incorporarlas al flujo de trabajo diario.",
+    "f11b7e0a49fc": {
+      "resumen": "Artículo de Towards Data Science que usa el clásico problema de Monty Hall (el concurso de las tres puertas) para explicar, paso a paso, el razonamiento bayesiano: cómo actualizar una probabilidad inicial a medida que aparece nueva información. Le sirve mucho a un médico que aprende análisis de datos porque esa misma lógica es la que sostiene la interpretación de un test diagnóstico (probabilidad pre-test y post-test según el resultado).",
+      "destacado": true
+    },
+    "643666daab59": {
+      "resumen": "Nota de Hacker News sobre RepRapMicron, un proyecto de hardware libre para construir una plataforma de manipulación mecánica a escala submicrométrica con impresión 3D de bajo costo. No tiene relación directa con el análisis de datos; se incluye en esta sección por la clasificación automática del feed.",
       "destacado": false
     },
-    "a7783c892e37": {
-      "resumen": "Relato personal publicado en Hacker News sobre el proceso de convertirse en ciudadano de Japón, sin relación con el análisis de datos ni la inteligencia artificial. Se incluye en esta sección por la clasificación automática del feed, más que por su contenido temático.",
+    "e9bd6e2a8f74": {
+      "resumen": "Publicación de Hacker News (sección Show HN, donde se presentan proyectos personales) con una guía para repasar la cronología de la saga de videojuegos Zelda antes del relanzamiento de Ocarina of Time. No tiene relación con el análisis de datos ni la inteligencia artificial; aparece en esta sección por la clasificación automática del feed.",
       "destacado": false
     },
-    "d6c06ffc09a8": {
-      "resumen": "Anuncio de Simon Willison de una nueva versión preliminar (0.1a2) de web-edit, una herramienta para editar páginas web de forma asistida. Le sirve a un médico que aprende análisis de datos porque muestra cómo evolucionan las herramientas que permiten construir o ajustar reportes y tableros web sin necesidad de ser programador experto.",
+    "0a98bdbbca23": {
+      "resumen": "Artículo de Towards Data Science que muestra cómo dos gráficos pueden ser técnicamente correctos y, sin embargo, contar historias opuestas según la escala, el recorte temporal o la variable elegida para representar los mismos datos. Le sirve mucho a un médico que aprende análisis de datos porque enseña a leer con ojo crítico cualquier gráfico, incluidos los que resumen resultados clínicos o epidemiológicos, antes de sacar conclusiones.",
       "destacado": false
     },
-    "6d32181b6e63": {
-      "resumen": "El Top 14 de rugby ya tiene a sus cuatro semifinalistas: Hindú Club se metió en la pelea por el título mientras Los Matreros se despidió del torneo con el descenso de categoría."
+    "fcc34260855a": {
+      "resumen": "Nota de Hacker News sobre Open MicroManipulator, una plataforma de control de movimiento 3D de código abierto con precisión submicrométrica, pensada para laboratorios y microscopía. No aporta herramientas de análisis de datos; se incluye en esta sección por la clasificación automática del feed.",
+      "destacado": false
+    },
+    "d84f434c8869": {
+      "resumen": "La Nación repasa, puesto por puesto, cómo llega Los Pumas a un año del próximo Mundial de rugby, con un semáforo de rendimiento para cada jugador de la selección argentina."
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T22:04:10Z",
+  "generated_at": "2026-10-18T10:05:52Z",
   "summaries": {
     "3bae74a956e6": {
       "resumen": "Un estudio comparó la angioplastia coronaria percutánea (ACTP, intervención coronaria percutánea) temprana versus un abordaje más conservador en pacientes con infarto sin elevación del segmento ST (NSTEMI, non-ST-segment elevation myocardial infarction) que además tienen insuficiencia cardíaca (IC) estable, y encontró que la revascularización temprana se asoció a peores resultados. Vale la pena mirarlo porque cuestiona la práctica habitual de apurar la angioplastia en estos pacientes.",
@@ -41,21 +41,6 @@
       "destacado": false,
       "analisis": "Diseño: Nota de TCTMD sobre un estudio (el título sugiere un ensayo clínico o un estudio piloto) que evalúa la inhibición del cotransportador sodio-glucosa tipo 2 (SGLT2) en pacientes con angina sin enfermedad coronaria obstructiva (ANOCA) y disfunción microvascular documentada; no se especifica en el título si fue aleatorizado, ciego, ni el número de centros o pacientes.\nPoblación: Pacientes con angina sin enfermedad coronaria obstructiva (ANOCA) y disfunción microvascular coronaria confirmada (por ejemplo, por reserva de flujo coronario o resistencia microvascular alteradas); no se detallan otros criterios de inclusión o exclusión.\nIntervención: Un inhibidor de SGLT2 frente a placebo o a la ausencia de esta intervención (no se especifica el fármaco ni el comparador exacto en el título).\nResultados: No disponibles en esta nota; el título solo califica los resultados como \"promisorios\" en la función microvascular o los síntomas, sin cifras de reserva de flujo coronario, puntajes de angina ni valor de p.\nLimitaciones: Al ser una nota periodística, no se puede valorar el tamaño muestral (probablemente pequeño, dado que se trata de una entidad de difícil reclutamiento), la duración del seguimiento ni si el estudio tuvo poder estadístico suficiente para desenlaces clínicos duros.\nMensaje: Si los hallazgos se confirman en estudios más grandes, los inhibidores de SGLT2 podrían sumarse al arsenal terapéutico para la disfunción microvascular en ANOCA, un escenario donde las opciones actuales son limitadas; por ahora, debe tomarse como evidencia preliminar.\nNota: análisis sin acceso al abstract."
     },
-    "033f0e1d7bef": {
-      "resumen": "El autor construyó una herramienta llamada CodeOwnership para medir cuánto entiende realmente una persona del código que le generó una IA: se calificó con confianza 4 sobre 5 en un fragmento, pero después no pudo encontrar un error plantado adrede en 8 minutos. Le sirve a un médico que aprende análisis de datos como alerta concreta sobre el riesgo de confiar en código o análisis generados por IA sin revisarlos a fondo, algo crítico cuando los resultados pueden impactar decisiones clínicas.",
-      "destacado": false
-    },
-    "46691fbefe40": {
-      "resumen": "KDnuggets compara dos enfoques de RAG (retrieval-augmented generation, generación aumentada por recuperación): el \"naive\" o ingenuo, que simplemente busca y pega información, contra el \"agéntico\", que razona sobre qué buscar y cómo combinar los resultados. Le sirve mucho a un médico que aprende análisis de datos porque es la base de cualquier sistema que quiera construir para consultar literatura médica o historias clínicas con IA de forma confiable, y ayuda a elegir el enfoque correcto según la complejidad de la tarea.",
-      "destacado": true
-    },
-    "3d09a8526859": {
-      "resumen": "Hugo Porta, histórica figura del rugby argentino, analiza el salto al profesionalismo de Los Pumas y qué distingue al estilo de juego nacional."
-    },
-    "e946af68fd7d": {
-      "resumen": "Cita de Simon Willison (desarrollador y bloguero referente en inteligencia artificial) sobre cómo cambia la revisión de código cuando gran parte lo escribe una IA: la pregunta relevante deja de ser \"¿un humano leyó el código?\" y pasa a ser \"¿qué podría salir mal y qué control, automático o humano, lo detecta?\". Aporta un marco práctico para decidir cuándo conviene una revisión automatizada y cuándo una humana en proyectos con código generado por IA.",
-      "destacado": false
-    },
     "79da959693d4": {
       "resumen": "Resumen de novedades de un número de European Heart Journal (Revista Europea del Corazón) que repasa, en conjunto, las guías de la ESC (European Society of Cardiology, Sociedad Europea de Cardiología), los mecanismos de la miocarditis (inflamación del músculo cardíaco) y datos nuevos sobre el tratamiento con antagonistas del receptor de mineralocorticoides, glucósidos cardíacos (como la digoxina) y agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1). Vale la pena mirarlo como mapa rápido de varios frentes de actualización en simultáneo, más que como un estudio puntual.",
       "destacado": false
@@ -70,29 +55,52 @@
       "resumen": "Hilo de Reddit (r/datascience) sobre cómo automatizar la generación de reportes en Power BI (herramienta de inteligencia de negocios de Microsoft) para reducir el trabajo manual repetitivo de armar tableros. Le sirve a un médico que aprende análisis de datos porque muestra trucos de automatización aplicables a reportes periódicos, como los indicadores de un servicio o consultorio.",
       "destacado": false
     },
-    "e89b6b0e6c92": {
-      "resumen": "Nota difundida por la Universidad de California sobre un estudio que sugiere que los agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1), usados para bajar de peso, podrían enlentecer el envejecimiento biológico medido con relojes epigenéticos (algoritmos que estiman la edad biológica a partir de datos moleculares). Le interesa a un médico que aprende análisis de datos porque esos \"relojes de edad biológica\" son un ejemplo concreto de modelos estadísticos aplicados a biomarcadores, aunque conviene leer el estudio original antes de sacar conclusiones clínicas.",
-      "destacado": false
-    },
-    "2bc979963aca": {
-      "resumen": "Nota de PV Magazine que reporta que, por primera vez, la generación de energía solar superó a la nuclear a nivel global, según datos de generación eléctrica. Tiene un interés tangencial para un médico que aprende análisis de datos como ejemplo de series de datos energéticos a gran escala, aunque el contenido en sí es de energía y no de ciencia de datos.",
-      "destacado": false
-    },
-    "63f0975b0b47": {
-      "resumen": "Nota curiosa, muy comentada en Hacker News, sobre cómo lograr que un trozo de pollo se vuelva translúcido usando el polvo saborizante de los Doritos, por un efecto de deshidratación de las fibras musculares. Tiene poco que ver con ciencia de datos; se incluye como curiosidad científica del día, sin aporte directo para el análisis de datos.",
-      "destacado": false
-    },
     "aa368bf1a729": {
       "resumen": "Artículo de Towards Data Science que señala que las guías de cuantización (quantization, técnica para reducir el tamaño de los modelos de inteligencia artificial) suelen omitir una métrica que depende del umbral de decisión elegido, y propone dos números para cubrir ese vacío. Le sirve a un médico que aprende análisis de datos porque introduce un concepto clave para evaluar si un modelo de IA comprimido sigue siendo confiable antes de usarlo en tareas sensibles.",
       "destacado": false
     },
     "f36e38d1f2c6": {
       "resumen": "Artículo de Towards Data Science sobre cómo la fuga de datos entre el conjunto de entrenamiento y el de prueba (que el mismo paciente aparezca en ambos) infla artificialmente el rendimiento de tres modelos de aprendizaje automático (machine learning) que analizan electroencefalogramas (EEG). Le sirve mucho a un médico que aprende análisis de datos porque es un error metodológico frecuente y fácil de cometer al trabajar con datos clínicos repetidos de los mismos pacientes.",
+      "destacado": true
+    },
+    "b1aba7b28dac": {
+      "resumen": "Carta de correspondencia publicada en NEJM (New England Journal of Medicine) que cuestiona o comenta los resultados de un estudio sobre la doble antiagregación plaquetaria (DAPT, dual antiplatelet therapy) prolongada en pacientes con enfermedad coronaria de múltiples vasos. Vale la pena mirarlo porque este tipo de intercambio entre lectores y autores suele poner en discusión matices metodológicos o de interpretación clínica que no quedan claros en el artículo original.",
       "destacado": false
     },
-    "02dd33881573": {
-      "resumen": "Nota de Engadget sobre que MapQuest ahora muestra en sus mapas la ubicación de las cámaras de reconocimiento de patentes de la empresa Flock Safety, usadas por fuerzas de seguridad en Estados Unidos. Es un tema de privacidad y vigilancia tecnológica más que de ciencia de datos; se incluye por su repercusión en Hacker News, sin aporte directo para el análisis de datos.",
+    "d71170ac2310": {
+      "resumen": "Respuesta de los autores a la carta de correspondencia anterior sobre la doble antiagregación plaquetaria (DAPT) prolongada en enfermedad coronaria de múltiples vasos, publicada en NEJM (New England Journal of Medicine). Vale la pena mirarlo junto con la carta original porque cierra el debate aclarando o defendiendo la interpretación de los datos del estudio en cuestión.",
       "destacado": false
+    },
+    "c4265a6d3144": {
+      "resumen": "Hilo de Reddit (r/datascience) donde se piden y comparten recursos para aprender sobre sistemas de recomendación (algoritmos que sugieren productos, contenidos o, en medicina, posibles diagnósticos o tratamientos según patrones de datos previos). Le sirve a un médico que aprende análisis de datos porque da una hoja de ruta de materiales introductorios sin tener que salir a buscarlos por su cuenta.",
+      "destacado": false
+    },
+    "1b57e911f336": {
+      "resumen": "Noticia de Hacker News sobre un proyecto de ley en el estado de Nueva York que obligaría a las empresas de videojuegos a garantizar la propiedad real del juego comprado (y no solo una licencia revocable), exigiendo además que sigan funcionando después de que termine el soporte oficial. No tiene relación directa con el análisis de datos, pero vale la pena mirarlo como ejemplo de cómo la regulación empieza a disputarle terreno a los modelos de software por licencia, algo que también atraviesa a herramientas de inteligencia artificial.",
+      "destacado": false
+    },
+    "69ead926e689": {
+      "resumen": "Nota técnica de Simon Willison sobre una forma de insertar y ejecutar contenido HTML o scripts de manera dinámica usando document.currentScript (una propiedad de JavaScript que identifica el script que se está ejecutando en ese momento), útil para widgets o salidas generadas sobre la marcha. Le sirve a un médico que aprende análisis de datos porque es la base técnica que usan muchas herramientas de inteligencia artificial para mostrar gráficos o reportes interactivos directamente en el navegador.",
+      "destacado": false
+    },
+    "0af03bbc6d14": {
+      "resumen": "Nota de Hacker News sobre la decisión de Chrome y Edge de discontinuar el soporte a XSLT (XSL Transformations, un lenguaje antiguo para transformar documentos XML), y qué funcionalidades dejarán de andar en la web como consecuencia. Le sirve de forma indirecta a un médico que aprende análisis de datos porque recuerda que los formatos y herramientas para procesar datos estructurados (como XML) también quedan obsoletos y conviene no depender de tecnologías en retirada.",
+      "destacado": false
+    },
+    "59f1f537529d": {
+      "resumen": "Reporte de un error en Hacker News sobre la aplicación de escritorio Codex (el asistente de programación con inteligencia artificial de OpenAI), que genera de forma continua archivos de volcado de memoria (crash dumps) de su módulo Crashpad aunque no se haya caído. Le sirve a un médico que aprende análisis de datos porque ilustra que incluso las herramientas de inteligencia artificial más usadas para programar tienen fallas de estabilidad que conviene conocer antes de incorporarlas al flujo de trabajo diario.",
+      "destacado": false
+    },
+    "a7783c892e37": {
+      "resumen": "Relato personal publicado en Hacker News sobre el proceso de convertirse en ciudadano de Japón, sin relación con el análisis de datos ni la inteligencia artificial. Se incluye en esta sección por la clasificación automática del feed, más que por su contenido temático.",
+      "destacado": false
+    },
+    "d6c06ffc09a8": {
+      "resumen": "Anuncio de Simon Willison de una nueva versión preliminar (0.1a2) de web-edit, una herramienta para editar páginas web de forma asistida. Le sirve a un médico que aprende análisis de datos porque muestra cómo evolucionan las herramientas que permiten construir o ajustar reportes y tableros web sin necesidad de ser programador experto.",
+      "destacado": false
+    },
+    "6d32181b6e63": {
+      "resumen": "El Top 14 de rugby ya tiene a sus cuatro semifinalistas: Hindú Club se metió en la pelea por el título mientras Los Matreros se despidió del torneo con el descenso de categoría."
     }
   }
 }

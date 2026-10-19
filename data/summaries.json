@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-10-19T05:10:00Z",
+  "generated_at": "2026-10-19T22:05:11Z",
   "summaries": {
-    "3bae74a956e6": {
-      "resumen": "Un estudio comparó la angioplastia coronaria percutánea (ACTP, intervención coronaria percutánea) temprana versus un abordaje más conservador en pacientes con infarto sin elevación del segmento ST (NSTEMI, non-ST-segment elevation myocardial infarction) que además tienen insuficiencia cardíaca (IC) estable, y encontró que la revascularización temprana se asoció a peores resultados. Vale la pena mirarlo porque cuestiona la práctica habitual de apurar la angioplastia en estos pacientes.",
-      "destacado": true,
-      "analisis": "Diseño: Nota de TCTMD sobre un estudio (probablemente observacional o un subanálisis de registro) que compara la intervención coronaria percutánea (ACTP) temprana contra un manejo más diferido en NSTEMI; el título no especifica si es aleatorizado, el número de centros ni de pacientes.\nPoblación: Pacientes con infarto agudo de miocardio sin elevación del segmento ST (NSTEMI) que además presentan insuficiencia cardíaca (IC) estable; no se detallan otros criterios de inclusión o exclusión.\nIntervención: Angioplastia coronaria percutánea (ACTP) temprana frente a un abordaje más diferido o conservador.\nResultados: No disponibles en esta nota; el título solo indica que la ACTP temprana se asoció a \"peores resultados\", sin cifras de razón de riesgo, intervalos de confianza ni valor de p.\nLimitaciones: Al ser una nota periodística y no el artículo original, no se puede descartar confusión por indicación (los pacientes llevados a revascularización temprana podrían ser más graves de entrada) ni valorar el tamaño muestral.\nMensaje: Si se confirma, invitaría a ser más cautos con la revascularización apurada en NSTEMI cuando coexiste insuficiencia cardíaca estable, priorizando primero la estabilización clínica; la asociación observada, de todos modos, no prueba causalidad.\nNota: análisis sin acceso al abstract."
-    },
     "869443fefcea": {
       "resumen": "Estudio de JACC (Journal of the American College of Cardiology) que busca convertir el concepto de obesidad sarcopénica (pérdida de masa muscular combinada con exceso de grasa corporal) en una herramienta práctica para predecir y prevenir la insuficiencia cardíaca (IC). Vale la pena mirarlo porque pone el foco en un fenotipo de riesgo que el índice de masa corporal (IMC) suele pasar por alto.",
       "destacado": false,
-      "analisis": "Diseño: Artículo original de JACC (Journal of the American College of Cardiology) firmado por Zhou X et al.; por el título correspondería a un estudio de cohorte que evalúa la obesidad sarcopénica como factor de riesgo de insuficiencia cardíaca (IC); no se especifica en el título si es prospectivo o retrospectivo, ni el número de centros o pacientes.\nPoblación: Probablemente adultos de cohortes poblacionales o clínicas evaluados para obesidad sarcopénica (baja masa/función muscular más exceso de adiposidad) y riesgo de insuficiencia cardíaca incidente; no se detallan criterios de inclusión o exclusión en el título.\nIntervención: No aplica una intervención terapéutica; se trataría de un estudio de asociación/predicción entre un fenotipo (obesidad sarcopénica) y un desenlace (IC).\nResultados: No disponibles en esta nota; el título no aporta cifras de riesgo relativo, intervalos de confianza ni valor de p.\nLimitaciones: Sin acceso al cuerpo del artículo no se puede valorar la definición operativa de obesidad sarcopénica utilizada, el ajuste por factores de confusión ni el tiempo de seguimiento.\nMensaje: Remarca la importancia de evaluar la composición corporal, y no solo el peso o el índice de masa corporal, al estimar el riesgo de insuficiencia cardíaca, lo que podría justificar su tamizaje si se confirma en estudios prospectivos.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Artículo original de JACC (Journal of the American College of Cardiology) firmado por Zhou X et al., que por el título y por tener un editorial acompañante dedicado a discutir su índice correspondería a un estudio de cohorte que evalúa un índice de obesidad sarcopénica como predictor de insuficiencia cardíaca (IC); no se especifica en el título si es prospectivo o retrospectivo, ni el número de centros o pacientes.\nPoblación: Probablemente adultos de una o varias cohortes poblacionales o clínicas en quienes se calculó un índice de obesidad sarcopénica (combinación de baja masa muscular y exceso de adiposidad) y se evaluó la incidencia de insuficiencia cardíaca; no se detallan criterios de inclusión o exclusión en el título.\nIntervención: No aplica una intervención terapéutica; se trata de un estudio de asociación/predicción entre el índice de obesidad sarcopénica y el desarrollo de insuficiencia cardíaca.\nResultados: No disponibles en esta nota; el título no aporta cifras de riesgo relativo, intervalos de confianza ni valor de p.\nLimitaciones: Sin acceso al cuerpo del artículo no se puede valorar cómo se definió y validó el índice de obesidad sarcopénica, el ajuste por factores de confusión ni el tiempo de seguimiento; el editorial acompañante, de hecho, cuestiona si el índice refleja un fenotipo real o es solo un cociente matemático.\nMensaje: Si el índice demuestra valor predictivo robusto en estudios futuros, podría convertirse en una herramienta simple de tamizaje para identificar pacientes en riesgo de insuficiencia cardíaca por composición corporal desfavorable, más allá del peso o el índice de masa corporal.\nNota: análisis sin acceso al abstract."
     },
     "737c1eccf9e9": {
       "resumen": "Editorial de JACC (Journal of the American College of Cardiology) que discute si el índice de obesidad sarcopénica refleja un verdadero fenotipo fisiopatológico o es apenas un cociente matemático sin sustento biológico claro. Vale la pena mirarlo porque pone en perspectiva crítica el entusiasmo por este nuevo marcador de riesgo cardiovascular.",
@@ -19,27 +14,18 @@
       "resumen": "Artículo de perspectiva de JACC (Journal of the American College of Cardiology) que plantea repensar el lugar donde se brinda la atención de la insuficiencia cardíaca (IC), poniendo el foco en el domicilio del paciente como destino de cuidado en lugar del hospital. Vale la pena mirarlo porque refleja la tendencia hacia modelos de atención más centrados en el hogar para una enfermedad crónica de alta carga asistencial.",
       "destacado": false
     },
-    "911ab8e2ae5d": {
-      "resumen": "Nota de TCTMD que repasa cómo el tamizaje (screening) sistemático, cambios legislativos y herramientas de inteligencia artificial (IA) podrían ayudar a cerrar las brechas de atención en la enfermedad arterial periférica (EAP, PAD por sus siglas en inglés), una patología subdiagnosticada y con acceso desigual a diagnóstico y tratamiento. Vale la pena mirarlo porque plantea un enfoque combinado (clínico, político y tecnológico) para un problema de salud pública que suele quedar relegado frente a la enfermedad coronaria.",
-      "destacado": false
-    },
     "deec5dd59dfd": {
       "resumen": "Declaración científica 2026 del ACC (American College of Cardiology, Colegio Americano de Cardiología) que actualiza las recomendaciones de prescripción de ejercicio físico para la salud cardiovascular en adultos. Vale la pena mirarlo porque ordena, con base en evidencia, cómo dosificar la actividad física (tipo, intensidad, frecuencia) según el perfil de riesgo de cada paciente, algo que se indica mucho pero se prescribe poco en la práctica diaria.",
       "destacado": false
     },
     "2fea8700859f": {
       "resumen": "Un metaanálisis comparó la mortalidad a mediano-largo plazo entre el reemplazo valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation) y la cirugía de reemplazo valvular aórtico (SAVR, surgical aortic valve replacement) en pacientes de bajo riesgo quirúrgico, y encontró que la brecha de mortalidad a favor de la cirugía se va ampliando con el correr de los años de seguimiento. Vale la pena mirarlo porque pone en duda la extrapolación automática de los buenos resultados tempranos del TAVI a plazos más largos en pacientes jóvenes y de bajo riesgo.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: Nota de TCTMD sobre un metaanálisis que compara el reemplazo valvular aórtico transcatéter (TAVI) con el reemplazo valvular aórtico quirúrgico (SAVR) en pacientes de bajo riesgo quirúrgico; el título no especifica cuántos ensayos ni pacientes se incluyeron, ni si se usaron datos a nivel de paciente individual o agregados.\nPoblación: Pacientes con estenosis aórtica severa clasificados como de bajo riesgo quirúrgico, candidatos tanto a TAVI como a SAVR; no se detallan otros criterios de inclusión o exclusión.\nIntervención: TAVI frente a SAVR, con seguimiento a varios años para evaluar mortalidad a mediano y largo plazo.\nResultados: No disponibles en esta nota; el título solo indica que la mortalidad es \"cada vez mayor\" con TAVI respecto a SAVR a medida que pasan los años, sin cifras de razón de riesgo, intervalos de confianza ni valor de p.\nLimitaciones: Al ser una nota periodística sobre un metaanálisis, no se puede valorar la heterogeneidad entre los ensayos incluidos, las generaciones de dispositivos TAVI utilizadas (que mejoraron con el tiempo) ni la calidad del seguimiento a largo plazo.\nMensaje: Si se confirma con los datos completos, invitaría a ser más cautos al recomendar TAVI por sobre la cirugía en pacientes jóvenes y de bajo riesgo, priorizando la expectativa de vida y el seguimiento a largo plazo en la decisión, más allá de los buenos resultados perioperatorios del TAVI.\nNota: análisis sin acceso al abstract."
     },
     "7e89e0765e11": {
       "resumen": "Edwards Lifesciences retiró del mercado algunos lotes del sistema de entrega de su válvula Sapien M3, tras una alerta de la FDA (Food and Drug Administration, agencia regulatoria de medicamentos y dispositivos de EE.UU.) por un problema de seguridad del dispositivo. Vale la pena mirarlo porque puede afectar la disponibilidad o el manejo del material en procedimientos de reemplazo valvular mitral transcatéter programados con este sistema.",
       "destacado": false
-    },
-    "c60d8de62764": {
-      "resumen": "Un estudio evaluó el uso de inhibidores de SGLT2 (cotransportador sodio-glucosa tipo 2, fármacos antidiabéticos con efecto cardiovascular) en pacientes con angina sin enfermedad coronaria obstructiva (ANOCA, angina with no obstructive coronary artery disease) y disfunción microvascular, con resultados alentadores. Vale la pena mirarlo porque abre una opción terapéutica nueva para un cuadro frecuente, muchas veces subdiagnosticado y con pocas alternativas de tratamiento dirigido.",
-      "destacado": false,
-      "analisis": "Diseño: Nota de TCTMD sobre un estudio (el título sugiere un ensayo clínico o un estudio piloto) que evalúa la inhibición del cotransportador sodio-glucosa tipo 2 (SGLT2) en pacientes con angina sin enfermedad coronaria obstructiva (ANOCA) y disfunción microvascular documentada; no se especifica en el título si fue aleatorizado, ciego, ni el número de centros o pacientes.\nPoblación: Pacientes con angina sin enfermedad coronaria obstructiva (ANOCA) y disfunción microvascular coronaria confirmada (por ejemplo, por reserva de flujo coronario o resistencia microvascular alteradas); no se detallan otros criterios de inclusión o exclusión.\nIntervención: Un inhibidor de SGLT2 frente a placebo o a la ausencia de esta intervención (no se especifica el fármaco ni el comparador exacto en el título).\nResultados: No disponibles en esta nota; el título solo califica los resultados como \"promisorios\" en la función microvascular o los síntomas, sin cifras de reserva de flujo coronario, puntajes de angina ni valor de p.\nLimitaciones: Al ser una nota periodística, no se puede valorar el tamaño muestral (probablemente pequeño, dado que se trata de una entidad de difícil reclutamiento), la duración del seguimiento ni si el estudio tuvo poder estadístico suficiente para desenlaces clínicos duros.\nMensaje: Si los hallazgos se confirman en estudios más grandes, los inhibidores de SGLT2 podrían sumarse al arsenal terapéutico para la disfunción microvascular en ANOCA, un escenario donde las opciones actuales son limitadas; por ahora, debe tomarse como evidencia preliminar.\nNota: análisis sin acceso al abstract."
     },
     "79da959693d4": {
       "resumen": "Resumen de novedades de un número de European Heart Journal (Revista Europea del Corazón) que repasa, en conjunto, las guías de la ESC (European Society of Cardiology, Sociedad Europea de Cardiología), los mecanismos de la miocarditis (inflamación del músculo cardíaco) y datos nuevos sobre el tratamiento con antagonistas del receptor de mineralocorticoides, glucósidos cardíacos (como la digoxina) y agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1). Vale la pena mirarlo como mapa rápido de varios frentes de actualización en simultáneo, más que como un estudio puntual.",
@@ -53,46 +39,60 @@
       "resumen": "Actualización menor del plugin llm-tools-datasette, que conecta la herramienta de línea de comandos LLM (large language model, modelo de lenguaje de gran escala) con Datasette (explorador de bases de datos SQL) y corrige una falla introducida por un cambio en la librería HTTP httpx. Le sirve a quien aprende análisis de datos porque muestra cómo integrar modelos de lenguaje con consultas SQL sobre sus propios datos.",
       "destacado": false
     },
-    "bb0c25ea36bd": {
-      "resumen": "Nota sobre cómo el escritor William Gibson, creador del término \"ciberespacio\", vio cómo otros intentaron registrarlo como marca comercial. No aporta herramientas de análisis de datos; se incluye en esta sección por la clasificación automática del feed de Hacker News.",
-      "destacado": false
-    },
     "12899128ec45": {
       "resumen": "Nueva versión del plugin llm-echo, una herramienta de depuración (debug) para el proyecto LLM que simula un modelo que solo repite el texto recibido, útil para probar código sin gastar llamadas a un modelo real. Le sirve a quien aprende análisis de datos porque es un truco práctico para testear flujos de trabajo con inteligencia artificial sin costo ni variabilidad.",
       "destacado": false
-    },
-    "a5bb32320853": {
-      "resumen": "Paper que propone agentes de inteligencia artificial que razonan internamente en un espacio latente (representación numérica interna del modelo) pero actúan comunicándose en texto natural, buscando un punto medio entre eficiencia y explicabilidad. Le sirve a quien aprende análisis de datos porque anticipa hacia dónde evolucionan los agentes de inteligencia artificial que ya se usan para automatizar tareas analíticas.",
-      "destacado": true
     },
     "c4a66abeab60": {
       "resumen": "Hilo de r/datascience donde alguien repasa sus últimas diez entrevistas técnicas de Python para puestos de ciencia de datos en áreas de producto y marketing, y cuenta que solo una fue al estilo LeetCode (plataforma de ejercicios de programación competitiva). Le sirve a un médico que se está formando en análisis de datos porque da una idea realista de qué tipo de ejercicios esperar en una entrevista de ciencia de datos fuera del ámbito puramente técnico.",
       "destacado": false
     },
-    "21f4d1160768": {
-      "resumen": "Nota sobre una nueva versión del compilador Free Pascal que ahora admite paquetes dinámicos (bibliotecas que se cargan en tiempo de ejecución). No aporta herramientas de análisis de datos; se incluye en esta sección por la clasificación automática del feed de Hacker News.",
-      "destacado": false
-    },
-    "1c8b7cb7487d": {
-      "resumen": "Proyecto en GitHub que porta el clásico videojuego Lemmings al sistema operativo Palm OS, usado antiguamente en las agendas electrónicas Palm. No tiene relación con el análisis de datos; se incluye en esta sección por la clasificación automática del feed de Hacker News.",
-      "destacado": false
-    },
-    "f11b7e0a49fc": {
-      "resumen": "Artículo de Towards Data Science que usa el clásico problema de Monty Hall (el concurso de las tres puertas) para explicar, paso a paso, el razonamiento bayesiano: cómo actualizar una probabilidad inicial a medida que aparece nueva información. Le sirve mucho a un médico que aprende análisis de datos porque esa misma lógica es la que sostiene la interpretación de un test diagnóstico (probabilidad pre-test y post-test según el resultado).",
-      "destacado": false
-    },
-    "0a98bdbbca23": {
-      "resumen": "Artículo de Towards Data Science que muestra cómo dos gráficos pueden ser técnicamente correctos y, sin embargo, contar historias opuestas según la escala, el recorte temporal o la variable elegida para representar los mismos datos. Le sirve mucho a un médico que aprende análisis de datos porque enseña a leer con ojo crítico cualquier gráfico, incluidos los que resumen resultados clínicos o epidemiológicos, antes de sacar conclusiones.",
-      "destacado": false
-    },
     "ec648fbc9ac8": {
       "resumen": "El presidente de World Rugby, Brett Robinson, considera que la candidatura para disputar el Mundial de rugby 2035 en Sudamérica tiene chances reales por la relevancia de la región para el crecimiento del deporte."
     },
-    "6d32181b6e63": {
-      "resumen": "Hindú Club se metió como cuarto semifinalista del Top 14 del rugby argentino, mientras que Los Matreros perdió la categoría tras quedar último en la tabla."
+    "602383f5cf91": {
+      "resumen": "Un estudio encontró que la hipotensión intraoperatoria (caída de la presión arterial durante el procedimiento) durante la trombectomía mecánica por accidente cerebrovascular (ACV) isquémico se asocia a peores resultados neurológicos. Vale la pena mirarlo porque remarca la importancia del manejo hemodinámico durante procedimientos neurointervencionistas, un aspecto frecuentemente subestimado en el periprocedimiento.",
+      "destacado": false,
+      "analisis": "Diseño: Nota de TCTMD sobre un estudio (probablemente observacional, de cohorte o un subanálisis de registro) que evalúa la asociación entre hipotensión intraoperatoria y los resultados neurológicos tras trombectomía mecánica por accidente cerebrovascular (ACV) isquémico; el título no especifica diseño, aleatorización, número de centros ni de pacientes.\nPoblación: Pacientes sometidos a trombectomía mecánica por ACV isquémico agudo; no se detallan otros criterios de inclusión o exclusión.\nIntervención: No hay intervención terapéutica evaluada; se analiza la exposición a hipotensión intraoperatoria durante el procedimiento frente a mantener presión arterial estable.\nResultados: No disponibles en esta nota; el título solo indica que la hipotensión intraoperatoria se asoció a \"peores resultados\", sin cifras de razón de riesgo, intervalos de confianza ni valor de p.\nLimitaciones: Al ser una nota periodística y no el artículo original, no se puede valorar el tamaño muestral, el ajuste por gravedad basal del ACV ni la definición exacta de hipotensión utilizada.\nMensaje: Si se confirma, reforzaría la necesidad de un control hemodinámico estricto durante la trombectomía mecánica, evitando caídas de presión arterial que podrían comprometer la perfusión cerebral colateral.\nNota: análisis sin acceso al abstract."
     },
-    "d84f434c8869": {
-      "resumen": "La Nación repasa, puesto por puesto, cómo llega Los Pumas a un año del próximo Mundial de rugby, con un semáforo de rendimiento para cada jugador de la selección argentina."
+    "6282e2a58837": {
+      "resumen": "Nota de TCTMD que adelanta los temas y presentaciones que se esperan como más relevantes en el congreso TCT (Transcatheter Cardiovascular Therapeutics) 2026. Vale la pena mirarlo como agenda rápida de hacia dónde apunta la cardiología intervencionista este año, aunque todavía no reporta resultados de estudios.",
+      "destacado": false
+    },
+    "5f8598e8bc4d": {
+      "resumen": "El registro ELEGANCE mostró alta tasa de permeabilidad (vaso que se mantiene abierto) con el uso de stents liberadores de fármaco (DES, drug-eluting stent) en una población diversa de pacientes con enfermedad arterial periférica (EAP, PAD por sus siglas en inglés). Vale la pena mirarlo porque aporta datos de vida real sobre una tecnología cada vez más usada en revascularización periférica.",
+      "destacado": false,
+      "analisis": "Diseño: Nota de TCTMD sobre el registro ELEGANCE, un estudio observacional (registro) que evalúa la permeabilidad del vaso tratado con stents liberadores de fármaco (DES) en enfermedad arterial periférica (EAP); el título no especifica el número de centros ni de pacientes incluidos.\nPoblación: Pacientes con enfermedad arterial periférica (EAP) de presentación diversa (distintos territorios y grados de severidad), tratados con stents liberadores de fármaco; no se detallan otros criterios de inclusión o exclusión.\nIntervención: Implante de stents liberadores de fármaco (DES) en lesiones arteriales periféricas; no se menciona un grupo comparador explícito en el título (registro de un solo brazo).\nResultados: No disponibles en esta nota; el título solo indica \"alta permeabilidad\" sin cifras de tasa de permeabilidad, intervalos de confianza ni valor de p.\nLimitaciones: Al tratarse de un registro (no aleatorizado) y de una nota periodística, no se puede valorar el riesgo de sesgo de selección, la duración del seguimiento ni la comparación con otras estrategias de revascularización (angioplastia simple, stent no farmacológico).\nMensaje: Si se confirman estos resultados, respaldaría el uso de DES como opción de revascularización periférica en poblaciones heterogéneas de EAP, aunque los datos de registro no reemplazan a un ensayo aleatorizado para establecer superioridad frente a otras alternativas.\nNota: análisis sin acceso al abstract."
+    },
+    "6e021b9edbbf": {
+      "resumen": "KDnuggets repasa las novedades de Claude Haiku 5.5, un modelo de lenguaje de gran escala (LLM) de Anthropic más rápido y barato, que ahora incorpora razonamiento adaptativo y una ventana de contexto de hasta un millón de tokens, con ejemplos de uso en Python para clasificación, extracción de datos y flujos con subagentes. Le sirve a un médico que aprende análisis de datos porque muestra cómo automatizar tareas repetitivas de procesamiento de texto a bajo costo.",
+      "destacado": false
+    },
+    "33390639e59f": {
+      "resumen": "Towards Data Science presenta Gemini 4 Argon, el nuevo modelo de Google con una ventana de salida de hasta un millón de tokens, y compara sus benchmarks y costos frente a otros modelos de lenguaje de gran escala (LLM). Le sirve a quien aprende análisis de datos porque ayuda a elegir qué modelo conviene según el volumen de información a procesar y el presupuesto disponible.",
+      "destacado": false
+    },
+    "00f90d9cd2f0": {
+      "resumen": "El artículo explica la predicción conforme (conformal prediction), una técnica estadística que agrega intervalos de confianza calibrados a las predicciones de un modelo de aprendizaje automático (machine learning), en lugar de dar solo un valor puntual. Le sirve mucho a un médico que aprende análisis de datos porque traduce la idea de \"intervalo de confianza\", ya familiar de la estadística clínica, al mundo de los modelos predictivos, ayudando a saber cuándo confiar en una predicción y cuándo no.",
+      "destacado": true
+    },
+    "15c31181e75f": {
+      "resumen": "KDnuggets compara dos frameworks populares para construir aplicaciones con modelos de lenguaje de gran escala (LLM), LangChain y LlamaIndex, frente a programar una solución propia desde cero, según qué se busque optimizar (velocidad de desarrollo, control o flexibilidad). Le sirve a quien aprende análisis de datos porque ordena las opciones disponibles antes de meterse a construir su primera aplicación con inteligencia artificial.",
+      "destacado": false
+    },
+    "667da8dbf36f": {
+      "resumen": "El estudio prueba cuánto se puede reducir el número de canales de un electroencefalograma (EEG) sin perder precisión, usando selección de variables (feature ranking) y evaluando si el modelo generaliza a participantes nuevos. Le sirve a quien aprende análisis de datos porque es un ejemplo concreto de cómo simplificar un modelo biomédico sin resignar demasiado poder predictivo.",
+      "destacado": false
+    },
+    "697acf568d89": {
+      "resumen": "KDnuggets propone siete controles concretos para validar código generado por inteligencia artificial antes de usarlo, recordando que escribir código quedó barato pero verificarlo sigue siendo responsabilidad de quien lo usa. Le sirve a un médico que aprende análisis de datos porque da una lista de chequeo práctica para no confiar a ciegas en scripts generados automáticamente.",
+      "destacado": false
+    },
+    "2aa7cbe3da22": {
+      "resumen": "El ex segunda línea de Los Pumas Juan Pablo Zeiss anunció su retiro del rugby profesional y se despidió jugando para Los Matreros."
+    },
+    "b98b7447de73": {
+      "resumen": "Un histórico del rugby argentino, ya consagrado en el Salón de la Fama, cuenta cómo rechazó en su momento una convocatoria a Los Pumas para dedicarse a un emprendimiento propio y, ocho años después, terminó regresando al deporte."
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T22:04:26Z",
+  "generated_at": "2026-10-19T05:10:00Z",
   "summaries": {
     "3bae74a956e6": {
       "resumen": "Un estudio comparó la angioplastia coronaria percutánea (ACTP, intervención coronaria percutánea) temprana versus un abordaje más conservador en pacientes con infarto sin elevación del segmento ST (NSTEMI, non-ST-segment elevation myocardial infarction) que además tienen insuficiencia cardíaca (IC) estable, y encontró que la revascularización temprana se asoció a peores resultados. Vale la pena mirarlo porque cuestiona la práctica habitual de apurar la angioplastia en estos pacientes.",
@@ -45,51 +45,51 @@
       "resumen": "Resumen de novedades de un número de European Heart Journal (Revista Europea del Corazón) que repasa, en conjunto, las guías de la ESC (European Society of Cardiology, Sociedad Europea de Cardiología), los mecanismos de la miocarditis (inflamación del músculo cardíaco) y datos nuevos sobre el tratamiento con antagonistas del receptor de mineralocorticoides, glucósidos cardíacos (como la digoxina) y agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1). Vale la pena mirarlo como mapa rápido de varios frentes de actualización en simultáneo, más que como un estudio puntual.",
       "destacado": false
     },
-    "ca4d3a09da4a": {
-      "resumen": "Los All Blacks de Nueva Zelanda volvieron a vencer a los Wallabies de Australia y se quedaron con la Bledisloe Cup, el trofeo que ambas selecciones disputan cada temporada."
-    },
-    "77c7a09c9f1b": {
-      "resumen": "La victoria de Nueva Zelanda sobre Australia achica la distancia con Sudáfrica en el ranking de World Rugby, un movimiento que también repercute en la posición de Los Pumas."
-    },
-    "0a77e3ded60e": {
-      "resumen": "Hilo de Reddit (r/datascience) sobre cómo automatizar la generación de reportes en Power BI (herramienta de inteligencia de negocios de Microsoft) para reducir el trabajo manual repetitivo de armar tableros. Le sirve a un médico que aprende análisis de datos porque muestra trucos de automatización aplicables a reportes periódicos, como los indicadores de un servicio o consultorio.",
+    "166ee56cb29f": {
+      "resumen": "Hilo semanal de r/datascience (comunidad de Reddit sobre ciencia de datos) donde quienes están empezando o cambiando de carrera hacia el análisis de datos hacen preguntas y comparten experiencias. Le sirve a un médico en transición hacia el análisis de datos porque es un espacio para consultar dudas de orientación profesional sin la carga de un foro técnico avanzado.",
       "destacado": false
     },
-    "aa368bf1a729": {
-      "resumen": "Artículo de Towards Data Science que señala que las guías de cuantización (quantization, técnica para reducir el tamaño de los modelos de inteligencia artificial) suelen omitir una métrica que depende del umbral de decisión elegido, y propone dos números para cubrir ese vacío. Le sirve a un médico que aprende análisis de datos porque introduce un concepto clave para evaluar si un modelo de IA comprimido sigue siendo confiable antes de usarlo en tareas sensibles.",
+    "b8a89dddc6c6": {
+      "resumen": "Actualización menor del plugin llm-tools-datasette, que conecta la herramienta de línea de comandos LLM (large language model, modelo de lenguaje de gran escala) con Datasette (explorador de bases de datos SQL) y corrige una falla introducida por un cambio en la librería HTTP httpx. Le sirve a quien aprende análisis de datos porque muestra cómo integrar modelos de lenguaje con consultas SQL sobre sus propios datos.",
       "destacado": false
     },
-    "c4265a6d3144": {
-      "resumen": "Hilo de Reddit (r/datascience) donde se piden y comparten recursos para aprender sobre sistemas de recomendación (algoritmos que sugieren productos, contenidos o, en medicina, posibles diagnósticos o tratamientos según patrones de datos previos). Le sirve a un médico que aprende análisis de datos porque da una hoja de ruta de materiales introductorios sin tener que salir a buscarlos por su cuenta.",
+    "bb0c25ea36bd": {
+      "resumen": "Nota sobre cómo el escritor William Gibson, creador del término \"ciberespacio\", vio cómo otros intentaron registrarlo como marca comercial. No aporta herramientas de análisis de datos; se incluye en esta sección por la clasificación automática del feed de Hacker News.",
       "destacado": false
     },
-    "69ead926e689": {
-      "resumen": "Nota técnica de Simon Willison sobre una forma de insertar y ejecutar contenido HTML o scripts de manera dinámica usando document.currentScript (una propiedad de JavaScript que identifica el script que se está ejecutando en ese momento), útil para widgets o salidas generadas sobre la marcha. Le sirve a un médico que aprende análisis de datos porque es la base técnica que usan muchas herramientas de inteligencia artificial para mostrar gráficos o reportes interactivos directamente en el navegador.",
+    "12899128ec45": {
+      "resumen": "Nueva versión del plugin llm-echo, una herramienta de depuración (debug) para el proyecto LLM que simula un modelo que solo repite el texto recibido, útil para probar código sin gastar llamadas a un modelo real. Le sirve a quien aprende análisis de datos porque es un truco práctico para testear flujos de trabajo con inteligencia artificial sin costo ni variabilidad.",
       "destacado": false
     },
-    "1ee329673e19": {
-      "resumen": "Nota de Hacker News sobre cómo la actualización macOS 15.8.2 de Apple rompió el soporte de OpenGL (interfaz de programación gráfica usada por muchas aplicaciones científicas y de visualización). No aporta herramientas de análisis de datos en sí, pero le sirve a un médico que aprende análisis de datos como recordatorio de que las actualizaciones de sistema operativo pueden romper silenciosamente el software científico o de visualización que usa a diario.",
+    "a5bb32320853": {
+      "resumen": "Paper que propone agentes de inteligencia artificial que razonan internamente en un espacio latente (representación numérica interna del modelo) pero actúan comunicándose en texto natural, buscando un punto medio entre eficiencia y explicabilidad. Le sirve a quien aprende análisis de datos porque anticipa hacia dónde evolucionan los agentes de inteligencia artificial que ya se usan para automatizar tareas analíticas.",
+      "destacado": true
+    },
+    "c4a66abeab60": {
+      "resumen": "Hilo de r/datascience donde alguien repasa sus últimas diez entrevistas técnicas de Python para puestos de ciencia de datos en áreas de producto y marketing, y cuenta que solo una fue al estilo LeetCode (plataforma de ejercicios de programación competitiva). Le sirve a un médico que se está formando en análisis de datos porque da una idea realista de qué tipo de ejercicios esperar en una entrevista de ciencia de datos fuera del ámbito puramente técnico.",
+      "destacado": false
+    },
+    "21f4d1160768": {
+      "resumen": "Nota sobre una nueva versión del compilador Free Pascal que ahora admite paquetes dinámicos (bibliotecas que se cargan en tiempo de ejecución). No aporta herramientas de análisis de datos; se incluye en esta sección por la clasificación automática del feed de Hacker News.",
+      "destacado": false
+    },
+    "1c8b7cb7487d": {
+      "resumen": "Proyecto en GitHub que porta el clásico videojuego Lemmings al sistema operativo Palm OS, usado antiguamente en las agendas electrónicas Palm. No tiene relación con el análisis de datos; se incluye en esta sección por la clasificación automática del feed de Hacker News.",
       "destacado": false
     },
     "f11b7e0a49fc": {
       "resumen": "Artículo de Towards Data Science que usa el clásico problema de Monty Hall (el concurso de las tres puertas) para explicar, paso a paso, el razonamiento bayesiano: cómo actualizar una probabilidad inicial a medida que aparece nueva información. Le sirve mucho a un médico que aprende análisis de datos porque esa misma lógica es la que sostiene la interpretación de un test diagnóstico (probabilidad pre-test y post-test según el resultado).",
-      "destacado": true
-    },
-    "643666daab59": {
-      "resumen": "Nota de Hacker News sobre RepRapMicron, un proyecto de hardware libre para construir una plataforma de manipulación mecánica a escala submicrométrica con impresión 3D de bajo costo. No tiene relación directa con el análisis de datos; se incluye en esta sección por la clasificación automática del feed.",
-      "destacado": false
-    },
-    "e9bd6e2a8f74": {
-      "resumen": "Publicación de Hacker News (sección Show HN, donde se presentan proyectos personales) con una guía para repasar la cronología de la saga de videojuegos Zelda antes del relanzamiento de Ocarina of Time. No tiene relación con el análisis de datos ni la inteligencia artificial; aparece en esta sección por la clasificación automática del feed.",
       "destacado": false
     },
     "0a98bdbbca23": {
       "resumen": "Artículo de Towards Data Science que muestra cómo dos gráficos pueden ser técnicamente correctos y, sin embargo, contar historias opuestas según la escala, el recorte temporal o la variable elegida para representar los mismos datos. Le sirve mucho a un médico que aprende análisis de datos porque enseña a leer con ojo crítico cualquier gráfico, incluidos los que resumen resultados clínicos o epidemiológicos, antes de sacar conclusiones.",
       "destacado": false
     },
-    "fcc34260855a": {
-      "resumen": "Nota de Hacker News sobre Open MicroManipulator, una plataforma de control de movimiento 3D de código abierto con precisión submicrométrica, pensada para laboratorios y microscopía. No aporta herramientas de análisis de datos; se incluye en esta sección por la clasificación automática del feed.",
-      "destacado": false
+    "ec648fbc9ac8": {
+      "resumen": "El presidente de World Rugby, Brett Robinson, considera que la candidatura para disputar el Mundial de rugby 2035 en Sudamérica tiene chances reales por la relevancia de la región para el crecimiento del deporte."
+    },
+    "6d32181b6e63": {
+      "resumen": "Hindú Club se metió como cuarto semifinalista del Top 14 del rugby argentino, mientras que Los Matreros perdió la categoría tras quedar último en la tabla."
     },
     "d84f434c8869": {
       "resumen": "La Nación repasa, puesto por puesto, cómo llega Los Pumas a un año del próximo Mundial de rugby, con un semáforo de rendimiento para cada jugador de la selección argentina."

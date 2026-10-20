@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T10:05:16Z",
+  "generated_at": "2026-10-20T22:06:24Z",
   "summaries": {
     "869443fefcea": {
       "resumen": "Estudio de JACC (Journal of the American College of Cardiology) que busca convertir el concepto de obesidad sarcopénica (pérdida de masa muscular combinada con exceso de grasa corporal) en una herramienta práctica para predecir y prevenir la insuficiencia cardíaca (IC). Vale la pena mirarlo porque pone el foco en un fenotipo de riesgo que el índice de masa corporal (IMC) suele pasar por alto.",
@@ -23,10 +23,6 @@
       "destacado": true,
       "analisis": "Diseño: Nota de TCTMD sobre un metaanálisis que compara el reemplazo valvular aórtico transcatéter (TAVI) con el reemplazo valvular aórtico quirúrgico (SAVR) en pacientes de bajo riesgo quirúrgico; el título no especifica cuántos ensayos ni pacientes se incluyeron, ni si se usaron datos a nivel de paciente individual o agregados.\nPoblación: Pacientes con estenosis aórtica severa clasificados como de bajo riesgo quirúrgico, candidatos tanto a TAVI como a SAVR; no se detallan otros criterios de inclusión o exclusión.\nIntervención: TAVI frente a SAVR, con seguimiento a varios años para evaluar mortalidad a mediano y largo plazo.\nResultados: No disponibles en esta nota; el título solo indica que la mortalidad es \"cada vez mayor\" con TAVI respecto a SAVR a medida que pasan los años, sin cifras de razón de riesgo, intervalos de confianza ni valor de p.\nLimitaciones: Al ser una nota periodística sobre un metaanálisis, no se puede valorar la heterogeneidad entre los ensayos incluidos, las generaciones de dispositivos TAVI utilizadas (que mejoraron con el tiempo) ni la calidad del seguimiento a largo plazo.\nMensaje: Si se confirma con los datos completos, invitaría a ser más cautos al recomendar TAVI por sobre la cirugía en pacientes jóvenes y de bajo riesgo, priorizando la expectativa de vida y el seguimiento a largo plazo en la decisión, más allá de los buenos resultados perioperatorios del TAVI.\nNota: análisis sin acceso al abstract."
     },
-    "7e89e0765e11": {
-      "resumen": "Edwards Lifesciences retiró del mercado algunos lotes del sistema de entrega de su válvula Sapien M3, tras una alerta de la FDA (Food and Drug Administration, agencia regulatoria de medicamentos y dispositivos de EE.UU.) por un problema de seguridad del dispositivo. Vale la pena mirarlo porque puede afectar la disponibilidad o el manejo del material en procedimientos de reemplazo valvular mitral transcatéter programados con este sistema.",
-      "destacado": false
-    },
     "79da959693d4": {
       "resumen": "Resumen de novedades de un número de European Heart Journal (Revista Europea del Corazón) que repasa, en conjunto, las guías de la ESC (European Society of Cardiology, Sociedad Europea de Cardiología), los mecanismos de la miocarditis (inflamación del músculo cardíaco) y datos nuevos sobre el tratamiento con antagonistas del receptor de mineralocorticoides, glucósidos cardíacos (como la digoxina) y agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1). Vale la pena mirarlo como mapa rápido de varios frentes de actualización en simultáneo, más que como un estudio puntual.",
       "destacado": false
@@ -45,63 +41,59 @@
       "destacado": false,
       "analisis": "Diseño: Nota de TCTMD sobre el registro ELEGANCE, un estudio observacional (registro) que evalúa la permeabilidad del vaso tratado con stents liberadores de fármaco (DES) en enfermedad arterial periférica (EAP); el título no especifica el número de centros ni de pacientes incluidos.\nPoblación: Pacientes con enfermedad arterial periférica (EAP) de presentación diversa (distintos territorios y grados de severidad), tratados con stents liberadores de fármaco; no se detallan otros criterios de inclusión o exclusión.\nIntervención: Implante de stents liberadores de fármaco (DES) en lesiones arteriales periféricas; no se menciona un grupo comparador explícito en el título (registro de un solo brazo).\nResultados: No disponibles en esta nota; el título solo indica \"alta permeabilidad\" sin cifras de tasa de permeabilidad, intervalos de confianza ni valor de p.\nLimitaciones: Al tratarse de un registro (no aleatorizado) y de una nota periodística, no se puede valorar el riesgo de sesgo de selección, la duración del seguimiento ni la comparación con otras estrategias de revascularización (angioplastia simple, stent no farmacológico).\nMensaje: Si se confirman estos resultados, respaldaría el uso de DES como opción de revascularización periférica en poblaciones heterogéneas de EAP, aunque los datos de registro no reemplazan a un ensayo aleatorizado para establecer superioridad frente a otras alternativas.\nNota: análisis sin acceso al abstract."
     },
-    "6e021b9edbbf": {
-      "resumen": "KDnuggets repasa las novedades de Claude Haiku 5.5, un modelo de lenguaje de gran escala (LLM) de Anthropic más rápido y barato, que ahora incorpora razonamiento adaptativo y una ventana de contexto de hasta un millón de tokens, con ejemplos de uso en Python para clasificación, extracción de datos y flujos con subagentes. Le sirve a un médico que aprende análisis de datos porque muestra cómo automatizar tareas repetitivas de procesamiento de texto a bajo costo.",
-      "destacado": false
-    },
-    "33390639e59f": {
-      "resumen": "Towards Data Science presenta Gemini 4 Argon, el nuevo modelo de Google con una ventana de salida de hasta un millón de tokens, y compara sus benchmarks y costos frente a otros modelos de lenguaje de gran escala (LLM). Le sirve a quien aprende análisis de datos porque ayuda a elegir qué modelo conviene según el volumen de información a procesar y el presupuesto disponible.",
-      "destacado": false
-    },
-    "00f90d9cd2f0": {
-      "resumen": "El artículo explica la predicción conforme (conformal prediction), una técnica estadística que agrega intervalos de confianza calibrados a las predicciones de un modelo de aprendizaje automático (machine learning), en lugar de dar solo un valor puntual. Le sirve mucho a un médico que aprende análisis de datos porque traduce la idea de \"intervalo de confianza\", ya familiar de la estadística clínica, al mundo de los modelos predictivos, ayudando a saber cuándo confiar en una predicción y cuándo no.",
-      "destacado": true
-    },
-    "15c31181e75f": {
-      "resumen": "KDnuggets compara dos frameworks populares para construir aplicaciones con modelos de lenguaje de gran escala (LLM), LangChain y LlamaIndex, frente a programar una solución propia desde cero, según qué se busque optimizar (velocidad de desarrollo, control o flexibilidad). Le sirve a quien aprende análisis de datos porque ordena las opciones disponibles antes de meterse a construir su primera aplicación con inteligencia artificial.",
-      "destacado": false
-    },
-    "667da8dbf36f": {
-      "resumen": "El estudio prueba cuánto se puede reducir el número de canales de un electroencefalograma (EEG) sin perder precisión, usando selección de variables (feature ranking) y evaluando si el modelo generaliza a participantes nuevos. Le sirve a quien aprende análisis de datos porque es un ejemplo concreto de cómo simplificar un modelo biomédico sin resignar demasiado poder predictivo.",
-      "destacado": false
-    },
-    "af02b0baed07": {
-      "resumen": "Simon Willison comenta la nota de Jeremy Scheff sobre la pérdida que sienten los programadores de carrera cuando los agentes de codificación basados en inteligencia artificial (IA) les quitan el disfrute del rompecabezas de escribir código a mano. Le sirve a quien aprende análisis de datos porque anticipa cómo cambia el oficio de programar, y por extensión el de analizar datos, cuando buena parte del código lo redacta una IA.",
-      "destacado": false
-    },
-    "efa8c4c666c6": {
-      "resumen": "Se descubrió que las páginas de ayuda de WhatsApp contenían instrucciones ocultas dirigidas a modelos de lenguaje de gran escala (LLM, large language model) para que no recomendaran acudir a un organismo regulador. Le sirve a quien aprende análisis de datos porque es un caso concreto de inyección de instrucciones (prompt injection) escondida en contenido web, un riesgo a tener en cuenta al construir o confiar en sistemas basados en IA.",
-      "destacado": false
-    },
-    "ac0d997f5265": {
-      "resumen": "La próxima versión de OpenBSD 8.0 incorporará los controladores gráficos inteldrm, radeondrm y amdgpu portados desde el núcleo Linux 6.18, lo que mejora el soporte de hardware gráfico de ese sistema operativo. Es una noticia de sistemas operativos sin relación directa con el análisis de datos, incluida en el repaso general de tecnología.",
-      "destacado": false
-    },
-    "e3ef56996711": {
-      "resumen": "Un usuario relata cómo instaló Linux en su laptop RTX Spark para evitar el requisito de cuenta de Microsoft que exige Windows. Es un relato de experiencia personal sobre sistemas operativos; le sirve solo de manera tangencial a quien aprende análisis de datos, como referencia de cómo configurar un equipo propio por fuera de Windows para trabajar con herramientas de inteligencia artificial.",
-      "destacado": false
-    },
-    "76a5f3484167": {
-      "resumen": "Un proyecto de código abierto llamado Mac.apk permite correr aplicaciones de Android de forma nativa en macOS. Es una noticia de compatibilidad entre sistemas operativos, sin aplicación directa al análisis de datos, incluida como nota general de tecnología.",
-      "destacado": false
-    },
     "17e479818161": {
       "resumen": "Gastón Revol habló en una transmisión de CORDOBAXV sobre su actualidad, su etapa en Los Pumas 7s y los nuevos desafíos que enfrenta en el rugby."
     },
     "70790e12c0f0": {
       "resumen": "Tony Brown reveló que Felipe Contepomi lo quiso convocar a su cuerpo técnico y que estuvo cerca de convertirse en entrenador de Los Pumas."
     },
-    "bca8f0d84192": {
-      "resumen": "Trascendió que un entrenador sudafricano, bicampeón del mundo, estuvo a punto de convertirse en entrenador de Los Pumas."
+    "6fea150494d8": {
+      "resumen": "El EuroSCORE (European System for Cardiac Operative Risk Evaluation) es la calculadora de riesgo quirúrgico más usada para estimar la mortalidad perioperatoria en cirugía cardíaca. TCTMD adelanta que se viene una actualización del modelo, después de que se detectaran falencias del score vigente para predecir el riesgo en la práctica actual. Vale la pena mirarlo porque este puntaje se usa a diario para decidir entre cirugía y abordajes percutáneos en pacientes valvulares y coronarios.",
+      "destacado": false,
+      "analisis": "Diseño: Nota de TCTMD que anticipa una actualización del EuroSCORE (European System for Cardiac Operative Risk Evaluation), el modelo de predicción de riesgo quirúrgico en cirugía cardíaca; el título no especifica si la detección de falencias surge de un estudio de validación externa, una cohorte de recalibración o un análisis multicéntrico, ni la cantidad de centros o pacientes involucrados.\nPoblación: Pacientes sometidos a cirugía cardíaca en quienes se aplicó el EuroSCORE vigente (probablemente EuroSCORE II) para estimar el riesgo operatorio; no se detallan criterios de inclusión o exclusión.\nIntervención: No aplica una intervención terapéutica; se trata de la evaluación del desempeño predictivo (calibración y discriminación) del modelo de riesgo actual frente a los resultados observados.\nResultados: No disponibles en esta nota; el título solo señala que el modelo actual tiene \"falencias\" (drawbacks), sin cifras de calibración, estadístico C ni intervalos de confianza.\nLimitaciones: Al ser una nota periodística y no el estudio de validación original, no se puede valorar el tamaño muestral, la población de validación ni los métodos estadísticos usados para evidenciar el desajuste del modelo.\nMensaje: Si se confirma el desajuste del EuroSCORE vigente, respaldaría la necesidad de recalibrar o rediseñar el score para que siga siendo útil en la toma de decisiones sobre riesgo quirúrgico en la práctica contemporánea.\nNota: análisis sin acceso al abstract."
     },
-    "fa2d7865bc3c": {
-      "resumen": "Las alergias alimentarias en los chicos no son fijas: pueden modificarse o resolverse a medida que crecen."
+    "3b5ce86c8c40": {
+      "resumen": "Simon Willison, desarrollador y divulgador muy seguido en IA (inteligencia artificial) generativa, armó un juego de estrategia en tiempo real (RTS, real time strategy) al estilo Command & Conquer generado casi enteramente con asistencia de IA (\"vibe coding\"), con la particularidad de que el modo multijugador funciona por audio. Le sirve a quien se inicia en ciencia de datos para ver hasta dónde se puede llegar hoy programando con IA generativa como copiloto, sin ser un desarrollador experto.",
+      "destacado": false
     },
-    "66df929331cf": {
-      "resumen": "Los resultados del examen dental de un adolescente pueden funcionar como una ventana a su bienestar general, más allá de la salud bucal."
+    "3e2f34074954": {
+      "resumen": "Proyecto comentado en Hacker News que lleva la lógica de SimCity a un simulador donde el cuello de botella no es construir, sino tramitar los permisos administrativos. Le aporta a un médico que se está formando en análisis de datos una forma entretenida de ver cómo se pueden modelar y visualizar procesos burocráticos complejos con herramientas de simulación.",
+      "destacado": false
     },
-    "952c2121c155": {
-      "resumen": "Según un estudio, los monitores de glucosa pueden ayudar a las personas con diabetes tipo 2 que todavía no necesitan insulina."
+    "c6afd5cf7a3f": {
+      "resumen": "Ensayo personal, muy comentado en Hacker News, sobre qué conocimientos y habilidades conviene transmitirle a las nuevas generaciones en la era de la inteligencia artificial (IA). Le sirve a un médico en formación en datos para pensar qué herramientas y criterios priorizar a la hora de capacitarse (o de guiar a otros) en un contexto donde la IA cambia rápido qué vale la pena aprender.",
+      "destacado": false
+    },
+    "2f990e26e9ae": {
+      "resumen": "Google liberó como código abierto TorchTPU, un backend nativo de PyTorch para correr modelos de aprendizaje automático sobre sus procesadores TPU (Tensor Processing Unit), hasta ahora más asociados a TensorFlow y JAX. Le sirve a un médico que se forma en análisis de datos porque amplía las opciones de hardware acelerado disponibles para entrenar modelos con la librería más usada del ecosistema, sin tener que migrar de framework.",
+      "destacado": true
+    },
+    "835e678b11fa": {
+      "resumen": "Mistral AI presentó Voxtral 3, la nueva versión de su familia de modelos de voz para reconocimiento y comprensión de audio hablado. Le interesa a quien aprende análisis de datos porque muestra el estado del arte en modelos de voz de código abierto, una puerta de entrada más simple que el texto para digitalizar y analizar información hablada (por ejemplo, el dictado médico).",
+      "destacado": false
+    },
+    "04a452e17375": {
+      "resumen": "Artículo técnico de Towards Data Science que explica cómo usar las características (features) del modelo de visión DINOv3 de Meta, sin reentrenarlo (frozen), para que un modelo entrenado con imágenes sintéticas funcione bien sobre imágenes reales. Le sirve a un médico que se forma en datos porque ejemplifica una técnica concreta para lidiar con la escasez de imágenes reales etiquetadas en visión por computadora, un problema frecuente también en imagenología médica.",
+      "destacado": false
+    },
+    "fb386878a344": {
+      "resumen": "Artículo de Towards Data Science que compara dos formas de darle \"herramientas\" a un modelo de lenguaje (LLM, large language model) -como una skill de instrucciones o como un servidor con el protocolo MCP (Model Context Protocol)- y plantea que la pregunta clave no es cuál es más prolijo, sino qué mecanismo realmente impide que el modelo se salga de la consigna. Le sirve a quien está aprendiendo a construir herramientas con IA porque clarifica un dilema de diseño cada vez más frecuente al automatizar tareas con modelos de lenguaje.",
+      "destacado": false
+    },
+    "5027e2a22c08": {
+      "resumen": "Guía de KDnuggets con los pasos y habilidades recomendadas para encarar en 2026 una carrera como product manager (gerente de producto) de productos de inteligencia artificial. Le aporta a un médico en transición hacia el análisis de datos una hoja de ruta de las competencias técnicas y de gestión que hoy pide el mercado para roles que combinan IA y producto.",
+      "destacado": false
+    },
+    "d64b075a0cda": {
+      "resumen": "Artículo de Towards Data Science que analiza el costo oculto de \"enrutar\" pedidos entre distintos modelos de lenguaje (LLM routing) según el caso de uso, y por qué cambiar de modelo puede terminar saliendo más caro de lo que parece a simple vista. Le sirve a quien evalúa usar IA para analizar datos clínicos o de investigación porque ayuda a entender mejor los costos reales de operar con varios modelos a la vez.",
+      "destacado": false
+    },
+    "b8b7774f8a22": {
+      "resumen": "Recomendación de KDnuggets de cinco contenedores Docker útiles para el trabajo diario de desarrollo. Le sirve a un médico que se está formando en análisis de datos porque Docker es una herramienta clave para armar entornos de trabajo reproducibles, algo cada vez más valorado también en investigación clínica y ciencia de datos en salud.",
+      "destacado": false
+    },
+    "0aafbeb3cac0": {
+      "resumen": "El entrenador de rugby recordó, en diálogo con Córdoba XV, que la selección argentina fue la primera en ofrecerle un contrato profesional."
     }
   }
 }

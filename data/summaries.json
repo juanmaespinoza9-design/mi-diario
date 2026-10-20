@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T22:05:11Z",
+  "generated_at": "2026-10-20T10:05:16Z",
   "summaries": {
     "869443fefcea": {
       "resumen": "Estudio de JACC (Journal of the American College of Cardiology) que busca convertir el concepto de obesidad sarcopénica (pérdida de masa muscular combinada con exceso de grasa corporal) en una herramienta práctica para predecir y prevenir la insuficiencia cardíaca (IC). Vale la pena mirarlo porque pone el foco en un fenotipo de riesgo que el índice de masa corporal (IMC) suele pasar por alto.",
@@ -30,25 +30,6 @@
     "79da959693d4": {
       "resumen": "Resumen de novedades de un número de European Heart Journal (Revista Europea del Corazón) que repasa, en conjunto, las guías de la ESC (European Society of Cardiology, Sociedad Europea de Cardiología), los mecanismos de la miocarditis (inflamación del músculo cardíaco) y datos nuevos sobre el tratamiento con antagonistas del receptor de mineralocorticoides, glucósidos cardíacos (como la digoxina) y agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1). Vale la pena mirarlo como mapa rápido de varios frentes de actualización en simultáneo, más que como un estudio puntual.",
       "destacado": false
-    },
-    "166ee56cb29f": {
-      "resumen": "Hilo semanal de r/datascience (comunidad de Reddit sobre ciencia de datos) donde quienes están empezando o cambiando de carrera hacia el análisis de datos hacen preguntas y comparten experiencias. Le sirve a un médico en transición hacia el análisis de datos porque es un espacio para consultar dudas de orientación profesional sin la carga de un foro técnico avanzado.",
-      "destacado": false
-    },
-    "b8a89dddc6c6": {
-      "resumen": "Actualización menor del plugin llm-tools-datasette, que conecta la herramienta de línea de comandos LLM (large language model, modelo de lenguaje de gran escala) con Datasette (explorador de bases de datos SQL) y corrige una falla introducida por un cambio en la librería HTTP httpx. Le sirve a quien aprende análisis de datos porque muestra cómo integrar modelos de lenguaje con consultas SQL sobre sus propios datos.",
-      "destacado": false
-    },
-    "12899128ec45": {
-      "resumen": "Nueva versión del plugin llm-echo, una herramienta de depuración (debug) para el proyecto LLM que simula un modelo que solo repite el texto recibido, útil para probar código sin gastar llamadas a un modelo real. Le sirve a quien aprende análisis de datos porque es un truco práctico para testear flujos de trabajo con inteligencia artificial sin costo ni variabilidad.",
-      "destacado": false
-    },
-    "c4a66abeab60": {
-      "resumen": "Hilo de r/datascience donde alguien repasa sus últimas diez entrevistas técnicas de Python para puestos de ciencia de datos en áreas de producto y marketing, y cuenta que solo una fue al estilo LeetCode (plataforma de ejercicios de programación competitiva). Le sirve a un médico que se está formando en análisis de datos porque da una idea realista de qué tipo de ejercicios esperar en una entrevista de ciencia de datos fuera del ámbito puramente técnico.",
-      "destacado": false
-    },
-    "ec648fbc9ac8": {
-      "resumen": "El presidente de World Rugby, Brett Robinson, considera que la candidatura para disputar el Mundial de rugby 2035 en Sudamérica tiene chances reales por la relevancia de la región para el crecimiento del deporte."
     },
     "602383f5cf91": {
       "resumen": "Un estudio encontró que la hipotensión intraoperatoria (caída de la presión arterial durante el procedimiento) durante la trombectomía mecánica por accidente cerebrovascular (ACV) isquémico se asocia a peores resultados neurológicos. Vale la pena mirarlo porque remarca la importancia del manejo hemodinámico durante procedimientos neurointervencionistas, un aspecto frecuentemente subestimado en el periprocedimiento.",
@@ -84,15 +65,43 @@
       "resumen": "El estudio prueba cuánto se puede reducir el número de canales de un electroencefalograma (EEG) sin perder precisión, usando selección de variables (feature ranking) y evaluando si el modelo generaliza a participantes nuevos. Le sirve a quien aprende análisis de datos porque es un ejemplo concreto de cómo simplificar un modelo biomédico sin resignar demasiado poder predictivo.",
       "destacado": false
     },
-    "697acf568d89": {
-      "resumen": "KDnuggets propone siete controles concretos para validar código generado por inteligencia artificial antes de usarlo, recordando que escribir código quedó barato pero verificarlo sigue siendo responsabilidad de quien lo usa. Le sirve a un médico que aprende análisis de datos porque da una lista de chequeo práctica para no confiar a ciegas en scripts generados automáticamente.",
+    "af02b0baed07": {
+      "resumen": "Simon Willison comenta la nota de Jeremy Scheff sobre la pérdida que sienten los programadores de carrera cuando los agentes de codificación basados en inteligencia artificial (IA) les quitan el disfrute del rompecabezas de escribir código a mano. Le sirve a quien aprende análisis de datos porque anticipa cómo cambia el oficio de programar, y por extensión el de analizar datos, cuando buena parte del código lo redacta una IA.",
       "destacado": false
     },
-    "2aa7cbe3da22": {
-      "resumen": "El ex segunda línea de Los Pumas Juan Pablo Zeiss anunció su retiro del rugby profesional y se despidió jugando para Los Matreros."
+    "efa8c4c666c6": {
+      "resumen": "Se descubrió que las páginas de ayuda de WhatsApp contenían instrucciones ocultas dirigidas a modelos de lenguaje de gran escala (LLM, large language model) para que no recomendaran acudir a un organismo regulador. Le sirve a quien aprende análisis de datos porque es un caso concreto de inyección de instrucciones (prompt injection) escondida en contenido web, un riesgo a tener en cuenta al construir o confiar en sistemas basados en IA.",
+      "destacado": false
     },
-    "b98b7447de73": {
-      "resumen": "Un histórico del rugby argentino, ya consagrado en el Salón de la Fama, cuenta cómo rechazó en su momento una convocatoria a Los Pumas para dedicarse a un emprendimiento propio y, ocho años después, terminó regresando al deporte."
+    "ac0d997f5265": {
+      "resumen": "La próxima versión de OpenBSD 8.0 incorporará los controladores gráficos inteldrm, radeondrm y amdgpu portados desde el núcleo Linux 6.18, lo que mejora el soporte de hardware gráfico de ese sistema operativo. Es una noticia de sistemas operativos sin relación directa con el análisis de datos, incluida en el repaso general de tecnología.",
+      "destacado": false
+    },
+    "e3ef56996711": {
+      "resumen": "Un usuario relata cómo instaló Linux en su laptop RTX Spark para evitar el requisito de cuenta de Microsoft que exige Windows. Es un relato de experiencia personal sobre sistemas operativos; le sirve solo de manera tangencial a quien aprende análisis de datos, como referencia de cómo configurar un equipo propio por fuera de Windows para trabajar con herramientas de inteligencia artificial.",
+      "destacado": false
+    },
+    "76a5f3484167": {
+      "resumen": "Un proyecto de código abierto llamado Mac.apk permite correr aplicaciones de Android de forma nativa en macOS. Es una noticia de compatibilidad entre sistemas operativos, sin aplicación directa al análisis de datos, incluida como nota general de tecnología.",
+      "destacado": false
+    },
+    "17e479818161": {
+      "resumen": "Gastón Revol habló en una transmisión de CORDOBAXV sobre su actualidad, su etapa en Los Pumas 7s y los nuevos desafíos que enfrenta en el rugby."
+    },
+    "70790e12c0f0": {
+      "resumen": "Tony Brown reveló que Felipe Contepomi lo quiso convocar a su cuerpo técnico y que estuvo cerca de convertirse en entrenador de Los Pumas."
+    },
+    "bca8f0d84192": {
+      "resumen": "Trascendió que un entrenador sudafricano, bicampeón del mundo, estuvo a punto de convertirse en entrenador de Los Pumas."
+    },
+    "fa2d7865bc3c": {
+      "resumen": "Las alergias alimentarias en los chicos no son fijas: pueden modificarse o resolverse a medida que crecen."
+    },
+    "66df929331cf": {
+      "resumen": "Los resultados del examen dental de un adolescente pueden funcionar como una ventana a su bienestar general, más allá de la salud bucal."
+    },
+    "952c2121c155": {
+      "resumen": "Según un estudio, los monitores de glucosa pueden ayudar a las personas con diabetes tipo 2 que todavía no necesitan insulina."
     }
   }
 }

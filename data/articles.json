@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T05:01:21.796393+00:00",
+ "generated_at": "2026-10-20T11:51:15.235956+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -189,40 +189,48 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "What's in the Box? Distinguishing Acceptable Traces from Unacceptable Ones",
+     "link": "https://towardsdatascience.com/whats-in-the-box-distinguishing-acceptable-traces-from-unacceptable-ones/",
+     "source": "Towards Data Science",
+     "published": "2026-10-20T11:00:00+00:00",
+     "copete": "Turn scattered requirements into deployable agents The post What's in the Box? Distinguishing Acceptable Traces from Unacceptable Ones appeared first on Towards Data Science .",
+     "id": "cfd18067c7a6"
+    },
+    {
+     "title": "DeepSeek just open-sourced its inference engine",
+     "link": "https://github.com/deepseek-ai/DeepInfer",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-10-20T09:08:54+00:00",
+     "id": "79e072c52849"
+    },
+    {
+     "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+     "link": "https://github.com/golang/go/issues/82345",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-10-20T03:05:07+00:00",
+     "id": "c5d69ce6a750"
+    },
+    {
+     "title": "OpenBSD 8.0",
+     "link": "https://www.openbsd.org/80.html",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-10-20T02:06:40+00:00",
+     "id": "8e87036d11b5"
+    },
+    {
+     "title": "France's supermarket fridges were vulnerable online for months",
+     "link": "https://ipinfo.io/blog/france-fridges-hack",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-10-20T00:00:49+00:00",
+     "id": "d2d456617f7c"
+    },
+    {
      "title": "My obituary for programming",
      "link": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
      "source": "Simon Willison (IA)",
      "published": "2026-10-19T23:58:25+00:00",
      "copete": "My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You…",
      "id": "af02b0baed07"
-    },
-    {
-     "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-     "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-10-19T23:22:18+00:00",
-     "id": "efa8c4c666c6"
-    },
-    {
-     "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-     "link": "https://bsd.network/@brynet/117407035545900963",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-10-19T21:11:45+00:00",
-     "id": "ac0d997f5265"
-    },
-    {
-     "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
-     "link": "https://josie.lol/blog/linux-rtx-spark",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-10-19T21:08:18+00:00",
-     "id": "e3ef56996711"
-    },
-    {
-     "title": "Android apps running native on macOS",
-     "link": "https://github.com/kksimp/Mac.apk",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-10-19T16:45:30+00:00",
-     "id": "76a5f3484167"
     },
     {
      "title": "Claude Haiku 5.5: What’s New and How to Use It for Fast, Cheap AI Workflows",
@@ -255,14 +263,6 @@
      "published": "2026-10-19T14:00:00+00:00",
      "copete": "Choosing the right framework for your large language model application comes down to one question: what are you actually optimizing for?",
      "id": "15c31181e75f"
-    },
-    {
-     "title": "How Many EEG Channels Do You Actually Need?",
-     "link": "https://towardsdatascience.com/how-many-eeg-channels-do-you-actually-need/",
-     "source": "Towards Data Science",
-     "published": "2026-10-19T12:30:00+00:00",
-     "copete": "Testing sensor reduction, feature ranking, and generalization to unseen participants The post How Many EEG Channels Do You Actually Need? appeared first on Towards Data Science .",
-     "id": "667da8dbf36f"
     }
    ]
   },
@@ -272,96 +272,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Búsqueda de Nancy Godoy en Corrientes: el cargo por el que quedó detenido el principal involucrado en la causa",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/10/20/busqueda-de-nancy-godoy-en-corrientes-el-cargo-por-el-que-quedo-detenido-el-principal-involucrado-en-la-causa/",
-     "source": "Infobae",
-     "published": "2026-10-20T04:51:14+00:00",
-     "copete": "La maestra rural salió rumbo a la escuela donde trabajaba y nunca regresó. En un allanamiento, los investigadores secuestraron cuatro cuchillos y dos prendas con manchas rojizas, que serán sometidos a peritajes",
-     "id": "4f292d498f03"
-    },
-    {
-     "title": "Juicio por YPF: la jueza Preska cerró formalmente el caso y la Corte Suprema deberá definir el pedido de Burford",
-     "link": "https://www.infobae.com/economia/2026/10/20/juicio-por-ypf-la-jueza-preska-cerro-formalmente-el-caso-y-la-corte-suprema-debera-definir-el-pedido-de-burford/",
-     "source": "Infobae",
-     "published": "2026-10-20T04:47:08+00:00",
-     "copete": "Se trata de un trámite administrativo necesario tras la decisión que la Cámara de Apelaciones tomó en marzo, cuando revirtió el fallo que obligaba a la Argentina a pagar USD 16.000 millones a los fondos que demandaron al Estado por la…",
-     "id": "ffea97155371"
-    },
-    {
-     "title": "El Gobierno postergó hasta diciembre la puesta en marcha de los Fondos de Asistencia Laboral",
-     "link": "https://www.lanacion.com.ar/sociedad/el-gobierno-postergo-hasta-diciembre-la-puesta-en-marcha-de-los-fondos-de-asistencia-laboral-nid20102026/",
+     "title": "La Ciudad anunció a los ganadores de la licitación para instalar locales gastronómicos en los parques porteños",
+     "link": "https://www.lanacion.com.ar/sociedad/la-ciudad-anuncio-a-los-ganadores-de-la-licitacion-para-instalar-locales-gastronomicos-en-los-nid20102026/",
      "source": "La Nación",
-     "published": "2026-10-20T04:45:23+00:00",
-     "copete": "El régimen debía comenzar el 1° de noviembre; además, se amplió de seis a doce meses el período mínimo de aportes previo al uso de los recursos",
-     "id": "293ab5d8e779"
+     "published": "2026-10-20T11:44:19+00:00",
+     "copete": "Esta semana, el gobierno de Jorge Macri oficializó las empresas que fueron adjudicadas para construir tiendas en 16 espacios verdes; el canon por mes va desde los $860.000 hasta más de $4.000.000",
+     "id": "67eb5a812b98"
     },
     {
-     "title": "Javier Milei y sus medidas, en vivo: el mandatario se refirió al crecimiento energético y habló de una “revancha histórica”",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-se-refirio-al-crecimiento-energetico-y-hablo-de-una-nid20102026/",
+     "title": "“No quería vivir una vida sin ser verdaderamente feliz”: nuevo comunicado de Svitolina tras el divorcio que conmocionó al mundo del tenis",
+     "link": "https://www.infobae.com/deportes/2026/10/20/no-queria-vivir-una-vida-sin-ser-verdaderamente-feliz-nuevo-comunicado-de-svitolina-tras-el-divorcio-que-conmociono-al-mundo-del-tenis/",
+     "source": "Infobae",
+     "published": "2026-10-20T11:44:19+00:00",
+     "copete": "La actual 6° del ranking WTA volvió a postear en sus redes sociales luego del revuelo que generó el anuncio de separación con Gael Monfils",
+     "id": "46151b420e73"
+    },
+    {
+     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 20 de octubre, minuto a minuto",
+     "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid20102026/",
      "source": "La Nación",
-     "published": "2026-10-20T04:35:13+00:00",
-     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "0f4996511e48"
+     "published": "2026-10-20T11:43:12+00:00",
+     "copete": "La divisa oficial opera a $1540 para la venta en el Banco Nación; el dólar blue cotiza a $1560 para esa operación; qué pasa con el MEP y el CCL",
+     "id": "2d85f8574bb0"
     },
     {
-     "title": "Las alergias alimentarias cambian a medida que los niños crecen",
-     "link": "https://www.infobae.com/salud/2026/10/20/las-alergias-alimentarias-cambian-a-medida-que-los-ninos-crecen/",
+     "title": "Científicos diseñaron una IA que ayuda a definir tratamientos personalizados contra el cáncer a partir de una foto del rostro",
+     "link": "https://www.infobae.com/salud/ciencia/2026/10/20/cientificos-disenaron-una-ia-que-ayuda-a-definir-tratamientos-personalizados-contra-el-cancer-a-partir-de-una-foto-del-rostro/",
      "source": "Infobae",
-     "published": "2026-10-20T04:31:44+00:00",
-     "id": "fa2d7865bc3c"
+     "published": "2026-10-20T11:43:05+00:00",
+     "copete": "Un equipo de Mass General Brigham entrenó el modelo con más de 40 millones de imágenes para calcular la edad biológica y estimar la supervivencia. El estudio, publicado en The Lancet Digital Health, evaluó su potencial como complemento de…",
+     "id": "c24a3a606308"
     },
     {
-     "title": "¿Preocupado por tu adolescente? Revisa los resultados de su examen dental para una ventana a su bienestar",
-     "link": "https://www.infobae.com/salud/2026/10/20/preocupado-por-tu-adolescente-revisa-los-resultados-de-su-examen-dental-para-una-ventana-a-su-bienestar/",
+     "title": "Josefina Lynch contó cómo fueron sus visitas al estudio de Emanuel Ortega: “Es una persona amorosa y respetuosa”",
+     "link": "https://www.infobae.com/teleshow/2026/10/20/josefina-lynch-conto-como-fueron-sus-visitas-al-estudio-de-emanuel-ortega-es-una-persona-amorosa-y-respetuosa/",
      "source": "Infobae",
-     "published": "2026-10-20T04:31:25+00:00",
-     "id": "66df929331cf"
+     "published": "2026-10-20T11:42:32+00:00",
+     "copete": "La artista se defendió de los rumores que la ubican como tercera en discordia en la separación del músico y Julieta Prandi",
+     "id": "b59273cecb34"
     },
     {
-     "title": "Los monitores de glucosa pueden ayudar quienes viven con diabetes tipo 2 que aún no necesitan insulina, según un estudio",
-     "link": "https://www.infobae.com/salud/2026/10/20/los-monitores-de-glucosa-pueden-ayudar-quienes-viven-con-diabetes-tipo-2-que-aun-no-necesitan-insulina-segun-un-estudio/",
-     "source": "Infobae",
-     "published": "2026-10-20T04:31:07+00:00",
-     "id": "952c2121c155"
-    },
-    {
-     "title": "La psicología dice que algunas personas llegan a la vejez con una actitud más comprensiva, paciente y tolerante frente a los demás. Otras, en cambio, parecen desarrollar mayor irritabilidad, desconfianza o resentimiento después de atravesar situaciones difíciles a lo largo de su vida",
-     "link": "https://www.clarin.com/estados-unidos/psicologia-dice-personas-llegan-vejez-actitud-comprensiva-paciente-tolerante-frente-cambio-parecen-desarrollar-mayor-irritabilidad-desconfianza-resentimiento-despues-atravesar-situaciones-dificiles-largo-vida_0_PUubsBKznp.html",
-     "source": "Clarín",
-     "published": "2026-10-20T04:22:26+00:00",
-     "copete": "Por qué algunas personas se vuelven más amables con los años y otras más amargadas: qué dice la psicología.",
-     "id": "f73a39bd4464"
-    },
-    {
-     "title": "EEUU veta el uso de la IA china DeepSeek en agencias gubernamentales",
-     "link": "https://www.clarin.com/estados-unidos/eeuu-veta-el-uso-de-la-ia-china-deepseek-en-agencias-gubernamentales_0_e9enDQfPvM.html",
-     "source": "Clarín",
-     "published": "2026-10-20T04:20:11+00:00",
-     "copete": "EE.UU. prohíbe a sus agencias usar IA de DeepSeek, citando riesgos de transferencia de datos sensibles a China. La medida excluye a fuerzas armadas. La decisión surge en medio de tensiones por el liderazgo en inteligencia artificial, con…",
-     "id": "4aa176d4d638"
-    },
-    {
-     "title": "Argentina tendrá un nuevo SUV con nombre de superhéroe: cómo es y cuándo llega",
-     "link": "https://www.lanacion.com.ar/autos/llega-un-nuevo-suv-con-nombre-de-superheroe-a-la-argentina-y-es-la-primera-apuesta-electrificada-de-nid09102026/",
+     "title": "Gabriel Rolón, psicólogo: “El amor sano es el invento más maravilloso”",
+     "link": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-el-amor-sano-es-el-invento-mas-maravilloso-nid19102026/",
      "source": "La Nación",
-     "published": "2026-10-20T04:16:00+00:00",
-     "copete": "Se trata del Avenger, el primer vehículo electrificado de Jeep que se comercializará en el país: llega en tres versiones y viene con ChatGPT integrado",
-     "id": "0395c68722bd"
+     "published": "2026-10-20T11:42:04+00:00",
+     "copete": "En una entrevista exclusiva para LN+, el psicoanalista y escritor propuso una mirada cruda sobre el amor, la muerte y el cómo el deseo produce incomodidad",
+     "id": "934c1d6f1b04"
     },
     {
-     "title": "\"La felicidad, sujeta a influjos\"",
-     "link": "https://www.clarin.com/cartas-al-pais/felicidad-sujeta-influjos_0_dnXwTHsP8r.html",
-     "source": "Clarín",
-     "published": "2026-10-20T04:00:26+00:00",
-     "id": "de3ebc6eb143"
+     "title": "Gabriel Rolón, psicoanalista: “La gracia del amor es abrazar la imperfección del otro”",
+     "link": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicoanalista-la-gracia-del-amor-es-abrazar-la-imperfeccion-del-otro-nid17102026/",
+     "source": "La Nación",
+     "published": "2026-10-20T11:42:01+00:00",
+     "copete": "En una entrevista exclusiva para LN+, el psicoanalista y escritor reflexionó sobre la naturaleza humana y propuso una mirada cruda sobre el amor, la muerte y la persistencia de los mandatos sociales",
+     "id": "b273bac3fdbb"
     },
     {
-     "title": "Emisario de EEUU tiene previsto reunirse con Zelenski y Putin esta semana, según medio",
-     "link": "https://www.clarin.com/estados-unidos/emisario-de-eeuu-tiene-previsto-reunirse-con-zelenski-y-putin-esta-semana-segun-medio_0_fbEMI7Tw0u.html",
+     "title": "Elecciones Brasil 2026, EN VIVO: encuestas, final de las campañas para el balotaje y el minuto a minuto",
+     "link": "https://www.lanacion.com.ar/el-mundo/elecciones-brasil-2026-en-vivo-encuestas-final-de-las-campanas-para-el-balotaje-y-el-minuto-a-minuto-nid20102026/",
+     "source": "La Nación",
+     "published": "2026-10-20T11:41:42+00:00",
+     "copete": "Lula da Silva y Flávio Bolsonaro, se enfrentán en las urnas este domingo 25 de octubre; qué dicen las encuestas",
+     "id": "51d57f921b89"
+    },
+    {
+     "title": "Ya no viajamos igual: cómo cambió la forma de descansar",
+     "link": "https://www.infobae.com/opinion/2026/10/20/ya-no-viajamos-igual-como-cambio-la-forma-de-descansar/",
+     "source": "Infobae",
+     "published": "2026-10-20T11:40:44+00:00",
+     "copete": "Los viajeros reservan cerca de la fecha, comparan tarifas y exigen propuestas que compensen el gasto y el tiempo, en un cambio que desplaza las vacaciones tradicionales de dos semanas",
+     "id": "bf75d36ff518"
+    },
+    {
+     "title": "Punta del Este: de destino turístico a ciudad permanente",
+     "link": "https://www.infobae.com/opinion/2026/10/20/punta-del-este-de-destino-turistico-a-ciudad-permanente/",
+     "source": "Infobae",
+     "published": "2026-10-20T11:40:19+00:00",
+     "copete": "El último censo del Instituto Nacional de Estadística de Uruguay indica que ocho de cada diez nuevos residentes no obedecen al crecimiento natural, mientras las viviendas aumentaron un 41% durante el mismo período",
+     "id": "bbee3b5b05bd"
+    },
+    {
+     "title": "Giancarlo Devasini, el cirujano plástico que dejó la medicina a los 28 años y terminó detrás de una fortuna de 89.000 millones de dólares",
+     "link": "https://www.clarin.com/internacional/giancarlo-devasini-cirujano-plastico-dejo-medicina-28-anos-termino-detras-fortuna-89000-millones-dolares_0_rvpV2PBqnH.html",
      "source": "Clarín",
-     "published": "2026-10-20T04:00:11+00:00",
-     "copete": "Un enviado de EE.UU. viaja a Europa para dialogar con líderes de Ucrania y Rusia, buscando una propuesta de paz junto a aliados occidentales. Prevé reunirse con Zelenski en Noruega y, posteriormente, con Putin en Rusia para presentar…",
-     "id": "70816cc70359"
+     "published": "2026-10-20T11:30:34+00:00",
+     "copete": "Estudió en Milán, ejerció apenas dos años y después comenzó a importar componentes informáticos desde Asia. Décadas más tarde, su participación en una empresa privada lo ubicó entre las mayores fortunas de Italia.",
+     "id": "c56a72d68668"
+    },
+    {
+     "title": "Rubio firma en Uzbekistán contratos por valor de 12.000 millones de dólares",
+     "link": "https://www.clarin.com/estados-unidos/rubio-firma-en-uzbekistan-contratos-por-valor-de-12-000-millones-de-dolares_0_t4eiVwHMfi.html",
+     "source": "Clarín",
+     "published": "2026-10-20T11:30:06+00:00",
+     "copete": "El secretario de Estado de EE.UU. firmó acuerdos por 12.000 millones con Uzbekistán, fortaleciendo lazos comerciales entre ambos países. El presidente uzbeko propuso un plan de cooperación hasta 2035, destacando el crecimiento de la…",
+     "id": "602ed35aa0bd"
     }
    ]
   },
@@ -371,84 +375,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Los que se frotan las manos con los disturbios en Francia",
-     "link": "https://elpais.com/internacional/2026-10-20/los-que-se-frotan-las-manos-con-los-disturbios-en-francia.html",
-     "source": "El País Internacional",
-     "published": "2026-10-20T03:40:00+00:00",
-     "copete": "Las desgracias personales sufridas por vecinos y comerciantes durante las revueltas alimentan a los extremos políticos de Francia, que explotarán el miedo y la rabia en las próximas elecciones",
-     "id": "024f1a262cfc"
+     "title": "Suspect arrested after historic town hall set alight - French media",
+     "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-20T11:47:39+00:00",
+     "copete": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+     "id": "4b8edebc9776"
     },
     {
-     "title": "El orden contra el caos, un marco que favorece a Le Pen",
-     "link": "https://elpais.com/internacional/2026-10-20/el-orden-contra-el-caos-un-marco-que-favorece-a-le-pen.html",
-     "source": "El País Internacional",
-     "published": "2026-10-20T03:40:00+00:00",
-     "copete": "¿Dónde queda la Francia intergeneracional que salió a la calle este domingo cuando el primer ministro Lecornu pide a los franceses elegir entre el bando de “las fuerzas del orden” y el de “los que tienen un proyecto violento contra la…",
-     "id": "c768250b74cb"
+     "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
+     "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-20T11:30:59+00:00",
+     "copete": "The US secretary of state rejects accusations Ukrainians were dying because the US was withholding intelligence.",
+     "id": "0420afff2ca1"
     },
     {
-     "title": "Navi Pillay, premio Nobel de la Paz: “Netanyahu debe ser juzgado por genocidio”",
-     "link": "https://elpais.com/internacional/2026-10-20/navi-pillay-premio-nobel-de-la-paz-netanyahu-debe-ser-juzgado-por-genocidio.html",
-     "source": "El País Internacional",
-     "published": "2026-10-20T03:40:00+00:00",
-     "copete": "La jurista sudafricana afirma en una entrevista con EL PAÍS que “son los civiles quienes más vidas pierden en la guerra moderna”",
-     "id": "6dcd52354663"
+     "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+     "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-20T11:25:35+00:00",
+     "copete": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
+     "id": "dfd1847033fe"
     },
     {
-     "title": "Myanmar libra hoy la segunda guerra de drones más intensa mundo",
-     "link": "https://elpais.com/internacional/2026-10-20/myanmar-libra-hoy-la-segunda-guerra-de-drones-mas-intensa-mundo.html",
-     "source": "El País Internacional",
-     "published": "2026-10-20T03:40:00+00:00",
-     "copete": "La junta militar que dio el golpe de Estado en 2021 lanza siete de cada diez ataques con drones contra una oposición dividida en decenas de grupos armados",
-     "id": "582a369f159c"
+     "title": "Residents warned not to drink tap water after hundreds fall sick near South Africa capital",
+     "link": "https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-10-20T11:09:09+00:00",
+     "copete": "More than 400 people, mostly children, become ill after drinking contaminated water, east of Pretoria.",
+     "id": "542625cb401d"
     },
     {
-     "title": "De estudiantes secundarios a “chalecos amarillos”: cómo creció la protesta que sacude Francia",
-     "link": "https://www.bbc.com/mundo/articles/cvlyd7rw80e5o?at_medium=RSS&at_campaign=rss",
+     "title": "Por qué Chile enfrenta una crisis económica con récord de desempleo en medio de las políticas de austeridad de Kast",
+     "link": "https://www.bbc.com/mundo/articles/c6gr8x40xvz7o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-10-20T03:26:41+00:00",
-     "copete": "¿Por qué unas protestas estudiantiles terminaron convirtiéndose en una crisis nacional para Emmanuel Macron?",
-     "id": "14e0258bf35f"
+     "published": "2026-10-20T10:58:28+00:00",
+     "copete": "El desempleo marcó un récord de 9,6%, el mayor en más de cinco años. La inversión está estancada y la confianza de los consumidores ha caído, en medio del plan de austeridad fiscal del gobierno.",
+     "id": "4423b0a38165"
     },
     {
-     "title": "Los opositores a Putin deportados por Occidente a los que ahora Rusia envía a la guerra",
-     "link": "https://www.bbc.com/mundo/articles/ckzd604n0gdyo?at_medium=RSS&at_campaign=rss",
+     "title": "De Medellín a Ho Chi Minh: 5 ciudades en pleno auge que los viajeros no deberían perderse",
+     "link": "https://www.bbc.com/mundo/articles/c6n4ewzkn45go?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-10-20T03:16:50+00:00",
-     "copete": "Durante el último año ha aumentado notablemente el número de activistas antigubernamentales deportados a Rusia desde la Unión Europea y EE.UU., donde habían buscado refugio.",
-     "id": "7f9d242ed423"
+     "published": "2026-10-20T10:28:50+00:00",
+     "copete": "Un nuevo informe global destaca ciudades como Toulouse o Varsovia como destinos urbanos emergentes para los viajeros. Esto es lo que sus habitantes opinan sobre qué las hace especiales.",
+     "id": "1a79ead8c05c"
     },
     {
-     "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
-     "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-20T02:54:05+00:00",
-     "copete": "In the wake of the apparent attack on MP Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats.",
-     "id": "035ff7b3f134"
+     "title": "Alberta vota por seguir formando parte de Canadá, según resultados preliminares del referendo independentista",
+     "link": "https://www.bbc.com/mundo/articles/c65yngpp7zxlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-10-20T09:49:41+00:00",
+     "copete": "Los votantes de la pronvincia han rechazado por amplio margen una propuesta para iniciar un proceso hacia la independencia.",
+     "id": "3008886f8b00"
     },
     {
-     "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-     "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-20T01:52:43+00:00",
-     "copete": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
-     "id": "5c7456644efb"
+     "title": "Hipermovilidad: la poco conocida \"enfermedad de la flexibilidad\" que causa dolor y fatiga",
+     "link": "https://www.bbc.com/mundo/articles/cqj9k3vge1r9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-10-20T09:34:37+00:00",
+     "copete": "Este trastorno puede afectar a cientos de miles de personas, pero muchas sufren retrasos a la hora de obtener un diagnóstico.",
+     "id": "6e2026900568"
     },
     {
-     "title": "US church on frontline of battle against drug known as 'tranq'",
-     "link": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-20T00:02:32+00:00",
-     "copete": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
-     "id": "d7144f84d686"
+     "title": "Los republicanos moderados temen verse arrastrados por la impopularidad de Trump",
+     "link": "https://elpais.com/us/2026-10-20/los-republicanos-moderados-temen-verse-arrastrados-por-la-impopularidad-de-trump.html",
+     "source": "El País Internacional",
+     "published": "2026-10-20T09:30:00+00:00",
+     "copete": "Mike Lawler, de los pocos congresistas conservadores en un Estado abrumadoramente demócrata como Nueva York, trata de distanciarse del presidente en una de las grandes batallas de las ‘midterms’",
+     "id": "a7a0c2e86e82"
     },
     {
-     "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
-     "link": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-10-19T23:30:03+00:00",
-     "copete": "Will Fatima El Mansouri advance women’s rights amid religious and political barriers?",
-     "id": "05f11754c476"
+     "title": "Trump utiliza a Melania para tratar de conectar con el voto femenino desencantado por sus excesos",
+     "link": "https://elpais.com/us/2026-10-20/trump-utiliza-a-melania-para-tratar-de-conectar-con-el-voto-femenino-desencantado-por-sus-excesos.html",
+     "source": "El País Internacional",
+     "published": "2026-10-20T09:30:00+00:00",
+     "copete": "El mandatario tiene un largo historial de desprecio por algunas mujeres, mientras que los republicanos reciben menos votos femeninos, según las encuestas",
+     "id": "68b534f4767a"
     }
    ]
   }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T22:06:24Z",
+  "generated_at": "2026-10-21T10:06:13Z",
   "summaries": {
     "869443fefcea": {
       "resumen": "Estudio de JACC (Journal of the American College of Cardiology) que busca convertir el concepto de obesidad sarcopénica (pérdida de masa muscular combinada con exceso de grasa corporal) en una herramienta práctica para predecir y prevenir la insuficiencia cardíaca (IC). Vale la pena mirarlo porque pone el foco en un fenotipo de riesgo que el índice de masa corporal (IMC) suele pasar por alto.",
@@ -41,12 +41,6 @@
       "destacado": false,
       "analisis": "Diseño: Nota de TCTMD sobre el registro ELEGANCE, un estudio observacional (registro) que evalúa la permeabilidad del vaso tratado con stents liberadores de fármaco (DES) en enfermedad arterial periférica (EAP); el título no especifica el número de centros ni de pacientes incluidos.\nPoblación: Pacientes con enfermedad arterial periférica (EAP) de presentación diversa (distintos territorios y grados de severidad), tratados con stents liberadores de fármaco; no se detallan otros criterios de inclusión o exclusión.\nIntervención: Implante de stents liberadores de fármaco (DES) en lesiones arteriales periféricas; no se menciona un grupo comparador explícito en el título (registro de un solo brazo).\nResultados: No disponibles en esta nota; el título solo indica \"alta permeabilidad\" sin cifras de tasa de permeabilidad, intervalos de confianza ni valor de p.\nLimitaciones: Al tratarse de un registro (no aleatorizado) y de una nota periodística, no se puede valorar el riesgo de sesgo de selección, la duración del seguimiento ni la comparación con otras estrategias de revascularización (angioplastia simple, stent no farmacológico).\nMensaje: Si se confirman estos resultados, respaldaría el uso de DES como opción de revascularización periférica en poblaciones heterogéneas de EAP, aunque los datos de registro no reemplazan a un ensayo aleatorizado para establecer superioridad frente a otras alternativas.\nNota: análisis sin acceso al abstract."
     },
-    "17e479818161": {
-      "resumen": "Gastón Revol habló en una transmisión de CORDOBAXV sobre su actualidad, su etapa en Los Pumas 7s y los nuevos desafíos que enfrenta en el rugby."
-    },
-    "70790e12c0f0": {
-      "resumen": "Tony Brown reveló que Felipe Contepomi lo quiso convocar a su cuerpo técnico y que estuvo cerca de convertirse en entrenador de Los Pumas."
-    },
     "6fea150494d8": {
       "resumen": "El EuroSCORE (European System for Cardiac Operative Risk Evaluation) es la calculadora de riesgo quirúrgico más usada para estimar la mortalidad perioperatoria en cirugía cardíaca. TCTMD adelanta que se viene una actualización del modelo, después de que se detectaran falencias del score vigente para predecir el riesgo en la práctica actual. Vale la pena mirarlo porque este puntaje se usa a diario para decidir entre cirugía y abordajes percutáneos en pacientes valvulares y coronarios.",
       "destacado": false,
@@ -56,25 +50,9 @@
       "resumen": "Simon Willison, desarrollador y divulgador muy seguido en IA (inteligencia artificial) generativa, armó un juego de estrategia en tiempo real (RTS, real time strategy) al estilo Command & Conquer generado casi enteramente con asistencia de IA (\"vibe coding\"), con la particularidad de que el modo multijugador funciona por audio. Le sirve a quien se inicia en ciencia de datos para ver hasta dónde se puede llegar hoy programando con IA generativa como copiloto, sin ser un desarrollador experto.",
       "destacado": false
     },
-    "3e2f34074954": {
-      "resumen": "Proyecto comentado en Hacker News que lleva la lógica de SimCity a un simulador donde el cuello de botella no es construir, sino tramitar los permisos administrativos. Le aporta a un médico que se está formando en análisis de datos una forma entretenida de ver cómo se pueden modelar y visualizar procesos burocráticos complejos con herramientas de simulación.",
-      "destacado": false
-    },
-    "c6afd5cf7a3f": {
-      "resumen": "Ensayo personal, muy comentado en Hacker News, sobre qué conocimientos y habilidades conviene transmitirle a las nuevas generaciones en la era de la inteligencia artificial (IA). Le sirve a un médico en formación en datos para pensar qué herramientas y criterios priorizar a la hora de capacitarse (o de guiar a otros) en un contexto donde la IA cambia rápido qué vale la pena aprender.",
-      "destacado": false
-    },
-    "2f990e26e9ae": {
-      "resumen": "Google liberó como código abierto TorchTPU, un backend nativo de PyTorch para correr modelos de aprendizaje automático sobre sus procesadores TPU (Tensor Processing Unit), hasta ahora más asociados a TensorFlow y JAX. Le sirve a un médico que se forma en análisis de datos porque amplía las opciones de hardware acelerado disponibles para entrenar modelos con la librería más usada del ecosistema, sin tener que migrar de framework.",
-      "destacado": true
-    },
-    "835e678b11fa": {
-      "resumen": "Mistral AI presentó Voxtral 3, la nueva versión de su familia de modelos de voz para reconocimiento y comprensión de audio hablado. Le interesa a quien aprende análisis de datos porque muestra el estado del arte en modelos de voz de código abierto, una puerta de entrada más simple que el texto para digitalizar y analizar información hablada (por ejemplo, el dictado médico).",
-      "destacado": false
-    },
     "04a452e17375": {
       "resumen": "Artículo técnico de Towards Data Science que explica cómo usar las características (features) del modelo de visión DINOv3 de Meta, sin reentrenarlo (frozen), para que un modelo entrenado con imágenes sintéticas funcione bien sobre imágenes reales. Le sirve a un médico que se forma en datos porque ejemplifica una técnica concreta para lidiar con la escasez de imágenes reales etiquetadas en visión por computadora, un problema frecuente también en imagenología médica.",
-      "destacado": false
+      "destacado": true
     },
     "fb386878a344": {
       "resumen": "Artículo de Towards Data Science que compara dos formas de darle \"herramientas\" a un modelo de lenguaje (LLM, large language model) -como una skill de instrucciones o como un servidor con el protocolo MCP (Model Context Protocol)- y plantea que la pregunta clave no es cuál es más prolijo, sino qué mecanismo realmente impide que el modelo se salga de la consigna. Le sirve a quien está aprendiendo a construir herramientas con IA porque clarifica un dilema de diseño cada vez más frecuente al automatizar tareas con modelos de lenguaje.",
@@ -88,12 +66,34 @@
       "resumen": "Artículo de Towards Data Science que analiza el costo oculto de \"enrutar\" pedidos entre distintos modelos de lenguaje (LLM routing) según el caso de uso, y por qué cambiar de modelo puede terminar saliendo más caro de lo que parece a simple vista. Le sirve a quien evalúa usar IA para analizar datos clínicos o de investigación porque ayuda a entender mejor los costos reales de operar con varios modelos a la vez.",
       "destacado": false
     },
-    "b8b7774f8a22": {
-      "resumen": "Recomendación de KDnuggets de cinco contenedores Docker útiles para el trabajo diario de desarrollo. Le sirve a un médico que se está formando en análisis de datos porque Docker es una herramienta clave para armar entornos de trabajo reproducibles, algo cada vez más valorado también en investigación clínica y ciencia de datos en salud.",
+    "e7bdc4707706": {
+      "resumen": "Artículo sobre el futuro de CSS (Cascading Style Sheets, el lenguaje que define el estilo visual de las páginas web) y las nuevas funciones que se vienen con la iniciativa Interop 2027. No es ciencia de datos en sentido estricto, pero le sirve a un médico que aprende a programar porque muestra hacia dónde va el desarrollo de interfaces web, útil si en algún momento quiere armar o personalizar un dashboard propio.",
       "destacado": false
     },
-    "0aafbeb3cac0": {
-      "resumen": "El entrenador de rugby recordó, en diálogo con Córdoba XV, que la selección argentina fue la primera en ofrecerle un contrato profesional."
+    "fb9936745ef9": {
+      "resumen": "Investigación de seguridad que muestra cómo Muse, el asistente de inteligencia artificial (IA) de Meta, puede filtrar datos personales y empresariales sensibles cuando un usuario comparte una conversación. Le aporta a quien se forma en análisis de datos una alerta concreta sobre los riesgos de privacidad al usar IA generativa con información sensible, algo clave si se maneja información de pacientes.",
+      "destacado": false
+    },
+    "aac036aa8666": {
+      "resumen": "Simon Willison, desarrollador y divulgador de inteligencia artificial (IA), repasa un incidente grave de seguridad informática: se filtraron las claves privadas de ocho certificados intermedios de la autoridad certificadora eMudhra, que son reconocidos por los navegadores y sistemas operativos más usados (Mozilla, Microsoft, Apple y Chrome). Le sirve a quien se inicia en datos para entender por qué la cadena de confianza digital (certificados, cifrado) es la base de cualquier sistema que maneje información sensible, incluida la de salud.",
+      "destacado": false
+    },
+    "0fba7fa63eb9": {
+      "resumen": "Ensayo personal, muy comentado en Hacker News, sobre lo difícil que es discontinuar las benzodiacepinas (ansiolíticos como el diazepam o el alprazolam) una vez instaurada la dependencia. No trata de ciencia de datos, pero le interesa a un médico clínico por su mirada cruda sobre la farmacovigilancia y los riesgos de la prescripción prolongada de psicofármacos, un tema relevante para quien se está orientando hacia esa disciplina.",
+      "destacado": false
+    },
+    "5f2037864b2f": {
+      "resumen": "Nota de investigación periodística de Krebs on Security sobre la sospecha de que un negociador de rescates por ransomware (secuestro de datos informáticos) habría operado en paralelo el sitio de extorsión del grupo ShinyHunters. Le sirve a quien se forma en análisis de datos como recordatorio de los riesgos de ciberseguridad y extorsión de datos que rodean a cualquier base de información sensible, incluida la clínica.",
+      "destacado": false
+    },
+    "2fab3a2a563b": {
+      "resumen": "Francia confirmó las ausencias que tendrá en noviembre para el regreso del Nations Championship de rugby."
+    },
+    "595be0af6f55": {
+      "resumen": "Repaso de quiénes son, hasta el momento, los máximos goleadores del torneo de la Primera \"B\" del fútbol argentino."
+    },
+    "103bdd65de73": {
+      "resumen": "Gales (los \"Dragones Rojos\") definió el plantel con el que afrontará la etapa final del Nations Championship de rugby."
     }
   }
 }

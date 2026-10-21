@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-21T10:06:13Z",
+  "generated_at": "2026-10-21T22:05:11Z",
   "summaries": {
     "869443fefcea": {
       "resumen": "Estudio de JACC (Journal of the American College of Cardiology) que busca convertir el concepto de obesidad sarcopénica (pérdida de masa muscular combinada con exceso de grasa corporal) en una herramienta práctica para predecir y prevenir la insuficiencia cardíaca (IC). Vale la pena mirarlo porque pone el foco en un fenotipo de riesgo que el índice de masa corporal (IMC) suele pasar por alto.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: Artículo original de JACC (Journal of the American College of Cardiology) firmado por Zhou X et al., que por el título y por tener un editorial acompañante dedicado a discutir su índice correspondería a un estudio de cohorte que evalúa un índice de obesidad sarcopénica como predictor de insuficiencia cardíaca (IC); no se especifica en el título si es prospectivo o retrospectivo, ni el número de centros o pacientes.\nPoblación: Probablemente adultos de una o varias cohortes poblacionales o clínicas en quienes se calculó un índice de obesidad sarcopénica (combinación de baja masa muscular y exceso de adiposidad) y se evaluó la incidencia de insuficiencia cardíaca; no se detallan criterios de inclusión o exclusión en el título.\nIntervención: No aplica una intervención terapéutica; se trata de un estudio de asociación/predicción entre el índice de obesidad sarcopénica y el desarrollo de insuficiencia cardíaca.\nResultados: No disponibles en esta nota; el título no aporta cifras de riesgo relativo, intervalos de confianza ni valor de p.\nLimitaciones: Sin acceso al cuerpo del artículo no se puede valorar cómo se definió y validó el índice de obesidad sarcopénica, el ajuste por factores de confusión ni el tiempo de seguimiento; el editorial acompañante, de hecho, cuestiona si el índice refleja un fenotipo real o es solo un cociente matemático.\nMensaje: Si el índice demuestra valor predictivo robusto en estudios futuros, podría convertirse en una herramienta simple de tamizaje para identificar pacientes en riesgo de insuficiencia cardíaca por composición corporal desfavorable, más allá del peso o el índice de masa corporal.\nNota: análisis sin acceso al abstract."
     },
     "737c1eccf9e9": {
@@ -18,11 +18,6 @@
       "resumen": "Declaración científica 2026 del ACC (American College of Cardiology, Colegio Americano de Cardiología) que actualiza las recomendaciones de prescripción de ejercicio físico para la salud cardiovascular en adultos. Vale la pena mirarlo porque ordena, con base en evidencia, cómo dosificar la actividad física (tipo, intensidad, frecuencia) según el perfil de riesgo de cada paciente, algo que se indica mucho pero se prescribe poco en la práctica diaria.",
       "destacado": false
     },
-    "2fea8700859f": {
-      "resumen": "Un metaanálisis comparó la mortalidad a mediano-largo plazo entre el reemplazo valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation) y la cirugía de reemplazo valvular aórtico (SAVR, surgical aortic valve replacement) en pacientes de bajo riesgo quirúrgico, y encontró que la brecha de mortalidad a favor de la cirugía se va ampliando con el correr de los años de seguimiento. Vale la pena mirarlo porque pone en duda la extrapolación automática de los buenos resultados tempranos del TAVI a plazos más largos en pacientes jóvenes y de bajo riesgo.",
-      "destacado": true,
-      "analisis": "Diseño: Nota de TCTMD sobre un metaanálisis que compara el reemplazo valvular aórtico transcatéter (TAVI) con el reemplazo valvular aórtico quirúrgico (SAVR) en pacientes de bajo riesgo quirúrgico; el título no especifica cuántos ensayos ni pacientes se incluyeron, ni si se usaron datos a nivel de paciente individual o agregados.\nPoblación: Pacientes con estenosis aórtica severa clasificados como de bajo riesgo quirúrgico, candidatos tanto a TAVI como a SAVR; no se detallan otros criterios de inclusión o exclusión.\nIntervención: TAVI frente a SAVR, con seguimiento a varios años para evaluar mortalidad a mediano y largo plazo.\nResultados: No disponibles en esta nota; el título solo indica que la mortalidad es \"cada vez mayor\" con TAVI respecto a SAVR a medida que pasan los años, sin cifras de razón de riesgo, intervalos de confianza ni valor de p.\nLimitaciones: Al ser una nota periodística sobre un metaanálisis, no se puede valorar la heterogeneidad entre los ensayos incluidos, las generaciones de dispositivos TAVI utilizadas (que mejoraron con el tiempo) ni la calidad del seguimiento a largo plazo.\nMensaje: Si se confirma con los datos completos, invitaría a ser más cautos al recomendar TAVI por sobre la cirugía en pacientes jóvenes y de bajo riesgo, priorizando la expectativa de vida y el seguimiento a largo plazo en la decisión, más allá de los buenos resultados perioperatorios del TAVI.\nNota: análisis sin acceso al abstract."
-    },
     "79da959693d4": {
       "resumen": "Resumen de novedades de un número de European Heart Journal (Revista Europea del Corazón) que repasa, en conjunto, las guías de la ESC (European Society of Cardiology, Sociedad Europea de Cardiología), los mecanismos de la miocarditis (inflamación del músculo cardíaco) y datos nuevos sobre el tratamiento con antagonistas del receptor de mineralocorticoides, glucósidos cardíacos (como la digoxina) y agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1). Vale la pena mirarlo como mapa rápido de varios frentes de actualización en simultáneo, más que como un estudio puntual.",
       "destacado": false
@@ -36,64 +31,64 @@
       "resumen": "Nota de TCTMD que adelanta los temas y presentaciones que se esperan como más relevantes en el congreso TCT (Transcatheter Cardiovascular Therapeutics) 2026. Vale la pena mirarlo como agenda rápida de hacia dónde apunta la cardiología intervencionista este año, aunque todavía no reporta resultados de estudios.",
       "destacado": false
     },
-    "5f8598e8bc4d": {
-      "resumen": "El registro ELEGANCE mostró alta tasa de permeabilidad (vaso que se mantiene abierto) con el uso de stents liberadores de fármaco (DES, drug-eluting stent) en una población diversa de pacientes con enfermedad arterial periférica (EAP, PAD por sus siglas en inglés). Vale la pena mirarlo porque aporta datos de vida real sobre una tecnología cada vez más usada en revascularización periférica.",
-      "destacado": false,
-      "analisis": "Diseño: Nota de TCTMD sobre el registro ELEGANCE, un estudio observacional (registro) que evalúa la permeabilidad del vaso tratado con stents liberadores de fármaco (DES) en enfermedad arterial periférica (EAP); el título no especifica el número de centros ni de pacientes incluidos.\nPoblación: Pacientes con enfermedad arterial periférica (EAP) de presentación diversa (distintos territorios y grados de severidad), tratados con stents liberadores de fármaco; no se detallan otros criterios de inclusión o exclusión.\nIntervención: Implante de stents liberadores de fármaco (DES) en lesiones arteriales periféricas; no se menciona un grupo comparador explícito en el título (registro de un solo brazo).\nResultados: No disponibles en esta nota; el título solo indica \"alta permeabilidad\" sin cifras de tasa de permeabilidad, intervalos de confianza ni valor de p.\nLimitaciones: Al tratarse de un registro (no aleatorizado) y de una nota periodística, no se puede valorar el riesgo de sesgo de selección, la duración del seguimiento ni la comparación con otras estrategias de revascularización (angioplastia simple, stent no farmacológico).\nMensaje: Si se confirman estos resultados, respaldaría el uso de DES como opción de revascularización periférica en poblaciones heterogéneas de EAP, aunque los datos de registro no reemplazan a un ensayo aleatorizado para establecer superioridad frente a otras alternativas.\nNota: análisis sin acceso al abstract."
-    },
     "6fea150494d8": {
       "resumen": "El EuroSCORE (European System for Cardiac Operative Risk Evaluation) es la calculadora de riesgo quirúrgico más usada para estimar la mortalidad perioperatoria en cirugía cardíaca. TCTMD adelanta que se viene una actualización del modelo, después de que se detectaran falencias del score vigente para predecir el riesgo en la práctica actual. Vale la pena mirarlo porque este puntaje se usa a diario para decidir entre cirugía y abordajes percutáneos en pacientes valvulares y coronarios.",
       "destacado": false,
       "analisis": "Diseño: Nota de TCTMD que anticipa una actualización del EuroSCORE (European System for Cardiac Operative Risk Evaluation), el modelo de predicción de riesgo quirúrgico en cirugía cardíaca; el título no especifica si la detección de falencias surge de un estudio de validación externa, una cohorte de recalibración o un análisis multicéntrico, ni la cantidad de centros o pacientes involucrados.\nPoblación: Pacientes sometidos a cirugía cardíaca en quienes se aplicó el EuroSCORE vigente (probablemente EuroSCORE II) para estimar el riesgo operatorio; no se detallan criterios de inclusión o exclusión.\nIntervención: No aplica una intervención terapéutica; se trata de la evaluación del desempeño predictivo (calibración y discriminación) del modelo de riesgo actual frente a los resultados observados.\nResultados: No disponibles en esta nota; el título solo señala que el modelo actual tiene \"falencias\" (drawbacks), sin cifras de calibración, estadístico C ni intervalos de confianza.\nLimitaciones: Al ser una nota periodística y no el estudio de validación original, no se puede valorar el tamaño muestral, la población de validación ni los métodos estadísticos usados para evidenciar el desajuste del modelo.\nMensaje: Si se confirma el desajuste del EuroSCORE vigente, respaldaría la necesidad de recalibrar o rediseñar el score para que siga siendo útil en la toma de decisiones sobre riesgo quirúrgico en la práctica contemporánea.\nNota: análisis sin acceso al abstract."
     },
-    "3b5ce86c8c40": {
-      "resumen": "Simon Willison, desarrollador y divulgador muy seguido en IA (inteligencia artificial) generativa, armó un juego de estrategia en tiempo real (RTS, real time strategy) al estilo Command & Conquer generado casi enteramente con asistencia de IA (\"vibe coding\"), con la particularidad de que el modo multijugador funciona por audio. Le sirve a quien se inicia en ciencia de datos para ver hasta dónde se puede llegar hoy programando con IA generativa como copiloto, sin ser un desarrollador experto.",
+    "82103f5ef831": {
+      "resumen": "La FDA (Food and Drug Administration, agencia regulatoria de medicamentos y dispositivos de Estados Unidos) aprobó el sistema Pascal para la reparación transcatéter (por catéter, sin cirugía abierta) de la válvula tricúspide. Vale la pena mirarlo porque amplía el arsenal percutáneo disponible para la insuficiencia tricuspídea severa, una valvulopatía que hasta hace poco tenía pocas opciones terapéuticas más allá del manejo médico o la cirugía de alto riesgo.",
       "destacado": false
     },
-    "04a452e17375": {
-      "resumen": "Artículo técnico de Towards Data Science que explica cómo usar las características (features) del modelo de visión DINOv3 de Meta, sin reentrenarlo (frozen), para que un modelo entrenado con imágenes sintéticas funcione bien sobre imágenes reales. Le sirve a un médico que se forma en datos porque ejemplifica una técnica concreta para lidiar con la escasez de imágenes reales etiquetadas en visión por computadora, un problema frecuente también en imagenología médica.",
+    "41c90795f1ea": {
+      "resumen": "Episodio de podcast de TCTMD donde el cirujano cardíaco John Puskas reflexiona sobre creatividad e iteración en la práctica quirúrgica y en la innovación médica. Vale la pena escucharlo más como mirada formativa sobre el proceso de mejora continua en cardiología que como reporte de resultados clínicos.",
+      "destacado": false
+    },
+    "bee5dac0434c": {
+      "resumen": "Hilo de Reddit en el foro r/datascience donde un usuario cuenta, desde su experiencia revisando candidatos, que postularse en masa a una misma empresa por distintos canales perjudica las chances frente a llegar por una referencia interna. Le sirve a un médico en transición hacia el análisis de datos porque es un consejo práctico y de primera mano sobre cómo buscar trabajo en el área, un paso clave de ese cambio de carrera.",
+      "destacado": false
+    },
+    "bbc988e4da29": {
+      "resumen": "Electronic Arts (EA) anunció el cierre del estudio de videojuegos BioWare, conocido por sagas como Mass Effect y Dragon Age. No es un tema de ciencia de datos en sí, pero aporta como caso de estudio sobre decisiones corporativas en la industria tecnológica y su impacto en equipos creativos, algo que puede servir de contexto a quien sigue tendencias de la industria tech en general.",
+      "destacado": false
+    },
+    "6c1da1b548c0": {
+      "resumen": "Simon Willison, desarrollador y divulgador de inteligencia artificial (IA) generativa, cuenta que su juego de estrategia en tiempo real (RTS, real time strategy) \"Battle Drones\", liberado bajo licencia abierta y generado casi enteramente con asistencia de IA, ya tiene un fork en francés ambientado en la Belle Époque steampunk. Le sirve a quien se inicia en análisis de datos para ver, en un ejemplo concreto, hasta dónde llega hoy la programación asistida por IA (\"vibe coding\") y cómo el código abierto habilita que otros lo reutilicen y transformen.",
+      "destacado": false
+    },
+    "577d455c1562": {
+      "resumen": "Hilo de Reddit sobre cómo un equipo de periodismo de datos detectó irregularidades estadísticas que delataron a una encuestadora, Wedgewood Polls, que habría fabricado resultados de sondeos de opinión. Le sirve a un médico que aprende análisis de datos porque muestra, con un caso real, técnicas de detección de datos fraudulentos o fabricados, útiles también para evaluar la calidad de datos en investigación clínica.",
+      "destacado": false
+    },
+    "5ae1819d713f": {
+      "resumen": "La PHP Foundation (fundación que mantiene el lenguaje de programación PHP) publicó un parche de seguridad y detalló las medidas que está tomando para reforzar la seguridad del lenguaje. No es ciencia de datos en sentido estricto, pero le sirve a quien programa para análisis de datos como recordatorio de buenas prácticas de seguridad y mantenimiento en el software que sostiene gran parte de la web.",
+      "destacado": false
+    },
+    "c4692416a9e1": {
+      "resumen": "Guía práctica de Towards Data Science que muestra cómo combinar modelos de decisión (reglas y lógica determinística) con modelos de lenguaje (LLM, large language model) para automatizar tareas de navegación web. Le sirve a un médico que se forma en análisis de datos porque ejemplifica un patrón híbrido -reglas claras más IA generativa- que ayuda a construir flujos de trabajo automatizados más confiables que depender solo de un LLM.",
+      "destacado": false
+    },
+    "ca4f9f9aae24": {
+      "resumen": "Legisladores del estado de Oregon, Estados Unidos, aprobaron fondos para comprar una cascada icónica que había sido puesta en venta en el sitio inmobiliario Redfin. No es un tema de ciencia de datos, sino una curiosidad de la agenda de Hacker News sobre patrimonio natural y decisiones de gasto público.",
+      "destacado": false
+    },
+    "98f9015f36b6": {
+      "resumen": "OpenAI describe un esquema de coordinación global para la divulgación responsable de vulnerabilidades informáticas descubiertas por agentes de inteligencia artificial (IA), que exploran código en busca de fallas de seguridad antes de que sean explotadas. Le sirve a un médico que se forma en datos porque anticipa un escenario donde la IA no solo analiza datos sino que también audita la seguridad de los sistemas que los almacenan, algo relevante para cualquier base de datos clínica.",
       "destacado": true
     },
-    "fb386878a344": {
-      "resumen": "Artículo de Towards Data Science que compara dos formas de darle \"herramientas\" a un modelo de lenguaje (LLM, large language model) -como una skill de instrucciones o como un servidor con el protocolo MCP (Model Context Protocol)- y plantea que la pregunta clave no es cuál es más prolijo, sino qué mecanismo realmente impide que el modelo se salga de la consigna. Le sirve a quien está aprendiendo a construir herramientas con IA porque clarifica un dilema de diseño cada vez más frecuente al automatizar tareas con modelos de lenguaje.",
+    "c79ce2da2d76": {
+      "resumen": "Artículo técnico de Towards Data Science sobre cómo convertir simulaciones de Python de larga duración en una plataforma de autoservicio en la nube de Amazon (AWS, Amazon Web Services), usando colas de tareas y mecanismos de recuperación ante fallos. Le sirve a quien aprende análisis de datos porque muestra, paso a paso, cómo escalar procesos de cálculo pesado (por ejemplo simulaciones epidemiológicas o estadísticas) para que varios usuarios los puedan correr sin intervención manual.",
       "destacado": false
     },
-    "5027e2a22c08": {
-      "resumen": "Guía de KDnuggets con los pasos y habilidades recomendadas para encarar en 2026 una carrera como product manager (gerente de producto) de productos de inteligencia artificial. Le aporta a un médico en transición hacia el análisis de datos una hoja de ruta de las competencias técnicas y de gestión que hoy pide el mercado para roles que combinan IA y producto.",
+    "15429b341764": {
+      "resumen": "Tutorial de KDnuggets que explica cómo armar flujos de reconocimiento de entidades nombradas (NER, named entity recognition) -por ejemplo identificar fármacos, dosis o diagnósticos dentro de un texto- usando la librería scikit-llm, que combina modelos de lenguaje (LLM) con la interfaz habitual de scikit-learn. Le sirve especialmente a un médico que se forma en datos porque el NER es clave para extraer información estructurada de historias clínicas o literatura médica en texto libre.",
       "destacado": false
     },
-    "d64b075a0cda": {
-      "resumen": "Artículo de Towards Data Science que analiza el costo oculto de \"enrutar\" pedidos entre distintos modelos de lenguaje (LLM routing) según el caso de uso, y por qué cambiar de modelo puede terminar saliendo más caro de lo que parece a simple vista. Le sirve a quien evalúa usar IA para analizar datos clínicos o de investigación porque ayuda a entender mejor los costos reales de operar con varios modelos a la vez.",
-      "destacado": false
+    "8460bcd35703": {
+      "resumen": "Italia, próximo rival de Los Pumas, confirmó su lista para el Nations Championship con el regreso de algunas figuras y la ausencia de otras piezas importantes."
     },
-    "e7bdc4707706": {
-      "resumen": "Artículo sobre el futuro de CSS (Cascading Style Sheets, el lenguaje que define el estilo visual de las páginas web) y las nuevas funciones que se vienen con la iniciativa Interop 2027. No es ciencia de datos en sentido estricto, pero le sirve a un médico que aprende a programar porque muestra hacia dónde va el desarrollo de interfaces web, útil si en algún momento quiere armar o personalizar un dashboard propio.",
-      "destacado": false
-    },
-    "fb9936745ef9": {
-      "resumen": "Investigación de seguridad que muestra cómo Muse, el asistente de inteligencia artificial (IA) de Meta, puede filtrar datos personales y empresariales sensibles cuando un usuario comparte una conversación. Le aporta a quien se forma en análisis de datos una alerta concreta sobre los riesgos de privacidad al usar IA generativa con información sensible, algo clave si se maneja información de pacientes.",
-      "destacado": false
-    },
-    "aac036aa8666": {
-      "resumen": "Simon Willison, desarrollador y divulgador de inteligencia artificial (IA), repasa un incidente grave de seguridad informática: se filtraron las claves privadas de ocho certificados intermedios de la autoridad certificadora eMudhra, que son reconocidos por los navegadores y sistemas operativos más usados (Mozilla, Microsoft, Apple y Chrome). Le sirve a quien se inicia en datos para entender por qué la cadena de confianza digital (certificados, cifrado) es la base de cualquier sistema que maneje información sensible, incluida la de salud.",
-      "destacado": false
-    },
-    "0fba7fa63eb9": {
-      "resumen": "Ensayo personal, muy comentado en Hacker News, sobre lo difícil que es discontinuar las benzodiacepinas (ansiolíticos como el diazepam o el alprazolam) una vez instaurada la dependencia. No trata de ciencia de datos, pero le interesa a un médico clínico por su mirada cruda sobre la farmacovigilancia y los riesgos de la prescripción prolongada de psicofármacos, un tema relevante para quien se está orientando hacia esa disciplina.",
-      "destacado": false
-    },
-    "5f2037864b2f": {
-      "resumen": "Nota de investigación periodística de Krebs on Security sobre la sospecha de que un negociador de rescates por ransomware (secuestro de datos informáticos) habría operado en paralelo el sitio de extorsión del grupo ShinyHunters. Le sirve a quien se forma en análisis de datos como recordatorio de los riesgos de ciberseguridad y extorsión de datos que rodean a cualquier base de información sensible, incluida la clínica.",
-      "destacado": false
-    },
-    "2fab3a2a563b": {
-      "resumen": "Francia confirmó las ausencias que tendrá en noviembre para el regreso del Nations Championship de rugby."
-    },
-    "595be0af6f55": {
-      "resumen": "Repaso de quiénes son, hasta el momento, los máximos goleadores del torneo de la Primera \"B\" del fútbol argentino."
-    },
-    "103bdd65de73": {
-      "resumen": "Gales (los \"Dragones Rojos\") definió el plantel con el que afrontará la etapa final del Nations Championship de rugby."
+    "ce8d91c6afc1": {
+      "resumen": "Un histórico ganador de siete títulos del Seis Naciones explicó los motivos que lo llevaron a sumarse como entrenador de Los Pumas."
     }
   }
 }

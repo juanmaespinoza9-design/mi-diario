@@ -1,6 +1,11 @@
 {
-  "generated_at": "2026-10-21T22:05:11Z",
+  "generated_at": "2026-10-22T10:05:43Z",
   "summaries": {
+    "b8e11dbd1c75": {
+      "resumen": "Una nota de TCTMD (medio especializado en cardiología intervencionista) repasa evidencia de que dejar los esteroides anabólico-androgénicos (EAA) puede revertir, al menos en parte, algunos efectos cardíacos adversos que provocan, como el engrosamiento del músculo cardíaco o el deterioro de la función del ventrículo izquierdo. Vale la pena mirarlo porque el uso de EAA fuera de indicación médica (para aumentar masa muscular) es cada vez más frecuente y muchos cardiólogos clínicos se van a topar con estos pacientes.",
+      "destacado": false,
+      "analisis": "Diseño: Nota de TCTMD que resume hallazgos sobre los efectos cardíacos de los esteroides anabólico-androgénicos (EAA) y su reversibilidad tras suspender el consumo; el título no precisa si se trata de un estudio de cohorte, un registro o una serie de casos, ni el número de centros o pacientes incluidos.\nPoblación: Usuarios (probablemente fisicoculturistas o deportistas de fuerza) con antecedente de consumo de esteroides anabólico-androgénicos que presentaban alteraciones cardíacas (hipertrofia ventricular, disfunción sistólica) evaluados tras discontinuar el consumo; no se detallan criterios de inclusión o exclusión.\nIntervención: No hay una intervención terapéutica asignada; se compara el estado cardíaco de los pacientes antes y después de abandonar el consumo de esteroides anabólico-androgénicos (exposición vs. cesación).\nResultados: No disponibles en esta nota; el título solo indica que la suspensión \"puede revertir algunos\" efectos cardíacos adversos, sin cifras de magnitud de mejoría, intervalos de confianza ni valor de p.\nLimitaciones: Al ser una nota periodística y no el estudio original, no se puede valorar el tamaño muestral, el tiempo de seguimiento tras la suspensión ni qué parámetros (ecocardiográficos, de resonancia) se usaron para definir la reversibilidad.\nMensaje: Refuerza el mensaje clínico de que suspender los esteroides anabólico-androgénicos de forma precoz podría limitar el daño cardíaco, lo que respalda interrogar activamente sobre su consumo y ofrecer cesación como parte del manejo.\nNota: análisis sin acceso al abstract."
+    },
     "869443fefcea": {
       "resumen": "Estudio de JACC (Journal of the American College of Cardiology) que busca convertir el concepto de obesidad sarcopénica (pérdida de masa muscular combinada con exceso de grasa corporal) en una herramienta práctica para predecir y prevenir la insuficiencia cardíaca (IC). Vale la pena mirarlo porque pone el foco en un fenotipo de riesgo que el índice de masa corporal (IMC) suele pasar por alto.",
       "destacado": true,
@@ -27,10 +32,6 @@
       "destacado": false,
       "analisis": "Diseño: Nota de TCTMD sobre un estudio (probablemente observacional, de cohorte o un subanálisis de registro) que evalúa la asociación entre hipotensión intraoperatoria y los resultados neurológicos tras trombectomía mecánica por accidente cerebrovascular (ACV) isquémico; el título no especifica diseño, aleatorización, número de centros ni de pacientes.\nPoblación: Pacientes sometidos a trombectomía mecánica por ACV isquémico agudo; no se detallan otros criterios de inclusión o exclusión.\nIntervención: No hay intervención terapéutica evaluada; se analiza la exposición a hipotensión intraoperatoria durante el procedimiento frente a mantener presión arterial estable.\nResultados: No disponibles en esta nota; el título solo indica que la hipotensión intraoperatoria se asoció a \"peores resultados\", sin cifras de razón de riesgo, intervalos de confianza ni valor de p.\nLimitaciones: Al ser una nota periodística y no el artículo original, no se puede valorar el tamaño muestral, el ajuste por gravedad basal del ACV ni la definición exacta de hipotensión utilizada.\nMensaje: Si se confirma, reforzaría la necesidad de un control hemodinámico estricto durante la trombectomía mecánica, evitando caídas de presión arterial que podrían comprometer la perfusión cerebral colateral.\nNota: análisis sin acceso al abstract."
     },
-    "6282e2a58837": {
-      "resumen": "Nota de TCTMD que adelanta los temas y presentaciones que se esperan como más relevantes en el congreso TCT (Transcatheter Cardiovascular Therapeutics) 2026. Vale la pena mirarlo como agenda rápida de hacia dónde apunta la cardiología intervencionista este año, aunque todavía no reporta resultados de estudios.",
-      "destacado": false
-    },
     "6fea150494d8": {
       "resumen": "El EuroSCORE (European System for Cardiac Operative Risk Evaluation) es la calculadora de riesgo quirúrgico más usada para estimar la mortalidad perioperatoria en cirugía cardíaca. TCTMD adelanta que se viene una actualización del modelo, después de que se detectaran falencias del score vigente para predecir el riesgo en la práctica actual. Vale la pena mirarlo porque este puntaje se usa a diario para decidir entre cirugía y abordajes percutáneos en pacientes valvulares y coronarios.",
       "destacado": false,
@@ -44,12 +45,28 @@
       "resumen": "Episodio de podcast de TCTMD donde el cirujano cardíaco John Puskas reflexiona sobre creatividad e iteración en la práctica quirúrgica y en la innovación médica. Vale la pena escucharlo más como mirada formativa sobre el proceso de mejora continua en cardiología que como reporte de resultados clínicos.",
       "destacado": false
     },
-    "bee5dac0434c": {
-      "resumen": "Hilo de Reddit en el foro r/datascience donde un usuario cuenta, desde su experiencia revisando candidatos, que postularse en masa a una misma empresa por distintos canales perjudica las chances frente a llegar por una referencia interna. Le sirve a un médico en transición hacia el análisis de datos porque es un consejo práctico y de primera mano sobre cómo buscar trabajo en el área, un paso clave de ese cambio de carrera.",
+    "ad2f63999e9a": {
+      "resumen": "mitmproxy, la herramienta de código abierto para interceptar y depurar tráfico HTTP/HTTPS, sumó una opción --emudhra para integrarse con certificados digitales de eMudhra (un proveedor de firma digital). Le aporta a quien se forma en análisis de datos porque mitmproxy es clave para inspeccionar las llamadas a API que hacen las aplicaciones, algo útil al depurar integraciones de datos o scraping.",
       "destacado": false
     },
-    "bbc988e4da29": {
-      "resumen": "Electronic Arts (EA) anunció el cierre del estudio de videojuegos BioWare, conocido por sagas como Mass Effect y Dragon Age. No es un tema de ciencia de datos en sí, pero aporta como caso de estudio sobre decisiones corporativas en la industria tecnológica y su impacto en equipos creativos, algo que puede servir de contexto a quien sigue tendencias de la industria tech en general.",
+    "eaed7b6a72f1": {
+      "resumen": "Un investigador de seguridad explica por qué una vulnerabilidad reciente de PHP, pese a sonar grave, no tiene un exploit sencillo en la práctica, repasando las barreras técnicas que dificultan explotarla. Le sirve a quien se forma en datos para entender cómo se evalúa el riesgo real de una vulnerabilidad más allá del titular alarmista, un criterio útil al elegir y mantener el software que sostiene pipelines de datos.",
+      "destacado": false
+    },
+    "ed1c45472130": {
+      "resumen": "Hilo de Reddit en r/datascience donde los usuarios comparten cómo sus empresas combinan a los equipos de ciencia de datos con las áreas de negocio a la hora de encarar un proyecto. Le sirve a un médico que se forma en datos porque ilustra, con experiencias reales, cómo se organiza el trabajo entre quienes analizan los datos y quienes necesitan esos resultados para tomar decisiones.",
+      "destacado": false
+    },
+    "5699ea0146a9": {
+      "resumen": "Railway, una plataforma de despliegue en la nube, publicó una divulgación de seguridad sobre una vulnerabilidad o incidente detectado en su servicio. Le sirve a quien se forma en datos porque recuerda la importancia de seguir los avisos de seguridad de las plataformas cloud donde se alojan pipelines y bases de datos propios.",
+      "destacado": false
+    },
+    "ca78317f24e4": {
+      "resumen": "Google publicó su guía de estilo para el lenguaje de programación Rust, con convenciones de formato y buenas prácticas de escritura de código. Le aporta a quien se forma en análisis de datos como referencia de código prolijo y mantenible, aplicable más allá de Rust a cualquier lenguaje que use para procesar datos.",
+      "destacado": false
+    },
+    "952285572a8e": {
+      "resumen": "Simon Willison repasa el parche de seguridad que la PHP Foundation lanzó para corregir dos vulnerabilidades de ejecución remota de código (RCE, remote code execution) en toda la rama 8.x de PHP, y detalla las medidas que están tomando para reforzar la seguridad del lenguaje a futuro. Le sirve a quien se forma en datos porque buena parte de la infraestructura web que sirve datos corre sobre PHP, y entender estos parches ayuda a priorizar actualizaciones críticas.",
       "destacado": false
     },
     "6c1da1b548c0": {
@@ -58,37 +75,33 @@
     },
     "577d455c1562": {
       "resumen": "Hilo de Reddit sobre cómo un equipo de periodismo de datos detectó irregularidades estadísticas que delataron a una encuestadora, Wedgewood Polls, que habría fabricado resultados de sondeos de opinión. Le sirve a un médico que aprende análisis de datos porque muestra, con un caso real, técnicas de detección de datos fraudulentos o fabricados, útiles también para evaluar la calidad de datos en investigación clínica.",
-      "destacado": false
-    },
-    "5ae1819d713f": {
-      "resumen": "La PHP Foundation (fundación que mantiene el lenguaje de programación PHP) publicó un parche de seguridad y detalló las medidas que está tomando para reforzar la seguridad del lenguaje. No es ciencia de datos en sentido estricto, pero le sirve a quien programa para análisis de datos como recordatorio de buenas prácticas de seguridad y mantenimiento en el software que sostiene gran parte de la web.",
-      "destacado": false
+      "destacado": true
     },
     "c4692416a9e1": {
       "resumen": "Guía práctica de Towards Data Science que muestra cómo combinar modelos de decisión (reglas y lógica determinística) con modelos de lenguaje (LLM, large language model) para automatizar tareas de navegación web. Le sirve a un médico que se forma en análisis de datos porque ejemplifica un patrón híbrido -reglas claras más IA generativa- que ayuda a construir flujos de trabajo automatizados más confiables que depender solo de un LLM.",
       "destacado": false
     },
-    "ca4f9f9aae24": {
-      "resumen": "Legisladores del estado de Oregon, Estados Unidos, aprobaron fondos para comprar una cascada icónica que había sido puesta en venta en el sitio inmobiliario Redfin. No es un tema de ciencia de datos, sino una curiosidad de la agenda de Hacker News sobre patrimonio natural y decisiones de gasto público.",
-      "destacado": false
-    },
-    "98f9015f36b6": {
-      "resumen": "OpenAI describe un esquema de coordinación global para la divulgación responsable de vulnerabilidades informáticas descubiertas por agentes de inteligencia artificial (IA), que exploran código en busca de fallas de seguridad antes de que sean explotadas. Le sirve a un médico que se forma en datos porque anticipa un escenario donde la IA no solo analiza datos sino que también audita la seguridad de los sistemas que los almacenan, algo relevante para cualquier base de datos clínica.",
-      "destacado": true
-    },
     "c79ce2da2d76": {
       "resumen": "Artículo técnico de Towards Data Science sobre cómo convertir simulaciones de Python de larga duración en una plataforma de autoservicio en la nube de Amazon (AWS, Amazon Web Services), usando colas de tareas y mecanismos de recuperación ante fallos. Le sirve a quien aprende análisis de datos porque muestra, paso a paso, cómo escalar procesos de cálculo pesado (por ejemplo simulaciones epidemiológicas o estadísticas) para que varios usuarios los puedan correr sin intervención manual.",
       "destacado": false
     },
-    "15429b341764": {
-      "resumen": "Tutorial de KDnuggets que explica cómo armar flujos de reconocimiento de entidades nombradas (NER, named entity recognition) -por ejemplo identificar fármacos, dosis o diagnósticos dentro de un texto- usando la librería scikit-llm, que combina modelos de lenguaje (LLM) con la interfaz habitual de scikit-learn. Le sirve especialmente a un médico que se forma en datos porque el NER es clave para extraer información estructurada de historias clínicas o literatura médica en texto libre.",
-      "destacado": false
+    "d5eb69de675b": {
+      "resumen": "La URBA (Unión de Rugby de Buenos Aires) confirmó qué árbitros dirigirán la última fecha, clave para definir el ascenso en el torneo de rugby."
     },
-    "8460bcd35703": {
-      "resumen": "Italia, próximo rival de Los Pumas, confirmó su lista para el Nations Championship con el regreso de algunas figuras y la ausencia de otras piezas importantes."
+    "5510c1d2f754": {
+      "resumen": "Los Pumas definieron la lista para el próximo Camp (concentración) y hay nombres habituales que no fueron convocados, pensando en la segunda etapa del Nations Championship."
     },
-    "ce8d91c6afc1": {
-      "resumen": "Un histórico ganador de siete títulos del Seis Naciones explicó los motivos que lo llevaron a sumarse como entrenador de Los Pumas."
+    "01b36839ddc5": {
+      "resumen": "El entrenador Gonzalo Quesada anunció la lista de 34 jugadores convocados por Italia para disputar el Nations Championship."
+    },
+    "9c677d2ca6bc": {
+      "resumen": "Un repaso de la evidencia que indaga si existe una conexión oculta entre la migraña y la endometriosis, dos afecciones que afectan mayoritariamente a mujeres."
+    },
+    "c473fc74668e": {
+      "resumen": "Un estudio advierte que el uso de teléfonos inteligentes (smartphones) entre los adolescentes estaría perjudicando la calidad de su sueño."
+    },
+    "23e73f73b2db": {
+      "resumen": "Una encuesta revela que 4 de cada 5 padres considera que tener y criar un bebé resulta demasiado costoso económicamente."
     }
   }
 }

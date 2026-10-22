@@ -1,41 +1,14 @@
 {
-  "generated_at": "2026-10-22T10:05:43Z",
+  "generated_at": "2026-10-22T22:05:59Z",
   "summaries": {
     "b8e11dbd1c75": {
       "resumen": "Una nota de TCTMD (medio especializado en cardiología intervencionista) repasa evidencia de que dejar los esteroides anabólico-androgénicos (EAA) puede revertir, al menos en parte, algunos efectos cardíacos adversos que provocan, como el engrosamiento del músculo cardíaco o el deterioro de la función del ventrículo izquierdo. Vale la pena mirarlo porque el uso de EAA fuera de indicación médica (para aumentar masa muscular) es cada vez más frecuente y muchos cardiólogos clínicos se van a topar con estos pacientes.",
       "destacado": false,
       "analisis": "Diseño: Nota de TCTMD que resume hallazgos sobre los efectos cardíacos de los esteroides anabólico-androgénicos (EAA) y su reversibilidad tras suspender el consumo; el título no precisa si se trata de un estudio de cohorte, un registro o una serie de casos, ni el número de centros o pacientes incluidos.\nPoblación: Usuarios (probablemente fisicoculturistas o deportistas de fuerza) con antecedente de consumo de esteroides anabólico-androgénicos que presentaban alteraciones cardíacas (hipertrofia ventricular, disfunción sistólica) evaluados tras discontinuar el consumo; no se detallan criterios de inclusión o exclusión.\nIntervención: No hay una intervención terapéutica asignada; se compara el estado cardíaco de los pacientes antes y después de abandonar el consumo de esteroides anabólico-androgénicos (exposición vs. cesación).\nResultados: No disponibles en esta nota; el título solo indica que la suspensión \"puede revertir algunos\" efectos cardíacos adversos, sin cifras de magnitud de mejoría, intervalos de confianza ni valor de p.\nLimitaciones: Al ser una nota periodística y no el estudio original, no se puede valorar el tamaño muestral, el tiempo de seguimiento tras la suspensión ni qué parámetros (ecocardiográficos, de resonancia) se usaron para definir la reversibilidad.\nMensaje: Refuerza el mensaje clínico de que suspender los esteroides anabólico-androgénicos de forma precoz podría limitar el daño cardíaco, lo que respalda interrogar activamente sobre su consumo y ofrecer cesación como parte del manejo.\nNota: análisis sin acceso al abstract."
     },
-    "869443fefcea": {
-      "resumen": "Estudio de JACC (Journal of the American College of Cardiology) que busca convertir el concepto de obesidad sarcopénica (pérdida de masa muscular combinada con exceso de grasa corporal) en una herramienta práctica para predecir y prevenir la insuficiencia cardíaca (IC). Vale la pena mirarlo porque pone el foco en un fenotipo de riesgo que el índice de masa corporal (IMC) suele pasar por alto.",
-      "destacado": true,
-      "analisis": "Diseño: Artículo original de JACC (Journal of the American College of Cardiology) firmado por Zhou X et al., que por el título y por tener un editorial acompañante dedicado a discutir su índice correspondería a un estudio de cohorte que evalúa un índice de obesidad sarcopénica como predictor de insuficiencia cardíaca (IC); no se especifica en el título si es prospectivo o retrospectivo, ni el número de centros o pacientes.\nPoblación: Probablemente adultos de una o varias cohortes poblacionales o clínicas en quienes se calculó un índice de obesidad sarcopénica (combinación de baja masa muscular y exceso de adiposidad) y se evaluó la incidencia de insuficiencia cardíaca; no se detallan criterios de inclusión o exclusión en el título.\nIntervención: No aplica una intervención terapéutica; se trata de un estudio de asociación/predicción entre el índice de obesidad sarcopénica y el desarrollo de insuficiencia cardíaca.\nResultados: No disponibles en esta nota; el título no aporta cifras de riesgo relativo, intervalos de confianza ni valor de p.\nLimitaciones: Sin acceso al cuerpo del artículo no se puede valorar cómo se definió y validó el índice de obesidad sarcopénica, el ajuste por factores de confusión ni el tiempo de seguimiento; el editorial acompañante, de hecho, cuestiona si el índice refleja un fenotipo real o es solo un cociente matemático.\nMensaje: Si el índice demuestra valor predictivo robusto en estudios futuros, podría convertirse en una herramienta simple de tamizaje para identificar pacientes en riesgo de insuficiencia cardíaca por composición corporal desfavorable, más allá del peso o el índice de masa corporal.\nNota: análisis sin acceso al abstract."
-    },
-    "737c1eccf9e9": {
-      "resumen": "Editorial de JACC (Journal of the American College of Cardiology) que discute si el índice de obesidad sarcopénica refleja un verdadero fenotipo fisiopatológico o es apenas un cociente matemático sin sustento biológico claro. Vale la pena mirarlo porque pone en perspectiva crítica el entusiasmo por este nuevo marcador de riesgo cardiovascular.",
-      "destacado": false
-    },
-    "0644f0a8261c": {
-      "resumen": "Artículo de perspectiva de JACC (Journal of the American College of Cardiology) que plantea repensar el lugar donde se brinda la atención de la insuficiencia cardíaca (IC), poniendo el foco en el domicilio del paciente como destino de cuidado en lugar del hospital. Vale la pena mirarlo porque refleja la tendencia hacia modelos de atención más centrados en el hogar para una enfermedad crónica de alta carga asistencial.",
-      "destacado": false
-    },
-    "deec5dd59dfd": {
-      "resumen": "Declaración científica 2026 del ACC (American College of Cardiology, Colegio Americano de Cardiología) que actualiza las recomendaciones de prescripción de ejercicio físico para la salud cardiovascular en adultos. Vale la pena mirarlo porque ordena, con base en evidencia, cómo dosificar la actividad física (tipo, intensidad, frecuencia) según el perfil de riesgo de cada paciente, algo que se indica mucho pero se prescribe poco en la práctica diaria.",
-      "destacado": false
-    },
     "79da959693d4": {
       "resumen": "Resumen de novedades de un número de European Heart Journal (Revista Europea del Corazón) que repasa, en conjunto, las guías de la ESC (European Society of Cardiology, Sociedad Europea de Cardiología), los mecanismos de la miocarditis (inflamación del músculo cardíaco) y datos nuevos sobre el tratamiento con antagonistas del receptor de mineralocorticoides, glucósidos cardíacos (como la digoxina) y agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1). Vale la pena mirarlo como mapa rápido de varios frentes de actualización en simultáneo, más que como un estudio puntual.",
       "destacado": false
-    },
-    "602383f5cf91": {
-      "resumen": "Un estudio encontró que la hipotensión intraoperatoria (caída de la presión arterial durante el procedimiento) durante la trombectomía mecánica por accidente cerebrovascular (ACV) isquémico se asocia a peores resultados neurológicos. Vale la pena mirarlo porque remarca la importancia del manejo hemodinámico durante procedimientos neurointervencionistas, un aspecto frecuentemente subestimado en el periprocedimiento.",
-      "destacado": false,
-      "analisis": "Diseño: Nota de TCTMD sobre un estudio (probablemente observacional, de cohorte o un subanálisis de registro) que evalúa la asociación entre hipotensión intraoperatoria y los resultados neurológicos tras trombectomía mecánica por accidente cerebrovascular (ACV) isquémico; el título no especifica diseño, aleatorización, número de centros ni de pacientes.\nPoblación: Pacientes sometidos a trombectomía mecánica por ACV isquémico agudo; no se detallan otros criterios de inclusión o exclusión.\nIntervención: No hay intervención terapéutica evaluada; se analiza la exposición a hipotensión intraoperatoria durante el procedimiento frente a mantener presión arterial estable.\nResultados: No disponibles en esta nota; el título solo indica que la hipotensión intraoperatoria se asoció a \"peores resultados\", sin cifras de razón de riesgo, intervalos de confianza ni valor de p.\nLimitaciones: Al ser una nota periodística y no el artículo original, no se puede valorar el tamaño muestral, el ajuste por gravedad basal del ACV ni la definición exacta de hipotensión utilizada.\nMensaje: Si se confirma, reforzaría la necesidad de un control hemodinámico estricto durante la trombectomía mecánica, evitando caídas de presión arterial que podrían comprometer la perfusión cerebral colateral.\nNota: análisis sin acceso al abstract."
-    },
-    "6fea150494d8": {
-      "resumen": "El EuroSCORE (European System for Cardiac Operative Risk Evaluation) es la calculadora de riesgo quirúrgico más usada para estimar la mortalidad perioperatoria en cirugía cardíaca. TCTMD adelanta que se viene una actualización del modelo, después de que se detectaran falencias del score vigente para predecir el riesgo en la práctica actual. Vale la pena mirarlo porque este puntaje se usa a diario para decidir entre cirugía y abordajes percutáneos en pacientes valvulares y coronarios.",
-      "destacado": false,
-      "analisis": "Diseño: Nota de TCTMD que anticipa una actualización del EuroSCORE (European System for Cardiac Operative Risk Evaluation), el modelo de predicción de riesgo quirúrgico en cirugía cardíaca; el título no especifica si la detección de falencias surge de un estudio de validación externa, una cohorte de recalibración o un análisis multicéntrico, ni la cantidad de centros o pacientes involucrados.\nPoblación: Pacientes sometidos a cirugía cardíaca en quienes se aplicó el EuroSCORE vigente (probablemente EuroSCORE II) para estimar el riesgo operatorio; no se detallan criterios de inclusión o exclusión.\nIntervención: No aplica una intervención terapéutica; se trata de la evaluación del desempeño predictivo (calibración y discriminación) del modelo de riesgo actual frente a los resultados observados.\nResultados: No disponibles en esta nota; el título solo señala que el modelo actual tiene \"falencias\" (drawbacks), sin cifras de calibración, estadístico C ni intervalos de confianza.\nLimitaciones: Al ser una nota periodística y no el estudio de validación original, no se puede valorar el tamaño muestral, la población de validación ni los métodos estadísticos usados para evidenciar el desajuste del modelo.\nMensaje: Si se confirma el desajuste del EuroSCORE vigente, respaldaría la necesidad de recalibrar o rediseñar el score para que siga siendo útil en la toma de decisiones sobre riesgo quirúrgico en la práctica contemporánea.\nNota: análisis sin acceso al abstract."
     },
     "82103f5ef831": {
       "resumen": "La FDA (Food and Drug Administration, agencia regulatoria de medicamentos y dispositivos de Estados Unidos) aprobó el sistema Pascal para la reparación transcatéter (por catéter, sin cirugía abierta) de la válvula tricúspide. Vale la pena mirarlo porque amplía el arsenal percutáneo disponible para la insuficiencia tricuspídea severa, una valvulopatía que hasta hace poco tenía pocas opciones terapéuticas más allá del manejo médico o la cirugía de alto riesgo.",
@@ -45,63 +18,80 @@
       "resumen": "Episodio de podcast de TCTMD donde el cirujano cardíaco John Puskas reflexiona sobre creatividad e iteración en la práctica quirúrgica y en la innovación médica. Vale la pena escucharlo más como mirada formativa sobre el proceso de mejora continua en cardiología que como reporte de resultados clínicos.",
       "destacado": false
     },
-    "ad2f63999e9a": {
-      "resumen": "mitmproxy, la herramienta de código abierto para interceptar y depurar tráfico HTTP/HTTPS, sumó una opción --emudhra para integrarse con certificados digitales de eMudhra (un proveedor de firma digital). Le aporta a quien se forma en análisis de datos porque mitmproxy es clave para inspeccionar las llamadas a API que hacen las aplicaciones, algo útil al depurar integraciones de datos o scraping.",
+    "1e781345fcf1": {
+      "resumen": "Una nota de TCTMD (medio especializado en cardiología intervencionista) sobre un análisis que sugiere que la 'tele-prehabilitación' (programas de ejercicio y optimización física supervisados a distancia, antes de una cirugía) sería costo-efectiva en pacientes que van a cirugía cardíaca. Vale la pena mirarlo porque la prehabilitación viene ganando lugar para reducir complicaciones postoperatorias, y una modalidad remota facilitaría el acceso en pacientes que no pueden trasladarse a un centro de rehabilitación.",
+      "destacado": false,
+      "analisis": "Diseño: No se detalla en el título si se trata de un análisis de costo-efectividad basado en un ensayo clínico, un modelo de decisión o datos observacionales; TCTMD suele reportar este tipo de trabajos presentados en congresos, por lo que probablemente sea un análisis económico formal con un modelo de simulación.\nPoblación: Pacientes programados para cirugía cardíaca (de revascularización miocárdica o valvular, sin mayor especificación) candidatos a un programa de prehabilitación.\nIntervención: Programa de tele-prehabilitación (ejercicio y optimización prequirúrgica supervisados a distancia) comparado presumiblemente contra la prehabilitación presencial habitual o la ausencia de prehabilitación.\nResultados: No disponibles; el título solo indica que la intervención \"probablemente\" sea costo-efectiva, sin cifras de costo por año de vida ajustado por calidad (QALY) ni intervalos de confianza.\nLimitaciones: Al tratarse de una nota periodística y no el estudio original, no se puede juzgar el horizonte temporal del modelo, la perspectiva de costos usada (del sistema de salud o del paciente) ni la solidez del análisis de sensibilidad.\nMensaje: Si se confirma, respaldaría incorporar la prehabilitación remota como alternativa accesible antes de la cirugía cardíaca, en especial en pacientes con dificultades para trasladarse a un centro de rehabilitación presencial.\nNota: análisis sin acceso al abstract."
+    },
+    "4e6f8712dc5f": {
+      "resumen": "Nota de TCTMD sobre datos estadounidenses que refuerzan la asociación entre el tromboembolismo pulmonar (coágulos que viajan a las arterias de los pulmones) y la enfermedad cardiovascular aterosclerótica (ASCVD, por sus siglas en inglés: placas de colesterol que obstruyen las arterias). Vale la pena mirarlo porque suma evidencia a la idea de que la enfermedad aterosclerótica no solo predispone a eventos arteriales (infarto, ACV) sino también a eventos trombóticos venosos, lo que podría influir en cómo se estratifica el riesgo de estos pacientes.",
+      "destacado": true,
+      "analisis": "Diseño: Probablemente un análisis de una base de datos o registro estadounidense (el título menciona \"US Data\"), de tipo observacional; no se especifica si es de corte transversal, cohorte retrospectiva o prospectiva, ni el número de pacientes.\nPoblación: Pacientes con diagnóstico de tromboembolismo pulmonar y/o enfermedad cardiovascular aterosclerótica incluidos en la base de datos analizada; no se detallan criterios de inclusión o exclusión.\nIntervención: No aplica tratamiento ni comparador; se trata de un estudio de asociación epidemiológica entre dos condiciones (tromboembolismo pulmonar y enfermedad cardiovascular aterosclerótica).\nResultados: No disponibles en el título; se indica que los datos \"respaldan un vínculo\" sin cifras de magnitud de la asociación (razón de momios, razón de riesgo) ni intervalos de confianza.\nLimitaciones: Un diseño observacional de base de datos no permite establecer causalidad, es vulnerable a factores de confusión no medidos (como el tabaquismo o la obesidad) y depende de la calidad del registro de diagnósticos.\nMensaje: Si la asociación se confirma con datos robustos, podría justificar una búsqueda más activa de enfermedad aterosclerótica subclínica en pacientes con tromboembolismo pulmonar, y viceversa, aunque todavía no cambia el manejo estándar.\nNota: análisis sin acceso al abstract."
+    },
+    "bb6fed768e81": {
+      "resumen": "Carta de respuesta publicada en JACC (Journal of the American College of Cardiology, revista de la Sociedad Americana de Cardiología) dentro de un intercambio de correspondencia sobre las trayectorias de remodelado del músculo cardíaco y el riesgo de eventos cardiovasculares mayores (MACE, por sus siglas en inglés) en pacientes con miocardiopatía hipertrófica (HCM, por sus siglas en inglés) fenotípicamente leve. Vale la pena tenerlo en cuenta como parte del debate científico en curso sobre cómo seguir a estos pacientes, más que como un estudio nuevo en sí mismo.",
       "destacado": false
     },
-    "eaed7b6a72f1": {
-      "resumen": "Un investigador de seguridad explica por qué una vulnerabilidad reciente de PHP, pese a sonar grave, no tiene un exploit sencillo en la práctica, repasando las barreras técnicas que dificultan explotarla. Le sirve a quien se forma en datos para entender cómo se evalúa el riesgo real de una vulnerabilidad más allá del titular alarmista, un criterio útil al elegir y mantener el software que sostiene pipelines de datos.",
+    "50915b3a5b88": {
+      "resumen": "Carta de comentario en JACC que discute cómo alinear en el tiempo las trayectorias de remodelado cardíaco en pacientes con miocardiopatía hipertrófica (HCM) leve, dentro del mismo intercambio de correspondencia sobre riesgo de eventos cardiovasculares mayores. Vale la pena mirarlo porque toca un problema metodológico clave al estudiar enfermedades de evolución lenta: cómo comparar pacientes que están en distintas etapas de su enfermedad al momento de la evaluación.",
       "destacado": false
     },
-    "ed1c45472130": {
-      "resumen": "Hilo de Reddit en r/datascience donde los usuarios comparten cómo sus empresas combinan a los equipos de ciencia de datos con las áreas de negocio a la hora de encarar un proyecto. Le sirve a un médico que se forma en datos porque ilustra, con experiencias reales, cómo se organiza el trabajo entre quienes analizan los datos y quienes necesitan esos resultados para tomar decisiones.",
+    "27b261dc9c42": {
+      "resumen": "Comentario editorial en JACC que reflexiona sobre el salto conceptual entre describir trayectorias de riesgo y proponer puntos de valoración subrogados (marcadores que reemplazan a un desenlace clínico duro) en la miocardiopatía hipertrófica leve. Vale la pena mirarlo porque plantea una discusión de fondo sobre qué tan confiables son esos marcadores subrogados para guiar decisiones clínicas.",
       "destacado": false
     },
-    "5699ea0146a9": {
-      "resumen": "Railway, una plataforma de despliegue en la nube, publicó una divulgación de seguridad sobre una vulnerabilidad o incidente detectado en su servicio. Le sirve a quien se forma en datos porque recuerda la importancia de seguir los avisos de seguridad de las plataformas cloud donde se alojan pipelines y bases de datos propios.",
+    "05c67542db0a": {
+      "resumen": "Revisión publicada en JACC sobre la miocardiopatía auricular (deterioro estructural y funcional de la aurícula) en el contexto de la miocardiopatía hipertrófica, describiendo su evolución desde un estado compensador hasta el desarrollo de fibrilación auricular. Vale la pena mirarla porque ordena el conocimiento actual sobre un mecanismo que explica buena parte del riesgo arrítmico y embólico de estos pacientes.",
       "destacado": false
     },
-    "ca78317f24e4": {
-      "resumen": "Google publicó su guía de estilo para el lenguaje de programación Rust, con convenciones de formato y buenas prácticas de escritura de código. Le aporta a quien se forma en análisis de datos como referencia de código prolijo y mantenible, aplicable más allá de Rust a cualquier lenguaje que use para procesar datos.",
+    "474d46551650": {
+      "resumen": "Entrada del blog de Simon Willison (desarrollador y divulgador de inteligencia artificial) que simplemente enlaza un video musical de la banda DE STAAT, sin relación directa con ciencia de datos o inteligencia artificial. Se incluye por completitud, pero no aporta contenido técnico útil para quien está aprendiendo análisis de datos.",
       "destacado": false
     },
-    "952285572a8e": {
-      "resumen": "Simon Willison repasa el parche de seguridad que la PHP Foundation lanzó para corregir dos vulnerabilidades de ejecución remota de código (RCE, remote code execution) en toda la rama 8.x de PHP, y detalla las medidas que están tomando para reforzar la seguridad del lenguaje a futuro. Le sirve a quien se forma en datos porque buena parte de la infraestructura web que sirve datos corre sobre PHP, y entender estos parches ayuda a priorizar actualizaciones críticas.",
+    "4e4febdfba9b": {
+      "resumen": "Reporte técnico sobre cómo se logró eludir por completo el sistema de inicio de sesión con contraseña de un solo uso (OTP, one-time password) de un único factor de autenticación (1FA) de eMudhra, una autoridad certificadora. Le sirve a un médico que está aprendiendo análisis de datos como recordatorio de que cualquier sistema que maneje datos de pacientes necesita controles de autenticación robustos (como la autenticación de múltiples factores), y de cómo razonan los atacantes para encontrar estas fallas.",
       "destacado": false
     },
-    "6c1da1b548c0": {
-      "resumen": "Simon Willison, desarrollador y divulgador de inteligencia artificial (IA) generativa, cuenta que su juego de estrategia en tiempo real (RTS, real time strategy) \"Battle Drones\", liberado bajo licencia abierta y generado casi enteramente con asistencia de IA, ya tiene un fork en francés ambientado en la Belle Époque steampunk. Le sirve a quien se inicia en análisis de datos para ver, en un ejemplo concreto, hasta dónde llega hoy la programación asistida por IA (\"vibe coding\") y cómo el código abierto habilita que otros lo reutilicen y transformen.",
+    "09776931f465": {
+      "resumen": "Simon Willison comenta la donación del formato 'Agent Skills' (paquetes reutilizables de instrucciones para agentes de inteligencia artificial) a una fundación sin fines de lucro dedicada a la inteligencia artificial agéntica. Le sirve a quien está aprendiendo análisis de datos porque muestra hacia dónde evoluciona la estandarización de las herramientas de IA, que cada vez se usan más para automatizar tareas de análisis.",
       "destacado": false
     },
-    "577d455c1562": {
-      "resumen": "Hilo de Reddit sobre cómo un equipo de periodismo de datos detectó irregularidades estadísticas que delataron a una encuestadora, Wedgewood Polls, que habría fabricado resultados de sondeos de opinión. Le sirve a un médico que aprende análisis de datos porque muestra, con un caso real, técnicas de detección de datos fraudulentos o fabricados, útiles también para evaluar la calidad de datos en investigación clínica.",
+    "4dcdb9557827": {
+      "resumen": "Proyecto de NVIDIA que propone un entorno de ejecución (runtime) seguro y privado para correr flotas de agentes de inteligencia artificial autónomos de forma aislada. Le aporta a un médico en formación de análisis de datos una noción concreta de cómo se piensa la seguridad y el aislamiento (sandboxing) cuando se despliegan agentes de IA que ejecutan código o acceden a datos sensibles.",
+      "destacado": false
+    },
+    "d3ddbad3b2af": {
+      "resumen": "Anuncio de discontinuación del navegador Arc, conocido por su enfoque experimental de organización de pestañas e integración de inteligencia artificial. Tiene un valor acotado para quien aprende análisis de datos, salvo como ejemplo de que incluso productos tecnológicos innovadores pueden no sostenerse comercialmente; se incluye por completitud informativa.",
+      "destacado": false
+    },
+    "a816b657efa8": {
+      "resumen": "Novedades sobre la puesta en marcha de GNU Taler, un sistema de pago electrónico de código abierto diseñado para preservar la privacidad, en Alemania. Le interesa a quien estudia análisis de datos como ejemplo de arquitecturas que buscan procesar transacciones generando la menor cantidad posible de datos personales rastreables, un tema relevante en privacidad de datos.",
+      "destacado": false
+    },
+    "0acbee798fb2": {
+      "resumen": "Cita breve de Armin Ronacher (desarrollador conocido por crear el framework Flask de Python y por sus opiniones sobre herramientas de inteligencia artificial) recogida por Simon Willison en su blog. Sin acceso al contenido completo, vale la pena seguirlo como termómetro de la opinión de referentes técnicos sobre el estado actual de las herramientas de IA para programar y analizar datos.",
+      "destacado": false
+    },
+    "9af6bf202b75": {
+      "resumen": "Experimento que evalúa si la recuperación aumentada por agentes de inteligencia artificial (Agentic RAG, retrieval-augmented generation: una técnica en la que un modelo de lenguaje busca información en documentos externos antes de responder) realmente mejora la calidad de la evidencia recuperada, probado sobre cerca de 298 casos. Le sirve mucho a un médico que aprende análisis de datos porque el RAG es, hoy, la forma más práctica de combinar modelos de lenguaje con bibliografía o historias clínicas propias, y este artículo ayuda a entender si vale la pena la complejidad extra de la variante 'agéntica'.",
       "destacado": true
     },
-    "c4692416a9e1": {
-      "resumen": "Guía práctica de Towards Data Science que muestra cómo combinar modelos de decisión (reglas y lógica determinística) con modelos de lenguaje (LLM, large language model) para automatizar tareas de navegación web. Le sirve a un médico que se forma en análisis de datos porque ejemplifica un patrón híbrido -reglas claras más IA generativa- que ayuda a construir flujos de trabajo automatizados más confiables que depender solo de un LLM.",
+    "9e7d1fc64fdb": {
+      "resumen": "Tutorial sobre el preprocesamiento de espectros Raman (una técnica de espectroscopía usada para identificar sustancias por su interacción con la luz) y su modelado mediante mínimos cuadrados no negativos, un método estadístico para descomponer una señal en componentes conocidos. Le aporta a quien estudia análisis de datos técnicas de procesamiento de señales y modelado cuantitativo que son trasladables a otras señales biomédicas, como el electrocardiograma.",
       "destacado": false
     },
-    "c79ce2da2d76": {
-      "resumen": "Artículo técnico de Towards Data Science sobre cómo convertir simulaciones de Python de larga duración en una plataforma de autoservicio en la nube de Amazon (AWS, Amazon Web Services), usando colas de tareas y mecanismos de recuperación ante fallos. Le sirve a quien aprende análisis de datos porque muestra, paso a paso, cómo escalar procesos de cálculo pesado (por ejemplo simulaciones epidemiológicas o estadísticas) para que varios usuarios los puedan correr sin intervención manual.",
+    "8af5f40a65a2": {
+      "resumen": "Guía práctica sobre cómo procesar archivos JSON (formato de datos muy usado para intercambiar información estructurada) de gran tamaño en Python usando la librería ijson, que permite leerlos de a partes en lugar de cargarlos enteros en memoria. Le sirve directamente a un médico que está aprendiendo análisis de datos porque es una habilidad concreta para manejar bases de datos grandes sin que la computadora se quede sin memoria.",
       "destacado": false
     },
-    "d5eb69de675b": {
-      "resumen": "La URBA (Unión de Rugby de Buenos Aires) confirmó qué árbitros dirigirán la última fecha, clave para definir el ascenso en el torneo de rugby."
+    "b126341d1797": {
+      "resumen": "Un repaso de las alternativas que evalúa Felipe Contepomi para la gira de noviembre de Los Pumas."
     },
-    "5510c1d2f754": {
-      "resumen": "Los Pumas definieron la lista para el próximo Camp (concentración) y hay nombres habituales que no fueron convocados, pensando en la segunda etapa del Nations Championship."
+    "fde6b5bbdc01": {
+      "resumen": "Se confirmaron los árbitros que dirigirán la segunda fase del Nations Championship de rugby."
     },
-    "01b36839ddc5": {
-      "resumen": "El entrenador Gonzalo Quesada anunció la lista de 34 jugadores convocados por Italia para disputar el Nations Championship."
-    },
-    "9c677d2ca6bc": {
-      "resumen": "Un repaso de la evidencia que indaga si existe una conexión oculta entre la migraña y la endometriosis, dos afecciones que afectan mayoritariamente a mujeres."
-    },
-    "c473fc74668e": {
-      "resumen": "Un estudio advierte que el uso de teléfonos inteligentes (smartphones) entre los adolescentes estaría perjudicando la calidad de su sueño."
-    },
-    "23e73f73b2db": {
-      "resumen": "Una encuesta revela que 4 de cada 5 padres considera que tener y criar un bebé resulta demasiado costoso económicamente."
+    "984edae327f1": {
+      "resumen": "Felipe Contepomi ya definió el plantel de Los Pumas para la ventana de noviembre en Londres."
     }
   }
 }

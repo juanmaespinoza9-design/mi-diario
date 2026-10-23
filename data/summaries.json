@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T22:05:59Z",
+  "generated_at": "2026-10-23T10:04:03Z",
   "summaries": {
     "b8e11dbd1c75": {
       "resumen": "Una nota de TCTMD (medio especializado en cardiología intervencionista) repasa evidencia de que dejar los esteroides anabólico-androgénicos (EAA) puede revertir, al menos en parte, algunos efectos cardíacos adversos que provocan, como el engrosamiento del músculo cardíaco o el deterioro de la función del ventrículo izquierdo. Vale la pena mirarlo porque el uso de EAA fuera de indicación médica (para aumentar masa muscular) es cada vez más frecuente y muchos cardiólogos clínicos se van a topar con estos pacientes.",
@@ -48,24 +48,8 @@
       "resumen": "Entrada del blog de Simon Willison (desarrollador y divulgador de inteligencia artificial) que simplemente enlaza un video musical de la banda DE STAAT, sin relación directa con ciencia de datos o inteligencia artificial. Se incluye por completitud, pero no aporta contenido técnico útil para quien está aprendiendo análisis de datos.",
       "destacado": false
     },
-    "4e4febdfba9b": {
-      "resumen": "Reporte técnico sobre cómo se logró eludir por completo el sistema de inicio de sesión con contraseña de un solo uso (OTP, one-time password) de un único factor de autenticación (1FA) de eMudhra, una autoridad certificadora. Le sirve a un médico que está aprendiendo análisis de datos como recordatorio de que cualquier sistema que maneje datos de pacientes necesita controles de autenticación robustos (como la autenticación de múltiples factores), y de cómo razonan los atacantes para encontrar estas fallas.",
-      "destacado": false
-    },
     "09776931f465": {
       "resumen": "Simon Willison comenta la donación del formato 'Agent Skills' (paquetes reutilizables de instrucciones para agentes de inteligencia artificial) a una fundación sin fines de lucro dedicada a la inteligencia artificial agéntica. Le sirve a quien está aprendiendo análisis de datos porque muestra hacia dónde evoluciona la estandarización de las herramientas de IA, que cada vez se usan más para automatizar tareas de análisis.",
-      "destacado": false
-    },
-    "4dcdb9557827": {
-      "resumen": "Proyecto de NVIDIA que propone un entorno de ejecución (runtime) seguro y privado para correr flotas de agentes de inteligencia artificial autónomos de forma aislada. Le aporta a un médico en formación de análisis de datos una noción concreta de cómo se piensa la seguridad y el aislamiento (sandboxing) cuando se despliegan agentes de IA que ejecutan código o acceden a datos sensibles.",
-      "destacado": false
-    },
-    "d3ddbad3b2af": {
-      "resumen": "Anuncio de discontinuación del navegador Arc, conocido por su enfoque experimental de organización de pestañas e integración de inteligencia artificial. Tiene un valor acotado para quien aprende análisis de datos, salvo como ejemplo de que incluso productos tecnológicos innovadores pueden no sostenerse comercialmente; se incluye por completitud informativa.",
-      "destacado": false
-    },
-    "a816b657efa8": {
-      "resumen": "Novedades sobre la puesta en marcha de GNU Taler, un sistema de pago electrónico de código abierto diseñado para preservar la privacidad, en Alemania. Le interesa a quien estudia análisis de datos como ejemplo de arquitecturas que buscan procesar transacciones generando la menor cantidad posible de datos personales rastreables, un tema relevante en privacidad de datos.",
       "destacado": false
     },
     "0acbee798fb2": {
@@ -84,14 +68,27 @@
       "resumen": "Guía práctica sobre cómo procesar archivos JSON (formato de datos muy usado para intercambiar información estructurada) de gran tamaño en Python usando la librería ijson, que permite leerlos de a partes en lugar de cargarlos enteros en memoria. Le sirve directamente a un médico que está aprendiendo análisis de datos porque es una habilidad concreta para manejar bases de datos grandes sin que la computadora se quede sin memoria.",
       "destacado": false
     },
+    "562092bac9df": {
+      "resumen": "Reedición, muy comentada en Hacker News, de un ensayo de 1978 del informático Edsger Dijkstra que argumenta que programar en lenguaje natural (en vez de un lenguaje formal) es una mala idea, porque la ambigüedad del habla cotidiana se traslada directamente al código. Vale la pena leerlo hoy como contrapunto histórico al auge de 'programar en lenguaje natural' con inteligencia artificial generativa, y como recordatorio de que sigue haciendo falta pensar con precisión aunque un asistente de IA escriba el código de análisis.",
+      "destacado": false
+    },
+    "46a214f27141": {
+      "resumen": "Entrada de blog, muy comentada en Hacker News, que repasa comportamientos poco intuitivos de Docker, la herramienta que empaqueta aplicaciones y sus dependencias en contenedores aislados. Le sirve a un médico que está aprendiendo análisis de datos porque Docker es clave para reproducir un mismo entorno de trabajo (mismas versiones de Python y librerías) en cualquier computadora, y conocer sus particularidades ahorra horas de depuración.",
+      "destacado": false
+    },
+    "76226e9df68a": {
+      "resumen": "Proyecto que filtra el contenido de Wikipedia (la enciclopedia colaborativa) para mostrar solo los artículos de lugares a los que se puede llegar caminando en media hora desde la ubicación del usuario. Le aporta a quien estudia análisis de datos un ejemplo concreto de filtrado geoespacial: cómo cruzar coordenadas, distancias y una base de datos grande para quedarse solo con la información relevante a un contexto puntual.",
+      "destacado": false
+    },
+    "1360bd8eb5a8": {
+      "resumen": "Artículo de investigación de Anthropic que muestra cómo los modelos de lenguaje de gran escala (LLM, large language models) están haciendo viable, a mayor escala, la verificación formal de software (demostrar matemáticamente que un programa cumple ciertas propiedades, algo históricamente muy costoso en tiempo humano). Le interesa a un médico que aprende análisis de datos porque ilustra un uso de la inteligencia artificial generativa más riguroso que simplemente generar código: usarla para chequear que el código y los modelos sean correctos, no solo que 'funcionen'.",
+      "destacado": false
+    },
     "b126341d1797": {
       "resumen": "Un repaso de las alternativas que evalúa Felipe Contepomi para la gira de noviembre de Los Pumas."
     },
     "fde6b5bbdc01": {
       "resumen": "Se confirmaron los árbitros que dirigirán la segunda fase del Nations Championship de rugby."
-    },
-    "984edae327f1": {
-      "resumen": "Felipe Contepomi ya definió el plantel de Los Pumas para la ventana de noviembre en Londres."
     }
   }
 }

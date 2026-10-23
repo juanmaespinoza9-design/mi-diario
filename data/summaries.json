@@ -1,14 +1,10 @@
 {
-  "generated_at": "2026-10-23T10:04:03Z",
+  "generated_at": "2026-10-23T22:05:28Z",
   "summaries": {
     "b8e11dbd1c75": {
       "resumen": "Una nota de TCTMD (medio especializado en cardiología intervencionista) repasa evidencia de que dejar los esteroides anabólico-androgénicos (EAA) puede revertir, al menos en parte, algunos efectos cardíacos adversos que provocan, como el engrosamiento del músculo cardíaco o el deterioro de la función del ventrículo izquierdo. Vale la pena mirarlo porque el uso de EAA fuera de indicación médica (para aumentar masa muscular) es cada vez más frecuente y muchos cardiólogos clínicos se van a topar con estos pacientes.",
       "destacado": false,
       "analisis": "Diseño: Nota de TCTMD que resume hallazgos sobre los efectos cardíacos de los esteroides anabólico-androgénicos (EAA) y su reversibilidad tras suspender el consumo; el título no precisa si se trata de un estudio de cohorte, un registro o una serie de casos, ni el número de centros o pacientes incluidos.\nPoblación: Usuarios (probablemente fisicoculturistas o deportistas de fuerza) con antecedente de consumo de esteroides anabólico-androgénicos que presentaban alteraciones cardíacas (hipertrofia ventricular, disfunción sistólica) evaluados tras discontinuar el consumo; no se detallan criterios de inclusión o exclusión.\nIntervención: No hay una intervención terapéutica asignada; se compara el estado cardíaco de los pacientes antes y después de abandonar el consumo de esteroides anabólico-androgénicos (exposición vs. cesación).\nResultados: No disponibles en esta nota; el título solo indica que la suspensión \"puede revertir algunos\" efectos cardíacos adversos, sin cifras de magnitud de mejoría, intervalos de confianza ni valor de p.\nLimitaciones: Al ser una nota periodística y no el estudio original, no se puede valorar el tamaño muestral, el tiempo de seguimiento tras la suspensión ni qué parámetros (ecocardiográficos, de resonancia) se usaron para definir la reversibilidad.\nMensaje: Refuerza el mensaje clínico de que suspender los esteroides anabólico-androgénicos de forma precoz podría limitar el daño cardíaco, lo que respalda interrogar activamente sobre su consumo y ofrecer cesación como parte del manejo.\nNota: análisis sin acceso al abstract."
-    },
-    "79da959693d4": {
-      "resumen": "Resumen de novedades de un número de European Heart Journal (Revista Europea del Corazón) que repasa, en conjunto, las guías de la ESC (European Society of Cardiology, Sociedad Europea de Cardiología), los mecanismos de la miocarditis (inflamación del músculo cardíaco) y datos nuevos sobre el tratamiento con antagonistas del receptor de mineralocorticoides, glucósidos cardíacos (como la digoxina) y agonistas del receptor de GLP-1 (péptido similar al glucagón tipo 1). Vale la pena mirarlo como mapa rápido de varios frentes de actualización en simultáneo, más que como un estudio puntual.",
-      "destacado": false
     },
     "82103f5ef831": {
       "resumen": "La FDA (Food and Drug Administration, agencia regulatoria de medicamentos y dispositivos de Estados Unidos) aprobó el sistema Pascal para la reparación transcatéter (por catéter, sin cirugía abierta) de la válvula tricúspide. Vale la pena mirarlo porque amplía el arsenal percutáneo disponible para la insuficiencia tricuspídea severa, una valvulopatía que hasta hace poco tenía pocas opciones terapéuticas más allá del manejo médico o la cirugía de alto riesgo.",
@@ -44,51 +40,67 @@
       "resumen": "Revisión publicada en JACC sobre la miocardiopatía auricular (deterioro estructural y funcional de la aurícula) en el contexto de la miocardiopatía hipertrófica, describiendo su evolución desde un estado compensador hasta el desarrollo de fibrilación auricular. Vale la pena mirarla porque ordena el conocimiento actual sobre un mecanismo que explica buena parte del riesgo arrítmico y embólico de estos pacientes.",
       "destacado": false
     },
-    "474d46551650": {
-      "resumen": "Entrada del blog de Simon Willison (desarrollador y divulgador de inteligencia artificial) que simplemente enlaza un video musical de la banda DE STAAT, sin relación directa con ciencia de datos o inteligencia artificial. Se incluye por completitud, pero no aporta contenido técnico útil para quien está aprendiendo análisis de datos.",
-      "destacado": false
-    },
-    "09776931f465": {
-      "resumen": "Simon Willison comenta la donación del formato 'Agent Skills' (paquetes reutilizables de instrucciones para agentes de inteligencia artificial) a una fundación sin fines de lucro dedicada a la inteligencia artificial agéntica. Le sirve a quien está aprendiendo análisis de datos porque muestra hacia dónde evoluciona la estandarización de las herramientas de IA, que cada vez se usan más para automatizar tareas de análisis.",
-      "destacado": false
-    },
-    "0acbee798fb2": {
-      "resumen": "Cita breve de Armin Ronacher (desarrollador conocido por crear el framework Flask de Python y por sus opiniones sobre herramientas de inteligencia artificial) recogida por Simon Willison en su blog. Sin acceso al contenido completo, vale la pena seguirlo como termómetro de la opinión de referentes técnicos sobre el estado actual de las herramientas de IA para programar y analizar datos.",
-      "destacado": false
-    },
-    "9af6bf202b75": {
-      "resumen": "Experimento que evalúa si la recuperación aumentada por agentes de inteligencia artificial (Agentic RAG, retrieval-augmented generation: una técnica en la que un modelo de lenguaje busca información en documentos externos antes de responder) realmente mejora la calidad de la evidencia recuperada, probado sobre cerca de 298 casos. Le sirve mucho a un médico que aprende análisis de datos porque el RAG es, hoy, la forma más práctica de combinar modelos de lenguaje con bibliografía o historias clínicas propias, y este artículo ayuda a entender si vale la pena la complejidad extra de la variante 'agéntica'.",
-      "destacado": true
-    },
-    "9e7d1fc64fdb": {
-      "resumen": "Tutorial sobre el preprocesamiento de espectros Raman (una técnica de espectroscopía usada para identificar sustancias por su interacción con la luz) y su modelado mediante mínimos cuadrados no negativos, un método estadístico para descomponer una señal en componentes conocidos. Le aporta a quien estudia análisis de datos técnicas de procesamiento de señales y modelado cuantitativo que son trasladables a otras señales biomédicas, como el electrocardiograma.",
-      "destacado": false
-    },
-    "8af5f40a65a2": {
-      "resumen": "Guía práctica sobre cómo procesar archivos JSON (formato de datos muy usado para intercambiar información estructurada) de gran tamaño en Python usando la librería ijson, que permite leerlos de a partes en lugar de cargarlos enteros en memoria. Le sirve directamente a un médico que está aprendiendo análisis de datos porque es una habilidad concreta para manejar bases de datos grandes sin que la computadora se quede sin memoria.",
-      "destacado": false
-    },
-    "562092bac9df": {
-      "resumen": "Reedición, muy comentada en Hacker News, de un ensayo de 1978 del informático Edsger Dijkstra que argumenta que programar en lenguaje natural (en vez de un lenguaje formal) es una mala idea, porque la ambigüedad del habla cotidiana se traslada directamente al código. Vale la pena leerlo hoy como contrapunto histórico al auge de 'programar en lenguaje natural' con inteligencia artificial generativa, y como recordatorio de que sigue haciendo falta pensar con precisión aunque un asistente de IA escriba el código de análisis.",
-      "destacado": false
-    },
-    "46a214f27141": {
-      "resumen": "Entrada de blog, muy comentada en Hacker News, que repasa comportamientos poco intuitivos de Docker, la herramienta que empaqueta aplicaciones y sus dependencias en contenedores aislados. Le sirve a un médico que está aprendiendo análisis de datos porque Docker es clave para reproducir un mismo entorno de trabajo (mismas versiones de Python y librerías) en cualquier computadora, y conocer sus particularidades ahorra horas de depuración.",
-      "destacado": false
-    },
-    "76226e9df68a": {
-      "resumen": "Proyecto que filtra el contenido de Wikipedia (la enciclopedia colaborativa) para mostrar solo los artículos de lugares a los que se puede llegar caminando en media hora desde la ubicación del usuario. Le aporta a quien estudia análisis de datos un ejemplo concreto de filtrado geoespacial: cómo cruzar coordenadas, distancias y una base de datos grande para quedarse solo con la información relevante a un contexto puntual.",
-      "destacado": false
-    },
-    "1360bd8eb5a8": {
-      "resumen": "Artículo de investigación de Anthropic que muestra cómo los modelos de lenguaje de gran escala (LLM, large language models) están haciendo viable, a mayor escala, la verificación formal de software (demostrar matemáticamente que un programa cumple ciertas propiedades, algo históricamente muy costoso en tiempo humano). Le interesa a un médico que aprende análisis de datos porque ilustra un uso de la inteligencia artificial generativa más riguroso que simplemente generar código: usarla para chequear que el código y los modelos sean correctos, no solo que 'funcionen'.",
-      "destacado": false
-    },
-    "b126341d1797": {
-      "resumen": "Un repaso de las alternativas que evalúa Felipe Contepomi para la gira de noviembre de Los Pumas."
-    },
     "fde6b5bbdc01": {
       "resumen": "Se confirmaron los árbitros que dirigirán la segunda fase del Nations Championship de rugby."
+    },
+    "21c515a93a6a": {
+      "resumen": "Repaso de un número de European Heart Journal (Revista Europea del Corazón) centrado en las guías de rehabilitación cardíaca y en la prevención cardiovascular vinculada al estilo de vida (alimentación, actividad física, tabaquismo). Vale la pena mirarlo como mapa de actualización en prevención secundaria, más que como un estudio puntual con resultados propios.",
+      "destacado": false
+    },
+    "22580c56a54b": {
+      "resumen": "Carta de respuesta (Reply) de Wazni y colaboradores en The New England Journal of Medicine (Revista de Medicina de Nueva Inglaterra), dentro de un intercambio de correspondencia sobre la ablación por campo pulsado (una técnica que usa pulsos eléctricos, en vez de calor o frío, para aislar las venas pulmonares) en la fibrilación auricular persistente. Vale la pena seguirlo como parte del debate metodológico en curso sobre esta técnica relativamente nueva.",
+      "destacado": false
+    },
+    "845e49f31cb6": {
+      "resumen": "Carta publicada en The New England Journal of Medicine (Revista de Medicina de Nueva Inglaterra) por Chang y colaboradores sobre la ablación por campo pulsado (pulsed field ablation, una técnica que aísla las venas pulmonares con pulsos eléctricos en vez de frío o calor) en la fibrilación auricular persistente. Vale la pena mirarla porque esta modalidad de ablación viene ganando terreno por ser más rápida y, en teoría, más segura que las técnicas térmicas clásicas.",
+      "destacado": false,
+      "analisis": "Diseño: Carta de correspondencia en The New England Journal of Medicine que aporta datos sobre ablación por campo pulsado en fibrilación auricular persistente; por el formato (carta con réplica posterior), probablemente se trate de un subanálisis o una serie de casos adicional al cuerpo principal de evidencia sobre esta técnica, sin que el título precise aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con fibrilación auricular persistente (la forma de arritmia que no revierte espontáneamente y dura más de 7 días) sometidos a ablación por campo pulsado; no se detallan criterios de inclusión o exclusión.\nIntervención: Ablación por campo pulsado (aislamiento de venas pulmonares mediante pulsos eléctricos), sin que el título aclare el comparador exacto (posiblemente ablación térmica clásica con radiofrecuencia o crioablación).\nResultados: No disponibles; no se pudo acceder al abstract completo y el título no incluye cifras de eficacia (recurrencia de arritmia) ni de seguridad.\nLimitaciones: Al tratarse de una carta de correspondencia y no del artículo original completo, el tamaño muestral y el seguimiento suelen ser acotados, y la falta de abstract impide valorar la solidez metodológica.\nMensaje: Se suma al cuerpo de evidencia en construcción sobre la ablación por campo pulsado en fibrilación auricular persistente, un escenario más desafiante que la fibrilación paroxística, donde esta técnica ya tiene más terreno ganado.\nNota: análisis sin acceso al abstract."
+    },
+    "1fd8476b4493": {
+      "resumen": "Anuncio del lanzamiento de Kimi K3.1 Pro y su variante Highspeed, nuevos modelos de lenguaje de gran escala (LLM, large language models) de la empresa china Moonshot AI. Le sirve a un médico que aprende análisis de datos para seguir la carrera de modelos cada vez más rápidos y económicos, que amplían las opciones disponibles para tareas de análisis asistido por inteligencia artificial sin depender de un solo proveedor.",
+      "destacado": false
+    },
+    "46834880ed25": {
+      "resumen": "Relato técnico de un equipo de investigadores de seguridad informática que logró comprometer un iPhone, detallando el proceso de explotación de vulnerabilidades. Le aporta a quien estudia análisis de datos una mirada sobre seguridad informática aplicada, un tema cada vez más relevante al manejar datos sensibles, como historias clínicas, en dispositivos móviles.",
+      "destacado": false
+    },
+    "acc9aee194a6": {
+      "resumen": "Hamel Husain (consultor especializado en evaluación de modelos de inteligencia artificial) plantea que para evaluar modelos de lenguaje de gran escala (LLM) siguen siendo imprescindibles las habilidades clásicas de ciencia de datos, como construir modelos de decisión simples. Le sirve mucho a un médico que se está formando en análisis de datos porque confirma que la base estadística tradicional no se vuelve obsoleta con la llegada de la inteligencia artificial generativa, sino que la complementa.",
+      "destacado": true
+    },
+    "bc98e5ee7eab": {
+      "resumen": "Artículo de la serie de estimación robusta de Towards Data Science que explica cómo ajustar curvas (con polinomios y splines, funciones matemáticas usadas para modelar tendencias) sin que los datos espurios o atípicos distorsionen el resultado. Le sirve a un médico que aprende análisis de datos porque los valores atípicos y los errores de registro son moneda corriente en las bases clínicas, y estas técnicas ayudan a no sacar conclusiones erróneas por eso.",
+      "destacado": false
+    },
+    "9efad741cc64": {
+      "resumen": "Hilo de discusión en la comunidad r/datascience sobre qué se entiende exactamente por 'modelo predictivo de inteligencia artificial', un término que se usa de forma bastante laxa en la industria. Le sirve a un médico que aprende análisis de datos para ganar precisión conceptual y distinguir un modelo estadístico predictivo clásico de lo que el marketing suele llamar simplemente 'inteligencia artificial'.",
+      "destacado": false
+    },
+    "84920a118222": {
+      "resumen": "Artículo de Towards Data Science sobre la asimetría (skewness) y la curtosis (kurtosis), dos medidas estadísticas de momentos de orden superior que describen la forma de una distribución de datos, y su uso en aprendizaje automático (machine learning). Le sirve a un médico que aprende análisis de datos porque entender la forma real de la distribución de una variable clínica (por ejemplo, si tiene colas largas) es clave antes de aplicar cualquier test estadístico o modelo.",
+      "destacado": false
+    },
+    "7d49eb0d766e": {
+      "resumen": "Nota de KDnuggets que desglosa qué buscan en la práctica las empresas cuando piden 'experiencia en inteligencia artificial' en una búsqueda laboral, más allá de la frase genérica. Le sirve a un médico en transición hacia el análisis de datos para orientar mejor qué habilidades concretas conviene priorizar al armar su perfil.",
+      "destacado": false
+    },
+    "653084f2277b": {
+      "resumen": "Lanzamiento de la versión 4.1.0 de OpenSSL, la biblioteca de criptografía de código abierto que subyace a la mayoría de las conexiones seguras (HTTPS) de internet. Es una nota técnica de infraestructura; le aporta a quien estudia análisis de datos un recordatorio de la importancia de mantener actualizadas las dependencias de seguridad en cualquier entorno donde se procesen datos sensibles.",
+      "destacado": false
+    },
+    "20e5d0447563": {
+      "resumen": "Artículo de Towards Data Science que introduce el concepto de 'dimensión efectiva' para explicar por qué la cantidad de parámetros de un modelo no equivale a su complejidad real, y qué revela sobre redundancia y capacidad de generalización. Le sirve a un médico que aprende análisis de datos para entender, más allá del tamaño de un modelo, qué tan propenso está a sobreajustarse (overfitting) a los datos de entrenamiento.",
+      "destacado": false
+    },
+    "6df70d5b9a00": {
+      "resumen": "Repaso de KDnuggets de cinco agentes de inteligencia artificial gratuitos para programar en 2026, incluyendo opciones con cuota gratuita de modelos como Gemini. Le sirve a un médico que está aprendiendo análisis de datos para explorar herramientas accesibles que ayudan a escribir y depurar código de análisis sin pagar por el acceso a una API.",
+      "destacado": false
+    },
+    "cec4896e81f4": {
+      "resumen": "El jugador entrerriano Kremer fue convocado a Los Pumas para la concentración de preparación en Londres."
+    },
+    "d0760dce9e76": {
+      "resumen": "El jugador de Los Pumas Tute Moroni habló sobre los golpes que se naturalizan en el rugby, la nostalgia de estar lejos de casa y el orgullo de representar a la selección."
     }
   }
 }

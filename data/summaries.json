@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T10:05:05Z",
+  "generated_at": "2026-10-24T22:05:08Z",
   "summaries": {
     "be0b52508819": {
       "resumen": "Nota de TCTMD (medio especializado en cardiología intervencionista) sobre un estudio que detectó signos tempranos de disfunción vascular y cardiorrespiratoria en usuarios habituales de cigarrillos electrónicos (vapeadores), antes incluso de que aparezcan síntomas clínicos. Vale la pena mirarlo porque el vapeo se expandió como alternativa supuestamente \"más segura\" al cigarrillo tradicional, y esta evidencia suma a la discusión sobre su impacto cardiovascular real a mediano plazo.",
@@ -45,10 +45,6 @@
       "resumen": "Revisión publicada en JACC sobre la miocardiopatía auricular (deterioro estructural y funcional de la aurícula) en el contexto de la miocardiopatía hipertrófica, describiendo su evolución desde un estado compensador hasta el desarrollo de fibrilación auricular. Vale la pena mirarla porque ordena el conocimiento actual sobre un mecanismo que explica buena parte del riesgo arrítmico y embólico de estos pacientes.",
       "destacado": false
     },
-    "0ac194e7dd21": {
-      "resumen": "Publicación en Hacker News sobre 'http2shell', una vulnerabilidad de ejecución remota de código (RCE, remote code execution) que afecta a librerías HTTP usadas en Node.js, Python y otros lenguajes. Le aporta a un médico que aprende análisis de datos una señal de alerta sobre seguridad: muchas herramientas de ciencia de datos dependen de esas mismas librerías, así que conviene mantenerlas actualizadas.",
-      "destacado": false
-    },
     "ece6c921b830": {
       "resumen": "Simon Willison (desarrollador especializado en inteligencia artificial) comparte un experimento en el que le pidió a Claude Opus que construyera una aplicación capaz de 'pintar' una versión de una foto en pocos segundos, simulando pinceladas sobre un lienzo digital. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de la rapidez con que un modelo de lenguaje de gran escala (LLM) puede generar código funcional a partir de una consigna simple, una habilidad trasladable a tareas propias de análisis.",
       "destacado": false
@@ -57,42 +53,46 @@
       "resumen": "Hilo de discusión en la comunidad r/datascience sobre cuándo es válido eliminar valores atípicos (outliers) de un conjunto de datos y cuándo esa decisión puede introducir sesgos. Le sirve mucho a un médico que aprende análisis de datos porque en las bases clínicas los outliers pueden ser errores de registro o, por el contrario, pacientes genuinamente distintos, y diferenciarlos es clave antes de excluirlos de un análisis.",
       "destacado": false
     },
-    "f91eeafcc1ba": {
-      "resumen": "Presentación en Hacker News de un rastreador de CVE (Common Vulnerabilities and Exposures, el catálogo estándar de vulnerabilidades de seguridad informática conocidas). Le aporta a quien se está formando en análisis de datos una herramienta más para monitorear riesgos de seguridad en el software y las librerías que usa a diario para procesar datos.",
-      "destacado": false
-    },
     "2e71264ea893": {
       "resumen": "Simon Willison repasa el lanzamiento de Kimi K3.1 Pro, el nuevo modelo de lenguaje de gran escala (LLM) de la empresa china Moonshot AI, disponible por ahora solo vía API y con una versión 'Highspeed' más rápida. Le sirve a un médico que aprende análisis de datos para seguir de cerca la carrera de modelos cada vez más accesibles, que ensanchan las opciones para automatizar tareas de análisis sin depender de un solo proveedor.",
-      "destacado": false
-    },
-    "2ca67924f9fc": {
-      "resumen": "Presentación en Hacker News de Dessa, un modelo conversacional de la empresa Block entrenado únicamente con audio de voz, sin pasar por texto escrito. Le sirve a un médico que aprende análisis de datos para conocer enfoques alternativos de entrenamiento de modelos de inteligencia artificial, relevantes para quien piense en aplicaciones de voz en el ámbito clínico, como transcripción o documentación automatizada.",
-      "destacado": false
-    },
-    "1fd8476b4493": {
-      "resumen": "Anuncio del lanzamiento de Kimi K3.1 Pro y su variante Highspeed, nuevos modelos de lenguaje de gran escala (LLM, large language models) de la empresa china Moonshot AI. Le sirve a un médico que aprende análisis de datos para seguir la carrera de modelos cada vez más rápidos y económicos, que amplían las opciones disponibles para tareas de análisis asistido por inteligencia artificial sin depender de un solo proveedor.",
-      "destacado": false
-    },
-    "acc9aee194a6": {
-      "resumen": "Hamel Husain (consultor especializado en evaluación de modelos de inteligencia artificial) plantea que para evaluar modelos de lenguaje de gran escala (LLM) siguen siendo imprescindibles las habilidades clásicas de ciencia de datos, como construir modelos de decisión simples. Le sirve mucho a un médico que se está formando en análisis de datos porque confirma que la base estadística tradicional no se vuelve obsoleta con la llegada de la inteligencia artificial generativa, sino que la complementa.",
-      "destacado": true
-    },
-    "bc98e5ee7eab": {
-      "resumen": "Artículo de la serie de estimación robusta de Towards Data Science que explica cómo ajustar curvas (con polinomios y splines, funciones matemáticas usadas para modelar tendencias) sin que los datos espurios o atípicos distorsionen el resultado. Le sirve a un médico que aprende análisis de datos porque los valores atípicos y los errores de registro son moneda corriente en las bases clínicas, y estas técnicas ayudan a no sacar conclusiones erróneas por eso.",
-      "destacado": false
-    },
-    "84920a118222": {
-      "resumen": "Artículo de Towards Data Science sobre la asimetría (skewness) y la curtosis (kurtosis), dos medidas estadísticas de momentos de orden superior que describen la forma de una distribución de datos, y su uso en aprendizaje automático (machine learning). Le sirve a un médico que aprende análisis de datos porque entender la forma real de la distribución de una variable clínica (por ejemplo, si tiene colas largas) es clave antes de aplicar cualquier test estadístico o modelo.",
       "destacado": false
     },
     "ab7af365fdda": {
       "resumen": "El back de Los Pumas se lesionó jugando para Bath en la Premiership inglesa, en el partido ante Gloucester."
     },
-    "3b0aa465f3d5": {
-      "resumen": "La lesión de Santiago Carreras en Inglaterra genera preocupación en Los Pumas a pocos días de la ventana de test matches de noviembre."
+    "f686687fa50f": {
+      "resumen": "Publicación en Hacker News (sitio de noticias para programadores) sobre la decisión de Roku (empresa de dispositivos de streaming) de migrar sus repositorios de desarrolladores de GitHub a GitLab, dos plataformas de control de versiones de código muy usadas en la industria. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de por qué conviene llevar los propios scripts de análisis en un repositorio versionado, independientemente de la plataforma elegida.",
+      "destacado": false
     },
-    "2d74647077d2": {
-      "resumen": "Matías Moroni habló sobre una posible fecha de retiro de Los Pumas, su lucha interna y el costo personal del alto rendimiento que la gente no suele ver."
+    "756ceeba4c4c": {
+      "resumen": "Presentación en Hacker News de FreeDNS, un servicio gratuito de DNS dinámico (sistema que traduce nombres de dominio en direcciones de internet) que permite asociar un nombre de dominio propio a un servidor sin costo. Le sirve a un médico que aprende análisis de datos si en algún momento quiere publicar un tablero (dashboard) o una aplicación de análisis propia en la web, sin pagar por un dominio.",
+      "destacado": false
+    },
+    "8cdb0e11ff68": {
+      "resumen": "Artículo de Towards Data Science que explica cómo agregar barreras de seguridad (guardrails) a un agente basado en un modelo de lenguaje de gran escala (LLM, large language model) que corre en la propia computadora, para limitar qué puede y qué no puede hacer o responder. Le sirve mucho a un médico que aprende análisis de datos porque es una guía práctica para construir herramientas propias de inteligencia artificial que analicen información clínica sin arriesgarse a respuestas inventadas o fuera de control.",
+      "destacado": true
+    },
+    "63b4bb14a43e": {
+      "resumen": "Artículo de Towards Data Science sobre el nuevo perfilador (profiler, herramienta que mide qué partes de un programa consumen más tiempo o memoria) incorporado en Python 3.15, el lenguaje de programación más usado en ciencia de datos. Le sirve a un médico que aprende análisis de datos porque entender dónde se traba un script es clave cuando los análisis empiezan a correr sobre bases de datos clínicas grandes y se vuelven lentos.",
+      "destacado": false
+    },
+    "8acda1e9f09f": {
+      "resumen": "Proyecto presentado en Hacker News (GPU-unlock) que busca mejorar la tasa de instrucciones de punto flotante de 16 bits (FP16/BF16, formatos numéricos que aceleran los cálculos de inteligencia artificial) en placas gráficas (GPU) Nvidia de la serie 3000, limitada por software de fábrica. Le sirve a un médico que aprende análisis de datos y entrena modelos de inteligencia artificial con una placa de video propia, ya que podría sacarle más rendimiento sin comprar hardware nuevo.",
+      "destacado": false
+    },
+    "6252a2c19dbe": {
+      "resumen": "Reflexión personal (de 2018, que volvió a circular en Hacker News) de un físico sobre lo contraintuitiva que sigue siendo la física cuántica (la física de las partículas subatómicas) incluso para quienes la estudian a fondo. Le sirve a un médico que aprende análisis de datos como recordatorio de que manejar con soltura las herramientas matemáticas de una disciplina, como la probabilidad y la estadística, no es lo mismo que comprender del todo qué representan, una tensión que también aparece al interpretar modelos estadísticos complejos.",
+      "destacado": false
+    },
+    "3812b4d599bb": {
+      "resumen": "Simon Willison (desarrollador que suele documentar sus experimentos programando con agentes de inteligencia artificial) publica la versión 14 de 'battledrones', un juego de drones de combate, agregando un nuevo mapa para cuatro jugadores llamado Compass Rose. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo se puede iterar rápido sobre un proyecto de software propio, sumando versiones sucesivas cada vez más completas.",
+      "destacado": false
+    },
+    "c7fd6d4637be": {
+      "resumen": "Los Pumas viajan a Londres para empezar el campamento (camp) de entrenamiento que definirá la lista de convocados para el Nations Championship."
+    },
+    "36aabecedbe6": {
+      "resumen": "Tomás Lavanini cuenta, en una nota con ESPN Fans, cómo vivió su etapa jugando en Nueva Zelanda y las diferencias de calendario del rugby respecto de Europa."
     }
   }
 }

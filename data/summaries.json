@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T22:05:08Z",
+  "generated_at": "2026-10-25T10:03:59Z",
   "summaries": {
     "be0b52508819": {
       "resumen": "Nota de TCTMD (medio especializado en cardiología intervencionista) sobre un estudio que detectó signos tempranos de disfunción vascular y cardiorrespiratoria en usuarios habituales de cigarrillos electrónicos (vapeadores), antes incluso de que aparezcan síntomas clínicos. Vale la pena mirarlo porque el vapeo se expandió como alternativa supuestamente \"más segura\" al cigarrillo tradicional, y esta evidencia suma a la discusión sobre su impacto cardiovascular real a mediano plazo.",
@@ -53,21 +53,6 @@
       "resumen": "Hilo de discusión en la comunidad r/datascience sobre cuándo es válido eliminar valores atípicos (outliers) de un conjunto de datos y cuándo esa decisión puede introducir sesgos. Le sirve mucho a un médico que aprende análisis de datos porque en las bases clínicas los outliers pueden ser errores de registro o, por el contrario, pacientes genuinamente distintos, y diferenciarlos es clave antes de excluirlos de un análisis.",
       "destacado": false
     },
-    "2e71264ea893": {
-      "resumen": "Simon Willison repasa el lanzamiento de Kimi K3.1 Pro, el nuevo modelo de lenguaje de gran escala (LLM) de la empresa china Moonshot AI, disponible por ahora solo vía API y con una versión 'Highspeed' más rápida. Le sirve a un médico que aprende análisis de datos para seguir de cerca la carrera de modelos cada vez más accesibles, que ensanchan las opciones para automatizar tareas de análisis sin depender de un solo proveedor.",
-      "destacado": false
-    },
-    "ab7af365fdda": {
-      "resumen": "El back de Los Pumas se lesionó jugando para Bath en la Premiership inglesa, en el partido ante Gloucester."
-    },
-    "f686687fa50f": {
-      "resumen": "Publicación en Hacker News (sitio de noticias para programadores) sobre la decisión de Roku (empresa de dispositivos de streaming) de migrar sus repositorios de desarrolladores de GitHub a GitLab, dos plataformas de control de versiones de código muy usadas en la industria. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de por qué conviene llevar los propios scripts de análisis en un repositorio versionado, independientemente de la plataforma elegida.",
-      "destacado": false
-    },
-    "756ceeba4c4c": {
-      "resumen": "Presentación en Hacker News de FreeDNS, un servicio gratuito de DNS dinámico (sistema que traduce nombres de dominio en direcciones de internet) que permite asociar un nombre de dominio propio a un servidor sin costo. Le sirve a un médico que aprende análisis de datos si en algún momento quiere publicar un tablero (dashboard) o una aplicación de análisis propia en la web, sin pagar por un dominio.",
-      "destacado": false
-    },
     "8cdb0e11ff68": {
       "resumen": "Artículo de Towards Data Science que explica cómo agregar barreras de seguridad (guardrails) a un agente basado en un modelo de lenguaje de gran escala (LLM, large language model) que corre en la propia computadora, para limitar qué puede y qué no puede hacer o responder. Le sirve mucho a un médico que aprende análisis de datos porque es una guía práctica para construir herramientas propias de inteligencia artificial que analicen información clínica sin arriesgarse a respuestas inventadas o fuera de control.",
       "destacado": true
@@ -76,23 +61,38 @@
       "resumen": "Artículo de Towards Data Science sobre el nuevo perfilador (profiler, herramienta que mide qué partes de un programa consumen más tiempo o memoria) incorporado en Python 3.15, el lenguaje de programación más usado en ciencia de datos. Le sirve a un médico que aprende análisis de datos porque entender dónde se traba un script es clave cuando los análisis empiezan a correr sobre bases de datos clínicas grandes y se vuelven lentos.",
       "destacado": false
     },
-    "8acda1e9f09f": {
-      "resumen": "Proyecto presentado en Hacker News (GPU-unlock) que busca mejorar la tasa de instrucciones de punto flotante de 16 bits (FP16/BF16, formatos numéricos que aceleran los cálculos de inteligencia artificial) en placas gráficas (GPU) Nvidia de la serie 3000, limitada por software de fábrica. Le sirve a un médico que aprende análisis de datos y entrena modelos de inteligencia artificial con una placa de video propia, ya que podría sacarle más rendimiento sin comprar hardware nuevo.",
-      "destacado": false
-    },
-    "6252a2c19dbe": {
-      "resumen": "Reflexión personal (de 2018, que volvió a circular en Hacker News) de un físico sobre lo contraintuitiva que sigue siendo la física cuántica (la física de las partículas subatómicas) incluso para quienes la estudian a fondo. Le sirve a un médico que aprende análisis de datos como recordatorio de que manejar con soltura las herramientas matemáticas de una disciplina, como la probabilidad y la estadística, no es lo mismo que comprender del todo qué representan, una tensión que también aparece al interpretar modelos estadísticos complejos.",
-      "destacado": false
-    },
     "3812b4d599bb": {
       "resumen": "Simon Willison (desarrollador que suele documentar sus experimentos programando con agentes de inteligencia artificial) publica la versión 14 de 'battledrones', un juego de drones de combate, agregando un nuevo mapa para cuatro jugadores llamado Compass Rose. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo se puede iterar rápido sobre un proyecto de software propio, sumando versiones sucesivas cada vez más completas.",
       "destacado": false
     },
-    "c7fd6d4637be": {
-      "resumen": "Los Pumas viajan a Londres para empezar el campamento (camp) de entrenamiento que definirá la lista de convocados para el Nations Championship."
+    "8f5707e9a13c": {
+      "resumen": "Artículo de Apricitas.io (compartido en Hacker News) que analiza la pérdida de alrededor de 200.000 empleos en medios, cine y las artes en Estados Unidos, e intenta cuantificar cuánto de esa caída es atribuible a la inteligencia artificial generativa frente a otros factores económicos. Le sirve a un médico que aprende análisis de datos porque es un ejercicio concreto de separar causalidad de correlación al evaluar el impacto de una tecnología nueva, un razonamiento trasladable a evaluar si una intervención médica realmente causa un resultado o solo coincide con él.",
+      "destacado": false
     },
-    "36aabecedbe6": {
-      "resumen": "Tomás Lavanini cuenta, en una nota con ESPN Fans, cómo vivió su etapa jugando en Nueva Zelanda y las diferencias de calendario del rugby respecto de Europa."
+    "90bf1782f390": {
+      "resumen": "Ensayo de Dan Luu (ingeniero de software reconocido en la comunidad de Hacker News) que argumenta que la industria del software suele conformarse con soluciones mediocres en lugar de apuntar a construir herramientas realmente ambiciosas. Le sirve a un médico que aprende análisis de datos como estímulo para no quedarse con el primer script que \"funciona\", sino buscar herramientas y flujos de trabajo más robustos y reutilizables para sus propios análisis.",
+      "destacado": false
+    },
+    "031828a0b81e": {
+      "resumen": "Presentación en Hacker News de un sitio experimental (\"Steal My Bitcoin\") pensado como demostración o desafío de seguridad alrededor de criptomonedas. Le aporta poco de manera directa a un médico que aprende análisis de datos, aunque sirve como curiosidad sobre cómo se diseñan experimentos públicos para poner a prueba la seguridad de un sistema.",
+      "destacado": false
+    },
+    "432187840192": {
+      "resumen": "Hilo en la comunidad r/datascience sobre la dificultad de elegir métricas en evaluaciones de ciencia de datos, en particular la tensión entre que una métrica sea \"accionable\" para el negocio y que tenga suficiente poder estadístico en plataformas tipo marketplace. Le sirve mucho a un médico que aprende análisis de datos porque la misma tensión aparece en investigación clínica: un desenlace fácil de interpretar no siempre es el que tiene la potencia estadística necesaria para detectar una diferencia real.",
+      "destacado": false
+    },
+    "998becc5b859": {
+      "resumen": "Proyecto en Hacker News que registra y transcribe mensajes de radio de alta frecuencia (emitidos en la banda de 11175 kHz) asociados a las fuerzas nucleares de Estados Unidos, mediante captura y procesamiento de señales. Le sirve a un médico que aprende análisis de datos como ejemplo curioso de cómo se capturan y estructuran señales crudas (audio, texto) para convertirlas en datos analizables, aunque el tema en sí sea ajeno a la medicina.",
+      "destacado": false
+    },
+    "91faf6fb0fc6": {
+      "resumen": "Un repaso de cómo terminó la temporada en todas las categorías de la Unión de Rugby de Buenos Aires (URBA): quiénes se consagraron campeones, quiénes ascendieron, quiénes jugarán los play offs y quiénes bajaron de categoría."
+    },
+    "8a609f8604fe": {
+      "resumen": "Los Pumas, la selección argentina de rugby, viajan a Londres para arrancar la concentración (camp) donde se definirá la lista de convocados para el Nations Championship."
+    },
+    "763ffe793b15": {
+      "resumen": "Se juega la fecha final y decisiva de la fase de ascenso del rugby de la URBA (Unión de Rugby de Buenos Aires), que define qué equipos suben de categoría."
     }
   }
 }

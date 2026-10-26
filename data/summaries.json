@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T22:04:16Z",
+  "generated_at": "2026-10-26T10:05:20Z",
   "summaries": {
     "be0b52508819": {
       "resumen": "Nota de TCTMD (medio especializado en cardiología intervencionista) sobre un estudio que detectó signos tempranos de disfunción vascular y cardiorrespiratoria en usuarios habituales de cigarrillos electrónicos (vapeadores), antes incluso de que aparezcan síntomas clínicos. Vale la pena mirarlo porque el vapeo se expandió como alternativa supuestamente \"más segura\" al cigarrillo tradicional, y esta evidencia suma a la discusión sobre su impacto cardiovascular real a mediano plazo.",
@@ -14,10 +14,6 @@
       "resumen": "Nota de TCTMD sobre un análisis que muestra que una proporción creciente de las muertes de bomberos en actividad se debe a causas cardíacas (probablemente eventos coronarios agudos) y no a traumatismos o quemaduras. Vale la pena mirarlo porque pone el foco en el estrés físico y psicológico extremo de esta profesión como factor de riesgo cardiovascular ocupacional, un ámbito poco explorado en la práctica clínica habitual.",
       "destacado": false,
       "analisis": "Diseño: No se especifica en el título; probablemente se trate de un análisis descriptivo de una base de datos o registro de muertes de bomberos en actividad, de tipo observacional retrospectivo.\nPoblación: Bomberos en actividad fallecidos en servicio, en un período de varios años; no se detallan criterios de inclusión o exclusión.\nIntervención: No aplica; es un estudio descriptivo/epidemiológico que clasifica las causas de muerte, sin intervención ni comparador terapéutico.\nResultados: No disponibles; el título indica una tendencia creciente de causas cardíacas entre las muertes en servicio, sin cifras de incidencia, razones de riesgo ni intervalos de confianza.\nLimitaciones: Al depender de registros de causas de muerte, puede haber subregistro o clasificación heterogénea de los eventos cardíacos, y el diseño descriptivo no permite establecer causalidad ni identificar los factores de riesgo específicos de cada caso.\nMensaje: Refuerza la idea de que el perfil de riesgo cardiovascular ocupacional de los bomberos merece vigilancia activa y estrategias de prevención específicas (control de factores de riesgo, aptitud física), más allá del riesgo traumático tradicionalmente asociado a la profesión.\nNota: análisis sin acceso al abstract."
-    },
-    "21c515a93a6a": {
-      "resumen": "Repaso de un número de European Heart Journal (Revista Europea del Corazón) centrado en las guías de rehabilitación cardíaca y en la prevención cardiovascular vinculada al estilo de vida (alimentación, actividad física, tabaquismo). Vale la pena mirarlo como mapa de actualización en prevención secundaria, más que como un estudio puntual con resultados propios.",
-      "destacado": false
     },
     "1e781345fcf1": {
       "resumen": "Una nota de TCTMD (medio especializado en cardiología intervencionista) sobre un análisis que sugiere que la 'tele-prehabilitación' (programas de ejercicio y optimización física supervisados a distancia, antes de una cirugía) sería costo-efectiva en pacientes que van a cirugía cardíaca. Vale la pena mirarlo porque la prehabilitación viene ganando lugar para reducir complicaciones postoperatorias, y una modalidad remota facilitaría el acceso en pacientes que no pueden trasladarse a un centro de rehabilitación.",
@@ -49,32 +45,8 @@
       "resumen": "Artículo de Towards Data Science que explica cómo agregar barreras de seguridad (guardrails) a un agente basado en un modelo de lenguaje de gran escala (LLM, large language model) que corre en la propia computadora, para limitar qué puede y qué no puede hacer o responder. Le sirve mucho a un médico que aprende análisis de datos porque es una guía práctica para construir herramientas propias de inteligencia artificial que analicen información clínica sin arriesgarse a respuestas inventadas o fuera de control.",
       "destacado": true
     },
-    "3812b4d599bb": {
-      "resumen": "Simon Willison (desarrollador que suele documentar sus experimentos programando con agentes de inteligencia artificial) publica la versión 14 de 'battledrones', un juego de drones de combate, agregando un nuevo mapa para cuatro jugadores llamado Compass Rose. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo se puede iterar rápido sobre un proyecto de software propio, sumando versiones sucesivas cada vez más completas.",
-      "destacado": false
-    },
-    "432187840192": {
-      "resumen": "Hilo en la comunidad r/datascience sobre la dificultad de elegir métricas en evaluaciones de ciencia de datos, en particular la tensión entre que una métrica sea \"accionable\" para el negocio y que tenga suficiente poder estadístico en plataformas tipo marketplace. Le sirve mucho a un médico que aprende análisis de datos porque la misma tensión aparece en investigación clínica: un desenlace fácil de interpretar no siempre es el que tiene la potencia estadística necesaria para detectar una diferencia real.",
-      "destacado": false
-    },
     "56548f443921": {
       "resumen": "Hilo de la comunidad r/datascience donde varios profesionales cuentan qué pasos siguen revisando a mano después de que un agente de inteligencia artificial hace el análisis de datos, para no confiar ciegamente en el resultado. Le sirve mucho a un médico que aprende análisis de datos porque enumera puntos de control concretos (supuestos, valores atípicos, definiciones de métricas) antes de dar por buena una conclusión generada automáticamente.",
-      "destacado": false
-    },
-    "89e06d81e035": {
-      "resumen": "Página oficial de la Imagination Library, el programa de alfabetización infantil impulsado por Dolly Parton que envía libros gratis a niños hasta los cinco años, destacado en Hacker News por su escala. Le aporta poco de manera directa a un médico que aprende análisis de datos, aunque es un ejemplo curioso de un programa social masivo que depende de una logística de datos (direcciones, edades, envíos) bien organizada para funcionar.",
-      "destacado": false
-    },
-    "b410235c0e10": {
-      "resumen": "Nota de Hacker News sobre un caso en Oregón, Estados Unidos, donde la policía le cobra a un medio local 2,5 millones de dólares por entregar los registros públicos sobre la conducta de un solo policía, en lo que se lee como una barrera económica para frenar el pedido. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo el acceso a datos públicos puede verse trabado por costos o trámites, algo a tener en cuenta al evaluar si una base que se quiere analizar está realmente disponible.",
-      "destacado": false
-    },
-    "2db6ac785444": {
-      "resumen": "Publicación que invita a una charla en FOSDEM 2027 (encuentro europeo de software libre) sobre la resistencia a la censura de internet y la defensa de una red abierta. Le aporta poco de manera directa a un médico que aprende análisis de datos, aunque se vincula con el trasfondo de herramientas de código abierto que después se usan para analizar datos.",
-      "destacado": false
-    },
-    "1dc75a32fc6a": {
-      "resumen": "Artículo que muestra que una red neuronal convolucional (CNN, un tipo de modelo de inteligencia artificial especializado en imágenes) de diez años de antigüedad sigue superando a los modelos de lenguaje de gran escala (LLM) más avanzados en el diagnóstico de cáncer de piel. Le sirve mucho a un médico que aprende análisis de datos porque muestra que un modelo chico y entrenado para una tarea específica puede ganarle a uno gigante y genérico, una idea útil para elegir qué herramienta de inteligencia artificial conviene usar en cada problema clínico.",
       "destacado": false
     },
     "8c63d84db4aa": {
@@ -85,20 +57,51 @@
       "resumen": "Guía de Towards Data Science que describe seis patrones de arquitectura avanzados para organizar los datos de una empresa, más allá del clásico 'fragmentar y vectorizar', de modo que sirvan de base confiable para sistemas de inteligencia artificial. Le sirve a un médico que aprende análisis de datos como mapa conceptual de cómo se gobiernan y preparan los datos a gran escala antes de ponerlos a disposición de un modelo, un paso previo que suele decidir si el análisis final es útil o no.",
       "destacado": false
     },
-    "7e60686417ad": {
-      "resumen": "Aldosivi ganó y le metió presión a la pelea por no descender, mientras Deportivo Riestra quedó obligado a sumar puntos para no complicarse con el promedio."
-    },
-    "3e78f89808cc": {
-      "resumen": "Independiente y Boca empataron en un partido entretenido en Avellaneda por el Torneo Clausura 2026."
-    },
     "642a77cadf8f": {
       "resumen": "El pilar Thomas Gallo se lesionó y se suma a la lista de ausencias de Los Pumas de cara al Nations Championship."
     },
-    "fb9f0ebbd4a7": {
-      "resumen": "El jugador de Los Pumas Mateo Fossati habló sobre los valores que deja el rugby de base en los Juegos Intercolegiales."
+    "739ff78a3efa": {
+      "resumen": "Documento de consenso publicado en European Heart Journal (revista científica europea de cardiología) que presenta la Quinta Definición Universal del Infarto de Miocardio, con una actualización sobre el rol de la lipoproteína(a) —una partícula de colesterol de origen genético asociada a mayor riesgo cardiovascular— y la inflamación en el diagnóstico. Vale la pena mirarlo porque estos consensos internacionales terminan definiendo qué se considera infarto en la práctica diaria y en los ensayos clínicos.",
+      "destacado": false
     },
-    "c15600dc8a8e": {
-      "resumen": "Los Pumas viajaron a Londres con la preocupación por la lesión de Carreras y el regreso de Ledesma a la convocatoria."
+    "22580c56a54b": {
+      "resumen": "Carta de respuesta en The New England Journal of Medicine dentro del intercambio de correspondencia sobre la ablación por campo pulsado (una técnica que destruye el tejido cardíaco causante de arritmias con pulsos eléctricos, en vez de frío o calor) para la fibrilación auricular persistente. Vale la pena tenerla en cuenta como parte del debate en curso sobre esta técnica, más que como un estudio nuevo en sí mismo.",
+      "destacado": false
+    },
+    "845e49f31cb6": {
+      "resumen": "Estudio publicado en The New England Journal of Medicine sobre la ablación por campo pulsado (una técnica que usa pulsos eléctricos, en lugar de frío o calor, para destruir el tejido cardíaco causante de arritmias) en pacientes con fibrilación auricular persistente. Vale la pena mirarlo porque esta tecnología se viene imponiendo como alternativa más rápida y segura a la ablación térmica convencional.",
+      "destacado": false,
+      "analisis": "Diseño: No se detalla en el título; por tratarse de un artículo original en NEJM sobre ablación por campo pulsado, probablemente sea un ensayo clínico (aleatorizado o de un solo brazo) o un registro multicéntrico, sin datos de número de centros ni de pacientes incluidos.\nPoblación: Pacientes con fibrilación auricular persistente candidatos a ablación; no se detallan criterios de inclusión o exclusión.\nIntervención: Ablación por campo pulsado, presumiblemente comparada contra ablación térmica convencional (radiofrecuencia o crioablación) u otro abordaje estándar.\nResultados: No disponibles; el título no aporta cifras de eficacia (recurrencia de arritmia) ni de seguridad, y no se pudo acceder al abstract (la red eutils.ncbi.nlm.nih.gov está bloqueada para esta sesión).\nLimitaciones: Sin el abstract no es posible evaluar el diseño exacto, el tamaño muestral, el tiempo de seguimiento ni la definición de éxito del procedimiento.\nMensaje: Si confirma eficacia y seguridad similares o superiores a la ablación térmica, respaldaría la adopción más amplia del campo pulsado para la fibrilación auricular persistente, un escenario más desafiante que la paroxística.\nNota: análisis sin acceso al abstract."
+    },
+    "327d10e7a9e4": {
+      "resumen": "Hilo semanal de la comunidad r/datascience donde quienes están entrando o cambiando de carrera hacia ciencia de datos hacen preguntas sobre primeros pasos, estudios y búsqueda laboral. Le sirve a un médico que aprende análisis de datos como termómetro de las dudas más comunes de quienes recién arrancan en el campo, y como lugar para hacer sus propias preguntas.",
+      "destacado": false
+    },
+    "a2181227bfa3": {
+      "resumen": "Publicación en Hacker News (comunidad de tecnología) que presenta TitleArt, una herramienta web que convierte texto en imágenes con la estética gráfica de internet de 1997. Aporta poco de manera directa a un médico que aprende análisis de datos, aunque sirve como ejemplo simple de una aplicación web chica construida y publicada por una sola persona.",
+      "destacado": false
+    },
+    "0fe639e32194": {
+      "resumen": "Nota de Hacker News sobre declaraciones del director ejecutivo de IBM que afirma que los modelos de pesos abiertos (open weight: aquellos cuyos parámetros internos se pueden descargar y correr en servidores propios) ya alcanzaron una calidad y un costo que los hacen viables para instalarse dentro de la infraestructura propia de una empresa (on-premise), en vez de depender de la nube. Le sirve a un médico que aprende análisis de datos porque es relevante para pensar el uso de inteligencia artificial con datos clínicos sensibles, donde correr el modelo en un servidor propio evita enviar información de pacientes a terceros.",
+      "destacado": false
+    },
+    "6adc91551f3b": {
+      "resumen": "Nota de Hacker News de un desarrollador que cuenta cómo sacar el framework Next.js de su blog y simplificar el sitio le permitió alcanzar el puntaje máximo en todas las categorías de Lighthouse (la herramienta de Google que mide velocidad y calidad de una página web). Aporta poco de manera directa a un médico que aprende análisis de datos, aunque ilustra el principio de que simplificar una herramienta suele rendir mejor que sumarle capas de complejidad innecesaria.",
+      "destacado": false
+    },
+    "3be5a846bb10": {
+      "resumen": "Publicación técnica en Hacker News que documenta el proceso de adaptar el videojuego F-Zero X, original de Nintendo 64, para que corra en la consola portátil Nintendo 3DS. Aporta poco de manera directa a un médico que aprende análisis de datos, aunque es un ejemplo detallado de ingeniería inversa y optimización de software para hardware limitado.",
+      "destacado": false
+    },
+    "0c0ce1d91251": {
+      "resumen": "Simon Willison (desarrollador que documenta sus experimentos construyendo herramientas con asistencia de inteligencia artificial) presenta Seam Cutter, una herramienta web muy específica para recortar imágenes que permite deslizar dos mitades de una foto una respecto de la otra tras un corte horizontal o vertical. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo construir rápido una herramienta chica y de uso muy puntual con ayuda de inteligencia artificial, en vez de buscar siempre una solución genérica.",
+      "destacado": false
+    },
+    "a0e0d02fc828": {
+      "resumen": "GEBA se impuso ante San Cirano, que de todos modos ya tiene la cabeza puesta en los playoffs."
+    },
+    "517d3af40e91": {
+      "resumen": "El entrenador Felipe Contepomi sumó tres caras nuevas a la lista de Los Pumas para la ventana de Londres."
     }
   }
 }

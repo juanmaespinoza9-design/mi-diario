@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T10:05:29Z",
+  "generated_at": "2026-10-27T22:05:23Z",
   "summaries": {
     "be0b52508819": {
       "resumen": "Nota de TCTMD (medio especializado en cardiología intervencionista) sobre un estudio que detectó signos tempranos de disfunción vascular y cardiorrespiratoria en usuarios habituales de cigarrillos electrónicos (vapeadores), antes incluso de que aparezcan síntomas clínicos. Vale la pena mirarlo porque el vapeo se expandió como alternativa supuestamente \"más segura\" al cigarrillo tradicional, y esta evidencia suma a la discusión sobre su impacto cardiovascular real a mediano plazo.",
@@ -10,25 +10,12 @@
       "resumen": "Boletín mensual de TCTMD con un resumen de las noticias más relevantes de cardiología intervencionista para el equipo cardiovascular, correspondiente a octubre de 2026. Vale la pena mirarlo como pantallazo rápido de la actualidad del área, más que como un estudio individual con resultados propios.",
       "destacado": false
     },
-    "80856f1bd0f8": {
-      "resumen": "Nota de TCTMD sobre un análisis que muestra que una proporción creciente de las muertes de bomberos en actividad se debe a causas cardíacas (probablemente eventos coronarios agudos) y no a traumatismos o quemaduras. Vale la pena mirarlo porque pone el foco en el estrés físico y psicológico extremo de esta profesión como factor de riesgo cardiovascular ocupacional, un ámbito poco explorado en la práctica clínica habitual.",
-      "destacado": true,
-      "analisis": "Diseño: No se especifica en el título; probablemente se trate de un análisis descriptivo de una base de datos o registro de muertes de bomberos en actividad, de tipo observacional retrospectivo.\nPoblación: Bomberos en actividad fallecidos en servicio, en un período de varios años; no se detallan criterios de inclusión o exclusión.\nIntervención: No aplica; es un estudio descriptivo/epidemiológico que clasifica las causas de muerte, sin intervención ni comparador terapéutico.\nResultados: No disponibles; el título indica una tendencia creciente de causas cardíacas entre las muertes en servicio, sin cifras de incidencia, razones de riesgo ni intervalos de confianza.\nLimitaciones: Al depender de registros de causas de muerte, puede haber subregistro o clasificación heterogénea de los eventos cardíacos, y el diseño descriptivo no permite establecer causalidad ni identificar los factores de riesgo específicos de cada caso.\nMensaje: Refuerza la idea de que el perfil de riesgo cardiovascular ocupacional de los bomberos merece vigilancia activa y estrategias de prevención específicas (control de factores de riesgo, aptitud física), más allá del riesgo traumático tradicionalmente asociado a la profesión.\nNota: análisis sin acceso al abstract."
-    },
     "bb6fed768e81": {
       "resumen": "Carta de respuesta publicada en JACC (Journal of the American College of Cardiology, revista de la Sociedad Americana de Cardiología) dentro de un intercambio de correspondencia sobre las trayectorias de remodelado del músculo cardíaco y el riesgo de eventos cardiovasculares mayores (MACE, por sus siglas en inglés) en pacientes con miocardiopatía hipertrófica (HCM, por sus siglas en inglés) fenotípicamente leve. Vale la pena tenerlo en cuenta como parte del debate científico en curso sobre cómo seguir a estos pacientes, más que como un estudio nuevo en sí mismo.",
       "destacado": false
     },
     "50915b3a5b88": {
       "resumen": "Carta de comentario en JACC que discute cómo alinear en el tiempo las trayectorias de remodelado cardíaco en pacientes con miocardiopatía hipertrófica (HCM) leve, dentro del mismo intercambio de correspondencia sobre riesgo de eventos cardiovasculares mayores. Vale la pena mirarlo porque toca un problema metodológico clave al estudiar enfermedades de evolución lenta: cómo comparar pacientes que están en distintas etapas de su enfermedad al momento de la evaluación.",
-      "destacado": false
-    },
-    "27b261dc9c42": {
-      "resumen": "Comentario editorial en JACC que reflexiona sobre el salto conceptual entre describir trayectorias de riesgo y proponer puntos de valoración subrogados (marcadores que reemplazan a un desenlace clínico duro) en la miocardiopatía hipertrófica leve. Vale la pena mirarlo porque plantea una discusión de fondo sobre qué tan confiables son esos marcadores subrogados para guiar decisiones clínicas.",
-      "destacado": false
-    },
-    "05c67542db0a": {
-      "resumen": "Revisión publicada en JACC sobre la miocardiopatía auricular (deterioro estructural y funcional de la aurícula) en el contexto de la miocardiopatía hipertrófica, describiendo su evolución desde un estado compensador hasta el desarrollo de fibrilación auricular. Vale la pena mirarla porque ordena el conocimiento actual sobre un mecanismo que explica buena parte del riesgo arrítmico y embólico de estos pacientes.",
       "destacado": false
     },
     "739ff78a3efa": {
@@ -43,54 +30,75 @@
       "resumen": "Nota de TCTMD que anticipa los temas que más va a dar que hablar en el congreso anual de la American Heart Association (AHA, Asociación Americana del Corazón) 2026. Vale la pena mirarla como guía rápida de qué estudios y sesiones conviene seguir de cerca cuando se difundan los resultados del congreso.",
       "destacado": false
     },
-    "34adadfb171a": {
-      "resumen": "Simon Willison (desarrollador que documenta experimentos con inteligencia artificial) cita una reflexión de Jason Koebler sobre cómo, ante la falta de soporte humano de las grandes plataformas tecnológicas, cada vez más gente recurre a ChatGPT para resolver problemas técnicos cotidianos, aunque el asistente no siempre tenga la respuesta correcta. Le sirve a un médico que aprende análisis de datos para pensar los límites de delegar en un modelo de lenguaje preguntas que requieren verificación con una fuente humana u oficial.",
+    "6c0b100a4d4e": {
+      "resumen": "Nota de TCTMD que repasa un compendio en tres partes publicado por varias sociedades científicas sobre la salud cardiovascular de la mujer. Vale la pena mirarlo porque sintetiza recomendaciones actualizadas sobre un área históricamente subdiagnosticada y subtratada en cardiología.",
       "destacado": false
     },
-    "ada2bb98c069": {
-      "resumen": "Hilo de la comunidad r/datascience donde alguien cuenta que cometió un error al poner un modelo de aprendizaje automático (machine learning) en producción y pide consejo para manejar la ansiedad y aprender del incidente. Le sirve a un médico que aprende análisis de datos porque normaliza los errores al llevar un modelo a un entorno real y muestra cómo la comunidad aconseja documentar, avisar a tiempo y poner controles para que no se repita.",
+    "81ee757dd6a5": {
+      "resumen": "Fe de erratas publicada en Circulation (revista científica de la Asociación Americana del Corazón) sobre el ensayo clínico aleatorizado por clusters TIME-HF, que evaluó en India un modelo de cuidado colaborativo coordinado por enfermería y con apoyo digital para reducir la internación y la mortalidad en pacientes con insuficiencia cardíaca. Vale la pena tenerlo en cuenta como referencia bibliográfica corregida del estudio original, más que como un hallazgo nuevo.",
       "destacado": false
     },
-    "2693f45a7074": {
-      "resumen": "Publicación en Hacker News sobre el Protocolo de Servidor de Tipos (Type Server Protocol), una propuesta de Microsoft para estandarizar cómo los editores de código consultan información de tipos en distintos lenguajes de programación. Aporta poco de manera directa a un médico que aprende análisis de datos, salvo como ejemplo de cómo se estandarizan las herramientas de programación que después facilitan escribir código más confiable.",
+    "832d0b0721b5": {
+      "resumen": "Fe de erratas en Circulation sobre un trabajo de ciencia básica que describe cómo la proteína METTL7A, sensible a las fuerzas mecánicas del endotelio, regula la metilación interna m7G del ARN mensajero (la molécula que lleva la información genética para fabricar proteínas) y protege contra la aterosclerosis. Vale la pena tenerlo en cuenta como referencia corregida de un mecanismo molecular en investigación sobre aterosclerosis, sin implicancia clínica inmediata.",
       "destacado": false
     },
-    "0096190bc5a9": {
-      "resumen": "Artículo de Towards Data Science que analiza qué elementos hacen que un relato escrito por inteligencia artificial se sienta artificial o \"raro\" para el lector, y cómo convertir esa sensación en pistas concretas de análisis de texto. Le sirve a un médico que aprende análisis de datos porque ejemplifica cómo transformar una percepción subjetiva en variables medibles, una habilidad central del análisis de datos aplicado a texto.",
+    "f00b6356c433": {
+      "resumen": "Artículo de revisión crítica en Circulation, firmado por Milton Packer, sobre los mecanismos biológicos y la evidencia de ensayos clínicos con moduladores de la señalización del receptor de activina tipo II en pacientes con insuficiencia cardíaca con fracción de eyección preservada (HFpEF, por sus siglas en inglés) e hipertensión pulmonar. Vale la pena mirarlo porque repasa una vía terapéutica emergente, como los inhibidores de activina (por ejemplo el sotatercept), en un escenario clínico todavía con pocas opciones de tratamiento.",
       "destacado": false
     },
-    "cd8fe330b114": {
-      "resumen": "Artículo de Towards Data Science que explora cómo las redes neuronales (un tipo de modelo de aprendizaje automático inspirado en el cerebro) se están usando para predecir y proteger estados cuánticos de superposición, en referencia al experimento mental del gato de Schrödinger. Le sirve a un médico que aprende análisis de datos como ejemplo de aplicación de redes neuronales a un problema de física compleja, más allá del uso habitual en datos tabulares.",
+    "9dcef14f1ec7": {
+      "resumen": "Estudio publicado en Circulation que analiza la variación de precios en la angioplastia coronaria percutánea (PCI, por sus siglas en inglés) realizada en forma ambulatoria en Estados Unidos. Vale la pena mirarlo porque pone números a una discusión creciente sobre la variabilidad y la transparencia de costos en los procedimientos cardiovasculares.",
+      "destacado": true,
+      "analisis": "Diseño: Por el título se trataría de un estudio observacional retrospectivo que analiza bases de datos de facturación o reclamos para describir la variación de precios en procedimientos de PCI ambulatoria; no se especifican el número de centros ni de pacientes.\nPoblación: Pacientes sometidos a PCI en modalidad ambulatoria (fuera de la internación convencional); no se detallan criterios de inclusión o exclusión.\nIntervención: No hay una intervención comparativa asignada; se trata de un análisis descriptivo de precios entre distintos proveedores, centros o aseguradoras.\nResultados: No disponibles; el título solo señala la existencia de variación de precios, sin cifras concretas, razones de riesgo ni intervalos de confianza.\nLimitaciones: Al depender de bases administrativas o de facturación, puede haber heterogeneidad en cómo se definen y reportan los precios, y el diseño descriptivo no permite identificar las causas específicas de la variación observada.\nMensaje: Si se confirma una variación relevante, sumaría argumentos a favor de una mayor transparencia de precios en los procedimientos cardiovasculares ambulatorios, un tema cada vez más presente en los sistemas de salud.\nNota: análisis sin acceso al abstract."
+    },
+    "881bc2623d75": {
+      "resumen": "El seleccionado argentino sigue entrenando en Inglaterra, pero sufre dos bajas más: Chocabares no estará disponible y se confirmó que Santiago Carreras tiene rotura de ligamentos."
+    },
+    "8436c2c2c55b": {
+      "resumen": "El seleccionado de seven ya conoce a sus rivales para el arranque del Circuito Mundial de rugby, que se jugará en Dubai."
+    },
+    "ee9b66ea6f5d": {
+      "resumen": "A casi un año del Mundial de Rugby 2027, el seleccionado argentino que se entrena en Londres sufrió una mala noticia adicional."
+    },
+    "a9c65cb82822": {
+      "resumen": "Simon Willison (desarrollador conocido por documentar experimentos con inteligencia artificial) cuenta cómo hackeó la credencial de una conferencia tecnológica, que venía con una pantalla a color tipo Game Boy Color, para correr sus propios programas. Le aporta a un médico que se mete en análisis de datos como ejemplo lúdico de programación de bajo nivel y de cultura hacker, más que por contenido de ciencia de datos en sí.",
       "destacado": false
     },
-    "51b6dc021077": {
-      "resumen": "OpenAI presentó GPT-6.1 Terra, su nuevo modelo de inteligencia artificial (IA), con el foco puesto en el razonamiento visual y en el manejo directo de una computadora (control de mouse y teclado por parte de la IA). Para un médico que se mete en análisis de datos, marca hacia dónde va la próxima generación de herramientas: asistentes que no solo escriben código, sino que también interpretan imágenes (como gráficos o estudios) y ejecutan tareas por su cuenta.",
+    "068ca2c5cfac": {
+      "resumen": "Notas de la versión 1.4.0 de Ghostty, un emulador de terminal moderno muy comentado en Hacker News. Le sirve a un médico que aprende análisis de datos como referencia de herramientas de línea de comandos cada vez más usadas para trabajar con código, bases de datos y scripts.",
+      "destacado": false
+    },
+    "099c4912233a": {
+      "resumen": "Nota de Gizmodo (vía Hacker News) sobre el uso policial de inteligencia artificial para identificar conductas de manejo consideradas \"sospechosas\" y habilitar controles vehiculares. Le sirve a un médico que aprende análisis de datos para pensar los riesgos de sesgo y falsos positivos cuando un algoritmo predictivo se usa para tomar decisiones sobre personas.",
+      "destacado": false
+    },
+    "18198893af72": {
+      "resumen": "Proyecto que formaliza en Lean (un asistente de demostración matemática) la clasificación de los grupos simples finitos, uno de los teoremas más extensos de la matemática moderna. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo la verificación formal automatizada empieza a validar resultados matemáticos complejos, un enfoque de rigor que también se aplica a software crítico.",
+      "destacado": false
+    },
+    "a044912b52ff": {
+      "resumen": "Nota de Futurism (vía Hacker News) sobre recortes importantes en la división de inteligencia artificial de Amazon, tras resultados considerados insatisfactorios con su modelo Nova. Le sirve a un médico que aprende análisis de datos como contrapeso al entusiasmo generalizado por la IA: ni todas las apuestas corporativas en este terreno están funcionando.",
+      "destacado": false
+    },
+    "594f22cddaf2": {
+      "resumen": "Artículo de Towards Data Science que describe un experimento en el que el autor introdujo fallas deliberadas en un agente de inteligencia artificial que navega páginas web, para ver si un control automático simple detectaba los errores. Le sirve a un médico que aprende análisis de datos porque muestra, con un ejemplo concreto, por qué validar la salida de un sistema de inteligencia artificial es tan difícil como construir el sistema mismo.",
+      "destacado": false
+    },
+    "28dc7898380c": {
+      "resumen": "Artículo de Towards Data Science que propone una suerte de separación de poderes, similar a la de un sistema político, para supervisar y controlar a los agentes autónomos de inteligencia artificial. Le sirve a un médico que aprende análisis de datos para pensar en mecanismos de control cuando estas herramientas empiecen a tomar decisiones por sí solas en el trabajo diario.",
+      "destacado": false
+    },
+    "99067de021a3": {
+      "resumen": "Artículo de Towards Data Science que plantea un marco para seguir siendo valioso profesionalmente a medida que la inteligencia artificial se vuelve más capaz, en un contexto donde cada vez delegamos más decisiones y razonamiento en estas herramientas. Le sirve a un médico que aprende análisis de datos para pensar qué habilidades propias vale la pena seguir cultivando en lugar de delegarlas por completo.",
+      "destacado": false
+    },
+    "9be2b97de1a7": {
+      "resumen": "Artículo de KDnuggets que explica qué es Gemini Omni, el modelo multimodal de Google capaz de generar contenido a partir de combinaciones de texto, imagen, audio y video, junto con sus costos y cómo se compara con otros modelos. Le sirve a un médico que aprende análisis de datos como guía práctica para entender las opciones disponibles hoy en modelos de inteligencia artificial multimodal.",
+      "destacado": false
+    },
+    "92b3dc603daf": {
+      "resumen": "Publicación en la comunidad r/datascience que explica cómo, en series de tiempo financieras de un minuto, un 7% de barras con retorno cero puede inflar artificialmente la métrica de precisión de un modelo predictivo hasta un 53,8%, y propone cómo corregir esa distorsión. Le sirve mucho a un médico que aprende análisis de datos porque es un ejemplo muy concreto de cómo una métrica de evaluación mal elegida puede hacer parecer bueno a un modelo que en realidad no predice nada útil.",
       "destacado": true
-    },
-    "bfdba109b967": {
-      "resumen": "Cloudflare detectó y corrigió una falla de seguridad en el modelo de inteligencia artificial GLM-5.3 que corre en su plataforma Workers AI: la caché de clave-valor (KV cache, una memoria interna que acelera las respuestas del modelo) podía filtrar fragmentos de la consulta de un usuario hacia la respuesta de otro. Para quien está aprendiendo a usar IA con datos sensibles (como historias clínicas), es un recordatorio de que la privacidad también depende de cómo está armada la infraestructura del modelo, no solo de qué se le pregunta.",
-      "destacado": false
-    },
-    "820116fa460f": {
-      "resumen": "Un preprint matemático del equipo de OpenAI afirma haber refutado la Hipótesis del Tiempo Exponencial (Exponential Time Hypothesis, un supuesto clásico de la teoría de la complejidad computacional), que sostenía que ciertos problemas difíciles no pueden resolverse mucho más rápido que por fuerza bruta. Le interesa a quien estudia ciencia de datos porque esta hipótesis es uno de los pilares usados para estimar qué tan rápido (o lento) puede llegar a ser un algoritmo en el peor de los casos.",
-      "destacado": false
-    },
-    "0db83d2728d9": {
-      "resumen": "OpenAI publicó un resumen de tres hallazgos (en matemática, ciencias de la computación y física) logrados con ayuda de sus modelos de inteligencia artificial trabajando junto a comunidades académicas. Sirve como ejemplo concreto de cómo la IA generativa ya se usa como herramienta de investigación científica, algo que un médico en formación en análisis de datos puede tomar como referencia de hacia dónde se mueve el uso de estas herramientas en ciencia.",
-      "destacado": false
-    },
-    "d4fc15392e5c": {
-      "resumen": "Simon Willison probó webframe, un proyecto que permite ejecutar una página web completa 'como si fuera un programa', corriéndola en un navegador oculto (headless) para extraer datos o aislar código que no es confiable. Es útil para quien aprende análisis de datos porque muestra una forma práctica de automatizar la extracción de información de internet (web scraping) y de ejecutar código ajeno de forma segura, en un entorno aislado (sandbox).",
-      "destacado": false
-    },
-    "4089ab2e7305": {
-      "resumen": "Liceo Naval dejó atrás a Club Italiano y ahora va por Don Bosco en semifinales, con el segundo ascenso en juego."
-    },
-    "03f0321d1ea0": {
-      "resumen": "Los Pumas siguen entrenando en Londres, donde se suma la baja de Chocabares por lesión."
-    },
-    "5a64af350c00": {
-      "resumen": "El histórico ex Puma Diego Cash analizó en detalle cómo viene trabajando el scrum argentino."
     }
   }
 }

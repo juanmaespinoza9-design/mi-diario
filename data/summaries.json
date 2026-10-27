@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T22:04:37Z",
+  "generated_at": "2026-10-27T10:05:29Z",
   "summaries": {
     "be0b52508819": {
       "resumen": "Nota de TCTMD (medio especializado en cardiología intervencionista) sobre un estudio que detectó signos tempranos de disfunción vascular y cardiorrespiratoria en usuarios habituales de cigarrillos electrónicos (vapeadores), antes incluso de que aparezcan síntomas clínicos. Vale la pena mirarlo porque el vapeo se expandió como alternativa supuestamente \"más segura\" al cigarrillo tradicional, y esta evidencia suma a la discusión sobre su impacto cardiovascular real a mediano plazo.",
@@ -12,7 +12,7 @@
     },
     "80856f1bd0f8": {
       "resumen": "Nota de TCTMD sobre un análisis que muestra que una proporción creciente de las muertes de bomberos en actividad se debe a causas cardíacas (probablemente eventos coronarios agudos) y no a traumatismos o quemaduras. Vale la pena mirarlo porque pone el foco en el estrés físico y psicológico extremo de esta profesión como factor de riesgo cardiovascular ocupacional, un ámbito poco explorado en la práctica clínica habitual.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: No se especifica en el título; probablemente se trate de un análisis descriptivo de una base de datos o registro de muertes de bomberos en actividad, de tipo observacional retrospectivo.\nPoblación: Bomberos en actividad fallecidos en servicio, en un período de varios años; no se detallan criterios de inclusión o exclusión.\nIntervención: No aplica; es un estudio descriptivo/epidemiológico que clasifica las causas de muerte, sin intervención ni comparador terapéutico.\nResultados: No disponibles; el título indica una tendencia creciente de causas cardíacas entre las muertes en servicio, sin cifras de incidencia, razones de riesgo ni intervalos de confianza.\nLimitaciones: Al depender de registros de causas de muerte, puede haber subregistro o clasificación heterogénea de los eventos cardíacos, y el diseño descriptivo no permite establecer causalidad ni identificar los factores de riesgo específicos de cada caso.\nMensaje: Refuerza la idea de que el perfil de riesgo cardiovascular ocupacional de los bomberos merece vigilancia activa y estrategias de prevención específicas (control de factores de riesgo, aptitud física), más allá del riesgo traumático tradicionalmente asociado a la profesión.\nNota: análisis sin acceso al abstract."
     },
     "bb6fed768e81": {
@@ -33,7 +33,7 @@
     },
     "739ff78a3efa": {
       "resumen": "Documento de consenso publicado en European Heart Journal (revista científica europea de cardiología) que presenta la Quinta Definición Universal del Infarto de Miocardio, con una actualización sobre el rol de la lipoproteína(a) —una partícula de colesterol de origen genético asociada a mayor riesgo cardiovascular— y la inflamación en el diagnóstico. Vale la pena mirarlo porque estos consensos internacionales terminan definiendo qué se considera infarto en la práctica diaria y en los ensayos clínicos.",
-      "destacado": true
+      "destacado": false
     },
     "7dba7c9baf2c": {
       "resumen": "Nota de TCTMD sobre cómo los cardiólogos vienen lidiando con contenido generado por inteligencia artificial en las diapositivas de congresos y presentaciones científicas, con el riesgo de que se filtren datos falsos o mal verificados. Vale la pena mirarla porque la inteligencia artificial generativa ya se usa para armar presentaciones médicas y plantea nuevos interrogantes sobre el rigor científico de lo que se expone en las charlas.",
@@ -41,10 +41,6 @@
     },
     "ee0f8c022f9f": {
       "resumen": "Nota de TCTMD que anticipa los temas que más va a dar que hablar en el congreso anual de la American Heart Association (AHA, Asociación Americana del Corazón) 2026. Vale la pena mirarla como guía rápida de qué estudios y sesiones conviene seguir de cerca cuando se difundan los resultados del congreso.",
-      "destacado": false
-    },
-    "aa5f41ca1ee8": {
-      "resumen": "Nota de Hacker News (comunidad de tecnología) sobre cómo la Agencia de Protección Ambiental de Estados Unidos (EPA) viene borrando silenciosamente su archivo web público, con información histórica y de monitoreo ambiental. Le aporta a un médico que aprende análisis de datos porque recuerda que las fuentes de datos públicas no son permanentes, y que preservar y versionar los datos que uno usa es parte del trabajo serio de análisis.",
       "destacado": false
     },
     "34adadfb171a": {
@@ -55,16 +51,8 @@
       "resumen": "Hilo de la comunidad r/datascience donde alguien cuenta que cometió un error al poner un modelo de aprendizaje automático (machine learning) en producción y pide consejo para manejar la ansiedad y aprender del incidente. Le sirve a un médico que aprende análisis de datos porque normaliza los errores al llevar un modelo a un entorno real y muestra cómo la comunidad aconseja documentar, avisar a tiempo y poner controles para que no se repita.",
       "destacado": false
     },
-    "736ec48b32ec": {
-      "resumen": "Nota de Hacker News sobre la decisión de Estados Unidos de declarar al helio como material crítico, dada su importancia estratégica en industrias de alta tecnología. Aporta poco de manera directa a un médico que aprende análisis de datos, aunque el helio también es clave para enfriar los imanes de los equipos de resonancia magnética, por lo que la oferta y el precio del gas pueden afectar a la salud.",
-      "destacado": false
-    },
     "2693f45a7074": {
       "resumen": "Publicación en Hacker News sobre el Protocolo de Servidor de Tipos (Type Server Protocol), una propuesta de Microsoft para estandarizar cómo los editores de código consultan información de tipos en distintos lenguajes de programación. Aporta poco de manera directa a un médico que aprende análisis de datos, salvo como ejemplo de cómo se estandarizan las herramientas de programación que después facilitan escribir código más confiable.",
-      "destacado": false
-    },
-    "f108b5ceacfa": {
-      "resumen": "Anuncio de OpenAI sobre GPT-6.1 Terra, una nueva versión de su modelo de lenguaje de gran escala (LLM, large language model), difundido en Hacker News. Le sirve a un médico que aprende análisis de datos para mantenerse al día con las capacidades de los modelos que probablemente termine usando como asistentes para programar y analizar datos.",
       "destacado": false
     },
     "0096190bc5a9": {
@@ -75,22 +63,34 @@
       "resumen": "Artículo de Towards Data Science que explora cómo las redes neuronales (un tipo de modelo de aprendizaje automático inspirado en el cerebro) se están usando para predecir y proteger estados cuánticos de superposición, en referencia al experimento mental del gato de Schrödinger. Le sirve a un médico que aprende análisis de datos como ejemplo de aplicación de redes neuronales a un problema de física compleja, más allá del uso habitual en datos tabulares.",
       "destacado": false
     },
-    "cd58251e4761": {
-      "resumen": "Guía de KDnuggets con una hoja de ruta de cuatro etapas para formarse como ingeniero en visión por computadora (computer vision), desde matemática espacial y transformadores visuales (ViT) hasta renderizado neuronal 3D y optimización para dispositivos de borde. Le sirve a un médico que aprende análisis de datos e interesado en imágenes médicas, porque ordena por dónde empezar y hacia dónde avanzar si quiere especializarse en análisis de imágenes con inteligencia artificial.",
-      "destacado": false
-    },
-    "6a0c7bc0321e": {
-      "resumen": "Tutorial de KDnuggets que explica paso a paso cómo construir un primer agente de inteligencia artificial en Python usando el kit de desarrollo (SDK) de OpenAI Agents, incorporando búsqueda web, herramientas en Python, memoria de conversación y trazabilidad. Le sirve mucho a un médico que aprende análisis de datos porque es una guía práctica y concreta para dar el primer paso y armar una herramienta propia que automatice tareas de análisis.",
+    "51b6dc021077": {
+      "resumen": "OpenAI presentó GPT-6.1 Terra, su nuevo modelo de inteligencia artificial (IA), con el foco puesto en el razonamiento visual y en el manejo directo de una computadora (control de mouse y teclado por parte de la IA). Para un médico que se mete en análisis de datos, marca hacia dónde va la próxima generación de herramientas: asistentes que no solo escriben código, sino que también interpretan imágenes (como gráficos o estudios) y ejecutan tareas por su cuenta.",
       "destacado": true
     },
-    "d054e82eb10e": {
-      "resumen": "El pilar irlandés Tadhg Furlong fue citado por una presunta agresión justo antes de enfrentar a Los Pumas, una baja sensible para el equipo europeo."
+    "bfdba109b967": {
+      "resumen": "Cloudflare detectó y corrigió una falla de seguridad en el modelo de inteligencia artificial GLM-5.3 que corre en su plataforma Workers AI: la caché de clave-valor (KV cache, una memoria interna que acelera las respuestas del modelo) podía filtrar fragmentos de la consulta de un usuario hacia la respuesta de otro. Para quien está aprendiendo a usar IA con datos sensibles (como historias clínicas), es un recordatorio de que la privacidad también depende de cómo está armada la infraestructura del modelo, no solo de qué se le pregunta.",
+      "destacado": false
     },
-    "73271486a50e": {
-      "resumen": "Las lesiones forzaron cambios obligados en la lista de Los Pumas para la gira europea."
+    "820116fa460f": {
+      "resumen": "Un preprint matemático del equipo de OpenAI afirma haber refutado la Hipótesis del Tiempo Exponencial (Exponential Time Hypothesis, un supuesto clásico de la teoría de la complejidad computacional), que sostenía que ciertos problemas difíciles no pueden resolverse mucho más rápido que por fuerza bruta. Le interesa a quien estudia ciencia de datos porque esta hipótesis es uno de los pilares usados para estimar qué tan rápido (o lento) puede llegar a ser un algoritmo en el peor de los casos.",
+      "destacado": false
     },
-    "e1cb74a22b5d": {
-      "resumen": "Se conoció el grupo de Los Pumas 7s para el arranque de la temporada en el seven de Dubai."
+    "0db83d2728d9": {
+      "resumen": "OpenAI publicó un resumen de tres hallazgos (en matemática, ciencias de la computación y física) logrados con ayuda de sus modelos de inteligencia artificial trabajando junto a comunidades académicas. Sirve como ejemplo concreto de cómo la IA generativa ya se usa como herramienta de investigación científica, algo que un médico en formación en análisis de datos puede tomar como referencia de hacia dónde se mueve el uso de estas herramientas en ciencia.",
+      "destacado": false
+    },
+    "d4fc15392e5c": {
+      "resumen": "Simon Willison probó webframe, un proyecto que permite ejecutar una página web completa 'como si fuera un programa', corriéndola en un navegador oculto (headless) para extraer datos o aislar código que no es confiable. Es útil para quien aprende análisis de datos porque muestra una forma práctica de automatizar la extracción de información de internet (web scraping) y de ejecutar código ajeno de forma segura, en un entorno aislado (sandbox).",
+      "destacado": false
+    },
+    "4089ab2e7305": {
+      "resumen": "Liceo Naval dejó atrás a Club Italiano y ahora va por Don Bosco en semifinales, con el segundo ascenso en juego."
+    },
+    "03f0321d1ea0": {
+      "resumen": "Los Pumas siguen entrenando en Londres, donde se suma la baja de Chocabares por lesión."
+    },
+    "5a64af350c00": {
+      "resumen": "El histórico ex Puma Diego Cash analizó en detalle cómo viene trabajando el scrum argentino."
     }
   }
 }

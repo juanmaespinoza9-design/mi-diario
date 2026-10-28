@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T10:07:02Z",
+  "generated_at": "2026-10-28T22:05:11Z",
   "summaries": {
     "be0b52508819": {
       "resumen": "Nota de TCTMD (medio especializado en cardiología intervencionista) sobre un estudio que detectó signos tempranos de disfunción vascular y cardiorrespiratoria en usuarios habituales de cigarrillos electrónicos (vapeadores), antes incluso de que aparezcan síntomas clínicos. Vale la pena mirarlo porque el vapeo se expandió como alternativa supuestamente \"más segura\" al cigarrillo tradicional, y esta evidencia suma a la discusión sobre su impacto cardiovascular real a mediano plazo.",
@@ -34,62 +34,62 @@
       "resumen": "Nota de TCTMD que repasa un compendio en tres partes publicado por varias sociedades científicas sobre la salud cardiovascular de la mujer. Vale la pena mirarlo porque sintetiza recomendaciones actualizadas sobre un área históricamente subdiagnosticada y subtratada en cardiología.",
       "destacado": false
     },
-    "a9c65cb82822": {
-      "resumen": "Simon Willison (desarrollador conocido por documentar experimentos con inteligencia artificial) cuenta cómo hackeó la credencial de una conferencia tecnológica, que venía con una pantalla a color tipo Game Boy Color, para correr sus propios programas. Le aporta a un médico que se mete en análisis de datos como ejemplo lúdico de programación de bajo nivel y de cultura hacker, más que por contenido de ciencia de datos en sí.",
-      "destacado": false
-    },
-    "594f22cddaf2": {
-      "resumen": "Artículo de Towards Data Science que describe un experimento en el que el autor introdujo fallas deliberadas en un agente de inteligencia artificial que navega páginas web, para ver si un control automático simple detectaba los errores. Le sirve a un médico que aprende análisis de datos porque muestra, con un ejemplo concreto, por qué validar la salida de un sistema de inteligencia artificial es tan difícil como construir el sistema mismo.",
-      "destacado": false
-    },
-    "28dc7898380c": {
-      "resumen": "Artículo de Towards Data Science que propone una suerte de separación de poderes, similar a la de un sistema político, para supervisar y controlar a los agentes autónomos de inteligencia artificial. Le sirve a un médico que aprende análisis de datos para pensar en mecanismos de control cuando estas herramientas empiecen a tomar decisiones por sí solas en el trabajo diario.",
-      "destacado": false
-    },
-    "99067de021a3": {
-      "resumen": "Artículo de Towards Data Science que plantea un marco para seguir siendo valioso profesionalmente a medida que la inteligencia artificial se vuelve más capaz, en un contexto donde cada vez delegamos más decisiones y razonamiento en estas herramientas. Le sirve a un médico que aprende análisis de datos para pensar qué habilidades propias vale la pena seguir cultivando en lugar de delegarlas por completo.",
-      "destacado": false
-    },
-    "9be2b97de1a7": {
-      "resumen": "Artículo de KDnuggets que explica qué es Gemini Omni, el modelo multimodal de Google capaz de generar contenido a partir de combinaciones de texto, imagen, audio y video, junto con sus costos y cómo se compara con otros modelos. Le sirve a un médico que aprende análisis de datos como guía práctica para entender las opciones disponibles hoy en modelos de inteligencia artificial multimodal.",
-      "destacado": false
-    },
-    "92b3dc603daf": {
-      "resumen": "Publicación en la comunidad r/datascience que explica cómo, en series de tiempo financieras de un minuto, un 7% de barras con retorno cero puede inflar artificialmente la métrica de precisión de un modelo predictivo hasta un 53,8%, y propone cómo corregir esa distorsión. Le sirve mucho a un médico que aprende análisis de datos porque es un ejemplo muy concreto de cómo una métrica de evaluación mal elegida puede hacer parecer bueno a un modelo que en realidad no predice nada útil.",
-      "destacado": true
-    },
     "27b261dc9c42": {
       "resumen": "Carta de comentario en JACC (Journal of the American College of Cardiology, revista de la Sociedad Americana de Cardiología) que forma parte del mismo intercambio de correspondencia sobre las trayectorias de remodelado cardíaco y el riesgo de eventos cardiovasculares mayores (MACE, por sus siglas en inglés) en pacientes con miocardiopatía hipertrófica (HCM, por sus siglas en inglés) fenotípicamente leve, centrada en si esas trayectorias de riesgo pueden usarse como variables sustitutas (surrogate endpoints) válidas para la práctica. Vale la pena tenerlo en cuenta como parte del debate metodológico en curso, más que como un estudio nuevo con datos propios.",
-      "destacado": false
-    },
-    "05c67542db0a": {
-      "resumen": "Artículo de revisión en JACC (Journal of the American College of Cardiology) que describe el continuo fisiopatológico de la miocardiopatía atrial en pacientes con miocardiopatía hipertrófica (HCM), desde una aurícula izquierda compensada hasta la aparición de fibrilación auricular (FA). Vale la pena mirarlo porque la fibrilación auricular es una complicación frecuente y de alto impacto en la HCM, y entender ese recorrido fisiopatológico ayuda a decidir cuándo intensificar la vigilancia o el tratamiento.",
-      "destacado": false
-    },
-    "ec58d21b88c5": {
-      "resumen": "Post de Hacker News sobre un proyecto que aplica Git (el sistema de control de versiones usado habitualmente en programación) para versionar el código legal de Estados Unidos, permitiendo rastrear cambios, enmiendas y diferencias entre versiones de las leyes como si fueran código fuente. Le sirve a un médico que se mete en análisis de datos para ver cómo el versionado estructurado puede aplicarse a cualquier corpus de texto normativo o científico que cambia con el tiempo, no solo al código de software.",
-      "destacado": false
-    },
-    "fdf27bf9960b": {
-      "resumen": "Artículo de investigación de Anthropic (la empresa detrás de Claude) sobre avances tempranos en el uso de inteligencia artificial para acelerar etapas del desarrollo de fármacos, como el análisis de datos biológicos y la identificación de candidatos terapéuticos. Le aporta especialmente a un médico en formación en ciencia de datos porque muestra un caso concreto de uso de inteligencia artificial en investigación biomédica, con aplicaciones que se cruzan con la farmacovigilancia y el diseño de estudios.",
-      "destacado": false
-    },
-    "ca2621a1074d": {
-      "resumen": "Nota de Hacker News sobre indicios de dos placas Raspberry Pi todavía no anunciadas oficialmente (Pi Zero 3W y Pi 4 Model A), detectados en archivos internos del sistema (device trees). Aporta poco a la ciencia de datos en sí, pero puede interesar a quien arma proyectos propios de recolección o procesamiento de datos a bajo costo, ya que este tipo de placas se usa mucho como servidor casero o sensor económico.",
-      "destacado": false
-    },
-    "71d9cb2bf3e5": {
-      "resumen": "Nota de Ars Technica, vía Hacker News, sobre una vulnerabilidad crítica en el firmware UEFI (el software de bajo nivel que arranca la mayoría de las computadoras y servidores) que permitiría ejecutar código malicioso y afecta a buena parte de los servidores del mundo. No es ciencia de datos en sentido estricto, pero le importa a cualquiera que guarde o procese datos sensibles, datos clínicos incluidos, porque recuerda que la seguridad de la infraestructura es la base de todo análisis confiable.",
       "destacado": false
     },
     "d43430f0070b": {
       "resumen": "Los Pumas confirmaron que Santiago Carreras sufrió una lesión grave y su presencia en el Mundial queda en duda por los tiempos de recuperación."
     },
-    "8ec0b7789820": {
-      "resumen": "Los Pumas confirmaron la grave lesión de Santiago Carreras, que lo dejará varios meses sin poder jugar."
+    "be1cc9b592ad": {
+      "resumen": "Artículo de perspectiva en JACC (Journal of the American College of Cardiology, revista de la Sociedad Americana de Cardiología) firmado por Krumholz y colaboradores sobre las limitaciones de los métodos de inferencia causal (técnicas estadísticas que buscan estimar efectos de causa-efecto a partir de datos observacionales) cuando se usan para guiar decisiones clínicas. Vale la pena mirarlo porque advierte sobre los límites de confiar ciegamente en estos métodos a la hora de reemplazar a los ensayos clínicos aleatorizados.",
+      "destacado": false
     },
-    "11fb9f5d0b95": {
-      "resumen": "Santiago Carreras se rompió el ligamento cruzado y se perderá el resto de la temporada con Los Pumas."
+    "ad8626efb484": {
+      "resumen": "Artículo de Towards Data Science que explica cómo integrar inteligencia artificial en procesos de negocio de punta a punta, en lugar de usarla solo para tareas aisladas. Le sirve a un médico que aprende análisis de datos para pensar en cómo encadenar varias herramientas de inteligencia artificial dentro de un flujo de trabajo completo, por ejemplo en farmacovigilancia.",
+      "destacado": false
+    },
+    "e110f678c5c3": {
+      "resumen": "Nota de Hacker News sobre un taller artesanal que usa máquinas de control numérico (CNC) para tallar piedra, combinando diseño digital con oficio tradicional. Aporta poco a la ciencia de datos en sí, pero puede interesar como ejemplo de cómo el control por computadora se mete incluso en oficios manuales.",
+      "destacado": false
+    },
+    "b140a7b5bd95": {
+      "resumen": "Artículo de Towards Data Science sobre biología espacial, que explica por qué la ubicación de una célula dentro de un tejido puede importar más que su cantidad total a la hora de entender un proceso biológico. Le sirve a un médico que aprende análisis de datos porque introduce el análisis espacial como complemento al análisis puramente cuantitativo, algo cada vez más usado en patología e investigación biomédica.",
+      "destacado": false
+    },
+    "fa2aec572fbd": {
+      "resumen": "Guía práctica de KDnuggets sobre cómo usar OpenRouter (un servicio que permite acceder a múltiples modelos de inteligencia artificial desde una sola conexión) dentro de aplicaciones Python. Le sirve mucho a un médico que está dando sus primeros pasos en programación, porque muestra con código concreto cómo probar distintos modelos sin tener que contratar cada uno por separado.",
+      "destacado": true
+    },
+    "93b9dc1d3128": {
+      "resumen": "Simon Willison (desarrollador reconocido por documentar el uso práctico de inteligencia artificial) analiza el salto reciente en la calidad de los videojuegos generados con ayuda de inteligencia artificial (\"vibe coding\", programar describiendo lo que se quiere en lenguaje natural). Le sirve a un médico que aprende análisis de datos como termómetro de hasta dónde puede llegar hoy la programación asistida por inteligencia artificial, aun sin ser programador de formación.",
+      "destacado": false
+    },
+    "28c9ad1a666f": {
+      "resumen": "Nota de Religion News, vía Hacker News, sobre un hombre de Kentucky que logró una exención religiosa como humanista secular para no tener que interactuar con sistemas de inteligencia artificial en su trabajo. No es ciencia de datos en sentido estricto, pero ilustra el debate social creciente sobre los límites éticos y legales al uso obligatorio de inteligencia artificial.",
+      "destacado": false
+    },
+    "e5b3578f0403": {
+      "resumen": "Nota de MIT Technology Review, vía Hacker News, sobre los 50 años del editor de texto Emacs, una de las herramientas de programación más longevas y personalizables que existen. Aporta poco de ciencia de datos en sí, pero es un recordatorio de cómo ciertas herramientas de programación se sostienen durante décadas gracias a comunidades muy activas.",
+      "destacado": false
+    },
+    "f58d318aa292": {
+      "resumen": "Investigación de Wired, vía Hacker News, sobre un operativo de vigilancia a gran escala que el servicio de inmigración de Estados Unidos (ICE) estaría llevando adelante sobre movimientos de izquierda. No es ciencia de datos en sentido técnico, pero toca el uso de análisis masivo de datos y vigilancia por parte de organismos estatales, un tema sensible para cualquiera que trabaje con datos personales.",
+      "destacado": false
+    },
+    "2c33a40a8cc2": {
+      "resumen": "Artículo de Towards Data Science que explica, con visualizaciones, qué son las redes de Kolmogorov-Arnold (KAN), una alternativa a las redes neuronales tradicionales que reemplaza los pesos fijos por funciones aprendibles en cada conexión. Le sirve a un médico que aprende análisis de datos como introducción visual a una familia de modelos nueva y más interpretable que las redes neuronales clásicas.",
+      "destacado": false
+    },
+    "7c2da1897a37": {
+      "resumen": "Artículo de KDnuggets que prueba, en una computadora local, si un modelo de inteligencia artificial de código abierto puede generar texto capaz de esquivar los detectores de contenido generado por inteligencia artificial. Le sirve a un médico que aprende análisis de datos porque muestra los límites actuales de esos detectores, algo relevante a la hora de evaluar textos científicos o trabajos académicos.",
+      "destacado": false
+    },
+    "d4c4854cb4bb": {
+      "resumen": "El wing de Los Pumas se rompió el ligamento cruzado y su presencia en el próximo Mundial quedó en duda por los tiempos de recuperación."
+    },
+    "cdfc56f5f0f8": {
+      "resumen": "Un club europeo elogió con fuerza el rendimiento de un jugador mendocino de Los Pumas, al que calificó como un \"guerrero argentino\"."
     }
   }
 }

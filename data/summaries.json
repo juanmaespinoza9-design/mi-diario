@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T22:05:23Z",
+  "generated_at": "2026-10-28T10:07:02Z",
   "summaries": {
     "be0b52508819": {
       "resumen": "Nota de TCTMD (medio especializado en cardiología intervencionista) sobre un estudio que detectó signos tempranos de disfunción vascular y cardiorrespiratoria en usuarios habituales de cigarrillos electrónicos (vapeadores), antes incluso de que aparezcan síntomas clínicos. Vale la pena mirarlo porque el vapeo se expandió como alternativa supuestamente \"más segura\" al cigarrillo tradicional, y esta evidencia suma a la discusión sobre su impacto cardiovascular real a mediano plazo.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: No se detalla en el título el tipo exacto de estudio; por el abordaje (comparar usuarios de vapeadores con no usuarios) probablemente se trate de un estudio observacional transversal o de cohorte que evalúa marcadores vasculares y cardiorrespiratorios, sin especificar número de centros ni de participantes.\nPoblación: Usuarios habituales de cigarrillos electrónicos (vapeadores), presumiblemente comparados con no fumadores/no vapeadores; no se detallan criterios de inclusión o exclusión.\nIntervención: No hay intervención terapéutica asignada; se trata de una comparación observacional entre el uso habitual de vapeadores y la ausencia de ese hábito.\nResultados: No disponibles; el título solo menciona la detección de \"signos tempranos\" de problemas vasculares y cardiorrespiratorios, sin cifras de magnitud, intervalos de confianza ni valor de p.\nLimitaciones: Al ser una nota periodística sin abstract disponible, no se puede valorar el tamaño muestral, el diseño exacto ni los posibles factores de confusión (como el antecedente de tabaquismo previo).\nMensaje: Si se confirma, reforzaría la necesidad de no asumir que el vapeo es cardiovascularmente inocuo, y de interrogar activamente sobre su consumo en la consulta.\nNota: análisis sin acceso al abstract."
     },
     "23f52b0c51f7": {
@@ -34,50 +34,8 @@
       "resumen": "Nota de TCTMD que repasa un compendio en tres partes publicado por varias sociedades científicas sobre la salud cardiovascular de la mujer. Vale la pena mirarlo porque sintetiza recomendaciones actualizadas sobre un área históricamente subdiagnosticada y subtratada en cardiología.",
       "destacado": false
     },
-    "81ee757dd6a5": {
-      "resumen": "Fe de erratas publicada en Circulation (revista científica de la Asociación Americana del Corazón) sobre el ensayo clínico aleatorizado por clusters TIME-HF, que evaluó en India un modelo de cuidado colaborativo coordinado por enfermería y con apoyo digital para reducir la internación y la mortalidad en pacientes con insuficiencia cardíaca. Vale la pena tenerlo en cuenta como referencia bibliográfica corregida del estudio original, más que como un hallazgo nuevo.",
-      "destacado": false
-    },
-    "832d0b0721b5": {
-      "resumen": "Fe de erratas en Circulation sobre un trabajo de ciencia básica que describe cómo la proteína METTL7A, sensible a las fuerzas mecánicas del endotelio, regula la metilación interna m7G del ARN mensajero (la molécula que lleva la información genética para fabricar proteínas) y protege contra la aterosclerosis. Vale la pena tenerlo en cuenta como referencia corregida de un mecanismo molecular en investigación sobre aterosclerosis, sin implicancia clínica inmediata.",
-      "destacado": false
-    },
-    "f00b6356c433": {
-      "resumen": "Artículo de revisión crítica en Circulation, firmado por Milton Packer, sobre los mecanismos biológicos y la evidencia de ensayos clínicos con moduladores de la señalización del receptor de activina tipo II en pacientes con insuficiencia cardíaca con fracción de eyección preservada (HFpEF, por sus siglas en inglés) e hipertensión pulmonar. Vale la pena mirarlo porque repasa una vía terapéutica emergente, como los inhibidores de activina (por ejemplo el sotatercept), en un escenario clínico todavía con pocas opciones de tratamiento.",
-      "destacado": false
-    },
-    "9dcef14f1ec7": {
-      "resumen": "Estudio publicado en Circulation que analiza la variación de precios en la angioplastia coronaria percutánea (PCI, por sus siglas en inglés) realizada en forma ambulatoria en Estados Unidos. Vale la pena mirarlo porque pone números a una discusión creciente sobre la variabilidad y la transparencia de costos en los procedimientos cardiovasculares.",
-      "destacado": true,
-      "analisis": "Diseño: Por el título se trataría de un estudio observacional retrospectivo que analiza bases de datos de facturación o reclamos para describir la variación de precios en procedimientos de PCI ambulatoria; no se especifican el número de centros ni de pacientes.\nPoblación: Pacientes sometidos a PCI en modalidad ambulatoria (fuera de la internación convencional); no se detallan criterios de inclusión o exclusión.\nIntervención: No hay una intervención comparativa asignada; se trata de un análisis descriptivo de precios entre distintos proveedores, centros o aseguradoras.\nResultados: No disponibles; el título solo señala la existencia de variación de precios, sin cifras concretas, razones de riesgo ni intervalos de confianza.\nLimitaciones: Al depender de bases administrativas o de facturación, puede haber heterogeneidad en cómo se definen y reportan los precios, y el diseño descriptivo no permite identificar las causas específicas de la variación observada.\nMensaje: Si se confirma una variación relevante, sumaría argumentos a favor de una mayor transparencia de precios en los procedimientos cardiovasculares ambulatorios, un tema cada vez más presente en los sistemas de salud.\nNota: análisis sin acceso al abstract."
-    },
-    "881bc2623d75": {
-      "resumen": "El seleccionado argentino sigue entrenando en Inglaterra, pero sufre dos bajas más: Chocabares no estará disponible y se confirmó que Santiago Carreras tiene rotura de ligamentos."
-    },
-    "8436c2c2c55b": {
-      "resumen": "El seleccionado de seven ya conoce a sus rivales para el arranque del Circuito Mundial de rugby, que se jugará en Dubai."
-    },
-    "ee9b66ea6f5d": {
-      "resumen": "A casi un año del Mundial de Rugby 2027, el seleccionado argentino que se entrena en Londres sufrió una mala noticia adicional."
-    },
     "a9c65cb82822": {
       "resumen": "Simon Willison (desarrollador conocido por documentar experimentos con inteligencia artificial) cuenta cómo hackeó la credencial de una conferencia tecnológica, que venía con una pantalla a color tipo Game Boy Color, para correr sus propios programas. Le aporta a un médico que se mete en análisis de datos como ejemplo lúdico de programación de bajo nivel y de cultura hacker, más que por contenido de ciencia de datos en sí.",
-      "destacado": false
-    },
-    "068ca2c5cfac": {
-      "resumen": "Notas de la versión 1.4.0 de Ghostty, un emulador de terminal moderno muy comentado en Hacker News. Le sirve a un médico que aprende análisis de datos como referencia de herramientas de línea de comandos cada vez más usadas para trabajar con código, bases de datos y scripts.",
-      "destacado": false
-    },
-    "099c4912233a": {
-      "resumen": "Nota de Gizmodo (vía Hacker News) sobre el uso policial de inteligencia artificial para identificar conductas de manejo consideradas \"sospechosas\" y habilitar controles vehiculares. Le sirve a un médico que aprende análisis de datos para pensar los riesgos de sesgo y falsos positivos cuando un algoritmo predictivo se usa para tomar decisiones sobre personas.",
-      "destacado": false
-    },
-    "18198893af72": {
-      "resumen": "Proyecto que formaliza en Lean (un asistente de demostración matemática) la clasificación de los grupos simples finitos, uno de los teoremas más extensos de la matemática moderna. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo la verificación formal automatizada empieza a validar resultados matemáticos complejos, un enfoque de rigor que también se aplica a software crítico.",
-      "destacado": false
-    },
-    "a044912b52ff": {
-      "resumen": "Nota de Futurism (vía Hacker News) sobre recortes importantes en la división de inteligencia artificial de Amazon, tras resultados considerados insatisfactorios con su modelo Nova. Le sirve a un médico que aprende análisis de datos como contrapeso al entusiasmo generalizado por la IA: ni todas las apuestas corporativas en este terreno están funcionando.",
       "destacado": false
     },
     "594f22cddaf2": {
@@ -99,6 +57,39 @@
     "92b3dc603daf": {
       "resumen": "Publicación en la comunidad r/datascience que explica cómo, en series de tiempo financieras de un minuto, un 7% de barras con retorno cero puede inflar artificialmente la métrica de precisión de un modelo predictivo hasta un 53,8%, y propone cómo corregir esa distorsión. Le sirve mucho a un médico que aprende análisis de datos porque es un ejemplo muy concreto de cómo una métrica de evaluación mal elegida puede hacer parecer bueno a un modelo que en realidad no predice nada útil.",
       "destacado": true
+    },
+    "27b261dc9c42": {
+      "resumen": "Carta de comentario en JACC (Journal of the American College of Cardiology, revista de la Sociedad Americana de Cardiología) que forma parte del mismo intercambio de correspondencia sobre las trayectorias de remodelado cardíaco y el riesgo de eventos cardiovasculares mayores (MACE, por sus siglas en inglés) en pacientes con miocardiopatía hipertrófica (HCM, por sus siglas en inglés) fenotípicamente leve, centrada en si esas trayectorias de riesgo pueden usarse como variables sustitutas (surrogate endpoints) válidas para la práctica. Vale la pena tenerlo en cuenta como parte del debate metodológico en curso, más que como un estudio nuevo con datos propios.",
+      "destacado": false
+    },
+    "05c67542db0a": {
+      "resumen": "Artículo de revisión en JACC (Journal of the American College of Cardiology) que describe el continuo fisiopatológico de la miocardiopatía atrial en pacientes con miocardiopatía hipertrófica (HCM), desde una aurícula izquierda compensada hasta la aparición de fibrilación auricular (FA). Vale la pena mirarlo porque la fibrilación auricular es una complicación frecuente y de alto impacto en la HCM, y entender ese recorrido fisiopatológico ayuda a decidir cuándo intensificar la vigilancia o el tratamiento.",
+      "destacado": false
+    },
+    "ec58d21b88c5": {
+      "resumen": "Post de Hacker News sobre un proyecto que aplica Git (el sistema de control de versiones usado habitualmente en programación) para versionar el código legal de Estados Unidos, permitiendo rastrear cambios, enmiendas y diferencias entre versiones de las leyes como si fueran código fuente. Le sirve a un médico que se mete en análisis de datos para ver cómo el versionado estructurado puede aplicarse a cualquier corpus de texto normativo o científico que cambia con el tiempo, no solo al código de software.",
+      "destacado": false
+    },
+    "fdf27bf9960b": {
+      "resumen": "Artículo de investigación de Anthropic (la empresa detrás de Claude) sobre avances tempranos en el uso de inteligencia artificial para acelerar etapas del desarrollo de fármacos, como el análisis de datos biológicos y la identificación de candidatos terapéuticos. Le aporta especialmente a un médico en formación en ciencia de datos porque muestra un caso concreto de uso de inteligencia artificial en investigación biomédica, con aplicaciones que se cruzan con la farmacovigilancia y el diseño de estudios.",
+      "destacado": false
+    },
+    "ca2621a1074d": {
+      "resumen": "Nota de Hacker News sobre indicios de dos placas Raspberry Pi todavía no anunciadas oficialmente (Pi Zero 3W y Pi 4 Model A), detectados en archivos internos del sistema (device trees). Aporta poco a la ciencia de datos en sí, pero puede interesar a quien arma proyectos propios de recolección o procesamiento de datos a bajo costo, ya que este tipo de placas se usa mucho como servidor casero o sensor económico.",
+      "destacado": false
+    },
+    "71d9cb2bf3e5": {
+      "resumen": "Nota de Ars Technica, vía Hacker News, sobre una vulnerabilidad crítica en el firmware UEFI (el software de bajo nivel que arranca la mayoría de las computadoras y servidores) que permitiría ejecutar código malicioso y afecta a buena parte de los servidores del mundo. No es ciencia de datos en sentido estricto, pero le importa a cualquiera que guarde o procese datos sensibles, datos clínicos incluidos, porque recuerda que la seguridad de la infraestructura es la base de todo análisis confiable.",
+      "destacado": false
+    },
+    "d43430f0070b": {
+      "resumen": "Los Pumas confirmaron que Santiago Carreras sufrió una lesión grave y su presencia en el Mundial queda en duda por los tiempos de recuperación."
+    },
+    "8ec0b7789820": {
+      "resumen": "Los Pumas confirmaron la grave lesión de Santiago Carreras, que lo dejará varios meses sin poder jugar."
+    },
+    "11fb9f5d0b95": {
+      "resumen": "Santiago Carreras se rompió el ligamento cruzado y se perderá el resto de la temporada con Los Pumas."
     }
   }
 }

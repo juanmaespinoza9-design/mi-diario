@@ -1,99 +1,97 @@
 {
-  "generated_at": "2026-10-29T10:05:41Z",
+  "generated_at": "2026-10-29T22:04:50Z",
   "summaries": {
-    "bb6fed768e81": {
-      "resumen": "Carta de respuesta publicada en JACC (Journal of the American College of Cardiology, revista de la Sociedad Americana de Cardiología) dentro de un intercambio de correspondencia sobre las trayectorias de remodelado del músculo cardíaco y el riesgo de eventos cardiovasculares mayores (MACE, por sus siglas en inglés) en pacientes con miocardiopatía hipertrófica (HCM, por sus siglas en inglés) fenotípicamente leve. Vale la pena tenerlo en cuenta como parte del debate científico en curso sobre cómo seguir a estos pacientes, más que como un estudio nuevo en sí mismo.",
+    "8d9cb2c3fd13": {
+      "resumen": "Artículo de revisión en JACC (Journal of the American College of Cardiology) sobre cómo interpretar la troponina cardíaca de alta sensibilidad (una proteína que se libera cuando hay daño en el músculo cardíaco y que se mide con ensayos muy sensibles) en la práctica clínica, remarcando que un valor elevado no equivale por sí solo a un diagnóstico de infarto. Vale la pena mirarlo porque es una de las pruebas más usadas en las guardias y su mala interpretación genera diagnósticos erróneos.",
       "destacado": false
     },
     "50915b3a5b88": {
       "resumen": "Carta de comentario en JACC que discute cómo alinear en el tiempo las trayectorias de remodelado cardíaco en pacientes con miocardiopatía hipertrófica (HCM) leve, dentro del mismo intercambio de correspondencia sobre riesgo de eventos cardiovasculares mayores. Vale la pena mirarlo porque toca un problema metodológico clave al estudiar enfermedades de evolución lenta: cómo comparar pacientes que están en distintas etapas de su enfermedad al momento de la evaluación.",
       "destacado": false
     },
-    "739ff78a3efa": {
-      "resumen": "Documento de consenso publicado en European Heart Journal (revista científica europea de cardiología) que presenta la Quinta Definición Universal del Infarto de Miocardio, con una actualización sobre el rol de la lipoproteína(a) —una partícula de colesterol de origen genético asociada a mayor riesgo cardiovascular— y la inflamación en el diagnóstico. Vale la pena mirarlo porque estos consensos internacionales terminan definiendo qué se considera infarto en la práctica diaria y en los ensayos clínicos.",
-      "destacado": false
-    },
-    "7dba7c9baf2c": {
-      "resumen": "Nota de TCTMD sobre cómo los cardiólogos vienen lidiando con contenido generado por inteligencia artificial en las diapositivas de congresos y presentaciones científicas, con el riesgo de que se filtren datos falsos o mal verificados. Vale la pena mirarla porque la inteligencia artificial generativa ya se usa para armar presentaciones médicas y plantea nuevos interrogantes sobre el rigor científico de lo que se expone en las charlas.",
-      "destacado": false
-    },
-    "6c0b100a4d4e": {
-      "resumen": "Nota de TCTMD que repasa un compendio en tres partes publicado por varias sociedades científicas sobre la salud cardiovascular de la mujer. Vale la pena mirarlo porque sintetiza recomendaciones actualizadas sobre un área históricamente subdiagnosticada y subtratada en cardiología.",
-      "destacado": false
-    },
-    "be1cc9b592ad": {
-      "resumen": "Artículo de perspectiva en JACC (Journal of the American College of Cardiology, revista de la Sociedad Americana de Cardiología) firmado por Krumholz y colaboradores sobre las limitaciones de los métodos de inferencia causal (técnicas estadísticas que buscan estimar efectos de causa-efecto a partir de datos observacionales) cuando se usan para guiar decisiones clínicas. Vale la pena mirarlo porque advierte sobre los límites de confiar ciegamente en estos métodos a la hora de reemplazar a los ensayos clínicos aleatorizados.",
-      "destacado": false
-    },
-    "ad8626efb484": {
-      "resumen": "Artículo de Towards Data Science que explica cómo integrar inteligencia artificial en procesos de negocio de punta a punta, en lugar de usarla solo para tareas aisladas. Le sirve a un médico que aprende análisis de datos para pensar en cómo encadenar varias herramientas de inteligencia artificial dentro de un flujo de trabajo completo, por ejemplo en farmacovigilancia.",
-      "destacado": false
-    },
-    "b140a7b5bd95": {
-      "resumen": "Artículo de Towards Data Science sobre biología espacial, que explica por qué la ubicación de una célula dentro de un tejido puede importar más que su cantidad total a la hora de entender un proceso biológico. Le sirve a un médico que aprende análisis de datos porque introduce el análisis espacial como complemento al análisis puramente cuantitativo, algo cada vez más usado en patología e investigación biomédica.",
-      "destacado": false
-    },
-    "fa2aec572fbd": {
-      "resumen": "Guía práctica de KDnuggets sobre cómo usar OpenRouter (un servicio que permite acceder a múltiples modelos de inteligencia artificial desde una sola conexión) dentro de aplicaciones Python. Le sirve mucho a un médico que está dando sus primeros pasos en programación, porque muestra con código concreto cómo probar distintos modelos sin tener que contratar cada uno por separado.",
-      "destacado": true
+    "1d5a40b654c7": {
+      "resumen": "Terminó la concentración de Los Pumas en Londres, previa a sus próximos compromisos internacionales."
     },
     "866ee7fd1faf": {
       "resumen": "Nota de TCTMD sobre un estudio de cohorte que encontró que tener un puntaje elevado de calcio en las arterias coronarias (CAC, por sus siglas en inglés, una medida de la cantidad de calcio depositado en las paredes arteriales que se obtiene con tomografía) en adultos jóvenes se asocia con mayor riesgo de morir en los siguientes 30 años. Vale la pena mirarlo porque refuerza la idea de detectar aterosclerosis temprana (acumulación de placa en las arterias) incluso en pacientes jóvenes sin síntomas.",
       "destacado": false,
       "analisis": "Diseño: Estudio de cohorte observacional con seguimiento a muy largo plazo (30 años) en adultos jóvenes, según se desprende del título; la nota de TCTMD no detalla el número de centros ni de pacientes.\nPoblación: Adultos jóvenes sin antecedentes cardiovasculares conocidos al momento basal, en quienes se midió el puntaje de calcio coronario (CAC).\nIntervención: No aplica una intervención farmacológica; es un estudio observacional que compara categorías de puntaje de CAC (alto vs. bajo o ausente).\nResultados: El título indica una asociación entre CAC elevado y mayor mortalidad a 30 años, pero no se dispone de las cifras de riesgo relativo, intervalos de confianza ni valor de p.\nLimitaciones: Al ser observacional, no permite establecer causalidad; un seguimiento tan prolongado puede arrastrar cambios no controlados en tratamiento y estilo de vida de los participantes.\nMensaje: Refuerza el valor pronóstico a largo plazo del CAC incluso en población joven, lo que podría apoyar su uso para estratificar riesgo de forma más temprana.\nNota: análisis sin acceso al abstract."
     },
-    "a681201008d6": {
-      "resumen": "Nota de TCTMD sobre un subestudio del ensayo LAUNCH-HTN que evaluó lorundrostat (un inhibidor de la aldosterona sintasa, enzima clave en la producción de esta hormona que eleva la presión arterial) en pacientes con enfermedad renal crónica (ERC), con reducción de la presión arterial y de la albuminuria (pérdida de proteínas por la orina, marcador de daño renal). Vale la pena mirarlo porque suma evidencia sobre una nueva clase de fármacos para la hipertensión resistente en pacientes con compromiso renal.",
-      "destacado": true,
-      "analisis": "Diseño: Subestudio (análisis de un subgrupo) del ensayo LAUNCH-HTN; el título no detalla si fue aleatorizado o ciego, ni el número de centros o pacientes incluidos en este subanálisis.\nPoblación: Pacientes con presión arterial elevada y enfermedad renal crónica (ERC) concomitante, probablemente con albuminuria basal.\nIntervención: Lorundrostat (inhibidor de la aldosterona sintasa) comparado presumiblemente contra placebo u otro tratamiento antihipertensivo estándar, según el diseño general del programa LAUNCH-HTN.\nResultados: El título reporta reducción de la presión arterial y de la albuminuria, pero no hay cifras de magnitud de efecto, intervalos de confianza ni valor de p disponibles.\nLimitaciones: Al ser un subestudio, el poder estadístico suele ser menor que en el ensayo principal; falta conocer el tiempo de seguimiento y los efectos adversos, en particular la hiperpotasemia, propia de esta clase de fármacos.\nMensaje: Si se confirma en el ensayo principal, lorundrostat podría sumarse como opción para la hipertensión difícil de controlar en pacientes renales, una población que suele quedar afuera de los grandes ensayos.\nNota: análisis sin acceso al abstract."
+    "be1cc9b592ad": {
+      "resumen": "Artículo de perspectiva en JACC (Journal of the American College of Cardiology, revista de la Sociedad Americana de Cardiología) firmado por Krumholz y colaboradores sobre las limitaciones de los métodos de inferencia causal (técnicas estadísticas que buscan estimar efectos de causa-efecto a partir de datos observacionales) cuando se usan para guiar decisiones clínicas. Vale la pena mirarlo porque advierte sobre los límites de confiar ciegamente en estos métodos a la hora de reemplazar a los ensayos clínicos aleatorizados.",
+      "destacado": false
+    },
+    "6c0b100a4d4e": {
+      "resumen": "Nota de TCTMD que repasa un compendio en tres partes publicado por varias sociedades científicas sobre la salud cardiovascular de la mujer. Vale la pena mirarlo porque sintetiza recomendaciones actualizadas sobre un área históricamente subdiagnosticada y subtratada en cardiología.",
+      "destacado": false
+    },
+    "739ff78a3efa": {
+      "resumen": "Documento de consenso publicado en European Heart Journal (revista científica europea de cardiología) que presenta la Quinta Definición Universal del Infarto de Miocardio, con una actualización sobre el rol de la lipoproteína(a) —una partícula de colesterol de origen genético asociada a mayor riesgo cardiovascular— y la inflamación en el diagnóstico. Vale la pena mirarlo porque estos consensos internacionales terminan definiendo qué se considera infarto en la práctica diaria y en los ensayos clínicos.",
+      "destacado": false
     },
     "8b3c6c2a6108": {
       "resumen": "Resumen mensual de TCTMD con lo más destacado de octubre 2026 en cardiología: un repaso de las noticias, estudios y controversias que más repercutieron en el mes. Vale la pena mirarlo como punto de partida rápido para no perderse nada importante.",
       "destacado": false
     },
-    "8d9cb2c3fd13": {
-      "resumen": "Artículo de revisión en JACC (Journal of the American College of Cardiology) sobre cómo interpretar la troponina cardíaca de alta sensibilidad (una proteína que se libera cuando hay daño en el músculo cardíaco y que se mide con ensayos muy sensibles) en la práctica clínica, remarcando que un valor elevado no equivale por sí solo a un diagnóstico de infarto. Vale la pena mirarlo porque es una de las pruebas más usadas en las guardias y su mala interpretación genera diagnósticos erróneos.",
+    "bb6fed768e81": {
+      "resumen": "Carta de respuesta publicada en JACC (Journal of the American College of Cardiology, revista de la Sociedad Americana de Cardiología) dentro de un intercambio de correspondencia sobre las trayectorias de remodelado del músculo cardíaco y el riesgo de eventos cardiovasculares mayores (MACE, por sus siglas en inglés) en pacientes con miocardiopatía hipertrófica (HCM, por sus siglas en inglés) fenotípicamente leve. Vale la pena tenerlo en cuenta como parte del debate científico en curso sobre cómo seguir a estos pacientes, más que como un estudio nuevo en sí mismo.",
       "destacado": false
     },
-    "271134257c4a": {
-      "resumen": "Post de Hacker News que señala que la función de barra de estado de Claude Code (asistente de programación con inteligencia artificial) puede consumir entre el 15% y el 20% de los tokens (unidades de texto que se cobran y limitan el uso de un modelo de lenguaje) de una sesión solo para mostrar un texto de tres palabras. Le sirve a un médico que recién arranca con estas herramientas para entender que el costo de usar un asistente de inteligencia artificial depende tanto del modelo como de su configuración.",
+    "a681201008d6": {
+      "resumen": "Nota de TCTMD sobre un subestudio del ensayo LAUNCH-HTN que evaluó lorundrostat (un inhibidor de la aldosterona sintasa, enzima clave en la producción de esta hormona que eleva la presión arterial) en pacientes con enfermedad renal crónica (ERC), con reducción de la presión arterial y de la albuminuria (pérdida de proteínas por la orina, marcador de daño renal). Vale la pena mirarlo porque suma evidencia sobre una nueva clase de fármacos para la hipertensión resistente en pacientes con compromiso renal.",
+      "destacado": true,
+      "analisis": "Diseño: Subestudio (análisis de un subgrupo) del ensayo LAUNCH-HTN; el título no detalla si fue aleatorizado o ciego, ni el número de centros o pacientes incluidos en este subanálisis.\nPoblación: Pacientes con presión arterial elevada y enfermedad renal crónica (ERC) concomitante, probablemente con albuminuria basal.\nIntervención: Lorundrostat (inhibidor de la aldosterona sintasa) comparado presumiblemente contra placebo u otro tratamiento antihipertensivo estándar, según el diseño general del programa LAUNCH-HTN.\nResultados: El título reporta reducción de la presión arterial y de la albuminuria, pero no hay cifras de magnitud de efecto, intervalos de confianza ni valor de p disponibles.\nLimitaciones: Al ser un subestudio, el poder estadístico suele ser menor que en el ensayo principal; falta conocer el tiempo de seguimiento y los efectos adversos, en particular la hiperpotasemia, propia de esta clase de fármacos.\nMensaje: Si se confirma en el ensayo principal, lorundrostat podría sumarse como opción para la hipertensión difícil de controlar en pacientes renales, una población que suele quedar afuera de los grandes ensayos.\nNota: análisis sin acceso al abstract."
+    },
+    "c9f442d36168": {
+      "resumen": "Nota de TCTMD que reporta un marcado aumento de las angioplastias coronarias electivas (PCI, intervención coronaria percutánea, procedimiento con catéter y stent que destapa arterias obstruidas) en Francia en los últimos años, según datos de registros nacionales. Vale la pena mirarlo porque este tipo de tendencias ayuda a distinguir si el aumento responde a mejor detección de enfermedad coronaria, cambios en las guías de indicación, o a una posible sobreutilización del procedimiento.",
+      "destacado": false,
+      "analisis": "Diseño: Análisis de tendencia basado en datos de registros nacionales franceses de intervención coronaria percutánea (PCI) electiva a lo largo de varios años; el título no especifica el período exacto ni la fuente de datos.\nPoblación: Pacientes sometidos a PCI electiva (no urgente) en centros de Francia incluidos en el o los registros analizados.\nIntervención: No aplica una intervención experimental; es un análisis descriptivo de la evolución temporal del uso de PCI electiva, sin grupo comparador definido.\nResultados: El título indica un aumento \"llamativo\" en el número de PCI electivas, pero no hay cifras de magnitud, intervalos de confianza ni valor de p disponibles en la nota.\nLimitaciones: Los datos de registro no permiten establecer por qué aumentó el procedimiento (indicación apropiada vs. sobreutilización); puede haber variabilidad entre centros y cambios en los criterios de registro a lo largo del tiempo.\nMensaje: Un aumento marcado en PCI electiva amerita revisar si se sigue el criterio de apropiación clínica que marcan las guías o si hay un componente de sobreindicación, un debate recurrente en cardiología intervencionista.\nNota: análisis sin acceso al abstract."
+    },
+    "672400a4a73e": {
+      "resumen": "Publicación de Simon Willison (especialista en inteligencia artificial) sobre cómo la empresa Spawn construyó un mundo de juego multijugador usando modelos autónomos de la familia Fable, que generan contenido y comportamiento del juego sin intervención humana constante. Le sirve a un médico que aprende análisis de datos para ver un caso extremo de cómo los agentes de inteligencia artificial pueden operar de forma autónoma en sistemas complejos, más allá de responder preguntas puntuales.",
       "destacado": false
     },
-    "44e3e5f137f8": {
-      "resumen": "Experimento publicado en Hacker News que muestra un procesador RISC-V (una arquitectura de hardware simple y abierta) funcionando de forma determinística dentro del modelo de lenguaje Qwen3.5, es decir, usando inteligencia artificial para simular una computadora completa. Aporta una idea curiosa sobre hasta dónde puede llegar un modelo de lenguaje al ejecutar lógica paso a paso.",
+    "e90b807807fb": {
+      "resumen": "Noticia sobre el reconocimiento oficial del gobierno checo a Tomáš Mikolov, investigador conocido por sus trabajos pioneros en representación vectorial de palabras (word2vec), una técnica base de muchos modelos de procesamiento de lenguaje actuales. Le sirve a un médico que aprende análisis de datos para conocer el origen de técnicas que todavía sostienen buena parte del procesamiento de lenguaje natural moderno.",
       "destacado": false
     },
-    "c6d25904346f": {
-      "resumen": "Aviso de un incidente de seguridad en GitLab (plataforma de alojamiento de código) por un intento de explotación de la vulnerabilidad identificada como CVE-2026-97229 (CVE es el identificador estándar que se usa para catalogar fallas de seguridad conocidas). Le sirve a quien está aprendiendo análisis de datos para tomar conciencia de que las herramientas de desarrollo que se usan a diario también son blanco de ataques y requieren actualizarse.",
+    "53a5e7318375": {
+      "resumen": "Nota que señala que los ingresos por búsqueda de Google ya representan menos de la mitad de la facturación total de Alphabet (la empresa matriz de Google), reflejo del crecimiento de otras unidades como la nube y la publicidad fuera del buscador. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo leer la diversificación de ingresos de una empresa tecnológica a partir de datos financieros públicos.",
       "destacado": false
     },
-    "75f2ee2fae25": {
-      "resumen": "Dato de Hacker News que muestra que Stack Overflow (el foro de referencia para resolver dudas de programación) ya recibe menos de 1000 preguntas nuevas por mes, un derrumbe asociado al uso creciente de asistentes de inteligencia artificial para programar. Le sirve a un médico que está aprendiendo análisis de datos porque anticipa que gran parte del aprendizaje hoy pasa por la inteligencia artificial y no por los foros tradicionales.",
+    "05dc4b1256cb": {
+      "resumen": "Artículo técnico (de 2016, resurgido en Hacker News) que explica de forma didáctica cómo funciona la compresión de video H.264, el estándar más usado para comprimir y transmitir video digital. Le sirve a un médico que aprende análisis de datos para entender, con un ejemplo concreto, la lógica de comprimir información compleja sin perder demasiada calidad.",
       "destacado": false
     },
-    "b0fbfced4c00": {
-      "resumen": "Cita de Ted Sanders recopilada por Simon Willison sobre que el desempeño de los modelos de lenguaje (LLM, por sus siglas en inglés) es muy multidimensional: no hay una jerarquía fija donde el mejor modelo en matemática también sea el mejor contando chistes. Le sirve a un médico que está evaluando qué herramienta de inteligencia artificial usar para entender que conviene elegir el modelo según la tarea puntual y no por un ranking general.",
+    "e5deed5947c1": {
+      "resumen": "Hilo de la comunidad r/datascience donde alguien consulta si existen riesgos de aplicar a un puesto en una empresa proveedora con la que ya trabaja desde su rol actual. Le sirve a un médico que está entrando en el análisis de datos porque muestra dilemas típicos de carrera y ética profesional que también se dan en consultoría y en la industria farmacéutica.",
       "destacado": false
     },
-    "657e355dce8d": {
-      "resumen": "Hilo de Reddit en la comunidad r/datascience donde alguien pregunta cómo mejorar en serio sus habilidades de ciencia de datos. Le sirve a un médico que está empezando en este campo porque refleja las mismas dudas típicas de cualquiera que arranca: por dónde estudiar, qué proyectos hacer y cómo salir del estancamiento inicial.",
+    "159256cb4db7": {
+      "resumen": "Nota de Washington Post sobre modelos de autos que se venden en México pero no están disponibles en Estados Unidos, por diferencias regulatorias y de mercado entre ambos países. No tiene relación directa con análisis de datos ni cardiología; se incluye solo porque superó el umbral de popularidad en Hacker News.",
       "destacado": false
     },
-    "d8f853e661d6": {
-      "resumen": "Resumen de Simon Willison sobre el informe anual Octoverse 2026 de GitHub (la plataforma más usada para alojar código), presentado por el vicepresidente ejecutivo Jay Parikh en la conferencia GitHub Universe, con las cifras más destacadas del año sobre uso de la plataforma e inteligencia artificial en el desarrollo de software. Le sirve a quien aprende análisis de datos para tener una foto actualizada de hacia dónde va la programación asistida por inteligencia artificial.",
+    "076f59b7bcda": {
+      "resumen": "Artículo de Towards Data Science que explica por qué dos elementos pueden tener etiquetas distintas en un sistema de clasificación pero resultar muy similares al compararlos mediante embeddings (representaciones numéricas vectoriales que capturan el significado de un texto o imagen), lo que cuestiona las métricas tradicionales de recuperación de información. Le sirve a un médico que aprende análisis de datos porque muestra una limitación real de los métodos de clasificación automática, relevante por ejemplo al clasificar reportes de eventos adversos en farmacovigilancia.",
       "destacado": false
     },
-    "1d5a40b654c7": {
-      "resumen": "Terminó la concentración de Los Pumas en Londres, previa a sus próximos compromisos internacionales."
+    "18c36f7241d2": {
+      "resumen": "Cita breve recopilada por Simon Willison de Ben Hylak, quien plantea con ironía que casi todos los productos deberían convertirse en un MCP (Model Context Protocol, protocolo que permite a un agente de inteligencia artificial conectarse con herramientas externas) sin interfaz visible, salvo el propio producto de quien lo dice. Le sirve a un médico que aprende análisis de datos para entender hacia dónde apunta la discusión sobre cómo los agentes de inteligencia artificial van a interactuar con las herramientas de software del futuro.",
+      "destacado": false
     },
-    "1e7afb00bf26": {
-      "resumen": "El entrenador de forwards Eduardo Bello vuelve a Los Pumas después de dos años afuera y asegura que puede aportarle lo que necesita el scrum."
+    "d10220cd6312": {
+      "resumen": "Artículo de Towards Data Science que compara, con una simulación, dos métodos estadísticos para estimar el efecto de una intervención cuando los sujetos no fueron asignados al azar: diferencias en diferencias (comparar la evolución de un grupo tratado contra uno de control antes y después de la intervención) y regresión con resultado rezagado (ajustar por el valor previo de la variable de interés). Le sirve mucho a un médico que aprende análisis de datos porque estas son herramientas centrales de inferencia causal con datos observacionales, muy aplicables a farmacovigilancia y a evaluar intervenciones sanitarias sin ensayo aleatorizado.",
+      "destacado": true
     },
-    "7db4ec660f3e": {
-      "resumen": "La prensa irlandesa anticipa que Los Pumas llegarán a Dublín con la decisión de revertir su mal momento."
+    "9307c202831e": {
+      "resumen": "Artículo de Towards Data Science que muestra, con un test de 2.000 preguntas, que los dos modelos de inteligencia artificial mejor rankeados en una evaluación no se distinguen de forma estadísticamente significativa al nivel habitual del 5%, y que con una muestra más chica el ranking cambiaría buena parte de las veces. Le sirve mucho a un médico que aprende análisis de datos porque es un ejemplo concreto de cómo el tamaño de muestra y la significancia estadística pueden hacer que un ranking parezca más sólido de lo que realmente es, lección aplicable a cualquier comparación de tratamientos o modelos.",
+      "destacado": false
     },
-    "943d37e127d5": {
-      "resumen": "Una columna de opinión reflexiona sobre cómo el miedo a perder termina paralizando a la hora de tomar decisiones."
+    "fb205bfa18bf": {
+      "resumen": "Rugby Champagne repasa en su nueva edición los partidos clave de este mes de definiciones y adelanta lo que se viene en el calendario."
+    },
+    "fe8a9ed51336": {
+      "resumen": "Los Pumas cerraron su concentración en Londres con cambios en el cuerpo técnico, de cara a la preparación para el Nations Championship."
     }
   }
 }

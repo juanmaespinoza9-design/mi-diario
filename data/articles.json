@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-10-29T19:42:56.097071+00:00",
+ "generated_at": "2026-10-29T23:59:31.826342+00:00",
  "sections": [
   {
    "id": "cardiologia",
    "title": "Cardiología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "Shifts Seen in Real-world DOAC Use for Cancer-Associated VTE",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNGhURGN0MkU0bmFzMUZSXy03ZlpWaDIteFhpOGpLY0xuc1F5ZzNKTnFSYVl1YXYwZlN4dUZ4SVY3Tm5JZTgxTVNxRVBxUm9zQ1FoaXBNU1FyZ2tYaV9CeGlhNXE1ODlCOTFhOFV1c0xPamVZenJWa1I3NkpnMmpuRlNTX2U5V0E?oc=5",
+     "source": "TCTMD",
+     "published": "2026-10-29T20:28:41+00:00",
+     "id": "e581338366c1"
+    },
     {
      "title": "Top Cardiology News for October 2026",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MeUNVbHZrNVIxQUZuOWxjdkNTelZqa3RKcFZXeUlPZUN2YmxjZV9tOE4zWEpzNkVSWWhPLWNENVFGaXU2T1dDbTFIRGxlNkVyYy1QVnJWT0Y4YzBWRzJLT2NIZ1pQV0JrYThDTw?oc=5",
@@ -41,13 +48,6 @@
      "published": "2026-10-28T00:00:00+00:00",
      "copete": "Spanos M et al. · Journal of the American College of Cardiology",
      "id": "8d9cb2c3fd13"
-    },
-    {
-     "title": "Societies Issue Three-Part Compendium on Female Heart Health",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa0lYSEsxUy14d2xRdjNLQ2ZjR1JjdnBWVFpEbl9xc1lrel9hd1lwRGR2RU92TnBIdUUzTDJZTjdmNkpYZkZENWJzXzRITjJTc2J6TXhYM2JWbkVodWNEdEhtYnlMaVhEbVVwTzQ1b1N0dmU2NW01RHNQZldheGtsUE5KR05LUU16eDdGRA?oc=5",
-     "source": "TCTMD",
-     "published": "2026-10-27T20:10:03+00:00",
-     "id": "6c0b100a4d4e"
     },
     {
      "title": "When Causal Is Not Enough",
@@ -89,73 +89,89 @@
    "mode": "titulares",
    "items": [
     {
+     "title": "Sanciones del Tribunal de Disciplina: la suspensión más alta fue para Estudiantes, también con multa",
+     "link": "https://www.ole.com.ar/futbol-primera/tribunaldedisciplina-alexandermedina-estudiantes-primeradivision-gonzalomaffini-estudiantesderiocuarto-barracascentral_0_EWcKR3BnCL.html",
+     "source": "Olé — Primera",
+     "published": "2026-10-29T22:55:57+00:00",
+     "copete": "El organismo le aplicó dos fechas de suspensión al técnico Alexander Medina, expulado frente a Unión, y también una sanción económica por un episodio contra San Lorenzo. Conocé todas las suspensiones.",
+     "id": "16df27f10d86"
+    },
+    {
+     "title": "Mauricio Martínez, un ex Central que buscará amargarle la lucha por la tabla anual",
+     "link": "https://www.ole.com.ar/sarmiento-junin/mauriciomartinez-sarmiento-torneoclausura-rosariocentral_0_GqmYpG6K5n.html",
+     "source": "Olé — Primera",
+     "published": "2026-10-29T22:54:33+00:00",
+     "copete": "En Junín se enfrentarán Sarmiento y Rosario Central en un duelo clave para las aspiraciones de ambos. En las filas del Verde, Caramelo fue formado en las Inferiores del equipo rosarino.",
+     "id": "b4c144c9b7d8"
+    },
+    {
+     "title": "Así cambió el fútbol argentino en el siglo XXI: una infografía interactiva con las 36 modificaciones en 16 temporadas",
+     "link": "https://www.ole.com.ar/futbol-primera/futbol-primera-argentina-cambios-formatos-torneos-2027_0_apafJ5gFpY.html",
+     "source": "Olé — Primera",
+     "published": "2026-10-29T22:35:58+00:00",
+     "copete": "Del Apertura y Clausura al nuevo esquema de 2027: explorá año por año los distintos formatos de la Primera División y descubrí cómo se fue transformando el campeonato.",
+     "id": "a0055996d976"
+    },
+    {
+     "title": "Di Carlo, sobre el \"interinato\" de Ponzio a horas del superclásico en la Bombonera",
+     "link": "https://www.ole.com.ar/river-plate/river-stefanodicarlo-leonardoponzio-superclasico-copalibertadores-interinato_0_SGrV8bgl9Y.html",
+     "source": "Olé — River",
+     "published": "2026-10-29T22:28:23+00:00",
+     "copete": "El presidente de River volvió a referirse a la situación de Ponzio como entrenador y mantuvo su postura sobre el futuro del ídolo en el cargo.",
+     "id": "9361bdf8e36e"
+    },
+    {
+     "title": "De Alonso a Fillol: quiénes fueron las glorias que acompañaron a River antes de Boca",
+     "link": "https://www.ole.com.ar/river-plate/river-monumental-encuentro-glorias-superclasico_0_TEPlAU8KAr.html",
+     "source": "Olé — River",
+     "published": "2026-10-29T22:10:51+00:00",
+     "copete": "El plantel profesional compartió un emotivo almuerzo en el Monumental junto a grandes campeones del club para motivar al grupo de cara al superclásico. Uno por uno, los que estuvieron presentes.",
+     "id": "dc55079c05eb"
+    },
+    {
+     "title": "River se bajó de la conferencia del Súper: el motivo y el duro comunicado de Liga",
+     "link": "https://www.ole.com.ar/river-plate/river-conferencia-boca-superclasico_0_i8ECYUSMcR.html",
+     "source": "Olé — River",
+     "published": "2026-10-29T21:34:19+00:00",
+     "copete": "Se suspendió la rueda de prensa ante el faltazo del CARP en el marco del fuerte cortocircuito con la AFA. Todo, en la antesala del gran choque contra el eterno rival. La ponencia quedó suspendida. \"La Liga Profesional de Fútbol lamenta la…",
+     "id": "03a6cc29b2be"
+    },
+    {
+     "title": "La paradoja charrúa en clásicos de los laterales de Boca y River",
+     "link": "https://www.ole.com.ar/river-plate/river-boca-giovannigonzalez-leandrolozano-nacional-penarol_0_dfm4dUTzLV.html",
+     "source": "Olé — River",
+     "published": "2026-10-29T21:18:24+00:00",
+     "copete": "Pasaron por los dos grandes de su tierra natal y tuvieron caminos cruzados, pero el fútbol recién ahora les dará la gran chance de quedar cara a cara.",
+     "id": "7b33b95df633"
+    },
+    {
+     "title": "Libertadores 2027: Boca, River y los otros 28 equipos, con las cuentas de las dos últimas fechas",
+     "link": "https://www.ole.com.ar/futbol-primera/copalibertadores-tablaanual-superclasico-boca-river-argentinosjuniors-rosariocentral-velez_0_1RFlzkt6By.html",
+     "source": "Olé — River",
+     "published": "2026-10-29T21:03:09+00:00",
+     "copete": "La fecha 15 puede ser determinante en las chances de Boca, Argentinos, Rosario Central y Vélez en la búsqueda de uno de los tres puestos de clasificación. Qué necesita cada club y cuáles son las otras vías que siguen abiertas.",
+     "id": "3bb4291ef888"
+    },
+    {
+     "title": "Remera Pre Partido Rugby Lecoq Los Pumas ON Sports Indumentaria y Calzado Deportivo",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Hd2w5S0JWQVRnenM5czM2d0dxZTRsZ1hsaDBvT2dvVHhRQVF5SnhlbDBDZ1FLaGRzb3NqQ3lCRlB4ajVQd2VaTkxfN2JhaTE4YUFR?oc=5",
+     "source": "www.auroradesio.it",
+     "published": "2026-10-29T20:00:45+00:00",
+     "id": "750b803e5e3e"
+    },
+    {
+     "title": "Sudamérica Rugby capacitó a ex Pumas y ex Teros para impulsar nuevos entrenadores",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUzl4TjljcjEwN3ZBRVdicFNUWFBtbkZwMG5ad2ZQVDNfSEFYaG9yZDYxNDA1eFktTmNXZnZYNFRXU1dCOE03M2hUdzJnaGJKS3lVX0E2RHNaLW1nZ2dZZUs4aDQtenJGR0F2SUVST1lCMmpMSGtiM19uVGFxaDVBZEJSdTRTdGtJUXJVVC1SdTVhcUVBcVFlVFNWMXVrZG9ELXVMSi1hajBUdzQ?oc=5",
+     "source": "Cordoba XV",
+     "published": "2026-10-29T19:57:48+00:00",
+     "id": "1db32c387569"
+    },
+    {
      "title": "Una nueva revista Rugby Champagne con todo lo que tenés que saber en este mes de definiciones y lo que vendrá",
      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSFNlWl9oRHhMQzUzU2p2Wk5DTUtOcURQVTZ3LUZ6SDFEbDRMWEVnOVpWME9WVy11SElySlduSmk4d3hTYUY3MFV0YWJFeHE0c0t5NldBc2FmbzBVMS1pRUsxY0YyUFVRNzM3SFotOVhZUTFXNlpqRnhDNU9POGRQUzRTWTNBVmpzeW50V2FtOF9oemIxb1ZweTRTZlkzN1ljT1pZYnFGeEl1MmM1Qlgxc3V6VXNGdDRCaUJVUEZOTFY4dWpuRlRwWFR1UndfMXNmbkhXR21JYlpyZmlLaXJqS3RR?oc=5",
      "source": "Rugby Champagne",
      "published": "2026-10-29T19:38:44+00:00",
      "id": "fb205bfa18bf"
-    },
-    {
-     "title": "La joyita que pierde Central en la definición de la tabla anual",
-     "link": "https://www.ole.com.ar/rosario-central/rosario-central-figura-giovanni-cantizano-lesion-ligamentos-torneo-tabla-anual_0_nDmhIbwMXJ.html",
-     "source": "Olé — Primera",
-     "published": "2026-10-29T19:11:39+00:00",
-     "copete": "El Canalla confirmó la lesión que sufrió Giovanni Cantizano, quien no podrá estar ante Sarmiento, y su presencia en los playoffs del Torneo Clausura es una incógnita.",
-     "id": "5e92b0000603"
-    },
-    {
-     "title": "El fuerte respaldo de Estudiantes a River tras el voto negativo al nuevo formato de la Liga Profesional",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-estudiantes-plata-comunicado-apoyo-nuevo-formato_0_oRwDISKjWl.html",
-     "source": "Olé — River",
-     "published": "2026-10-29T18:54:40+00:00",
-     "copete": "Aunque el Pincha no pudo participar de la votación por la suspensión de Verón, el club apoyó la postura del Millonario.",
-     "id": "5b5753ff4244"
-    },
-    {
-     "title": "River fue el único club que votó en contra del nuevo formato del fútbol argentino",
-     "link": "https://www.ole.com.ar/futbol-primera/river-unico-club-voto-nuevo-formato-futbol-argentino_0_8SI79cKuFd.html",
-     "source": "Olé — River",
-     "published": "2026-10-29T18:30:00+00:00",
-     "copete": "El Millonario se mostró a favor del torneo todos contra todos, pero se opuso a mantener los 30 equipos y planteó la posibilidad de que haya diez descensos.",
-     "id": "d580cec89c19"
-    },
-    {
-     "title": "Malaspina y el “no” a River en el cambio de formato del torneo: “Ningún club estaba acuerdo con diez descensos”",
-     "link": "https://www.ole.com.ar/futbol-primera/malaspina-river-cambio-formato-torneo-reducir-equipos-club-acuerdo-descenso-votacion-rechazo-postura_0_4vmkJNFqip.html",
-     "source": "Olé — River",
-     "published": "2026-10-29T18:23:09+00:00",
-     "copete": "El secretario general de la AFA explicó por qué los clubes rechazaron la postura del Millonario de bajar de 30 a 20 equipos en la Primera División.",
-     "id": "ff17aadd467b"
-    },
-    {
-     "title": "Enzo Fernández, en modo Súper: elogio a Paredes, su fe para ganarle a Boca y \"voy a volver a River, seguro\"",
-     "link": "https://www.ole.com.ar/river-plate/enzo-fernandez-river-plate-superclasico-boca-leandro-paredes-voy-volver_0_i6RaoKhhsp.html",
-     "source": "Olé — River",
-     "published": "2026-10-29T17:45:16+00:00",
-     "copete": "A la distancia, el jugador del Manchester City palpitó el Súper, elogió al capitán de Boca y reiteró su deseo de volver a ponerse la Banda.",
-     "id": "7d7a5e56ae63"
-    },
-    {
-     "title": "Con el voto negativo de River, se aprobó el nuevo torneo de Primera División en 2027: ¿cómo se jugará?",
-     "link": "https://www.ole.com.ar/futbol-primera/aprobado-nuevo-formato-torneo-primera-division-2027-zonas-playoffs-voto-negativo-river-estudiantes_0_88fMyiesoI.html",
-     "source": "Olé — River",
-     "published": "2026-10-29T16:53:34+00:00",
-     "copete": "Los dirigentes modificaron el formato de la LPF: sin zonas, pero con playoffs y todos contra todos. El Millonario se opuso y Estudiantes no pudo votar.",
-     "id": "e0d106b4c580"
-    },
-    {
-     "title": "Concluyó el Camp de Los Pumas en Londres",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU2g2WUVZa3Fod09EMlRuQnhEeGxQNUx2enJPbTdKWTMxejZYNEt1NWxrZzVadVVwakRxcWJxN2xkWkdTM3NmU0d4RHNETGdQdVFNZzlLYW1xcFU2RF9UUHlueGt1dU91NWtjYXZFVHZiTWxzdVB0cnloU3l0TlR4eXRoT291SzFrS1FBZFVtalhidw?oc=5",
-     "source": "Rugby Champagne",
-     "published": "2026-10-29T15:43:15+00:00",
-     "id": "1d5a40b654c7"
-    },
-    {
-     "title": "Los Pumas finalizaron el Camp en Londres: nuevo staff y preparación para el Nations Championship",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVXRaV3QtbXdKbzcxd2pSbWREbUZHMEZWZUVZcmVjTkNiUEhERFpPWWJvUm9aRzhpOHdLU0VEWFFPcmtuRUw4RHFQRVRJc0Utc0RpMkxqT25VcEhqRVVYUW1wMElkVFdsejI4aW5ydUZHcmxWeFBwQ0hCMm83VmtBaXZUa0g5OFQ1alVWRlNlWWtWeXNRTnV5WlQweFM5RThTamlpNGhaS3Zvekp5STE5UDU4emJXRGlXWXFrcmx3?oc=5",
-     "source": "Cordoba XV",
-     "published": "2026-10-29T15:19:12+00:00",
-     "id": "fe8a9ed51336"
     },
     {
      "title": "La UAR realizará el primer Encuentro Femenino de Selecciones de XV",
@@ -173,6 +189,35 @@
    "mode": "resumen",
    "items": [
     {
+     "title": "API credits benefit for eligible ChatGPT subscriptions",
+     "link": "https://simonwillison.net/2026/Oct/29/api-credits/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-10-29T22:48:29+00:00",
+     "copete": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of…",
+     "id": "07b8277675a3"
+    },
+    {
+     "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+     "link": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-10-29T21:38:59+00:00",
+     "id": "4c4b30fd3641"
+    },
+    {
+     "title": "Patrick Stewart has died",
+     "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-10-29T19:41:39+00:00",
+     "id": "1ffd1f6b6f1e"
+    },
+    {
+     "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+     "link": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-10-29T17:43:48+00:00",
+     "id": "a4cd49267efa"
+    },
+    {
      "title": "Building a multiplayer game world with autonomous Fable-class models",
      "link": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
      "source": "Simon Willison (IA)",
@@ -181,39 +226,11 @@
      "id": "672400a4a73e"
     },
     {
-     "title": "Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic",
-     "link": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-10-29T16:56:54+00:00",
-     "id": "e90b807807fb"
-    },
-    {
-     "title": "Google Search is now less than half of Alphabet’s revenue",
-     "link": "https://www.kadoa.com/companies/insights/google-search-below-half",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-10-29T16:42:17+00:00",
-     "id": "53a5e7318375"
-    },
-    {
      "title": "H.264 Is Magic (2016)",
      "link": "https://sidbala.com/h-264-is-magic/",
      "source": "Hacker News (100+ puntos)",
      "published": "2026-10-29T15:53:03+00:00",
      "id": "05dc4b1256cb"
-    },
-    {
-     "title": "Are there any risks associated with applying for a job at a vendor I currently work with in my role?",
-     "link": "https://www.reddit.com/r/datascience/comments/1xines1/are_there_any_risks_associated_with_applying_for/",
-     "source": "r/datascience",
-     "published": "2026-10-29T15:39:35+00:00",
-     "id": "e5deed5947c1"
-    },
-    {
-     "title": "I went to Mexico to test-drive the cars Americans can’t buy",
-     "link": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-10-29T15:30:22+00:00",
-     "id": "159256cb4db7"
     },
     {
      "title": "When Labels Say No, But Embeddings Say Yes",
@@ -240,12 +257,12 @@
      "id": "d10220cd6312"
     },
     {
-     "title": "Is the #1 AI Model Really #1?",
-     "link": "https://towardsdatascience.com/is-the-1-ai-model-really-1/",
-     "source": "Towards Data Science",
-     "published": "2026-10-29T12:30:00+00:00",
-     "copete": "On a 2,000-question test, my top two models couldn't be told apart at the usual 5% level. On a 200-question version, a different model would have taken first place about three times in ten. The post Is the #1 AI Model Really #1? appeared…",
-     "id": "9307c202831e"
+     "title": "The AI Skills That Actually Show Up in Job Postings Right Now",
+     "link": "https://www.kdnuggets.com/the-ai-skills-that-actually-show-up-in-job-postings-right-now",
+     "source": "KDnuggets",
+     "published": "2026-10-29T14:00:00+00:00",
+     "copete": "Which AI skills appear most often in job postings right now, and what do they mean for your career?",
+     "id": "53747a548ba4"
     }
    ]
   },
@@ -255,100 +272,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "La “Ley Wenger”, al borde del rechazo: el experimento en Canadá que generó dudas sobre el cambio en la regla del fuera de juego",
-     "link": "https://www.infobae.com/deportes/2026/10/29/la-ley-wenger-al-borde-del-rechazo-el-experimento-en-canada-que-genero-dudas-sobre-el-cambio-en-la-regla-del-fuera-de-juego/",
+     "title": "Cómo fue el escándalo en PH Podemos Hablar entre Santiago Maratea y la China Ansa: “Se repicó mal”",
+     "link": "https://www.infobae.com/teleshow/2026/10/29/como-fue-el-escandalo-en-ph-podemos-hablar-entre-santiago-maratea-y-la-china-ansa-se-repico-mal/",
      "source": "Infobae",
-     "published": "2026-10-29T19:39:31+00:00",
-     "copete": "Las pruebas realizadas durante 112 partidos en Canadá revelaron un efecto inesperado: las defensas retrasaron sus líneas para neutralizar la ventaja de los atacantes",
-     "id": "40ca794713e0"
+     "published": "2026-10-29T23:55:09+00:00",
+     "copete": "La álgida discusión obligó a Andy Kusnetzoff a frenar la grabación. La palabra del infuencer y la periodista. Qué dijo el conductor. La información de Teleshow",
+     "id": "0f8a98a6f62b"
     },
     {
-     "title": "Maddie Messina, especialista en comportamiento animal: “Los perros eligen a su dueño y valoran recursos, comida y juegos”",
-     "link": "https://www.lanacion.com.ar/lifestyle/mascotas/maddie-messina-especialista-en-comportamiento-animal-los-perros-eligen-a-su-dueno-y-valoran-recursos-nid29102026/",
-     "source": "La Nación",
-     "published": "2026-10-29T19:38:44+00:00",
-     "copete": "Los animales domésticos establecen preferencias claras dentro del hogar; esta conducta depende de motivos como la atención y el vínculo afectivo que construyen con sus cuidadores",
-     "id": "8a09e73b779e"
-    },
-    {
-     "title": "Choque de trenes en España, EN VIVO: qué pasó en Toledo y las últimas noticias del accidente mientras sigue la búsqueda de víctimas",
-     "link": "https://www.lanacion.com.ar/el-mundo/choque-de-trenes-en-espana-en-vivo-que-paso-en-toledo-y-las-ultimas-noticias-del-accidente-mientras-nid29102026/",
-     "source": "La Nación",
-     "published": "2026-10-29T19:37:48+00:00",
-     "copete": "El incidente ferroviario se produjo el miércoles por la mañana; el servicio de alta velocidad se encuentra totalmente suspendido; confirmaron una víctima argentina y otra permanece desaparecida",
-     "id": "159e42cb60a9"
-    },
-    {
-     "title": "La presidenta de Perú, Keiko Fujimori, recorrió el CECOT para evaluar el sistema carcelario salvadoreño",
-     "link": "https://www.infobae.com/el-salvador/2026/10/29/la-presidenta-de-peru-keiko-fujimori-recorrio-el-cecot-para-evaluar-el-sistema-carcelario-salvadoreno/",
+     "title": "Las centrales de gas para centros de datos borrarían 15 años de reducción de emisiones de CO2 en Estados Unidos",
+     "link": "https://www.infobae.com/tecno/2026/10/29/las-centrales-de-gas-para-centros-de-datos-borrarian-15-anos-de-reduccion-de-emisiones-de-co2-en-estados-unidos/",
      "source": "Infobae",
-     "published": "2026-10-29T19:37:47+00:00",
-     "copete": "Acompañada por los encargados de Interior y Cancillería, la funcionaria conoció los módulos del CECOT para interiorizarse sobre los sistemas de custodia desplegados ante el crimen organizado",
-     "id": "6ca48d77ba6c"
+     "published": "2026-10-29T23:52:12+00:00",
+     "copete": "La mayor parte del aumento vendría de plantas fuera de la red eléctrica, construidas por las propias tecnológicas",
+     "id": "64e1ffe911fb"
     },
     {
-     "title": "Mercado Pago, a un paso de convertirse en banco: el BCRA dio aprobación técnica a la licencia pedida por la empresa de Marcos Galperin",
-     "link": "https://www.infobae.com/economia/2026/10/29/mercado-pago-a-un-paso-de-convertirse-en-banco-el-bcra-dio-aprobacion-tecnica-a-la-licencia-pedida-por-la-empresa-de-marcos-galperin/",
-     "source": "Infobae",
-     "published": "2026-10-29T19:37:09+00:00",
-     "copete": "El trámite fue aprobado por la Superintendencia de Entidades Financieras. El trámite final requerirá el OK del Directorio del Banco Central",
-     "id": "133774533118"
-    },
-    {
-     "title": "Libros a precio “de oportunidad: lanzan una feria a cielo abierto con charlas, música y títulos en oferta",
-     "link": "https://www.infobae.com/cultura/2026/10/29/libros-a-precio-de-oportunidad-lanzan-una-feria-a-cielo-abierto-con-charlas-musica-y-titulos-en-oferta/",
-     "source": "Infobae",
-     "published": "2026-10-29T19:36:30+00:00",
-     "copete": "El microcentro porteño recibirá, el sábado y el domingo, un encuentro gratuito con stands de editoriales, presentaciones de escritores y promociones en bares de la zona",
-     "id": "bc9e8f8b57b6"
-    },
-    {
-     "title": "Esperando a Godot: una notable versión de uno de los textos más importantes del teatro",
-     "link": "https://www.lanacion.com.ar/espectaculos/teatro/esperando-a-godot-una-notable-version-de-uno-de-los-textos-mas-importantes-del-teatro-nid29102026/",
+     "title": "La China Ansa se refirió a su enfrentamiento con Santiago Maratea en PH: “Toqué una fibra que lo descolocó”",
+     "link": "https://www.lanacion.com.ar/espectaculos/personajes/la-china-ansa-se-refirio-a-su-enfrentamiento-con-santiago-maratea-en-ph-le-toque-una-fibra-que-lo-nid29102026/",
      "source": "La Nación",
-     "published": "2026-10-29T19:36:27+00:00",
-     "copete": "Con los protagónicos de Daniel Aráoz, Luis Ziembrowski, la pieza se presenta en el teatro Alvear",
-     "id": "2542b9692d1c"
+     "published": "2026-10-29T23:49:40+00:00",
+     "copete": "La concursante de MasterChef Celebrity contó su versión sobre la fuerte discusión que mantuvo con el influencer en la grabación del programa conducido por Andy Kusnetzoff",
+     "id": "e4b45758fc07"
     },
     {
-     "title": "Kendall Jenner revela cómo la cultura de la cancelación cambió a el programa ‘Keeping Up with the Kardashians’: “La situación ha empeorado”",
-     "link": "https://www.infobae.com/entretenimiento/2026/10/29/kendall-jenner-revela-como-la-cultura-de-la-cancelacion-cambio-a-el-programa-keeping-up-with-the-kardashians-la-situacion-ha-empeorado/",
+     "title": "Conrado Estol, neurólogo, sobre qué implica la salud: “No es solo la ausencia de enfermedad, es mucho más que eso”",
+     "link": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-sobre-que-implica-la-salud-no-es-solo-la-ausencia-de-enfermedad-es-mucho-mas-nid29102026/",
+     "source": "La Nación",
+     "published": "2026-10-29T23:49:00+00:00",
+     "copete": "En una entrevista para LA NACION, el neurólogo advirtió que los hábitos de vida inciden en la mitad de la salud genética; remarcó la importancia de la prevención temprana para evitar enfermedades crónicas",
+     "id": "33c93ddb3207"
+    },
+    {
+     "title": "“Mi mayor decepción con estudiantes de MBA es que siempre quieren hacer lo que estaba de moda hace 5 años”: Sam Altman, creador de ChatGPT",
+     "link": "https://www.infobae.com/tecno/2026/10/29/mi-mayor-decepcion-con-estudiantes-de-mba-es-que-siempre-quieren-hacer-lo-que-estaba-de-moda-hace-5-anos-sam-altman-creador-de-chatgpt/",
      "source": "Infobae",
-     "published": "2026-10-29T19:36:23+00:00",
-     "copete": "La modelo explicó que las críticas públicas han cambiado la manera en que ella y su familia se muestran ante las cámaras",
-     "id": "91c4ed818b1c"
+     "published": "2026-10-29T23:48:45+00:00",
+     "copete": "El empresario cofundó Loopt en 2005, tras abandonar sus estudios de computación en Stanford",
+     "id": "3349fd81987c"
     },
     {
-     "title": "Altura de los ríos en la Argentina, según Prefectura: esta es la situación y los niveles de alerta hoy, jueves 29 de octubre",
-     "link": "https://www.lanacion.com.ar/sociedad/altura-de-los-rios-en-la-argentina-segun-prefectura-esta-es-la-situacion-y-los-niveles-de-alerta-hoy-nid29102026/",
+     "title": "La importante obra en el Autódromo de Buenos Aires para avanzar con el sueño de la F1: la fecha clave para concretar las negociaciones",
+     "link": "https://www.infobae.com/deportes/2026/10/29/la-importante-obra-en-el-autodromo-de-buenos-aires-para-avanzar-con-el-sueno-de-la-f1-la-fecha-clave-para-concretar-las-negociaciones/",
+     "source": "Infobae",
+     "published": "2026-10-29T23:48:42+00:00",
+     "copete": "Comenzó el asfaltado del Oscar y Juan Gálvez. El detalles de los trabajos y por qué el panorama se encamina a poder repatriar a la Máxima en los próximos años",
+     "id": "1d54858367b4"
+    },
+    {
+     "title": "El Senado aprobó la amortización anticipada en Ganancias para inversiones desde los USD 12 millones",
+     "link": "https://www.infobae.com/politica/2026/10/29/el-senado-aprobo-la-amortizacion-anticipada-en-ganancias-para-inversiones-desde-los-usd-12-millones/",
+     "source": "Infobae",
+     "published": "2026-10-29T23:46:26+00:00",
+     "copete": "La denominada iniciativa “RIIR”, empujada por la Unión Cívica Radical, fue acompañada por el oficialismo y otros dialoguistas. Recibió 60 adhesiones y dos rechazos -santacruceños Elena Gadano y José María Carambia-, en la votación en…",
+     "id": "1406586fcf7e"
+    },
+    {
+     "title": "“Mi amigo del alma”: los expertos eligen sus obras preferidas en arteba",
+     "link": "https://www.lanacion.com.ar/cultura/mi-amigo-del-alma-los-expertos-eligen-sus-obras-preferidas-en-arteba-nid29102026/",
      "source": "La Nación",
-     "published": "2026-10-29T19:34:50+00:00",
-     "copete": "El parte registra estaciones por encima de los umbrales de evacuación en los ríos Paraná, Iguazú y Paraguay; también hay puertos en alerta y sectores con alturas estables o en descenso",
-     "id": "3075020c31ff"
+     "published": "2026-10-29T23:45:59+00:00",
+     "copete": "Curadores, creadores y representantes de instituciones comparten cuáles son sus piezas preferidas entre las de más de 400 artistas que se exhiben hasta el domingo en La Rural; la feria abre mañana al público",
+     "id": "5757c6f4a186"
     },
     {
-     "title": "Se aproximan 72 horas de lluvias y tormentas fuertes, con mejoras transitorias, y máximas que podrían trepar hasta los 27°C: las zonas afectadas",
-     "link": "https://www.lanacion.com.ar/sociedad/se-aproximan-72-horas-de-lluvias-y-tormentas-fuertes-con-mejoras-transitorias-y-maximas-que-podrian-nid29102026/",
+     "title": "Javier Milei y sus medidas, en vivo: sesión en el Senado y el viaje de Karina Milei a Rosario",
+     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-sesion-en-el-senado-y-el-viaje-de-karina-milei-a-rosario-nid29102026/",
      "source": "La Nación",
-     "published": "2026-10-29T19:34:46+00:00",
-     "copete": "Una baja presión en altura favorece la inestabilidad sobre la provincia de Buenos Aires y el AMBA; la humedad sostendrá un ambiente cálido y pegajoso antes de una ventana de sol durante el fin de semana",
-     "id": "8beabfecef7c"
+     "published": "2026-10-29T23:45:18+00:00",
+     "copete": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+     "id": "d2be5d591afb"
     },
     {
-     "title": "Feria Affair: ¿cómo comprar obras de arte pagando desde 300 hasta 7.000 dólares?",
-     "link": "https://www.clarin.com/cultura/feria-affair-comprar-obras-arte-pagando-300-7000-dolares_0_j9hL5rk7dO.html",
+     "title": "Cómo van las elecciones en EE.UU. hoy: resultados y minuto a minuto de las midterms entre republicanos y demócratas",
+     "link": "https://www.lanacion.com.ar/estados-unidos/washington/elecciones-estados-unidos-2026-en-vivo-que-se-sabe-de-las-midterms-hoy-jueves-29-de-octubre-nid29102026/",
+     "source": "La Nación",
+     "published": "2026-10-29T23:45:00+00:00",
+     "copete": "Elecciones Estados Unidos 2026, EN VIVO: sigue las últimas novedades de las midterms de este 29 de octubre. Más de tres millones de floridanos ya votaron y avanza la participación demócrata en California",
+     "id": "aaa66445cd01"
+    },
+    {
+     "title": "La FAO frente a los desafíos de un mundo en transformación",
+     "link": "https://www.clarin.com/rural/fao-frente-desafios-mundo-transformacion_0_FnscHudOUt.html",
      "source": "Clarín",
-     "published": "2026-10-29T19:30:58+00:00",
-     "copete": "En un recorrido por sus stands, aparecen piezas desde US$ 300 y trabajos que superan los US$ 6.000. La feria también propone precios especiales para compradores primerizos y descuentos para coleccionistas.",
-     "id": "628bb0bebcf3"
+     "published": "2026-10-29T23:28:56+00:00",
+     "copete": "La próxima conducción del organismo necesitará comprender que la seguridad alimentaria, la productividad agrícola y la protección ambiental no son objetivos necesariamente contrapuestos, sino dimensiones de un mismo desafío. Destacan las…",
+     "id": "8fa8d0e4db21"
     },
     {
-     "title": "Kamala Harris pide votar contra la \"tiranía\" de Trump en la recta final de la campaña",
-     "link": "https://www.clarin.com/estados-unidos/kamala-harris-pide-votar-contra-la-tirania-de-trump-en-la-recta-final-de-la-campana_0_JujjQ4xWDR.html",
+     "title": "Cristina, Macri, Milei y Cuba: todo está y todo vuelve en el avión en el que huyó Bolsonaro",
+     "link": "https://www.clarin.com/politica/cristina-macri-milei-cuba-vuelve-avion-huyo-bolsonaro_0_mRUMgHTX1i.html",
      "source": "Clarín",
-     "published": "2026-10-29T19:30:15+00:00",
-     "copete": "La exvicepresidenta, tras perder en 2024, insta a votar contra \"la tiranía\" republicana en comicios clave, apelando al poder ciudadano. Georgia, decisiva para demócratas, busca la reelección de su senador y un hito histórico en la…",
-     "id": "1c9da829fe2a"
+     "published": "2026-10-29T23:26:19+00:00",
+     "copete": "La empresa Baires Fly está señalada por el fiscal Picardi por blanquear dinero de presuntas coimas de la Agencia Nacional de Discapacidad.",
+     "id": "d4345cdf9e41"
     }
    ]
   },
@@ -361,81 +378,81 @@
      "title": "Al menos 69 muertos en un choque de trenes de alta velocidad en España tras una decisión \"inexplicable\" del centro de control",
      "link": "https://www.bbc.co.uk/mundo/live/c6lyk9npxzqlt?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-10-29T19:42:55.933519+00:00",
+     "published": "2026-10-29T23:59:31.637949+00:00",
      "copete": "El accidente ocurrió en la localidad de Urda, en Toledo. El presidente del gobierno español, Pedro Sánchez, dijo desde el lugar de la colisión que \"si ha habido fallos en el sistema de seguridad, se responderá con total contundencia\"",
      "id": "02a2f3be837a"
     },
     {
-     "title": "Cuál fue la posible causa del choque de trenes de alta velocidad que deja al menos 69 muertos en España",
-     "link": "https://www.bbc.com/mundo/articles/cqdjv79dkrdzo?at_medium=RSS&at_campaign=rss",
+     "title": "La oposición condena a Netanyahu por acusar a Qatar de interferir en las elecciones de Israel a favor de los partidos árabes",
+     "link": "https://www.bbc.com/mundo/articles/c5gm0p7yp89lo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-10-29T19:19:34+00:00",
-     "copete": "El gobierno apunta a un \"error humano\" como causa del segundo siniestro con decenas de muertos en los trenes españoles en menos de un año.",
-     "id": "eb637ecfc9bc"
+     "published": "2026-10-29T23:50:32+00:00",
+     "copete": "El partido Likud del primer ministro denunció injerencias extranjeras y dijo que los partidos liderados por árabes \"robaron\" las elecciones después de que su coalición perdiera la mayoría.",
+     "id": "3b01b2cf727c"
     },
     {
-     "title": "Cómo Israel encontró en la nueva derecha de América Latina una aliada clave en medio de una pérdida de apoyo internacional",
-     "link": "https://www.bbc.com/mundo/articles/cde0y18jxe5o?at_medium=RSS&at_campaign=rss",
+     "title": "\"Vinimos a luchar contra los malvados\": Bukele muestra las imágenes del despliegue militar de El Salvador en Haití para rescatar a 4 soldados secuestrados por las pandillas",
+     "link": "https://www.bbc.com/mundo/articles/cm20wdy1w5p8o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-10-29T18:49:06+00:00",
-     "copete": "Las relaciones entre Israel y América Latina atraviesan un nuevo impulso. Estas son algunas de las razones que explican este acercamiento.",
-     "id": "3e74ede1acca"
+     "published": "2026-10-29T23:19:10+00:00",
+     "copete": "Las tropas están intentando recuperar a cuatro militares desaparecidos en una emboscada en las afueras de Puerto Príncipe, la capital de Haití.",
+     "id": "b453d0650603"
     },
     {
-     "title": "Cómo ocurrió el choque de dos trenes de alta velocidad que dejó decenas de muertos en España",
-     "link": "https://www.bbc.com/mundo/watch/cmx23e0y93w9o?at_medium=RSS&at_campaign=rss",
+     "title": "\"No hay palabras para describir tanto dolor\": Urda, el pueblo que se movilizó para ayudar a las víctimas tras el accidente de trenes en España",
+     "link": "https://www.bbc.com/mundo/articles/cwvgr021p725o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-10-29T18:08:34+00:00",
-     "copete": "Es una de las peores tragedias ferroviarias en la historia de España.",
-     "id": "e881f3aa74aa"
+     "published": "2026-10-29T22:56:08+00:00",
+     "copete": "Urda es un pueblo pequeño, de poco más de 2.500 habitantes. Nadie espera que una tragedia de esta magnitud ocurra junto a su casa, en sus campos, en una vía del tren que forma parte de la vida cotidiana de la comarca, explica desde allí la…",
+     "id": "6972441ebea6"
     },
     {
-     "title": "Xi realiza la mayor purga en el Partido Comunista chino desde que es presidente y califica a la corrupción como la \"mayor amenaza\"",
-     "link": "https://www.bbc.com/mundo/articles/cj62y4eq3d26o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-10-29T18:02:27+00:00",
-     "copete": "Según los analistas, la campaña anticorrupción de Xi se ha convertido en \"un esfuerzo por consolidar y mantener la autoridad\".",
-     "id": "040776047788"
-    },
-    {
-     "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-     "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+     "title": "Young athlete and former minister among victims of Spain train crash",
+     "link": "https://www.bbc.co.uk/news/articles/cr78plp1p9yvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-10-29T17:02:59+00:00",
-     "copete": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
-     "id": "eff192d75243"
-    },
-    {
-     "title": "La candidata de La Izquierda en Berlín teme por su vida al oponerse a radicales afines a su partido",
-     "link": "https://elpais.com/internacional/2026-10-29/la-candidata-de-la-izquierda-en-berlin-teme-por-su-vida-al-oponerse-a-radicales-afines-a-su-partido.html",
-     "source": "El País Internacional",
-     "published": "2026-10-29T16:28:11+00:00",
-     "copete": "Die Linke difunde por error un documento en el que Elif Eralp admite miedo por sus críticas a sectores cercanos a Hamás",
-     "id": "5d14603b9612"
+     "published": "2026-10-29T21:33:35+00:00",
+     "copete": "As some of the victims' names are released publicly, an outpouring of grief and anger is sweeping across Spain.",
+     "id": "07f5fbec965a"
     },
     {
      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
      "link": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-10-29T16:26:02+00:00",
+     "published": "2026-10-29T21:31:12+00:00",
      "copete": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
      "id": "e8eb4e27e851"
     },
     {
-     "title": "Cómo y dónde votar en Florida para las ‘midterms’ de 2026",
-     "link": "https://elpais.com/us/2026-10-29/como-y-donde-votar-en-florida-para-las-midterms-de-2026.html",
+     "title": "Las maniobras demócratas en Alaska dan munición a Trump para no acatar el resultado de las elecciones",
+     "link": "https://elpais.com/us/2026-10-29/las-maniobras-democratas-en-alaska-dan-municion-a-trump-para-no-acatar-el-resultado-de-las-elecciones.html",
      "source": "El País Internacional",
-     "published": "2026-10-29T15:56:55+00:00",
-     "copete": "La votación anticipada ha dado inicio y seguirá en distintos condados hasta el 1 de noviembre",
-     "id": "2c4fa9c28370"
+     "published": "2026-10-29T21:12:28+00:00",
+     "copete": "Crecen los llamados republicanos para que la candidata al Senado Mary Peltola sea investigada después de que se revelara que su equipo maniobró para restarle votos a su contrincante en una carrera decisiva",
+     "id": "7ffa6dae9493"
     },
     {
-     "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-     "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+     "title": "Al menos cuatro muertos al estrellarse un helicóptero militar italiano en Bosnia",
+     "link": "https://elpais.com/internacional/2026-10-29/varios-muertos-al-estrellarse-un-helicoptero-militar-italiano-en-bosnia.html",
+     "source": "El País Internacional",
+     "published": "2026-10-29T20:52:14+00:00",
+     "copete": "La aeronave realizaba un entrenamiento rutinario cuando se produjo el siniestro, que está bajo investigación",
+     "id": "296358c93464"
+    },
+    {
+     "title": "Watch: What leaked audio reveals about Spain train crash",
+     "link": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-10-29T15:47:20+00:00",
-     "copete": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-     "id": "066ab2051e99"
+     "published": "2026-10-29T20:50:25+00:00",
+     "copete": "Recordings between a control centre and the train drivers appear to show one train was given clearance to move even though another train had stalled on the track.",
+     "id": "9971a5e4ef2e"
+    },
+    {
+     "title": "Muere a los 86 años Patrick Stewart, legendario actor de Star Trek y X-Men",
+     "link": "https://www.bbc.com/mundo/articles/crlyk9yp775zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-10-29T20:26:48+00:00",
+     "copete": "A lo largo de una trayectoria que abarcó siete décadas, Patrick Stewart obtuvo varios premios Emmy y Globos de Oro, una estrella en el Paseo de la Fama de Hollywood y el título de caballero otorgado por la reina Isabel II.",
+     "id": "adbb594c6f4d"
     }
    ]
   }
@@ -455,11 +472,6 @@
    "section": "cardiologia",
    "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "ciencia_datos",
-   "feed": "KDnuggets",
-   "error": "HTTP Error 403: Forbidden"
   }
  ]
 }

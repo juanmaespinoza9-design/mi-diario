@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-10-28T22:05:11Z",
+  "generated_at": "2026-10-29T10:05:41Z",
   "summaries": {
-    "be0b52508819": {
-      "resumen": "Nota de TCTMD (medio especializado en cardiología intervencionista) sobre un estudio que detectó signos tempranos de disfunción vascular y cardiorrespiratoria en usuarios habituales de cigarrillos electrónicos (vapeadores), antes incluso de que aparezcan síntomas clínicos. Vale la pena mirarlo porque el vapeo se expandió como alternativa supuestamente \"más segura\" al cigarrillo tradicional, y esta evidencia suma a la discusión sobre su impacto cardiovascular real a mediano plazo.",
-      "destacado": true,
-      "analisis": "Diseño: No se detalla en el título el tipo exacto de estudio; por el abordaje (comparar usuarios de vapeadores con no usuarios) probablemente se trate de un estudio observacional transversal o de cohorte que evalúa marcadores vasculares y cardiorrespiratorios, sin especificar número de centros ni de participantes.\nPoblación: Usuarios habituales de cigarrillos electrónicos (vapeadores), presumiblemente comparados con no fumadores/no vapeadores; no se detallan criterios de inclusión o exclusión.\nIntervención: No hay intervención terapéutica asignada; se trata de una comparación observacional entre el uso habitual de vapeadores y la ausencia de ese hábito.\nResultados: No disponibles; el título solo menciona la detección de \"signos tempranos\" de problemas vasculares y cardiorrespiratorios, sin cifras de magnitud, intervalos de confianza ni valor de p.\nLimitaciones: Al ser una nota periodística sin abstract disponible, no se puede valorar el tamaño muestral, el diseño exacto ni los posibles factores de confusión (como el antecedente de tabaquismo previo).\nMensaje: Si se confirma, reforzaría la necesidad de no asumir que el vapeo es cardiovascularmente inocuo, y de interrogar activamente sobre su consumo en la consulta.\nNota: análisis sin acceso al abstract."
-    },
-    "23f52b0c51f7": {
-      "resumen": "Boletín mensual de TCTMD con un resumen de las noticias más relevantes de cardiología intervencionista para el equipo cardiovascular, correspondiente a octubre de 2026. Vale la pena mirarlo como pantallazo rápido de la actualidad del área, más que como un estudio individual con resultados propios.",
-      "destacado": false
-    },
     "bb6fed768e81": {
       "resumen": "Carta de respuesta publicada en JACC (Journal of the American College of Cardiology, revista de la Sociedad Americana de Cardiología) dentro de un intercambio de correspondencia sobre las trayectorias de remodelado del músculo cardíaco y el riesgo de eventos cardiovasculares mayores (MACE, por sus siglas en inglés) en pacientes con miocardiopatía hipertrófica (HCM, por sus siglas en inglés) fenotípicamente leve. Vale la pena tenerlo en cuenta como parte del debate científico en curso sobre cómo seguir a estos pacientes, más que como un estudio nuevo en sí mismo.",
       "destacado": false
@@ -26,20 +17,9 @@
       "resumen": "Nota de TCTMD sobre cómo los cardiólogos vienen lidiando con contenido generado por inteligencia artificial en las diapositivas de congresos y presentaciones científicas, con el riesgo de que se filtren datos falsos o mal verificados. Vale la pena mirarla porque la inteligencia artificial generativa ya se usa para armar presentaciones médicas y plantea nuevos interrogantes sobre el rigor científico de lo que se expone en las charlas.",
       "destacado": false
     },
-    "ee0f8c022f9f": {
-      "resumen": "Nota de TCTMD que anticipa los temas que más va a dar que hablar en el congreso anual de la American Heart Association (AHA, Asociación Americana del Corazón) 2026. Vale la pena mirarla como guía rápida de qué estudios y sesiones conviene seguir de cerca cuando se difundan los resultados del congreso.",
-      "destacado": false
-    },
     "6c0b100a4d4e": {
       "resumen": "Nota de TCTMD que repasa un compendio en tres partes publicado por varias sociedades científicas sobre la salud cardiovascular de la mujer. Vale la pena mirarlo porque sintetiza recomendaciones actualizadas sobre un área históricamente subdiagnosticada y subtratada en cardiología.",
       "destacado": false
-    },
-    "27b261dc9c42": {
-      "resumen": "Carta de comentario en JACC (Journal of the American College of Cardiology, revista de la Sociedad Americana de Cardiología) que forma parte del mismo intercambio de correspondencia sobre las trayectorias de remodelado cardíaco y el riesgo de eventos cardiovasculares mayores (MACE, por sus siglas en inglés) en pacientes con miocardiopatía hipertrófica (HCM, por sus siglas en inglés) fenotípicamente leve, centrada en si esas trayectorias de riesgo pueden usarse como variables sustitutas (surrogate endpoints) válidas para la práctica. Vale la pena tenerlo en cuenta como parte del debate metodológico en curso, más que como un estudio nuevo con datos propios.",
-      "destacado": false
-    },
-    "d43430f0070b": {
-      "resumen": "Los Pumas confirmaron que Santiago Carreras sufrió una lesión grave y su presencia en el Mundial queda en duda por los tiempos de recuperación."
     },
     "be1cc9b592ad": {
       "resumen": "Artículo de perspectiva en JACC (Journal of the American College of Cardiology, revista de la Sociedad Americana de Cardiología) firmado por Krumholz y colaboradores sobre las limitaciones de los métodos de inferencia causal (técnicas estadísticas que buscan estimar efectos de causa-efecto a partir de datos observacionales) cuando se usan para guiar decisiones clínicas. Vale la pena mirarlo porque advierte sobre los límites de confiar ciegamente en estos métodos a la hora de reemplazar a los ensayos clínicos aleatorizados.",
@@ -47,10 +27,6 @@
     },
     "ad8626efb484": {
       "resumen": "Artículo de Towards Data Science que explica cómo integrar inteligencia artificial en procesos de negocio de punta a punta, en lugar de usarla solo para tareas aisladas. Le sirve a un médico que aprende análisis de datos para pensar en cómo encadenar varias herramientas de inteligencia artificial dentro de un flujo de trabajo completo, por ejemplo en farmacovigilancia.",
-      "destacado": false
-    },
-    "e110f678c5c3": {
-      "resumen": "Nota de Hacker News sobre un taller artesanal que usa máquinas de control numérico (CNC) para tallar piedra, combinando diseño digital con oficio tradicional. Aporta poco a la ciencia de datos en sí, pero puede interesar como ejemplo de cómo el control por computadora se mete incluso en oficios manuales.",
       "destacado": false
     },
     "b140a7b5bd95": {
@@ -61,35 +37,63 @@
       "resumen": "Guía práctica de KDnuggets sobre cómo usar OpenRouter (un servicio que permite acceder a múltiples modelos de inteligencia artificial desde una sola conexión) dentro de aplicaciones Python. Le sirve mucho a un médico que está dando sus primeros pasos en programación, porque muestra con código concreto cómo probar distintos modelos sin tener que contratar cada uno por separado.",
       "destacado": true
     },
-    "93b9dc1d3128": {
-      "resumen": "Simon Willison (desarrollador reconocido por documentar el uso práctico de inteligencia artificial) analiza el salto reciente en la calidad de los videojuegos generados con ayuda de inteligencia artificial (\"vibe coding\", programar describiendo lo que se quiere en lenguaje natural). Le sirve a un médico que aprende análisis de datos como termómetro de hasta dónde puede llegar hoy la programación asistida por inteligencia artificial, aun sin ser programador de formación.",
+    "866ee7fd1faf": {
+      "resumen": "Nota de TCTMD sobre un estudio de cohorte que encontró que tener un puntaje elevado de calcio en las arterias coronarias (CAC, por sus siglas en inglés, una medida de la cantidad de calcio depositado en las paredes arteriales que se obtiene con tomografía) en adultos jóvenes se asocia con mayor riesgo de morir en los siguientes 30 años. Vale la pena mirarlo porque refuerza la idea de detectar aterosclerosis temprana (acumulación de placa en las arterias) incluso en pacientes jóvenes sin síntomas.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio de cohorte observacional con seguimiento a muy largo plazo (30 años) en adultos jóvenes, según se desprende del título; la nota de TCTMD no detalla el número de centros ni de pacientes.\nPoblación: Adultos jóvenes sin antecedentes cardiovasculares conocidos al momento basal, en quienes se midió el puntaje de calcio coronario (CAC).\nIntervención: No aplica una intervención farmacológica; es un estudio observacional que compara categorías de puntaje de CAC (alto vs. bajo o ausente).\nResultados: El título indica una asociación entre CAC elevado y mayor mortalidad a 30 años, pero no se dispone de las cifras de riesgo relativo, intervalos de confianza ni valor de p.\nLimitaciones: Al ser observacional, no permite establecer causalidad; un seguimiento tan prolongado puede arrastrar cambios no controlados en tratamiento y estilo de vida de los participantes.\nMensaje: Refuerza el valor pronóstico a largo plazo del CAC incluso en población joven, lo que podría apoyar su uso para estratificar riesgo de forma más temprana.\nNota: análisis sin acceso al abstract."
+    },
+    "a681201008d6": {
+      "resumen": "Nota de TCTMD sobre un subestudio del ensayo LAUNCH-HTN que evaluó lorundrostat (un inhibidor de la aldosterona sintasa, enzima clave en la producción de esta hormona que eleva la presión arterial) en pacientes con enfermedad renal crónica (ERC), con reducción de la presión arterial y de la albuminuria (pérdida de proteínas por la orina, marcador de daño renal). Vale la pena mirarlo porque suma evidencia sobre una nueva clase de fármacos para la hipertensión resistente en pacientes con compromiso renal.",
+      "destacado": true,
+      "analisis": "Diseño: Subestudio (análisis de un subgrupo) del ensayo LAUNCH-HTN; el título no detalla si fue aleatorizado o ciego, ni el número de centros o pacientes incluidos en este subanálisis.\nPoblación: Pacientes con presión arterial elevada y enfermedad renal crónica (ERC) concomitante, probablemente con albuminuria basal.\nIntervención: Lorundrostat (inhibidor de la aldosterona sintasa) comparado presumiblemente contra placebo u otro tratamiento antihipertensivo estándar, según el diseño general del programa LAUNCH-HTN.\nResultados: El título reporta reducción de la presión arterial y de la albuminuria, pero no hay cifras de magnitud de efecto, intervalos de confianza ni valor de p disponibles.\nLimitaciones: Al ser un subestudio, el poder estadístico suele ser menor que en el ensayo principal; falta conocer el tiempo de seguimiento y los efectos adversos, en particular la hiperpotasemia, propia de esta clase de fármacos.\nMensaje: Si se confirma en el ensayo principal, lorundrostat podría sumarse como opción para la hipertensión difícil de controlar en pacientes renales, una población que suele quedar afuera de los grandes ensayos.\nNota: análisis sin acceso al abstract."
+    },
+    "8b3c6c2a6108": {
+      "resumen": "Resumen mensual de TCTMD con lo más destacado de octubre 2026 en cardiología: un repaso de las noticias, estudios y controversias que más repercutieron en el mes. Vale la pena mirarlo como punto de partida rápido para no perderse nada importante.",
       "destacado": false
     },
-    "28c9ad1a666f": {
-      "resumen": "Nota de Religion News, vía Hacker News, sobre un hombre de Kentucky que logró una exención religiosa como humanista secular para no tener que interactuar con sistemas de inteligencia artificial en su trabajo. No es ciencia de datos en sentido estricto, pero ilustra el debate social creciente sobre los límites éticos y legales al uso obligatorio de inteligencia artificial.",
+    "8d9cb2c3fd13": {
+      "resumen": "Artículo de revisión en JACC (Journal of the American College of Cardiology) sobre cómo interpretar la troponina cardíaca de alta sensibilidad (una proteína que se libera cuando hay daño en el músculo cardíaco y que se mide con ensayos muy sensibles) en la práctica clínica, remarcando que un valor elevado no equivale por sí solo a un diagnóstico de infarto. Vale la pena mirarlo porque es una de las pruebas más usadas en las guardias y su mala interpretación genera diagnósticos erróneos.",
       "destacado": false
     },
-    "e5b3578f0403": {
-      "resumen": "Nota de MIT Technology Review, vía Hacker News, sobre los 50 años del editor de texto Emacs, una de las herramientas de programación más longevas y personalizables que existen. Aporta poco de ciencia de datos en sí, pero es un recordatorio de cómo ciertas herramientas de programación se sostienen durante décadas gracias a comunidades muy activas.",
+    "271134257c4a": {
+      "resumen": "Post de Hacker News que señala que la función de barra de estado de Claude Code (asistente de programación con inteligencia artificial) puede consumir entre el 15% y el 20% de los tokens (unidades de texto que se cobran y limitan el uso de un modelo de lenguaje) de una sesión solo para mostrar un texto de tres palabras. Le sirve a un médico que recién arranca con estas herramientas para entender que el costo de usar un asistente de inteligencia artificial depende tanto del modelo como de su configuración.",
       "destacado": false
     },
-    "f58d318aa292": {
-      "resumen": "Investigación de Wired, vía Hacker News, sobre un operativo de vigilancia a gran escala que el servicio de inmigración de Estados Unidos (ICE) estaría llevando adelante sobre movimientos de izquierda. No es ciencia de datos en sentido técnico, pero toca el uso de análisis masivo de datos y vigilancia por parte de organismos estatales, un tema sensible para cualquiera que trabaje con datos personales.",
+    "44e3e5f137f8": {
+      "resumen": "Experimento publicado en Hacker News que muestra un procesador RISC-V (una arquitectura de hardware simple y abierta) funcionando de forma determinística dentro del modelo de lenguaje Qwen3.5, es decir, usando inteligencia artificial para simular una computadora completa. Aporta una idea curiosa sobre hasta dónde puede llegar un modelo de lenguaje al ejecutar lógica paso a paso.",
       "destacado": false
     },
-    "2c33a40a8cc2": {
-      "resumen": "Artículo de Towards Data Science que explica, con visualizaciones, qué son las redes de Kolmogorov-Arnold (KAN), una alternativa a las redes neuronales tradicionales que reemplaza los pesos fijos por funciones aprendibles en cada conexión. Le sirve a un médico que aprende análisis de datos como introducción visual a una familia de modelos nueva y más interpretable que las redes neuronales clásicas.",
+    "c6d25904346f": {
+      "resumen": "Aviso de un incidente de seguridad en GitLab (plataforma de alojamiento de código) por un intento de explotación de la vulnerabilidad identificada como CVE-2026-97229 (CVE es el identificador estándar que se usa para catalogar fallas de seguridad conocidas). Le sirve a quien está aprendiendo análisis de datos para tomar conciencia de que las herramientas de desarrollo que se usan a diario también son blanco de ataques y requieren actualizarse.",
       "destacado": false
     },
-    "7c2da1897a37": {
-      "resumen": "Artículo de KDnuggets que prueba, en una computadora local, si un modelo de inteligencia artificial de código abierto puede generar texto capaz de esquivar los detectores de contenido generado por inteligencia artificial. Le sirve a un médico que aprende análisis de datos porque muestra los límites actuales de esos detectores, algo relevante a la hora de evaluar textos científicos o trabajos académicos.",
+    "75f2ee2fae25": {
+      "resumen": "Dato de Hacker News que muestra que Stack Overflow (el foro de referencia para resolver dudas de programación) ya recibe menos de 1000 preguntas nuevas por mes, un derrumbe asociado al uso creciente de asistentes de inteligencia artificial para programar. Le sirve a un médico que está aprendiendo análisis de datos porque anticipa que gran parte del aprendizaje hoy pasa por la inteligencia artificial y no por los foros tradicionales.",
       "destacado": false
     },
-    "d4c4854cb4bb": {
-      "resumen": "El wing de Los Pumas se rompió el ligamento cruzado y su presencia en el próximo Mundial quedó en duda por los tiempos de recuperación."
+    "b0fbfced4c00": {
+      "resumen": "Cita de Ted Sanders recopilada por Simon Willison sobre que el desempeño de los modelos de lenguaje (LLM, por sus siglas en inglés) es muy multidimensional: no hay una jerarquía fija donde el mejor modelo en matemática también sea el mejor contando chistes. Le sirve a un médico que está evaluando qué herramienta de inteligencia artificial usar para entender que conviene elegir el modelo según la tarea puntual y no por un ranking general.",
+      "destacado": false
     },
-    "cdfc56f5f0f8": {
-      "resumen": "Un club europeo elogió con fuerza el rendimiento de un jugador mendocino de Los Pumas, al que calificó como un \"guerrero argentino\"."
+    "657e355dce8d": {
+      "resumen": "Hilo de Reddit en la comunidad r/datascience donde alguien pregunta cómo mejorar en serio sus habilidades de ciencia de datos. Le sirve a un médico que está empezando en este campo porque refleja las mismas dudas típicas de cualquiera que arranca: por dónde estudiar, qué proyectos hacer y cómo salir del estancamiento inicial.",
+      "destacado": false
+    },
+    "d8f853e661d6": {
+      "resumen": "Resumen de Simon Willison sobre el informe anual Octoverse 2026 de GitHub (la plataforma más usada para alojar código), presentado por el vicepresidente ejecutivo Jay Parikh en la conferencia GitHub Universe, con las cifras más destacadas del año sobre uso de la plataforma e inteligencia artificial en el desarrollo de software. Le sirve a quien aprende análisis de datos para tener una foto actualizada de hacia dónde va la programación asistida por inteligencia artificial.",
+      "destacado": false
+    },
+    "1d5a40b654c7": {
+      "resumen": "Terminó la concentración de Los Pumas en Londres, previa a sus próximos compromisos internacionales."
+    },
+    "1e7afb00bf26": {
+      "resumen": "El entrenador de forwards Eduardo Bello vuelve a Los Pumas después de dos años afuera y asegura que puede aportarle lo que necesita el scrum."
+    },
+    "7db4ec660f3e": {
+      "resumen": "La prensa irlandesa anticipa que Los Pumas llegarán a Dublín con la decisión de revertir su mal momento."
+    },
+    "943d37e127d5": {
+      "resumen": "Una columna de opinión reflexiona sobre cómo el miedo a perder termina paralizando a la hora de tomar decisiones."
     }
   }
 }

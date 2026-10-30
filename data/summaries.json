@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T10:05:50Z",
+  "generated_at": "2026-10-30T22:04:31Z",
   "summaries": {
     "8d9cb2c3fd13": {
       "resumen": "Artículo de revisión en JACC (Journal of the American College of Cardiology) sobre cómo interpretar la troponina cardíaca de alta sensibilidad (una proteína que se libera cuando hay daño en el músculo cardíaco y que se mide con ensayos muy sensibles) en la práctica clínica, remarcando que un valor elevado no equivale por sí solo a un diagnóstico de infarto. Vale la pena mirarlo porque es una de las pruebas más usadas en las guardias y su mala interpretación genera diagnósticos erróneos.",
@@ -45,54 +45,54 @@
       "destacado": false,
       "analisis": "Diseño: Estudio observacional de práctica real (tipo registro o cohorte) que describe la evolución temporal del uso de anticoagulantes orales directos; no se dispone del abstract completo para precisar aleatorización, cegamiento ni el número exacto de centros o pacientes.\nPoblación: Pacientes con tromboembolismo venoso (TEV) asociado a cáncer tratados en la práctica clínica habitual, fuera del contexto de un ensayo controlado.\nIntervención: Comparación del uso de anticoagulantes orales directos (ACOD) frente a otras estrategias como la heparina de bajo peso molecular, a lo largo de distintos períodos de tiempo.\nResultados: El título señala un cambio (\"shift\") marcado hacia los ACOD, pero no hay cifras de magnitud, intervalos de confianza ni valor de p disponibles en el título ni en la fuente consultada.\nLimitaciones: Al tratarse de datos de práctica real, persiste el riesgo de sesgo de selección y de indicación médica, además de depender de la calidad y completitud del registro.\nMensaje: Confirmaría en la práctica cotidiana la tendencia que marcaron los ensayos que posicionaron a los ACOD como alternativa a la heparina en TEV oncológico, aunque sin datos duros no se puede cuantificar el verdadero impacto clínico de ese cambio.\nNota: análisis sin acceso al abstract."
     },
-    "672400a4a73e": {
-      "resumen": "Publicación de Simon Willison (especialista en inteligencia artificial) sobre cómo la empresa Spawn construyó un mundo de juego multijugador usando modelos autónomos de la familia Fable, que generan contenido y comportamiento del juego sin intervención humana constante. Le sirve a un médico que aprende análisis de datos para ver un caso extremo de cómo los agentes de inteligencia artificial pueden operar de forma autónoma en sistemas complejos, más allá de responder preguntas puntuales.",
+    "c6a737619b11": {
+      "resumen": "Hilo de r/datascience (comunidad de Reddit sobre ciencia de datos) que debate qué es el \"harness engineering\": el trabajo de armar el andamiaje (herramientas, chequeos y reglas) alrededor de un agente de inteligencia artificial para que use bien sus herramientas, en lugar de limitarse a escribirle un buen prompt. Le sirve a un médico que aprende análisis de datos porque muestra que el valor hoy está en diseñar el entorno de trabajo del agente, no solo en pedirle cosas.",
       "destacado": false
     },
-    "076f59b7bcda": {
-      "resumen": "Artículo de Towards Data Science que explica por qué dos elementos pueden tener etiquetas distintas en un sistema de clasificación pero resultar muy similares al compararlos mediante embeddings (representaciones numéricas vectoriales que capturan el significado de un texto o imagen), lo que cuestiona las métricas tradicionales de recuperación de información. Le sirve a un médico que aprende análisis de datos porque muestra una limitación real de los métodos de clasificación automática, relevante por ejemplo al clasificar reportes de eventos adversos en farmacovigilancia.",
+    "7b402e9b6da8": {
+      "resumen": "Nota del Financial Times, replicada en Hacker News, sobre advertencias de Blackstone (gestora de inversiones) de que Anthropic podría no conseguir una calificación crediticia de grado de inversión tras su eventual salida a bolsa (IPO). Le sirve a un médico que aprende análisis de datos para entender el contexto financiero detrás de las empresas de inteligencia artificial que usa a diario, más allá de la tecnología en sí.",
       "destacado": false
     },
-    "18c36f7241d2": {
-      "resumen": "Cita breve recopilada por Simon Willison de Ben Hylak, quien plantea con ironía que casi todos los productos deberían convertirse en un MCP (Model Context Protocol, protocolo que permite a un agente de inteligencia artificial conectarse con herramientas externas) sin interfaz visible, salvo el propio producto de quien lo dice. Le sirve a un médico que aprende análisis de datos para entender hacia dónde apunta la discusión sobre cómo los agentes de inteligencia artificial van a interactuar con las herramientas de software del futuro.",
+    "58bdc6b4d610": {
+      "resumen": "Proyecto de código abierto que logró emular un Nintendo (consola NES) usando una red neuronal de la familia Qwen comprimida a apenas 1 gigabyte de pesos, que predice cuadro a cuadro cómo debería verse el juego en lugar de correr el código original. Le sirve a un médico que aprende análisis de datos porque es un ejemplo concreto de \"modelo de mundo\" (world model): una red que aprende a simular un sistema dinámico a partir de datos, idea que también se usa para modelar procesos biológicos o de salud.",
       "destacado": false
     },
-    "d10220cd6312": {
-      "resumen": "Artículo de Towards Data Science que compara, con una simulación, dos métodos estadísticos para estimar el efecto de una intervención cuando los sujetos no fueron asignados al azar: diferencias en diferencias (comparar la evolución de un grupo tratado contra uno de control antes y después de la intervención) y regresión con resultado rezagado (ajustar por el valor previo de la variable de interés). Le sirve mucho a un médico que aprende análisis de datos porque estas son herramientas centrales de inferencia causal con datos observacionales, muy aplicables a farmacovigilancia y a evaluar intervenciones sanitarias sin ensayo aleatorizado.",
+    "39501fa59220": {
+      "resumen": "Aviso en r/datascience sobre un curso gratuito de datos sintéticos (información artificial generada para parecerse a datos reales sin exponer pacientes o usuarios reales) disponible en LinkedIn Learning. Le sirve a un médico que aprende análisis de datos porque los datos sintéticos son clave para entrenar y probar modelos en salud sin comprometer la privacidad de los pacientes.",
+      "destacado": false
+    },
+    "9e37c40a85b3": {
+      "resumen": "Artículo de opinión que sostiene que la inteligencia artificial no está reemplazando a los ingenieros de confiabilidad de sitios (SRE, encargados de que los sistemas informáticos no se caigan), sino que les está quitando habilidades al automatizarles las tareas de diagnóstico que antes los entrenaban. Le sirve a un médico que aprende análisis de datos como advertencia general: delegar demasiado en la inteligencia artificial puede frenar el propio aprendizaje de quien la usa.",
+      "destacado": false
+    },
+    "0ff9069790ce": {
+      "resumen": "Proyecto de arte generativo que dibuja flores de forma procedural (es decir, generadas por reglas matemáticas y no a mano) usando LaTeX, el lenguaje habitual para escribir documentos científicos. Le sirve a un médico que aprende análisis de datos como una puerta de entrada lúdica a la generación procedural, la misma lógica que después se usa para crear gráficos o simulaciones de datos de forma automática.",
+      "destacado": false
+    },
+    "334da0cc7f7d": {
+      "resumen": "Towards Data Science desarma un tuit viral que afirmaba que los modelos de lenguaje (LLM, por sus siglas en inglés) eligen el número 7 al azar entre 1 y 10 por culpa del descenso de gradiente (el método matemático con que se entrenan estos modelos), y muestra que la explicación real es más interesante. Le sirve a un médico que aprende análisis de datos para entender, con un ejemplo simple, por qué estos modelos no son aleatorios de verdad y cómo arrastran sesgos de los datos con los que se entrenaron.",
+      "destacado": false
+    },
+    "e3d534e9e114": {
+      "resumen": "Los autores de un hackatón de seguros creían que el binning (agrupar una variable continua en categorías) había sido la clave de su victoria, pero al repetir el experimento con varias semillas aleatorias y el mismo conjunto de variables descubrieron que el mérito real estaba en otro lado. Le sirve mucho a un médico que aprende análisis de datos porque es una lección concreta de rigor estadístico: antes de atribuirle un resultado a una técnica, hay que probarla de forma controlada y repetida.",
       "destacado": true
     },
-    "07b8277675a3": {
-      "resumen": "Simon Willison repasa cómo OpenAI empezó a ofrecer, para ciertas suscripciones de ChatGPT, un beneficio de créditos para usar su interfaz de programación de aplicaciones (API), algo similar a lo que Anthropic ya hace con sus planes Max y Team. Le sirve a un médico que está aprendiendo análisis de datos porque explica cómo convertir lo que ya pagás por una suscripción en uso de modelos de lenguaje por código, sin pagar dos veces.",
+    "bd4636a357c5": {
+      "resumen": "Tutorial de KDnuggets que muestra paso a paso cómo construir el clásico juego Breakout usando \"vibe coding\" (programar describiendo lo que uno quiere en lenguaje natural y dejando que un asistente de inteligencia artificial genere y ajuste el código). Le sirve a un médico que aprende análisis de datos como introducción práctica a programar apoyándose en un asistente de inteligencia artificial, sin necesidad de dominar antes cada detalle del lenguaje.",
       "destacado": false
     },
-    "d8eb5a4b641e": {
-      "resumen": "Un equipo de Y Combinator hizo correr 'enjambres' de agentes de inteligencia artificial —varios modelos coordinados entre sí— jugando a Minecraft y Mindustry, para observar cómo colaboran o compiten. Le sirve a quien se inicia en análisis de datos porque es un banco de pruebas entretenido para entender la coordinación entre múltiples agentes, una pieza cada vez más presente en las herramientas automatizadas de análisis.",
+    "7ff7f79ad869": {
+      "resumen": "Towards Data Science explica cómo convertir modelos de decisión (reglas o algoritmos que eligen qué acción tomar) en herramientas que un agente de inteligencia artificial puede invocar por su cuenta, en lugar de limitarse a buscar información. Le sirve a un médico que aprende análisis de datos porque muestra cómo combinar lógica de decisión clínica o administrativa con agentes de inteligencia artificial de forma estructurada y auditable.",
       "destacado": false
     },
-    "4c4b30fd3641": {
-      "resumen": "Un explorador de blockchain (herramienta que permite rastrear transacciones públicas de criptomonedas) identificó la billetera vinculada a un robo de 5600 millones de dólares a la casa de cambio Binance, uno de los mayores hackeos de la historia cripto. Le aporta a quien analiza datos porque muestra el poder de las herramientas de rastreo on-chain para seguir el flujo de fondos en tiempo real con información pública.",
-      "destacado": false
+    "e6f335e21e6c": {
+      "resumen": "Los Pumas (selección argentina de rugby) ya tienen confirmado el plantel que afrontará la segunda etapa del Nations Championship."
     },
-    "c30c38a613a7": {
-      "resumen": "Un desarrollador logró correr un modelo de mundo (world model, una red que aprende a predecir cómo evoluciona un juego) en una Raspberry Pi Pico 2 W, una placa de cómputo minúscula y de muy bajo consumo. Le sirve a un médico que estudia análisis de datos porque muestra que los modelos livianos de inteligencia artificial ya corren en hardware muy limitado, algo clave para pensar aplicaciones a pie de cama.",
-      "destacado": false
+    "f66f4e17c629": {
+      "resumen": "Un repaso por los jugadores radicados en Europa que refuerzan a Argentina XV, varios con pasado en Los Pumas y en Los Pumas 7's."
     },
-    "1ffd1f6b6f1e": {
-      "resumen": "Murió el actor Patrick Stewart, recordado por interpretar al Capitán Picard en Star Trek y al Profesor X en X-Men, dos de los personajes más queridos de la ciencia ficción. No tiene relación con análisis de datos ni cardiología; aparece en este feed porque fue tendencia en Hacker News, la comunidad tecnológica que nutre esta sección.",
-      "destacado": false
-    },
-    "53747a548ba4": {
-      "resumen": "KDnuggets analizó qué habilidades de inteligencia artificial aparecen realmente con más frecuencia en los avisos de trabajo actuales, más allá del bombo de las redes sociales. Le sirve a un médico en transición hacia el análisis de datos para saber qué herramientas y lenguajes conviene priorizar al armar su perfil profesional.",
-      "destacado": false
-    },
-    "a03ddc3f15e0": {
-      "resumen": "Un repaso por el nuevo certamen de Sudamérica Rugby, pensado como puntapié inicial para potenciar el crecimiento del rugby en la región."
-    },
-    "2af40be790fd": {
-      "resumen": "Una mirada al plantel de Los Cedros, el equipo que se consagró campeón de la Tercera División del rugby argentino."
-    },
-    "d5bafa862e6d": {
-      "resumen": "Ya se conoce el calendario de partidos que afrontará la delegación argentina en los Juegos Olímpicos de la Juventud."
+    "b3fc810ca097": {
+      "resumen": "Los Pumas confirmaron la lista de 33 convocados para el cierre del Nations Championship."
     }
   }
 }

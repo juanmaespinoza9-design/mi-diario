@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T22:04:50Z",
+  "generated_at": "2026-10-30T10:05:50Z",
   "summaries": {
     "8d9cb2c3fd13": {
       "resumen": "Artículo de revisión en JACC (Journal of the American College of Cardiology) sobre cómo interpretar la troponina cardíaca de alta sensibilidad (una proteína que se libera cuando hay daño en el músculo cardíaco y que se mide con ensayos muy sensibles) en la práctica clínica, remarcando que un valor elevado no equivale por sí solo a un diagnóstico de infarto. Vale la pena mirarlo porque es una de las pruebas más usadas en las guardias y su mala interpretación genera diagnósticos erróneos.",
@@ -9,9 +9,6 @@
       "resumen": "Carta de comentario en JACC que discute cómo alinear en el tiempo las trayectorias de remodelado cardíaco en pacientes con miocardiopatía hipertrófica (HCM) leve, dentro del mismo intercambio de correspondencia sobre riesgo de eventos cardiovasculares mayores. Vale la pena mirarlo porque toca un problema metodológico clave al estudiar enfermedades de evolución lenta: cómo comparar pacientes que están en distintas etapas de su enfermedad al momento de la evaluación.",
       "destacado": false
     },
-    "1d5a40b654c7": {
-      "resumen": "Terminó la concentración de Los Pumas en Londres, previa a sus próximos compromisos internacionales."
-    },
     "866ee7fd1faf": {
       "resumen": "Nota de TCTMD sobre un estudio de cohorte que encontró que tener un puntaje elevado de calcio en las arterias coronarias (CAC, por sus siglas en inglés, una medida de la cantidad de calcio depositado en las paredes arteriales que se obtiene con tomografía) en adultos jóvenes se asocia con mayor riesgo de morir en los siguientes 30 años. Vale la pena mirarlo porque refuerza la idea de detectar aterosclerosis temprana (acumulación de placa en las arterias) incluso en pacientes jóvenes sin síntomas.",
       "destacado": false,
@@ -19,10 +16,6 @@
     },
     "be1cc9b592ad": {
       "resumen": "Artículo de perspectiva en JACC (Journal of the American College of Cardiology, revista de la Sociedad Americana de Cardiología) firmado por Krumholz y colaboradores sobre las limitaciones de los métodos de inferencia causal (técnicas estadísticas que buscan estimar efectos de causa-efecto a partir de datos observacionales) cuando se usan para guiar decisiones clínicas. Vale la pena mirarlo porque advierte sobre los límites de confiar ciegamente en estos métodos a la hora de reemplazar a los ensayos clínicos aleatorizados.",
-      "destacado": false
-    },
-    "6c0b100a4d4e": {
-      "resumen": "Nota de TCTMD que repasa un compendio en tres partes publicado por varias sociedades científicas sobre la salud cardiovascular de la mujer. Vale la pena mirarlo porque sintetiza recomendaciones actualizadas sobre un área históricamente subdiagnosticada y subtratada en cardiología.",
       "destacado": false
     },
     "739ff78a3efa": {
@@ -47,28 +40,13 @@
       "destacado": false,
       "analisis": "Diseño: Análisis de tendencia basado en datos de registros nacionales franceses de intervención coronaria percutánea (PCI) electiva a lo largo de varios años; el título no especifica el período exacto ni la fuente de datos.\nPoblación: Pacientes sometidos a PCI electiva (no urgente) en centros de Francia incluidos en el o los registros analizados.\nIntervención: No aplica una intervención experimental; es un análisis descriptivo de la evolución temporal del uso de PCI electiva, sin grupo comparador definido.\nResultados: El título indica un aumento \"llamativo\" en el número de PCI electivas, pero no hay cifras de magnitud, intervalos de confianza ni valor de p disponibles en la nota.\nLimitaciones: Los datos de registro no permiten establecer por qué aumentó el procedimiento (indicación apropiada vs. sobreutilización); puede haber variabilidad entre centros y cambios en los criterios de registro a lo largo del tiempo.\nMensaje: Un aumento marcado en PCI electiva amerita revisar si se sigue el criterio de apropiación clínica que marcan las guías o si hay un componente de sobreindicación, un debate recurrente en cardiología intervencionista.\nNota: análisis sin acceso al abstract."
     },
+    "e581338366c1": {
+      "resumen": "Nota de TCTMD sobre cómo cambió el uso de los anticoagulantes orales directos (ACOD, conocidos también por su sigla en inglés DOAC) en la práctica real para tratar el tromboembolismo venoso (TEV, formación de coágulos en venas profundas o en el pulmón) asociado al cáncer, un terreno donde durante años predominó la heparina de bajo peso molecular. Vale la pena mirarlo porque muestra si la evidencia de los grandes ensayos ya se trasladó a la cama del paciente oncológico.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional de práctica real (tipo registro o cohorte) que describe la evolución temporal del uso de anticoagulantes orales directos; no se dispone del abstract completo para precisar aleatorización, cegamiento ni el número exacto de centros o pacientes.\nPoblación: Pacientes con tromboembolismo venoso (TEV) asociado a cáncer tratados en la práctica clínica habitual, fuera del contexto de un ensayo controlado.\nIntervención: Comparación del uso de anticoagulantes orales directos (ACOD) frente a otras estrategias como la heparina de bajo peso molecular, a lo largo de distintos períodos de tiempo.\nResultados: El título señala un cambio (\"shift\") marcado hacia los ACOD, pero no hay cifras de magnitud, intervalos de confianza ni valor de p disponibles en el título ni en la fuente consultada.\nLimitaciones: Al tratarse de datos de práctica real, persiste el riesgo de sesgo de selección y de indicación médica, además de depender de la calidad y completitud del registro.\nMensaje: Confirmaría en la práctica cotidiana la tendencia que marcaron los ensayos que posicionaron a los ACOD como alternativa a la heparina en TEV oncológico, aunque sin datos duros no se puede cuantificar el verdadero impacto clínico de ese cambio.\nNota: análisis sin acceso al abstract."
+    },
     "672400a4a73e": {
       "resumen": "Publicación de Simon Willison (especialista en inteligencia artificial) sobre cómo la empresa Spawn construyó un mundo de juego multijugador usando modelos autónomos de la familia Fable, que generan contenido y comportamiento del juego sin intervención humana constante. Le sirve a un médico que aprende análisis de datos para ver un caso extremo de cómo los agentes de inteligencia artificial pueden operar de forma autónoma en sistemas complejos, más allá de responder preguntas puntuales.",
-      "destacado": false
-    },
-    "e90b807807fb": {
-      "resumen": "Noticia sobre el reconocimiento oficial del gobierno checo a Tomáš Mikolov, investigador conocido por sus trabajos pioneros en representación vectorial de palabras (word2vec), una técnica base de muchos modelos de procesamiento de lenguaje actuales. Le sirve a un médico que aprende análisis de datos para conocer el origen de técnicas que todavía sostienen buena parte del procesamiento de lenguaje natural moderno.",
-      "destacado": false
-    },
-    "53a5e7318375": {
-      "resumen": "Nota que señala que los ingresos por búsqueda de Google ya representan menos de la mitad de la facturación total de Alphabet (la empresa matriz de Google), reflejo del crecimiento de otras unidades como la nube y la publicidad fuera del buscador. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo leer la diversificación de ingresos de una empresa tecnológica a partir de datos financieros públicos.",
-      "destacado": false
-    },
-    "05dc4b1256cb": {
-      "resumen": "Artículo técnico (de 2016, resurgido en Hacker News) que explica de forma didáctica cómo funciona la compresión de video H.264, el estándar más usado para comprimir y transmitir video digital. Le sirve a un médico que aprende análisis de datos para entender, con un ejemplo concreto, la lógica de comprimir información compleja sin perder demasiada calidad.",
-      "destacado": false
-    },
-    "e5deed5947c1": {
-      "resumen": "Hilo de la comunidad r/datascience donde alguien consulta si existen riesgos de aplicar a un puesto en una empresa proveedora con la que ya trabaja desde su rol actual. Le sirve a un médico que está entrando en el análisis de datos porque muestra dilemas típicos de carrera y ética profesional que también se dan en consultoría y en la industria farmacéutica.",
-      "destacado": false
-    },
-    "159256cb4db7": {
-      "resumen": "Nota de Washington Post sobre modelos de autos que se venden en México pero no están disponibles en Estados Unidos, por diferencias regulatorias y de mercado entre ambos países. No tiene relación directa con análisis de datos ni cardiología; se incluye solo porque superó el umbral de popularidad en Hacker News.",
       "destacado": false
     },
     "076f59b7bcda": {
@@ -83,15 +61,38 @@
       "resumen": "Artículo de Towards Data Science que compara, con una simulación, dos métodos estadísticos para estimar el efecto de una intervención cuando los sujetos no fueron asignados al azar: diferencias en diferencias (comparar la evolución de un grupo tratado contra uno de control antes y después de la intervención) y regresión con resultado rezagado (ajustar por el valor previo de la variable de interés). Le sirve mucho a un médico que aprende análisis de datos porque estas son herramientas centrales de inferencia causal con datos observacionales, muy aplicables a farmacovigilancia y a evaluar intervenciones sanitarias sin ensayo aleatorizado.",
       "destacado": true
     },
-    "9307c202831e": {
-      "resumen": "Artículo de Towards Data Science que muestra, con un test de 2.000 preguntas, que los dos modelos de inteligencia artificial mejor rankeados en una evaluación no se distinguen de forma estadísticamente significativa al nivel habitual del 5%, y que con una muestra más chica el ranking cambiaría buena parte de las veces. Le sirve mucho a un médico que aprende análisis de datos porque es un ejemplo concreto de cómo el tamaño de muestra y la significancia estadística pueden hacer que un ranking parezca más sólido de lo que realmente es, lección aplicable a cualquier comparación de tratamientos o modelos.",
+    "07b8277675a3": {
+      "resumen": "Simon Willison repasa cómo OpenAI empezó a ofrecer, para ciertas suscripciones de ChatGPT, un beneficio de créditos para usar su interfaz de programación de aplicaciones (API), algo similar a lo que Anthropic ya hace con sus planes Max y Team. Le sirve a un médico que está aprendiendo análisis de datos porque explica cómo convertir lo que ya pagás por una suscripción en uso de modelos de lenguaje por código, sin pagar dos veces.",
       "destacado": false
     },
-    "fb205bfa18bf": {
-      "resumen": "Rugby Champagne repasa en su nueva edición los partidos clave de este mes de definiciones y adelanta lo que se viene en el calendario."
+    "d8eb5a4b641e": {
+      "resumen": "Un equipo de Y Combinator hizo correr 'enjambres' de agentes de inteligencia artificial —varios modelos coordinados entre sí— jugando a Minecraft y Mindustry, para observar cómo colaboran o compiten. Le sirve a quien se inicia en análisis de datos porque es un banco de pruebas entretenido para entender la coordinación entre múltiples agentes, una pieza cada vez más presente en las herramientas automatizadas de análisis.",
+      "destacado": false
     },
-    "fe8a9ed51336": {
-      "resumen": "Los Pumas cerraron su concentración en Londres con cambios en el cuerpo técnico, de cara a la preparación para el Nations Championship."
+    "4c4b30fd3641": {
+      "resumen": "Un explorador de blockchain (herramienta que permite rastrear transacciones públicas de criptomonedas) identificó la billetera vinculada a un robo de 5600 millones de dólares a la casa de cambio Binance, uno de los mayores hackeos de la historia cripto. Le aporta a quien analiza datos porque muestra el poder de las herramientas de rastreo on-chain para seguir el flujo de fondos en tiempo real con información pública.",
+      "destacado": false
+    },
+    "c30c38a613a7": {
+      "resumen": "Un desarrollador logró correr un modelo de mundo (world model, una red que aprende a predecir cómo evoluciona un juego) en una Raspberry Pi Pico 2 W, una placa de cómputo minúscula y de muy bajo consumo. Le sirve a un médico que estudia análisis de datos porque muestra que los modelos livianos de inteligencia artificial ya corren en hardware muy limitado, algo clave para pensar aplicaciones a pie de cama.",
+      "destacado": false
+    },
+    "1ffd1f6b6f1e": {
+      "resumen": "Murió el actor Patrick Stewart, recordado por interpretar al Capitán Picard en Star Trek y al Profesor X en X-Men, dos de los personajes más queridos de la ciencia ficción. No tiene relación con análisis de datos ni cardiología; aparece en este feed porque fue tendencia en Hacker News, la comunidad tecnológica que nutre esta sección.",
+      "destacado": false
+    },
+    "53747a548ba4": {
+      "resumen": "KDnuggets analizó qué habilidades de inteligencia artificial aparecen realmente con más frecuencia en los avisos de trabajo actuales, más allá del bombo de las redes sociales. Le sirve a un médico en transición hacia el análisis de datos para saber qué herramientas y lenguajes conviene priorizar al armar su perfil profesional.",
+      "destacado": false
+    },
+    "a03ddc3f15e0": {
+      "resumen": "Un repaso por el nuevo certamen de Sudamérica Rugby, pensado como puntapié inicial para potenciar el crecimiento del rugby en la región."
+    },
+    "2af40be790fd": {
+      "resumen": "Una mirada al plantel de Los Cedros, el equipo que se consagró campeón de la Tercera División del rugby argentino."
+    },
+    "d5bafa862e6d": {
+      "resumen": "Ya se conoce el calendario de partidos que afrontará la delegación argentina en los Juegos Olímpicos de la Juventud."
     }
   }
 }

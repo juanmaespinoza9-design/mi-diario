@@ -1,6 +1,11 @@
 {
-  "generated_at": "2026-10-31T10:05:11Z",
+  "generated_at": "2026-10-31T22:04:29Z",
   "summaries": {
+    "8aba614ac4a3": {
+      "resumen": "Nota de TCTMD sobre un estudio que asocia las temperaturas más frías con un aumento de las hospitalizaciones por insuficiencia cardíaca (HF, heart failure, la incapacidad del corazón de bombear sangre de forma adecuada). Vale la pena mirarlo porque es un factor ambiental modificable en la organización del sistema de salud: anticipar picos de internación en meses fríos permite reforzar el seguimiento ambulatorio y la disponibilidad de camas.",
+      "destacado": false,
+      "analisis": "Diseño: Según el título, estudio observacional (probablemente ecológico o de series de tiempo) que correlaciona la temperatura ambiente con la tasa de hospitalizaciones por insuficiencia cardíaca; sin el abstract no se puede precisar aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con insuficiencia cardíaca hospitalizados, analizados según la temperatura ambiental registrada en el período o la región de internación.\nIntervención: No hay intervención activa; se compara la frecuencia de hospitalizaciones entre períodos o zonas con temperaturas más bajas frente a más altas.\nResultados: El título señala un aumento de las hospitalizaciones por insuficiencia cardíaca asociado a temperaturas más frías, sin cifras de magnitud, intervalos de confianza ni valor de p disponibles.\nLimitaciones: El diseño observacional expone a factores de confusión estacionales (infecciones respiratorias, menor actividad física, cambios en la adherencia al tratamiento) que pueden explicar parte de la asociación; no permite establecer causalidad directa.\nMensaje: Refuerza la conveniencia de intensificar el seguimiento ambulatorio y anticipar mayor demanda de camas para pacientes con insuficiencia cardíaca durante los meses fríos, aunque el estudio no prueba que el frío por sí solo sea la causa.\nNota: análisis sin acceso al abstract."
+    },
     "8d9cb2c3fd13": {
       "resumen": "Artículo de revisión en JACC (Journal of the American College of Cardiology) sobre cómo interpretar la troponina cardíaca de alta sensibilidad (una proteína que se libera cuando hay daño en el músculo cardíaco y que se mide con ensayos muy sensibles) en la práctica clínica, remarcando que un valor elevado no equivale por sí solo a un diagnóstico de infarto. Vale la pena mirarlo porque es una de las pruebas más usadas en las guardias y su mala interpretación genera diagnósticos erróneos.",
       "destacado": false
@@ -21,34 +26,10 @@
       "resumen": "Carta de respuesta publicada en JACC (Journal of the American College of Cardiology, revista de la Sociedad Americana de Cardiología) dentro de un intercambio de correspondencia sobre las trayectorias de remodelado del músculo cardíaco y el riesgo de eventos cardiovasculares mayores (MACE, por sus siglas en inglés) en pacientes con miocardiopatía hipertrófica (HCM, por sus siglas en inglés) fenotípicamente leve. Vale la pena tenerlo en cuenta como parte del debate científico en curso sobre cómo seguir a estos pacientes, más que como un estudio nuevo en sí mismo.",
       "destacado": false
     },
-    "c9f442d36168": {
-      "resumen": "Nota de TCTMD que reporta un marcado aumento de las angioplastias coronarias electivas (PCI, intervención coronaria percutánea, procedimiento con catéter y stent que destapa arterias obstruidas) en Francia en los últimos años, según datos de registros nacionales. Vale la pena mirarlo porque este tipo de tendencias ayuda a distinguir si el aumento responde a mejor detección de enfermedad coronaria, cambios en las guías de indicación, o a una posible sobreutilización del procedimiento.",
-      "destacado": false,
-      "analisis": "Diseño: Análisis de tendencia basado en datos de registros nacionales franceses de intervención coronaria percutánea (PCI) electiva a lo largo de varios años; el título no especifica el período exacto ni la fuente de datos.\nPoblación: Pacientes sometidos a PCI electiva (no urgente) en centros de Francia incluidos en el o los registros analizados.\nIntervención: No aplica una intervención experimental; es un análisis descriptivo de la evolución temporal del uso de PCI electiva, sin grupo comparador definido.\nResultados: El título indica un aumento \"llamativo\" en el número de PCI electivas, pero no hay cifras de magnitud, intervalos de confianza ni valor de p disponibles en la nota.\nLimitaciones: Los datos de registro no permiten establecer por qué aumentó el procedimiento (indicación apropiada vs. sobreutilización); puede haber variabilidad entre centros y cambios en los criterios de registro a lo largo del tiempo.\nMensaje: Un aumento marcado en PCI electiva amerita revisar si se sigue el criterio de apropiación clínica que marcan las guías o si hay un componente de sobreindicación, un debate recurrente en cardiología intervencionista.\nNota: análisis sin acceso al abstract."
-    },
     "e581338366c1": {
       "resumen": "Nota de TCTMD sobre cómo cambió el uso de los anticoagulantes orales directos (ACOD, conocidos también por su sigla en inglés DOAC) en la práctica real para tratar el tromboembolismo venoso (TEV, formación de coágulos en venas profundas o en el pulmón) asociado al cáncer, un terreno donde durante años predominó la heparina de bajo peso molecular. Vale la pena mirarlo porque muestra si la evidencia de los grandes ensayos ya se trasladó a la cama del paciente oncológico.",
       "destacado": true,
       "analisis": "Diseño: Estudio observacional de práctica real (tipo registro o cohorte) que describe la evolución temporal del uso de anticoagulantes orales directos; no se dispone del abstract completo para precisar aleatorización, cegamiento ni el número exacto de centros o pacientes.\nPoblación: Pacientes con tromboembolismo venoso (TEV) asociado a cáncer tratados en la práctica clínica habitual, fuera del contexto de un ensayo controlado.\nIntervención: Comparación del uso de anticoagulantes orales directos (ACOD) frente a otras estrategias como la heparina de bajo peso molecular, a lo largo de distintos períodos de tiempo.\nResultados: El título señala un cambio (\"shift\") marcado hacia los ACOD, pero no hay cifras de magnitud, intervalos de confianza ni valor de p disponibles en el título ni en la fuente consultada.\nLimitaciones: Al tratarse de datos de práctica real, persiste el riesgo de sesgo de selección y de indicación médica, además de depender de la calidad y completitud del registro.\nMensaje: Confirmaría en la práctica cotidiana la tendencia que marcaron los ensayos que posicionaron a los ACOD como alternativa a la heparina en TEV oncológico, aunque sin datos duros no se puede cuantificar el verdadero impacto clínico de ese cambio.\nNota: análisis sin acceso al abstract."
-    },
-    "c6a737619b11": {
-      "resumen": "Hilo de r/datascience (comunidad de Reddit sobre ciencia de datos) que debate qué es el \"harness engineering\": el trabajo de armar el andamiaje (herramientas, chequeos y reglas) alrededor de un agente de inteligencia artificial para que use bien sus herramientas, en lugar de limitarse a escribirle un buen prompt. Le sirve a un médico que aprende análisis de datos porque muestra que el valor hoy está en diseñar el entorno de trabajo del agente, no solo en pedirle cosas.",
-      "destacado": false
-    },
-    "334da0cc7f7d": {
-      "resumen": "Towards Data Science desarma un tuit viral que afirmaba que los modelos de lenguaje (LLM, por sus siglas en inglés) eligen el número 7 al azar entre 1 y 10 por culpa del descenso de gradiente (el método matemático con que se entrenan estos modelos), y muestra que la explicación real es más interesante. Le sirve a un médico que aprende análisis de datos para entender, con un ejemplo simple, por qué estos modelos no son aleatorios de verdad y cómo arrastran sesgos de los datos con los que se entrenaron.",
-      "destacado": false
-    },
-    "e3d534e9e114": {
-      "resumen": "Los autores de un hackatón de seguros creían que el binning (agrupar una variable continua en categorías) había sido la clave de su victoria, pero al repetir el experimento con varias semillas aleatorias y el mismo conjunto de variables descubrieron que el mérito real estaba en otro lado. Le sirve mucho a un médico que aprende análisis de datos porque es una lección concreta de rigor estadístico: antes de atribuirle un resultado a una técnica, hay que probarla de forma controlada y repetida.",
-      "destacado": true
-    },
-    "bd4636a357c5": {
-      "resumen": "Tutorial de KDnuggets que muestra paso a paso cómo construir el clásico juego Breakout usando \"vibe coding\" (programar describiendo lo que uno quiere en lenguaje natural y dejando que un asistente de inteligencia artificial genere y ajuste el código). Le sirve a un médico que aprende análisis de datos como introducción práctica a programar apoyándose en un asistente de inteligencia artificial, sin necesidad de dominar antes cada detalle del lenguaje.",
-      "destacado": false
-    },
-    "e6f335e21e6c": {
-      "resumen": "Los Pumas (selección argentina de rugby) ya tienen confirmado el plantel que afrontará la segunda etapa del Nations Championship."
     },
     "e27b0b82abf8": {
       "resumen": "Nota de TCTMD sobre un estudio que asocia una alimentación de buena calidad con menor riesgo cardiovascular (CVD, enfermedad cardiovascular) en sobrevivientes de cáncer, población que acumula factores de riesgo por el propio tratamiento oncológico. Vale la pena mirarlo porque la cardio-oncología (la subespecialidad que cuida el corazón de los pacientes con cáncer) es un área creciente y la dieta es una intervención modificable y de bajo costo.",
@@ -64,35 +45,51 @@
       "resumen": "Repaso de TCTMD con las diez noticias de cardiología más leídas durante octubre de 2026. Vale la pena mirarlo como un resumen rápido para no perderse ningún tema relevante del mes.",
       "destacado": false
     },
-    "c80cb208774f": {
-      "resumen": "Hilo de Hacker News que alerta sobre una presunta brecha de seguridad (breach) en Scribd, la plataforma de documentos y libros digitales, con exposición de datos de usuarios. Le sirve a un médico que aprende análisis de datos como recordatorio de que cualquier plataforma que maneja información personal —incluidas las de salud— puede sufrir filtraciones, por lo que la seguridad de los datos es parte ineludible de trabajar con ellos.",
+    "f45c08dad587": {
+      "resumen": "Nota de nostalgia tecnológica sobre los relojes Casio de la década de 1980, popular en Hacker News por el interés retro en diseño electrónico simple y duradero. Aporta poco en forma directa al análisis de datos: es más un gusto cultural de la comunidad técnica que una pieza sobre inteligencia artificial o ciencia de datos, así que un médico que aprende análisis de datos puede saltearla sin perder nada relevante.",
       "destacado": false
     },
-    "9f4589b36190": {
-      "resumen": "Proyecto hobby mostrado en Hacker News: un juego para adivinar episodios de Star Trek: The Next Generation, creado como homenaje a Patrick Stewart. Le sirve a un médico que aprende análisis de datos como ejemplo sencillo de una aplicación web interactiva construida y publicada por una sola persona, el tipo de proyecto chico ideal para practicar antes de encarar algo más ambicioso.",
+    "38904865337f": {
+      "resumen": "Nota de Towards Data Science que explica cómo usar pruebas de extremo a extremo (E2E, end-to-end) junto con Claude Code (asistente de inteligencia artificial para programar) para minimizar errores al construir aplicaciones. Le sirve a un médico que aprende análisis de datos porque muestra una práctica concreta —probar el código de punta a punta— para confiar en los resultados de sus propios scripts antes de usarlos con datos reales.",
+      "destacado": false
+    },
+    "5be14df72cef": {
+      "resumen": "El blog de Talos Intelligence describe el infostealer (malware que roba información) Volta, que usa modelos de lenguaje (LLM, large language model o modelo de lenguaje extenso) para evaluar y priorizar automáticamente a qué víctimas conviene atacar según su valor potencial. Le sirve a un médico que aprende análisis de datos porque muestra un uso malicioso real de la inteligencia artificial para clasificar datos personales, y recuerda que cualquier información sensible —incluida la de salud— puede ser blanco de este tipo de automatización.",
+      "destacado": false
+    },
+    "346805cf140d": {
+      "resumen": "Towards Data Science prueba seis estrategias distintas para que un modelo de inteligencia artificial actualice sus conclusiones cuando aparece nueva evidencia que contradice una anterior, y evalúa si ese cambio se propaga a las decisiones que dependían del dato original. Le sirve a un médico que aprende análisis de datos porque toca un problema central en la práctica basada en evidencia: qué pasa con las decisiones ya tomadas cuando un dato previo se revisa o se descarta.",
+      "destacado": false
+    },
+    "d040055a2fcf": {
+      "resumen": "El autor probó en tres modelos de inteligencia artificial qué pasa si se les asegura, de forma incorrecta, que sus respuestas erróneas en realidad eran correctas, contradiciendo un estudio previo que afirmaba que ese tipo de retroalimentación apenas influye en el aprendizaje de los agentes de inteligencia artificial. Le sirve mucho a un médico que aprende análisis de datos porque expone un riesgo concreto de confiar ciegamente en un modelo: al menos uno de ellos terminó \"creyéndole\" a una corrección falsa en lugar de sostener la respuesta correcta.",
+      "destacado": true
+    },
+    "a87530044b0b": {
+      "resumen": "El blog nullprogram.com presenta Prospero, un nuevo \"harness\" (andamiaje de herramientas y reglas) para programar asistido por inteligencia artificial, pensado como alternativa a los entornos actuales de ese tipo. Le sirve a un médico que aprende análisis de datos para entender que, además de elegir qué modelo de inteligencia artificial usar, cada vez importa más cómo se organiza el entorno que lo rodea para escribir y validar código de forma confiable.",
+      "destacado": false
+    },
+    "381223935ae3": {
+      "resumen": "Investigadores de seguridad de parameter.ai relatan cómo encontraron una falla que les permitió tomar el control de cuentas de ChatGPT, el asistente de inteligencia artificial de OpenAI. Le sirve a un médico que aprende análisis de datos como recordatorio de que las plataformas de inteligencia artificial que usa a diario —incluso las más populares— pueden tener vulnerabilidades serias de seguridad, algo clave a tener en cuenta antes de subir ahí datos sensibles.",
+      "destacado": false
+    },
+    "c6a737619b11": {
+      "resumen": "Hilo de r/datascience (comunidad de Reddit sobre ciencia de datos) que debate qué es el \"harness engineering\": el trabajo de armar el andamiaje (herramientas, chequeos y reglas) alrededor de un agente de inteligencia artificial para que use bien sus herramientas, en lugar de limitarse a escribirle un buen prompt. Le sirve a un médico que aprende análisis de datos porque muestra que el valor hoy está en diseñar el entorno de trabajo del agente, no solo en pedirle cosas.",
       "destacado": false
     },
     "1649c5dd0704": {
       "resumen": "Simon Willison (bloguero especializado en inteligencia artificial) describe cómo Drew Breunig logró meter un emulador de la consola Nintendo (con su procesador 6502) dentro de los pesos de un modelo de lenguaje Qwen3.5 de 4 mil millones de parámetros, permitiendo jugar títulos como Super Mario Bros. Le sirve a un médico que aprende análisis de datos porque es un ejemplo concreto de \"modelo de mundo\" (world model): una red neuronal que aprende a simular un sistema dinámico a partir de datos, la misma lógica que se usa para modelar procesos biológicos o fisiológicos.",
       "destacado": false
     },
-    "45335aaa530e": {
-      "resumen": "Nota del Boston Globe, popular en Hacker News, sobre cómo el personaje del capitán Jean-Luc Picard interpretado por Patrick Stewart transmitió una visión ética y humanista en Star Trek. Aporta poco directamente a un médico que aprende análisis de datos, pero su repercusión en una comunidad técnica como Hacker News muestra que esas audiencias también valoran la reflexión humanística por fuera de la tecnología.",
-      "destacado": false
-    },
-    "b18ed8fdf2c4": {
-      "resumen": "Nota sobre cómo el retroceso del hielo más antiguo de Noruega, acelerado por el cambio climático, deja al descubierto objetos de la Edad de Piedra conservados durante milenios. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo el hielo funciona como un \"registro de datos\" natural: cada capa guarda información histórica que ahora se puede analizar antes de que se pierda.",
-      "destacado": false
-    },
     "c6e629e49d61": {
       "resumen": "En r/datascience, Andrew Gelman (estadístico reconocido) cuenta cómo surgió el R-hat (estadístico de Gelman-Rubin que permite chequear si las cadenas de un método de muestreo de Monte Carlo vía cadenas de Markov, MCMC, convergieron) durante su paso por los Bell Labs en 1990. Le sirve mucho a un médico que aprende análisis de datos porque el R-hat es una herramienta clave para validar modelos estadísticos bayesianos antes de confiar en sus resultados.",
       "destacado": false
     },
-    "a03397b22ac2": {
-      "resumen": "Felipe Contepomi, head coach de Los Pumas, habló tras cerrar la concentración en Londres y confirmar el plantel para el Nations Championship."
+    "f98daafb3e14": {
+      "resumen": "Santiago Mesón, formado en la dinastía rugbística de Tucumán, brilló con la selección juvenil (la Naranja) ante Francia, pero una lesión le impidió disputar un Mundial: La Gaceta repasa su historia."
     },
-    "4d3c6c5122c6": {
-      "resumen": "Los Pumas, la selección argentina de rugby, dieron a conocer la lista de convocados para el cierre del Nations Championship."
+    "9fd02c358bc3": {
+      "resumen": "Felipe Contepomi dejó abierta la puerta a dirigir a otro seleccionado o club una vez que termine su etapa al frente de Los Pumas tras el Mundial."
     }
   }
 }

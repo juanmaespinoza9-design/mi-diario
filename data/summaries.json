@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T22:04:31Z",
+  "generated_at": "2026-10-31T10:05:11Z",
   "summaries": {
     "8d9cb2c3fd13": {
       "resumen": "Artículo de revisión en JACC (Journal of the American College of Cardiology) sobre cómo interpretar la troponina cardíaca de alta sensibilidad (una proteína que se libera cuando hay daño en el músculo cardíaco y que se mide con ensayos muy sensibles) en la práctica clínica, remarcando que un valor elevado no equivale por sí solo a un diagnóstico de infarto. Vale la pena mirarlo porque es una de las pruebas más usadas en las guardias y su mala interpretación genera diagnósticos erróneos.",
@@ -9,11 +9,6 @@
       "resumen": "Carta de comentario en JACC que discute cómo alinear en el tiempo las trayectorias de remodelado cardíaco en pacientes con miocardiopatía hipertrófica (HCM) leve, dentro del mismo intercambio de correspondencia sobre riesgo de eventos cardiovasculares mayores. Vale la pena mirarlo porque toca un problema metodológico clave al estudiar enfermedades de evolución lenta: cómo comparar pacientes que están en distintas etapas de su enfermedad al momento de la evaluación.",
       "destacado": false
     },
-    "866ee7fd1faf": {
-      "resumen": "Nota de TCTMD sobre un estudio de cohorte que encontró que tener un puntaje elevado de calcio en las arterias coronarias (CAC, por sus siglas en inglés, una medida de la cantidad de calcio depositado en las paredes arteriales que se obtiene con tomografía) en adultos jóvenes se asocia con mayor riesgo de morir en los siguientes 30 años. Vale la pena mirarlo porque refuerza la idea de detectar aterosclerosis temprana (acumulación de placa en las arterias) incluso en pacientes jóvenes sin síntomas.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio de cohorte observacional con seguimiento a muy largo plazo (30 años) en adultos jóvenes, según se desprende del título; la nota de TCTMD no detalla el número de centros ni de pacientes.\nPoblación: Adultos jóvenes sin antecedentes cardiovasculares conocidos al momento basal, en quienes se midió el puntaje de calcio coronario (CAC).\nIntervención: No aplica una intervención farmacológica; es un estudio observacional que compara categorías de puntaje de CAC (alto vs. bajo o ausente).\nResultados: El título indica una asociación entre CAC elevado y mayor mortalidad a 30 años, pero no se dispone de las cifras de riesgo relativo, intervalos de confianza ni valor de p.\nLimitaciones: Al ser observacional, no permite establecer causalidad; un seguimiento tan prolongado puede arrastrar cambios no controlados en tratamiento y estilo de vida de los participantes.\nMensaje: Refuerza el valor pronóstico a largo plazo del CAC incluso en población joven, lo que podría apoyar su uso para estratificar riesgo de forma más temprana.\nNota: análisis sin acceso al abstract."
-    },
     "be1cc9b592ad": {
       "resumen": "Artículo de perspectiva en JACC (Journal of the American College of Cardiology, revista de la Sociedad Americana de Cardiología) firmado por Krumholz y colaboradores sobre las limitaciones de los métodos de inferencia causal (técnicas estadísticas que buscan estimar efectos de causa-efecto a partir de datos observacionales) cuando se usan para guiar decisiones clínicas. Vale la pena mirarlo porque advierte sobre los límites de confiar ciegamente en estos métodos a la hora de reemplazar a los ensayos clínicos aleatorizados.",
       "destacado": false
@@ -22,18 +17,9 @@
       "resumen": "Documento de consenso publicado en European Heart Journal (revista científica europea de cardiología) que presenta la Quinta Definición Universal del Infarto de Miocardio, con una actualización sobre el rol de la lipoproteína(a) —una partícula de colesterol de origen genético asociada a mayor riesgo cardiovascular— y la inflamación en el diagnóstico. Vale la pena mirarlo porque estos consensos internacionales terminan definiendo qué se considera infarto en la práctica diaria y en los ensayos clínicos.",
       "destacado": false
     },
-    "8b3c6c2a6108": {
-      "resumen": "Resumen mensual de TCTMD con lo más destacado de octubre 2026 en cardiología: un repaso de las noticias, estudios y controversias que más repercutieron en el mes. Vale la pena mirarlo como punto de partida rápido para no perderse nada importante.",
-      "destacado": false
-    },
     "bb6fed768e81": {
       "resumen": "Carta de respuesta publicada en JACC (Journal of the American College of Cardiology, revista de la Sociedad Americana de Cardiología) dentro de un intercambio de correspondencia sobre las trayectorias de remodelado del músculo cardíaco y el riesgo de eventos cardiovasculares mayores (MACE, por sus siglas en inglés) en pacientes con miocardiopatía hipertrófica (HCM, por sus siglas en inglés) fenotípicamente leve. Vale la pena tenerlo en cuenta como parte del debate científico en curso sobre cómo seguir a estos pacientes, más que como un estudio nuevo en sí mismo.",
       "destacado": false
-    },
-    "a681201008d6": {
-      "resumen": "Nota de TCTMD sobre un subestudio del ensayo LAUNCH-HTN que evaluó lorundrostat (un inhibidor de la aldosterona sintasa, enzima clave en la producción de esta hormona que eleva la presión arterial) en pacientes con enfermedad renal crónica (ERC), con reducción de la presión arterial y de la albuminuria (pérdida de proteínas por la orina, marcador de daño renal). Vale la pena mirarlo porque suma evidencia sobre una nueva clase de fármacos para la hipertensión resistente en pacientes con compromiso renal.",
-      "destacado": true,
-      "analisis": "Diseño: Subestudio (análisis de un subgrupo) del ensayo LAUNCH-HTN; el título no detalla si fue aleatorizado o ciego, ni el número de centros o pacientes incluidos en este subanálisis.\nPoblación: Pacientes con presión arterial elevada y enfermedad renal crónica (ERC) concomitante, probablemente con albuminuria basal.\nIntervención: Lorundrostat (inhibidor de la aldosterona sintasa) comparado presumiblemente contra placebo u otro tratamiento antihipertensivo estándar, según el diseño general del programa LAUNCH-HTN.\nResultados: El título reporta reducción de la presión arterial y de la albuminuria, pero no hay cifras de magnitud de efecto, intervalos de confianza ni valor de p disponibles.\nLimitaciones: Al ser un subestudio, el poder estadístico suele ser menor que en el ensayo principal; falta conocer el tiempo de seguimiento y los efectos adversos, en particular la hiperpotasemia, propia de esta clase de fármacos.\nMensaje: Si se confirma en el ensayo principal, lorundrostat podría sumarse como opción para la hipertensión difícil de controlar en pacientes renales, una población que suele quedar afuera de los grandes ensayos.\nNota: análisis sin acceso al abstract."
     },
     "c9f442d36168": {
       "resumen": "Nota de TCTMD que reporta un marcado aumento de las angioplastias coronarias electivas (PCI, intervención coronaria percutánea, procedimiento con catéter y stent que destapa arterias obstruidas) en Francia en los últimos años, según datos de registros nacionales. Vale la pena mirarlo porque este tipo de tendencias ayuda a distinguir si el aumento responde a mejor detección de enfermedad coronaria, cambios en las guías de indicación, o a una posible sobreutilización del procedimiento.",
@@ -42,31 +28,11 @@
     },
     "e581338366c1": {
       "resumen": "Nota de TCTMD sobre cómo cambió el uso de los anticoagulantes orales directos (ACOD, conocidos también por su sigla en inglés DOAC) en la práctica real para tratar el tromboembolismo venoso (TEV, formación de coágulos en venas profundas o en el pulmón) asociado al cáncer, un terreno donde durante años predominó la heparina de bajo peso molecular. Vale la pena mirarlo porque muestra si la evidencia de los grandes ensayos ya se trasladó a la cama del paciente oncológico.",
-      "destacado": false,
+      "destacado": true,
       "analisis": "Diseño: Estudio observacional de práctica real (tipo registro o cohorte) que describe la evolución temporal del uso de anticoagulantes orales directos; no se dispone del abstract completo para precisar aleatorización, cegamiento ni el número exacto de centros o pacientes.\nPoblación: Pacientes con tromboembolismo venoso (TEV) asociado a cáncer tratados en la práctica clínica habitual, fuera del contexto de un ensayo controlado.\nIntervención: Comparación del uso de anticoagulantes orales directos (ACOD) frente a otras estrategias como la heparina de bajo peso molecular, a lo largo de distintos períodos de tiempo.\nResultados: El título señala un cambio (\"shift\") marcado hacia los ACOD, pero no hay cifras de magnitud, intervalos de confianza ni valor de p disponibles en el título ni en la fuente consultada.\nLimitaciones: Al tratarse de datos de práctica real, persiste el riesgo de sesgo de selección y de indicación médica, además de depender de la calidad y completitud del registro.\nMensaje: Confirmaría en la práctica cotidiana la tendencia que marcaron los ensayos que posicionaron a los ACOD como alternativa a la heparina en TEV oncológico, aunque sin datos duros no se puede cuantificar el verdadero impacto clínico de ese cambio.\nNota: análisis sin acceso al abstract."
     },
     "c6a737619b11": {
       "resumen": "Hilo de r/datascience (comunidad de Reddit sobre ciencia de datos) que debate qué es el \"harness engineering\": el trabajo de armar el andamiaje (herramientas, chequeos y reglas) alrededor de un agente de inteligencia artificial para que use bien sus herramientas, en lugar de limitarse a escribirle un buen prompt. Le sirve a un médico que aprende análisis de datos porque muestra que el valor hoy está en diseñar el entorno de trabajo del agente, no solo en pedirle cosas.",
-      "destacado": false
-    },
-    "7b402e9b6da8": {
-      "resumen": "Nota del Financial Times, replicada en Hacker News, sobre advertencias de Blackstone (gestora de inversiones) de que Anthropic podría no conseguir una calificación crediticia de grado de inversión tras su eventual salida a bolsa (IPO). Le sirve a un médico que aprende análisis de datos para entender el contexto financiero detrás de las empresas de inteligencia artificial que usa a diario, más allá de la tecnología en sí.",
-      "destacado": false
-    },
-    "58bdc6b4d610": {
-      "resumen": "Proyecto de código abierto que logró emular un Nintendo (consola NES) usando una red neuronal de la familia Qwen comprimida a apenas 1 gigabyte de pesos, que predice cuadro a cuadro cómo debería verse el juego en lugar de correr el código original. Le sirve a un médico que aprende análisis de datos porque es un ejemplo concreto de \"modelo de mundo\" (world model): una red que aprende a simular un sistema dinámico a partir de datos, idea que también se usa para modelar procesos biológicos o de salud.",
-      "destacado": false
-    },
-    "39501fa59220": {
-      "resumen": "Aviso en r/datascience sobre un curso gratuito de datos sintéticos (información artificial generada para parecerse a datos reales sin exponer pacientes o usuarios reales) disponible en LinkedIn Learning. Le sirve a un médico que aprende análisis de datos porque los datos sintéticos son clave para entrenar y probar modelos en salud sin comprometer la privacidad de los pacientes.",
-      "destacado": false
-    },
-    "9e37c40a85b3": {
-      "resumen": "Artículo de opinión que sostiene que la inteligencia artificial no está reemplazando a los ingenieros de confiabilidad de sitios (SRE, encargados de que los sistemas informáticos no se caigan), sino que les está quitando habilidades al automatizarles las tareas de diagnóstico que antes los entrenaban. Le sirve a un médico que aprende análisis de datos como advertencia general: delegar demasiado en la inteligencia artificial puede frenar el propio aprendizaje de quien la usa.",
-      "destacado": false
-    },
-    "0ff9069790ce": {
-      "resumen": "Proyecto de arte generativo que dibuja flores de forma procedural (es decir, generadas por reglas matemáticas y no a mano) usando LaTeX, el lenguaje habitual para escribir documentos científicos. Le sirve a un médico que aprende análisis de datos como una puerta de entrada lúdica a la generación procedural, la misma lógica que después se usa para crear gráficos o simulaciones de datos de forma automática.",
       "destacado": false
     },
     "334da0cc7f7d": {
@@ -81,18 +47,52 @@
       "resumen": "Tutorial de KDnuggets que muestra paso a paso cómo construir el clásico juego Breakout usando \"vibe coding\" (programar describiendo lo que uno quiere en lenguaje natural y dejando que un asistente de inteligencia artificial genere y ajuste el código). Le sirve a un médico que aprende análisis de datos como introducción práctica a programar apoyándose en un asistente de inteligencia artificial, sin necesidad de dominar antes cada detalle del lenguaje.",
       "destacado": false
     },
-    "7ff7f79ad869": {
-      "resumen": "Towards Data Science explica cómo convertir modelos de decisión (reglas o algoritmos que eligen qué acción tomar) en herramientas que un agente de inteligencia artificial puede invocar por su cuenta, en lugar de limitarse a buscar información. Le sirve a un médico que aprende análisis de datos porque muestra cómo combinar lógica de decisión clínica o administrativa con agentes de inteligencia artificial de forma estructurada y auditable.",
-      "destacado": false
-    },
     "e6f335e21e6c": {
       "resumen": "Los Pumas (selección argentina de rugby) ya tienen confirmado el plantel que afrontará la segunda etapa del Nations Championship."
     },
-    "f66f4e17c629": {
-      "resumen": "Un repaso por los jugadores radicados en Europa que refuerzan a Argentina XV, varios con pasado en Los Pumas y en Los Pumas 7's."
+    "e27b0b82abf8": {
+      "resumen": "Nota de TCTMD sobre un estudio que asocia una alimentación de buena calidad con menor riesgo cardiovascular (CVD, enfermedad cardiovascular) en sobrevivientes de cáncer, población que acumula factores de riesgo por el propio tratamiento oncológico. Vale la pena mirarlo porque la cardio-oncología (la subespecialidad que cuida el corazón de los pacientes con cáncer) es un área creciente y la dieta es una intervención modificable y de bajo costo.",
+      "destacado": false,
+      "analisis": "Diseño: Según el título, un estudio observacional (probablemente de cohorte) que relaciona la calidad de la dieta con el riesgo cardiovascular; la nota de TCTMD no precisa aleatorización, cegamiento, ni número de centros o pacientes.\nPoblación: Sobrevivientes de cáncer, un grupo con riesgo cardiovascular aumentado por la cardiotoxicidad de ciertos tratamientos oncológicos (quimioterapia, radioterapia).\nIntervención: No hay una intervención activa; se compara el riesgo cardiovascular entre quienes reportan una alimentación de mejor o peor calidad.\nResultados: El título indica una reducción del riesgo cardiovascular asociada a una dieta saludable, pero no hay cifras de riesgo relativo, intervalos de confianza ni valor de p disponibles.\nLimitaciones: Al ser observacional, no permite establecer causalidad; la dieta suele autorreportarse, lo que introduce sesgo de memoria, y puede confundirse con otros hábitos saludables.\nMensaje: Refuerza el rol de las medidas de prevención cardiovascular clásicas (alimentación saludable) también en la población de sobrevivientes de cáncer, un grupo que a veces queda fuera del radar cardiológico habitual.\nNota: análisis sin acceso al abstract."
     },
-    "b3fc810ca097": {
-      "resumen": "Los Pumas confirmaron la lista de 33 convocados para el cierre del Nations Championship."
+    "b229e049d604": {
+      "resumen": "Nota de TCTMD sobre un estudio que vincula la hemoglobina baja (anemia) previa al procedimiento con mayor riesgo de muerte y de hospitalización luego de un reemplazo valvular aórtico percutáneo (TAVI, implante transcatéter de válvula aórtica). Vale la pena mirarlo porque la anemia es un hallazgo frecuente y fácil de medir antes de un TAVI, y podría ayudar a identificar pacientes de mayor riesgo.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional (probablemente de cohorte o registro) que relaciona el nivel de hemoglobina previo al procedimiento con desenlaces tras TAVI; la nota no especifica el número de centros ni de pacientes.\nPoblación: Pacientes sometidos a implante transcatéter de válvula aórtica (TAVI) por estenosis aórtica severa, estratificados según su nivel de hemoglobina basal.\nIntervención: No hay intervención activa comparada; se analiza el valor pronóstico de la hemoglobina baja (anemia) sobre los resultados del procedimiento.\nResultados: El título señala mayor riesgo de muerte y de hospitalización en pacientes con hemoglobina baja, sin cifras de razón de riesgo, intervalos de confianza ni valor de p disponibles.\nLimitaciones: Es observacional, por lo que no distingue si la anemia es causa directa o marcador de fragilidad y comorbilidad; falta precisar si se corrigió por otros factores de riesgo.\nMensaje: Sugiere incorporar la hemoglobina preprocedimiento como parte de la estratificación de riesgo antes del TAVI, aunque se necesita confirmar si corregir la anemia mejora el pronóstico.\nNota: análisis sin acceso al abstract."
+    },
+    "e0dccdb3e5e7": {
+      "resumen": "Repaso de TCTMD con las diez noticias de cardiología más leídas durante octubre de 2026. Vale la pena mirarlo como un resumen rápido para no perderse ningún tema relevante del mes.",
+      "destacado": false
+    },
+    "c80cb208774f": {
+      "resumen": "Hilo de Hacker News que alerta sobre una presunta brecha de seguridad (breach) en Scribd, la plataforma de documentos y libros digitales, con exposición de datos de usuarios. Le sirve a un médico que aprende análisis de datos como recordatorio de que cualquier plataforma que maneja información personal —incluidas las de salud— puede sufrir filtraciones, por lo que la seguridad de los datos es parte ineludible de trabajar con ellos.",
+      "destacado": false
+    },
+    "9f4589b36190": {
+      "resumen": "Proyecto hobby mostrado en Hacker News: un juego para adivinar episodios de Star Trek: The Next Generation, creado como homenaje a Patrick Stewart. Le sirve a un médico que aprende análisis de datos como ejemplo sencillo de una aplicación web interactiva construida y publicada por una sola persona, el tipo de proyecto chico ideal para practicar antes de encarar algo más ambicioso.",
+      "destacado": false
+    },
+    "1649c5dd0704": {
+      "resumen": "Simon Willison (bloguero especializado en inteligencia artificial) describe cómo Drew Breunig logró meter un emulador de la consola Nintendo (con su procesador 6502) dentro de los pesos de un modelo de lenguaje Qwen3.5 de 4 mil millones de parámetros, permitiendo jugar títulos como Super Mario Bros. Le sirve a un médico que aprende análisis de datos porque es un ejemplo concreto de \"modelo de mundo\" (world model): una red neuronal que aprende a simular un sistema dinámico a partir de datos, la misma lógica que se usa para modelar procesos biológicos o fisiológicos.",
+      "destacado": false
+    },
+    "45335aaa530e": {
+      "resumen": "Nota del Boston Globe, popular en Hacker News, sobre cómo el personaje del capitán Jean-Luc Picard interpretado por Patrick Stewart transmitió una visión ética y humanista en Star Trek. Aporta poco directamente a un médico que aprende análisis de datos, pero su repercusión en una comunidad técnica como Hacker News muestra que esas audiencias también valoran la reflexión humanística por fuera de la tecnología.",
+      "destacado": false
+    },
+    "b18ed8fdf2c4": {
+      "resumen": "Nota sobre cómo el retroceso del hielo más antiguo de Noruega, acelerado por el cambio climático, deja al descubierto objetos de la Edad de Piedra conservados durante milenios. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo el hielo funciona como un \"registro de datos\" natural: cada capa guarda información histórica que ahora se puede analizar antes de que se pierda.",
+      "destacado": false
+    },
+    "c6e629e49d61": {
+      "resumen": "En r/datascience, Andrew Gelman (estadístico reconocido) cuenta cómo surgió el R-hat (estadístico de Gelman-Rubin que permite chequear si las cadenas de un método de muestreo de Monte Carlo vía cadenas de Markov, MCMC, convergieron) durante su paso por los Bell Labs en 1990. Le sirve mucho a un médico que aprende análisis de datos porque el R-hat es una herramienta clave para validar modelos estadísticos bayesianos antes de confiar en sus resultados.",
+      "destacado": false
+    },
+    "a03397b22ac2": {
+      "resumen": "Felipe Contepomi, head coach de Los Pumas, habló tras cerrar la concentración en Londres y confirmar el plantel para el Nations Championship."
+    },
+    "4d3c6c5122c6": {
+      "resumen": "Los Pumas, la selección argentina de rugby, dieron a conocer la lista de convocados para el cierre del Nations Championship."
     }
   }
 }

@@ -1,31 +1,9 @@
 {
-  "generated_at": "2026-11-01T10:04:33Z",
+  "generated_at": "2026-11-01T22:05:24Z",
   "summaries": {
     "739ff78a3efa": {
       "resumen": "Documento de consenso publicado en European Heart Journal (revista científica europea de cardiología) que presenta la Quinta Definición Universal del Infarto de Miocardio, con una actualización sobre el rol de la lipoproteína(a) —una partícula de colesterol de origen genético asociada a mayor riesgo cardiovascular— y la inflamación en el diagnóstico. Vale la pena mirarlo porque estos consensos internacionales terminan definiendo qué se considera infarto en la práctica diaria y en los ensayos clínicos.",
       "destacado": false
-    },
-    "38904865337f": {
-      "resumen": "Nota de Towards Data Science que explica cómo usar pruebas de extremo a extremo (E2E, end-to-end) junto con Claude Code (asistente de inteligencia artificial para programar) para minimizar errores al construir aplicaciones. Le sirve a un médico que aprende análisis de datos porque muestra una práctica concreta —probar el código de punta a punta— para confiar en los resultados de sus propios scripts antes de usarlos con datos reales.",
-      "destacado": false
-    },
-    "346805cf140d": {
-      "resumen": "Towards Data Science prueba seis estrategias distintas para que un modelo de inteligencia artificial actualice sus conclusiones cuando aparece nueva evidencia que contradice una anterior, y evalúa si ese cambio se propaga a las decisiones que dependían del dato original. Le sirve a un médico que aprende análisis de datos porque toca un problema central en la práctica basada en evidencia: qué pasa con las decisiones ya tomadas cuando un dato previo se revisa o se descarta.",
-      "destacado": false
-    },
-    "d040055a2fcf": {
-      "resumen": "El autor probó en tres modelos de inteligencia artificial qué pasa si se les asegura, de forma incorrecta, que sus respuestas erróneas en realidad eran correctas, contradiciendo un estudio previo que afirmaba que ese tipo de retroalimentación apenas influye en el aprendizaje de los agentes de inteligencia artificial. Le sirve mucho a un médico que aprende análisis de datos porque expone un riesgo concreto de confiar ciegamente en un modelo: al menos uno de ellos terminó \"creyéndole\" a una corrección falsa en lugar de sostener la respuesta correcta.",
-      "destacado": true
-    },
-    "1649c5dd0704": {
-      "resumen": "Simon Willison (bloguero especializado en inteligencia artificial) describe cómo Drew Breunig logró meter un emulador de la consola Nintendo (con su procesador 6502) dentro de los pesos de un modelo de lenguaje Qwen3.5 de 4 mil millones de parámetros, permitiendo jugar títulos como Super Mario Bros. Le sirve a un médico que aprende análisis de datos porque es un ejemplo concreto de \"modelo de mundo\" (world model): una red neuronal que aprende a simular un sistema dinámico a partir de datos, la misma lógica que se usa para modelar procesos biológicos o fisiológicos.",
-      "destacado": false
-    },
-    "f98daafb3e14": {
-      "resumen": "Santiago Mesón, formado en la dinastía rugbística de Tucumán, brilló con la selección juvenil (la Naranja) ante Francia, pero una lesión le impidió disputar un Mundial: La Gaceta repasa su historia."
-    },
-    "9fd02c358bc3": {
-      "resumen": "Felipe Contepomi dejó abierta la puerta a dirigir a otro seleccionado o club una vez que termine su etapa al frente de Los Pumas tras el Mundial."
     },
     "888ffe4c6abc": {
       "resumen": "Nota de TCTMD con el resumen diario del Foro de Innovación en Tecnología Médica (MedTech Innovation Forum), un espacio donde se presentan dispositivos y tendencias emergentes en cardiología intervencionista. Vale la pena mirarlo como panorama rápido de hacia dónde va la innovación en dispositivos cardiovasculares, más que por un hallazgo puntual.",
@@ -43,34 +21,76 @@
       "resumen": "Anuncio de TCTMD sobre la transmisión en vivo del congreso TCT (Transcatheter Cardiovascular Therapeutics) 2026, uno de los encuentros más importantes de cardiología intervencionista a nivel mundial. Vale la pena tenerlo presente como puerta de acceso a las novedades que se vayan presentando durante el evento.",
       "destacado": false
     },
-    "7fc58ee29193": {
-      "resumen": "Nota de TCTMD sobre el estudio CELEBRATE, que evalúa zalunfiban (un inhibidor subcutáneo del receptor plaquetario glicoproteína IIb/IIIa, GPIIb/IIIa) administrado en la etapa prehospitalaria ante la sospecha de infarto con elevación del segmento ST (STEMI, ST-elevation myocardial infarction), y que mostraría un beneficio sostenido al año de seguimiento. Vale la pena mirarlo porque es una estrategia pensada para ganar tiempo crítico antes de que el paciente llegue a la sala de hemodinamia.",
-      "destacado": true,
-      "analisis": "Diseño: Según el título y la cobertura de TCTMD, se trata del ensayo clínico CELEBRATE, que evalúa zalunfiban administrado en forma prehospitalaria ante sospecha de STEMI, con seguimiento a un año; sin el abstract no se puede precisar aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con sospecha de infarto agudo de miocardio con elevación del segmento ST (STEMI) atendidos en el ámbito prehospitalario, antes de confirmar el diagnóstico angiográfico.\nIntervención: Zalunfiban, un inhibidor subcutáneo de acción rápida del receptor plaquetario glicoproteína IIb/IIIa (GPIIb/IIIa), administrado antes del traslado o del arribo al centro con capacidad de angioplastia, frente a la atención estándar sin ese fármaco.\nResultados: El título indica que la ventaja de zalunfiban se mantiene hasta el año de seguimiento, pero no hay cifras de magnitud del efecto, intervalos de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: Sin el texto completo no es posible evaluar el tamaño muestral, la tasa de eventos hemorrágicos a largo plazo ni si el beneficio se sostiene en todos los subgrupos de riesgo.\nMensaje: Si se confirma, respaldaría el uso de zalunfiban como puente antiplaquetario prehospitalario en el STEMI sospechado, con un beneficio clínico que no se diluye con el tiempo, aunque hace falta el detalle completo del estudio para pesar riesgos y beneficios.\nNota: análisis sin acceso al abstract."
-    },
     "0def4a2fca6b": {
       "resumen": "Simon Willison comenta un hallazgo de seguridad de Parameter Labs: una falla en la función de \"artifacts\" (antes llamada Canvas, ahora HTML previews) de ChatGPT que permitía tomar el control de cuentas de usuarios. Le sirve a un médico que aprende análisis de datos como recordatorio de que las plataformas de inteligencia artificial que usa a diario pueden tener vulnerabilidades serias, algo clave antes de subir ahí información sensible, incluida la de pacientes.",
-      "destacado": false
-    },
-    "f9b8a9efbf26": {
-      "resumen": "Hacker News destaca Memdoor, un sistema de cinco modelos de lenguaje Qwen3.8 de 27 mil millones de parámetros trabajando en equipo, que logró superar al modelo Fable 5 en LiveCodeBench Hard (una prueba exigente de capacidad para programar). Le sirve a un médico que aprende análisis de datos porque muestra una tendencia actual: combinar varios modelos más chicos en equipo puede rendir mejor que depender de uno solo más grande.",
-      "destacado": false
-    },
-    "8774e31fd6aa": {
-      "resumen": "Hacker News difunde la historia de un agricultor italiano que encontró semillas desconocidas en el altillo de su casa y decidió plantarlas, con resultados sorprendentes. Aporta poco en forma directa al análisis de datos: es una curiosidad agrícola viral en la comunidad técnica, sin vínculo con inteligencia artificial ni ciencia de datos, así que un médico que aprende análisis de datos puede saltearla sin perder nada relevante.",
       "destacado": false
     },
     "bc9463905bbd": {
       "resumen": "Simon Willison anuncia la versión 0.1a9 de datasette-llm, un complemento (plugin) que conecta la herramienta Datasette con modelos de lenguaje (LLM, large language model) y que ahora toma automáticamente el modelo predeterminado configurado en la herramienta LLM. Le sirve a un médico que aprende análisis de datos porque Datasette es una herramienta simple para explorar bases de datos, y este tipo de integración con inteligencia artificial facilita hacerle preguntas en lenguaje natural a los propios datos.",
       "destacado": false
     },
-    "c241855c2841": {
-      "resumen": "Un desarrollador presenta HackerTube, un sitio que arma una suerte de YouTube personalizado a partir de los videos que la comunidad de Hacker News recomienda con más frecuencia. Le sirve a un médico que aprende análisis de datos como ejemplo sencillo de cómo filtrar y priorizar contenido a partir de señales de una comunidad, una lógica similar a la de los sistemas de recomendación.",
+    "7019f79ddfac": {
+      "resumen": "Reporte de TCTMD sobre un estudio que evaluó el implante percutáneo de válvula aórtica (TAVI, transcatheter aortic valve implantation) sumado al tratamiento médico dirigido por guías (GDMT, guideline-directed medical therapy) en pacientes seleccionados con insuficiencia aórtica grave, una válvula que deja pasar sangre hacia atrás en lugar de la estenosis más habitual. Vale la pena mirarlo porque el TAVI para insuficiencia aórtica pura todavía es un terreno en desarrollo, con menos evidencia que para la estenosis aórtica.",
+      "destacado": false,
+      "analisis": "Diseño: Según el título y la cobertura de TCTMD, parecería tratarse de un estudio observacional o registro sobre el implante percutáneo de válvula aórtica (TAVI) sumado a tratamiento médico dirigido por guías (GDMT) en insuficiencia aórtica grave; sin el abstract no se puede precisar aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes seleccionados con insuficiencia aórtica grave (regurgitación aórtica), una condición menos frecuente que la estenosis aórtica y con indicaciones de TAVI todavía en evolución.\nIntervención: TAVI combinado con tratamiento médico dirigido por guías, presumiblemente frente a tratamiento médico solo o cirugía, aunque el comparador exacto no se puede confirmar sin el abstract.\nResultados: No hay cifras de eventos, intervalos de confianza ni valor de p disponibles sin el abstract completo.\nLimitaciones: Sin el texto completo no es posible evaluar el tamaño muestral, el seguimiento ni el riesgo de sesgo de selección propio de los registros en esta indicación todavía no aprobada de forma amplia.\nMensaje: Sugiere que el TAVI podría ser una opción razonable en un subgrupo bien seleccionado de pacientes con insuficiencia aórtica grave, ampliando su uso más allá de la estenosis aórtica, aunque se necesita el detalle completo del estudio para definir qué pacientes se benefician realmente.\nNota: análisis sin acceso al abstract."
+    },
+    "1ce89e4dea32": {
+      "resumen": "Resultados a un año del ensayo ANDES (JACC, Journal of the American College of Cardiology), que compara anticoagulación de corto plazo versus doble antiagregación plaquetaria (combinación de dos antiagregantes) después del cierre percutáneo de la orejuela izquierda (LAAO, left atrial appendage closure), un procedimiento para prevenir accidentes cerebrovasculares en pacientes con fibrilación auricular que no pueden recibir anticoagulación crónica. Vale la pena mirarlo porque el esquema antitrombótico óptimo después del LAAO todavía no está bien definido y afecta directamente el riesgo de trombosis del dispositivo y de sangrado.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico ANDES publicado en JACC, con resultados a un año de seguimiento; a partir del título se trata de una comparación aleatorizada entre dos esquemas antitrombóticos tras el cierre percutáneo de la orejuela izquierda, pero sin el abstract no se puede precisar el cegamiento, el número de centros ni el tamaño de la muestra.\nPoblación: Pacientes con fibrilación auricular sometidos a cierre percutáneo de la orejuela izquierda (LAAO), habitualmente aquellos con contraindicación o alto riesgo de sangrado para la anticoagulación oral crónica.\nIntervención: Anticoagulación de corto plazo tras el procedimiento frente a doble antiagregación plaquetaria (aspirina más un inhibidor P2Y12), como estrategias para prevenir la trombosis relacionada con el dispositivo mientras se endoteliza.\nResultados: El título anuncia resultados al año de seguimiento, pero sin el abstract no hay cifras de trombosis del dispositivo, accidente cerebrovascular ni sangrado mayor, ni valores de p o intervalos de confianza disponibles.\nLimitaciones: Sin el texto completo no se puede evaluar el poder estadístico del estudio para eventos poco frecuentes, ni la adherencia real a cada esquema antitrombótico asignado.\nMensaje: Si confirma similar seguridad y eficacia entre ambos esquemas, podría simplificar el manejo antitrombótico post-LAAO hacia la doble antiagregación, evitando la anticoagulación en una población que mayormente la indicó para evitarla; se necesita el detalle del abstract para confirmar la magnitud del efecto.\nNota: análisis sin acceso al abstract."
+    },
+    "8d9cb2c3fd13": {
+      "resumen": "Artículo de revisión en JACC sobre cómo interpretar la troponina cardíaca de alta sensibilidad (biomarcador de daño en el músculo cardíaco) en la práctica clínica, con el mensaje de que detectar un valor elevado ya no equivale directamente a diagnosticar un infarto. Vale la pena mirarlo porque la troponina de alta sensibilidad detecta elevaciones mínimas en múltiples contextos no isquémicos, y una mala interpretación puede llevar a sobrediagnóstico de infarto.",
       "destacado": false
     },
-    "e07ec5d69c95": {
-      "resumen": "Hilo de Hacker News en torno a un tuit que afirma que Anthropic bloquearía cuentas de usuarios por actividades relacionadas con el entrenamiento de modelos de inteligencia artificial más grandes; se trata de una denuncia individual en redes sociales, no de una fuente oficial. Le sirve a un médico que aprende análisis de datos como ejemplo de las tensiones y políticas de uso que manejan las empresas de inteligencia artificial sobre sus propias plataformas.",
+    "be1cc9b592ad": {
+      "resumen": "Comentario de Krumholz HM en JACC sobre las limitaciones de los métodos de inferencia causal (técnicas estadísticas que buscan estimar efectos de causa y efecto a partir de datos observacionales) cuando se aplican a la investigación cardiovascular. Vale la pena mirarlo porque advierte sobre los límites de herramientas estadísticas cada vez más usadas para sacar conclusiones de tratamiento sin un ensayo aleatorizado.",
       "destacado": false
+    },
+    "bb6fed768e81": {
+      "resumen": "Réplica de los autores en JACC a una carta sobre su estudio de remodelado miocárdico por trayectorias y el riesgo de eventos cardiovasculares mayores (MACE, major adverse cardiovascular events) en la miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy) de fenotipo leve. Vale la pena mirarlo solo como contexto de un debate científico puntual sobre cómo clasificar el riesgo en estos pacientes; no aporta datos nuevos por sí sola.",
+      "destacado": false
+    },
+    "14bf0929a45e": {
+      "resumen": "Investigación periodística (vía Hacker News) sobre enfermeras que advierten que aplicaciones tipo \"Uber para enfermería\" (plataformas de trabajo freelance en salud) empujan a desregular el ejercicio de la enfermería, tercerizando cuidados críticos sin los controles habituales. Le sirve a un médico que aprende análisis de datos porque es un ejemplo de cómo las plataformas digitales y sus algoritmos de asignación de turnos pueden chocar con la seguridad del paciente cuando se aplican sin regulación al sistema de salud.",
+      "destacado": false
+    },
+    "dbe709a7c6a9": {
+      "resumen": "Nota de opinión en Vox sobre el actor Patrick Stewart y su personaje Jean-Luc Picard de Star Trek como ejemplo de liderazgo ejercido con poder, en clave de comentario político. Aporta poco en forma directa al análisis de datos o la inteligencia artificial: es una reflexión cultural ajena a esos temas, así que un médico que aprende análisis de datos puede saltearla sin perder nada relevante.",
+      "destacado": false
+    },
+    "835fd1406315": {
+      "resumen": "Simon Willison cita al ingeniero Kyle Kingsbury, quien plantea que el uso de modelos de lenguaje (LLM, large language model) para generar código y documentación está erosionando la confianza en el software y en las organizaciones que lo producen. Le sirve a un médico que aprende análisis de datos como llamado de atención: conviene revisar con ojo crítico el código o los análisis generados con inteligencia artificial antes de confiar en ellos para trabajar con datos clínicos.",
+      "destacado": false
+    },
+    "4ebd24d83140": {
+      "resumen": "Hilo de Reddit difundido en Hacker News que alerta sobre una probable filtración de datos (breach) en Frontier Airlines, con usuarios reportando correos de phishing dirigidos a sus cuentas. Le sirve a un médico que aprende análisis de datos como recordatorio de que cualquier base de datos con información personal, incluida la de pacientes, es un blanco posible y necesita capas de seguridad.",
+      "destacado": false
+    },
+    "16ccde18f6d1": {
+      "resumen": "Guía práctica de Towards Data Science sobre seis patrones arquitectónicos avanzados para construir la \"capa de contexto empresarial\" que alimenta a los agentes de inteligencia artificial, yendo más allá de la técnica RAG (recuperación aumentada de generación, retrieval-augmented generation) básica. Le sirve a un médico que aprende análisis de datos porque explica, con ejemplos concretos, cómo diseñar sistemas que le entreguen a un modelo de lenguaje la información correcta sin desbordarlo de datos irrelevantes ni disparar costos.",
+      "destacado": true
+    },
+    "664224e893fc": {
+      "resumen": "Presentación en Hacker News (sección \"Show HN\") de HackerBooks, un sitio que aplica a los libros mencionados en esa comunidad la misma lógica de HackerTube, agregando y ordenando según las menciones. Le sirve a un médico que aprende análisis de datos como ejemplo simple de cómo armar un ranking o recomendador a partir de menciones agregadas de una comunidad, una técnica básica de minería de datos.",
+      "destacado": false
+    },
+    "bd2af921a36b": {
+      "resumen": "Towards Data Science muestra cómo los modelos de visión por computadora suelen fallar antes de razonar sobre una imagen, y que agregar unas pocas etiquetas bien puestas sobre la imagen corrige más problemas que ajustar el texto del prompt (la instrucción escrita). Le sirve a un médico que aprende análisis de datos porque es una técnica práctica y sencilla para mejorar resultados cuando usa inteligencia artificial para interpretar imágenes, por ejemplo estudios o gráficos.",
+      "destacado": false
+    },
+    "7353bdd5b58f": {
+      "resumen": "Towards Data Science reproduce con una red neuronal simple (usando la librería NumPy) el fenómeno de \"aprendizaje subliminal\", donde un modelo aprende a reconocer dígitos a partir de datos que parecen puro ruido, y explica por qué funciona. Le sirve a un médico que aprende análisis de datos porque ilustra, con un ejemplo chico y reproducible, cómo las redes neuronales pueden extraer señal de datos que a simple vista no la tienen.",
+      "destacado": false
+    },
+    "d0eaa70d33dc": {
+      "resumen": "El entrenador Quesada confirmó la lista de la selección de Italia de rugby para el Nations Championship, con Domingo Miotti como posible rival de Los Pumas."
+    },
+    "ba0799088b55": {
+      "resumen": "La selección argentina de rugby seven cayó ante Francia en los Juegos Olímpicos de la Juventud de Dakar y ahora jugará ante Sudáfrica por un lugar en la final."
+    },
+    "77f5ec4b84ce": {
+      "resumen": "La selección argentina de rugby arrancó con buen pie su participación en los Juegos Olímpicos de la Juventud de Dakar."
     }
   }
 }

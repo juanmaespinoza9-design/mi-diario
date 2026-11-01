@@ -1,60 +1,12 @@
 {
-  "generated_at": "2026-10-31T22:04:29Z",
+  "generated_at": "2026-11-01T10:04:33Z",
   "summaries": {
-    "8aba614ac4a3": {
-      "resumen": "Nota de TCTMD sobre un estudio que asocia las temperaturas más frías con un aumento de las hospitalizaciones por insuficiencia cardíaca (HF, heart failure, la incapacidad del corazón de bombear sangre de forma adecuada). Vale la pena mirarlo porque es un factor ambiental modificable en la organización del sistema de salud: anticipar picos de internación en meses fríos permite reforzar el seguimiento ambulatorio y la disponibilidad de camas.",
-      "destacado": false,
-      "analisis": "Diseño: Según el título, estudio observacional (probablemente ecológico o de series de tiempo) que correlaciona la temperatura ambiente con la tasa de hospitalizaciones por insuficiencia cardíaca; sin el abstract no se puede precisar aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con insuficiencia cardíaca hospitalizados, analizados según la temperatura ambiental registrada en el período o la región de internación.\nIntervención: No hay intervención activa; se compara la frecuencia de hospitalizaciones entre períodos o zonas con temperaturas más bajas frente a más altas.\nResultados: El título señala un aumento de las hospitalizaciones por insuficiencia cardíaca asociado a temperaturas más frías, sin cifras de magnitud, intervalos de confianza ni valor de p disponibles.\nLimitaciones: El diseño observacional expone a factores de confusión estacionales (infecciones respiratorias, menor actividad física, cambios en la adherencia al tratamiento) que pueden explicar parte de la asociación; no permite establecer causalidad directa.\nMensaje: Refuerza la conveniencia de intensificar el seguimiento ambulatorio y anticipar mayor demanda de camas para pacientes con insuficiencia cardíaca durante los meses fríos, aunque el estudio no prueba que el frío por sí solo sea la causa.\nNota: análisis sin acceso al abstract."
-    },
-    "8d9cb2c3fd13": {
-      "resumen": "Artículo de revisión en JACC (Journal of the American College of Cardiology) sobre cómo interpretar la troponina cardíaca de alta sensibilidad (una proteína que se libera cuando hay daño en el músculo cardíaco y que se mide con ensayos muy sensibles) en la práctica clínica, remarcando que un valor elevado no equivale por sí solo a un diagnóstico de infarto. Vale la pena mirarlo porque es una de las pruebas más usadas en las guardias y su mala interpretación genera diagnósticos erróneos.",
-      "destacado": false
-    },
-    "50915b3a5b88": {
-      "resumen": "Carta de comentario en JACC que discute cómo alinear en el tiempo las trayectorias de remodelado cardíaco en pacientes con miocardiopatía hipertrófica (HCM) leve, dentro del mismo intercambio de correspondencia sobre riesgo de eventos cardiovasculares mayores. Vale la pena mirarlo porque toca un problema metodológico clave al estudiar enfermedades de evolución lenta: cómo comparar pacientes que están en distintas etapas de su enfermedad al momento de la evaluación.",
-      "destacado": false
-    },
-    "be1cc9b592ad": {
-      "resumen": "Artículo de perspectiva en JACC (Journal of the American College of Cardiology, revista de la Sociedad Americana de Cardiología) firmado por Krumholz y colaboradores sobre las limitaciones de los métodos de inferencia causal (técnicas estadísticas que buscan estimar efectos de causa-efecto a partir de datos observacionales) cuando se usan para guiar decisiones clínicas. Vale la pena mirarlo porque advierte sobre los límites de confiar ciegamente en estos métodos a la hora de reemplazar a los ensayos clínicos aleatorizados.",
-      "destacado": false
-    },
     "739ff78a3efa": {
       "resumen": "Documento de consenso publicado en European Heart Journal (revista científica europea de cardiología) que presenta la Quinta Definición Universal del Infarto de Miocardio, con una actualización sobre el rol de la lipoproteína(a) —una partícula de colesterol de origen genético asociada a mayor riesgo cardiovascular— y la inflamación en el diagnóstico. Vale la pena mirarlo porque estos consensos internacionales terminan definiendo qué se considera infarto en la práctica diaria y en los ensayos clínicos.",
       "destacado": false
     },
-    "bb6fed768e81": {
-      "resumen": "Carta de respuesta publicada en JACC (Journal of the American College of Cardiology, revista de la Sociedad Americana de Cardiología) dentro de un intercambio de correspondencia sobre las trayectorias de remodelado del músculo cardíaco y el riesgo de eventos cardiovasculares mayores (MACE, por sus siglas en inglés) en pacientes con miocardiopatía hipertrófica (HCM, por sus siglas en inglés) fenotípicamente leve. Vale la pena tenerlo en cuenta como parte del debate científico en curso sobre cómo seguir a estos pacientes, más que como un estudio nuevo en sí mismo.",
-      "destacado": false
-    },
-    "e581338366c1": {
-      "resumen": "Nota de TCTMD sobre cómo cambió el uso de los anticoagulantes orales directos (ACOD, conocidos también por su sigla en inglés DOAC) en la práctica real para tratar el tromboembolismo venoso (TEV, formación de coágulos en venas profundas o en el pulmón) asociado al cáncer, un terreno donde durante años predominó la heparina de bajo peso molecular. Vale la pena mirarlo porque muestra si la evidencia de los grandes ensayos ya se trasladó a la cama del paciente oncológico.",
-      "destacado": true,
-      "analisis": "Diseño: Estudio observacional de práctica real (tipo registro o cohorte) que describe la evolución temporal del uso de anticoagulantes orales directos; no se dispone del abstract completo para precisar aleatorización, cegamiento ni el número exacto de centros o pacientes.\nPoblación: Pacientes con tromboembolismo venoso (TEV) asociado a cáncer tratados en la práctica clínica habitual, fuera del contexto de un ensayo controlado.\nIntervención: Comparación del uso de anticoagulantes orales directos (ACOD) frente a otras estrategias como la heparina de bajo peso molecular, a lo largo de distintos períodos de tiempo.\nResultados: El título señala un cambio (\"shift\") marcado hacia los ACOD, pero no hay cifras de magnitud, intervalos de confianza ni valor de p disponibles en el título ni en la fuente consultada.\nLimitaciones: Al tratarse de datos de práctica real, persiste el riesgo de sesgo de selección y de indicación médica, además de depender de la calidad y completitud del registro.\nMensaje: Confirmaría en la práctica cotidiana la tendencia que marcaron los ensayos que posicionaron a los ACOD como alternativa a la heparina en TEV oncológico, aunque sin datos duros no se puede cuantificar el verdadero impacto clínico de ese cambio.\nNota: análisis sin acceso al abstract."
-    },
-    "e27b0b82abf8": {
-      "resumen": "Nota de TCTMD sobre un estudio que asocia una alimentación de buena calidad con menor riesgo cardiovascular (CVD, enfermedad cardiovascular) en sobrevivientes de cáncer, población que acumula factores de riesgo por el propio tratamiento oncológico. Vale la pena mirarlo porque la cardio-oncología (la subespecialidad que cuida el corazón de los pacientes con cáncer) es un área creciente y la dieta es una intervención modificable y de bajo costo.",
-      "destacado": false,
-      "analisis": "Diseño: Según el título, un estudio observacional (probablemente de cohorte) que relaciona la calidad de la dieta con el riesgo cardiovascular; la nota de TCTMD no precisa aleatorización, cegamiento, ni número de centros o pacientes.\nPoblación: Sobrevivientes de cáncer, un grupo con riesgo cardiovascular aumentado por la cardiotoxicidad de ciertos tratamientos oncológicos (quimioterapia, radioterapia).\nIntervención: No hay una intervención activa; se compara el riesgo cardiovascular entre quienes reportan una alimentación de mejor o peor calidad.\nResultados: El título indica una reducción del riesgo cardiovascular asociada a una dieta saludable, pero no hay cifras de riesgo relativo, intervalos de confianza ni valor de p disponibles.\nLimitaciones: Al ser observacional, no permite establecer causalidad; la dieta suele autorreportarse, lo que introduce sesgo de memoria, y puede confundirse con otros hábitos saludables.\nMensaje: Refuerza el rol de las medidas de prevención cardiovascular clásicas (alimentación saludable) también en la población de sobrevivientes de cáncer, un grupo que a veces queda fuera del radar cardiológico habitual.\nNota: análisis sin acceso al abstract."
-    },
-    "b229e049d604": {
-      "resumen": "Nota de TCTMD sobre un estudio que vincula la hemoglobina baja (anemia) previa al procedimiento con mayor riesgo de muerte y de hospitalización luego de un reemplazo valvular aórtico percutáneo (TAVI, implante transcatéter de válvula aórtica). Vale la pena mirarlo porque la anemia es un hallazgo frecuente y fácil de medir antes de un TAVI, y podría ayudar a identificar pacientes de mayor riesgo.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio observacional (probablemente de cohorte o registro) que relaciona el nivel de hemoglobina previo al procedimiento con desenlaces tras TAVI; la nota no especifica el número de centros ni de pacientes.\nPoblación: Pacientes sometidos a implante transcatéter de válvula aórtica (TAVI) por estenosis aórtica severa, estratificados según su nivel de hemoglobina basal.\nIntervención: No hay intervención activa comparada; se analiza el valor pronóstico de la hemoglobina baja (anemia) sobre los resultados del procedimiento.\nResultados: El título señala mayor riesgo de muerte y de hospitalización en pacientes con hemoglobina baja, sin cifras de razón de riesgo, intervalos de confianza ni valor de p disponibles.\nLimitaciones: Es observacional, por lo que no distingue si la anemia es causa directa o marcador de fragilidad y comorbilidad; falta precisar si se corrigió por otros factores de riesgo.\nMensaje: Sugiere incorporar la hemoglobina preprocedimiento como parte de la estratificación de riesgo antes del TAVI, aunque se necesita confirmar si corregir la anemia mejora el pronóstico.\nNota: análisis sin acceso al abstract."
-    },
-    "e0dccdb3e5e7": {
-      "resumen": "Repaso de TCTMD con las diez noticias de cardiología más leídas durante octubre de 2026. Vale la pena mirarlo como un resumen rápido para no perderse ningún tema relevante del mes.",
-      "destacado": false
-    },
-    "f45c08dad587": {
-      "resumen": "Nota de nostalgia tecnológica sobre los relojes Casio de la década de 1980, popular en Hacker News por el interés retro en diseño electrónico simple y duradero. Aporta poco en forma directa al análisis de datos: es más un gusto cultural de la comunidad técnica que una pieza sobre inteligencia artificial o ciencia de datos, así que un médico que aprende análisis de datos puede saltearla sin perder nada relevante.",
-      "destacado": false
-    },
     "38904865337f": {
       "resumen": "Nota de Towards Data Science que explica cómo usar pruebas de extremo a extremo (E2E, end-to-end) junto con Claude Code (asistente de inteligencia artificial para programar) para minimizar errores al construir aplicaciones. Le sirve a un médico que aprende análisis de datos porque muestra una práctica concreta —probar el código de punta a punta— para confiar en los resultados de sus propios scripts antes de usarlos con datos reales.",
-      "destacado": false
-    },
-    "5be14df72cef": {
-      "resumen": "El blog de Talos Intelligence describe el infostealer (malware que roba información) Volta, que usa modelos de lenguaje (LLM, large language model o modelo de lenguaje extenso) para evaluar y priorizar automáticamente a qué víctimas conviene atacar según su valor potencial. Le sirve a un médico que aprende análisis de datos porque muestra un uso malicioso real de la inteligencia artificial para clasificar datos personales, y recuerda que cualquier información sensible —incluida la de salud— puede ser blanco de este tipo de automatización.",
       "destacado": false
     },
     "346805cf140d": {
@@ -65,24 +17,8 @@
       "resumen": "El autor probó en tres modelos de inteligencia artificial qué pasa si se les asegura, de forma incorrecta, que sus respuestas erróneas en realidad eran correctas, contradiciendo un estudio previo que afirmaba que ese tipo de retroalimentación apenas influye en el aprendizaje de los agentes de inteligencia artificial. Le sirve mucho a un médico que aprende análisis de datos porque expone un riesgo concreto de confiar ciegamente en un modelo: al menos uno de ellos terminó \"creyéndole\" a una corrección falsa en lugar de sostener la respuesta correcta.",
       "destacado": true
     },
-    "a87530044b0b": {
-      "resumen": "El blog nullprogram.com presenta Prospero, un nuevo \"harness\" (andamiaje de herramientas y reglas) para programar asistido por inteligencia artificial, pensado como alternativa a los entornos actuales de ese tipo. Le sirve a un médico que aprende análisis de datos para entender que, además de elegir qué modelo de inteligencia artificial usar, cada vez importa más cómo se organiza el entorno que lo rodea para escribir y validar código de forma confiable.",
-      "destacado": false
-    },
-    "381223935ae3": {
-      "resumen": "Investigadores de seguridad de parameter.ai relatan cómo encontraron una falla que les permitió tomar el control de cuentas de ChatGPT, el asistente de inteligencia artificial de OpenAI. Le sirve a un médico que aprende análisis de datos como recordatorio de que las plataformas de inteligencia artificial que usa a diario —incluso las más populares— pueden tener vulnerabilidades serias de seguridad, algo clave a tener en cuenta antes de subir ahí datos sensibles.",
-      "destacado": false
-    },
-    "c6a737619b11": {
-      "resumen": "Hilo de r/datascience (comunidad de Reddit sobre ciencia de datos) que debate qué es el \"harness engineering\": el trabajo de armar el andamiaje (herramientas, chequeos y reglas) alrededor de un agente de inteligencia artificial para que use bien sus herramientas, en lugar de limitarse a escribirle un buen prompt. Le sirve a un médico que aprende análisis de datos porque muestra que el valor hoy está en diseñar el entorno de trabajo del agente, no solo en pedirle cosas.",
-      "destacado": false
-    },
     "1649c5dd0704": {
       "resumen": "Simon Willison (bloguero especializado en inteligencia artificial) describe cómo Drew Breunig logró meter un emulador de la consola Nintendo (con su procesador 6502) dentro de los pesos de un modelo de lenguaje Qwen3.5 de 4 mil millones de parámetros, permitiendo jugar títulos como Super Mario Bros. Le sirve a un médico que aprende análisis de datos porque es un ejemplo concreto de \"modelo de mundo\" (world model): una red neuronal que aprende a simular un sistema dinámico a partir de datos, la misma lógica que se usa para modelar procesos biológicos o fisiológicos.",
-      "destacado": false
-    },
-    "c6e629e49d61": {
-      "resumen": "En r/datascience, Andrew Gelman (estadístico reconocido) cuenta cómo surgió el R-hat (estadístico de Gelman-Rubin que permite chequear si las cadenas de un método de muestreo de Monte Carlo vía cadenas de Markov, MCMC, convergieron) durante su paso por los Bell Labs en 1990. Le sirve mucho a un médico que aprende análisis de datos porque el R-hat es una herramienta clave para validar modelos estadísticos bayesianos antes de confiar en sus resultados.",
       "destacado": false
     },
     "f98daafb3e14": {
@@ -90,6 +26,51 @@
     },
     "9fd02c358bc3": {
       "resumen": "Felipe Contepomi dejó abierta la puerta a dirigir a otro seleccionado o club una vez que termine su etapa al frente de Los Pumas tras el Mundial."
+    },
+    "888ffe4c6abc": {
+      "resumen": "Nota de TCTMD con el resumen diario del Foro de Innovación en Tecnología Médica (MedTech Innovation Forum), un espacio donde se presentan dispositivos y tendencias emergentes en cardiología intervencionista. Vale la pena mirarlo como panorama rápido de hacia dónde va la innovación en dispositivos cardiovasculares, más que por un hallazgo puntual.",
+      "destacado": false
+    },
+    "d8de00aeaf97": {
+      "resumen": "Caso clínico presentado en el congreso TCT (Transcatheter Cardiovascular Therapeutics) sobre la disección de la arteria donante utilizada como \"puente\" (vía colateral) durante una intervención retrógrada de oclusión total crónica (CTO, chronic total occlusion). Vale la pena mirarlo porque ilustra una complicación grave y poco frecuente de una de las técnicas más demandantes de la cardiología intervencionista.",
+      "destacado": false
+    },
+    "10d4a0cf82f1": {
+      "resumen": "Caso clínico del congreso TCT sobre una perforación esofágica en dos niveles con lesión de la vena ácigos, que complicó un procedimiento combinado de reparación valvular percutánea borde a borde (TEER, transcatheter edge-to-edge repair) y cierre de la orejuela izquierda (LAAO, left atrial appendage occlusion) guiado por ecocardiograma transesofágico (TEE, transesophageal echocardiography). Vale la pena mirarlo porque recuerda los riesgos poco frecuentes pero graves de combinar procedimientos estructurales guiados por ecografía transesofágica prolongada.",
+      "destacado": false
+    },
+    "4733a3525d58": {
+      "resumen": "Anuncio de TCTMD sobre la transmisión en vivo del congreso TCT (Transcatheter Cardiovascular Therapeutics) 2026, uno de los encuentros más importantes de cardiología intervencionista a nivel mundial. Vale la pena tenerlo presente como puerta de acceso a las novedades que se vayan presentando durante el evento.",
+      "destacado": false
+    },
+    "7fc58ee29193": {
+      "resumen": "Nota de TCTMD sobre el estudio CELEBRATE, que evalúa zalunfiban (un inhibidor subcutáneo del receptor plaquetario glicoproteína IIb/IIIa, GPIIb/IIIa) administrado en la etapa prehospitalaria ante la sospecha de infarto con elevación del segmento ST (STEMI, ST-elevation myocardial infarction), y que mostraría un beneficio sostenido al año de seguimiento. Vale la pena mirarlo porque es una estrategia pensada para ganar tiempo crítico antes de que el paciente llegue a la sala de hemodinamia.",
+      "destacado": true,
+      "analisis": "Diseño: Según el título y la cobertura de TCTMD, se trata del ensayo clínico CELEBRATE, que evalúa zalunfiban administrado en forma prehospitalaria ante sospecha de STEMI, con seguimiento a un año; sin el abstract no se puede precisar aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con sospecha de infarto agudo de miocardio con elevación del segmento ST (STEMI) atendidos en el ámbito prehospitalario, antes de confirmar el diagnóstico angiográfico.\nIntervención: Zalunfiban, un inhibidor subcutáneo de acción rápida del receptor plaquetario glicoproteína IIb/IIIa (GPIIb/IIIa), administrado antes del traslado o del arribo al centro con capacidad de angioplastia, frente a la atención estándar sin ese fármaco.\nResultados: El título indica que la ventaja de zalunfiban se mantiene hasta el año de seguimiento, pero no hay cifras de magnitud del efecto, intervalos de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: Sin el texto completo no es posible evaluar el tamaño muestral, la tasa de eventos hemorrágicos a largo plazo ni si el beneficio se sostiene en todos los subgrupos de riesgo.\nMensaje: Si se confirma, respaldaría el uso de zalunfiban como puente antiplaquetario prehospitalario en el STEMI sospechado, con un beneficio clínico que no se diluye con el tiempo, aunque hace falta el detalle completo del estudio para pesar riesgos y beneficios.\nNota: análisis sin acceso al abstract."
+    },
+    "0def4a2fca6b": {
+      "resumen": "Simon Willison comenta un hallazgo de seguridad de Parameter Labs: una falla en la función de \"artifacts\" (antes llamada Canvas, ahora HTML previews) de ChatGPT que permitía tomar el control de cuentas de usuarios. Le sirve a un médico que aprende análisis de datos como recordatorio de que las plataformas de inteligencia artificial que usa a diario pueden tener vulnerabilidades serias, algo clave antes de subir ahí información sensible, incluida la de pacientes.",
+      "destacado": false
+    },
+    "f9b8a9efbf26": {
+      "resumen": "Hacker News destaca Memdoor, un sistema de cinco modelos de lenguaje Qwen3.8 de 27 mil millones de parámetros trabajando en equipo, que logró superar al modelo Fable 5 en LiveCodeBench Hard (una prueba exigente de capacidad para programar). Le sirve a un médico que aprende análisis de datos porque muestra una tendencia actual: combinar varios modelos más chicos en equipo puede rendir mejor que depender de uno solo más grande.",
+      "destacado": false
+    },
+    "8774e31fd6aa": {
+      "resumen": "Hacker News difunde la historia de un agricultor italiano que encontró semillas desconocidas en el altillo de su casa y decidió plantarlas, con resultados sorprendentes. Aporta poco en forma directa al análisis de datos: es una curiosidad agrícola viral en la comunidad técnica, sin vínculo con inteligencia artificial ni ciencia de datos, así que un médico que aprende análisis de datos puede saltearla sin perder nada relevante.",
+      "destacado": false
+    },
+    "bc9463905bbd": {
+      "resumen": "Simon Willison anuncia la versión 0.1a9 de datasette-llm, un complemento (plugin) que conecta la herramienta Datasette con modelos de lenguaje (LLM, large language model) y que ahora toma automáticamente el modelo predeterminado configurado en la herramienta LLM. Le sirve a un médico que aprende análisis de datos porque Datasette es una herramienta simple para explorar bases de datos, y este tipo de integración con inteligencia artificial facilita hacerle preguntas en lenguaje natural a los propios datos.",
+      "destacado": false
+    },
+    "c241855c2841": {
+      "resumen": "Un desarrollador presenta HackerTube, un sitio que arma una suerte de YouTube personalizado a partir de los videos que la comunidad de Hacker News recomienda con más frecuencia. Le sirve a un médico que aprende análisis de datos como ejemplo sencillo de cómo filtrar y priorizar contenido a partir de señales de una comunidad, una lógica similar a la de los sistemas de recomendación.",
+      "destacado": false
+    },
+    "e07ec5d69c95": {
+      "resumen": "Hilo de Hacker News en torno a un tuit que afirma que Anthropic bloquearía cuentas de usuarios por actividades relacionadas con el entrenamiento de modelos de inteligencia artificial más grandes; se trata de una denuncia individual en redes sociales, no de una fuente oficial. Le sirve a un médico que aprende análisis de datos como ejemplo de las tensiones y políticas de uso que manejan las empresas de inteligencia artificial sobre sus propias plataformas.",
+      "destacado": false
     }
   }
 }

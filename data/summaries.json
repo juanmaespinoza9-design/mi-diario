@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T10:06:26Z",
+  "generated_at": "2026-11-02T22:06:45Z",
   "summaries": {
     "739ff78a3efa": {
       "resumen": "Documento de consenso publicado en European Heart Journal (revista científica europea de cardiología) que presenta la Quinta Definición Universal del Infarto de Miocardio, con una actualización sobre el rol de la lipoproteína(a) —una partícula de colesterol de origen genético asociada a mayor riesgo cardiovascular— y la inflamación en el diagnóstico. Vale la pena mirarlo porque estos consensos internacionales terminan definiendo qué se considera infarto en la práctica diaria y en los ensayos clínicos.",
@@ -22,77 +22,79 @@
       "resumen": "Réplica de los autores en JACC a una carta sobre su estudio de remodelado miocárdico por trayectorias y el riesgo de eventos cardiovasculares mayores (MACE, major adverse cardiovascular events) en la miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy) de fenotipo leve. Vale la pena mirarlo solo como contexto de un debate científico puntual sobre cómo clasificar el riesgo en estos pacientes; no aporta datos nuevos por sí sola.",
       "destacado": false
     },
-    "835fd1406315": {
-      "resumen": "Simon Willison cita al ingeniero Kyle Kingsbury, quien plantea que el uso de modelos de lenguaje (LLM, large language model) para generar código y documentación está erosionando la confianza en el software y en las organizaciones que lo producen. Le sirve a un médico que aprende análisis de datos como llamado de atención: conviene revisar con ojo crítico el código o los análisis generados con inteligencia artificial antes de confiar en ellos para trabajar con datos clínicos.",
-      "destacado": false
-    },
-    "16ccde18f6d1": {
-      "resumen": "Guía práctica de Towards Data Science sobre seis patrones arquitectónicos avanzados para construir la \"capa de contexto empresarial\" que alimenta a los agentes de inteligencia artificial, yendo más allá de la técnica RAG (recuperación aumentada de generación, retrieval-augmented generation) básica. Le sirve a un médico que aprende análisis de datos porque explica, con ejemplos concretos, cómo diseñar sistemas que le entreguen a un modelo de lenguaje la información correcta sin desbordarlo de datos irrelevantes ni disparar costos.",
-      "destacado": true
-    },
-    "bd2af921a36b": {
-      "resumen": "Towards Data Science muestra cómo los modelos de visión por computadora suelen fallar antes de razonar sobre una imagen, y que agregar unas pocas etiquetas bien puestas sobre la imagen corrige más problemas que ajustar el texto del prompt (la instrucción escrita). Le sirve a un médico que aprende análisis de datos porque es una técnica práctica y sencilla para mejorar resultados cuando usa inteligencia artificial para interpretar imágenes, por ejemplo estudios o gráficos.",
-      "destacado": false
-    },
-    "7353bdd5b58f": {
-      "resumen": "Towards Data Science reproduce con una red neuronal simple (usando la librería NumPy) el fenómeno de \"aprendizaje subliminal\", donde un modelo aprende a reconocer dígitos a partir de datos que parecen puro ruido, y explica por qué funciona. Le sirve a un médico que aprende análisis de datos porque ilustra, con un ejemplo chico y reproducible, cómo las redes neuronales pueden extraer señal de datos que a simple vista no la tienen.",
-      "destacado": false
-    },
-    "1da63b542840": {
-      "resumen": "Resumen diario de TCTMD sobre el segundo día del congreso TCT (Transcatheter Cardiovascular Therapeutics) 2026, uno de los encuentros más importantes de cardiología intervencionista a nivel mundial. Vale la pena mirarlo como panorama rápido de los estudios y dispositivos más comentados de la jornada, más que por un hallazgo puntual.",
-      "destacado": false
-    },
-    "b536914d82dc": {
-      "resumen": "Nota de TCTMD que va más allá de los números del ensayo P4 Trial para discutir su implicancia práctica en la guía de la intervención coronaria percutánea (PCI, percutaneous coronary intervention). Vale la pena mirarla como complemento interpretativo de los resultados del propio ensayo P4.",
-      "destacado": false
-    },
     "bdb18ab78f1d": {
       "resumen": "Reporte de TCTMD sobre el ensayo P4, presentado en el congreso TCT (Transcatheter Cardiovascular Therapeutics), que comparó la angiografía coronaria por tomografía computada (CCTA, coronary computed tomography angiography) contra el ultrasonido intravascular (IVUS, intravascular ultrasound) para guiar la intervención coronaria percutánea (PCI). Vale la pena mirarlo porque, de confirmarse la no inferioridad, podría simplificar la planificación de muchos procedimientos al evitar el uso de un catéter intravascular adicional.",
       "destacado": false,
       "analisis": "Diseño: Según el título, se trata del ensayo P4, presentado en el congreso TCT, que compara dos estrategias de imagen para guiar la intervención coronaria percutánea; sin el abstract no se puede precisar si fue aleatorizado, el cegamiento, el número de centros ni de pacientes.\nPoblación: Pacientes sometidos a intervención coronaria percutánea (PCI) en los que se evaluó la guía por imagen antes y durante el procedimiento; los criterios de inclusión y exclusión exactos no están disponibles sin el texto completo.\nIntervención: Guía del procedimiento con angiografía coronaria por tomografía computada (CCTA) frente a guía con ultrasonido intravascular (IVUS), la técnica de referencia actual.\nResultados: El título indica que la CCTA resultó no inferior al IVUS para guiar la PCI, pero sin el abstract no hay cifras de diferencia de riesgo, intervalos de confianza ni valor de p.\nLimitaciones: Sin el texto completo no se puede evaluar el tamaño de la muestra, el margen de no inferioridad preespecificado ni la experiencia de los operadores con cada técnica de imagen.\nMensaje: Si se confirma la no inferioridad, la CCTA podría ofrecer una alternativa no invasiva para planificar la PCI en pacientes seleccionados, aunque hace falta el detalle completo del ensayo para saber en qué escenarios reemplazaría al IVUS.\nNota: análisis sin acceso al abstract."
     },
-    "acce7231b915": {
-      "resumen": "Presentación en el congreso TCT del registro ROVUS Asia, que compara los resultados de la aterectomía rotacional (técnica que pulveriza placas de calcio muy duras dentro de la arteria) cuando se usa durante una intervención coronaria percutánea (PCI) urgente versus electiva. Vale la pena mirarlo porque el calcio coronario complica cada vez más los procedimientos y hay poca evidencia sobre esta técnica en el contexto urgente.",
+    "37d7bb2d34b8": {
+      "resumen": "Ensayo con grupo control simulado (sham) presentado en el congreso TCT (Transcatheter Cardiovascular Therapeutics) y reportado por TCTMD, que evaluó el dispositivo Coronary Sinus Reducer (reductor del seno coronario, que angosta esa vena para redistribuir el flujo sanguíneo cardíaco) en pacientes con ANOCA (angina con arterias coronarias no obstructivas, angina with non-obstructive coronary arteries), y encontró poco impacto sobre los síntomas. Vale la pena mirarlo porque el diseño con sham es el estándar más riguroso para separar el efecto real del dispositivo del efecto placebo, algo poco común en cardiología intervencionista.",
       "destacado": false,
-      "analisis": "Diseño: Registro multicéntrico asiático (ROVUS Asia Registry) presentado en el congreso TCT que compara resultados de la aterectomía rotacional según el contexto de la intervención coronaria percutánea; por tratarse de un registro, no hay aleatorización, y sin el abstract no se puede precisar el número exacto de centros ni de pacientes.\nPoblación: Pacientes asiáticos sometidos a intervención coronaria percutánea con aterectomía rotacional, separados en dos grupos según si el procedimiento fue emergente o electivo.\nIntervención: Comparación observacional entre aterectomía rotacional en contexto emergente versus electivo, sin un comparador farmacológico ni un brazo control adicional.\nResultados: El título no aporta cifras; sin el abstract no hay datos de complicaciones, éxito del procedimiento ni mortalidad para ninguno de los dos grupos.\nLimitaciones: Al ser un registro, tiene el riesgo de sesgo de selección propio de los estudios observacionales, y la aterectomía rotacional emergente probablemente se concentra en pacientes más inestables, lo que dificulta una comparación justa.\nMensaje: Aporta datos del mundo real sobre una técnica de alta complejidad en un escenario de urgencia poco estudiado, pero sin el detalle completo no se puede afirmar si el contexto emergente aumenta el riesgo del procedimiento en forma relevante.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Ensayo aleatorizado con grupo control simulado (sham-controlled), presentado en el congreso TCT (Transcatheter Cardiovascular Therapeutics) y reportado por TCTMD; sin el abstract no se puede precisar el número de centros ni de pacientes incluidos.\nPoblación: Pacientes con ANOCA (angina con arterias coronarias no obstructivas), es decir, angina persistente sin lesiones coronarias significativas en la angiografía.\nIntervención: Implante del dispositivo Coronary Sinus Reducer (que angosta el seno coronario para redistribuir el flujo sanguíneo hacia zonas isquémicas) frente a un procedimiento simulado (sham) idéntico en apariencia pero sin el efecto del dispositivo.\nResultados: El título indica \"poco impacto\" del dispositivo sobre la angina en la comparación con sham, pero sin el abstract no hay cifras de mejoría sintomática, clase funcional ni valor de p disponibles.\nLimitaciones: Sin el texto completo no se puede evaluar el tamaño de la muestra ni la duración del seguimiento, ambos críticos para detectar diferencias en síntomas que suelen ser subjetivos y variables.\nMensaje: Un resultado neutro en un diseño con sham es una señal fuerte de que el beneficio percibido con este dispositivo en estudios previos sin sham podría deberse en parte a un efecto placebo; de confirmarse, debería frenar su uso rutinario en ANOCA hasta tener más evidencia.\nNota: análisis sin acceso al abstract."
     },
-    "32a4b1ed7128": {
-      "resumen": "Presentación en el congreso TCT del estudio PICCOLETO X, que compara la revascularización exclusivamente con balón liberador de fármaco (drug-coated balloon) frente a una estrategia híbrida (balón más stent) en oclusiones totales crónicas (CTO, chronic total occlusion), diferenciando lesiones nuevas (de novo) de reestenosis dentro de un stent previo. Vale la pena mirarlo porque evitar el stent cuando es posible podría reducir el riesgo de reestenosis futura en estas lesiones complejas.",
+    "27d3f7b78192": {
+      "resumen": "Resultados al año del ensayo TRANSFORM II, presentado en el congreso TCT y reportado por TCTMD, que compara un balón liberador de fármaco con sirolimus (DCB, drug-coated balloon, un catéter que libera droga antiproliferativa sin dejar estructura metálica) frente al stent liberador de fármaco estándar (DES, drug-eluting stent). Vale la pena mirarlo porque evitar dejar un stent permanente es atractivo en ciertas lesiones, y sostener la eficacia a un año es el primer punto de corte relevante para saber si esta estrategia es una alternativa real.",
       "destacado": false,
-      "analisis": "Diseño: Estudio PICCOLETO X presentado en el congreso TCT, que a partir del título parece analizar distintos subgrupos de lesión dentro de una cohorte de pacientes con oclusión total crónica; sin el abstract no se puede confirmar si hubo aleatorización, cegamiento, ni el número de centros o de pacientes.\nPoblación: Pacientes con oclusión total crónica (CTO) coronaria, separados según si la lesión era nueva (de novo) o una reestenosis dentro de un stent colocado previamente.\nIntervención: Revascularización exclusivamente con balón liberador de fármaco (drug-coated balloon) frente a una estrategia híbrida que combina balón liberador de fármaco con colocación de stent.\nResultados: El título no incluye cifras; sin el abstract no hay datos de permeabilidad del vaso, reestenosis ni eventos cardiovasculares para comparar ambas estrategias.\nLimitaciones: Sin el texto completo no se puede evaluar el tamaño de cada subgrupo (de novo versus reestenosis), que probablemente sea pequeño y limite la potencia estadística de las comparaciones.\nMensaje: Si una estrategia sin stent muestra resultados comparables, podría ofrecer una alternativa que evite agregar más metal en lesiones ya complejas, pero se necesita el detalle del estudio para saber en qué subgrupo de lesión conviene más.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Ensayo clínico TRANSFORM II con resultados a un año de seguimiento, presentado en el congreso TCT; a partir del título se trata de una comparación aleatorizada, pero sin el abstract no se puede precisar el cegamiento, el número de centros ni de pacientes.\nPoblación: Pacientes sometidos a intervención coronaria percutánea candidatos a recibir un balón liberador de fármaco o un stent liberador de fármaco, sin más detalle de los criterios de inclusión y exclusión disponible sin el texto completo.\nIntervención: Balón liberador de fármaco con sirolimus (sirolimus DCB) frente al stent liberador de fármaco estándar (DES) como estrategia de revascularización.\nResultados: El título señala que el balón con sirolimus \"se sostiene bien\" al año frente al stent estándar, pero sin el abstract no hay cifras de reestenosis, trombosis del dispositivo ni eventos cardiovasculares mayores, ni intervalos de confianza o valor de p.\nLimitaciones: Sin el texto completo no se puede evaluar el tipo y complejidad de las lesiones tratadas, factor que influye mucho en el desempeño comparado de balones versus stents.\nMensaje: Si los resultados a un año se mantienen consistentes con el seguimiento más corto, el balón liberador de fármaco con sirolimus se consolidaría como alternativa válida al stent en lesiones seleccionadas, evitando dejar una prótesis metálica permanente; falta ver si el beneficio se sostiene a más largo plazo.\nNota: análisis sin acceso al abstract."
     },
-    "5bbad0fbe174": {
-      "resumen": "Presentación en Hacker News (sección \"Show HN\") de Wikihack, una herramienta que aplica a los artículos de Wikipedia mencionados en esa comunidad la misma lógica que HackerTube usa con videos: los agrega y ordena según cuántas veces se los menciona. Le sirve a un médico que aprende análisis de datos como ejemplo simple de cómo armar un ranking o recomendador a partir de menciones agregadas de una comunidad, una técnica básica de minería de datos.",
+    "397b98955aa3": {
+      "resumen": "Análisis económico secundario del ensayo EARLY TAVR, presentado en el congreso TCT y reportado por TCTMD, que evalúa el costo-efectividad de reemplazar la válvula aórtica por vía transcatéter (TAVI, transcatheter aortic valve implantation) de manera temprana frente a la vigilancia clínica habitual en pacientes con estenosis aórtica (AS, aortic stenosis) grave pero sin síntomas. Vale la pena mirarlo porque, además del resultado clínico, esta rama económica puede influir en las guías sobre cuándo conviene intervenir una estenosis aórtica asintomática.",
+      "destacado": false,
+      "analisis": "Diseño: Análisis económico secundario del ensayo EARLY TAVR, presentado en el congreso TCT; sin el abstract no se puede precisar la metodología exacta del modelo de costo-efectividad ni el horizonte temporal considerado.\nPoblación: Pacientes con estenosis aórtica (AS) grave pero asintomática, la misma población del ensayo EARLY TAVR original.\nIntervención: Reemplazo valvular aórtico transcatéter (TAVI) temprano frente a la conducta de vigilancia clínica con intervención diferida hasta la aparición de síntomas.\nResultados: El título indica que el análisis económico \"respalda\" la TAVI temprana frente a la vigilancia, pero sin el abstract no hay cifras de costo por año de vida ajustado por calidad (QALY) ni del horizonte de costos utilizado.\nLimitaciones: Los análisis de costo-efectividad dependen fuertemente de los supuestos del modelo (precios locales, tasas de descuento, proyección de eventos a largo plazo), que no se pueden evaluar sin el texto completo.\nMensaje: Si se confirma que la TAVI temprana es costo-efectiva además de clínicamente beneficiosa, esto refuerza el cambio de paradigma hacia intervenir la estenosis aórtica grave asintomática antes de esperar síntomas, aunque la aplicabilidad del análisis económico depende del sistema de salud donde se use.\nNota: análisis sin acceso al abstract."
+    },
+    "aa20ceaea726": {
+      "resumen": "Datos de \"vida real\" al año de seguimiento, presentados en el congreso TCT y reportados por TCTMD, sobre el balón liberador de fármaco Agent (Agent DCB, un balón liberador de paclitaxel), que resultan tranquilizadores pese a tratarse de una población de pacientes compleja. Vale la pena mirarlo porque los registros del mundo real completan la información de los ensayos clínicos, que suelen excluir a los pacientes más complicados que se ven todos los días en la práctica.",
+      "destacado": false,
+      "analisis": "Diseño: Registro o cohorte de \"vida real\" (real-world) con resultados a un año de seguimiento del balón liberador de fármaco Agent (Agent DCB); al ser datos de vida real no hay aleatorización, y sin el abstract no se puede precisar el número de centros ni de pacientes.\nPoblación: Pacientes tratados con el balón liberador de fármaco Agent en la práctica clínica habitual, descriptos como de mayor \"complejidad\" que los de los ensayos clínicos pivotales.\nIntervención: Angioplastia con balón liberador de fármaco Agent (sin comparador aleatorizado, al tratarse de un registro observacional).\nResultados: El título señala resultados \"tranquilizadores\" al año a pesar de la complejidad de los pacientes, pero sin el abstract no hay cifras de reestenosis, trombosis ni eventos cardiovasculares mayores.\nLimitaciones: Al ser un registro observacional sin grupo control, no se puede atribuir causalidad a los buenos resultados, y puede existir sesgo de selección hacia pacientes con mejor pronóstico basal dentro de ese grupo \"complejo\".\nMensaje: Aporta evidencia complementaria de que el balón Agent mantiene un perfil de seguridad y eficacia aceptable fuera del entorno controlado de un ensayo clínico, lo que respalda su uso en la práctica diaria en pacientes con lesiones o comorbilidades más difíciles.\nNota: análisis sin acceso al abstract."
+    },
+    "3c51f6aa7437": {
+      "resumen": "Publicación técnica en Hacker News sobre Astra, un sistema que lee y modifica directamente los pesos (weights, los parámetros numéricos internos) de un modelo de lenguaje para mejorar su desempeño, aplicado al modelo abierto Qwen. Le aporta a un médico que aprende análisis de datos una introducción a la \"programación en el espacio de los pesos\" (weight-space programming), una técnica más profunda que el ajuste fino habitual para modificar el comportamiento de un modelo de inteligencia artificial.",
       "destacado": false
     },
-    "967833610851": {
-      "resumen": "Hilo semanal fijo de la comunidad r/datascience en Reddit, donde quienes buscan entrar o pasarse a una carrera en ciencia de datos hacen preguntas y comparten experiencias. Le sirve a un médico en transición hacia el análisis de datos como termómetro de las dudas típicas de quienes vienen de otras profesiones y los caminos que suelen recomendarse para dar ese salto.",
+    "d0b985d0ad48": {
+      "resumen": "Publicación en Hacker News cuyo título llegó truncado (\"Let Me Ch...\"), por lo que no se puede precisar con certeza su contenido completo sin abrir la fuente. A partir de la dirección del blog (let-me-check) podría tratarse de una herramienta de verificación o revisión automática; vale la pena tenerlo en el radar pero conviene confirmar el tema antes de sacar conclusiones.",
       "destacado": false
     },
-    "d0c01d3200b9": {
-      "resumen": "Historieta (comic) en Hacker News que narra el origen de BSD Unix, uno de los sistemas operativos libres que dieron forma a buena parte de la infraestructura de software actual. Aporta poco en forma directa al análisis de datos o la inteligencia artificial: es más bien historia de la computación, aunque ayuda a entender de dónde vienen herramientas y sistemas que hoy se usan a diario para trabajar con datos.",
+    "a31b3b7224a8": {
+      "resumen": "Presentación en Hacker News (sección \"Show HN\", donde se muestran proyectos propios) de Subvocal, una herramienta que permitiría interactuar con la computadora por voz subvocal, es decir, sin emitir sonido audible. Le sirve a un médico que aprende análisis de datos como ejemplo de interfaz alternativa para dictar código o consultas por voz en ámbitos donde hablar en voz alta no es posible, como un consultorio o una sala de guardia.",
       "destacado": false
     },
-    "dbf08f6dacbe": {
-      "resumen": "Publicación en Hacker News titulada \"OccupySaaS\" que, a juzgar por el título, plantea una crítica al modelo de software como servicio (SaaS, software as a service), donde el usuario depende de una suscripción y cede el control de sus datos a un proveedor externo. Le sirve a un médico que aprende análisis de datos como disparador para pensar en alternativas de software propio o de código abierto que den más control sobre los propios datos.",
+    "45bb5a999439": {
+      "resumen": "KDnuggets repasa un estudio de Cohere (empresa de inteligencia artificial) que muestra que correr un modelo de lenguaje (LLM, large language model) en la propia computadora, sin conexión a servidores externos, no garantiza por sí solo la privacidad de los datos que se le ingresan. Le sirve a un médico que aprende análisis de datos porque advierte sobre un supuesto común y erróneo, justo en un campo donde suele manejarse información clínica sensible.",
       "destacado": false
     },
-    "ffb30fef9594": {
-      "resumen": "Simon Willison comparte un consejo práctico sobre uv, un gestor de paquetes moderno para Python: cuando aparecen conflictos de dependencias difíciles de diagnosticar, muchas veces conviene simplemente borrar el archivo de bloqueo (lock file) y dejar que se regenere. Le sirve a un médico que aprende análisis de datos porque es un tip concreto para salir de un bloqueo frecuente al instalar las librerías que se usan para analizar datos en Python.",
+    "221a259f7d7f": {
+      "resumen": "Entrada de blog personal en Hacker News donde el autor cuenta cuál es su notebook favorita y por qué, sin relación directa con cardiología ni con ciencia de datos. Tiene poco valor práctico para un médico que aprende análisis de datos, salvo como curiosidad sobre el hardware que usa la comunidad técnica.",
       "destacado": false
     },
-    "242d15603b74": {
-      "resumen": "Hilo de preguntas en Hacker News donde se pide recomendaciones de televisores \"inteligentes\" (smart TV) que respeten la privacidad del usuario, ya que estos equipos suelen recolectar y vender datos de uso a terceros. Le sirve a un médico que aprende análisis de datos como recordatorio de que la recolección masiva de datos personales está en todos lados, incluso en los electrodomésticos, y conviene tenerlo en cuenta al elegir qué dispositivos conectar en casa.",
+    "1673b423f444": {
+      "resumen": "Hilo de discusión en la comunidad r/datascience donde usuarios comentan si las entrevistas técnicas de programación (coding rounds) para puestos de ciencia de datos se están volviendo menos exigentes. Le sirve a un médico en transición hacia el análisis de datos como panorama informal de qué tan difíciles son hoy los procesos de selección en este campo.",
       "destacado": false
     },
-    "984e4323d39a": {
-      "resumen": "Los Pumas llegaron a Irlanda y completaron su primer entrenamiento de cara al partido del viernes."
+    "1153f5eaf583": {
+      "resumen": "Towards Data Science cuestiona qué miden en realidad los modelos de riesgo de crédito (credit risk) habituales, señalando posibles desajustes entre la métrica que se optimiza y el riesgo real que se busca capturar. Le sirve a un médico que aprende análisis de datos como ejemplo, fuera del ámbito clínico, de un problema que también aparece en medicina: confundir una medida sustituta (proxy) con el resultado que realmente importa.",
+      "destacado": false
     },
-    "65c3d03cfdb4": {
-      "resumen": "El entrenador Gonzalo Quesada aseguró que el próximo compromiso será uno de los mayores desafíos en la historia del rugby italiano."
+    "a1503e81077e": {
+      "resumen": "Towards Data Science presenta Beam, el nuevo modelo de pesos abiertos (open-weight, es decir, con los parámetros internos disponibles públicamente) de la empresa Reflection AI, que según el artículo se convirtió en el tema del momento en la comunidad de inteligencia artificial. Le sirve a un médico que aprende análisis de datos para conocer una alternativa abierta a los modelos cerrados de los grandes proveedores, que suele permitir más control y menor costo al momento de experimentar.",
+      "destacado": true
     },
-    "250338125c7b": {
-      "resumen": "El United Rugby Championship tuvo una fecha con un reconocimiento especial y numerosos tries convertidos por jugadores argentinos."
+    "6bf0704cb5e2": {
+      "resumen": "Simon Willison comenta una iniciativa vinculada a la Oficina del Censo de Estados Unidos (U.S. Census Bureau) y el concepto de \"superinteligencia\" (super intelligence, una inteligencia artificial que superaría ampliamente la capacidad humana). Le sirve a un médico que aprende análisis de datos para seguir el debate sobre cómo organismos estatales que manejan enormes bases de datos poblacionales empiezan a posicionarse frente a la inteligencia artificial avanzada.",
+      "destacado": false
+    },
+    "631d705f82e6": {
+      "resumen": "KDnuggets reseña cinco certificaciones en inteligencia artificial que considera que vale la pena pagar en 2026, y cuáles conviene evitar. Le sirve directamente a un médico en transición hacia el análisis de datos que está evaluando qué certificación formal le puede sumar currículum sin gastar tiempo ni dinero en programas de bajo valor.",
+      "destacado": false
+    },
+    "ba253ffced0e": {
+      "resumen": "Argentina cayó ante Sudáfrica en los Juegos Olímpicos de la Juventud en Dakar y ahora jugará por la medalla de bronce."
+    },
+    "c936ddfc282b": {
+      "resumen": "Los Pumas 7's perdieron la semifinal pero se quedaron con el bronce frente a Canadá, sumando la tercera medalla argentina en Dakar 2026."
+    },
+    "84f583c5f3c3": {
+      "resumen": "Los Pumas pierden a Bautista Bernasconi y Matías Medrano de cara al partido con Irlanda."
     }
   }
 }

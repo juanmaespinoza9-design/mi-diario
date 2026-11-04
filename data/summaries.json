@@ -1,55 +1,6 @@
 {
-  "generated_at": "2026-11-04T10:06:46Z",
+  "generated_at": "2026-11-04T22:07:49Z",
   "summaries": {
-    "739ff78a3efa": {
-      "resumen": "Documento de consenso publicado en European Heart Journal (revista científica europea de cardiología) que presenta la Quinta Definición Universal del Infarto de Miocardio, con una actualización sobre el rol de la lipoproteína(a) —una partícula de colesterol de origen genético asociada a mayor riesgo cardiovascular— y la inflamación en el diagnóstico. Vale la pena mirarlo porque estos consensos internacionales terminan definiendo qué se considera infarto en la práctica diaria y en los ensayos clínicos.",
-      "destacado": false
-    },
-    "8d9cb2c3fd13": {
-      "resumen": "Artículo de revisión en JACC sobre cómo interpretar la troponina cardíaca de alta sensibilidad (biomarcador de daño en el músculo cardíaco) en la práctica clínica, con el mensaje de que detectar un valor elevado ya no equivale directamente a diagnosticar un infarto. Vale la pena mirarlo porque la troponina de alta sensibilidad detecta elevaciones mínimas en múltiples contextos no isquémicos, y una mala interpretación puede llevar a sobrediagnóstico de infarto.",
-      "destacado": false
-    },
-    "be1cc9b592ad": {
-      "resumen": "Comentario de Krumholz HM en JACC sobre las limitaciones de los métodos de inferencia causal (técnicas estadísticas que buscan estimar efectos de causa y efecto a partir de datos observacionales) cuando se aplican a la investigación cardiovascular. Vale la pena mirarlo porque advierte sobre los límites de herramientas estadísticas cada vez más usadas para sacar conclusiones de tratamiento sin un ensayo aleatorizado.",
-      "destacado": false
-    },
-    "bb6fed768e81": {
-      "resumen": "Réplica de los autores en JACC a una carta sobre su estudio de remodelado miocárdico por trayectorias y el riesgo de eventos cardiovasculares mayores (MACE, major adverse cardiovascular events) en la miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy) de fenotipo leve. Vale la pena mirarlo solo como contexto de un debate científico puntual sobre cómo clasificar el riesgo en estos pacientes; no aporta datos nuevos por sí sola.",
-      "destacado": false
-    },
-    "1ce89e4dea32": {
-      "resumen": "Resultados a un año del ensayo ANDES (JACC, Journal of the American College of Cardiology), que compara anticoagulación de corto plazo versus doble antiagregación plaquetaria (combinación de dos antiagregantes) después del cierre percutáneo de la orejuela izquierda (LAAO, left atrial appendage closure), un procedimiento para prevenir accidentes cerebrovasculares en pacientes con fibrilación auricular que no pueden recibir anticoagulación crónica. Vale la pena mirarlo porque el esquema antitrombótico óptimo después del LAAO todavía no está bien definido y afecta directamente el riesgo de trombosis del dispositivo y de sangrado.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico ANDES publicado en JACC, con resultados a un año de seguimiento; a partir del título se trata de una comparación aleatorizada entre dos esquemas antitrombóticos tras el cierre percutáneo de la orejuela izquierda, pero sin el abstract no se puede precisar el cegamiento, el número de centros ni el tamaño de la muestra.\nPoblación: Pacientes con fibrilación auricular sometidos a cierre percutáneo de la orejuela izquierda (LAAO), habitualmente aquellos con contraindicación o alto riesgo de sangrado para la anticoagulación oral crónica.\nIntervención: Anticoagulación de corto plazo tras el procedimiento frente a doble antiagregación plaquetaria (aspirina más un inhibidor P2Y12), como estrategias para prevenir la trombosis relacionada con el dispositivo mientras se endoteliza.\nResultados: El título anuncia resultados al año de seguimiento, pero sin el abstract no hay cifras de trombosis del dispositivo, accidente cerebrovascular ni sangrado mayor, ni valores de p o intervalos de confianza disponibles.\nLimitaciones: Sin el texto completo no se puede evaluar el poder estadístico del estudio para eventos poco frecuentes, ni la adherencia real a cada esquema antitrombótico asignado.\nMensaje: Si confirma similar seguridad y eficacia entre ambos esquemas, podría simplificar el manejo antitrombótico post-LAAO hacia la doble antiagregación, evitando la anticoagulación en una población que mayormente la indicó para evitarla; se necesita el detalle del abstract para confirmar la magnitud del efecto.\nNota: análisis sin acceso al abstract."
-    },
-    "6857dc224a41": {
-      "resumen": "Un desarrollador corrió el modelo de lenguaje abierto Qwen 3.8 de 27 mil millones de parámetros en su propia notebook y logró que el modelo interprete sus propios pesos internos (los números que codifican lo que aprendió), una técnica llamada interpretabilidad mecanística. Le sirve a un médico que se mete en ciencia de datos porque muestra, con un ejemplo corrible en hardware modesto, cómo empezar a \"abrir la caja negra\" de un modelo de inteligencia artificial (IA).",
-      "destacado": false
-    },
-    "a1c49cc21565": {
-      "resumen": "Columna de opinión que sostiene que la inteligencia artificial va a reemplazar buena parte de las tareas rutinarias del trabajo actual, y que eso puede ser una buena noticia si libera tiempo para las partes de mayor valor del oficio. Vale la pena leerla porque plantea, desde otro ángulo, la misma pregunta que se hace cualquier médico que empieza a automatizar tareas con IA: qué conviene delegar y qué no.",
-      "destacado": false
-    },
-    "6e5377d2c8e0": {
-      "resumen": "Tutorial que muestra cómo integrar modelos de lenguaje grande (LLM, large language model) dentro de un flujo de trabajo de Scikit-learn (biblioteca de aprendizaje automático en Python) usando Scikit-LLM, para resumir texto como un paso más del pipeline de datos. Le sirve a un médico que aprende análisis de datos porque combina de forma accesible la IA generativa con las herramientas clásicas de machine learning que ya se enseñan en los cursos de ciencia de datos.",
-      "destacado": false
-    },
-    "f3a0507a557d": {
-      "resumen": "Análisis con Python que intenta separar, en el básquet, cuánto de la efectividad de un tirador se explica por su puntería real y cuánto por elegir tiros más fáciles. Es un buen ejemplo práctico de cómo usar estadística y visualización de datos para desarmar una pregunta aparentemente simple, algo directamente trasladable al análisis de variables clínicas.",
-      "destacado": false
-    },
-    "001a98eae4f1": {
-      "resumen": "Repaso de ocho herramientas (frameworks) para correr modelos de lenguaje grande de forma eficiente, pensado para quien quiere pasar de usar IA por API a entenderla y ejecutarla en infraestructura propia. Sirve como mapa de referencia para alguien que recién arranca en ciencia de datos y necesita saber qué opciones existen antes de elegir una.",
-      "destacado": false
-    },
-    "da0220cb767e": {
-      "resumen": "Artículo sobre por qué un agente de inteligencia artificial que funciona perfecto en una demo suele fallar en producción, y qué prácticas de ingeniería (manejo de errores, monitoreo, límites claros) hacen falta para que sobreviva al uso real del día a día. Para un médico que empieza a meter IA en sus propios flujos de trabajo —por ejemplo en farmacovigilancia— es una buena lista de chequeo antes de confiar en un sistema automatizado.",
-      "destacado": true
-    },
-    "b6d0e59823a8": {
-      "resumen": "\"Beyond the Data\" es una columna de TCTMD (sitio especializado en cardiología intervencionista) que analiza en profundidad los resultados del ensayo PROGRESS, el estudio que evalúa el implante percutáneo de válvula aórtica (TAVI, transcatheter aortic valve implantation) en estenosis aórtica moderada de alto riesgo frente a la vigilancia clínica. Vale la pena mirarlo porque pone en contexto crítico, con fortalezas y límites, un ensayo que podría ampliar las indicaciones del TAVI más allá de la estenosis severa.",
-      "destacado": false
-    },
     "23d3efb9ecbb": {
       "resumen": "Datos a tres años del ensayo SIRONA, presentados en TCTMD, sobre el balón liberador de sirolimus (sirolimus drug-coated balloon, DCB) para el tratamiento de la enfermedad arterial periférica (PAD, peripheral artery disease). Vale la pena mirarlo porque el seguimiento a largo plazo de los balones farmacológicos es clave para saber si el beneficio inicial se mantiene con el tiempo.",
       "destacado": false,
@@ -65,35 +16,96 @@
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico CLASP II TR; el título sugiere un diseño comparativo (dispositivo Pascal vs. tratamiento médico), pero sin el abstract no se puede precisar la aleatorización, el cegamiento ni el tamaño de la muestra.\nPoblación: Pacientes con insuficiencia tricuspídea significativa, candidatos a reparación transcatéter de borde a borde.\nIntervención: Reparación transcatéter de la válvula tricúspide con el sistema Pascal frente al comparador del estudio, probablemente tratamiento médico óptimo.\nResultados: El título menciona beneficios en \"estado de salud\" (probablemente por cuestionarios de calidad de vida) \"y más\", pero no hay cifras, razones de riesgo ni valores de p disponibles sin el abstract.\nLimitaciones: Los desenlaces de calidad de vida son sensibles al efecto placebo o a la falta de cegamiento en estudios con dispositivos, y sin el texto completo no se puede evaluar el control de este sesgo.\nMensaje: Si se confirma, suma evidencia a favor de ampliar las opciones percutáneas para la insuficiencia tricuspídea severa, aunque hacen falta también los desenlaces duros (mortalidad, hospitalizaciones) además de los cuestionarios de calidad de vida.\nNota: análisis sin acceso al abstract."
     },
-    "54b5343ce224": {
-      "resumen": "Estudio observacional en una amplia población asiática, reportado por TCTMD, que compara la angioplastia coronaria (PCI, percutaneous coronary intervention) con la cirugía de revascularización miocárdica (CABG, coronary artery bypass graft) en pacientes con enfermedad del tronco coronario izquierdo, y encuentra mortalidad similar entre ambas estrategias. Vale la pena mirarlo porque la elección entre PCI y CABG en el tronco izquierdo sigue siendo un debate central en cardiología intervencionista y quirúrgica.",
+    "b6d0e59823a8": {
+      "resumen": "\"Beyond the Data\" es una columna de TCTMD (sitio especializado en cardiología intervencionista) que analiza en profundidad los resultados del ensayo PROGRESS, el estudio que evalúa el implante percutáneo de válvula aórtica (TAVI, transcatheter aortic valve implantation) en estenosis aórtica moderada de alto riesgo frente a la vigilancia clínica. Vale la pena mirarlo porque pone en contexto crítico, con fortalezas y límites, un ensayo que podría ampliar las indicaciones del TAVI más allá de la estenosis severa.",
       "destacado": false,
-      "analisis": "Diseño: Estudio observacional (registro o cohorte) en una \"amplia población asiática\"; el título no precisa si hubo ajuste estadístico (score de propensión) ni el número de pacientes o centros.\nPoblación: Pacientes con enfermedad coronaria del tronco izquierdo tratados con PCI o CABG en países asiáticos.\nIntervención: Angioplastia coronaria (PCI) frente a cirugía de revascularización miocárdica (CABG) como estrategias de revascularización del tronco izquierdo.\nResultados: El título indica mortalidad \"similar\" entre PCI y CABG, pero no hay cifras de mortalidad, razón de riesgo ni intervalo de confianza disponibles sin el texto completo.\nLimitaciones: Al ser observacional, el estudio está expuesto a sesgo de selección (los pacientes tratados con PCI suelen ser de mayor riesgo quirúrgico) y a factores de confusión no controlados, aun con ajuste estadístico.\nMensaje: Si el hallazgo se sostiene con buen ajuste estadístico, refuerza que la PCI es una alternativa razonable a la CABG en el tronco izquierdo en poblaciones asiáticas, en línea con series previas; no reemplaza la evidencia de ensayos aleatorizados para esta decisión puntual.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Ensayo clínico PROGRESS; la columna de TCTMD lo analiza en profundidad pero el título no precisa aleatorización, cegamiento, número de centros ni tamaño muestral del ensayo original.\nPoblación: Pacientes con estenosis aórtica moderada y alto riesgo clínico; el título no detalla los criterios de inclusión/exclusión ni cómo se definió el alto riesgo.\nIntervención: Implante percutáneo de válvula aórtica (TAVI, transcatheter aortic valve implantation) frente a vigilancia clínica (conducta expectante) en estenosis aórtica moderada.\nResultados: El título y la bajada no aportan cifras de mortalidad, hospitalización ni progresión a estenosis severa; no hay datos numéricos disponibles sin el texto completo.\nLimitaciones: Al tratarse de una columna de análisis y no del artículo original, no se puede evaluar el riesgo de sesgo, la pérdida de seguimiento ni la significación estadística de los resultados del ensayo PROGRESS.\nMensaje: Si el TAVI demuestra beneficio en estenosis moderada de alto riesgo, podría ampliar las indicaciones actuales más allá de la estenosis severa, pero la propia columna aconseja leer los resultados con cautela antes de cambiar la práctica.\nNota: análisis sin acceso al abstract."
     },
-    "f14e1d8ec0f9": {
-      "resumen": "\"Jelly Sheet\" es la primera pieza del Codevember 2026 de mrdoob (creador de three.js), un desafío de programación creativa donde cada día se publica una animación generada por código. Le sirve a quien se mete en ciencia de datos como recordatorio de que la visualización y la programación gráfica comparten las mismas bases matemáticas (vectores, mallas, física simulada) que se usan para graficar datos.",
+    "cc7c3b16b6b2": {
+      "resumen": "Nota de TCTMD (sitio especializado en cardiología intervencionista) que repasa el ensayo Evolut Low Risk, el estudio que comparó el reemplazo valvular aórtico transcatéter (TAVI) con válvula autoexpandible Evolut frente a la cirugía de reemplazo valvular en pacientes con estenosis aórtica severa de bajo riesgo quirúrgico. Vale la pena mirarlo porque este ensayo fue uno de los pilares para extender las indicaciones del TAVI a pacientes más jóvenes y de menor riesgo.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado multicéntrico (Evolut Low Risk Trial); el título no permite precisar si esta nota de TCTMD reporta el ensayo original o un seguimiento extendido, ni el número de centros o pacientes incluidos.\nPoblación: Pacientes con estenosis aórtica severa y bajo riesgo quirúrgico estimado, candidatos tanto a cirugía como a vía percutánea; el título no detalla los criterios de inclusión/exclusión específicos.\nIntervención: Reemplazo valvular aórtico transcatéter (TAVI) con válvula autoexpandible Evolut frente a reemplazo valvular aórtico quirúrgico convencional.\nResultados: El título no aporta cifras de mortalidad, accidente cerebrovascular ni reinternación; no hay datos numéricos disponibles sin el texto completo.\nLimitaciones: No se puede evaluar el tiempo de seguimiento reportado, la tasa de cruce entre grupos ni la generalización a la práctica real sin acceder a la nota completa.\nMensaje: Si confirma los hallazgos previos del ensayo, refuerza el rol del TAVI como alternativa válida a la cirugía también en pacientes de bajo riesgo, aunque la decisión individual sigue dependiendo del equipo cardíaco (heart team).\nNota: análisis sin acceso al abstract."
+    },
+    "17404173247b": {
+      "resumen": "Publicación en JACC (Journal of the American College of Cardiology) sobre los resultados a 2 años del reemplazo valvular mitral transcatéter (TMVR, transcatheter mitral valve replacement) por vía transfemoral. Vale la pena mirarlo porque el acceso transfemoral evita la toracotomía y el seguimiento a mediano plazo es clave para confirmar la durabilidad de esta técnica mínimamente invasiva.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio de seguimiento a 2 años (probablemente un registro o serie de casos prospectiva) sobre reemplazo valvular mitral transcatéter transfemoral; el título no precisa aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con enfermedad valvular mitral tratados por vía transfemoral con un sistema de TMVR; el título no especifica el tipo de válvula ni los criterios de inclusión/exclusión.\nIntervención: Reemplazo valvular mitral transcatéter por acceso transfemoral; el título no menciona un grupo comparador explícito.\nResultados: No hay cifras de mortalidad, reintervención ni mejoría funcional disponibles a partir del título.\nLimitaciones: No se puede valorar la pérdida de seguimiento a 2 años, el riesgo de sesgo de selección ni la representatividad de la cohorte sin el texto completo.\nMensaje: Si los resultados a 2 años son favorables, respalda la vía transfemoral como alternativa menos invasiva para el TMVR, aunque la evidencia definitiva requiere los datos completos del estudio.\nNota: análisis sin acceso al abstract."
+    },
+    "d312c757468f": {
+      "resumen": "El ensayo SINGLE-CLOSURE, publicado en JACC, compara el uso de uno versus dos dispositivos ProGlide para el cierre del sitio de acceso tras un reemplazo valvular aórtico transcatéter (TAVI) por vía transfemoral. Vale la pena mirarlo porque las complicaciones vasculares en el acceso siguen siendo una de las causas más frecuentes de morbilidad asociadas al TAVI.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico (el nombre SINGLE-CLOSURE Trial sugiere aleatorización); el título no precisa el número de centros, pacientes ni si fue ciego.\nPoblación: Pacientes sometidos a reemplazo valvular aórtico transcatéter (TAVI) por vía transfemoral que requieren cierre del sitio de acceso vascular; el título no detalla criterios de inclusión/exclusión.\nIntervención: Un dispositivo ProGlide de cierre vascular frente a dos dispositivos ProGlide para el cierre del sitio de punción femoral.\nResultados: El título no incluye cifras de complicaciones vasculares, hemostasia exitosa ni diferencias estadísticas entre los grupos.\nLimitaciones: No se puede evaluar el tamaño muestral, la definición de complicación vascular utilizada ni el seguimiento sin el texto completo.\nMensaje: Podría simplificar y abaratar el cierre vascular en TAVI si un solo dispositivo resulta no inferior a dos, pero la conducta debería esperar la confirmación con los números completos del ensayo.\nNota: análisis sin acceso al abstract."
+    },
+    "7b4287a4419d": {
+      "resumen": "El ensayo ENCIRCLE, publicado en JACC, reporta los resultados a 2 años del reemplazo valvular mitral transcatéter percutáneo en pacientes con insuficiencia mitral sintomática. Vale la pena mirarlo porque las opciones de reemplazo (y no solo de reparación) percutáneo de la válvula mitral todavía tienen poca evidencia de seguimiento a mediano plazo.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico o registro prospectivo (ENCIRCLE Trial) con seguimiento a 2 años; el título no especifica aleatorización, cegamiento, número de centros ni tamaño muestral.\nPoblación: Pacientes con insuficiencia mitral (regurgitación mitral) sintomática candidatos a reemplazo valvular mitral percutáneo; el título no detalla criterios de inclusión/exclusión ni etiología de la insuficiencia.\nIntervención: Reemplazo valvular mitral transcatéter percutáneo; el título no menciona un comparador explícito, por lo que podría tratarse de un estudio de un solo brazo.\nResultados: No hay cifras de mortalidad, reintervención, hospitalización por insuficiencia cardíaca ni mejoría de clase funcional disponibles desde el título.\nLimitaciones: No se puede evaluar la pérdida de seguimiento a 2 años, el riesgo de sesgo de un diseño sin comparador aleatorizado ni la selección de pacientes sin el texto completo.\nMensaje: Si los resultados a 2 años se mantienen favorables, suma evidencia a favor del reemplazo percutáneo como opción en insuficiencia mitral no apta para reparación, aunque la magnitud real del beneficio depende de los datos completos.\nNota: análisis sin acceso al abstract."
+    },
+    "743d3a1fb063": {
+      "resumen": "Artículo en JACC sobre la procedencia, trazabilidad y auditabilidad de los datos (provenance, lineage, auditability) en la investigación con bases de datos clínicas. Vale la pena mirarlo porque, para alguien que se está formando en análisis de datos, entender cómo se garantiza la calidad y la trazabilidad de los registros es tan importante como el resultado estadístico final de un estudio.",
       "destacado": false
     },
-    "402640666ca7": {
-      "resumen": "Repaso de por qué una propuesta para el estándar C++26 fue rechazada en el comité de estandarización del lenguaje. No es estrictamente de ciencia de datos, pero interesa a quien usa herramientas que corren sobre C++ por debajo, como motores de bases de datos o librerías numéricas, ya que estas decisiones de diseño terminan afectando la performance de esas herramientas.",
+    "48ea3008451f": {
+      "resumen": "Estudio publicado en Circulation que describe cómo la lactilación de la enzima ALDOA (aldolasa A) revierte el remodelado vascular en la hipertensión pulmonar, mediante la interrupción de la polimerización de actina y la activación de YAP (Yes-associated protein). Vale la pena mirarlo porque identifica un posible blanco molecular nuevo para frenar el remodelado vascular, un proceso clave y hoy difícil de tratar en la hipertensión pulmonar.",
       "destacado": false
     },
-    "67bf24197a0c": {
-      "resumen": "Libro de referencia gratuito sobre el funcionamiento interno de PostgreSQL, motor de base de datos relacional de código abierto muy usado para almacenar datos clínicos y de investigación. Le sirve a un médico que aprende análisis de datos porque entender cómo almacena y optimiza las consultas una base de datos ayuda a escribir consultas SQL (structured query language, lenguaje de consulta estructurado) más eficientes.",
+    "73cc2659a926": {
+      "resumen": "Resultados a 1 año de la extensión abierta del ensayo HELIOS-B, publicados en Circulation, sobre la eficacia y seguridad a largo plazo del vutrisiran en pacientes con miocardiopatía por amiloidosis por transtiretina (TTR, transthyretin amyloidosis with cardiomyopathy). Vale la pena mirarlo porque la amiloidosis cardíaca por TTR es una causa de insuficiencia cardíaca cada vez más diagnosticada, y la evidencia a largo plazo de los nuevos tratamientos silenciadores de ARN todavía es escasa.",
+      "destacado": true,
+      "analisis": "Diseño: Extensión abierta (open-label extension) a 1 año del ensayo HELIOS-B; el título no especifica si hubo aleatorización en esta fase extendida, el número de centros ni el tamaño de la cohorte.\nPoblación: Pacientes con miocardiopatía por amiloidosis por transtiretina (TTR) que completaron el ensayo HELIOS-B original; el título no detalla si incluye tanto la forma hereditaria como la forma salvaje (wild-type).\nIntervención: Tratamiento continuado con vutrisiran, un ARN de interferencia (siRNA) que reduce la producción hepática de transtiretina; sin grupo comparador activo descrito en el título, propio de un diseño de extensión abierta.\nResultados: El título indica \"eficacia y seguridad\" a 1 año pero no aporta cifras de mortalidad, hospitalización por insuficiencia cardíaca ni biomarcadores; no hay datos numéricos disponibles sin el texto completo.\nLimitaciones: Una extensión abierta sin grupo placebo concurrente limita la atribución causal de los efectos a largo plazo, y pueden existir pérdidas de seguimiento o sesgo de selección hacia los pacientes que respondieron mejor en la fase inicial.\nMensaje: Si confirma el beneficio sostenido, refuerza el uso de vutrisiran como tratamiento de mantenimiento a largo plazo en la amiloidosis cardíaca por TTR, aunque la ausencia de comparador concurrente en esta fase limita las conclusiones definitivas.\nNota: análisis sin acceso al abstract."
+    },
+    "70140c74e6b5": {
+      "resumen": "Perfil de la serie 'Legado' de Circulation dedicado a Eugene Braunwald, reconocido como el 'padre' de la miocardiopatía hipertrófica por sus contribuciones pioneras a la descripción y comprensión de esta enfermedad. Vale la pena mirarlo porque repasa la historia de uno de los cardiólogos más influyentes del último siglo y cómo sus hallazgos moldearon la práctica actual.",
       "destacado": false
     },
-    "edbf4ed1a954": {
-      "resumen": "Texto en arXiv (repositorio de preprints científicos) que explica de forma intuitiva los fundamentos matemáticos de la inteligencia artificial generativa, los modelos que crean texto, imágenes o datos nuevos a partir de patrones aprendidos. Le sirve a un médico que aprende ciencia de datos porque ofrece una puerta de entrada a la matemática detrás de las herramientas de IA generativa que ya usa a diario, sin requerir un trasfondo avanzado previo.",
+    "5b592f80e93a": {
+      "resumen": "Nota de Tom's Hardware, muy comentada en Hacker News, sobre cómo AMD proyecta superar en ventas a Intel en el cuarto trimestre por primera vez en su historia, impulsada por la demanda de chips para centros de datos e inteligencia artificial. Le sirve a quien se inicia en análisis de datos para entender cómo la carrera por el hardware de cómputo (GPUs y aceleradores) condiciona el costo y la disponibilidad de la infraestructura que sostiene el entrenamiento de modelos de IA.",
       "destacado": false
     },
-    "447bbe280312": {
-      "resumen": "GEI le ganó a Ciudad de Campana y se metió en la final que define el segundo ascenso."
+    "7838c87736f9": {
+      "resumen": "Lanzamiento en Hugging Face de los pesos abiertos del modelo de lenguaje Kimi K3.1 Pro, desarrollado por Moonshot AI, destacado en Hacker News. Le sirve a un médico que aprende análisis de datos porque los modelos de pesos abiertos (open weights) permiten experimentar e incluso correr inteligencia artificial generativa de forma local, sin depender de un proveedor externo.",
+      "destacado": false
     },
-    "033c8f5d891f": {
-      "resumen": "El entrenador de Los Pumas cuestionó el calendario armado por World Rugby para el equipo."
+    "0e0b23b10793": {
+      "resumen": "Artículo de Towards Data Science que usa 600.546 páginas de diarios históricos digitalizados para medir cómo cambió la cobertura mediática del sufragio femenino a lo largo del tiempo. Le sirve a quien aprende análisis de datos porque muestra un caso real de minería de texto (text mining) y análisis cuantitativo aplicado a fuentes históricas masivas.",
+      "destacado": false
     },
-    "e59209dce878": {
-      "resumen": "En Menores de 19, San Cirano cerró la temporada con dos triunfos ante Mariano Moreno."
+    "d21414f964ce": {
+      "resumen": "Hilo de la comunidad r/datascience en Reddit donde se debate, desde la experiencia de quienes buscan trabajo, cómo está hoy el mercado laboral para los puestos de entrada en ciencia de datos. Le sirve a un médico en transición hacia el análisis de datos porque da una idea realista de qué exige el mercado y qué expectativas tener al buscar el primer puesto en el área.",
+      "destacado": false
+    },
+    "c49c94db3ff8": {
+      "resumen": "Artículo de 99% Invisible, difundido en Hacker News, sobre cómo San Francisco terminó legalizando ciclovías 'pirata' instaladas sin autorización en 2016, que con el tiempo se convirtieron en infraestructura permanente. Le sirve a quien analiza datos porque es un ejemplo de cómo la evidencia de uso real en el territorio puede terminar pesando más que la planificación formal a la hora de tomar decisiones públicas.",
+      "destacado": false
+    },
+    "23e3e9edff8e": {
+      "resumen": "Guía de KDnuggets sobre cómo cambiaron las entrevistas laborales de ciencia de datos en 2026 y cómo prepararse, con foco en las nuevas exigencias ligadas a la inteligencia artificial generativa y la automatización de tareas analíticas. Le sirve directamente a un médico que se está formando en análisis de datos y piensa en una eventual búsqueda laboral en el área.",
+      "destacado": true
+    },
+    "7f80142f2f1d": {
+      "resumen": "Investigación de The Register, muy leída en Hacker News, sobre cómo una entrevista laboral falsa orquestada por actores vinculados a Corea del Norte permitió un robo de 6.300 millones de dólares a la plataforma de criptomonedas Binance. Le sirve a quien se forma en análisis de datos como alerta sobre los riesgos de seguridad e ingeniería social que rodean hoy al reclutamiento tecnológico, incluido el propio.",
+      "destacado": false
+    },
+    "f50dc45879dc": {
+      "resumen": "Publicación en r/datascience que recomienda herramientas interactivas y gratuitas para aprender analítica basada en agentes de inteligencia artificial (agentic analytics) y evaluación de modelos (evals). Le sirve a un médico que aprende análisis de datos porque ofrece una vía práctica y sin costo para empezar a entender cómo se diseñan y evalúan los sistemas de IA que automatizan tareas analíticas.",
+      "destacado": false
+    },
+    "7cda4100ef10": {
+      "resumen": "Tutorial de Towards Data Science sobre cómo combinar filtros contradictorios dentro del lenguaje DAX (Data Analysis Expressions), usado en herramientas como Power BI. Le sirve a quien está aprendiendo análisis de datos porque DAX es una de las herramientas más usadas para construir reportes e indicadores en el día a día de muchos equipos de salud y gestión.",
+      "destacado": false
+    },
+    "a44066cbac2a": {
+      "resumen": "Artículo de KDnuggets que presenta siete modelos de inteligencia artificial pequeños y especializados que superan a los grandes modelos de lenguaje (LLM, large language model) en una tarea puntual. Le sirve a quien aprende análisis de datos porque muestra que, para muchos problemas concretos, un modelo chico y bien entrenado puede ser más eficiente y accesible que uno masivo de uso general.",
+      "destacado": false
+    },
+    "1fe0639977f0": {
+      "resumen": "Los Pumas abren su gira de fin de año este viernes con el partido ante Irlanda."
+    },
+    "94cf921da030": {
+      "resumen": "Un repaso a la última visita de Los Pumas al Aviva Stadium, cuando lograron un triunfo histórico ante los British & Irish Lions."
+    },
+    "80dd775d08d5": {
+      "resumen": "Los Pumas ya tienen el equipo confirmado para enfrentar a Irlanda, con el regreso de cuatro figuras y una baja sensible."
     }
   }
 }

@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-11-04T09:29:34.296823+00:00",
+ "generated_at": "2026-11-04T18:04:54.429202+00:00",
  "sections": [
   {
    "id": "cardiologia",
    "title": "Cardiología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "The Evolut Low Risk Trial",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vajNYRWZ5OTlmbTZ4akd0anJaZ04tTXFBc3g5cm5ENlB3ZnFsZ3F5ekRkeWFIZ2dscEhsVWVIMi16U21LWFNsM2xTWEVWVmdRUTFOaXVOVG8tRTQzWGc?oc=5",
+     "source": "TCTMD",
+     "published": "2026-11-04T17:46:48+00:00",
+     "id": "cc7c3b16b6b2"
+    },
     {
      "title": "Beyond the Data: PROGRESS Trial",
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wRlo0QVFFYll5YzdSaF9sNUhBN21KU291cU1uUFNFSHY3LVVfajlQMDM0VWwwMGxqeTI5ay01Ry1ZdU1ITENPdjYwN3RKeWRkTF9Hbmdvc3VHZ2Jmb2VYVER4N1c3Y1pNbW4yb09wNGRMODF6ZllvOGNFVjJVQQ?oc=5",
@@ -35,51 +42,60 @@
      "id": "e89de073826c"
     },
     {
-     "title": "Mortality Similar With PCI, CABG in Left Main CAD in a Broad Asian Population",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWUR4NUs4RGZEalQ3WG9DakQtTHlQWTA1dlZVei1EdzBORDJDdUtuVGZyM1BLSjRtTEJnTE5xNGlRZ2U3blZWakVHNG9qelVVX2Qwb2ROQTdGQWRyc09RMHl2MUNrX1BVWGlMVVN0TmNQcWp4aHkyTVVPTWhRbDNSRDZRcThJVU54NWs1YnJqbE5ISnN6?oc=5",
-     "source": "TCTMD",
-     "published": "2026-11-03T21:58:03+00:00",
-     "id": "54b5343ce224"
+     "title": "Coming Full Circle: Transfemoral Transcatheter Mitral Valve Replacement at 2 Years",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42980635/",
+     "source": "JACC",
+     "published": "2026-11-03T00:00:00+00:00",
+     "copete": "Vora AN et al. · Journal of the American College of Cardiology",
+     "id": "17404173247b"
     },
     {
-     "title": "Short-Term Anticoagulation vs Dual Antiplatelet Therapy Following Left Atrial Appendage Closure: 1-Year Results of the ANDES Trial",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42967234/",
+     "title": "Single vs Double ProGlide Devices for Access Site Closure after Transfemoral Aortic Valve Replacement: The SINGLE-CLOSURE Trial",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42980634/",
      "source": "JACC",
-     "published": "2026-10-31T00:00:00+00:00",
-     "copete": "Rodés-Cabau J et al. · Journal of the American College of Cardiology",
-     "id": "1ce89e4dea32"
+     "published": "2026-11-03T00:00:00+00:00",
+     "copete": "Liu X et al. · Journal of the American College of Cardiology",
+     "id": "d312c757468f"
     },
     {
-     "title": "Interpreting High-Sensitivity Cardiac Troponin in Clinical Practice and Emerging Directions: Detection Is No Longer Diagnosis",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42949674/",
+     "title": "Percutaneous Transcatheter Mitral Valve Replacement for Symptomatic Mitral Regurgitation: 2-Year Outcomes From the ENCIRCLE Trial",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42980633/",
      "source": "JACC",
-     "published": "2026-10-28T00:00:00+00:00",
-     "copete": "Spanos M et al. · Journal of the American College of Cardiology",
-     "id": "8d9cb2c3fd13"
+     "published": "2026-11-03T00:00:00+00:00",
+     "copete": "Webb J et al. · Journal of the American College of Cardiology",
+     "id": "7b4287a4419d"
     },
     {
-     "title": "When Causal Is Not Enough",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42949418/",
+     "title": "Can We Trust the Data?: Provenance, Lineage, and Auditability in Database Research",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42980225/",
      "source": "JACC",
-     "published": "2026-10-27T00:00:00+00:00",
+     "published": "2026-11-03T00:00:00+00:00",
      "copete": "Krumholz HM et al. · Journal of the American College of Cardiology",
-     "id": "be1cc9b592ad"
+     "id": "743d3a1fb063"
     },
     {
-     "title": "Fifth Universal Definition of Myocardial Infarction and an update on lipoprotein(a) and inflammation",
-     "link": "https://academic.oup.com/eurheartj/article/47/40/5893/8996885?rss=1",
-     "source": "European Heart Journal",
-     "published": "2026-10-26T00:00:00+00:00",
-     "copete": "For image description, please refer to the figure legend and surrounding text.",
-     "id": "739ff78a3efa"
+     "title": "Targeting ALDOA Lactylation Reverses Vascular Remodeling in Pulmonary Hypertension by Disrupting Actin Polymerization and YAP Activation",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42974708/",
+     "source": "Circulation",
+     "published": "2026-11-03T00:00:00+00:00",
+     "copete": "Huang X et al. · Circulation",
+     "id": "48ea3008451f"
     },
     {
-     "title": "Reply: Trajectory-Based Myocardial Remodeling and MACE Risk in Phenotypically Mild HCM",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42904618/",
-     "source": "JACC",
-     "published": "2026-10-20T00:00:00+00:00",
-     "copete": "Topriceanu CC et al. · Journal of the American College of Cardiology",
-     "id": "bb6fed768e81"
+     "title": "Long-Term Impact of Vutrisiran in Patients With TTR Amyloidosis With Cardiomyopathy: 1-Year Efficacy and Safety Outcomes From the HELIOS-B Open-Label Extension",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42974684/",
+     "source": "Circulation",
+     "published": "2026-11-03T00:00:00+00:00",
+     "copete": "Garcia-Pavia P et al. · Circulation",
+     "id": "73cc2659a926"
+    },
+    {
+     "title": "Eugene Braunwald Legacy Series: The Father of Hypertrophic Cardiomyopathy",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/42970632/",
+     "source": "Circulation",
+     "published": "2026-11-03T00:00:00+00:00",
+     "copete": "Maron BJ et al. · Circulation",
+     "id": "70140c74e6b5"
     }
    ]
   },
@@ -89,81 +105,81 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "GEI venció a Ciudad de Campana y jugará la final por el segundo ascenso en La Plata RC",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd2tvbXY2cHNkcmhIZmlqYjRZYmZlVHJPcUw3UGZMb3g5aVZBRFNsa0RYcVBJY3NNYzJnRFlkZ09yd3RZLVh3Mk82bEVMd3NuYjRKUFBXSFVJXzQxbl8yTkxiZmZrTFpKTHM3dGd5M1Uxel9kV0IwTTVXU3pmOFFJYlVqQWdFalNNdXRlY0p6cVo2WEJtbXZFYTFQaWVfMnRRa29uTmZGaUF6Z3ZKTXJzUDNiQ2FyUmZBU1NWZF9IMGpQQmJFU3M1QXVsR09adFYwVEhQV25aQUJNQQ?oc=5",
-     "source": "Rugby Champagne",
-     "published": "2026-11-04T06:59:22+00:00",
-     "id": "447bbe280312"
+     "title": "Los Pumas arrancan el “fin de año” este viernes ante Irlanda",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ1h4SDYyR3RJMXVaVUdzWTQ3dk5XdldIM09DaTBvWkNOa2lJTndpLWxVME5vUzlyU2dYdzhRN3QtMjlMczhqTGcweHp2V2JKaHZxbzdEVHhINDdGajVWYXVkY19OMTYyamlWYVZTeWR4akZrR3FxN2FxaUdrdGpDbU1laEVDbHJHb0ZDQjBPLXVyd0VMNzRaaC1RTHlBX2xweXFF?oc=5",
+     "source": "El Litoral",
+     "published": "2026-11-04T17:55:00+00:00",
+     "id": "1fe0639977f0"
     },
     {
-     "title": "El entrenador de Los Pumas se quejó por el calendario de World Rugby",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMF9ZMU8yRG4tN0hfeG9mNkdxVWpzTjg1SFl4bkI4Yl9UOERJcm1kTkZ5SkxtZ1JxUXpVZ1JXYVBCNEFYb2RTY3RmbEdqb1N2S3F2aGNoWXR5VmxEdGJ3Z3A3cm5kLTRIM2cwOE1GNDd0NGFEaVROUDlGLTN3SkZWRkR1SzBiYlhHLWJyNGVyOEhfckVBWE9ZdWJGTGN3TC1Ud3JOSEM2VkloUFp3emdfRFZCVVF6RFU?oc=5",
-     "source": "Rugby Champagne",
-     "published": "2026-11-04T06:59:20+00:00",
-     "id": "033c8f5d891f"
+     "title": "Las 10 frases más fuertes de Stefano Di Carlo post superclásico",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-10-mejores-frases-stefano-di-carlo-superclasico-afa-ramirez_0_QT5GuSyKeN.html",
+     "source": "Olé — River",
+     "published": "2026-11-04T17:46:36+00:00",
+     "copete": "El presidente de River rompió el silencio tras la derrota ante Boca y dejó títulos fuertes: del pedido oficial contra el árbitro y las sospechas sobre el VAR a la cruda autocrítica por el 2026 del equipo y el futuro de Ponzio.",
+     "id": "1a1c9861e0bc"
     },
     {
-     "title": "Juveniles: En menores de 19 San Cirano se despidió de la temporada con dos victorias ante Mariano Moreno",
-     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSzlILWhBTFNEeEVERHdrTmRqaXpXaGgxQlRQQ283VnBzOGdWNlVMV09vZ00yMVFUNWpReExMbXVrOWhpZEVBeDE4dWRjZWhaajRQdGJBNkFRLXZacnlyQmhfOC1HSUp6MENDb3MxZEtkYWVWSV80SVc2MEQ1SzNNdmg2UzR4MUxlaHIwZGFweDZiWGxldy1GTlV4MGdRTklaOWF4ejQ4Z0J0aE1ZdjZIUXNYMTVKQW4ybXJyem4wQjZ4YkdWTkdmTXFEcEdPUnNCY09Ub2pqWDRaNGVKRGxKV0JYVnlRdENGMHZqbU9VSExlN1NHakphT3k2N0czc3JY?oc=5",
-     "source": "Rugby Champagne",
-     "published": "2026-11-04T06:59:16+00:00",
-     "id": "e59209dce878"
+     "title": "Los técnicos de la Liga Profesional que renunciaron o fueron despedidos en lo que va de 2026",
+     "link": "https://www.ole.com.ar/futbol-primera/liga-profesional-2026-listado-tecnicos-despedidos-renuncias-comun-acuerdo_0_hRZJEJhaYN.html",
+     "source": "Olé — River",
+     "published": "2026-11-04T17:26:40+00:00",
+     "copete": "Estudiantes de Río Cuarto anunció la salida de Rubén Forestello y se sumó a la extensa lista en lo que va de este año.",
+     "id": "2c6e40393b5f"
     },
     {
-     "title": "La definición del Campeón de Liga con Boca, Argentinos y Central: cuándo, dónde, cómo y por qué",
-     "link": "https://www.ole.com.ar/futbol-primera/definicion-campeon-liga_0_CwanuwbnQd.html",
+     "title": "La última vez de Los Pumas en el Aviva Stadium: triunfo histórico ante los British & Irish Lions",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONUt3cHQ1N09xaTlRdUlXckpMd1pDYmhXdnh1VUZKZFk4bkJZTDdaWDJiNU9WSDdrUUJGcVU1RlliZDhfNEdYV25RTWNUT0JZVHJzSWFSaVhNNDF3MDI1d1BIOFQwYnBMRHp3MjdtN0pZT0J3Tk5ITldnOUM0TlJobGw2UWl1d3ZrMG5VMDlGdWlYLU02bGZmMmxZeGprTElfdjk2RzZvOTMxVzktSmZrbGI4ZEZvNnJzMXdnRUZkd05OY3AxZWxYdlgwdENGM1B6WHY3X0VVNXZ6RXpVTkxUQ0hNb1FrVFFlQ0hMd0ZLM3NLd2M?oc=5",
+     "source": "ESPN Deportes",
+     "published": "2026-11-04T17:25:00+00:00",
+     "id": "94cf921da030"
+    },
+    {
+     "title": "Los Pumas, con formación confirmada vs. Irlanda: vuelven 4 figuras y una baja sensible",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNek9BeUFNMUhBQ2lQTnJ0Y2Q4ZzFrMmlYbGt5MmpUSzYzamJTc21LMjVoYUpsU1REdG5fV3dzZWJkUTJSYzF2TlFHR0F5am9Ma0otaXJWWS1vbXdwTDFWeDZjOGxmdnZPSTJuVktCa1lBY0VJSDRWRkJYZUYteHY1OFJQM0ZMam5pZWM1OEFJSnZQeWtYeEotU1ZxaklYR2ZOMG1yRHByTTg0MzBSZi11dGg3ZTV1cGwyWHJHNDNn0gHSAUFVX3lxTFBVaEY4b1JEN0RTN2I5QkJrVVQtZ3ZCcnlNc1F0UUItUGs3cVE3SS1uRjhwUGtBNmpTNU55OTVpM2NtNEdabkw4V2RxejBoc2tFbU5fRFM2OUk0akc1YlJZd1VlY1BzUUJ6SW9wbmFxb0RUTVFuMzd3YjI5SUNuOUFmbjg4RmNFV1BJZ2Q0bE51eV9uNnhDcFBKR0tEWjVveWNjUFVlOGVQUGFaT3JSQzNCSHZrRFhMbHdTSXJIZHJEV3JpZURGajhuamxxLU52bHZfUQ?oc=5",
+     "source": "El Destape",
+     "published": "2026-11-04T16:52:30+00:00",
+     "id": "80dd775d08d5"
+    },
+    {
+     "title": "Di Carlo, sobre el nivel de River: el “no pateó al arco”, el futuro de Ponzio y \"este campeonato hay que ganarlo\"",
+     "link": "https://www.ole.com.ar/river-plate/stefanodicarlo-river-leonardoponzio-boca-nicolasramirez-ramondiaz_0_Et5rgUsQm2.html",
+     "source": "Olé — River",
+     "published": "2026-11-04T15:55:58+00:00",
+     "copete": "Entre la dura autocrítica por el clásico y la danza de candidatos para 2027, el presidente marcó una exigencia terminante para el plantel antes del balance decisivo.",
+     "id": "6f43e5c9e5a1"
+    },
+    {
+     "title": "Alexis Mac Allister y una cuenta pendiente: \"Me quedó una espinita con Boca\"",
+     "link": "https://www.ole.com.ar/futbol-primera/alexis-mac-allister-cuenta-pendiente-espinita-boca-juniors-argentinos_0_iBlIh3O9rK.html",
      "source": "Olé — Primera",
-     "published": "2026-11-04T01:36:58+00:00",
-     "copete": "El Xeneize, el Bicho y Canalla van por el título en la última fecha del Clausura. Acá, todo lo que tenés que saber.",
-     "id": "b38253d36ec2"
+     "published": "2026-11-04T15:55:21+00:00",
+     "copete": "El volante del Liverpool recordó con cariño a Argentinos Juniors y reconoció que le gustaría regresar al fútbol argentino \"como una forma de agradecimiento\".",
+     "id": "8188c5406bfb"
     },
     {
-     "title": "El uno por uno del Defensa que buscará amargarle la fiesta a Boca en la Bombonera",
-     "link": "https://www.ole.com.ar/defensa-y-justicia/boca-juniors-defensa-justicia-fecha-16-torneo-clausura-bombonera-jugadores-anual_0_cYzJ4HIhWW.html",
-     "source": "Olé — Primera",
-     "published": "2026-11-04T00:58:58+00:00",
-     "copete": "El elenco de Florencio Varela intentará sellar su pase a la Sudamericana, mientras que el líder define la tabla anual. En Olé, repasamos las armas del equipo de Julio Vaccari en busca de aguarle el festejo al Xeneize.",
-     "id": "3a6afeda067b"
-    },
-    {
-     "title": "The last chance: River y la última bala para salvar el año o alcanzar un registro histórico",
-     "link": "https://www.ole.com.ar/river-plate/river-copa-libertadores-ultima-chance-ponzio-ganar-clausura-oportunidades-jugadores_0_QFaYFxDrBs.html",
+     "title": "Di Carlo: del \"señor jugando con un celular\" para el VAR al pedido para que Ramírez no dirija más a River",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-stefano-di-carlo-var-afa-nicolas-ramirez_0_E0joK5hr8o.html",
      "source": "Olé — River",
-     "published": "2026-11-04T00:46:47+00:00",
-     "copete": "En un 2026 repleto de golpes, deberá salir campeón para no faltar a la Libertadores por segundo año al hilo. En los playoffs, varios se jugarán su continuidad, al igual que el entrenador.",
-     "id": "8612231c940d"
+     "published": "2026-11-04T15:15:00+00:00",
+     "copete": "El presidente de River redobló la apuesta tras el superclásico: confirmó que presentaron una nota por el árbitro, habló de fallos para \"disciplinar dirigentes\" y tiró una fuerte frase sobre el manejo de la tecnología.",
+     "id": "429966ca6559"
     },
     {
-     "title": "Aldosivi vs. River, por el Torneo Clausura: hora, cómo ver y probables formaciones",
-     "link": "https://www.ole.com.ar/futbol-primera/aldosivi-vs-river-torneo-clausura-dia-hora-ver-tv-online-formaciones_0_a7BZIDhLqq.html",
+     "title": "Las sorpresas que prepara Ponzio: quiénes son los pibes que concentrarían por primera vez en River",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-leonardo-ponzio-pibes-concentrados-nunez-esquivel_0_2Y8Wf9OtuD.html",
      "source": "Olé — River",
-     "published": "2026-11-04T00:38:19+00:00",
-     "copete": "Tras perder un polémico superclásico, el Millonario visita Mar del Plata para enfrentar al descendido Tiburón. Acá, todos los detalles.",
-     "id": "07167a10b6a7"
+     "published": "2026-11-04T14:27:52+00:00",
+     "copete": "Ante las bajas obligadas, el entrenador tiene pensando completar la lista con jóvenes de la Reserva.",
+     "id": "95bc8457c6ee"
     },
     {
-     "title": "La Reserva de River le ganó a Tigre e igualó a Talleres en la punta de la Zona A",
-     "link": "https://www.ole.com.ar/river-plate/river-reserva-tigre-proyeccion-spiff_0_vq00eMnpsw.html",
-     "source": "Olé — River",
-     "published": "2026-11-04T00:21:33+00:00",
-     "copete": "Los pibes del CARP vencieron por 2-1 al Matador en el Camp con un gol agónico del Spiff y definirán su posición para los playoffs ante Central en Rosario.",
-     "id": "ec83759c630e"
-    },
-    {
-     "title": "Aplaudido irónicamente la fecha pasada: quién es el árbitro que dirigirá a River post superclásico",
-     "link": "https://www.ole.com.ar/river-plate/river-aldosivi-arbitro-bryan-ferreira-historia-belgrano-barracas-aplauso-jugadores-superclasico-guardia-alta-polemica_0_AGw4oIBXfB.html",
-     "source": "Olé — River",
-     "published": "2026-11-03T23:38:24+00:00",
-     "copete": "Luego de la polémica contra Boca en la Bombonera y las declaraciones de dirigentes y jugadores, Bryan Ferreira será el juez vs. Aldosivi. Su historia.",
-     "id": "c6dfe40a9e1f"
-    },
-    {
-     "title": "Los números negativos de River en el Monumental que lo complicaron en su objetivo de Libertadores",
-     "link": "https://www.ole.com.ar/river-plate/river-monumental-racha-negativa-local-derrotas-tabla-anual_0_dBGGbh78jM.html",
-     "source": "Olé — River",
-     "published": "2026-11-03T22:50:06+00:00",
-     "copete": "Las derrotas que se llevó como local en lo que va del año condenaron al Millonario en la tabla anual.",
-     "id": "b8af8425dcb6"
+     "title": "Los 23 para enfrentar a Irlanda en Dublín",
+     "link": "https://uar.com.ar/los-23-para-enfrentar-a-irlanda-en-dublin/",
+     "source": "UAR",
+     "published": "2026-11-04T09:46:47+00:00",
+     "copete": "Comienza el cierre del Nations Championship y Los Pumas tienen equipo confirmado para visitar a Irlanda en el Aviva Stadium de Dublín, el viernes 6 de noviembre desde las 17:10 horas (20:10 hora de Irlanda). Será el primero de los…",
+     "id": "5630faa07a6e"
     },
     {
      "title": "El Campeonato Argentino Juvenil M17 se muda a Tucumán",
@@ -180,14 +196,6 @@
      "published": "2026-11-02T17:26:01+00:00",
      "copete": "Finalizó el rugby masculino en los Juegos Olímpicos de la Juventud Dakar 2026 y el seleccionado nacional se alzó con la medalla de bronce. La caída ante Sudáfrica en las semifinales por 24-12 llevó al conjunto argentino a jugar por el…",
      "id": "d5854ff1820f"
-    },
-    {
-     "title": "Argentina, en busca del oro en los Juegos Olímpicos de la Juventud",
-     "link": "https://uar.com.ar/argentina-en-busca-del-oro-en-los-juegos-olimpicos-de-la-juventud/",
-     "source": "UAR",
-     "published": "2026-11-01T17:43:31+00:00",
-     "copete": "El seleccionado nacional comenzó su participación en los Juegos Olímpicos de la Juventud Dakar 2026 con saldo positivo, ya que registró dos triunfos (49-0 vs. Uganda y 31-5 vs. Japón y una derrota (7-24 ante Francia). A raíz de los dos…",
-     "id": "2f3993a602b4"
     }
    ]
   },
@@ -197,80 +205,78 @@
    "mode": "resumen",
    "items": [
     {
-     "title": "Jelly Sheet",
-     "link": "https://mrdoob.github.io/codevember-2026/01/",
+     "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+     "link": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
      "source": "Hacker News (100+ puntos)",
-     "published": "2026-11-04T03:40:50+00:00",
-     "id": "f14e1d8ec0f9"
+     "published": "2026-11-04T15:38:34+00:00",
+     "id": "5b592f80e93a"
     },
     {
-     "title": "C++26 Disapproved",
-     "link": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+     "title": "Kimi K3.1 Pro model weights are out",
+     "link": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
      "source": "Hacker News (100+ puntos)",
-     "published": "2026-11-04T00:33:22+00:00",
-     "id": "402640666ca7"
+     "published": "2026-11-04T15:30:30+00:00",
+     "id": "7838c87736f9"
     },
     {
-     "title": "The Internals of PostgreSQL",
-     "link": "https://www.interdb.jp/pg/index.html",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-11-03T21:51:06+00:00",
-     "id": "67bf24197a0c"
-    },
-    {
-     "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-     "link": "https://arxiv.org/abs/2605.29713",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-11-03T21:40:53+00:00",
-     "id": "edbf4ed1a954"
-    },
-    {
-     "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-     "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-     "source": "Simon Willison (IA)",
-     "published": "2026-11-03T16:29:48+00:00",
-     "copete": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but…",
-     "id": "6857dc224a41"
-    },
-    {
-     "title": "AI Will Do Your Job. That Should Be Good News.",
-     "link": "https://towardsdatascience.com/ai-will-do-your-job-that-should-be-good-news/",
+     "title": "A Computational Analysis of Women’s Suffrage in Historical Newspapers",
+     "link": "https://towardsdatascience.com/a-computational-analysis-of-womens-suffrage-in-historical-newspapers/",
      "source": "Towards Data Science",
-     "published": "2026-11-03T15:30:00+00:00",
-     "copete": "The case for paying people to play when machines do the work The post AI Will Do Your Job. That Should Be Good News. appeared first on Towards Data Science .",
-     "id": "a1c49cc21565"
+     "published": "2026-11-04T15:30:00+00:00",
+     "copete": "Using 600,546 digitized newspaper pages to measure how suffrage coverage changed from 1890 to 1920 The post A Computational Analysis of Women’s Suffrage in Historical Newspapers appeared first on Towards Data Science .",
+     "id": "0e0b23b10793"
     },
     {
-     "title": "Using LLM Summarization in Your Scikit-Learn Pipelines with Scikit-LLM",
-     "link": "https://www.kdnuggets.com/using-llm-summarization-in-your-scikit-learn-pipelines-with-scikit-llm",
+     "title": "Demystify the entry-level market for me please?",
+     "link": "https://www.reddit.com/r/datascience/comments/1xnqi9t/demystify_the_entrylevel_market_for_me_please/",
+     "source": "r/datascience",
+     "published": "2026-11-04T15:05:19+00:00",
+     "id": "d21414f964ce"
+    },
+    {
+     "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+     "link": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-11-04T15:01:44+00:00",
+     "id": "c49c94db3ff8"
+    },
+    {
+     "title": "The Data Science Interview in 2026: What’s Changed and How to Prepare",
+     "link": "https://www.kdnuggets.com/the-data-science-interview-in-2026-whats-changed-and-how-to-prepare",
      "source": "KDnuggets",
-     "published": "2026-11-03T15:00:00+00:00",
-     "copete": "Learn how to build an architecture that blends Scikit-LLM estimators for text summarization with traditional scikit-learn methods into a single, unified pipeline for summarizing and classifying raw, messy text.",
-     "id": "6e5377d2c8e0"
+     "published": "2026-11-04T15:00:00+00:00",
+     "copete": "A round-by-round breakdown of how the hiring process has shifted, from AI-assisted coding rounds to GenAI evaluation questions, and what you need to do differently to be ready.",
+     "id": "23e3e9edff8e"
     },
     {
-     "title": "A Good Shooter or Just a Good Shot Selector? Using Python to Find Out",
-     "link": "https://towardsdatascience.com/a-good-shooter-or-just-a-good-shot-selector-using-python-to-find-out/",
+     "title": "North Korean fake job interview led to $6.3B Binance heist",
+     "link": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-11-04T14:09:55+00:00",
+     "id": "7f80142f2f1d"
+    },
+    {
+     "title": "Interactive tools for learning Agentic Analytics and evals for free",
+     "link": "https://www.reddit.com/r/datascience/comments/1xnoy9v/interactive_tools_for_learning_agentic_analytics/",
+     "source": "r/datascience",
+     "published": "2026-11-04T14:01:32+00:00",
+     "id": "f50dc45879dc"
+    },
+    {
+     "title": "How to Combine Contradictory Filters in DAX",
+     "link": "https://towardsdatascience.com/how-to-combine-contradictory-filters-in-dax/",
      "source": "Towards Data Science",
-     "published": "2026-11-03T14:00:00+00:00",
-     "copete": "In basketball, field-goal percentage tells us how often a player makes a shot. But what about the shots’ difficulty? Let's use Python and machine learning to separate shot selection from shot making. The post A Good Shooter or Just a Good…",
-     "id": "f3a0507a557d"
+     "published": "2026-11-04T14:00:00+00:00",
+     "copete": "Sometimes we need to calculate results based on contradictory filters. Without any action, these filters will lead to an empty result. Let's see how we can improve the data model to make it work. The post How to Combine Contradictory…",
+     "id": "7cda4100ef10"
     },
     {
-     "title": "8 LLM Inference Frameworks You Should Try in 2026",
-     "link": "https://www.kdnuggets.com/8-llm-inference-frameworks-you-should-try-in-2026",
+     "title": "7 Small Specialist Models That Beat Giant LLMs at One Job",
+     "link": "https://www.kdnuggets.com/7-small-specialist-models-that-beat-giant-llms-at-one-job",
      "source": "KDnuggets",
-     "published": "2026-11-03T13:00:00+00:00",
-     "copete": "Compare LLM inference frameworks for production serving, request batching, KV cache management, and efficient deployment.",
-     "id": "001a98eae4f1"
-    },
-    {
-     "title": "Your Agent Works in the Demo. Now Make It Survive Monday.",
-     "link": "https://towardsdatascience.com/your-agent-works-in-the-demo-now-make-it-survive-monday/",
-     "source": "Towards Data Science",
-     "published": "2026-11-03T12:30:00+00:00",
-     "copete": "The demo is the easy part The post Your Agent Works in the Demo. Now Make It Survive Monday. appeared first on Towards Data Science .",
-     "id": "da0220cb767e"
+     "published": "2026-11-04T13:00:00+00:00",
+     "copete": "Meet seven open specialist models under 10 billion parameters that rival much bigger systems at one job each, from transcription and OCR to routing and speech.",
+     "id": "a44066cbac2a"
     }
    ]
   },
@@ -280,99 +286,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "El lugar estratégico en el que hay que colocar un vaso con arroz en noviembre para atraer abundancia al hogar",
-     "link": "https://www.lanacion.com.ar/lifestyle/el-lugar-estrategico-en-el-que-hay-que-colocar-un-vaso-con-arroz-en-noviembre-para-atraer-abundancia-nid03112026/",
+     "title": "Champions League, en vivo: nueve partidos en Europa, minuto a minuto",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/champions-league-en-vivo-nid04112026/",
      "source": "La Nación",
-     "published": "2026-11-04T09:19:16+00:00",
-     "copete": "Según el Feng Shui, este alimento simboliza la prosperidad, la estabilidad económica y el bienestar familiar; pero solo es efectivo si se coloca en una zona poco utilizada del hogar",
-     "id": "f5611e03a188"
+     "published": "2026-11-04T18:03:17+00:00",
+     "copete": "Se disputan los encuentros que cierran la cuarta fecha de la etapa de liga de la principal competencia de clubes del Viejo Continente",
+     "id": "156beb758f62"
     },
     {
-     "title": "Brad Pitt compró una finca de 500 hectáreas por 60 millones de dólares y la transformó en una reserva agrícola vitivinícola libre de químicos",
-     "link": "https://www.lanacion.com.ar/espectaculos/brad-pitt-compro-una-finca-de-500-hectareas-por-60-millones-de-dolares-y-la-transformo-en-una-nid02112026/",
+     "title": "El escándalo del banco digital Ueno ligado a Santiago Peña amenaza la reputación de Paraguay como polo de inversiones",
+     "link": "https://www.lanacion.com.ar/el-mundo/el-escandalo-de-un-banco-digital-ligado-al-presidente-amenaza-la-reputacion-de-paraguay-como-polo-de-nid03112026/",
      "source": "La Nación",
-     "published": "2026-11-04T09:18:52+00:00",
-     "copete": "El actor convirtió Château Miraval en un tanque de la industria del vino bajo un modelo ecológico estricto que elimina el uso de agroquímicos en la producción; descubrí los detalles",
-     "id": "d002485d6d0f"
+     "published": "2026-11-04T18:03:09+00:00",
+     "copete": "El presidente del organismo, Carlos Carvallo, anunció su renuncia tras la intervención de la entidad, con estrechos vínculos con el jefe de Estado",
+     "id": "06f5a06f30da"
     },
     {
-     "title": "Carlos Gutiérrez, veterinario: “Cuando un gato se acerca con la cola levantada es un signo de que viene en son de paz”",
-     "link": "https://www.lanacion.com.ar/lifestyle/mascotas/carlos-gutierrez-veterinario-cuando-un-gato-se-acerca-con-la-cola-levantada-es-un-signo-de-que-viene-nid02112026/",
+     "title": "Nicole Vignola, neurocientífica: “Modificar hábitos implica alterar la idea que alguien tiene sobre sí mismo”",
+     "link": "https://www.lanacion.com.ar/salud/nicole-vignola-neurocientifica-modificar-habitos-implica-alterar-la-idea-que-alguien-tiene-sobre-si-nid04112026/",
      "source": "La Nación",
-     "published": "2026-11-04T09:18:32+00:00",
-     "copete": "Explica cómo descifrar las posturas y hábitos cotidianos de las mascotas para comprender mejor sus necesidades, además de identificar cambios en su bienestar",
-     "id": "b0fa94a3e576"
+     "published": "2026-11-04T18:03:00+00:00",
+     "copete": "La especialista analiza por qué cuesta modificar hábitos, qué efecto produce la hiperestimulación digital sobre la atención y de qué manera la identidad se construye a partir de patrones automáticos",
+     "id": "5722f4a4df79"
     },
     {
-     "title": "A Evangelina Anderson le preguntaron quién fue el hombre que más amó en su vida y su respuesta fue contundente",
-     "link": "https://www.lanacion.com.ar/espectaculos/a-evangelina-anderson-le-preguntaron-quien-fue-el-hombre-que-mas-amo-en-su-vida-y-su-respuesta-fue-nid03112026/",
+     "title": "Qué dijo Jesús Owono tras la muerte de Jesús de Miguel",
+     "link": "https://www.lanacion.com.ar/deportes/que-dijo-jesus-owono-tras-la-muerte-de-jesus-de-miguel-nid04112026/",
      "source": "La Nación",
-     "published": "2026-11-04T09:18:13+00:00",
-     "copete": "La modelo decidió interactuar con sus seguidores de Instagram, quienes quisieron indagar en su vida sentimental, y ella, fiel a su estilo, no dejó lugar a dudas; descubrí los detalles",
-     "id": "bdb8632781cd"
+     "published": "2026-11-04T18:02:58+00:00",
+     "copete": "El arquero de FC Andorra rompió el silencio tras el fallecimiento del delantero de CD Tenerife; “Me resulta muy difícil asimilar nada de lo que ha pasado”, reveló en su comunicado",
+     "id": "6ceb80f3870f"
     },
     {
-     "title": "Antonela Roccuzzo celebró los 14 años de Thiago Messi con un video “bien argento”: “Lo grande que estás”",
-     "link": "https://www.lanacion.com.ar/espectaculos/antonela-roccuzzo-celebro-los-14-anos-de-thiago-messi-con-un-video-bien-argento-lo-grande-que-estas-nid03112026/",
+     "title": "Peña nombra nuevo director del Banco Central y presenta un proyecto para devolver los ahorros: “Quiero transmitir tranquilidad”",
+     "link": "https://www.lanacion.com.ar/el-mundo/pena-nombra-nuevo-director-del-banco-central-y-presenta-un-proyecto-para-devolver-los-ahorros-quiero-nid04112026/",
      "source": "La Nación",
-     "published": "2026-11-04T09:18:03+00:00",
-     "copete": "La rosarina le dedicó un emotivo posteo a su primogénito e incluyó un recuerdo de cuando era bebé que derritió de ternura a sus seguidores",
-     "id": "35b4e9a13195"
+     "published": "2026-11-04T18:02:43+00:00",
+     "copete": "Ueno Bank, ‌propiedad del local Grupo Vázquez, ⁠cerró sus puertas el ‌martes y dejó a ⁠miles de ⁠clientes sin acceso a sus fondos",
+     "id": "fe3ca0a1f096"
     },
     {
-     "title": "El escritor italiano Darío Ferrari se ríe de la vida académica en su nueva novela",
-     "link": "https://www.clarin.com/cultura/escritor-italiano-dario-ferrari-rie-vida-academica-nueva-novela_0_oFsKGgnc7Z.html",
-     "source": "Clarín",
-     "published": "2026-11-04T09:10:23+00:00",
-     "copete": "Un estudiante mediocre obtiene contra todo pronóstico una beca para hacer un doctorado en literatura. A partir de allí, Marcello Gori ingresa en un universo dominado por profesores, congresos, papers y luchas de poder. La novela combina…",
-     "id": "339aa678c820"
-    },
-    {
-     "title": "Colección Blaquier: los objetos franceses y las obras de arte que salen a remate",
-     "link": "https://www.clarin.com/cultura/coleccion-blaquier-objetos-franceses-obras-arte-salen-remate_0_fVJYcuQzQD.html",
-     "source": "Clarín",
-     "published": "2026-11-04T09:10:23+00:00",
-     "copete": "Una extraordinaria sopera de plata realizada por Just Aurèle Meissonnier, valuada en hasta 6 millones de libras, será la pieza estrella de la próxima subasta de Christie's. El catálogo reúne también mobiliario francés del siglo XVIII…",
-     "id": "51e1c858c071"
-    },
-    {
-     "title": "Sánchez celebra el triunfo demócrata en EE.UU. y augura que \"ocurrirá pronto en España\"",
-     "link": "https://www.clarin.com/estados-unidos/sanchez-celebra-el-triunfo-democrata-en-ee-uu-y-augura-que-ocurrira-pronto-en-espana_0_a0bSZeXgLA.html",
-     "source": "Clarín",
-     "published": "2026-11-04T09:10:11+00:00",
-     "copete": "El mandatario español elogió el éxito demócrata en EE.UU., comparándolo con el triunfo de Lula en Brasil, y anticipó un cambio similar en su país. Criticó políticas divisivas y afirmó que la ola ultraconservadora está en declive, aludiendo…",
-     "id": "d0e52c419207"
-    },
-    {
-     "title": "Fiesta: la novela de Hemingway que marcó a una generación cumple 100 años",
-     "link": "https://www.clarin.com/cultura/fiesta-novela-hemingway-marco-generacion-cumple-100-anos_0_Qun39WKdnO.html",
-     "source": "Clarín",
-     "published": "2026-11-04T09:08:23+00:00",
-     "copete": "Fue publicada en Nueva York el 22 de octubre de 1926, con el título The Sun Also Rises. La obra retrata a un grupo de expatriados que busca escapar de las heridas de la Primera Guerra Mundial entre París y España.",
-     "id": "653d160f21f2"
-    },
-    {
-     "title": "En memoria de un polaco amante del español",
-     "link": "https://www.clarin.com/opinion/memoria-polaco-amante-espanol_0_hKynUOVEVM.html",
-     "source": "Clarín",
-     "published": "2026-11-04T09:04:23+00:00",
-     "id": "e4d74a189e95"
-    },
-    {
-     "title": "Entre consultas médicas, un abandono doloroso y un duelo que no cerró: así Rachel Olson volvió al triatlón y encontró en São Paulo su revancha",
-     "link": "https://www.infobae.com/historias/2026/11/04/entre-consultas-medicas-un-abandono-doloroso-y-un-duelo-que-no-cerro-asi-rachel-olson-volvio-al-triatlon-y-encontro-en-sao-paulo-su-revancha/",
+     "title": "El exótico caso de la tenista de 79 años que disputó la qualy de un torneo oficial contra una jugadora 60 años menor",
+     "link": "https://www.infobae.com/deportes/2026/11/04/el-exotico-caso-de-la-tenista-de-79-anos-que-disputo-la-qualy-de-un-torneo-oficial-contra-una-jugadora-60-anos-menor/",
      "source": "Infobae",
-     "published": "2026-11-04T09:00:01+00:00",
-     "copete": "Tras dejar inconclusa una carrera en Kona, la atleta cambió de entrenador, redujo la exigencia en sus rutinas y logró en Brasil el broche a un proceso marcado por la pérdida de su madre",
-     "id": "6663957247f7"
+     "published": "2026-11-04T18:02:17+00:00",
+     "copete": "Gail Falkenberg afrontó su primer encuentro en el circuito en 1985 y ahora retornó a la actividad luego de un parate de 3 años. Perdió por un doble 0-6",
+     "id": "49b16391fa2a"
     },
     {
-     "title": "Entre la vigilia y el sueño: por qué el cerebro puede alterar la percepción de la realidad",
-     "link": "https://www.infobae.com/salud/2026/11/04/entre-la-vigilia-y-el-sueno-por-que-el-cerebro-puede-alterar-la-percepcion-de-la-realidad/",
+     "title": "Optimismo en los mercados internacionales tras las derrota de Trump: suben las acciones y el petróleo cae 9%",
+     "link": "https://www.infobae.com/economia/2026/11/04/optimismo-en-los-mercados-internacionales-tras-las-derrota-de-trump-suben-las-acciones-y-cae-el-petroleo/",
      "source": "Infobae",
-     "published": "2026-11-04T09:00:01+00:00",
-     "copete": "La profesora Michelle Spear, de la Universidad de Bristol, analiza los episodios nocturnos que pueden alterar el descanso y provocar temor o desconcierto en quienes los atraviesan",
-     "id": "d6de7ff026c0"
+     "published": "2026-11-04T18:02:15+00:00",
+     "copete": "El Dow Jones de Wall Street sube 1.500 puntos, mientas que el S&P 500 y el Nasdaq registran ganancias de 2% tras la victoria demócrata en el Congreso de EEUU. El barril Brent retrocede debajo de USD 100 y suben los bonos del Tesoro",
+     "id": "2379f700bcc9"
+    },
+    {
+     "title": "Marcha del Orgullo 2026: dónde es, a qué hora empieza y cómo es el lineup de los artistas que tocarán",
+     "link": "https://www.infobae.com/sociedad/2026/11/04/marcha-del-orgullo-2026-donde-es-a-que-hora-empieza-y-como-es-el-lineup-de-los-artistas-que-tocaran/",
+     "source": "Infobae",
+     "published": "2026-11-04T18:02:09+00:00",
+     "copete": "La 35ª edición será este sábado 7 de noviembre en Buenos Aires, con feria desde las 10, movilización a las 16 y María Becerra en el cierre del acto",
+     "id": "b2f5c1ad7d33"
+    },
+    {
+     "title": "Samuel L. Jackson sorprendió al revelar su anime favorito",
+     "link": "https://www.infobae.com/entretenimiento/2026/11/04/samuel-l-jackson-sorprendio-al-revelar-su-anime-favorito/",
+     "source": "Infobae",
+     "published": "2026-11-04T18:01:36+00:00",
+     "copete": "El actor eligió su serie animada preferida del momento en un video que se viralizó en redes sociales",
+     "id": "7352f0df1493"
+    },
+    {
+     "title": "“La cortan toda”: el nuevo video del triple crimen muestra a “Pequeño J” mientras tortura a la víctima de 15 años",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/11/04/la-corta-toda-el-nuevo-video-del-triple-crimen-muestra-a-pequeno-j-mientras-tortura-a-la-victima-de-15-anos/",
+     "source": "Infobae",
+     "published": "2026-11-04T17:58:37+00:00",
+     "copete": "Así lo aseguraron fuentes del caso a este medio. La autopsia reveló que Lara Gutiérrez sufrió la amputación de cinco dedos antes de ser degollada. Qué dijo “Pequeño J” de la víctima en su primera entrevista",
+     "id": "2d42f1f025bf"
+    },
+    {
+     "title": "Los condados que sí rechazaron claramente la gestión Trump",
+     "link": "https://www.clarin.com/estados-unidos/los-condados-que-si-rechazaron-claramente-la-gestion-trump_0_dHGfRzacVX.html",
+     "source": "Clarín",
+     "published": "2026-11-04T17:40:16+00:00",
+     "copete": "Las recientes elecciones legislativas en EE.UU. reflejan un rechazo a las políticas de Trump, con cambios notables en condados clave. La inmigración, aranceles y costos de vida influyeron en resultados adversos para los republicanos…",
+     "id": "7a43a7cdc5ce"
+    },
+    {
+     "title": "Patricia Bullrich cruzó a Cristina Kirchner tras el irónico mensaje de la expresidenta por la derrota de Trump: \"Freedom is beautiful\"",
+     "link": "https://www.clarin.com/politica/patricia-bullrich-cruzo-cristina-kirchner-ironico-mensaje-expresidenta-derrota-trump-freedom-is-beautiful_0_lLQv5qtzgi.html",
+     "source": "Clarín",
+     "published": "2026-11-04T17:34:15+00:00",
+     "copete": "La jefa del bloque de senadores de LLA le respondió a la exmandataria por posteo sobre el resultado de la elección de medio término en Estados Unidos.",
+     "id": "fdb30fc1ea77"
     }
    ]
   },
@@ -382,84 +389,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "\"Ola azul\": los demócratas ganan el control del Congreso en un histórico triunfo para los opositores de Trump en las elecciones de medio mandato de EE.UU.",
+     "title": "\"Perdimos por la guerra\", dice JD Vance tras los devastadores resultados para su partido de las elecciones de medio término en EE.UU.",
      "link": "https://www.bbc.co.uk/mundo/live/cq9vz4g97xy2t?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-11-04T09:29:34.006102+00:00",
-     "copete": "El presidente de EE.UU., Donald Trump, dice estar \"dispuesto a aceptar\" los resultados de unas elecciones descritas por nuestros analistas como una \"derrota aplastante\" que dificultará los últimos dos años de gobierno del republicano.",
+     "published": "2026-11-04T18:04:53.403440+00:00",
+     "copete": "Los demócratas celebran una aplastante victoria que les otorga el control tanto del Senado como de la Cámara de Representantes de EE.UU. por los próximos dos años.",
      "id": "9f65dfc91f13"
     },
     {
-     "title": "\"No lo considero un revés para mí\": la reacción de Trump tras el aplastante triunfo de los demócratas en el Congreso",
-     "link": "https://www.bbc.com/mundo/articles/ck62y4ql3wggo?at_medium=RSS&at_campaign=rss",
+     "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+     "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-04T18:01:31+00:00",
+     "copete": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+     "id": "09b15d06b942"
+    },
+    {
+     "title": "Quién es Bobby Pulido, la estrella de la música tejana que devolvió a los demócratas un condado de Texas fronterizo con México",
+     "link": "https://www.bbc.com/mundo/articles/c6kg7wj3gxk8o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-11-04T09:23:37+00:00",
-     "copete": "Trump atribuyó la responsabilidad directamente a los propios candidatos republicanos, aunque reconoció que los elevados precios de la gasolina influyeron en el resultado.",
-     "id": "7d3d53301f5f"
+     "published": "2026-11-04T17:56:20+00:00",
+     "copete": "Su triunfo se suma a la ola que este martes llevó a los demócratas a hacerse con el control de ambas cámaras del Congreso de Estados Unidos y dejó victorias clave en Texas, incluidas la de Gina Hinojosa como gobernadora y James Talarico…",
+     "id": "4fcc66646972"
     },
     {
-     "title": "Key moments from a night of midterm election firsts",
-     "link": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+     "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+     "link": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-11-04T09:01:40+00:00",
-     "copete": "Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration.",
-     "id": "d1c033e035e4"
+     "published": "2026-11-04T17:45:58+00:00",
+     "copete": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+     "id": "7bb8998eca36"
     },
     {
-     "title": "Corea del Norte acusa a EE UU de “política hostil” tras las acusaciones por el robo cibernético",
-     "link": "https://elpais.com/internacional/2026-11-04/corea-del-norte-acusa-a-ee-uu-de-politica-hostil-tras-las-acusaciones-por-el-robo-cibernetico.html",
+     "title": "Las ‘midterms’ 2026, en vivo | El vicepresidente J. D. Vance culpa a la guerra en Irán por la estrepitosa derrota republicana",
+     "link": "https://elpais.com/us/2026-11-04/las-midterms-2026-en-vivo.html",
      "source": "El País Internacional",
-     "published": "2026-11-04T09:00:26+00:00",
-     "copete": "Kim Yo-jong, hermana del líder norcoreano, afirma que no tienen “necesidad” de sentarse cara a cara con personas “tan poco fiables”. Pyongyang anuncia el lanzamiento de varios misiles, el cuarto ensayo en menos de una semana",
-     "id": "8f4547b5ddfd"
+     "published": "2026-11-04T17:43:22+00:00",
+     "copete": "La Cámara de Representantes y el Senado han pasado a manos demócratas con el respaldo de lugares profundamente republicanos",
+     "id": "4b24fd79ed4a"
     },
     {
-     "title": "Los festejos de las elecciones ‘midterms’ de Estados Unidos, en imágenes",
-     "link": "https://elpais.com/us/2026-11-04/los-festejos-de-las-elecciones-midterms-de-estados-unidos-en-imagenes.html",
-     "source": "El País Internacional",
-     "published": "2026-11-04T08:43:26+00:00",
-     "copete": "Los demócratas retoman el Senado y la Cámara de Representantes",
-     "id": "3f51497e58cc"
-    },
-    {
-     "title": "Quién es Gina Hinojosa, la demócrata de ascendencia mexicana que será la primera latina en gobernar la conservadora Texas",
-     "link": "https://www.bbc.com/mundo/articles/cqn06jxe3zexo?at_medium=RSS&at_campaign=rss",
+     "title": "5 razones que explican la abrumadora derrota del Partido Republicano",
+     "link": "https://www.bbc.com/mundo/articles/cq5yn4l3pjv0o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-11-04T08:29:12+00:00",
-     "copete": "La legisladora estatal derrotó a Greg Abbott, uno de los gobernadores republicanos más destacados del país y fiel aliado del presidente Donald Trump.",
-     "id": "ef77005a68a6"
+     "published": "2026-11-04T17:20:28+00:00",
+     "copete": "Desde votantes furiosos hasta un presidente impopular, te explicamos por qué los estadounidenses en zonas tradicionalmente republicanas optaron por los demócratas.",
+     "id": "1f28cb961331"
     },
     {
-     "title": "Videoanálisis | El voto de castigo le arrebató el Congreso a Trump",
-     "link": "https://elpais.com/us/2026-11-04/videoanalisis-el-voto-de-castigo-le-arrebato-el-congreso-a-trump.html",
+     "title": "Bruselas exige a Ucrania acelerar las reformas para cerrar las negociaciones de adhesión en 2028",
+     "link": "https://elpais.com/internacional/2026-11-04/bruselas-exige-a-ucrania-acelerar-las-reformas-para-cerrar-las-negociaciones-de-adhesion-en-2028.html",
      "source": "El País Internacional",
-     "published": "2026-11-04T07:55:48+00:00",
-     "copete": "El hartazgo ante una presidencia caótica llevó a la oposición a ganar incluso en territorios profundamente republicanos, dos años después de perder la Casa Blanca y el Capitolio",
-     "id": "de05e54eab30"
+     "published": "2026-11-04T17:12:02+00:00",
+     "copete": "La Comisión advierte a Serbia de que su camino hacia la UE “depende de los esfuerzos del nuevo Gobierno”",
+     "id": "06bd46aae936"
     },
     {
-     "title": "La victoria de Abdul El-Sayed en Míchigan permite al ala progresista de los demócratas soñar con la Casa Blanca",
-     "link": "https://elpais.com/us/2026-11-04/la-victoria-de-el-sayed-en-michigan-permite-al-ala-progresista-de-los-democratas-sonar-con-la-casa-blanca.html",
+     "title": "Iran's chief negotiator says Americans voted 'no to war'",
+     "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-04T16:59:15+00:00",
+     "copete": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+     "id": "cf064f177920"
+    },
+    {
+     "title": "'Most difficult days of my life' for keeper Owono",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-04T16:40:38+00:00",
+     "copete": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+     "id": "19d86bd3cf57"
+    },
+    {
+     "title": "El Comité Electoral de Israel confirma los resultados de los comicios y advierte del “peligro” de cuestionar su veracidad",
+     "link": "https://elpais.com/internacional/2026-11-04/el-comite-electoral-de-israel-confirma-los-resultados-de-los-comicios-y-advierte-del-peligro-de-cuestionar-su-veracidad.html",
      "source": "El País Internacional",
-     "published": "2026-11-04T07:43:51+00:00",
-     "copete": "La nueva estrella de la izquierda estadounidense será el primer senador musulmán en la historia del país",
-     "id": "5367064f3acb"
-    },
-    {
-     "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-     "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-04T07:39:38+00:00",
-     "copete": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
-     "id": "8f7d18ad54d0"
-    },
-    {
-     "title": "South Carolina elects Democratic senator for first time in almost three decades",
-     "link": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-04T07:32:02+00:00",
-     "copete": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
-     "id": "788172991436"
+     "published": "2026-11-04T16:35:27+00:00",
+     "copete": "El jefe de Estado comienza las consultas para intentar formar Gobierno en medio de una controvertida investigación de los servicios secretos sobre presunta injerencia extranjera en el voto de la minoría árabe",
+     "id": "112de02cf084"
     }
    ]
   }
@@ -469,11 +476,6 @@
    "section": "cardiologia",
    "feed": "Cardiology Trials",
    "error": "HTTP Error 403: Forbidden"
-  },
-  {
-   "section": "cardiologia",
-   "feed": "Circulation (PubMed)",
-   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "section": "cardiologia",

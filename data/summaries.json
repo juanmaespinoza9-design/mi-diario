@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T10:20:00Z",
+  "generated_at": "2026-11-05T22:06:54Z",
   "summaries": {
     "f525bafce0f6": {
       "resumen": "Nota de TCTMD sobre los resultados a 1 año del dispositivo Amulet 360 para el cierre percutáneo de la aurícula izquierda (LAAO, left atrial appendage occlusion), una técnica que busca prevenir accidentes cerebrovasculares en pacientes con fibrilación auricular que no pueden recibir anticoagulación crónica. Vale la pena mirarlo porque suma evidencia sobre una nueva generación de dispositivos de cierre auricular, un área en constante evolución tecnológica.",
@@ -21,53 +21,12 @@
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico SIRONA; el título indica seguimiento extendido a 3 años, pero sin el abstract no se puede precisar aleatorización, cegamiento, número de centros ni tamaño muestral.\nPoblación: Pacientes con enfermedad arterial periférica (PAD) tratados con balón liberador de fármaco; el título no especifica criterios de inclusión/exclusión ni el territorio arterial exacto.\nIntervención: Balón liberador de sirolimus (DCB) frente al comparador habitual en este tipo de ensayos (angioplastia simple o balón liberador de paclitaxel), aunque el título no aclara el grupo control.\nResultados: El título solo indica que la eficacia \"se extiende a 3 años\", sin cifras de permeabilidad, revascularización de la lesión diana ni intervalos de confianza disponibles.\nLimitaciones: No se puede evaluar la pérdida de seguimiento a 3 años, la representatividad de la cohorte extendida ni la significación estadística sin el texto completo.\nMensaje: Si se confirma, respalda el uso de balones de sirolimus como alternativa duradera en PAD, pero la magnitud real del beneficio a 3 años queda pendiente de los números completos.\nNota: análisis sin acceso al abstract."
     },
-    "499c6ef9ad80": {
-      "resumen": "Datos epidemiológicos globales, difundidos por TCTMD, que muestran un aumento sostenido de la enfermedad valvular mitral degenerativa en el mundo, con marcadas diferencias según sexo y nivel socioeconómico. Vale la pena mirarlo porque entender cómo se distribuye esta carga de enfermedad ayuda a planificar dónde hacen falta más recursos de diagnóstico y tratamiento valvular.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio de carga de enfermedad, probablemente de tipo ecológico o basado en registros poblacionales globales; el título no especifica la fuente de datos exacta ni el período analizado.\nPoblación: Población general mundial, estratificada por sexo y nivel socioeconómico, con diagnóstico de enfermedad valvular mitral degenerativa.\nIntervención: No aplica; es un estudio descriptivo de tendencias epidemiológicas, no de una intervención terapéutica.\nResultados: El título indica un aumento \"sostenido\" y divisiones \"marcadas\" por sexo y nivel socioeconómico, pero no hay cifras de prevalencia, incidencia ni intervalos de confianza disponibles sin el texto completo.\nLimitaciones: Los estudios de carga global de enfermedad dependen de la calidad y comparabilidad de los registros de cada país, y suelen subestimar la enfermedad en regiones con menor acceso a ecocardiograma.\nMensaje: Remarca que la enfermedad mitral degenerativa no afecta a todos los grupos por igual, lo que podría justificar estrategias de pesquisa dirigidas a las poblaciones más postergadas; faltan los datos completos para cuantificar la brecha.\nNota: análisis sin acceso al abstract."
-    },
     "739ff78a3efa": {
       "resumen": "Documento de consenso publicado en European Heart Journal (revista científica europea de cardiología) que presenta la Quinta Definición Universal del Infarto de Miocardio, con una actualización sobre el rol de la lipoproteína(a) —una partícula de colesterol de origen genético asociada a mayor riesgo cardiovascular— y la inflamación en el diagnóstico. Vale la pena mirarlo porque estos consensos internacionales terminan definiendo qué se considera infarto en la práctica diaria y en los ensayos clínicos.",
       "destacado": false
     },
-    "f630e990dbf0": {
-      "resumen": "Hacker News destaca el anuncio de SpaceX sobre Starfall, un servicio pensado para dar acceso rutinario y más accesible a condiciones de microgravedad, útil para experimentos científicos e industriales en órbita. Le sirve a un médico que aprende análisis de datos porque la investigación en microgravedad genera series de datos experimentales novedosas, cada vez más analizadas con las mismas herramientas estadísticas y de ciencia de datos que se usan en otros campos.",
-      "destacado": false
-    },
-    "9320bcda5f3a": {
-      "resumen": "OpenAI presentó Images 2.6, una nueva versión de su herramienta de generación de imágenes con inteligencia artificial, destacada en Hacker News. Le sirve a un médico que aprende análisis de datos para seguir de cerca la evolución de los modelos generativos, cuyas técnicas subyacentes también se aplican al análisis y generación de imágenes médicas.",
-      "destacado": false
-    },
-    "f730feda13ee": {
-      "resumen": "OpenAI publicó un informe técnico, comentado en Hacker News, sobre cómo logró eliminar mil posibles vías de escalamiento de privilegios (\"paths to root\") en su infraestructura de seguridad informática. Le sirve a un médico que aprende análisis de datos como recordatorio de que trabajar con datos sensibles exige, además de estadística, una base sólida de seguridad informática para protegerlos.",
-      "destacado": false
-    },
-    "6a02483ec1f6": {
-      "resumen": "Tercera entrega de una serie técnica, popular en Hacker News, que detalla cómo un investigador logró vulnerar el hipervisor (capa de software que controla el hardware) de la consola Xbox 360 mediante actualizaciones de firmware manipuladas. Le sirve a un médico que aprende análisis de datos solo como ejemplo de ingeniería inversa y pensamiento sistemático para encontrar fallas en sistemas complejos, una lógica trasladable al debugging de modelos y pipelines de datos.",
-      "destacado": false
-    },
-    "0e0b23b10793": {
-      "resumen": "Artículo de Towards Data Science que usa 600.546 páginas de diarios históricos digitalizados para medir cómo cambió la cobertura mediática del sufragio femenino a lo largo del tiempo. Le sirve a quien aprende análisis de datos porque muestra un caso real de minería de texto (text mining) y análisis cuantitativo aplicado a fuentes históricas masivas.",
-      "destacado": false
-    },
     "f121b002be2b": {
       "resumen": "Simon Willison anuncia una nueva versión de datasette-llm, su herramienta que integra modelos de lenguaje (LLM) dentro de Datasette, el software de código abierto para explorar y publicar bases de datos. Le sirve a un médico que aprende análisis de datos porque Datasette es una herramienta simple y gratuita para explorar datos tabulares, y esta integración muestra cómo sumarle capacidades de inteligencia artificial sin gran complejidad técnica.",
-      "destacado": false
-    },
-    "d21414f964ce": {
-      "resumen": "Hilo de la comunidad r/datascience en Reddit donde se debate, desde la experiencia de quienes buscan trabajo, cómo está hoy el mercado laboral para los puestos de entrada en ciencia de datos. Le sirve a un médico en transición hacia el análisis de datos porque da una idea realista de qué exige el mercado y qué expectativas tener al buscar el primer puesto en el área.",
-      "destacado": false
-    },
-    "23e3e9edff8e": {
-      "resumen": "Guía de KDnuggets sobre cómo cambiaron las entrevistas laborales de ciencia de datos en 2026 y cómo prepararse, con foco en las nuevas exigencias ligadas a la inteligencia artificial generativa y la automatización de tareas analíticas. Le sirve directamente a un médico que se está formando en análisis de datos y piensa en una eventual búsqueda laboral en el área.",
-      "destacado": true
-    },
-    "f50dc45879dc": {
-      "resumen": "Publicación en r/datascience que recomienda herramientas interactivas y gratuitas para aprender analítica basada en agentes de inteligencia artificial (agentic analytics) y evaluación de modelos (evals). Le sirve a un médico que aprende análisis de datos porque ofrece una vía práctica y sin costo para empezar a entender cómo se diseñan y evalúan los sistemas de IA que automatizan tareas analíticas.",
-      "destacado": false
-    },
-    "7cda4100ef10": {
-      "resumen": "Tutorial de Towards Data Science sobre cómo combinar filtros contradictorios dentro del lenguaje DAX (Data Analysis Expressions), usado en herramientas como Power BI. Le sirve a quien está aprendiendo análisis de datos porque DAX es una de las herramientas más usadas para construir reportes e indicadores en el día a día de muchos equipos de salud y gestión.",
       "destacado": false
     },
     "15eebb5b01ed": {
@@ -79,8 +38,67 @@
     "95ec89d6a067": {
       "resumen": "Los Pumas buscarán ante Irlanda su novena victoria histórica frente a ese rival, y la primera lograda justamente en Dublín."
     },
-    "8977b32de6b8": {
-      "resumen": "Pese a la derrota en el superclásico, River recibió un recibimiento multitudinario al llegar a Mar del Plata para enfrentar a Aldosivi."
+    "d27b3e4d3b12": {
+      "resumen": "Entrevista de TCTMD (sitio especializado en cardiología intervencionista) al doctor Tony Das, que cuenta por qué eligió desarrollar su carrera en cardiología intervencionista por fuera de las estructuras institucionales tradicionales. No es un estudio sino una nota de perfil profesional. Vale la pena mirarla para entender las distintas trayectorias posibles dentro de la especialidad, más allá de la práctica hospitalaria clásica.",
+      "destacado": false
+    },
+    "17404173247b": {
+      "resumen": "Publicación de JACC (Journal of the American College of Cardiology) sobre los resultados a 2 años del reemplazo valvular mitral transcatéter por vía transfemoral (TMVR, transcatheter mitral valve replacement), una técnica percutánea para tratar la insuficiencia o la estenosis mitral sin cirugía abierta. Vale la pena mirarlo porque el seguimiento a mediano plazo es clave para definir la durabilidad de estos dispositivos en una válvula técnicamente más compleja que la aórtica.",
+      "destacado": false,
+      "analisis": "Diseño: Según el título, estudio de seguimiento a 2 años de pacientes tratados con reemplazo valvular mitral transcatéter (TMVR) por vía transfemoral; no se precisa si es un registro, una serie de casos o un ensayo clínico, ni el número de centros o pacientes incluidos.\nPoblación: Pacientes con enfermedad valvular mitral (insuficiencia o estenosis) tratados con TMVR transfemoral; el título no detalla los criterios de inclusión o exclusión.\nIntervención: Reemplazo valvular mitral transcatéter por acceso transfemoral; no se menciona un grupo comparador explícito.\nResultados: El título indica seguimiento a 2 años pero no aporta cifras de mortalidad, reintervención, insuficiencia residual ni eventos adversos sin el texto completo.\nLimitaciones: Sin abstract no se puede evaluar la pérdida de seguimiento, el riesgo de sesgo de selección ni la generalización de los resultados.\nMensaje: Si los resultados a 2 años son favorables, respalda a la TMVR transfemoral como alternativa percutánea sostenible en el tiempo para patología valvular mitral, aunque la indicación sigue siendo para casos seleccionados.\nNota: análisis sin acceso al abstract."
+    },
+    "d312c757468f": {
+      "resumen": "El ensayo SINGLE-CLOSURE, publicado en JACC, compara el uso de uno versus dos dispositivos ProGlide para el cierre percutáneo del sitio de acceso después de un reemplazo valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation) por vía transfemoral. Vale la pena mirarlo porque las complicaciones vasculares en el sitio de punción son una de las causas más frecuentes de morbilidad después de un TAVI, y simplificar la técnica de cierre podría reducirlas.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico (SINGLE-CLOSURE Trial) que compara dos estrategias de cierre vascular percutáneo; el título no especifica aleatorización, cegamiento, número de centros ni tamaño de la muestra.\nPoblación: Pacientes sometidos a reemplazo valvular aórtico transcatéter (TAVI) por vía transfemoral que requieren cierre percutáneo del sitio de acceso; no se detallan criterios de inclusión o exclusión.\nIntervención: Un dispositivo ProGlide (cierre percutáneo con sutura) frente a dos dispositivos ProGlide para el cierre del sitio de punción femoral.\nResultados: No hay cifras disponibles en el título sobre tasa de complicaciones vasculares mayores, sangrado o necesidad de reparación quirúrgica entre ambas estrategias.\nLimitaciones: Sin el abstract no se puede valorar el poder estadístico del estudio, la definición de complicación vascular utilizada ni el entrenamiento de los operadores.\nMensaje: Si una sola sutura de cierre resulta igual de segura y eficaz que dos, podría simplificar y abaratar el procedimiento de cierre vascular post-TAVI sin aumentar el riesgo de complicaciones.\nNota: análisis sin acceso al abstract."
+    },
+    "7b4287a4419d": {
+      "resumen": "El ensayo ENCIRCLE, publicado en JACC, presenta los resultados a 2 años del reemplazo valvular mitral transcatéter percutáneo en pacientes con insuficiencia mitral (regurgitación mitral) sintomática. Vale la pena mirarlo porque suma evidencia de mediano plazo sobre una alternativa percutánea para pacientes con insuficiencia mitral que no son buenos candidatos a cirugía ni a reparación con clip.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico o registro multicéntrico (ENCIRCLE Trial) con seguimiento a 2 años; el título no precisa aleatorización, cegamiento, número de centros ni tamaño muestral.\nPoblación: Pacientes con insuficiencia mitral (regurgitación mitral) sintomática, candidatos a reemplazo valvular percutáneo; no se detallan criterios de inclusión o exclusión.\nIntervención: Reemplazo valvular mitral transcatéter percutáneo; el título no aclara si hay un grupo comparador (por ejemplo, tratamiento médico óptimo o reparación con clip mitral).\nResultados: No se dispone de cifras de mortalidad, mejoría funcional, reintervención ni eventos adversos a 2 años sin el texto completo.\nLimitaciones: Sin abstract no se puede evaluar la tasa de pérdida de seguimiento, el riesgo de sesgo ni la comparabilidad con otras técnicas percutáneas para insuficiencia mitral.\nMensaje: Si se confirman resultados favorables sostenidos a 2 años, refuerza al reemplazo valvular mitral percutáneo como opción válida en insuficiencia mitral sintomática de alto riesgo quirúrgico.\nNota: análisis sin acceso al abstract."
+    },
+    "743d3a1fb063": {
+      "resumen": "Artículo de JACC sobre la procedencia (provenance), la trazabilidad (lineage) y la auditabilidad de los datos en la investigación con bases de datos clínicas y registros, un tema central para la validez de los estudios observacionales en cardiología. Vale la pena mirarlo porque, para quien se está formando en análisis de datos y farmacovigilancia, entender cómo se garantiza la calidad y la trazabilidad de los datos es tan importante como el resultado estadístico final.",
+      "destacado": false
+    },
+    "7a84a6a26a51": {
+      "resumen": "Towards Data Science explica cómo armar un único modelo semántico (semantic model, la capa que define cómo se calculan y relacionan las métricas en una herramienta de inteligencia de negocios) para generar reportes personalizados a más de 100 clientes sin duplicar el trabajo. Le sirve a un médico que aprende análisis de datos porque muestra un patrón de diseño reutilizable para escalar reportes, útil para cualquier proyecto con múltiples destinatarios o centros.",
+      "destacado": false
+    },
+    "7112d1d5d8bb": {
+      "resumen": "KDnuggets presenta un caso práctico de web scraping (extracción automatizada de datos de páginas web) a gran escala usando Python y el servicio Olostep, logrando recorrer 7.000 páginas en solo 3 minutos. Le sirve a un médico que aprende análisis de datos porque introduce herramientas concretas para recolectar datos masivos de forma eficiente, un paso previo habitual a cualquier análisis.",
+      "destacado": false
+    },
+    "5a1d25e722d4": {
+      "resumen": "Towards Data Science detalla cómo se construyó, junto con la NASA, un detector de fugas de gas desde el espacio basado en aprendizaje \"zero-shot\" (modelos que identifican patrones nuevos sin haber sido entrenados específicamente para esa tarea). Le sirve a un médico que aprende análisis de datos porque ejemplifica cómo la inteligencia artificial puede detectar anomalías en grandes volúmenes de datos sin necesidad de etiquetar previamente cada caso, un concepto trasladable a la detección de señales en farmacovigilancia.",
+      "destacado": false
+    },
+    "4c714204846c": {
+      "resumen": "Alerta de seguridad que reporta una vulnerabilidad en Alpine Linux que permite eludir (bypass) la autenticación por contraseña del servidor OpenSSH, el protocolo más usado para acceder de forma remota y segura a servidores. Le sirve a un médico que aprende análisis de datos porque, al trabajar con servidores propios o en la nube para procesar datos, conviene estar al tanto de este tipo de fallas críticas de seguridad.",
+      "destacado": false
+    },
+    "00fad6531e44": {
+      "resumen": "Explicación accesible del Protocolo de Contexto de Modelo (MCP, Model Context Protocol), el estándar abierto que permite que los modelos de inteligencia artificial se conecten de forma ordenada con herramientas externas, bases de datos y aplicaciones. Le sirve a un médico que aprende análisis de datos porque el MCP es la pieza clave que hoy conecta asistentes de inteligencia artificial con planillas, bases de datos clínicas y otras fuentes, algo cada vez más presente en el trabajo diario con estas herramientas.",
+      "destacado": true
+    },
+    "7586135ac3be": {
+      "resumen": "Towards Data Science analiza cómo la optimización para motores generativos (GEO, generative engine optimization), el protocolo WebMCP y los muros de pago para bots (bot paywalls) están moldeando una internet pensada para ser consumida por inteligencia artificial más que por personas. Le sirve a un médico que aprende análisis de datos porque anticipa cómo cambiará el acceso a la información online a medida que los agentes de inteligencia artificial se vuelven usuarios habituales de la web.",
+      "destacado": false
+    },
+    "90a44ccd01de": {
+      "resumen": "KDnuggets comparte una experiencia práctica usando el agente Hermes junto con Ollama (plataforma para correr modelos de lenguaje de forma local, sin depender de la nube) y otros modelos locales. Le sirve a un médico que aprende análisis de datos porque muestra una alternativa para trabajar con inteligencia artificial de forma privada y gratuita, algo relevante cuando se manejan datos sensibles como los clínicos.",
+      "destacado": false
+    },
+    "8d1473191036": {
+      "resumen": "Publicación en Hacker News sobre \"Sshole\", una herramienta cuyo nombre juega con SSH (Secure Shell, el protocolo para conectarse de forma remota a servidores); el título no permite precisar con certeza su función exacta sin acceder al sitio. Le sirve a un médico que aprende análisis de datos como una referencia más dentro del ecosistema de herramientas para administrar servidores y accesos remotos, frecuentes al trabajar con infraestructura de datos.",
+      "destacado": false
+    },
+    "ba37dcecc4fd": {
+      "resumen": "Hacker News destaca una nota sobre OpenSSH 10.6p2 y una solución alternativa (workaround) crítica para sistemas Alpine Linux que no usan PAM (Pluggable Authentication Modules, el sistema estándar de autenticación en Linux), en el contexto de la vulnerabilidad de autenticación reportada ese mismo día. Le sirve a un médico que aprende análisis de datos porque refuerza la importancia de mantener actualizado el software de los servidores que usa para sus proyectos de datos.",
+      "destacado": false
+    },
+    "631fdc68017a": {
+      "resumen": "El arquitecto argentino Nicolás Pinto da Mota diseña casas sin ventanas tradicionales que igual logran estar llenas de luz natural."
     }
   }
 }

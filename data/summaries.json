@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T10:05:59Z",
+  "generated_at": "2026-11-06T22:04:53Z",
   "summaries": {
     "d312c757468f": {
       "resumen": "El ensayo SINGLE-CLOSURE, publicado en JACC, compara el uso de uno versus dos dispositivos ProGlide para el cierre percutáneo del sitio de acceso después de un reemplazo valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation) por vía transfemoral. Vale la pena mirarlo porque las complicaciones vasculares en el sitio de punción son una de las causas más frecuentes de morbilidad después de un TAVI, y simplificar la técnica de cierre podría reducirlas.",
@@ -35,26 +35,6 @@
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico PROGRESS; la columna de TCTMD lo analiza en profundidad pero el título no precisa aleatorización, cegamiento, número de centros ni tamaño muestral del ensayo original.\nPoblación: Pacientes con estenosis aórtica moderada y alto riesgo clínico; el título no detalla los criterios de inclusión/exclusión ni cómo se definió el alto riesgo.\nIntervención: Implante percutáneo de válvula aórtica (TAVI, transcatheter aortic valve implantation) frente a vigilancia clínica (conducta expectante) en estenosis aórtica moderada.\nResultados: El título y la bajada no aportan cifras de mortalidad, hospitalización ni progresión a estenosis severa; no hay datos numéricos disponibles sin el texto completo.\nLimitaciones: Al tratarse de una columna de análisis y no del artículo original, no se puede evaluar el riesgo de sesgo, la pérdida de seguimiento ni la significación estadística de los resultados del ensayo PROGRESS.\nMensaje: Si el TAVI demuestra beneficio en estenosis moderada de alto riesgo, podría ampliar las indicaciones actuales más allá de la estenosis severa, pero la propia columna aconseja leer los resultados con cautela antes de cambiar la práctica.\nNota: análisis sin acceso al abstract."
     },
-    "d27b3e4d3b12": {
-      "resumen": "Entrevista de TCTMD (sitio especializado en cardiología intervencionista) al doctor Tony Das, que cuenta por qué eligió desarrollar su carrera en cardiología intervencionista por fuera de las estructuras institucionales tradicionales. No es un estudio sino una nota de perfil profesional. Vale la pena mirarla para entender las distintas trayectorias posibles dentro de la especialidad, más allá de la práctica hospitalaria clásica.",
-      "destacado": false
-    },
-    "7586135ac3be": {
-      "resumen": "Towards Data Science analiza cómo la optimización para motores generativos (GEO, generative engine optimization), el protocolo WebMCP y los muros de pago para bots (bot paywalls) están moldeando una internet pensada para ser consumida por inteligencia artificial más que por personas. Le sirve a un médico que aprende análisis de datos porque anticipa cómo cambiará el acceso a la información online a medida que los agentes de inteligencia artificial se vuelven usuarios habituales de la web.",
-      "destacado": false
-    },
-    "7a84a6a26a51": {
-      "resumen": "Towards Data Science explica cómo armar un único modelo semántico (semantic model, la capa que define cómo se calculan y relacionan las métricas en una herramienta de inteligencia de negocios) para generar reportes personalizados a más de 100 clientes sin duplicar el trabajo. Le sirve a un médico que aprende análisis de datos porque muestra un patrón de diseño reutilizable para escalar reportes, útil para cualquier proyecto con múltiples destinatarios o centros.",
-      "destacado": false
-    },
-    "7112d1d5d8bb": {
-      "resumen": "KDnuggets presenta un caso práctico de web scraping (extracción automatizada de datos de páginas web) a gran escala usando Python y el servicio Olostep, logrando recorrer 7.000 páginas en solo 3 minutos. Le sirve a un médico que aprende análisis de datos porque introduce herramientas concretas para recolectar datos masivos de forma eficiente, un paso previo habitual a cualquier análisis.",
-      "destacado": false
-    },
-    "5a1d25e722d4": {
-      "resumen": "Towards Data Science detalla cómo se construyó, junto con la NASA, un detector de fugas de gas desde el espacio basado en aprendizaje \"zero-shot\" (modelos que identifican patrones nuevos sin haber sido entrenados específicamente para esa tarea). Le sirve a un médico que aprende análisis de datos porque ejemplifica cómo la inteligencia artificial puede detectar anomalías en grandes volúmenes de datos sin necesidad de etiquetar previamente cada caso, un concepto trasladable a la detección de señales en farmacovigilancia.",
-      "destacado": true
-    },
     "8929f7b1bafb": {
       "resumen": "Compilación editorial de European Heart Journal (Revista Europea de Cardiología) que repasa los estudios más relevantes publicados recientemente en cardiología de cuidados agudos. Vale la pena mirarla como mapa rápido de hacia dónde apunta la investigación en el área, aunque no es un estudio individual sino un resumen de varios trabajos con sus figuras.",
       "destacado": false
@@ -64,38 +44,59 @@
       "destacado": false,
       "analisis": "Diseño: Estudio CLASP II TR que evalúa el sistema Pascal de reparación percutánea borde a borde (T-TEER) de la válvula tricúspide; el título no precisa aleatorización, cegamiento, número de centros ni tamaño de la muestra.\nPoblación: Pacientes con insuficiencia tricuspídea significativa, presumiblemente de alto riesgo quirúrgico, perfil habitual de los candidatos a este tipo de dispositivos.\nIntervención: Reparación transcatéter borde a borde de la válvula tricúspide con el dispositivo Pascal (T-TEER); el título no aclara si hay un grupo comparador.\nResultados: El título menciona beneficios en el estado de salud percibido por el paciente (\"health status benefits\"), pero sin cifras ni intervalos de confianza disponibles.\nLimitaciones: Sin el diseño completo no se puede evaluar la aleatorización, el cegamiento ni la representatividad de la muestra incluida.\nMensaje: Suma evidencia a favor del T-TEER tricuspídeo como alternativa para pacientes no candidatos a cirugía, aunque falta precisar la magnitud real del beneficio clínico.\nNota: análisis sin acceso al abstract."
     },
-    "5eb6887e9b28": {
-      "resumen": "Inkling 2 Small es una nueva publicación de Thinking Machines Lab, la empresa de inteligencia artificial fundada por exintegrantes de OpenAI, dentro de su línea de proyectos Inkling. Al tratarse de una versión \"chica\", apunta a ser más liviana y accesible, algo relevante para quien recién arranca en ciencia de datos y no dispone de grandes recursos de cómputo para experimentar con inteligencia artificial.",
+    "54b5343ce224": {
+      "resumen": "Nota de TCTMD (sitio especializado en cardiología intervencionista) sobre un estudio que compara la angioplastia coronaria (PCI, percutaneous coronary intervention) con la cirugía de revascularización miocardica (CABG, coronary artery bypass grafting) en pacientes con enfermedad del tronco de la coronaria izquierda (left main CAD, coronary artery disease) en una amplia población asiática, y encontró mortalidad similar entre ambas estrategias. Vale la pena mirarlo porque la elección entre PCI y CABG en la enfermedad del tronco sigue siendo un debate central en cardiología intervencionista, y los datos en poblaciones asiáticas son menos frecuentes que los occidentales.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio observacional (probablemente un registro o cohorte, dado que el título no menciona aleatorización) que compara PCI y CABG en enfermedad del tronco de la coronaria izquierda en una amplia población asiática; no se precisan el número de centros ni de pacientes.\nPoblación: Pacientes con enfermedad del tronco de la coronaria izquierda (left main CAD) sometidos a revascularización, en una cohorte amplia de origen asiático; no se detallan criterios de inclusión o exclusión.\nIntervención: Angioplastia coronaria percutánea (PCI) frente a cirugía de revascularización miocardica (CABG) como estrategias de revascularización.\nResultados: El título indica mortalidad \"similar\" entre ambas estrategias, pero no hay cifras de razón de riesgo, intervalos de confianza ni valor de p disponibles sin el texto completo.\nLimitaciones: Al no mencionarse aleatorización, probablemente se trate de un estudio observacional, con el riesgo de sesgo de selección e indicación propio de comparar PCI y CABG; tampoco se puede evaluar el ajuste estadístico ni el tiempo de seguimiento.\nMensaje: Si se confirma la similitud en mortalidad, respalda a la PCI como alternativa razonable a la cirugía en enfermedad del tronco en poblaciones asiáticas, aunque sin aleatorización la evidencia es más débil que la de un ensayo clínico.\nNota: análisis sin acceso al abstract."
+    },
+    "ef2a83f7f3a4": {
+      "resumen": "Un blog técnico (Hightouch) muestra que un modelo \"juez\" más chico, que puede pedirle ayuda a un modelo grande como Opus (uno de los modelos de Anthropic) cuando no está seguro, logra la misma precisión que usar Opus para todo pero a una cuarta parte del costo, aplicado a resolución de identidad (identity resolution, decidir si dos registros de datos corresponden a la misma persona o entidad). Le sirve a un médico que aprende análisis de datos porque es un patrón concreto para abaratar el uso de inteligencia artificial en tareas de clasificación sin perder calidad.",
       "destacado": false
     },
-    "6f78e24cdb5b": {
-      "resumen": "El empresario Mark Cuban acusó a Facebook de permitir, a sabiendas, anuncios con videos falsificados generados por inteligencia artificial (deepfakes) para estafas, y documentos judiciales hablan de un fraude por 16.000 millones de dólares. Para quien se está formando en análisis de datos, es un recordatorio de la cara oscura de la inteligencia artificial generativa y de por qué la detección de contenido sintético es tan importante como su generación.",
+    "26540291d923": {
+      "resumen": "Un investigador de seguridad informática cuenta el dilema práctico de haber identificado más de 15.000 sitios web infectados con malware y no tener una forma eficiente de avisarles a sus dueños. No es estrictamente ciencia de datos, pero ilustra un problema real al escalar la detección automatizada de anomalías hacia una acción concreta, un desafío parecido al de la farmacovigilancia cuando se detectan señales en grandes volúmenes de datos.",
       "destacado": false
     },
-    "bbbd5f8f88ef": {
-      "resumen": "Mizu es una herramienta nueva pensada para acelerar flujos de trabajo de ciencia de datos que se ejecutan en paralelo. Le sirve a quien está aprendiendo análisis de datos porque promete reducir los tiempos de procesamiento de conjuntos de datos grandes, algo frecuente al trabajar con bases clínicas o registros extensos.",
+    "32021938177d": {
+      "resumen": "KDnuggets difunde que la plataforma 365 Data Science abrió acceso gratuito e ilimitado a sus 134 cursos de inteligencia artificial y ciencia de datos hasta el 20 de noviembre. Le sirve a un médico que está arrancando en análisis de datos porque es una ventana concreta para capacitarse sin costo en herramientas y conceptos de la disciplina.",
       "destacado": false
     },
-    "3b58ffb304e7": {
-      "resumen": "Se reportó como incidencia pública en GitHub que Claude Code, la herramienta de programación asistida por inteligencia artificial de Anthropic, enviaba la dirección de email del usuario a sitios web de terceros. Es un buen recordatorio de prestar atención a la privacidad de los datos cada vez que se usa un asistente de inteligencia artificial para programar o analizar información.",
+    "04ff5155f606": {
+      "resumen": "Simon Willison, un referente del blogging técnico sobre inteligencia artificial, cita al periodista especializado Nilay Patel, quien critica que los productos de inteligencia artificial generativa no justifican sus costos ambientales y sociales (el ruido de los centros de datos, los contenidos falsos generados o \"deepfake slop\"). Le sirve a un médico que aprende análisis de datos porque aporta una mirada crítica necesaria frente al entusiasmo generalizado por la inteligencia artificial.",
       "destacado": false
     },
-    "296687f94cd4": {
-      "resumen": "Se descubrió una vulnerabilidad de ejecución remota de código (RCE, por sus siglas en inglés de remote code execution) en Microsoft Paint, catalogada como CVE-2026-83844. No es ciencia de datos en sí, pero recuerda que cualquier programa, hasta el más básico, puede tener agujeros de seguridad explotables, algo para tener presente al manejar datos sensibles en cualquier software.",
+    "28c2d038c17b": {
+      "resumen": "Bloomberg reporta que los posibles compradores de la oferta pública inicial (IPO, initial public offering) de Anthropic —la empresa que desarrolla los modelos Claude— estiman una valuación tan baja como 1,1 billón de dólares (trillion en inglés), por debajo de expectativas previas, en medio de una corrección en las acciones vinculadas a inteligencia artificial. Le sirve a un médico que aprende análisis de datos para entender el contexto económico y la volatilidad del sector que produce las herramientas de inteligencia artificial que usa a diario.",
       "destacado": false
     },
-    "3089c4e12a10": {
-      "resumen": "Simon Willison, uno de los referentes del blogging sobre inteligencia artificial, comparte una cita de Paul Ford, escritor y tecnólogo conocido por sus reflexiones sobre software y cultura digital. Funciona más como disparador de ideas sobre cómo pensamos la tecnología que como un contenido técnico puntual de ciencia de datos.",
+    "20c1278149bb": {
+      "resumen": "Un desarrollador comparte en Hacker News una guía introductoria sobre programación \"bare-metal\" (directamente sobre el hardware, sin sistema operativo) usando UEFI (Unified Extensible Firmware Interface, el firmware que arranca la mayoría de las computadoras modernas). Le sirve a un médico que aprende análisis de datos más como cultura técnica general, ya que entender cómo arranca una computadora ayuda a comprender mejor la infraestructura sobre la que corren los programas de análisis.",
       "destacado": false
     },
-    "885ca921dc08": {
-      "resumen": "Los jugadores argentinos de las franquicias profesionales de rugby estarán disponibles para sus clubes durante el fin de semana europeo."
+    "04b670d9b81d": {
+      "resumen": "Un usuario de Reddit (r/datascience) compara cuatro enfoques para pronosticar el precio de la electricidad: los modelos Kumo y Nori, el modelo de series de tiempo Chronos-2 y LightGBM (LGBM, un algoritmo de gradient boosting muy usado en ciencia de datos). Le sirve a un médico que aprende análisis de datos porque muestra, en un caso concreto, cómo se comparan distintas familias de modelos de pronóstico (forecasting) frente a un mismo problema.",
+      "destacado": false
     },
-    "7809bfffd76a": {
-      "resumen": "Los Pumas buscan revertir una historia adversa cuando enfrenten a Irlanda en Dublín, en el inicio de la cuarta fecha del Nations Championship."
+    "656ef7e8af80": {
+      "resumen": "Towards Data Science propone un marco de 12 indicadores clave (KPI, key performance indicator) para medir la adopción, el desempeño y el retorno de inversión (ROI, return on investment) de proyectos de inteligencia artificial, con un ejemplo concreto de 50 usuarios y 110.000 dólares de costo en el primer año. Le sirve mucho a un médico que aprende análisis de datos porque da un esquema práctico y reproducible para justificar y medir cualquier iniciativa de inteligencia artificial en un servicio de salud.",
+      "destacado": true
     },
-    "875f4374a167": {
-      "resumen": "Italia será anfitriona del actual campeón del mundo de rugby en un partido que se jugará en Turín."
+    "5438e9077eeb": {
+      "resumen": "Towards Data Science compara, paso a paso, el manejo clásico de entornos de Python con venv y pip frente a la herramienta moderna uv (con los comandos uv init, uv add, uv run y uv sync), que usa un archivo de bloqueo (lockfile) para reproducir el mismo entorno en otra máquina. Le sirve a un médico que aprende análisis de datos porque un entorno de trabajo prolijo y reproducible es la base de cualquier proyecto de análisis serio.",
+      "destacado": false
+    },
+    "1a7a8aed66c4": {
+      "resumen": "KDnuggets explica cómo dotar de memoria de largo plazo a un agente de inteligencia artificial —que recuerde preferencias y contexto entre sesiones— usando el kit de desarrollo OpenAI Agents SDK, la herramienta Mem0 y el protocolo MCP (Model Context Protocol, un estándar para conectar modelos de lenguaje con herramientas y datos externos). Le sirve a un médico que aprende análisis de datos porque la memoria persistente es un componente clave para que los asistentes de inteligencia artificial sean útiles en tareas clínicas o de investigación repetidas.",
+      "destacado": false
+    },
+    "4435989d9124": {
+      "resumen": "Mateo Carreras cerró una gran jugada colectiva de Los Pumas con un try ante Irlanda."
+    },
+    "c468a77de4f5": {
+      "resumen": "El video del try de Los Pumas: Albornoz asistió a Mateo Carreras para la conquista ante Irlanda."
+    },
+    "2aa27cfc7284": {
+      "resumen": "Los Pumas cayeron 21 a 5 ante Irlanda en Dublín, por el Nations Championship."
     }
   }
 }

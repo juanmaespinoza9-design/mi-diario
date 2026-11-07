@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T10:04:56Z",
+  "generated_at": "2026-11-07T22:04:52Z",
   "summaries": {
     "d312c757468f": {
       "resumen": "El ensayo SINGLE-CLOSURE, publicado en JACC, compara el uso de uno versus dos dispositivos ProGlide para el cierre percutáneo del sitio de acceso después de un reemplazo valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation) por vía transfemoral. Vale la pena mirarlo porque las complicaciones vasculares en el sitio de punción son una de las causas más frecuentes de morbilidad después de un TAVI, y simplificar la técnica de cierre podría reducirlas.",
@@ -19,11 +19,6 @@
       "resumen": "El ensayo ENCIRCLE, publicado en JACC, presenta los resultados a 2 años del reemplazo valvular mitral transcatéter percutáneo en pacientes con insuficiencia mitral (regurgitación mitral) sintomática. Vale la pena mirarlo porque suma evidencia de mediano plazo sobre una alternativa percutánea para pacientes con insuficiencia mitral que no son buenos candidatos a cirugía ni a reparación con clip.",
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico o registro multicéntrico (ENCIRCLE Trial) con seguimiento a 2 años; el título no precisa aleatorización, cegamiento, número de centros ni tamaño muestral.\nPoblación: Pacientes con insuficiencia mitral (regurgitación mitral) sintomática, candidatos a reemplazo valvular percutáneo; no se detallan criterios de inclusión o exclusión.\nIntervención: Reemplazo valvular mitral transcatéter percutáneo; el título no aclara si hay un grupo comparador (por ejemplo, tratamiento médico óptimo o reparación con clip mitral).\nResultados: No se dispone de cifras de mortalidad, mejoría funcional, reintervención ni eventos adversos a 2 años sin el texto completo.\nLimitaciones: Sin abstract no se puede evaluar la tasa de pérdida de seguimiento, el riesgo de sesgo ni la comparabilidad con otras técnicas percutáneas para insuficiencia mitral.\nMensaje: Si se confirman resultados favorables sostenidos a 2 años, refuerza al reemplazo valvular mitral percutáneo como opción válida en insuficiencia mitral sintomática de alto riesgo quirúrgico.\nNota: análisis sin acceso al abstract."
-    },
-    "23d3efb9ecbb": {
-      "resumen": "Datos a tres años del ensayo SIRONA, presentados en TCTMD, sobre el balón liberador de sirolimus (sirolimus drug-coated balloon, DCB) para el tratamiento de la enfermedad arterial periférica (PAD, peripheral artery disease). Vale la pena mirarlo porque el seguimiento a largo plazo de los balones farmacológicos es clave para saber si el beneficio inicial se mantiene con el tiempo.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico SIRONA; el título indica seguimiento extendido a 3 años, pero sin el abstract no se puede precisar aleatorización, cegamiento, número de centros ni tamaño muestral.\nPoblación: Pacientes con enfermedad arterial periférica (PAD) tratados con balón liberador de fármaco; el título no especifica criterios de inclusión/exclusión ni el territorio arterial exacto.\nIntervención: Balón liberador de sirolimus (DCB) frente al comparador habitual en este tipo de ensayos (angioplastia simple o balón liberador de paclitaxel), aunque el título no aclara el grupo control.\nResultados: El título solo indica que la eficacia \"se extiende a 3 años\", sin cifras de permeabilidad, revascularización de la lesión diana ni intervalos de confianza disponibles.\nLimitaciones: No se puede evaluar la pérdida de seguimiento a 3 años, la representatividad de la cohorte extendida ni la significación estadística sin el texto completo.\nMensaje: Si se confirma, respalda el uso de balones de sirolimus como alternativa duradera en PAD, pero la magnitud real del beneficio a 3 años queda pendiente de los números completos.\nNota: análisis sin acceso al abstract."
     },
     "17404173247b": {
       "resumen": "Publicación de JACC (Journal of the American College of Cardiology) sobre los resultados a 2 años del reemplazo valvular mitral transcatéter por vía transfemoral (TMVR, transcatheter mitral valve replacement), una técnica percutánea para tratar la insuficiencia o la estenosis mitral sin cirugía abierta. Vale la pena mirarlo porque el seguimiento a mediano plazo es clave para definir la durabilidad de estos dispositivos en una válvula técnicamente más compleja que la aórtica.",
@@ -51,52 +46,53 @@
       "resumen": "Un usuario de Reddit (r/datascience) compara cuatro enfoques para pronosticar el precio de la electricidad: los modelos Kumo y Nori, el modelo de series de tiempo Chronos-2 y LightGBM (LGBM, un algoritmo de gradient boosting muy usado en ciencia de datos). Le sirve a un médico que aprende análisis de datos porque muestra, en un caso concreto, cómo se comparan distintas familias de modelos de pronóstico (forecasting) frente a un mismo problema.",
       "destacado": false
     },
-    "656ef7e8af80": {
-      "resumen": "Towards Data Science propone un marco de 12 indicadores clave (KPI, key performance indicator) para medir la adopción, el desempeño y el retorno de inversión (ROI, return on investment) de proyectos de inteligencia artificial, con un ejemplo concreto de 50 usuarios y 110.000 dólares de costo en el primer año. Le sirve mucho a un médico que aprende análisis de datos porque da un esquema práctico y reproducible para justificar y medir cualquier iniciativa de inteligencia artificial en un servicio de salud.",
-      "destacado": true
-    },
-    "5438e9077eeb": {
-      "resumen": "Towards Data Science compara, paso a paso, el manejo clásico de entornos de Python con venv y pip frente a la herramienta moderna uv (con los comandos uv init, uv add, uv run y uv sync), que usa un archivo de bloqueo (lockfile) para reproducir el mismo entorno en otra máquina. Le sirve a un médico que aprende análisis de datos porque un entorno de trabajo prolijo y reproducible es la base de cualquier proyecto de análisis serio.",
-      "destacado": false
-    },
-    "1a7a8aed66c4": {
-      "resumen": "KDnuggets explica cómo dotar de memoria de largo plazo a un agente de inteligencia artificial —que recuerde preferencias y contexto entre sesiones— usando el kit de desarrollo OpenAI Agents SDK, la herramienta Mem0 y el protocolo MCP (Model Context Protocol, un estándar para conectar modelos de lenguaje con herramientas y datos externos). Le sirve a un médico que aprende análisis de datos porque la memoria persistente es un componente clave para que los asistentes de inteligencia artificial sean útiles en tareas clínicas o de investigación repetidas.",
-      "destacado": false
-    },
     "07ed1ce0b9f4": {
       "resumen": "El ensayo PROTEMBO IDE (investigational device exemption, estudio bajo exención de dispositivo en investigación), difundido por TCTMD, evaluó un dispositivo de protección embólica cerebral durante el reemplazo valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation) y no logró demostrar eficacia para reducir el daño cerebral asociado al procedimiento. Vale la pena mirarlo porque suma a una discusión abierta: varios dispositivos de protección cerebral mostraron resultados mixtos y esto cuestiona su uso de rutina en el TAVI.",
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico bajo exención de dispositivo en investigación (IDE, investigational device exemption) llamado PROTEMBO; el título no especifica aleatorización, cegamiento, número de centros ni tamaño muestral.\nPoblación: Pacientes sometidos a reemplazo valvular aórtico transcatéter (TAVI) con riesgo de embolia cerebral durante el procedimiento; no se detallan criterios de inclusión o exclusión.\nIntervención: Dispositivo de protección embólica cerebral durante el TAVI, presumiblemente frente a TAVI sin protección o frente a otro dispositivo de referencia.\nResultados: El título indica que el dispositivo \"no fue efectivo\", pero no hay cifras de reducción de volumen de infarto cerebral silente, accidente cerebrovascular clínico ni deterioro cognitivo disponibles sin el texto completo.\nLimitaciones: Sin abstract no se puede evaluar el punto final primario exacto, el tamaño de la muestra ni la potencia estadística del ensayo.\nMensaje: Un resultado neutro o negativo en protección embólica durante el TAVI cuestiona la utilidad rutinaria de este tipo de dispositivos, en línea con resultados mixtos de otros filtros cerebrales evaluados previamente.\nNota: análisis sin acceso al abstract."
     },
-    "499c6ef9ad80": {
-      "resumen": "TCTMD reporta un análisis epidemiológico que muestra que la enfermedad degenerativa de la válvula mitral aumenta de forma sostenida en todo el mundo, con marcadas diferencias según sexo y nivel socioeconómico. Vale la pena mirarlo porque entender quién queda más expuesto a esta enfermedad ayuda a priorizar el diagnóstico y el acceso a tratamiento percutáneo o quirúrgico en los grupos más postergados.",
+    "0ca82605bd1f": {
+      "resumen": "TCTMD difunde los resultados completos del ensayo Lp(a)HORIZON, que evaluó pelacarsen (un oligonucleótido antisentido que reduce la lipoproteína(a), Lp(a), una partícula asociada a mayor riesgo cardiovascular) en pacientes en prevención secundaria. Vale la pena mirarlo porque, a pesar de bajar fuertemente los niveles de Lp(a), el estudio no mostró beneficio clínico, lo que pone en duda que reducir la Lp(a) por sí sola alcance para bajar los eventos cardiovasculares.",
       "destacado": false,
-      "analisis": "Diseño: Estudio epidemiológico (probablemente un análisis de carga de enfermedad o de registros poblacionales) sobre la tendencia de la enfermedad degenerativa de la válvula mitral en el tiempo; el título no precisa la fuente de datos, el período analizado ni el método estadístico.\nPoblación: Población general mundial con enfermedad degenerativa de la válvula mitral, estratificada por sexo y nivel socioeconómico; no se detallan los criterios diagnósticos utilizados.\nIntervención: No aplica (estudio observacional descriptivo, sin intervención terapéutica).\nResultados: El título indica un aumento \"sostenido\" en la prevalencia mundial con \"marcadas divisiones\" por sexo y nivel socioeconómico, pero no hay cifras de incidencia, prevalencia ni razones de riesgo disponibles sin el texto completo.\nLimitaciones: Los estudios de carga de enfermedad dependen de la calidad y comparabilidad de los registros de cada país, y pueden subestimar la enfermedad en regiones con menor acceso a ecocardiografía.\nMensaje: Si se confirma la tendencia, señala una necesidad creciente de detección y tratamiento de la enfermedad mitral degenerativa, con atención particular a las brechas de género y de acceso socioeconómico que podrían traducirse en diagnóstico tardío.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Ensayo clínico Lp(a)HORIZON; se trata del estudio de resultados cardiovasculares de fase 3 de pelacarsen, presumiblemente aleatorizado, doble ciego, controlado con placebo y multicéntrico, aunque el título por sí solo no detalla el número exacto de centros ni de pacientes.\nPoblación: Pacientes en prevención secundaria (con enfermedad cardiovascular aterosclerótica establecida) y niveles elevados de lipoproteína(a) (Lp(a)).\nIntervención: Pelacarsen, oligonucleótido antisentido que reduce la síntesis hepática de Lp(a), frente a placebo.\nResultados: El título indica que los resultados completos \"afirman la falta de beneficio\" de pelacarsen en prevención secundaria, pero no hay cifras de reducción de eventos cardiovasculares mayores, de Lp(a) ni intervalos de confianza disponibles sin el texto completo.\nLimitaciones: Sin el abstract no se puede evaluar la magnitud de la reducción de Lp(a) lograda, el seguimiento promedio ni si algún subgrupo mostró señal de beneficio.\nMensaje: Un resultado neutro en un ensayo de esta escala cuestiona la hipótesis de que reducir farmacológicamente la Lp(a) se traduzca en menos eventos cardiovasculares, al menos con este fármaco y en este diseño, y probablemente frene por ahora el entusiasmo por esta diana terapéutica en prevención secundaria.\nNota: análisis sin acceso al abstract."
     },
-    "1039f331aefc": {
-      "resumen": "Hacker News destaca el reporte de avance 7.3 del proyecto Asahi Linux, que lleva el sistema operativo Linux a las computadoras Mac con procesadores Apple Silicon. Le sirve a un médico que aprende análisis de datos porque Linux es la base de la mayoría de las herramientas de ciencia de datos y de la nube, y conocer su ecosistema de hardware ayuda a decidir mejor dónde correr esos proyectos.",
+    "90db55fdcd39": {
+      "resumen": "TCTMD publica una nota de opinión que sostiene que la evaluación de fragilidad antes de procedimientos valvulares (como el reemplazo valvular aórtico transcatéter, TAVI) debería incorporar los objetivos y las preferencias del paciente, y no basarse solo en escalas funcionales. Vale la pena mirarlo porque la fragilidad es uno de los factores que más pesa a la hora de decidir si tratar o no a un paciente añoso con enfermedad valvular, y cómo medirla bien sigue siendo un debate abierto.",
       "destacado": false
     },
-    "f38a17de3acf": {
-      "resumen": "Un ingeniero relata su visita a la fábrica de Unitree, la empresa china de robots humanoides y cuadrúpedos, y por qué esa visita lo volvió más optimista sobre la industria robótica occidental. Le sirve a un médico que aprende análisis de datos porque la robótica y la inteligencia artificial física son un campo donde los modelos de datos que se estudian en teoría empiezan a aplicarse en el mundo físico.",
+    "1eeaf5457cb1": {
+      "resumen": "Un posteo en Hacker News comenta el cierre del grupo AI Frontiers de Microsoft Research, dedicado a investigación de frontera en inteligencia artificial dentro de la compañía. Le sirve a un médico que aprende análisis de datos porque ilustra cómo las grandes empresas tecnológicas están reorganizando sus equipos de investigación en inteligencia artificial, algo que también marca hacia dónde se mueve el campo.",
       "destacado": false
     },
-    "4e82298f18d8": {
-      "resumen": "La causa judicial contra RealPage, la empresa que vendía a propietarios de Estados Unidos un algoritmo para fijar precios de alquiler, terminó con casi 360 millones de dólares de compensación para los inquilinos afectados. Le sirve a un médico que aprende análisis de datos porque es un caso real de cómo un algoritmo mal regulado puede derivar en colusión de precios, un riesgo a tener en cuenta en cualquier modelo que toque decisiones económicas sensibles.",
+    "7acf473f8d74": {
+      "resumen": "Towards Data Science presenta Bellwether, un sistema que combina tickets de soporte, reseñas de clientes, llamadas de ventas y encuestas de satisfacción (NPS, net promoter score) con datos de cuentas comerciales para priorizar el feedback de producto según los ingresos en riesgo, probado sobre casi 6.700 señales sintéticas. Le sirve a un médico que aprende análisis de datos porque muestra cómo combinar fuentes heterogéneas y traducir pedidos cualitativos en un ranking cuantitativo accionable.",
       "destacado": false
     },
-    "68be897c8b54": {
-      "resumen": "Mitchell Hashimoto anuncia la versión 1.0 de libghostty, la biblioteca detrás de Ghostty, un emulador de terminal moderno pensado para ser rápido y multiplataforma. Le sirve a un médico que aprende análisis de datos porque buena parte del trabajo diario en ciencia de datos pasa por la línea de comandos, y conocer las herramientas de terminal disponibles mejora la productividad.",
+    "330167ccd9a9": {
+      "resumen": "En Reddit (r/datascience), un data scientist senior con nueve años de experiencia (YOE, years of experience) en el puesto de Staff abre una ronda de preguntas y respuestas (AMA, ask me anything) sobre su carrera. Le sirve a un médico que aprende análisis de datos porque ofrece una mirada de primera mano sobre cómo progresa una carrera en ciencia de datos más allá de los primeros años.",
       "destacado": false
     },
-    "9b3f230f3022": {
-      "resumen": "España (Los Leones) recibe a Uruguay (Los Teros) este mediodía en Madrid, dentro de la ventana de test matches de rugby de noviembre."
+    "197a5d9be9ee": {
+      "resumen": "Towards Data Science compara cuatro modelos de base para series de tiempo (Timestral, t0, Tabby y Morpheus-2.0) sobre el benchmark GIFT-Eval, y muestra que la diferencia real entre ellos no está en escalar o fragmentar los datos sino en cómo comparten información entre distintas series. Le sirve a un médico que aprende análisis de datos porque los modelos de series de tiempo son la base de cualquier pronóstico clínico o epidemiológico, como prever la demanda de camas o la evolución de un indicador en el tiempo.",
+      "destacado": true
     },
-    "8cd9a505d376": {
-      "resumen": "La selección chilena de rugby, Los Cóndores, visita a Portugal en Lisboa, dentro de la ventana de test matches de noviembre."
+    "75033d6b18a0": {
+      "resumen": "En Hacker News se presenta Coldframe, un honeypot (trampa de seguridad) que simula ser el controlador de una heladera de supermercado para detectar intentos de ataque a dispositivos de internet de las cosas (IoT, internet of things) industriales. Le sirve a un médico que aprende análisis de datos porque la ciberseguridad de los dispositivos conectados también es relevante en salud, donde cada vez hay más equipos médicos conectados a la red.",
+      "destacado": false
     },
-    "848881a26f58": {
-      "resumen": "Se conoció el fixture completo del Nations Championship 2026, el nuevo torneo internacional de rugby que incluye a Los Pumas."
+    "152675bb7018": {
+      "resumen": "MaxxBench cuestiona la validez de los puntajes que obtienen los modelos de inteligencia artificial en benchmarks de programación como DeepSWE, señalando posibles problemas de contaminación o sobreajuste a esas pruebas. Le sirve a un médico que aprende análisis de datos porque entender las limitaciones de los benchmarks ayuda a no sobreestimar la capacidad real de un modelo de inteligencia artificial antes de usarlo.",
+      "destacado": false
+    },
+    "b2196d54740f": {
+      "resumen": "Un entusiasta describe qué servicios corre en su homelab (laboratorio casero de servidores) montado sobre un OpenStick de apenas 10 dólares. Le sirve a un médico que aprende análisis de datos porque muestra que se puede empezar a experimentar con infraestructura propia, bases de datos y servicios sin necesidad de grandes inversiones.",
+      "destacado": false
+    },
+    "6a34d06f5082": {
+      "resumen": "El ex Puma Andrés Bordoy firmó con un club argentino para jugar la temporada 2027 tras dejar la selección."
+    },
+    "fb03f5cb1eb3": {
+      "resumen": "Mientras Los Pumas disputan el Nations Championship, repasamos qué jugadores argentinos están sumando minutos en el Top 14 francés."
     }
   }
 }

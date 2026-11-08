@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T10:04:43Z",
+  "generated_at": "2026-11-08T22:04:06Z",
   "summaries": {
     "d312c757468f": {
       "resumen": "El ensayo SINGLE-CLOSURE, publicado en JACC, compara el uso de uno versus dos dispositivos ProGlide para el cierre percutáneo del sitio de acceso después de un reemplazo valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation) por vía transfemoral. Vale la pena mirarlo porque las complicaciones vasculares en el sitio de punción son una de las causas más frecuentes de morbilidad después de un TAVI, y simplificar la técnica de cierre podría reducirlas.",
@@ -28,10 +28,6 @@
       "resumen": "KDnuggets difunde que la plataforma 365 Data Science abrió acceso gratuito e ilimitado a sus 134 cursos de inteligencia artificial y ciencia de datos hasta el 20 de noviembre. Le sirve a un médico que está arrancando en análisis de datos porque es una ventana concreta para capacitarse sin costo en herramientas y conceptos de la disciplina.",
       "destacado": false
     },
-    "04ff5155f606": {
-      "resumen": "Simon Willison, un referente del blogging técnico sobre inteligencia artificial, cita al periodista especializado Nilay Patel, quien critica que los productos de inteligencia artificial generativa no justifican sus costos ambientales y sociales (el ruido de los centros de datos, los contenidos falsos generados o \"deepfake slop\"). Le sirve a un médico que aprende análisis de datos porque aporta una mirada crítica necesaria frente al entusiasmo generalizado por la inteligencia artificial.",
-      "destacado": false
-    },
     "07ed1ce0b9f4": {
       "resumen": "El ensayo PROTEMBO IDE (investigational device exemption, estudio bajo exención de dispositivo en investigación), difundido por TCTMD, evaluó un dispositivo de protección embólica cerebral durante el reemplazo valvular aórtico transcatéter (TAVI, transcatheter aortic valve implantation) y no logró demostrar eficacia para reducir el daño cerebral asociado al procedimiento. Vale la pena mirarlo porque suma a una discusión abierta: varios dispositivos de protección cerebral mostraron resultados mixtos y esto cuestiona su uso de rutina en el TAVI.",
       "destacado": false,
@@ -44,10 +40,6 @@
     },
     "90db55fdcd39": {
       "resumen": "TCTMD publica una nota de opinión que sostiene que la evaluación de fragilidad antes de procedimientos valvulares (como el reemplazo valvular aórtico transcatéter, TAVI) debería incorporar los objetivos y las preferencias del paciente, y no basarse solo en escalas funcionales. Vale la pena mirarlo porque la fragilidad es uno de los factores que más pesa a la hora de decidir si tratar o no a un paciente añoso con enfermedad valvular, y cómo medirla bien sigue siendo un debate abierto.",
-      "destacado": false
-    },
-    "7acf473f8d74": {
-      "resumen": "Towards Data Science presenta Bellwether, un sistema que combina tickets de soporte, reseñas de clientes, llamadas de ventas y encuestas de satisfacción (NPS, net promoter score) con datos de cuentas comerciales para priorizar el feedback de producto según los ingresos en riesgo, probado sobre casi 6.700 señales sintéticas. Le sirve a un médico que aprende análisis de datos porque muestra cómo combinar fuentes heterogéneas y traducir pedidos cualitativos en un ranking cuantitativo accionable.",
       "destacado": false
     },
     "330167ccd9a9": {
@@ -72,22 +64,6 @@
       "resumen": "Simon Willison, creador de Datasette (herramienta de código abierto para explorar y publicar bases de datos), documenta la corrección de un detalle técnico: dejar de enviar el encabezado HTTP link rel=next en páginas HTML porque Firefox lo usaba para precargar la página siguiente sin necesidad. Le sirve a un médico que aprende análisis de datos porque Datasette es una herramienta simple para publicar y consultar bases de datos propias, y este tipo de ajuste fino de rendimiento es parte habitual de mantener una herramienta de datos en producción.",
       "destacado": false
     },
-    "5186d80b7eef": {
-      "resumen": "Una investigación de la empresa de seguridad Apiiro muestra que la opción \"no preguntar de nuevo\" de Claude Code (un asistente de inteligencia artificial para programar) llevó a que contraseñas y claves quedaran expuestas en 1.122 archivos públicos de GitHub. Le sirve a un médico que aprende análisis de datos porque expone un riesgo concreto de seguridad al usar asistentes de inteligencia artificial para programar: siempre hay que revisar qué credenciales quedan guardadas o subidas por error.",
-      "destacado": false
-    },
-    "a91cf3926bcc": {
-      "resumen": "GitHub lanzó en vista previa pública una nueva página de resumen (overview) para las solicitudes de incorporación de cambios (pull requests), el mecanismo con el que se proponen y revisan cambios de código. Le sirve a un médico que aprende análisis de datos porque quien empieza a versionar código o análisis en Git y GitHub tarde o temprano usa pull requests para revisar su propio trabajo o el de otros.",
-      "destacado": false
-    },
-    "b62a0605589f": {
-      "resumen": "Un artículo técnico explora cómo construir, mediante operaciones matemáticas, cualquier número entero usando exactamente cuatro veces el dígito 2. Le sirve a un médico que aprende análisis de datos como un ejercicio recreativo de pensamiento algorítmico, útil para entrenar la lógica de programación aunque no tenga aplicación clínica directa.",
-      "destacado": false
-    },
-    "e66f4eeac8f3": {
-      "resumen": "Un usuario de Hacker News relata por qué dejó de usar el asistente de inteligencia artificial Claude y pasó a usar Pi, otro asistente conversacional. Le sirve a un médico que aprende análisis de datos porque muestra, desde la experiencia de un usuario real, cómo se comparan distintos asistentes de inteligencia artificial a la hora de elegir una herramienta de trabajo diario.",
-      "destacado": false
-    },
     "b2985e99365c": {
       "resumen": "Un repaso con todas las estadísticas del Cardenal Newman tras consagrarse bicampeón del torneo de la URBA (Unión de Rugby de Buenos Aires)."
     },
@@ -96,6 +72,33 @@
     },
     "d09009e8d671": {
       "resumen": "Newman repitió el título del año pasado en la URBA (Unión de Rugby de Buenos Aires) y la nota repasa la lista completa de campeones del certamen."
+    },
+    "97cbfea9bae2": {
+      "resumen": "Towards Data Science explica paso a paso cómo armar sistemas multiagente (varios agentes de inteligencia artificial que se coordinan entre sí) usando el Agents SDK (kit de desarrollo de software) de OpenAI. Le sirve a un médico que aprende análisis de datos porque los sistemas multiagente son la tendencia actual para automatizar tareas complejas de análisis, y entender su arquitectura básica ayuda a evaluar dónde pueden aportar en un flujo de trabajo clínico o de investigación.",
+      "destacado": false
+    },
+    "e0140547e137": {
+      "resumen": "Towards Data Science modifica una regla del clásico problema de Monty Hall (un dilema de probabilidad sobre si conviene cambiar de puerta tras revelarse una pista) y muestra que cinco modelos de lenguaje de gran escala (LLM, large language model) siguen recomendando cambiar aunque la lógica correcta ya no lo justifique. Le sirve a un médico que aprende análisis de datos porque expone un límite concreto del razonamiento probabilístico de la inteligencia artificial, algo clave para no delegarle ciegamente cálculos de riesgo o probabilidad.",
+      "destacado": false
+    },
+    "f95665d6d8f6": {
+      "resumen": "Entrada del blog personal krthr.co titulada \"Person of Interest\", publicada en la sección de ciencia de datos e inteligencia artificial de este diario; el título por sí solo no permite precisar de qué trata el contenido técnico sin abrir el enlace. Vale la pena tenerlo en el radar como lectura personal para explorar cuando haya tiempo, sin poder anticipar aún qué aporta concretamente al aprendizaje de análisis de datos.",
+      "destacado": false
+    },
+    "7cbf7714d720": {
+      "resumen": "Ensayo breve titulado \"Petered\" publicado en A Working Library, el blog de Mandy Brown dedicado a la reflexión sobre el trabajo, la tecnología y el conocimiento. Le sirve a un médico que aprende análisis de datos como una lectura de pensamiento crítico sobre cómo se sostienen (o se apagan) los proyectos y las herramientas de trabajo en el tiempo, más allá del entusiasmo inicial.",
+      "destacado": false
+    },
+    "5e9d3fd0e59c": {
+      "resumen": "Proyecto de código abierto en GitHub (\"llama-modchip\") que permite correr DeepSeek, un modelo de lenguaje de 284.000 millones de parámetros, con solo 64 GB de memoria RAM y sin necesidad de una placa de video (GPU, unidad de procesamiento gráfico). Le sirve a un médico que aprende análisis de datos porque muestra que los modelos de inteligencia artificial más grandes se están volviendo accesibles en hardware doméstico, sin depender de infraestructura costosa en la nube.",
+      "destacado": false
+    },
+    "76aa428f83cc": {
+      "resumen": "El blog de Lorekit plantea que la memoria de los agentes de inteligencia artificial (cómo guardan y reutilizan información de interacciones previas) necesita un estándar común, al estilo de OpenTelemetry (el estándar abierto que unificó cómo se mide y monitorea el funcionamiento de sistemas de software). Le sirve a un médico que aprende análisis de datos porque anticipa un problema de interoperabilidad que tarde o temprano va a afectar a cualquier herramienta de inteligencia artificial que se use para analizar datos clínicos de forma continua.",
+      "destacado": false
+    },
+    "1cb99f925443": {
+      "resumen": "La policía detuvo a un hombre que se hacía pasar por bombero voluntario a pocos metros del escenario de Palermo donde el papa León XIV tiene previsto hablar."
     }
   }
 }

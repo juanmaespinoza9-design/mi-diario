@@ -1,20 +1,6 @@
 {
-  "generated_at": "2026-11-10T10:04:49Z",
+  "generated_at": "2026-11-10T22:04:48Z",
   "summaries": {
-    "6d7f70769fcd": {
-      "resumen": "El ensayo STREAM, difundido por TCTMD, evaluó si los pacientes añosos que toman estatinas para prevención primaria (es decir, sin enfermedad cardiovascular previa) pueden discontinuar el tratamiento de forma segura. Vale la pena mirarlo porque la decisión de desprescribir estatinas en adultos mayores es un dilema frecuente en la práctica, y el título sugiere que suspenderlas es posible pero no está exento de riesgo.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico (STREAM) que evalúa la discontinuación de estatinas en prevención primaria en pacientes añosos; el título no detalla aleatorización, cegamiento, número de centros ni tamaño muestral.\nPoblación: Adultos mayores que reciben estatinas para prevención primaria (sin enfermedad cardiovascular establecida); no se especifican criterios de inclusión o exclusión.\nIntervención: Discontinuación de estatinas frente a continuación del tratamiento.\nResultados: El título indica que suspender la estatina \"no está libre de riesgo\", pero no hay cifras de eventos cardiovasculares, mortalidad ni cambios en el perfil lipídico disponibles sin el texto completo.\nLimitaciones: Sin abstract no se puede precisar el punto final primario, el tiempo de seguimiento ni la magnitud del riesgo asociado a la discontinuación.\nMensaje: Sugiere que, aunque desprescribir estatinas en añosos de prevención primaria es viable, la decisión debe individualizarse y no asumirse como libre de consecuencias.\nNota: análisis sin acceso al abstract."
-    },
-    "543f36d5a4bf": {
-      "resumen": "El ensayo Yoga-CaRe, difundido por TCTMD, evaluó un programa de yoga como terapia complementaria en pacientes con insuficiencia cardíaca con fracción de eyección reducida (HFrEF, heart failure with reduced ejection fraction), mostrando mejoras en la calidad de vida (QoL, quality of life) y en la capacidad funcional. Vale la pena mirarlo porque las intervenciones de rehabilitación no farmacológicas ganan terreno como complemento del tratamiento médico estándar en insuficiencia cardíaca.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico (Yoga-CaRe) que evalúa un programa de yoga en pacientes con insuficiencia cardíaca; el título no detalla aleatorización, cegamiento, número de centros ni tamaño muestral.\nPoblación: Pacientes con insuficiencia cardíaca con fracción de eyección reducida (HFrEF); no se especifican criterios de inclusión o exclusión.\nIntervención: Programa de yoga como terapia complementaria frente a atención estándar o un grupo control.\nResultados: El título indica mejoras en calidad de vida y capacidad funcional, pero no hay cifras de magnitud del cambio, significancia estadística ni intervalos de confianza disponibles sin el texto completo.\nLimitaciones: Sin abstract no se puede evaluar el riesgo de sesgo por falta de cegamiento (habitual en intervenciones de ejercicio), la adherencia al programa ni la duración del seguimiento.\nMensaje: Si se confirma el beneficio funcional y en calidad de vida, respalda al yoga como complemento razonable de la rehabilitación cardíaca convencional en HFrEF, sin reemplazar el tratamiento farmacológico de base.\nNota: análisis sin acceso al abstract."
-    },
-    "8929f7b1bafb": {
-      "resumen": "Compilación editorial de European Heart Journal (Revista Europea de Cardiología) que repasa los estudios más relevantes publicados recientemente en cardiología de cuidados agudos. Vale la pena mirarla como mapa rápido de hacia dónde apunta la investigación en el área, aunque no es un estudio individual sino un resumen de varios trabajos con sus figuras.",
-      "destacado": false
-    },
     "17404173247b": {
       "resumen": "Publicación de JACC (Journal of the American College of Cardiology) sobre los resultados a 2 años del reemplazo valvular mitral transcatéter por vía transfemoral (TMVR, transcatheter mitral valve replacement), una técnica percutánea para tratar la insuficiencia o la estenosis mitral sin cirugía abierta. Vale la pena mirarlo porque el seguimiento a mediano plazo es clave para definir la durabilidad de estos dispositivos en una válvula técnicamente más compleja que la aórtica.",
       "destacado": false,
@@ -39,64 +25,76 @@
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico (TYDAL-TIMI 78, del grupo académico TIMI) sobre un fármaco dirigido contra ANGPTL4; el título no precisa fase, aleatorización, cegamiento, número de centros ni tamaño de la muestra.\nPoblación: Pacientes con hipertrigliceridemia grave (triglicéridos muy elevados); no se detallan criterios de inclusión o exclusión.\nIntervención: Fármaco que inhibe o bloquea ANGPTL4 frente a placebo u otro comparador no especificado en el título.\nResultados: No hay cifras de reducción de triglicéridos, eventos de pancreatitis ni eventos cardiovasculares disponibles sin el texto completo.\nLimitaciones: Sin abstract no se puede evaluar el perfil de seguridad del fármaco, la magnitud del efecto lipídico ni si el ensayo incluyó puntos finales clínicos duros.\nMensaje: Si avanza favorablemente, podría sumar una nueva clase terapéutica para la hipertrigliceridemia grave refractaria a los tratamientos actuales.\nNota: análisis sin acceso al abstract."
     },
-    "b24558709fec": {
-      "resumen": "TCTMD difunde un estudio que compara la estimulación del haz de His-Purkinje izquierdo (LBB, left bundle branch, estimulación del sistema de conducción) frente a la estimulación convencional del ventrículo derecho (RV, right ventricular pacing) en pacientes que requieren marcapasos por bloqueo atrioventricular. Vale la pena mirarlo porque la estimulación fisiológica del sistema de conducción viene desplazando a la estimulación ventricular derecha tradicional por su potencial de preservar mejor la función cardíaca.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio comparativo (no se especifica si aleatorizado o un registro observacional) entre estimulación del haz de His-Purkinje izquierdo y estimulación ventricular derecha convencional; el título no detalla cegamiento, número de centros ni tamaño muestral.\nPoblación: Pacientes con bloqueo atrioventricular que requieren marcapasos permanente; no se especifican criterios de inclusión o exclusión.\nIntervención: Estimulación del haz de His-Purkinje izquierdo (LBB pacing) frente a estimulación convencional del ventrículo derecho (RV pacing).\nResultados: El título indica \"mejores resultados\" con LBB, pero no hay cifras de fracción de eyección, hospitalizaciones por insuficiencia cardíaca ni mortalidad disponibles sin el texto completo.\nLimitaciones: Sin abstract no se puede evaluar el tiempo de seguimiento, el riesgo de sesgo si no fue aleatorizado, ni la experiencia de los operadores con la técnica de LBB, que es más compleja de implantar.\nMensaje: Si se confirma el beneficio, refuerza la tendencia a preferir la estimulación fisiológica del sistema de conducción sobre la estimulación ventricular derecha convencional en pacientes con indicación de marcapasos permanente.\nNota: análisis sin acceso al abstract."
-    },
-    "53f150cedf82": {
-      "resumen": "Towards Data Science muestra, con un control de variancia cero, cinco trazas de tráfico real y una comparación entre motor y planificador, que el procesamiento por lotes continuo (continuous batching) supera hasta en 2,91 veces al procesamiento estático y dinámico en vLLM (un motor de inferencia para modelos de lenguaje). Le sirve a un médico que aprende análisis de datos porque entender cómo se optimiza el servicio de modelos de inteligencia artificial ayuda a interpretar por qué algunas herramientas responden más rápido o más barato que otras.",
-      "destacado": false
-    },
-    "694c3b5b88c9": {
-      "resumen": "El artículo repasa estudios sobre relatos cortos, metáforas y un experimento con 486 participantes que apuntan en una dirección, mientras que otro experimento con 800 personas apunta en la contraria, y el autor sopesa ambas posturas sobre si conviene pedirle a la inteligencia artificial que refine ideas propias en lugar de que las invente. Le sirve a un médico que aprende análisis de datos porque plantea una pregunta práctica sobre cómo usar mejor estas herramientas en el trabajo creativo o de redacción científica.",
-      "destacado": false
-    },
-    "0e5cc737e192": {
-      "resumen": "KDnuggets probó si la inteligencia artificial puede detectar fugas de datos (data leakage, cuando información del conjunto de prueba se filtra al de entrenamiento) antes de que un modelo alcance una precisión sospechosamente alta del 99%, usando 4 fugas clásicas plantadas en datos reales y evaluadas en frío sobre 4 modelos. Le sirve a un médico que aprende análisis de datos porque la fuga de datos es uno de los errores más comunes y traicioneros al entrenar modelos, y detectarla a tiempo evita conclusiones falsas.",
-      "destacado": true
-    },
     "535e04f94d8c": {
       "resumen": "El ensayo ATTAIN-OSA, difundido por TCTMD, evaluó un agonista oral del receptor de GLP-1 (péptido similar al glucagón tipo 1, una hormona que regula el apetito y la glucemia) en pacientes con apnea obstructiva del sueño (OSA, obstructive sleep apnea), y encontró una reducción en la cantidad de interrupciones respiratorias durante el sueño. Vale la pena mirarlo porque la obesidad es uno de los principales motores de la apnea del sueño, y si un fármaco que ya se usa para bajar de peso también mejora la respiración nocturna, podría sumar un beneficio cardiovascular indirecto al reducir la hipoxia intermitente y la sobrecarga simpática asociadas a la OSA.",
       "destacado": true,
       "analisis": "Diseño: Ensayo clínico (ATTAIN-OSA) que evalúa un agonista oral del receptor de GLP-1 en apnea obstructiva del sueño (OSA); el título no precisa aleatorización, cegamiento, número de centros ni tamaño de la muestra.\nPoblación: Pacientes con apnea obstructiva del sueño, probablemente con sobrepeso u obesidad asociada (perfil típico de los estudios con agonistas de GLP-1); no se detallan criterios de inclusión o exclusión.\nIntervención: Agonista oral del receptor de GLP-1 frente a placebo (comparador habitual en estos ensayos, no confirmado por el título).\nResultados: El título indica menos interrupciones respiratorias (probablemente medidas por el índice de apnea-hipopnea), pero no hay cifras de magnitud del efecto, significancia estadística ni intervalos de confianza disponibles sin el texto completo.\nLimitaciones: Sin abstract no se puede evaluar el tiempo de seguimiento, si la mejoría respiratoria se debe al descenso de peso o a un efecto directo del fármaco, ni los eventos adversos gastrointestinales habituales de esta clase de drogas.\nMensaje: Si se confirma el beneficio, los agonistas de GLP-1 orales podrían sumarse al arsenal terapéutico de la apnea del sueño asociada a obesidad, con el atractivo adicional de un posible beneficio cardiometabólico conjunto.\nNota: análisis sin acceso al abstract."
     },
-    "c93c64172e07": {
-      "resumen": "Simon Willison repasa la versión 0.31 de llm-anthropic, el plugin que conecta su herramienta de línea de comandos \"llm\" con los modelos de Anthropic (la empresa detrás de Claude). Le aporta a un médico que aprende análisis de datos un ejemplo concreto de cómo integrar modelos de lenguaje a flujos de trabajo de terminal y scripts, sin depender de una interfaz web.",
+    "afeee34c46d9": {
+      "resumen": "Un estudio difundido por TCTMD comparó dosis altas y bajas de heparina (anticoagulante usado durante la angioplastia) en pacientes sometidos a intervención coronaria percutánea (ICP) electiva, y encontró resultados clínicos similares entre ambos esquemas. Vale la pena mirarlo porque ajustar la dosis de heparina sin perder eficacia podría reducir el riesgo de sangrado, una de las complicaciones más frecuentes de la ICP.",
+      "destacado": false,
+      "analisis": "Diseño: Según el título, estudio que compara dosis altas y bajas de heparina durante la intervención coronaria percutánea (ICP) electiva; no se especifica si fue aleatorizado, el cegamiento, el número de centros ni el tamaño de la muestra.\nPoblación: Pacientes sometidos a ICP electiva (no de urgencia); no se detallan criterios de inclusión o exclusión.\nIntervención: Dosis alta de heparina frente a dosis baja de heparina como anticoagulación periprocedimiento.\nResultados: El título indica \"resultados similares\" entre ambos esquemas, pero no hay cifras de eventos isquémicos, sangrado mayor ni trombosis del stent disponibles sin el texto completo.\nLimitaciones: Sin abstract no se puede evaluar el punto final primario definido, el riesgo de sesgo, ni si el estudio tuvo poder estadístico suficiente para demostrar no inferioridad.\nMensaje: Si se confirma la equivalencia, podría respaldar el uso de dosis más bajas de heparina en ICP electiva para minimizar el riesgo de sangrado sin sacrificar eficacia antitrombótica.\nNota: análisis sin acceso al abstract."
+    },
+    "9f876cb7ba64": {
+      "resumen": "TCTMD presenta un episodio de su serie \"Cardialogue\" dedicado a los fundamentos de la inteligencia artificial (IA) aplicada a la cardiología. Vale la pena mirarlo como introducción accesible a los conceptos básicos de IA para quienes recién se acercan al tema desde la práctica clínica.",
       "destacado": false
     },
-    "d363b026f0d9": {
-      "resumen": "Simon Willison cuenta cómo usó a Claude para ayudarlo a identificar el origen de un pitido misterioso en su casa, combinando preguntas, grabaciones y razonamiento paso a paso. Le sirve a un médico que aprende análisis de datos como ejemplo cotidiano de cómo un modelo de lenguaje puede guiar un proceso de diagnóstico por descarte, una lógica trasladable al análisis de datos y la depuración de problemas técnicos.",
+    "a8a4b42efa25": {
+      "resumen": "TCTMD informa que asundexian, un inhibidor del factor XIa (una proteína de la cascada de coagulación), se convirtió en el primer fármaco de esta clase en obtener la aprobación de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos). Vale la pena mirarlo porque los inhibidores del factor XIa buscan anticoagular con menos riesgo de sangrado que los anticoagulantes actuales, y esta aprobación marca un hito para toda la clase farmacológica.",
       "destacado": false
     },
-    "aa5ad2ea3c78": {
-      "resumen": "Hilo de la comunidad r/datascience donde se debate cómo poner precio a contenido o productos de datos (informes, dashboards, modelos) cuando no hay un costo de producción claro de referencia. Le sirve a un médico que aprende análisis de datos porque plantea una pregunta práctica para quien empieza a ofrecer servicios de análisis de forma independiente o freelance.",
+    "6295922aad8d": {
+      "resumen": "European Heart Journal (Revista Europea de Cardiología) publica una recopilación editorial de los ensayos clínicos que modificaron la práctica en prevención cardiovascular, insuficiencia cardíaca, cardiología intervencionista y rehabilitación. Vale la pena mirarla como repaso panorámico de los hitos recientes del área, aunque no es un estudio original sino un resumen de varios trabajos.",
       "destacado": false
     },
-    "ffa9f549808b": {
-      "resumen": "Un usuario de Hacker News relata que el modelo Claude Fable 5.2 (de Anthropic) generó de una sola vez un videojuego que su sobrino había imaginado, sin necesidad de ajustes posteriores. Le sirve a un médico que aprende análisis de datos como termómetro informal de qué tan lejos llegó la generación de código con inteligencia artificial, una capacidad que también acelera la creación de scripts y herramientas de análisis propias.",
+    "c1fbfe2e3fcb": {
+      "resumen": "Simon Willison anuncia la versión 0.36 del plugin llm-gemini, que conecta su herramienta de línea de comandos \"llm\" con los modelos Gemini de Google, incluyendo el nuevo Gemini 4 Carbon. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo integrar distintos modelos de inteligencia artificial (IA) a flujos de trabajo de terminal y scripts propios, sin depender de una sola empresa.",
       "destacado": false
     },
-    "d38ba6f8d531": {
-      "resumen": "Google presentó sus nuevos chips TPU (unidad de procesamiento tensorial, el hardware especializado que usa para entrenar y correr modelos de inteligencia artificial) llamados 8tx y 8i Max, pensados para ampliar la capacidad de su infraestructura de nube. Le sirve a un médico que aprende análisis de datos para entender que, detrás de cada modelo de inteligencia artificial que usa, hay una carrera de hardware que determina su costo y velocidad de respuesta.",
+    "4a8e294d0bb8": {
+      "resumen": "Hacker News destaca el lanzamiento de la Starlink Mini 2, una antena satelital portátil de SpaceX con batería integrada y mayor portabilidad. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo la conectividad satelital de bajo costo puede ampliar el acceso a internet y, con él, a herramientas de análisis y telemedicina en zonas rurales o remotas.",
       "destacado": false
     },
-    "255b56db4a4a": {
-      "resumen": "El modelo Claude Fable 5.2 (de Anthropic) alcanzó un puntaje de 65 en el índice de Artificial Analysis, el más alto registrado hasta ahora entre los modelos evaluados por ese sitio independiente. Le sirve a un médico que aprende análisis de datos como referencia rápida y objetiva para comparar qué modelo de inteligencia artificial conviene usar en cada tarea, sin depender solo del marketing de cada empresa.",
+    "4425ceb1a10f": {
+      "resumen": "Un reclamo de patente de Synaptics obligó a frenar el desarrollo de los controladores (drivers) de código abierto para DisplayLink, la tecnología que permite conectar varios monitores a través de un solo cable USB. Le sirve a un médico que aprende análisis de datos como recordatorio de que las disputas de propiedad intelectual también pueden afectar el hardware cotidiano que usa para trabajar con múltiples pantallas.",
       "destacado": false
     },
-    "1130d877dd4c": {
-      "resumen": "El servicio postal de Estados Unidos (USPS, United States Postal Service) empezó a publicar de forma oficial los polígonos geográficos que delimitan cada código postal (ZIP Code). Le sirve a un médico que aprende análisis de datos porque contar con límites geográficos oficiales y gratuitos es muy valioso para cruzar datos de salud con variables geográficas, por ejemplo para mapear la distribución de pacientes o eventos por zona.",
+    "5175b6a2b765": {
+      "resumen": "Un desarrollador comparte en Hacker News una guía para que los agentes de inteligencia artificial que escriben código dejen de usar patrones de JavaScript desactualizados y adopten herramientas web modernas. Le sirve a un médico que aprende análisis de datos porque muestra cómo mejorar la calidad del código que generan los asistentes de IA al construir herramientas propias.",
       "destacado": false
     },
-    "46047d111e0d": {
-      "resumen": "Los Pumas afrontan una semana clave: necesitan dar vuelta la página tras la floja actuación ante Irlanda y sumar una victoria frente a Italia."
+    "c454f2330759": {
+      "resumen": "KDnuggets explica cómo la inteligencia artificial (IA) puede hacer más accesible la inteligencia de negocios (BI, business intelligence) empresarial, automatizando reportes y acelerando el hallazgo de patrones en los datos. Le sirve a un médico que aprende análisis de datos porque estas mismas técnicas de automatización de reportes son aplicables a tableros de gestión clínica o de farmacovigilancia.",
+      "destacado": false
     },
-    "2615ad3cb6af": {
-      "resumen": "Un análisis de CORDOBAXV Streaming repasa el presente de Los Pumas, el Nations Championship y el equipo alternativo Argentina XV."
+    "d438bd2ee1d8": {
+      "resumen": "Val Town, una plataforma para escribir y alojar pequeños scripts en la nube, anunció el cierre de su operación. Le sirve a un médico que aprende análisis de datos como recordatorio de que conviene evaluar la estabilidad a largo plazo de las plataformas en la nube antes de depender de ellas para proyectos de análisis propios.",
+      "destacado": false
     },
-    "89f63f2174bf": {
-      "resumen": "Los Pumas hicieron cambios en el plantel para el partido del sábado ante Italia, con la baja de Juan Cruz Mallía."
+    "d8d76a1db8d9": {
+      "resumen": "El grupo Data Colada encontró evidencia de datos alterados en un quinto artículo de la investigadora Francesca Gino, un estudio de liderazgo de 2011 con más de 900 citas. Le sirve a un médico que aprende análisis de datos como caso de estudio sobre la importancia de la integridad de los datos y la replicabilidad en la investigación, algo central también en farmacovigilancia.",
+      "destacado": true
+    },
+    "40db0c88292e": {
+      "resumen": "Towards Data Science compara dos enfoques de calibración para clasificar intenciones de texto en el conjunto BANKING77: un método que no necesita entrenamiento (Jev) y una reconstrucción con scikit-learn que necesita etiquetas, y muestra que esta última iguala o supera a la primera. Le sirve a un médico que aprende análisis de datos para entender las ventajas y límites de los métodos de clasificación sin entrenamiento (zero-shot) frente a los tradicionales con datos etiquetados.",
+      "destacado": false
+    },
+    "e4d27c770391": {
+      "resumen": "Towards Data Science reporta que un \"hook\" de inicio de sesión (un script que se ejecuta automáticamente al arrancar) elevó del 15% al 62% la tasa de activación correcta de habilidades (skills) en Claude Code, la herramienta de línea de comandos de Anthropic. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo pequeños ajustes de configuración pueden mejorar mucho el rendimiento práctico de un asistente de IA.",
+      "destacado": false
+    },
+    "3fbc7c33baee": {
+      "resumen": "KDnuggets enseña a construir un flujo de trabajo (pipeline) de dos etapas con scikit-learn que combina traducción automática y clasificación sin entrenamiento previo (zero-shot) mediante modelos de lenguaje grande (LLM, large language model) usando la librería Scikit-LLM. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de cómo combinar modelos de lenguaje con las herramientas clásicas de aprendizaje automático que ya conoce.",
+      "destacado": false
+    },
+    "14c63a090672": {
+      "resumen": "El ex vicepresidente de World Rugby, Agustín Pichot, busca volver a ocupar un lugar de peso en la dirigencia del rugby mundial."
+    },
+    "9078387ecd30": {
+      "resumen": "Los máximos dirigentes de la Unión Argentina de Rugby y de Cub3 se refirieron al acuerdo que firmaron para potenciar el desarrollo comercial de Pampas."
+    },
+    "5d48554ab7f8": {
+      "resumen": "Los Pumas realizaron modificaciones en el plantel de cara al partido del sábado ante Italia."
     }
   }
 }

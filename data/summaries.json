@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T22:04:39Z",
+  "generated_at": "2026-11-10T10:04:49Z",
   "summaries": {
     "6d7f70769fcd": {
       "resumen": "El ensayo STREAM, difundido por TCTMD, evaluó si los pacientes añosos que toman estatinas para prevención primaria (es decir, sin enfermedad cardiovascular previa) pueden discontinuar el tratamiento de forma segura. Vale la pena mirarlo porque la decisión de desprescribir estatinas en adultos mayores es un dilema frecuente en la práctica, y el título sugiere que suspenderlas es posible pero no está exento de riesgo.",
@@ -10,11 +10,6 @@
       "resumen": "El ensayo Yoga-CaRe, difundido por TCTMD, evaluó un programa de yoga como terapia complementaria en pacientes con insuficiencia cardíaca con fracción de eyección reducida (HFrEF, heart failure with reduced ejection fraction), mostrando mejoras en la calidad de vida (QoL, quality of life) y en la capacidad funcional. Vale la pena mirarlo porque las intervenciones de rehabilitación no farmacológicas ganan terreno como complemento del tratamiento médico estándar en insuficiencia cardíaca.",
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico (Yoga-CaRe) que evalúa un programa de yoga en pacientes con insuficiencia cardíaca; el título no detalla aleatorización, cegamiento, número de centros ni tamaño muestral.\nPoblación: Pacientes con insuficiencia cardíaca con fracción de eyección reducida (HFrEF); no se especifican criterios de inclusión o exclusión.\nIntervención: Programa de yoga como terapia complementaria frente a atención estándar o un grupo control.\nResultados: El título indica mejoras en calidad de vida y capacidad funcional, pero no hay cifras de magnitud del cambio, significancia estadística ni intervalos de confianza disponibles sin el texto completo.\nLimitaciones: Sin abstract no se puede evaluar el riesgo de sesgo por falta de cegamiento (habitual en intervenciones de ejercicio), la adherencia al programa ni la duración del seguimiento.\nMensaje: Si se confirma el beneficio funcional y en calidad de vida, respalda al yoga como complemento razonable de la rehabilitación cardíaca convencional en HFrEF, sin reemplazar el tratamiento farmacológico de base.\nNota: análisis sin acceso al abstract."
-    },
-    "165af7fea9a3": {
-      "resumen": "El ensayo OCEANIC-STROKE, difundido por TCTMD, evaluó asundexian (un inhibidor oral del factor XIa de la coagulación) para la prevención de eventos vasculares, mostrando beneficios consistentes en distintos estratos de riesgo vascular. Vale la pena mirarlo porque los inhibidores del factor XIa son una de las apuestas más fuertes para lograr anticoagulación eficaz con menor riesgo de sangrado que los anticoagulantes actuales.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico de fase 3 (OCEANIC-STROKE) con análisis por subgrupos según estratos de riesgo vascular; el título no detalla aleatorización, cegamiento, número de centros ni tamaño muestral exacto.\nPoblación: Pacientes con riesgo vascular (presumiblemente post-accidente cerebrovascular isquémico o accidente isquémico transitorio, según el desarrollo conocido del programa de asundexian); no se especifican criterios de inclusión o exclusión.\nIntervención: Asundexian (inhibidor oral del factor XIa) frente a placebo o a un comparador activo, probablemente sumado a antiagregación estándar.\nResultados: El título indica que el beneficio se mantiene en todos los estratos de riesgo vascular, pero no hay cifras de reducción de eventos, razones de riesgo ni intervalos de confianza disponibles sin el texto completo.\nLimitaciones: Sin abstract no se puede evaluar el riesgo de sangrado asociado, la tasa de eventos en cada estrato ni la potencia estadística del análisis por subgrupos.\nMensaje: Si el beneficio es consistente en todos los niveles de riesgo vascular, refuerza a asundexian como candidato prometedor para ampliar las opciones de prevención secundaria con un perfil de sangrado potencialmente más favorable que los anticoagulantes clásicos.\nNota: análisis sin acceso al abstract."
     },
     "8929f7b1bafb": {
       "resumen": "Compilación editorial de European Heart Journal (Revista Europea de Cardiología) que repasa los estudios más relevantes publicados recientemente en cardiología de cuidados agudos. Vale la pena mirarla como mapa rápido de hacia dónde apunta la investigación en el área, aunque no es un estudio individual sino un resumen de varios trabajos con sus figuras.",
@@ -39,13 +34,6 @@
       "resumen": "Artículo de JACC sobre la procedencia (provenance), la trazabilidad (lineage) y la auditabilidad de los datos en la investigación con bases de datos clínicas y registros, un tema central para la validez de los estudios observacionales en cardiología. Vale la pena mirarlo porque, para quien se está formando en análisis de datos y farmacovigilancia, entender cómo se garantiza la calidad y la trazabilidad de los datos es tan importante como el resultado estadístico final.",
       "destacado": false
     },
-    "94e3c2b335f6": {
-      "resumen": "Hilo semanal fijo de r/datascience para quienes están entrando o haciendo una transición de carrera hacia la ciencia de datos, donde se concentran preguntas sobre primeros pasos, currículums y entrevistas. Le sirve a un médico que aprende análisis de datos como punto de encuentro para consultar dudas puntuales de arranque sin saturar el resto del foro con preguntas básicas.",
-      "destacado": false
-    },
-    "1643a27c9476": {
-      "resumen": "Minuto a minuto de la segunda jornada de la visita del papa León XIV a la Argentina, con la expectativa puesta en su paso por el Pequeño Cottolengo de Don Orione y la misa en Palermo."
-    },
     "eae94f312d8c": {
       "resumen": "TCTMD presenta TYDAL-TIMI 78, un ensayo que evalúa un fármaco dirigido contra ANGPTL4 (proteína tipo angiopoyetina 4, que regula la lipoproteinlipasa y el metabolismo de los triglicéridos) para la hipertrigliceridemia grave. Vale la pena mirarlo porque los pacientes con triglicéridos muy elevados tienen pocas opciones terapéuticas eficaces y esta vía podría sumar una alternativa novedosa.",
       "destacado": false,
@@ -55,22 +43,6 @@
       "resumen": "TCTMD difunde un estudio que compara la estimulación del haz de His-Purkinje izquierdo (LBB, left bundle branch, estimulación del sistema de conducción) frente a la estimulación convencional del ventrículo derecho (RV, right ventricular pacing) en pacientes que requieren marcapasos por bloqueo atrioventricular. Vale la pena mirarlo porque la estimulación fisiológica del sistema de conducción viene desplazando a la estimulación ventricular derecha tradicional por su potencial de preservar mejor la función cardíaca.",
       "destacado": false,
       "analisis": "Diseño: Estudio comparativo (no se especifica si aleatorizado o un registro observacional) entre estimulación del haz de His-Purkinje izquierdo y estimulación ventricular derecha convencional; el título no detalla cegamiento, número de centros ni tamaño muestral.\nPoblación: Pacientes con bloqueo atrioventricular que requieren marcapasos permanente; no se especifican criterios de inclusión o exclusión.\nIntervención: Estimulación del haz de His-Purkinje izquierdo (LBB pacing) frente a estimulación convencional del ventrículo derecho (RV pacing).\nResultados: El título indica \"mejores resultados\" con LBB, pero no hay cifras de fracción de eyección, hospitalizaciones por insuficiencia cardíaca ni mortalidad disponibles sin el texto completo.\nLimitaciones: Sin abstract no se puede evaluar el tiempo de seguimiento, el riesgo de sesgo si no fue aleatorizado, ni la experiencia de los operadores con la técnica de LBB, que es más compleja de implantar.\nMensaje: Si se confirma el beneficio, refuerza la tendencia a preferir la estimulación fisiológica del sistema de conducción sobre la estimulación ventricular derecha convencional en pacientes con indicación de marcapasos permanente.\nNota: análisis sin acceso al abstract."
-    },
-    "796a7f7ee338": {
-      "resumen": "Anthropic presentó Claude Fable 5.2 y Mythos 5.2, nuevas versiones de sus modelos de lenguaje de inteligencia artificial, con la noticia destacada en Hacker News. Le sirve a un médico que aprende análisis de datos porque estar al tanto de las actualizaciones de los modelos que probablemente use a diario ayuda a entender qué capacidades nuevas (o cambios de comportamiento) pueden afectar sus flujos de trabajo.",
-      "destacado": false
-    },
-    "f42cfd3e65b9": {
-      "resumen": "Un informe de salud nacional en Canadá advierte que muchos hombres sufren en silencio problemas de salud mental y física sin buscar ayuda. Le sirve a un médico que aprende análisis de datos porque este tipo de informes poblacionales son un buen ejemplo de cómo se comunican hallazgos de salud pública basados en datos agregados a la sociedad general.",
-      "destacado": false
-    },
-    "feb2ba211559": {
-      "resumen": "Meta presentó Muse Ember, su modelo de inteligencia artificial más pequeño y eficiente hasta ahora, pensado para correr con menos recursos de cómputo. Le sirve a un médico que aprende análisis de datos porque los modelos livianos y eficientes son los que más chances tienen de usarse en entornos con recursos limitados, como muchos sistemas de salud.",
-      "destacado": false
-    },
-    "4de8d5accebb": {
-      "resumen": "Nota sobre el aumento sostenido de precio de la Raspberry Pi 5 de 16GB (una computadora de placa única, SBC, single-board computer), que ya llegó a los 385 dólares. Le sirve a un médico que aprende análisis de datos porque estas placas chicas y baratas suelen usarse para montar servidores propios de bajo costo donde practicar análisis de datos o correr modelos livianos, y su encarecimiento afecta la accesibilidad de ese tipo de proyectos.",
-      "destacado": false
     },
     "53f150cedf82": {
       "resumen": "Towards Data Science muestra, con un control de variancia cero, cinco trazas de tráfico real y una comparación entre motor y planificador, que el procesamiento por lotes continuo (continuous batching) supera hasta en 2,91 veces al procesamiento estático y dinámico en vLLM (un motor de inferencia para modelos de lenguaje). Le sirve a un médico que aprende análisis de datos porque entender cómo se optimiza el servicio de modelos de inteligencia artificial ayuda a interpretar por qué algunas herramientas responden más rápido o más barato que otras.",
@@ -84,22 +56,47 @@
       "resumen": "KDnuggets probó si la inteligencia artificial puede detectar fugas de datos (data leakage, cuando información del conjunto de prueba se filtra al de entrenamiento) antes de que un modelo alcance una precisión sospechosamente alta del 99%, usando 4 fugas clásicas plantadas en datos reales y evaluadas en frío sobre 4 modelos. Le sirve a un médico que aprende análisis de datos porque la fuga de datos es uno de los errores más comunes y traicioneros al entrenar modelos, y detectarla a tiempo evita conclusiones falsas.",
       "destacado": true
     },
-    "7f168aea8601": {
-      "resumen": "Towards Data Science aplica un estimador estadístico de la pesca de los años 1890 (captura-recaptura) para estimar la exhaustividad (recall) de agentes de inteligencia artificial, probado sobre 294 contratos del conjunto CUAD y con resultados dentro de 2 puntos del valor real para la mayoría de los agentes con solo una auditoría manual del 10%. Le sirve a un médico que aprende análisis de datos porque ofrece una forma práctica y barata de medir qué tan completo es el trabajo de un agente de inteligencia artificial sin revisar todo a mano.",
+    "535e04f94d8c": {
+      "resumen": "El ensayo ATTAIN-OSA, difundido por TCTMD, evaluó un agonista oral del receptor de GLP-1 (péptido similar al glucagón tipo 1, una hormona que regula el apetito y la glucemia) en pacientes con apnea obstructiva del sueño (OSA, obstructive sleep apnea), y encontró una reducción en la cantidad de interrupciones respiratorias durante el sueño. Vale la pena mirarlo porque la obesidad es uno de los principales motores de la apnea del sueño, y si un fármaco que ya se usa para bajar de peso también mejora la respiración nocturna, podría sumar un beneficio cardiovascular indirecto al reducir la hipoxia intermitente y la sobrecarga simpática asociadas a la OSA.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico (ATTAIN-OSA) que evalúa un agonista oral del receptor de GLP-1 en apnea obstructiva del sueño (OSA); el título no precisa aleatorización, cegamiento, número de centros ni tamaño de la muestra.\nPoblación: Pacientes con apnea obstructiva del sueño, probablemente con sobrepeso u obesidad asociada (perfil típico de los estudios con agonistas de GLP-1); no se detallan criterios de inclusión o exclusión.\nIntervención: Agonista oral del receptor de GLP-1 frente a placebo (comparador habitual en estos ensayos, no confirmado por el título).\nResultados: El título indica menos interrupciones respiratorias (probablemente medidas por el índice de apnea-hipopnea), pero no hay cifras de magnitud del efecto, significancia estadística ni intervalos de confianza disponibles sin el texto completo.\nLimitaciones: Sin abstract no se puede evaluar el tiempo de seguimiento, si la mejoría respiratoria se debe al descenso de peso o a un efecto directo del fármaco, ni los eventos adversos gastrointestinales habituales de esta clase de drogas.\nMensaje: Si se confirma el beneficio, los agonistas de GLP-1 orales podrían sumarse al arsenal terapéutico de la apnea del sueño asociada a obesidad, con el atractivo adicional de un posible beneficio cardiometabólico conjunto.\nNota: análisis sin acceso al abstract."
+    },
+    "c93c64172e07": {
+      "resumen": "Simon Willison repasa la versión 0.31 de llm-anthropic, el plugin que conecta su herramienta de línea de comandos \"llm\" con los modelos de Anthropic (la empresa detrás de Claude). Le aporta a un médico que aprende análisis de datos un ejemplo concreto de cómo integrar modelos de lenguaje a flujos de trabajo de terminal y scripts, sin depender de una interfaz web.",
       "destacado": false
     },
-    "37a1db9cb289": {
-      "resumen": "KDnuggets comparte 5 scripts de Python útiles para principiantes que automatizan tareas repetitivas como organizar archivos, procesar imágenes y simplificar flujos de trabajo diarios. Le sirve a un médico que aprende análisis de datos como punto de partida concreto para empezar a automatizar tareas administrativas o de procesamiento de datos con poco conocimiento previo de programación.",
+    "d363b026f0d9": {
+      "resumen": "Simon Willison cuenta cómo usó a Claude para ayudarlo a identificar el origen de un pitido misterioso en su casa, combinando preguntas, grabaciones y razonamiento paso a paso. Le sirve a un médico que aprende análisis de datos como ejemplo cotidiano de cómo un modelo de lenguaje puede guiar un proceso de diagnóstico por descarte, una lógica trasladable al análisis de datos y la depuración de problemas técnicos.",
       "destacado": false
     },
-    "2c181bc83996": {
-      "resumen": "Los Pumas confirmaron modificaciones en el plantel de cara al partido del próximo sábado ante Italia."
+    "aa5ad2ea3c78": {
+      "resumen": "Hilo de la comunidad r/datascience donde se debate cómo poner precio a contenido o productos de datos (informes, dashboards, modelos) cuando no hay un costo de producción claro de referencia. Le sirve a un médico que aprende análisis de datos porque plantea una pregunta práctica para quien empieza a ofrecer servicios de análisis de forma independiente o freelance.",
+      "destacado": false
     },
-    "6357cf0214de": {
-      "resumen": "Facundo Bosch regresa a la convocatoria de Los Pumas después de cinco años de ausencia."
+    "ffa9f549808b": {
+      "resumen": "Un usuario de Hacker News relata que el modelo Claude Fable 5.2 (de Anthropic) generó de una sola vez un videojuego que su sobrino había imaginado, sin necesidad de ajustes posteriores. Le sirve a un médico que aprende análisis de datos como termómetro informal de qué tan lejos llegó la generación de código con inteligencia artificial, una capacidad que también acelera la creación de scripts y herramientas de análisis propias.",
+      "destacado": false
     },
-    "fe34053a9d05": {
-      "resumen": "Los Pumas incorporaron cuatro nuevos jugadores al plantel para el partido ante Italia."
+    "d38ba6f8d531": {
+      "resumen": "Google presentó sus nuevos chips TPU (unidad de procesamiento tensorial, el hardware especializado que usa para entrenar y correr modelos de inteligencia artificial) llamados 8tx y 8i Max, pensados para ampliar la capacidad de su infraestructura de nube. Le sirve a un médico que aprende análisis de datos para entender que, detrás de cada modelo de inteligencia artificial que usa, hay una carrera de hardware que determina su costo y velocidad de respuesta.",
+      "destacado": false
+    },
+    "255b56db4a4a": {
+      "resumen": "El modelo Claude Fable 5.2 (de Anthropic) alcanzó un puntaje de 65 en el índice de Artificial Analysis, el más alto registrado hasta ahora entre los modelos evaluados por ese sitio independiente. Le sirve a un médico que aprende análisis de datos como referencia rápida y objetiva para comparar qué modelo de inteligencia artificial conviene usar en cada tarea, sin depender solo del marketing de cada empresa.",
+      "destacado": false
+    },
+    "1130d877dd4c": {
+      "resumen": "El servicio postal de Estados Unidos (USPS, United States Postal Service) empezó a publicar de forma oficial los polígonos geográficos que delimitan cada código postal (ZIP Code). Le sirve a un médico que aprende análisis de datos porque contar con límites geográficos oficiales y gratuitos es muy valioso para cruzar datos de salud con variables geográficas, por ejemplo para mapear la distribución de pacientes o eventos por zona.",
+      "destacado": false
+    },
+    "46047d111e0d": {
+      "resumen": "Los Pumas afrontan una semana clave: necesitan dar vuelta la página tras la floja actuación ante Irlanda y sumar una victoria frente a Italia."
+    },
+    "2615ad3cb6af": {
+      "resumen": "Un análisis de CORDOBAXV Streaming repasa el presente de Los Pumas, el Nations Championship y el equipo alternativo Argentina XV."
+    },
+    "89f63f2174bf": {
+      "resumen": "Los Pumas hicieron cambios en el plantel para el partido del sábado ante Italia, con la baja de Juan Cruz Mallía."
     }
   }
 }

@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-11-11T09:36:09.666220+00:00",
+ "generated_at": "2026-11-11T17:56:30.274218+00:00",
  "sections": [
   {
    "id": "cardiologia",
    "title": "Cardiología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "11. Nicolas van Mieghem on Ambition and Closing Gaps",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR2lFVGpDRzFFQjdyMWh5SkxLNm0yaXF3MHFSWnN5M3N1SGZ4SS11d1dDalAxVUhwTWtJOUxUWHkydWFVN3RyaGtEd1dWTkFXWk5KY3dsRkdQaWxpUUdCLUtMekxZR0p4bWVQR1NzZHNnOTFhWGtrV3FiRUhVZzM2RkNn?oc=5",
+     "source": "TCTMD",
+     "published": "2026-11-11T14:47:38+00:00",
+     "id": "6f1c419943ca"
+    },
     {
      "title": "During Elective PCI, High- and Low-Dose Heparin Provide Similar Outcomes",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcG1qRnVmcldMb1lBUmdJOEhka1ZfU3hfd25qWnBQVnlpM3F4Zk5XZFNjV29oYVdDQzlISzQ5ZTVKa1ZCT0lhTUoyNVZtWU9Vei1BelZyR2J6OW9ZbGh5dVJTbFlDdFNTQUY3NHJxWTNCd0NDUTdmTlVXYWR3eU1VZHNabVlIVm1XSENobUtSUFMxUExHSjYwblVfaXBxQQ?oc=5",
@@ -36,18 +43,35 @@
      "id": "6295922aad8d"
     },
     {
+     "title": "Right Heart Dysfunction in Valvular Heart Disease: Epidemiology, Prognosis, and Management Considerations",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/43012729/",
+     "source": "JACC",
+     "published": "2026-11-10T00:00:00+00:00",
+     "copete": "Brener MI et al. · Journal of the American College of Cardiology",
+     "id": "4487799d619b"
+    },
+    {
+     "title": "When Leaflet Thickening Becomes More Than an Imaging Finding",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/43012728/",
+     "source": "JACC",
+     "published": "2026-11-10T00:00:00+00:00",
+     "copete": "Gupta A et al. · Journal of the American College of Cardiology",
+     "id": "2162926c8581"
+    },
+    {
+     "title": "Race, Risk, and What the Model Is For",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/43012727/",
+     "source": "JACC",
+     "published": "2026-11-10T00:00:00+00:00",
+     "copete": "Krumholz HM et al. · Journal of the American College of Cardiology",
+     "id": "3d51f214f0e3"
+    },
+    {
      "title": "ATTAIN-OSA: Oral GLP-1 Linked to Fewer Breathing Interruptions",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaWx3emR5dFFwOE1NSFUtNTVLbHE1VmVqZHNZOC1vcjVGWGlmaGdlSS1VWVBtUDBaY1U5dnkzMS1DUFNFTTB0R1dIdGtRZFZNWXJXNW9SMHdzYUVOMXVpTEhGUXQzNlpVVWlkeTNTVjlVc29VajlIN0hFc2E1OVFYT24zQjlnbU1pUnllRTRn?oc=5",
      "source": "TCTMD",
      "published": "2026-11-09T21:45:29+00:00",
      "id": "535e04f94d8c"
-    },
-    {
-     "title": "ANGPTL4-Targeting Drug for High Triglycerides Moves Ahead: TYDAL-TIMI 78",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLUJHLXhxTTFaRm90R2J4RUJPSl9mUDdEOUFCZHZKNFZtYjZOb2M3YTNPdkNKVUlqUThhNUk4SVR3MmZTQ0Z3OXZ3SEtaWXVwMkJlZjhpd3RqQVdwSm1sOHVfNm1DeE40a0ljY1piQldteUpJbTA0RUI1dktVbVhMcG5MMHNna3U3c2ZwcVRjQmxELVhYc1hNT2t3?oc=5",
-     "source": "TCTMD",
-     "published": "2026-11-09T20:02:45+00:00",
-     "id": "eae94f312d8c"
     },
     {
      "title": "Coming Full Circle: Transfemoral Transcatheter Mitral Valve Replacement at 2 Years",
@@ -56,30 +80,6 @@
      "published": "2026-11-03T00:00:00+00:00",
      "copete": "Vora AN et al. · Journal of the American College of Cardiology",
      "id": "17404173247b"
-    },
-    {
-     "title": "Single vs Double ProGlide Devices for Access Site Closure after Transfemoral Aortic Valve Replacement: The SINGLE-CLOSURE Trial",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42980634/",
-     "source": "JACC",
-     "published": "2026-11-03T00:00:00+00:00",
-     "copete": "Liu X et al. · Journal of the American College of Cardiology",
-     "id": "d312c757468f"
-    },
-    {
-     "title": "Percutaneous Transcatheter Mitral Valve Replacement for Symptomatic Mitral Regurgitation: 2-Year Outcomes From the ENCIRCLE Trial",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42980633/",
-     "source": "JACC",
-     "published": "2026-11-03T00:00:00+00:00",
-     "copete": "Webb J et al. · Journal of the American College of Cardiology",
-     "id": "7b4287a4419d"
-    },
-    {
-     "title": "Can We Trust the Data?: Provenance, Lineage, and Auditability in Database Research",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/42980225/",
-     "source": "JACC",
-     "published": "2026-11-03T00:00:00+00:00",
-     "copete": "Krumholz HM et al. · Journal of the American College of Cardiology",
-     "id": "743d3a1fb063"
     }
    ]
   },
@@ -89,89 +89,89 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Agustín Pichot buscará regresar a la mesa chica de World Rugby",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUHBtUHV5MU1wTjg1dGV5MmdfLVNsNXJkNzJLa3R2c2pqcDhQS1dBOTNsYTUzNndFY1QtUVBIMnZCVDYwa0pjUWpIc3RScjJZZUJ5MHkyM1B5VDJDeEJOTnNITTJHSFpOMG9tUHc3eEdyWGZTejg4SG1oR1ZVMnNaQXptb3NuRF9fUlAtTXp3MnVsY3I4VllsS1p3a3ZqOWNfaV80SFJuZWlXM3N3OXN2VXNR?oc=5",
-     "source": "Rugby Champagne",
-     "published": "2026-11-11T05:07:33+00:00",
-     "id": "14c63a090672"
-    },
-    {
-     "title": "Saúl Durán: lo subieron a la Reserva de River y lo llamó la selección mayor de Costa Rica",
-     "link": "https://www.ole.com.ar/futbol-internacional/saulduran-costarica-river-reserva-diegobarrado-rosariocentral_0_mRGF2P3IMp.html",
-     "source": "Olé — River",
-     "published": "2026-11-11T01:34:32+00:00",
-     "copete": "El arquero, de 19 años, fue promocionado para estar en el banco del Millo contra Rosario Central al mismo tiempo que el cuerpo técnico de los Ticos lo convocó para entrenarse con el plantel antes del partido con Argentina.",
-     "id": "4f3b909d7c03"
-    },
-    {
-     "title": "Video: la explicación del relato fallido del supuesto gol anulado a Boca y los festejos del \"bicampeonato\" de Rosario Central",
-     "link": "https://www.ole.com.ar/futbol-primera/video-explicacion-relato-fallido_0_K3seQ9aJdS.html",
+     "title": "El nuevo reclamo económico contra Independiente",
+     "link": "https://www.ole.com.ar/independiente/independiente-defensorsporting-matiasabaldo-fifa-kevinlomonaco_0_gkpT9F5R4i.html",
      "source": "Olé — Primera",
-     "published": "2026-11-11T00:48:43+00:00",
-     "copete": "El relator de una radio que aseguró que habían invalidado el tanto de Enner Valencia dio su versión de los hechos y compartió parte de la transmisión.",
-     "id": "67ddbf2ba0a9"
+     "published": "2026-11-11T17:29:35+00:00",
+     "copete": "A pocos días de la inhibición por el pase de Kevin Lomónaco, Defensor Sporting demandó al Rojo por una deuda por la compra de la ficha de Matías Abaldo. Los detalles.",
+     "id": "1534026099be"
     },
     {
-     "title": "Para Daniel Vila la AFA estuvo \"muy bien\" en cambiar al árbitro",
-     "link": "https://www.ole.com.ar/independiente-rivadavia/danielvila-independienterivadavia-afa-supercopaargentina-yaelfalconperez-estudiantesdelaplata-nicolasramirez_0_4OPta3Yqee.html",
-     "source": "Olé — Primera",
-     "published": "2026-11-11T00:24:17+00:00",
-     "copete": "El presidente de Independiente Rivadavia respaldó la designación de Yael Falcón Pérez en lugar de Nicolás Ramírez para el partido ante Estudiantes de La Plata, por la Supercopa Argentina.",
-     "id": "508b34e8def0"
-    },
-    {
-     "title": "¿Puede River ser campeón? Las razones para ilusionarse y las señales de alerta",
-     "link": "https://www.ole.com.ar/river-plate/river-clausura-campeon-ponzio-motivos-figuras-ponzio-playoffs-analisis_0_0cyo7BCBK9.html",
+     "title": "Quiénes son las tres joyas de River que van a jugar el Mundial Sub 17",
+     "link": "https://www.ole.com.ar/river-plate/riverplate-mundialsub17-diegoplacente-seleccionargentina-galoescobar-tobiasgoytia-bautistagimenez_0_A1UgNZTtpR.html",
      "source": "Olé — River",
-     "published": "2026-11-11T00:12:16+00:00",
-     "copete": "A favor: tiene un plantel como ningún otro equipo y, con menos, en el Apertura estuvo a cinco minutos de dar la vuelta. En contra: no logró dar la talla en partidos clave y el arbitraje está también a considerar.",
-     "id": "4d447b5bcdbd"
+     "published": "2026-11-11T16:55:53+00:00",
+     "copete": "Galo Escobar, Tobías Goytía y Bautista Giménez brillan en las Inferiores del Millonario y fueron citados por Diego Placente.",
+     "id": "6f9ae48426f4"
     },
     {
-     "title": "Independiente negocia la venta de Santi López en plena cuenta regresiva electoral",
-     "link": "https://www.ole.com.ar/independiente/santiagolopez-independiente-tigre-rosariocentral-elecciones_0_eVHLibfyFS.html",
-     "source": "Olé — Primera",
-     "published": "2026-11-10T22:54:55+00:00",
-     "copete": "A poco más de un mes para las elecciones en el Rojo, la dirigencia de Tigre abrió charlas para tratar de quedarse con el extremo de 20 años. Los detalles.",
-     "id": "9bf4b3063e02"
+     "title": "El hooker necochense, de regreso en Los Pumas: Facundo Bosch y un nuevo capítulo en la Selección",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWGc1VGN0X0I2MXZCamNpMGR3OXRHUTV0SmdsMVFiZ1NnQVI4VjFDLWFyelM3SGs5S1UzVWYwejZzWGxfeHR5b3B4OTlIQklqc3JiSkVBSnQ1SFl5UlJLT3JRUFlIaTFKbUJJc3NzSGduMlRRQU9vNlU1TDE2eW9OX1VqbTBUOVZ5blpaSEk0ejMydFlhaUU4N2dNZ0R2X0s2WHFfQmktNW03UzNDLXlmeHkzbTNqWVQwcnN1aExhRTBLaXYyNTZ0elFtVUFkeUk0Z2llaw?oc=5",
+     "source": "TSN Necochea",
+     "published": "2026-11-11T16:31:19+00:00",
+     "id": "49973f3152f8"
     },
     {
-     "title": "River quiere adelantar su cruce de octavos: el motivo y la postura de Lanús",
-     "link": "https://www.ole.com.ar/river-plate/river-lanus-octavos-final-clausura-playoffs-fecha-dia-fifa-descanso_0_jUs0D5svmq.html",
-     "source": "Olé — River",
-     "published": "2026-11-10T21:32:18+00:00",
-     "copete": "Desde Núñez pretenden que el inicio de los playoffs sea unos días antes del fin de semana que viene. El Grana, en cambio, no estaría de acuerdo.",
-     "id": "a385a1cb971a"
-    },
-    {
-     "title": "Con Agustín Pichot nominado, se confirmaron las candidaturas para los puestos de la Junta Ejecutiva de World Rugby",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU283UjltMFk1Nml2UkJ4ZVZTVWtLdEt4OTlJLVF1aHRyNjc2dnZEd0d0RHNNR0MtbHktOTFYSzU0MDNUWkh1cnUxVGd6Umt3czdVd2FrSFNfYXZWRndtMHYwYlFyVUFsZjJuX0dBQTFjZW1iR2FUeFN5bnREcjZnRktFS2NYZWN4QnU0M3BrdHFqWkJoTFN2RDZnRUs0M195dU10SzY1VTVCSG9GYUtLQ1I5OVJUSTJzXzB4dWJlRkRwZEJPM3ZBVEx2elNGVHVZ?oc=5",
+     "title": "SANZAAR y Seis Naciones vs World Rugby: la disputa por eliminar el descenso en el Nations Championship",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVjhIV2tYOG1Qd3hfZnd0X2k0OFRpSmtyVFNHV2JuTFdWTDVZbGFpc2FOUGJ0MUY2c3FRRGVLV19TTU5fMk9mc0JuSko5YVVPTDR0bjFYMm4zbHdPQnJ1TEg3Zk9DVzRVQ09YNkprYWIxcWJnQUliTVMxbVppRUZkR3hobXFSOGdsTldPSG1rdmQzdnVWMnpadk5USi1yWkM2azBVTENiUmNnZTU1ZzNOOFoxWTdKbGRfdmZFVlE2elJ2ZWV4STloSjNzYkFpVGZfbVNTNDdlRllpM1pHQThwb2twbDh1dDl5M1paMVVHNWlVQjg0?oc=5",
      "source": "ESPN Argentina",
-     "published": "2026-11-10T21:30:00+00:00",
-     "id": "741f8d13b906"
+     "published": "2026-11-11T16:18:00+00:00",
+     "id": "ade507124a43"
     },
     {
-     "title": "Facundo Bosch vuelve a Los Pumas después de cinco años y se suma para el partido ante Italia",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSDd4VTFaYjB2c2ZreUJ0bkM5aVliOFM4MGFjUG1RckpNanlLOU0wVmRydUxudTBuX3JGNmhfS2lvMVF5Mk5hTGtIQllDZGdXM3pxcFJBSE4xTGpjTC04cjdsVW45bllrdE05dml5UUlIN1h1ZkNnc25IR3QwV1YzUWVIRGdLY2ZCS3pwX3dWV3RlR05qUW9MVDZLTkdnaUE4MzktVGhmZ3VvcUYySUdMYmpRYnVEQVJld3MtTVlqdkNNSmpaQVF1b3g4UkxiUQ?oc=5",
-     "source": "Necochea Digital",
-     "published": "2026-11-10T21:23:11+00:00",
-     "id": "1ae462c52a7a"
+     "title": "Supercopa Argentina: el premio extra que se disputan Estudiantes e Independiente Rivadavia",
+     "link": "https://www.ole.com.ar/futbol-primera/supercopa-argentina-estudiantes-independiente-rivadavia-hora-ver-tv-online-premio-extra-clasificacion-recopa-campeones_0_Hu9DUSWSit.html",
+     "source": "Olé — Primera",
+     "published": "2026-11-11T16:12:59+00:00",
+     "copete": "Además del título que se definirá este jueves en Córdoba, el ganador se clasificará a una nueva competencia que la AFA estrenará en 2027. ¿Cómo se juega y quiénes participarán?",
+     "id": "61c1e1bb08ab"
     },
     {
-     "title": "El mapa de la Sudamericana 2027: seis seguros y 25 a la espera, entre ellos River y otros argentinos",
-     "link": "https://www.ole.com.ar/futbol-internacional/sudamericana/copa-sudamericana-2027-clasificados_0_Gk2iKSs4EM.html",
+     "title": "Los detalles de la visita de Enzo Fernández al Monumental y la reacción de los hinchas de River: \"Cierren las puertas...\"",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-enzo-fernandez-stefano-di-carlo-visita-monumental_0_cSvcpfmm9p.html",
      "source": "Olé — River",
-     "published": "2026-11-10T20:21:29+00:00",
-     "copete": "Mientras Boca y Atlético Mineiro se preparan para la final de la actual edición, ya hay clasificados para la Copa del año que viene.",
-     "id": "7cac021410b1"
+     "published": "2026-11-11T16:01:00+00:00",
+     "copete": "Antes de jugar los amistosos con la Selección Argentina, el volante regresó a Núñez y compartió un momento especial.",
+     "id": "aa3bb6bd2abe"
     },
     {
-     "title": "De dejar River cedido a préstamo a la Selección Sub 20: la historia del zaguero Brian Gutiérrez",
-     "link": "https://www.ole.com.ar/river-plate/river-briangutierrez-seleccionsub20-montevideocitytorque-diegoplacente_0_lPornHaCzV.html",
+     "title": "Los saludos de Huracán y la AFA por la muerte de Carlos Babington",
+     "link": "https://www.ole.com.ar/informacion-general/saludos-muerte-carlos-babington-club-huracan-afa-horacio-pagani_0_JOOu9YPBQx.html",
+     "source": "Olé — Primera",
+     "published": "2026-11-11T15:41:18+00:00",
+     "copete": "El Inglés falleció este miércoles a los 77 años. Dejó su marca en el Globo como jugador, DT y presidente y jugó en la Selección Argentina.",
+     "id": "ef4dd88df43a"
+    },
+    {
+     "title": "Video: el reencuentro de Montiel y Almada con Chiqui Tapia y cómo fue cada saludo",
+     "link": "https://www.ole.com.ar/river-plate/gonzalomontiel-thiagoalmada-claudiotapia-seleccionargentina-river-afa_0_yD6xeJbh3v.html",
      "source": "Olé — River",
-     "published": "2026-11-10T19:19:18+00:00",
-     "copete": "El zurdo de 19 años que admira al Cuti Romero se afianzó en el fútbol uruguayo y fue llamado por Diego Placente al seleccionado juvenil.",
-     "id": "b7757c51301c"
+     "published": "2026-11-11T14:58:06+00:00",
+     "copete": "Tanto el lateral como el volante de River fueron recibidos por el presidente de la AFA en el predio de Ezeiza.",
+     "id": "a5eb9b24f6a2"
+    },
+    {
+     "title": "River-Lanús, el cruce de playoffs más parejo para los lectores de Olé",
+     "link": "https://www.ole.com.ar/futbol-primera/river-lanus-cruce-playoffs-pareja-cerrada-lectores-encuesta-ole-octavos-final_0_yDAgDkrOJz.html",
+     "source": "Olé — River",
+     "published": "2026-11-11T14:43:26+00:00",
+     "copete": "El duelo de octavos de final entre el Millonario y el Granate, en el Monumental, se perfila como el de pronóstico más reservado en el inicio de los mata-mata.",
+     "id": "e321fed68117"
+    },
+    {
+     "title": "Gonzalo García fue autocrítico tras la derrota de Los Pumas: No podemos seguir viviendo el partido de Irlanda",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN0lsc0xkOUo2OC14UllxclZZTk1qN3pOMFBJMkhGdzlvNHg2RmttcElwZGd3MjJna3Q5S2o5cHZPemNKdVZyUl9uRjR6cGdjWDA2bzE1YWlDNWNwZ1dpQkZ5akJGbzg0eFZWSW1IU2dXN0lYZ1RrRFR5aHlOVDNoS0NYTkp1dUdlUzZ6S3VfcmFuMzFCcUZaR0NuN2dlQ2VwWHBzSlZRclJyZzVxRVFxYVJQbzQwTlplOU9mLWJPUVo5UUpnWXFEZUl4OFRVR19yYmJ1a1BRODlIdmtPdzhyNNIB5gFBVV95cUxPOXNpZ2NYTWp4azN2UGVYSVROQmM3N2lxTWFYU1BlakEyZE1KN3A1c2o0cW83YWtjZkxScldyOG5HcmJKcXBaSzU2YXFld2dVWE1iQ08wVHJ6T1VCdXhiUUpxREFHbmVmNm9SX2FkeFR3QWxzMkgwQ003eTFRVnpTZENLdnNES2xHYzV1UFY4ZmhoWWQ1ZllKOXp5Tldxb2R6Um1xUGZJRDlfNXp2OEhJbU1RdFY4OFFycGlLaVpFRGFCclpkREtDdy1CWVNVcEg3Z0lOYmdWMDl1SzkyRlloRGpJM2lpZw?oc=5",
+     "source": "La Gaceta",
+     "published": "2026-11-11T14:06:55+00:00",
+     "id": "f8be9966dd05"
+    },
+    {
+     "title": "Nicolás Russo, contundente sobre qué día se va a jugar River-Lanús: \"Está hablado de antemano...\"",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-juega-dia-lanus-liga-profesional-octavos-clausura_0_lXPGsUDmdt.html",
+     "source": "Olé — River",
+     "published": "2026-11-11T13:55:00+00:00",
+     "copete": "Si bien desde Núñez pretenden adelantar el cruce de octavos del Clausura, el pope del Granate reveló que el borrador de la Liga Profesional indica lo contrario.",
+     "id": "86132177f06d"
     },
     {
      "title": "La UAR y Cub3 firmaron un acuerdo para potenciar el desarrollo comercial de Pampas",
@@ -189,11 +189,71 @@
    "mode": "resumen",
    "items": [
     {
-     "title": "Protecting SSH Keys with macOS Secure Enclave",
-     "link": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+     "title": "What would a fully Bayesian programming environment look like?",
+     "link": "https://www.reddit.com/r/datascience/comments/1xtnalv/what_would_a_fully_bayesian_programming/",
+     "source": "r/datascience",
+     "published": "2026-11-11T17:06:56+00:00",
+     "id": "695bbcc6ac3f"
+    },
+    {
+     "title": "“Are You Sure?” Flipped Qwen2.5-1.5B’s Right Answer 2 Times in 3",
+     "link": "https://towardsdatascience.com/are-you-sure-flipped-qwen25-15bs-right-answer-2-times-in-3/",
+     "source": "Towards Data Science",
+     "published": "2026-11-11T16:30:00+00:00",
+     "copete": "Three small open models, 150 MMLU questions each, five pushback styles: “That’s wrong” did more damage, and naming a wrong option was close to fatal. The post “Are You Sure?” Flipped Qwen2.5-1.5B’s Right Answer 2 Times in 3 appeared first…",
+     "id": "1da5db2eb26e"
+    },
+    {
+     "title": "Anthropic's IPO roadshow video",
+     "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-11-11T15:11:59+00:00",
+     "copete": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom…",
+     "id": "a19ce5d70afc"
+    },
+    {
+     "title": "AI Assistant vs. Copilot vs. Agent, and When to Use Each",
+     "link": "https://towardsdatascience.com/ai-assistant-vs-copilot-vs-agent-and-when-to-use-each/",
+     "source": "Towards Data Science",
+     "published": "2026-11-11T15:00:00+00:00",
+     "copete": "A palace-hotel wedding week shows where assistants, copilots, agents, and orchestration fit, and why Gartner expects 40%+ of agentic AI projects to be cancelled. The post AI Assistant vs. Copilot vs. Agent, and When to Use Each appeared…",
+     "id": "69fffa74a6e0"
+    },
+    {
+     "title": "Atuin Threads: All your agent sessions on every machine",
+     "link": "https://blog.atuin.sh/threads-agent-sessions/",
      "source": "Hacker News (100+ puntos)",
-     "published": "2026-11-11T04:28:57+00:00",
-     "id": "53d6f601edc3"
+     "published": "2026-11-11T14:10:46+00:00",
+     "id": "dadb501df184"
+    },
+    {
+     "title": "Apple is killing its Support Community forum next week",
+     "link": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-11-11T14:02:11+00:00",
+     "id": "6d41d763cffc"
+    },
+    {
+     "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+     "link": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-11-11T13:56:05+00:00",
+     "id": "106470241524"
+    },
+    {
+     "title": "Hyper-Realistic Sand with WebGL2",
+     "link": "https://av.github.io/safe-sand/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-11-11T13:39:29+00:00",
+     "id": "d584bdd46b86"
+    },
+    {
+     "title": "How to Use Apple's fm CLI to Run On-Device LLMs From Python",
+     "link": "https://towardsdatascience.com/how-to-use-apples-fm-cli-to-run-on-device-llms-from-python/",
+     "source": "Towards Data Science",
+     "published": "2026-11-11T13:30:00+00:00",
+     "copete": "A Sate Padang vision test and a Malaysia capital question show why the free, private model needs grounding and validation before it leaves prototyping. The post How to Use Apple's fm CLI to Run On-Device LLMs From Python appeared first on…",
+     "id": "48d672eda855"
     },
     {
      "title": "Standing out in Data Science Interview Case Studies",
@@ -201,66 +261,6 @@
      "source": "r/datascience",
      "published": "2026-11-11T03:10:25+00:00",
      "id": "361c8b2d146f"
-    },
-    {
-     "title": "A great old-timey game-programming hack (2013)",
-     "link": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-11-11T01:56:31+00:00",
-     "id": "8526b86f26c0"
-    },
-    {
-     "title": "Tracking Anthropic-discovered vulnerabilities",
-     "link": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-11-10T22:17:56+00:00",
-     "id": "ae3c6c28ceab"
-    },
-    {
-     "title": "Apple has new Mac app coming to make running local AI models easy",
-     "link": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-11-10T21:25:03+00:00",
-     "id": "168143ea4218"
-    },
-    {
-     "title": "llm-gemini 0.36",
-     "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
-     "source": "Simon Willison (IA)",
-     "published": "2026-11-10T20:09:44+00:00",
-     "copete": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Gemini, priced at $2/million input and $10/million output at…",
-     "id": "c1fbfe2e3fcb"
-    },
-    {
-     "title": "How to Use AI for Enterprise BI",
-     "link": "https://www.kdnuggets.com/2026/11/lansa/how-to-use-ai-for-enterprise-bi",
-     "source": "KDnuggets",
-     "published": "2026-11-10T18:00:30+00:00",
-     "copete": "Learn how AI can make enterprise business intelligence more accessible, automate reporting, uncover insights faster, and improve decision-making with the right governance.",
-     "id": "c454f2330759"
-    },
-    {
-     "title": "Data Colada finds evidence of altered data in a fifth Francesca Gino paper, a 2011 leadership study with 900+ citations",
-     "link": "https://www.reddit.com/r/datascience/comments/1xssm7t/data_colada_finds_evidence_of_altered_data_in_a/",
-     "source": "r/datascience",
-     "published": "2026-11-10T17:14:27+00:00",
-     "id": "d8d76a1db8d9"
-    },
-    {
-     "title": "Scikit-Learn Matched or Beat Jev's Calibration on BANKING77",
-     "link": "https://towardsdatascience.com/scikit-learn-matched-or-beat-jevs-calibration-on-banking77/",
-     "source": "Towards Data Science",
-     "published": "2026-11-10T16:30:00+00:00",
-     "copete": "Jev needs no training and at most three examples per intent; the open rebuild needs labels. Both still fall into the none-of-the-above trap. The post Scikit-Learn Matched or Beat Jev's Calibration on BANKING77 appeared first on Towards…",
-     "id": "40db0c88292e"
-    },
-    {
-     "title": "A Session-Start Hook Raised Claude Code Skill Firing From 15% to 62%",
-     "link": "https://towardsdatascience.com/a-session-start-hook-raised-claude-code-skill-firing-from-15-to-62/",
-     "source": "Towards Data Science",
-     "published": "2026-11-10T15:00:00+00:00",
-     "copete": "A software tester ran six testing skills on Haiku, Sonnet, and Opus; pushy descriptions added only 5 points, and near-miss requests never fired a skill. The post A Session-Start Hook Raised Claude Code Skill Firing From 15% to 62% appeared…",
-     "id": "e4d27c770391"
     }
    ]
   },
@@ -270,100 +270,100 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Papa León XIV en la Argentina, EN VIVO: la misa en Luján y la despedida en Ezeiza hoy, minuto a minuto",
-     "link": "https://www.lanacion.com.ar/sociedad/papa-leon-xiv-en-la-argentina-en-vivo-la-misa-en-lujan-y-la-despedida-en-ezeiza-hoy-minuto-a-minuto-nid11112026/",
+     "title": "El inesperado barrio que se consolida con bares notables y reductos étnicos",
+     "link": "https://www.lanacion.com.ar/sabado/el-inesperado-barrio-que-se-consolida-con-bares-notables-y-reductos-etnicos-nid07112026/",
      "source": "La Nación",
-     "published": "2026-11-11T09:35:01+00:00",
-     "copete": "En su último día en el país, el Santo Padre visitará el Complejo Penitenciario Federal y escuchará a algunos detenidos; durante la tarde, se irá con destino a Perú",
-     "id": "20d3dcb79ebe"
+     "published": "2026-11-11T17:51:49+00:00",
+     "copete": "Un recorrido de sabores que combina gastronomía tradicional con platos de diversas comunidades",
+     "id": "7852fa9ad68a"
     },
     {
-     "title": "El divertido gesto de León XIV a los fieles que se acercaron por la noche a saludarlo a la Nunciatura: “¡Gracias, Argentina!\"",
-     "link": "https://www.lanacion.com.ar/sociedad/el-divertido-gesto-del-papa-leon-xiv-a-los-fieles-que-se-acercaron-por-la-noche-a-saludarlo-a-la-nid10112026/",
+     "title": "Las lágrimas de Javier Milei en el cierre de la gira histórica del papa León XIV en la Argentina",
+     "link": "https://www.lanacion.com.ar/politica/la-emocion-de-javier-milei-en-el-cierre-de-la-gira-historica-del-papa-leon-xiv-en-la-argentina-nid11112026/",
      "source": "La Nación",
-     "published": "2026-11-11T09:34:48+00:00",
-     "copete": "El Sumo Pontífice pidió, al acercarse ambas manos a su rostro, que lo dejaran descansar e hizo reír a un custodio",
-     "id": "636ce86ddd07"
+     "published": "2026-11-11T17:51:05+00:00",
+     "copete": "El Presidente acompañó al Pontífice hasta la escalera del avión en Ezeiza; después de la despedida, se fundió en un abrazo con Karina Milei y Pablo Quirno",
+     "id": "34e092ecd39c"
     },
     {
-     "title": "Murió Ximena De Tezanos Pinto, la exvecina de Cristina Kirchner que vivía en el edificio de Recoleta",
-     "link": "https://www.lanacion.com.ar/politica/murio-ximena-de-tezanos-pintos-la-exvecina-de-cristina-kirchner-que-vivia-en-el-edificio-de-recoleta-nid10112026/",
+     "title": "El mensaje de despedida del papa León XIV antes de viajar hacia Perú: “Hasta siempre, mi querida Argentina”",
+     "link": "https://www.lanacion.com.ar/sociedad/el-mensaje-de-despedida-del-papa-leon-xiv-antes-de-viajar-hacia-peru-gracias-argentina-por-recibirme-nid11112026/",
      "source": "La Nación",
-     "published": "2026-11-11T09:34:11+00:00",
-     "copete": "La mujer habitaba el departamento superior del domicilio de la expresidenta en la intersección de Juncal y Uruguay; hacía tiempo que padecía una enfermedad",
-     "id": "0c13512023b7"
+     "published": "2026-11-11T17:51:01+00:00",
+     "copete": "El Pontífice agradeció el cariño recibido durante su visita y recordó a Francisco; ante los fieles reunidos en Luján, aseguró que lleva a todos en su corazón",
+     "id": "268507556a0d"
     },
     {
-     "title": "La agenda del papa León XIV en Argentina hoy, 11 de noviembre",
-     "link": "https://www.infobae.com/sociedad/2026/11/11/la-agenda-del-papa-leon-xiv-en-argentina-hoy-11-de-noviembre/",
+     "title": "El momento en que el papa León XIV se emocionó durante su visita a la cárcel de Devoto",
+     "link": "https://www.lanacion.com.ar/sociedad/el-momento-en-que-el-papa-leon-xiv-se-emociono-durante-su-visita-a-la-carcel-de-devoto-nid11112026/",
+     "source": "La Nación",
+     "published": "2026-11-11T17:50:58+00:00",
+     "copete": "El Pontífice escuchó los testimonios de dos detenidos y un hombre que recuperó la libertad; habló sobre la reconciliación y pidió acompañar a los jóvenes para evitar que caigan en las redes de la criminalidad",
+     "id": "b3c8194149b5"
+    },
+    {
+     "title": "El instante en que el capellán de la cárcel de Devoto se quebró frente al Papa",
+     "link": "https://www.lanacion.com.ar/sociedad/el-instante-exacto-en-que-el-capellan-de-la-carcel-de-devoto-se-quebro-frente-al-papa-nid11112026/",
+     "source": "La Nación",
+     "published": "2026-11-11T17:50:55+00:00",
+     "copete": "Matías de Martini agradeció la visita de León XIV y destacó la dignidad de las personas privadas de la libertad; el Pontífice compartió un mensaje sobre la esperanza y la reconciliación",
+     "id": "d0aa46bc119f"
+    },
+    {
+     "title": "Entre el fútbol, el aire libre y la visita del Papa: así fue el divertido “finde XXL” de Benjamín Vicuña con sus hijos",
+     "link": "https://www.infobae.com/teleshow/2026/11/11/entre-el-futbol-el-aire-libre-y-la-visita-del-papa-asi-fue-el-divertido-finde-xxl-de-benjamin-vicuna-con-sus-hijos/",
      "source": "Infobae",
-     "published": "2026-11-11T09:29:30+00:00",
-     "copete": "Será feriado en la provincia de Buenos Aires y el público podrá asistir sin inscripción obligatoria a las celebraciones abiertas",
-     "id": "ad332260a0f5"
+     "published": "2026-11-11T17:49:23+00:00",
+     "copete": "El actor chileno disfrutó de una serie de inolvidables días libres en familia y mostró la intimidad de cada una de las jornadas",
+     "id": "003c096b4fe1"
     },
     {
-     "title": "Javier Milei y sus medidas, EN VIVO: “Así somos imparables”, dijo Quirno sobre la visita del Papa",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-asi-somos-imparables-dijo-quirno-sobre-la-visita-del-papa-nid11112026/",
-     "source": "La Nación",
-     "published": "2026-11-11T09:27:00+00:00",
-     "copete": "El canciller le agradeció al Pontífice por su viaje a la Argentina y a los jóvenes del país; este miércoles, el Santo Padre continúa con su gira por Perú",
-     "id": "0ef809e67067"
-    },
-    {
-     "title": "ANSES: quiénes cobran hoy, miércoles 11 de noviembre de 2026",
-     "link": "https://www.infobae.com/economia/2026/11/11/anses-quienes-cobran-hoy-miercoles-11-de-noviembre-de-2026/",
+     "title": "Último día del Papa en Argentina: fotos de la visita a la cárcel de Devoto, la histórica misa en Luján y la emotiva despedida en Ezeiza",
+     "link": "https://www.infobae.com/fotos/2026/11/11/ultimo-dia-del-papa-en-argentina-fotos-de-la-visita-a-la-carcel-de-devoto-y-la-historica-misa-en-lujan/",
      "source": "Infobae",
-     "published": "2026-11-11T09:26:48+00:00",
-     "copete": "ANSES retoma el calendario tras los feriados y habilita pagos para jubilados, titulares de asignaciones familiares y pensiones no contributivas",
-     "id": "6bac21a4f8b4"
+     "published": "2026-11-11T17:49:03+00:00",
+     "copete": "El Pontífice se despide del país luego de una agenda de actividades que comenzó el domingo. Perú será su próxima parada",
+     "id": "c74349eea45e"
     },
     {
-     "title": "Chenoa, a sus 51 años: “Cuando arrancás con los ejercicios de fuerza y empezás a ver que marcas un poquito y que te encontrás mejor, es lo que más te motiva para seguir”",
-     "link": "https://www.lanacion.com.ar/espectaculos/chenoa-a-sus-51-anos-cuando-arrancas-con-los-ejercicios-de-fuerza-y-empezas-a-ver-que-marcas-un-nid10112026/",
-     "source": "La Nación",
-     "published": "2026-11-11T09:16:19+00:00",
-     "copete": "La cantante habló de los cambios que notó al incorporar pesas y de cómo organiza sus sesiones de ejercicio junto con sus compromisos profesionales",
-     "id": "b0361be4e23a"
-    },
-    {
-     "title": "La huelga general en España, en imágenes",
-     "link": "https://www.infobae.com/fotos/2026/11/11/la-huelga-general-en-espana-en-imagenes/",
+     "title": "Running y tecnología: qué revela la ciencia sobre el efecto de las zapatillas en el rendimiento y las lesiones",
+     "link": "https://www.infobae.com/tendencias/2026/11/11/running-y-tecnologia-que-revela-la-ciencia-sobre-el-efecto-de-las-zapatillas-en-el-rendimiento-y-las-lesiones/",
      "source": "Infobae",
-     "published": "2026-11-11T09:15:35+00:00",
-     "copete": "Trabajadores, sindicatos y organizaciones sociales participan este miércoles en movilizaciones y cortes de calles en distintas ciudades del país, en una jornada de protesta por la vivienda, los salarios y los servicios públicos",
-     "id": "dcbf05ae5826"
+     "published": "2026-11-11T17:48:42+00:00",
+     "copete": "Las suelas con espumas, placas de carbono y curvaturas alteran la distribución de cargas, al tiempo que impactan en la tensión en la tibia y el tendón de Aquiles",
+     "id": "65638558433e"
     },
     {
-     "title": "La lupa en los 33 días de definición del Torneo Clausura 2026: la maldición de los primeros, ventajas y desventajas en los ocho partidos de octavos de final",
-     "link": "https://www.clarin.com/deportes/lupa-33-dias-definicion-torneo-clausura-2026-maldicion-primeros-ventajas-desventajas-partidos-octavos-final_0_WK1d0kJpKh.html",
-     "source": "Clarín",
-     "published": "2026-11-11T09:00:06+00:00",
-     "copete": "Cuáles es el cruce que se anticipa más parejo y los que tienen mucha ventaja sobre el otro. Qué dicen los números y los antecedentes.",
-     "id": "58392644ad46"
+     "title": "Cerrar el día con la carga en movimiento: el cerebro como recurso clave del comercio exterior",
+     "link": "https://www.infobae.com/movant/2026/11/11/cerrar-el-dia-con-la-carga-en-movimiento-el-cerebro-como-recurso-clave-del-comercio-exterior/",
+     "source": "Infobae",
+     "published": "2026-11-11T17:47:37+00:00",
+     "copete": "Nicolás Fernández Miranda, divulgador en neurociencia aplicada a la productividad, explica cómo sostener el foco y el descanso en operaciones con husos horarios cruzados e imprevistos constantes.",
+     "id": "19da8ee7ace3"
     },
     {
-     "title": "Los productores de acero miran hacia Estados Unidos como una forma de parar la ola china en América Latina",
-     "link": "https://www.clarin.com/economia/productores-acero-miran-estados-unidos-forma-parar-ola-china-america-latina_0_AY69bDl4IO.html",
-     "source": "Clarín",
-     "published": "2026-11-11T09:00:05+00:00",
-     "copete": "El congreso de Alacero que se realiza en México puso foco no sólo en la competencia del Lejano Oriente sino en la posibilidad de tejer nuevas alianzas. ¿Por qué toman al gobierno de Claudia Scheimbaum como ejemplo?",
-     "id": "38acb6c8d987"
+     "title": "Un encuentro regional reunirá en Bariloche a especialistas en desarrollo espacial de América Latina y Europa",
+     "link": "https://www.infobae.com/salud/ciencia/2026/11/11/un-encuentro-regional-reunira-en-bariloche-a-especialistas-en-desarrollo-espacial-de-america-latina-y-europa/",
+     "source": "Infobae",
+     "published": "2026-11-11T17:47:37+00:00",
+     "copete": "La cumbre de expertos se realizará el 12 y 13 de noviembre en INVAP, Bariloche, con referentes de siete países y un representante de la Agencia Espacial Europea (ESA)",
+     "id": "13f7a0716646"
     },
     {
-     "title": "El brutal crimen de la estanciera en un camino rural, a manos de un peón de 17 años al que le brindó su ayuda",
-     "link": "https://www.clarin.com/policiales/brutal-crimen-estanciera-camino-rural-manos-peon-17-anos-brindo-ayuda_0_DGdIxBB2wD.html",
+     "title": "Quiniela Nacional: resultado del sorteo de la Vespertina de hoy, miércoles 11 de noviembre",
+     "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-nacional-resultado-sorteo-vespertina-hoy-miercoles-11-noviembre_0_fmgbnhFWzo.html",
      "source": "Clarín",
-     "published": "2026-11-11T09:00:05+00:00",
-     "copete": "María Elina \"Eileen\" Cook (82) fue asesinada por el adolescente en un cruce de caminos cercano a Huanguelén y Coronel Suárez. Había estado haciendo una changa en el campo de enfrente y le pidió que lo acercara hasta la ciudad, pero la…",
-     "id": "30acc6227bdf"
+     "published": "2026-11-11T17:30:00+00:00",
+     "copete": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+     "id": "834152add442"
     },
     {
-     "title": "Alerta por un brote de viruela del mono en Brasil y hay más casos en Argentina de la cepa con mayor riesgo de contagio",
-     "link": "https://www.clarin.com/sociedad/alerta-brote-viruela-mono-brasil-casos-argentina-cepa-mayor-riesgo-contagio_0_AvEvbnLAt1.html",
+     "title": "Granita de frutilla",
+     "link": "https://www.clarin.com/recetas/postres/granita-de-frutilla_7_D7tkUIWShi.html",
      "source": "Clarín",
-     "published": "2026-11-11T09:00:05+00:00",
-     "copete": "Hubo 64 nuevos contagios en San Pablo en apenas un mes y 74 en Río de Janeiro en los últimos dos meses. Es siete veces más que la cifra de 2025 para el mismo periodo y aconsejan tener recaudos a la hora de viajar.",
-     "id": "f3717dad7282"
+     "published": "2026-11-11T17:29:05+00:00",
+     "copete": "Un postre helado de frutillas frescas, con un toque de limón y una textura de pequeños cristales.",
+     "id": "5f249f6432db"
     }
    ]
   },
@@ -373,84 +373,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "US warns Madagascar over growing military ties with Russia",
-     "link": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss",
+     "title": "Spain sees widespread disruption in first general strike for 14 years",
+     "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-11-11T07:30:15+00:00",
-     "copete": "US general warns the Sahel model-like security deal with Russia could lead to greater instability in Africa.",
-     "id": "88717cd980a5"
+     "published": "2026-11-11T17:44:32+00:00",
+     "copete": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+     "id": "23565797d1ba"
     },
     {
-     "title": "3 claves de la primera huelga general en España en 14 años (y la paradoja de que el gobierno la defienda y la oposición la critique)",
-     "link": "https://www.bbc.com/mundo/articles/cmlyly7jwq24o?at_medium=RSS&at_campaign=rss",
+     "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+     "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-11T16:59:34+00:00",
+     "copete": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+     "id": "45d5c49f84da"
+    },
+    {
+     "title": "En imágenes: decenas de detenidos en la primera huelga general en España en 14 años",
+     "link": "https://www.bbc.com/mundo/articles/ckx28e5lj300o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-11-11T04:58:21+00:00",
-     "copete": "A menos de 20 días para las elecciones generales, los españoles están convocados a un parón masivo este miércoles para protestar por la crisis de la vivienda y el costo de la vida.",
-     "id": "03106989f068"
+     "published": "2026-11-11T16:59:13+00:00",
+     "copete": "Con un seguimiento de la huelga dispar, los españoles protestan este miércoles por la crisis de la vivienda y el alto costo de la vida en el país europeo.",
+     "id": "2ef690685b38"
     },
     {
-     "title": "Un magma de 39 candidatos para sustituir a Macron en Francia",
-     "link": "https://elpais.com/internacional/2026-11-11/un-magma-de-39-candidatos-para-sustituir-a-macron-en-francia.html",
-     "source": "El País Internacional",
-     "published": "2026-11-11T04:40:00+00:00",
-     "copete": "A seis meses de las elecciones, el judoca Teddy Riner ha sido el último aspirante en mostrar su deseo de llegar a la presidencia de Francia en primavera",
-     "id": "647db54db904"
-    },
-    {
-     "title": "Lina Attalah, trinchera en la lucha por la libertad de expresión en Egipto",
-     "link": "https://elpais.com/internacional/2026-11-11/lina-attalah-la-trinchera-de-la-lucha-por-la-libertad-de-expresion-en-egipto.html",
-     "source": "El País Internacional",
-     "published": "2026-11-11T04:40:00+00:00",
-     "copete": "Su diario digital ‘Mada Masr’ es el último medio independiente de referencia que queda en el país: ahora se enfrenta al cierre y su directora, a la cárcel",
-     "id": "f7a8bc81f8a0"
-    },
-    {
-     "title": "Ucrania busca bajo los drones rusos a los desaparecidos en los escombros de la escuela de Komishuvaja",
-     "link": "https://elpais.com/internacional/2026-11-11/ucrania-busca-bajo-los-drones-rusos-a-los-desaparecidos-en-los-escombros-de-la-escuela-de-komishuvaja.html",
-     "source": "El País Internacional",
-     "published": "2026-11-11T04:40:00+00:00",
-     "copete": "Una semana después del brutal ataque, uno de los más mortíferos de la guerra, los cuerpos recuperados son ya 55, y los equipos de rescate tratan de localizar otra veintena",
-     "id": "170328073635"
-    },
-    {
-     "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
-     "link": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
+     "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+     "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-11-11T03:44:06+00:00",
-     "copete": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
-     "id": "7f2e24070d41"
+     "published": "2026-11-11T16:45:11+00:00",
+     "copete": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+     "id": "9e192a2ac325"
     },
     {
-     "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-     "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+     "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+     "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-11-11T03:26:42+00:00",
-     "copete": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-     "id": "fb5573ea532c"
+     "published": "2026-11-11T16:38:07+00:00",
+     "copete": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+     "id": "f20ccf018a74"
     },
     {
-     "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
-     "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-11T02:47:59+00:00",
-     "copete": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
-     "id": "9a43c86cef7e"
+     "title": "La policía británica detiene a un soldado estadounidense acusado de espiar para Rusia",
+     "link": "https://elpais.com/internacional/2026-11-11/la-policia-britanica-detiene-a-un-soldado-estadounidense-acusado-de-espiar-para-rusia.html",
+     "source": "El País Internacional",
+     "published": "2026-11-11T15:41:34+00:00",
+     "copete": "Washington acusa a tres iraníes de estar detrás del intento de atentado a la base aérea de Fairford",
+     "id": "b7ceccd56a70"
     },
     {
-     "title": "Bukele asegura que fuerzas de El Salvador han destruido el cuartel de la banda 400 Mawozo en un ataque aéreo en Haití",
-     "link": "https://www.bbc.com/mundo/articles/c98r7xd65z7ko?at_medium=RSS&at_campaign=rss",
+     "title": "\"El capitalismo ya trataba mal a las personas; lo que ha cambiado ahora es que esa lógica se ha adoptado (…) en discursos sobre liderazgo\"",
+     "link": "https://www.bbc.com/mundo/articles/ck868llen5lgo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-11-11T00:56:31+00:00",
-     "copete": "El presidente salvadoreño lo anunció en una publicación en la red social X en la que incluyó un vídeo que muestra un ataque aéreo a varias instalaciones.",
-     "id": "c6ee474fd78c"
+     "published": "2026-11-11T14:54:07+00:00",
+     "copete": "La filósofa eslovena Renata Salecl lleva varias décadas preguntándose cómo se infiltra la ideología imperante en nuestras mentes. En su libro más reciente en español, Maleducados, aborda cómo la grosería se ha normalizado desde la…",
+     "id": "cfd91b0e8d7e"
     },
     {
-     "title": "Análisis: Hegseth se enfrenta al \"impeachment\" por la guerra en Irán, pero es Trump quien definirá su destino",
-     "link": "https://www.bbc.com/mundo/articles/ck8dzdvn6d0mo?at_medium=RSS&at_campaign=rss",
+     "title": "Qué ventajas tienen los niños que tienen amigos imaginarios",
+     "link": "https://www.bbc.com/mundo/articles/c6vg2d59k45ko?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-11-10T22:40:31+00:00",
-     "copete": "Pete Hegseth podría enfrentarse a un juicio político pero es Trump quien podría determinar su destino, plantea este análisis de Gary O'Donoghue.",
-     "id": "75061032262e"
+     "published": "2026-11-11T14:50:03+00:00",
+     "copete": "Independientemente de la forma que adopten, los beneficios de las amistades ficticias pueden perdurar hasta bien entrada la edad adulta y ayudarnos a superar situaciones difíciles de la vida real.",
+     "id": "feb417ee9126"
+    },
+    {
+     "title": "Las negociaciones de Abu Dabi sobre Ucrania concluyen con un canje de prisioneros y sin progresos para la paz",
+     "link": "https://elpais.com/internacional/2026-11-11/las-negociaciones-de-abu-dabi-sobre-ucrania-concluyen-con-un-canje-de-prisioneros-y-sin-progresos-para-la-paz.html",
+     "source": "El País Internacional",
+     "published": "2026-11-11T14:41:15+00:00",
+     "copete": "El Kremlin presiona para ligar la invasión a una revisión de la seguridad de toda Europa en las conversaciones entre Moscú, Kiev y Washington",
+     "id": "b2e90fd0e978"
+    },
+    {
+     "title": "\"Sin su paso por Perú León XIV nunca hubiera llegado a ser Papa\"",
+     "link": "https://www.bbc.com/mundo/articles/cm75pk2zx53xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-11-11T13:29:13+00:00",
+     "copete": "El escritor peruano Santiago Roncagliolo habló con BBC Mundo sobre el año que pasó siguiendo las huellas del actual pontífice en Perú y reconstruyendo el camino que lo llevó hasta el trono de San Pedro.",
+     "id": "5eb6c4e68feb"
     }
    ]
   }
@@ -470,6 +470,11 @@
    "section": "cardiologia",
    "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "ciencia_datos",
+   "feed": "KDnuggets",
+   "error": "HTTP Error 403: Forbidden"
   }
  ]
 }

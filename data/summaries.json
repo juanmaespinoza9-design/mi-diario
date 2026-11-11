@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T22:04:48Z",
+  "generated_at": "2026-11-11T10:05:29Z",
   "summaries": {
     "17404173247b": {
       "resumen": "Publicación de JACC (Journal of the American College of Cardiology) sobre los resultados a 2 años del reemplazo valvular mitral transcatéter por vía transfemoral (TMVR, transcatheter mitral valve replacement), una técnica percutánea para tratar la insuficiencia o la estenosis mitral sin cirugía abierta. Vale la pena mirarlo porque el seguimiento a mediano plazo es clave para definir la durabilidad de estos dispositivos en una válvula técnicamente más compleja que la aórtica.",
@@ -41,7 +41,8 @@
     },
     "a8a4b42efa25": {
       "resumen": "TCTMD informa que asundexian, un inhibidor del factor XIa (una proteína de la cascada de coagulación), se convirtió en el primer fármaco de esta clase en obtener la aprobación de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos). Vale la pena mirarlo porque los inhibidores del factor XIa buscan anticoagular con menos riesgo de sangrado que los anticoagulantes actuales, y esta aprobación marca un hito para toda la clase farmacológica.",
-      "destacado": false
+      "destacado": false,
+      "analisis": "Diseño: Noticia de aprobación regulatoria de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) para asundexian, basada en resultados de ensayos clínicos previos; el título no identifica el ensayo pivotal específico ni sus características metodológicas (aleatorización, cegamiento, número de centros o de pacientes).\nPoblación: Pacientes en los que se evaluó la anticoagulación con un inhibidor del factor XIa (una proteína de la cascada de coagulación), probablemente en contextos de fibrilación auricular o prevención secundaria cardiovascular; el título no detalla criterios de inclusión o exclusión.\nIntervención: Asundexian, inhibidor oral del factor XIa, frente a los anticoagulantes estándar u otro comparador no especificado en el título.\nResultados: El título solo informa la aprobación regulatoria; no hay cifras de eficacia (reducción de eventos trombóticos) ni de seguridad (sangrado mayor) disponibles sin el texto completo.\nLimitaciones: Sin abstract no se puede identificar la indicación exacta aprobada, la población del ensayo pivotal que sustenta la aprobación ni el perfil comparativo de sangrado frente a los anticoagulantes actuales.\nMensaje: La llegada del primer inhibidor del factor XIa al mercado abre una nueva clase de anticoagulantes que busca mantener la eficacia antitrombótica reduciendo el riesgo de sangrado, un desarrollo a seguir de cerca aunque todavía falta ver su lugar exacto en las guías de práctica clínica.\nNota: análisis sin acceso al abstract."
     },
     "6295922aad8d": {
       "resumen": "European Heart Journal (Revista Europea de Cardiología) publica una recopilación editorial de los ensayos clínicos que modificaron la práctica en prevención cardiovascular, insuficiencia cardíaca, cardiología intervencionista y rehabilitación. Vale la pena mirarla como repaso panorámico de los hitos recientes del área, aunque no es un estudio original sino un resumen de varios trabajos.",
@@ -51,24 +52,8 @@
       "resumen": "Simon Willison anuncia la versión 0.36 del plugin llm-gemini, que conecta su herramienta de línea de comandos \"llm\" con los modelos Gemini de Google, incluyendo el nuevo Gemini 4 Carbon. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo integrar distintos modelos de inteligencia artificial (IA) a flujos de trabajo de terminal y scripts propios, sin depender de una sola empresa.",
       "destacado": false
     },
-    "4a8e294d0bb8": {
-      "resumen": "Hacker News destaca el lanzamiento de la Starlink Mini 2, una antena satelital portátil de SpaceX con batería integrada y mayor portabilidad. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo la conectividad satelital de bajo costo puede ampliar el acceso a internet y, con él, a herramientas de análisis y telemedicina en zonas rurales o remotas.",
-      "destacado": false
-    },
-    "4425ceb1a10f": {
-      "resumen": "Un reclamo de patente de Synaptics obligó a frenar el desarrollo de los controladores (drivers) de código abierto para DisplayLink, la tecnología que permite conectar varios monitores a través de un solo cable USB. Le sirve a un médico que aprende análisis de datos como recordatorio de que las disputas de propiedad intelectual también pueden afectar el hardware cotidiano que usa para trabajar con múltiples pantallas.",
-      "destacado": false
-    },
-    "5175b6a2b765": {
-      "resumen": "Un desarrollador comparte en Hacker News una guía para que los agentes de inteligencia artificial que escriben código dejen de usar patrones de JavaScript desactualizados y adopten herramientas web modernas. Le sirve a un médico que aprende análisis de datos porque muestra cómo mejorar la calidad del código que generan los asistentes de IA al construir herramientas propias.",
-      "destacado": false
-    },
     "c454f2330759": {
       "resumen": "KDnuggets explica cómo la inteligencia artificial (IA) puede hacer más accesible la inteligencia de negocios (BI, business intelligence) empresarial, automatizando reportes y acelerando el hallazgo de patrones en los datos. Le sirve a un médico que aprende análisis de datos porque estas mismas técnicas de automatización de reportes son aplicables a tableros de gestión clínica o de farmacovigilancia.",
-      "destacado": false
-    },
-    "d438bd2ee1d8": {
-      "resumen": "Val Town, una plataforma para escribir y alojar pequeños scripts en la nube, anunció el cierre de su operación. Le sirve a un médico que aprende análisis de datos como recordatorio de que conviene evaluar la estabilidad a largo plazo de las plataformas en la nube antes de depender de ellas para proyectos de análisis propios.",
       "destacado": false
     },
     "d8d76a1db8d9": {
@@ -83,18 +68,34 @@
       "resumen": "Towards Data Science reporta que un \"hook\" de inicio de sesión (un script que se ejecuta automáticamente al arrancar) elevó del 15% al 62% la tasa de activación correcta de habilidades (skills) en Claude Code, la herramienta de línea de comandos de Anthropic. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo pequeños ajustes de configuración pueden mejorar mucho el rendimiento práctico de un asistente de IA.",
       "destacado": false
     },
-    "3fbc7c33baee": {
-      "resumen": "KDnuggets enseña a construir un flujo de trabajo (pipeline) de dos etapas con scikit-learn que combina traducción automática y clasificación sin entrenamiento previo (zero-shot) mediante modelos de lenguaje grande (LLM, large language model) usando la librería Scikit-LLM. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de cómo combinar modelos de lenguaje con las herramientas clásicas de aprendizaje automático que ya conoce.",
-      "destacado": false
-    },
     "14c63a090672": {
       "resumen": "El ex vicepresidente de World Rugby, Agustín Pichot, busca volver a ocupar un lugar de peso en la dirigencia del rugby mundial."
     },
-    "9078387ecd30": {
-      "resumen": "Los máximos dirigentes de la Unión Argentina de Rugby y de Cub3 se refirieron al acuerdo que firmaron para potenciar el desarrollo comercial de Pampas."
+    "53d6f601edc3": {
+      "resumen": "Hacker News difunde una guía para proteger claves SSH (Secure Shell, el protocolo para acceder remotamente a servidores) usando el Secure Enclave de macOS, un chip de seguridad aislado del procesador principal que guarda las claves cifradas sin exponerlas al sistema operativo. Le sirve a un médico que empieza en análisis de datos porque buena parte del trabajo remoto con servidores o bases de datos clínicas pasa por accesos SSH, y entender cómo protegerlos reduce el riesgo de que credenciales sensibles queden expuestas.",
+      "destacado": false
     },
-    "5d48554ab7f8": {
-      "resumen": "Los Pumas realizaron modificaciones en el plantel de cara al partido del sábado ante Italia."
+    "361c8b2d146f": {
+      "resumen": "Un hilo de la comunidad r/datascience (Reddit) comparte consejos para destacarse en los \"case studies\" (estudios de caso) que forman parte de las entrevistas laborales en ciencia de datos, donde se evalúa cómo se razona un problema de negocio con datos reales. Le aporta a un médico en transición hacia el análisis de datos una guía concreta de qué esperan los evaluadores más allá de saber programar: comunicar supuestos, priorizar y justificar decisiones con los datos disponibles.",
+      "destacado": false
+    },
+    "8526b86f26c0": {
+      "resumen": "Hacker News recupera una nota de 2013 que explica un ingenioso truco de programación de la época dorada de los videojuegos, usado para lograr efectos gráficos o de rendimiento con el hardware limitado de entonces. Para alguien que recién se asoma al análisis de datos, sirve como ejemplo de cómo pensar soluciones eficientes cuando los recursos de cómputo son escasos, una lógica que todavía aplica al optimizar código o consultas sobre bases grandes.",
+      "destacado": false
+    },
+    "ae3c6c28ceab": {
+      "resumen": "VulnCheck actualiza el seguimiento de vulnerabilidades de seguridad informática descubiertas con ayuda de modelos de inteligencia artificial (IA) de Anthropic, en el marco de su programa Glasswing. Le interesa a un médico que estudia análisis de datos porque muestra un uso concreto de la IA más allá del texto o las imágenes: encontrar fallas de seguridad en sistemas, algo relevante para quien algún día deba cuidar la integridad de datos clínicos o de farmacovigilancia.",
+      "destacado": false
+    },
+    "168143ea4218": {
+      "resumen": "9to5Mac anticipa una nueva aplicación de Apple para simplificar la instalación y el uso de modelos de inteligencia artificial (IA) de forma local en una computadora Mac, sin depender de servicios en la nube. Le sirve a un médico que aprende análisis de datos porque correr modelos de IA en la propia máquina permite experimentar y procesar información sensible (por ejemplo, datos de pacientes) sin enviarla a servidores de terceros.",
+      "destacado": false
+    },
+    "741f8d13b906": {
+      "resumen": "Con Agustín Pichot entre los nominados, ya están confirmadas las candidaturas para ocupar los puestos de la Junta Ejecutiva de World Rugby."
+    },
+    "1ae462c52a7a": {
+      "resumen": "Facundo Bosch regresa a Los Pumas luego de cinco años afuera y fue convocado para el partido ante Italia."
     }
   }
 }

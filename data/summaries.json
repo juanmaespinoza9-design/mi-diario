@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T22:04:32Z",
+  "generated_at": "2026-11-12T10:05:59Z",
   "summaries": {
     "6f1c419943ca": {
       "resumen": "TCTMD publica una entrevista/perfil a Nicolas van Mieghem, cardiólogo intervencionista, dentro de una serie dedicada a trayectorias y liderazgo en cardiología intervencionista. Vale la pena mirarla como mirada personal sobre ambición profesional y cómo cerrar brechas en la especialidad, más que por datos de un estudio.",
@@ -13,11 +13,6 @@
     "9f876cb7ba64": {
       "resumen": "TCTMD presenta un episodio de su serie \"Cardialogue\" dedicado a los fundamentos de la inteligencia artificial (IA) aplicada a la cardiología. Vale la pena mirarlo como introducción accesible a los conceptos básicos de IA para quienes recién se acercan al tema desde la práctica clínica.",
       "destacado": false
-    },
-    "a8a4b42efa25": {
-      "resumen": "TCTMD informa que asundexian, un inhibidor del factor XIa (una proteína de la cascada de coagulación), se convirtió en el primer fármaco de esta clase en obtener la aprobación de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos). Vale la pena mirarlo porque los inhibidores del factor XIa buscan anticoagular con menos riesgo de sangrado que los anticoagulantes actuales, y esta aprobación marca un hito para toda la clase farmacológica.",
-      "destacado": false,
-      "analisis": "Diseño: Noticia de aprobación regulatoria de la FDA (Administración de Alimentos y Medicamentos de Estados Unidos) para asundexian, basada en resultados de ensayos clínicos previos; el título no identifica el ensayo pivotal específico ni sus características metodológicas (aleatorización, cegamiento, número de centros o de pacientes).\nPoblación: Pacientes en los que se evaluó la anticoagulación con un inhibidor del factor XIa (una proteína de la cascada de coagulación), probablemente en contextos de fibrilación auricular o prevención secundaria cardiovascular; el título no detalla criterios de inclusión o exclusión.\nIntervención: Asundexian, inhibidor oral del factor XIa, frente a los anticoagulantes estándar u otro comparador no especificado en el título.\nResultados: El título solo informa la aprobación regulatoria; no hay cifras de eficacia (reducción de eventos trombóticos) ni de seguridad (sangrado mayor) disponibles sin el texto completo.\nLimitaciones: Sin abstract no se puede identificar la indicación exacta aprobada, la población del ensayo pivotal que sustenta la aprobación ni el perfil comparativo de sangrado frente a los anticoagulantes actuales.\nMensaje: La llegada del primer inhibidor del factor XIa al mercado abre una nueva clase de anticoagulantes que busca mantener la eficacia antitrombótica reduciendo el riesgo de sangrado, un desarrollo a seguir de cerca aunque todavía falta ver su lugar exacto en las guías de práctica clínica.\nNota: análisis sin acceso al abstract."
     },
     "6295922aad8d": {
       "resumen": "European Heart Journal (Revista Europea de Cardiología) publica una recopilación editorial de los ensayos clínicos que modificaron la práctica en prevención cardiovascular, insuficiencia cardíaca, cardiología intervencionista y rehabilitación. Vale la pena mirarla como repaso panorámico de los hitos recientes del área, aunque no es un estudio original sino un resumen de varios trabajos.",
@@ -35,24 +30,10 @@
       "resumen": "Comentario editorial de JACC (firmado por Krumholz HM) sobre el uso de la variable raza en los modelos de predicción de riesgo cardiovascular, y sobre para qué deberían servir realmente esos modelos. Vale la pena mirarlo porque el debate sobre variables raciales en los scores de riesgo tiene impacto directo tanto en decisiones clínicas individuales como en la equidad del sistema de salud.",
       "destacado": false
     },
-    "535e04f94d8c": {
-      "resumen": "El ensayo ATTAIN-OSA, difundido por TCTMD, evaluó un agonista oral del receptor de GLP-1 (péptido similar al glucagón tipo 1, una hormona que regula el apetito y la glucemia) en pacientes con apnea obstructiva del sueño (OSA, obstructive sleep apnea), y encontró una reducción en la cantidad de interrupciones respiratorias durante el sueño. Vale la pena mirarlo porque la obesidad es uno de los principales motores de la apnea del sueño, y si un fármaco que ya se usa para bajar de peso también mejora la respiración nocturna, podría sumar un beneficio cardiovascular indirecto al reducir la hipoxia intermitente y la sobrecarga simpática asociadas a la OSA.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico (ATTAIN-OSA) que evalúa un agonista oral del receptor de GLP-1 en apnea obstructiva del sueño (OSA); el título no precisa aleatorización, cegamiento, número de centros ni tamaño de la muestra.\nPoblación: Pacientes con apnea obstructiva del sueño, probablemente con sobrepeso u obesidad asociada (perfil típico de los estudios con agonistas de GLP-1); no se detallan criterios de inclusión o exclusión.\nIntervención: Agonista oral del receptor de GLP-1 frente a placebo (comparador habitual en estos ensayos, no confirmado por el título).\nResultados: El título indica menos interrupciones respiratorias (probablemente medidas por el índice de apnea-hipopnea), pero no hay cifras de magnitud del efecto, significancia estadística ni intervalos de confianza disponibles sin el texto completo.\nLimitaciones: Sin abstract no se puede evaluar el tiempo de seguimiento, si la mejoría respiratoria se debe al descenso de peso o a un efecto directo del fármaco, ni los eventos adversos gastrointestinales habituales de esta clase de drogas.\nMensaje: Si se confirma el beneficio, los agonistas de GLP-1 orales podrían sumarse al arsenal terapéutico de la apnea del sueño asociada a obesidad, con el atractivo adicional de un posible beneficio cardiometabólico conjunto.\nNota: análisis sin acceso al abstract."
-    },
     "17404173247b": {
       "resumen": "Publicación de JACC (Journal of the American College of Cardiology) sobre los resultados a 2 años del reemplazo valvular mitral transcatéter por vía transfemoral (TMVR, transcatheter mitral valve replacement), una técnica percutánea para tratar la insuficiencia o la estenosis mitral sin cirugía abierta. Vale la pena mirarlo porque el seguimiento a mediano plazo es clave para definir la durabilidad de estos dispositivos en una válvula técnicamente más compleja que la aórtica.",
       "destacado": false,
       "analisis": "Diseño: Según el título, estudio de seguimiento a 2 años de pacientes tratados con reemplazo valvular mitral transcatéter (TMVR) por vía transfemoral; no se precisa si es un registro, una serie de casos o un ensayo clínico, ni el número de centros o pacientes incluidos.\nPoblación: Pacientes con enfermedad valvular mitral (insuficiencia o estenosis) tratados con TMVR transfemoral; el título no detalla los criterios de inclusión o exclusión.\nIntervención: Reemplazo valvular mitral transcatéter por acceso transfemoral; no se menciona un grupo comparador explícito.\nResultados: El título indica seguimiento a 2 años pero no aporta cifras de mortalidad, reintervención, insuficiencia residual ni eventos adversos sin el texto completo.\nLimitaciones: Sin abstract no se puede evaluar la pérdida de seguimiento, el riesgo de sesgo de selección ni la generalización de los resultados.\nMensaje: Si los resultados a 2 años son favorables, respalda a la TMVR transfemoral como alternativa percutánea sostenible en el tiempo para patología valvular mitral, aunque la indicación sigue siendo para casos seleccionados.\nNota: análisis sin acceso al abstract."
-    },
-    "49973f3152f8": {
-      "resumen": "El hooker necochense Facundo Bosch vuelve a Los Pumas después de cinco años afuera, según repasa TSN Necochea."
-    },
-    "ade507124a43": {
-      "resumen": "SANZAAR y el Seis Naciones chocan con World Rugby por la intención de este último de eliminar el descenso en el Nations Championship."
-    },
-    "f8be9966dd05": {
-      "resumen": "Gonzalo García hizo autocrítica tras la derrota de Los Pumas y pidió dejar atrás de una vez el partido ante Irlanda."
     },
     "695bbcc6ac3f": {
       "resumen": "Un hilo de r/datascience discute cómo sería un entorno de programación completamente bayesiano (el enfoque estadístico que actualiza probabilidades a partir de nueva evidencia), más allá de tratarlo como un agregado dentro de herramientas tradicionales. Le sirve a un médico que aprende análisis de datos porque el razonamiento bayesiano es la base de muchos métodos de inferencia que después se aplican a ensayos clínicos y a farmacovigilancia.",
@@ -62,37 +43,55 @@
       "resumen": "Towards Data Science probó tres modelos de lenguaje pequeños y de código abierto con 150 preguntas tipo MMLU (un examen estándar de conocimiento general) y cinco formas de presionarlos, y encontró que una simple contrapregunta (\"¿estás seguro?\") hizo que el modelo Qwen2.5 de 1.500 millones de parámetros cambiara su respuesta correcta dos de cada tres veces. Le sirve a un médico que aprende análisis de datos porque muestra cuán frágil puede ser la confianza de un modelo de inteligencia artificial (IA) ante la presión social, algo clave antes de usar sus respuestas en decisiones clínicas.",
       "destacado": true
     },
-    "a19ce5d70afc": {
-      "resumen": "Simon Willison comenta el video del roadshow de la oferta pública inicial (IPO) de Anthropic, que incluye información inédita sobre la estrategia de cómputo de la empresa de la mano de uno de sus cofundadores. Le sirve a un médico que aprende análisis de datos para entender el contexto de negocio e inversión detrás de las compañías que desarrollan los modelos de inteligencia artificial (IA) que usa a diario.",
+    "1da63b542840": {
+      "resumen": "TCTMD repasa lo más destacado del segundo día del congreso TCT (Transcatheter Cardiovascular Therapeutics), uno de los encuentros de referencia en cardiología intervencionista. Sirve como resumen rápido de los estudios y dispositivos presentados esa jornada, útil para no perderse nada sin seguir cada sesión en vivo.",
       "destacado": false
     },
-    "69fffa74a6e0": {
-      "resumen": "Towards Data Science usa el ejemplo de la organización de una boda para distinguir entre un asistente de inteligencia artificial (IA), un copiloto y un agente autónomo, y cuándo conviene usar cada uno, mencionando que Gartner estima que más del 40% de los proyectos de IA agéntica serán cancelados. Le sirve a un médico que aprende análisis de datos para elegir la herramienta correcta según el grado de autonomía que necesita en cada tarea, en vez de usar un agente complejo donde alcanza un asistente simple.",
+    "c3d3930e9d7f": {
+      "resumen": "El registro ENCIRCLE evaluó el reemplazo valvular mitral transcatéter (TMVR, por sus siglas en inglés) con el dispositivo Sapien M3 en pacientes con insuficiencia mitral sintomática no aptos para cirugía. A los 2 años se mantuvo la eliminación casi completa de la insuficiencia mitral y las mejoras funcionales, con una tasa de eventos aceptable; es relevante porque es la primera terapia transeptal percutánea aprobada por la FDA (Administración de Alimentos y Medicamentos de EE.UU.) para esta válvula.",
+      "destacado": true,
+      "analisis": "Diseño: Registro/estudio de un solo grupo (sin brazo comparador aleatorizado), multicéntrico, evaluado contra un objetivo de rendimiento (performance goal) preespecificado; cohorte principal de 299 pacientes, con seguimiento completo a 2 años disponible en 202 de ellos.\nPoblación: Pacientes con insuficiencia mitral sintomática considerados de alto riesgo quirúrgico o no aptos para cirugía, tratados con reemplazo valvular mitral transcatéter por vía transeptal.\nIntervención: Reemplazo valvular mitral transcatéter (TMVR) con el sistema Sapien M3, sin grupo de comparación activo (ni tratamiento médico ni cirugía ni reparación percutánea).\nResultados: Al año, el compuesto primario (muerte por cualquier causa u hospitalización por insuficiencia cardíaca) fue de 25,2%, por debajo del objetivo de rendimiento preestablecido de 45%. A los 2 años ese mismo compuesto llegó a 35,6%, con supervivencia libre de muerte de aproximadamente 75% y libre de internación por insuficiencia cardíaca de aproximadamente 77%; no se reportó obstrucción significativa del tracto de salida del ventrículo izquierdo (LVOT).\nLimitaciones: Diseño de un solo brazo sin comparador aleatorizado, por lo que no permite saber si el TMVR es superior a la reparación de borde a borde (TEER) o a la cirugía; el seguimiento a 2 años solo está disponible en una parte de la cohorte (202 de 299 pacientes).\nMensaje: Confirma que el Sapien M3 sostiene el efecto sobre la insuficiencia mitral y una tasa de eventos razonable a 2 años, pero sin un ensayo aleatorizado contra TEER o cirugía la indicación sigue limitada a pacientes sin otras alternativas.\nNota: análisis sin acceso al abstract de PubMed (datos tomados de la presentación en TCT 2026 y prensa especializada, no se pudo acceder a eutils.ncbi.nlm.nih.gov en esta corrida)."
+    },
+    "5b070766ec4d": {
+      "resumen": "Wiz.io reportó una vulnerabilidad crítica de ejecución remota de código (RCE, por sus siglas en inglés) en el servidor Apache HTTP, identificada como CVE-2026-119618. No es ciencia de datos en sí, pero es una alerta de seguridad informática relevante para quien administra servidores propios donde corren modelos o aplicaciones de análisis.",
       "destacado": false
     },
-    "dadb501df184": {
-      "resumen": "Hacker News destaca Atuin Threads, una herramienta que sincroniza las sesiones de agentes de inteligencia artificial (IA) de terminal entre distintas computadoras del usuario. Le sirve a un médico que aprende análisis de datos porque mantener el contexto de trabajo con asistentes de IA entre dispositivos facilita retomar un análisis sin perder lo ya avanzado.",
+    "7d083511db3c": {
+      "resumen": "Un proyecto de código abierto llamado Stela propone una capa de compatibilidad para correr software pensado para procesadores Apple Silicon (arquitectura ARM) sobre computadoras con procesadores x86-64 convencionales. Es un tema de ingeniería de sistemas más que de ciencia de datos, pero puede interesarle a quien quiera correr herramientas o modelos optimizados para Apple en hardware PC.",
       "destacado": false
     },
-    "6d41d763cffc": {
-      "resumen": "Hacker News difunde que Apple cerrará su foro de soporte comunitario, una fuente histórica de respuestas técnicas escritas por usuarios. Le sirve a un médico que aprende análisis de datos como recordatorio de que estas comunidades alimentaron (y siguen alimentando) los datos de entrenamiento de los modelos de inteligencia artificial (IA), y su cierre afecta la disponibilidad futura de ese conocimiento.",
+    "32af75a9e315": {
+      "resumen": "Una nota humorística de 2019, resurgida en Hacker News, muestra que la mayoría de las combinaciones aleatorias de caracteres, como salpicaduras de pintura, resultan ser programas válidos en el lenguaje Perl por su sintaxis extremadamente permisiva. Es una curiosidad sobre diseño de lenguajes de programación, sin aplicación práctica directa para el análisis de datos.",
       "destacado": false
     },
-    "106470241524": {
-      "resumen": "The Verge, vía Hacker News, les hizo 17 preguntas a los principales fabricantes de televisores sobre cómo recolectan y usan los datos de reconocimiento automático de contenido (ACR, por sus siglas en inglés) de sus usuarios. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de recolección masiva de datos de comportamiento y de los dilemas de privacidad que plantea, un tema cada vez más cercano a la protección de datos clínicos.",
+    "081caafcc522": {
+      "resumen": "El Wall Street Journal informa que Nvidia estaría preparando el reemplazo de su CEO histórico, Jensen Huang. Le interesa a quien sigue la industria de los semiconductores y la infraestructura de inteligencia artificial (IA), dado el rol central de Nvidia como proveedor de las unidades de procesamiento gráfico (GPU) que entrenan los modelos de IA.",
       "destacado": false
     },
-    "d584bdd46b86": {
-      "resumen": "Hacker News comparte una demostración de simulación de arena hiperrealista que corre en el navegador usando WebGL2, una tecnología gráfica acelerada por la placa de video (GPU, unidad de procesamiento gráfico). Le sirve a un médico que aprende análisis de datos como muestra de cómputo paralelo en GPU aplicado a simulaciones físicas, la misma base de hardware que acelera el entrenamiento de los modelos de inteligencia artificial (IA).",
+    "bb485df9f4f5": {
+      "resumen": "Simon Willison comenta el lanzamiento de la Gemini Decisions API, una interfaz de Google pensada para que los modelos de lenguaje tomen decisiones estructuradas dentro de flujos de trabajo automatizados. Le sirve a quien está aprendiendo a integrar inteligencia artificial (IA) en pipelines de análisis, porque muestra una forma concreta de llevar un modelo más allá de la simple generación de texto.",
       "destacado": false
     },
-    "48d672eda855": {
-      "resumen": "Towards Data Science muestra cómo usar la herramienta de línea de comandos \"fm\" de Apple para correr modelos de lenguaje grandes (LLM, large language model) directamente en el dispositivo desde Python, con ejemplos donde el modelo se equivoca sin verificación externa. Le sirve a un médico que aprende análisis de datos porque muestra cómo ejecutar inteligencia artificial (IA) local y gratuita de forma privada, aunque remarca que igual hay que validar sus respuestas antes de confiar en ellas.",
+    "02f705171aa9": {
+      "resumen": "Simon Willison repasa aws-emulator, una herramienta que simula servicios de Amazon Web Services (AWS) para desarrollar y probar aplicaciones en la nube sin usar (ni pagar) la infraestructura real. Útil para quien está aprendiendo a trabajar con datos en la nube y quiere experimentar sin riesgo de costos inesperados.",
       "destacado": false
     },
-    "361c8b2d146f": {
-      "resumen": "Un hilo de la comunidad r/datascience (Reddit) comparte consejos para destacarse en los \"case studies\" (estudios de caso) que forman parte de las entrevistas laborales en ciencia de datos, donde se evalúa cómo se razona un problema de negocio con datos reales. Le aporta a un médico en transición hacia el análisis de datos una guía concreta de qué esperan los evaluadores más allá de saber programar: comunicar supuestos, priorizar y justificar decisiones con los datos disponibles.",
+    "95dd2fdb0483": {
+      "resumen": "Simon Willison presenta una forma de navegar por etiquetas (tags) su colección de pequeñas herramientas basadas en inteligencia artificial (IA), publicada en tools.simonwillison.net. Es un catálogo práctico para descubrir utilidades ya hechas que pueden ahorrar tiempo al experimentar con modelos de lenguaje.",
       "destacado": false
+    },
+    "d75d22173390": {
+      "resumen": "KDnuggets analiza en qué tareas específicas el modelo Smaug, de Abacus.AI, logra las mayores mejoras de rendimiento frente a otros modelos de lenguaje. Sirve para entender qué tipo de ajuste fino (fine-tuning) puede marcar una diferencia real al elegir un modelo para una tarea concreta de análisis de datos.",
+      "destacado": false
+    },
+    "7c0a1b35e3fb": {
+      "resumen": "Rugby Champagne difunde la lista de árbitros designados para las finales del segundo ascenso en las categorías Primera A, B, C, Segunda y Tercera."
+    },
+    "0f33fe239d4b": {
+      "resumen": "Los Pumas viajan a enfrentar a Italia con un historial favorable a su favor, pero con la necesidad de volver a confirmarlo en la cancha."
+    },
+    "8462d23441f4": {
+      "resumen": "Se conocieron los árbitros que dirigirán las finales de las categorías Intermedia y Pre Intermedia del TOP14."
     }
   }
 }

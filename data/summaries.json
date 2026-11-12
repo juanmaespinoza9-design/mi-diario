@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-12T10:05:59Z",
+  "generated_at": "2026-11-12T22:05:35Z",
   "summaries": {
+    "07ee207c2b25": {
+      "resumen": "El estudio RACE-CARS evaluó si una campaña amplia de entrenamiento en reanimación cardiopulmonar (RCP) en la comunidad mejora los resultados del paro cardíaco extrahospitalario (OHCA, out-of-hospital cardiac arrest). Los resultados muestran que el esfuerzo de entrenamiento masivo no logró mejorar los desenlaces de estos pacientes. Vale la pena mirarlo porque cuestiona si las campañas comunitarias de RCP, tal como están diseñadas hoy, alcanzan para cambiar la sobrevida al paro cardíaco fuera del hospital.",
+      "destacado": false,
+      "analisis": "Diseño: Según el título, parece un ensayo que evaluó una intervención de entrenamiento masivo y amplio en reanimación cardiopulmonar (RCP); no se dispone de detalles sobre aleatorización, cegamiento, número de centros o pacientes.\nPoblación: Comunidades o sistemas de emergencia expuestos a campañas de entrenamiento en RCP para la población general, en el contexto del paro cardíaco extrahospitalario (OHCA).\nIntervención: Programa amplio de entrenamiento en RCP dirigido a la comunidad, frente a la atención o práctica habitual sin ese refuerzo.\nResultados: El título indica que el entrenamiento extendido no modificó (\"didn't nudge\") los resultados del OHCA; no hay cifras de sobrevida, egreso neurológico favorable ni intervalos de confianza disponibles sin el texto completo.\nLimitaciones: Sin abstract no se puede evaluar el punto final primario, el poder estadístico del estudio ni la adherencia real al entrenamiento en la población expuesta.\nMensaje: Si se confirma la falta de impacto, obliga a repensar el diseño de las campañas comunitarias de RCP, ya que entrenar más gente no necesariamente se traduce en mejor sobrevida al paro cardíaco extrahospitalario.\nNota: análisis sin acceso al abstract."
+    },
+    "1da63b542840": {
+      "resumen": "TCTMD repasa lo más destacado del segundo día del congreso TCT (Transcatheter Cardiovascular Therapeutics), uno de los encuentros de referencia en cardiología intervencionista. Sirve como resumen rápido de los estudios y dispositivos presentados esa jornada, útil para no perderse nada sin seguir cada sesión en vivo.",
+      "destacado": false
+    },
+    "20e898d3f28a": {
+      "resumen": "Esta revisión de evidencia de JACC (Journal of the American College of Cardiology) compara el cierre percutáneo de la aurícula izquierda (LAAC, left atrial appendage closure) con la anticoagulación oral para prevenir el accidente cerebrovascular en la fibrilación auricular, poniendo el foco en la heterogeneidad de los estudios disponibles. Vale la pena mirarla porque ayuda a ordenar un campo donde los ensayos no siempre son comparables entre sí, algo clave para decidir qué paciente se beneficia más de cada estrategia.",
+      "destacado": false
+    },
+    "c3d3930e9d7f": {
+      "resumen": "El registro ENCIRCLE evaluó el reemplazo valvular mitral transcatéter (TMVR, por sus siglas en inglés) con el dispositivo Sapien M3 en pacientes con insuficiencia mitral sintomática no aptos para cirugía. A los 2 años se mantuvo la eliminación casi completa de la insuficiencia mitral y las mejoras funcionales, con una tasa de eventos aceptable; es relevante porque es la primera terapia transeptal percutánea aprobada por la FDA (Administración de Alimentos y Medicamentos de EE.UU.) para esta válvula.",
+      "destacado": true,
+      "analisis": "Diseño: Registro/estudio de un solo grupo (sin brazo comparador aleatorizado), multicéntrico, evaluado contra un objetivo de rendimiento (performance goal) preespecificado; cohorte principal de 299 pacientes, con seguimiento completo a 2 años disponible en 202 de ellos.\nPoblación: Pacientes con insuficiencia mitral sintomática considerados de alto riesgo quirúrgico o no aptos para cirugía, tratados con reemplazo valvular mitral transcatéter por vía transeptal.\nIntervención: Reemplazo valvular mitral transcatéter (TMVR) con el sistema Sapien M3, sin grupo de comparación activo (ni tratamiento médico ni cirugía ni reparación percutánea).\nResultados: Al año, el compuesto primario (muerte por cualquier causa u hospitalización por insuficiencia cardíaca) fue de 25,2%, por debajo del objetivo de rendimiento preestablecido de 45%. A los 2 años ese mismo compuesto llegó a 35,6%, con supervivencia libre de muerte de aproximadamente 75% y libre de internación por insuficiencia cardíaca de aproximadamente 77%; no se reportó obstrucción significativa del tracto de salida del ventrículo izquierdo (LVOT).\nLimitaciones: Diseño de un solo brazo sin comparador aleatorizado, por lo que no permite saber si el TMVR es superior a la reparación de borde a borde (TEER) o a la cirugía; el seguimiento a 2 años solo está disponible en una parte de la cohorte (202 de 299 pacientes).\nMensaje: Confirma que el Sapien M3 sostiene el efecto sobre la insuficiencia mitral y una tasa de eventos razonable a 2 años, pero sin un ensayo aleatorizado contra TEER o cirugía la indicación sigue limitada a pacientes sin otras alternativas.\nNota: análisis sin acceso al abstract de PubMed (datos tomados de la presentación en TCT 2026 y prensa especializada, no se pudo acceder a eutils.ncbi.nlm.nih.gov en esta corrida)."
+    },
     "6f1c419943ca": {
       "resumen": "TCTMD publica una entrevista/perfil a Nicolas van Mieghem, cardiólogo intervencionista, dentro de una serie dedicada a trayectorias y liderazgo en cardiología intervencionista. Vale la pena mirarla como mirada personal sobre ambición profesional y cómo cerrar brechas en la especialidad, más que por datos de un estudio.",
       "destacado": false
@@ -10,88 +28,68 @@
       "destacado": false,
       "analisis": "Diseño: Según el título, estudio que compara dosis altas y bajas de heparina durante la intervención coronaria percutánea (ICP) electiva; no se especifica si fue aleatorizado, el cegamiento, el número de centros ni el tamaño de la muestra.\nPoblación: Pacientes sometidos a ICP electiva (no de urgencia); no se detallan criterios de inclusión o exclusión.\nIntervención: Dosis alta de heparina frente a dosis baja de heparina como anticoagulación periprocedimiento.\nResultados: El título indica \"resultados similares\" entre ambos esquemas, pero no hay cifras de eventos isquémicos, sangrado mayor ni trombosis del stent disponibles sin el texto completo.\nLimitaciones: Sin abstract no se puede evaluar el punto final primario definido, el riesgo de sesgo, ni si el estudio tuvo poder estadístico suficiente para demostrar no inferioridad.\nMensaje: Si se confirma la equivalencia, podría respaldar el uso de dosis más bajas de heparina en ICP electiva para minimizar el riesgo de sangrado sin sacrificar eficacia antitrombótica.\nNota: análisis sin acceso al abstract."
     },
-    "9f876cb7ba64": {
-      "resumen": "TCTMD presenta un episodio de su serie \"Cardialogue\" dedicado a los fundamentos de la inteligencia artificial (IA) aplicada a la cardiología. Vale la pena mirarlo como introducción accesible a los conceptos básicos de IA para quienes recién se acercan al tema desde la práctica clínica.",
-      "destacado": false
-    },
     "6295922aad8d": {
       "resumen": "European Heart Journal (Revista Europea de Cardiología) publica una recopilación editorial de los ensayos clínicos que modificaron la práctica en prevención cardiovascular, insuficiencia cardíaca, cardiología intervencionista y rehabilitación. Vale la pena mirarla como repaso panorámico de los hitos recientes del área, aunque no es un estudio original sino un resumen de varios trabajos.",
       "destacado": false
     },
-    "4487799d619b": {
-      "resumen": "Revisión publicada en JACC (Journal of the American College of Cardiology) sobre la disfunción del ventrículo derecho en la enfermedad valvular, que repasa su epidemiología, su valor pronóstico y consideraciones de manejo clínico. Vale la pena mirarla porque el corazón derecho suele quedar en segundo plano frente al izquierdo en la evaluación de pacientes valvulares, pese a su fuerte impacto en el pronóstico.",
-      "destacado": false
-    },
-    "2162926c8581": {
-      "resumen": "Comentario editorial de JACC sobre el engrosamiento de los velos valvulares (leaflet thickening) detectado por imágenes, y sobre cuándo ese hallazgo deja de ser un dato incidental para tener relevancia clínica real. Vale la pena mirarlo porque este hallazgo aparece cada vez más en los controles por tomografía después de un TAVI (implante valvular aórtico transcatéter) o una reparación valvular.",
-      "destacado": false
-    },
-    "3d51f214f0e3": {
-      "resumen": "Comentario editorial de JACC (firmado por Krumholz HM) sobre el uso de la variable raza en los modelos de predicción de riesgo cardiovascular, y sobre para qué deberían servir realmente esos modelos. Vale la pena mirarlo porque el debate sobre variables raciales en los scores de riesgo tiene impacto directo tanto en decisiones clínicas individuales como en la equidad del sistema de salud.",
-      "destacado": false
-    },
-    "17404173247b": {
-      "resumen": "Publicación de JACC (Journal of the American College of Cardiology) sobre los resultados a 2 años del reemplazo valvular mitral transcatéter por vía transfemoral (TMVR, transcatheter mitral valve replacement), una técnica percutánea para tratar la insuficiencia o la estenosis mitral sin cirugía abierta. Vale la pena mirarlo porque el seguimiento a mediano plazo es clave para definir la durabilidad de estos dispositivos en una válvula técnicamente más compleja que la aórtica.",
+    "e935e0a1ca2a": {
+      "resumen": "El estudio ASAP-TOO (JACC) presenta los resultados aleatorizados a 5 años del cierre percutáneo de la aurícula izquierda (LAAC) en pacientes con fibrilación auricular considerados no aptos para la anticoagulación oral. Vale la pena mirarlo porque este subgrupo de pacientes, sin alternativa farmacológica segura, es justamente el que más necesita evidencia sólida a largo plazo sobre el dispositivo.",
       "destacado": false,
-      "analisis": "Diseño: Según el título, estudio de seguimiento a 2 años de pacientes tratados con reemplazo valvular mitral transcatéter (TMVR) por vía transfemoral; no se precisa si es un registro, una serie de casos o un ensayo clínico, ni el número de centros o pacientes incluidos.\nPoblación: Pacientes con enfermedad valvular mitral (insuficiencia o estenosis) tratados con TMVR transfemoral; el título no detalla los criterios de inclusión o exclusión.\nIntervención: Reemplazo valvular mitral transcatéter por acceso transfemoral; no se menciona un grupo comparador explícito.\nResultados: El título indica seguimiento a 2 años pero no aporta cifras de mortalidad, reintervención, insuficiencia residual ni eventos adversos sin el texto completo.\nLimitaciones: Sin abstract no se puede evaluar la pérdida de seguimiento, el riesgo de sesgo de selección ni la generalización de los resultados.\nMensaje: Si los resultados a 2 años son favorables, respalda a la TMVR transfemoral como alternativa percutánea sostenible en el tiempo para patología valvular mitral, aunque la indicación sigue siendo para casos seleccionados.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Ensayo clínico aleatorizado (según el nombre del estudio, ASAP-TOO), con resultados reportados a 5 años de seguimiento; no se dispone del número de centros ni del tamaño exacto de la muestra sin el texto completo.\nPoblación: Pacientes con fibrilación auricular considerados no aptos para recibir anticoagulación oral a largo plazo.\nIntervención: Cierre percutáneo de la aurícula izquierda (LAAC) frente a un grupo de comparación en pacientes sin opción de anticoagulación.\nResultados: El título indica seguimiento aleatorizado a 5 años, pero no se dispone de cifras de accidente cerebrovascular, sangrado ni mortalidad sin acceso al texto completo.\nLimitaciones: Sin abstract no se puede evaluar la tasa de pérdida de seguimiento a 5 años, el poder estadístico ni el riesgo de sesgo del ensayo.\nMensaje: Si los resultados a 5 años son favorables, refuerza al LAAC como alternativa válida y duradera en pacientes sin posibilidad de anticoagulación oral, una población con pocas opciones terapéuticas.\nNota: análisis sin acceso al abstract."
     },
-    "695bbcc6ac3f": {
-      "resumen": "Un hilo de r/datascience discute cómo sería un entorno de programación completamente bayesiano (el enfoque estadístico que actualiza probabilidades a partir de nueva evidencia), más allá de tratarlo como un agregado dentro de herramientas tradicionales. Le sirve a un médico que aprende análisis de datos porque el razonamiento bayesiano es la base de muchos métodos de inferencia que después se aplican a ensayos clínicos y a farmacovigilancia.",
-      "destacado": false
+    "8c8142914f83": {
+      "resumen": "Este metaanálisis de datos individuales de participantes (JACC) combina varios ensayos aleatorizados de cierre percutáneo de la aurícula izquierda (LAAC) en pacientes con fibrilación auricular de alto riesgo de accidente cerebrovascular y de sangrado. Vale la pena mirarlo porque reunir los datos paciente por paciente, y no solo los resultados publicados, da una estimación más precisa del beneficio del dispositivo en el subgrupo de mayor riesgo.",
+      "destacado": false,
+      "analisis": "Diseño: Metaanálisis de datos individuales de participantes (IPD, individual participant data) que combina varios ensayos clínicos aleatorizados sobre cierre percutáneo de la aurícula izquierda (LAAC); no se especifica el número exacto de ensayos ni de pacientes incluidos sin el texto completo.\nPoblación: Pacientes con fibrilación auricular de alto riesgo tanto de accidente cerebrovascular como de sangrado, el subgrupo más complejo para decidir entre anticoagulación y dispositivo.\nIntervención: Cierre percutáneo de la aurícula izquierda (LAAC) frente a anticoagulación oral, analizado a nivel de paciente individual en lugar de solo a nivel de estudio agregado.\nResultados: No se dispone de las razones de riesgo, intervalos de confianza ni valores de p del compuesto de accidente cerebrovascular o sangrado sin acceso al texto completo.\nLimitaciones: Sin abstract no se puede evaluar la heterogeneidad entre los ensayos incluidos, el riesgo de sesgo de cada uno ni si todos aportaron realmente datos a nivel individual.\nMensaje: Un metaanálisis de datos individuales en el subgrupo de mayor riesgo es el tipo de evidencia más sólida disponible para apoyar (o no) el uso de LAAC en pacientes que combinan alto riesgo trombótico y hemorrágico.\nNota: análisis sin acceso al abstract."
     },
-    "1da5db2eb26e": {
-      "resumen": "Towards Data Science probó tres modelos de lenguaje pequeños y de código abierto con 150 preguntas tipo MMLU (un examen estándar de conocimiento general) y cinco formas de presionarlos, y encontró que una simple contrapregunta (\"¿estás seguro?\") hizo que el modelo Qwen2.5 de 1.500 millones de parámetros cambiara su respuesta correcta dos de cada tres veces. Le sirve a un médico que aprende análisis de datos porque muestra cuán frágil puede ser la confianza de un modelo de inteligencia artificial (IA) ante la presión social, algo clave antes de usar sus respuestas en decisiones clínicas.",
+    "950f9f875524": {
+      "resumen": "Towards Data Science hizo una prueba reproducible de tres métodos de recuperación de información (BM25, embeddings y documentos padre) en sistemas de generación aumentada por recuperación (RAG, retrieval-augmented generation), y encontró que el rendimiento cae hasta 40 puntos cuando el conjunto de pasajes irrelevantes crece a 2,68 millones. Le sirve a un médico que aprende análisis de datos porque muestra que las evaluaciones hechas por los propios autores de una herramienta suelen sobrestimar su calidad, y que la posición de la respuesta dentro del contexto importa tanto como el contenido.",
       "destacado": true
     },
-    "1da63b542840": {
-      "resumen": "TCTMD repasa lo más destacado del segundo día del congreso TCT (Transcatheter Cardiovascular Therapeutics), uno de los encuentros de referencia en cardiología intervencionista. Sirve como resumen rápido de los estudios y dispositivos presentados esa jornada, útil para no perderse nada sin seguir cada sesión en vivo.",
+    "e4d56cd63329": {
+      "resumen": "Nintendo presentó una ola masiva de reclamos por derechos de autor (DMCA) en GitHub para bajar emuladores y firmware no oficial de su consola Switch. No es ciencia de datos propiamente, pero le sirve a quien programa o aloja proyectos en GitHub para entender cómo una gran empresa puede hacer desaparecer repositorios enteros de un día para el otro.",
       "destacado": false
     },
-    "c3d3930e9d7f": {
-      "resumen": "El registro ENCIRCLE evaluó el reemplazo valvular mitral transcatéter (TMVR, por sus siglas en inglés) con el dispositivo Sapien M3 en pacientes con insuficiencia mitral sintomática no aptos para cirugía. A los 2 años se mantuvo la eliminación casi completa de la insuficiencia mitral y las mejoras funcionales, con una tasa de eventos aceptable; es relevante porque es la primera terapia transeptal percutánea aprobada por la FDA (Administración de Alimentos y Medicamentos de EE.UU.) para esta válvula.",
-      "destacado": true,
-      "analisis": "Diseño: Registro/estudio de un solo grupo (sin brazo comparador aleatorizado), multicéntrico, evaluado contra un objetivo de rendimiento (performance goal) preespecificado; cohorte principal de 299 pacientes, con seguimiento completo a 2 años disponible en 202 de ellos.\nPoblación: Pacientes con insuficiencia mitral sintomática considerados de alto riesgo quirúrgico o no aptos para cirugía, tratados con reemplazo valvular mitral transcatéter por vía transeptal.\nIntervención: Reemplazo valvular mitral transcatéter (TMVR) con el sistema Sapien M3, sin grupo de comparación activo (ni tratamiento médico ni cirugía ni reparación percutánea).\nResultados: Al año, el compuesto primario (muerte por cualquier causa u hospitalización por insuficiencia cardíaca) fue de 25,2%, por debajo del objetivo de rendimiento preestablecido de 45%. A los 2 años ese mismo compuesto llegó a 35,6%, con supervivencia libre de muerte de aproximadamente 75% y libre de internación por insuficiencia cardíaca de aproximadamente 77%; no se reportó obstrucción significativa del tracto de salida del ventrículo izquierdo (LVOT).\nLimitaciones: Diseño de un solo brazo sin comparador aleatorizado, por lo que no permite saber si el TMVR es superior a la reparación de borde a borde (TEER) o a la cirugía; el seguimiento a 2 años solo está disponible en una parte de la cohorte (202 de 299 pacientes).\nMensaje: Confirma que el Sapien M3 sostiene el efecto sobre la insuficiencia mitral y una tasa de eventos razonable a 2 años, pero sin un ensayo aleatorizado contra TEER o cirugía la indicación sigue limitada a pacientes sin otras alternativas.\nNota: análisis sin acceso al abstract de PubMed (datos tomados de la presentación en TCT 2026 y prensa especializada, no se pudo acceder a eutils.ncbi.nlm.nih.gov en esta corrida)."
-    },
-    "5b070766ec4d": {
-      "resumen": "Wiz.io reportó una vulnerabilidad crítica de ejecución remota de código (RCE, por sus siglas en inglés) en el servidor Apache HTTP, identificada como CVE-2026-119618. No es ciencia de datos en sí, pero es una alerta de seguridad informática relevante para quien administra servidores propios donde corren modelos o aplicaciones de análisis.",
+    "6edaf29caa3e": {
+      "resumen": "Un desarrollador de Hacker News cuenta su proyecto para lograr que los modelos de lenguaje grandes (LLM, large language models) corran en dispositivos chicos y viejos, con poca memoria y poder de cómputo. Le sirve a un médico que aprende análisis de datos porque muestra técnicas de optimización, como la cuantización y los modelos más livianos, que permiten usar inteligencia artificial sin depender de servidores costosos.",
       "destacado": false
     },
-    "7d083511db3c": {
-      "resumen": "Un proyecto de código abierto llamado Stela propone una capa de compatibilidad para correr software pensado para procesadores Apple Silicon (arquitectura ARM) sobre computadoras con procesadores x86-64 convencionales. Es un tema de ingeniería de sistemas más que de ciencia de datos, pero puede interesarle a quien quiera correr herramientas o modelos optimizados para Apple en hardware PC.",
+    "464d5acf4dee": {
+      "resumen": "Towards Data Science aplicó pruebas de mutación (mutation testing, una técnica que introduce errores deliberados para ver si los tests los detectan) a 50 librerías de Python, y halló que las librerías más jóvenes dejaron pasar el 41% de los defectos plantados, además de cuatro problemas reales. Le sirve a un médico que aprende análisis de datos porque recuerda que tener muchos tests no garantiza que realmente detecten errores, algo central si se va a confiar en código para analizar datos clínicos.",
       "destacado": false
     },
-    "32af75a9e315": {
-      "resumen": "Una nota humorística de 2019, resurgida en Hacker News, muestra que la mayoría de las combinaciones aleatorias de caracteres, como salpicaduras de pintura, resultan ser programas válidos en el lenguaje Perl por su sintaxis extremadamente permisiva. Es una curiosidad sobre diseño de lenguajes de programación, sin aplicación práctica directa para el análisis de datos.",
+    "1da03e6926fd": {
+      "resumen": "KDnuggets explica cómo construir aplicaciones de inteligencia artificial generativa (GenAI) potenciadas por grafos de conocimiento, usando la herramienta de código abierto graphrag-toolkit junto con Neo4j y pgvector. Le sirve a un médico que aprende análisis de datos porque muestra cómo conectar hechos relacionados entre sí, algo que la búsqueda vectorial simple no logra, para armar asistentes de consulta más precisos.",
       "destacado": false
     },
-    "081caafcc522": {
-      "resumen": "El Wall Street Journal informa que Nvidia estaría preparando el reemplazo de su CEO histórico, Jensen Huang. Le interesa a quien sigue la industria de los semiconductores y la infraestructura de inteligencia artificial (IA), dado el rol central de Nvidia como proveedor de las unidades de procesamiento gráfico (GPU) que entrenan los modelos de IA.",
+    "0ecc21d01c24": {
+      "resumen": "Un grupo de modders terminó y dejó jugable una expansión abandonada del videojuego Quake 4, casi veinte años después de su desarrollo original. No tiene relación con la ciencia de datos, pero es una curiosidad sobre proyectos de código abierto sostenidos por comunidades de aficionados.",
+      "destacado": false
+    },
+    "19edf142065b": {
+      "resumen": "Una entrevista con Mike Clark, arquitecto jefe de AMD, repasa detalles de la próxima arquitectura de procesadores Zen 6. No es ciencia de datos en sentido estricto, pero interesa a quien quiera entender qué hardware va a mover el entrenamiento y el uso de modelos de inteligencia artificial en los próximos años.",
+      "destacado": false
+    },
+    "f48559b8526f": {
+      "resumen": "Towards Data Science armó un banco de pruebas donde anotadores humanos calificaron cada imagen del set MNIST y de Mukhoti como sí, no o dudoso, generando etiquetas blandas (soft labels) y puntajes de incertidumbre por imagen. Le sirve a un médico que aprende análisis de datos porque ilustra cómo medir la incertidumbre tanto de los humanos como de los modelos, un concepto clave para no sobreconfiar en una predicción automática.",
+      "destacado": false
+    },
+    "f9676197695c": {
+      "resumen": "KDnuggets recomienda siete libros gratuitos para aprender a construir sistemas de inteligencia artificial (IA) que funcionen de verdad en producción, más allá de armar un agente de prueba. Le sirve a un médico que aprende análisis de datos como guía de estudio para pasar de experimentar con IA a implementarla de forma confiable.",
       "destacado": false
     },
     "bb485df9f4f5": {
       "resumen": "Simon Willison comenta el lanzamiento de la Gemini Decisions API, una interfaz de Google pensada para que los modelos de lenguaje tomen decisiones estructuradas dentro de flujos de trabajo automatizados. Le sirve a quien está aprendiendo a integrar inteligencia artificial (IA) en pipelines de análisis, porque muestra una forma concreta de llevar un modelo más allá de la simple generación de texto.",
       "destacado": false
     },
-    "02f705171aa9": {
-      "resumen": "Simon Willison repasa aws-emulator, una herramienta que simula servicios de Amazon Web Services (AWS) para desarrollar y probar aplicaciones en la nube sin usar (ni pagar) la infraestructura real. Útil para quien está aprendiendo a trabajar con datos en la nube y quiere experimentar sin riesgo de costos inesperados.",
-      "destacado": false
+    "4b9909b2c3d2": {
+      "resumen": "Los Pumas ya tienen el equipo confirmado para el partido ante Italia, con cinco cambios respecto al partido anterior y varias ausencias por lesión."
     },
-    "95dd2fdb0483": {
-      "resumen": "Simon Willison presenta una forma de navegar por etiquetas (tags) su colección de pequeñas herramientas basadas en inteligencia artificial (IA), publicada en tools.simonwillison.net. Es un catálogo práctico para descubrir utilidades ya hechas que pueden ahorrar tiempo al experimentar con modelos de lenguaje.",
-      "destacado": false
+    "4adde9e79996": {
+      "resumen": "Los Pumas afrontan el duelo con Italia con cuatro bajas por lesión y un cambio adicional en el plantel."
     },
-    "d75d22173390": {
-      "resumen": "KDnuggets analiza en qué tareas específicas el modelo Smaug, de Abacus.AI, logra las mayores mejoras de rendimiento frente a otros modelos de lenguaje. Sirve para entender qué tipo de ajuste fino (fine-tuning) puede marcar una diferencia real al elegir un modelo para una tarea concreta de análisis de datos.",
-      "destacado": false
-    },
-    "7c0a1b35e3fb": {
-      "resumen": "Rugby Champagne difunde la lista de árbitros designados para las finales del segundo ascenso en las categorías Primera A, B, C, Segunda y Tercera."
-    },
-    "0f33fe239d4b": {
-      "resumen": "Los Pumas viajan a enfrentar a Italia con un historial favorable a su favor, pero con la necesidad de volver a confirmarlo en la cancha."
-    },
-    "8462d23441f4": {
-      "resumen": "Se conocieron los árbitros que dirigirán las finales de las categorías Intermedia y Pre Intermedia del TOP14."
+    "eb74fe05e7b9": {
+      "resumen": "Por la acumulación de bajas, Los Pumas probarán a Bautista Delguy en una posición en la que nunca había jugado para enfrentar a Italia."
     }
   }
 }

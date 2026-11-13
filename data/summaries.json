@@ -1,6 +1,11 @@
 {
-  "generated_at": "2026-11-12T22:05:35Z",
+  "generated_at": "2026-11-13T10:10:00Z",
   "summaries": {
+    "1d560ad604fc": {
+      "resumen": "El estudio de extensión SCOUT-HCM muestra que el mavacamtén, un inhibidor cardíaco que reduce la hipercontractilidad del músculo cardíaco, mantiene sus beneficios hasta la semana 56 en pacientes con miocardiopatía hipertrófica (HCM, engrosamiento anormal del músculo del corazón). Vale la pena mirarlo porque confirma la durabilidad del efecto de un fármaco que ya cambió el manejo de esta enfermedad, un dato clave para sostener el tratamiento a largo plazo.",
+      "destacado": false,
+      "analisis": "Diseño: Según el título, se trata de un estudio de extensión (seguimiento prolongado) del programa SCOUT-HCM con mavacamtén, con datos reportados hasta la semana 56; no se dispone de detalles sobre aleatorización, cegamiento, número de centros ni tamaño de la muestra sin el texto completo.\nPoblación: Pacientes con miocardiopatía hipertrófica (HCM) tratados con mavacamtén dentro del programa de extensión del estudio original.\nIntervención: Continuación del tratamiento con mavacamtén, un inhibidor selectivo de la miosina cardíaca, sin un comparador activo evidente en esta fase de extensión.\nResultados: El título indica que los beneficios se mantuvieron hasta la semana 56, pero no hay cifras de función ventricular, síntomas ni eventos adversos disponibles sin acceso al texto completo.\nLimitaciones: Sin abstract no se puede evaluar la tasa de pérdida de seguimiento, el diseño abierto habitual de estas extensiones (sin grupo placebo) ni el poder estadístico del análisis.\nMensaje: Si se confirma la durabilidad del efecto a más de un año, refuerza la indicación de mavacamtén como tratamiento de uso prolongado en miocardiopatía hipertrófica obstructiva.\nNota: análisis sin acceso al abstract."
+    },
     "07ee207c2b25": {
       "resumen": "El estudio RACE-CARS evaluó si una campaña amplia de entrenamiento en reanimación cardiopulmonar (RCP) en la comunidad mejora los resultados del paro cardíaco extrahospitalario (OHCA, out-of-hospital cardiac arrest). Los resultados muestran que el esfuerzo de entrenamiento masivo no logró mejorar los desenlaces de estos pacientes. Vale la pena mirarlo porque cuestiona si las campañas comunitarias de RCP, tal como están diseñadas hoy, alcanzan para cambiar la sobrevida al paro cardíaco fuera del hospital.",
       "destacado": false,
@@ -18,10 +23,6 @@
       "resumen": "El registro ENCIRCLE evaluó el reemplazo valvular mitral transcatéter (TMVR, por sus siglas en inglés) con el dispositivo Sapien M3 en pacientes con insuficiencia mitral sintomática no aptos para cirugía. A los 2 años se mantuvo la eliminación casi completa de la insuficiencia mitral y las mejoras funcionales, con una tasa de eventos aceptable; es relevante porque es la primera terapia transeptal percutánea aprobada por la FDA (Administración de Alimentos y Medicamentos de EE.UU.) para esta válvula.",
       "destacado": true,
       "analisis": "Diseño: Registro/estudio de un solo grupo (sin brazo comparador aleatorizado), multicéntrico, evaluado contra un objetivo de rendimiento (performance goal) preespecificado; cohorte principal de 299 pacientes, con seguimiento completo a 2 años disponible en 202 de ellos.\nPoblación: Pacientes con insuficiencia mitral sintomática considerados de alto riesgo quirúrgico o no aptos para cirugía, tratados con reemplazo valvular mitral transcatéter por vía transeptal.\nIntervención: Reemplazo valvular mitral transcatéter (TMVR) con el sistema Sapien M3, sin grupo de comparación activo (ni tratamiento médico ni cirugía ni reparación percutánea).\nResultados: Al año, el compuesto primario (muerte por cualquier causa u hospitalización por insuficiencia cardíaca) fue de 25,2%, por debajo del objetivo de rendimiento preestablecido de 45%. A los 2 años ese mismo compuesto llegó a 35,6%, con supervivencia libre de muerte de aproximadamente 75% y libre de internación por insuficiencia cardíaca de aproximadamente 77%; no se reportó obstrucción significativa del tracto de salida del ventrículo izquierdo (LVOT).\nLimitaciones: Diseño de un solo brazo sin comparador aleatorizado, por lo que no permite saber si el TMVR es superior a la reparación de borde a borde (TEER) o a la cirugía; el seguimiento a 2 años solo está disponible en una parte de la cohorte (202 de 299 pacientes).\nMensaje: Confirma que el Sapien M3 sostiene el efecto sobre la insuficiencia mitral y una tasa de eventos razonable a 2 años, pero sin un ensayo aleatorizado contra TEER o cirugía la indicación sigue limitada a pacientes sin otras alternativas.\nNota: análisis sin acceso al abstract de PubMed (datos tomados de la presentación en TCT 2026 y prensa especializada, no se pudo acceder a eutils.ncbi.nlm.nih.gov en esta corrida)."
-    },
-    "6f1c419943ca": {
-      "resumen": "TCTMD publica una entrevista/perfil a Nicolas van Mieghem, cardiólogo intervencionista, dentro de una serie dedicada a trayectorias y liderazgo en cardiología intervencionista. Vale la pena mirarla como mirada personal sobre ambición profesional y cómo cerrar brechas en la especialidad, más que por datos de un estudio.",
-      "destacado": false
     },
     "afeee34c46d9": {
       "resumen": "Un estudio difundido por TCTMD comparó dosis altas y bajas de heparina (anticoagulante usado durante la angioplastia) en pacientes sometidos a intervención coronaria percutánea (ICP) electiva, y encontró resultados clínicos similares entre ambos esquemas. Vale la pena mirarlo porque ajustar la dosis de heparina sin perder eficacia podría reducir el riesgo de sangrado, una de las complicaciones más frecuentes de la ICP.",
@@ -42,17 +43,24 @@
       "destacado": false,
       "analisis": "Diseño: Metaanálisis de datos individuales de participantes (IPD, individual participant data) que combina varios ensayos clínicos aleatorizados sobre cierre percutáneo de la aurícula izquierda (LAAC); no se especifica el número exacto de ensayos ni de pacientes incluidos sin el texto completo.\nPoblación: Pacientes con fibrilación auricular de alto riesgo tanto de accidente cerebrovascular como de sangrado, el subgrupo más complejo para decidir entre anticoagulación y dispositivo.\nIntervención: Cierre percutáneo de la aurícula izquierda (LAAC) frente a anticoagulación oral, analizado a nivel de paciente individual en lugar de solo a nivel de estudio agregado.\nResultados: No se dispone de las razones de riesgo, intervalos de confianza ni valores de p del compuesto de accidente cerebrovascular o sangrado sin acceso al texto completo.\nLimitaciones: Sin abstract no se puede evaluar la heterogeneidad entre los ensayos incluidos, el riesgo de sesgo de cada uno ni si todos aportaron realmente datos a nivel individual.\nMensaje: Un metaanálisis de datos individuales en el subgrupo de mayor riesgo es el tipo de evidencia más sólida disponible para apoyar (o no) el uso de LAAC en pacientes que combinan alto riesgo trombótico y hemorrágico.\nNota: análisis sin acceso al abstract."
     },
+    "a30e0ab02542": {
+      "resumen": "Microsoft Outlook y Microsoft 365 llevaban más de 12 horas caídos a nivel mundial, según este hilo de Hacker News. Le sirve a un médico que aprende análisis de datos porque muestra lo frágil que es depender de un solo proveedor de nube para el correo y las herramientas de trabajo, un riesgo a tener en cuenta al diseñar cualquier flujo de datos propio."
+    },
+    "726f9b131488": {
+      "resumen": "IceWM es un gestor de ventanas liviano para sistemas Linux, pensado para consumir pocos recursos de memoria y procesador. Le sirve a un médico que aprende análisis de datos porque herramientas livianas como esta permiten correr entornos de programación en computadoras modestas, sin necesidad de hardware costoso."
+    },
+    "33783a15d7ad": {
+      "resumen": "Empleados de Nvidia firmaron una petición para que Jensen Huang, su director ejecutivo histórico, vuelva a la conducción de la empresa. Le sirve a un médico que aprende análisis de datos porque Nvidia fabrica los procesadores gráficos (GPU) que sostienen el entrenamiento de casi toda la inteligencia artificial actual, y la estabilidad de su liderazgo afecta a todo ese ecosistema."
+    },
+    "f980cc1f1e21": {
+      "resumen": "Edge0-145B es un modelo de inteligencia artificial que promete capacidades de frontera corriendo en una computadora personal, sin depender de servidores en la nube. Le sirve a un médico que aprende análisis de datos porque apunta a una tendencia clave: modelos cada vez más potentes que se pueden usar de forma local, con más privacidad de los datos y sin costos recurrentes de nube."
+    },
+    "8d30336b14bf": {
+      "resumen": "Simon Willison repasa el lanzamiento de llm-gemini 0.37 y el estreno de Gemini 4 Hydrogen, la versión más económica de la nueva familia de modelos de Google, con un precio sorprendentemente competitivo frente a sus hermanos más grandes. Le sirve a un médico que aprende análisis de datos porque entender la relación entre costo y capacidad de los modelos ayuda a elegir cuál conviene usar para cada tarea sin gastar de más."
+    },
     "950f9f875524": {
       "resumen": "Towards Data Science hizo una prueba reproducible de tres métodos de recuperación de información (BM25, embeddings y documentos padre) en sistemas de generación aumentada por recuperación (RAG, retrieval-augmented generation), y encontró que el rendimiento cae hasta 40 puntos cuando el conjunto de pasajes irrelevantes crece a 2,68 millones. Le sirve a un médico que aprende análisis de datos porque muestra que las evaluaciones hechas por los propios autores de una herramienta suelen sobrestimar su calidad, y que la posición de la respuesta dentro del contexto importa tanto como el contenido.",
       "destacado": true
-    },
-    "e4d56cd63329": {
-      "resumen": "Nintendo presentó una ola masiva de reclamos por derechos de autor (DMCA) en GitHub para bajar emuladores y firmware no oficial de su consola Switch. No es ciencia de datos propiamente, pero le sirve a quien programa o aloja proyectos en GitHub para entender cómo una gran empresa puede hacer desaparecer repositorios enteros de un día para el otro.",
-      "destacado": false
-    },
-    "6edaf29caa3e": {
-      "resumen": "Un desarrollador de Hacker News cuenta su proyecto para lograr que los modelos de lenguaje grandes (LLM, large language models) corran en dispositivos chicos y viejos, con poca memoria y poder de cómputo. Le sirve a un médico que aprende análisis de datos porque muestra técnicas de optimización, como la cuantización y los modelos más livianos, que permiten usar inteligencia artificial sin depender de servidores costosos.",
-      "destacado": false
     },
     "464d5acf4dee": {
       "resumen": "Towards Data Science aplicó pruebas de mutación (mutation testing, una técnica que introduce errores deliberados para ver si los tests los detectan) a 50 librerías de Python, y halló que las librerías más jóvenes dejaron pasar el 41% de los defectos plantados, además de cuatro problemas reales. Le sirve a un médico que aprende análisis de datos porque recuerda que tener muchos tests no garantiza que realmente detecten errores, algo central si se va a confiar en código para analizar datos clínicos.",
@@ -60,14 +68,6 @@
     },
     "1da03e6926fd": {
       "resumen": "KDnuggets explica cómo construir aplicaciones de inteligencia artificial generativa (GenAI) potenciadas por grafos de conocimiento, usando la herramienta de código abierto graphrag-toolkit junto con Neo4j y pgvector. Le sirve a un médico que aprende análisis de datos porque muestra cómo conectar hechos relacionados entre sí, algo que la búsqueda vectorial simple no logra, para armar asistentes de consulta más precisos.",
-      "destacado": false
-    },
-    "0ecc21d01c24": {
-      "resumen": "Un grupo de modders terminó y dejó jugable una expansión abandonada del videojuego Quake 4, casi veinte años después de su desarrollo original. No tiene relación con la ciencia de datos, pero es una curiosidad sobre proyectos de código abierto sostenidos por comunidades de aficionados.",
-      "destacado": false
-    },
-    "19edf142065b": {
-      "resumen": "Una entrevista con Mike Clark, arquitecto jefe de AMD, repasa detalles de la próxima arquitectura de procesadores Zen 6. No es ciencia de datos en sentido estricto, pero interesa a quien quiera entender qué hardware va a mover el entrenamiento y el uso de modelos de inteligencia artificial en los próximos años.",
       "destacado": false
     },
     "f48559b8526f": {
@@ -78,18 +78,14 @@
       "resumen": "KDnuggets recomienda siete libros gratuitos para aprender a construir sistemas de inteligencia artificial (IA) que funcionen de verdad en producción, más allá de armar un agente de prueba. Le sirve a un médico que aprende análisis de datos como guía de estudio para pasar de experimentar con IA a implementarla de forma confiable.",
       "destacado": false
     },
-    "bb485df9f4f5": {
-      "resumen": "Simon Willison comenta el lanzamiento de la Gemini Decisions API, una interfaz de Google pensada para que los modelos de lenguaje tomen decisiones estructuradas dentro de flujos de trabajo automatizados. Le sirve a quien está aprendiendo a integrar inteligencia artificial (IA) en pipelines de análisis, porque muestra una forma concreta de llevar un modelo más allá de la simple generación de texto.",
-      "destacado": false
+    "caae7db9d02e": {
+      "resumen": "De cara al duelo ante Italia, el entrenador Felipe Contepomi decidió modificar varias piezas clave de Los Pumas respecto al partido anterior."
     },
-    "4b9909b2c3d2": {
-      "resumen": "Los Pumas ya tienen el equipo confirmado para el partido ante Italia, con cinco cambios respecto al partido anterior y varias ausencias por lesión."
+    "68b28efbbe49": {
+      "resumen": "Gonzalo Quesada, entrenador de Italia, ya confirmó el equipo que enfrentará a Los Pumas."
     },
-    "4adde9e79996": {
-      "resumen": "Los Pumas afrontan el duelo con Italia con cuatro bajas por lesión y un cambio adicional en el plantel."
-    },
-    "eb74fe05e7b9": {
-      "resumen": "Por la acumulación de bajas, Los Pumas probarán a Bautista Delguy en una posición en la que nunca había jugado para enfrentar a Italia."
+    "3634706fb0a0": {
+      "resumen": "Un nuevo programa de Rugby Champagne Federal repasó, junto a Joaquín de la Vega, el partido entre Los Pumas e Italia y las finales del ascenso de la URBA."
     }
   }
 }

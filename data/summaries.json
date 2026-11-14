@@ -1,10 +1,6 @@
 {
-  "generated_at": "2026-11-14T10:04:34Z",
+  "generated_at": "2026-11-14T22:03:55Z",
   "summaries": {
-    "0f9676f00cc9": {
-      "resumen": "\"Beyond the Data\" es una columna de TCTMD que reanaliza en profundidad los datos del estudio NEDA sobre insuficiencia tricuspídea (TR, tricuspid regurgitation), una valvulopatía cada vez más reconocida y tratada. Vale la pena mirarla porque va más allá del titular y repasa con ojo crítico qué dicen realmente los datos sobre el manejo de esta enfermedad, hoy en expansión con dispositivos percutáneos.",
-      "destacado": false
-    },
     "37428918c3e1": {
       "resumen": "El estudio EPIC17-VERONICA evaluó si guiar la reducción escalonada de la doble terapia antiagregante (DAPT, dual antiplatelet therapy) con pruebas de función plaquetaria mejora los resultados clínicos tras una angioplastia coronaria, y no encontró beneficio frente a la estrategia estándar. Vale la pena mirarlo porque cuestiona el valor de personalizar el tratamiento antiagregante con este tipo de test, una práctica propuesta para reducir sangrados sin perder protección isquémica.",
       "destacado": false,
@@ -29,13 +25,18 @@
       "resumen": "Esta revisión de evidencia de JACC (Journal of the American College of Cardiology) compara el cierre percutáneo de la aurícula izquierda (LAAC, left atrial appendage closure) con la anticoagulación oral para prevenir el accidente cerebrovascular en la fibrilación auricular, poniendo el foco en la heterogeneidad de los estudios disponibles. Vale la pena mirarla porque ayuda a ordenar un campo donde los ensayos no siempre son comparables entre sí, algo clave para decidir qué paciente se beneficia más de cada estrategia.",
       "destacado": false
     },
+    "c3d3930e9d7f": {
+      "resumen": "El estudio ENCIRCLE evaluó el reemplazo percutáneo de la válvula mitral (TMVR, transcatheter mitral valve replacement) con el sistema Sapien M3 en pacientes con insuficiencia mitral severa de alto riesgo quirúrgico, y mostró que los buenos resultados se mantienen a 2 años de seguimiento. Vale la pena mirarlo porque aporta datos de durabilidad a mediano plazo de una técnica percutánea cada vez más usada en pacientes no candidatos a cirugía de válvula mitral.",
+      "destacado": true,
+      "analisis": "Diseño: Según el título, estudio de seguimiento a 2 años (probablemente un registro o extensión de un ensayo) del sistema Sapien M3 para reemplazo percutáneo de la válvula mitral (TMVR) dentro del programa ENCIRCLE; no se dispone de detalles sobre aleatorización, cegamiento, número de centros ni de pacientes sin el texto completo.\nPoblación: Pacientes con insuficiencia mitral severa sintomática considerados de alto riesgo o no aptos para cirugía valvular convencional.\nIntervención: Reemplazo percutáneo de la válvula mitral con el sistema Sapien M3; no se especifica un comparador activo en este seguimiento.\nResultados: El título indica que los \"buenos resultados se mantienen\" a 2 años, pero no hay cifras de mortalidad, insuficiencia residual ni reinternaciones por insuficiencia cardíaca disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar la tasa de pérdida de seguimiento a 2 años, el diseño exacto (con o sin grupo control) ni el riesgo basal de la población incluida.\nMensaje: Si se confirma la durabilidad a 2 años, refuerza al Sapien M3 como opción percutánea viable y sostenida en el tiempo para pacientes con insuficiencia mitral severa no candidatos a cirugía.\nNota: análisis sin acceso al abstract."
+    },
     "6295922aad8d": {
       "resumen": "European Heart Journal (Revista Europea de Cardiología) publica una recopilación editorial de los ensayos clínicos que modificaron la práctica en prevención cardiovascular, insuficiencia cardíaca, cardiología intervencionista y rehabilitación. Vale la pena mirarla como repaso panorámico de los hitos recientes del área, aunque no es un estudio original sino un resumen de varios trabajos.",
       "destacado": false
     },
     "e935e0a1ca2a": {
       "resumen": "El ensayo ASAP-TOO evaluó el cierre percutáneo de la aurícula izquierda (LAAC, left atrial appendage closure) en pacientes con fibrilación auricular considerados no aptos para anticoagulación oral, con seguimiento aleatorizado a 5 años. Vale la pena mirarlo porque aporta los datos a más largo plazo disponibles sobre esta estrategia en una población que no tiene alternativa farmacológica clara para prevenir el accidente cerebrovascular.",
-      "destacado": true,
+      "destacado": false,
       "analisis": "Diseño: Ensayo clínico aleatorizado (ASAP-TOO) con seguimiento extendido a 5 años; el título no especifica el número de centros ni de pacientes sin acceso al texto completo.\nPoblación: Pacientes con fibrilación auricular considerados no aptos para tratamiento con anticoagulación oral, en quienes se buscaba una alternativa para la prevención del accidente cerebrovascular.\nIntervención: Cierre percutáneo de la aurícula izquierda (LAAC) frente a la conducta de no recibir anticoagulación oral, dado que estos pacientes no eran candidatos a anticoagulantes.\nResultados: El título indica que se reportan \"resultados aleatorizados\" a 5 años, pero no hay cifras de accidente cerebrovascular, sangrado mayor ni mortalidad disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar la tasa de pérdida de seguimiento a 5 años, el poder estadístico del estudio ni el riesgo basal de la población incluida.\nMensaje: Si se confirma el beneficio sostenido a 5 años, refuerza el rol del cierre percutáneo de la aurícula izquierda como alternativa válida en pacientes sin opción de anticoagulación oral.\nNota: análisis sin acceso al abstract."
     },
     "8c8142914f83": {
@@ -43,32 +44,28 @@
       "destacado": false,
       "analisis": "Diseño: Metaanálisis con datos individuales de participantes (individual participant data) de ensayos clínicos aleatorizados sobre cierre percutáneo de la aurícula izquierda; no se dispone del número exacto de ensayos ni de pacientes incluidos sin el texto completo.\nPoblación: Pacientes con fibrilación auricular con alto riesgo combinado de accidente cerebrovascular y de sangrado, subgrupo donde la decisión entre anticoagulación y LAAC es más compleja.\nIntervención: Cierre percutáneo de la aurícula izquierda (LAAC) frente a anticoagulación oral, según los brazos de los ensayos aleatorizados incluidos en el metaanálisis.\nResultados: El título no aporta cifras de accidente cerebrovascular, sangrado mayor ni mortalidad; no hay razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar la heterogeneidad entre los ensayos incluidos, los criterios de selección de estudios ni el riesgo de sesgo de los trabajos originales.\nMensaje: Un metaanálisis con datos individuales en este subgrupo de alto riesgo puede ayudar a definir mejor qué pacientes se benefician más del cierre percutáneo frente a la anticoagulación, aunque la confirmación definitiva requiere leer el texto completo.\nNota: análisis sin acceso al abstract."
     },
-    "4028792c0aeb": {
-      "resumen": "Independiente inauguró su nuevo centro de formación Santoro en Domínico, con un momento cargado de emoción para Pepé y Hugo Tocalli."
-    },
-    "0e5ea2e8c4ce": {
-      "resumen": "Guía con el canal, el horario y las opciones para ver en vivo el partido de Los Pumas ante Italia por el Nations Championship."
-    },
-    "49ddacc45459": {
-      "resumen": "Francia le ganó a Sudáfrica y quedó con chances de meterse en la final del Nations Championship."
-    },
-    "286608282c51": {
-      "resumen": "Todas las opciones de TV y streaming para seguir en vivo el partido de Los Pumas contra Italia."
-    },
-    "c6caa4d4f0b0": {
-      "resumen": "Un artículo plantea que Nvidia habría financiado a startups de inteligencia artificial para que compraran sus propias placas gráficas (GPU), generando una escasez artificial que infla la demanda percibida. Le sirve a un médico que se forma en análisis de datos porque muestra las tensiones económicas detrás del hardware que sostiene el entrenamiento de modelos de inteligencia artificial, y por qué el acceso a GPU puede ser más político que técnico.",
+    "dc5edb003be3": {
+      "resumen": "Es el repositorio de código abierto del sistema Direct File del IRS (agencia tributaria de Estados Unidos), la herramienta que permitió declarar impuestos gratis online sin pasar por software privado. Le sirve a un médico que aprende análisis de datos porque es un ejemplo real de un proyecto público de gran escala hecho con herramientas abiertas, útil para ver cómo se estructura un sistema de este tipo de punta a punta.",
       "destacado": false
     },
-    "6c41dcbf34a2": {
-      "resumen": "Se lanzó la versión 1.0.0 de ggml, una librería de código abierto en lenguaje C para ejecutar modelos de inteligencia artificial de forma eficiente, incluso en computadoras sin una placa gráfica potente. Le sirve a un médico que aprende análisis de datos porque es la base de herramientas populares para correr modelos de lenguaje en equipos modestos, ampliando el acceso a la inteligencia artificial sin depender de la nube.",
+    "c8d55e521b5b": {
+      "resumen": "Una investigación de seguridad encontró que aplicaciones creadas con Lovable (plataforma que genera apps con inteligencia artificial) dejaban expuestos datos de pasaportes y más de 200.000 mensajes privados por fallas de configuración. Le sirve a un médico que se forma en análisis de datos porque es un recordatorio de que generar aplicaciones rápido con IA no exime de revisar la seguridad y privacidad de los datos que manejan, algo crítico si alguna vez se trabaja con datos de pacientes.",
       "destacado": false
     },
-    "7039aca8dbba": {
-      "resumen": "Un director de Nvidia vendió casi 1000 millones de dólares en acciones de la empresa semanas antes de que estallara un escándalo vinculado a su director ejecutivo, Jensen Huang. Le sirve a un médico interesado en ciencia de datos como contexto de negocio: entender los incentivos financieros detrás de las empresas que dominan el hardware de inteligencia artificial ayuda a leer con ojo crítico las noticias del sector.",
+    "14e0892d6f4a": {
+      "resumen": "El proyecto usa Lean, un lenguaje de demostración formal de matemáticas, para traducir el código tributario de Estados Unidos a reglas verificables automáticamente por una computadora. Le sirve a un médico que aprende análisis de datos porque muestra cómo la lógica formal puede convertir reglas complejas y ambiguas (como las impositivas, o también ciertos protocolos clínicos) en algo que se puede chequear sin errores de interpretación.",
       "destacado": false
     },
-    "f98d19f282ec": {
-      "resumen": "Un estudio con análisis de redes sociales animales encontró que los elefantes están cada vez más aislados, con redes sociales fragmentadas, probablemente por la presión humana sobre su hábitat. Le sirve a un médico que aprende análisis de datos porque es un buen ejemplo de cómo las herramientas de análisis de redes (network analysis), usadas aquí en etología, también se aplican a estudiar conexiones sociales o de contacto en epidemiología.",
+    "85898c079664": {
+      "resumen": "PyPI (el repositorio oficial de paquetes de Python) rediseñó las páginas de cada proyecto para mostrar de forma más clara señales de seguridad, como quién mantiene el paquete y si tiene vulnerabilidades conocidas. Le sirve a un médico que aprende análisis de datos porque Python y sus paquetes son la base de casi cualquier proyecto de ciencia de datos, y saber leer estas señales ayuda a elegir librerías confiables.",
+      "destacado": false
+    },
+    "bd6fd5385019": {
+      "resumen": "Una guía práctica muestra, paso a paso, cómo construir una cadena de Markov (modelo que predice el próximo estado de un sistema a partir del estado actual) en Python usando NumPy, con matrices de transición y distribuciones estacionarias. Le sirve a un médico que aprende análisis de datos porque las cadenas de Markov se usan para modelar procesos con estados que cambian con el tiempo, aplicable por ejemplo a la evolución de un paciente entre distintos estadios clínicos.",
+      "destacado": false
+    },
+    "c5637323d608": {
+      "resumen": "Un análisis de más de 100 agentes de inteligencia artificial en producción encontró que la mayoría falla por una degradación silenciosa de la calidad de sus respuestas, y no por errores evidentes, por lo que recomienda monitorear calidad, costo y latencia desde el principio. Le sirve a un médico que aprende análisis de datos porque advierte que un sistema automatizado puede parecer que funciona bien mientras se deteriora de forma imperceptible, un riesgo a vigilar en cualquier herramienta de apoyo clínico basada en IA.",
       "destacado": false
     },
     "a41cf41c3f01": {
@@ -87,13 +84,11 @@
       "resumen": "Una comparación mostró que una búsqueda simple por palabras clave igualó el rendimiento de un modelo de embeddings (representaciones numéricas de texto) de 8000 millones de parámetros a la hora de elegir qué herramienta debe usar un agente de inteligencia artificial. Le sirve a un médico que aprende análisis de datos porque demuestra que, antes de sumar modelos complejos, conviene probar soluciones simples: no siempre el método más sofisticado es el más efectivo.",
       "destacado": true
     },
-    "b84a1df7d64e": {
-      "resumen": "Un artículo repasa, con cuatro ejemplos en Python, cómo un modelo de inteligencia artificial llamado Jev toma decisiones al analizar imágenes. Le sirve a un médico que se inicia en análisis de datos porque muestra de forma concreta y con código cómo razona un modelo de visión por computadora, un paso útil para entender herramientas de apoyo diagnóstico por imágenes.",
-      "destacado": false
+    "76382b19150c": {
+      "resumen": "Pablo Matera habló tras la victoria de Los Pumas ante Italia y destacó que el equipo supo sacar adelante un partido complicado."
     },
-    "5f6d50ab240a": {
-      "resumen": "Una guía práctica explica cómo armar, en menos de una hora, un \"lakehouse\" (combinación de lago y almacén de datos) usando DuckLake sobre DuckDB, una base de datos liviana pensada para análisis. Le sirve a un médico que aprende ciencia de datos porque es una introducción accesible a cómo organizar y consultar grandes volúmenes de datos sin necesidad de infraestructura compleja.",
-      "destacado": false
+    "6fdad1b68086": {
+      "resumen": "Pese al triunfo de Los Pumas ante Italia por el Nations Championship, la indisciplina quedó marcada como el punto flojo del equipo."
     }
   }
 }

@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-11-13T22:06:34Z",
+  "generated_at": "2026-11-14T10:04:34Z",
   "summaries": {
+    "0f9676f00cc9": {
+      "resumen": "\"Beyond the Data\" es una columna de TCTMD que reanaliza en profundidad los datos del estudio NEDA sobre insuficiencia tricuspídea (TR, tricuspid regurgitation), una valvulopatía cada vez más reconocida y tratada. Vale la pena mirarla porque va más allá del titular y repasa con ojo crítico qué dicen realmente los datos sobre el manejo de esta enfermedad, hoy en expansión con dispositivos percutáneos.",
+      "destacado": false
+    },
+    "37428918c3e1": {
+      "resumen": "El estudio EPIC17-VERONICA evaluó si guiar la reducción escalonada de la doble terapia antiagregante (DAPT, dual antiplatelet therapy) con pruebas de función plaquetaria mejora los resultados clínicos tras una angioplastia coronaria, y no encontró beneficio frente a la estrategia estándar. Vale la pena mirarlo porque cuestiona el valor de personalizar el tratamiento antiagregante con este tipo de test, una práctica propuesta para reducir sangrados sin perder protección isquémica.",
+      "destacado": false,
+      "analisis": "Diseño: Según el título, ensayo clínico (EPIC17-VERONICA) que evaluó una estrategia de desescalada guiada de la doble terapia antiagregante (DAPT); no se dispone de detalles sobre aleatorización, cegamiento, número de centros ni de pacientes sin el texto completo.\nPoblación: Pacientes tratados con doble terapia antiagregante tras una intervención coronaria percutánea, candidatos a reducir la intensidad del tratamiento antiplaquetario.\nIntervención: Desescalada de la DAPT guiada por pruebas de función plaquetaria frente a la estrategia de desescalada estándar, sin guía por test.\nResultados: El título indica que la estrategia guiada por test no mejoró los resultados clínicos; no hay cifras de eventos isquémicos, sangrados ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el punto final primario, el tamaño de muestra, el poder estadístico ni la adherencia a la estrategia asignada.\nMensaje: Si se confirma la falta de beneficio, resta valor al uso sistemático de pruebas de función plaquetaria para guiar la desescalada de la DAPT en la práctica diaria.\nNota: análisis sin acceso al abstract."
+    },
+    "e01cd9a7d762": {
+      "resumen": "Datos observacionales sugieren que los pacientes sin vivienda estable (unhoused) con enfermedad arterial periférica (EAP, estrechamiento de las arterias de las piernas) necesitan un abordaje más matizado que el protocolo estándar, por las barreras de acceso, adherencia y seguimiento que enfrentan. Vale la pena mirarlo porque pone en primer plano a una población vulnerable que suele quedar afuera de los ensayos clásicos de cardiología vascular.",
+      "destacado": false,
+      "analisis": "Diseño: Según el título, se trataría de un análisis de datos (probablemente observacional o de registro) sobre la atención de pacientes con enfermedad arterial periférica (EAP) en situación de calle; no hay detalles de metodología, tamaño de muestra ni centros participantes disponibles sin el texto completo.\nPoblación: Pacientes sin vivienda estable (unhoused) con diagnóstico de enfermedad arterial periférica, comparados implícitamente con la población general atendida por este problema.\nIntervención: No se especifica una intervención farmacológica o de revascularización puntual; el foco parece estar en el modelo de atención y seguimiento más que en un tratamiento específico.\nResultados: El título solo indica que \"los datos sugieren\" la necesidad de una atención más matizada, sin cifras de eventos, amputaciones ni mortalidad disponibles.\nLimitaciones: Sin abstract no se puede evaluar el diseño exacto, el riesgo de factores de confusión socioeconómicos ni la generalización a otros sistemas de salud.\nMensaje: Si se confirma, obliga a repensar los protocolos de seguimiento de la EAP en poblaciones vulnerables, donde las barreras de acceso pueden pesar tanto como la enfermedad misma.\nNota: análisis sin acceso al abstract."
+    },
     "1d560ad604fc": {
       "resumen": "El estudio de extensión SCOUT-HCM muestra que el mavacamtén, un inhibidor cardíaco que reduce la hipercontractilidad del músculo cardíaco, mantiene sus beneficios hasta la semana 56 en pacientes con miocardiopatía hipertrófica (HCM, engrosamiento anormal del músculo del corazón). Vale la pena mirarlo porque confirma la durabilidad del efecto de un fármaco que ya cambió el manejo de esta enfermedad, un dato clave para sostener el tratamiento a largo plazo.",
       "destacado": false,
@@ -11,65 +25,67 @@
       "destacado": false,
       "analisis": "Diseño: Según el título, parece un ensayo que evaluó una intervención de entrenamiento masivo y amplio en reanimación cardiopulmonar (RCP); no se dispone de detalles sobre aleatorización, cegamiento, número de centros o pacientes.\nPoblación: Comunidades o sistemas de emergencia expuestos a campañas de entrenamiento en RCP para la población general, en el contexto del paro cardíaco extrahospitalario (OHCA).\nIntervención: Programa amplio de entrenamiento en RCP dirigido a la comunidad, frente a la atención o práctica habitual sin ese refuerzo.\nResultados: El título indica que el entrenamiento extendido no modificó (\"didn't nudge\") los resultados del OHCA; no hay cifras de sobrevida, egreso neurológico favorable ni intervalos de confianza disponibles sin el texto completo.\nLimitaciones: Sin abstract no se puede evaluar el punto final primario, el poder estadístico del estudio ni la adherencia real al entrenamiento en la población expuesta.\nMensaje: Si se confirma la falta de impacto, obliga a repensar el diseño de las campañas comunitarias de RCP, ya que entrenar más gente no necesariamente se traduce en mejor sobrevida al paro cardíaco extrahospitalario.\nNota: análisis sin acceso al abstract."
     },
-    "1da63b542840": {
-      "resumen": "TCTMD repasa lo más destacado del segundo día del congreso TCT (Transcatheter Cardiovascular Therapeutics), uno de los encuentros de referencia en cardiología intervencionista. Sirve como resumen rápido de los estudios y dispositivos presentados esa jornada, útil para no perderse nada sin seguir cada sesión en vivo.",
-      "destacado": false
-    },
     "20e898d3f28a": {
       "resumen": "Esta revisión de evidencia de JACC (Journal of the American College of Cardiology) compara el cierre percutáneo de la aurícula izquierda (LAAC, left atrial appendage closure) con la anticoagulación oral para prevenir el accidente cerebrovascular en la fibrilación auricular, poniendo el foco en la heterogeneidad de los estudios disponibles. Vale la pena mirarla porque ayuda a ordenar un campo donde los ensayos no siempre son comparables entre sí, algo clave para decidir qué paciente se beneficia más de cada estrategia.",
       "destacado": false
-    },
-    "c3d3930e9d7f": {
-      "resumen": "El registro ENCIRCLE evaluó el reemplazo valvular mitral transcatéter (TMVR, por sus siglas en inglés) con el dispositivo Sapien M3 en pacientes con insuficiencia mitral sintomática no aptos para cirugía. A los 2 años se mantuvo la eliminación casi completa de la insuficiencia mitral y las mejoras funcionales, con una tasa de eventos aceptable; es relevante porque es la primera terapia transeptal percutánea aprobada por la FDA (Administración de Alimentos y Medicamentos de EE.UU.) para esta válvula.",
-      "destacado": true,
-      "analisis": "Diseño: Registro/estudio de un solo grupo (sin brazo comparador aleatorizado), multicéntrico, evaluado contra un objetivo de rendimiento (performance goal) preespecificado; cohorte principal de 299 pacientes, con seguimiento completo a 2 años disponible en 202 de ellos.\nPoblación: Pacientes con insuficiencia mitral sintomática considerados de alto riesgo quirúrgico o no aptos para cirugía, tratados con reemplazo valvular mitral transcatéter por vía transeptal.\nIntervención: Reemplazo valvular mitral transcatéter (TMVR) con el sistema Sapien M3, sin grupo de comparación activo (ni tratamiento médico ni cirugía ni reparación percutánea).\nResultados: Al año, el compuesto primario (muerte por cualquier causa u hospitalización por insuficiencia cardíaca) fue de 25,2%, por debajo del objetivo de rendimiento preestablecido de 45%. A los 2 años ese mismo compuesto llegó a 35,6%, con supervivencia libre de muerte de aproximadamente 75% y libre de internación por insuficiencia cardíaca de aproximadamente 77%; no se reportó obstrucción significativa del tracto de salida del ventrículo izquierdo (LVOT).\nLimitaciones: Diseño de un solo brazo sin comparador aleatorizado, por lo que no permite saber si el TMVR es superior a la reparación de borde a borde (TEER) o a la cirugía; el seguimiento a 2 años solo está disponible en una parte de la cohorte (202 de 299 pacientes).\nMensaje: Confirma que el Sapien M3 sostiene el efecto sobre la insuficiencia mitral y una tasa de eventos razonable a 2 años, pero sin un ensayo aleatorizado contra TEER o cirugía la indicación sigue limitada a pacientes sin otras alternativas.\nNota: análisis sin acceso al abstract de PubMed (datos tomados de la presentación en TCT 2026 y prensa especializada, no se pudo acceder a eutils.ncbi.nlm.nih.gov en esta corrida)."
     },
     "6295922aad8d": {
       "resumen": "European Heart Journal (Revista Europea de Cardiología) publica una recopilación editorial de los ensayos clínicos que modificaron la práctica en prevención cardiovascular, insuficiencia cardíaca, cardiología intervencionista y rehabilitación. Vale la pena mirarla como repaso panorámico de los hitos recientes del área, aunque no es un estudio original sino un resumen de varios trabajos.",
       "destacado": false
     },
-    "e01cd9a7d762": {
-      "resumen": "Datos observacionales sugieren que los pacientes sin vivienda estable (unhoused) con enfermedad arterial periférica (EAP, estrechamiento de las arterias de las piernas) necesitan un abordaje más matizado que el protocolo estándar, por las barreras de acceso, adherencia y seguimiento que enfrentan. Vale la pena mirarlo porque pone en primer plano a una población vulnerable que suele quedar afuera de los ensayos clásicos de cardiología vascular.",
-      "destacado": false,
-      "analisis": "Diseño: Según el título, se trataría de un análisis de datos (probablemente observacional o de registro) sobre la atención de pacientes con enfermedad arterial periférica (EAP) en situación de calle; no hay detalles de metodología, tamaño de muestra ni centros participantes disponibles sin el texto completo.\nPoblación: Pacientes sin vivienda estable (unhoused) con diagnóstico de enfermedad arterial periférica, comparados implícitamente con la población general atendida por este problema.\nIntervención: No se especifica una intervención farmacológica o de revascularización puntual; el foco parece estar en el modelo de atención y seguimiento más que en un tratamiento específico.\nResultados: El título solo indica que \"los datos sugieren\" la necesidad de una atención más matizada, sin cifras de eventos, amputaciones ni mortalidad disponibles.\nLimitaciones: Sin abstract no se puede evaluar el diseño exacto, el riesgo de factores de confusión socioeconómicos ni la generalización a otros sistemas de salud.\nMensaje: Si se confirma, obliga a repensar los protocolos de seguimiento de la EAP en poblaciones vulnerables, donde las barreras de acceso pueden pesar tanto como la enfermedad misma.\nNota: análisis sin acceso al abstract."
+    "e935e0a1ca2a": {
+      "resumen": "El ensayo ASAP-TOO evaluó el cierre percutáneo de la aurícula izquierda (LAAC, left atrial appendage closure) en pacientes con fibrilación auricular considerados no aptos para anticoagulación oral, con seguimiento aleatorizado a 5 años. Vale la pena mirarlo porque aporta los datos a más largo plazo disponibles sobre esta estrategia en una población que no tiene alternativa farmacológica clara para prevenir el accidente cerebrovascular.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico aleatorizado (ASAP-TOO) con seguimiento extendido a 5 años; el título no especifica el número de centros ni de pacientes sin acceso al texto completo.\nPoblación: Pacientes con fibrilación auricular considerados no aptos para tratamiento con anticoagulación oral, en quienes se buscaba una alternativa para la prevención del accidente cerebrovascular.\nIntervención: Cierre percutáneo de la aurícula izquierda (LAAC) frente a la conducta de no recibir anticoagulación oral, dado que estos pacientes no eran candidatos a anticoagulantes.\nResultados: El título indica que se reportan \"resultados aleatorizados\" a 5 años, pero no hay cifras de accidente cerebrovascular, sangrado mayor ni mortalidad disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar la tasa de pérdida de seguimiento a 5 años, el poder estadístico del estudio ni el riesgo basal de la población incluida.\nMensaje: Si se confirma el beneficio sostenido a 5 años, refuerza el rol del cierre percutáneo de la aurícula izquierda como alternativa válida en pacientes sin opción de anticoagulación oral.\nNota: análisis sin acceso al abstract."
     },
-    "8ff73a17bdf9": {
-      "resumen": "Un repaso del ensayo SPAF-II (Stroke Prevention in Atrial Fibrillation II), uno de los estudios históricos que comparó warfarina con aspirina para prevenir el accidente cerebrovascular en la fibrilación auricular (arritmia cardíaca frecuente). Vale la pena mirarlo porque ayuda a entender de dónde viene la indicación clásica de anticoagulación en esta arritmia, útil para contextualizar la evidencia más moderna con los anticoagulantes directos.",
+    "8c8142914f83": {
+      "resumen": "Un metaanálisis con datos individuales de pacientes (individual participant data meta-analysis) de ensayos aleatorizados analizó el cierre percutáneo de la aurícula izquierda (LAAC) en pacientes con fibrilación auricular de alto riesgo de accidente cerebrovascular y de sangrado. Vale la pena mirarlo porque, al combinar datos crudos de varios ensayos, ofrece una estimación más robusta del beneficio de esta estrategia justamente en el subgrupo de pacientes más difícil de tratar.",
       "destacado": false,
-      "analisis": "Diseño: El título indica que se trata de una revisión o comentario sobre el ensayo histórico SPAF-II (Stroke Prevention in Atrial Fibrillation II), un ensayo clínico aleatorizado de los años 90; no se dispone de detalles sobre el número de centros o pacientes sin el texto completo de esta nota.\nPoblación: Pacientes con fibrilación auricular no valvular, candidatos a prevención de accidente cerebrovascular.\nIntervención: Comparación entre warfarina (anticoagulante antagonista de la vitamina K) y aspirina para la prevención de accidente cerebrovascular en fibrilación auricular.\nResultados: No se dispone de cifras propias de esta nota ni del abstract original; SPAF-II se asocia históricamente a una discusión sobre el beneficio relativo de la anticoagulación frente a la aspirina, pero esta revisión no aporta números verificables en esta corrida.\nLimitaciones: Se trata de una revisión retrospectiva de un ensayo de hace más de 25 años, con los anticoagulantes y el contexto clínico de esa época, que no incluye los anticoagulantes orales directos actuales.\nMensaje: Revisitar SPAF-II ayuda a entender el origen de la indicación de anticoagulación en fibrilación auricular, aunque la práctica actual se apoya mayormente en los anticoagulantes orales directos, con perfiles de eficacia y seguridad distintos a los de la warfarina.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Metaanálisis con datos individuales de participantes (individual participant data) de ensayos clínicos aleatorizados sobre cierre percutáneo de la aurícula izquierda; no se dispone del número exacto de ensayos ni de pacientes incluidos sin el texto completo.\nPoblación: Pacientes con fibrilación auricular con alto riesgo combinado de accidente cerebrovascular y de sangrado, subgrupo donde la decisión entre anticoagulación y LAAC es más compleja.\nIntervención: Cierre percutáneo de la aurícula izquierda (LAAC) frente a anticoagulación oral, según los brazos de los ensayos aleatorizados incluidos en el metaanálisis.\nResultados: El título no aporta cifras de accidente cerebrovascular, sangrado mayor ni mortalidad; no hay razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar la heterogeneidad entre los ensayos incluidos, los criterios de selección de estudios ni el riesgo de sesgo de los trabajos originales.\nMensaje: Un metaanálisis con datos individuales en este subgrupo de alto riesgo puede ayudar a definir mejor qué pacientes se benefician más del cierre percutáneo frente a la anticoagulación, aunque la confirmación definitiva requiere leer el texto completo.\nNota: análisis sin acceso al abstract."
     },
-    "e9232aa9cffe": {
-      "resumen": "La Asociación Americana del Corazón (AHA, American Heart Association) publicó una declaración científica sobre la promoción de la salud cardiovascular en veteranos de Estados Unidos, repasando el estado actual, las brechas de atención y las estrategias para mejorarlas. Vale la pena mirarlo porque identifica a los veteranos como una población con riesgo cardiovascular particular, con necesidades de prevención que no siempre están bien cubiertas por los programas generales.",
+    "4028792c0aeb": {
+      "resumen": "Independiente inauguró su nuevo centro de formación Santoro en Domínico, con un momento cargado de emoción para Pepé y Hugo Tocalli."
+    },
+    "0e5ea2e8c4ce": {
+      "resumen": "Guía con el canal, el horario y las opciones para ver en vivo el partido de Los Pumas ante Italia por el Nations Championship."
+    },
+    "49ddacc45459": {
+      "resumen": "Francia le ganó a Sudáfrica y quedó con chances de meterse en la final del Nations Championship."
+    },
+    "286608282c51": {
+      "resumen": "Todas las opciones de TV y streaming para seguir en vivo el partido de Los Pumas contra Italia."
+    },
+    "c6caa4d4f0b0": {
+      "resumen": "Un artículo plantea que Nvidia habría financiado a startups de inteligencia artificial para que compraran sus propias placas gráficas (GPU), generando una escasez artificial que infla la demanda percibida. Le sirve a un médico que se forma en análisis de datos porque muestra las tensiones económicas detrás del hardware que sostiene el entrenamiento de modelos de inteligencia artificial, y por qué el acceso a GPU puede ser más político que técnico.",
       "destacado": false
     },
-    "c0e6466da00f": {
-      "resumen": "El ensayo aleatorizado FRAGILE comparó la cirugía de bypass coronario (CABG, coronary artery bypass grafting) sin circulación extracorpórea (\"off-pump\") frente a la técnica convencional con bomba (\"on-pump\") en pacientes prefrágiles y frágiles, evaluando resultados a 30 días y al año. Vale la pena mirarlo porque esta población de pacientes frágiles suele quedar subrepresentada en los grandes ensayos de cirugía cardíaca, y la elección de la técnica puede impactar directamente en su recuperación.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico aleatorizado (el nombre FRAGILE sugiere un diseño controlado y aleatorizado) que comparó cirugía de bypass coronario sin circulación extracorpórea (off-pump) versus con circulación extracorpórea (on-pump), con resultados reportados a 30 días y al año; no se dispone de número de centros ni de pacientes sin acceso al abstract completo.\nPoblación: Pacientes sometidos a cirugía de revascularización coronaria clasificados como prefrágiles o frágiles, un subgrupo de mayor riesgo perioperatorio.\nIntervención: Cirugía de bypass coronario (CABG) sin circulación extracorpórea (off-pump) comparada con la técnica convencional con circulación extracorpórea (on-pump).\nResultados: El título no aporta cifras de mortalidad, complicaciones ni accidente cerebrovascular a 30 días o al año; no hay datos numéricos disponibles sin el abstract.\nLimitaciones: Sin el abstract no se puede evaluar el tamaño de la muestra, el poder estadístico para detectar diferencias en una población frágil (habitualmente pequeña) ni la experiencia del equipo quirúrgico con la técnica off-pump.\nMensaje: Si el off-pump demuestra ser más seguro en pacientes frágiles, podría influir en la elección de técnica quirúrgica para este subgrupo de mayor riesgo, aunque la decisión final seguirá siendo individualizada.\nNota: análisis sin acceso al abstract."
-    },
-    "ebfa684b8c5d": {
-      "resumen": "Investigadores desarrollaron un medio de cultivo químicamente definido que permite generar cardiomiocitos humanos (células del músculo cardíaco) con un metabolismo similar al de un corazón adulto, pensado para modelar enfermedades mitocondriales. Vale la pena mirarlo porque los cardiomiocitos derivados de células madre suelen tener un metabolismo \"inmaduro\", y este avance podría mejorar los modelos de laboratorio para estudiar enfermedades del corazón.",
+    "6c41dcbf34a2": {
+      "resumen": "Se lanzó la versión 1.0.0 de ggml, una librería de código abierto en lenguaje C para ejecutar modelos de inteligencia artificial de forma eficiente, incluso en computadoras sin una placa gráfica potente. Le sirve a un médico que aprende análisis de datos porque es la base de herramientas populares para correr modelos de lenguaje en equipos modestos, ampliando el acceso a la inteligencia artificial sin depender de la nube.",
       "destacado": false
     },
-    "7d69bcec4f11": {
-      "resumen": "Un caso clínico describe la calcificación y estenosis progresivas de una válvula aórtica cuadricúspide, una variante congénita rara con cuatro valvas en lugar de las tres habituales. Vale la pena mirarlo como recordatorio de que estas variantes anatómicas poco frecuentes también pueden degenerar con el tiempo y requerir seguimiento por imágenes.",
+    "7039aca8dbba": {
+      "resumen": "Un director de Nvidia vendió casi 1000 millones de dólares en acciones de la empresa semanas antes de que estallara un escándalo vinculado a su director ejecutivo, Jensen Huang. Le sirve a un médico interesado en ciencia de datos como contexto de negocio: entender los incentivos financieros detrás de las empresas que dominan el hardware de inteligencia artificial ayuda a leer con ojo crítico las noticias del sector.",
+      "destacado": false
+    },
+    "f98d19f282ec": {
+      "resumen": "Un estudio con análisis de redes sociales animales encontró que los elefantes están cada vez más aislados, con redes sociales fragmentadas, probablemente por la presión humana sobre su hábitat. Le sirve a un médico que aprende análisis de datos porque es un buen ejemplo de cómo las herramientas de análisis de redes (network analysis), usadas aquí en etología, también se aplican a estudiar conexiones sociales o de contacto en epidemiología.",
+      "destacado": false
+    },
+    "a41cf41c3f01": {
+      "resumen": "Se lanzó la versión 0.19 del plugin datasette-cluster-map, que agrega mapas interactivos a Datasette (herramienta de código abierto para explorar y publicar bases de datos). Le sirve a un médico que aprende ciencia de datos porque muestra, con un ejemplo concreto, cómo visualizar datos con componente geográfico sin escribir código de mapas desde cero.",
+      "destacado": false
+    },
+    "2ff8c47f48f0": {
+      "resumen": "Se publicó la versión 0.3 de datasette-leaflet, un plugin que corrige cómo se solicitan los mapas de OpenStreetMap (servicio cartográfico colaborativo) dentro de Datasette, para respetar su política de uso. Le sirve a un médico que se inicia en ciencia de datos como ejemplo de buenas prácticas: hasta en proyectos pequeños hay que cuidar cómo el software consume servicios externos para no infringir sus políticas de uso.",
       "destacado": false
     },
     "b554564b242b": {
       "resumen": "Un especialista con más de 15 años de experiencia en inteligencia artificial y ciencia de datos en Amazon y Sony, que entrevistó a miles de candidatos y coacheó a más de 3000 estudiantes, abrió una sesión de preguntas y respuestas (AMA, Ask Me Anything) en Reddit. Le sirve a un médico que está empezando en análisis de datos porque es una fuente directa de consejos prácticos sobre cómo reorientar una carrera hacia el área, con la mirada de alguien que contrata y forma a esos perfiles.",
       "destacado": false
     },
-    "d6b5bcff4d0c": {
-      "resumen": "Un posteo de la cuenta oficial de LibreOffice (suite ofimática gratuita y de código abierto) bromea con que su software \"funciona los 365 días del año\", en referencia a cortes recientes de servicios de Microsoft. Es un recordatorio liviano de que existen alternativas gratuitas y de código abierto a las suites ofimáticas pagas, algo útil para quien recién arma su caja de herramientas de trabajo con datos.",
-      "destacado": false
-    },
     "74fe93b3436a": {
       "resumen": "Una comparación mostró que una búsqueda simple por palabras clave igualó el rendimiento de un modelo de embeddings (representaciones numéricas de texto) de 8000 millones de parámetros a la hora de elegir qué herramienta debe usar un agente de inteligencia artificial. Le sirve a un médico que aprende análisis de datos porque demuestra que, antes de sumar modelos complejos, conviene probar soluciones simples: no siempre el método más sofisticado es el más efectivo.",
       "destacado": true
-    },
-    "66162cadea69": {
-      "resumen": "La aseguradora brasileña Caixa sufrió una filtración de datos que expuso nombres y números de identificación tributaria de sus 7,6 millones de clientes. Le sirve a quien trabaja con datos sensibles (como historias clínicas) como recordatorio concreto de los riesgos de seguridad y privacidad que conlleva manejar bases de datos personales a gran escala.",
-      "destacado": false
     },
     "b84a1df7d64e": {
       "resumen": "Un artículo repasa, con cuatro ejemplos en Python, cómo un modelo de inteligencia artificial llamado Jev toma decisiones al analizar imágenes. Le sirve a un médico que se inicia en análisis de datos porque muestra de forma concreta y con código cómo razona un modelo de visión por computadora, un paso útil para entender herramientas de apoyo diagnóstico por imágenes.",
@@ -78,28 +94,6 @@
     "5f6d50ab240a": {
       "resumen": "Una guía práctica explica cómo armar, en menos de una hora, un \"lakehouse\" (combinación de lago y almacén de datos) usando DuckLake sobre DuckDB, una base de datos liviana pensada para análisis. Le sirve a un médico que aprende ciencia de datos porque es una introducción accesible a cómo organizar y consultar grandes volúmenes de datos sin necesidad de infraestructura compleja.",
       "destacado": false
-    },
-    "9a966f663483": {
-      "resumen": "Un artículo argumenta por qué el lenguaje de programación Zig puede ser una alternativa más segura y moderna que C para programación de sistemas. Aporta contexto técnico de fondo: muchas herramientas de análisis de datos y de inteligencia artificial están escritas en lenguajes de bajo nivel como C, y entender sus alternativas ayuda a comprender por qué ciertas librerías son más rápidas o más seguras que otras.",
-      "destacado": false
-    },
-    "05d89a4c2c11": {
-      "resumen": "Un artículo analiza qué tareas de la investigación doctoral los agentes de inteligencia artificial logran acelerar realmente (como la búsqueda bibliográfica o el análisis exploratorio de datos) y cuáles todavía no pueden reemplazar (como el diseño experimental y el pensamiento crítico). Le sirve a un médico que hace su transición a análisis de datos porque traza un límite realista sobre qué delegarle a la inteligencia artificial y qué sigue requiriendo criterio humano.",
-      "destacado": false
-    },
-    "32906667f7fe": {
-      "resumen": "Una nota recomienda cinco alternativas gratuitas y de código abierto a Jev, la herramienta de inteligencia artificial mencionada en otra nota de la sección. Le sirve a quien está armando su set de herramientas de análisis de datos con presupuesto acotado, para no depender de un único producto pago.",
-      "destacado": false
-    },
-    "fb5f7b47b18d": {
-      "resumen": "Science.org republicó, coincidiendo con que hoy es viernes 13, un artículo de 1960 sobre el algoritmo del \"día del fin del mundo\" (Doomsday rule), un método para calcular mentalmente el día de la semana de cualquier fecha. Es un ejemplo histórico curioso de pensamiento algorítmico aplicado a un problema cotidiano, útil para quien recién se familiariza con la lógica detrás de los algoritmos.",
-      "destacado": false
-    },
-    "495d85bf9f63": {
-      "resumen": "Contepomi, entrenador de Los Pumas, dejó un mensaje contundente sobre la necesidad de ganar antes del partido ante Italia."
-    },
-    "aa787976f55e": {
-      "resumen": "Un informe detalla cómo Esteban Alvarado continuó operaciones de narcotráfico y lavado de dinero mientras está preso en el penal de Ezeiza."
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T22:05:44Z",
+  "generated_at": "2026-11-16T10:04:43Z",
   "summaries": {
     "20e898d3f28a": {
       "resumen": "Esta revisión de evidencia de JACC (Journal of the American College of Cardiology) compara el cierre percutáneo de la aurícula izquierda (LAAC, left atrial appendage closure) con la anticoagulación oral para prevenir el accidente cerebrovascular en la fibrilación auricular, poniendo el foco en la heterogeneidad de los estudios disponibles. Vale la pena mirarla porque ayuda a ordenar un campo donde los ensayos no siempre son comparables entre sí, algo clave para decidir qué paciente se beneficia más de cada estrategia.",
@@ -19,26 +19,10 @@
       "destacado": true,
       "analisis": "Diseño: Metaanálisis con datos individuales de participantes (individual participant data) de ensayos clínicos aleatorizados sobre cierre percutáneo de la aurícula izquierda; no se dispone del número exacto de ensayos ni de pacientes incluidos sin el texto completo.\nPoblación: Pacientes con fibrilación auricular con alto riesgo combinado de accidente cerebrovascular y de sangrado, subgrupo donde la decisión entre anticoagulación y LAAC es más compleja.\nIntervención: Cierre percutáneo de la aurícula izquierda (LAAC) frente a anticoagulación oral, según los brazos de los ensayos aleatorizados incluidos en el metaanálisis.\nResultados: El título no aporta cifras de accidente cerebrovascular, sangrado mayor ni mortalidad; no hay razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar la heterogeneidad entre los ensayos incluidos, los criterios de selección de estudios ni el riesgo de sesgo de los trabajos originales.\nMensaje: Un metaanálisis con datos individuales en este subgrupo de alto riesgo puede ayudar a definir mejor qué pacientes se benefician más del cierre percutáneo frente a la anticoagulación, aunque la confirmación definitiva requiere leer el texto completo.\nNota: análisis sin acceso al abstract."
     },
-    "bd6fd5385019": {
-      "resumen": "Una guía práctica muestra, paso a paso, cómo construir una cadena de Markov (modelo que predice el próximo estado de un sistema a partir del estado actual) en Python usando NumPy, con matrices de transición y distribuciones estacionarias. Le sirve a un médico que aprende análisis de datos porque las cadenas de Markov se usan para modelar procesos con estados que cambian con el tiempo, aplicable por ejemplo a la evolución de un paciente entre distintos estadios clínicos.",
-      "destacado": false
-    },
-    "a41cf41c3f01": {
-      "resumen": "Se lanzó la versión 0.19 del plugin datasette-cluster-map, que agrega mapas interactivos a Datasette (herramienta de código abierto para explorar y publicar bases de datos). Le sirve a un médico que aprende ciencia de datos porque muestra, con un ejemplo concreto, cómo visualizar datos con componente geográfico sin escribir código de mapas desde cero.",
-      "destacado": false
-    },
     "aa14eaf2685f": {
       "resumen": "El ensayo aleatorizado LIPSIA-STRATEGY comparó dos formas de medir la reserva fraccional de flujo (FFR, fractional flow reserve) para decidir qué lesiones coronarias conviene revascularizar: la derivada por angiografía (sin usar una guía de presión) contra la medición clásica con guía de presión intracoronaria. Vale la pena mirarlo porque, si la estrategia derivada por angiografía demuestra ser equivalente, podría simplificar y abaratar una decisión que hoy exige instrumentar la arteria con una guía física.",
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico aleatorizado (LIPSIA-STRATEGY); el título no precisa el número de centros, el tipo de cegamiento ni la cantidad de pacientes incluidos.\nPoblación: Pacientes con enfermedad coronaria en quienes se evaluaban lesiones de severidad intermedia candidatas a revascularización guiada por reserva fraccional de flujo (FFR).\nIntervención: Medición de la reserva fraccional de flujo derivada por angiografía (sin guía de presión) frente a la medición clásica con guía de presión intracoronaria (wire-based), para guiar la decisión de revascularizar.\nResultados: El título no aporta cifras del criterio de valoración principal (tasa de revascularización, eventos clínicos o concordancia entre métodos); no hay razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar la concordancia diagnóstica entre ambos métodos, el seguimiento clínico alcanzado ni si el estudio tuvo el poder estadístico necesario para demostrar equivalencia.\nMensaje: Si la reserva fraccional de flujo derivada por angiografía resulta equivalente a la medición con guía de presión, podría simplificar la toma de decisiones en la sala de hemodinamia sin necesidad de instrumentar la arteria, aunque la confirmación definitiva requiere leer el texto completo.\nNota: análisis sin acceso al abstract."
-    },
-    "2059ff8340bb": {
-      "resumen": "Se lanzó la versión 0.1a11 de datasette-llm, el plugin que permite configurar modelos de lenguaje grandes (LLM, large language models) para usarlos dentro de Datasette (herramienta de código abierto para explorar y publicar bases de datos); esta versión suma soporte para servicios compatibles con la interfaz de OpenAI. Le sirve a un médico que aprende análisis de datos porque muestra cómo integrar inteligencia artificial directamente sobre una base de datos propia, sin depender de un solo proveedor.",
-      "destacado": false
-    },
-    "cd67e7c43214": {
-      "resumen": "Se lanzó la versión 0.7 de datasette-vega, el plugin más antiguo de Datasette para graficar datos de una tabla o de una consulta usando Vega-Lite, actualizado por primera vez desde 2018. Le sirve a un médico que aprende análisis de datos porque permite generar gráficos interactivos directamente desde una base de datos propia, sin tener que exportar los datos a otra herramienta.",
-      "destacado": false
     },
     "e01cd9a7d762": {
       "resumen": "Un estudio presentado en TCTMD describe cómo las personas en situación de calle (unhoused) con enfermedad arterial periférica (PAD, peripheral artery disease) reciben a menudo un manejo distinto al del resto de los pacientes, y señala la necesidad de una atención más matizada. Vale la pena mirarlo porque pone el foco en una población vulnerable y con barreras de acceso que suele quedar afuera de los ensayos clínicos tradicionales de cardiología vascular.",
@@ -68,34 +52,56 @@
       "resumen": "Una guía práctica describe seis patrones para combinar agentes de inteligencia artificial con GraphRAG (generación aumentada por recuperación sobre grafos de conocimiento, graph retrieval-augmented generation), una técnica que mejora las respuestas de los modelos de lenguaje conectándolos con bases de conocimiento estructuradas en forma de grafo. Le sirve a un médico que aprende análisis de datos porque muestra cómo estructurar el conocimiento clínico o bibliográfico para que un asistente de inteligencia artificial responda con información verificable y trazable, en lugar de inventar datos.",
       "destacado": true
     },
-    "df7a37179ad8": {
-      "resumen": "El autor argumenta que todo el código generado por inteligencia artificial debería publicarse como código abierto (open source), planteando un debate sobre la propiedad intelectual y la transparencia del software creado por estas herramientas. Le sirve a un médico que aprende análisis de datos porque introduce una discusión relevante sobre qué tan abierto y auditable debería ser el código que generan los asistentes de inteligencia artificial que cada vez más se usan para programar.",
+    "2e89eccf23d0": {
+      "resumen": "Hilo de la comunidad r/datascience donde varios profesionales cuentan por qué dejaron la tecnología o la ciencia de datos (data science) y hacia dónde se fueron. Le sirve a un médico que está haciendo la transición hacia el análisis de datos porque ofrece testimonios reales sobre el mercado laboral del rubro, más allá del entusiasmo habitual por la inteligencia artificial.",
       "destacado": false
     },
-    "edccaa36305e": {
-      "resumen": "Esta nota técnica explica por qué la nueva pantalla OLED de la MacBook Pro, pese a tener mejor contraste, puede resultar más incómoda para la vista por el uso de modulación por ancho de pulso (PWM, pulse-width modulation) para regular el brillo. Es una nota de interés tecnológico general más que de ciencia de datos en sentido estricto, aunque puede resultar relevante para quien pasa muchas horas frente a la pantalla analizando datos.",
+    "024dc60d778c": {
+      "resumen": "Megahilo semanal de r/datascience pensado para quienes están entrando o haciendo la transición hacia la ciencia de datos (data science), donde se comparten dudas sobre formación, portfolios y primeros pasos en el rubro. Le sirve a un médico que recién se inicia en el análisis de datos porque es un espacio para hacer preguntas básicas sin la presión de foros más técnicos.",
       "destacado": false
     },
-    "12a7bab19f97": {
-      "resumen": "Un tutorial muestra cómo calcular la dimensión efectiva de modelos de aprendizaje automático cuántico (quantum machine learning) usando PyTorch, una métrica que ayuda a estimar la capacidad real de un modelo para aprender de los datos. Le sirve a un médico que aprende análisis de datos como introducción a conceptos de capacidad y complejidad de los modelos, útiles para entender por qué un modelo puede sobreajustar o generalizar mal, más allá de que el ejemplo use computación cuántica.",
+    "8468cd1c9400": {
+      "resumen": "Alibaba presentó Qwen4-Max, la nueva versión de su modelo de lenguaje grande (LLM, large language model) de la familia Qwen, que compite con los modelos más grandes del mercado. Le sirve a un médico que aprende análisis de datos para seguir de cerca la carrera entre los principales modelos de inteligencia artificial, cada vez más usados para analizar datos y texto clínico.",
       "destacado": false
     },
-    "950ac38f23f2": {
-      "resumen": "Un artículo explica cómo los modelos de lenguaje grandes (LLM, large language models) modernos usan embeddings posicionales (representaciones numéricas que le indican al modelo el orden de las palabras) para entender la secuencia de un texto. Le sirve a un médico que aprende análisis de datos porque es una base conceptual para entender cómo funcionan por dentro los asistentes de inteligencia artificial de texto que usa a diario.",
+    "d8f5a3c86112": {
+      "resumen": "Un investigador describió una vulnerabilidad de ejecución de código conocida como cross-site scripting universal (XSS universal) en la extensión uBlock Origin, explotable a través de su selector de elementos manejado por el sitio web visitado. Es una nota de seguridad informática más que de ciencia de datos en sentido estricto, pero recuerda que hasta herramientas de uso diario como los bloqueadores de publicidad pueden tener fallas serias de seguridad.",
       "destacado": false
     },
-    "768d7342d588": {
-      "resumen": "Esta nota de investigación periodística reporta que un funcionario de Estados Unidos habría impulsado flexibilizar las reglas de exportación de chips (semiconductores) que se superponen con los negocios de su familia. Es una nota de interés político y regulatorio más que de ciencia de datos en sentido estricto, aunque afecta indirectamente la disponibilidad y el costo global de los chips que entrenan los modelos de inteligencia artificial.",
+    "83b3b2200438": {
+      "resumen": "El proyecto Tor lanzó una actualización de emergencia para mitigar un ataque sostenido de denegación de servicio distribuido (DDoS, distributed denial of service) contra su red de anonimato. Es una nota de seguridad e infraestructura de redes más que de ciencia de datos propiamente dicha, aunque ilustra los desafíos de mantener en pie sistemas distribuidos bajo ataque.",
       "destacado": false
     },
-    "03505533388b": {
-      "resumen": "Los Pumas vencieron a Italia en Génova y estiraron a 18 años su racha sin perder ante los Azzurri."
+    "128a04bf78b6": {
+      "resumen": "Se lanzó datasette-maplibre 0.1a0, un nuevo plugin geoespacial para Datasette (herramienta de código abierto para explorar y publicar bases de datos) que combina la librería MapLibre GL con el servidor de mapas gratuito OpenFreeMap. Le sirve a un médico que aprende análisis de datos porque muestra cómo agregar mapas interactivos a una base de datos propia sin depender de servicios de mapas pagos.",
+      "destacado": false
     },
-    "181fb6bdaf8c": {
-      "resumen": "Los Pumas ganaron en Génova, aunque con una actuación que no convenció del todo."
+    "7bcbcfb1111a": {
+      "resumen": "Un análisis de estrategia empresarial repasa hacia dónde podría ir Nvidia luego de consolidarse como el proveedor dominante de chips (semiconductores) para inteligencia artificial. Le sirve a un médico que aprende ciencia de datos para entender el contexto de negocio detrás del hardware que hoy sostiene el entrenamiento de los modelos de inteligencia artificial que usa a diario.",
+      "destacado": false
     },
-    "58312a544464": {
-      "resumen": "Los Pumas aguantaron el achique de Italia en el complemento y se impusieron 19 a 14 en Génova."
+    "67eb98ac1cd8": {
+      "resumen": "Nueva versión 1.0a43 de Datasette (herramienta de código abierto para explorar y publicar bases de datos), que suma soporte de transmisión en vivo (streaming) para los complementos que generan reportes, dentro del avance hacia la versión 1.0 estable. Le sirve a un médico que aprende análisis de datos porque Datasette es una forma simple de publicar y explorar bases de datos propias sin programar una aplicación web desde cero.",
+      "destacado": false
+    },
+    "3f50af67247c": {
+      "resumen": "Versión de mantenimiento 0.65.6 de Datasette que corrige, para la rama estable, una falla de seguridad por la cual una base de datos registrada con una ruta (route) distinta de su nombre podía descargarse sin autorización. Le sirve a un médico que aprende análisis de datos como recordatorio de que hasta las herramientas simples para publicar datos necesitan mantenimiento de seguridad activo.",
+      "destacado": false
+    },
+    "cca49061de44": {
+      "resumen": "Los seleccionados sudamericanos de rugby ganaron sus partidos del fin de semana y uno de ellos logró subir un puesto en el ranking mundial de World Rugby."
+    },
+    "848881a26f58": {
+      "resumen": "Ya se conoce el calendario completo del Nations Championship 2026, el nuevo torneo internacional de rugby en el que Los Pumas tendrán su lugar."
+    },
+    "702db6eb1408": {
+      "resumen": "Se sortearon los rivales y se confirmaron los horarios de Los Pumas 7s para la primera etapa del Circuito Mundial de rugby seven."
+    },
+    "0c228502e9aa": {
+      "resumen": "Los Pumas le ganaron a Italia en su visita a Génova, dentro de la ventana de test matches de noviembre."
+    },
+    "3bb8843edeb2": {
+      "resumen": "Una nota repasa el fracaso de Fordlandia, la ciudad utópica que Henry Ford intentó construir en la selva amazónica, marcada por reglas estrictas y una rebelión de los trabajadores."
     }
   }
 }

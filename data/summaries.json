@@ -1,23 +1,14 @@
 {
-  "generated_at": "2026-11-16T10:04:43Z",
+  "generated_at": "2026-11-16T22:05:00Z",
   "summaries": {
     "20e898d3f28a": {
       "resumen": "Esta revisión de evidencia de JACC (Journal of the American College of Cardiology) compara el cierre percutáneo de la aurícula izquierda (LAAC, left atrial appendage closure) con la anticoagulación oral para prevenir el accidente cerebrovascular en la fibrilación auricular, poniendo el foco en la heterogeneidad de los estudios disponibles. Vale la pena mirarla porque ayuda a ordenar un campo donde los ensayos no siempre son comparables entre sí, algo clave para decidir qué paciente se beneficia más de cada estrategia.",
-      "destacado": false
-    },
-    "6295922aad8d": {
-      "resumen": "European Heart Journal (Revista Europea de Cardiología) publica una recopilación editorial de los ensayos clínicos que modificaron la práctica en prevención cardiovascular, insuficiencia cardíaca, cardiología intervencionista y rehabilitación. Vale la pena mirarla como repaso panorámico de los hitos recientes del área, aunque no es un estudio original sino un resumen de varios trabajos.",
       "destacado": false
     },
     "e935e0a1ca2a": {
       "resumen": "El ensayo ASAP-TOO evaluó el cierre percutáneo de la aurícula izquierda (LAAC, left atrial appendage closure) en pacientes con fibrilación auricular considerados no aptos para anticoagulación oral, con seguimiento aleatorizado a 5 años. Vale la pena mirarlo porque aporta los datos a más largo plazo disponibles sobre esta estrategia en una población que no tiene alternativa farmacológica clara para prevenir el accidente cerebrovascular.",
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico aleatorizado (ASAP-TOO) con seguimiento extendido a 5 años; el título no especifica el número de centros ni de pacientes sin acceso al texto completo.\nPoblación: Pacientes con fibrilación auricular considerados no aptos para tratamiento con anticoagulación oral, en quienes se buscaba una alternativa para la prevención del accidente cerebrovascular.\nIntervención: Cierre percutáneo de la aurícula izquierda (LAAC) frente a la conducta de no recibir anticoagulación oral, dado que estos pacientes no eran candidatos a anticoagulantes.\nResultados: El título indica que se reportan \"resultados aleatorizados\" a 5 años, pero no hay cifras de accidente cerebrovascular, sangrado mayor ni mortalidad disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar la tasa de pérdida de seguimiento a 5 años, el poder estadístico del estudio ni el riesgo basal de la población incluida.\nMensaje: Si se confirma el beneficio sostenido a 5 años, refuerza el rol del cierre percutáneo de la aurícula izquierda como alternativa válida en pacientes sin opción de anticoagulación oral.\nNota: análisis sin acceso al abstract."
-    },
-    "8c8142914f83": {
-      "resumen": "Un metaanálisis con datos individuales de pacientes (individual participant data meta-analysis) de ensayos aleatorizados analizó el cierre percutáneo de la aurícula izquierda (LAAC) en pacientes con fibrilación auricular de alto riesgo de accidente cerebrovascular y de sangrado. Vale la pena mirarlo porque, al combinar datos crudos de varios ensayos, ofrece una estimación más robusta del beneficio de esta estrategia justamente en el subgrupo de pacientes más difícil de tratar.",
-      "destacado": true,
-      "analisis": "Diseño: Metaanálisis con datos individuales de participantes (individual participant data) de ensayos clínicos aleatorizados sobre cierre percutáneo de la aurícula izquierda; no se dispone del número exacto de ensayos ni de pacientes incluidos sin el texto completo.\nPoblación: Pacientes con fibrilación auricular con alto riesgo combinado de accidente cerebrovascular y de sangrado, subgrupo donde la decisión entre anticoagulación y LAAC es más compleja.\nIntervención: Cierre percutáneo de la aurícula izquierda (LAAC) frente a anticoagulación oral, según los brazos de los ensayos aleatorizados incluidos en el metaanálisis.\nResultados: El título no aporta cifras de accidente cerebrovascular, sangrado mayor ni mortalidad; no hay razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar la heterogeneidad entre los ensayos incluidos, los criterios de selección de estudios ni el riesgo de sesgo de los trabajos originales.\nMensaje: Un metaanálisis con datos individuales en este subgrupo de alto riesgo puede ayudar a definir mejor qué pacientes se benefician más del cierre percutáneo frente a la anticoagulación, aunque la confirmación definitiva requiere leer el texto completo.\nNota: análisis sin acceso al abstract."
     },
     "aa14eaf2685f": {
       "resumen": "El ensayo aleatorizado LIPSIA-STRATEGY comparó dos formas de medir la reserva fraccional de flujo (FFR, fractional flow reserve) para decidir qué lesiones coronarias conviene revascularizar: la derivada por angiografía (sin usar una guía de presión) contra la medición clásica con guía de presión intracoronaria. Vale la pena mirarlo porque, si la estrategia derivada por angiografía demuestra ser equivalente, podría simplificar y abaratar una decisión que hoy exige instrumentar la arteria con una guía física.",
@@ -39,69 +30,75 @@
       "destacado": false,
       "analisis": "Diseño: Estudio (el título sugiere un diseño poblacional o cuasi-experimental, posiblemente por conglomerados) que evalúa un programa comunitario amplio de entrenamiento en reanimación cardiopulmonar (RACE-CARS); no se especifica aleatorización, cegamiento ni número de centros o participantes.\nPoblación: Comunidades o regiones expuestas a una campaña extendida de entrenamiento en RCP, con el foco puesto en los pacientes que sufrieron un paro cardíaco extrahospitalario (OHCA) en esas áreas.\nIntervención: Programa comunitario de entrenamiento masivo en reanimación cardiopulmonar frente a la atención y respuesta habitual ante el paro cardíaco fuera del hospital.\nResultados: El título indica que el esfuerzo de entrenamiento \"no modificó\" los resultados del OHCA, pero no hay cifras de supervivencia, retorno a la circulación espontánea ni estado neurológico disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar la adherencia real al entrenamiento, la tasa de RCP efectivamente realizada por testigos ni posibles factores de confusión poblacionales.\nMensaje: Sugiere que entrenar a la comunidad en RCP, por sí solo y sin otras intervenciones del sistema de emergencias, podría no ser suficiente para mejorar la supervivencia al paro cardíaco extrahospitalario.\nNota: análisis sin acceso al abstract."
     },
-    "c3d3930e9d7f": {
-      "resumen": "El registro ENCIRCLE muestra que los buenos resultados del reemplazo valvular mitral transcatéter (TMVR, transcatheter mitral valve replacement) con la válvula Sapien M3 se mantienen a los 2 años de seguimiento. Vale la pena mirarlo porque aporta datos de durabilidad a mediano plazo de una técnica percutánea cada vez más usada en pacientes con insuficiencia mitral de alto riesgo quirúrgico.",
-      "destacado": false,
-      "analisis": "Diseño: Registro (ENCIRCLE) con seguimiento a 2 años; el título no precisa si es prospectivo o retrospectivo, ni el número de centros o de pacientes incluidos.\nPoblación: Pacientes con enfermedad valvular mitral tratados con reemplazo valvular mitral transcatéter (TMVR) con la válvula Sapien M3, probablemente de alto riesgo para cirugía convencional.\nIntervención: Implante percutáneo de la válvula Sapien M3 para TMVR, sin un grupo comparador activo dentro de este registro.\nResultados: El título indica que los \"buenos resultados\" se mantienen a 2 años, pero no hay cifras de mortalidad, insuficiencia mitral residual ni reintervención disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar la tasa de pérdida de seguimiento, el riesgo basal de la población ni la ausencia de un comparador quirúrgico o médico.\nMensaje: Refuerza la durabilidad a mediano plazo del TMVR con Sapien M3 como alternativa percutánea en pacientes seleccionados con insuficiencia mitral, aunque la comparación directa con otras estrategias requiere más datos.\nNota: análisis sin acceso al abstract."
-    },
-    "12672b684621": {
-      "resumen": "Esta nota de TCTMD agrupa novedades de la sección de cardiología estructural, sin un tema único desarrollado en el título. Vale la pena tenerla en cuenta como puerta de entrada a actualizaciones puntuales sobre válvulas y dispositivos estructurales, aunque no aporta un dato concreto para resumir.",
-      "destacado": false
-    },
-    "6baec4686aa3": {
-      "resumen": "Una guía práctica describe seis patrones para combinar agentes de inteligencia artificial con GraphRAG (generación aumentada por recuperación sobre grafos de conocimiento, graph retrieval-augmented generation), una técnica que mejora las respuestas de los modelos de lenguaje conectándolos con bases de conocimiento estructuradas en forma de grafo. Le sirve a un médico que aprende análisis de datos porque muestra cómo estructurar el conocimiento clínico o bibliográfico para que un asistente de inteligencia artificial responda con información verificable y trazable, en lugar de inventar datos.",
-      "destacado": true
-    },
-    "2e89eccf23d0": {
-      "resumen": "Hilo de la comunidad r/datascience donde varios profesionales cuentan por qué dejaron la tecnología o la ciencia de datos (data science) y hacia dónde se fueron. Le sirve a un médico que está haciendo la transición hacia el análisis de datos porque ofrece testimonios reales sobre el mercado laboral del rubro, más allá del entusiasmo habitual por la inteligencia artificial.",
-      "destacado": false
-    },
-    "024dc60d778c": {
-      "resumen": "Megahilo semanal de r/datascience pensado para quienes están entrando o haciendo la transición hacia la ciencia de datos (data science), donde se comparten dudas sobre formación, portfolios y primeros pasos en el rubro. Le sirve a un médico que recién se inicia en el análisis de datos porque es un espacio para hacer preguntas básicas sin la presión de foros más técnicos.",
-      "destacado": false
-    },
-    "8468cd1c9400": {
-      "resumen": "Alibaba presentó Qwen4-Max, la nueva versión de su modelo de lenguaje grande (LLM, large language model) de la familia Qwen, que compite con los modelos más grandes del mercado. Le sirve a un médico que aprende análisis de datos para seguir de cerca la carrera entre los principales modelos de inteligencia artificial, cada vez más usados para analizar datos y texto clínico.",
-      "destacado": false
-    },
-    "d8f5a3c86112": {
-      "resumen": "Un investigador describió una vulnerabilidad de ejecución de código conocida como cross-site scripting universal (XSS universal) en la extensión uBlock Origin, explotable a través de su selector de elementos manejado por el sitio web visitado. Es una nota de seguridad informática más que de ciencia de datos en sentido estricto, pero recuerda que hasta herramientas de uso diario como los bloqueadores de publicidad pueden tener fallas serias de seguridad.",
-      "destacado": false
-    },
-    "83b3b2200438": {
-      "resumen": "El proyecto Tor lanzó una actualización de emergencia para mitigar un ataque sostenido de denegación de servicio distribuido (DDoS, distributed denial of service) contra su red de anonimato. Es una nota de seguridad e infraestructura de redes más que de ciencia de datos propiamente dicha, aunque ilustra los desafíos de mantener en pie sistemas distribuidos bajo ataque.",
-      "destacado": false
-    },
-    "128a04bf78b6": {
-      "resumen": "Se lanzó datasette-maplibre 0.1a0, un nuevo plugin geoespacial para Datasette (herramienta de código abierto para explorar y publicar bases de datos) que combina la librería MapLibre GL con el servidor de mapas gratuito OpenFreeMap. Le sirve a un médico que aprende análisis de datos porque muestra cómo agregar mapas interactivos a una base de datos propia sin depender de servicios de mapas pagos.",
-      "destacado": false
-    },
-    "7bcbcfb1111a": {
-      "resumen": "Un análisis de estrategia empresarial repasa hacia dónde podría ir Nvidia luego de consolidarse como el proveedor dominante de chips (semiconductores) para inteligencia artificial. Le sirve a un médico que aprende ciencia de datos para entender el contexto de negocio detrás del hardware que hoy sostiene el entrenamiento de los modelos de inteligencia artificial que usa a diario.",
-      "destacado": false
-    },
-    "67eb98ac1cd8": {
-      "resumen": "Nueva versión 1.0a43 de Datasette (herramienta de código abierto para explorar y publicar bases de datos), que suma soporte de transmisión en vivo (streaming) para los complementos que generan reportes, dentro del avance hacia la versión 1.0 estable. Le sirve a un médico que aprende análisis de datos porque Datasette es una forma simple de publicar y explorar bases de datos propias sin programar una aplicación web desde cero.",
-      "destacado": false
-    },
-    "3f50af67247c": {
-      "resumen": "Versión de mantenimiento 0.65.6 de Datasette que corrige, para la rama estable, una falla de seguridad por la cual una base de datos registrada con una ruta (route) distinta de su nombre podía descargarse sin autorización. Le sirve a un médico que aprende análisis de datos como recordatorio de que hasta las herramientas simples para publicar datos necesitan mantenimiento de seguridad activo.",
-      "destacado": false
-    },
-    "cca49061de44": {
-      "resumen": "Los seleccionados sudamericanos de rugby ganaron sus partidos del fin de semana y uno de ellos logró subir un puesto en el ranking mundial de World Rugby."
-    },
-    "848881a26f58": {
-      "resumen": "Ya se conoce el calendario completo del Nations Championship 2026, el nuevo torneo internacional de rugby en el que Los Pumas tendrán su lugar."
-    },
     "702db6eb1408": {
       "resumen": "Se sortearon los rivales y se confirmaron los horarios de Los Pumas 7s para la primera etapa del Circuito Mundial de rugby seven."
     },
     "0c228502e9aa": {
       "resumen": "Los Pumas le ganaron a Italia en su visita a Génova, dentro de la ventana de test matches de noviembre."
     },
-    "3bb8843edeb2": {
-      "resumen": "Una nota repasa el fracaso de Fordlandia, la ciudad utópica que Henry Ford intentó construir en la selva amazónica, marcada por reglas estrictas y una rebelión de los trabajadores."
+    "2c3bb81874ed": {
+      "resumen": "El estudio SUPERIOR evaluó si agregar sacubitril/valsartán (un inhibidor del receptor de angiotensina y neprilisina, ARNI) reduce la recurrencia de fibrilación auricular (FA) después de una ablación. Vale la pena mirarlo porque busca una estrategia farmacológica complementaria para sostener el éxito del procedimiento invasivo, en un terreno donde las recurrencias siguen siendo un problema frecuente.",
+      "destacado": false,
+      "analisis": "Diseño: el título sugiere un ensayo clínico (SUPERIOR) que evalúa sacubitril/valsartán tras ablación de fibrilación auricular; no hay datos de aleatorización, cegamiento, número de centros ni de pacientes sin acceso al abstract.\nPoblación: pacientes con fibrilación auricular (FA) sometidos a ablación, probablemente con riesgo de recurrencia posprocedimiento.\nIntervención: sacubitril/valsartán (inhibidor del receptor de angiotensina y neprilisina, ARNI) agregado al tratamiento habitual, frente a un comparador no especificado en el título (posiblemente placebo o tratamiento estándar).\nResultados: el título indica que el fármaco \"podría disminuir\" la recurrencia de FA, un planteo tentativo; no hay cifras de tasas de recurrencia, razones de riesgo ni intervalos de confianza disponibles.\nLimitaciones: sin abstract no se puede evaluar el tamaño de la muestra, la duración del seguimiento ni si el estudio tuvo potencia suficiente para un resultado definitivo.\nMensaje: si se confirma el beneficio, sumaría al sacubitril/valsartán como coadyuvante tras la ablación de FA, pero el verbo \"may\" del título ya sugiere un hallazgo preliminar o no definitivo.\nNota: análisis sin acceso al abstract."
+    },
+    "36b5d8fde36c": {
+      "resumen": "Transmisión de un caso en vivo de shock cardiogénico desde Columbia University Irving Medical Center/NewYork-Presbyterian Hospital, dentro de una serie de teatros de casos en vivo de cardiología intervencionista. Vale la pena tenerlo en cuenta como material educativo de manejo de shock en la sala de hemodinamia, aunque no es un estudio con resultados propios.",
+      "destacado": false
+    },
+    "9bd32d4bb554": {
+      "resumen": "European Heart Journal (Revista Europea de Cardiología) publica una nota de imágenes cardiovasculares que ilustra avances en tomografía computada cardíaca (CCT, cardiac computed tomography) y resonancia magnética aplicados a la miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy) y su vínculo con la demencia. Vale la pena mirarlo como repaso visual de hallazgos por imágenes, aunque no es un estudio original con resultados cuantitativos propios.",
+      "destacado": false
+    },
+    "ee327979fdfc": {
+      "resumen": "El ensayo aleatorizado DECISION-CTO presenta los resultados a 10 años de comparar una estrategia inicial de angioplastia (PCI, percutaneous coronary intervention) para oclusión coronaria total crónica (CTO, chronic total occlusion) contra no intentar la PCI de la CTO. Vale la pena mirarlo porque aporta el seguimiento más largo disponible sobre si abrir estas lesiones crónicas totalmente ocluidas cambia el pronóstico a largo plazo frente al tratamiento médico de las lesiones no CTO.",
+      "destacado": true,
+      "analisis": "Diseño: ensayo clínico aleatorizado (DECISION-CTO) con seguimiento extendido a 10 años; el título no precisa el número de centros, el tipo de cegamiento ni la cantidad exacta de pacientes sin acceso al abstract.\nPoblación: pacientes con enfermedad coronaria que presentaban al menos una oclusión coronaria total crónica (CTO, chronic total occlusion), junto con otras lesiones no CTO tratables.\nIntervención: estrategia inicial de angioplastia (PCI) de la CTO además del tratamiento de las lesiones no CTO, frente a no realizar PCI de la CTO (solo tratamiento médico y PCI de las lesiones no CTO).\nResultados: el título anuncia \"resultados a 10 años\" pero no incluye cifras de muerte, infarto, revascularización ni calidad de vida; no hay razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: sin abstract no se puede evaluar la tasa de cruce entre grupos (frecuente en estudios de CTO), la pérdida de seguimiento a 10 años ni el poder estadístico del estudio.\nMensaje: un seguimiento a 10 años es infrecuente en este campo y puede ayudar a definir si abrir una CTO aporta beneficio clínico sostenido más allá del alivio sintomático inicial, aunque la confirmación definitiva requiere leer el texto completo.\nNota: análisis sin acceso al abstract."
+    },
+    "554a3776192f": {
+      "resumen": "Un artículo de KDnuggets describe cinco problemas de gobernanza que aparecen cuando los agentes de inteligencia artificial empiezan a actuar de forma autónoma: accesos sin control, identidades digitales dispersas y cuellos de botella en las aprobaciones. Le sirve a un médico que aprende análisis de datos porque anticipa los riesgos de seguridad y supervisión que hay que resolver antes de dejar que un sistema de inteligencia artificial tome decisiones por sí solo, algo cada vez más relevante en salud.",
+      "destacado": false
+    },
+    "8a3940af3b1f": {
+      "resumen": "Un hilo de la comunidad r/datascience explica por qué las comparaciones entre \"sobrevivientes\" pueden estar sesgadas en un ensayo aleatorizado incluso cuando las tasas de supervivencia global son iguales entre los grupos. Le sirve a un médico que aprende análisis de datos porque es un sesgo estadístico sutil y frecuente al analizar resultados secundarios o de calidad de vida en subgrupos de pacientes que sobrevivieron a un evento.",
+      "destacado": true
+    },
+    "aa2a47bd0b65": {
+      "resumen": "Un estudio de Towards Data Science muestra que, tras ver diez caras seguidas en una moneda, varios modelos de lenguaje pequeños (LLM, large language models) apuestan hasta un 82% a que saldrá cara en el siguiente tiro, repitiendo la \"falacia del jugador\" humana. Le sirve a un médico que aprende análisis de datos porque expone un sesgo estadístico conocido replicado por la inteligencia artificial, un recordatorio útil de no confiar ciegamente en el razonamiento probabilístico de estos modelos.",
+      "destacado": false
+    },
+    "242d49a88f8c": {
+      "resumen": "Una nota reproducida en Hacker News repasa los problemas de Nvidia que venían acumulándose antes del escándalo en torno a Jensen Huang. Le sirve a un médico que aprende análisis de datos para entender el contexto de negocio y mercado detrás del principal proveedor de chips (semiconductores) que sostiene el entrenamiento de los modelos de inteligencia artificial de uso cotidiano.",
+      "destacado": false
+    },
+    "260810f56684": {
+      "resumen": "Un artículo de Towards Data Science aplica los conceptos de pensamiento rápido y lento de Daniel Kahneman (sistema 1 y sistema 2), junto con estándares como ODPS, ODCS y Ossie, para explicar por qué la supervisión humana sobre la inteligencia artificial suele fallar y cómo despertar la atención del revisor solo cuando un control realmente falla. Le sirve a un médico que aprende análisis de datos porque ofrece un marco concreto para diseñar supervisión humana eficiente sobre sistemas automatizados, en lugar de una revisión manual constante y poco sostenible.",
+      "destacado": false
+    },
+    "2f74c307b982": {
+      "resumen": "Una guía de KDnuggets explica cómo usar Context7 para darle a Claude Code documentación de librerías siempre actualizada, evitando que el asistente de inteligencia artificial programe contra versiones obsoletas. Le sirve a un médico que aprende análisis de datos porque es un truco práctico para que las herramientas de inteligencia artificial que lo ayudan a programar no pierdan tiempo con código basado en documentación vieja.",
+      "destacado": false
+    },
+    "ab7e946914b5": {
+      "resumen": "Una investigación publicada en Hacker News describe el curioso caso de un sitio con un dominio de apariencia aleatoria y expone cómo opera. Le sirve a un médico que aprende análisis de datos como ejemplo de investigación técnica aplicada a detectar patrones sospechosos en internet, una habilidad transferible al análisis exploratorio de datos.",
+      "destacado": false
+    },
+    "d654cfb91fc2": {
+      "resumen": "Una investigación de Groundwork Collaborative encontró que muchas de las ofertas de Amazon por el Black Friday y el Cyber Monday no representaban un ahorro real para los compradores. Le sirve a un médico que aprende análisis de datos porque es un caso concreto de cómo un análisis cuantitativo de precios puede desarmar una narrativa comercial, algo aplicable también a la evaluación crítica de datos en otros ámbitos.",
+      "destacado": false
+    },
+    "19241261ebce": {
+      "resumen": "Un artículo de Towards Data Science, basado en proyectos de manufactura y logística, propone seguir el dato desde que se genera hasta que se usa y convertir pedidos vagos en herramientas determinísticas confiables para evitar que la inteligencia artificial reemplace al analista de datos en 2027. Le sirve a un médico en transición hacia el análisis de datos porque da una estrategia concreta para volverse indispensable frente a la automatización, más allá de solo aprender a usar herramientas de inteligencia artificial.",
+      "destacado": false
+    },
+    "454045de0d11": {
+      "resumen": "KDnuggets propone una hoja de ruta de siete pasos para estudiar por cuenta propia el diseño de sistemas agénticos de inteligencia artificial, cubriendo herramientas, memoria, bucles de control, coordinación entre múltiples agentes, evaluación y despliegue. Le sirve a un médico que aprende análisis de datos como guía estructurada para pasar de usar modelos de lenguaje a diseñar sistemas de inteligencia artificial más complejos y autónomos.",
+      "destacado": false
+    },
+    "4171eb2861fa": {
+      "resumen": "Los Pumas ya tienen confirmada la fecha, el horario y el rival de su próximo partido."
+    },
+    "48c64ffafb59": {
+      "resumen": "Los Pumas sufren otra baja en el plantel: Bautista Bernasconi se suma a la lista de ausentes."
     }
   }
 }

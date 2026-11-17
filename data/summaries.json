@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T22:05:00Z",
+  "generated_at": "2026-11-17T10:04:31Z",
   "summaries": {
     "20e898d3f28a": {
       "resumen": "Esta revisión de evidencia de JACC (Journal of the American College of Cardiology) compara el cierre percutáneo de la aurícula izquierda (LAAC, left atrial appendage closure) con la anticoagulación oral para prevenir el accidente cerebrovascular en la fibrilación auricular, poniendo el foco en la heterogeneidad de los estudios disponibles. Vale la pena mirarla porque ayuda a ordenar un campo donde los ensayos no siempre son comparables entre sí, algo clave para decidir qué paciente se beneficia más de cada estrategia.",
@@ -15,35 +15,8 @@
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico aleatorizado (LIPSIA-STRATEGY); el título no precisa el número de centros, el tipo de cegamiento ni la cantidad de pacientes incluidos.\nPoblación: Pacientes con enfermedad coronaria en quienes se evaluaban lesiones de severidad intermedia candidatas a revascularización guiada por reserva fraccional de flujo (FFR).\nIntervención: Medición de la reserva fraccional de flujo derivada por angiografía (sin guía de presión) frente a la medición clásica con guía de presión intracoronaria (wire-based), para guiar la decisión de revascularizar.\nResultados: El título no aporta cifras del criterio de valoración principal (tasa de revascularización, eventos clínicos o concordancia entre métodos); no hay razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar la concordancia diagnóstica entre ambos métodos, el seguimiento clínico alcanzado ni si el estudio tuvo el poder estadístico necesario para demostrar equivalencia.\nMensaje: Si la reserva fraccional de flujo derivada por angiografía resulta equivalente a la medición con guía de presión, podría simplificar la toma de decisiones en la sala de hemodinamia sin necesidad de instrumentar la arteria, aunque la confirmación definitiva requiere leer el texto completo.\nNota: análisis sin acceso al abstract."
     },
-    "e01cd9a7d762": {
-      "resumen": "Un estudio presentado en TCTMD describe cómo las personas en situación de calle (unhoused) con enfermedad arterial periférica (PAD, peripheral artery disease) reciben a menudo un manejo distinto al del resto de los pacientes, y señala la necesidad de una atención más matizada. Vale la pena mirarlo porque pone el foco en una población vulnerable y con barreras de acceso que suele quedar afuera de los ensayos clínicos tradicionales de cardiología vascular.",
-      "destacado": false,
-      "analisis": "Diseño: Análisis observacional (no se especifica si es un registro, una cohorte retrospectiva o una serie de casos) centrado en personas en situación de calle con enfermedad arterial periférica (PAD); el título no precisa el número de centros ni de pacientes.\nPoblación: Pacientes sin vivienda (unhoused) con diagnóstico de enfermedad arterial periférica, una población con alta carga de comorbilidades y barreras de acceso al sistema de salud.\nIntervención: No se describe una intervención específica a comparar; el trabajo parece centrarse en caracterizar el manejo clínico recibido por este grupo.\nResultados: El título no aporta cifras de amputación, revascularización ni mortalidad; no hay datos cuantitativos disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el diseño exacto del estudio ni el riesgo de sesgo de selección propio de las poblaciones vulnerables.\nMensaje: Refuerza la idea de que la atención de la enfermedad arterial periférica en personas sin vivienda requiere estrategias adaptadas a sus barreras sociales y de acceso, más que extrapolar directamente los protocolos estándar.\nNota: análisis sin acceso al abstract."
-    },
-    "1d560ad604fc": {
-      "resumen": "El estudio SCOUT-HCM, una extensión de seguimiento del programa de ensayos con mavacamten, muestra que los beneficios de este inhibidor de la miosina cardíaca se mantienen hasta la semana 56 en pacientes con miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy). Vale la pena mirarlo porque aporta datos de sostenibilidad a mediano plazo de un fármaco que cambió el manejo farmacológico de esta enfermedad.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio de extensión (seguimiento a largo plazo) del programa de ensayos clínicos con mavacamten en miocardiopatía hipertrófica (SCOUT-HCM); el título no especifica aleatorización, cegamiento ni número de centros o pacientes.\nPoblación: Pacientes con miocardiopatía hipertrófica (HCM) obstructiva que ya venían participando de los ensayos previos con mavacamten.\nIntervención: Tratamiento continuado con mavacamten, un inhibidor de la miosina cardíaca, sin un grupo comparador activo dentro de esta fase de extensión.\nResultados: El título indica que los beneficios se mantienen hasta la semana 56, pero no hay cifras de gradiente del tracto de salida del ventrículo izquierdo, clase funcional ni eventos adversos disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar la tasa de abandono del estudio, si hubo grupo placebo o control, ni el riesgo de sesgo propio de los estudios de extensión sin comparador.\nMensaje: Si se confirma la persistencia del beneficio a más de un año, respalda el uso sostenido de mavacamten como tratamiento de fondo en la miocardiopatía hipertrófica sintomática.\nNota: análisis sin acceso al abstract."
-    },
-    "07ee207c2b25": {
-      "resumen": "El estudio RACE-CARS evaluó si un programa comunitario amplio de entrenamiento en reanimación cardiopulmonar (RCP) logra mejorar los resultados del paro cardíaco extrahospitalario (OHCA, out-of-hospital cardiac arrest), y encontró que no modificó los desenlaces de forma relevante. Vale la pena mirarlo porque cuestiona el impacto real de este tipo de campañas masivas de entrenamiento sobre la supervivencia al paro cardíaco fuera del hospital.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio (el título sugiere un diseño poblacional o cuasi-experimental, posiblemente por conglomerados) que evalúa un programa comunitario amplio de entrenamiento en reanimación cardiopulmonar (RACE-CARS); no se especifica aleatorización, cegamiento ni número de centros o participantes.\nPoblación: Comunidades o regiones expuestas a una campaña extendida de entrenamiento en RCP, con el foco puesto en los pacientes que sufrieron un paro cardíaco extrahospitalario (OHCA) en esas áreas.\nIntervención: Programa comunitario de entrenamiento masivo en reanimación cardiopulmonar frente a la atención y respuesta habitual ante el paro cardíaco fuera del hospital.\nResultados: El título indica que el esfuerzo de entrenamiento \"no modificó\" los resultados del OHCA, pero no hay cifras de supervivencia, retorno a la circulación espontánea ni estado neurológico disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar la adherencia real al entrenamiento, la tasa de RCP efectivamente realizada por testigos ni posibles factores de confusión poblacionales.\nMensaje: Sugiere que entrenar a la comunidad en RCP, por sí solo y sin otras intervenciones del sistema de emergencias, podría no ser suficiente para mejorar la supervivencia al paro cardíaco extrahospitalario.\nNota: análisis sin acceso al abstract."
-    },
-    "702db6eb1408": {
-      "resumen": "Se sortearon los rivales y se confirmaron los horarios de Los Pumas 7s para la primera etapa del Circuito Mundial de rugby seven."
-    },
     "0c228502e9aa": {
       "resumen": "Los Pumas le ganaron a Italia en su visita a Génova, dentro de la ventana de test matches de noviembre."
-    },
-    "2c3bb81874ed": {
-      "resumen": "El estudio SUPERIOR evaluó si agregar sacubitril/valsartán (un inhibidor del receptor de angiotensina y neprilisina, ARNI) reduce la recurrencia de fibrilación auricular (FA) después de una ablación. Vale la pena mirarlo porque busca una estrategia farmacológica complementaria para sostener el éxito del procedimiento invasivo, en un terreno donde las recurrencias siguen siendo un problema frecuente.",
-      "destacado": false,
-      "analisis": "Diseño: el título sugiere un ensayo clínico (SUPERIOR) que evalúa sacubitril/valsartán tras ablación de fibrilación auricular; no hay datos de aleatorización, cegamiento, número de centros ni de pacientes sin acceso al abstract.\nPoblación: pacientes con fibrilación auricular (FA) sometidos a ablación, probablemente con riesgo de recurrencia posprocedimiento.\nIntervención: sacubitril/valsartán (inhibidor del receptor de angiotensina y neprilisina, ARNI) agregado al tratamiento habitual, frente a un comparador no especificado en el título (posiblemente placebo o tratamiento estándar).\nResultados: el título indica que el fármaco \"podría disminuir\" la recurrencia de FA, un planteo tentativo; no hay cifras de tasas de recurrencia, razones de riesgo ni intervalos de confianza disponibles.\nLimitaciones: sin abstract no se puede evaluar el tamaño de la muestra, la duración del seguimiento ni si el estudio tuvo potencia suficiente para un resultado definitivo.\nMensaje: si se confirma el beneficio, sumaría al sacubitril/valsartán como coadyuvante tras la ablación de FA, pero el verbo \"may\" del título ya sugiere un hallazgo preliminar o no definitivo.\nNota: análisis sin acceso al abstract."
-    },
-    "36b5d8fde36c": {
-      "resumen": "Transmisión de un caso en vivo de shock cardiogénico desde Columbia University Irving Medical Center/NewYork-Presbyterian Hospital, dentro de una serie de teatros de casos en vivo de cardiología intervencionista. Vale la pena tenerlo en cuenta como material educativo de manejo de shock en la sala de hemodinamia, aunque no es un estudio con resultados propios.",
-      "destacado": false
     },
     "9bd32d4bb554": {
       "resumen": "European Heart Journal (Revista Europea de Cardiología) publica una nota de imágenes cardiovasculares que ilustra avances en tomografía computada cardíaca (CCT, cardiac computed tomography) y resonancia magnética aplicados a la miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy) y su vínculo con la demencia. Vale la pena mirarlo como repaso visual de hallazgos por imágenes, aunque no es un estudio original con resultados cuantitativos propios.",
@@ -66,39 +39,42 @@
       "resumen": "Un estudio de Towards Data Science muestra que, tras ver diez caras seguidas en una moneda, varios modelos de lenguaje pequeños (LLM, large language models) apuestan hasta un 82% a que saldrá cara en el siguiente tiro, repitiendo la \"falacia del jugador\" humana. Le sirve a un médico que aprende análisis de datos porque expone un sesgo estadístico conocido replicado por la inteligencia artificial, un recordatorio útil de no confiar ciegamente en el razonamiento probabilístico de estos modelos.",
       "destacado": false
     },
-    "242d49a88f8c": {
-      "resumen": "Una nota reproducida en Hacker News repasa los problemas de Nvidia que venían acumulándose antes del escándalo en torno a Jensen Huang. Le sirve a un médico que aprende análisis de datos para entender el contexto de negocio y mercado detrás del principal proveedor de chips (semiconductores) que sostiene el entrenamiento de los modelos de inteligencia artificial de uso cotidiano.",
-      "destacado": false
-    },
     "260810f56684": {
       "resumen": "Un artículo de Towards Data Science aplica los conceptos de pensamiento rápido y lento de Daniel Kahneman (sistema 1 y sistema 2), junto con estándares como ODPS, ODCS y Ossie, para explicar por qué la supervisión humana sobre la inteligencia artificial suele fallar y cómo despertar la atención del revisor solo cuando un control realmente falla. Le sirve a un médico que aprende análisis de datos porque ofrece un marco concreto para diseñar supervisión humana eficiente sobre sistemas automatizados, en lugar de una revisión manual constante y poco sostenible.",
       "destacado": false
     },
-    "2f74c307b982": {
-      "resumen": "Una guía de KDnuggets explica cómo usar Context7 para darle a Claude Code documentación de librerías siempre actualizada, evitando que el asistente de inteligencia artificial programe contra versiones obsoletas. Le sirve a un médico que aprende análisis de datos porque es un truco práctico para que las herramientas de inteligencia artificial que lo ayudan a programar no pierdan tiempo con código basado en documentación vieja.",
+    "3fd586bceba8": {
+      "resumen": "Un hilo de r/datascience explica cómo aplicar CUPED (Controlled-experiment Using Pre-Experiment Data), una técnica de reducción de varianza para experimentos A/B, al caso de experimentos con datos agrupados en clústeres (clustered experiments), donde las observaciones no son independientes entre sí. Le sirve a un médico que aprende análisis de datos porque muestra cómo ajustar el análisis estadístico cuando los datos vienen agrupados (por ejemplo, por centro o por paciente), un problema frecuente también en los estudios clínicos.",
       "destacado": false
     },
-    "ab7e946914b5": {
-      "resumen": "Una investigación publicada en Hacker News describe el curioso caso de un sitio con un dominio de apariencia aleatoria y expone cómo opera. Le sirve a un médico que aprende análisis de datos como ejemplo de investigación técnica aplicada a detectar patrones sospechosos en internet, una habilidad transferible al análisis exploratorio de datos.",
+    "3ae3a490dc72": {
+      "resumen": "Simon Willison anuncia una actualización de corrección de errores de 'llm', su herramienta de línea de comandos para interactuar con modelos de lenguaje (LLM, large language models), que arregla un problema de registro (logging) provocado por la nueva versión de SQLite que distribuye Homebrew. Le sirve a un médico que aprende análisis de datos como ejemplo de que hasta las herramientas simples de inteligencia artificial necesitan mantenimiento constante por cambios en sus dependencias.",
       "destacado": false
     },
-    "d654cfb91fc2": {
-      "resumen": "Una investigación de Groundwork Collaborative encontró que muchas de las ofertas de Amazon por el Black Friday y el Cyber Monday no representaban un ahorro real para los compradores. Le sirve a un médico que aprende análisis de datos porque es un caso concreto de cómo un análisis cuantitativo de precios puede desarmar una narrativa comercial, algo aplicable también a la evaluación crítica de datos en otros ámbitos.",
+    "06a40bd35450": {
+      "resumen": "Una nota difundida en Hacker News reporta que Optimizely, una plataforma muy usada para experimentos A/B y analítica web, fue comprometida y usada para distribuir malware en sitios de marcas como Zoom y GitLab. Le sirve a un médico que aprende análisis de datos porque es un caso concreto de ataque a la cadena de suministro de software (supply chain attack) a través de una herramienta de analítica, un riesgo a tener presente al integrar servicios de terceros.",
       "destacado": false
     },
-    "19241261ebce": {
-      "resumen": "Un artículo de Towards Data Science, basado en proyectos de manufactura y logística, propone seguir el dato desde que se genera hasta que se usa y convertir pedidos vagos en herramientas determinísticas confiables para evitar que la inteligencia artificial reemplace al analista de datos en 2027. Le sirve a un médico en transición hacia el análisis de datos porque da una estrategia concreta para volverse indispensable frente a la automatización, más allá de solo aprender a usar herramientas de inteligencia artificial.",
+    "01af437af651": {
+      "resumen": "Una investigación difundida en Hacker News describe cómo Windows 11 recolecta datos de telemetría sobre qué agentes de inteligencia artificial para programar y qué herramientas de desarrollo usa cada usuario. Le sirve a un médico que aprende análisis de datos como alerta sobre la privacidad de los propios datos de uso al trabajar con herramientas de inteligencia artificial en una computadora institucional.",
       "destacado": false
     },
-    "454045de0d11": {
-      "resumen": "KDnuggets propone una hoja de ruta de siete pasos para estudiar por cuenta propia el diseño de sistemas agénticos de inteligencia artificial, cubriendo herramientas, memoria, bucles de control, coordinación entre múltiples agentes, evaluación y despliegue. Le sirve a un médico que aprende análisis de datos como guía estructurada para pasar de usar modelos de lenguaje a diseñar sistemas de inteligencia artificial más complejos y autónomos.",
+    "f9355d356a77": {
+      "resumen": "United Airlines sufrió una falla informática generalizada que afectó sus operaciones, según reportó Hacker News. Le sirve a un médico que aprende análisis de datos como recordatorio de cuán dependientes son los sistemas críticos actuales, como los de una aerolínea o los de un hospital, de la infraestructura de software, y de lo costoso que resulta cuando esa infraestructura falla.",
       "destacado": false
     },
-    "4171eb2861fa": {
-      "resumen": "Los Pumas ya tienen confirmada la fecha, el horario y el rival de su próximo partido."
+    "ae2c27b931ec": {
+      "resumen": "BugMeNot, el sitio que durante años compartió credenciales genéricas para evitar los registros obligatorios en otras páginas, cerró sus puertas. Le sirve a un médico que aprende análisis de datos como una curiosidad sobre la evolución de las barreras de acceso a datos y contenido en internet, cada vez más estrictas.",
+      "destacado": false
     },
-    "48c64ffafb59": {
-      "resumen": "Los Pumas sufren otra baja en el plantel: Bautista Bernasconi se suma a la lista de ausentes."
+    "0c97ca2735f0": {
+      "resumen": "Por primera vez, una árbitra principal va a dirigir un partido de Los Pumas, un hecho histórico para el rugby argentino."
+    },
+    "b90b5e745e4c": {
+      "resumen": "Por primera vez en la historia, una árbitra va a dirigir a Los Pumas en un partido oficial."
+    },
+    "dc02da49af6e": {
+      "resumen": "Se terminan de definir los cruces del Nations Championship: quiénes juegan la final y qué chances le quedan a Los Pumas."
     }
   }
 }

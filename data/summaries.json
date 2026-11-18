@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T10:04:52Z",
+  "generated_at": "2026-11-18T22:06:26Z",
   "summaries": {
     "2c3bb81874ed": {
       "resumen": "El ensayo SUPERIOR evaluó si el sacubitril/valsartan (un inhibidor de neprilisina y receptor de angiotensina, ARNI) reduce la recurrencia de fibrilación auricular luego de una ablación, comparado con el tratamiento habitual. Vale la pena mirarlo porque el ARNI ya demostró beneficio en insuficiencia cardíaca y esto explora si ese efecto se traslada a mejorar los resultados de un procedimiento muy frecuente en arritmias.",
@@ -9,20 +9,6 @@
     "9bd32d4bb554": {
       "resumen": "European Heart Journal (Revista Europea de Cardiología) publica una nota de imágenes cardiovasculares que ilustra avances en tomografía computada cardíaca (CCT, cardiac computed tomography) y resonancia magnética aplicados a la miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy) y su vínculo con la demencia. Vale la pena mirarlo como repaso visual de hallazgos por imágenes, aunque no es un estudio original con resultados cuantitativos propios.",
       "destacado": false
-    },
-    "20e898d3f28a": {
-      "resumen": "Esta revisión de evidencia de JACC (Journal of the American College of Cardiology) compara el cierre percutáneo de la aurícula izquierda (LAAC, left atrial appendage closure) con la anticoagulación oral para prevenir el accidente cerebrovascular en la fibrilación auricular, poniendo el foco en la heterogeneidad de los estudios disponibles. Vale la pena mirarla porque ayuda a ordenar un campo donde los ensayos no siempre son comparables entre sí, algo clave para decidir qué paciente se beneficia más de cada estrategia.",
-      "destacado": false
-    },
-    "1d560ad604fc": {
-      "resumen": "El estudio de extensión SCOUT-HCM muestra que los beneficios del mavacamten, un inhibidor de la miosina cardíaca usado en la miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy), se mantienen hasta las 56 semanas de seguimiento. Vale la pena mirarlo porque aporta datos de sostenibilidad a mediano plazo de un fármaco relativamente nuevo que cambió el manejo de esta enfermedad.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio de extensión (probablemente abierto, sin grupo control) del programa SCOUT-HCM, con seguimiento a 56 semanas; no hay detalles sobre número de centros o de pacientes sin acceso al texto completo.\nPoblación: Pacientes con miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy) que ya venían recibiendo mavacamten en el estudio original.\nIntervención: Continuación del tratamiento con mavacamten (inhibidor de la miosina cardíaca) en fase de extensión, sin un comparador placebo explícito en esta etapa.\nResultados: El título indica que los beneficios \"se mantienen\" a 56 semanas, pero no hay cifras de gradiente ventricular, clase funcional ni eventos adversos disponibles sin el abstract.\nLimitaciones: Al ser una extensión sin grupo placebo, no permite aislar el efecto del fármaco de la evolución natural de la enfermedad; sin abstract tampoco se puede evaluar la tasa de abandono ni los eventos adversos a mediano plazo.\nMensaje: Refuerza la sostenibilidad del beneficio sintomático y funcional del mavacamten en la miocardiopatía hipertrófica más allá del corto plazo, un dato relevante para decidir la continuidad del tratamiento en la práctica.\nNota: análisis sin acceso al abstract."
-    },
-    "ee327979fdfc": {
-      "resumen": "El ensayo aleatorizado DECISION-CTO presenta los resultados a 10 años de comparar una estrategia inicial de angioplastia (PCI, percutaneous coronary intervention) para oclusión coronaria total crónica (CTO, chronic total occlusion) contra no intentar la PCI de la CTO. Vale la pena mirarlo porque aporta el seguimiento más largo disponible sobre si abrir estas lesiones crónicas totalmente ocluidas cambia el pronóstico a largo plazo frente al tratamiento médico de las lesiones no CTO.",
-      "destacado": true,
-      "analisis": "Diseño: ensayo clínico aleatorizado (DECISION-CTO) con seguimiento extendido a 10 años; el título no precisa el número de centros, el tipo de cegamiento ni la cantidad exacta de pacientes sin acceso al abstract.\nPoblación: pacientes con enfermedad coronaria que presentaban al menos una oclusión coronaria total crónica (CTO, chronic total occlusion), junto con otras lesiones no CTO tratables.\nIntervención: estrategia inicial de angioplastia (PCI) de la CTO además del tratamiento de las lesiones no CTO, frente a no realizar PCI de la CTO (solo tratamiento médico y PCI de las lesiones no CTO).\nResultados: el título anuncia \"resultados a 10 años\" pero no incluye cifras de muerte, infarto, revascularización ni calidad de vida; no hay razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: sin abstract no se puede evaluar la tasa de cruce entre grupos (frecuente en estudios de CTO), la pérdida de seguimiento a 10 años ni el poder estadístico del estudio.\nMensaje: un seguimiento a 10 años es infrecuente en este campo y puede ayudar a definir si abrir una CTO aporta beneficio clínico sostenido más allá del alivio sintomático inicial, aunque la confirmación definitiva requiere leer el texto completo.\nNota: análisis sin acceso al abstract."
     },
     "e01cd9a7d762": {
       "resumen": "Un análisis presentado en TCTMD muestra que los pacientes en situación de calle con enfermedad arterial periférica (PAD, peripheral artery disease) requieren un abordaje más matizado, con peores resultados y mayores barreras de acceso al tratamiento que la población general. Vale la pena mirarlo porque pone el foco en un grupo vulnerable habitualmente subrepresentado en los ensayos clínicos de cardiología.",
@@ -37,64 +23,80 @@
       "resumen": "Es una crónica de una sesión del congreso TCT (Transcatheter Cardiovascular Therapeutics) donde se discutieron las distintas estrategias disponibles para preparar lesiones coronarias calcificadas antes de la angioplastia, como la aterectomía rotacional, la litotricia intravascular o los balones de corte. Vale la pena mirarla porque la calcificación coronaria sigue siendo un desafío técnico frecuente en la sala de hemodinamia y no hay un consenso único sobre qué herramienta usar en cada caso.",
       "destacado": false
     },
-    "0a5cd32809ad": {
-      "resumen": "El ensayo clínico aleatorizado ADHERE-ASCVD evaluó si una estrategia de contacto digital mejora la renovación de recetas de estatinas en pacientes con enfermedad cardiovascular aterosclerótica (ASCVD, atherosclerotic cardiovascular disease), analizando si el efecto varía según la edad. Vale la pena mirarlo porque la falta de adherencia a las estatinas es un problema enorme y barato de resolver si la tecnología digital realmente ayuda, aunque el beneficio podría no ser igual en todos los grupos de edad.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico aleatorizado (ADHERE-ASCVD); el título no precisa el número de centros, el tipo de cegamiento ni la cantidad exacta de pacientes sin acceso al abstract.\nPoblación: Pacientes con enfermedad cardiovascular aterosclerótica (ASCVD) en tratamiento con estatinas, analizados según grupos de edad.\nIntervención: Estrategia de contacto o recordatorio digital (outreach digital) para fomentar la renovación de la receta de estatinas, frente a la atención habitual sin ese recordatorio.\nResultados: El título indica que se analiza el efecto \"por edad\" sobre la renovación de estatinas, pero no hay cifras de tasa de renovación, razones de riesgo ni valor de p disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el tiempo de seguimiento ni si hubo diferencias relevantes por nivel socioeconómico o acceso a tecnología entre los grupos de edad.\nMensaje: Si el contacto digital resulta eficaz solo en ciertos grupos de edad, podría orientar a priorizar estrategias de recordatorio más personalizadas según el perfil del paciente, aunque la confirmación definitiva requiere leer el texto completo.\nNota: análisis sin acceso al abstract."
-    },
-    "f447c3594872": {
-      "resumen": "El estudio JENA-VAD describe los resultados del reemplazo valvular aórtico transcatéter (TAVR, transcatheter aortic valve replacement) para tratar la insuficiencia aórtica en pacientes que ya tienen implantado un dispositivo de asistencia ventricular izquierda (LVAD, left ventricular assist device). Vale la pena mirarlo porque la insuficiencia aórtica es una complicación conocida de los LVAD y hay poca evidencia sobre cuál es la mejor forma de resolverla por vía percutánea en estos pacientes tan complejos.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio observacional (registro o serie de casos, JENA-VAD); el título no precisa si es prospectivo o retrospectivo, ni el número de centros o de pacientes sin acceso al abstract.\nPoblación: Pacientes portadores de un dispositivo de asistencia ventricular izquierda (LVAD) que desarrollaron insuficiencia aórtica significativa.\nIntervención: Reemplazo valvular aórtico transcatéter (TAVR) para tratar la insuficiencia aórtica en este contexto; el título no especifica un grupo comparador explícito.\nResultados: El título anuncia \"resultados\" del procedimiento, pero no hay cifras de mortalidad, éxito del procedimiento ni complicaciones disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra (probablemente pequeño, dado lo infrecuente del escenario), el seguimiento alcanzado ni el riesgo de sesgo de selección propio de un registro.\nMensaje: Aporta evidencia inicial sobre una solución percutánea para una complicación difícil de manejar en pacientes con LVAD, en quienes la cirugía convencional suele tener alto riesgo.\nNota: análisis sin acceso al abstract."
-    },
-    "10bf3b711891": {
-      "resumen": "Un hilo de Reddit difundido por Hacker News relata el caso de una persona entrevistada en una startup de Y Combinator que descubrió que usaron su perfil de LinkedIn sin permiso durante el proceso de selección. Le sirve a un médico que aprende análisis de datos como recordatorio de los límites éticos y legales al usar datos personales de terceros en productos de inteligencia artificial, un tema cada vez más relevante también en salud.",
-      "destacado": false
-    },
-    "3bffc55adac8": {
-      "resumen": "Una entrada de una wiki de derechos del consumidor describe que el servicio de identidad digital ID.me, que exige verificación biométrica, es obligatorio para iniciar sesión en el sitio del IRS (la agencia tributaria de Estados Unidos). Le sirve a un médico que aprende análisis de datos porque ilustra cómo los sistemas de identidad digital con reconocimiento facial se están volviendo un requisito de facto para acceder a servicios públicos, con implicancias de privacidad sobre datos biométricos.",
-      "destacado": false
-    },
-    "f2df59b272b9": {
-      "resumen": "Un análisis de la industria del marketing digital sostiene que las respuestas generadas por inteligencia artificial en el buscador de Google estarían reduciendo hasta un 40% el tráfico que antes recibían los sitios web desde la búsqueda tradicional. Le sirve a un médico que aprende análisis de datos porque muestra cómo la inteligencia artificial generativa está cambiando el comportamiento de búsqueda de información, algo que también impacta en cómo los pacientes y los propios médicos acceden a contenido de salud online.",
-      "destacado": false
-    },
-    "ab0568899135": {
-      "resumen": "El colectivo Archive Team está respaldando el contenido del foro de soporte de Apple (Apple Support Community) antes de su cierre, previsto para el 20 de noviembre de 2026. Le sirve a un médico que aprende análisis de datos como ejemplo de los proyectos de preservación de datos a gran escala y de los desafíos técnicos de extraer y guardar información masiva antes de que desaparezca.",
-      "destacado": false
-    },
     "acdaad578a36": {
       "resumen": "Simon Willison explora distintas formas de crear entornos aislados (sandboxes) externos donde ejecutar código generado por agentes de inteligencia artificial, buscando que un error o un intento de inyección de instrucciones (prompt injection) no comprometa el sistema real. Le sirve a un médico que aprende análisis de datos porque plantea una práctica de seguridad básica para probar código generado por IA sin arriesgar los propios datos o equipos de trabajo.",
       "destacado": false
     },
-    "2a139dc941fa": {
-      "resumen": "OpenAI presentó dos nuevos modelos de lenguaje: GPT-6.2 Astra, pensado para las tareas más exigentes, y GPT-6.2 Sol, una versión más eficiente para uso cotidiano, ambos disponibles a través de su API (interfaz de programación de aplicaciones). Le sirve a un médico que aprende análisis de datos para mantenerse al tanto de la oferta de modelos de inteligencia artificial disponibles y elegir el más adecuado según el costo y la complejidad de cada tarea.",
+    "c62ef3900d7e": {
+      "resumen": "TCTMD cubre el ensayo STRIDE, un estudio cardiovascular presentado en un congreso de cardiología intervencionista cuyo diseño y resultados concretos no se detallan en el título de la nota. Vale la pena anotarlo como referencia a seguir, aunque sin más datos que el nombre del ensayo todavía no se puede precisar qué intervención evalúa.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico (STRIDE Trial); el título no aporta información sobre aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: No especificada en el título ni en la fuente disponible.\nIntervención: No especificada en el título ni en la fuente disponible.\nResultados: No hay cifras ni criterio de valoración disponibles a partir del título.\nLimitaciones: La nota de TCTMD no fue abierta (fuente bloqueada para bots) y el título por sí solo no permite identificar el diseño, la población ni los resultados del estudio.\nMensaje: Sin más datos que el nombre del ensayo, solo puede registrarse como un estudio cardiovascular a seguir; su relevancia clínica deberá evaluarse cuando se disponga del texto completo.\nNota: análisis sin acceso al abstract."
+    },
+    "48ebf35e8374": {
+      "resumen": "Este editorial de JACC (Journal of the American College of Cardiology), firmado por Malhotra G et al., reflexiona en tono crítico sobre qué indicadores de calidad o métricas realmente importan en la práctica cardiológica, en contraposición a las que solo \"quedan bien\" en los reportes. Vale la pena mirarlo porque invita a repensar qué se mide y se publica en cardiología, más allá de los números que suelen destacarse.",
       "destacado": false
     },
-    "5ab3ec093f2b": {
-      "resumen": "Simon Willison presenta una nueva versión de Datasette Lite, que corre la aplicación completa de análisis de datos Datasette directamente en el navegador usando WebAssembly y Pyodide (una versión de Python compilada para el navegador), sin necesidad de un servidor. Le sirve a un médico que aprende análisis de datos porque muestra una forma de explorar y consultar bases de datos, incluso con SQL, sin instalar nada, ideal para empezar a practicar sin armar un entorno completo.",
+    "cbb826020488": {
+      "resumen": "El ensayo VICTORY comparó dos técnicas para preparar lesiones coronarias muy calcificadas antes de la angioplastia: la litotricia intravascular (IVL, intravascular lithotripsy) y los balones no distensibles de altísima presión (super-high-pressure noncompliant balloons). Vale la pena mirarlo porque la calcificación coronaria severa complica el implante de stents y todavía no está claro cuál de estas dos estrategias, ambas disponibles en la sala de hemodinamia, ofrece mejores resultados.",
+      "destacado": true,
+      "analisis": "Diseño: Ensayo clínico (VICTORY trial); el título no precisa si es aleatorizado, el tipo de cegamiento, ni el número de centros o de pacientes sin acceso al abstract completo.\nPoblación: Pacientes con enfermedad coronaria y lesiones calcificadas candidatos a angioplastia percutánea.\nIntervención: Litotricia intravascular (IVL) frente a balones no distensibles de altísima presión (super-high-pressure noncompliant balloons) como estrategia de preparación de la lesión antes del implante del stent.\nResultados: El título no incluye cifras de éxito del procedimiento, expansión del stent ni complicaciones; no hay razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el criterio de valoración principal elegido ni el seguimiento clínico alcanzado.\nMensaje: Compara dos herramientas ya usadas en la práctica para lesiones calcificadas, por lo que sus resultados podrían ayudar a elegir la estrategia de preparación más costo-efectiva o más segura en cada caso, aunque la confirmación definitiva requiere leer el texto completo.\nNota: análisis sin acceso al abstract."
+    },
+    "22d32d6fd679": {
+      "resumen": "Este editorial de JACC, firmado por Krumholz HM et al., plantea una reflexión sobre la insatisfacción persistente en medicina frente a los avances terapéuticos y los resultados obtenidos. Vale la pena mirarlo porque invita a pensar de forma crítica cómo se interpretan los logros y las limitaciones de los tratamientos cardiovasculares actuales.",
       "destacado": false
     },
-    "879ef0babf17": {
-      "resumen": "Un artículo de Towards Data Science propone usar un agente \"orquestador\" que vigila varias sesiones de agentes de inteligencia artificial programando código y prioriza las preguntas pendientes que necesitan una decisión humana, mediante webhooks o consultas económicas con un modelo chico. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo organizar el trabajo cuando se usan varios asistentes de IA en paralelo, sin perder tiempo revisando cada uno por separado.",
+    "d967e2ba0141": {
+      "resumen": "Este estudio de JACC evaluó qué tan seguras son las recomendaciones de tratamiento para insuficiencia cardíaca generadas por un modelo de lenguaje de gran escala (LLM, large language model), comparándolas con la conducta clínica esperada. Vale la pena mirarlo porque la inteligencia artificial generativa empieza a usarse como apoyo en decisiones clínicas y todavía hace falta evidencia sólida sobre su seguridad antes de confiar en sus sugerencias.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio de evaluación/validación, probablemente transversal, que compara recomendaciones generadas por un modelo de lenguaje de gran escala (LLM) frente a un estándar de referencia clínico; el título no precisa el número de casos evaluados ni la metodología exacta de calificación de seguridad sin acceso al abstract.\nPoblación: Casos o escenarios clínicos de insuficiencia cardíaca utilizados para generar recomendaciones de tratamiento mediante el LLM.\nIntervención: Recomendaciones de tratamiento generadas por el LLM, evaluadas frente a la conducta clínica esperada o el juicio de expertos en insuficiencia cardíaca (el título no detalla el comparador exacto).\nResultados: El título anuncia una \"evaluación de seguridad clínica\" pero no hay cifras de concordancia, tasa de errores ni proporción de recomendaciones inseguras disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra de casos, el diseño del panel de referencia que definió el estándar comparador ni la generalización a la práctica real.\nMensaje: Aporta evidencia temprana sobre los riesgos y limitaciones de delegar decisiones de insuficiencia cardíaca en un LLM, un paso necesario antes de integrar estas herramientas a la práctica clínica.\nNota: análisis sin acceso al abstract."
+    },
+    "c130ad7ffba2": {
+      "resumen": "Un artículo de Towards Data Science (primera parte de una serie sobre seguridad al desplegar inteligencia artificial) explica cómo los agentes de IA pueden ser usados por atacantes mediante credenciales comprometidas, inferencia de datos sensibles a partir de presupuestos o documentos manipulados, y por qué hacen falta controles de permisos antes de que el modelo acceda a la información. Le sirve a un médico que aprende análisis de datos porque plantea riesgos de seguridad concretos a tener en cuenta al usar agentes de IA con datos sensibles, como los de salud.",
       "destacado": false
     },
-    "9a48bc8114c3": {
-      "resumen": "Otro artículo de Towards Data Science explica cómo empaquetar habilidades, reglas, hooks y configuraciones de herramientas para agentes de inteligencia artificial como \"plugins\" versionados, distribuidos a través de un marketplace, con ejemplos en Claude Code y AWS. Le sirve a un médico que aprende análisis de datos porque muestra cómo se estandariza y reutiliza el conocimiento de automatización entre distintos proyectos, en lugar de reconfigurar todo desde cero cada vez.",
+    "628eed619e2b": {
+      "resumen": "Simon Willison cita al creador de curl, Daniel Stenberg, sobre cómo agentes de inteligencia artificial convirtieron 185.000 líneas de código en C a 340.000 líneas en Rust mientras el proyecto seguía recibiendo cientos de mejoras humanas en paralelo. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de la escala y velocidad con que la IA ya puede asistir en tareas de programación complejas, más allá de simples scripts de análisis.",
       "destacado": false
     },
-    "43eafb910a25": {
-      "resumen": "Un tutorial de KDnuggets enseña a entrenar dos clasificadores con la librería scikit-learn, detectar que sus probabilidades de salida están mal calibradas usando un diagrama de confiabilidad y el puntaje de Brier, y corregirlo con las técnicas de escalado de Platt y regresión isotónica. Le sirve a un médico que aprende análisis de datos porque la calibración de probabilidades es clave para interpretar modelos de riesgo clínico, donde una probabilidad mal calibrada puede llevar a decisiones equivocadas.",
+    "db253b67c20c": {
+      "resumen": "Una publicación destacada en Hacker News, titulada \"Inside Deutsche Bank\", promete una mirada interna a la operación de ese banco, aunque el título disponible no aclara si el foco está puesto en tecnología, cultura corporativa o negocios. No tiene una conexión directa con ciencia de datos, pero aparece en el radar de la comunidad tech por su popularidad en el foro.",
+      "destacado": false
+    },
+    "ff0c2dfa0648": {
+      "resumen": "Un informe de seguridad (vía Wiz) describe vulnerabilidades de ejecución remota de código sin autenticación (RCE, remote code execution) en el manejo de HTTP/2 del servidor web Nginx. Le sirve a un médico que aprende análisis de datos porque Nginx suele usarse para exponer aplicaciones y paneles de datos en producción, y este tipo de fallas recuerda la importancia de mantener la infraestructura actualizada.",
+      "destacado": false
+    },
+    "7370fbe8d7e4": {
+      "resumen": "Polonia informó haber frustrado una operación de \"bandera falsa\" cerca de la frontera con el enclave ruso de Kaliningrado, en un contexto de tensión creciente con Rusia. Es una noticia de geopolítica sin relación directa con ciencia de datos, aunque aparece entre los temas más comentados de la comunidad tecnológica de Hacker News.",
+      "destacado": false
+    },
+    "3f73286c2e82": {
+      "resumen": "Un artículo de Towards Data Science explica los agentes neurosimbólicos, que combinan modelos de lenguaje con motores de razonamiento lógico como Z3, usando el caso del chatbot de Air Canada como punto de partida para mostrar por qué el paso de lenguaje natural a lógica formal sigue siendo el eslabón débil. Le sirve a un médico que aprende análisis de datos porque muestra una forma de hacer que los sistemas de IA sean más confiables al combinarlos con reglas verificables, algo valioso cuando hay decisiones clínicas de por medio.",
+      "destacado": false
+    },
+    "265c410e1681": {
+      "resumen": "Simon Willison, como miembro de la junta directiva de la Python Software Foundation (PSF), promueve la campaña anual de recaudación de fondos de la organización que sostiene el desarrollo de Python y su comunidad. Le sirve a un médico que aprende análisis de datos como recordatorio de que Python, el lenguaje más usado para análisis de datos, depende del sostén de una fundación sin fines de lucro a la que se puede contribuir.",
+      "destacado": false
+    },
+    "f45c67f96747": {
+      "resumen": "El diccionario de Cambridge eligió \"human\" (humano) como palabra del año 2026, reflejando el debate social sobre qué distingue a las personas frente a la inteligencia artificial. No es un tema técnico de ciencia de datos, pero resume bien el clima cultural en que se discute la adopción de la IA.",
+      "destacado": false
+    },
+    "93feb30388ed": {
+      "resumen": "Un artículo de Towards Data Science muestra, con una simulación de 1 millón de clientes, que la métrica Qini puede elegir mal entre modelos de \"uplift\" (que estiman el efecto causal de una intervención, como una campaña de marketing, sobre cada persona), y que los puntajes doblemente robustos (doubly robust scores) corrigen ese sesgo de evaluación. Le sirve a un médico que aprende análisis de datos porque introduce los modelos de uplift, útiles para estimar qué pacientes se benefician realmente de una intervención (no solo su riesgo basal), y advierte sobre errores al evaluarlos.",
       "destacado": true
     },
-    "e0119cefc418": {
-      "resumen": "Repasamos la probable formación de Francia para enfrentar a Los Pumas por el Nations Championship."
+    "a5c147e44875": {
+      "resumen": "El head coach de los Springboks, Rassie Erasmus, invitó a los hinchas a seguir junto a él la transmisión del partido de su equipo ante Irlanda y comentarlo en vivo."
     },
-    "dded7ef8adae": {
-      "resumen": "Una noticia alentadora para Los Pumas antes de medirse con Francia en París."
+    "c718c58df3e3": {
+      "resumen": "El exsegunda línea francés Sébastien Chabal confesó que apenas recuerda detalles de los partidos que jugó, pero guarda un especial cariño por Los Pumas y lamentó nunca haber compartido plantel con ellos."
     },
-    "b1e13e581130": {
-      "resumen": "Hollie Davidson se convertirá en la primera árbitra mujer en dirigir un test match de Los Pumas."
+    "01a0d096a759": {
+      "resumen": "El jugador de Los Pumas \"Tati\" Dubuc sorprendió a un grupo de juveniles del club GEI al sumarse a entrenar con ellos y dejarles una jornada inolvidable."
+    },
+    "f1671532cb03": {
+      "resumen": "River Plate presentará su presupuesto para 2027, que proyecta ingresos cercanos a los USD 200 millones y resultado superavitario a pesar de los fuertes gastos que implican las obras en el estadio Monumental."
     }
   }
 }

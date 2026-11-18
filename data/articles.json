@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-11-18T07:43:06.348422+00:00",
+ "generated_at": "2026-11-18T17:21:29.552574+00:00",
  "sections": [
   {
    "id": "cardiologia",
    "title": "Cardiología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "The STRIDE Trial",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DNUZUMGdSQnk3dTgxZzNaZFVucGtWQzNjT2tMaGE3MjR6QzNocmQ5eDZzMTFEREV0N241N3pOYUZ4eE8yZHZJSFNZR2xTVWlZN3c?oc=5",
+     "source": "TCTMD",
+     "published": "2026-11-18T14:03:38+00:00",
+     "id": "c62ef3900d7e"
+    },
     {
      "title": "US Veterans Face Unique Barriers to CV Health: AHA Statement",
      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS0ZqNDlLcTRzY3NROHh2ZVVUbGIwT2pmcDItdmZsUlQwdWdXQ09kVzVPS2p5elNJdUNpNmNHQjdNMTBCY3FxN0FFOEFWcl9SaFdNbmdtSDZ5QnlkVlFVLWdJbUFNWjBfM0hkNEV3SV8tNllVMWZSbDdGLUlMd1pnVml4T1JPOXlyT21Z?oc=5",
@@ -19,6 +26,30 @@
      "source": "TCTMD",
      "published": "2026-11-17T16:56:09+00:00",
      "id": "a72fb7922599"
+    },
+    {
+     "title": "Keeping Up Appearances-Or Measuring What Matters?",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/43049119/",
+     "source": "JACC",
+     "published": "2026-11-17T00:00:00+00:00",
+     "copete": "Malhotra G et al. · Journal of the American College of Cardiology",
+     "id": "48ebf35e8374"
+    },
+    {
+     "title": "Intravascular Lithotripsy vs Super-High-Pressure Noncompliant Balloons for Treatment of Calcified Coronary Lesions: The VICTORY Trial",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/43049118/",
+     "source": "JACC",
+     "published": "2026-11-17T00:00:00+00:00",
+     "copete": "Bossard M et al. · Journal of the American College of Cardiology",
+     "id": "cbb826020488"
+    },
+    {
+     "title": "Are We Ever Satisfied?",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/43049117/",
+     "source": "JACC",
+     "published": "2026-11-17T00:00:00+00:00",
+     "copete": "Krumholz HM et al. · Journal of the American College of Cardiology",
+     "id": "22d32d6fd679"
     },
     {
      "title": "SUPERIOR: Sacubitril/Valsartan May Lessen AF Recurrence After Ablation",
@@ -43,43 +74,12 @@
      "id": "e01cd9a7d762"
     },
     {
-     "title": "SCOUT-HCM: Mavacamten Maintains Benefits Through 56 Weeks",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNS1iaTh6VUt4Q0RzVXRLQndkVWpGOUlBWmdVbUpZamhsSGpNU0lmYjZneERTRXdna2Nkdk5jOVJLd0tuSm9Telk0Wjh0aS14UXA2RmpCalZiLTZLRjBPRVpIOFlsMEtISkYyRGstRnNudUxyQTFHbHlRbjZIUTNBU3c0MlRtRldocmZV?oc=5",
-     "source": "TCTMD",
-     "published": "2026-11-12T20:10:25+00:00",
-     "id": "1d560ad604fc"
-    },
-    {
-     "title": "Left Atrial Appendage Closure or Anticoagulation for Atrial Fibrillation: Navigating Heterogeneity in Clinical Evidence: JACC Evidence Review",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/43018506/",
-     "source": "JACC",
-     "published": "2026-11-12T00:00:00+00:00",
-     "copete": "Bikdeli B et al. · Journal of the American College of Cardiology",
-     "id": "20e898d3f28a"
-    },
-    {
-     "title": "Digital Outreach to Improve Statin Refills by Age: Insights From the ADHERE-ASCVD Randomized Clinical Trial",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/43043328/",
+     "title": "Clinical Safety Evaluation of a Large Language Model for Heart Failure Treatment Recommendations",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/43049712/",
      "source": "JACC",
      "published": "2026-11-09T00:00:00+00:00",
-     "copete": "Sun B et al. · Journal of the American College of Cardiology",
-     "id": "0a5cd32809ad"
-    },
-    {
-     "title": "Outcomes of Transcatheter Aortic Valve Replacement for Aortic Regurgitation in LVAD Patients: The JENA-VAD Study",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/43043327/",
-     "source": "JACC",
-     "published": "2026-11-03T00:00:00+00:00",
-     "copete": "Ramana R et al. · Journal of the American College of Cardiology",
-     "id": "f447c3594872"
-    },
-    {
-     "title": "10-Year Outcomes of Initial CTO-PCI vs No CTO-PCI Strategies for Chronic Total Occlusion: The DECISION-CTO Randomized Trial",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/43037535/",
-     "source": "JACC",
-     "published": "2026-11-02T00:00:00+00:00",
-     "copete": "Kim JH et al. · Journal of the American College of Cardiology",
-     "id": "ee327979fdfc"
+     "copete": "Chiu N et al. · Journal of the American College of Cardiology",
+     "id": "d967e2ba0141"
     }
    ]
   },
@@ -89,97 +89,73 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "El posible XV de Francia para enfrentar a Los Pumas por el Nations Championship",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR2J6ZmxqRFBscDJPSGFNMnhkYUNIeUM3N0pvbTN4MS1yN2ZnYU5vaXc2elVBdGV4T09GRDAwNlpteHMxajROcndReFEzajFLQzZnOG0xSnlvZUY5LWh3NUVqUmdnWTZPSFdLU0gtZEQySHpzRzZ1OG8xQW5pUHJvQWhqUDhxbXdCWmZ2QzNvRkZ0TlZUQnBPRV9Gcktkb1h5MlM1SGo3ZE9uc2tQYTc4OElWMWhoaU53VVY2SUU5c2NEQzNUUGNmSUI0cS1HZ2pGelRjOW1n?oc=5",
-     "source": "espn.com.pe",
-     "published": "2026-11-18T05:13:19+00:00",
-     "id": "e0119cefc418"
-    },
-    {
-     "title": "La buena noticia para Los Pumas de cara al duelo ante Francia en París",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaDJ2QkdmSmV1V3hIaXlGaW9KXzJaSjd6elowQVZ0TEwxVmo1SUZfSlg3SW5VN2pHRlVxSk1xNzluWnBHaG5SS2d0U0tPaENjNUg4ZnZQQUlIZ05HZklvZk1NUHRZU3NmbjF6a2lndFpYdkpsWW5QVmhzQnhJUVNoY3k0cHBWanhfeWdzbUJrWXRoeW11TGlnM0prVzI5YkRIRGhEalBwalBxamQxaDY1dTR1MjQxYWYtaFRvSHVaaWczTUpvY3RQaFVfMXpDN1E?oc=5",
-     "source": "espn.com.pe",
-     "published": "2026-11-18T05:13:18+00:00",
-     "id": "dded7ef8adae"
-    },
-    {
-     "title": "Hollie Davidson será la primera mujer en dirigir un test match de Los Pumas",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTm1qZHIxNnR1SWxZMUtrelBpSE50aElNQVRkTmVNTEh0Mi1kMncxd2stbjg3R1ByX1hBOENxOFI0bWpQcE4xYkJNQlpOQWlWbmM2RmtsZzVKZTNvSzljVWNpbW5ObWRVbTNOMS11alFqYVZFbi16SjdlRkEzc0tLS29XaE51eGM4WVNfdGtFcUNSQ0VrWDBYMFlkaVR4Vk8yNU5jcmJWV1BIdkVCekp4TjZ4ZG5ZYlY4WXdZQ2I0OXAwaEcxSUMwSmd0OFA1TUIwUEJSd0hMV1EyWWJyRUNzN3BrQ3NJUQ?oc=5",
+     "title": "Rassie Erasmus va por más, e invita a los simpatizantes a ver el partido de su equipo ante Irlanda y comentar junto a él",
+     "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOY3dCNHhvMTV3ZEVJVy1qTUZSZXRzT0pjaWxiTmJFZDZTZ3hxdFdsWTNMaHFqM2kzWElDcWhhZEJseFJVLUs0SnIxSGZFdGd0LUdBSDk4VUdCcF9tZWRQXzZvZ0djdVZWbEJyMkt2VEV2a0Z2SkRONmV5bEJBRFdRcDdvYm5MazFNWTVJeURMbHBsd01KZVpPbldNTmxURXgxQ0I5QmR2RlBhWEswWERkdHFNRUVsRkJYWTM4SVpmdlRGNWg1c0JHdjA3enl5Sks4djA4bklUeTRGQU9DQ1dyV2xRSVFzbXF0eDAtc3ZLaTktMnUxNXNzdVhJdnllcHN1WXNnTXdVUHFVWXZOamktamV5aUQza0FLWV9fUzBhcUQ?oc=5",
      "source": "Rugby Champagne",
-     "published": "2026-11-18T03:03:15+00:00",
-     "id": "b1e13e581130"
+     "published": "2026-11-18T17:08:41+00:00",
+     "id": "a5c147e44875"
     },
     {
-     "title": "Qué pasa en San Lorenzo con las deudas al plantel y por qué hay bronca en los jugadores",
-     "link": "https://www.ole.com.ar/san-lorenzo/san-lorenzo-sueldos-atrasados-deuda-plantel-dirigentes_0_3NkFlgqUuZ.html",
+     "title": "La decisión que tomó Insua para evitar que se agravara el conflicto en San Lorenzo",
+     "link": "https://www.ole.com.ar/san-lorenzo/sanlorenzo-rubendarioinsua-conflicto-torneoclausura_0_R5iP5DIPlg.html",
      "source": "Olé — Primera",
-     "published": "2026-11-18T00:20:33+00:00",
-     "copete": "Hubo cobros parciales de sueldos atrasados, pero la falta de certezas sobre el dinero restante genera malestar en el vestuario.",
-     "id": "080963d57b41"
+     "published": "2026-11-18T16:49:14+00:00",
+     "copete": "La tensa situación que se vive en el Ciclón por los atrasos salariales con los jugadores del plantel profesional llevó a que el Gallego se inclinara por optar por una dura postura. Mirá.",
+     "id": "11b64ef674fa"
     },
     {
-     "title": "Con calculadora en mano: cómo salieron los primeros siete partidos de la última fecha del Torneo Proyección",
-     "link": "https://www.ole.com.ar/futbol-primera/torneo-proyeccion-reserva-clausura-playoffs_0_QjlbDU5WNZ.html",
-     "source": "Olé — Primera",
-     "published": "2026-11-17T22:00:09+00:00",
-     "copete": "El Clausura de la Reserva ingresó en etapa de definición y se prepara de cara a los Playoffs. ¿Qué resultados hubo este martes 17 de noviembre?",
-     "id": "d4e5a6f19fba"
+     "title": "Sébastien Chabal, el gigante francés que no recuerda sus partidos, pero no olvida a Los Pumas: \"Me hubiese gustado jugar con ellos\"",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVzJZYnJPUV9GempYSFA3Wll1VXFubUVIOG5mUDYzREJ6LUs3NDFVY3ltbERibG9UdGVwYlo4dkdyWjRxblFocUdZVTNTU2FNTnhLMks2Q3Q3YXktV0owcDM0VndoSmFBQ1hzV0F6alFYMFFZaDU1ZWtoTFBfUTU4M3UxSnZzSTRncjlZMk5lVGpPa2ZEa1N4dk1Wa0pnVUV0U1lWcmNCZER0RUJDNk1EY28ycnQwM3pMenR5OVhjc0JsYmplX2c?oc=5",
+     "source": "Clarin",
+     "published": "2026-11-18T16:35:16+00:00",
+     "id": "c718c58df3e3"
     },
     {
-     "title": "¿Dónde estaban los 30 equipos de Primera cuando salió el GTA V?",
-     "link": "https://www.ole.com.ar/fuera-de-juego/gtav-gtavi-rockstar-lanzamiento-futbolargentino-primera-division_0_Pnh41csxyr.html",
-     "source": "Olé — Primera",
-     "published": "2026-11-17T21:34:56+00:00",
-     "copete": "En la previa de la salida de una nueva entrega de la saga que cautivó a una generación entera, repasamos en qué parte de la pirámide estaba cada participante de Primera División hace 13 años.",
-     "id": "e582a1ccbd13"
+     "title": "Un Puma suelto en el GEI: ‘Tati’ Dubuc entrenó con juveniles y regaló una jornada inolvidable a los chicos",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd2FpZWJTRWlpZ1BaaXMxcUEzX2ZjNnFIelFpMU5KVVAzX0FvTHFFbGprbUZ6ZjFqTEFhQmhpT3Z5b0p3T3JvRkxlR2NPcG5naXplek5NVEpPbC1lVHlTeFhkUTdrc2FPVUgxZTQtaDRqZDdCekpIejNWeGJDTUFfZjFzR0ZDODNjMy1tZ2p6VERxczl2ZEhlczl0UDRyOFFnWVktUTJieVRWQXRod3ljNFlzaFBKMEpIUGF4b3QyM0dKQmsxV0M3aFVLaHhnNDVGSWVZ?oc=5",
+     "source": "Primer Plano Online",
+     "published": "2026-11-18T16:34:53+00:00",
+     "id": "01a0d096a759"
     },
     {
-     "title": "Independiente: la sorpresa que analiza poner Viera para los octavos de final",
-     "link": "https://www.ole.com.ar/independiente/independiente-jadsonviera-facundocruz-argentinosjuniors_0_uCcp4UnXpO.html",
-     "source": "Olé — Primera",
-     "published": "2026-11-17T21:06:44+00:00",
-     "copete": "Con la visita a Argentinos Juniors cada vez más cerca, el entrenador del Rojo piensa en una alternativa que podría tener su segundo partido como titular. Los detalles.",
-     "id": "809de3c8285b"
-    },
-    {
-     "title": "Mala noticia en River: un titular se operará y será baja por el resto del año",
-     "link": "https://www.ole.com.ar/river-plate/river-anibal-moreno-operacion-discopatia-lumbar-quirofano-baja-ano-pretemporada-recuperacion_0_6bzfNvQCQN.html",
+     "title": "Ponzio recuperó tres futbolistas en el entrenamiento de River",
+     "link": "https://www.ole.com.ar/river-plate/river-ponzio-lanus-octavos-clausura-convocados-recupera-beltran-montiel-almada-moreno-fecha-operacion_0_suze4GiOlr.html",
      "source": "Olé — River",
-     "published": "2026-11-17T20:53:50+00:00",
-     "copete": "Aníbal Moreno pasará por el quirófano por su discopatía lumbar y apunta a llegar en condiciones a la pretemporada. Los detalles.",
-     "id": "0e5e7994299e"
+     "published": "2026-11-18T16:19:16+00:00",
+     "copete": "El entrenador ultima detalles para recibir a Lanús el domingo por los octavos de final del Clausura.",
+     "id": "7522367e45fb"
     },
     {
-     "title": "Árbitros confirmados para los octavos de final del Clausura: Luis Lobo Medina a Boca y Pablo Dóvalo a River",
-     "link": "https://www.ole.com.ar/futbol-primera/arbitros-confirmados-octavos-final-clausura-playoffs-luis-lobo-medina-boca-pablo-dovalo-river_0_eVlLaZ6mdz.html",
+     "title": "La cocina del amistoso entre River e Inter Miami: la negociación previa a la despedida de Messi y la respuesta casi inmediata",
+     "link": "https://www.ole.com.ar/river-plate/river-inter-miami-amistoso-negociacion-cocina-pormenores-detalles-messi-propuesta-empresa-respuesta_0_zG2FsNhGqQ.html",
      "source": "Olé — River",
-     "published": "2026-11-17T19:18:50+00:00",
-     "copete": "Los playoffs se juegan entre el viernes 20 y el miércoles 25. Repasá el calendario de los ocho partidos.",
-     "id": "21825355e7fc"
+     "published": "2026-11-18T15:19:17+00:00",
+     "copete": "Cuando Leo fue distinguido como socio honorario del club antes de Benín, las tratativas ya iban por buen curso. Cómo llegó la propuesta a Núñez y la reacción. Qué pasará con las entradas.",
+     "id": "052fbe75a5c6"
     },
     {
-     "title": "¿Qué pasa con Vera y su lesión de 30 días? Ante Lanús jugaría otra vez el pibe Espíndola",
-     "link": "https://www.ole.com.ar/river-plate/river-vera-espindola-lanus-desgarro-anibal-moreno_0_8KqBEx2X76.html",
+     "title": "El árbitro que se retira y dirigirá a River en octavos: historial y una última decisión polémica vía VAR",
+     "link": "https://www.ole.com.ar/river-plate/river-lanus-pablo-dovalo-arbitro-octavos-clausura_0_Eh9tq5UgKl.html",
      "source": "Olé — River",
-     "published": "2026-11-17T19:00:43+00:00",
-     "copete": "El volante central que se desgarró vs. Belgrano sigue sin el alta por una nueva molestia física, según informan en River. Así, el chico de 18 años seguiría en el 11 de Ponzio.",
-     "id": "281225cba13e"
+     "published": "2026-11-18T14:05:36+00:00",
+     "copete": "El equipo de Ponzio será dirigido por novena vez por el juez de 50 años y tiene en qué apoyarse desde lo estadístico.",
+     "id": "ee5e0ed1c952"
     },
     {
-     "title": "El momento Bover de dos figuras de la Selección en la llegada a Córdoba y la firma del Dibu a una camiseta de River",
-     "link": "https://www.ole.com.ar/seleccion/seleccion-argentina-llegada-cordoba-amistoso-julian-alvarez-mac-allister-dibu-martinez-boca-river-firma-hinchas_0_gKmZv2UWrc.html",
+     "title": "La estructura provisoria que está montando River en el Monumental por el techado y ampliación",
+     "link": "https://www.ole.com.ar/river-plate/river-estadio-monumental-obra-provisoria-estructura-iluminacion-techado-ampliacion_0_3FBbnl5RQC.html",
      "source": "Olé — River",
-     "published": "2026-11-17T17:42:56+00:00",
-     "copete": "Julián Álvarez y Alexis Mac Allister se acercaron a los hinchas para firmar una camiseta y un piluso de sus ex clubes antes del amistoso de esta noche frente a Costa Rica.",
-     "id": "a32b1f45bee6"
+     "published": "2026-11-18T13:04:05+00:00",
+     "copete": "Las obras no se detienen en el estadio y ahora se sumó una que será temporal y clave para que pueda realizarse la quinta bandeja.",
+     "id": "6bd4485a9d80"
     },
     {
-     "title": "Fuerte apoyo de un ex defensor de River para Martínez Quarta",
-     "link": "https://www.ole.com.ar/river-plate/river-lucasmartinezquarta-leandrogonzalezpirez_0_YGuKkcaocR.html",
+     "title": "River, hoy EN VIVO: un jugador se opera, las decisiones de Ponzio y últimas noticias del miércoles 18 de noviembre",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-ultimas-noticias-vivo-miercoles-18-noviembre-ponzio-moreno-operacion_0_utp7HxVnEA.html",
      "source": "Olé — River",
-     "published": "2026-11-17T16:48:04+00:00",
-     "copete": "Un ex compañero del zaguero del equipo de Ponzio salió a bancar al Chino: \"Se lo está castigando demasiado, no es justo\".",
-     "id": "d58d725d185c"
+     "published": "2026-11-18T12:16:28+00:00",
+     "copete": "El DT le da forma al equipo para jugar los octavos del Clausura contra Lanús.",
+     "id": "16f5cd59fcee"
     },
     {
      "title": "Buenos Aires, campeón del Argentino Juvenil M17",
@@ -197,32 +173,72 @@
    "mode": "resumen",
    "items": [
     {
-     "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
-     "link": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-11-18T05:11:30+00:00",
-     "id": "10bf3b711891"
+     "title": "How AI Agents Become a Tool for Attackers, and How to Stop It",
+     "link": "https://towardsdatascience.com/how-ai-agents-become-a-tool-for-attackers-and-how-to-stop-it/",
+     "source": "Towards Data Science",
+     "published": "2026-11-18T16:30:00+00:00",
+     "copete": "Managing Security When You’re Deploying AI, Part 1: Compromised credentials, salaries inferred from budgets, and doctored documents show why agents need permission checks before the model ever sees the data. The post How AI Agents Become a…",
+     "id": "c130ad7ffba2"
     },
     {
-     "title": "ID.me terms required for IRS sign-in",
-     "link": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-11-18T00:51:45+00:00",
-     "id": "3bffc55adac8"
+     "title": "Quoting Daniel Stenberg",
+     "link": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-11-18T15:58:27+00:00",
+     "copete": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A…",
+     "id": "628eed619e2b"
     },
     {
-     "title": "Google's AI answers reducing search traffic by 40%",
-     "link": "https://revscope.co/blog/search-seo-geo-2026/",
+     "title": "Inside Deutsche Bank",
+     "link": "https://www.inside-db.com/",
      "source": "Hacker News (100+ puntos)",
-     "published": "2026-11-18T00:17:58+00:00",
-     "id": "f2df59b272b9"
+     "published": "2026-11-18T15:38:33+00:00",
+     "id": "db253b67c20c"
     },
     {
-     "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
-     "link": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+     "title": "Pre-auth RCE in Nginx HTTP/2 handling",
+     "link": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
      "source": "Hacker News (100+ puntos)",
-     "published": "2026-11-17T23:32:58+00:00",
-     "id": "ab0568899135"
+     "published": "2026-11-18T15:19:55+00:00",
+     "id": "ff0c2dfa0648"
+    },
+    {
+     "title": "Poland says it thwarted false flag operation near border with Kaliningrad",
+     "link": "https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-11-18T15:18:30+00:00",
+     "id": "7370fbe8d7e4"
+    },
+    {
+     "title": "Neurosymbolic Agents Explained, With a Z3 Example in Python",
+     "link": "https://towardsdatascience.com/neurosymbolic-agents-explained-with-a-z3-example-in-python/",
+     "source": "Towards Data Science",
+     "published": "2026-11-18T15:00:00+00:00",
+     "copete": "Starting from Air Canada's chatbot case, a tour of Logic-LM, Agent-C, and Amazon's checks shows the solver is sound but the English-to-logic step is not. The post Neurosymbolic Agents Explained, With a Z3 Example in Python appeared first…",
+     "id": "3f73286c2e82"
+    },
+    {
+     "title": "The PSF end-of-year fundraiser",
+     "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-11-18T14:44:48+00:00",
+     "copete": "The PSF end-of-year fundraiser With my Python Software Foundation board director hat on: we've launched our end-of-year fundraiser for the non-profit that supports Python development and the Python community. If your company or your work…",
+     "id": "265c410e1681"
+    },
+    {
+     "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
+     "link": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-11-18T14:43:52+00:00",
+     "id": "f45c67f96747"
+    },
+    {
+     "title": "When Qini Rewards the Wrong Uplift Model, Use Doubly Robust Scores",
+     "link": "https://towardsdatascience.com/when-qini-rewards-the-wrong-uplift-model-use-doubly-robust-scores/",
+     "source": "Towards Data Science",
+     "published": "2026-11-18T13:30:00+00:00",
+     "copete": "On 1 million simulated customers, calibrated Qini scored a Linear DR learner 0.0856 against 0.0826 for the true-CATE ranking that should have won. The post When Qini Rewards the Wrong Uplift Model, Use Doubly Robust Scores appeared first…",
+     "id": "93feb30388ed"
     },
     {
      "title": "External sandboxes for coding agents",
@@ -231,46 +247,6 @@
      "published": "2026-11-17T22:52:29+00:00",
      "copete": "External sandboxes for coding agents I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause…",
      "id": "acdaad578a36"
-    },
-    {
-     "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
-     "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
-     "source": "Simon Willison (IA)",
-     "published": "2026-11-17T22:38:52+00:00",
-     "copete": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and…",
-     "id": "2a139dc941fa"
-    },
-    {
-     "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
-     "link": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
-     "source": "Simon Willison (IA)",
-     "published": "2026-11-17T16:48:33+00:00",
-     "copete": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable…",
-     "id": "5ab3ec093f2b"
-    },
-    {
-     "title": "How to Improve Coding Agent Efficiency by 30% with an Orchestrator",
-     "link": "https://towardsdatascience.com/how-to-improve-coding-agent-efficiency-by-30-with-an-orchestrator/",
-     "source": "Towards Data Science",
-     "published": "2026-11-17T16:30:00+00:00",
-     "copete": "Stop hunting through sessions for pending questions: a herder agent surfaces them by priority, kept current by webhooks or cheap Haiku polling. The post How to Improve Coding Agent Efficiency by 30% with an Orchestrator appeared first on…",
-     "id": "879ef0babf17"
-    },
-    {
-     "title": "How to Govern Coding Agent Skills Across Repos With Plugins",
-     "link": "https://towardsdatascience.com/how-to-govern-coding-agent-skills-across-repos-with-plugins/",
-     "source": "Towards Data Science",
-     "published": "2026-11-17T15:00:00+00:00",
-     "copete": "Package skills, rules, hooks, and MCP tool configs as versioned plugins, then distribute them through a marketplace, shown with Claude Code and AWS. The post How to Govern Coding Agent Skills Across Repos With Plugins appeared first on…",
-     "id": "9a48bc8114c3"
-    },
-    {
-     "title": "How to Calibrate Your Classifier’s Probabilities in Scikit-learn",
-     "link": "https://www.kdnuggets.com/how-to-calibrate-your-classifiers-probabilities-in-scikit-learn",
-     "source": "KDnuggets",
-     "published": "2026-11-17T15:00:00+00:00",
-     "copete": "In this tutorial, you will train two scikit-learn classifiers on a real dataset, expose their miscalibration with a reliability diagram and a Brier score, and fix it with Platt scaling and isotonic regression",
-     "id": "43eafb910a25"
     }
    ]
   },
@@ -280,100 +256,99 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Investigadores de Stanford coinciden en qué pasa con el bienestar emocional al cumplir años y el caso de los nacidos entre 1945 y 1965",
-     "link": "https://www.lanacion.com.ar/estados-unidos/california/investigadores-de-stanford-coinciden-en-que-pasa-con-el-bienestar-emocional-al-cumplir-anos-y-el-nid17112026/",
+     "title": "Carlos Melconian apuntó contra el rumbo económico: “Milei es parte de una transición que llegó a un techo”",
+     "link": "https://www.lanacion.com.ar/economia/carlos-melconian-apunto-contra-el-rumbo-economico-milei-es-parte-de-una-transicion-que-llego-a-un-nid18112026/",
      "source": "La Nación",
-     "published": "2026-11-18T07:33:00+00:00",
-     "copete": "La edad se asoció con mayor bienestar emocional en dos estudios de Stanford. Conocé qué midieron y cuáles son los límites de sus resultados.",
-     "id": "7ce23b43551d"
+     "published": "2026-11-18T17:15:22+00:00",
+     "copete": "Lanzado a la carrera presidencial, el economista cuestionó la “falta” de régimen monetario y cambiario, cuestionó el intento de eliminar las PASO y advirtió sobre 2027: “No están incubando una bomba, pero no tienen destino”",
+     "id": "b3241382d1b6"
     },
     {
-     "title": "Javier Milei y sus medidas, en vivo: “Voy a ser relecto: no tengan dudas de que vamos a ganar en primera”, dijo el Presidente",
-     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-cito-a-pablo-picasso-y-dijo-me-voy-a-encargar-de-lo-nid18112026/",
+     "title": "Alineado con Trump, el Gobierno se abstuvo de votar en la ONU una resolución para combatir la violencia contra mujeres y niñas",
+     "link": "https://www.lanacion.com.ar/politica/alineado-con-trump-el-gobierno-se-abstuvo-de-votar-en-la-onu-una-resolucion-para-combatir-la-nid18112026/",
      "source": "La Nación",
-     "published": "2026-11-18T07:30:00+00:00",
-     "copete": "El minuto a minuto de las decisiones del jefe de Estado, las reacciones de la oposición y las declaraciones de los funcionarios",
-     "id": "e9c24fafd9ad"
+     "published": "2026-11-18T17:14:36+00:00",
+     "copete": "La delegación argentina evitó apoyar una iniciativa de Francia, que se aprobó por 175 votos a favor, solo uno en contra (Somalia) y seis abstenciones; críticas de la oposición",
+     "id": "ce7c4cd23e26"
     },
     {
-     "title": "Las criptomonedas no son un territorio sin ley: todo queda registrado y a disposición de la Crypto Forensics",
-     "link": "https://www.infobae.com/opinion/2026/11/18/las-criptomonedas-no-son-un-territorio-sin-ley-todo-queda-registrado-y-a-disposicion-de-la-crypto-forensics/",
+     "title": "El retiro espiritual junto a una tribu amazónica de una estrella del deporte argentino: “No tengan miedo a explorarse”",
+     "link": "https://www.infobae.com/deportes/2026/11/18/el-retiro-espiritual-junto-a-una-tribu-amazonica-de-una-estrella-del-deporte-argentino-no-tengan-miedo-a-explorarse/",
      "source": "Infobae",
-     "published": "2026-11-18T07:20:44+00:00",
-     "copete": "Contra la idea de que el dinero puede ocultarse allí para siempre, seguir la huella del delito muchas veces es más sencillo que en el sistema financiero tradicional",
-     "id": "074fa1bc8c28"
+     "published": "2026-11-18T17:14:28+00:00",
+     "copete": "Facundo Conte, histórico jugador de la selección argentina y medallista olímpico, mostró la intimidad de su especial viaje a Córdoba",
+     "id": "b05ba782e466"
     },
     {
-     "title": "Tras la renuncia de Carlos Terrado, designaron al nuevo vicepresidente del directorio de la Autoridad Regulatoria Nuclear",
-     "link": "https://www.infobae.com/politica/2026/11/18/tras-la-renuncia-de-carlos-terrado-designaron-al-nuevo-vicepresidente-del-directorio-de-la-autoridad-regulatoria-nuclear/",
+     "title": "Reforma electoral: cómo fue la negociación y cuáles fueron las últimas reformas acordadas",
+     "link": "https://www.infobae.com/politica/2026/11/18/reforma-electoral-como-fue-la-negociacion-y-cuales-fueron-las-ultimas-reformas-acordadas/",
      "source": "Infobae",
-     "published": "2026-11-18T07:20:27+00:00",
-     "copete": "La nueva autoridad asumió las funciones ayer. Se trata de un bioingeniero con una amplia experiencia en formación en energía nuclear, seguridad radiológica y gestión de organizaciones",
-     "id": "4cdbcc012b6f"
+     "published": "2026-11-18T17:12:11+00:00",
+     "copete": "La posibilidad de eliminar las PASO quedó definitivamente atrás y ahora los senadores trabajan en la suspensión de las primarias exclusivamente para el año que viene. Además, hay cambios en la propuesta oficial sobre colectoras…",
+     "id": "1fbf0f2dd351"
     },
     {
-     "title": "Es ecuatoriano, le falta un semestre para graduarse y volvía de una entrevista laboral, pero el ICE lo detuvo en Atlanta",
-     "link": "https://www.lanacion.com.ar/estados-unidos/florida/es-ecuatoriano-le-falta-un-semestre-de-graduarse-y-volvia-de-una-entrevista-laboral-pero-el-ice-lo-nid16112026/",
+     "title": "El Niño: se prolongan las lluvias en el sur de Brasil y podrían agravar la creciente en el Paraná",
+     "link": "https://www.infobae.com/sociedad/2026/11/18/el-nino-se-prolongan-las-lluvias-en-el-sur-de-brasil-y-podrian-agravar-la-creciente-en-el-parana/",
+     "source": "Infobae",
+     "published": "2026-11-18T17:10:32+00:00",
+     "copete": "El aumento de las precipitaciones en el sur de Brasil podría extenderse hasta marzo y mantener la presión sobre las ciudades costeras argentinas, donde continúan las evacuaciones y los alertas.",
+     "id": "8fc289fda9d6"
+    },
+    {
+     "title": "River presentará su Presupuesto 2027: prevé ingresos por casi USD 200 millones y superávit pese a las obras del Monumental",
+     "link": "https://www.infobae.com/deportes/2026/11/18/river-presentara-su-presupuesto-2027-preve-ingresos-por-casi-usd-200-millones-y-superavit-pese-a-las-obras-del-monumental/",
+     "source": "Infobae",
+     "published": "2026-11-18T17:10:23+00:00",
+     "id": "f1671532cb03"
+    },
+    {
+     "title": "El Gobierno retiró las listas colectoras para asegurarse el apoyo para suspender las PASO",
+     "link": "https://www.lanacion.com.ar/politica/el-gobierno-retiro-las-listas-colectoras-para-asegurarse-el-apoyo-para-suspender-las-paso-nid18112026/",
      "source": "La Nación",
-     "published": "2026-11-18T07:16:00+00:00",
-     "copete": "Es ecuatoriano, le falta un semestre de graduarse y volvía de una entrevista laboral, pero el ICE lo detuvo en Atlanta.",
-     "id": "6f5f8f1941fc"
+     "published": "2026-11-18T17:09:08+00:00",
+     "copete": "El proyecto de ley con cambios se debatirá esta tarde en comisión en el Senado; con las modificaciones, el oficialismo lograría el dictamen",
+     "id": "6d75a291a671"
     },
     {
-     "title": "El Gobierno aumentó las prestaciones por discapacidad: cuáles son los nuevos montos",
-     "link": "https://www.infobae.com/sociedad/2026/11/18/el-gobierno-aumento-las-prestaciones-por-discapacidad-cuales-son-los-nuevos-montos/",
+     "title": "Polémica en el arte: retiran un cuadro de Frida Kahlo horas antes ser subastado",
+     "link": "https://www.infobae.com/cultura/2026/11/18/polemica-en-el-arte-retiran-un-cuadro-de-frida-kahlo-horas-antes-ser-subastado/",
      "source": "Infobae",
-     "published": "2026-11-18T07:13:49+00:00",
-     "copete": "La Secretaría Nacional de Discapacidad dispuso un incremento sobre las tarifas vigentes y confirmó la continuidad del reconocimiento diferencial para los servicios brindados en la Patagonia",
-     "id": "c406232952c1"
+     "published": "2026-11-18T17:08:01+00:00",
+     "copete": "Christie's retiró \"Congreso de los pueblos por la Paz\" tras las acusaciones de que varias pinturas de la artista habían desaparecido de la Casa Azul, la casa-museo de la Ciudad de México",
+     "id": "33d81e7bef06"
     },
     {
-     "title": "Temblor hoy en Chile: se registra sismo de magnitud 4.2 en Tongoy este 18 de noviembre",
-     "link": "https://www.infobae.com/noticias/2026/11/18/temblor-hoy-en-chile-se-registra-sismo-de-magnitud-42-en-tongoy-este-18-de-noviembre/",
-     "source": "Infobae",
-     "published": "2026-11-18T07:01:14+00:00",
-     "copete": "Debido a su ubicación geográfica, Chile está expuesto a sufrir constantemente de este tipo de eventos sísmicos",
-     "id": "41509e393eaf"
-    },
-    {
-     "title": "Jefe del DHS sobre inmigrantes con más de 10 años en USA: “Podrían convertirse en ciudadanos o residentes permanentes”",
-     "link": "https://www.lanacion.com.ar/estados-unidos/jefe-del-dhs-sobre-inmigrantes-con-mas-de-10-anos-en-usa-puedan-convertirse-tal-vez-en-ciudadanos-o-nid15112026/",
+     "title": "El dólar sube hasta los $1580 y alcanza un nuevo máximo",
+     "link": "https://www.lanacion.com.ar/economia/el-dolar-oficial-sube-hasta-los-1580-y-alcanza-un-nuevo-maximo-nid18112026/",
      "source": "La Nación",
-     "published": "2026-11-18T07:00:00+00:00",
-     "copete": "Markwayne Mullin afirmó que el Gobierno de Donald Trump está abierto a conversar con el Congreso sobre un estatus permanente para quienes llegaron de niños, aunque descartó una amnistía",
-     "id": "7e60b35bf1f0"
+     "published": "2026-11-18T17:06:35+00:00",
+     "copete": "El tipo de cambio minorista registra un avance de $10 en tres días, pero a lo largo del mes acumula $20; el CCL supera los $1700; las acciones argentinas suben hasta 4% en Wall Street",
+     "id": "6ac6a7d606d6"
     },
     {
-     "title": "Mamdani confirma el regreso de una iniciativa para repartir frutas y verduras gratis a personas mayores en NYC",
-     "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/mamdani-confirma-el-regreso-de-una-iniciativa-para-repartir-frutas-y-verduras-gratis-a-personas-nid17112026/",
+     "title": "Ana Molina, dermatóloga: “Mover la raya de pelo ligeramente hacia un lado o en zigzag ayuda a disimular el poco pelo en la zona central y dar mayor sensación de volumen”",
+     "link": "https://www.lanacion.com.ar/lifestyle/ana-molina-dermatologa-mover-la-raya-de-pelo-ligeramente-hacia-un-lado-o-en-zigzag-ayuda-a-disimular-nid18112026/",
      "source": "La Nación",
-     "published": "2026-11-18T07:00:00+00:00",
-     "copete": "Mamdani relanza una iniciativa para repartir frutas y verduras gratis a adultos mayores en Nueva York. En su primera edición, entregó 24.000 bolsas de alimentos",
-     "id": "b879ce17ff73"
+     "published": "2026-11-18T17:04:00+00:00",
+     "copete": "La especialista explica cómo cambiar la dirección del peinado funciona como un recurso estético eficaz; sostiene que esta técnica aporta movimiento inmediato a las melenas finas",
+     "id": "1a58077c2375"
     },
     {
-     "title": "Un ladrón se escapó de una comisaría de Mar del Plata y fue recapturado: no es la primera vez que huye de la Policía",
-     "link": "https://www.infobae.com/sociedad/policiales/2026/11/18/un-ladron-se-escapo-de-una-comisaria-de-mar-del-plata-y-fue-recapturado-no-es-la-primera-vez-que-huye-de-la-policia/",
-     "source": "Infobae",
-     "published": "2026-11-18T06:41:28+00:00",
-     "copete": "Ocurrió en la dependencia policial de la calle Almafuerte al 700. Carlos Saúl Leguizamón había sido apresado durante la madrugada del sábado último por robar cables. En marzo de 2025, evadió a las autoridades cuando fue trasladado desde…",
-     "id": "37537f8a3414"
-    },
-    {
-     "title": "Manuel Armando, albañil con más de 30 años de experiencia: \"Mano de obra hay más que nunca, pero no está cualificada\"",
-     "link": "https://www.clarin.com/internacional/manuel-armando-albanil-30-anos-experiencia-mano-obra-cualificada_0_l8gWpqtnuO.html",
+     "title": "Los demócratas eligen a su candidato para presidir la Cámara de Representantes y buscan hacer historia",
+     "link": "https://www.clarin.com/mundo/democratas-eligen-candidato-presidir-camara-representantes-buscan-hacer-historia_0_GQxwc2U9mH.html",
      "source": "Clarín",
-     "published": "2026-11-18T06:21:51+00:00",
-     "copete": "Es conocido en redes sociales como \"Bricomandy\" y un experto en la materia. Asegura que es difícil conseguir alguien a quien contratar por la falta de aprendizajes.",
-     "id": "7421c194779f"
+     "published": "2026-11-18T16:10:57+00:00",
+     "copete": "Hakeem Jeffries se impuso y está en camino de convertirse en el primer legislador negro del país en presidir la Cámara. Neoyorquino, de 56 años, obtuvo 251 votos a favor y 11 en contra de su nominación. Ahora deberá ratificarlo el pleno.",
+     "id": "f3aa481bcba4"
     },
     {
-     "title": "Policía filipina pide imputar al padre de Meghan Markle",
-     "link": "https://www.clarin.com/estados-unidos/policia-filipina-pide-imputar-al-padre-de-meghan-markle_0_1UmEIfaYGF.html",
+     "title": "Nadie se queda afuera: el Vasco Arruabarrena citó a todos los jugadores del plantel de Boca para la final de la Copa Sudamericana",
+     "link": "https://www.clarin.com/deportes/nadie-queda-afuera-vasco-arruabarrena-cito-jugadores-plantel-boca-final-copa-sudamericana_0_cyiwDdSCKn.html",
      "source": "Clarín",
-     "published": "2026-11-18T06:10:11+00:00",
-     "copete": "La policía en Filipinas ha solicitado imputar al padre de Meghan Markle por presunta posesión y distribución de material ilícito. Las denuncias se someterán a evaluación preliminar. Thomas Markle enfrenta cargos en Estados Unidos y…",
-     "id": "a6c8ecc1464f"
+     "published": "2026-11-18T16:09:18+00:00",
+     "copete": "El Xeneize viajará este miércoles rumbo a Colombia para disputar la final de la Copa Sudamericana. El Vasco citó a los 33 futbolistas de Boca, incluyendo a los lesionados, en busca de la \"gran conquista\". El sábado se medirá ante Atlético…",
+     "id": "ccfeb81f87c9"
     }
    ]
   },
@@ -383,84 +358,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Psicosis, conspiranoias y desconfianza en el Gobierno: la acumulación de fallos digitales  inquieta a los estadounidenses",
-     "link": "https://elpais.com/us/2026-11-18/psicosis-conspiranoia-y-desconfianza-en-el-gobierno-la-acumulacion-de-fallos-en-el-sistema-inquieta-a-los-ciudadanos.html",
+     "title": "Trump y Putin vuelven a verse en una cumbre histórica organizada por Xi",
+     "link": "https://elpais.com/internacional/2026-11-18/trump-y-putin-vuelven-a-verse-en-una-cumbre-historica-organizada-por-xi.html",
      "source": "El País Internacional",
-     "published": "2026-11-18T04:45:00+00:00",
-     "copete": "De la caída de Microsoft al cierre del espacio aéreo o los problemas de los bancos, la sucesión de crisis, sin conexión probada entre sí, aumenta la sensación de vulnerabilidad del país",
-     "id": "2951352cbd77"
+     "published": "2026-11-18T17:10:33+00:00",
+     "copete": "El presidente estadounidense llega a la cumbre del APEC dos semanas después de perder el control del Congreso y con la guerra de Irán todavía abierta",
+     "id": "990c00e72918"
     },
     {
-     "title": "Europa pasa de inquietarse por las libertades en Ruanda a considerarlo un socio fiable donde expulsar a migrantes",
-     "link": "https://elpais.com/internacional/2026-11-18/europa-pasa-de-inquietarse-por-las-libertades-en-ruanda-a-considerarlo-un-socio-fiable-donde-expulsar-a-migrantes.html",
-     "source": "El País Internacional",
-     "published": "2026-11-18T04:30:01+00:00",
-     "copete": "Cinco países de la UE que hace menos de un año cuestionaban ante la ONU la situación de los derechos humanos en el país africano preparan ahora en Kigali un centro para deportar a extranjeros",
-     "id": "265f4bb2497b"
-    },
-    {
-     "title": "Rusia pasa a una nueva fase en su ofensiva en Europa: sabotajes a los fabricantes de armas",
-     "link": "https://elpais.com/internacional/2026-11-18/rusia-pasa-a-una-nueva-fase-en-su-ofensiva-en-europa-sabotajes-a-los-fabricantes-de-armas.html",
-     "source": "El País Internacional",
-     "published": "2026-11-18T04:30:01+00:00",
-     "copete": "El número de ataques de baja intensidad contra productores de armamento con ventas en Ucrania, como el del sábado en Estonia, se ha multiplicado desde el verano. El Kremlin utiliza a agentes ocasionales o inmigrantes simpatizantes",
-     "id": "09af87f4505c"
-    },
-    {
-     "title": "Genocidio, la dificultad de probar el crimen de los crímenes",
-     "link": "https://elpais.com/internacional/2026-11-18/genocidio-la-dificultad-de-probar-el-crimen-de-los-crimenes.html",
-     "source": "El País Internacional",
-     "published": "2026-11-18T04:30:01+00:00",
-     "copete": "El Tribunal Penal Internacional decide este jueves si condena a Myanmar por la limpieza étnica de los rohingyá, una sentencia que sentará un precedente en el caso contra Israel por Gaza",
-     "id": "cc62f04b7ae3"
-    },
-    {
-     "title": "Por qué la histórica cumbre entre Trump, Putin y Xi preocupa a Europa (y qué puede significar para el resto del mundo)",
-     "link": "https://www.bbc.com/mundo/articles/cmwy98z3727vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-11-18T04:04:11+00:00",
-     "copete": "Los preparativos para la primera reunión trilateral de los líderes de China, Rusia y Estados Unidos han generado alarma en Europa, donde algunos ven paralelismos con la división del mundo en esferas de influencia tras la Segunda Guerra…",
-     "id": "3db2891cff3d"
-    },
-    {
-     "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-     "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+     "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+     "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-11-18T01:18:18+00:00",
-     "copete": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-     "id": "1eb6c4f0c38d"
+     "published": "2026-11-18T17:09:02+00:00",
+     "copete": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+     "id": "77109af97eba"
     },
     {
-     "title": "Cómo fue el sofisticado ataque con el que Ucrania destruyó parte del preciado puente de Crimea de Putin (y qué consecuencias tendrá)",
-     "link": "https://www.bbc.com/mundo/articles/c6y498pd1q54o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-11-18T00:55:45+00:00",
-     "copete": "Uno de los símbolos de la ocupación rusa de Ucrania ha sufrido graves daños tras un ataque en siete fases perpetrado por Kyiv.",
-     "id": "297dfc9e9212"
-    },
-    {
-     "title": "El disco de oro con mensajes para los extraterrestres que transporta la sonda Voyager 1 (y cómo podrán descifrarlo)",
-     "link": "https://www.bbc.com/mundo/articles/ck1l0v4yy6p0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-11-17T23:39:46+00:00",
-     "copete": "Las sondas Voyager 1 y Voyager 2 fueron lanzadas al espacio con discos de oro que contienen mensajes para civilizaciones extraterrestres.",
-     "id": "65589e17eecb"
-    },
-    {
-     "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-     "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+     "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+     "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-11-17T23:02:12+00:00",
-     "copete": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
-     "id": "3e19db2c7da4"
+     "published": "2026-11-18T17:00:40+00:00",
+     "copete": "Watch: The BBC's Jonathan Beale joins Ukrainian forces who have taken the battle below ground and out of sight of Russian drones.",
+     "id": "c73c048e2de0"
     },
     {
-     "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-     "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+     "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+     "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-11-17T22:46:30+00:00",
-     "copete": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-     "id": "c07f218d12a7"
+     "published": "2026-11-18T17:00:04+00:00",
+     "copete": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+     "id": "40b5659e8a61"
+    },
+    {
+     "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
+     "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-18T16:44:23+00:00",
+     "copete": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
+     "id": "bd5806ebe2b8"
+    },
+    {
+     "title": "Los demócratas proponen a Hakeem Jeffries como primer presidente negro de la Cámara de Representantes en el nuevo Congreso",
+     "link": "https://elpais.com/us/2026-11-18/los-democratas-proponen-a-hakeem-jefferies-como-primer-presidente-negro-de-la-camara-de-representantes-en-el-nuevo-congreso.html",
+     "source": "El País Internacional",
+     "published": "2026-11-18T16:35:28+00:00",
+     "copete": "El nombramiento del congresista neoyorquino, que se daba por sentado desde hace semanas, fue objeto de críticas del ala progresista del partido al considerarlo demasiado moderado",
+     "id": "cb2b474b8707"
+    },
+    {
+     "title": "Xi y Putin reafirman su alianza estratégica antes de su reunión a tres bandas con Trump",
+     "link": "https://elpais.com/internacional/2026-11-18/xi-jinping-y-putin-reivindican-su-firme-relacion-poco-antes-de-la-llegada-de-trump-a-la-cumbre-de-la-apec-en-china.html",
+     "source": "El País Internacional",
+     "published": "2026-11-18T16:24:14+00:00",
+     "copete": "El líder chino inaugura el foro de cooperación Asia-Pacífico en Shenzhen con una defensa del libre comercio y una advertencia contra el “unilateralismo y el proteccionismo”. Su homólogo ruso critica el “declive humillante” de Europa",
+     "id": "fc58adcd6598"
+    },
+    {
+     "title": "Putin exhibe su maletín nuclear y sus bombarderos antes de su encuentro con Xi Jinping y Trump",
+     "link": "https://elpais.com/internacional/2026-11-18/putin-exhibe-su-maletin-nuclear-y-sus-bombarderos-antes-de-su-encuentro-con-xi-jinping-y-trump.html",
+     "source": "El País Internacional",
+     "published": "2026-11-18T15:22:22+00:00",
+     "copete": "Un asistente muestra a las cámaras el maletín negro del presidente ruso y dos Tu-95MS cruzan Asia horas después de la destrucción parcial del puente de Crimea",
+     "id": "307ea5f66dde"
+    },
+    {
+     "title": "\"Es mucho más divertido ser el malo\": la idea que inspiró a un pequeño estudio escocés a crear el exitoso videojuego GTA hace casi 30 años",
+     "link": "https://www.bbc.com/mundo/articles/cw772rdlzdkzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-11-18T14:19:20+00:00",
+     "copete": "Como se esperaba, la nueva entrega de la saga va en camino a convertirse en el lanzamiento de un videojuego más grande de la historia.",
+     "id": "6e22e8e66a1b"
+    },
+    {
+     "title": "El inusual encuentro con los awá, un grupo de indígenas aislados en Brasil (y por qué genera preocupación)",
+     "link": "https://www.bbc.com/mundo/articles/cmglry191y9xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-11-18T13:19:32+00:00",
+     "copete": "Unos 20 integrantes del pueblo awá se acercó a la tribu de los guajajara e intercambiaron alimentos, lo que disparó de inmediato las alarmas.",
+     "id": "cc9794c9875b"
     }
    ]
   }
@@ -480,6 +455,11 @@
    "section": "cardiologia",
    "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "section": "ciencia_datos",
+   "feed": "KDnuggets",
+   "error": "HTTP Error 403: Forbidden"
   },
   {
    "section": "ciencia_datos",

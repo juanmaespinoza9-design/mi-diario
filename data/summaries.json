@@ -1,23 +1,28 @@
 {
-  "generated_at": "2026-11-19T10:10:00Z",
+  "generated_at": "2026-11-19T22:04:50Z",
   "summaries": {
-    "2c3bb81874ed": {
-      "resumen": "El ensayo SUPERIOR evaluó si el sacubitril/valsartan (un inhibidor de neprilisina y receptor de angiotensina, ARNI) reduce la recurrencia de fibrilación auricular luego de una ablación, comparado con el tratamiento habitual. Vale la pena mirarlo porque el ARNI ya demostró beneficio en insuficiencia cardíaca y esto explora si ese efecto se traslada a mejorar los resultados de un procedimiento muy frecuente en arritmias.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico (SUPERIOR); por el título y la cobertura periodística se interpreta que es aleatorizado, pero no hay detalles disponibles sobre cegamiento, número de centros ni de pacientes sin acceso al texto completo.\nPoblación: Pacientes con fibrilación auricular sometidos a ablación por catéter.\nIntervención: Sacubitril/valsartan (inhibidor de neprilisina y receptor de angiotensina, ARNI) agregado al tratamiento posablación, frente a la conducta habitual sin ARNI.\nResultados: El título indica que el ARNI \"podría disminuir\" la recurrencia de fibrilación auricular, pero no hay cifras de incidencia, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el tiempo de seguimiento ni si el estudio tuvo potencia suficiente para un criterio de valoración de recurrencia arrítmica.\nMensaje: Si se confirma, sumaría un argumento a favor de usar ARNI de forma más amplia en fibrilación auricular, más allá de su indicación actual en insuficiencia cardíaca, pero la lectura del texto completo es indispensable antes de cambiar la práctica.\nNota: análisis sin acceso al abstract."
-    },
-    "9bd32d4bb554": {
-      "resumen": "European Heart Journal (Revista Europea de Cardiología) publica una nota de imágenes cardiovasculares que ilustra avances en tomografía computada cardíaca (CCT, cardiac computed tomography) y resonancia magnética aplicados a la miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy) y su vínculo con la demencia. Vale la pena mirarlo como repaso visual de hallazgos por imágenes, aunque no es un estudio original con resultados cuantitativos propios.",
+    "588b24e68edb": {
+      "resumen": "SCAI (Society for Cardiovascular Angiography and Interventions, Sociedad de Angiografía y Intervenciones Cardiovasculares) cuestiona los requisitos mínimos de volumen de procedimientos que deben cumplir los cardiólogos intervencionistas para mantener su habilitación. Vale la pena mirarlo porque el debate sobre volumen versus calidad en los procedimientos percutáneos puede redefinir cómo se acredita a los operadores.",
       "destacado": false
     },
-    "2200934183a4": {
-      "resumen": "Es una declaración científica de la American Heart Association (AHA, Asociación Americana del Corazón) sobre las barreras particulares que enfrentan los veteranos de guerra estadounidenses para cuidar su salud cardiovascular. Vale la pena mirarla porque identifica factores de riesgo y obstáculos de acceso propios de esta población -como el estrés postraumático o la exposición ambiental en combate- que las guías generales no suelen contemplar.",
-      "destacado": false
-    },
-    "c62ef3900d7e": {
-      "resumen": "TCTMD cubre el ensayo STRIDE, un estudio cardiovascular presentado en un congreso de cardiología intervencionista cuyo diseño y resultados concretos no se detallan en el título de la nota. Vale la pena anotarlo como referencia a seguir, aunque sin más datos que el nombre del ensayo todavía no se puede precisar qué intervención evalúa.",
+    "97eff5851098": {
+      "resumen": "Un estudio comparó la interpretación de ecocardiogramas asistida por inteligencia artificial (AI-Echo) con la lectura de cardiólogos clínicos, y encontró un desempeño comparable entre ambos. Vale la pena mirarlo porque la automatización de la lectura ecocardiográfica podría agilizar el diagnóstico y aliviar la carga de los laboratorios de ecocardiografía.",
       "destacado": false,
-      "analisis": "Diseño: Ensayo clínico (STRIDE Trial); el título no aporta información sobre aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: No especificada en el título ni en la fuente disponible.\nIntervención: No especificada en el título ni en la fuente disponible.\nResultados: No hay cifras ni criterio de valoración disponibles a partir del título.\nLimitaciones: La nota de TCTMD no fue abierta (fuente bloqueada para bots) y el título por sí solo no permite identificar el diseño, la población ni los resultados del estudio.\nMensaje: Sin más datos que el nombre del ensayo, solo puede registrarse como un estudio cardiovascular a seguir; su relevancia clínica deberá evaluarse cuando se disponga del texto completo.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Estudio de validación/comparación de desempeño diagnóstico entre un sistema de inteligencia artificial para ecocardiografía (AI-Echo) y cardiólogos clínicos intérpretes; el título no precisa si fue prospectivo, el número de centros ni de pacientes o estudios evaluados.\nPoblación: Pacientes o estudios ecocardiográficos interpretados en paralelo por el sistema de IA y por médicos clínicos; el contexto clínico específico no se detalla en el título.\nIntervención: Interpretación automatizada de ecocardiogramas mediante inteligencia artificial, comparada con la interpretación realizada por cardiólogos clínicos.\nResultados: El título indica que el desempeño de la IA \"se mantiene bien\" frente a los intérpretes clínicos, pero no hay cifras de concordancia, sensibilidad, especificidad ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el estándar de referencia usado para juzgar la exactitud diagnóstica, ni si se analizaron subgrupos de patologías específicas.\nMensaje: De confirmarse con el texto completo, respalda usar la IA como apoyo (no reemplazo) en la lectura ecocardiográfica, lo que podría optimizar tiempos en laboratorios de ecocardiografía con alta demanda.\nNota: análisis sin acceso al abstract."
+    },
+    "3c2a9d9e80c2": {
+      "resumen": "El estudio SINGLE-CLOSURE evaluó si alcanza con un solo dispositivo ProGlide (sistema de cierre percutáneo arterial) para cerrar el sitio de punción femoral después de un implante percutáneo de válvula aórtica (TAVI, transcatheter aortic valve implantation), en vez de usar dos como es habitual. Vale la pena mirarlo porque simplificar el cierre vascular podría reducir costos y complicaciones sin perder seguridad.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico (SINGLE-CLOSURE); el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes sometidos a implante percutáneo de válvula aórtica (TAVI) por acceso femoral que requieren cierre vascular del sitio de punción.\nIntervención: Cierre vascular con un solo dispositivo ProGlide, comparado con la estrategia habitual de dos dispositivos ProGlide.\nResultados: El título sugiere que \"un dispositivo puede ser suficiente\", pero no hay cifras de éxito de hemostasia, complicaciones vasculares ni sangrado disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el criterio de valoración principal elegido ni el seguimiento alcanzado para complicaciones vasculares tardías.\nMensaje: De confirmarse, permitiría simplificar y abaratar el cierre vascular tras TAVI sin resignar seguridad, aunque la decisión definitiva requiere revisar el texto completo del estudio.\nNota: análisis sin acceso al abstract."
+    },
+    "d96193ce42c1": {
+      "resumen": "El estudio DUOTAP analizó si hacer una posdilatación (inflado adicional con balón) de rutina después del implante percutáneo de válvula aórtica (TAVI, transcatheter aortic valve implantation) mejora los resultados del procedimiento. Vale la pena mirarlo porque la fuga paravalvular y la expansión incompleta de la válvula son problemas frecuentes del TAVI, y todavía no hay consenso sobre cuándo conviene posdilatar de manera sistemática.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico (DUOTAP); el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes sometidos a implante percutáneo de válvula aórtica (TAVI, transcatheter aortic valve implantation).\nIntervención: Posdilatación (inflado adicional con balón) de rutina tras el despliegue de la válvula, probablemente frente a una estrategia sin posdilatación sistemática.\nResultados: El título afirma que el estudio \"hace el caso\" a favor de más posdilatación, pero no hay cifras de fuga paravalvular, gradiente residual ni complicaciones disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el criterio de valoración principal ni el riesgo de complicaciones asociadas a la posdilatación (como rotura anular o accidente cerebrovascular).\nMensaje: Sugiere que ampliar el uso de posdilatación podría mejorar la expansión de la válvula en TAVI, pero la relación riesgo-beneficio debe confirmarse con el texto completo antes de cambiar la práctica habitual.\nNota: análisis sin acceso al abstract."
+    },
+    "b14db982c933": {
+      "resumen": "TCTMD repasa la evidencia clínica disponible sobre la oclusión percutánea de la orejuela izquierda (LAAO, left atrial appendage occlusion), un procedimiento usado para prevenir accidentes cerebrovasculares en pacientes con fibrilación auricular que no pueden recibir anticoagulación crónica. Vale la pena mirarlo porque sintetiza qué está bien establecido y qué todavía genera dudas en una técnica cada vez más usada en la práctica.",
+      "destacado": false
     },
     "48ebf35e8374": {
       "resumen": "Este editorial de JACC (Journal of the American College of Cardiology), firmado por Malhotra G et al., reflexiona en tono crítico sobre qué indicadores de calidad o métricas realmente importan en la práctica cardiológica, en contraposición a las que solo \"quedan bien\" en los reportes. Vale la pena mirarlo porque invita a repensar qué se mide y se publica en cardiología, más allá de los números que suelen destacarse.",
@@ -32,65 +37,63 @@
       "resumen": "Este editorial de JACC, firmado por Krumholz HM et al., plantea una reflexión sobre la insatisfacción persistente en medicina frente a los avances terapéuticos y los resultados obtenidos. Vale la pena mirarlo porque invita a pensar de forma crítica cómo se interpretan los logros y las limitaciones de los tratamientos cardiovasculares actuales.",
       "destacado": false
     },
+    "9bd32d4bb554": {
+      "resumen": "European Heart Journal (Revista Europea de Cardiología) publica una nota de imágenes cardiovasculares que ilustra avances en tomografía computada cardíaca (CCT, cardiac computed tomography) y resonancia magnética aplicados a la miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy) y su vínculo con la demencia. Vale la pena mirarlo como repaso visual de hallazgos por imágenes, aunque no es un estudio original con resultados cuantitativos propios.",
+      "destacado": false
+    },
     "d967e2ba0141": {
       "resumen": "Este estudio de JACC evaluó qué tan seguras son las recomendaciones de tratamiento para insuficiencia cardíaca generadas por un modelo de lenguaje de gran escala (LLM, large language model), comparándolas con la conducta clínica esperada. Vale la pena mirarlo porque la inteligencia artificial generativa empieza a usarse como apoyo en decisiones clínicas y todavía hace falta evidencia sólida sobre su seguridad antes de confiar en sus sugerencias.",
       "destacado": false,
       "analisis": "Diseño: Estudio de evaluación/validación, probablemente transversal, que compara recomendaciones generadas por un modelo de lenguaje de gran escala (LLM) frente a un estándar de referencia clínico; el título no precisa el número de casos evaluados ni la metodología exacta de calificación de seguridad sin acceso al abstract.\nPoblación: Casos o escenarios clínicos de insuficiencia cardíaca utilizados para generar recomendaciones de tratamiento mediante el LLM.\nIntervención: Recomendaciones de tratamiento generadas por el LLM, evaluadas frente a la conducta clínica esperada o el juicio de expertos en insuficiencia cardíaca (el título no detalla el comparador exacto).\nResultados: El título anuncia una \"evaluación de seguridad clínica\" pero no hay cifras de concordancia, tasa de errores ni proporción de recomendaciones inseguras disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra de casos, el diseño del panel de referencia que definió el estándar comparador ni la generalización a la práctica real.\nMensaje: Aporta evidencia temprana sobre los riesgos y limitaciones de delegar decisiones de insuficiencia cardíaca en un LLM, un paso necesario antes de integrar estas herramientas a la práctica clínica.\nNota: análisis sin acceso al abstract."
     },
-    "c130ad7ffba2": {
-      "resumen": "Un artículo de Towards Data Science (primera parte de una serie sobre seguridad al desplegar inteligencia artificial) explica cómo los agentes de IA pueden ser usados por atacantes mediante credenciales comprometidas, inferencia de datos sensibles a partir de presupuestos o documentos manipulados, y por qué hacen falta controles de permisos antes de que el modelo acceda a la información. Le sirve a un médico que aprende análisis de datos porque plantea riesgos de seguridad concretos a tener en cuenta al usar agentes de IA con datos sensibles, como los de salud.",
+    "7339d690dfb6": {
+      "resumen": "Simon Willison repasa el lanzamiento de PostgreSQL 19, la nueva versión del popular sistema de gestión de bases de datos relacionales de código abierto, que llegó dos meses más tarde que lo habitual por cuestiones de seguridad que el equipo tuvo que resolver. Le sirve a un médico que aprende análisis de datos porque PostgreSQL es una de las bases más usadas para almacenar y consultar datos, y conocer sus novedades ayuda a aprovechar mejor las herramientas de consulta mediante SQL.",
       "destacado": false
     },
-    "628eed619e2b": {
-      "resumen": "Simon Willison cita al creador de curl, Daniel Stenberg, sobre cómo agentes de inteligencia artificial convirtieron 185.000 líneas de código en C a 340.000 líneas en Rust mientras el proyecto seguía recibiendo cientos de mejoras humanas en paralelo. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de la escala y velocidad con que la IA ya puede asistir en tareas de programación complejas, más allá de simples scripts de análisis.",
+    "122be7cf5dd9": {
+      "resumen": "Anthropic reporta que su modelo de inteligencia artificial Claude ayudó a resolver dos problemas abiertos de la física de agujeros negros. Le sirve a un médico que aprende análisis de datos como ejemplo de que estos modelos ya asisten en razonamiento científico avanzado, más allá de tareas de programación o resumen de texto.",
       "destacado": false
     },
-    "3f73286c2e82": {
-      "resumen": "Un artículo de Towards Data Science explica los agentes neurosimbólicos, que combinan modelos de lenguaje con motores de razonamiento lógico como Z3, usando el caso del chatbot de Air Canada como punto de partida para mostrar por qué el paso de lenguaje natural a lógica formal sigue siendo el eslabón débil. Le sirve a un médico que aprende análisis de datos porque muestra una forma de hacer que los sistemas de IA sean más confiables al combinarlos con reglas verificables, algo valioso cuando hay decisiones clínicas de por medio.",
+    "533964cca6f4": {
+      "resumen": "Un reporte describe que la inyección de un virus oncolítico (diseñado para infectar y destruir selectivamente células tumorales) detuvo el avance del cáncer de páncreas en tres pacientes. Le sirve a un médico que aprende análisis de datos como ejemplo de terapias emergentes que, al tratarse de series de casos muy chicas, requieren luego estudios con análisis estadístico riguroso para confirmar su eficacia real.",
       "destacado": false
     },
-    "265c410e1681": {
-      "resumen": "Simon Willison, como miembro de la junta directiva de la Python Software Foundation (PSF), promueve la campaña anual de recaudación de fondos de la organización que sostiene el desarrollo de Python y su comunidad. Le sirve a un médico que aprende análisis de datos como recordatorio de que Python, el lenguaje más usado para análisis de datos, depende del sostén de una fundación sin fines de lucro a la que se puede contribuir.",
+    "450b4071a471": {
+      "resumen": "Anthropic, la empresa creadora de Claude, debutó en la bolsa Nasdaq alcanzando una valuación de 2 billones de dólares (2 trillion dollars en inglés). Le sirve a un médico que aprende análisis de datos como contexto de la magnitud económica que está tomando la industria de la inteligencia artificial, la misma que produce las herramientas que usa a diario.",
       "destacado": false
     },
-    "a5c147e44875": {
-      "resumen": "El head coach de los Springboks, Rassie Erasmus, invitó a los hinchas a seguir junto a él la transmisión del partido de su equipo ante Irlanda y comentarlo en vivo."
-    },
-    "d96193ce42c1": {
-      "resumen": "El estudio DUOTAP analizó si hacer una posdilatación (inflado adicional con balón) de rutina después del implante percutáneo de válvula aórtica (TAVI, transcatheter aortic valve implantation) mejora los resultados del procedimiento. Vale la pena mirarlo porque la fuga paravalvular y la expansión incompleta de la válvula son problemas frecuentes del TAVI, y todavía no hay consenso sobre cuándo conviene posdilatar de manera sistemática.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico (DUOTAP); el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes sometidos a implante percutáneo de válvula aórtica (TAVI, transcatheter aortic valve implantation).\nIntervención: Posdilatación (inflado adicional con balón) de rutina tras el despliegue de la válvula, probablemente frente a una estrategia sin posdilatación sistemática.\nResultados: El título afirma que el estudio \"hace el caso\" a favor de más posdilatación, pero no hay cifras de fuga paravalvular, gradiente residual ni complicaciones disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el criterio de valoración principal ni el riesgo de complicaciones asociadas a la posdilatación (como rotura anular o accidente cerebrovascular).\nMensaje: Sugiere que ampliar el uso de posdilatación podría mejorar la expansión de la válvula en TAVI, pero la relación riesgo-beneficio debe confirmarse con el texto completo antes de cambiar la práctica habitual.\nNota: análisis sin acceso al abstract."
-    },
-    "b14db982c933": {
-      "resumen": "TCTMD repasa la evidencia clínica disponible sobre la oclusión percutánea de la orejuela izquierda (LAAO, left atrial appendage occlusion), un procedimiento usado para prevenir accidentes cerebrovasculares en pacientes con fibrilación auricular que no pueden recibir anticoagulación crónica. Vale la pena mirarlo porque sintetiza qué está bien establecido y qué todavía genera dudas en una técnica cada vez más usada en la práctica.",
+    "9cb51fd9a48f": {
+      "resumen": "Un post técnico cuestiona la efectividad de las salvaguardas (safeguards) actuales de los modelos de inteligencia artificial frente a intentos de eludirlas. Le sirve a un médico que aprende análisis de datos porque conviene conocer los límites reales de seguridad de estas herramientas antes de usarlas con información sensible, como datos de pacientes.",
       "destacado": false
     },
-    "e2b6407cfa68": {
-      "resumen": "Google presentó Gemini 4 Neon, una versión más liviana y rápida de su familia de modelos de inteligencia artificial Gemini. Le sirve a un médico que aprende análisis de datos porque los modelos más livianos suelen ser más baratos y rápidos para tareas cotidianas de limpieza, clasificación o resumen de datos, sin necesitar la versión más pesada del modelo.",
-      "destacado": false
-    },
-    "70cc8a0a1d31": {
-      "resumen": "Un equipo entrenó el modelo Qwen3.8 con aprendizaje por refuerzo (RL, reinforcement learning) sobre 1.200 tareas y logró subir su desempeño en Terminal-Bench (una prueba que mide qué tan bien un modelo de IA usa la terminal de una computadora) del 5,6% al 12%. Le sirve a un médico que aprende análisis de datos porque ilustra cuánto puede mejorar un modelo relativamente chico con entrenamiento dirigido, y por qué conviene mirar los benchmarks con ojo crítico.",
-      "destacado": false
-    },
-    "bb5459d8891c": {
-      "resumen": "Google DeepMind lanzó Genie 4, un modelo de \"mundo\" (world model) capaz de generar entornos interactivos y simulaciones a partir de texto o imágenes. Le sirve a un médico que aprende análisis de datos como ejemplo de hacia dónde avanza la inteligencia artificial generativa, más allá de los modelos de texto, hacia la simulación de escenarios complejos.",
-      "destacado": false
-    },
-    "0d576c5fe887": {
-      "resumen": "OpenAI publicó cómo sus modelos de inteligencia artificial empiezan a usarse para asistir el diseño de chips (semiconductores), acelerando tareas de ingeniería que antes requerían mucho trabajo manual. Le sirve a un médico que aprende análisis de datos como muestra de que estos modelos ya se aplican a problemas técnicos muy alejados del lenguaje natural, incluida la ingeniería de hardware.",
-      "destacado": false
-    },
-    "6a4e833f3292": {
-      "resumen": "Google presentó Gemini Decision 1, un modelo pensado para elegir entre opciones de respuesta en lugar de redactarlas, capaz de procesar texto, imágenes, video, audio y documentos PDF en una sola pasada, con hasta 262.144 tokens (unidades de texto que procesa un modelo de lenguaje) de entrada por consulta. Le sirve a un médico que aprende análisis de datos porque muestra un enfoque de IA orientado a clasificar o priorizar información multimodal en volumen, útil por ejemplo para ordenar documentos clínicos.",
-      "destacado": false
-    },
-    "c417fffbd827": {
-      "resumen": "KDnuggets explica el fenómeno de la \"inteligencia dispareja\" (jagged intelligence): por qué un mismo modelo de inteligencia artificial puede resolver problemas de matemática olímpica y, al mismo tiempo, fallar en tareas cotidianas simples. Le sirve a un médico que aprende análisis de datos porque advierte sobre los límites reales de estos modelos y la importancia de validar sus respuestas en lugar de asumir que un buen desempeño en un área garantiza confiabilidad en otra.",
+    "231685d8e46c": {
+      "resumen": "Este artículo usa matemática exacta sobre la distribución uniforme y 100 simulaciones en Python para explicar por qué el expectil 0,95 (una medida estadística basada en errores cuadráticos asimétricos) no es lo mismo que el percentil 95, y cuándo conviene usar cada uno. Le sirve a un médico que aprende análisis de datos porque distinguir percentiles de expectiles es clave para no confundir medidas de variabilidad al analizar, por ejemplo, tiempos de espera o valores de laboratorio con distribuciones asimétricas.",
       "destacado": true
     },
-    "cd1cf3462834": {
-      "resumen": "Hollie Davidson se convirtió en la primera mujer en arbitrar a Los Pumas, después de dejar su carrera en JP Morgan y resignar la mitad de su sueldo para dedicarse al rugby."
+    "b0f319a64313": {
+      "resumen": "El artículo compara dos formas de tener agentes de programación como Claude Code corriendo de manera continua en la nube: activar el entorno en la nube propio de Claude Code, o alquilar un servidor para tener control total. Le sirve a un médico que aprende análisis de datos porque muestra opciones concretas para automatizar tareas de análisis o scripts sin depender de tener la computadora personal siempre encendida.",
+      "destacado": false
+    },
+    "dbe11a777e87": {
+      "resumen": "El autor resume lo aprendido en un curso gratuito de Kaggle y Google sobre agentes de inteligencia artificial, que cubre herramientas, memoria, evaluación y despliegue usando Gemini y el kit de desarrollo de agentes de Google (ADK, Agent Development Kit). Le sirve a un médico que aprende análisis de datos como una puerta de entrada gratuita y estructurada para entender cómo se construyen agentes de IA en vez de usarlos solo como caja negra.",
+      "destacado": false
+    },
+    "1bdae4f8e545": {
+      "resumen": "El artículo propone una arquitectura de tres niveles para supervisar agentes de inteligencia artificial a gran escala, separando la supervisión automática de cambios reversibles de la revisión humana para cambios de alto impacto. Le sirve a un médico que aprende análisis de datos porque plantea un marco de control aplicable a cualquier automatización con IA, incluida la que podría usarse sobre datos clínicos.",
+      "destacado": false
+    },
+    "87d6a7d25633": {
+      "resumen": "El artículo muestra cómo correr BigQuery, Apache Spark y Trino sobre una misma copia de una tabla en formato Apache Iceberg dentro de Google Cloud, sin duplicar datos ni sincronizar copias, y qué pasa cuando varios motores escriben a la vez. Le sirve a un médico que aprende análisis de datos porque introduce el concepto de tabla abierta (open table format), cada vez más usado para evitar silos de datos entre distintas herramientas de análisis.",
+      "destacado": false
+    },
+    "3d9958ebd244": {
+      "resumen": "Agustín Pichot sumó un nuevo cargo dirigencial a nivel global tras ser elegido para integrar el Comité Ejecutivo de World Rugby, el máximo organismo que regula el rugby mundial."
+    },
+    "022603efb72c": {
+      "resumen": "Los Pumas 7's ya tienen el plantel confirmado para arrancar una nueva temporada del circuito mundial de rugby seven."
+    },
+    "499226ca47bf": {
+      "resumen": "Los Pumas 7's confirmaron los nombres que arrancarán el Circuito Mundial de rugby seven en esta nueva temporada."
     }
   }
 }

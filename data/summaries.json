@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T22:06:26Z",
+  "generated_at": "2026-11-19T10:10:00Z",
   "summaries": {
     "2c3bb81874ed": {
       "resumen": "El ensayo SUPERIOR evaluó si el sacubitril/valsartan (un inhibidor de neprilisina y receptor de angiotensina, ARNI) reduce la recurrencia de fibrilación auricular luego de una ablación, comparado con el tratamiento habitual. Vale la pena mirarlo porque el ARNI ya demostró beneficio en insuficiencia cardíaca y esto explora si ese efecto se traslada a mejorar los resultados de un procedimiento muy frecuente en arritmias.",
@@ -10,21 +10,8 @@
       "resumen": "European Heart Journal (Revista Europea de Cardiología) publica una nota de imágenes cardiovasculares que ilustra avances en tomografía computada cardíaca (CCT, cardiac computed tomography) y resonancia magnética aplicados a la miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy) y su vínculo con la demencia. Vale la pena mirarlo como repaso visual de hallazgos por imágenes, aunque no es un estudio original con resultados cuantitativos propios.",
       "destacado": false
     },
-    "e01cd9a7d762": {
-      "resumen": "Un análisis presentado en TCTMD muestra que los pacientes en situación de calle con enfermedad arterial periférica (PAD, peripheral artery disease) requieren un abordaje más matizado, con peores resultados y mayores barreras de acceso al tratamiento que la población general. Vale la pena mirarlo porque pone el foco en un grupo vulnerable habitualmente subrepresentado en los ensayos clínicos de cardiología.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio observacional (probablemente un registro o cohorte) presentado en un congreso de cardiología intervencionista; el título no precisa si es prospectivo o retrospectivo, ni el número de centros o pacientes.\nPoblación: Pacientes en situación de calle (unhoused) con diagnóstico de enfermedad arterial periférica (PAD, peripheral artery disease).\nIntervención: No aplica una intervención comparativa clásica; se trata de una descripción de la atención y los resultados clínicos en esta población frente a la población general con PAD.\nResultados: El título señala que estos pacientes \"requieren una atención más matizada\", pero no hay cifras de amputación, mortalidad ni tasas de seguimiento disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el ajuste por comorbilidades ni el riesgo de sesgo de selección propio de estudiar una población de difícil seguimiento.\nMensaje: Alerta sobre la necesidad de adaptar las guías y el seguimiento de la enfermedad arterial periférica a poblaciones vulnerables con barreras sociales, más allá del algoritmo terapéutico estándar.\nNota: análisis sin acceso al abstract."
-    },
     "2200934183a4": {
       "resumen": "Es una declaración científica de la American Heart Association (AHA, Asociación Americana del Corazón) sobre las barreras particulares que enfrentan los veteranos de guerra estadounidenses para cuidar su salud cardiovascular. Vale la pena mirarla porque identifica factores de riesgo y obstáculos de acceso propios de esta población -como el estrés postraumático o la exposición ambiental en combate- que las guías generales no suelen contemplar.",
-      "destacado": false
-    },
-    "a72fb7922599": {
-      "resumen": "Es una crónica de una sesión del congreso TCT (Transcatheter Cardiovascular Therapeutics) donde se discutieron las distintas estrategias disponibles para preparar lesiones coronarias calcificadas antes de la angioplastia, como la aterectomía rotacional, la litotricia intravascular o los balones de corte. Vale la pena mirarla porque la calcificación coronaria sigue siendo un desafío técnico frecuente en la sala de hemodinamia y no hay un consenso único sobre qué herramienta usar en cada caso.",
-      "destacado": false
-    },
-    "acdaad578a36": {
-      "resumen": "Simon Willison explora distintas formas de crear entornos aislados (sandboxes) externos donde ejecutar código generado por agentes de inteligencia artificial, buscando que un error o un intento de inyección de instrucciones (prompt injection) no comprometa el sistema real. Le sirve a un médico que aprende análisis de datos porque plantea una práctica de seguridad básica para probar código generado por IA sin arriesgar los propios datos o equipos de trabajo.",
       "destacado": false
     },
     "c62ef3900d7e": {
@@ -58,18 +45,6 @@
       "resumen": "Simon Willison cita al creador de curl, Daniel Stenberg, sobre cómo agentes de inteligencia artificial convirtieron 185.000 líneas de código en C a 340.000 líneas en Rust mientras el proyecto seguía recibiendo cientos de mejoras humanas en paralelo. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de la escala y velocidad con que la IA ya puede asistir en tareas de programación complejas, más allá de simples scripts de análisis.",
       "destacado": false
     },
-    "db253b67c20c": {
-      "resumen": "Una publicación destacada en Hacker News, titulada \"Inside Deutsche Bank\", promete una mirada interna a la operación de ese banco, aunque el título disponible no aclara si el foco está puesto en tecnología, cultura corporativa o negocios. No tiene una conexión directa con ciencia de datos, pero aparece en el radar de la comunidad tech por su popularidad en el foro.",
-      "destacado": false
-    },
-    "ff0c2dfa0648": {
-      "resumen": "Un informe de seguridad (vía Wiz) describe vulnerabilidades de ejecución remota de código sin autenticación (RCE, remote code execution) en el manejo de HTTP/2 del servidor web Nginx. Le sirve a un médico que aprende análisis de datos porque Nginx suele usarse para exponer aplicaciones y paneles de datos en producción, y este tipo de fallas recuerda la importancia de mantener la infraestructura actualizada.",
-      "destacado": false
-    },
-    "7370fbe8d7e4": {
-      "resumen": "Polonia informó haber frustrado una operación de \"bandera falsa\" cerca de la frontera con el enclave ruso de Kaliningrado, en un contexto de tensión creciente con Rusia. Es una noticia de geopolítica sin relación directa con ciencia de datos, aunque aparece entre los temas más comentados de la comunidad tecnológica de Hacker News.",
-      "destacado": false
-    },
     "3f73286c2e82": {
       "resumen": "Un artículo de Towards Data Science explica los agentes neurosimbólicos, que combinan modelos de lenguaje con motores de razonamiento lógico como Z3, usando el caso del chatbot de Air Canada como punto de partida para mostrar por qué el paso de lenguaje natural a lógica formal sigue siendo el eslabón débil. Le sirve a un médico que aprende análisis de datos porque muestra una forma de hacer que los sistemas de IA sean más confiables al combinarlos con reglas verificables, algo valioso cuando hay decisiones clínicas de por medio.",
       "destacado": false
@@ -78,25 +53,44 @@
       "resumen": "Simon Willison, como miembro de la junta directiva de la Python Software Foundation (PSF), promueve la campaña anual de recaudación de fondos de la organización que sostiene el desarrollo de Python y su comunidad. Le sirve a un médico que aprende análisis de datos como recordatorio de que Python, el lenguaje más usado para análisis de datos, depende del sostén de una fundación sin fines de lucro a la que se puede contribuir.",
       "destacado": false
     },
-    "f45c67f96747": {
-      "resumen": "El diccionario de Cambridge eligió \"human\" (humano) como palabra del año 2026, reflejando el debate social sobre qué distingue a las personas frente a la inteligencia artificial. No es un tema técnico de ciencia de datos, pero resume bien el clima cultural en que se discute la adopción de la IA.",
-      "destacado": false
-    },
-    "93feb30388ed": {
-      "resumen": "Un artículo de Towards Data Science muestra, con una simulación de 1 millón de clientes, que la métrica Qini puede elegir mal entre modelos de \"uplift\" (que estiman el efecto causal de una intervención, como una campaña de marketing, sobre cada persona), y que los puntajes doblemente robustos (doubly robust scores) corrigen ese sesgo de evaluación. Le sirve a un médico que aprende análisis de datos porque introduce los modelos de uplift, útiles para estimar qué pacientes se benefician realmente de una intervención (no solo su riesgo basal), y advierte sobre errores al evaluarlos.",
-      "destacado": true
-    },
     "a5c147e44875": {
       "resumen": "El head coach de los Springboks, Rassie Erasmus, invitó a los hinchas a seguir junto a él la transmisión del partido de su equipo ante Irlanda y comentarlo en vivo."
     },
-    "c718c58df3e3": {
-      "resumen": "El exsegunda línea francés Sébastien Chabal confesó que apenas recuerda detalles de los partidos que jugó, pero guarda un especial cariño por Los Pumas y lamentó nunca haber compartido plantel con ellos."
+    "d96193ce42c1": {
+      "resumen": "El estudio DUOTAP analizó si hacer una posdilatación (inflado adicional con balón) de rutina después del implante percutáneo de válvula aórtica (TAVI, transcatheter aortic valve implantation) mejora los resultados del procedimiento. Vale la pena mirarlo porque la fuga paravalvular y la expansión incompleta de la válvula son problemas frecuentes del TAVI, y todavía no hay consenso sobre cuándo conviene posdilatar de manera sistemática.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico (DUOTAP); el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes sometidos a implante percutáneo de válvula aórtica (TAVI, transcatheter aortic valve implantation).\nIntervención: Posdilatación (inflado adicional con balón) de rutina tras el despliegue de la válvula, probablemente frente a una estrategia sin posdilatación sistemática.\nResultados: El título afirma que el estudio \"hace el caso\" a favor de más posdilatación, pero no hay cifras de fuga paravalvular, gradiente residual ni complicaciones disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el criterio de valoración principal ni el riesgo de complicaciones asociadas a la posdilatación (como rotura anular o accidente cerebrovascular).\nMensaje: Sugiere que ampliar el uso de posdilatación podría mejorar la expansión de la válvula en TAVI, pero la relación riesgo-beneficio debe confirmarse con el texto completo antes de cambiar la práctica habitual.\nNota: análisis sin acceso al abstract."
     },
-    "01a0d096a759": {
-      "resumen": "El jugador de Los Pumas \"Tati\" Dubuc sorprendió a un grupo de juveniles del club GEI al sumarse a entrenar con ellos y dejarles una jornada inolvidable."
+    "b14db982c933": {
+      "resumen": "TCTMD repasa la evidencia clínica disponible sobre la oclusión percutánea de la orejuela izquierda (LAAO, left atrial appendage occlusion), un procedimiento usado para prevenir accidentes cerebrovasculares en pacientes con fibrilación auricular que no pueden recibir anticoagulación crónica. Vale la pena mirarlo porque sintetiza qué está bien establecido y qué todavía genera dudas en una técnica cada vez más usada en la práctica.",
+      "destacado": false
     },
-    "f1671532cb03": {
-      "resumen": "River Plate presentará su presupuesto para 2027, que proyecta ingresos cercanos a los USD 200 millones y resultado superavitario a pesar de los fuertes gastos que implican las obras en el estadio Monumental."
+    "e2b6407cfa68": {
+      "resumen": "Google presentó Gemini 4 Neon, una versión más liviana y rápida de su familia de modelos de inteligencia artificial Gemini. Le sirve a un médico que aprende análisis de datos porque los modelos más livianos suelen ser más baratos y rápidos para tareas cotidianas de limpieza, clasificación o resumen de datos, sin necesitar la versión más pesada del modelo.",
+      "destacado": false
+    },
+    "70cc8a0a1d31": {
+      "resumen": "Un equipo entrenó el modelo Qwen3.8 con aprendizaje por refuerzo (RL, reinforcement learning) sobre 1.200 tareas y logró subir su desempeño en Terminal-Bench (una prueba que mide qué tan bien un modelo de IA usa la terminal de una computadora) del 5,6% al 12%. Le sirve a un médico que aprende análisis de datos porque ilustra cuánto puede mejorar un modelo relativamente chico con entrenamiento dirigido, y por qué conviene mirar los benchmarks con ojo crítico.",
+      "destacado": false
+    },
+    "bb5459d8891c": {
+      "resumen": "Google DeepMind lanzó Genie 4, un modelo de \"mundo\" (world model) capaz de generar entornos interactivos y simulaciones a partir de texto o imágenes. Le sirve a un médico que aprende análisis de datos como ejemplo de hacia dónde avanza la inteligencia artificial generativa, más allá de los modelos de texto, hacia la simulación de escenarios complejos.",
+      "destacado": false
+    },
+    "0d576c5fe887": {
+      "resumen": "OpenAI publicó cómo sus modelos de inteligencia artificial empiezan a usarse para asistir el diseño de chips (semiconductores), acelerando tareas de ingeniería que antes requerían mucho trabajo manual. Le sirve a un médico que aprende análisis de datos como muestra de que estos modelos ya se aplican a problemas técnicos muy alejados del lenguaje natural, incluida la ingeniería de hardware.",
+      "destacado": false
+    },
+    "6a4e833f3292": {
+      "resumen": "Google presentó Gemini Decision 1, un modelo pensado para elegir entre opciones de respuesta en lugar de redactarlas, capaz de procesar texto, imágenes, video, audio y documentos PDF en una sola pasada, con hasta 262.144 tokens (unidades de texto que procesa un modelo de lenguaje) de entrada por consulta. Le sirve a un médico que aprende análisis de datos porque muestra un enfoque de IA orientado a clasificar o priorizar información multimodal en volumen, útil por ejemplo para ordenar documentos clínicos.",
+      "destacado": false
+    },
+    "c417fffbd827": {
+      "resumen": "KDnuggets explica el fenómeno de la \"inteligencia dispareja\" (jagged intelligence): por qué un mismo modelo de inteligencia artificial puede resolver problemas de matemática olímpica y, al mismo tiempo, fallar en tareas cotidianas simples. Le sirve a un médico que aprende análisis de datos porque advierte sobre los límites reales de estos modelos y la importancia de validar sus respuestas en lugar de asumir que un buen desempeño en un área garantiza confiabilidad en otra.",
+      "destacado": true
+    },
+    "cd1cf3462834": {
+      "resumen": "Hollie Davidson se convirtió en la primera mujer en arbitrar a Los Pumas, después de dejar su carrera en JP Morgan y resignar la mitad de su sueldo para dedicarse al rugby."
     }
   }
 }

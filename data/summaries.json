@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T10:04:32Z",
+  "generated_at": "2026-11-20T22:04:25Z",
   "summaries": {
     "94d34dafcf99": {
       "resumen": "TCTMD reporta datos del estudio CHIP-BCIS3 sobre el papel de la lesión miocárdica (daño al músculo cardíaco medido con biomarcadores como la troponina) en los resultados de las angioplastias complejas de alto riesgo (PCI, percutaneous coronary intervention). Vale la pena mirarlo porque cuantificar cuánto importa esta lesión periprocedimiento podría cambiar cómo se interpreta el riesgo de estos procedimientos, cada vez más frecuentes en la práctica.",
@@ -20,11 +20,6 @@
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico (SINGLE-CLOSURE); el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes sometidos a implante percutáneo de válvula aórtica (TAVI) por acceso femoral que requieren cierre vascular del sitio de punción.\nIntervención: Cierre vascular con un solo dispositivo ProGlide, comparado con la estrategia habitual de dos dispositivos ProGlide.\nResultados: El título sugiere que \"un dispositivo puede ser suficiente\", pero no hay cifras de éxito de hemostasia, complicaciones vasculares ni sangrado disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el criterio de valoración principal elegido ni el seguimiento alcanzado para complicaciones vasculares tardías.\nMensaje: De confirmarse, permitiría simplificar y abaratar el cierre vascular tras TAVI sin resignar seguridad, aunque la decisión definitiva requiere revisar el texto completo del estudio.\nNota: análisis sin acceso al abstract."
     },
-    "d96193ce42c1": {
-      "resumen": "El estudio DUOTAP analizó si hacer una posdilatación (inflado adicional con balón) de rutina después del implante percutáneo de válvula aórtica (TAVI, transcatheter aortic valve implantation) mejora los resultados del procedimiento. Vale la pena mirarlo porque la fuga paravalvular y la expansión incompleta de la válvula son problemas frecuentes del TAVI, y todavía no hay consenso sobre cuándo conviene posdilatar de manera sistemática.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico (DUOTAP); el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes sometidos a implante percutáneo de válvula aórtica (TAVI, transcatheter aortic valve implantation).\nIntervención: Posdilatación (inflado adicional con balón) de rutina tras el despliegue de la válvula, probablemente frente a una estrategia sin posdilatación sistemática.\nResultados: El título afirma que el estudio \"hace el caso\" a favor de más posdilatación, pero no hay cifras de fuga paravalvular, gradiente residual ni complicaciones disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el criterio de valoración principal ni el riesgo de complicaciones asociadas a la posdilatación (como rotura anular o accidente cerebrovascular).\nMensaje: Sugiere que ampliar el uso de posdilatación podría mejorar la expansión de la válvula en TAVI, pero la relación riesgo-beneficio debe confirmarse con el texto completo antes de cambiar la práctica habitual.\nNota: análisis sin acceso al abstract."
-    },
     "48ebf35e8374": {
       "resumen": "Este editorial de JACC (Journal of the American College of Cardiology), firmado por Malhotra G et al., reflexiona en tono crítico sobre qué indicadores de calidad o métricas realmente importan en la práctica cardiológica, en contraposición a las que solo \"quedan bien\" en los reportes. Vale la pena mirarlo porque invita a repensar qué se mide y se publica en cardiología, más allá de los números que suelen destacarse.",
       "destacado": false
@@ -42,59 +37,66 @@
       "resumen": "European Heart Journal (Revista Europea de Cardiología) publica una nota de imágenes cardiovasculares que ilustra avances en tomografía computada cardíaca (CCT, cardiac computed tomography) y resonancia magnética aplicados a la miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy) y su vínculo con la demencia. Vale la pena mirarlo como repaso visual de hallazgos por imágenes, aunque no es un estudio original con resultados cuantitativos propios.",
       "destacado": false
     },
-    "d967e2ba0141": {
-      "resumen": "Este estudio de JACC evaluó qué tan seguras son las recomendaciones de tratamiento para insuficiencia cardíaca generadas por un modelo de lenguaje de gran escala (LLM, large language model), comparándolas con la conducta clínica esperada. Vale la pena mirarlo porque la inteligencia artificial generativa empieza a usarse como apoyo en decisiones clínicas y todavía hace falta evidencia sólida sobre su seguridad antes de confiar en sus sugerencias.",
+    "085976ebf325": {
+      "resumen": "TCTMD reporta un estudio que encontró que el uso de filtros de aire HEPA (High-Efficiency Particulate Air, filtros de alta eficiencia para partículas) ayudó a estabilizar la glucemia (nivel de azúcar en sangre) en personas con prediabetes. Vale la pena mirarlo porque suma evidencia sobre cómo la calidad del aire y la exposición a partículas contaminantes podrían influir en el metabolismo de la glucosa, un vínculo cada vez más relevante para la prevención cardiovascular.",
       "destacado": false,
-      "analisis": "Diseño: Estudio de evaluación/validación, probablemente transversal, que compara recomendaciones generadas por un modelo de lenguaje de gran escala (LLM) frente a un estándar de referencia clínico; el título no precisa el número de casos evaluados ni la metodología exacta de calificación de seguridad sin acceso al abstract.\nPoblación: Casos o escenarios clínicos de insuficiencia cardíaca utilizados para generar recomendaciones de tratamiento mediante el LLM.\nIntervención: Recomendaciones de tratamiento generadas por el LLM, evaluadas frente a la conducta clínica esperada o el juicio de expertos en insuficiencia cardíaca (el título no detalla el comparador exacto).\nResultados: El título anuncia una \"evaluación de seguridad clínica\" pero no hay cifras de concordancia, tasa de errores ni proporción de recomendaciones inseguras disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra de casos, el diseño del panel de referencia que definió el estándar comparador ni la generalización a la práctica real.\nMensaje: Aporta evidencia temprana sobre los riesgos y limitaciones de delegar decisiones de insuficiencia cardíaca en un LLM, un paso necesario antes de integrar estas herramientas a la práctica clínica.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: A partir del título, parecería un ensayo clínico o estudio piloto que evaluó el efecto del uso de filtros de aire HEPA sobre el control glucémico; no se puede precisar aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Personas con prediabetes (glucemia alterada sin llegar al diagnóstico de diabetes).\nIntervención: Uso de filtros de aire HEPA (de alta eficiencia para partículas) en el domicilio o ambiente habitual, frente a no usarlos o a un filtro placebo.\nResultados: El título indica que los filtros \"ayudaron a estabilizar\" la glucemia, pero no hay cifras de hemoglobina glicosilada, glucemia promedio ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, la duración de la exposición ni si se controló por otros factores ambientales o dietarios.\nMensaje: Sugiere un vínculo entre la contaminación del aire interior y el metabolismo de la glucosa, un dato de interés para la prevención cardiometabólica, aunque la magnitud real del efecto y su aplicabilidad clínica requieren revisar el texto completo.\nNota: análisis sin acceso al abstract."
     },
-    "f32d5bea8abf": {
-      "resumen": "Simon Willison comparte un video de YouTube sobre el fenómeno del \"fraude de tokens\" (las unidades mínimas de texto que procesan los modelos de lenguaje y por las que se suele facturar) en productos de inteligencia artificial, con el caso de ChatPRD, una plataforma para que product managers conviertan ideas en especificaciones. Le sirve a un médico que aprende análisis de datos porque entender cómo se mide y se puede abusar del consumo de tokens es clave para interpretar costos y riesgos al integrar modelos de lenguaje en proyectos propios.",
+    "92a4462a4d9b": {
+      "resumen": "Este documento de postura (2026 ACC Scientific Statement) del Colegio Americano de Cardiología, firmado por Greenland P et al., revisa las estrategias para bajar el colesterol (lipid-lowering) en la era de la detección temprana de aterosclerosis, por ejemplo mediante el score de calcio coronario o la detección de placa subclínica. Vale la pena mirarlo porque resume cómo debería ajustarse el tratamiento hipolipemiante cuando se detecta enfermedad coronaria incipiente antes de que aparezcan síntomas.",
       "destacado": false
     },
-    "fa58adbc15cb": {
-      "resumen": "El Models Engineering Index, un ranking que mide el desempeño de distintos modelos de lenguaje en tareas de ingeniería de software, ubicó a Gemini 4 Neon (de Google) en el primer puesto. Le sirve a un médico que aprende análisis de datos porque este tipo de índices ayuda a elegir qué modelo conviene usar para programar o automatizar análisis, más allá del marketing de cada empresa.",
+    "c69438672bb7": {
+      "resumen": "Hacker News reporta que la Comisión de Bolsa y Valores de Estados Unidos (SEC, Securities and Exchange Commission) está investigando las prácticas contables de Nvidia, la empresa líder en chips para inteligencia artificial. Le sirve a un médico que aprende análisis de datos porque recuerda que detrás del boom de la inteligencia artificial hay riesgos financieros y regulatorios que conviene seguir antes de depender de esa infraestructura para proyectos propios.",
       "destacado": false
     },
-    "bf5ffaf13e57": {
-      "resumen": "Un ciberataque filtró datos de clientes de Visa, Mastercard y JPMorgan, tres de las entidades financieras más grandes del mundo. Le sirve a un médico que aprende análisis de datos como recordatorio de que la seguridad y el resguardo de bases de datos sensibles —algo directamente aplicable a la protección de datos clínicos— sigue siendo un punto débil incluso en organizaciones con enorme presupuesto en ciberseguridad.",
+    "b9db119f86f5": {
+      "resumen": "Thinking Machines presentó Inkling 2 Mini, una versión reducida de su modelo de inteligencia artificial pensada para tareas más livianas y económicas. Le sirve a un médico que aprende análisis de datos porque ejemplifica la tendencia a ofrecer modelos más chicos y baratos para tareas puntuales, una opción más realista que los modelos grandes para automatizar análisis simples.",
       "destacado": false
     },
-    "04fd14ae1a21": {
-      "resumen": "Synology publicó un aviso de seguridad (security advisory) sobre una vulnerabilidad en sus dispositivos de almacenamiento en red (NAS, network-attached storage). Le sirve a un médico que aprende análisis de datos porque estos equipos suelen usarse para guardar bases de datos y copias de seguridad propias, y mantenerlos actualizados es parte básica de proteger la información que se analiza.",
+    "6a73fdd651f9": {
+      "resumen": "Simon Willison cita a Ravi Vakil sobre una propuesta de demostración de la Hipótesis de Riemann Generalizada (GRH, Generalized Riemann Hypothesis) presentada por Alessandro Masullo, que el matemático Brian Conrad viene revisando con atención durante meses. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo la comunidad científica valida —o no— resultados extraordinarios antes de aceptarlos, un proceso de revisión por pares comparable al que exige la evidencia clínica.",
       "destacado": false
     },
-    "7339d690dfb6": {
-      "resumen": "Simon Willison repasa el lanzamiento de PostgreSQL 19, la nueva versión del popular sistema de gestión de bases de datos relacionales de código abierto, que llegó dos meses más tarde que lo habitual por cuestiones de seguridad que el equipo tuvo que resolver. Le sirve a un médico que aprende análisis de datos porque PostgreSQL es una de las bases más usadas para almacenar y consultar datos, y conocer sus novedades ayuda a aprovechar mejor las herramientas de consulta mediante SQL.",
+    "81fd9565f775": {
+      "resumen": "Un blog de matemática publica un anuncio apurado sobre la supuesta demostración de la Hipótesis de Riemann Generalizada (GRH) de Alessandro Masullo, todavía en proceso de revisión por otros matemáticos. Le sirve a un médico que aprende análisis de datos para entender que un anuncio llamativo no equivale a un resultado confirmado, la misma cautela que hay que tener frente a estudios preliminares sin revisión por pares.",
       "destacado": false
     },
-    "404bc2ee895c": {
-      "resumen": "El artículo plantea que la publicidad paga en plataformas digitales funciona cada vez más como una \"máquina tragamonedas\" que extrae valor de los anunciantes, devolviéndoles apenas una fracción del retorno. Le sirve a un médico que aprende análisis de datos porque ilustra cómo las métricas de conversión y retorno de inversión pueden usarse tanto para entender como para cuestionar críticamente un modelo de negocio basado en datos.",
+    "e1a223b73868": {
+      "resumen": "El artículo cuenta el caso de desarrolladores de software que fueron promovidos de hecho a roles de arquitectos de sistemas sin que nadie se lo comunicara formalmente, generando confusión sobre sus responsabilidades. Le sirve a un médico que aprende análisis de datos porque ilustra un problema organizacional común en equipos técnicos —roles poco claros— que también puede aparecer cuando alguien empieza a liderar proyectos de datos dentro de un servicio clínico.",
       "destacado": false
     },
-    "231685d8e46c": {
-      "resumen": "Este artículo usa matemática exacta sobre la distribución uniforme y 100 simulaciones en Python para explicar por qué el expectil 0,95 (una medida estadística basada en errores cuadráticos asimétricos) no es lo mismo que el percentil 95, y cuándo conviene usar cada uno. Le sirve a un médico que aprende análisis de datos porque distinguir percentiles de expectiles es clave para no confundir medidas de variabilidad al analizar, por ejemplo, tiempos de espera o valores de laboratorio con distribuciones asimétricas.",
+    "9e188d65b5ac": {
+      "resumen": "Simon Willison cita a Levent Alpöge, quien afirma haber encontrado, trabajando junto con Claude (un modelo de inteligencia artificial de Anthropic), una demostración de la Hipótesis de Riemann y, por extensión, de su versión generalizada. Le sirve a un médico que aprende análisis de datos como ejemplo llamativo —y todavía no confirmado— de cómo la inteligencia artificial empieza a usarse como colaboradora en investigación matemática de alto nivel.",
+      "destacado": false
+    },
+    "dfcf45f75acf": {
+      "resumen": "Un experimento de 48 horas con el sistema de bicicletas compartidas Capital Bikeshare compara LightGBM, XGBoost, Ridge, SARIMA y Prophet (distintos algoritmos y modelos de pronóstico) contra un simple promedio de las últimas cuatro semanas, cuidando los datos faltantes y la fuga de información (leakage) entre entrenamiento y prueba. Le sirve a un médico que aprende análisis de datos porque muestra, con un caso concreto, que los modelos complejos no siempre superan a una referencia simple y bien construida, una lección clave antes de complicarse con modelos sofisticados.",
       "destacado": true
     },
-    "b0f319a64313": {
-      "resumen": "El artículo compara dos formas de tener agentes de programación como Claude Code corriendo de manera continua en la nube: activar el entorno en la nube propio de Claude Code, o alquilar un servidor para tener control total. Le sirve a un médico que aprende análisis de datos porque muestra opciones concretas para automatizar tareas de análisis o scripts sin depender de tener la computadora personal siempre encendida.",
+    "f00b0b43bb7f": {
+      "resumen": "Con un umbral de confianza de 0,9, el modelo System One de Cloudflare resuelve los casos fáciles y deriva el resto a un modelo más grande y lento (Luna), logrando 98% de exactitud en casi tres cuartos de las preguntas. Le sirve a un médico que aprende análisis de datos porque ejemplifica cómo combinar modelos chicos y grandes según el nivel de confianza, una estrategia útil para abaratar y acelerar sistemas de inteligencia artificial sin perder precisión.",
       "destacado": false
     },
-    "dbe11a777e87": {
-      "resumen": "El autor resume lo aprendido en un curso gratuito de Kaggle y Google sobre agentes de inteligencia artificial, que cubre herramientas, memoria, evaluación y despliegue usando Gemini y el kit de desarrollo de agentes de Google (ADK, Agent Development Kit). Le sirve a un médico que aprende análisis de datos como una puerta de entrada gratuita y estructurada para entender cómo se construyen agentes de IA en vez de usarlos solo como caja negra.",
+    "fc44f375d867": {
+      "resumen": "KDnuggets propone un marco práctico con cuatro preguntas clave para decidir entre modelos de lenguaje de código abierto (open-weight) y modelos propietarios o comerciales. Le sirve a un médico que aprende análisis de datos porque ofrece criterios concretos —costo, privacidad de los datos, control y rendimiento— para elegir qué modelo de inteligencia artificial conviene usar en un proyecto propio, en vez de guiarse solo por la fama de cada marca.",
       "destacado": false
     },
-    "1bdae4f8e545": {
-      "resumen": "El artículo propone una arquitectura de tres niveles para supervisar agentes de inteligencia artificial a gran escala, separando la supervisión automática de cambios reversibles de la revisión humana para cambios de alto impacto. Le sirve a un médico que aprende análisis de datos porque plantea un marco de control aplicable a cualquier automatización con IA, incluida la que podría usarse sobre datos clínicos.",
+    "25346e61273d": {
+      "resumen": "El artículo condensa dos años de experiencia entrevistando estudiantes de maestría en un recorrido de nueve pasos para armar un modelo de regresión logística de riesgo de crédito, desde el manejo de valores faltantes y el factor de inflación de la varianza (VIF, variance inflation factor) hasta las métricas AUC (área bajo la curva, area under the curve) y el coeficiente de Gini. Le sirve a un médico que aprende análisis de datos porque repasa, paso a paso, el flujo completo de un modelo de clasificación estadística, aplicable también para predecir riesgo clínico.",
       "destacado": false
     },
-    "cfda19b44e7e": {
-      "resumen": "Los Pumas 7's inician una nueva temporada del circuito mundial de rugby seven, con la chance de que debuten dos jugadores nuevos."
+    "91eb149978f4": {
+      "resumen": "Los Teros, la selección uruguaya de rugby, buscan un triunfo decisivo frente a Portugal en Lisboa."
     },
-    "ef81d7adb5ff": {
-      "resumen": "Quedó definida la fecha en la que se disputará el Mundial de rugby de Estados Unidos 2031."
+    "b1fd38fa77ad": {
+      "resumen": "Los Cóndores, la selección chilena de rugby, van por otra victoria ante Zimbabue en Francia para quedar como el mejor equipo sudamericano de su grupo."
     },
-    "a66b4f64674e": {
-      "resumen": "Un repaso por todas las medallas que consiguieron Los Pumas 7's a lo largo de su historia en el circuito mundial de rugby seven."
+    "8f4ea62398f3": {
+      "resumen": "Georgia y Estados Unidos, los dos punteros de su grupo de rugby, se enfrentan para definir quién es el mejor."
+    },
+    "e399753d4651": {
+      "resumen": "El cantante Pity Álvarez tomó conocimiento de su condena judicial, reaccionó y le escribió una carta a su abogado."
     }
   }
 }

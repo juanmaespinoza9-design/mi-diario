@@ -1,11 +1,18 @@
 {
- "generated_at": "2026-11-20T13:13:39.602158+00:00",
+ "generated_at": "2026-11-20T21:52:39.073695+00:00",
  "sections": [
   {
    "id": "cardiologia",
    "title": "Cardiología",
    "mode": "resumen",
    "items": [
+    {
+     "title": "HEPA Air Filters Help Stabilize Blood Sugar in People With Prediabetes",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNFNjeFFkb2lsb1ZKbVhMS1lIT1Z2bDREcVl1cUpmMG1OOTBGQ1JRblk1bThlQkFWWG9PSHE3aVFvbm5kTHRjeWtSUE5PMDMtWFFsWHgyemEtdC1zVFNuUkRkWUxHeXVaWjdZR083Zml5cFlVUjExbXZZQnNramc0QlBRX3QtdkZ2eElQT08zelBIdFE?oc=5",
+     "source": "TCTMD",
+     "published": "2026-11-20T21:28:00+00:00",
+     "id": "085976ebf325"
+    },
     {
      "title": "CHIP-BCIS3 Data Shed Light on Myocardial Injury’s Role in Outcomes of Complex PCI",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUGZpY0RLTHBBdmp5WTFRd0xrdnVFVzU0azBwZkIxUHR4OVFqbk01X2hETk5uSW1za09Tb19LUkRkNWZjTjU5UWJlQnVVZWxPZlZDT3lBYTFBY2N3cEwwWUk0em1UUkEyMEZBWVoxVU1hc21LU1NEaXRmNFhsSEhrWkRMcDQ1SFllWW1IM2dQMDZYSmNialZSQkFaVnRPSEU?oc=5",
@@ -35,11 +42,12 @@
      "id": "3c2a9d9e80c2"
     },
     {
-     "title": "DUOTAP Makes the Case for More Postdilation After TAVI",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JUE5mRVZPM2ZGbWN4MnBrMjMzd1g2OW1pd1JVWl96endxanpvcDdkc2Rpd1puZndEZkpFVlNiVF84UWw3Z1I5Y3dra0MtV2lhVTlBdjRnUlN2Q1EtZGRONzQ0TDVTbDRMblJzM3V1bGlDSnQ4UzFwY0NHUkJ5QQ?oc=5",
-     "source": "TCTMD",
-     "published": "2026-11-18T21:07:05+00:00",
-     "id": "d96193ce42c1"
+     "title": "Lipid-Lowering Strategies in the Era of Early Atherosclerosis Detection: 2026 ACC Scientific Statement: A Report of the American College of Cardiology",
+     "link": "https://pubmed.ncbi.nlm.nih.gov/43062386/",
+     "source": "JACC",
+     "published": "2026-11-19T00:00:00+00:00",
+     "copete": "Greenland P et al. · Journal of the American College of Cardiology",
+     "id": "92a4462a4d9b"
     },
     {
      "title": "Keeping Up Appearances-Or Measuring What Matters?",
@@ -72,14 +80,6 @@
      "published": "2026-11-16T00:00:00+00:00",
      "copete": "For image description, please refer to the figure legend and surrounding text.",
      "id": "9bd32d4bb554"
-    },
-    {
-     "title": "Clinical Safety Evaluation of a Large Language Model for Heart Failure Treatment Recommendations",
-     "link": "https://pubmed.ncbi.nlm.nih.gov/43049712/",
-     "source": "JACC",
-     "published": "2026-11-09T00:00:00+00:00",
-     "copete": "Chiu N et al. · Journal of the American College of Cardiology",
-     "id": "d967e2ba0141"
     }
    ]
   },
@@ -89,89 +89,97 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "River, hoy EN VIVO: los números de la reunión de CD, el 11 vs. Lanús y más noticias del viernes 20 de noviembre",
-     "link": "https://www.ole.com.ar/river-plate/river-vivo-ultimas-noticias-novedades-viernes-20-noviembre-lanus-clausura_0_MuZTvCY8pd.html",
-     "source": "Olé — River",
-     "published": "2026-11-20T12:31:57+00:00",
-     "copete": "Mientras la dirigencia aprobó el presupuesto 2027, Leonardo Ponzio define el equipo para los octavos del Clausura.",
-     "id": "a4389c4c8102"
-    },
-    {
-     "title": "Los Pumas 7´s con el plantel confirmado para iniciar una nueva temporada",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWnZuMHlVblp2bHpULUNzRTF2eHJfbWhqaUlHSHJjbndUNE9rVVdZR255X1dPV3Y4WTBsZFgzYVpXTk5YWnA4WnM1aUJIUzhfYnR1Ty1QVFNtd0RqcGhoRDdKcTJLYWE0YjRQNUl6cWJLZi1laEs2RXJBalZlQTNBVEg0UWhKOHlfckppbmF3ZVFUNlhkd2pKbkRLX0pIVUl6dTA0VDRWVFkxTVMtRDR5RjhiTXpmY0lmTkc4?oc=5",
+     "title": "Los Teros van con todo por un triunfo clave ante Portugal en Lisboa",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUHZmOHFHcEFOay15R2p3Q3NUcERHNjNWZFBpM21mdUtCenJNMmZBNnVvYWhvRnBwdXVRaXZQN3NjZ1FPbTh3OUVYSTdYRjU3MW5uQjZOWnpKNS0tb05QNEJrTXpXY1NiME1fUk1JRmxFV2xERmxzck9aamhEZHhfbFdUSEl6dUpWSDZGVEtUNlRNcG5nR0cxNEhBeTBTSXB3UGRYQmJNSTJJcnlWVzdoV2xPQlZaYTFETWpURUREdERCV3VSWkhLYVJFc2JNZFNFaEVkc2hfVF84MnpqRUZN?oc=5",
      "source": "Rugby Champagne",
-     "published": "2026-11-20T11:47:23+00:00",
-     "id": "1e74e25219e6"
+     "published": "2026-11-20T21:45:55+00:00",
+     "id": "91eb149978f4"
     },
     {
-     "title": "Wenger será titular por octava vez consecutiva",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXQzYUgyZHZlN2JhVVdRXzVjR09tUDQyb0NqTVVfSERBMldyMTBYbnlYNnNBeWlBVERPOGM1LUNBWUhaVkFoVnFMdlhxNjBINzFHUGo3MzRyclU2WW5vZzBLVENWUHRFMTR3aE1sSDV6SzgwWklCVmNqZXRnLUdmd3p6LUl5dV90eUlMbkJWNVMydW9qTXplazh1VUpzRS1USzc3VkEtM2d6c1pBck9KRnpQN0U3bTI0VnFzM00zdno?oc=5",
-     "source": "El Diario del centro del país",
-     "published": "2026-11-20T11:30:00+00:00",
-     "id": "b135cb3274ec"
+     "title": "Los Cóndores buscarán una nueva victoria ante Zimbabue, en Francia, para posicionarse como el mejor de Sudamérica en su grupo",
+     "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQa28za0xyM3ROZWhwbEh1dVFiMmktSHB5bnBiZjFybjZXQ0ZHNmI5WGpYQV8xNFhFMlZRaFhyaUkwcmVhQ3RGcGZoX1RZNWhZQzlDZHg0cFgtT1FDZG5teTdZWGRHdzhKVklHb0FJRDNhSTZ0OVZZcWtWR1pXN1d5dFNLVmw0NkRlal9qT1N2RUQzbHg5czVoODlpRGU0RVRsd01vSTlvZS1lX3ZYZS1Db29Ja3FnWlltUUM2ZnU5Um84MXBwZ2hzeFNibC1OaE13bWhCcW13dzVuTTJ3Wi1xUHE1bHBMZkk1V084VllMaEVQVVhBTml4UFNrM3RVQ2Y0WTNSdG1MeE5LOGd3a2E2LWtRZ213MmM0cFk0VkEwVDJuUmcweHc?oc=5",
+     "source": "Rugby Champagne",
+     "published": "2026-11-20T21:45:43+00:00",
+     "id": "b1fd38fa77ad"
     },
     {
-     "title": "Los Pumas 7s inician temporada con posibles debutantes (mobile)",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOG9fMnN2MGZtaUhVd1Fzdm9zTG9UTlE3X0RHenVIeUZfSFNOV1ktTjFuUm1GcHVIMFkwcVhlbHdzUkE2S0NJWWg0TVhUSDhjMFRRdWdReFJnUThDUGZiTHFHWUlicDl3YVQ5VG5uSGY5V0dQZ1hQTFNOOENDbzJ1VEdkdGhQZTZkWXV4TEpFM3EySkJtem53aVZGWmlZR0NGdmdfN2lDVQ?oc=5",
-     "source": "mendoza24.com.ar",
-     "published": "2026-11-20T10:53:32+00:00",
-     "id": "7b23a12384ea"
+     "title": "Georgia y Estados Unidos, Los dos líderes chocan en busca de saber quien es el mejor",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZ09XMXB4QzRWR284SE5xU2E2Wm51cFRFc2VRT3VBV2toVDlyUG1IVW5UX0ZQYWdxTk5KRmN1cGhxZ2I1dTRHODhVWVl5SXE2RTA0OVBxMW95ajM0Q3k4MzM0Y1FfSnhUSjZHOGRFb2FfRHkxbmVLVUVUYlhvQ2JqLTZ5MDIyLXY1UXdOUVFKRUt4UEtzeGFiRGFSc3RGVjlCUU9YSlhrQk85WHZhM0JOaXpmczRUS0lVMUFBbzQzUEZUWjNPMDV1aFNlQ1o0RkhPdkJJUTZpVFJpVzN6SVBfZG9OT0ZINl9jS2dvaUZra25FOVVF?oc=5",
+     "source": "Rugby Champagne",
+     "published": "2026-11-20T21:45:33+00:00",
+     "id": "8f4ea62398f3"
     },
     {
-     "title": "Lucha contra una dura enfermedad y sueña con volver a las canchas después de curarse: la historia de Santiago Luján",
-     "link": "https://www.ole.com.ar/huracan/santiago-luja-huracan-aldosivi-dura-enfermedad-linfoma-tumor-recuperacion-quimioterapia_0_YERtHK5YUb.html",
+     "title": "Fausto Vera, casi afuera ante Lanús y la duda para 2027",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-fausto-vera_0_OTmPZ8StFx.html",
+     "source": "Olé — River",
+     "published": "2026-11-20T20:38:13+00:00",
+     "copete": "Con una molestia en el tobillo que lo dejaría afuera ante Lanús, el volante atraviesa la recta final de su préstamo y el CARP deberá decidir si ejecuta la opción de compra.",
+     "id": "a2edcfd38c79"
+    },
+    {
+     "title": "Nicolás Russo habló sobre las diferencias de River con la conducción de la AFA",
+     "link": "https://www.ole.com.ar/futbol-primera/river-plate-lanus-nicolas-russo_0_oFgjBWsWB8.html",
+     "source": "Olé — River",
+     "published": "2026-11-20T19:49:18+00:00",
+     "copete": "El presidente de Lanús respaldó el regreso de River al Comité Ejecutivo y fijó su postura sobre el escenario dirigencial del fútbol argentino.",
+     "id": "a6785f62cb27"
+    },
+    {
+     "title": "El jugador de Racing que no tendrá vacaciones y cómo trabaja Miljevic en el receso",
+     "link": "https://www.ole.com.ar/racing/racing-miljevic-vacaciones_0_wSTwJThUGZ.html",
      "source": "Olé — Primera",
-     "published": "2026-11-20T10:34:40+00:00",
-     "copete": "El jugador de 24 años padece un linfoma difuso de células B grandes y está parado hace más de un año. Se hizo presente en la redacción de Olé y contó todo su proceso...",
-     "id": "8c2ade6dba27"
+     "published": "2026-11-20T18:20:34+00:00",
+     "copete": "Mientras la mayoría del plantel descansa, hay un volante que no descansará para avanzar en la recuperación de su lesión. Miljevic, otro que que realiza tareas.",
+     "id": "b549ac97158a"
     },
     {
-     "title": "Vélez y Belgrano inauguran los playoffs del Torneo Clausura",
-     "link": "https://www.ole.com.ar/futbol-primera/belgrano-velez-torneo-clausura-playoffs-ricardo-zielinski-guillermo-barros-schelotto_0_YTralsBUQ8.html",
-     "source": "Olé — Primera",
-     "published": "2026-11-20T02:04:56+00:00",
-     "copete": "El Fortín intentará superar la barrera de los octavos de final, mientras que el Pirata buscará defender el título obtenido en el Torneo Apertura. Guillermo le dará la oportunidad a un nuevo juvenil. Mirá.",
-     "id": "97b637a362d0"
-    },
-    {
-     "title": "Las variantes tácticas que practica Viera de cara al choque con Argentinos",
-     "link": "https://www.ole.com.ar/futbol-primera/viera-independiente-argentinos-variantes-tacticas-montiel_0_0rgwdGXszu.html",
-     "source": "Olé — Primera",
-     "published": "2026-11-19T23:30:01+00:00",
-     "copete": "Con la vuelta de Montiel y dos posibles sorpresas, el entrenador de Independiente analiza qué equipo saldrá a la cancha en busca del golpe en Paternal ante el Bicho.",
-     "id": "ea5975336b5f"
-    },
-    {
-     "title": "La CD de River aprobó el presupuesto 2027 y las cifras finales de la venta de Freitas",
-     "link": "https://www.ole.com.ar/river-plate/river-freitas-venta-cd-flamengo-presupuesto-2027_0_KjUzYwfnpc.html",
+     "title": "Sorpresa en River: por qué Juanfer Quintero fue tendencia",
+     "link": "https://www.ole.com.ar/river-plate/river-plate-juanfer-quintero-tendencia-x-desmentida-regreso_0_ujiwdtEYNo.html",
      "source": "Olé — River",
-     "published": "2026-11-19T21:55:29+00:00",
-     "copete": "La CD del club de Núñez avaló este jueves el cálculo económico para el año que viene y la transferencia del delantero de 19 años al Flamengo.",
-     "id": "f81a3fe74942"
+     "published": "2026-11-20T18:12:46+00:00",
+     "copete": "El colombiano fue el protagonista de una versión que provocó una rápida desmentida desde su entorno. ¿Qué pasó?",
+     "id": "de6fa7a816ad"
     },
     {
-     "title": "Con un golazo del pibe Jaime, Peñarol se quedó con la Anual y va por todo en Uruguay",
-     "link": "https://www.ole.com.ar/futbol-internacional/america/penarol-gol-leonel-jaime-campeon-tabla-anual-uruguay_0_Q6lfMcjH6t.html",
+     "title": "River toma nota: regresó el hombre gol que tiene Lanús",
+     "link": "https://www.ole.com.ar/river-plate/allan-wlk-goleador-lanus-pellegrino-river-clausura_0_2SxnX44DnA.html",
      "source": "Olé — River",
-     "published": "2026-11-19T21:51:06+00:00",
-     "copete": "El juvenil que se encuentra a préstamo de River marcó un tanto para que el Manya se asegure un lugar en las finales del campeonato uruguay y clasifique .",
-     "id": "f4bd2f60ab5b"
+     "published": "2026-11-20T16:43:05+00:00",
+     "copete": "Después de su estreno con la Albirroja en Asia, el delantero ya se entrena con el Granate. Es el máximo goleador del equipo y será una amenaza para el equipo de Ponzio.",
+     "id": "fa6d7893bb74"
     },
     {
-     "title": "Confirmado: el Tribunal de Disciplina le redujo la sanción a Montiel",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-gonzalo-montiel-redujeron-sancion-fechas-tribunal-disciplina_0_ueoU3afjvc.html",
+     "title": "Ponzio vs. Pellegrino: la historia del único cruce que tuvieron como jugadores en España",
+     "link": "https://www.ole.com.ar/river-plate/ponzio-pellegrino-river-lanus-antecedente-espana-zaragoza-alaves_0_3r6Yj1UjJp.html",
      "source": "Olé — River",
-     "published": "2026-11-19T20:08:27+00:00",
-     "copete": "Finalmente, Cachete deberá cumplir dos fechas de suspensión y podrá reaparecer si River avanza a los cuartos de final del Clausura. Kudelka de Newell's, otro que recibió una reducción de pena.",
-     "id": "3cecd9e08aa8"
+     "published": "2026-11-20T15:26:08+00:00",
+     "copete": "En la previa de River-Lanús, el León y el Flacó se enfrentaron con los cortos hace más de dos décadas.",
+     "id": "a485cf8e4cf6"
     },
     {
-     "title": "La Reserva de River jugará los playoffs ante Lanús, el mismo rival que el equipo de Ponzio",
-     "link": "https://www.ole.com.ar/river-plate/river-reserva-banfield-lanus-playoffs-cuartos-final_0_0cWzcSTUrV.html",
-     "source": "Olé — River",
-     "published": "2026-11-19T20:02:57+00:00",
-     "copete": "El equipo de Diego Barrado avanzó a la próxima fase y estuvo a un gol de que se dieran los resultados para un Superclásico en los cuartos de final del Clausura.",
-     "id": "c4668e030e36"
+     "title": "Agustín Pichot fue elegido para integrar el Comité Ejecutivo de World Rugby",
+     "link": "https://uar.com.ar/agustin-pichot-fue-elegido-para-integrar-el-comite-ejecutivo-de-world-rugby/",
+     "source": "UAR",
+     "published": "2026-11-20T12:10:38+00:00",
+     "copete": "La Unión Argentina de Rugby felicita a Agustín Pichot por su elección como miembro del Comité Ejecutivo de World Rugby, en representación de las uniones de alto rendimiento del hemisferio sur. La elección se llevó a cabo este jueves 19 de…",
+     "id": "fee79d2e39a2"
+    },
+    {
+     "title": "Tala y Newman, dos campeones en busca de la corona nacional",
+     "link": "https://uar.com.ar/tala-y-newman-dos-campeones-en-busca-de-la-corona-nacional/",
+     "source": "UAR",
+     "published": "2026-11-19T19:22:02+00:00",
+     "copete": "Este sábado 21 de noviembre, desde las 19:40, la cancha de Tala será el escenario de la final del Nacional de Clubes Copa Universidad Siglo 21. El campeón del Torneo del Interior recibirá al bicampeón de la URBA y defensor del título, en…",
+     "id": "fa7d538cc4bc"
+    },
+    {
+     "title": "Los Pumas 7´s con plantel confirmado para iniciar una nueva temporada",
+     "link": "https://uar.com.ar/los-pumas-7s-con-plantel-confirmado-para-iniciar-una-nueva-temporada/",
+     "source": "UAR",
+     "published": "2026-11-19T17:48:56+00:00",
+     "copete": "Llenos de ilusión, Los Pumas 7´s están listos para comenzar la temporada 2026/27 del Circuito Mundial de Seven, que tendrá su puntapié inicial en Dubái el próximo 28 y 29 de noviembre. La primera gira será de más de dos semanas dado que a…",
+     "id": "ab5f09619b40"
     }
    ]
   },
@@ -181,80 +189,80 @@
    "mode": "resumen",
    "items": [
     {
-     "title": "Decision AI Explained in 5 Minutes",
-     "link": "https://www.kdnuggets.com/decision-ai-explained-in-5-minutes",
+     "title": "Nvidia accounting under SEC investigation, sources say",
+     "link": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-11-20T20:22:41+00:00",
+     "id": "c69438672bb7"
+    },
+    {
+     "title": "Inkling 2 Mini",
+     "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-11-20T20:12:19+00:00",
+     "id": "b9db119f86f5"
+    },
+    {
+     "title": "Quoting Ravi Vakil",
+     "link": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-11-20T19:21:49+00:00",
+     "copete": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all…",
+     "id": "6a73fdd651f9"
+    },
+    {
+     "title": "Hurried Announcement: Alessandro Masullo GRH",
+     "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-11-20T18:33:14+00:00",
+     "id": "81fd9565f775"
+    },
+    {
+     "title": "We promoted developers into architects without informing them",
+     "link": "https://manidoraisamy.com/developer-to-architect.html",
+     "source": "Hacker News (100+ puntos)",
+     "published": "2026-11-20T18:17:51+00:00",
+     "id": "e1a223b73868"
+    },
+    {
+     "title": "Quoting Levent Alpöge",
+     "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-11-20T16:30:48+00:00",
+     "copete": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended…",
+     "id": "9e188d65b5ac"
+    },
+    {
+     "title": "LightGBM vs. a Four-Week Average for Forecasting Bike-Share Rentals",
+     "link": "https://towardsdatascience.com/lightgbm-vs-a-four-week-average-for-forecasting-bike-share-rentals/",
+     "source": "Towards Data Science",
+     "published": "2026-11-20T16:30:00+00:00",
+     "copete": "A 48-hour Capital Bikeshare experiment pits XGBoost, Ridge, SARIMA, and Prophet against simple baselines, with care for missing hours and leakage. The post LightGBM vs. a Four-Week Average for Forecasting Bike-Share Rentals appeared first…",
+     "id": "dfcf45f75acf"
+    },
+    {
+     "title": "Clairic Hit 98% Accuracy on 72.8% of Questions via Confidence Scores",
+     "link": "https://towardsdatascience.com/clairic-hit-98-accuracy-on-728-of-questions-via-confidence-scores/",
+     "source": "Towards Data Science",
+     "published": "2026-11-20T15:00:00+00:00",
+     "copete": "With a 0.9 confidence cutoff, Cloudflare's System One model handles the easy cases and routes the rest to a bigger, slower LLM like Luna. The post Clairic Hit 98% Accuracy on 72.8% of Questions via Confidence Scores appeared first on…",
+     "id": "f00b0b43bb7f"
+    },
+    {
+     "title": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026",
+     "link": "https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026",
      "source": "KDnuggets",
-     "published": "2026-11-20T13:00:00+00:00",
-     "copete": "Learn how decision models work, how they turn LLMs into faster decision-making systems, and how to run open-source alternatives locally.",
-     "id": "b8532afff5b8"
+     "published": "2026-11-20T15:00:00+00:00",
+     "copete": "A practical guide to choosing between open-weight and commercial models, built around the four questions that actually determine the right answer for your use case.",
+     "id": "fc44f375d867"
     },
     {
-     "title": "Five Guardrails That Limit the Damage an AI Agent Can Do",
-     "link": "https://towardsdatascience.com/five-guardrails-that-limit-the-damage-an-ai-agent-can-do/",
+     "title": "How to Prepare for a Credit Risk Internship Interview in Nine Steps",
+     "link": "https://towardsdatascience.com/how-to-prepare-for-a-credit-risk-internship-interview-in-nine-steps/",
      "source": "Towards Data Science",
-     "published": "2026-11-20T12:00:00+00:00",
-     "copete": "AI Agents for Beginners, Part three: strict Pydantic arguments, a tool allowlist, read-only SQLite, a step cap, and confirmed writes, all verified by five pytest tests in 0.68s. The post Five Guardrails That Limit the Damage an AI Agent…",
-     "id": "8314e1023af2"
-    },
-    {
-     "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-     "link": "https://architectlabs.com/blog/frostbite",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-11-20T10:01:41+00:00",
-     "id": "000028228240"
-    },
-    {
-     "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-     "link": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-11-20T09:43:19+00:00",
-     "id": "601ef0d322ce"
-    },
-    {
-     "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
-     "link": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-11-20T09:13:09+00:00",
-     "id": "93419bb5765b"
-    },
-    {
-     "title": "\"I can tell you wrote this yourself\"",
-     "link": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-11-20T07:13:21+00:00",
-     "id": "6601e041d7ec"
-    },
-    {
-     "title": "Token fraud is here and it’s BAD (YouTube)",
-     "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
-     "source": "Simon Willison (IA)",
-     "published": "2026-11-20T02:49:57+00:00",
-     "copete": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of…",
-     "id": "f32d5bea8abf"
-    },
-    {
-     "title": "PostgreSQL 19 Released",
-     "link": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
-     "source": "Simon Willison (IA)",
-     "published": "2026-11-19T20:43:57+00:00",
-     "copete": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing…",
-     "id": "7339d690dfb6"
-    },
-    {
-     "title": "The 0.95 Expectile Is Not the 95th Percentile",
-     "link": "https://towardsdatascience.com/the-095-expectile-is-not-the-95th-percentile/",
-     "source": "Towards Data Science",
-     "published": "2026-11-19T16:30:00+00:00",
-     "copete": "Exact uniform math and 100 synthetic Python runs show when to target 95% coverage and when asymmetric squared-error costs call for the expectile. The post The 0.95 Expectile Is Not the 95th Percentile appeared first on Towards Data Science…",
-     "id": "231685d8e46c"
-    },
-    {
-     "title": "How to Run Claude Code and Other Coding Agents in the Cloud 24/7",
-     "link": "https://towardsdatascience.com/how-to-run-claude-code-and-other-coding-agents-in-the-cloud-247/",
-     "source": "Towards Data Science",
-     "published": "2026-11-19T15:00:00+00:00",
-     "copete": "Two setups: flip Claude Code's cloud environment on for the quick path, or rent a server for full control. The post How to Run Claude Code and Other Coding Agents in the Cloud 24/7 appeared first on Towards Data Science .",
-     "id": "b0f319a64313"
+     "published": "2026-11-20T13:30:00+00:00",
+     "copete": "Two years of interviewing master's students distilled into one logistic regression scoring model, from missing values and VIF to AUC and Gini. The post How to Prepare for a Credit Risk Internship Interview in Nine Steps appeared first on…",
+     "id": "25346e61273d"
     }
    ]
   },
@@ -264,100 +272,99 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Anthropic ya cotiza en Wall Street: cómo invertir en la acción del gigante de la IA desde la Argentina",
-     "link": "https://www.lanacion.com.ar/economia/anthropic-ya-cotiza-en-wall-street-como-invertir-en-la-accion-del-gigante-de-la-ia-desde-la-nid20112026/",
+     "title": "El NHC vigila un sistema con probabilidades de formación frente a las costas de Florida",
+     "link": "https://www.lanacion.com.ar/estados-unidos/florida/el-nhc-vigila-un-sistema-con-probabilidades-de-formacion-frente-a-las-costas-de-florida-nid20112026/",
      "source": "La Nación",
-     "published": "2026-11-20T13:10:49+00:00",
-     "copete": "La desarrolladora de Claude recaudó US$81.300 millones en su debut bursátil y superó el récord de SpaceX; desde hoy se puede operar desde el mercado local a través de Cedears",
-     "id": "82e0d6279d38"
+     "published": "2026-11-20T21:50:00+00:00",
+     "copete": "El NHC vigila un sistema frente a Florida y Bahamas que podría adquirir características tropicales y generar viento y oleaje peligroso",
+     "id": "c48ab17fb29e"
     },
     {
-     "title": "Un estudio reveló dos factores de riesgo que aumentan el riesgo de ACV en mujeres menores de 60 años",
-     "link": "https://www.infobae.com/salud/ciencia/2026/11/20/un-estudio-revelo-dos-factores-de-riesgo-que-aumentan-el-riesgo-de-acv-en-mujeres-menores-de-60-anos/",
+     "title": "“Pity” Álvarez se enteró de su condena: cómo reaccionó y la carta que le hizo a su abogado",
+     "link": "https://www.infobae.com/sociedad/policiales/2026/11/20/pity-alvarez-se-entero-de-su-condena-como-reacciono-y-la-carta-que-le-hizo-a-su-abogado/",
      "source": "Infobae",
-     "published": "2026-11-20T13:04:24+00:00",
-     "copete": "La investigación, que analizó datos de casi 1,7 millones de personas en Dinamarca, detectó una probabilidad 3,6 veces superior de sufrir accidente cerebrovascular isquémico",
-     "id": "56d6774d7b9d"
+     "published": "2026-11-20T21:49:36+00:00",
+     "id": "e399753d4651"
     },
     {
-     "title": "Euro hoy en Panamá : cotización de apertura del 20 de noviembre",
-     "link": "https://www.infobae.com/noticias/2026/11/20/euro-hoy-en-panama-cotizacion-de-apertura-del-20-de-noviembre/",
+     "title": "El transporte público cubano prevé cerrar 2026 con un desplome del 75% en los viajes",
+     "link": "https://www.infobae.com/cuba/2026/11/20/el-transporte-publico-cubano-preve-cerrar-2026-con-un-desplome-del-75-en-los-viajes/",
      "source": "Infobae",
-     "published": "2026-11-20T13:03:05+00:00",
-     "copete": "Este fue el comportamiento de la principal moneda europea en la apertura de divisas",
-     "id": "1b2640c64e90"
+     "published": "2026-11-20T21:48:26+00:00",
+     "copete": "El ministro Eduardo Rodríguez Dávila anticipó una caída de 90% en los trayectos interurbanos, mientras el movimiento de mercancías retrocedería más de dos tercios por la falta de financiamiento y repuestos",
+     "id": "9bdebb485d91"
     },
     {
-     "title": "Euro hoy en Cuba: cotización de apertura del 20 de noviembre",
-     "link": "https://www.infobae.com/noticias/2026/11/20/euro-hoy-en-cuba-cotizacion-de-apertura-del-20-de-noviembre/",
-     "source": "Infobae",
-     "published": "2026-11-20T13:02:48+00:00",
-     "copete": "Este fue el comportamiento de la principal moneda europea en la apertura de operaciones",
-     "id": "a5440e7a27d1"
-    },
-    {
-     "title": "Dólar hoy en Panamá: cotización de apertura del 20 de noviembre",
-     "link": "https://www.infobae.com/noticias/2026/11/20/dolar-hoy-en-panama-cotizacion-de-apertura-del-20-de-noviembre/",
-     "source": "Infobae",
-     "published": "2026-11-20T13:02:31+00:00",
-     "copete": "La divisa estadounidense se mantuvo estable respecto a la jornada anterior",
-     "id": "006928ecd421"
-    },
-    {
-     "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotizan el oficial y el paralelo este viernes 20 de noviembre, minuto a minuto",
-     "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotizan-el-oficial-y-el-paralelo-este-viernes-20-de-nid20112026/",
+     "title": "Eduardo Domínguez recordó el legado de su suegro (Bianchi) y aclaró su frase sobre la sequía internacional de Boca",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/eduardo-dominguez-recordo-el-legado-de-su-suegro-bianchi-y-aclaro-su-frase-sobre-la-sequia-nid20112026/",
      "source": "La Nación",
-     "published": "2026-11-20T13:02:30+00:00",
-     "copete": "La divisa oficial opera a $1585 para la venta en el Banco Nación; el dólar blue cotiza a $1640 para esa operación; qué pasa con el MEP y el CCL",
-     "id": "d2fdfcfad443"
+     "published": "2026-11-20T21:45:04+00:00",
+     "copete": "El entrenador de Atlético Mineiro reconoció que el rival tendrá más apoyo en Barranquilla y, además, destacó a Leandro Paredes",
+     "id": "728d923d0a64"
     },
     {
-     "title": "Precio del dólar hoy en Cuba: cotización de apertura del 20 de noviembre",
-     "link": "https://www.infobae.com/noticias/2026/11/20/precio-del-dolar-hoy-en-cuba-cotizacion-de-apertura-del-20-de-noviembre/",
+     "title": "Javier Milei y sus medidas, en vivo: “Los responsables van a ser juzgados”, dijo el Presidente sobre el atentado a la AMIA",
+     "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-senado-aprobo-la-nueva-ley-de-discapacidad-y-la-adhesion-al-nid20112026/",
+     "source": "La Nación",
+     "published": "2026-11-20T21:44:19+00:00",
+     "copete": "El minuto a minuto de las decisiones del jefe de Estado, las reacciones de la oposición y las declaraciones de los funcionarios",
+     "id": "90485aa456be"
+    },
+    {
+     "title": "Tres pitbulls mataron al caniche de una mujer en Rosario y el dueño de los perros fue demorado por la Policía",
+     "link": "https://www.lanacion.com.ar/sociedad/tres-pitbulls-mataron-al-caniche-de-una-mujer-en-rosario-y-el-dueno-de-los-perros-fue-demorado-por-nid20112026/",
+     "source": "La Nación",
+     "published": "2026-11-20T21:39:40+00:00",
+     "copete": "La damnificada denunció que los animales actuaron “como asesinos”; el dueño de los canes fue liberado por disposición del Ministerio Público de la Acusación (MPA)",
+     "id": "c240931854eb"
+    },
+    {
+     "title": "Qué hacer si un niño toma lavandina: qué medidas evitar y cómo actuar",
+     "link": "https://www.lanacion.com.ar/sociedad/que-hacer-si-un-nino-toma-lavandina-que-medidas-evitar-y-como-actuar-nid20112026/",
+     "source": "La Nación",
+     "published": "2026-11-20T21:39:00+00:00",
+     "copete": "El especialista explicó en LN+ cómo actuar ante la ingesta accidental de un producto de limpieza y desmintió una creencia popular: la leche no neutraliza el cloro",
+     "id": "e8ed480c2fc7"
+    },
+    {
+     "title": "Cristiano Ronaldo volvió a jugar tras su retiro de la selección de Portugal: el gol que lo acerca al récord y el lamento por fallar un penal",
+     "link": "https://www.infobae.com/deportes/2026/11/20/cristiano-ronaldo-volvio-a-jugar-tras-su-retiro-de-la-seleccion-de-portugal-el-gol-que-lo-acerca-al-record-y-el-lamento-por-fallar-un-penal/",
      "source": "Infobae",
-     "published": "2026-11-20T13:02:14+00:00",
-     "copete": "La divisa estadounidense registró un avance respecto a la jornada anterior",
-     "id": "c13e39e6ac52"
+     "published": "2026-11-20T21:38:02+00:00",
+     "copete": "El delantero abrió el marcador durante el primer tiempo y desperdició una chance clara. Facundo Tello fue el árbitro",
+     "id": "fdda6ff243fa"
     },
     {
-     "title": "A qué hora llegan las tormentas fuertes a Buenos Aires hoy, según el SMN",
-     "link": "https://www.lanacion.com.ar/sociedad/a-que-hora-llegan-las-tormentas-fuertes-a-buenos-aires-hoy-segun-el-smn-nid20112026/",
-     "source": "La Nación",
-     "published": "2026-11-20T13:02:12+00:00",
-     "copete": "El pronóstico para la Ciudad ubica la mayor probabilidad de tormentas durante la tarde de este viernes; la temperatura máxima alcanzará los 25°C y la inestabilidad podría regresar el sábado por la noche",
-     "id": "c61e592f6865"
+     "title": "Así son los días de la China Suárez y Mauro Icardi en Uruguay entre paseos, besos y asados: “A perdernos”",
+     "link": "https://www.infobae.com/teleshow/2026/11/20/asi-son-los-dias-de-la-china-suarez-y-mauro-icardi-por-uruguay-entre-paseos-besos-y-asados-a-perdernos/",
+     "source": "Infobae",
+     "published": "2026-11-20T21:36:37+00:00",
+     "copete": "Con el futbolista al mando de la parrilla y un \"te amo\" a bordo de una camioneta, la pareja mostró su romance en el país vecino tras la perimetral que consiguió el delantero contra Martín Migueles",
+     "id": "1fa7ccf270aa"
     },
     {
-     "title": "Así fue la inusual ejecución en Texas que duró 63 minutos: súplicas, dolor y una llamativa explicación oficial",
-     "link": "https://www.lanacion.com.ar/estados-unidos/asi-fue-la-inusual-ejecucion-en-texas-que-duro-63-minutos-suplicas-dolor-y-una-llamativa-explicacion-nid20112026/",
-     "source": "La Nación",
-     "published": "2026-11-20T13:00:55+00:00",
-     "copete": "Tras varios intentos fallidos de encontrar una vena, el personal penitenciario le colocó a Reinaldo Dennes una vía en el pie y otra en el cuello",
-     "id": "813c1f7504ab"
+     "title": "Juan Cuattromo, presidente del Banco Provincia: “Si caen la actividad y el empleo, no puede haber estabilidad”",
+     "link": "https://www.infobae.com/economia/2026/11/20/juan-cuattromo-presidente-del-banco-provincia-si-caen-la-actividad-y-el-empleo-no-puede-haber-estabilidad/",
+     "source": "Infobae",
+     "published": "2026-11-20T21:35:25+00:00",
+     "copete": "El presidente del **Banco Provincia** criticó el esquema macro del gobierno de **Javier Milei** y aseguró que no tiene proyección de largo plazo durante la inauguración de un congreso de **Abappra**",
+     "id": "070112b0225d"
     },
     {
-     "title": "Colombia pone en marcha el proceso para aplicar la eutanasia a los hipopótamos de Pablo Escobar",
-     "link": "https://www.lanacion.com.ar/el-mundo/colombia-pone-en-marcha-el-proceso-para-aplicar-la-eutanasia-a-los-hipopotamos-de-pablo-escobar-nid20112026/",
-     "source": "La Nación",
-     "published": "2026-11-20T13:00:40+00:00",
-     "copete": "La primera etapa involucrará a 10 ejemplares de los 260 que hay; en paralelo se ejecutarán esterilizaciones, confinamientos y traslados",
-     "id": "7082bc1e3715"
-    },
-    {
-     "title": "Un tripulante activó por accidente el tobogán de emergencia de un avión con pasajeros: el error costó 130.000 dólares y no pudieron despegar",
-     "link": "https://www.clarin.com/internacional/tripulante-activo-accidente-tobogan-emergencia-avion-pasajeros-error-costo-130000-dolares-pudieron-despegar_0_h6zYZ4zYzZ.html",
+     "title": "Reconocimiento internacional a la arquitecta Marta Ruarte",
+     "link": "https://www.clarin.com/arq/reconocimiento-internacional-arquitecta-marta-ruarte_0_tcJ58HBBMt.html",
      "source": "Clarín",
-     "published": "2026-11-20T12:35:24+00:00",
-     "copete": "Sucedió justo antes del despegue de un vuelo de British Airways con destino a Londres. Un equipo de ingenieros trabajó a contrarreloj para desmontar la puerta de la aeronave.",
-     "id": "7d8c5c09e74a"
+     "published": "2026-11-20T20:33:35+00:00",
+     "copete": "Recibió el premio Torres Higueras por su trayectoria profesional y su compromiso gremial. La distinción fue otorgada por la Federación Panamericana de Asociaciones de Arquitectos.",
+     "id": "eb52eab40f4c"
     },
     {
-     "title": "\"Josephine\" aborda la violencia sexual desde la mirada de una niña",
-     "link": "https://www.clarin.com/estados-unidos/josephine-aborda-la-violencia-sexual-desde-la-mirada-de-una-nina_0_35FjnENXHZ.html",
+     "title": "Se lanzó la edición \"talento joven\" de los Premios EUmies, luego de su paso por la Bienal de Buenos Aires",
+     "link": "https://www.clarin.com/arq/arquitectura/lanzo-edicion-talento-joven-premios-eumies-luego-paso-bienal-buenos-aires_0_5OWYAkKfgs.html",
      "source": "Clarín",
-     "published": "2026-11-20T12:30:12+00:00",
-     "copete": "Beth de Araújo transforma una experiencia infantil en \"Josephine\", película que explora la violencia desde la perspectiva de una niña. La cinta combina drama y suspenso para sumergir al espectador en la visión de su joven protagonista. La…",
-     "id": "ba1b15722132"
+     "published": "2026-11-20T20:32:50+00:00",
+     "copete": "Young Talent Open, del Premio de Arquitectura Contemporánea de la Unión Europea - Premio Mies van der Rohe (EUmies), invita a participar a facultades de arquitectura de Latinoamérica.",
+     "id": "f62c8aa6ee49"
     }
    ]
   },
@@ -367,84 +374,84 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Rusia ataca los puentes de Kiev y la infraestructura energética de Ucrania tras la ofensiva en el estrecho de Kerch",
-     "link": "https://elpais.com/internacional/2026-11-20/rusia-ataca-los-puentes-de-kiev-y-la-infraestructura-energetica-de-ucrania-tras-la-ofensiva-en-el-estrecho-de-kerch.html",
-     "source": "El País Internacional",
-     "published": "2026-11-20T13:03:15+00:00",
-     "copete": "Los bombardeos matan a una decena de personas, hieren a 28 y causan apagones en diez regiones. Francia pide una reunión del Consejo de Seguridad de la ONU tras los ataques a las embajadas de Austria y Países Bajos",
-     "id": "b87f50594ed2"
-    },
-    {
-     "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-     "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+     "title": "Trump threatens ban on US firms building AI data centres overseas",
+     "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-11-20T13:01:16+00:00",
-     "copete": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-     "id": "f451b9b779d9"
+     "published": "2026-11-20T20:54:12+00:00",
+     "copete": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+     "id": "36fb31620a7c"
     },
     {
-     "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-     "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+     "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+     "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-11-20T12:56:48+00:00",
-     "copete": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-     "id": "acf404f6e9c1"
+     "published": "2026-11-20T20:00:53+00:00",
+     "copete": "Other tech companies have also taken a hit as share markets broadly slump.",
+     "id": "7abcb9e67aa8"
     },
     {
-     "title": "Dos misiles y un dron rusos caen en el este de Polonia en plenas maniobras militares de una decena de países europeos",
-     "link": "https://elpais.com/internacional/2026-11-20/dos-misiles-y-un-dron-rusos-caen-en-el-este-de-polonia-en-plenas-maniobras-militares-de-una-decena-de-paises-europeos.html",
+     "title": "Gérard Depardieu and French author investigated over sexual allegations",
+     "link": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-20T19:45:20+00:00",
+     "copete": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
+     "id": "7cdc0f275971"
+    },
+    {
+     "title": "Dinamarca acusa a Rusia de intentar asesinar en su territorio a un rapero ucranio-estadounidense",
+     "link": "https://elpais.com/internacional/2026-11-20/dinamarca-acusa-a-rusia-de-intentar-asesinar-en-su-territorio-a-un-rapero-ucranio-estadounidense.html",
      "source": "El País Internacional",
-     "published": "2026-11-20T12:35:38+00:00",
-     "copete": "El ministro de Defensa del país califica las incursiones aéreas de una “nueva provocación” de Moscú y pide a la OTAN el refuerzo del flanco oriental",
-     "id": "796b9c2d43e0"
+     "published": "2026-11-20T19:37:05+00:00",
+     "copete": "La primera ministra, Mette Frederiksen, propone endurecer las sanciones contra Moscú y suspender los visados no esenciales a ciudadanos rusos",
+     "id": "d550221a9ac9"
     },
     {
-     "title": "Qué pasó con las FARC 10 años después del acuerdo de paz que puso fin a más de 50 años de conflicto con el Estado en Colombia",
-     "link": "https://www.bbc.com/mundo/articles/c8zxl4rd6nq5o?at_medium=RSS&at_campaign=rss",
+     "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+     "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-20T19:27:49+00:00",
+     "copete": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
+     "id": "0c5c416688d4"
+    },
+    {
+     "title": "En qué consiste y a quién beneficia el acuerdo de \"reinicio\" de las relaciones entre Reino Unido y la Unión Europea tras el Brexit",
+     "link": "https://www.bbc.com/mundo/articles/cvp86lp2rd24o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-11-20T12:05:05+00:00",
-     "copete": "En 2016, más de 13.000 guerrilleros firmaron la paz con el Estado colombiano tras más de 50 años en guerra, dejaron las armas y se reincorporaron a la vida civil. ¿Qué ha ocurrido desde entonces?",
-     "id": "89c4f07d40ec"
+     "published": "2026-11-20T18:48:26+00:00",
+     "copete": "Reino Unido y la Unión Europea llegaron, este viernes, a un nuevo acuerdo que cubre las exportaciones de alimentos, la movilidad de los jóvenes y las emisiones de carbono.",
+     "id": "c21507a02785"
     },
     {
-     "title": "Malasia anuncia un acuerdo para reubicar en Turquía a 10.000 rohinyás exiliados",
-     "link": "https://elpais.com/internacional/2026-11-20/turquia-acogera-a-10000-rohinyas-reubicados-desde-malasia.html",
-     "source": "El País Internacional",
-     "published": "2026-11-20T11:38:18+00:00",
-     "copete": "El comunicado de Kuala Lumpur llega un día después de la condena a Myanmar por el genocidio contra la minoría musulmana. El Gobierno turco aún no se ha pronunciado",
-     "id": "bbdc53f7ec54"
-    },
-    {
-     "title": "\"Me cuestionaba por qué vine a este mundo con piel morena, cuando mi padre era blanco\": BBC Mundo entrevista a la cantante mexicana Lila Downs",
-     "link": "https://www.bbc.com/mundo/articles/c6y80y8jdkz3o?at_medium=RSS&at_campaign=rss",
+     "title": "La familia de un alpinista desaparecido en el monte Fuji ofrece US$75.000 de recompensa entre advertencias de las autoridades",
+     "link": "https://www.bbc.com/mundo/articles/c3vg21zd7yx7o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Mundo",
-     "published": "2026-11-20T11:36:37+00:00",
-     "copete": "Lila Downs se distingue por mezclar el folclore mexicano en su música. De madre indígena y padre estadounidense, la vida de la ganadora del Grammy y del Latin Grammy ha transcurrido entre dos mundos.",
-     "id": "68f5fa460c99"
+     "published": "2026-11-20T17:28:17+00:00",
+     "copete": "La cuantiosa recompensa ofrecida por la familia del joven chino Chen Jie ha desatado temores de que se produzcan más intentos de escalada temerarios.",
+     "id": "f191e2803cc3"
     },
     {
-     "title": "El Reino Unido y la UE buscan fijar un acuerdo limitado de movilidad juvenil que supere el bloqueo del Brexit",
+     "title": "Los gritos de un reo durante su ejecución en Texas reavivan el debate sobre la pena de muerte en EE.UU.",
+     "link": "https://www.bbc.com/mundo/articles/cq3dg820rre0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-11-20T17:20:55+00:00",
+     "copete": "Esta prolongada ejecución se produce semanas después de que Christa Pike sobreviviera a la inyección letal del mismo fármaco.",
+     "id": "fce1bfab7e08"
+    },
+    {
+     "title": "El Reino Unido y la UE cierran un acuerdo post-Brexit tras superar el escollo de la movilidad juvenil",
      "link": "https://elpais.com/internacional/2026-11-20/el-reino-unido-y-la-ue-se-disponen-a-cerrar-un-acuerdo-limitado-de-movilidad-juvenil-que-supere-el-bloqueo-del-brexit.html",
      "source": "El País Internacional",
-     "published": "2026-11-20T11:30:03+00:00",
-     "copete": "Andy Burnham viaja este vienes a Bruselas para participar en la segunda cumbre bilateral entre los dos bloques, que se dan seis meses para cerrar el acuerdo principal",
+     "published": "2026-11-20T16:09:19+00:00",
+     "copete": "Burnham ha viajado este viernes a Bruselas para participar en la segunda cumbre bilateral con Von der Leyen y Costa",
      "id": "d46d09d9a77e"
     },
     {
-     "title": "Nearly 600 women killed in South Africa within three months",
-     "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-20T10:56:02+00:00",
-     "copete": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
-     "id": "d38fcf1450e8"
-    },
-    {
-     "title": "El hotel peruano que ofrece vistas espectaculares, pero requiere nervios de acero para llegar a él",
-     "link": "https://www.bbc.com/mundo/articles/cw0k00z0v1r0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-11-20T10:34:20+00:00",
-     "copete": "Skylodge tiene cápsulas transparentes situadas a 365 metros sobre el Valle Sagrado de Perú... pero hay que ser valiente para llegar a ellas.",
-     "id": "6efdc3887f66"
+     "title": "Dominique de Villepin anuncia su candidatura a las elecciones presidenciales en Francia",
+     "link": "https://elpais.com/internacional/2026-11-20/dominique-de-villepin-anuncia-su-candidatura-a-las-elecciones-presidenciales-en-francia.html",
+     "source": "El País Internacional",
+     "published": "2026-11-20T16:06:13+00:00",
+     "copete": "El ex primer ministro oficializa su carrera al Elíseo por “la situación de degradación” del país. Se presenta como alternativa para hacer frente a los extremos",
+     "id": "c341613b24b4"
     }
    ]
   }
@@ -464,11 +471,6 @@
    "section": "cardiologia",
    "feed": "NEJM Cardiología (PubMed)",
    "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "section": "deportes",
-   "feed": "UAR",
-   "error": "<urlopen error timed out>"
   },
   {
    "section": "ciencia_datos",

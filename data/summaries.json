@@ -1,6 +1,11 @@
 {
-  "generated_at": "2026-11-19T22:04:50Z",
+  "generated_at": "2026-11-20T10:04:32Z",
   "summaries": {
+    "94d34dafcf99": {
+      "resumen": "TCTMD reporta datos del estudio CHIP-BCIS3 sobre el papel de la lesión miocárdica (daño al músculo cardíaco medido con biomarcadores como la troponina) en los resultados de las angioplastias complejas de alto riesgo (PCI, percutaneous coronary intervention). Vale la pena mirarlo porque cuantificar cuánto importa esta lesión periprocedimiento podría cambiar cómo se interpreta el riesgo de estos procedimientos, cada vez más frecuentes en la práctica.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio/análisis de datos (CHIP-BCIS3), probablemente un registro o subestudio sobre intervenciones coronarias complejas de alto riesgo; el título no precisa si es aleatorizado, el cegamiento ni el número de centros o de pacientes.\nPoblación: Pacientes sometidos a angioplastia coronaria compleja de alto riesgo (CHIP, complex high-risk indicated PCI).\nIntervención: No hay una intervención experimental definida; el estudio analiza la asociación entre la lesión miocárdica periprocedimiento y los resultados clínicos tras la angioplastia.\nResultados: El título indica que los datos \"arrojan luz\" sobre el papel de la lesión miocárdica en los resultados, pero no hay cifras de incidencia, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, la definición de lesión miocárdica utilizada ni el seguimiento clínico alcanzado.\nMensaje: Sugiere que medir sistemáticamente la lesión miocárdica periprocedimiento podría ayudar a estratificar el riesgo en angioplastias complejas, aunque la relevancia clínica definitiva requiere revisar el texto completo.\nNota: análisis sin acceso al abstract."
+    },
     "588b24e68edb": {
       "resumen": "SCAI (Society for Cardiovascular Angiography and Interventions, Sociedad de Angiografía y Intervenciones Cardiovasculares) cuestiona los requisitos mínimos de volumen de procedimientos que deben cumplir los cardiólogos intervencionistas para mantener su habilitación. Vale la pena mirarlo porque el debate sobre volumen versus calidad en los procedimientos percutáneos puede redefinir cómo se acredita a los operadores.",
       "destacado": false
@@ -19,10 +24,6 @@
       "resumen": "El estudio DUOTAP analizó si hacer una posdilatación (inflado adicional con balón) de rutina después del implante percutáneo de válvula aórtica (TAVI, transcatheter aortic valve implantation) mejora los resultados del procedimiento. Vale la pena mirarlo porque la fuga paravalvular y la expansión incompleta de la válvula son problemas frecuentes del TAVI, y todavía no hay consenso sobre cuándo conviene posdilatar de manera sistemática.",
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico (DUOTAP); el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes sometidos a implante percutáneo de válvula aórtica (TAVI, transcatheter aortic valve implantation).\nIntervención: Posdilatación (inflado adicional con balón) de rutina tras el despliegue de la válvula, probablemente frente a una estrategia sin posdilatación sistemática.\nResultados: El título afirma que el estudio \"hace el caso\" a favor de más posdilatación, pero no hay cifras de fuga paravalvular, gradiente residual ni complicaciones disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el criterio de valoración principal ni el riesgo de complicaciones asociadas a la posdilatación (como rotura anular o accidente cerebrovascular).\nMensaje: Sugiere que ampliar el uso de posdilatación podría mejorar la expansión de la válvula en TAVI, pero la relación riesgo-beneficio debe confirmarse con el texto completo antes de cambiar la práctica habitual.\nNota: análisis sin acceso al abstract."
-    },
-    "b14db982c933": {
-      "resumen": "TCTMD repasa la evidencia clínica disponible sobre la oclusión percutánea de la orejuela izquierda (LAAO, left atrial appendage occlusion), un procedimiento usado para prevenir accidentes cerebrovasculares en pacientes con fibrilación auricular que no pueden recibir anticoagulación crónica. Vale la pena mirarlo porque sintetiza qué está bien establecido y qué todavía genera dudas en una técnica cada vez más usada en la práctica.",
-      "destacado": false
     },
     "48ebf35e8374": {
       "resumen": "Este editorial de JACC (Journal of the American College of Cardiology), firmado por Malhotra G et al., reflexiona en tono crítico sobre qué indicadores de calidad o métricas realmente importan en la práctica cardiológica, en contraposición a las que solo \"quedan bien\" en los reportes. Vale la pena mirarlo porque invita a repensar qué se mide y se publica en cardiología, más allá de los números que suelen destacarse.",
@@ -46,24 +47,28 @@
       "destacado": false,
       "analisis": "Diseño: Estudio de evaluación/validación, probablemente transversal, que compara recomendaciones generadas por un modelo de lenguaje de gran escala (LLM) frente a un estándar de referencia clínico; el título no precisa el número de casos evaluados ni la metodología exacta de calificación de seguridad sin acceso al abstract.\nPoblación: Casos o escenarios clínicos de insuficiencia cardíaca utilizados para generar recomendaciones de tratamiento mediante el LLM.\nIntervención: Recomendaciones de tratamiento generadas por el LLM, evaluadas frente a la conducta clínica esperada o el juicio de expertos en insuficiencia cardíaca (el título no detalla el comparador exacto).\nResultados: El título anuncia una \"evaluación de seguridad clínica\" pero no hay cifras de concordancia, tasa de errores ni proporción de recomendaciones inseguras disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra de casos, el diseño del panel de referencia que definió el estándar comparador ni la generalización a la práctica real.\nMensaje: Aporta evidencia temprana sobre los riesgos y limitaciones de delegar decisiones de insuficiencia cardíaca en un LLM, un paso necesario antes de integrar estas herramientas a la práctica clínica.\nNota: análisis sin acceso al abstract."
     },
+    "f32d5bea8abf": {
+      "resumen": "Simon Willison comparte un video de YouTube sobre el fenómeno del \"fraude de tokens\" (las unidades mínimas de texto que procesan los modelos de lenguaje y por las que se suele facturar) en productos de inteligencia artificial, con el caso de ChatPRD, una plataforma para que product managers conviertan ideas en especificaciones. Le sirve a un médico que aprende análisis de datos porque entender cómo se mide y se puede abusar del consumo de tokens es clave para interpretar costos y riesgos al integrar modelos de lenguaje en proyectos propios.",
+      "destacado": false
+    },
+    "fa58adbc15cb": {
+      "resumen": "El Models Engineering Index, un ranking que mide el desempeño de distintos modelos de lenguaje en tareas de ingeniería de software, ubicó a Gemini 4 Neon (de Google) en el primer puesto. Le sirve a un médico que aprende análisis de datos porque este tipo de índices ayuda a elegir qué modelo conviene usar para programar o automatizar análisis, más allá del marketing de cada empresa.",
+      "destacado": false
+    },
+    "bf5ffaf13e57": {
+      "resumen": "Un ciberataque filtró datos de clientes de Visa, Mastercard y JPMorgan, tres de las entidades financieras más grandes del mundo. Le sirve a un médico que aprende análisis de datos como recordatorio de que la seguridad y el resguardo de bases de datos sensibles —algo directamente aplicable a la protección de datos clínicos— sigue siendo un punto débil incluso en organizaciones con enorme presupuesto en ciberseguridad.",
+      "destacado": false
+    },
+    "04fd14ae1a21": {
+      "resumen": "Synology publicó un aviso de seguridad (security advisory) sobre una vulnerabilidad en sus dispositivos de almacenamiento en red (NAS, network-attached storage). Le sirve a un médico que aprende análisis de datos porque estos equipos suelen usarse para guardar bases de datos y copias de seguridad propias, y mantenerlos actualizados es parte básica de proteger la información que se analiza.",
+      "destacado": false
+    },
     "7339d690dfb6": {
       "resumen": "Simon Willison repasa el lanzamiento de PostgreSQL 19, la nueva versión del popular sistema de gestión de bases de datos relacionales de código abierto, que llegó dos meses más tarde que lo habitual por cuestiones de seguridad que el equipo tuvo que resolver. Le sirve a un médico que aprende análisis de datos porque PostgreSQL es una de las bases más usadas para almacenar y consultar datos, y conocer sus novedades ayuda a aprovechar mejor las herramientas de consulta mediante SQL.",
       "destacado": false
     },
-    "122be7cf5dd9": {
-      "resumen": "Anthropic reporta que su modelo de inteligencia artificial Claude ayudó a resolver dos problemas abiertos de la física de agujeros negros. Le sirve a un médico que aprende análisis de datos como ejemplo de que estos modelos ya asisten en razonamiento científico avanzado, más allá de tareas de programación o resumen de texto.",
-      "destacado": false
-    },
-    "533964cca6f4": {
-      "resumen": "Un reporte describe que la inyección de un virus oncolítico (diseñado para infectar y destruir selectivamente células tumorales) detuvo el avance del cáncer de páncreas en tres pacientes. Le sirve a un médico que aprende análisis de datos como ejemplo de terapias emergentes que, al tratarse de series de casos muy chicas, requieren luego estudios con análisis estadístico riguroso para confirmar su eficacia real.",
-      "destacado": false
-    },
-    "450b4071a471": {
-      "resumen": "Anthropic, la empresa creadora de Claude, debutó en la bolsa Nasdaq alcanzando una valuación de 2 billones de dólares (2 trillion dollars en inglés). Le sirve a un médico que aprende análisis de datos como contexto de la magnitud económica que está tomando la industria de la inteligencia artificial, la misma que produce las herramientas que usa a diario.",
-      "destacado": false
-    },
-    "9cb51fd9a48f": {
-      "resumen": "Un post técnico cuestiona la efectividad de las salvaguardas (safeguards) actuales de los modelos de inteligencia artificial frente a intentos de eludirlas. Le sirve a un médico que aprende análisis de datos porque conviene conocer los límites reales de seguridad de estas herramientas antes de usarlas con información sensible, como datos de pacientes.",
+    "404bc2ee895c": {
+      "resumen": "El artículo plantea que la publicidad paga en plataformas digitales funciona cada vez más como una \"máquina tragamonedas\" que extrae valor de los anunciantes, devolviéndoles apenas una fracción del retorno. Le sirve a un médico que aprende análisis de datos porque ilustra cómo las métricas de conversión y retorno de inversión pueden usarse tanto para entender como para cuestionar críticamente un modelo de negocio basado en datos.",
       "destacado": false
     },
     "231685d8e46c": {
@@ -82,18 +87,14 @@
       "resumen": "El artículo propone una arquitectura de tres niveles para supervisar agentes de inteligencia artificial a gran escala, separando la supervisión automática de cambios reversibles de la revisión humana para cambios de alto impacto. Le sirve a un médico que aprende análisis de datos porque plantea un marco de control aplicable a cualquier automatización con IA, incluida la que podría usarse sobre datos clínicos.",
       "destacado": false
     },
-    "87d6a7d25633": {
-      "resumen": "El artículo muestra cómo correr BigQuery, Apache Spark y Trino sobre una misma copia de una tabla en formato Apache Iceberg dentro de Google Cloud, sin duplicar datos ni sincronizar copias, y qué pasa cuando varios motores escriben a la vez. Le sirve a un médico que aprende análisis de datos porque introduce el concepto de tabla abierta (open table format), cada vez más usado para evitar silos de datos entre distintas herramientas de análisis.",
-      "destacado": false
+    "cfda19b44e7e": {
+      "resumen": "Los Pumas 7's inician una nueva temporada del circuito mundial de rugby seven, con la chance de que debuten dos jugadores nuevos."
     },
-    "3d9958ebd244": {
-      "resumen": "Agustín Pichot sumó un nuevo cargo dirigencial a nivel global tras ser elegido para integrar el Comité Ejecutivo de World Rugby, el máximo organismo que regula el rugby mundial."
+    "ef81d7adb5ff": {
+      "resumen": "Quedó definida la fecha en la que se disputará el Mundial de rugby de Estados Unidos 2031."
     },
-    "022603efb72c": {
-      "resumen": "Los Pumas 7's ya tienen el plantel confirmado para arrancar una nueva temporada del circuito mundial de rugby seven."
-    },
-    "499226ca47bf": {
-      "resumen": "Los Pumas 7's confirmaron los nombres que arrancarán el Circuito Mundial de rugby seven en esta nueva temporada."
+    "a66b4f64674e": {
+      "resumen": "Un repaso por todas las medallas que consiguieron Los Pumas 7's a lo largo de su historia en el circuito mundial de rugby seven."
     }
   }
 }

@@ -1,15 +1,6 @@
 {
-  "generated_at": "2026-11-20T22:04:25Z",
+  "generated_at": "2026-11-21T10:04:57Z",
   "summaries": {
-    "94d34dafcf99": {
-      "resumen": "TCTMD reporta datos del estudio CHIP-BCIS3 sobre el papel de la lesión miocárdica (daño al músculo cardíaco medido con biomarcadores como la troponina) en los resultados de las angioplastias complejas de alto riesgo (PCI, percutaneous coronary intervention). Vale la pena mirarlo porque cuantificar cuánto importa esta lesión periprocedimiento podría cambiar cómo se interpreta el riesgo de estos procedimientos, cada vez más frecuentes en la práctica.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio/análisis de datos (CHIP-BCIS3), probablemente un registro o subestudio sobre intervenciones coronarias complejas de alto riesgo; el título no precisa si es aleatorizado, el cegamiento ni el número de centros o de pacientes.\nPoblación: Pacientes sometidos a angioplastia coronaria compleja de alto riesgo (CHIP, complex high-risk indicated PCI).\nIntervención: No hay una intervención experimental definida; el estudio analiza la asociación entre la lesión miocárdica periprocedimiento y los resultados clínicos tras la angioplastia.\nResultados: El título indica que los datos \"arrojan luz\" sobre el papel de la lesión miocárdica en los resultados, pero no hay cifras de incidencia, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, la definición de lesión miocárdica utilizada ni el seguimiento clínico alcanzado.\nMensaje: Sugiere que medir sistemáticamente la lesión miocárdica periprocedimiento podría ayudar a estratificar el riesgo en angioplastias complejas, aunque la relevancia clínica definitiva requiere revisar el texto completo.\nNota: análisis sin acceso al abstract."
-    },
-    "588b24e68edb": {
-      "resumen": "SCAI (Society for Cardiovascular Angiography and Interventions, Sociedad de Angiografía y Intervenciones Cardiovasculares) cuestiona los requisitos mínimos de volumen de procedimientos que deben cumplir los cardiólogos intervencionistas para mantener su habilitación. Vale la pena mirarlo porque el debate sobre volumen versus calidad en los procedimientos percutáneos puede redefinir cómo se acredita a los operadores.",
-      "destacado": false
-    },
     "97eff5851098": {
       "resumen": "Un estudio comparó la interpretación de ecocardiogramas asistida por inteligencia artificial (AI-Echo) con la lectura de cardiólogos clínicos, y encontró un desempeño comparable entre ambos. Vale la pena mirarlo porque la automatización de la lectura ecocardiográfica podría agilizar el diagnóstico y aliviar la carga de los laboratorios de ecocardiografía.",
       "destacado": false,
@@ -46,24 +37,12 @@
       "resumen": "Este documento de postura (2026 ACC Scientific Statement) del Colegio Americano de Cardiología, firmado por Greenland P et al., revisa las estrategias para bajar el colesterol (lipid-lowering) en la era de la detección temprana de aterosclerosis, por ejemplo mediante el score de calcio coronario o la detección de placa subclínica. Vale la pena mirarlo porque resume cómo debería ajustarse el tratamiento hipolipemiante cuando se detecta enfermedad coronaria incipiente antes de que aparezcan síntomas.",
       "destacado": false
     },
-    "c69438672bb7": {
-      "resumen": "Hacker News reporta que la Comisión de Bolsa y Valores de Estados Unidos (SEC, Securities and Exchange Commission) está investigando las prácticas contables de Nvidia, la empresa líder en chips para inteligencia artificial. Le sirve a un médico que aprende análisis de datos porque recuerda que detrás del boom de la inteligencia artificial hay riesgos financieros y regulatorios que conviene seguir antes de depender de esa infraestructura para proyectos propios.",
-      "destacado": false
-    },
     "b9db119f86f5": {
       "resumen": "Thinking Machines presentó Inkling 2 Mini, una versión reducida de su modelo de inteligencia artificial pensada para tareas más livianas y económicas. Le sirve a un médico que aprende análisis de datos porque ejemplifica la tendencia a ofrecer modelos más chicos y baratos para tareas puntuales, una opción más realista que los modelos grandes para automatizar análisis simples.",
       "destacado": false
     },
     "6a73fdd651f9": {
       "resumen": "Simon Willison cita a Ravi Vakil sobre una propuesta de demostración de la Hipótesis de Riemann Generalizada (GRH, Generalized Riemann Hypothesis) presentada por Alessandro Masullo, que el matemático Brian Conrad viene revisando con atención durante meses. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo la comunidad científica valida —o no— resultados extraordinarios antes de aceptarlos, un proceso de revisión por pares comparable al que exige la evidencia clínica.",
-      "destacado": false
-    },
-    "81fd9565f775": {
-      "resumen": "Un blog de matemática publica un anuncio apurado sobre la supuesta demostración de la Hipótesis de Riemann Generalizada (GRH) de Alessandro Masullo, todavía en proceso de revisión por otros matemáticos. Le sirve a un médico que aprende análisis de datos para entender que un anuncio llamativo no equivale a un resultado confirmado, la misma cautela que hay que tener frente a estudios preliminares sin revisión por pares.",
-      "destacado": false
-    },
-    "e1a223b73868": {
-      "resumen": "El artículo cuenta el caso de desarrolladores de software que fueron promovidos de hecho a roles de arquitectos de sistemas sin que nadie se lo comunicara formalmente, generando confusión sobre sus responsabilidades. Le sirve a un médico que aprende análisis de datos porque ilustra un problema organizacional común en equipos técnicos —roles poco claros— que también puede aparecer cuando alguien empieza a liderar proyectos de datos dentro de un servicio clínico.",
       "destacado": false
     },
     "9e188d65b5ac": {
@@ -86,17 +65,46 @@
       "resumen": "El artículo condensa dos años de experiencia entrevistando estudiantes de maestría en un recorrido de nueve pasos para armar un modelo de regresión logística de riesgo de crédito, desde el manejo de valores faltantes y el factor de inflación de la varianza (VIF, variance inflation factor) hasta las métricas AUC (área bajo la curva, area under the curve) y el coeficiente de Gini. Le sirve a un médico que aprende análisis de datos porque repasa, paso a paso, el flujo completo de un modelo de clasificación estadística, aplicable también para predecir riesgo clínico.",
       "destacado": false
     },
-    "91eb149978f4": {
-      "resumen": "Los Teros, la selección uruguaya de rugby, buscan un triunfo decisivo frente a Portugal en Lisboa."
+    "7b21745d0155": {
+      "resumen": "TCTMD reporta los resultados del estudio SYNCHRONIZE-CVOT (ensayo de desenlaces cardiovasculares, cardiovascular outcomes trial), que respalda la seguridad cardiovascular de survodutide, un agonista dual de los receptores de GLP-1 (glucagon-like peptide-1) y de glucagón usado para tratar la obesidad y la diabetes. Vale la pena mirarlo porque los CVOT son el estándar regulatorio para confirmar que los fármacos metabólicos no aumentan el riesgo cardiovascular.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico de seguridad cardiovascular (SYNCHRONIZE-CVOT); el título no precisa aleatorización, cegamiento, número de centros ni de pacientes sin acceso al abstract.\nPoblación: Probablemente pacientes con obesidad y/o diabetes tipo 2 con riesgo cardiovascular elevado, candidatos a tratamiento con survodutide (agonista dual GLP-1/glucagón).\nIntervención: Survodutide frente a placebo, diseño habitual de los CVOT para evaluar eventos cardiovasculares mayores.\nResultados: El título indica que el estudio \"respalda la seguridad cardiovascular\" del fármaco, pero no hay razón de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el margen de no inferioridad preespecificado ni la duración del seguimiento.\nMensaje: De confirmarse, sumaría otro agonista dual GLP-1/glucagón a la lista de fármacos metabólicos con perfil cardiovascular seguro, en línea con lo ya mostrado por otros agonistas de GLP-1.\nNota: análisis sin acceso al abstract."
     },
-    "b1fd38fa77ad": {
-      "resumen": "Los Cóndores, la selección chilena de rugby, van por otra victoria ante Zimbabue en Francia para quedar como el mejor equipo sudamericano de su grupo."
+    "d96193ce42c1": {
+      "resumen": "TCTMD describe los resultados del estudio DUOTAP, que respalda realizar más posdilatación con balón (postdilation) después del implante percutáneo de válvula aórtica (TAVI, transcatheter aortic valve implantation) para optimizar la expansión de la prótesis. Vale la pena mirarlo porque es una maniobra sencilla que podría reducir las fugas paravalvulares y mejorar los resultados hemodinámicos del TAVI.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio/ensayo clínico (DUOTAP); el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes sometidos a implante percutáneo de válvula aórtica (TAVI).\nIntervención: Posdilatación con balón sistemática o más agresiva tras el implante de la válvula, frente a la estrategia convencional.\nResultados: El título sugiere que el estudio respalda más posdilatación, pero no hay cifras de fuga paravalvular, gradientes transvalvulares ni complicaciones disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el criterio de valoración principal ni el riesgo de complicaciones asociadas a la posdilatación (por ejemplo, ruptura anular o ACV).\nMensaje: De confirmarse, respaldaría incorporar la posdilatación de rutina como herramienta simple para optimizar el resultado del TAVI, aunque el balance riesgo-beneficio definitivo requiere revisar el texto completo.\nNota: análisis sin acceso al abstract."
     },
-    "8f4ea62398f3": {
-      "resumen": "Georgia y Estados Unidos, los dos punteros de su grupo de rugby, se enfrentan para definir quién es el mejor."
+    "49d4438c8d10": {
+      "resumen": "El blog Cardiology Trials repasa el ensayo SPAF-III (Stroke Prevention in Atrial Fibrillation III), que comparó warfarina en dosis ajustada contra warfarina en dosis baja fija combinada con aspirina en pacientes de alto riesgo con fibrilación auricular. Vale la pena mirarlo porque fue uno de los estudios que estableció que la anticoagulación con warfarina ajustada es superior a los esquemas combinados de dosis fija para prevenir el accidente cerebrovascular (ACV) en fibrilación auricular de alto riesgo.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado y multicéntrico (SPAF-III, Stroke Prevention in Atrial Fibrillation III); el título y el copete no precisan el número exacto de centros ni de pacientes, ni si fue abierto o ciego.\nPoblación: Pacientes con fibrilación auricular de alto riesgo de accidente cerebrovascular (ACV).\nIntervención: Warfarina en dosis ajustada frente a warfarina en dosis baja fija combinada con aspirina.\nResultados: El copete indica la comparación entre ambas estrategias, pero no hay cifras de incidencia de ACV, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede precisar el tamaño de la muestra, el seguimiento ni si el estudio se detuvo anticipadamente por diferencias en los desenlaces.\nMensaje: Este ensayo histórico ayudó a consolidar la anticoagulación ajustada como estrategia preferida sobre los esquemas combinados de dosis fija en fibrilación auricular de alto riesgo, un pilar que sigue vigente en las guías actuales.\nNota: análisis sin acceso al abstract."
     },
-    "e399753d4651": {
-      "resumen": "El cantante Pity Álvarez tomó conocimiento de su condena judicial, reaccionó y le escribió una carta a su abogado."
+    "8ff73a17bdf9": {
+      "resumen": "El blog Cardiology Trials repasa el ensayo SPAF-II (Stroke Prevention in Atrial Fibrillation II), que comparó warfarina contra aspirina para la prevención del accidente cerebrovascular (ACV) en pacientes con fibrilación auricular. Vale la pena mirarlo porque ayudó a definir en qué subgrupos de edad y riesgo la anticoagulación con warfarina aporta un beneficio neto mayor que la aspirina.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado y multicéntrico (SPAF-II, Stroke Prevention in Atrial Fibrillation II); el título y el copete no precisan el número exacto de centros ni de pacientes, ni el tipo de cegamiento.\nPoblación: Pacientes con fibrilación auricular, con subgrupos por edad (menores y mayores de 75 años) y por presencia de factores de riesgo adicionales de ACV.\nIntervención: Warfarina frente a aspirina para la prevención del accidente cerebrovascular.\nResultados: El copete indica la comparación entre ambos fármacos, pero no hay cifras de incidencia de ACV, sangrado ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede precisar el tamaño de la muestra, el seguimiento ni el análisis por subgrupos de edad y riesgo.\nMensaje: Este ensayo histórico contribuyó a identificar que el beneficio de la warfarina sobre la aspirina es mayor en pacientes añosos o con factores de riesgo adicionales, mientras que en pacientes más jóvenes y de bajo riesgo la diferencia es menor y el riesgo de sangrado cobra más peso relativo.\nNota: análisis sin acceso al abstract."
+    },
+    "768811664c08": {
+      "resumen": "Un artículo publicado en Hacker News (en el sitio borretti.me) reacciona a los recientes anuncios sobre supuestas demostraciones de la Hipótesis de Riemann que circularon esta semana. Le sirve a un médico que aprende análisis de datos porque aporta una mirada crítica sobre cómo se verifican afirmaciones extraordinarias en matemática y ciencia, un ejercicio de escepticismo también aplicable a la lectura de estudios.",
+      "destacado": false
+    },
+    "44041f7d1d02": {
+      "resumen": "NINLIVE es un sitio dedicado a archivar y catalogar grabaciones en vivo de la banda Nine Inch Nails, destacado en Hacker News. Le sirve a un médico que aprende análisis de datos como ejemplo de un proyecto de curaduría y organización de grandes volúmenes de datos no estructurados (audio, metadatos de conciertos), una tarea afín a estructurar bases de datos clínicas o de investigación.",
+      "destacado": false
+    },
+    "c72cb9838d98": {
+      "resumen": "La Comisión de Bolsa y Valores de Estados Unidos (SEC, Securities and Exchange Commission) está investigando posibles irregularidades contables en Nvidia, la empresa líder en chips para inteligencia artificial, según fuentes citadas por la nota. Le sirve a un médico que aprende análisis de datos porque recuerda que detrás del boom de la inteligencia artificial hay riesgos financieros y regulatorios que conviene seguir antes de depender de esa infraestructura para proyectos propios.",
+      "destacado": false
+    },
+    "4902fff7e634": {
+      "resumen": "El peronismo argentino aparece hoy dividido, con su base de apoyo concentrada en el conurbano bonaerense y sin renovar su discurso político."
+    },
+    "81cf522bd539": {
+      "resumen": "El exseleccionador francés Bernard Laporte habló sobre la situación de presión que vive Felipe y reconoció haber cometido errores parecidos a los suyos en el pasado."
+    },
+    "2314a2f9a91c": {
+      "resumen": "Los Pumas 7s confirmaron el plantel que afrontará las dos primeras etapas del circuito mundial SVNS (Sevens World Series) de la temporada 2026/27."
     }
   }
 }

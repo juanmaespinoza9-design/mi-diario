@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T22:05:23Z",
+  "generated_at": "2026-11-22T10:04:30Z",
   "summaries": {
     "97eff5851098": {
       "resumen": "Un estudio comparó la interpretación de ecocardiogramas asistida por inteligencia artificial (AI-Echo) con la lectura de cardiólogos clínicos, y encontró un desempeño comparable entre ambos. Vale la pena mirarlo porque la automatización de la lectura ecocardiográfica podría agilizar el diagnóstico y aliviar la carga de los laboratorios de ecocardiografía.",
@@ -59,42 +59,42 @@
       "destacado": false,
       "analisis": "Diseño: Análisis de datos del registro/ensayo BCIS-3 (British Cardiovascular Intervention Society) centrado en pacientes con angioplastia coronaria compleja (CHIP, complex and high-risk indicated procedures); el título no precisa si es un análisis secundario preespecificado, el número de centros ni de pacientes incluidos.\nPoblación: Pacientes sometidos a intervención coronaria percutánea (PCI) compleja o de alto riesgo (CHIP), población característica de los estudios BCIS-3.\nIntervención: No se compara una intervención terapéutica puntual, sino que se analiza la asociación entre el grado de lesión miocárdica periprocedimiento (elevación de biomarcadores tras la angioplastia) y los resultados clínicos.\nResultados: El título indica que estos datos \"arrojan luz\" sobre el rol de la lesión miocárdica en los resultados, pero no hay cifras de incidencia, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, la definición de lesión miocárdica utilizada ni el tiempo de seguimiento para los eventos clínicos.\nMensaje: Podría ayudar a identificar qué pacientes se benefician más del soporte circulatorio mecánico durante la angioplastia compleja según el riesgo de daño miocárdico periprocedimiento, aunque la aplicación práctica requiere revisar el texto completo.\nNota: análisis sin acceso al abstract."
     },
-    "c6e0f6fe1d32": {
-      "resumen": "Este posteo de Hacker News trata de Inkling-2-Mini, un modelo de lenguaje liviano que corre en apenas 5,4 GB de memoria. Aporta evidencia de que los modelos de inteligencia artificial cada vez más chicos y eficientes permiten correr IA local en una computadora modesta, sin depender de la nube, algo útil para un médico que quiere experimentar con IA sin infraestructura cara.",
-      "destacado": false
-    },
-    "c2f60c13cbe0": {
-      "resumen": "Hacker News discute cómo la caída de Jensen Huang (CEO de Nvidia, la empresa líder en chips para inteligencia artificial) es una mala señal para los sectores más optimistas (\"aceleracionistas\") de Silicon Valley respecto del ritmo de avance de la IA. Le sirve a un médico que sigue el campo de datos para entender que el entusiasmo por la IA también depende de señales de mercado y liderazgo corporativo, no solo de avances técnicos.",
-      "destacado": false
-    },
     "228b94b928e1": {
       "resumen": "Towards Data Science explica cómo aprender análisis de cadena de suministro (supply chain analytics) usando Claude Code, el asistente de inteligencia artificial para programar de Anthropic, como herramienta de aprendizaje práctico. Le sirve a un médico que está dando sus primeros pasos en el análisis de datos porque muestra un método concreto -aprender haciendo, con IA como tutor de código- que es trasladable a cualquier dominio, incluida la farmacovigilancia.",
-      "destacado": false
-    },
-    "de6a6b768afb": {
-      "resumen": "Hacker News comenta un intento de verificar formalmente, con el asistente de demostración Lean, pasos de una prueba de la Hipótesis de Riemann. Le sirve a un médico que aprende análisis de datos porque ilustra cómo la verificación automatizada de demostraciones matemáticas -similar en espíritu a validar un modelo estadístico paso por paso- gana terreno como forma de chequear resultados complejos sin depender solo de la revisión humana.",
-      "destacado": false
-    },
-    "07a481fe6b0c": {
-      "resumen": "Un posteo curioso de Hacker News sobre la detonación experimental de azida de plomo (un compuesto explosivo sensible usado en detonadores), más cercano a la química y la seguridad de laboratorio que al análisis de datos. Vale la pena solo como curiosidad técnica, sin un aporte directo para quien estudia ciencia de datos.",
       "destacado": false
     },
     "b91aec94334c": {
       "resumen": "Towards Data Science explica, con ejemplos en Python, la diferencia entre regresión censurada y regresión truncada (dos formas de modelar datos incompletos cuando algunos valores quedan por fuera de un rango observable). Le sirve mucho a un médico que aprende análisis de datos porque estos modelos son centrales en bioestadística, por ejemplo al analizar tiempos de supervivencia o datos de laboratorio con límites de detección.",
       "destacado": false
     },
-    "d63c6404d469": {
-      "resumen": "Simon Willison anuncia una nueva versión del plugin llm-gemini, que conecta su herramienta de línea de comandos \"llm\" con los modelos Gemini de Google. Le sirve a un médico que experimenta con IA porque muestra cómo se puede automatizar y comparar distintos modelos de lenguaje desde la terminal, sin depender de una sola interfaz web.",
+    "9212cb3d4e2e": {
+      "resumen": "Toyota, Nissan y Honda acordaron estandarizar piezas entre sus modelos para reducir costos de fabricación, una respuesta típica de la industria automotriz a la presión de precios. No es ciencia de datos en sentido estricto, pero ilustra cómo la estandarización de procesos y componentes -la misma lógica que se aplica para unificar fuentes de datos dispares- permite ganar eficiencia a gran escala.",
       "destacado": false
     },
-    "eb160a6a8896": {
-      "resumen": "Héctor \"Pochola\" Silva fue incorporado al Salón de la Fama del Rugby Mundial, en una ceremonia que incluyó un homenaje a Federico Martín Aramburú."
+    "7893687ce631": {
+      "resumen": "OpenRouter, un servicio que enruta pedidos entre distintos proveedores de inferencia de modelos de inteligencia artificial, publicó un repaso de incidentes de procesamiento de datos ocurridos en esos proveedores (fallas, facturación incorrecta o respuestas corruptas). Le sirve a quien usa inteligencia artificial para analizar datos porque recuerda que la infraestructura detrás de los modelos también falla, y conviene auditar la calidad de las respuestas igual que se auditan los datos de entrada.",
+      "destacado": false
     },
-    "dfe9b1342365": {
-      "resumen": "La Nación repasa el ingreso de Héctor \"Pochola\" Silva, figura histórica de Los Pumas, al Salón de la Fama del Rugby Mundial."
+    "c4a226a4ddc4": {
+      "resumen": "Un proyecto lúdico (stulle.app) que simula armar sándwiches de forma interactiva, sin relación directa con el análisis de datos. Vale como curiosidad dentro de la comunidad de Hacker News, más que como aporte concreto para quien estudia ciencia de datos.",
+      "destacado": false
     },
-    "6aae9c509c47": {
-      "resumen": "Hollie Davidson se perfila para dirigir de forma histórica el partido entre Los Pumas y Francia."
+    "0ceef4b235ec": {
+      "resumen": "Simon Willison repasa Muru, un nuevo servidor en Rust asistido por inteligencia artificial que desarrolló Graham Dumpleton -creador de mod_wsgi hace 20 años- para mejorar cómo se sirven aplicaciones web de Python en producción. Le sirve a un médico que aprende análisis de datos porque muestra cómo la inteligencia artificial ya ayuda a reescribir herramientas clásicas de infraestructura, el tipo de software que sostiene por detrás cualquier panel o aplicación de datos.",
+      "destacado": false
+    },
+    "cfc547c2291f": {
+      "resumen": "PcapAnalyzer es una herramienta autoalojada (self-hosted) para analizar archivos pcap (capturas de tráfico de red) con 27 detectores de problemas automáticos. Le sirve a quien aprende análisis de datos como ejemplo de detección automatizada de anomalías aplicada a un dominio distinto -el tráfico de red-, con una lógica de reglas y alertas trasladable a otros tipos de datos.",
+      "destacado": false
+    },
+    "1febf013e58b": {
+      "resumen": "Héctor \"Pochola\" Silva, exjugador histórico de Los Pumas, ingresó al Salón de la Fama de World Rugby."
+    },
+    "35ce1a7e25b7": {
+      "resumen": "Los Pumas cayeron ante Francia en París, en un nuevo test match de la ventana internacional de noviembre."
+    },
+    "7cd901083739": {
+      "resumen": "Australia le ganó a Gales y escaló en la tabla del Nations Championship, dejando a Los Pumas con un nuevo rival de cara a la definición del certamen."
     }
   }
 }

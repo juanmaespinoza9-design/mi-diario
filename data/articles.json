@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T20:35:41.109334+00:00",
+ "generated_at": "2026-11-22T02:22:03.569178+00:00",
  "sections": [
   {
    "id": "cardiologia",
@@ -50,6 +50,14 @@
      "id": "92a4462a4d9b"
     },
     {
+     "title": "Review of the SPAF-III trial",
+     "link": "https://cardiologytrials.substack.com/p/review-of-the-spaf-iii-trial",
+     "source": "Cardiology Trials",
+     "published": "2026-11-18T02:40:32+00:00",
+     "copete": "Adjusted-dose warfarin versus low-intensity, fixed-dose warfarin plus aspirin for high-risk patients with atrial fibrillation",
+     "id": "49d4438c8d10"
+    },
+    {
      "title": "Keeping Up Appearances-Or Measuring What Matters?",
      "link": "https://pubmed.ncbi.nlm.nih.gov/43049119/",
      "source": "JACC",
@@ -80,6 +88,14 @@
      "published": "2026-11-16T00:00:00+00:00",
      "copete": "For image description, please refer to the figure legend and surrounding text.",
      "id": "9bd32d4bb554"
+    },
+    {
+     "title": "Review of the SPAF-II trial",
+     "link": "https://cardiologytrials.substack.com/p/review-of-the-spaf-ii-trial",
+     "source": "Cardiology Trials",
+     "published": "2026-11-12T11:02:45+00:00",
+     "copete": "Warfarin versus aspirin in Atrial Fibrillation",
+     "id": "8ff73a17bdf9"
     }
    ]
   },
@@ -89,105 +105,113 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Héctor \"Pochola\" Silva ingresó al Salón de la fama del Rugby Mundial y hubo un homenaje para recordar a Federico Martín Aramburú",
-     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQLWlncGhvREhVMmNjcXRtWjc3enVBY3FnNUVjWTlzcE5LQWhRdVlzZkRWS202cko5TkZHbWp1cGdqT2tsQUFVTjdGNWVEd25tX3JyZ21lVG9uWnl0TXJwZnFOU0JLQWRoRTdMQnMydEFVRkM5UkxxRFhaQThmOU9KZ2VibEg1bWR3cDFaR0RvLXJMSS15U1BmN1RJYjEzcVB5NUk2OERxV0FvV3VYT3dnRjZXT1JWcGFoSjVISzBIcnc0VUNJTE1ydENRbWVOajE5MEtOY3l0UWFYbEFjbmtkOGlLZ2pBazlVdmFqUFhiYTZYZVBrOHg1Xzg2MzlOOVU4bFI0RXNxTQ?oc=5",
-     "source": "Rugby Champagne",
-     "published": "2026-11-21T20:25:36+00:00",
-     "id": "eb160a6a8896"
+     "title": "England, inspired by Moody, pull off one of their greatest performances to stun New Zealand",
+     "link": "https://www.espn.co.uk/rugby/story/_/id/50550740/england-nations-championships-rugby-new-zealand-win",
+     "source": "ESPN Rugby",
+     "published": "2026-11-22T06:53:42+00:00",
+     "copete": "The minute Twickenham held its collective breath and watched on in awe as Lewis Moody joined the England team to face the Haka, you knew the All Blacks were going to have to produce something truly exceptional to stop the hosts.",
+     "id": "580082674f7d"
     },
     {
-     "title": "El Salón de la Fama y un merecido reconocimiento a un símbolo histórico de los Pumas: Héctor ‘Pochola’ Silva",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWWtIVlVJLVFoRW45MGl6VVJEanZ2TTZGUFRNNHpsWDMtQTViUlFZVDVYb3A3STJqMmk5eVhocTNKVXFoYTdaajJoSDRBanpWaVJfVmVYRVNGckd6VEZjaFJvOXc0QXNNNWt0bk40c3B2M0owZGRpYWR1Vm5SOGxxaU01Yk9xLXVQdkJvemtTMEgza3dNVlFxSldUMmluenh5bTl2NXBNNEhOWjM1Vl9FWkNwRTVMV1dpaXRNd2FNNmhUQlo3cVZQeFRSb3lPX2VvbXAyRmVWcjFvM0k1U252NmFoN3NtNDlCd0dF?oc=5",
-     "source": "La Nación",
-     "published": "2026-11-21T20:23:31+00:00",
-     "id": "dfe9b1342365"
+     "title": "Earl, Fin Smith impress: England player ratings after record win over All Blacks",
+     "link": "https://www.espn.co.uk/rugby/story/_/id/50541947/england-player-ratings-new-zealand-rugby",
+     "source": "ESPN Rugby",
+     "published": "2026-11-22T06:53:42+00:00",
+     "copete": "England earned a record win over the All Blacks on Saturday, with the 37-12 victory their biggest margin against New Zealand.",
+     "id": "c1c243f9d155"
     },
     {
-     "title": "Quién es Hollie Davidson, la árbitra que hará historia en el partido de Los Pumas contra Francia",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUzQ4WlNQVWQ1Ynk4MC1XV2FhWV9aY1NXQllnVmJJQVZFcmlReTNYb28xanNXZ2ZLQlFMMklDaW1rU3lTeUh3Y1lya0x3Q3htN2FFR3FtVEctbEduTlZrY202Qk5oZEtqYlRuZGZDa3ZiVWVvdTVoN3E4WmVNZlZwdjBkclk1eTJBR2hEenBXZUlXa2dRZHE2cThhSVFNLWY4MGNvNFNpU1lIWWdWNl9EZ0pqb05qOHBZb1VVOWlfNEpmOGpiNXfSAcsBQVVfeXFMTWNvRVZKTDhZellrTkhOc1VNNTJSWk1reHg3TVhGTU5ZcGpsVm53NXNhRU95N3RZcWxoTk9SSWVhSWZjWmYxNUJNcDBsa2VqTDBvZElVb3lheS05WnhaQXZRRFpZODUwS1otUG9VU1ZZQmh0Q0Z4bTJiemlqWlpXSmtvZDV5N3JHWGRTc1czRy05cWdIaHAtenBzc1MydkhXeVR4dnpIQ09uT0VrUFJkWVBFYkhDRk1FbHNmUEtSV0FVblYzLWlZajU0enM?oc=5",
-     "source": "La Gaceta",
-     "published": "2026-11-21T20:18:35+00:00",
-     "id": "6aae9c509c47"
+     "title": "Moody joins England to face NZ haka before astonishing home victory",
+     "link": "https://www.espn.co.uk/rugby/story/_/id/50549948/lewis-moody-england-haka-new-zealand-rugby",
+     "source": "ESPN Rugby",
+     "published": "2026-11-22T06:53:42+00:00",
+     "copete": "England's players brought World Cup winner Lewis Moody in to face New Zealand's haka before their astonishing Nations Championship victory on Saturday at Allianz Stadium.",
+     "id": "8d99805fc12a"
     },
     {
-     "title": "Con dos bajas de peso y una joven apuesta, el 11 que tiene en mente Ponzio para el mata-mata contra Lanús",
-     "link": "https://www.ole.com.ar/river-plate/river-lanus-probable-equipo-formacion-leonardo-ponzio_0_rYj19MRdzL.html",
+     "title": "¡Insólito! A Everson se le escapó la pelota y Merentiel lo perdió abajo del arco en el inicio",
+     "link": "https://www.espn.com.ar/futbol/copa-sudamericana/nota/_/id/17544880/video-gol-errado-de-merentiel-error-de-everson-atletico-mineiro-vs-boca-final-copa-sudamericana",
+     "source": "ESPN Argentina",
+     "published": "2026-11-22T04:09:13+00:00",
+     "copete": "La Bestia no pudo sacar provecho del arquero de Atlético Mineiro en el inicio de la final de la CONMEBOL Sudamericana.",
+     "id": "ad0b7b38e59b"
+    },
+    {
+     "title": "Ascacíbar no perdonó y Boca abrió el marcador ante Atlético Mineiro en la final de la Sudamericana",
+     "link": "https://www.espn.com.ar/futbol/copa-sudamericana/nota/_/id/17545005/video-gol-de-santiago-ascacibar-boca-vs-atletico-mineiro",
+     "source": "ESPN Argentina",
+     "published": "2026-11-22T04:09:12+00:00",
+     "copete": "El Rusito, que minutos antes había roto el cero en posición adelantada, puso el 1 a 0 con un gran remate.",
+     "id": "df5e4a1572e0"
+    },
+    {
+     "title": "F1: cuándo y cómo ver el GP de Las Vegas en vivo",
+     "link": "https://www.espn.com.ar/deporte-motor/f1/nota/_/id/14932955/formula-1-f1-cuando-y-como-ver-en-vivo-carrera-gp-gran-premio",
+     "source": "ESPN Argentina",
+     "published": "2026-11-22T04:06:24+00:00",
+     "copete": "No te pierdas todos los detalles sobre las transmisiones de la máxima categoría del automovilismo mundial.",
+     "id": "8b977a2ae319"
+    },
+    {
+     "title": "Todos los títulos de Boca Juniors en su historia",
+     "link": "https://www.espn.com.ar/futbol/argentina/nota/_/id/11688329/boca-juniors-historial-titulos-locales-internacionales",
+     "source": "ESPN Argentina",
+     "published": "2026-11-22T04:03:38+00:00",
+     "copete": "Un repaso por las estrellas locales e internacionales del Xeneize, tanto en el amateurismo como en el profesionalismo.",
+     "id": "48219c0e9106"
+    },
+    {
+     "title": "Con Los Pumas, lo mejor que dejó la apasionante definición del Nations Championship",
+     "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNT09MMjdGdUlhcjhhdjE1a0NRRnNqTFVYbmRNZVFYT0wtdmlwM3QtTkx1c29mLWxJWE9JUUtJdXZuUWlramZCUXQ2b2pqbFE0cU42aVhQQm5RTThfSW9qTmhwTXRyenhYa3BtMzkzdFZhYi1IQXNEQkg5dm44QWV0RFRwbFgzenVrQVVHVF9GMkh1TU54eFUySU4yTF83SFc5QUdNN0Ewdk9zTFMxNnVocGdUalV2bi1TMWxqM0ItT0VQSk1xYTdObjlkSVZ2MXE5VVRyWmNOYWRxWlNVVkRfdmZLamZBRGN2cG90TVRwV0lwTzBDZzFtdVQ1MjlUOXVZSzRQQlVkdnBzdnJHOG1BdVhDWFQyTFNTNVhrZl9FeWtqOVkxT25VcnlNNTFwRlFFYzZqY25fLVBvMm8?oc=5",
+     "source": "ESPN Ecuador",
+     "published": "2026-11-22T02:15:01+00:00",
+     "id": "80a40e45b96b"
+    },
+    {
+     "title": "Nations Championship: Los Pumas dejaron un mala imagen en el cierre ante Francia en París",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYk9PNDF4VVBIbXNfNllfVDB5aUNvOW1XTDRPT2hfMVRiTFlsb3R3Qng1ZkNxbWo3VDRZUXJtbk9HN0RlcHlhWmRac0NHc2pHZ3RESk96Sm9ockR3ako2Nk1sMzZJOUM1NjV3Q3FIY2tUODRjbTB4OFcyOUJjVjlIellCZi1ZX3Q5RngyQWJRZWZvclNoMEVNWXFENHV1WWFQVzl1R3k1MWNwd193a2lpUm5vLUEtVTNaQTRMNGFrX3k1S1ZRRjQzbNIBzgFBVV95cUxOZGRsMkt4ejFabVhCaWF4MWpWMU1OMWl6cUg1STBDeWJLX0JyclZWZkZ3bXdlcEw3S2RiTzdNa01SY3kxYkVuMUMySzQzbUlsbWw2ZVptUjVhSmFmdVg3eTUwLUExSko3eUZiLVgtb0EydDhHcUZhZGQ1VGpOa1VsUWVkOGFyaEFqZGdwZXdpUDRVRURjT2lWWWNfbjFjN3F6OEFCdjJGNDFQTmllV0x6ZHhyWXFobG92Wk9USTY1ZXFvTHBXZjFadXVXdTdyQQ?oc=5",
+     "source": "La Capital",
+     "published": "2026-11-22T01:38:00+00:00",
+     "id": "9277ba7d5d45"
+    },
+    {
+     "title": "Así quedaron los cruces de la Finals Weekend del Nations Championship 2026",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaF8xaGdOaUQ4QTNOWV9FLVl3TTZXUmNQVTNpeWY2dndUVzlmVXlyTWV1RVIwUkJoU01FNHIzRFdZcHJYb0JLRENBWHQtc3FDbUF3WldHSy1Fbjl4ZUtTMnZPWkxldzkwdjVvS3I2Qnk0bklzV3hCNTNiNEdxUU5NaGNGQVd6RnQ4ZXI3enRacC1IUDNLUGgwY0NUZFdQaWxkT3U2VFZIU2Nlc3BDTUpYbUJ1cFM1Nk0?oc=5",
+     "source": "Prensa Libre Online",
+     "published": "2026-11-22T01:35:00+00:00",
+     "id": "7071fa982e42"
+    },
+    {
+     "title": "El mapa de la Sudamericana 2027: ocho seguros y 29 a la espera, entre ellos River y otros argentinos",
+     "link": "https://www.ole.com.ar/futbol-internacional/sudamericana/copa-sudamericana-2027-clasificados_0_uq06f9Mcrm.html",
      "source": "Olé — River",
-     "published": "2026-11-21T19:45:00+00:00",
-     "copete": "Sin Vera ni Moreno, ambos lesionados, Ponzio rearmará el círculo central con dos pibes en la búsqueda de la clasificación en el Monumental.",
-     "id": "f381722f91bd"
+     "published": "2026-11-22T00:47:45+00:00",
+     "copete": "Con Boca campeón, ya hay clasificados para la Copa del año que viene y muchos a la expectativa.",
+     "id": "ab48048de5e6"
     },
     {
-     "title": "El video de Alfonso Espino durante una práctica que generó más críticas de los hinchas de Racing",
-     "link": "https://www.ole.com.ar/racing/racing-estpino-predio-tita-matiussi_0_lfdVJgJPYk.html",
+     "title": "Cuándo festeja Boca en La Bombonera: con otra final a la vista, se viene Independiente Rivadavia por el Clausura",
+     "link": "https://www.ole.com.ar/futbol-primera/partido-boca-torneo-clausura-2026-octavos-final-independiente-rivadavia_0_KnDKFMmhpT.html",
      "source": "Olé — Primera",
-     "published": "2026-11-21T19:36:14+00:00",
-     "copete": "Separado del plantel por indisciplina, el defensor se entrena en el Predio Tita Mattiussi. Uno de sus ensayos se viralizó y causó entre burlas y enojo de los fanas de la Academia.",
-     "id": "05ee373aa14e"
+     "published": "2026-11-22T00:41:00+00:00",
+     "copete": "El equipo del Vasco Arruabarrena no tiene tiempo para festejar. Tras coronarse campeón de la Copa Sudamericana, el Xeneize tiene que jugar los octavos de final.",
+     "id": "ce0b3c3f2e81"
     },
     {
-     "title": "Miguel Barbieri, ex Racing: \"Me sorprendió que el hincha cambiara lo que funcionaba bien\"",
-     "link": "https://www.ole.com.ar/racing/racing-barbieri-blanco-milito_0_5WNHTu13OL.html",
+     "title": "Tras la Copa Sudamericana 2026, el uno por uno de los títulos de Boca: cuántos tiene y su récord histórico",
+     "link": "https://www.ole.com.ar/boca-juniors/copa-sudamericana-titulos-boca-historia_0_YImpYeMFrz.html",
      "source": "Olé — Primera",
-     "published": "2026-11-21T18:18:51+00:00",
-     "copete": "El defensor que pasó por la Academia entre 2016 y 2018 reveló que le generó sorpresa que la gestión que conducía Víctor Blanco perdiera las últimas elecciones con Milito.",
-     "id": "617abf00f041"
+     "published": "2026-11-22T00:36:00+00:00",
+     "copete": "Luego de coronarse campéon de la Tabla Anual de la Liga Profesional 2026, el equipo del Vasco Arruabarrena sumó una nueva estrella.",
+     "id": "0abc0acc10d2"
     },
     {
-     "title": "El pibe de River que podría tener su primera convocatoria ante Lanús",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-lanus-benjamin-rodriguez-clausura-lista-convocados_0_AUyqds9QTV.html",
-     "source": "Olé — River",
-     "published": "2026-11-21T18:04:33+00:00",
-     "copete": "El juvenil, que fue llevado por Ponzio a la ultima concentración especial en Pilar, aguarda por saber si será citado ante la ausencia de Montiel.",
-     "id": "fd229041b571"
-    },
-    {
-     "title": "El defensor que se fue de River y suma elogios en España: \"Dioselli para los creyentes del Getafe\"",
-     "link": "https://www.ole.com.ar/river-plate/river-plate-sebastian-boselli-getafe-jugador-mes_0_QZK4xX3eNe.html",
-     "source": "Olé — River",
-     "published": "2026-11-21T17:33:31+00:00",
-     "copete": "El futbolista fue vendido por el Millonario en el último mercado de pases y disfruta de un momento inmejorable en La Liga.",
-     "id": "153219e475d9"
-    },
-    {
-     "title": "El gran momento de un ex River en La Liga de España: hizo un gol y dio una asistencia top",
-     "link": "https://www.ole.com.ar/futbol-internacional/ex-river-figura-espana-gol-asistencia-top-video_0_YSPR6cgZzh.html",
-     "source": "Olé — River",
-     "published": "2026-11-21T16:29:19+00:00",
-     "copete": "Un delantero formado en el Millonario es una de las figuras del torneo español. Mirá los videos.",
-     "id": "46af03314936"
-    },
-    {
-     "title": "Grabado de casualidad: así fue el primer gol televisado de la historia en Argentina",
-     "link": "https://www.ole.com.ar/fuera-de-juego/sanlorenzo-riverplate-canal7-juandomingoperon_0_kj3mRMzr5W.html",
-     "source": "Olé — River",
-     "published": "2026-11-21T16:25:28+00:00",
-     "copete": "San Lorenzo y River se midieron en 1951 en el Viejo Gasómetro, en un duelo que marcó un hito para la industria audiovisual del país. El rol del papá de Andrea del Boca, el tanto de Maravilla y más...",
-     "id": "c59c5ebc3195"
-    },
-    {
-     "title": "Agustín Pichot fue elegido para integrar el Comité Ejecutivo de World Rugby",
-     "link": "https://uar.com.ar/agustin-pichot-fue-elegido-para-integrar-el-comite-ejecutivo-de-world-rugby/",
-     "source": "UAR",
-     "published": "2026-11-20T12:10:38+00:00",
-     "copete": "La Unión Argentina de Rugby felicita a Agustín Pichot por su elección como miembro del Comité Ejecutivo de World Rugby, en representación de las uniones de alto rendimiento del hemisferio sur. La elección se llevó a cabo este jueves 19 de…",
-     "id": "fee79d2e39a2"
-    },
-    {
-     "title": "Tala y Newman, dos campeones en busca de la corona nacional",
-     "link": "https://uar.com.ar/tala-y-newman-dos-campeones-en-busca-de-la-corona-nacional/",
-     "source": "UAR",
-     "published": "2026-11-19T19:22:02+00:00",
-     "copete": "Este sábado 21 de noviembre, desde las 19:40, la cancha de Tala será el escenario de la final del Nacional de Clubes Copa Universidad Siglo 21. El campeón del Torneo del Interior recibirá al bicampeón de la URBA y defensor del título, en…",
-     "id": "fa7d538cc4bc"
-    },
-    {
-     "title": "Los Pumas 7´s con plantel confirmado para iniciar una nueva temporada",
-     "link": "https://uar.com.ar/los-pumas-7s-con-plantel-confirmado-para-iniciar-una-nueva-temporada/",
-     "source": "UAR",
-     "published": "2026-11-19T17:48:56+00:00",
-     "copete": "Llenos de ilusión, Los Pumas 7´s están listos para comenzar la temporada 2026/27 del Circuito Mundial de Seven, que tendrá su puntapié inicial en Dubái el próximo 28 y 29 de noviembre. La primera gira será de más de dos semanas dado que a…",
-     "id": "ab5f09619b40"
+     "title": "Tras las nuevas estrellas de Boca, así quedó la tabla histórica de títulos del fútbol argentino",
+     "link": "https://www.ole.com.ar/futbol-primera/boca-ranking-historico-campeones-futbol-argentino-estrellas-titulos_0_BVJo4qVgG8.html",
+     "source": "Olé — Primera",
+     "published": "2026-11-22T00:29:00+00:00",
+     "copete": "El equipo del Vasco Arruabarrena no afloja y, luego de quedarse con la Tabla Anual, se coronó campeón de la Copa Sudamericana. Mirá quedó el ranking.",
+     "id": "ea5fc34ef2d0"
     }
    ]
   },
@@ -197,18 +221,12 @@
    "mode": "resumen",
    "items": [
     {
-     "title": "Inkling-2-Mini in 5.4 GB Memory",
-     "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-11-21T18:02:19+00:00",
-     "id": "c6e0f6fe1d32"
-    },
-    {
-     "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
-     "link": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-11-21T17:59:59+00:00",
-     "id": "c2f60c13cbe0"
+     "title": "Muru",
+     "link": "https://simonwillison.net/2026/Nov/21/muru/",
+     "source": "Simon Willison (IA)",
+     "published": "2026-11-21T23:56:28+00:00",
+     "copete": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools…",
+     "id": "0ceef4b235ec"
     },
     {
      "title": "How to Learn Supply Chain Analytics in 2027 with Claude Code",
@@ -217,20 +235,6 @@
      "published": "2026-11-21T15:00:00+00:00",
      "copete": "Each 5-minute case study pairs operational context, a problem statement, and documented code, so data scientists and non-coding planners learn together. The post How to Learn Supply Chain Analytics in 2027 with Claude Code appeared first…",
      "id": "228b94b928e1"
-    },
-    {
-     "title": "Lean verification of the Riemann Hypothesis",
-     "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-11-21T14:36:45+00:00",
-     "id": "de6a6b768afb"
-    },
-    {
-     "title": "Detonating a pile of lead azide",
-     "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-     "source": "Hacker News (100+ puntos)",
-     "published": "2026-11-21T13:23:14+00:00",
-     "id": "07a481fe6b0c"
     },
     {
      "title": "Censored vs. Truncated Regression in Python, Explained",
@@ -265,12 +269,28 @@
      "id": "dfcf45f75acf"
     },
     {
-     "title": "llm-gemini 0.38.1",
-     "link": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
-     "source": "Simon Willison (IA)",
-     "published": "2026-11-20T03:01:57+00:00",
-     "copete": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin…",
-     "id": "d63c6404d469"
+     "title": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026",
+     "link": "https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026",
+     "source": "KDnuggets",
+     "published": "2026-11-20T15:00:00+00:00",
+     "copete": "A practical guide to choosing between open-weight and commercial models, built around the four questions that actually determine the right answer for your use case.",
+     "id": "fc44f375d867"
+    },
+    {
+     "title": "Decision AI Explained in 5 Minutes",
+     "link": "https://www.kdnuggets.com/decision-ai-explained-in-5-minutes",
+     "source": "KDnuggets",
+     "published": "2026-11-20T13:00:00+00:00",
+     "copete": "Learn how decision models work, how they turn LLMs into faster decision-making systems, and how to run open-source alternatives locally.",
+     "id": "b8532afff5b8"
+    },
+    {
+     "title": "What I Learned From Kaggle + Google’s Free Agentic AI Course",
+     "link": "https://www.kdnuggets.com/what-i-learned-from-kaggle-googles-free-agentic-ai-course",
+     "source": "KDnuggets",
+     "published": "2026-11-19T15:00:00+00:00",
+     "copete": "Learn to build AI agents with Gemini and Google’s ADK through this free course, covering tools, memory, evaluation, and deployment.",
+     "id": "dbe11a777e87"
     }
    ]
   },
@@ -280,100 +300,99 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Los Pumas visitan a Francia en el cierre de la primera fase del Nations Championship",
-     "link": "https://www.infobae.com/deportes/2026/11/21/los-pumas-visitaran-a-francia-en-el-cierre-de-la-primera-fase-del-nations-championship/",
-     "source": "Infobae",
-     "published": "2026-11-21T20:30:50+00:00",
-     "copete": "El seleccionado argentino visitará el Stade de France tras vencer a Italia, con siete cambios en la formación titular, varias lesiones y un registro desfavorable ante el conjunto francés",
-     "id": "d81fd9f23b2c"
-    },
-    {
-     "title": "Los Pumas vs. Francia, en vivo, por la Nations Championship: el minuto a minuto del partido",
-     "link": "https://www.lanacion.com.ar/deportes/rugby/los-pumas-vs-francia-en-vivo-por-la-nations-championship-nid21112026/",
-     "source": "La Nación",
-     "published": "2026-11-21T20:29:39+00:00",
-     "copete": "La selección argentina juega con el equipo galo en el Stade de France de París, por la última fecha de la etapa de grupos",
-     "id": "a10454556635"
-    },
-    {
-     "title": "Boca Juniors va por la gloria en la final de la Copa Sudamericana ante Atlético Mineiro en Barranquilla: hora, TV y posibles formaciones",
+     "title": "Boca Juniors le ganó con autoridad a Atlético Mineiro y se consagró campeón de la Copa Sudamericana",
      "link": "https://www.infobae.com/deportes/2026/11/21/boca-juniors-va-por-la-gloria-en-la-final-de-la-copa-sudamericana-ante-atletico-mineiro-en-barranquilla-hora-tv-y-posibles-formaciones/",
      "source": "Infobae",
-     "published": "2026-11-21T20:28:36+00:00",
-     "copete": "Desde las 19:30, el Xeneize intentará cortar una racha de 18 años sin títulos internacionales",
+     "published": "2026-11-22T02:17:49+00:00",
+     "copete": "El Xeneize rompió una racha de 18 años sin títulos internacionales gracias a los goles de Santiago Ascacibar y Miguel Merentiel",
      "id": "92e2c1ad2782"
     },
     {
-     "title": "Argentinos Juniors e Independiente se enfrentan por los octavos de final del Torneo Clausura",
-     "link": "https://www.infobae.com/deportes/2026/11/21/argentinos-juniors-e-independiente-se-enfrentaran-por-los-octavos-de-final-del-torneo-clausura-hora-tv-y-posibles-formaciones/",
+     "title": "Capturan en Panamá a uno de los más buscados por pandillerismo agravado",
+     "link": "https://www.infobae.com/panama/2026/11/22/capturan-en-panama-a-uno-de-los-mas-buscados-por-pandillerismo-agravado/",
      "source": "Infobae",
-     "published": "2026-11-21T20:26:17+00:00",
-     "copete": "El Bicho recibirá en La Paternal al Rojo de Avellaneda en el arranque de los playoffs del certamen. Transmitirá TNT Sports desde las 17:00 horas",
-     "id": "2ac4fa576493"
+     "published": "2026-11-22T02:17:11+00:00",
+     "copete": "Joel Saldaña Hernández fue localizado en Las Garzas, en medio de un incremento de los homicidios vinculados a estas organizaciones criminales durante 2026.",
+     "id": "973680063a68"
     },
     {
-     "title": "El Salón de la Fama y un merecido reconocimiento a un símbolo histórico de los Pumas:  Héctor ‘Pochola’ Silva",
-     "link": "https://www.lanacion.com.ar/deportes/rugby/el-salon-de-la-fama-y-un-merecido-reconocimiento-a-un-simbolo-historico-de-los-pumas-hector-pochola-nid21112026/",
-     "source": "La Nación",
-     "published": "2026-11-21T20:23:31+00:00",
-     "copete": "Ex capitán y entrenador de la selección, es el quinto argentino en obtener tal honor, que ya ostentaban Hugo Porta, Agustín Pichot, Felipe Contepomi y Juan Martín Hernández",
-     "id": "840b2cb0f6b8"
-    },
-    {
-     "title": "Tras las victorias de Vélez y Barracas Central, así está el cuadro de cuartos de final del Torneo Clausura",
-     "link": "https://www.infobae.com/deportes/2026/11/21/tras-las-victorias-de-velez-y-barracas-central-asi-esta-el-cuadro-de-cuartos-de-final-del-torneo-clausura/",
+     "title": "Tribunal fija el 24 de noviembre para colocar el brazalete electrónico a exvicepresidenta de Guatemala Roxana Baldetti",
+     "link": "https://www.infobae.com/guatemala/2026/11/22/tribunal-fija-el-24-de-noviembre-para-colocar-el-brazalete-electronico-a-exvicepresidenta-de-guatemala-roxana-baldetti/",
      "source": "Infobae",
-     "published": "2026-11-21T20:21:40+00:00",
-     "copete": "Este sábado continuarán los playoffs que definirán al campeón del segundo semestre de la Primera División",
-     "id": "5c98b22116cf"
+     "published": "2026-11-22T02:16:57+00:00",
+     "copete": "La diligencia corresponde al expediente Cooptación del Estado, donde la exvicepresidenta permanece en prisión preventiva sin opción de medidas sustitutivas y regresó a su domicilio bajo custodia penitenciaria tras recibir atención…",
+     "id": "83d5a78853af"
     },
     {
-     "title": "Murió Paolo Bulgari, el empresario que convirtió a la joyería italiana en un símbolo de lujo mundial",
-     "link": "https://www.lanacion.com.ar/el-mundo/murio-paolo-bulgari-el-empresario-que-convirtio-a-la-joyeria-italiana-en-un-simbolo-de-lujo-mundial-nid21112026/",
-     "source": "La Nación",
-     "published": "2026-11-21T20:21:00+00:00",
-     "copete": "La noticia fue confirmada por su familia; era el nieto del fundador de la compañía y presidente del Grupo Bvlgari desde 1984",
-     "id": "e201edad61eb"
-    },
-    {
-     "title": "Barracas Central le ganó 1-0 a Defensa y Justicia y avanzó a los cuartos de final del Torneo Clausura",
-     "link": "https://www.infobae.com/deportes/2026/11/21/defensa-y-justicia-y-barracas-pujaran-por-un-lugar-en-los-cuartos-de-final-del-torneo-clausura-hora-tv-y-formacione/",
+     "title": "Cristofascismo en Nicaragua: Rosario Murillo busca controlar a los obispos mediante presiones y marginación de exiliados",
+     "link": "https://www.infobae.com/nicaragua/2026/11/22/cristofascismo-en-nicaragua-rosario-murillo-busca-controlar-a-los-obispos-mediante-presiones-y-marginacion-de-exiliados/",
      "source": "Infobae",
-     "published": "2026-11-21T20:20:27+00:00",
-     "copete": "El Guapo se impuso con un gol de Briasco y se medirá en la siguiente instancia al ganador de la llave entre Rosario Central y Gimnasia de Mendoza",
-     "id": "e22fc7524063"
+     "published": "2026-11-22T02:16:14+00:00",
+     "copete": "El sacerdote Rafael Aragón denunció que el régimen pretende dirigir la vida eclesial desde Nicaragua, mientras cuatro prelados fuera del país quedaron apartados de la renovación de la Conferencia Episcopal",
+     "id": "59ea1dc0fc1d"
     },
     {
-     "title": "Barracas Central jugó un gran primer tiempo y le ganó a Defensa y Justicia con un gol de Briasco",
-     "link": "https://www.lanacion.com.ar/deportes/futbol/barracas-central-jugo-un-gran-primer-tiempo-y-le-gano-a-defensa-y-justicia-con-un-gol-de-briasco-nid21112026/",
+     "title": "La emoción de Leandro Paredes luego de ganar la Copa Sudamericana con Boca: “Cumplí un sueño”",
+     "link": "https://www.lanacion.com.ar/deportes/la-emocion-de-leandro-paredes-luego-de-ganar-la-copa-sudamericana-con-boca-cumpli-un-sueno-nid21112026/",
      "source": "La Nación",
-     "published": "2026-11-21T20:16:43+00:00",
-     "copete": "En Florencio Varela, el Guapo se impuso por 1-0 y ahora se medirá en los cuartos de final del Clausura con el vencedor de Rosario Central y Gimnasia de Mendoza",
-     "id": "cc193f7057e7"
+     "published": "2026-11-22T02:15:56+00:00",
+     "copete": "El capitán xeneize expresó su felicidad después de la victoria por 2 a 0 ante Atlético Mineiro; “Desde el día en que me tocó irme soñaba con esto”, señaló",
+     "id": "7c9f0f7e779b"
     },
     {
-     "title": "La insólita explicación del comerciante chino detenido por abusar dentro de un supermercado al hijo de un empleado",
-     "link": "https://www.lanacion.com.ar/seguridad/que-dijo-el-comerciante-chino-detenido-por-abusar-dentro-de-un-supermercado-del-hijo-de-un-empleado-nid21112026/",
+     "title": "Leandro Paredes se descompensó en medio de una entrevista tras ganar la Copa Sudamericana con Boca Juniors en Barranquilla",
+     "link": "https://www.infobae.com/deportes/2026/11/22/leandro-paredes-se-descompenso-en-medio-de-una-entrevista-tras-ganar-la-copa-sudamericana-con-boca-juniors-en-barranquilla/",
+     "source": "Infobae",
+     "published": "2026-11-22T02:14:34+00:00",
+     "id": "2f77d2b90b77"
+    },
+    {
+     "title": "Leandro Paredes se desmayó en plena entrevista tras la consagración de Boca en la Sudamericana",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/leandro-paredes-se-desmayo-en-plena-entrevista-tras-la-consagracion-de-boca-en-la-sudamericana-nid21112026/",
      "source": "La Nación",
-     "published": "2026-11-21T20:13:20+00:00",
-     "copete": "Zheng Xidi, comerciante de Tigre, fue indagado por la fiscal Mariela Miozzo, a cargo de la investigación; el local fue saqueado",
-     "id": "793369096363"
+     "published": "2026-11-22T02:09:47+00:00",
+     "copete": "El mediocampista estaba dando una nota en vivo luego del triunfo ante Atlético Mineiro cuando sufrió una descompensación; el episodio ocurrió tras festejos por un nuevo título internacional del club",
+     "id": "ee111d72e91a"
     },
     {
-     "title": "Luck Ra sumó a una doble de La Joaqui en su nuevo videoclip y generó controversia en redes",
-     "link": "https://www.clarin.com/fama/luck-ra-sumo-doble-joaqui-nuevo-videoclip-genero-controversia-redes_0_NGJTJHgUNT.html",
+     "title": "Boca ganó la Sudamericana y lo festejan otros equipos argentinos rumbo a 2027",
+     "link": "https://www.lanacion.com.ar/deportes/futbol/boca-gano-la-sudamericana-y-lo-festejan-otros-equipos-argentinos-rumbo-a-2027-nid21112026/",
+     "source": "La Nación",
+     "published": "2026-11-22T02:07:03+00:00",
+     "copete": "El trofeo sudamericano del conjunto xeneize les abre las puertas a varios equipos que jugarán torneos internacionales el año próximo",
+     "id": "a88fe6211cfd"
+    },
+    {
+     "title": "Nacional de Clubes: Tala cumplió su largo anhelo y se quedó con la triple corona",
+     "link": "https://www.lanacion.com.ar/deportes/rugby/nacional-de-clubes-tala-cumplio-su-largo-anhelo-y-se-quedo-con-la-triple-corona-nid21112026/",
+     "source": "La Nación",
+     "published": "2026-11-22T02:06:25+00:00",
+     "copete": "En su cancha, el equipo cordobés derrotó por 25-22 a Newman, campeón de URBA, y conquistó el torneo que corona al mejor del país",
+     "id": "6e7990bd7938"
+    },
+    {
+     "title": "De los nervios al delirio en Barranquilla: los mejores memes de la consagración de Boca en la Copa Sudamericana",
+     "link": "https://www.lanacion.com.ar/deportes/de-los-nervios-al-delirio-en-barranquilla-los-mejores-memes-de-la-consagracion-de-boca-en-la-copa-nid21112026/",
+     "source": "La Nación",
+     "published": "2026-11-22T01:57:53+00:00",
+     "copete": "Con goles de Santiago Ascacibar y Miguel Merentiel, el Xeneize venció 2-0 a Atlético Mineiro en Barranquilla y cortó una sequía internacional de 18 años; las redes sociales explotaron con reacciones, cargadas y divertidos memes de festejo",
+     "id": "4a3bacee2e3f"
+    },
+    {
+     "title": "Copa Sudamericana: Boca jugó una final perfecta, le hizo precio al Atlético Mineiro y gritó campeón en Barranquilla",
+     "link": "https://www.clarin.com/deportes/copa-sudamericana-boca-jugo-final-perfecta-hizo-precio-atletico-mineiro-grito-campeon-barranquilla_0_2jXflrdDv5.html",
      "source": "Clarín",
-     "published": "2026-11-21T19:26:30+00:00",
-     "copete": "Ocurrió luego de que el cordobés compartiera un fragmento de la producción audiovisual con sus fanáticos. El cantante lanzó Me extrañaras (Remix) con Papichamp y BM, a tres meses y medio de la separación.",
-     "id": "1ba0dfe11677"
+     "published": "2026-11-22T01:27:23+00:00",
+     "copete": "Ascacibar y Merentiel, los autores de los goles en el equipo de Arruabarrena. Paredes dejó todo y tuvo que pedir el cambio en la segunda mitad. El club de La Ribera rompió una sequía de 18 años sin títulos internacionales.",
+     "id": "30cb7151a5c5"
     },
     {
-     "title": "Trump ordena a contratistas federales que consulten a la Casa Blanca antes de responder al Congreso",
-     "link": "https://www.clarin.com/estados-unidos/trump-ordena-a-contratistas-federales-que-consulten-a-la-casa-blanca-antes-de-responder-al-congreso_0_H4isj0XNSW.html",
+     "title": "Los hinchas de Boca ya festejan en el Obelisco tras la consagración en la Copa Sudamericana",
+     "link": "https://www.clarin.com/deportes/hinchas-boca-festejan-obelisco-consagracion-copa-sudamericana_0_suaIKD3hXo.html",
      "source": "Clarín",
-     "published": "2026-11-21T19:20:07+00:00",
-     "copete": "Trump ordena a contratistas federales coordinar con su gobierno antes de responder al Congreso, buscando proteger secretos del Ejecutivo. La medida busca frenar investigaciones demócratas sobre contratos vinculados a su familia…",
-     "id": "15391ba1a3cd"
+     "published": "2026-11-22T01:22:04+00:00",
+     "copete": "Los simpatizantes xeneizes se juntan en Corrientes y 9 de Julio para festejar el primer campeonato internacional en 18 años. Hay demoras en el tránsito.",
+     "id": "0b561511f939"
     }
    ]
   },
@@ -383,27 +402,51 @@
    "mode": "titulares",
    "items": [
     {
-     "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-     "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+     "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+     "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-11-21T19:33:49+00:00",
-     "copete": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-     "id": "040c95d5f039"
+     "published": "2026-11-22T01:25:03+00:00",
+     "copete": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+     "id": "48f549e40ad0"
     },
     {
-     "title": "Russia-bound ship attacked in Gulf of Finland",
-     "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+     "title": "FBI reportedly investigating apparent hack of its criminal database",
+     "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
      "source": "BBC World",
-     "published": "2026-11-21T19:20:22+00:00",
-     "copete": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-     "id": "86c4e817690b"
+     "published": "2026-11-22T00:10:44+00:00",
+     "copete": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+     "id": "45201d2fd35b"
     },
     {
-     "title": "Jair Bolsonaro, ingresado en cuidados intensivos y sin previsión de alta, pero estable",
+     "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+     "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-22T00:10:37+00:00",
+     "copete": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+     "id": "67c31da8ce5f"
+    },
+    {
+     "title": "How a teen gamer and his mother helped rescue a missing girl",
+     "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "published": "2026-11-22T00:09:58+00:00",
+     "copete": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+     "id": "cca80141b2d3"
+    },
+    {
+     "title": "Kate Middleton habla abiertamente sobre cómo el cáncer cambió su vida en un documental de la BBC",
+     "link": "https://www.bbc.com/mundo/articles/c6gregq1xynwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Mundo",
+     "published": "2026-11-21T22:57:24+00:00",
+     "copete": "\"Hay una faceta mucho, mucho más profunda de cómo un cáncer te cambia\", dice la Princesa de Gales en el documental.",
+     "id": "f272a682a965"
+    },
+    {
+     "title": "Jair Bolsonaro, ingresado en cuidados intensivos y sin previsión de alta",
      "link": "https://elpais.com/internacional/2026-11-21/jair-bolsonaro-ingresado-en-cuidados-intensivos-y-sin-prevision-de-alta-pero-estable.html",
      "source": "El País Internacional",
      "published": "2026-11-21T19:18:07+00:00",
-     "copete": "El expresidente brasileño se encuentra en un hospital de Brasilia por una obstrucción abdominal",
+     "copete": "El expresidente brasileño se encuentra estable en un hospital de Brasilia por una obstrucción abdominal",
      "id": "e97a7940c821"
     },
     {
@@ -431,46 +474,17 @@
      "id": "e73f542e923a"
     },
     {
-     "title": "FBI reportedly investigating apparent hack of its criminal database",
-     "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "published": "2026-11-21T16:35:15+00:00",
-     "copete": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-     "id": "45201d2fd35b"
-    },
-    {
      "title": "Las infraestructuras se convierten en el gran flanco débil de Occidente",
      "link": "https://elpais.com/internacional/2026-11-21/las-infraestructuras-se-convierten-en-el-gran-flanco-debil-de-occidente.html",
      "source": "El País Internacional",
      "published": "2026-11-21T16:13:51+00:00",
      "copete": "La concatenación de fallos, sabotajes y ciberataques obliga a Europa y a EE UU a reaccionar y aflojar la chequera para actualizar unos sistemas diseñados para el mundo analógico",
      "id": "507539dcf3cc"
-    },
-    {
-     "title": "¿Qué pasa si Google y Microsoft caen a la vez? La economía mundial se ha hipotecado con un puñado de servidores",
-     "link": "https://elpais.com/internacional/2026-11-21/que-pasa-si-google-y-microsoft-caen-a-la-vez-la-economia-mundial-se-ha-hipotecado-con-un-punado-de-servidores.html",
-     "source": "El País Internacional",
-     "published": "2026-11-21T16:11:25+00:00",
-     "copete": "Solo tres compañías controlan el 70% del mercado de operadores de la nube en Europa. Los expertos alertan de la extrema dependencia de servicios interconectados entre sí y sin suficientes cortafuegos",
-     "id": "2811dcdd6a0c"
-    },
-    {
-     "title": "\"Los asesinatos se convirtieron en ficción\": cómo la prensa sensacionalista del siglo XIX creó el mito de Jack el Destripador",
-     "link": "https://www.bbc.com/mundo/articles/cme3dv15kpxqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Mundo",
-     "published": "2026-11-21T13:58:32+00:00",
-     "copete": "Los crímenes ocurrieron en una Londres marcada por el nacimiento de la prensa amarillista, los pasquines con historias macabras y las novelas de misterio.",
-     "id": "7a3b492c11b1"
     }
    ]
   }
  ],
  "_errors": [
-  {
-   "section": "cardiologia",
-   "feed": "Cardiology Trials",
-   "error": "HTTP Error 403: Forbidden"
-  },
   {
    "section": "cardiologia",
    "feed": "Circulation (PubMed)",
@@ -482,9 +496,14 @@
    "error": "HTTP Error 429: Too Many Requests"
   },
   {
+   "section": "deportes",
+   "feed": "UAR",
+   "error": "<urlopen error timed out>"
+  },
+  {
    "section": "ciencia_datos",
-   "feed": "KDnuggets",
-   "error": "HTTP Error 403: Forbidden"
+   "feed": "Hacker News (100+ puntos)",
+   "error": "<urlopen error timed out>"
   },
   {
    "section": "ciencia_datos",

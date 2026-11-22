@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T10:04:30Z",
+  "generated_at": "2026-11-22T22:04:51Z",
   "summaries": {
     "97eff5851098": {
       "resumen": "Un estudio comparó la interpretación de ecocardiogramas asistida por inteligencia artificial (AI-Echo) con la lectura de cardiólogos clínicos, y encontró un desempeño comparable entre ambos. Vale la pena mirarlo porque la automatización de la lectura ecocardiográfica podría agilizar el diagnóstico y aliviar la carga de los laboratorios de ecocardiografía.",
@@ -45,56 +45,56 @@
       "resumen": "Simon Willison cita a Levent Alpöge, quien afirma haber encontrado, trabajando junto con Claude (un modelo de inteligencia artificial de Anthropic), una demostración de la Hipótesis de Riemann y, por extensión, de su versión generalizada. Le sirve a un médico que aprende análisis de datos como ejemplo llamativo —y todavía no confirmado— de cómo la inteligencia artificial empieza a usarse como colaboradora en investigación matemática de alto nivel.",
       "destacado": false
     },
-    "dfcf45f75acf": {
-      "resumen": "Un experimento de 48 horas con el sistema de bicicletas compartidas Capital Bikeshare compara LightGBM, XGBoost, Ridge, SARIMA y Prophet (distintos algoritmos y modelos de pronóstico) contra un simple promedio de las últimas cuatro semanas, cuidando los datos faltantes y la fuga de información (leakage) entre entrenamiento y prueba. Le sirve a un médico que aprende análisis de datos porque muestra, con un caso concreto, que los modelos complejos no siempre superan a una referencia simple y bien construida, una lección clave antes de complicarse con modelos sofisticados.",
-      "destacado": true
-    },
     "7b21745d0155": {
       "resumen": "TCTMD reporta los resultados del estudio SYNCHRONIZE-CVOT (ensayo de desenlaces cardiovasculares, cardiovascular outcomes trial), que respalda la seguridad cardiovascular de survodutide, un agonista dual de los receptores de GLP-1 (glucagon-like peptide-1) y de glucagón usado para tratar la obesidad y la diabetes. Vale la pena mirarlo porque los CVOT son el estándar regulatorio para confirmar que los fármacos metabólicos no aumentan el riesgo cardiovascular.",
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico de seguridad cardiovascular (SYNCHRONIZE-CVOT); el título no precisa aleatorización, cegamiento, número de centros ni de pacientes sin acceso al abstract.\nPoblación: Probablemente pacientes con obesidad y/o diabetes tipo 2 con riesgo cardiovascular elevado, candidatos a tratamiento con survodutide (agonista dual GLP-1/glucagón).\nIntervención: Survodutide frente a placebo, diseño habitual de los CVOT para evaluar eventos cardiovasculares mayores.\nResultados: El título indica que el estudio \"respalda la seguridad cardiovascular\" del fármaco, pero no hay razón de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el margen de no inferioridad preespecificado ni la duración del seguimiento.\nMensaje: De confirmarse, sumaría otro agonista dual GLP-1/glucagón a la lista de fármacos metabólicos con perfil cardiovascular seguro, en línea con lo ya mostrado por otros agonistas de GLP-1.\nNota: análisis sin acceso al abstract."
     },
-    "94d34dafcf99": {
-      "resumen": "TCTMD reporta un análisis de los datos del registro/ensayo BCIS-3 (British Cardiovascular Intervention Society) que explora el rol de la lesión miocárdica periprocedimiento (daño al miocardio durante la angioplastia) en los resultados de pacientes con PCI compleja (CHIP, complex and high-risk indicated procedures). Vale la pena mirarlo porque identificar qué grado de lesión miocárdica durante el procedimiento predice peor pronóstico podría ayudar a decidir cuándo usar soporte circulatorio mecánico en angioplastias de alto riesgo.",
-      "destacado": false,
-      "analisis": "Diseño: Análisis de datos del registro/ensayo BCIS-3 (British Cardiovascular Intervention Society) centrado en pacientes con angioplastia coronaria compleja (CHIP, complex and high-risk indicated procedures); el título no precisa si es un análisis secundario preespecificado, el número de centros ni de pacientes incluidos.\nPoblación: Pacientes sometidos a intervención coronaria percutánea (PCI) compleja o de alto riesgo (CHIP), población característica de los estudios BCIS-3.\nIntervención: No se compara una intervención terapéutica puntual, sino que se analiza la asociación entre el grado de lesión miocárdica periprocedimiento (elevación de biomarcadores tras la angioplastia) y los resultados clínicos.\nResultados: El título indica que estos datos \"arrojan luz\" sobre el rol de la lesión miocárdica en los resultados, pero no hay cifras de incidencia, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, la definición de lesión miocárdica utilizada ni el tiempo de seguimiento para los eventos clínicos.\nMensaje: Podría ayudar a identificar qué pacientes se benefician más del soporte circulatorio mecánico durante la angioplastia compleja según el riesgo de daño miocárdico periprocedimiento, aunque la aplicación práctica requiere revisar el texto completo.\nNota: análisis sin acceso al abstract."
-    },
     "228b94b928e1": {
       "resumen": "Towards Data Science explica cómo aprender análisis de cadena de suministro (supply chain analytics) usando Claude Code, el asistente de inteligencia artificial para programar de Anthropic, como herramienta de aprendizaje práctico. Le sirve a un médico que está dando sus primeros pasos en el análisis de datos porque muestra un método concreto -aprender haciendo, con IA como tutor de código- que es trasladable a cualquier dominio, incluida la farmacovigilancia.",
-      "destacado": false
-    },
-    "b91aec94334c": {
-      "resumen": "Towards Data Science explica, con ejemplos en Python, la diferencia entre regresión censurada y regresión truncada (dos formas de modelar datos incompletos cuando algunos valores quedan por fuera de un rango observable). Le sirve mucho a un médico que aprende análisis de datos porque estos modelos son centrales en bioestadística, por ejemplo al analizar tiempos de supervivencia o datos de laboratorio con límites de detección.",
-      "destacado": false
-    },
-    "9212cb3d4e2e": {
-      "resumen": "Toyota, Nissan y Honda acordaron estandarizar piezas entre sus modelos para reducir costos de fabricación, una respuesta típica de la industria automotriz a la presión de precios. No es ciencia de datos en sentido estricto, pero ilustra cómo la estandarización de procesos y componentes -la misma lógica que se aplica para unificar fuentes de datos dispares- permite ganar eficiencia a gran escala.",
-      "destacado": false
-    },
-    "7893687ce631": {
-      "resumen": "OpenRouter, un servicio que enruta pedidos entre distintos proveedores de inferencia de modelos de inteligencia artificial, publicó un repaso de incidentes de procesamiento de datos ocurridos en esos proveedores (fallas, facturación incorrecta o respuestas corruptas). Le sirve a quien usa inteligencia artificial para analizar datos porque recuerda que la infraestructura detrás de los modelos también falla, y conviene auditar la calidad de las respuestas igual que se auditan los datos de entrada.",
-      "destacado": false
-    },
-    "c4a226a4ddc4": {
-      "resumen": "Un proyecto lúdico (stulle.app) que simula armar sándwiches de forma interactiva, sin relación directa con el análisis de datos. Vale como curiosidad dentro de la comunidad de Hacker News, más que como aporte concreto para quien estudia ciencia de datos.",
       "destacado": false
     },
     "0ceef4b235ec": {
       "resumen": "Simon Willison repasa Muru, un nuevo servidor en Rust asistido por inteligencia artificial que desarrolló Graham Dumpleton -creador de mod_wsgi hace 20 años- para mejorar cómo se sirven aplicaciones web de Python en producción. Le sirve a un médico que aprende análisis de datos porque muestra cómo la inteligencia artificial ya ayuda a reescribir herramientas clásicas de infraestructura, el tipo de software que sostiene por detrás cualquier panel o aplicación de datos.",
       "destacado": false
     },
-    "cfc547c2291f": {
-      "resumen": "PcapAnalyzer es una herramienta autoalojada (self-hosted) para analizar archivos pcap (capturas de tráfico de red) con 27 detectores de problemas automáticos. Le sirve a quien aprende análisis de datos como ejemplo de detección automatizada de anomalías aplicada a un dominio distinto -el tráfico de red-, con una lógica de reglas y alertas trasladable a otros tipos de datos.",
+    "d96193ce42c1": {
+      "resumen": "El estudio DUOTAP sugiere que aplicar más posdilatación (reinflar el balón después de liberar la válvula) durante el implante percutáneo de válvula aórtica (TAVI, transcatheter aortic valve implantation) podría mejorar el resultado del procedimiento. Vale la pena mirarlo porque la posdilatación es una maniobra sencilla, disponible en cualquier sala de hemodinamia, y definir cuándo conviene usarla con más frecuencia podría reducir las fugas paravalvulares sin agregar riesgo.",
+      "destacado": false,
+      "analisis": "Diseño: Estudio DUOTAP sobre una estrategia de posdilatación durante el implante percutáneo de válvula aórtica (TAVI); el título no precisa si es aleatorizado, el tipo de cegamiento, ni el número de centros o de pacientes.\nPoblación: Pacientes sometidos a TAVI, probablemente con fuga paravalvular residual o riesgo de ella tras el despliegue de la válvula.\nIntervención: Posdilatación más sistemática o agresiva (reinflado del balón) tras el implante, frente a la conducta habitual más conservadora.\nResultados: El título indica que el estudio \"hace el caso\" a favor de más posdilatación, pero no hay cifras de reducción de fuga paravalvular, complicaciones vasculares ni necesidad de marcapasos disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el tipo de válvula utilizada ni el riesgo de complicaciones asociadas a la posdilatación, como rotura anular o accidente cerebrovascular.\nMensaje: De confirmarse, podría respaldar un uso más liberal de la posdilatación para optimizar el resultado hemodinámico del TAVI, aunque el balance con el riesgo de complicaciones requiere revisar el texto completo.\nNota: análisis sin acceso al abstract."
+    },
+    "a44085bf106c": {
+      "resumen": "Towards Data Science repasa los cuatro tipos clásicos de analítica de datos (descriptiva, diagnóstica, predictiva y prescriptiva) y cómo la inteligencia artificial está transformando cada uno de ellos. Le sirve a un médico que aprende análisis de datos porque ordena el mapa conceptual del campo y muestra dónde la inteligencia artificial ya aporta más valor, por ejemplo acelerando el paso de la analítica descriptiva a la predictiva.",
+      "destacado": true
+    },
+    "3c4f4993adca": {
+      "resumen": "En Hacker News, un desarrollador presenta un juego en el que el jugador actúa como subagente de un modelo de lenguaje (LLM, large language model), recibiendo instrucciones y reportando resultados como lo haría un agente de inteligencia artificial. Le sirve a quien aprende análisis de datos como forma lúdica de entender, desde adentro, cómo se coordinan los sistemas multiagente que hoy se usan para automatizar tareas de datos.",
       "destacado": false
     },
-    "1febf013e58b": {
-      "resumen": "Héctor \"Pochola\" Silva, exjugador histórico de Los Pumas, ingresó al Salón de la Fama de World Rugby."
+    "3400785e0033": {
+      "resumen": "Este posteo de Hacker News plantea una estrategia de optimización llamada \"Fast-Anything\": en vez de reescribir todo un programa lento en un lenguaje más rápido como Rust, conviene identificar y reescribir solo el 5% del código que realmente consume el tiempo de ejecución. Le sirve a un médico que aprende análisis de datos porque es un principio práctico de optimización -perfilar antes de optimizar- aplicable a cualquier script o pipeline de datos que corra lento.",
+      "destacado": false
     },
-    "35ce1a7e25b7": {
-      "resumen": "Los Pumas cayeron ante Francia en París, en un nuevo test match de la ventana internacional de noviembre."
+    "1af69c1d71f9": {
+      "resumen": "Towards Data Science explica RANSAC (Random Sample Consensus), un algoritmo clásico que ajusta modelos robustos descartando datos atípicos (outliers), aplicado aquí al emparejamiento de características entre imágenes. Le sirve a un médico que aprende análisis de datos porque RANSAC es una herramienta fundamental para construir modelos que no se dejen engañar por datos erróneos o ruido, un problema frecuente en bases de datos clínicas reales.",
+      "destacado": false
     },
-    "7cd901083739": {
-      "resumen": "Australia le ganó a Gales y escaló en la tabla del Nations Championship, dejando a Los Pumas con un nuevo rival de cara a la definición del certamen."
+    "2d5462888352": {
+      "resumen": "Hacker News discute la creación de la Open Social Web Alliance, una iniciativa para promover estándares abiertos e interoperables entre redes sociales descentralizadas. Le sirve a quien aprende análisis de datos como ejemplo de por qué los estándares abiertos de datos facilitan el acceso y el análisis de información, en contraposición a los sistemas cerrados y propietarios.",
+      "destacado": false
+    },
+    "bf1d56f79e08": {
+      "resumen": "Un posteo de Hacker News señala que, según proyecciones, el 87% de la energía que consumirá Anthropic (la empresa que desarrolla los modelos Claude) en 2028 provendrá de gas natural y un 11% de carbón. Le sirve a un médico que aprende análisis de datos porque recuerda que entrenar y usar modelos de inteligencia artificial a gran escala tiene un costo energético real, un dato relevante al evaluar la sustentabilidad de estas herramientas.",
+      "destacado": false
+    },
+    "a6c02c47ebb8": {
+      "resumen": "Un episodio insólito obligó a detener ocho minutos el partido entre Francia y Los Pumas."
+    },
+    "6b9c8a2620b9": {
+      "resumen": "El head coach de Los Pumas habló tras la derrota ante Francia y bajó el tono a las críticas sobre el equipo."
+    },
+    "5cae4cbc6314": {
+      "resumen": "Los Pumas perdieron ante Francia en la ventana de test matches de noviembre."
     }
   }
 }

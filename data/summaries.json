@@ -1,10 +1,61 @@
 {
-  "generated_at": "2026-11-23T10:04:39Z",
+  "generated_at": "2026-11-23T20:30:00Z",
   "summaries": {
-    "97eff5851098": {
-      "resumen": "Un estudio comparó la interpretación de ecocardiogramas asistida por inteligencia artificial (AI-Echo) con la lectura de cardiólogos clínicos, y encontró un desempeño comparable entre ambos. Vale la pena mirarlo porque la automatización de la lectura ecocardiográfica podría agilizar el diagnóstico y aliviar la carga de los laboratorios de ecocardiografía.",
+    "e0b08a4e0f72": {
+      "resumen": "TCTMD reporta un estudio de implementación que muestra resultados prometedores para un programa coordinado de prevención cardiovascular, orientado a abordar de forma integral los factores de riesgo de los pacientes. Vale la pena mirarlo porque los programas coordinados y multidisciplinarios son una estrategia cada vez más usada para mejorar la adherencia y el control de los factores de riesgo cardiovascular en la práctica real.",
       "destacado": false,
-      "analisis": "Diseño: Estudio de validación/comparación de desempeño diagnóstico entre un sistema de inteligencia artificial para ecocardiografía (AI-Echo) y cardiólogos clínicos intérpretes; el título no precisa si fue prospectivo, el número de centros ni de pacientes o estudios evaluados.\nPoblación: Pacientes o estudios ecocardiográficos interpretados en paralelo por el sistema de IA y por médicos clínicos; el contexto clínico específico no se detalla en el título.\nIntervención: Interpretación automatizada de ecocardiogramas mediante inteligencia artificial, comparada con la interpretación realizada por cardiólogos clínicos.\nResultados: El título indica que el desempeño de la IA \"se mantiene bien\" frente a los intérpretes clínicos, pero no hay cifras de concordancia, sensibilidad, especificidad ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el estándar de referencia usado para juzgar la exactitud diagnóstica, ni si se analizaron subgrupos de patologías específicas.\nMensaje: De confirmarse con el texto completo, respalda usar la IA como apoyo (no reemplazo) en la lectura ecocardiográfica, lo que podría optimizar tiempos en laboratorios de ecocardiografía con alta demanda.\nNota: análisis sin acceso al abstract."
+      "analisis": "Diseño: Parece un estudio de registro o de implementación (quality improvement) que evaluó un programa coordinado de prevención cardiovascular; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con factores de riesgo cardiovascular incluidos en dicho programa; el título no detalla criterios de inclusión o exclusión.\nIntervención: Un programa coordinado (probablemente multidisciplinario, con seguimiento estructurado) de prevención cardiovascular, frente a la atención habitual sin ese programa.\nResultados: El título indica que el programa \"muestra promesa\" para abordar los factores de riesgo, pero no hay cifras de reducción de presión arterial, lípidos, glucemia u otros parámetros, ni razones de riesgo o intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, si hubo grupo comparador concurrente, ni el seguimiento clínico alcanzado.\nMensaje: De confirmarse con el texto completo, respaldaría el valor de los programas coordinados y multidisciplinarios para mejorar el control de los factores de riesgo cardiovascular en la práctica diaria.\nNota: análisis sin acceso al abstract."
+    },
+    "ed3483826780": {
+      "resumen": "TCTMD difunde los resultados top-line (preliminares) del ensayo ORION-4, que muestran que inclisirán -un inhibidor de PCSK9 basado en ARN de interferencia (siRNA), de administración subcutánea cada seis meses aproximadamente- reduciría los eventos cardiovasculares adversos mayores (MACE, major adverse cardiovascular events) en pacientes con enfermedad aterosclerótica cardiovascular (ASCVD, atherosclerotic cardiovascular disease) establecida. Vale la pena mirarlo porque sería de los primeros grandes ensayos que muestran para inclisirán una reducción de eventos duros, y no solo del colesterol LDL (lipoproteína de baja densidad).",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico de grandes dimensiones (ORION-4); al tratarse de resultados \"top-line\" (preliminares, tipo anuncio de prensa), el título no precisa aleatorización, cegamiento, número de centros ni de pacientes exactos.\nPoblación: Pacientes con enfermedad aterosclerótica cardiovascular (ASCVD) ya establecida.\nIntervención: Inclisirán (inhibidor de PCSK9 mediante ARN de interferencia) frente a placebo o tratamiento estándar, sumado al manejo habitual del colesterol.\nResultados: El título anuncia una reducción de MACE (eventos cardiovasculares adversos mayores) con inclisirán, pero por tratarse de un top-line no hay razón de riesgo, intervalo de confianza ni valor de p disponibles sin el reporte completo o el abstract.\nLimitaciones: Los resultados top-line suelen adelantarse en prensa sin el detalle estadístico completo; falta conocer el tamaño muestral definitivo, la duración del seguimiento y el perfil de seguridad.\nMensaje: De confirmarse en la publicación completa, sumaría a inclisirán evidencia de reducción de eventos cardiovasculares duros, lo que reforzaría su rol en la prevención secundaria más allá del simple descenso del LDL.\nNota: análisis sin acceso al abstract."
+    },
+    "49d4438c8d10": {
+      "resumen": "Cardiology Trials repasa el ensayo histórico SPAF-III (Stroke Prevention in Atrial Fibrillation III, Prevención de Accidente Cerebrovascular en Fibrilación Auricular III), que comparó warfarina en dosis ajustada contra warfarina en dosis fija y baja combinada con aspirina en pacientes con fibrilación auricular (arritmia cardíaca sostenida de las aurículas) de alto riesgo. Vale la pena mirarlo porque fue uno de los ensayos que consolidaron el estándar de anticoagulación en fibrilación auricular de alto riesgo, todavía usado como referencia histórica.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado (SPAF-III), realizado en la década de 1990; ni el título ni el copete precisan el número de centros, de pacientes ni el tipo de cegamiento utilizado.\nPoblación: Pacientes con fibrilación auricular y alto riesgo de accidente cerebrovascular (al menos un factor de riesgo clínico o ecocardiográfico asociado).\nIntervención: Warfarina en dosis ajustada (según razón internacional normatizada, RIN/INR, terapéutica) frente a warfarina en dosis fija y baja combinada con aspirina.\nResultados: El título y el copete no incluyen cifras; se recuerda que este ensayo se detuvo antes de lo previsto porque la combinación de dosis baja fija de warfarina más aspirina mostró una tasa de accidente cerebrovascular isquémico y embolia sistémica claramente mayor que la warfarina en dosis ajustada, pero sin el abstract no se puede citar la razón de riesgo, el intervalo de confianza ni el valor de p exactos.\nLimitaciones: Es un ensayo de más de tres décadas, con los objetivos de anticoagulación y las poblaciones de aquel momento, por lo que su aplicabilidad directa a la práctica actual con anticoagulantes de acción directa es limitada.\nMensaje: Consolidó a la warfarina en dosis ajustada como el estándar de anticoagulación en fibrilación auricular de alto riesgo durante décadas, un antecedente útil para entender por qué los anticoagulantes de acción directa se comparan hoy contra ese mismo estándar.\nNota: análisis sin acceso al abstract."
+    },
+    "8ff73a17bdf9": {
+      "resumen": "Cardiology Trials repasa el ensayo histórico SPAF-II (Stroke Prevention in Atrial Fibrillation II), que comparó warfarina contra aspirina para prevenir el accidente cerebrovascular en pacientes con fibrilación auricular. Vale la pena mirarlo porque fue uno de los ensayos pioneros que ayudó a definir cuándo priorizar la warfarina por sobre la aspirina según la edad y el riesgo del paciente.",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico aleatorizado (SPAF-II), realizado en la década de 1990; ni el título ni el copete precisan el número de centros, de pacientes ni el cegamiento utilizado.\nPoblación: Pacientes con fibrilación auricular, analizados en subgrupos según la edad (menores y mayores de 75 años).\nIntervención: Warfarina frente a aspirina para la prevención de accidente cerebrovascular en fibrilación auricular.\nResultados: El título y el copete no incluyen cifras; se recuerda que este ensayo mostró beneficio de la warfarina sobre la aspirina, especialmente en los pacientes de mayor edad, aunque con más sangrado asociado, pero sin el abstract no se puede citar la razón de riesgo, el intervalo de confianza ni el valor de p exactos.\nLimitaciones: Es un ensayo de más de tres décadas, con los esquemas de anticoagulación y los umbrales de riesgo de aquel momento, por lo que su aplicabilidad directa a la práctica actual con anticoagulantes de acción directa es limitada.\nMensaje: Ayudó a establecer que la elección entre warfarina y aspirina en fibrilación auricular debía considerar la edad y el riesgo individual, una lógica de estratificación que todavía se usa hoy (con escalas como CHA2DS2-VASc) para decidir la anticoagulación.\nNota: análisis sin acceso al abstract."
+    },
+    "e6efe33a083e": {
+      "resumen": "Hacker News destaca el cierre de un sitio independiente de documentación sobre la arquitectura ARM (el diseño de procesadores usado en celulares y muchos otros dispositivos), dado de baja a pedido de la propia empresa ARM. Le sirve a un médico que aprende análisis de datos como recordatorio de que el control sobre la documentación técnica y la propiedad intelectual puede limitar el acceso a recursos abiertos, algo a tener en cuenta al elegir qué plataformas y herramientas usar para trabajar con datos.",
+      "destacado": false
+    },
+    "42afc3642f4f": {
+      "resumen": "Un desarrollador relata en GitHub cómo Apple eliminó su aplicación de código abierto (FSNotes) de las tiendas de aplicaciones de la Unión Europea después de nueve años disponible. Le sirve a un médico que aprende análisis de datos como recordatorio de que incluso el software de código abierto depende de plataformas cerradas que pueden restringir su distribución, un factor a considerar al elegir herramientas para el trabajo diario con datos.",
+      "destacado": false
+    },
+    "109d2f6894af": {
+      "resumen": "Hacker News destaca el lanzamiento en beta pública de Kagi Mail, un nuevo servicio de correo electrónico del motor de búsqueda independiente Kagi, enfocado en la privacidad. Le sirve a un médico que aprende análisis de datos como ejemplo de alternativas a los grandes proveedores de servicios digitales, útil para pensar en privacidad y manejo seguro de datos sensibles, como los clínicos.",
+      "destacado": false
+    },
+    "3c69fd56490c": {
+      "resumen": "En la red social X, Yann LeCun (ex científico jefe de inteligencia artificial en Meta) acusa a Dario Amodei (director ejecutivo de Anthropic) de exagerar los riesgos de la inteligencia artificial para frenar a los modelos de código abierto (open source software, OSS) y así mantener el control del mercado. Le sirve a un médico que aprende análisis de datos para entender el debate de fondo entre modelos abiertos y cerrados, que condiciona qué herramientas de inteligencia artificial podrá usar y modificar libremente para su propio trabajo.",
+      "destacado": false
+    },
+    "69cd9109435f": {
+      "resumen": "Towards Data Science sostiene que las demostraciones matemáticas generadas o verificadas por inteligencia artificial -desde el Teorema de los Cuatro Colores hasta afirmaciones recientes de OpenAI- no constituyen conocimiento real hasta que una persona las explica, las pone a prueba y las extiende. Le sirve a un médico que aprende análisis de datos porque plantea un límite clave de la inteligencia artificial: por más que resuelva o verifique un problema, sigue haciendo falta comprensión humana para confiar en el resultado y aplicarlo, igual que con cualquier modelo estadístico.",
+      "destacado": false
+    },
+    "836c9c41f00b": {
+      "resumen": "KDnuggets explica cómo combinar asistentes de inteligencia artificial, herramientas de programación y plataformas adaptativas para acortar la curva de aprendizaje y adquirir habilidades prácticas de ciencia de datos de forma más eficiente. Le sirve directamente a un médico que está dando sus primeros pasos en análisis de datos, al ofrecer un método concreto para aprovechar la inteligencia artificial como tutor personalizado en ese camino.",
+      "destacado": true
+    },
+    "5f632ea0614e": {
+      "resumen": "Towards Data Science usa el problema del cumpleaños (una técnica estadística clásica) para estimar, repitiendo la misma pregunta cientos de veces, que un modelo de lenguaje pequeño (LLM, large language model) en realidad elige entre pocas palabras reales -unas 6 de 40 posibles- aunque parezca más variado. Le sirve a un médico que aprende análisis de datos porque muestra cómo un razonamiento estadístico simple, con unas pocas líneas de código, permite medir de forma objetiva el comportamiento real de una inteligencia artificial.",
+      "destacado": false
+    },
+    "c6f6e4b18bb8": {
+      "resumen": "KDnuggets compara cinco formas livianas de darle herramientas a los agentes de inteligencia artificial sin necesidad de montar un servidor MCP (Model Context Protocol, protocolo de contexto de modelo), desde un despachador en Python hasta adaptadores REST y webhooks. Le sirve a un médico que aprende análisis de datos como mapa práctico de opciones para conectar sus propios scripts o modelos de inteligencia artificial con otras herramientas, sin tener que dominar primero la alternativa más compleja.",
+      "destacado": false
+    },
+    "a78131a3bee0": {
+      "resumen": "Towards Data Science analiza, a partir de un estudio preliminar (preprint) de 2026, cómo una tasa alta de aciertos en el caché de instrucciones (prompt cache, la reutilización de cálculos previos de un modelo de inteligencia artificial) puede ocultar que el tiempo hasta la primera respuesta empeore en la mediana aunque mejore en los casos extremos. Le sirve a un médico que aprende análisis de datos como ejemplo de por qué conviene mirar más de una métrica (promedio, mediana y percentiles) antes de sacar conclusiones sobre el rendimiento de un sistema.",
+      "destacado": false
     },
     "48ebf35e8374": {
       "resumen": "Este editorial de JACC (Journal of the American College of Cardiology), firmado por Malhotra G et al., reflexiona en tono crítico sobre qué indicadores de calidad o métricas realmente importan en la práctica cardiológica, en contraposición a las que solo \"quedan bien\" en los reportes. Vale la pena mirarlo porque invita a repensar qué se mide y se publica en cardiología, más allá de los números que suelen destacarse.",
@@ -28,72 +79,22 @@
       "resumen": "Este documento de postura (2026 ACC Scientific Statement) del Colegio Americano de Cardiología, firmado por Greenland P et al., revisa las estrategias para bajar el colesterol (lipid-lowering) en la era de la detección temprana de aterosclerosis, por ejemplo mediante el score de calcio coronario o la detección de placa subclínica. Vale la pena mirarlo porque resume cómo debería ajustarse el tratamiento hipolipemiante cuando se detecta enfermedad coronaria incipiente antes de que aparezcan síntomas.",
       "destacado": false
     },
-    "6a73fdd651f9": {
-      "resumen": "Simon Willison cita a Ravi Vakil sobre una propuesta de demostración de la Hipótesis de Riemann Generalizada (GRH, Generalized Riemann Hypothesis) presentada por Alessandro Masullo, que el matemático Brian Conrad viene revisando con atención durante meses. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo la comunidad científica valida —o no— resultados extraordinarios antes de aceptarlos, un proceso de revisión por pares comparable al que exige la evidencia clínica.",
-      "destacado": false
-    },
     "7b21745d0155": {
       "resumen": "TCTMD reporta los resultados del estudio SYNCHRONIZE-CVOT (ensayo de desenlaces cardiovasculares, cardiovascular outcomes trial), que respalda la seguridad cardiovascular de survodutide, un agonista dual de los receptores de GLP-1 (glucagon-like peptide-1) y de glucagón usado para tratar la obesidad y la diabetes. Vale la pena mirarlo porque los CVOT son el estándar regulatorio para confirmar que los fármacos metabólicos no aumentan el riesgo cardiovascular.",
       "destacado": false,
       "analisis": "Diseño: Ensayo clínico de seguridad cardiovascular (SYNCHRONIZE-CVOT); el título no precisa aleatorización, cegamiento, número de centros ni de pacientes sin acceso al abstract.\nPoblación: Probablemente pacientes con obesidad y/o diabetes tipo 2 con riesgo cardiovascular elevado, candidatos a tratamiento con survodutide (agonista dual GLP-1/glucagón).\nIntervención: Survodutide frente a placebo, diseño habitual de los CVOT para evaluar eventos cardiovasculares mayores.\nResultados: El título indica que el estudio \"respalda la seguridad cardiovascular\" del fármaco, pero no hay razón de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el margen de no inferioridad preespecificado ni la duración del seguimiento.\nMensaje: De confirmarse, sumaría otro agonista dual GLP-1/glucagón a la lista de fármacos metabólicos con perfil cardiovascular seguro, en línea con lo ya mostrado por otros agonistas de GLP-1.\nNota: análisis sin acceso al abstract."
     },
-    "228b94b928e1": {
-      "resumen": "Towards Data Science explica cómo aprender análisis de cadena de suministro (supply chain analytics) usando Claude Code, el asistente de inteligencia artificial para programar de Anthropic, como herramienta de aprendizaje práctico. Le sirve a un médico que está dando sus primeros pasos en el análisis de datos porque muestra un método concreto -aprender haciendo, con IA como tutor de código- que es trasladable a cualquier dominio, incluida la farmacovigilancia.",
-      "destacado": false
-    },
-    "0ceef4b235ec": {
-      "resumen": "Simon Willison repasa Muru, un nuevo servidor en Rust asistido por inteligencia artificial que desarrolló Graham Dumpleton -creador de mod_wsgi hace 20 años- para mejorar cómo se sirven aplicaciones web de Python en producción. Le sirve a un médico que aprende análisis de datos porque muestra cómo la inteligencia artificial ya ayuda a reescribir herramientas clásicas de infraestructura, el tipo de software que sostiene por detrás cualquier panel o aplicación de datos.",
-      "destacado": false
-    },
-    "a44085bf106c": {
-      "resumen": "Towards Data Science repasa los cuatro tipos clásicos de analítica de datos (descriptiva, diagnóstica, predictiva y prescriptiva) y cómo la inteligencia artificial está transformando cada uno de ellos. Le sirve a un médico que aprende análisis de datos porque ordena el mapa conceptual del campo y muestra dónde la inteligencia artificial ya aporta más valor, por ejemplo acelerando el paso de la analítica descriptiva a la predictiva.",
-      "destacado": true
-    },
-    "1af69c1d71f9": {
-      "resumen": "Towards Data Science explica RANSAC (Random Sample Consensus), un algoritmo clásico que ajusta modelos robustos descartando datos atípicos (outliers), aplicado aquí al emparejamiento de características entre imágenes. Le sirve a un médico que aprende análisis de datos porque RANSAC es una herramienta fundamental para construir modelos que no se dejen engañar por datos erróneos o ruido, un problema frecuente en bases de datos clínicas reales.",
-      "destacado": false
-    },
     "6b257421a4d3": {
       "resumen": "European Heart Journal (Revista Europea de Cardiología) publica una viñeta de imágenes que repasa el síndrome cardiovascular-renal-metabólico (CKM, cardiovascular-kidney-metabolic syndrome), la superposición entre enfermedad cardiovascular, renal y metabólica que la cardiología viene remarcando en los últimos años. Vale la pena mirarlo como actualización visual del concepto, aunque es una nota de imágenes y no un estudio original con resultados propios.",
       "destacado": false
-    },
-    "94d34dafcf99": {
-      "resumen": "TCTMD reporta nuevos datos del estudio CHIP-BCIS3 sobre el papel de la lesión miocárdica periprocedimiento en los resultados de la angioplastia coronaria compleja de alto riesgo (complex high-risk PCI, intervención coronaria percutánea en pacientes complejos y de alto riesgo). Vale la pena mirarlo porque ayuda a entender si el daño miocárdico que ocurre durante estos procedimientos complejos predice peor evolución clínica.",
-      "destacado": false,
-      "analisis": "Diseño: Análisis de datos del estudio CHIP-BCIS3 (sub-estudio o análisis secundario) sobre intervención coronaria percutánea compleja de alto riesgo; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes sometidos a angioplastia coronaria percutánea compleja y de alto riesgo (CHIP, complex high-risk indicated PCI).\nIntervención: No se compara una intervención terapéutica puntual; se analiza la aparición de lesión miocárdica periprocedimiento y su relación con los resultados clínicos tras la PCI compleja.\nResultados: El título indica que los datos \"arrojan luz\" sobre el rol de la lesión miocárdica en los resultados, pero no hay cifras de incidencia, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, la definición de lesión miocárdica utilizada (biomarcadores y umbrales) ni el seguimiento clínico alcanzado.\nMensaje: Sugiere que medir y vigilar la lesión miocárdica periprocedimiento podría ayudar a estratificar el riesgo de los pacientes sometidos a PCI compleja, aunque la magnitud del impacto pronóstico requiere revisar el texto completo.\nNota: análisis sin acceso al abstract."
     },
     "588b24e68edb": {
       "resumen": "TCTMD entrevista a referentes de la Sociedad de Angiografía Cardiovascular e Intervenciones (SCAI, Society for Cardiovascular Angiography and Interventions), que cuestionan los requisitos mínimos de volumen de procedimientos exigidos a los médicos intervencionistas. Vale la pena mirarlo porque el debate sobre cuántos procedimientos por año garantizan calidad y seguridad sigue abierto en la cardiología intervencionista.",
       "destacado": false
     },
-    "35cfea2e7f27": {
-      "resumen": "En Hacker News se destaca XNU Linux, un proyecto de código abierto que logra correr el entorno gráfico completo de macOS (basado en el kernel XNU) sobre Linux. Le sirve a un médico que aprende análisis de datos como muestra de ingeniería de sistemas abierta y colaborativa, el tipo de trabajo que también sostiene las herramientas de código abierto que se usan a diario para analizar datos.",
-      "destacado": false
-    },
-    "048482af0e5e": {
-      "resumen": "Spelunkr.tv es un canal de televisión alternativo armado íntegramente con videos \"olvidados\" rescatados del Internet Archive, el gran archivo digital sin fines de lucro. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo se puede curar y poner en valor un conjunto de datos masivo y desordenado -en este caso videos- para generar algo nuevo y útil.",
-      "destacado": false
-    },
-    "ae6e6a35191d": {
-      "resumen": "Hacker News sigue de cerca un mapa de progreso que documenta la formalización en Lean (un asistente de demostración automática de teoremas) del manuscrito de Alessandro Masullo sobre la Hipótesis de Riemann Generalizada. Le sirve a un médico que aprende análisis de datos porque Lean es una herramienta de verificación formal que, igual que un buen control de calidad de datos, obliga a que cada paso de un razonamiento sea explícito y chequeable por una máquina.",
-      "destacado": false
-    },
-    "d3dc326c4e3f": {
-      "resumen": "GL.iNet, fabricante de routers, publicó un aviso de seguridad sobre vulnerabilidades detectadas en sus equipos y las actualizaciones de firmware (software del dispositivo) recomendadas para corregirlas. Le sirve a un médico que aprende análisis de datos como recordatorio de que la seguridad de la infraestructura de red -routers incluidos- es la base sobre la que después se construye cualquier análisis o manejo de datos sensibles, como los clínicos.",
-      "destacado": false
-    },
     "9b4a55165bbd": {
       "resumen": "Simon Willison muestra una página que reúne y compara todas las formas posibles de estilizar el elemento select (menú desplegable) en HTML, generada con ayuda de Claude Fable 5.2, un modelo de inteligencia artificial de Anthropic. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de cómo un modelo de IA puede acelerar la construcción de interfaces o paneles propios, sin necesidad de ser experto en diseño web.",
       "destacado": false
-    },
-    "7318f29d9caf": {
-      "resumen": "Los Pumas le hicieron un emotivo homenaje a Federico Aramburú antes de enfrentar a Francia, saliendo a la cancha junto a su pequeño hijo."
-    },
-    "010546f22bbd": {
-      "resumen": "Un repaso de cómo terminó la tabla del Nations Championship, con la revancha entre Francia y Sudáfrica como punto más alto y los cruces que definieron cada posición."
-    },
-    "4b853e520faf": {
-      "resumen": "Los Pumas se mantuvieron octavos en el ranking mundial de rugby, aunque se alejaron de Australia tras los resultados de la última fecha."
     }
   }
 }

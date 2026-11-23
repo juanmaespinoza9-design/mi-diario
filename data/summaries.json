@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-11-22T22:04:51Z",
+  "generated_at": "2026-11-23T10:04:39Z",
   "summaries": {
     "97eff5851098": {
       "resumen": "Un estudio comparó la interpretación de ecocardiogramas asistida por inteligencia artificial (AI-Echo) con la lectura de cardiólogos clínicos, y encontró un desempeño comparable entre ambos. Vale la pena mirarlo porque la automatización de la lectura ecocardiográfica podría agilizar el diagnóstico y aliviar la carga de los laboratorios de ecocardiografía.",
       "destacado": false,
       "analisis": "Diseño: Estudio de validación/comparación de desempeño diagnóstico entre un sistema de inteligencia artificial para ecocardiografía (AI-Echo) y cardiólogos clínicos intérpretes; el título no precisa si fue prospectivo, el número de centros ni de pacientes o estudios evaluados.\nPoblación: Pacientes o estudios ecocardiográficos interpretados en paralelo por el sistema de IA y por médicos clínicos; el contexto clínico específico no se detalla en el título.\nIntervención: Interpretación automatizada de ecocardiogramas mediante inteligencia artificial, comparada con la interpretación realizada por cardiólogos clínicos.\nResultados: El título indica que el desempeño de la IA \"se mantiene bien\" frente a los intérpretes clínicos, pero no hay cifras de concordancia, sensibilidad, especificidad ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el estándar de referencia usado para juzgar la exactitud diagnóstica, ni si se analizaron subgrupos de patologías específicas.\nMensaje: De confirmarse con el texto completo, respalda usar la IA como apoyo (no reemplazo) en la lectura ecocardiográfica, lo que podría optimizar tiempos en laboratorios de ecocardiografía con alta demanda.\nNota: análisis sin acceso al abstract."
-    },
-    "3c2a9d9e80c2": {
-      "resumen": "El estudio SINGLE-CLOSURE evaluó si alcanza con un solo dispositivo ProGlide (sistema de cierre percutáneo arterial) para cerrar el sitio de punción femoral después de un implante percutáneo de válvula aórtica (TAVI, transcatheter aortic valve implantation), en vez de usar dos como es habitual. Vale la pena mirarlo porque simplificar el cierre vascular podría reducir costos y complicaciones sin perder seguridad.",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico (SINGLE-CLOSURE); el título no especifica aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes sometidos a implante percutáneo de válvula aórtica (TAVI) por acceso femoral que requieren cierre vascular del sitio de punción.\nIntervención: Cierre vascular con un solo dispositivo ProGlide, comparado con la estrategia habitual de dos dispositivos ProGlide.\nResultados: El título sugiere que \"un dispositivo puede ser suficiente\", pero no hay cifras de éxito de hemostasia, complicaciones vasculares ni sangrado disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el criterio de valoración principal elegido ni el seguimiento alcanzado para complicaciones vasculares tardías.\nMensaje: De confirmarse, permitiría simplificar y abaratar el cierre vascular tras TAVI sin resignar seguridad, aunque la decisión definitiva requiere revisar el texto completo del estudio.\nNota: análisis sin acceso al abstract."
     },
     "48ebf35e8374": {
       "resumen": "Este editorial de JACC (Journal of the American College of Cardiology), firmado por Malhotra G et al., reflexiona en tono crítico sobre qué indicadores de calidad o métricas realmente importan en la práctica cardiológica, en contraposición a las que solo \"quedan bien\" en los reportes. Vale la pena mirarlo porque invita a repensar qué se mide y se publica en cardiología, más allá de los números que suelen destacarse.",
@@ -22,10 +17,6 @@
     },
     "22d32d6fd679": {
       "resumen": "Este editorial de JACC, firmado por Krumholz HM et al., plantea una reflexión sobre la insatisfacción persistente en medicina frente a los avances terapéuticos y los resultados obtenidos. Vale la pena mirarlo porque invita a pensar de forma crítica cómo se interpretan los logros y las limitaciones de los tratamientos cardiovasculares actuales.",
-      "destacado": false
-    },
-    "9bd32d4bb554": {
-      "resumen": "European Heart Journal (Revista Europea de Cardiología) publica una nota de imágenes cardiovasculares que ilustra avances en tomografía computada cardíaca (CCT, cardiac computed tomography) y resonancia magnética aplicados a la miocardiopatía hipertrófica (HCM, hypertrophic cardiomyopathy) y su vínculo con la demencia. Vale la pena mirarlo como repaso visual de hallazgos por imágenes, aunque no es un estudio original con resultados cuantitativos propios.",
       "destacado": false
     },
     "085976ebf325": {
@@ -41,10 +32,6 @@
       "resumen": "Simon Willison cita a Ravi Vakil sobre una propuesta de demostración de la Hipótesis de Riemann Generalizada (GRH, Generalized Riemann Hypothesis) presentada por Alessandro Masullo, que el matemático Brian Conrad viene revisando con atención durante meses. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo la comunidad científica valida —o no— resultados extraordinarios antes de aceptarlos, un proceso de revisión por pares comparable al que exige la evidencia clínica.",
       "destacado": false
     },
-    "9e188d65b5ac": {
-      "resumen": "Simon Willison cita a Levent Alpöge, quien afirma haber encontrado, trabajando junto con Claude (un modelo de inteligencia artificial de Anthropic), una demostración de la Hipótesis de Riemann y, por extensión, de su versión generalizada. Le sirve a un médico que aprende análisis de datos como ejemplo llamativo —y todavía no confirmado— de cómo la inteligencia artificial empieza a usarse como colaboradora en investigación matemática de alto nivel.",
-      "destacado": false
-    },
     "7b21745d0155": {
       "resumen": "TCTMD reporta los resultados del estudio SYNCHRONIZE-CVOT (ensayo de desenlaces cardiovasculares, cardiovascular outcomes trial), que respalda la seguridad cardiovascular de survodutide, un agonista dual de los receptores de GLP-1 (glucagon-like peptide-1) y de glucagón usado para tratar la obesidad y la diabetes. Vale la pena mirarlo porque los CVOT son el estándar regulatorio para confirmar que los fármacos metabólicos no aumentan el riesgo cardiovascular.",
       "destacado": false,
@@ -58,43 +45,55 @@
       "resumen": "Simon Willison repasa Muru, un nuevo servidor en Rust asistido por inteligencia artificial que desarrolló Graham Dumpleton -creador de mod_wsgi hace 20 años- para mejorar cómo se sirven aplicaciones web de Python en producción. Le sirve a un médico que aprende análisis de datos porque muestra cómo la inteligencia artificial ya ayuda a reescribir herramientas clásicas de infraestructura, el tipo de software que sostiene por detrás cualquier panel o aplicación de datos.",
       "destacado": false
     },
-    "d96193ce42c1": {
-      "resumen": "El estudio DUOTAP sugiere que aplicar más posdilatación (reinflar el balón después de liberar la válvula) durante el implante percutáneo de válvula aórtica (TAVI, transcatheter aortic valve implantation) podría mejorar el resultado del procedimiento. Vale la pena mirarlo porque la posdilatación es una maniobra sencilla, disponible en cualquier sala de hemodinamia, y definir cuándo conviene usarla con más frecuencia podría reducir las fugas paravalvulares sin agregar riesgo.",
-      "destacado": false,
-      "analisis": "Diseño: Estudio DUOTAP sobre una estrategia de posdilatación durante el implante percutáneo de válvula aórtica (TAVI); el título no precisa si es aleatorizado, el tipo de cegamiento, ni el número de centros o de pacientes.\nPoblación: Pacientes sometidos a TAVI, probablemente con fuga paravalvular residual o riesgo de ella tras el despliegue de la válvula.\nIntervención: Posdilatación más sistemática o agresiva (reinflado del balón) tras el implante, frente a la conducta habitual más conservadora.\nResultados: El título indica que el estudio \"hace el caso\" a favor de más posdilatación, pero no hay cifras de reducción de fuga paravalvular, complicaciones vasculares ni necesidad de marcapasos disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el tipo de válvula utilizada ni el riesgo de complicaciones asociadas a la posdilatación, como rotura anular o accidente cerebrovascular.\nMensaje: De confirmarse, podría respaldar un uso más liberal de la posdilatación para optimizar el resultado hemodinámico del TAVI, aunque el balance con el riesgo de complicaciones requiere revisar el texto completo.\nNota: análisis sin acceso al abstract."
-    },
     "a44085bf106c": {
       "resumen": "Towards Data Science repasa los cuatro tipos clásicos de analítica de datos (descriptiva, diagnóstica, predictiva y prescriptiva) y cómo la inteligencia artificial está transformando cada uno de ellos. Le sirve a un médico que aprende análisis de datos porque ordena el mapa conceptual del campo y muestra dónde la inteligencia artificial ya aporta más valor, por ejemplo acelerando el paso de la analítica descriptiva a la predictiva.",
       "destacado": true
-    },
-    "3c4f4993adca": {
-      "resumen": "En Hacker News, un desarrollador presenta un juego en el que el jugador actúa como subagente de un modelo de lenguaje (LLM, large language model), recibiendo instrucciones y reportando resultados como lo haría un agente de inteligencia artificial. Le sirve a quien aprende análisis de datos como forma lúdica de entender, desde adentro, cómo se coordinan los sistemas multiagente que hoy se usan para automatizar tareas de datos.",
-      "destacado": false
-    },
-    "3400785e0033": {
-      "resumen": "Este posteo de Hacker News plantea una estrategia de optimización llamada \"Fast-Anything\": en vez de reescribir todo un programa lento en un lenguaje más rápido como Rust, conviene identificar y reescribir solo el 5% del código que realmente consume el tiempo de ejecución. Le sirve a un médico que aprende análisis de datos porque es un principio práctico de optimización -perfilar antes de optimizar- aplicable a cualquier script o pipeline de datos que corra lento.",
-      "destacado": false
     },
     "1af69c1d71f9": {
       "resumen": "Towards Data Science explica RANSAC (Random Sample Consensus), un algoritmo clásico que ajusta modelos robustos descartando datos atípicos (outliers), aplicado aquí al emparejamiento de características entre imágenes. Le sirve a un médico que aprende análisis de datos porque RANSAC es una herramienta fundamental para construir modelos que no se dejen engañar por datos erróneos o ruido, un problema frecuente en bases de datos clínicas reales.",
       "destacado": false
     },
-    "2d5462888352": {
-      "resumen": "Hacker News discute la creación de la Open Social Web Alliance, una iniciativa para promover estándares abiertos e interoperables entre redes sociales descentralizadas. Le sirve a quien aprende análisis de datos como ejemplo de por qué los estándares abiertos de datos facilitan el acceso y el análisis de información, en contraposición a los sistemas cerrados y propietarios.",
+    "6b257421a4d3": {
+      "resumen": "European Heart Journal (Revista Europea de Cardiología) publica una viñeta de imágenes que repasa el síndrome cardiovascular-renal-metabólico (CKM, cardiovascular-kidney-metabolic syndrome), la superposición entre enfermedad cardiovascular, renal y metabólica que la cardiología viene remarcando en los últimos años. Vale la pena mirarlo como actualización visual del concepto, aunque es una nota de imágenes y no un estudio original con resultados propios.",
       "destacado": false
     },
-    "bf1d56f79e08": {
-      "resumen": "Un posteo de Hacker News señala que, según proyecciones, el 87% de la energía que consumirá Anthropic (la empresa que desarrolla los modelos Claude) en 2028 provendrá de gas natural y un 11% de carbón. Le sirve a un médico que aprende análisis de datos porque recuerda que entrenar y usar modelos de inteligencia artificial a gran escala tiene un costo energético real, un dato relevante al evaluar la sustentabilidad de estas herramientas.",
+    "94d34dafcf99": {
+      "resumen": "TCTMD reporta nuevos datos del estudio CHIP-BCIS3 sobre el papel de la lesión miocárdica periprocedimiento en los resultados de la angioplastia coronaria compleja de alto riesgo (complex high-risk PCI, intervención coronaria percutánea en pacientes complejos y de alto riesgo). Vale la pena mirarlo porque ayuda a entender si el daño miocárdico que ocurre durante estos procedimientos complejos predice peor evolución clínica.",
+      "destacado": false,
+      "analisis": "Diseño: Análisis de datos del estudio CHIP-BCIS3 (sub-estudio o análisis secundario) sobre intervención coronaria percutánea compleja de alto riesgo; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes sometidos a angioplastia coronaria percutánea compleja y de alto riesgo (CHIP, complex high-risk indicated PCI).\nIntervención: No se compara una intervención terapéutica puntual; se analiza la aparición de lesión miocárdica periprocedimiento y su relación con los resultados clínicos tras la PCI compleja.\nResultados: El título indica que los datos \"arrojan luz\" sobre el rol de la lesión miocárdica en los resultados, pero no hay cifras de incidencia, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, la definición de lesión miocárdica utilizada (biomarcadores y umbrales) ni el seguimiento clínico alcanzado.\nMensaje: Sugiere que medir y vigilar la lesión miocárdica periprocedimiento podría ayudar a estratificar el riesgo de los pacientes sometidos a PCI compleja, aunque la magnitud del impacto pronóstico requiere revisar el texto completo.\nNota: análisis sin acceso al abstract."
+    },
+    "588b24e68edb": {
+      "resumen": "TCTMD entrevista a referentes de la Sociedad de Angiografía Cardiovascular e Intervenciones (SCAI, Society for Cardiovascular Angiography and Interventions), que cuestionan los requisitos mínimos de volumen de procedimientos exigidos a los médicos intervencionistas. Vale la pena mirarlo porque el debate sobre cuántos procedimientos por año garantizan calidad y seguridad sigue abierto en la cardiología intervencionista.",
       "destacado": false
     },
-    "a6c02c47ebb8": {
-      "resumen": "Un episodio insólito obligó a detener ocho minutos el partido entre Francia y Los Pumas."
+    "35cfea2e7f27": {
+      "resumen": "En Hacker News se destaca XNU Linux, un proyecto de código abierto que logra correr el entorno gráfico completo de macOS (basado en el kernel XNU) sobre Linux. Le sirve a un médico que aprende análisis de datos como muestra de ingeniería de sistemas abierta y colaborativa, el tipo de trabajo que también sostiene las herramientas de código abierto que se usan a diario para analizar datos.",
+      "destacado": false
     },
-    "6b9c8a2620b9": {
-      "resumen": "El head coach de Los Pumas habló tras la derrota ante Francia y bajó el tono a las críticas sobre el equipo."
+    "048482af0e5e": {
+      "resumen": "Spelunkr.tv es un canal de televisión alternativo armado íntegramente con videos \"olvidados\" rescatados del Internet Archive, el gran archivo digital sin fines de lucro. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo se puede curar y poner en valor un conjunto de datos masivo y desordenado -en este caso videos- para generar algo nuevo y útil.",
+      "destacado": false
     },
-    "5cae4cbc6314": {
-      "resumen": "Los Pumas perdieron ante Francia en la ventana de test matches de noviembre."
+    "ae6e6a35191d": {
+      "resumen": "Hacker News sigue de cerca un mapa de progreso que documenta la formalización en Lean (un asistente de demostración automática de teoremas) del manuscrito de Alessandro Masullo sobre la Hipótesis de Riemann Generalizada. Le sirve a un médico que aprende análisis de datos porque Lean es una herramienta de verificación formal que, igual que un buen control de calidad de datos, obliga a que cada paso de un razonamiento sea explícito y chequeable por una máquina.",
+      "destacado": false
+    },
+    "d3dc326c4e3f": {
+      "resumen": "GL.iNet, fabricante de routers, publicó un aviso de seguridad sobre vulnerabilidades detectadas en sus equipos y las actualizaciones de firmware (software del dispositivo) recomendadas para corregirlas. Le sirve a un médico que aprende análisis de datos como recordatorio de que la seguridad de la infraestructura de red -routers incluidos- es la base sobre la que después se construye cualquier análisis o manejo de datos sensibles, como los clínicos.",
+      "destacado": false
+    },
+    "9b4a55165bbd": {
+      "resumen": "Simon Willison muestra una página que reúne y compara todas las formas posibles de estilizar el elemento select (menú desplegable) en HTML, generada con ayuda de Claude Fable 5.2, un modelo de inteligencia artificial de Anthropic. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de cómo un modelo de IA puede acelerar la construcción de interfaces o paneles propios, sin necesidad de ser experto en diseño web.",
+      "destacado": false
+    },
+    "7318f29d9caf": {
+      "resumen": "Los Pumas le hicieron un emotivo homenaje a Federico Aramburú antes de enfrentar a Francia, saliendo a la cancha junto a su pequeño hijo."
+    },
+    "010546f22bbd": {
+      "resumen": "Un repaso de cómo terminó la tabla del Nations Championship, con la revancha entre Francia y Sudáfrica como punto más alto y los cruces que definieron cada posición."
+    },
+    "4b853e520faf": {
+      "resumen": "Los Pumas se mantuvieron octavos en el ranking mundial de rugby, aunque se alejaron de Australia tras los resultados de la última fecha."
     }
   }
 }

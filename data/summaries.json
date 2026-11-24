@@ -1,66 +1,10 @@
 {
-  "generated_at": "2026-11-24T10:04:34Z",
+  "generated_at": "2026-11-24T22:05:29Z",
   "summaries": {
-    "94d34dafcf99": {
-      "resumen": "TCTMD difunde datos del registro CHIP-BCIS3 (angioplastia coronaria percutánea compleja de alto riesgo, complex high-risk indicated PCI) que analizan el papel de la lesión miocárdica periprocedimiento -el daño del músculo cardíaco durante la intervención, medido habitualmente con troponina- en los resultados clínicos de pacientes sometidos a angioplastias complejas. Vale la pena mirarlo porque la lesión miocárdica periprocedimiento es un desenlace frecuente y discutido en intervencionismo coronario, y entender su impacto real ayuda a decidir qué tan agresiva conviene ser en estas angioplastias de alto riesgo.",
-      "destacado": false,
-      "analisis": "Diseño: A partir del título parecería un análisis de un registro o subestudio (CHIP-BCIS3, ligado a procedimientos de angioplastia percutánea compleja de alto riesgo indicada, complex high-risk indicated PCI); no se puede precisar aleatorización, cegamiento, número de centros ni de pacientes sin el abstract.\nPoblación: Pacientes sometidos a angioplastia coronaria percutánea (PCI) compleja de alto riesgo.\nIntervención: No describe una intervención comparada entre brazos, sino que analiza la lesión miocárdica periprocedimiento (daño miocárdico detectado habitualmente por elevación de troponina) como variable asociada a los resultados clínicos.\nResultados: El título indica que los datos \"arrojan luz\" sobre el papel de la lesión miocárdica en los resultados, pero no hay cifras de incidencia, razón de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el seguimiento clínico alcanzado ni si el análisis fue ajustado por factores de confusión.\nMensaje: Aporta evidencia sobre cuánto pesa la lesión miocárdica periprocedimiento en el pronóstico de las angioplastias complejas, un dato relevante para calibrar el riesgo-beneficio de intervenir lesiones de alta complejidad.\nNota: análisis sin acceso al abstract."
-    },
-    "028a4f922290": {
-      "resumen": "Hacker News destaca la firma de una ley en el estado de Nueva York que prohíbe los cobros por suscripción y las comisiones posteriores a la compra en la venta de autos (por ejemplo, funciones que se activan por control remoto y se facturan aparte). No es un tema de inteligencia artificial o ciencia de datos en sí, pero le sirve a un médico que aprende análisis de datos como ejemplo de regulación sobre modelos de negocio basados en datos de uso y suscripción, cada vez más comunes también en software y servicios digitales.",
-      "destacado": false
-    },
-    "efc98a45d931": {
-      "resumen": "Simon Willison repasa el lanzamiento de GLM-5.4, un modelo de lenguaje del laboratorio chino Z.ai que estrena una arquitectura de transformador en bucle (loop transformer), donde el modelo reutiliza el mismo bloque de cómputo varias veces en lugar de apilar capas distintas. Le sirve a un médico que aprende análisis de datos para entender que no todos los avances en inteligencia artificial pasan por hacer los modelos más grandes, sino también por cambiar cómo procesan la información con el mismo tamaño.",
-      "destacado": false
-    },
-    "d5878f2f15b7": {
-      "resumen": "Hacker News destaca que Stalwart, un servidor de correo de código abierto, ya funciona como reemplazo directo (drop-in) de Microsoft Exchange, el servidor de correo corporativo más usado. Le sirve a un médico que aprende análisis de datos como ejemplo de alternativas de código abierto a herramientas corporativas cerradas, útil para pensar en infraestructura propia y control de datos sensibles.",
-      "destacado": false
-    },
-    "7e689a2455fd": {
-      "resumen": "Hacker News comparte un repositorio de Anthropic con una demostración matemática formal sobre VP y VNP, dos clases de complejidad computacional vinculadas al problema de si ciertos cálculos algebraicos pueden resolverse con atajos eficientes. Le sirve a un médico que aprende análisis de datos como puerta de entrada a la teoría de la complejidad computacional, la base teórica que explica por qué algunos problemas de cómputo son mucho más difíciles que otros aunque parezcan similares.",
-      "destacado": false
-    },
-    "ca7cd22c6e9c": {
-      "resumen": "Simon Willison cuenta el lanzamiento de la primera versión alfa de Ladybird, un navegador web nuevo que construye desde cero sus propios motores de HTML, CSS, JavaScript y WebAssembly, sin depender de los motores de Chrome o Firefox. Le sirve a un médico que aprende análisis de datos como ejemplo de la escala de trabajo que implica construir software complejo desde la base, un contraste útil frente a lo rápido que la inteligencia artificial permite hoy armar herramientas más simples.",
-      "destacado": false
-    },
-    "feb734067db2": {
-      "resumen": "Los Pumas, la selección argentina de rugby, cierran su participación en el Nations Championship con el objetivo de terminar en el séptimo puesto de la clasificación final del torneo."
-    },
-    "a1dcb443fe4b": {
-      "resumen": "Jugadores y referentes franceses lideran las candidaturas para los Rugby Awards 2026, los premios anuales que distinguen a las mejores figuras del rugby mundial."
-    },
     "e0b08a4e0f72": {
       "resumen": "TCTMD reporta un estudio de implementación que muestra resultados prometedores para un programa coordinado de prevención cardiovascular, orientado a abordar de forma integral los factores de riesgo de los pacientes. Vale la pena mirarlo porque los programas coordinados y multidisciplinarios son una estrategia cada vez más usada para mejorar la adherencia y el control de los factores de riesgo cardiovascular en la práctica real.",
       "destacado": false,
       "analisis": "Diseño: Parece un estudio de registro o de implementación (quality improvement) que evaluó un programa coordinado de prevención cardiovascular; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con factores de riesgo cardiovascular incluidos en dicho programa; el título no detalla criterios de inclusión o exclusión.\nIntervención: Un programa coordinado (probablemente multidisciplinario, con seguimiento estructurado) de prevención cardiovascular, frente a la atención habitual sin ese programa.\nResultados: El título indica que el programa \"muestra promesa\" para abordar los factores de riesgo, pero no hay cifras de reducción de presión arterial, lípidos, glucemia u otros parámetros, ni razones de riesgo o intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, si hubo grupo comparador concurrente, ni el seguimiento clínico alcanzado.\nMensaje: De confirmarse con el texto completo, respaldaría el valor de los programas coordinados y multidisciplinarios para mejorar el control de los factores de riesgo cardiovascular en la práctica diaria.\nNota: análisis sin acceso al abstract."
-    },
-    "ed3483826780": {
-      "resumen": "TCTMD difunde los resultados top-line (preliminares) del ensayo ORION-4, que muestran que inclisirán -un inhibidor de PCSK9 basado en ARN de interferencia (siRNA), de administración subcutánea cada seis meses aproximadamente- reduciría los eventos cardiovasculares adversos mayores (MACE, major adverse cardiovascular events) en pacientes con enfermedad aterosclerótica cardiovascular (ASCVD, atherosclerotic cardiovascular disease) establecida. Vale la pena mirarlo porque sería de los primeros grandes ensayos que muestran para inclisirán una reducción de eventos duros, y no solo del colesterol LDL (lipoproteína de baja densidad).",
-      "destacado": false,
-      "analisis": "Diseño: Ensayo clínico de grandes dimensiones (ORION-4); al tratarse de resultados \"top-line\" (preliminares, tipo anuncio de prensa), el título no precisa aleatorización, cegamiento, número de centros ni de pacientes exactos.\nPoblación: Pacientes con enfermedad aterosclerótica cardiovascular (ASCVD) ya establecida.\nIntervención: Inclisirán (inhibidor de PCSK9 mediante ARN de interferencia) frente a placebo o tratamiento estándar, sumado al manejo habitual del colesterol.\nResultados: El título anuncia una reducción de MACE (eventos cardiovasculares adversos mayores) con inclisirán, pero por tratarse de un top-line no hay razón de riesgo, intervalo de confianza ni valor de p disponibles sin el reporte completo o el abstract.\nLimitaciones: Los resultados top-line suelen adelantarse en prensa sin el detalle estadístico completo; falta conocer el tamaño muestral definitivo, la duración del seguimiento y el perfil de seguridad.\nMensaje: De confirmarse en la publicación completa, sumaría a inclisirán evidencia de reducción de eventos cardiovasculares duros, lo que reforzaría su rol en la prevención secundaria más allá del simple descenso del LDL.\nNota: análisis sin acceso al abstract."
-    },
-    "69cd9109435f": {
-      "resumen": "Towards Data Science sostiene que las demostraciones matemáticas generadas o verificadas por inteligencia artificial -desde el Teorema de los Cuatro Colores hasta afirmaciones recientes de OpenAI- no constituyen conocimiento real hasta que una persona las explica, las pone a prueba y las extiende. Le sirve a un médico que aprende análisis de datos porque plantea un límite clave de la inteligencia artificial: por más que resuelva o verifique un problema, sigue haciendo falta comprensión humana para confiar en el resultado y aplicarlo, igual que con cualquier modelo estadístico.",
-      "destacado": false
-    },
-    "836c9c41f00b": {
-      "resumen": "KDnuggets explica cómo combinar asistentes de inteligencia artificial, herramientas de programación y plataformas adaptativas para acortar la curva de aprendizaje y adquirir habilidades prácticas de ciencia de datos de forma más eficiente. Le sirve directamente a un médico que está dando sus primeros pasos en análisis de datos, al ofrecer un método concreto para aprovechar la inteligencia artificial como tutor personalizado en ese camino.",
-      "destacado": true
-    },
-    "5f632ea0614e": {
-      "resumen": "Towards Data Science usa el problema del cumpleaños (una técnica estadística clásica) para estimar, repitiendo la misma pregunta cientos de veces, que un modelo de lenguaje pequeño (LLM, large language model) en realidad elige entre pocas palabras reales -unas 6 de 40 posibles- aunque parezca más variado. Le sirve a un médico que aprende análisis de datos porque muestra cómo un razonamiento estadístico simple, con unas pocas líneas de código, permite medir de forma objetiva el comportamiento real de una inteligencia artificial.",
-      "destacado": false
-    },
-    "c6f6e4b18bb8": {
-      "resumen": "KDnuggets compara cinco formas livianas de darle herramientas a los agentes de inteligencia artificial sin necesidad de montar un servidor MCP (Model Context Protocol, protocolo de contexto de modelo), desde un despachador en Python hasta adaptadores REST y webhooks. Le sirve a un médico que aprende análisis de datos como mapa práctico de opciones para conectar sus propios scripts o modelos de inteligencia artificial con otras herramientas, sin tener que dominar primero la alternativa más compleja.",
-      "destacado": false
-    },
-    "a78131a3bee0": {
-      "resumen": "Towards Data Science analiza, a partir de un estudio preliminar (preprint) de 2026, cómo una tasa alta de aciertos en el caché de instrucciones (prompt cache, la reutilización de cálculos previos de un modelo de inteligencia artificial) puede ocultar que el tiempo hasta la primera respuesta empeore en la mediana aunque mejore en los casos extremos. Le sirve a un médico que aprende análisis de datos como ejemplo de por qué conviene mirar más de una métrica (promedio, mediana y percentiles) antes de sacar conclusiones sobre el rendimiento de un sistema.",
-      "destacado": false
     },
     "48ebf35e8374": {
       "resumen": "Este editorial de JACC (Journal of the American College of Cardiology), firmado por Malhotra G et al., reflexiona en tono crítico sobre qué indicadores de calidad o métricas realmente importan en la práctica cardiológica, en contraposición a las que solo \"quedan bien\" en los reportes. Vale la pena mirarlo porque invita a repensar qué se mide y se publica en cardiología, más allá de los números que suelen destacarse.",
@@ -92,6 +36,67 @@
     "6b257421a4d3": {
       "resumen": "European Heart Journal (Revista Europea de Cardiología) publica una viñeta de imágenes que repasa el síndrome cardiovascular-renal-metabólico (CKM, cardiovascular-kidney-metabolic syndrome), la superposición entre enfermedad cardiovascular, renal y metabólica que la cardiología viene remarcando en los últimos años. Vale la pena mirarlo como actualización visual del concepto, aunque es una nota de imágenes y no un estudio original con resultados propios.",
       "destacado": false
+    },
+    "6f6435c7d658": {
+      "resumen": "TCTMD repasa en un newsroom wrap-up los temas más destacados del congreso TCT (Transcatheter Cardiovascular Therapeutics) 2026, el encuentro anual de referencia en intervencionismo cardiovascular. Vale la pena mirarlo como resumen rápido de las novedades presentadas en el congreso, útil para no perderse los temas que después se van a profundizar en estudios y artículos por separado.",
+      "destacado": false
+    },
+    "172a0772dbfd": {
+      "resumen": "TCTMD reporta un estudio observacional que vincula el trabajo nocturno (turnos rotativos o nocturnos) con cambios cardíacos subclínicos detectados por estudios de imagen, es decir alteraciones estructurales o funcionales tempranas que todavía no dan síntomas. Vale la pena mirarlo porque suma evidencia sobre cómo los horarios laborales atípicos podrían impactar la salud cardiovascular a largo plazo, un factor de riesgo no tradicional cada vez más estudiado.",
+      "destacado": false,
+      "analisis": "Diseño: A partir del título parecería un estudio observacional (probablemente de cohorte) que comparó hallazgos de imagen cardíaca entre trabajadores nocturnos y no nocturnos; no se puede precisar cegamiento, número de centros ni de pacientes sin el abstract (la aleatorización no aplicaría a un diseño observacional).\nPoblación: Trabajadores expuestos a turnos nocturnos o rotativos, comparados probablemente con trabajadores de horario diurno; el título no detalla criterios de inclusión o exclusión.\nIntervención: No hay una intervención terapéutica; la exposición estudiada es el trabajo nocturno, comparado con el trabajo diurno.\nResultados: El título indica una asociación entre el trabajo nocturno y cambios cardíacos subclínicos en imágenes, pero no hay cifras de magnitud del efecto, razón de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Al ser observacional, no permite establecer causalidad; faltan datos sobre el ajuste por factores de confusión (edad, tabaquismo, sedentarismo) y sobre qué modalidad de imagen se usó.\nMensaje: Si se confirma, sumaría al trabajo nocturno como un factor de riesgo cardiovascular no tradicional a tener en cuenta, aunque se necesita el texto completo para evaluar la solidez de la asociación.\nNota: análisis sin acceso al abstract."
+    },
+    "2f743340bfe2": {
+      "resumen": "KDnuggets explica paso a paso cómo correr de forma local, en una placa de video RTX 3090, el modelo de lenguaje Inkling 2 Mini usando Unsloth Studio, una herramienta que facilita el ajuste y la ejecución de modelos de inteligencia artificial sin depender de la nube. Le sirve a un médico que aprende análisis de datos como guía práctica para experimentar con modelos de IA propios, manteniendo el control de los datos sin mandarlos a servidores externos.",
+      "destacado": false
+    },
+    "c808d58c8ec4": {
+      "resumen": "Simon Willison cuenta cómo GPT-6.2 Astra, la última versión del modelo de OpenAI, fue usado para resolver un misterio histórico, mostrando su capacidad de razonar sobre fuentes y evidencia dispersa. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de hasta dónde puede llegar el razonamiento de los modelos de lenguaje actuales al combinar datos de distintas fuentes, una habilidad trasladable a la investigación clínica.",
+      "destacado": false
+    },
+    "6c787a85e2e6": {
+      "resumen": "GreyNoise detalla una campaña de ciberataques que comprometió servidores de gestión de seguridad Check Point en 22 organizaciones, explotando vulnerabilidades para obtener acceso no autorizado. Le sirve a un médico que aprende análisis de datos como recordatorio de que la infraestructura que guarda datos sensibles -incluidos los de pacientes- es un blanco activo, y que la ciberseguridad es parte ineludible de cualquier proyecto de datos.",
+      "destacado": false
+    },
+    "4dbaea2697ae": {
+      "resumen": "Variety informa que la plataforma de streaming Tidal prohibió la música generada por inteligencia artificial en su catálogo, en medio del debate sobre autoría y calidad del contenido creado por IA. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo distintas industrias están regulando el uso de la inteligencia artificial generativa, un debate parecido al que empieza a darse en medicina con el contenido generado por IA.",
+      "destacado": false
+    },
+    "3e2aa922e904": {
+      "resumen": "Towards Data Science muestra, con un ejemplo mínimo de una sola neurona y datos de remates de fútbol, cómo construir una red neuronal bayesiana (bayesian neural network), un modelo que no solo predice sino que también cuantifica su propia incertidumbre. Le sirve mucho a un médico que aprende análisis de datos porque la cuantificación de la incertidumbre -tan relevante en estadística clínica, como los intervalos de confianza- se explica aquí desde los cimientos, con un ejemplo simple y visual.",
+      "destacado": true
+    },
+    "ebfbb344c563": {
+      "resumen": "KDnuggets repasa trucos prácticos de la función read_csv() de pandas, la librería de Python más usada para manejar datos tabulares, para lidiar con archivos CSV reales que suelen venir con errores de formato, encabezados mal puestos o codificación de caracteres problemática. Le sirve directamente a un médico que aprende análisis de datos, porque limpiar planillas desprolijas -como las que suelen salir de historias clínicas o bases de investigación- es uno de los primeros obstáculos reales al empezar a trabajar con datos.",
+      "destacado": false
+    },
+    "862d62189e36": {
+      "resumen": "Towards Data Science propone planificar con un diagrama tipo Mermaid y estructuras de datos de Python cómo deben reintentarse las tareas que fallan dentro de flujos de trabajo con varios agentes de inteligencia artificial, antes de ponerse a programar. Le sirve a un médico que aprende análisis de datos como introducción al diseño de sistemas confiables con IA, pensando primero en qué puede fallar y cómo recuperarse, en vez de arrancar directo por el código.",
+      "destacado": false
+    },
+    "ac0f9909eca0": {
+      "resumen": "KDnuggets enumera los siete modelos de inteligencia artificial más descargados en Hugging Face, la plataforma de referencia para compartir modelos abiertos, y describe para qué sirve cada uno. Le sirve a un médico que aprende análisis de datos como mapa de orientación rápido sobre qué modelos están realmente en uso hoy, útil para elegir con cuál empezar a experimentar.",
+      "destacado": false
+    },
+    "5e57d423bc79": {
+      "resumen": "Un desarrollador argumenta que los agentes basados en modelos de lenguaje (LLM, large language model) actúan primero en función de los intereses de la empresa que los creó, y no necesariamente en los del usuario que los consulta. Le sirve a un médico que aprende análisis de datos como invitación a pensar de forma crítica los límites y los incentivos ocultos de las herramientas de inteligencia artificial que use en su trabajo, sobre todo si maneja datos de pacientes.",
+      "destacado": false
+    },
+    "bbb20394b7bd": {
+      "resumen": "Towards Data Science explica, para analistas y líderes comerciales, cómo calcular el valor de vida del cliente (CLV, customer lifetime value) combinando cohortes, modelos BTYD (buy-till-you-die) y proyecciones de ingresos futuros. Le sirve a un médico que aprende análisis de datos como ejemplo trasladable de métodos de cohortes y modelos predictivos usados en negocios, parecidos a los que se usan para seguir cohortes de pacientes en el tiempo.",
+      "destacado": false
+    },
+    "a4afa49aad17": {
+      "resumen": "Se conoció el fixture completo de Los Pumas 7s para la etapa de Dubái del Circuito Mundial de rugby seven 2026-2027."
+    },
+    "9bd6f541ad4f": {
+      "resumen": "Se difundió el cronograma completo de la temporada 2026-2027 del Circuito Mundial de seven, con la participación de Los Pumas 7s."
+    },
+    "15a612668dbb": {
+      "resumen": "Juanse Martín, una joya de 19 años oriunda de San Juan, fue convocado a Los Pumas, la primera vez en seis años que un jugador de esa provincia vuelve al seleccionado."
+    },
+    "c63ccd5b4719": {
+      "resumen": "Se reconstruye la vida y la muerte, todavía sin esclarecer, de \"Mateíto El Ninja\", un ladrón menor de edad asesinado en Morón, con la hipótesis de que lo haya matado un justiciero."
     }
   }
 }

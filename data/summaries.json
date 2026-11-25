@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T22:05:29Z",
+  "generated_at": "2026-11-25T10:05:07Z",
   "summaries": {
     "e0b08a4e0f72": {
       "resumen": "TCTMD reporta un estudio de implementación que muestra resultados prometedores para un programa coordinado de prevención cardiovascular, orientado a abordar de forma integral los factores de riesgo de los pacientes. Vale la pena mirarlo porque los programas coordinados y multidisciplinarios son una estrategia cada vez más usada para mejorar la adherencia y el control de los factores de riesgo cardiovascular en la práctica real.",
@@ -18,11 +18,6 @@
     "22d32d6fd679": {
       "resumen": "Este editorial de JACC, firmado por Krumholz HM et al., plantea una reflexión sobre la insatisfacción persistente en medicina frente a los avances terapéuticos y los resultados obtenidos. Vale la pena mirarlo porque invita a pensar de forma crítica cómo se interpretan los logros y las limitaciones de los tratamientos cardiovasculares actuales.",
       "destacado": false
-    },
-    "085976ebf325": {
-      "resumen": "TCTMD reporta un estudio que encontró que el uso de filtros de aire HEPA (High-Efficiency Particulate Air, filtros de alta eficiencia para partículas) ayudó a estabilizar la glucemia (nivel de azúcar en sangre) en personas con prediabetes. Vale la pena mirarlo porque suma evidencia sobre cómo la calidad del aire y la exposición a partículas contaminantes podrían influir en el metabolismo de la glucosa, un vínculo cada vez más relevante para la prevención cardiovascular.",
-      "destacado": false,
-      "analisis": "Diseño: A partir del título, parecería un ensayo clínico o estudio piloto que evaluó el efecto del uso de filtros de aire HEPA sobre el control glucémico; no se puede precisar aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Personas con prediabetes (glucemia alterada sin llegar al diagnóstico de diabetes).\nIntervención: Uso de filtros de aire HEPA (de alta eficiencia para partículas) en el domicilio o ambiente habitual, frente a no usarlos o a un filtro placebo.\nResultados: El título indica que los filtros \"ayudaron a estabilizar\" la glucemia, pero no hay cifras de hemoglobina glicosilada, glucemia promedio ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, la duración de la exposición ni si se controló por otros factores ambientales o dietarios.\nMensaje: Sugiere un vínculo entre la contaminación del aire interior y el metabolismo de la glucosa, un dato de interés para la prevención cardiometabólica, aunque la magnitud real del efecto y su aplicabilidad clínica requieren revisar el texto completo.\nNota: análisis sin acceso al abstract."
     },
     "92a4462a4d9b": {
       "resumen": "Este documento de postura (2026 ACC Scientific Statement) del Colegio Americano de Cardiología, firmado por Greenland P et al., revisa las estrategias para bajar el colesterol (lipid-lowering) en la era de la detección temprana de aterosclerosis, por ejemplo mediante el score de calcio coronario o la detección de placa subclínica. Vale la pena mirarlo porque resume cómo debería ajustarse el tratamiento hipolipemiante cuando se detecta enfermedad coronaria incipiente antes de que aparezcan síntomas.",
@@ -54,14 +49,6 @@
       "resumen": "Simon Willison cuenta cómo GPT-6.2 Astra, la última versión del modelo de OpenAI, fue usado para resolver un misterio histórico, mostrando su capacidad de razonar sobre fuentes y evidencia dispersa. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de hasta dónde puede llegar el razonamiento de los modelos de lenguaje actuales al combinar datos de distintas fuentes, una habilidad trasladable a la investigación clínica.",
       "destacado": false
     },
-    "6c787a85e2e6": {
-      "resumen": "GreyNoise detalla una campaña de ciberataques que comprometió servidores de gestión de seguridad Check Point en 22 organizaciones, explotando vulnerabilidades para obtener acceso no autorizado. Le sirve a un médico que aprende análisis de datos como recordatorio de que la infraestructura que guarda datos sensibles -incluidos los de pacientes- es un blanco activo, y que la ciberseguridad es parte ineludible de cualquier proyecto de datos.",
-      "destacado": false
-    },
-    "4dbaea2697ae": {
-      "resumen": "Variety informa que la plataforma de streaming Tidal prohibió la música generada por inteligencia artificial en su catálogo, en medio del debate sobre autoría y calidad del contenido creado por IA. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo distintas industrias están regulando el uso de la inteligencia artificial generativa, un debate parecido al que empieza a darse en medicina con el contenido generado por IA.",
-      "destacado": false
-    },
     "3e2aa922e904": {
       "resumen": "Towards Data Science muestra, con un ejemplo mínimo de una sola neurona y datos de remates de fútbol, cómo construir una red neuronal bayesiana (bayesian neural network), un modelo que no solo predice sino que también cuantifica su propia incertidumbre. Le sirve mucho a un médico que aprende análisis de datos porque la cuantificación de la incertidumbre -tan relevante en estadística clínica, como los intervalos de confianza- se explica aquí desde los cimientos, con un ejemplo simple y visual.",
       "destacado": true
@@ -74,29 +61,42 @@
       "resumen": "Towards Data Science propone planificar con un diagrama tipo Mermaid y estructuras de datos de Python cómo deben reintentarse las tareas que fallan dentro de flujos de trabajo con varios agentes de inteligencia artificial, antes de ponerse a programar. Le sirve a un médico que aprende análisis de datos como introducción al diseño de sistemas confiables con IA, pensando primero en qué puede fallar y cómo recuperarse, en vez de arrancar directo por el código.",
       "destacado": false
     },
-    "ac0f9909eca0": {
-      "resumen": "KDnuggets enumera los siete modelos de inteligencia artificial más descargados en Hugging Face, la plataforma de referencia para compartir modelos abiertos, y describe para qué sirve cada uno. Le sirve a un médico que aprende análisis de datos como mapa de orientación rápido sobre qué modelos están realmente en uso hoy, útil para elegir con cuál empezar a experimentar.",
+    "ed3483826780": {
+      "resumen": "TCTMD difunde los resultados topline (preliminares) del ensayo ORION-4, que evaluó inclisirán, un ARN de interferencia (siRNA) que reduce el colesterol LDL inhibiendo la proteína PCSK9, en pacientes con enfermedad aterosclerótica cardiovascular (ASCVD, atherosclerotic cardiovascular disease) ya establecida. Vale la pena mirarlo porque sería la primera evidencia de que inclisirán, hasta ahora solo probado para bajar el LDL, también reduce eventos cardiovasculares mayores (MACE, major adverse cardiovascular events).",
+      "destacado": false,
+      "analisis": "Diseño: Ensayo clínico (ORION-4) del que se presentan resultados \"topline\" (preliminares, por comunicado), sin detalle de aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con enfermedad aterosclerótica cardiovascular (ASCVD) establecida.\nIntervención: Inclisirán (ARN de interferencia que inhibe PCSK9) frente a un comparador no especificado en el título, probablemente placebo sobre el tratamiento hipolipemiante estándar.\nResultados: El título indica que inclisirán \"reduce\" los eventos cardiovasculares mayores (MACE), pero al ser resultados topline no hay razones de riesgo, intervalos de confianza ni valor de p disponibles.\nLimitaciones: Son datos preliminares difundidos por comunicado, sin publicación con revisión por pares ni manuscrito completo que permita juzgar la magnitud real del efecto.\nMensaje: De confirmarse en la publicación completa, sería un dato relevante para una droga que hasta ahora solo tenía evidencia de reducción de LDL y no de eventos clínicos duros; conviene esperar el artículo definitivo antes de cambiar la práctica.\nNota: análisis sin acceso al abstract."
+    },
+    "8caf92805426": {
+      "resumen": "Simon Willison, uno de los analistas más seguidos sobre inteligencia artificial aplicada a programación, repasa en esta entrada de blog tres puntos de inflexión que identificó en las capacidades de los modelos de lenguaje extenso (LLM, large language models) y los agentes de código durante los últimos doce meses, a partir de una charla que dio en una conferencia de IA. Le sirve a un médico que se está formando en análisis de datos porque ordena, con ejemplos concretos, cómo y por qué las herramientas de IA que hoy se usan para programar y analizar datos cambiaron tan rápido en tan poco tiempo.",
       "destacado": false
     },
-    "5e57d423bc79": {
-      "resumen": "Un desarrollador argumenta que los agentes basados en modelos de lenguaje (LLM, large language model) actúan primero en función de los intereses de la empresa que los creó, y no necesariamente en los del usuario que los consulta. Le sirve a un médico que aprende análisis de datos como invitación a pensar de forma crítica los límites y los incentivos ocultos de las herramientas de inteligencia artificial que use en su trabajo, sobre todo si maneja datos de pacientes.",
+    "2ed7b5c78e4d": {
+      "resumen": "Investigadores de la Universidad de Edimburgo (University of Edinburgh) difundieron hallazgos que sugieren que el riesgo de infarto y de accidente cerebrovascular (stroke) podría detectarse décadas antes de que ocurra el evento, probablemente mediante marcadores biológicos o modelos predictivos aplicados a grandes bases de datos de seguimiento a largo plazo. Le sirve a un médico que aprende análisis de datos porque ejemplifica cómo los modelos predictivos sobre cohortes longitudinales pueden anticipar el riesgo cardiovascular mucho antes de la aparición de síntomas.",
       "destacado": false
     },
-    "bbb20394b7bd": {
-      "resumen": "Towards Data Science explica, para analistas y líderes comerciales, cómo calcular el valor de vida del cliente (CLV, customer lifetime value) combinando cohortes, modelos BTYD (buy-till-you-die) y proyecciones de ingresos futuros. Le sirve a un médico que aprende análisis de datos como ejemplo trasladable de métodos de cohortes y modelos predictivos usados en negocios, parecidos a los que se usan para seguir cohortes de pacientes en el tiempo.",
+    "d6912c891482": {
+      "resumen": "Associated Press informó que un sistema no clasificado (unclassified) de la CIA (Agencia Central de Inteligencia de Estados Unidos) sufrió una brecha de seguridad en un ciberataque. Le sirve a un médico que maneja datos porque recuerda que incluso los organismos con los más altos estándares de seguridad informática pueden ser vulnerados, algo central a la hora de proteger historias clínicas electrónicas y bases de datos de investigación.",
       "destacado": false
     },
-    "a4afa49aad17": {
-      "resumen": "Se conoció el fixture completo de Los Pumas 7s para la etapa de Dubái del Circuito Mundial de rugby seven 2026-2027."
+    "4530af1ba6c2": {
+      "resumen": "OpenAI publicó que sus modelos GPT-6 muestran capacidades intrínsecas para el diseño de proteínas (protein design), es decir que sin un entrenamiento específico para bioquímica logran proponer estructuras proteicas novedosas. Le sirve a un médico que aprende análisis de datos porque ilustra cómo los modelos de lenguaje de uso general empiezan a aportar en biología molecular y podrían acelerar el descubrimiento de fármacos.",
+      "destacado": false
     },
-    "9bd6f541ad4f": {
-      "resumen": "Se difundió el cronograma completo de la temporada 2026-2027 del Circuito Mundial de seven, con la participación de Los Pumas 7s."
+    "ca7efd0c9bb9": {
+      "resumen": "PrismML presentó Bonsai 2.5, un modelo de lenguaje de 27.000 millones de parámetros (27B) que usa cuantización ternaria (ternary), una técnica que representa los pesos del modelo con solo tres valores posibles para reducir drásticamente su tamaño y el costo computacional de usarlo. Le sirve a un médico que aprende análisis de datos porque muestra la tendencia hacia modelos de IA más livianos y eficientes, que se pueden correr en una computadora común sin depender de la nube.",
+      "destacado": false
     },
-    "15a612668dbb": {
-      "resumen": "Juanse Martín, una joya de 19 años oriunda de San Juan, fue convocado a Los Pumas, la primera vez en seis años que un jugador de esa provincia vuelve al seleccionado."
+    "8dba3232b7e4": {
+      "resumen": "Los Pumas, la selección argentina de rugby, deberán hacer cambios obligados en el equipo para enfrentar a Escocia en Twickenham."
     },
-    "c63ccd5b4719": {
-      "resumen": "Se reconstruye la vida y la muerte, todavía sin esclarecer, de \"Mateíto El Ninja\", un ladrón menor de edad asesinado en Morón, con la hipótesis de que lo haya matado un justiciero."
+    "f14afa86fd75": {
+      "resumen": "Los Pumas tuvieron altas y bajas en la lista de convocados para los próximos partidos."
+    },
+    "f16a07bac6b7": {
+      "resumen": "El jugador Juan Segundo Martín Montilla fue convocado a Los Pumas para el partido ante Escocia."
+    },
+    "4ae4f8c13e49": {
+      "resumen": "Camilota contó el problema que le genera ser una figura conocida, ya que asegura que no tiene el dinero para afrontar algo que le reclaman."
     }
   }
 }

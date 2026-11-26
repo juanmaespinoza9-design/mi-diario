@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T10:05:19Z",
+  "generated_at": "2026-11-26T22:04:42Z",
   "summaries": {
     "e0b08a4e0f72": {
       "resumen": "TCTMD reporta un estudio de implementación que muestra resultados prometedores para un programa coordinado de prevención cardiovascular, orientado a abordar de forma integral los factores de riesgo de los pacientes. Vale la pena mirarlo porque los programas coordinados y multidisciplinarios son una estrategia cada vez más usada para mejorar la adherencia y el control de los factores de riesgo cardiovascular en la práctica real.",
@@ -28,26 +28,9 @@
       "destacado": false,
       "analisis": "Diseño: A partir del título parecería un estudio observacional (probablemente de cohorte) que comparó hallazgos de imagen cardíaca entre trabajadores nocturnos y no nocturnos; no se puede precisar cegamiento, número de centros ni de pacientes sin el abstract (la aleatorización no aplicaría a un diseño observacional).\nPoblación: Trabajadores expuestos a turnos nocturnos o rotativos, comparados probablemente con trabajadores de horario diurno; el título no detalla criterios de inclusión o exclusión.\nIntervención: No hay una intervención terapéutica; la exposición estudiada es el trabajo nocturno, comparado con el trabajo diurno.\nResultados: El título indica una asociación entre el trabajo nocturno y cambios cardíacos subclínicos en imágenes, pero no hay cifras de magnitud del efecto, razón de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Al ser observacional, no permite establecer causalidad; faltan datos sobre el ajuste por factores de confusión (edad, tabaquismo, sedentarismo) y sobre qué modalidad de imagen se usó.\nMensaje: Si se confirma, sumaría al trabajo nocturno como un factor de riesgo cardiovascular no tradicional a tener en cuenta, aunque se necesita el texto completo para evaluar la solidez de la asociación.\nNota: análisis sin acceso al abstract."
     },
-    "085976ebf325": {
-      "resumen": "TCTMD reporta un estudio que evaluó el uso de filtros de aire HEPA (High-Efficiency Particulate Air, filtros de alta eficiencia para partículas) en personas con prediabetes, y encontró que ayudarían a estabilizar la glucemia (el nivel de azúcar en sangre). Vale la pena mirarlo porque suma evidencia sobre cómo la calidad del aire interior y la exposición a partículas finas podrían influir en el riesgo cardiometabólico, un factor ambiental poco tenido en cuenta en la práctica diaria.",
-      "destacado": false,
-      "analisis": "Diseño: A partir del título parecería un ensayo clínico (posiblemente aleatorizado, filtro HEPA activo vs. filtro placebo o ausencia de filtro) en personas con prediabetes; no se puede precisar cegamiento, número de centros ni de pacientes sin el abstract.\nPoblación: Personas con prediabetes (glucemia alterada en ayunas o intolerancia a la glucosa) expuestas a contaminación del aire interior; el título no detalla otros criterios de inclusión o exclusión.\nIntervención: Uso de filtros de aire HEPA para reducir la exposición a partículas finas en el ambiente, frente a un comparador no especificado en el título.\nResultados: El título indica que los filtros \"ayudan a estabilizar\" la glucemia, pero no hay cifras de cambio en la glucemia, hemoglobina glicosilada, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, la duración del seguimiento ni si hubo ajuste por otros factores de riesgo metabólico (dieta, actividad física).\nMensaje: De confirmarse, sugeriría que intervenir sobre la calidad del aire interior podría ser una medida complementaria y de bajo riesgo para mejorar el control glucémico en personas con prediabetes, aunque se necesita el texto completo para evaluar la magnitud real del efecto.\nNota: análisis sin acceso al abstract."
-    },
-    "9eaaf96de547": {
-      "resumen": "Towards Data Science compara en profundidad las versiones 2.0 de DuckDB y Polars, dos motores de procesamiento de datos en memoria muy usados en ciencia de datos, con pruebas sobre bases de hasta 335 millones de registros y una diferencia de rendimiento de hasta 14 veces entre ambos en una de ellas. Le sirve a un médico que aprende análisis de datos porque ayuda a elegir qué herramienta conviene para manejar bases grandes, como historias clínicas o registros epidemiológicos, sin necesitar un servidor potente.",
-      "destacado": false
-    },
-    "1543fa89bdb2": {
-      "resumen": "KDnuggets traza una hoja de ruta para convertirse en ingeniero de seguridad en inteligencia artificial (AI security engineer) hacia 2027, combinando bases de ciberseguridad con la defensa de sistemas de aprendizaje automático (machine learning), flujos de trabajo con agentes autónomos y aplicaciones basadas en modelos de lenguaje extenso (LLM, large language models). Le sirve a un médico que aprende análisis de datos como mapa de las habilidades de seguridad que conviene conocer a medida que se trabaja con datos sensibles y herramientas de inteligencia artificial.",
-      "destacado": false
-    },
-    "f4c18a1a015f": {
-      "resumen": "Towards Data Science evalúa si dos modelos de lenguaje extenso (LLM) usados como jueces automáticos (LLM judge) -GPT-6 Luna y Claude Haiku 4.5- pueden reemplazar a evaluadores humanos al comparar respuestas de chatbots: juntos lograron 87,5% de precisión pero dejaron 21 de 33 casos para que decida una persona, y Haiku solo coincidió con los usuarios en 22 de 23 comparaciones claras. Le sirve mucho a un médico que aprende análisis de datos porque muestra, con números concretos, los límites actuales de usar inteligencia artificial para evaluar calidad en lugar de un criterio humano, algo trasladable a la validación de modelos clínicos.",
-      "destacado": true
-    },
     "6f34b9146ebd": {
       "resumen": "Un artículo de JACC (Journal of the American College of Cardiology) firmado por Sun R et al. analiza el proceso de recuperación después de una cirugía cardíaca, la heterogeneidad entre pacientes y qué factores de riesgo modificables influyen en esa recuperación. Vale la pena mirarlo porque identificar esos factores ajustables permite diseñar estrategias de rehabilitación posoperatoria más personalizadas.",
-      "destacado": true,
+      "destacado": false,
       "analisis": "Diseño: A partir del título parecería un estudio observacional (probablemente de cohorte, o un análisis secundario de una cohorte quirúrgica) que describe el proceso y la heterogeneidad de la recuperación posoperatoria; no se puede precisar aleatorización, cegamiento, número de centros ni de pacientes sin el abstract.\nPoblación: Pacientes sometidos a cirugía cardíaca (bypass coronario, cirugía valvular u otra); el título no detalla criterios de inclusión o exclusión específicos.\nIntervención: No describe una intervención terapéutica puntual; evalúa la trayectoria de recuperación posoperatoria y su asociación con factores de riesgo modificables (por ejemplo control glucémico, manejo del dolor, movilización temprana), sin un comparador explícito.\nResultados: El título indica heterogeneidad en el proceso de recuperación y la existencia de factores de riesgo modificables asociados, pero no hay cifras de incidencia, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el método usado para medir la recuperación (escalas, biomarcadores, reingresos) ni el ajuste por comorbilidades.\nMensaje: De confirmarse, reforzaría la idea de que la recuperación tras la cirugía cardíaca no es uniforme y que intervenir sobre factores modificables podría mejorar la rehabilitación posoperatoria, aunque se necesita el texto completo para cuantificar el impacto real.\nNota: análisis sin acceso al abstract."
     },
     "9b933fa53b0f": {
@@ -58,42 +41,50 @@
       "resumen": "Este artículo de JACC firmado por Krumholz HM et al. reflexiona, a modo de comentario, sobre el riesgo residual que muchas veces pasa inadvertido en la práctica clínica cardiovascular, incluso en pacientes bien tratados. Vale la pena mirarlo porque invita a repensar qué factores de riesgo se siguen subestimando más allá de los objetivos terapéuticos habituales (colesterol LDL, presión arterial, etc.).",
       "destacado": false
     },
-    "2c33c3cedb65": {
-      "resumen": "Simon Willison comparte una cita del físico y teórico de la computación Scott Aaronson, quien plantea que la inteligencia artificial no solo va a resolver problemas puntuales de complejidad computacional, sino que va a abrir todo un territorio nuevo de verdades matemáticas antes inaccesibles. Le sirve a un médico que se forma en análisis de datos para entender hacia dónde podría evolucionar el razonamiento automatizado y su impacto en la investigación científica en general.",
-      "destacado": false
+    "ed3483826780": {
+      "resumen": "TCTMD reporta los resultados preliminares (top-line) del estudio ORION-4, un ensayo clínico de desenlaces cardiovasculares (CVOT, cardiovascular outcomes trial) que evaluó inclisirán -un hipolipemiante inyectable que inhibe la síntesis de PCSK9 (proproteína convertasa subtilisina/kexina tipo 9) mediante ARN de interferencia- en pacientes con enfermedad cardiovascular aterosclerótica (ASCVD, atherosclerotic cardiovascular disease). Vale la pena mirarlo porque sería la primera evidencia de reducción de eventos clínicos duros (MACE, major adverse cardiovascular events) para inclisirán, más allá de su ya conocido efecto para bajar el colesterol LDL.",
+      "destacado": true,
+      "analisis": "Diseño: A partir del título sería un ensayo clínico de desenlaces cardiovasculares (ORION-4) que evaluó inclisirán; al tratarse de resultados preliminares (top-line) no hay precisión sobre aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con enfermedad cardiovascular aterosclerótica (ASCVD) establecida; el título no detalla otros criterios de inclusión o exclusión.\nIntervención: Inclisirán (inhibidor de PCSK9 por ARN de interferencia, de aplicación subcutánea semestral) frente a placebo, el diseño habitual de los grandes CVOT de hipolipemiantes.\nResultados: El título indica que inclisirán \"reduce\" los eventos cardiovasculares mayores (MACE) en esta población, pero al ser un comunicado de resultados preliminares no hay razón de riesgo, intervalos de confianza ni valor de p disponibles.\nLimitaciones: Al ser un anuncio top-line, falta la magnitud exacta de la reducción, la duración del seguimiento y el detalle metodológico que solo aporta la publicación completa o la presentación en congreso.\nMensaje: De confirmarse con la publicación completa, sería un hito porque sumaría a inclisirán evidencia de reducción de eventos clínicos duros, reforzando su rol en la prevención cardiovascular más allá del efecto sobre el LDL.\nNota: análisis sin acceso al abstract."
     },
-    "0452d68d8827": {
-      "resumen": "Un análisis técnico publicado en Modaic sugiere, a partir de mediciones de latencia, que el modelo de inteligencia artificial 'Jev' sería en realidad una variante del modelo abierto Qwen3.5-35B-A3B (35.000 millones de parámetros, de los cuales 3.000 millones activos por token, con arquitectura de mezcla de expertos o MoE). Le sirve a un médico que aprende análisis de datos como ejemplo de cómo se puede auditar de forma indirecta -por tiempos de respuesta- qué modelo hay detrás de un producto de inteligencia artificial, algo útil para evaluar herramientas antes de confiar en ellas.",
-      "destacado": false
+    "91b0d57339c9": {
+      "resumen": "Hacker News destaca un script de código abierto (Fuck_data_brokers.py) pensado para automatizar los pedidos de baja de datos personales ante los \"data brokers\", empresas que recopilan y venden información personal. Le sirve a un médico que se forma en análisis de datos como ejemplo práctico de automatización con Python aplicada a la privacidad, y como recordatorio del valor comercial que tienen los datos personales hoy."
     },
-    "f63f4cad1468": {
-      "resumen": "Un repositorio de GitHub difunde una versión mucho más corta de la verificación formal en Lean (un asistente de demostración matemática) de un resultado vinculado a la Hipótesis de Riemann Generalizada (GRH), que originalmente había presentado Anthropic. Le sirve a un médico que aprende análisis de datos como muestra concreta de cómo la inteligencia artificial ya colabora en demostrar y verificar matemática formal, un área con aplicaciones futuras en la validación rigurosa de modelos estadísticos.",
-      "destacado": false
+    "93138fbb4db2": {
+      "resumen": "Krebs on Security, vía Hacker News, informa que el director de tecnología de \"RansomwareHelp\" -una empresa que decía ayudar a víctimas de ransomware (secuestro de datos mediante cifrado) a negociar y pagar rescates- fue acusado formalmente de fraude electrónico (wire fraud). Le sirve a un médico que maneja datos sensibles como alerta sobre los riesgos de ciberseguridad y las zonas grises del negocio que creció alrededor de los ataques de ransomware."
     },
-    "32af7980898e": {
-      "resumen": "El diario The New York Times instruyó a sus fotógrafos a no usar la última versión de Photoshop por las herramientas de inteligencia artificial generativa que incorpora, para evitar que se alteren imágenes periodísticas. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo las instituciones ya ponen límites al uso de inteligencia artificial generativa cuando compromete la integridad de los datos o las imágenes originales, algo trasladable a la investigación clínica.",
-      "destacado": false
+    "9ca28a7fecf2": {
+      "resumen": "Hacker News comparte YouTube Ad Punisher, una herramienta de código abierto que recarga automáticamente la página de YouTube cada vez que aparece una publicidad, como forma de protesta contra los avisos. Le sirve a un médico que recién se asoma a la programación como ejemplo simple de automatización con scripts, aunque no es una herramienta pensada para análisis de datos."
     },
-    "bc2737d3be64": {
-      "resumen": "Un posteo en la lista de seguridad oss-security cuestiona los tiempos lentos de respuesta de Ubuntu (una de las distribuciones de Linux más usadas) ante el reporte de vulnerabilidades de seguridad. Le sirve a un médico que aprende análisis de datos como recordatorio de que mantener actualizados los sistemas operativos y aplicar parches de seguridad a tiempo es clave para proteger las bases de datos clínicas y de investigación que administre.",
-      "destacado": false
+    "1d45997e4997": {
+      "resumen": "Un desarrollador comparte en Hacker News parches específicos para placas de video AMD aplicados a llama.cpp, un motor de código abierto muy usado para correr modelos de lenguaje extenso (LLM, large language models) de forma local en la propia computadora. Le sirve a un médico que experimenta con inteligencia artificial en su PC porque mejora el rendimiento de estos modelos en hardware AMD, una alternativa más accesible que las placas NVIDIA."
     },
-    "f63623a09e1f": {
-      "resumen": "KDnuggets presenta Alaio Vibecode, una herramienta de 'vibe coding' (programación asistida por inteligencia artificial mediante lenguaje natural) para crear paneles de análisis (dashboards), reportes y agentes de inteligencia artificial dentro del sistema de gestión de clientes (CRM) Bitrix24, sin necesidad de programar de cero. Le sirve a un médico que aprende análisis de datos porque muestra cómo hoy se pueden armar tableros de seguimiento y reportes personalizados describiendo lo que se necesita en lenguaje simple, acercando el análisis de datos a quienes no son programadores.",
-      "destacado": false
+    "0649c178358c": {
+      "resumen": "Towards Data Science repasa un estudio sobre el uso de ChatGPT en tareas de consultoría: los consultores con más experiencia mejoraron mucho su puntaje en tareas de programación (49 puntos) usando inteligencia artificial, pero sin ganar comprensión real, mientras que los aprendices sí incorporaron conocimiento genuino. Le sirve mucho a un médico que se forma en análisis de datos porque marca una distinción clave: resolver una tarea con ayuda de inteligencia artificial no es lo mismo que aprender a resolverla uno mismo."
     },
-    "2cfbf2ae1b75": {
-      "resumen": "KDnuggets explica por qué los candidatos a puestos de datos se bloquean en entrevistas técnicas aun sabiendo la respuesta, por el efecto de la presión sobre la memoria, y propone practicar con entrevistas simuladas cronometradas para entrenar ese estrés. Le sirve a un médico que se está formando en análisis de datos y busca su primer trabajo en el área, como estrategia concreta para prepararse mejor de cara a entrevistas técnicas.",
-      "destacado": false
+    "316e60a88e0f": {
+      "resumen": "Simon Willison cita una reflexión de Jack Despain Zhou sobre cómo la inteligencia artificial generativa está generando una suerte de \"desindividualización\" cultural: el mismo estilo (por ejemplo el de Claude) aparece repetido en videos de YouTube, presentaciones y correos. Le sirve a un médico que se forma en análisis de datos para pensar de forma crítica cómo la masificación de estas herramientas homogeiniza la manera en que se comunica la información, incluida la científica."
     },
-    "7560051fcf35": {
-      "resumen": "Se confirmó el cronograma completo de las finales del Nations Championship, con las fechas y horarios en que jugará Los Pumas."
+    "290d68d93502": {
+      "resumen": "KDnuggets propone qué habilidades conviene desarrollar para que una carrera en datos no quede obsoleta a medida que los agentes de inteligencia artificial que programan de forma autónoma (coding agents) se encargan de las tareas repetitivas. Le sirve directamente a un médico en transición hacia el análisis de datos porque orienta en qué enfocar el estudio: pensamiento crítico y diseño de soluciones, no solo escribir código."
     },
-    "a255a9c64114": {
-      "resumen": "El head coach de Los Pumas, Felipe Contepomi, señaló que el partido ante Escocia servirá como una buena medida del nivel del equipo."
+    "24b1f6299b11": {
+      "resumen": "Towards Data Science explica un método simple para detectar si un modelo de lenguaje extenso (LLM) memorizó las respuestas de un examen (benchmark) en lugar de razonarlas: se mezcla el orden de las preguntas y, con dos funciones cortas de Python y una GPU gratuita de Colab, se calcula en media hora un puntaje estadístico (valor z) que delata la memorización. Le sirve mucho a un médico que aprende análisis de datos porque es una técnica concreta y reproducible para evaluar de forma crítica la fiabilidad de un modelo antes de confiar en sus resultados."
     },
-    "7c48c6d8cb6f": {
-      "resumen": "El entrenador de Escocia, Gregor Townsend, destacó el respeto que le tiene a Los Pumas antes de enfrentarlos en el Nations Championship."
+    "607bf8ac2542": {
+      "resumen": "KDnuggets repasa cinco alternativas de código abierto a OpenAI Dots para armar agentes de inteligencia artificial que funcionan de manera continua (always-on), con memoria persistente, automatización de tareas y despliegue local. Le sirve a un médico que se forma en análisis de datos como punto de partida para explorar herramientas gratuitas con las que armar asistentes propios sin depender de un proveedor pago."
+    },
+    "bef5bc320db2": {
+      "resumen": "Towards Data Science detalla paso a paso un proyecto que descarga datos de terremotos de magnitud 2,5 o mayor entre 2015 y 2025 desde el Servicio Geológico de Estados Unidos (USGS, United States Geological Survey), los limpia con la librería Pandas y los mapea, agrupa (clustering) y analiza para detectar anomalías con Cartopy, Folium y DBSCAN. Le sirve mucho a un médico que aprende análisis de datos porque es un ejemplo completo y reproducible de todo el flujo de trabajo -descarga por API, limpieza, visualización geográfica y detección de patrones- aplicable después a datos epidemiológicos o clínicos.",
+      "destacado": true
+    },
+    "9349d5c96cff": {
+      "resumen": "El wing de Los Pumas 7's está cerca de romper la marca histórica de tries de Santiago Gómez Cora y se metió en la carrera por el récord del seleccionado."
+    },
+    "40354296ae84": {
+      "resumen": "Los Pumas 7's debutan en la primera parada del Circuito Mundial de la temporada, en Dubai: los horarios y por dónde seguir el arranque."
+    },
+    "34f644a86bd9": {
+      "resumen": "Un repaso a la carrera de Santiago Gómez Cora, artífice del crecimiento de Los Pumas 7's, sus récords y el objetivo que se fijó de cara a los Juegos Olímpicos de 2028."
     }
   }
 }

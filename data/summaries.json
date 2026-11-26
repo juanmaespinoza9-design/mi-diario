@@ -1,23 +1,10 @@
 {
-  "generated_at": "2026-11-25T22:04:13Z",
+  "generated_at": "2026-11-26T10:05:19Z",
   "summaries": {
     "e0b08a4e0f72": {
       "resumen": "TCTMD reporta un estudio de implementación que muestra resultados prometedores para un programa coordinado de prevención cardiovascular, orientado a abordar de forma integral los factores de riesgo de los pacientes. Vale la pena mirarlo porque los programas coordinados y multidisciplinarios son una estrategia cada vez más usada para mejorar la adherencia y el control de los factores de riesgo cardiovascular en la práctica real.",
       "destacado": false,
       "analisis": "Diseño: Parece un estudio de registro o de implementación (quality improvement) que evaluó un programa coordinado de prevención cardiovascular; el título no precisa aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Pacientes con factores de riesgo cardiovascular incluidos en dicho programa; el título no detalla criterios de inclusión o exclusión.\nIntervención: Un programa coordinado (probablemente multidisciplinario, con seguimiento estructurado) de prevención cardiovascular, frente a la atención habitual sin ese programa.\nResultados: El título indica que el programa \"muestra promesa\" para abordar los factores de riesgo, pero no hay cifras de reducción de presión arterial, lípidos, glucemia u otros parámetros, ni razones de riesgo o intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, si hubo grupo comparador concurrente, ni el seguimiento clínico alcanzado.\nMensaje: De confirmarse con el texto completo, respaldaría el valor de los programas coordinados y multidisciplinarios para mejorar el control de los factores de riesgo cardiovascular en la práctica diaria.\nNota: análisis sin acceso al abstract."
-    },
-    "48ebf35e8374": {
-      "resumen": "Este editorial de JACC (Journal of the American College of Cardiology), firmado por Malhotra G et al., reflexiona en tono crítico sobre qué indicadores de calidad o métricas realmente importan en la práctica cardiológica, en contraposición a las que solo \"quedan bien\" en los reportes. Vale la pena mirarlo porque invita a repensar qué se mide y se publica en cardiología, más allá de los números que suelen destacarse.",
-      "destacado": false
-    },
-    "cbb826020488": {
-      "resumen": "El ensayo VICTORY comparó dos técnicas para preparar lesiones coronarias muy calcificadas antes de la angioplastia: la litotricia intravascular (IVL, intravascular lithotripsy) y los balones no distensibles de altísima presión (super-high-pressure noncompliant balloons). Vale la pena mirarlo porque la calcificación coronaria severa complica el implante de stents y todavía no está claro cuál de estas dos estrategias, ambas disponibles en la sala de hemodinamia, ofrece mejores resultados.",
-      "destacado": true,
-      "analisis": "Diseño: Ensayo clínico (VICTORY trial); el título no precisa si es aleatorizado, el tipo de cegamiento, ni el número de centros o de pacientes sin acceso al abstract completo.\nPoblación: Pacientes con enfermedad coronaria y lesiones calcificadas candidatos a angioplastia percutánea.\nIntervención: Litotricia intravascular (IVL) frente a balones no distensibles de altísima presión (super-high-pressure noncompliant balloons) como estrategia de preparación de la lesión antes del implante del stent.\nResultados: El título no incluye cifras de éxito del procedimiento, expansión del stent ni complicaciones; no hay razones de riesgo, intervalos de confianza ni valor de p disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el criterio de valoración principal elegido ni el seguimiento clínico alcanzado.\nMensaje: Compara dos herramientas ya usadas en la práctica para lesiones calcificadas, por lo que sus resultados podrían ayudar a elegir la estrategia de preparación más costo-efectiva o más segura en cada caso, aunque la confirmación definitiva requiere leer el texto completo.\nNota: análisis sin acceso al abstract."
-    },
-    "22d32d6fd679": {
-      "resumen": "Este editorial de JACC, firmado por Krumholz HM et al., plantea una reflexión sobre la insatisfacción persistente en medicina frente a los avances terapéuticos y los resultados obtenidos. Vale la pena mirarlo porque invita a pensar de forma crítica cómo se interpretan los logros y las limitaciones de los tratamientos cardiovasculares actuales.",
-      "destacado": false
     },
     "92a4462a4d9b": {
       "resumen": "Este documento de postura (2026 ACC Scientific Statement) del Colegio Americano de Cardiología, firmado por Greenland P et al., revisa las estrategias para bajar el colesterol (lipid-lowering) en la era de la detección temprana de aterosclerosis, por ejemplo mediante el score de calcio coronario o la detección de placa subclínica. Vale la pena mirarlo porque resume cómo debería ajustarse el tratamiento hipolipemiante cuando se detecta enfermedad coronaria incipiente antes de que aparezcan síntomas.",
@@ -41,18 +28,6 @@
       "destacado": false,
       "analisis": "Diseño: A partir del título parecería un estudio observacional (probablemente de cohorte) que comparó hallazgos de imagen cardíaca entre trabajadores nocturnos y no nocturnos; no se puede precisar cegamiento, número de centros ni de pacientes sin el abstract (la aleatorización no aplicaría a un diseño observacional).\nPoblación: Trabajadores expuestos a turnos nocturnos o rotativos, comparados probablemente con trabajadores de horario diurno; el título no detalla criterios de inclusión o exclusión.\nIntervención: No hay una intervención terapéutica; la exposición estudiada es el trabajo nocturno, comparado con el trabajo diurno.\nResultados: El título indica una asociación entre el trabajo nocturno y cambios cardíacos subclínicos en imágenes, pero no hay cifras de magnitud del efecto, razón de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Al ser observacional, no permite establecer causalidad; faltan datos sobre el ajuste por factores de confusión (edad, tabaquismo, sedentarismo) y sobre qué modalidad de imagen se usó.\nMensaje: Si se confirma, sumaría al trabajo nocturno como un factor de riesgo cardiovascular no tradicional a tener en cuenta, aunque se necesita el texto completo para evaluar la solidez de la asociación.\nNota: análisis sin acceso al abstract."
     },
-    "2f743340bfe2": {
-      "resumen": "KDnuggets explica paso a paso cómo correr de forma local, en una placa de video RTX 3090, el modelo de lenguaje Inkling 2 Mini usando Unsloth Studio, una herramienta que facilita el ajuste y la ejecución de modelos de inteligencia artificial sin depender de la nube. Le sirve a un médico que aprende análisis de datos como guía práctica para experimentar con modelos de IA propios, manteniendo el control de los datos sin mandarlos a servidores externos.",
-      "destacado": false
-    },
-    "c808d58c8ec4": {
-      "resumen": "Simon Willison cuenta cómo GPT-6.2 Astra, la última versión del modelo de OpenAI, fue usado para resolver un misterio histórico, mostrando su capacidad de razonar sobre fuentes y evidencia dispersa. Le sirve a un médico que aprende análisis de datos como ejemplo concreto de hasta dónde puede llegar el razonamiento de los modelos de lenguaje actuales al combinar datos de distintas fuentes, una habilidad trasladable a la investigación clínica.",
-      "destacado": false
-    },
-    "8caf92805426": {
-      "resumen": "Simon Willison, uno de los analistas más seguidos sobre inteligencia artificial aplicada a programación, repasa en esta entrada de blog tres puntos de inflexión que identificó en las capacidades de los modelos de lenguaje extenso (LLM, large language models) y los agentes de código durante los últimos doce meses, a partir de una charla que dio en una conferencia de IA. Le sirve a un médico que se está formando en análisis de datos porque ordena, con ejemplos concretos, cómo y por qué las herramientas de IA que hoy se usan para programar y analizar datos cambiaron tan rápido en tan poco tiempo.",
-      "destacado": false
-    },
     "085976ebf325": {
       "resumen": "TCTMD reporta un estudio que evaluó el uso de filtros de aire HEPA (High-Efficiency Particulate Air, filtros de alta eficiencia para partículas) en personas con prediabetes, y encontró que ayudarían a estabilizar la glucemia (el nivel de azúcar en sangre). Vale la pena mirarlo porque suma evidencia sobre cómo la calidad del aire interior y la exposición a partículas finas podrían influir en el riesgo cardiometabólico, un factor ambiental poco tenido en cuenta en la práctica diaria.",
       "destacado": false,
@@ -70,30 +45,55 @@
       "resumen": "Towards Data Science evalúa si dos modelos de lenguaje extenso (LLM) usados como jueces automáticos (LLM judge) -GPT-6 Luna y Claude Haiku 4.5- pueden reemplazar a evaluadores humanos al comparar respuestas de chatbots: juntos lograron 87,5% de precisión pero dejaron 21 de 33 casos para que decida una persona, y Haiku solo coincidió con los usuarios en 22 de 23 comparaciones claras. Le sirve mucho a un médico que aprende análisis de datos porque muestra, con números concretos, los límites actuales de usar inteligencia artificial para evaluar calidad en lugar de un criterio humano, algo trasladable a la validación de modelos clínicos.",
       "destacado": true
     },
-    "ffad66169d8c": {
-      "resumen": "Un desarrollador reconstruyó por ingeniería inversa (reverse-engineered) el algoritmo de ecualización de volumen (loudness equalization) de Windows y lo migró a PipeWire, el sistema de audio de Linux. Le aporta a un médico que aprende análisis de datos un ejemplo concreto de cómo se diseca el comportamiento de un sistema cerrado a partir de su salida observable, una lógica parecida a la ingeniería inversa de modelos o algoritmos con los que puede toparse al analizar datos.",
+    "6f34b9146ebd": {
+      "resumen": "Un artículo de JACC (Journal of the American College of Cardiology) firmado por Sun R et al. analiza el proceso de recuperación después de una cirugía cardíaca, la heterogeneidad entre pacientes y qué factores de riesgo modificables influyen en esa recuperación. Vale la pena mirarlo porque identificar esos factores ajustables permite diseñar estrategias de rehabilitación posoperatoria más personalizadas.",
+      "destacado": true,
+      "analisis": "Diseño: A partir del título parecería un estudio observacional (probablemente de cohorte, o un análisis secundario de una cohorte quirúrgica) que describe el proceso y la heterogeneidad de la recuperación posoperatoria; no se puede precisar aleatorización, cegamiento, número de centros ni de pacientes sin el abstract.\nPoblación: Pacientes sometidos a cirugía cardíaca (bypass coronario, cirugía valvular u otra); el título no detalla criterios de inclusión o exclusión específicos.\nIntervención: No describe una intervención terapéutica puntual; evalúa la trayectoria de recuperación posoperatoria y su asociación con factores de riesgo modificables (por ejemplo control glucémico, manejo del dolor, movilización temprana), sin un comparador explícito.\nResultados: El título indica heterogeneidad en el proceso de recuperación y la existencia de factores de riesgo modificables asociados, pero no hay cifras de incidencia, razones de riesgo ni intervalos de confianza disponibles sin el abstract.\nLimitaciones: Sin abstract no se puede evaluar el tamaño de la muestra, el método usado para medir la recuperación (escalas, biomarcadores, reingresos) ni el ajuste por comorbilidades.\nMensaje: De confirmarse, reforzaría la idea de que la recuperación tras la cirugía cardíaca no es uniforme y que intervenir sobre factores modificables podría mejorar la rehabilitación posoperatoria, aunque se necesita el texto completo para cuantificar el impacto real.\nNota: análisis sin acceso al abstract."
+    },
+    "9b933fa53b0f": {
+      "resumen": "Un artículo de JACC firmado por Nurmohamed NS et al., planteado a modo de revisión/perspectiva ('Seeing Is Believing'), repasa el potencial de la tomografía computada (TC) coronaria para detectar enfermedad cardiovascular temprana en personas aparentemente sanas pero con factores de riesgo. Vale la pena mirarlo porque resume el rol creciente de la imagen coronaria no invasiva en la prevención cardiovascular primaria, antes de que aparezcan síntomas.",
       "destacado": false
     },
-    "9a9294d39772": {
-      "resumen": "Un proyecto publicado en Hacker News recopila viejas demos técnicas de Nvidia y ATI, de placas de video de los años 90 y 2000, y las hace correr de nuevo directamente en el navegador. Le sirve a un médico que aprende análisis de datos más como una curiosidad sobre emulación de hardware antiguo en la web que como una herramienta aplicable a su trabajo diario.",
+    "ba99d2c8a8e6": {
+      "resumen": "Este artículo de JACC firmado por Krumholz HM et al. reflexiona, a modo de comentario, sobre el riesgo residual que muchas veces pasa inadvertido en la práctica clínica cardiovascular, incluso en pacientes bien tratados. Vale la pena mirarlo porque invita a repensar qué factores de riesgo se siguen subestimando más allá de los objetivos terapéuticos habituales (colesterol LDL, presión arterial, etc.).",
       "destacado": false
     },
-    "e6d5f2bd76ba": {
-      "resumen": "Investigadores de seguridad de Intruder mostraron cómo lograron tomar control de subdominios abandonados del Tesoro de Estados Unidos (US Treasury) por apenas 3 dólares cada uno, aprovechando registros DNS mal configurados. Le sirve a un médico que aprende análisis de datos como recordatorio de que la seguridad de la infraestructura web -dominios, DNS, certificados- es tan importante como la de las bases de datos a la hora de proteger información sensible.",
+    "2c33c3cedb65": {
+      "resumen": "Simon Willison comparte una cita del físico y teórico de la computación Scott Aaronson, quien plantea que la inteligencia artificial no solo va a resolver problemas puntuales de complejidad computacional, sino que va a abrir todo un territorio nuevo de verdades matemáticas antes inaccesibles. Le sirve a un médico que se forma en análisis de datos para entender hacia dónde podría evolucionar el razonamiento automatizado y su impacto en la investigación científica en general.",
       "destacado": false
     },
-    "7579fd805705": {
-      "resumen": "El creador de Marginalia Search, un motor de búsqueda independiente, repasa en su blog el estado financiero del proyecto y sus decisiones técnicas recientes, incluyendo el uso de C++, Rust e inteligencia artificial. Le sirve a un médico que aprende análisis de datos como testimonio real de cuánto esfuerzo de ingeniería e infraestructura hace falta para sostener un proyecto de datos a gran escala por fuera de las grandes empresas.",
+    "0452d68d8827": {
+      "resumen": "Un análisis técnico publicado en Modaic sugiere, a partir de mediciones de latencia, que el modelo de inteligencia artificial 'Jev' sería en realidad una variante del modelo abierto Qwen3.5-35B-A3B (35.000 millones de parámetros, de los cuales 3.000 millones activos por token, con arquitectura de mezcla de expertos o MoE). Le sirve a un médico que aprende análisis de datos como ejemplo de cómo se puede auditar de forma indirecta -por tiempos de respuesta- qué modelo hay detrás de un producto de inteligencia artificial, algo útil para evaluar herramientas antes de confiar en ellas.",
       "destacado": false
     },
-    "fb86d09e4d61": {
-      "resumen": "ESPN analiza la probable formación de Escocia, dirigida por Gregor Townsend, para el partido ante Los Pumas."
+    "f63f4cad1468": {
+      "resumen": "Un repositorio de GitHub difunde una versión mucho más corta de la verificación formal en Lean (un asistente de demostración matemática) de un resultado vinculado a la Hipótesis de Riemann Generalizada (GRH), que originalmente había presentado Anthropic. Le sirve a un médico que aprende análisis de datos como muestra concreta de cómo la inteligencia artificial ya colabora en demostrar y verificar matemática formal, un área con aplicaciones futuras en la validación rigurosa de modelos estadísticos.",
+      "destacado": false
     },
-    "80d1c13b685e": {
-      "resumen": "Se definieron los equipos campeones de la categoría Menores de 17 del Grupo I de la URBA (Unión de Rugby de Buenos Aires)."
+    "32af7980898e": {
+      "resumen": "El diario The New York Times instruyó a sus fotógrafos a no usar la última versión de Photoshop por las herramientas de inteligencia artificial generativa que incorpora, para evitar que se alteren imágenes periodísticas. Le sirve a un médico que aprende análisis de datos como ejemplo de cómo las instituciones ya ponen límites al uso de inteligencia artificial generativa cuando compromete la integridad de los datos o las imágenes originales, algo trasladable a la investigación clínica.",
+      "destacado": false
     },
-    "39fb083f2765": {
-      "resumen": "El irlandés Dan Sheehan fue suspendido por dos fechas y se perderá el partido final de su gira ante los Wallabies (Australia)."
+    "bc2737d3be64": {
+      "resumen": "Un posteo en la lista de seguridad oss-security cuestiona los tiempos lentos de respuesta de Ubuntu (una de las distribuciones de Linux más usadas) ante el reporte de vulnerabilidades de seguridad. Le sirve a un médico que aprende análisis de datos como recordatorio de que mantener actualizados los sistemas operativos y aplicar parches de seguridad a tiempo es clave para proteger las bases de datos clínicas y de investigación que administre.",
+      "destacado": false
+    },
+    "f63623a09e1f": {
+      "resumen": "KDnuggets presenta Alaio Vibecode, una herramienta de 'vibe coding' (programación asistida por inteligencia artificial mediante lenguaje natural) para crear paneles de análisis (dashboards), reportes y agentes de inteligencia artificial dentro del sistema de gestión de clientes (CRM) Bitrix24, sin necesidad de programar de cero. Le sirve a un médico que aprende análisis de datos porque muestra cómo hoy se pueden armar tableros de seguimiento y reportes personalizados describiendo lo que se necesita en lenguaje simple, acercando el análisis de datos a quienes no son programadores.",
+      "destacado": false
+    },
+    "2cfbf2ae1b75": {
+      "resumen": "KDnuggets explica por qué los candidatos a puestos de datos se bloquean en entrevistas técnicas aun sabiendo la respuesta, por el efecto de la presión sobre la memoria, y propone practicar con entrevistas simuladas cronometradas para entrenar ese estrés. Le sirve a un médico que se está formando en análisis de datos y busca su primer trabajo en el área, como estrategia concreta para prepararse mejor de cara a entrevistas técnicas.",
+      "destacado": false
+    },
+    "7560051fcf35": {
+      "resumen": "Se confirmó el cronograma completo de las finales del Nations Championship, con las fechas y horarios en que jugará Los Pumas."
+    },
+    "a255a9c64114": {
+      "resumen": "El head coach de Los Pumas, Felipe Contepomi, señaló que el partido ante Escocia servirá como una buena medida del nivel del equipo."
+    },
+    "7c48c6d8cb6f": {
+      "resumen": "El entrenador de Escocia, Gregor Townsend, destacó el respeto que le tiene a Los Pumas antes de enfrentarlos en el Nations Championship."
     }
   }
 }

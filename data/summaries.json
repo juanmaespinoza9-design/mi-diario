@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T22:03:33Z",
+  "generated_at": "2026-11-28T10:05:41Z",
   "summaries": {
     "92a4462a4d9b": {
       "resumen": "Este documento de postura (2026 ACC Scientific Statement) del Colegio Americano de Cardiología, firmado por Greenland P et al., revisa las estrategias para bajar el colesterol (lipid-lowering) en la era de la detección temprana de aterosclerosis, por ejemplo mediante el score de calcio coronario o la detección de placa subclínica. Vale la pena mirarlo porque resume cómo debería ajustarse el tratamiento hipolipemiante cuando se detecta enfermedad coronaria incipiente antes de que aparezcan síntomas.",
@@ -22,14 +22,6 @@
       "resumen": "Este artículo de JACC firmado por Krumholz HM et al. reflexiona, a modo de comentario, sobre el riesgo residual que muchas veces pasa inadvertido en la práctica clínica cardiovascular, incluso en pacientes bien tratados. Vale la pena mirarlo porque invita a repensar qué factores de riesgo se siguen subestimando más allá de los objetivos terapéuticos habituales (colesterol LDL, presión arterial, etc.).",
       "destacado": false
     },
-    "0649c178358c": {
-      "resumen": "Towards Data Science repasa un estudio sobre el uso de ChatGPT en tareas de consultoría: los consultores con más experiencia mejoraron mucho su puntaje en tareas de programación (49 puntos) usando inteligencia artificial, pero sin ganar comprensión real, mientras que los aprendices sí incorporaron conocimiento genuino. Le sirve mucho a un médico que se forma en análisis de datos porque marca una distinción clave: resolver una tarea con ayuda de inteligencia artificial no es lo mismo que aprender a resolverla uno mismo.",
-      "destacado": false
-    },
-    "316e60a88e0f": {
-      "resumen": "Simon Willison cita una reflexión de Jack Despain Zhou sobre cómo la inteligencia artificial generativa está generando una suerte de \"desindividualización\" cultural: el mismo estilo (por ejemplo el de Claude) aparece repetido en videos de YouTube, presentaciones y correos. Le sirve a un médico que se forma en análisis de datos para pensar de forma crítica cómo la masificación de estas herramientas homogeiniza la manera en que se comunica la información, incluida la científica.",
-      "destacado": false
-    },
     "0123ee4fb16d": {
       "resumen": "Towards Data Science publica un benchmark con los modelos de lenguaje extenso (LLM, large language model) Qwen3 y Llama corridos en llama.cpp, que muestra que la decodificación especulativa (speculative decoding, una técnica que usa un modelo \"borrador\" más chico para anticipar tokens) acelera hasta 1,7 veces la generación de código, JSON y llamadas a herramientas (tool calls), aunque sin un caché los bucles de agentes corrieron un 6% más lento. Le sirve a un médico que se forma en análisis de datos para entender que, al armar agentes de inteligencia artificial propios, el diseño del caché pesa tanto como el modelo elegido.",
       "destacado": false
@@ -38,41 +30,68 @@
       "resumen": "Towards Data Science compara dos formas de que un agente de inteligencia artificial use herramientas externas: \"code mode\" (el modelo escribe código que orquesta las llamadas) contra el \"tool calling\" tradicional (invocar una herramienta por vez). Con más de 16 herramientas disponibles, como en integraciones de protocolo de contexto de modelo (MCP, model context protocol), code mode resultó 120 veces más barato y 18 veces más rápido en tareas de 100 ítems, aunque menos confiable en consultas puntuales. Le sirve a un médico que aprende análisis de datos porque anticipa qué enfoque conviene según la escala del problema al construir sus propios flujos automatizados.",
       "destacado": true
     },
-    "e15c479abbf2": {
-      "resumen": "Hacker News destaca que la Comisión Europea declaró a la competencia entre navegadores como prioridad dentro de la Ley de Mercados Digitales (DMA, Digital Markets Act), la normativa que busca limitar el poder de las grandes plataformas tecnológicas. Le sirve a un médico que se forma en datos como contexto regulatorio: las reglas sobre interoperabilidad también condicionan cómo las empresas tecnológicas recolectan y comparten información de navegación.",
+    "91293a75a540": {
+      "resumen": "TCTMD publica una nota necrológica en homenaje al doctor Thomas F. O'Shea, cardiólogo intervencionista reconocido en la comunidad de la especialidad. Vale la pena mirarlo como reconocimiento a su trayectoria y aporte al campo, aunque no es un artículo científico ni reporta resultados de investigación.",
       "destacado": false
     },
-    "48b0d8d3f8ca": {
-      "resumen": "Hacker News resalta un proyecto que explora qué pasa cuando distintos asistentes de inteligencia artificial conversan entre sí en un chat grupal, sin supervisión humana directa. Le sirve a un médico que aprende análisis de datos para pensar de forma crítica sobre la autonomía de los agentes de inteligencia artificial y los riesgos de dejarlos interactuar sin control.",
+    "876e83b45741": {
+      "resumen": "TCTMD repasa, a partir de la experiencia de varios centros, cómo armar un programa de trasplante cardíaco con donantes en muerte circulatoria (DCD, donation after circulatory death), una alternativa que amplía el pool de donantes frente al donante en muerte cerebral tradicional. Vale la pena mirarlo porque resume lecciones prácticas de implementación, aunque es una nota de experiencia clínica y no un estudio con resultados cuantitativos propios.",
       "destacado": false
     },
-    "432d25ec95ea": {
-      "resumen": "Hacker News comparte la convocatoria al \"Buy Nothing Day\" (\"Día de no comprar nada\"), una campaña anual de consumo responsable que cae el viernes después de Acción de Gracias, en contraposición al Black Friday. No tiene relación directa con datos o inteligencia artificial, pero aparece entre lo más votado del día como lectura de pausa sobre consumo y tecnología.",
+    "6f6435c7d658": {
+      "resumen": "TCTMD hace un resumen (wrap-up) de las novedades presentadas en el congreso TCT 2026 (Transcatheter Cardiovascular Therapeutics), el encuentro de referencia en cardiología intervencionista. Vale la pena mirarlo como panorama rápido de las principales presentaciones y tendencias del año, aunque es una nota periodística de cobertura y no un estudio original.",
       "destacado": false
     },
-    "81154d73de31": {
-      "resumen": "Hacker News difunde un ensayo que plantea la necesidad de un lenguaje de programación de uso masivo que permita verificación formal, es decir demostrar matemáticamente que un programa cumple ciertas propiedades antes de ejecutarlo. Le sirve a un médico que se forma en análisis de datos para conocer un debate de fondo en la ingeniería de software: cuánta confianza darle al código que procesa datos sensibles, como los clínicos, sin verificación matemática de por medio.",
+    "172a0772dbfd": {
+      "resumen": "TCTMD reporta un estudio que vincula el trabajo nocturno con cambios subclínicos en el corazón detectados por imágenes (probablemente ecocardiograma o resonancia cardíaca), es decir alteraciones estructurales o funcionales tempranas sin síntomas. Vale la pena mirarlo porque suma evidencia sobre el impacto cardiovascular de los horarios de trabajo no convencionales, un factor de riesgo laboral poco explorado.",
+      "destacado": false,
+      "analisis": "Diseño: Según el título se trataría de un estudio observacional (probablemente transversal o de cohorte) que compara hallazgos de imagen cardíaca entre trabajadores nocturnos y no nocturnos; sin el abstract no se puede precisar aleatorización, cegamiento, número de centros ni de pacientes.\nPoblación: Trabajadores activos, presumiblemente sin enfermedad cardiovascular establecida, estratificados según si realizan trabajo nocturno o turnos rotativos; el título no detalla criterios de inclusión o exclusión específicos.\nIntervención: No hay una intervención terapéutica; se compara la exposición al trabajo nocturno (probablemente turnos rotativos o nocturnos fijos) contra el trabajo diurno como \"comparador\".\nResultados: El título indica una asociación entre trabajo nocturno y cambios cardíacos subclínicos en imagen, pero no hay cifras (prevalencia, odds ratio, intervalos de confianza) disponibles sin el abstract.\nLimitaciones: Sin el texto completo no se puede evaluar el tamaño muestral, el ajuste por factores de confusión (tabaquismo, sedentarismo, apnea del sueño) ni si el diseño permite establecer causalidad.\nMensaje: De confirmarse con más detalle, reforzaría la idea de incorporar el horario laboral como variable a interrogar en la historia clínica cardiovascular, aunque se necesita el estudio completo para evaluar la magnitud real del riesgo.\nNota: análisis sin acceso al abstract."
+    },
+    "e0b08a4e0f72": {
+      "resumen": "TCTMD describe los resultados preliminares de un programa coordinado de prevención cardiovascular, orientado a abordar de manera integrada factores de riesgo como hipertensión, dislipemia, tabaquismo y sedentarismo. Vale la pena mirarlo porque ejemplifica cómo una estrategia organizada y multidisciplinaria podría mejorar el control de los factores de riesgo en la práctica real, más allá del consultorio individual.",
+      "destacado": false,
+      "analisis": "Diseño: El título sugiere un estudio de implementación o cuasi-experimental (probablemente antes-después o un programa evaluado en un registro), sin que se pueda precisar aleatorización, cegamiento, número de centros ni de pacientes sin el abstract.\nPoblación: Pacientes con riesgo cardiovascular elevado o factores de riesgo ya identificados, incluidos en un programa de prevención coordinado entre distintos niveles de atención; no se detallan criterios de inclusión o exclusión específicos en el título.\nIntervención: Un programa coordinado (probablemente multidisciplinario, con enfermería, nutrición y seguimiento estructurado) para abordar factores de riesgo cardiovascular, comparado presumiblemente contra la atención habitual.\nResultados: El título habla de resultados \"promisorios\" en el abordaje de factores de riesgo, pero no hay cifras concretas (reducción de presión arterial, LDL, tasas de abandono del tabaco) disponibles sin el abstract.\nLimitaciones: Sin el texto completo no se puede evaluar el tamaño de la muestra, la duración del seguimiento ni si hubo un grupo control adecuado para atribuir la mejora al programa y no a otros factores.\nMensaje: Si los resultados se confirman con datos robustos, respaldaría la adopción de programas de prevención coordinados como estrategia costo-efectiva, aunque la palabra \"promesa\" en el título sugiere que todavía son datos preliminares.\nNota: análisis sin acceso al abstract."
+    },
+    "db761872b666": {
+      "resumen": "Hacker News destaca Unkernel, un proyecto que logra compilar un kernel de Linux real a WebAssembly (un formato de código portátil que corre en el navegador o en entornos aislados), permitiendo ejecutar un sistema operativo completo dentro de un sandbox liviano. No es una herramienta de análisis de datos en sí, pero le sirve a un médico que se forma en la disciplina como ejemplo de cómo la virtualización liviana facilita correr entornos de análisis reproducibles sin depender de la infraestructura local.",
       "destacado": false
     },
-    "9a5f91905dab": {
-      "resumen": "Simon Willison repasa sqlite3_rsync, una herramienta que permite copiar o sincronizar remotamente bases de datos SQLite (un motor de base de datos liviano, muy usado en proyectos chicos de análisis de datos) sin transferir el archivo completo cada vez. Le sirve a un médico que aprende análisis de datos porque SQLite es una opción simple y gratuita para guardar y consultar sets de datos propios, y esta herramienta facilita respaldarlos o moverlos entre máquinas.",
+    "e3cf59bccd33": {
+      "resumen": "Hacker News recoge la noticia de que se cancelaron los Atari Homebrew Awards, un reconocimiento anual a desarrolladores aficionados que siguen creando juegos para consolas Atari clásicas. No tiene relación con datos o inteligencia artificial; aparece simplemente entre lo más votado del día en esa comunidad tecnológica.",
       "destacado": false
     },
-    "7822140280bf": {
-      "resumen": "Simon Willison comenta una nota sobre cómo el diario The New York Times les pidió a sus fotógrafos no actualizar Photoshop por las nuevas funciones de inteligencia artificial generativa integradas, que podrían alterar la autenticidad de las imágenes periodísticas. Le sirve a un médico que se forma en datos e inteligencia artificial para pensar en los problemas de integridad y trazabilidad que trae la IA generativa, algo también relevante para la integridad de los datos clínicos y de investigación.",
+    "c91c032e5231": {
+      "resumen": "Simon Willison anuncia la versión 0.4a0 de datasette-charts, un complemento (plugin) para Datasette —su herramienta para explorar bases de datos SQLite vía web— que ahora permite que otros plugins definan nuevos tipos de gráficos. Le sirve a un médico que aprende análisis de datos porque Datasette es una forma simple de publicar y explorar sets de datos propios sin programar un backend desde cero.",
       "destacado": false
     },
-    "49c839aa12f6": {
-      "resumen": "Repaso de la jornada deportiva: se coronó un campeón en el fútbol de Mar del Plata, mientras Los Pumas y Estudiantes buscan la gloria en Montevideo."
+    "bcf32450cab1": {
+      "resumen": "Hacker News repercute un desarrollo de Google llamado DeepCrossAttention, una modificación de las conexiones residuales (residual connections, un componente clave de las redes neuronales tipo transformer) que logra la misma calidad de modelo hasta tres veces más rápido. Le sirve a un médico que se forma en inteligencia artificial para entender que buena parte de los avances actuales no son solo \"modelos más grandes\" sino mejoras de eficiencia en la arquitectura interna.",
+      "destacado": false
     },
-    "0304e6e6281f": {
-      "resumen": "Ya está confirmada la formación de Los Pumas para el partido ante Escocia, por el séptimo puesto del Nations Championship."
+    "edf4fd492324": {
+      "resumen": "Hacker News comparte Tabernetes, un proyecto humorístico que simula un clúster de Kubernetes (el orquestador de contenedores más usado en infraestructura) usando pestañas de navegador como si fueran nodos de cómputo. No tiene una aplicación práctica para el análisis de datos, pero ilustra de forma lúdica cómo funciona la orquestación distribuida de tareas, un concepto de fondo en el procesamiento de datos a gran escala.",
+      "destacado": false
     },
-    "32b48c268b79": {
-      "resumen": "Los Pumas cerrarán el año con un partido frente a Escocia, en el estadio de Twickenham."
+    "4a8254fd892d": {
+      "resumen": "KDnuggets presenta un pipeline de dos etapas que combina clustering no supervisado (agrupamiento de documentos sin etiquetas previas) con descubrimiento de temas asistido por modelos de lenguaje extenso (LLM, large language model), usando las herramientas de resumen de Scikit-LLM. Le sirve a un médico que aprende análisis de datos porque muestra cómo agrupar y resumir automáticamente grandes volúmenes de texto, por ejemplo historias clínicas o literatura científica, sin necesidad de clasificarlas a mano de antemano.",
+      "destacado": false
     },
-    "c4f1b2c78679": {
-      "resumen": "Un soldado extranjero que combate en Ucrania relata en una carta a su familia el horror cotidiano de la guerra."
+    "0af74f1c0b68": {
+      "resumen": "KDnuggets recopila diez repositorios de GitHub para aprender a construir, entrenar, ajustar (fine-tuning), desplegar y evaluar modelos de decisión basados en inteligencia artificial. Le sirve a un médico que se forma en análisis de datos como punto de partida práctico con código real para entender cómo se construyen modelos que apoyan la toma de decisiones, un enfoque cercano a los scores de riesgo clínico.",
+      "destacado": false
+    },
+    "6481e9f2df71": {
+      "resumen": "Simon Willison anuncia la versión 0.4 de datasette-mcp, que corrige la compatibilidad con la nueva versión de Datasette y permite conectar bases de datos a asistentes de inteligencia artificial mediante el protocolo de contexto de modelo (MCP, model context protocol). Le sirve a un médico que aprende análisis de datos porque muestra cómo un asistente de inteligencia artificial puede consultar directamente una base de datos propia para responder preguntas, sin necesidad de escribir cada consulta a mano.",
+      "destacado": false
+    },
+    "f3754e90a3d1": {
+      "resumen": "Los Pumas 7s arrancan su participación en el Circuito Mundial de rugby seven con el debut en la etapa de Dubai, en la madrugada del sábado."
+    },
+    "cc5e5c3c0a78": {
+      "resumen": "Gales y los Brave Blossoms de Japón se cruzan para definir quién termina noveno en la clasificación del torneo."
+    },
+    "bb5791353558": {
+      "resumen": "Inglaterra y Nueva Zelanda se enfrentan por el tercer puesto del Nations Championship."
     }
   }
 }
